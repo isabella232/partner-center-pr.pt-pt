@@ -1,0 +1,84 @@
+---
+title: Vender a indústrias especializadas
+description: Conheça os preços especiais e reduzidos da Microsoft para determinados grupos de clientes, incluindo clientes de educação, clientes sem fins lucrativos e utilizadores do governo.
+ms.topic: how-to
+ms.date: 06/05/2020
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
+author: alikhaki
+ms.author: alikhaki
+ms.localizationpriority: medium
+ms.custom: SEOMAY.20
+ms.openlocfilehash: c25bafc4b152ce0ca205860b3692293aaadf3636
+ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.translationtype: MT
+ms.contentlocale: pt-PT
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "92529636"
+---
+# <a name="sell-to-specialized-industries-like-education-non-profit-and-government-users"></a><span data-ttu-id="5494c-103">Vender a indústrias especializadas como utilizadores de educação, sem fins lucrativos e governamentais</span><span class="sxs-lookup"><span data-stu-id="5494c-103">Sell to specialized industries like education, non-profit, and government users</span></span>
+
+<span data-ttu-id="5494c-104">**Aplica-se a**</span><span class="sxs-lookup"><span data-stu-id="5494c-104">**Applies to**</span></span>
+
+- <span data-ttu-id="5494c-105">Partner Center</span><span class="sxs-lookup"><span data-stu-id="5494c-105">Partner Center</span></span>
+
+<span data-ttu-id="5494c-106">**Funções adequadas**</span><span class="sxs-lookup"><span data-stu-id="5494c-106">**Appropriate roles**</span></span>
+
+- <span data-ttu-id="5494c-107">Administrador global</span><span class="sxs-lookup"><span data-stu-id="5494c-107">Global admin</span></span>
+- <span data-ttu-id="5494c-108">Agente administrativo</span><span class="sxs-lookup"><span data-stu-id="5494c-108">Admin agent</span></span>
+- <span data-ttu-id="5494c-109">Agente comercial</span><span class="sxs-lookup"><span data-stu-id="5494c-109">Sales agent</span></span>
+
+<span data-ttu-id="5494c-110">A Microsoft fornece preços especiais e reduzidos para grupos selecionados de clientes, incluindo clientes de educação, clientes sem fins lucrativos, pequenas empresas e entidades governamentais.</span><span class="sxs-lookup"><span data-stu-id="5494c-110">Microsoft provides special, reduced pricing for select groups of customers, including education customers, non-profit customers, small businesses, and government entities.</span></span> <span data-ttu-id="5494c-111">Tanto você como o seu cliente devem ser qualificados antes de lhes oferecer preços especiais.</span><span class="sxs-lookup"><span data-stu-id="5494c-111">Both you and your customer must be qualified before you can offer them special pricing.</span></span> 
+
+## <a name="requirements-to-sell-to-specialized-industries"></a><span data-ttu-id="5494c-112">Requisitos para vender a indústrias especializadas</span><span class="sxs-lookup"><span data-stu-id="5494c-112">Requirements to sell to specialized industries</span></span>
+
+|<span data-ttu-id="5494c-113">**Preços especiais**</span><span class="sxs-lookup"><span data-stu-id="5494c-113">**Special pricing**</span></span>   |<span data-ttu-id="5494c-114">**Revendedor exigiu qualificações**</span><span class="sxs-lookup"><span data-stu-id="5494c-114">**Reseller required qualifications**</span></span>   |<span data-ttu-id="5494c-115">**Qualificações exigidas pelo cliente**</span><span class="sxs-lookup"><span data-stu-id="5494c-115">**Customer required qualifications**</span></span>   |
+|----------------------------|:---------------------------------|:------------------------------------------|
+|<span data-ttu-id="5494c-116">Education</span><span class="sxs-lookup"><span data-stu-id="5494c-116">Education</span></span>   |<span data-ttu-id="5494c-117">Nenhum</span><span class="sxs-lookup"><span data-stu-id="5494c-117">None</span></span>   | <span data-ttu-id="5494c-118">Deve ser um [Utilizador qualificado de Educação](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7).</span><span class="sxs-lookup"><span data-stu-id="5494c-118">Must be a [Qualified Education User](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7).</span></span>   |
+|<span data-ttu-id="5494c-119">Administração Pública</span><span class="sxs-lookup"><span data-stu-id="5494c-119">Government</span></span>   |<span data-ttu-id="5494c-120">Para vender o Azure, inscreva-se utilizando o [formulário de validação da nuvem do governo dos EUA](https://azuregov.microsoft.com/csp)da Microsoft.</span><span class="sxs-lookup"><span data-stu-id="5494c-120">To sell Azure, enroll using the [Microsoft US Government Cloud Validation form](https://azuregov.microsoft.com/csp).</span></span> <span data-ttu-id="5494c-121">Para vender assinaturas baseadas em licenças para o governo, não há qualificação necessária.</span><span class="sxs-lookup"><span data-stu-id="5494c-121">To sell license-based subscriptions to government, there is no required qualification.</span></span>|   <span data-ttu-id="5494c-122">Nenhum</span><span class="sxs-lookup"><span data-stu-id="5494c-122">None</span></span>|
+|<span data-ttu-id="5494c-123">Sem Fins Lucrativos</span><span class="sxs-lookup"><span data-stu-id="5494c-123">Nonprofit</span></span>  |<span data-ttu-id="5494c-124">Nenhum</span><span class="sxs-lookup"><span data-stu-id="5494c-124">None</span></span><br/> <span data-ttu-id="5494c-125">Deve ter um inquilino sem fins lucrativos Azure Ative Directory.</span><span class="sxs-lookup"><span data-stu-id="5494c-125">Must have a non-profit Azure Active Directory tenant.</span></span><br/> <span data-ttu-id="5494c-126">Saiba mais sobre as [ofertas especiais sem fins lucrativos](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf).</span><span class="sxs-lookup"><span data-stu-id="5494c-126">Learn more about [nonprofit special offers](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf).</span></span>   |<span data-ttu-id="5494c-127">Inscreva-se através do [programa sem fins lucrativos](https://nonprofit.microsoft.com/#/register) da Microsoft para ser elegível.</span><span class="sxs-lookup"><span data-stu-id="5494c-127">Sign up through the [Microsoft nonprofit program](https://nonprofit.microsoft.com/#/register) to be eligible.</span></span>   |
+
+## <a name="check-your-reseller-qualifications"></a><span data-ttu-id="5494c-128">Verifique as suas qualificações de revendedor</span><span class="sxs-lookup"><span data-stu-id="5494c-128">Check your reseller qualifications</span></span>
+
+<span data-ttu-id="5494c-129">Os seguintes passos aplicam-se apenas aos fornecedores indiretos e aos parceiros de conta direta.</span><span class="sxs-lookup"><span data-stu-id="5494c-129">The following steps are applicable only to indirect providers and direct bill partners.</span></span> <span data-ttu-id="5494c-130">Os revendedores indiretos precisam de se conectar com um fornecedor indireto para entregar ofertas a preços académicos a utilizadores de educação qualificada.</span><span class="sxs-lookup"><span data-stu-id="5494c-130">Indirect resellers need to connect with an indirect provider to deliver academic-priced offers to qualified education users.</span></span>
+
+1. <span data-ttu-id="5494c-131">No [painel](https://partner.microsoft.com/dashboard)partner Center , selecione o ícone de engrenagem no canto superior direito da janela para abrir as **definições de Conta** .</span><span class="sxs-lookup"><span data-stu-id="5494c-131">In your Partner Center [dashboard](https://partner.microsoft.com/dashboard), select the gear icon in the upper right corner of the window to open **Account settings** .</span></span>
+
+2. <span data-ttu-id="5494c-132">No seu **perfil parceiro,** na secção informações do **Programa,** procure **qualificações de Revendedor** .</span><span class="sxs-lookup"><span data-stu-id="5494c-132">In your **Partner profile** , in the **Program info** section, look for **Reseller qualifications** .</span></span>
+
+3. <span data-ttu-id="5494c-133">Se não vir **qualificações de Revseller,** ainda não foi autorizado a comprar ofertas especiais.</span><span class="sxs-lookup"><span data-stu-id="5494c-133">If you do not see **Reseller qualifications** , you have not yet been authorized to purchase any special offers.</span></span>
+
+## <a name="check-the-customer-qualifications"></a><span data-ttu-id="5494c-134">Verifique as qualificações do cliente</span><span class="sxs-lookup"><span data-stu-id="5494c-134">Check the customer qualifications</span></span>
+
+1. <span data-ttu-id="5494c-135">A partir do menu **Partner Center,** selecione **Clientes.**</span><span class="sxs-lookup"><span data-stu-id="5494c-135">From the **Partner Center** menu, select **Customers** .</span></span> <span data-ttu-id="5494c-136">Escolha o cliente na lista.</span><span class="sxs-lookup"><span data-stu-id="5494c-136">Choose the customer from the list.</span></span>
+
+2. <span data-ttu-id="5494c-137">No menu do cliente, selecione **Conta.**</span><span class="sxs-lookup"><span data-stu-id="5494c-137">In the customer menu, select **Account** .</span></span> <span data-ttu-id="5494c-138">Na secção **de informações** da Empresa, procure **qualificações especiais.**</span><span class="sxs-lookup"><span data-stu-id="5494c-138">In the **Company info** section, look for **Special qualifications** .</span></span>
+
+3. <span data-ttu-id="5494c-139">Se **as qualificações especiais** estiverem definidas para **Nenhum,** mas o cliente cumpre as qualificações, pode **atualizar** os seus dados para incluí-las.</span><span class="sxs-lookup"><span data-stu-id="5494c-139">If **Special qualifications** is set to **None** , but the customer does in fact meet the qualifications, you can **Update** their details to include them.</span></span>
+
+## <a name="where-to-find-special-offers"></a><span data-ttu-id="5494c-140">Onde encontrar ofertas especiais</span><span class="sxs-lookup"><span data-stu-id="5494c-140">Where to find special offers</span></span>
+
+<span data-ttu-id="5494c-141">Assim que você e o seu cliente estiverem qualificados para um programa de oferta especial, siga os passos para [adicionar uma subscrição.](create-a-new-subscription.md)</span><span class="sxs-lookup"><span data-stu-id="5494c-141">Once you and your customer are qualified for a special offer program, follow the steps to [add a subscription](create-a-new-subscription.md).</span></span> <span data-ttu-id="5494c-142">Na secção **catálogo** da nova página de **subscrição,** selecione uma indústria especializada para ver as ofertas especiais que pode vender.</span><span class="sxs-lookup"><span data-stu-id="5494c-142">In the **Catalog** section of the **New subscription** page, select a specialized industry to see the special offers you can sell.</span></span>
+
+## <a name="purchase-rules-for-special-segments"></a><span data-ttu-id="5494c-143">Regras de compra de segmentos especiais</span><span class="sxs-lookup"><span data-stu-id="5494c-143">Purchase rules for special segments</span></span>
+
+<span data-ttu-id="5494c-144">Os parceiros só poderão vender ofertas especiais aos clientes se cumprirem determinados critérios.</span><span class="sxs-lookup"><span data-stu-id="5494c-144">Partners can only sell special offers to customers if they meet certain criteria.</span></span> 
+
+- <span data-ttu-id="5494c-145">As ofertas educativas só podem ser adquiridas se o Cliente for autorizado como Instituição de Ensino.</span><span class="sxs-lookup"><span data-stu-id="5494c-145">Education offers can only be purchased if the Customer is authorized as an Educational institution.</span></span> <span data-ttu-id="5494c-146">Um cliente de Educação só pode receber ofertas de Educação e Comercial, mas não sem fins lucrativos nem nuvem comunitária do Governo (GCC).</span><span class="sxs-lookup"><span data-stu-id="5494c-146">An Education customer can only receive Education and Commercial offers, but not Non-profit nor Government community cloud (GCC).</span></span>
+- <span data-ttu-id="5494c-147">Os parceiros só podem adquirir subscrições GCC para clientes GCC.</span><span class="sxs-lookup"><span data-stu-id="5494c-147">Partners can only purchase GCC subscriptions for GCC customers.</span></span> <span data-ttu-id="5494c-148">Uma vez que um cliente tem uma subscrição GCC, os parceiros não podem comprar subscrições comerciais, educacionais ou sem fins lucrativos.</span><span class="sxs-lookup"><span data-stu-id="5494c-148">Once a customer has a GCC subscription, partners cannot purchase commercial, education nor non-profit subscriptions.</span></span> 
+- <span data-ttu-id="5494c-149">Os parceiros só podem adquirir subscrições comerciais ou sem fins lucrativos para clientes sem fins lucrativos.</span><span class="sxs-lookup"><span data-stu-id="5494c-149">Partners can only purchase commercial or non-profit subscriptions for non-profit customers.</span></span> <span data-ttu-id="5494c-150">Os parceiros não podem comprar assinaturas de GCC nem de educação para clientes sem fins lucrativos.</span><span class="sxs-lookup"><span data-stu-id="5494c-150">Partners cannot purchase GCC nor education subscriptions for non-profit customers.</span></span>
+
+<span data-ttu-id="5494c-151">Regras de compra para venda de ofertas especiais aos clientes:</span><span class="sxs-lookup"><span data-stu-id="5494c-151">Purchase rules for selling special offers to customers:</span></span>
+
+|<span data-ttu-id="5494c-152">**Tipo de cliente**</span><span class="sxs-lookup"><span data-stu-id="5494c-152">**Customer type**</span></span>   |<span data-ttu-id="5494c-153">**Pode ser vendido**</span><span class="sxs-lookup"><span data-stu-id="5494c-153">**Can be sold**</span></span>   |<span data-ttu-id="5494c-154">**Não pode ser vendido**</span><span class="sxs-lookup"><span data-stu-id="5494c-154">**Cannot be sold**</span></span>   |
+|:----------------------------|:---------------------------------|:------------------------------------------|
+| <span data-ttu-id="5494c-155">Comercial</span><span class="sxs-lookup"><span data-stu-id="5494c-155">Commercial</span></span> |<span data-ttu-id="5494c-156">Comercial</span><span class="sxs-lookup"><span data-stu-id="5494c-156">Commercial</span></span> | <span data-ttu-id="5494c-157">Nuvem Comunitária sem fins lucrativos, educação ou comunidade governamental</span><span class="sxs-lookup"><span data-stu-id="5494c-157">Non-profit, Education or Government Community Cloud</span></span> |
+| <span data-ttu-id="5494c-158">Sem fins lucrativos</span><span class="sxs-lookup"><span data-stu-id="5494c-158">Non-profit</span></span> |<span data-ttu-id="5494c-159">Comercial, Sem Fins Lucrativos</span><span class="sxs-lookup"><span data-stu-id="5494c-159">Commercial, Non-profit</span></span> | <span data-ttu-id="5494c-160">Educação ou Nuvem Comunitária do Governo</span><span class="sxs-lookup"><span data-stu-id="5494c-160">Education or Government Community Cloud</span></span> |
+| <span data-ttu-id="5494c-161">Education</span><span class="sxs-lookup"><span data-stu-id="5494c-161">Education</span></span> |<span data-ttu-id="5494c-162">Comercial, Educação</span><span class="sxs-lookup"><span data-stu-id="5494c-162">Commercial, Education</span></span> | <span data-ttu-id="5494c-163">Nuvem Comunitária sem fins lucrativos ou do governo</span><span class="sxs-lookup"><span data-stu-id="5494c-163">Non-profit or Government Community Cloud</span></span> |
+| <span data-ttu-id="5494c-164">Nuvem Comunitária do Governo</span><span class="sxs-lookup"><span data-stu-id="5494c-164">Government Community Cloud</span></span> |<span data-ttu-id="5494c-165">Nuvem Comunitária do Governo</span><span class="sxs-lookup"><span data-stu-id="5494c-165">Government Community Cloud</span></span> | <span data-ttu-id="5494c-166">Sem fins lucrativos, Educação ou Comercial</span><span class="sxs-lookup"><span data-stu-id="5494c-166">Non-profit, Education or Commercial</span></span> |
+
+## <a name="next-steps"></a><span data-ttu-id="5494c-167">Passos seguintes</span><span class="sxs-lookup"><span data-stu-id="5494c-167">Next steps</span></span>
+
+- [<span data-ttu-id="5494c-168">Vender Minecraft: Subscrições da Education Edition para clientes de educação</span><span class="sxs-lookup"><span data-stu-id="5494c-168">Sell Minecraft: Education Edition subscriptions to education customers</span></span>](minecraft-subscriptions.md)
+
+- [<span data-ttu-id="5494c-169">Centro de Parceiros para Microsoft Cloud para governo dos EUA</span><span class="sxs-lookup"><span data-stu-id="5494c-169">Partner Center for Microsoft Cloud for US Government</span></span>](partner-center-for-microsoft-us-govt-cloud.md)

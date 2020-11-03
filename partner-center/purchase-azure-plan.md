@@ -1,0 +1,108 @@
+---
+title: Comprar o plano Azure
+ms.topic: how-to
+ms.date: 06/05/2020
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
+description: Utilizando o plano Azure, aprenda a comprar subscrições Azure individuais ou múltiplas, reservas Azure, para configurar recursos e para visualizar ou adicionar subscrições.
+author: BillLinzbach
+ms.author: BillLi
+ms.localizationpriority: High
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 6f9908be183983c590c52b38465041c908c91d7c
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.translationtype: MT
+ms.contentlocale: pt-PT
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "92529468"
+---
+# <a name="purchase-the-azure-plan-for-customers--access-the-latest-azure-services-at-pay-as-you-go-rates"></a><span data-ttu-id="d8096-103">Compre o plano Azure para clientes & aceder aos mais recentes serviços da Azure a preços de pagamento</span><span class="sxs-lookup"><span data-stu-id="d8096-103">Purchase the Azure plan for customers & access the latest Azure services at pay-as-you-go rates</span></span>
+
+<span data-ttu-id="d8096-104">**Funções adequadas**</span><span class="sxs-lookup"><span data-stu-id="d8096-104">**Appropriate roles**</span></span>
+- <span data-ttu-id="d8096-105">Administrador global</span><span class="sxs-lookup"><span data-stu-id="d8096-105">Global admin</span></span>
+- <span data-ttu-id="d8096-106">Administrador de utilizadores</span><span class="sxs-lookup"><span data-stu-id="d8096-106">User admin</span></span>
+- <span data-ttu-id="d8096-107">Agente comercial</span><span class="sxs-lookup"><span data-stu-id="d8096-107">Sales agent</span></span>
+
+<span data-ttu-id="d8096-108">Ao adquirir um plano Azure para os seus clientes ao abrigo do Microsoft Customer Agreement, tem acesso ao catálogo completo dos mais recentes serviços Azure a preços de pagamento.</span><span class="sxs-lookup"><span data-stu-id="d8096-108">When you purchase an Azure plan for your customers under the Microsoft Customer Agreement, you have access to the full catalog of the latest Azure services at pay-as-you-go rates.</span></span> <span data-ttu-id="d8096-109">Os parceiros da CSP passarão a poder aceder a qualquer serviço Azure quando estiver em geral disponível.</span><span class="sxs-lookup"><span data-stu-id="d8096-109">CSP partners will now be able to access any Azure service when it becomes generally available.</span></span> <span data-ttu-id="d8096-110">Um parceiro pode ter várias subscrições Azure ao abrigo de um plano Azure.</span><span class="sxs-lookup"><span data-stu-id="d8096-110">A partner can have multiple Azure subscriptions under an Azure plan.</span></span> 
+
+## <a name="countryregion-availability"></a><span data-ttu-id="d8096-111">Disponibilidade país/região</span><span class="sxs-lookup"><span data-stu-id="d8096-111">Country/region availability</span></span>
+<span data-ttu-id="d8096-112">A nova experiência de comércio na CSP para a Azure está atualmente prevista para estar disponível em 139 países.</span><span class="sxs-lookup"><span data-stu-id="d8096-112">The new commerce experience in CSP for Azure is currently scheduled to be available in 139 countries.</span></span> <span data-ttu-id="d8096-113">Consulte a lista completa desses [países/regiões.](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3QN0x)</span><span class="sxs-lookup"><span data-stu-id="d8096-113">See the full list of those [countries/regions](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3QN0x).</span></span> 
+
+## <a name="how-to-purchase-azure-plan"></a><span data-ttu-id="d8096-114">Como comprar o plano Azure</span><span class="sxs-lookup"><span data-stu-id="d8096-114">How to purchase Azure plan</span></span>
+
+<span data-ttu-id="d8096-115">A forma como compra o plano Azure é semelhante à compra de qualquer outra subscrição.</span><span class="sxs-lookup"><span data-stu-id="d8096-115">How you purchase the Azure plan is similar to purchasing any other subscription.</span></span> <span data-ttu-id="d8096-116">A diferença fundamental é que antes de fazer o seu pedido precisa confirmar que o seu cliente assinou o Microsoft Customer Agreement.</span><span class="sxs-lookup"><span data-stu-id="d8096-116">The key difference is that before you actually place your order you need to confirm that your customer has signed the Microsoft Customer Agreement.</span></span>
+
+1. <span data-ttu-id="d8096-117">Selecione **Segmento Comercial** e **digite Microsoft Azure**</span><span class="sxs-lookup"><span data-stu-id="d8096-117">Select **Segment Commercial** and type **Microsoft Azure**</span></span> 
+2. <span data-ttu-id="d8096-118">Sob plano Azure **selecione Adicionar ao carrinho**</span><span class="sxs-lookup"><span data-stu-id="d8096-118">Under Azure plan select **Add to cart**</span></span>
+
+:::image type="content" source="images/azure/Azurepurchase1.png" alt-text="Comprar":::
+
+<span data-ttu-id="d8096-120">O parceiro deve confirmar que o cliente reviu e aceitou os termos do Microsoft Customer Agreement.</span><span class="sxs-lookup"><span data-stu-id="d8096-120">The partner must confirm the customer has reviewed and accepted the Microsoft Customer Agreement terms.</span></span> <span data-ttu-id="d8096-121">Para obter mais informações sobre como o parceiro pode fazê-lo, leia a [aceitação do cliente confirme o Acordo de Cliente da Microsoft.](confirm-customer-agreement.md)</span><span class="sxs-lookup"><span data-stu-id="d8096-121">For more information on how the partner can do this, read the [Confirm customer acceptance of the Microsoft Customer Agreement](confirm-customer-agreement.md).</span></span> <span data-ttu-id="d8096-122">Outros recursos estão disponíveis na [galeria de recursos.](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/)</span><span class="sxs-lookup"><span data-stu-id="d8096-122">Other resources are available in the [resource gallery](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/).</span></span>
+
+<span data-ttu-id="d8096-123">**Para confirmar, você também:**</span><span class="sxs-lookup"><span data-stu-id="d8096-123">**To confirm, you either** :</span></span> 
+
+1. <span data-ttu-id="d8096-124">Confirme digitalmente ou,</span><span class="sxs-lookup"><span data-stu-id="d8096-124">Confirm digitally or,</span></span>
+
+2. <span data-ttu-id="d8096-125">Convide o cliente a assinar o Acordo de Cliente da Microsoft diretamente com a Microsoft.</span><span class="sxs-lookup"><span data-stu-id="d8096-125">Invite the customer to sign the Microsoft Customer Agreement directly with Microsoft.</span></span> 
+
+### <a name="to-confirm"></a><span data-ttu-id="d8096-126">Para confirmar</span><span class="sxs-lookup"><span data-stu-id="d8096-126">To confirm</span></span> 
+
+1. <span data-ttu-id="d8096-127">Na **página** conta do cliente, selecione **Update** ao lado do Microsoft **Customer Agreement**</span><span class="sxs-lookup"><span data-stu-id="d8096-127">On the customer's **Account** page, select **Update** next to **Microsoft Customer Agreement**</span></span>  
+
+2. <span data-ttu-id="d8096-128">Preencha a informação sobre o indivíduo na empresa do cliente que aceitou o MCuA.</span><span class="sxs-lookup"><span data-stu-id="d8096-128">Fill out the information about the individual at the customer's company who accepted the MCuA.</span></span>
+
+3. <span data-ttu-id="d8096-129">**Selecione Save e continue.**</span><span class="sxs-lookup"><span data-stu-id="d8096-129">Select **Save and continue.**</span></span>  
+
+## <a name="review-and-buy"></a><span data-ttu-id="d8096-130">Rever e comprar</span><span class="sxs-lookup"><span data-stu-id="d8096-130">Review and buy</span></span>
+
+<span data-ttu-id="d8096-131">Volte à página **de adicionar um produto** onde pode ver que o plano Azure foi adicionado.</span><span class="sxs-lookup"><span data-stu-id="d8096-131">You return to the **Add a product** page where you can see that the Azure plan has been added.</span></span> <span data-ttu-id="d8096-132">Selecione **Rever** para rever a sua compra e, em seguida, selecione **Comprar** .</span><span class="sxs-lookup"><span data-stu-id="d8096-132">Select **Review** to review your purchase and then select **Buy** .</span></span> 
+
+>[!Note]
+><span data-ttu-id="d8096-133">Uma vez adquirido o plano Azure para um cliente, já não pode comprar o Microsoft Azure (0145p) para esse cliente.</span><span class="sxs-lookup"><span data-stu-id="d8096-133">Once you purchase the Azure plan for a customer, you can no longer purchase Microsoft Azure (0145p) for that customer.</span></span> <span data-ttu-id="d8096-134">Terá de criar futuras subscrições através do plano Azure.</span><span class="sxs-lookup"><span data-stu-id="d8096-134">You'll need to create future subscriptions through the Azure plan.</span></span>
+
+## <a name="purchase-azure-reservations-under-the-azure-plan"></a><span data-ttu-id="d8096-135">Comprar reservas da Azure ao abrigo do Plano Azure</span><span class="sxs-lookup"><span data-stu-id="d8096-135">Purchase Azure reservations under the Azure Plan</span></span> 
+  
+<span data-ttu-id="d8096-136">Também pode comprar reservas da Microsoft Azure ao abrigo do plano Azure em nome dos seus clientes no Partner Center.</span><span class="sxs-lookup"><span data-stu-id="d8096-136">You can also buy Microsoft Azure reservations under Azure plan on behalf of your customers in Partner Center.</span></span> <span data-ttu-id="d8096-137">(Ou, se preferir, pode [autorizar os seus clientes a comprarem as suas próprias reservas Azure](give-customers-permission.md) a partir de uma subscrição prévia que adquiriu para eles.)</span><span class="sxs-lookup"><span data-stu-id="d8096-137">(Or, if you prefer, you can [give permission for your customers to buy their own Azure reservations](give-customers-permission.md) from a prior subscription you purchased for them.)</span></span>
+
+1. <span data-ttu-id="d8096-138">A partir do menu Partner Center no seu [painel de instrumentos,](https://partner.microsoft.com/dashboard/)selecione **Clientes** .</span><span class="sxs-lookup"><span data-stu-id="d8096-138">From the Partner Center menu on your [dashboard](https://partner.microsoft.com/dashboard/), select **Customers** .</span></span> <span data-ttu-id="d8096-139">Encontre o cliente que quer comprar reservas do Azure e, em seguida, selecione a seta para baixo para expandir a linha do cliente.</span><span class="sxs-lookup"><span data-stu-id="d8096-139">Find the customer who wants to purchase Azure reservations, and then select the down arrow to expand the customer's row.</span></span>
+
+2. <span data-ttu-id="d8096-140">**Selecione Adicionar produtos** e, em seguida, selecione **Azure** .</span><span class="sxs-lookup"><span data-stu-id="d8096-140">Select **Add products** and then select **Azure** .</span></span> 
+
+   - <span data-ttu-id="d8096-141">Escolha o segmento de mercado do cliente na lista **de Segmento.**</span><span class="sxs-lookup"><span data-stu-id="d8096-141">Choose the customer's market segment from the **Segment** list.</span></span>
+   - <span data-ttu-id="d8096-142">Escolha **Reservas** na lista de **tipos de produto.**</span><span class="sxs-lookup"><span data-stu-id="d8096-142">Choose **Reservations** from the **Product type** list.</span></span>
+   - <span data-ttu-id="d8096-143">Escolha o tipo de reserva que o cliente quer na lista de **tipos reservas.**</span><span class="sxs-lookup"><span data-stu-id="d8096-143">Choose the type of reservation the customer wants from the **Reservations type** list.</span></span>
+
+<span data-ttu-id="d8096-144">As reservas do Azure devem ser associadas a um plano Azure ativo.</span><span class="sxs-lookup"><span data-stu-id="d8096-144">Azure reservations must be associated with an active Azure plan.</span></span> <span data-ttu-id="d8096-145">Escolha o plano Azure a que pretende adicionar reservas Azure a partir da lista de subscrição do Cliente.</span><span class="sxs-lookup"><span data-stu-id="d8096-145">Choose the Azure plan you want to add Azure reservations to from the Customer subscription list.</span></span> 
+
+>[!Important] 
+><span data-ttu-id="d8096-146">Se o cliente ainda não tiver um plano Azure ativo, selecione Azure para adicionar um agora.</span><span class="sxs-lookup"><span data-stu-id="d8096-146">If the customer doesn't already have an active Azure plan, select Azure to add one now.</span></span> <span data-ttu-id="d8096-147">Para mais instruções, leia [as reservas do Buy Azure](azure-reservations-buying.md#purchase-azure-reservations).</span><span class="sxs-lookup"><span data-stu-id="d8096-147">For further instructions read [Purchase Azure reservations](azure-reservations-buying.md#purchase-azure-reservations).</span></span>
+
+>[!Note]
+><span data-ttu-id="d8096-148">O âmbito de uma reserva só pode ser definido para **Shared,** atualmente no Partner Center.</span><span class="sxs-lookup"><span data-stu-id="d8096-148">A reservation's scope can only be set to **Shared** , currently in Partner Center.</span></span> <span data-ttu-id="d8096-149">Para selecionar um único âmbito de subscrição ou atualização de âmbito de subscrição partilhado para um único âmbito de subscrição, vá ao **portal Microsoft Azure Management** utilizando as seguintes instruções.</span><span class="sxs-lookup"><span data-stu-id="d8096-149">To select single subscription scope or update from shared to single subcription scope go to **Microsoft Azure Management portal** using following instructions.</span></span> 
+
+:::image type="content" source="images/azure/addprods1.png" alt-text="Definição de reservas de âmbito compartilhado":::
+
+<span data-ttu-id="d8096-151">Para gerir a reserva do cliente no portal Azure:</span><span class="sxs-lookup"><span data-stu-id="d8096-151">To manage the customer's reservation in the Azure portal:</span></span> 
+
+1. <span data-ttu-id="d8096-152">A partir dos **Clientes** selecione o cliente que pretende gerir.</span><span class="sxs-lookup"><span data-stu-id="d8096-152">From **Customers** select the customer you want to manage.</span></span> 
+
+2. <span data-ttu-id="d8096-153">Utilizando a seta para baixo, expanda a linha do cliente e selecione o **portal Microsoft Azure Management** .</span><span class="sxs-lookup"><span data-stu-id="d8096-153">Using the down arrow, expand the customer's row and select **Microsoft Azure Management portal** .</span></span>  
+ 
+## <a name="view-azure-subscriptions-under-the-azure-plan"></a><span data-ttu-id="d8096-154">Ver subscrições do Azure no âmbito do Plano Azure</span><span class="sxs-lookup"><span data-stu-id="d8096-154">View Azure subscriptions under the Azure Plan</span></span>
+
+<span data-ttu-id="d8096-155">A partir da página **de Subscrições,** na secção baseada em uso, expanda o **plano Azure** para ver subscrições Azure associadas ao abrigo do Plano Azure.</span><span class="sxs-lookup"><span data-stu-id="d8096-155">From the **Subscriptions** page, in the usage-based section, expand **Azure plan** to see associated Azure subscriptions under the Azure Plan.</span></span>
+
+:::image type="content" source="images/azure/addprods2.png" alt-text="Ver lista de subscrições do Azure"::: 
+
+
+## <a name="add-subscriptions-and-configure-resources"></a><span data-ttu-id="d8096-157">Adicionar subscrições e configurar recursos</span><span class="sxs-lookup"><span data-stu-id="d8096-157">Add subscriptions and configure resources</span></span>
+
+<span data-ttu-id="d8096-158">Irá adicionar subscrições e configurar recursos para o seu cliente no portal Azure.</span><span class="sxs-lookup"><span data-stu-id="d8096-158">You will add subscriptions and configure resources for your customer in Azure portal.</span></span> <span data-ttu-id="d8096-159">Também é capaz de separar o ambiente do seu cliente por carga de trabalho ou projeto.</span><span class="sxs-lookup"><span data-stu-id="d8096-159">You are also able to separate your customer's environment by workload or project.</span></span> <span data-ttu-id="d8096-160">É possível gerir subscrições através [do Azure Lighthouse,](https://azure.microsoft.com/services/azure-lighthouse/) bem como do portal Azure.</span><span class="sxs-lookup"><span data-stu-id="d8096-160">It is possible to manage subscriptions through [Azure Lighthouse](https://azure.microsoft.com/services/azure-lighthouse/) as well as Azure portal.</span></span> 
+
+<span data-ttu-id="d8096-161">Para gerir os recursos e subscrições do seu cliente, precisa de **privilégios de Administração em nome dos** privilégios (AOBO).</span><span class="sxs-lookup"><span data-stu-id="d8096-161">To manage your customer's resources and subscriptions, you need **Admin on Behalf Of** (AOBO) privileges.</span></span> <span data-ttu-id="d8096-162">Para obter informações sobre a gestão do seu acesso, leia [Gerir subscrições e recursos ao abrigo do plano Azure](azure-plan-manage.md)</span><span class="sxs-lookup"><span data-stu-id="d8096-162">For information on managing your access, read [Manage subscriptions and resources under the Azure plan](azure-plan-manage.md)</span></span>
+
+## <a name="next-steps"></a><span data-ttu-id="d8096-163">Passos seguintes</span><span class="sxs-lookup"><span data-stu-id="d8096-163">Next steps</span></span>
+
+- [<span data-ttu-id="d8096-164">Transições de clientes para plano Azure</span><span class="sxs-lookup"><span data-stu-id="d8096-164">Customer transitions to Azure plan</span></span>](azure-plan-transition.md)
+
+- [<span data-ttu-id="d8096-165">Parceiro ganhou crédito - visão geral</span><span class="sxs-lookup"><span data-stu-id="d8096-165">Partner earned credit - overview</span></span>](partner-earned-credit.md)

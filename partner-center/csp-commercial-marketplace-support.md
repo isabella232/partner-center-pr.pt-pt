@@ -1,0 +1,57 @@
+---
+title: Apoio a produtos de mercado comercial
+ms.topic: article
+ms.date: 05/05/2020
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
+description: Saiba mais sobre o suporte a produtos ISV de terceiros ou subscrições no mercado comercial do programa CSP.
+author: rbars
+ms.author: rbars
+ms.localizationpriority: medium
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 86ae657725717fea06a6fdb18cadc069e9140ffa
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.translationtype: MT
+ms.contentlocale: pt-PT
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "92529252"
+---
+# <a name="support-for-commercial-marketplace-products-in-the-csp-program"></a><span data-ttu-id="6e14b-103">Apoio a produtos de mercado comercial no programa CSP</span><span class="sxs-lookup"><span data-stu-id="6e14b-103">Support for commercial marketplace products in the CSP program</span></span>
+
+<span data-ttu-id="6e14b-104">**Aplica-se a**</span><span class="sxs-lookup"><span data-stu-id="6e14b-104">**Applies to**</span></span>
+
+- <span data-ttu-id="6e14b-105">Partner Center</span><span class="sxs-lookup"><span data-stu-id="6e14b-105">Partner Center</span></span>
+- <span data-ttu-id="6e14b-106">Parceiros no programa CSP</span><span class="sxs-lookup"><span data-stu-id="6e14b-106">Partners in the CSP program</span></span>
+
+<span data-ttu-id="6e14b-107">**Funções adequadas**</span><span class="sxs-lookup"><span data-stu-id="6e14b-107">**Appropriate roles**</span></span>
+
+- <span data-ttu-id="6e14b-108">Administrador global</span><span class="sxs-lookup"><span data-stu-id="6e14b-108">Global admin</span></span>
+- <span data-ttu-id="6e14b-109">Agente administrativo</span><span class="sxs-lookup"><span data-stu-id="6e14b-109">Admin agent</span></span>
+
+<span data-ttu-id="6e14b-110">Os parceiros do programa CSP são o primeiro ponto de contacto para questões de faturação de clientes ou gestão de subscrição relacionadas com qualquer subscrição isv de terceiros ou produto adquirido para clientes do mercado comercial.</span><span class="sxs-lookup"><span data-stu-id="6e14b-110">Partners in the CSP program are the first point of contact for customer billing or subscription management questions related to any third-party ISV subscription or product purchased for customers from the commercial marketplace.</span></span>
+
+<span data-ttu-id="6e14b-111">Para questões de suporte técnico sobre produtos de mercado comercial de editores ISV de terceiros, os parceiros do programa CSP devem contactar o editor isv desse produto ou oferta.</span><span class="sxs-lookup"><span data-stu-id="6e14b-111">For technical support questions about commercial marketplace products from third-party ISV publishers, partners in the CSP program should contact the ISV publisher of that product or offer.</span></span>
+
+## <a name="support-roles-of-isv-products-for-csp-partners-isv-publishers-and-microsoft"></a><span data-ttu-id="6e14b-112">Funções de suporte de produtos ISV para parceiros CSP, editores ISV e Microsoft</span><span class="sxs-lookup"><span data-stu-id="6e14b-112">Support roles of ISV products for CSP partners, ISV publishers, and Microsoft</span></span>
+
+<span data-ttu-id="6e14b-113">Para ofertas comerciais ou compras de produtos isv de terceiros ou ofertas:</span><span class="sxs-lookup"><span data-stu-id="6e14b-113">For commercial marketplace offers or purchases of third-party ISV products or offers:</span></span>
+
+- <span data-ttu-id="6e14b-114">**Papel de apoio da editora ISV:** Os ISVs fornecem compromissos técnicos de suporte técnico e de nível de serviço aos seus clientes no que diz respeito à sua oferta, tal como definido no Contrato de Cliente de Terceiros.</span><span class="sxs-lookup"><span data-stu-id="6e14b-114">**Support role of the ISV publisher:** ISVs provide technical support and service level commitments to their customers regarding their offer, as defined in the Third-Party Customer Agreement.</span></span> <span data-ttu-id="6e14b-115">O ISV deve fornecer uma forma de os parceiros do programa CSP e/ou seus clientes contactarem diretamente o ISV para apoio, incluindo suporte ao utilizador e suporte de break-fix.</span><span class="sxs-lookup"><span data-stu-id="6e14b-115">The ISV should provide a way for partners in the CSP program and/or their customers to contact the ISV directly for support, including user support and break-fix support.</span></span> <span data-ttu-id="6e14b-116">Espera-se que os ISV forneçam aos parceiros do programa CSP documentação, formação e notificações de saúde/paralisação de serviços (conforme aplicável) para que esses parceiros estejam equipados para coordenar o suporte (se os parceiros do programa CSP optarem por prestar esse serviço aos seus clientes).</span><span class="sxs-lookup"><span data-stu-id="6e14b-116">ISVs are expected to provide partners in the CSP program with user documentation, training, and service health/outage notifications (as applicable) so those partners will be equipped to coordinate support (if partners in the CSP program choose to provide that service to their customers).</span></span>
+
+- <span data-ttu-id="6e14b-117">**Papel de apoio do parceiro no programa CSP:** O parceiro no programa CSP é responsável por todos os outros suportes para ofertas ISV de terceiros.</span><span class="sxs-lookup"><span data-stu-id="6e14b-117">**Support role of the partner in the CSP program:** The partner in the CSP program is responsible for all other support for third-party ISV offers.</span></span> <span data-ttu-id="6e14b-118">Este suporte pode relacionar-se com questões de faturação dos clientes, configuração de conta e pagamento.</span><span class="sxs-lookup"><span data-stu-id="6e14b-118">This support can relate to customers' billing questions, account set-up, and payment.</span></span> <span data-ttu-id="6e14b-119">O parceiro no programa CSP pode optar por direcionar consultas de suporte técnico dos clientes aos contactos de suporte fornecidos pela editora ISV.</span><span class="sxs-lookup"><span data-stu-id="6e14b-119">The partner in the CSP program may choose to direct technical support queries from customers to the support contacts provided by the ISV publisher.</span></span>
+
+- <span data-ttu-id="6e14b-120">**Papel de suporte da Microsoft:** A Microsoft fornece suporte ao editor ISV de terceiros e ao parceiro no programa CSP no que diz respeito à funcionalidade do sistema de comércio da Microsoft.</span><span class="sxs-lookup"><span data-stu-id="6e14b-120">**Support role of Microsoft:** Microsoft provides support to the third-party ISV publisher and to the partner in the CSP program regarding Microsoft commerce system functionality.</span></span> <span data-ttu-id="6e14b-121">Isto significa que a Microsoft será responsável pelo apoio a determinadas atividades do parceiro nas atividades parceiras do programa CSP e pelo ISV que ocorrem dentro do sistema de comércio da Microsoft, tais como gestão de onboarding/oferta, transações, faturação, suporte à conta e implementação e provisão para soluções ISV baseadas em Azure.</span><span class="sxs-lookup"><span data-stu-id="6e14b-121">This means Microsoft will be responsible for support of certain activities by the partner in the CSP program partner activities and by the ISV that occur within the Microsoft commerce system, such as onboarding/offer management, transactions, billing, account support, and deployment and provisioning for Azure-based ISV solutions.</span></span>
+
+    <span data-ttu-id="6e14b-122">A Microsoft não fornece suporte para produtos de marketplace comercial oferecidos por editores ISV de terceiros.</span><span class="sxs-lookup"><span data-stu-id="6e14b-122">Microsoft does not provide support for commercial marketplace products offered by third-party ISV publishers.</span></span> <span data-ttu-id="6e14b-123">No entanto, a Microsoft dará ao parceiro do programa CSP acesso às informações de contacto de suporte da editora ISV.</span><span class="sxs-lookup"><span data-stu-id="6e14b-123">Microsoft will, however, give the partner in the  CSP program access to the ISV publisher's support contact information.</span></span> <span data-ttu-id="6e14b-124">Os parceiros do programa CSP devem contactar a editora ISV (acima) para obter outros tipos de suporte para a sua oferta.</span><span class="sxs-lookup"><span data-stu-id="6e14b-124">Partners in the CSP program must contact the ISV publisher (above) to obtain other types of support for their offer.</span></span>
+
+<span data-ttu-id="6e14b-125">No [modelo indireto da CSP,](csp-overview.md#indirect-model)estas responsabilidades de apoio são partilhadas entre o fornecedor indireto e o revendedor indireto.</span><span class="sxs-lookup"><span data-stu-id="6e14b-125">In the [indirect CSP model](csp-overview.md#indirect-model), these support responsibilities are shared between the indirect provider and the indirect reseller.</span></span> <span data-ttu-id="6e14b-126">Se for um revendedor indireto, peça ao seu fornecedor indireto detalhes.</span><span class="sxs-lookup"><span data-stu-id="6e14b-126">If you are an indirect reseller, ask your indirect provider for details.</span></span>
+
+## <a name="how-to-find-isv-contact-information"></a><span data-ttu-id="6e14b-127">Como encontrar informações de contacto do ISV</span><span class="sxs-lookup"><span data-stu-id="6e14b-127">How to find ISV contact information</span></span>
+
+<span data-ttu-id="6e14b-128">A maioria dos dados de contacto do ISV aparecem na página **de detalhes** da Oferta do Centro parceiro, disponível no painel de instrumentos do Centro [de Parceiros.](https://partner.microsoft.com/dashboard)</span><span class="sxs-lookup"><span data-stu-id="6e14b-128">Most ISV contact details appear on the Partner Center **Offer details** page, available from the Partner Center [dashboard](https://partner.microsoft.com/dashboard).</span></span> <span data-ttu-id="6e14b-129">Isto inclui um contacto de engenharia para o ISV, apoio ao cliente e qualquer contacto do programa CSP.</span><span class="sxs-lookup"><span data-stu-id="6e14b-129">This includes an engineering contact for the ISV, customer support, and any CSP program contact.</span></span> <span data-ttu-id="6e14b-130">As informações fornecidas pelo ISV aqui também podem incluir documentação do utilizador, garantia de vendas e uma ligação com os materiais de marketing do programa CSP.</span><span class="sxs-lookup"><span data-stu-id="6e14b-130">Information provided by the ISV here may also include user documentation, sales collateral, and a link to CSP program marketing materials.</span></span>
+
+<span data-ttu-id="6e14b-131">Para aceder à página de detalhes da **Oferta,** consulte [as ofertas do Discover no mercado comercial.](csp-commercial-marketplace-discover.md#view-marketplace-offers-in-partner-center)</span><span class="sxs-lookup"><span data-stu-id="6e14b-131">To access the **Offer details** page, see [Discover offers in the commercial marketplace](csp-commercial-marketplace-discover.md#view-marketplace-offers-in-partner-center).</span></span>
+
+## <a name="next-steps"></a><span data-ttu-id="6e14b-132">Passos seguintes</span><span class="sxs-lookup"><span data-stu-id="6e14b-132">Next steps</span></span>
+
+- [<span data-ttu-id="6e14b-133">Conheça os contratos relacionados com produtos de mercado comercial</span><span class="sxs-lookup"><span data-stu-id="6e14b-133">Learn about contracts related to commercial marketplace products</span></span>](csp-commercial-marketplace-contracting.md)

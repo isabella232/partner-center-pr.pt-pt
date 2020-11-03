@@ -1,0 +1,82 @@
+---
+title: Migrar alguns Skype para subscrições de negócios
+description: Saiba como e quando migrar determinados clientes com o Skype expirado para o Plano De Negócios 1 para as novas versões do Office 365.
+ms.topic: article
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
+author: BrentSerbus
+ms.author: brserbus
+ms.localizationpriority: medium
+ms.custom: SEOMAY.20
+ms.date: 06/03/2020
+ms.openlocfilehash: c9ad5b1c0671ff1d27d25c6f92499b72d77e6c22
+ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.translationtype: MT
+ms.contentlocale: pt-PT
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "92529655"
+---
+# <a name="migrate-skype-for-business-online-plan-1-subscriptions-to-newer-office-365-versions"></a><span data-ttu-id="97ff4-103">Migrate Skype for Business Online Plan 1 subscriptions to newer Office 365 version (Migrar as subscrições do Skype para Empresas Online Plano 1 para a versão mais recente do Office 365)</span><span class="sxs-lookup"><span data-stu-id="97ff4-103">Migrate Skype for Business Online Plan 1 subscriptions to newer Office 365 versions</span></span>
+
+<span data-ttu-id="97ff4-104">**Aplica-se a**</span><span class="sxs-lookup"><span data-stu-id="97ff4-104">**Applies to**</span></span>
+
+- <span data-ttu-id="97ff4-105">Partner Center</span><span class="sxs-lookup"><span data-stu-id="97ff4-105">Partner Center</span></span>
+
+<span data-ttu-id="97ff4-106">O Skype for Business Online Plan 1 será reformado, a partir de 1 de agosto de 2018.</span><span class="sxs-lookup"><span data-stu-id="97ff4-106">The Skype for Business Online Plan 1 will be retired, effective August 1, 2018.</span></span> <span data-ttu-id="97ff4-107">Após essa data, os clientes deixarão de poder adquirir novas subscrições do Skype para o Plano de Negócios 1, e as subscrições existentes não renovarão automaticamente quando expirarem e não fornecerão uma opção de renovação.</span><span class="sxs-lookup"><span data-stu-id="97ff4-107">After that date customers can no longer purchase new Skype for Business Plan 1 subscriptions, and existing subscriptions will not renew automatically when they expire and will not provide a renewal option.</span></span> <span data-ttu-id="97ff4-108">Na página de pormenor da subscrição, o estado de subscrição do Skype for Business Online Plan 1 mudou para "Expira na [data]" de "Renovações automáticas em [data]".</span><span class="sxs-lookup"><span data-stu-id="97ff4-108">On the subscription's detail page, the Skype for Business Online Plan 1 subscription status has changed to "Expires on [date]" from "Auto renews on [date]".</span></span>  
+
+<span data-ttu-id="97ff4-109">Para garantir a continuidade dos clientes, deve transitar os clientes com subscrições do Skype expirando para o Plano Online 1 para uma opção SKU suportada, listada abaixo.</span><span class="sxs-lookup"><span data-stu-id="97ff4-109">To ensure continuity for customers, you should transition customers with expiring Skype for Business Online Plan 1 subscriptions to a supported SKU option, listed below.</span></span> <span data-ttu-id="97ff4-110">Recomendamos que os clientes mudem os clientes para novas subscrições antes da data de fim anual da subscrição para evitar eventuais interrupções de serviço para os clientes.</span><span class="sxs-lookup"><span data-stu-id="97ff4-110">We recommend moving customers to new subscriptions before the subscription's yearly end date to avoid any service outages for customers.</span></span> 
+
+>[!NOTE]
+><span data-ttu-id="97ff4-111">Tanto o Skype para o Plano Online 1 comercial como o governo SKUs estão reformados.</span><span class="sxs-lookup"><span data-stu-id="97ff4-111">Both Skype for Business Online Plan 1 commercial and government SKUs are retired.</span></span>
+
+<span data-ttu-id="97ff4-112">Se utilizar a API (CREST ou Partner Center), encontre subscrições caducadas avaliando a data final da subscrição juntamente com a renovação automática = Propriedade falsa.</span><span class="sxs-lookup"><span data-stu-id="97ff4-112">If you use the API (either CREST or Partner Center), find expiring subscriptions by evaluating the end date of the subscription along with the auto renew = False property.</span></span> <span data-ttu-id="97ff4-113">As subscrições do Skype for Business Online Plan 1 serão definidas para renovação automática=Falsa a 1 de setembro de 2018.</span><span class="sxs-lookup"><span data-stu-id="97ff4-113">The Skype for Business Online Plan 1 subscriptions will be set to auto renew=False on September 1, 2018.</span></span> <span data-ttu-id="97ff4-114">Pode mover os clientes para um novo plano a qualquer momento.</span><span class="sxs-lookup"><span data-stu-id="97ff4-114">You can move customers to a new plan at any time.</span></span> 
+
+## <a name="skype-for-business-online-plan-1-replacement-plans"></a><span data-ttu-id="97ff4-115">Plano Skype para Plano Empresarial 1 planos de substituição</span><span class="sxs-lookup"><span data-stu-id="97ff4-115">Skype for Business Online Plan 1 replacement plans</span></span>
+
+<span data-ttu-id="97ff4-116">Com os novos planos, os seus clientes podem tirar partido das funcionalidades e funcionalidades mais recentes no Office 365.</span><span class="sxs-lookup"><span data-stu-id="97ff4-116">With the new plans, your customers take can advantage of newer features and functionality in Office 365.</span></span> <span data-ttu-id="97ff4-117">Os detalhes dos preços encontram-se na lista de preços e a matriz da lista de ofertas no Partner Center.</span><span class="sxs-lookup"><span data-stu-id="97ff4-117">Pricing details are found on the price list and offer list matrix in Partner Center.</span></span> 
+
+- <span data-ttu-id="97ff4-118">Opção 1: Escritório 365 Empresa F1</span><span class="sxs-lookup"><span data-stu-id="97ff4-118">Option 1: Office 365 Enterprise F1</span></span>
+- <span data-ttu-id="97ff4-119">Opção 2: Microsoft 365 Enterprise F1</span><span class="sxs-lookup"><span data-stu-id="97ff4-119">Option 2: Microsoft 365 Enterprise F1</span></span>
+- <span data-ttu-id="97ff4-120">Opção 3: Outros planos do Office 365</span><span class="sxs-lookup"><span data-stu-id="97ff4-120">Option 3: Other Office 365 plans</span></span>
+
+|<span data-ttu-id="97ff4-121">**Funcionalidade**</span><span class="sxs-lookup"><span data-stu-id="97ff4-121">**Feature**</span></span>    |<span data-ttu-id="97ff4-122">**Opção 1**</span><span class="sxs-lookup"><span data-stu-id="97ff4-122">**Option 1**</span></span>   |<span data-ttu-id="97ff4-123">**Opção 2**</span><span class="sxs-lookup"><span data-stu-id="97ff4-123">**Option 2**</span></span>   |<span data-ttu-id="97ff4-124">**Opção 3**</span><span class="sxs-lookup"><span data-stu-id="97ff4-124">**Option 3**</span></span>   |
+|:-----------------|:-----------------|:-------------|:------------|
+|<span data-ttu-id="97ff4-125">Obtenha todas as funcionalidades incluídas no Skype para o Plano Online de Negócios 1</span><span class="sxs-lookup"><span data-stu-id="97ff4-125">Get all the features included in Skype for Business Online Plan 1</span></span>|<span data-ttu-id="97ff4-126">Yes</span><span class="sxs-lookup"><span data-stu-id="97ff4-126">Yes</span></span>   |<span data-ttu-id="97ff4-127">Yes</span><span class="sxs-lookup"><span data-stu-id="97ff4-127">Yes</span></span>   |<span data-ttu-id="97ff4-128">Yes</span><span class="sxs-lookup"><span data-stu-id="97ff4-128">Yes</span></span>   |
+|<span data-ttu-id="97ff4-129">IM e presença</span><span class="sxs-lookup"><span data-stu-id="97ff4-129">IM and presence</span></span> |<span data-ttu-id="97ff4-130">Yes</span><span class="sxs-lookup"><span data-stu-id="97ff4-130">Yes</span></span>   |<span data-ttu-id="97ff4-131">Yes</span><span class="sxs-lookup"><span data-stu-id="97ff4-131">Yes</span></span>   |<span data-ttu-id="97ff4-132">Yes</span><span class="sxs-lookup"><span data-stu-id="97ff4-132">Yes</span></span>   |
+|<span data-ttu-id="97ff4-133">Peer-to-peer Audio e Vídeo sobre IP</span><span class="sxs-lookup"><span data-stu-id="97ff4-133">Peer-to-peer Audio and Video over IP</span></span>|<span data-ttu-id="97ff4-134">Yes</span><span class="sxs-lookup"><span data-stu-id="97ff4-134">Yes</span></span>   |<span data-ttu-id="97ff4-135">Yes</span><span class="sxs-lookup"><span data-stu-id="97ff4-135">Yes</span></span>   |<span data-ttu-id="97ff4-136">Yes</span><span class="sxs-lookup"><span data-stu-id="97ff4-136">Yes</span></span>   
+|<span data-ttu-id="97ff4-137">Junte-se às reuniões como utilizador autenticado</span><span class="sxs-lookup"><span data-stu-id="97ff4-137">Join meetings as an authenticated user</span></span>| <span data-ttu-id="97ff4-138">Yes</span><span class="sxs-lookup"><span data-stu-id="97ff4-138">Yes</span></span>   |<span data-ttu-id="97ff4-139">Yes</span><span class="sxs-lookup"><span data-stu-id="97ff4-139">Yes</span></span>   |<span data-ttu-id="97ff4-140">Yes</span><span class="sxs-lookup"><span data-stu-id="97ff4-140">Yes</span></span>   |
+
+## <a name="transition-customers-to-new-product-plans"></a><span data-ttu-id="97ff4-141">Transição de clientes para novos planos de produtos</span><span class="sxs-lookup"><span data-stu-id="97ff4-141">Transition customers to new product plans</span></span>
+
+<span data-ttu-id="97ff4-142">A Microsoft oferece continuamente novos produtos e serviços aos nossos parceiros.</span><span class="sxs-lookup"><span data-stu-id="97ff4-142">Microsoft continuously offers new products and services to our partners.</span></span> <span data-ttu-id="97ff4-143">Nestes casos, poderá ter de atualizar os clientes para novos serviços ou migrar as suas subscrições de SKUs que acabarão por ser encerradas.</span><span class="sxs-lookup"><span data-stu-id="97ff4-143">In these cases, you may need to upgrade customers to new services or migrate their subscriptions from SKUs that will eventually be shut down.</span></span> <span data-ttu-id="97ff4-144">Os clientes migradores de SKUs reformados para os mais recentes requerem os seguintes passos:</span><span class="sxs-lookup"><span data-stu-id="97ff4-144">Migrating customers from retired SKUs to newer ones requires the following steps:</span></span>
+
+- <span data-ttu-id="97ff4-145">Comprar a nova subscrição</span><span class="sxs-lookup"><span data-stu-id="97ff4-145">Purchase the new subscription</span></span>
+- <span data-ttu-id="97ff4-146">Reatribuir licenças de utilizador atuais</span><span class="sxs-lookup"><span data-stu-id="97ff4-146">Reassign current user licenses</span></span>
+- <span data-ttu-id="97ff4-147">Cancelar subscrição antiga</span><span class="sxs-lookup"><span data-stu-id="97ff4-147">Cancel old subscription</span></span>
+
+### <a name="migrate-your-customers-to-new-plans"></a><span data-ttu-id="97ff4-148">Migrar os seus clientes para novos planos</span><span class="sxs-lookup"><span data-stu-id="97ff4-148">Migrate your customers to new plans</span></span>
+
+1. <span data-ttu-id="97ff4-149">Para adquirir a nova subscrição, a partir do **menu Partner Center** , selecione **Clientes,** selecione o cliente que pretende mover e, em seguida, selecione **Adicionar subscrições** .</span><span class="sxs-lookup"><span data-stu-id="97ff4-149">To purchase the new subscription, from the **Partner Center menu** , select **Customers** , select the customer you want to move, and then select **Add subscriptions** .</span></span>
+
+2. <span data-ttu-id="97ff4-150">Selecione a subscrição que pretende adquirir no catálogo (neste caso, uma das opções acima), introduza o número de licenças e, em seguida, **selecione Enviar por isso** .</span><span class="sxs-lookup"><span data-stu-id="97ff4-150">Select the subscription you want to purchase from the catalog (in this case, one of the options above), enter the number of licenses, and then select **Submit** .</span></span> 
+
+<span data-ttu-id="97ff4-151">O seu cliente deve agora ter subscrições antigas e novas, a antiga subscrição do Skype para o Plano Online 1 e a nova subscrição 'target', por exemplo, Opção 1 - Office 365 Enterprise F1.</span><span class="sxs-lookup"><span data-stu-id="97ff4-151">Your customer should now have both old and new subscriptions, the old Skype for Business Online Plan 1  subscription and the new 'target' subscription, for example, Option 1 - Office 365 Enterprise F1.</span></span>
+
+3. <span data-ttu-id="97ff4-152">Para reatribuir as licenças dos utilizadores do cliente, a partir do menu **Partner Center,** selecione **Clientes,** selecione o cliente que está a mover e, em seguida, selecione **Utilizadores e licenças** .</span><span class="sxs-lookup"><span data-stu-id="97ff4-152">To reassign the customer's users' licenses, from the **Partner Center** menu, select **Customers** , select the customer you are moving, and then select **Users and licenses** .</span></span> <span data-ttu-id="97ff4-153">A página de Utilizadores e Licenças do cliente abre.</span><span class="sxs-lookup"><span data-stu-id="97ff4-153">The customer's Users and Licenses page opens.</span></span>
+
+4. <span data-ttu-id="97ff4-154">Para reatribuir a licença de utilizador, selecione o utilizador para reatribuir e, em seguida, **selecione Gerir licenças.**</span><span class="sxs-lookup"><span data-stu-id="97ff4-154">To reassign user license, select the user to reassign and then select **Manage licenses.**</span></span>
+
+5. <span data-ttu-id="97ff4-155">Na página **'Gerir licenças',** limpe a caixa de verificação da licença Skype for Business Online Plan 1 e selecione um novo plano de serviço para a subscrição para a qual o cliente está a mover-se.</span><span class="sxs-lookup"><span data-stu-id="97ff4-155">On the **Manage licenses** page, clear the Skype for Business Online Plan 1 license check box and select a new service plan for the subscription the customer is moving to.</span></span>
+
+6. <span data-ttu-id="97ff4-156">Selecione **Submeter** .</span><span class="sxs-lookup"><span data-stu-id="97ff4-156">Select **Submit** .</span></span> <span data-ttu-id="97ff4-157">Uma página de confirmação lista as novas atribuições de licença.</span><span class="sxs-lookup"><span data-stu-id="97ff4-157">A confirmation page lists the new license assignments.</span></span> <span data-ttu-id="97ff4-158">Continue este mesmo processo para outros utilizadores que necessitem de atribuição de licenças.</span><span class="sxs-lookup"><span data-stu-id="97ff4-158">Continue this same process for other users who need license assignments.</span></span>
+
+<span data-ttu-id="97ff4-159">Depois de transferir a licença do utilizador para o novo serviço, pode cancelar com segurança a subscrição aposentada a nível do cliente.</span><span class="sxs-lookup"><span data-stu-id="97ff4-159">After moving the user license to the new service, you can safely cancel the retired subscription at the customer level.</span></span>
+
+7. <span data-ttu-id="97ff4-160">A partir do menu **Partner Center,** selecione **Clientes.**</span><span class="sxs-lookup"><span data-stu-id="97ff4-160">From the **Partner Center** menu, select **Customers** .</span></span> <span data-ttu-id="97ff4-161">Selecione o cliente cuja subscrição está a cancelar.</span><span class="sxs-lookup"><span data-stu-id="97ff4-161">Select the customer whose subscription you are canceling.</span></span>
+
+8. <span data-ttu-id="97ff4-162">Na página de detalhes da subscrição, desa estale a subscrição **de Suspended** .</span><span class="sxs-lookup"><span data-stu-id="97ff4-162">In the subscription detail page, set the subscription to **Suspended** .</span></span>
+
+9. <span data-ttu-id="97ff4-163">**Selecione Enviar.**</span><span class="sxs-lookup"><span data-stu-id="97ff4-163">Select **Submit.**</span></span>
+
+<span data-ttu-id="97ff4-164">A subscrição antiga está suspensa e a nova subscrição está ativa.</span><span class="sxs-lookup"><span data-stu-id="97ff4-164">The old subscription is suspended, and the new subscription is active.</span></span> <span data-ttu-id="97ff4-165">A subscrição suspensa será desavisionada automaticamente após 120 dias.</span><span class="sxs-lookup"><span data-stu-id="97ff4-165">The suspended subscription will be de-provisioned automatically after 120 days.</span></span> <span data-ttu-id="97ff4-166">O cliente não incorre em custos adicionais para a subscrição antiga.</span><span class="sxs-lookup"><span data-stu-id="97ff4-166">The customer incurs no additional costs for the old subscription.</span></span>
+
