@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 99b688cae786f1abcb3059c706345c4089fa129a
-ms.sourcegitcommit: f5aebd9f8b56f79f758c97048f298a04d8fb55be
+ms.openlocfilehash: 94403cddbfa2f316b7ade84af1d9a1d233544fb4
+ms.sourcegitcommit: 13248a782fe6854909a2f1ed3eb6d9d0f2cb5a67
 ms.translationtype: HT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/22/2020
-ms.locfileid: "92526823"
+ms.lasthandoff: 10/27/2020
+ms.locfileid: "92749709"
 ---
 # <a name="partner-center-announcements"></a>Anúncios do Centro de Parceiros
 
@@ -22,6 +22,7 @@ Saiba mais sobre atualizações importantes do Centro de Parceiros. Estas inform
 
 | **Categoria** | **Anúncios de outubro de 2020** | **Anunciado** |
 |---------|:---------|:---------|
+|Capacidades|[Apresentamos um padrão de desempenho para requisitos de parceiros de faturação direta no programa de Fornecedor de Soluções Cloud (CSP)](2020-october.md#13)|27 de outubro|
 |Ofertas/Mercados|[Atualizações de Oferta do Microsoft 365 Voz para Empresas](2020-october.md#12)|16 de outubro|
 |Capacidades|[Atualização de novembro de 2020: Guia de Autorização para Canal de Software e Serviços Online](2020-october.md#11)|14 de outubro|
 |Ofertas/Mercados|[Introdução ao Microsoft 365 Voz para Empresas para organizações sem fins lucrativos](2020-october.md#10)|12 de outubro|

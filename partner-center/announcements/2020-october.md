@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 10/14/2020
-ms.openlocfilehash: 144ca69d3ea52921351d84dae40d007a976ddf73
-ms.sourcegitcommit: f5aebd9f8b56f79f758c97048f298a04d8fb55be
+ms.openlocfilehash: 453d6e130a6c563e7aac23cef1c7a91f8125fd9c
+ms.sourcegitcommit: 13248a782fe6854909a2f1ed3eb6d9d0f2cb5a67
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/22/2020
-ms.locfileid: "92530809"
+ms.lasthandoff: 10/27/2020
+ms.locfileid: "92749739"
 ---
 # <a name="october-2020-announcements"></a>Anúncios de outubro de 2020
 
@@ -22,6 +22,71 @@ Esta página detalha os anúncios do Microsoft Partner Center para outubro de 20
 
 Anúncios de 2020: [março](2020-march.md)  |  [April](2020-april.md)  |  [maio junho](2020-may.md)  |  [julho](2020-june.md)  |  [July](2020-july.md)  |  [agosto](2020-august.md)  |  [agosto](2020-september.md) Outubro
 
+________________________________
+
+## <a name="introducing-a-performance-standard-for-direct-bill-partner-requirements-in-the-cloud-solution-provider-csp-program"></a><a name="13"></a>Introduzindo um padrão de desempenho para os requisitos de parceiros de conta direta no programa Cloud Solution Provider (CSP)
+
+### <a name="categories"></a>Categorias
+
+- Data: 2020-10-27
+- Capacidades
+ 
+### <a name="summary"></a>Resumo
+
+Estamos a introduzir um padrão de desempenho como parte dos requisitos do parceiro de conta direta no programa Cloud Solution Provider.
+
+### <a name="impacted-audience"></a>Audiência impactada
+
+Parceiros de conta direto no programa Cloud Solution Provider.
+
+### <a name="details"></a>Detalhes
+
+Crescer e otimizar o programa Microsoft Cloud Solution Provider é uma parte importante da nossa jornada para uma nova experiência de comércio para parceiros e clientes. Como tal, continuaremos a evoluir o programa para atender às necessidades em mudança dos clientes e proporcionar a experiência mais eficiente e rentável para si, os nossos parceiros.
+
+Hoje estamos a partilhar algumas alterações futuras aos requisitos para parceiros de conta direta no programa Cloud Solution Provider.
+
+Em primeiro lugar, **estamos a introduzir um padrão de desempenho como parte dos requisitos dos parceiros de conta direta.** Os parceiros que pretendam inscrever-se como parceiros de conta direta no programa Cloud Solution Provider devem cumprir pelo menos USD300K em receitas do programa Cloud Solution Provider durante os 12 meses anteriores à data de renovação [do contrato de apoio exigido.](https://partner.microsoft.com/support/partnersupport)
+
+Esta norma de desempenho entrará em vigor em janeiro de 2021 para os atuais parceiros de conta direta, e terá de cumprir os requisitos através da data de renovação do plano de apoio ao seu parceiro.
+
+Se não conseguir ou preferir não cumprir os requisitos atualizados do parceiro de conta direta, terá de se reinscrever como revendedor indireto no programa Cloud Solution Provider. 
+
+Este novo requisito de receita ajudará os parceiros no programa Cloud Solution Provider a construir um negócio mais rentável através do modelo certo, com um padrão de desempenho mais claro, e focar-se em oferecer maior valor aos clientes com menos infraestruturas e sobrecargas operacionais.
+
+Em segundo lugar, em agosto de 2018, atualizámos os requisitos dos parceiros de conta direta com novos critérios para os parceiros adquirirem um plano de apoio a parceiros qualificados. Estamos a sublinhar a importância disto necessário para todos os parceiros de conta direta no programa Cloud Solution Provider.
+
+### <a name="direct-bill-partner-requirements"></a>Requisitos diretos do parceiro de conta
+
+Reveja os requisitos e recomendações [dos parceiros de conta direta atualizados](https://docs.microsoft.com/partner-center/direct-partner-new-requirements#minimum-requirements) para avaliar como pode construir e expandir um negócio mais rentável com o modelo certo no programa Cloud Solution Provider:
+
+1. **Novos requisitos de desempenho das receitas**
+
+**Os parceiros existentes** que estão atualmente inscritos no programa Cloud Solution Provider como parceiros de conta direta terão de cumprir o novo padrão de desempenho a partir de janeiro de 2021. Terá tempo até que o próximo plano de apoio ao seu próximo parceiro de renovação cumpra os requisitos. Pode rever as suas receitas de 12 meses no Partner Center seguindo [este guia.](https://partner.microsoft.com/resources/detail/new-subscription-analytics-report-on-partner-center-guide-pdf)
+
+Os novos parceiros que se inscrevam no programa Cloud Solution Provider vão começar como revendedores indiretos a partir **de outubro de 2020.** Devem ter pelo menos 300 mil dólares em receitas de CSP durante os 12 meses anteriores. Pode rever as suas receitas de 12 meses no Partner Center seguindo [este guia.](https://partner.microsoft.com/resources/detail/new-subscription-analytics-report-on-partner-center-guide-pdf) 
+
+2. **Requisito de contrato de apoio** 
+
+Expanda as suas capacidades de suporte comprando uma de duas opções de contrato de apoio:  
+
+   - Microsoft Advanced Support for Partners (ASfP): Suporte de nuvem priorizado  
+   - Microsoft Premier Support for Partners (PSfP): Aceda ao catálogo completo de serviços proactivos, suporte elevado de break/correção 24 horas por dia e gestão de conta técnica em toda a nuvem, híbrido e no local. 
+
+Compare as [opções do contrato de apoio](https://partner.microsoft.com/support/partnersupport) para comprar um plano qualificado.
+
+### <a name="direct-bill-partner-recommendations"></a>Recomendações diretas do parceiro de conta
+
+**Demonstrar capacidades-chave**
+
+Para ajudar a garantir que está pronto e conhecedor da infraestrutura necessária para apoiar o programa de faturação direta, temos algumas recomendações adicionais. Demonstre que fornece pelo menos um serviço gerido, serviço IP ou aplicação de solução de cliente. Os parceiros devem estar a adicionar valor em cima dos serviços da Microsoft Cloud e não apenas a revender diretamente os nossos serviços. É uma parte importante da estratégia de mercado de um parceiro. [Saiba mais](https://partner.microsoft.com/solutions/managed-services) sobre a adição de serviços geridos. Recomendamos que cumpra as capacidades mínimas de infraestrutura, tais como faturação e provisionamento. 
+
+Os parceiros de conta direta no programa CSP que não satisfaçam os novos requisitos terão de se reinscreverê-los como revendedores indiretos no programa dentro da Microsoft Partner Network. [Saiba mais](https://docs.microsoft.com/partner-center/transition-direct-to-indirect) sobre como pode fazer a transição de um parceiro de conta direta para um revendedor indireto.  
+
+### <a name="next-steps"></a>Passos seguintes
+
+- Reveja os [requisitos atualizados do parceiro de conta direta](https://docs.microsoft.com/partner-center/direct-partner-new-requirements#minimum-requirements).
+- Reveja as FAQ e outras informações na [Galeria de Recursos de Operações no site do parceiro da Microsoft.](https://partner.microsoft.com/resources/collection/new-performance-standard-for-direct-bill-partner-requirements-in-csp#/)
+- Encontre [um fornecedor indireto para trabalhar se](https://partner.microsoft.com/membership/cloud-solution-provider/find-a-provider) a opção de revendedor indireto se adequa melhor às necessidades do seu negócio.
 ________________________________
 
 ## <a name="microsoft-365-business-voice-offer-updates"></a><a name="12"></a>Atualizações da oferta de voz de negócios microsoft 365
@@ -73,7 +138,7 @@ ________________
 ### <a name="categories"></a>Categorias
 
 - Data: 2020-10-14
-- Funcionalidade
+- Capacidade
  
 ### <a name="summary"></a>Resumo 
 Atualizações para o guia de autorização mpa.
@@ -187,7 +252,7 @@ ________________
 ### <a name="categories"></a>Categorias
 
 - Data: 2020-10-07
-- Funcionalidade
+- Capacidade
  
 ### <a name="summary"></a>Resumo 
 

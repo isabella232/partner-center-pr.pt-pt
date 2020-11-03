@@ -8,13 +8,13 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.date: 10/09/2020
-ms.openlocfilehash: 98c9cdd96af037e8543828e3a6f2e93c5b0fcbcd
-ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
+ms.date: 10/28/2020
+ms.openlocfilehash: 760e0157437dbad74c779100123b4239083ca6b7
+ms.sourcegitcommit: 1840767efa4c5de41889bc9245567cf286a084c8
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "92795783"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "92917149"
 ---
 # <a name="requirements-to-enroll-as-a-csp-direct-bill-partner"></a>Requisitos para se inscrever como um CSP Direct Bill Partner
 
@@ -28,11 +28,11 @@ Como parceiro de conta direta, é dono da relação de ponta a ponta com o seu c
 
 ### <a name="minimum-requirements"></a>Requisitos mínimos
 
-|**Requisito**|                             |
+|**Requisito**| **Explicação**|
 |--------------------------------|--------------------------------------------------------------|
 |**ID do MPN**   |Um ID ativo da Microsoft Partner Network (MPN) para a sua localização de negócio.    |
 |**Recomendação**   |A autoridade para aceitar e assinar acordos legais em nome da sua organização.|
-|**Receitas**|A partir de janeiro de 2021, os parceiros inscritos como parceiros de conta direta terão de ter transacionado pelo menos USD$300K em receitas do programa Cloud Solution Provider a um nível de Conta Global de Parceiros nos 12 meses anteriores.| 
+|**Receitas**|Deve cumprir pelo menos USD300K no programa Cloud Solution Provider receitas anuais durante os doze meses anteriores como revendedor indireto. Os parceiros podem rever os seus 12 meses de receitas no Partner Center.As vendas que compõem as suas receitas de 12 meses estão sujeitas a revisão e verificação pela Microsoft e podem ser-lhe solicitadas informações adicionais. O requisito de receitas de USD300K é calculado com base nas receitas da nuvem e excluirá software perpétuo em CSP. Consulte a [análise de subscrição](https://partner.microsoft.com/dashboard/analytics/licenseanalytics) para obter detalhes das receitas anteriores de 12 meses.|
 |**Suporte**   |A capacidade de fornecer o primeiro nível de suporte de produto em nuvem aos seus clientes. <br/>Um plano de suporte da Microsoft, ou Suporte Avançado para Parceiros (ASfP) ou Premier Support for Partners (PSfP), dependendo das suas necessidades. [Compare os planos de suporte.](https://partner.microsoft.com/support/partnersupport)<br/> IMPORTANTE: Tem de passar uma verificação de crédito antes de poder adquirir um plano de suporte. Enviaremos um e-mail quando passar o cheque de crédito. |
 |**Serviço Gerido**   |Pelo menos um serviço gerido, serviço IP ou aplicação de solução de cliente. Saiba mais sobre a adição de [serviços geridos.](https://partner.microsoft.com/business-opportunities/managed-services-provider)|
 |**Contas a receber** |A infraestrutura organizacional em vigor para gerir a faturação e o provisionamento dos clientes.|
@@ -55,6 +55,9 @@ Os atuais parceiros de conta direta devem cumprir os novos requisitos para perma
 Se decidir passar de um negócio de contas diretas para um negócio de revendedor indireto, há vários passos que terá de dar. Para saber mais sobre a transição, leia [a Transição do Cloud Solution Provider (CSP) parceiro direto para o revendedor indireto CSP](transition-direct-to-indirect.md).
 
 ## <a name="next-steps"></a>Passos seguintes
+
+- [Novo requisito de receita para parceiros de conta direta](https://docs.microsoft.com/partner-center/announcements/2020-october#13)
+ 
 
 - [Informações adicionais sobre se tornar um revendedor indireto](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf)
 

@@ -6,12 +6,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: seodec18
 ms.date: 06/12/2020
-ms.openlocfilehash: 26912daeae6648d49d1fda3ee148d46c8a3d6705
-ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
+ms.openlocfilehash: 47827b6aa3bb9853355a6e2fa4f8816e1dd701a1
+ms.sourcegitcommit: 7f595faf952bf2d6cdc229da38bd67ee701b2083
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "92795836"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "93189752"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>Unir a sua conta de parceiro com outra conta de parceiro
 
@@ -103,13 +103,23 @@ Caso decida aceitar o convite para fundir contas: · Os seus ID(s) (s) e locais 
  
     a.  um ID MPN global de 3333333 e dois IDs MPN de localização subordinada de 44444444 e 555555
 
-    b.  um inquilino da AAD = @fabricam.com
+    b.  um inquilino AD AZure = @fabricam.com
 
     c.  duas competências de ouro que expiram 1 de dezembro de 2020
-3.  Contoso compra Fabricam e vai [aqui](https://partner.microsoft.com/dashboard/account/merger) para iniciar um pedido de fusão
+3.  Contoso compra Fabricam e vai [aqui](https://partner.microsoft.com/dashboard/account/merger) para iniciar um pedido de fusão.
 4.  Fabricam assina no Partner Center e vai para a mesma página que Contoso fez em passo #3, para aprovar o pedido de Contoso.
 5.  A Contoso revê os detalhes da fusão nessa mesma página e fornece confirmação para avançar com a fusão da conta.
+6.  Após a fusão, a conta da empresa apresentará como:
+
+    a.  Uma empresa chamada Contoso com um ID MPN global de 11111111 e 4 MPN de localização subordinada mpn IDs de 22222222, 33333333, 44444444 e 5555555
     
+    b.  Terá dois inquilinos da AD Azure @contoso.com @fabricam.com (+) que têm acesso à mesma conta partner Center
+    
+    c.  Terá dois pacotes de benefícios de competência, um que expira a 1 de outubro de 2020 e outro que expira a 1 de dezembro de 2020. Poderão renovar-se como um único pacote de benefícios de competência a 1 de dezembro de 2020. Quando renovarem, a Contoso manterá as três competências, embora só possam manter um pacote de benefícios únicos.
+    
+7.  Os administradores da Contoso continuarão a gerir as funções do Partner Center para @contoso.com os utilizadores. Os administradores da Fabricam continuarão a gerir as funções do Partner Center para @fabricam.com os utilizadores. Os administradores de Contoso só podem administrar os utilizadores da Fabricam se forem convidados como convidados para o inquilino de Fabricam.
+8.  Contoso poderia decidir ignorar o @fabricam.com inquilino, e reeditar os empregados da Fabricam novas @contoso.com credenciais com novas funções e permissões.
+
 ## <a name="next-steps"></a>Passos seguintes
 
 - [Assign users roles and permissions](permissions-overview.md) (Atribuir funções e permissões de utilizador)

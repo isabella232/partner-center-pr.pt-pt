@@ -1,7 +1,7 @@
 ---
 title: Enroll in the Cloud Solution Provider program (Inscrever-se no programa do Fornecedor de Soluções Cloud)
 ms.topic: how-to
-ms.date: 10/28/2020
+ms.date: 10/29/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como se inscrever no modelo de vendas do programa Cloud Solution Provider (CSP) que é o melhor para o seu negócio, como o revendedor indireto ou o parceiro de conta direta.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1074b25ef90495db82600fc5c18b335a91970d84
-ms.sourcegitcommit: 1840767efa4c5de41889bc9245567cf286a084c8
+ms.openlocfilehash: d94941cf7f2530b7c60c099035a90f7a792e7a7a
+ms.sourcegitcommit: 7dd8aa793922160102a7a6aaca2c7e8f9a49b8a9
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "92917166"
+ms.lasthandoff: 10/30/2020
+ms.locfileid: "93045400"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Enroll in the Cloud Solution Provider program (Inscrever-se no programa do Fornecedor de Soluções Cloud)
 
@@ -64,27 +64,25 @@ Para obter mais informações sobre o que é necessário para participar no prog
 
 ## <a name="enroll-as-a-direct-bill-partner"></a>Inscreva-se como parceiro de conta direta
 
-Como parceiro de conta direta, é dono da relação de ponta a ponta com o seu cliente e com a Microsoft. Atualizámos os requisitos de inscrição para parceiros de conta direta a partir de 31 de agosto de 2018. Estes novos requisitos irão ajudá-lo a acelerar o crescimento do seu negócio com o modelo de inscrição csp certo e fortalecer as suas relações com o cliente com serviços de valor acrescentado e suporte.
+Como parceiro de conta direta, é dono da relação de ponta a ponta com o seu cliente e com a Microsoft. Atualizámos os requisitos de inscrição para os sócios diretos a partir de 27 de outubro de 2020. Estes requisitos irão ajudá-lo a acelerar o crescimento do seu negócio com o modelo de programa right Cloud Solution Provider e fortalecer as suas relações com os serviços de valor acrescentado e suporte.  
 
 ### <a name="minimum-requirements"></a>Requisitos mínimos
 
 |**Requisito**|                             |
 |--------------------------------|--------------------------------------------------------------|
-|**ID do MPN**   |Um ID ativo da Microsoft Partner Network (MPN) para a sua localização de negócio.    |
+|**ID do MPN**   |Uma adesão ativa na Microsoft Partner Network e MPN ID para a localização em que pretende vender.    |
 |**Recomendação**   |A autoridade para aceitar e assinar acordos legais em nome da sua organização.|
 |**Suporte**   |A capacidade de fornecer o primeiro nível de suporte de produto em nuvem aos seus clientes. <br>Um plano de suporte da Microsoft, ou Suporte Avançado para Parceiros (ASfP) ou Premier Support for Partners (PSfP), dependendo das suas necessidades. [Compare os planos de suporte.](https://partner.microsoft.com/support/partnersupport)<br> IMPORTANTE: Tem de passar uma verificação de crédito antes de comprar um plano de apoio. Enviaremos um e-mail quando passar o cheque de crédito. |
-|**Requisito de receita**|Deve cumprir pelo menos USD300K no programa Cloud Solution Provider receitas anuais durante os doze meses anteriores como revendedor indireto. Os parceiros podem rever os seus 12 meses de receitas no Partner Center.As vendas que compõem as suas receitas de 12 meses estão sujeitas a revisão e verificação pela Microsoft e podem ser-lhe solicitadas informações adicionais. O requisito de receitas de USD300K é calculado com base nas receitas da nuvem e excluirá software perpétuo em CSP.|
+|**Requisito de receita**|Deve cumprir pelo menos USD300K no programa Cloud Solution Provider receitas anuais durante os doze meses anteriores como revendedor indireto. Os parceiros podem rever os seus 12 meses de receitas no Partner Center.<br/>As vendas que compõem o seu USD300K com receitas de 12 meses estão sujeitas a revisão e verificação pela Microsoft e poderá ser-lhe pedido que forneça informações adicionais. O requisito de receitas de USD300K é calculado com base nas receitas da nuvem e excluirá software perpétuo em CSP.|
+|**Contas a receber** |A infraestrutura organizacional em vigor para gerir a faturação e o provisionamento dos clientes.|
+|**Recomendação**|             |
 |**Serviço Gerido**   |Pelo menos um serviço gerido, serviço IP ou aplicação de solução de cliente. Saiba mais sobre a adição de [serviços geridos.](https://partner.microsoft.com/business-opportunities/managed-services-provider)|
-|**Contas a receber** |A infraestrutura organizacional em vigor para gerir a faturação e o provisionamento dos clientes.
 
 ### <a name="verify-direct-bill-eligibility"></a>Verificar elegibilidade da conta direta
 
-Se ainda não o fez, reveja os requisitos mínimos acima para se certificar de que os pode cumprir e, em seguida, preencha o [questionário cloud Solution Provider](https://partner.microsoft.com/cloud-solution-provider/assessment).
-
-Utilizamos as suas respostas às perguntas no formulário para nos ajudar a determinar a sua elegibilidade para se inscrever no programa CSP como parceiro de conta direta.
+Depois de verificar que cumpre os requisitos mínimos para se inscrever como parceiro de conta direta, pode proceder ao [formulário de inscrição.](https://partner.microsoft.com/pcv/register/joinnow/enrollmentwelcome/Reseller/migrate?cloudInstance=Global)
 
 Depois de verificarmos que a sua empresa preenche os requisitos de elegibilidade para se inscrever como sócio de conta direta, e você completou o pedido de inscrição, vamos rever e verificar as informações de negócio que forneceu no processo de inscrição. Como parte desta revisão, vamos verificar o crédito da sua empresa. Informá-lo-emos por e-mail quando a sua empresa passar a verificação de crédito.
-
 >[!IMPORTANT]
 >Verificar o crédito da sua empresa pode levar-nos vários dias ou mais para ser concluído. Durante este tempo, é importante que não compre um plano de suporte da Microsoft. Só deve comprar um plano de suporte da Microsoft depois de o informarmos que passou a verificação de crédito.
 
