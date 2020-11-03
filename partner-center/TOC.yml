@@ -46,6 +46,8 @@
       items:
         - name: Obter informações sobre competências
           href: learn-about-competencies.md
+        - name: FAQ sobre competências
+          href: competencies-faq.md
         - name: Isenção de competências de Programação de Aplicações
           href: app-dev-isv.md
     - name: Especializações avançadas
