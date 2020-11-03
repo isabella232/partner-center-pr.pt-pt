@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 10/27/2020
-ms.openlocfilehash: f90c9ae32e68d6e772c51cede28237f500a0a7b9
-ms.sourcegitcommit: 1840767efa4c5de41889bc9245567cf286a084c8
+ms.openlocfilehash: d41ec7b7ce3c8f7140b0944b4d39150ef34a9d83
+ms.sourcegitcommit: 3cca87a10e8aebbf5be144ef525217509f0521ec
 ms.translationtype: MT
 ms.contentlocale: pt-PT
 ms.lasthandoff: 10/29/2020
-ms.locfileid: "92917264"
+ms.locfileid: "93027912"
 ---
 # <a name="october-2020-announcements"></a>Anúncios de outubro de 2020
 
@@ -23,6 +23,42 @@ Esta página detalha os anúncios do Microsoft Partner Center para outubro de 20
 Anúncios de 2020: [março](2020-march.md)  |  [April](2020-april.md)  |  [maio junho](2020-may.md)  |  [julho](2020-june.md)  |  [July](2020-july.md)  |  [agosto](2020-august.md)  |  [agosto](2020-september.md) Outubro
 
 ______________
+
+## <a name="windows-10-education-upgrade-is-now-available-to-qualified-cloud-solution-provider-csp-education-customers"></a><a name="16"></a>Atualização de educação do Windows 10 já está disponível para clientes qualificados do Cloud Solution Provider (CSP) Educação
+
+### <a name="categories"></a>Categorias
+
+- Data: 2020-10-28
+- Capacidades
+
+### <a name="summary"></a>Resumo
+
+Os Parceiros CSP que tenham adquirido as subscrições Microsoft 365 A3/A5 ou Windows 10 Enterprise A3/A5 para os seus clientes de Educação podem agora ajudá-los a atualizar os seus dispositivos Domésticos Windows 10 para o Windows 10 Education.
+
+### <a name="impacted-audience"></a>Audiência impactada
+
+Parceiros CSP que compraram subscrições Microsoft 365 A3/A5 ou Windows 10 Enterprise A3/A5 para os seus clientes de Educação
+
+### <a name="details"></a>Detalhes
+
+A partir de 1 de novembro de 2020, os CSPs que adquiriram as subscrições Microsoft 365 A3/A5 ou Windows 10 Enterprise A3/A5 podem ajudar os seus clientes de Educação a atualizarem-se do Windows 10 Home para o Windows 10 Education, que é projetado tanto para a sala de aula como para a aprendizagem remota.
+
+A partir de 1 de novembro de 2020, o Windows 10 Home será um sistema operativo e qualitatório para clientes de Educação licenciados através do Microsoft Cloud Agreement (através de CSP). Esta elegibilidade, que até agora só estava disponível em programas de educação de Licenciamento de Volume (VL), foi ativada através do suporte ao portal de administração microsoft 365. 
+
+#### <a name="how-the-upgrade-process-works"></a>Como funciona o processo de atualização
+
+A CSP Partners pode ajudar os seus clientes a fazer upgrade, apresentando um pedido de apoio em seu nome. O Microsoft Support irá rever o pedido para garantir que o seu cliente se qualifica; assim que o pedido for aprovado, fornecerão a chave de Educação Pro do Windows 10 ao cliente.
+
+Quando o cliente instalar a chave e o dispositivo é associado ao domínio do inquilino através do Azure Ative Directory (AAD), o dispositivo será automaticamente atualizado para o Windows 10 Education (subscrição).   
+
+Detalhes sobre como atualizar os clientes podem ser encontrados no [guia Step by Step e frequentemente questionados tópicos](../upgrade-windows-to-education.md)de perguntas.
+
+### <a name="next-steps"></a>Passos seguintes
+
+- Notifique os seus clientes elegíveis e guie-os através do processo passo a passo.
+- Partilhe esta informação com as pessoas apropriadas da sua organização.  
+
+________________
 
 ## <a name="refreshed-cloud-solution-provider-csp-digital-experience-now-available"></a><a name="15"></a>Experiência digital refreshed Cloud Solution Provider (CSP) já disponível
 
@@ -499,7 +535,7 @@ O Promo SKU de Comunicações Avançadas para equipas da Microsoft estará dispo
    |-------------------|:------|:------|
    |Promo de Comunicações Avançadas|0e89eea4-5cb1-4417-9f5d-886d1ff87940|1UC-00013|
 
-#### <a name="frequently-asked-questions"></a>Perguntas frequentes
+#### <a name="frequently-asked-questions"></a>Perguntas mais frequentes
 
 **O que é Comunicação Avançada?**
 Este é um novo SKU adicional da Microsoft Teams, permitindo aos clientes melhorar ainda mais a sua experiência de comunicação em cima de qualquer suite Microsoft 365 ou Office 365 a que estão subscritos.
