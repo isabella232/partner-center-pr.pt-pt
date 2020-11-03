@@ -1,0 +1,78 @@
+---
+title: Visão geral do programa do Provedor de Solução de Nuvem
+ms.topic: article
+ms.date: 05/05/2020
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
+description: Saiba mais sobre os benefícios e diferentes modelos do programa Cloud Solution Provider (CSP) para ajudar o seu negócio a crescer com novos clientes e novas experiências.
+author: billlinzbach
+ms.author: billLi
+ms.localizationpriority: high
+ms.custom: SEOMAY.20
+ms.openlocfilehash: e1f85f670de583052807c9ff2edfa84a50bd7daf
+ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.translationtype: MT
+ms.contentlocale: pt-PT
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92530623"
+---
+# <a name="cloud-solution-provider-program"></a><span data-ttu-id="3ae7d-103">Programa fornecedor de solução de nuvem</span><span class="sxs-lookup"><span data-stu-id="3ae7d-103">Cloud Solution Provider program</span></span> 
+
+<span data-ttu-id="3ae7d-104">**Aplica-se a**</span><span class="sxs-lookup"><span data-stu-id="3ae7d-104">**Applies to**</span></span>
+
+- <span data-ttu-id="3ae7d-105">Partner Center</span><span class="sxs-lookup"><span data-stu-id="3ae7d-105">Partner Center</span></span>
+- <span data-ttu-id="3ae7d-106">Parceiros no programa CSP</span><span class="sxs-lookup"><span data-stu-id="3ae7d-106">Partners in the CSP program</span></span>
+
+<span data-ttu-id="3ae7d-107">Este artigo apresenta uma visão geral do programa Cloud Solution Provider (CSP) e explica os diferentes modelos operacionais e os seus requisitos, bem como outros detalhes sobre a venda através deste programa.</span><span class="sxs-lookup"><span data-stu-id="3ae7d-107">This article gives an overview of the Cloud Solution Provider (CSP) program, and explains the different operational models and their requirements, as well as other details about selling through this program.</span></span>  <span data-ttu-id="3ae7d-108">O programa CSP ajuda-o a envolver-se mais nos negócios dos seus clientes, para além da revenda de licenças, e pode incluir os seguintes benefícios:</span><span class="sxs-lookup"><span data-stu-id="3ae7d-108">The CSP program helps you to be more involved in you customers' businesses, beyond reselling licenses, and can include the following benefits:</span></span> 
+
+- <span data-ttu-id="3ae7d-109">Compromissos mais profundos com o cliente: Reunir-se regularmente com os seus clientes significa que desenvolverá uma melhor compreensão dos seus negócios e necessidades.</span><span class="sxs-lookup"><span data-stu-id="3ae7d-109">Deeper customer engagements: Meeting regularly with your customers means you will develop a better understanding of their business and needs.</span></span>
+- <span data-ttu-id="3ae7d-110">Aumento dos lucros: Oferecer serviços de apoio e faturação acrescidos, quer por conta própria, quer através de um prestador indireto, abre novos fluxos de receitas.</span><span class="sxs-lookup"><span data-stu-id="3ae7d-110">Increased profits: Offering increased support and billing services, whether on your own or through an indirect provider, opens up new revenue streams.</span></span>  
+- <span data-ttu-id="3ae7d-111">Valor acrescentado: Poderá oferecer aos clientes soluções específicas para a indústria, agregadas com produtos da Microsoft.</span><span class="sxs-lookup"><span data-stu-id="3ae7d-111">Add value: You'll be able to offer customers industry-specific solutions bundled with Microsoft products.</span></span>
+- <span data-ttu-id="3ae7d-112">Fornecer serviços geridos: Estará bem posicionado para atender à procura de serviços geridos pelo cliente.</span><span class="sxs-lookup"><span data-stu-id="3ae7d-112">Provide managed services: You'll be well positioned to meet customer demand for managed services.</span></span> 
+
+## <a name="which-csp-model-is-best-for-me"></a><span data-ttu-id="3ae7d-113">Qual é o melhor modelo da CSP para mim?</span><span class="sxs-lookup"><span data-stu-id="3ae7d-113">Which CSP model is best for me?</span></span>
+
+### <a name="direct-bill-model"></a><span data-ttu-id="3ae7d-114">Modelo de conta direta</span><span class="sxs-lookup"><span data-stu-id="3ae7d-114">Direct bill model</span></span>
+
+ <span data-ttu-id="3ae7d-115">No modelo de conta direta, os parceiros compram produtos e subscrições da Microsoft diretamente da Microsoft e vendem-nos diretamente aos seus clientes através do seu pessoal de vendas internos.</span><span class="sxs-lookup"><span data-stu-id="3ae7d-115">In the direct bill model, partners purchase Microsoft products and subscriptions directly from Microsoft and sell them directly to their customers through their in-house sales staff.</span></span> <span data-ttu-id="3ae7d-116">Os parceiros que já operam com, ou estão dispostos a desenvolver, as infraestruturas de vendas, faturação e apoio adequadas podem escolher o modelo direto da CSP.</span><span class="sxs-lookup"><span data-stu-id="3ae7d-116">Partners who already operate with, or are willing to develop, the appropriate sales, billing, and support infrastructure may choose the CSP direct model.</span></span> <span data-ttu-id="3ae7d-117">Os requisitos para se tornarem sócios diretos foram recentemente alterados e entrarão em vigor a partir de 31 de agosto de 2018.</span><span class="sxs-lookup"><span data-stu-id="3ae7d-117">The requirements to become a direct partner have recently been changed and will take effect as of August 31, 2018.</span></span> <span data-ttu-id="3ae7d-118">Os parceiros diretos terão de cumprir os novos requisitos a partir do próximo período de matrículas após 31 de agosto de 2018.</span><span class="sxs-lookup"><span data-stu-id="3ae7d-118">Direct partners will need to meet the new requirements as of their next enrollment period after August 31, 2018.</span></span>
+
+#### <a name="new-expanded-requirements"></a><span data-ttu-id="3ae7d-119">Novos requisitos alargados</span><span class="sxs-lookup"><span data-stu-id="3ae7d-119">New expanded requirements</span></span>
+
+<span data-ttu-id="3ae7d-120">Suporte</span><span class="sxs-lookup"><span data-stu-id="3ae7d-120">Support</span></span>
+
+- <span data-ttu-id="3ae7d-121">Expanda as suas capacidades de suporte comprando suporte de nuvem um-a-um, priorizado com um pacote de Suporte Avançado para Parceiros da Microsoft.</span><span class="sxs-lookup"><span data-stu-id="3ae7d-121">Expand your support capabilities by purchasing one-on-one, prioritized cloud support with a Microsoft Advanced Support for Partners package.</span></span> <span data-ttu-id="3ae7d-122">Ou, escolha um pacote microsoft Premier Support for Partners para aceder ao catálogo completo de serviços proactivos, suporte elevado de break/correção 24/7 e gestão técnica de conta através da nuvem, híbrido e no local.</span><span class="sxs-lookup"><span data-stu-id="3ae7d-122">Or, choose a Microsoft Premier Support for Partners package to access the complete catalog of proactive services, 24/7 elevated break/fix support, and technical account management across cloud, hybrid, and on-premises.</span></span>
+
+<span data-ttu-id="3ae7d-123">Serviços</span><span class="sxs-lookup"><span data-stu-id="3ae7d-123">Services</span></span>
+
+- <span data-ttu-id="3ae7d-124">Demonstre que fornece pelo menos um serviço gerido, serviço IP ou aplicação de solução de cliente.</span><span class="sxs-lookup"><span data-stu-id="3ae7d-124">Demonstrate that you provide at least one managed service, IP service, or customer solution application.</span></span> 
+
+- <span data-ttu-id="3ae7d-125">Cumprir as capacidades mínimas de infraestrutura, tais como faturação e provisionamento.</span><span class="sxs-lookup"><span data-stu-id="3ae7d-125">Meet the minimum infrastructure capabilities, such as billing and provisioning.</span></span> <span data-ttu-id="3ae7d-126">Estamos a monitorizar o desempenho anual para confirmar que os parceiros de contas diretos que cumprem estes requisitos estão a demonstrar um crescimento constante do negócio.</span><span class="sxs-lookup"><span data-stu-id="3ae7d-126">We are monitoring annual performance to confirm that direct bill partners who meet these requirements are demonstrating steady business growth.</span></span> <span data-ttu-id="3ae7d-127">Não existem objetivos de desempenho específicos neste momento, mas a Microsoft pode implementar uma barra de desempenho no futuro.</span><span class="sxs-lookup"><span data-stu-id="3ae7d-127">There are no specific performance goals in place at this time, but Microsoft may implement a performance bar in the future.</span></span>
+
+- <span data-ttu-id="3ae7d-128">Um ID ativo da Microsoft Partner Network (MPN) para a localização que pretende vender</span><span class="sxs-lookup"><span data-stu-id="3ae7d-128">An active Microsoft Partner Network (MPN) ID for the location you want to sell in</span></span>
+
+### <a name="indirect-model"></a><span data-ttu-id="3ae7d-129">Modelo indireto</span><span class="sxs-lookup"><span data-stu-id="3ae7d-129">Indirect model</span></span>
+
+<span data-ttu-id="3ae7d-130">No modelo indireto, os fornecedores (também conhecidos como distribuidores) compram produtos e subscrições da Microsoft diretamente da Microsoft, mas vendem aos clientes através de uma rede de revendedores indiretos.</span><span class="sxs-lookup"><span data-stu-id="3ae7d-130">In the indirect model, providers (also known as distributors) purchase Microsoft products and subscriptions directly from Microsoft, but sell to customers through a network of indirect resellers.</span></span> <span data-ttu-id="3ae7d-131">Os pré-requisitos para a inscrição na CSP como revendedor indireto incluem:</span><span class="sxs-lookup"><span data-stu-id="3ae7d-131">The prerequisites for enrolling in CSP as an indirect reseller include:</span></span>
+
+- <span data-ttu-id="3ae7d-132">Um ID ativo da Microsoft Partner Network (MPN) para a localização que pretende vender</span><span class="sxs-lookup"><span data-stu-id="3ae7d-132">An active Microsoft Partner Network (MPN) ID for the location you want to sell in</span></span>
+- <span data-ttu-id="3ae7d-133">A capacidade de assinar acordos legais em nome da sua organização</span><span class="sxs-lookup"><span data-stu-id="3ae7d-133">The ability to sign legal agreements on behalf of your organization</span></span>
+- <span data-ttu-id="3ae7d-134">Uma relação com um [fornecedor oficial da Microsoft](https://partnercenter.microsoft.com/partner/find-a-provider)</span><span class="sxs-lookup"><span data-stu-id="3ae7d-134">A relationship with an [official Microsoft provider](https://partnercenter.microsoft.com/partner/find-a-provider)</span></span>
+
+## <a name="where-can-i-sell-through-the-csp-program"></a><span data-ttu-id="3ae7d-135">Onde posso vender através do programa CSP?</span><span class="sxs-lookup"><span data-stu-id="3ae7d-135">Where can I sell through the CSP program?</span></span>
+
+<span data-ttu-id="3ae7d-136">A localização da sua empresa determina o seu mercado.</span><span class="sxs-lookup"><span data-stu-id="3ae7d-136">Your company's location determines your market.</span></span> <span data-ttu-id="3ae7d-137">O seu mercado inclui as regiões e/ou os países onde pode vender ofertas do CSP.</span><span class="sxs-lookup"><span data-stu-id="3ae7d-137">Your market includes the regions and/or countries where you can sell CSP offers.</span></span> <span data-ttu-id="3ae7d-138">Consulte [o programa Cloud Solution Provider mercados regionais e moedas](regional-authorization-overview.md) para a lista completa de mercados e moedas CSP.</span><span class="sxs-lookup"><span data-stu-id="3ae7d-138">See [Cloud Solution Provider program regional markets and currencies](regional-authorization-overview.md) for the complete list of CSP markets and currencies.</span></span>
+
+<span data-ttu-id="3ae7d-139">Antes de poder encomendar ofertas de CSP em nome de um cliente, o cliente deve assinar o Microsoft Customer Agreement.</span><span class="sxs-lookup"><span data-stu-id="3ae7d-139">Before you can order CSP offers on behalf of a customer, the customer must sign the Microsoft Customer Agreement.</span></span> <span data-ttu-id="3ae7d-140">Pode encontrar [aqui](agreements.md)o Acordo de Cliente da Microsoft aplicável para a localização do seu cliente.</span><span class="sxs-lookup"><span data-stu-id="3ae7d-140">You can find the applicable Microsoft Customer Agreement for your customer's location [here](agreements.md).</span></span>  
+
+## <a name="what-can-i-sell-through-the-csp-program"></a><span data-ttu-id="3ae7d-141">O que posso vender através do programa CSP?</span><span class="sxs-lookup"><span data-stu-id="3ae7d-141">What can I sell through the CSP program?</span></span>
+
+<span data-ttu-id="3ae7d-142">Pode vender toda a gama de [serviços na nuvem](https://partner.microsoft.com/cloud-solution-provider/products-and-services)da Microsoft, bem como uma variedade de ofertas adicionais que mudam frequentemente.</span><span class="sxs-lookup"><span data-stu-id="3ae7d-142">You can sell the full range of [Microsoft cloud services](https://partner.microsoft.com/cloud-solution-provider/products-and-services), as well as a variety of additional offers that change frequently.</span></span> <span data-ttu-id="3ae7d-143">Para ver as ofertas do CSP para o mês em curso, inscreva-se no Centro de Parceiros e, em seguida, vá à página [**de Preços e Ofertas.**](https://partnercenter.microsoft.com/pcv/sales)</span><span class="sxs-lookup"><span data-stu-id="3ae7d-143">To see the CSP offers for the current month, sign in to the Partner Center and then go to the [**Pricing and offers**](https://partnercenter.microsoft.com/pcv/sales) page.</span></span>
+
+## <a name="next-steps"></a><span data-ttu-id="3ae7d-144">Passos seguintes</span><span class="sxs-lookup"><span data-stu-id="3ae7d-144">Next steps</span></span>
+
+- [<span data-ttu-id="3ae7d-145">Inscreva-se no programa CSP</span><span class="sxs-lookup"><span data-stu-id="3ae7d-145">Enroll in the CSP program</span></span>](enrolling-in-the-csp-program.md)
+- <span data-ttu-id="3ae7d-146">[Requisitos de revisão para cada modelo CSP](https://partnercenter.microsoft.com/partner/cloud-solution-provider)|</span><span class="sxs-lookup"><span data-stu-id="3ae7d-146">[Review requirements for each CSP model](https://partnercenter.microsoft.com/partner/cloud-solution-provider)|</span></span>
+- [<span data-ttu-id="3ae7d-147">Aplicar para vender em nuvens nacionais da Microsoft</span><span class="sxs-lookup"><span data-stu-id="3ae7d-147">Apply to sell in Microsoft national clouds</span></span>](csp-national-clouds-overview.md)
+- [<span data-ttu-id="3ae7d-148">Acordos de Clientes da Microsoft por região e idioma</span><span class="sxs-lookup"><span data-stu-id="3ae7d-148">Microsoft Customer Agreements by region and language</span></span>](agreements.md)
+- [<span data-ttu-id="3ae7d-149">Parceiro com revendedores indiretos no programa Fornecedor de Soluções Cloud</span><span class="sxs-lookup"><span data-stu-id="3ae7d-149">Partner with indirect resellers in the Cloud Solution Provider program</span></span>](indirect-provider-tasks-in-partner-center.md)
+- [<span data-ttu-id="3ae7d-150">Parceiro com fornecedores indiretos no programa Cloud Solution Provider</span><span class="sxs-lookup"><span data-stu-id="3ae7d-150">Partner with indirect providers in the Cloud Solution Provider program</span></span>](indirect-reseller-tasks-in-partner-center.md)
