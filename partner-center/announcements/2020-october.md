@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 10/14/2020
-ms.openlocfilehash: 453d6e130a6c563e7aac23cef1c7a91f8125fd9c
-ms.sourcegitcommit: 13248a782fe6854909a2f1ed3eb6d9d0f2cb5a67
+ms.openlocfilehash: 4e78743c8dd03dd4540077aaa9f9d17799d1af80
+ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/27/2020
-ms.locfileid: "92749739"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "92795818"
 ---
 # <a name="october-2020-announcements"></a>Anúncios de outubro de 2020
 
@@ -57,7 +57,7 @@ Em segundo lugar, em agosto de 2018, atualizámos os requisitos dos parceiros de
 
 ### <a name="direct-bill-partner-requirements"></a>Requisitos diretos do parceiro de conta
 
-Reveja os requisitos e recomendações [dos parceiros de conta direta atualizados](https://docs.microsoft.com/partner-center/direct-partner-new-requirements#minimum-requirements) para avaliar como pode construir e expandir um negócio mais rentável com o modelo certo no programa Cloud Solution Provider:
+Reveja os requisitos e recomendações [dos parceiros de conta direta atualizados](../direct-partner-new-requirements.md#minimum-requirements) para avaliar como pode construir e expandir um negócio mais rentável com o modelo certo no programa Cloud Solution Provider:
 
 1. **Novos requisitos de desempenho das receitas**
 
@@ -80,11 +80,11 @@ Compare as [opções do contrato de apoio](https://partner.microsoft.com/support
 
 Para ajudar a garantir que está pronto e conhecedor da infraestrutura necessária para apoiar o programa de faturação direta, temos algumas recomendações adicionais. Demonstre que fornece pelo menos um serviço gerido, serviço IP ou aplicação de solução de cliente. Os parceiros devem estar a adicionar valor em cima dos serviços da Microsoft Cloud e não apenas a revender diretamente os nossos serviços. É uma parte importante da estratégia de mercado de um parceiro. [Saiba mais](https://partner.microsoft.com/solutions/managed-services) sobre a adição de serviços geridos. Recomendamos que cumpra as capacidades mínimas de infraestrutura, tais como faturação e provisionamento. 
 
-Os parceiros de conta direta no programa CSP que não satisfaçam os novos requisitos terão de se reinscreverê-los como revendedores indiretos no programa dentro da Microsoft Partner Network. [Saiba mais](https://docs.microsoft.com/partner-center/transition-direct-to-indirect) sobre como pode fazer a transição de um parceiro de conta direta para um revendedor indireto.  
+Os parceiros de conta direta no programa CSP que não satisfaçam os novos requisitos terão de se reinscreverê-los como revendedores indiretos no programa dentro da Microsoft Partner Network. [Saiba mais](../transition-direct-to-indirect.md) sobre como pode fazer a transição de um parceiro de conta direta para um revendedor indireto.  
 
 ### <a name="next-steps"></a>Passos seguintes
 
-- Reveja os [requisitos atualizados do parceiro de conta direta](https://docs.microsoft.com/partner-center/direct-partner-new-requirements#minimum-requirements).
+- Reveja os [requisitos atualizados do parceiro de conta direta](../direct-partner-new-requirements.md#minimum-requirements).
 - Reveja as FAQ e outras informações na [Galeria de Recursos de Operações no site do parceiro da Microsoft.](https://partner.microsoft.com/resources/collection/new-performance-standard-for-direct-bill-partner-requirements-in-csp#/)
 - Encontre [um fornecedor indireto para trabalhar se](https://partner.microsoft.com/membership/cloud-solution-provider/find-a-provider) a opção de revendedor indireto se adequa melhor às necessidades do seu negócio.
 ________________________________
@@ -232,7 +232,7 @@ Estas promoções afetam os seguintes clientes:
 #### <a name="additional-resources"></a>Recursos adicionais
 
 - Visite a Página de [Parceiros de Voz De Negócios microsoft 365](https://www.microsoft.com/microsoft-365/partners/businessvoice) para saber mais sobre o Business Voice. 
-- Consulte a Conferência de Áudio na Microsoft 365 para saber mais [capacidades de Audio Conferencing](https://docs.microsoft.com/microsoftteams/audio-conferencing-in-office-365).
+- Consulte a Conferência de Áudio na Microsoft 365 para saber mais [capacidades de Audio Conferencing](/microsoftteams/audio-conferencing-in-office-365).
 - Saiba mais sobre estas promoções nas [FAQ de Parceiros relacionados.](https://www.microsoft.com/microsoft-365/partners/resources/faq-business-voice-audio-conferencing-promo)
 
 ### <a name="next-steps"></a>Passos seguintes
@@ -273,7 +273,7 @@ Eis as novidades no portal Azure:
 
 - Navegação flexível que lhe permite visualizar, editar e guardar informações em qualquer secção sem ter de completar a secção anterior.
 - Nova vista de página inteira sem vários níveis aninhados.
-- Nova funcionalidade para marcar e organizar recursos Azure. Para saber mais sobre a marcação, consulte [use tags para organizar os seus recursos Azure.](https://docs.microsoft.com/azure/azure-resource-manager/management/tag-resources)
+- Nova funcionalidade para marcar e organizar recursos Azure. Para saber mais sobre a marcação, consulte [use tags para organizar os seus recursos Azure.](/azure/azure-resource-manager/management/tag-resources)
 
 Se tiver dúvidas sobre estas alterações, contacte a nossa [equipa de apoio.](https://aka.ms/marketplacepublishersupport)
 
@@ -490,7 +490,7 @@ A 1 de novembro de 2020, a Microsoft lançará as seguintes novas e atualizadas 
 
 - Reveja o separador Operações de Projeto no [documento Dynamics CSP Offers-November 2020](https://partner.microsoft.com/resources/detail/dynamics-csp-offers-november-2020-xls) Excel para obter detalhes de ID de oferta.
 - Mais informações sobre a Página Inicial da [Voz do Cliente Microsoft Dynamics 365](https://dynamics.microsoft.com/customer-voice/overview/).
-- Veja o anúncio de [novas ofertas da September Dynamics.](https://docs.microsoft.com/partner-center/announcements/2020-september#3)
+- Veja o anúncio de [novas ofertas da September Dynamics.](2020-september.md#3)
 
 ________________
 
