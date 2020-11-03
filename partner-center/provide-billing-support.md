@@ -1,0 +1,69 @@
+---
+title: Dar suporte de faturação aos clientes
+ms.topic: article
+ms.date: 06/05/2020
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
+description: Conheça o suporte de faturação do cliente necessário dos parceiros do programa CSP. Isto inclui possuir a relação de faturação do cliente e responder a perguntas de faturação.
+author: sodeb
+ms.author: sodeb
+ms.localizationpriority: medium
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 82eaf215bcbc107da6a3f9f5049e4eb89c952ab0
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.translationtype: MT
+ms.contentlocale: pt-PT
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "92529187"
+---
+# <a name="provide-billing-support-for-your-customers-and-help-answer-their-billing-questions"></a>Fornecer suporte de faturação para os seus clientes e ajudar a responder às suas questões de faturação
+
+**Aplica-se a**
+
+- Partner Center
+- Centro de Parceiros para Microsoft Cloud para governo dos EUA
+
+**Funções adequadas**
+- Administrador global
+- Administrador de utilizadores
+- Agente helpdesk
+- Administrador de faturação
+- Agente comercial
+
+É dono da relação de faturação com os seus clientes e é responsável por responder a questões relacionadas com a faturação dos seus clientes.
+
+- É responsável pelo pagamento a tempo à Microsoft.
+
+- Recomendamos estabelecer uma política clara de cobranças com os clientes que detalham o processo de recolha e quando o acesso às subscrições, serviços ou software do cliente será impactado.
+
+- Se necessário, pode desativar o acesso do seu cliente a um produto por falta de pagamento.
+
+## <a name="microsoft-partner-support-guidance"></a>Orientação de suporte de parceiro da Microsoft
+
+Os parceiros que transacionam no modelo CSP são o conselheiro de confiança para os seus clientes e possuem a relação de ponta a ponta, incluindo suporte quando o seu cliente tem uma questão ou problema. Através de pontos de toque de suporte os parceiros podem aprender mais sobre o cliente, e o seu negócio, para identificar novos serviços e soluções que impulsionam o valor.
+
+Para cumprir o requisito de suporte, o parceiro pode revender o suporte de outra entidade, pode subcontratar a totalidade ou parte da sua estrutura de suporte e/ou pode criar uma estrutura para fornecer suporte diretamente.  O parceiro pode cobrar a totalidade ou parte do apoio prestado aos clientes. O parceiro deve articular aos seus clientes o suporte que irá fornecer, as horas de serviço e o método de contacto, bem como o preço (se cobrar para suporte). 
+
+>[!Note]
+>Se não é um CSP e tem dúvidas sobre a faturação do cliente, consulte o portal específico para os produtos ou serviços apropriados.
+
+Os parceiros são obrigados a receber pedidos de apoio de entrada dos clientes, diagnosticar problemas da melhor forma possível do parceiro e, em seguida, resolver problemas que estão dentro do âmbito das fronteiras de suporte de base. Se o parceiro não conseguir resolver um problema, pode agravar os problemas para a Microsoft através dos seguintes veículos de suporte:
+
+- **Suporte comercial** está disponível para todos os parceiros no programa CSP
+
+- **O** suporte técnico de emissão está disponível através de:
+
+  - Premier Support for Partners (base de taxas)
+  - Apoio Avançado para Parceiros (base de taxas)
+  - Suporte em nuvem de assinatura (incluído com competência Gold/Silver)
+
+### <a name="providing-billing-subscription-management-and-technical-support"></a>Prestação de faturação, gestão de subscrições e suporte técnico 
+
+Cada serviço online tem requisitos específicos e detalhados para fornecer faturação, gestão de subscrição e suporte técnico aos clientes. Para obter mais informações, consulte:
+
+- [Dinâmica 365 subscrições vendidas através da CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
+
+- [Assinaturas Azure vendidas através da CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
+
+- [Escritório 365 assinaturas vendidas através da CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
+ 

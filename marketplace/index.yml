@@ -1,0 +1,24 @@
+### YamlMime:Landing
+title: Bem-vindo à documentação de cliente do marketplace Microsoft
+summary: Saiba como encontrar e comprar soluções, aplicações e serviços de parceiros da Microsoft nas nossas lojas online.
+metadata:
+  title: Bem-vindo à documentação de cliente do marketplace Microsoft
+  description: Saiba como encontrar e comprar soluções, aplicações e serviços de parceiros da Microsoft nas nossas lojas online.
+  ms.service: marketplace
+  ms.topic: landing-page
+  author: dsindona
+  ms.author: dsindona
+  ms.date: 09/18/2020
+  ms.openlocfilehash: 5b460081359f1997eb433a69631708d7e116ce38
+  ms.sourcegitcommit: d31c06022624ca2d1db12b3c60ef1d0a3861f763
+  ms.translationtype: HT
+  ms.contentlocale: pt-PT
+  ms.lasthandoff: 09/19/2020
+  ms.locfileid: "91755044"
+landingContent:
+- title: Private Azure Marketplace (pré-visualização)
+  linkLists:
+  - linkListType: get-started
+    links:
+    - text: Criar e gerir o Private Azure Marketplace
+      url: create-manage-private-azure-marketplace.md

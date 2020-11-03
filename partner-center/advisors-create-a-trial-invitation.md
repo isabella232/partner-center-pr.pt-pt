@@ -1,0 +1,59 @@
+---
+title: Criar um convite para o julgamento do Office 365
+ms.topic: article
+ms.date: 04/28/2020
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
+description: Saiba como os parceiros podem criar e enviar convites de teste para os seus clientes experimentarem o Office 365. Os parceiros são muito um consultor de subscrição autorizado.
+author: BrentSerbus
+ms.author: brserbus
+ms.localizationpriority: medium
+ms.custom: SEOAPR.20
+ms.openlocfilehash: db32f3d48089457cb9c49196bcb190ccd4308582
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.translationtype: MT
+ms.contentlocale: pt-PT
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "92529396"
+---
+# <a name="advisors-create-and-send-a-trial-invitation-for-clients-to-try-office-365"></a>Assessoria: Criar e enviar um convite experimental para os clientes experimentarem o Office 365
+
+**Aplica-se a**
+
+- Partner Center
+ 
+**Funções adequadas**
+
+- Consultores
+
+> [!NOTE]
+> Esta funcionalidade está disponível apenas para os Parceiros Microsoft que são assessores de subscrição autorizados.
+
+Pode criar e enviar convites de julgamento para os seus clientes para que possam experimentar o Office 365. Quando cria um convite experimental, o assistente **de convite de teste Create** cria um URL personalizado para si. O URL tem um código incorporado que o identifica como o conselheiro de subscrição. Você pode usar este URL para um ou muitos clientes. Envie o URL para o seu cliente num e-mail ou use o URL em outros documentos. A subscrição pode conter um ou mais serviços, dependendo da oferta particular. Um convite pode ser enviado para apenas uma assinatura de teste de cada vez.
+
+Se estiver certificado para oferecer uma administração delegada, pode adicionar uma opção ao convite experimental que lhe permite administrar a conta em nome do seu cliente. Isto facilita o teste do Escritório 365.
+
+## <a name="to-create-a-trial-invitation"></a>Para criar um convite para o julgamento
+
+1. Navegar para **Trials e ofertas de compra**  >  **Crie convites.**
+
+2. Na página de **convite para o teste** Create, selecione as opções de convite de teste que pretende incluir:
+
+    - **Escritório de sócios** : Se a sua empresa tiver vários escritórios, escolha o escritório que pretende associar a este convite experimental.
+
+        Para adicionar localizações de escritórios parceiros, consulte [adicionar uma localização](manage-locations.md). As novas localizações de escritórios podem exigir até 24 horas após a sua criação para aparecerem na lista de escritórios do Parceiro.
+
+    - **Localização de utilização** : Escolha o local onde o seu cliente utilizará os serviços.
+    - **Assinaturas de teste** : A lista de subscrições de teste que pode escolher é determinada pela localização de utilização do país ou região do seu cliente.
+    - **Administração delegada** : Esta opção só está disponível para os parceiros certificados para oferecer uma administração delegada. Escolha esta opção se quiser oferecer ao seu cliente uma administração delegada. Se o fizer, o seu cliente pode aceitar o convite para o julgamento com ou sem aceitação da administração delegada. Para obter mais informações sobre a administração delegada, consulte [a Administração Delegada da Oferta.](customers-revoke-admin-privileges.md)
+
+3. Clique em **Seguinte** .
+
+4. Na página do **seu convite de teste,** copie as informações do convite de teste e URL e, em seguida, cole-as num e-mail, documento ou numa página web para criar um convite de teste personalizado.
+
+    > [!NOTE]
+    > Tome nota da identificação do resumo do **convite do** julgamento. Use esta identificação para acompanhar a oferta.
+
+5. Personalize a sua mensagem incluindo o logótipo da sua empresa, introdução, comentários finais ou outras informações.
+
+6. Envie o convite do julgamento para o seu cliente.
