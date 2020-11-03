@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 10/27/2020
-ms.openlocfilehash: d41ec7b7ce3c8f7140b0944b4d39150ef34a9d83
-ms.sourcegitcommit: 3cca87a10e8aebbf5be144ef525217509f0521ec
+ms.date: 10/30/2020
+ms.openlocfilehash: ae27f193839d5456457afc923fd7834a8ff106f9
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "93027912"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93132832"
 ---
 # <a name="october-2020-announcements"></a>Anúncios de outubro de 2020
 
@@ -23,6 +23,28 @@ Esta página detalha os anúncios do Microsoft Partner Center para outubro de 20
 Anúncios de 2020: [março](2020-march.md)  |  [April](2020-april.md)  |  [maio junho](2020-may.md)  |  [julho](2020-june.md)  |  [July](2020-july.md)  |  [agosto](2020-august.md)  |  [agosto](2020-september.md) Outubro
 
 ______________
+
+## <a name="windows-server-software-subscriptions-feature-updates"></a><a name="17"></a>As subscrições de software do Windows Server apresentam atualizações
+
+### <a name="categories"></a>Categorias
+
+- Data: 2020-10-29
+- Capacidades
+
+### <a name="impacted-audience"></a>Audiência impactada
+
+Parceiros do Cloud Solution Provider (CSP) que previamente compraram subscrições de software padrão do Windows Server
+
+### <a name="details"></a>Detalhes
+
+A Microsoft anuncia o lançamento de uma nova atualização de funcionalidades para subscrições de software do Windows Server para o CSP no dia 30 de outubro de 2020. A atualização inclui produtos de subscrição de software do Windows Server: Windows Server Standard, **versão 20H2** (ID do produto CSP: DG7GMGF0DVT9). O ficheiro de descarregamento atualizado já se encontra disponível para este produto. Os parceiros podem optar por descarregar o mais recente ficheiro para obter as novas funcionalidades.
+
+### <a name="next-steps"></a>Passos seguintes
+
+- Por favor, partilhe esta informação com os contactos apropriados na sua organização.
+- Rever [a documentação do servidor do Windows 20H2](/windows/release-information/status-windows-10-20h2)
+
+________________
 
 ## <a name="windows-10-education-upgrade-is-now-available-to-qualified-cloud-solution-provider-csp-education-customers"></a><a name="16"></a>Atualização de educação do Windows 10 já está disponível para clientes qualificados do Cloud Solution Provider (CSP) Educação
 
