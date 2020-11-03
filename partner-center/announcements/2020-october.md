@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 10/14/2020
-ms.openlocfilehash: 4e78743c8dd03dd4540077aaa9f9d17799d1af80
-ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
+ms.date: 10/27/2020
+ms.openlocfilehash: 4877c3c21449c8b5cc4224973d159d70635d9262
+ms.sourcegitcommit: 4bff85c6a13a990d5eb6c4a4ef44e1013d06948e
 ms.translationtype: MT
 ms.contentlocale: pt-PT
 ms.lasthandoff: 10/28/2020
-ms.locfileid: "92795818"
+ms.locfileid: "92903037"
 ---
 # <a name="october-2020-announcements"></a>Anúncios de outubro de 2020
 
@@ -22,7 +22,44 @@ Esta página detalha os anúncios do Microsoft Partner Center para outubro de 20
 
 Anúncios de 2020: [março](2020-march.md)  |  [April](2020-april.md)  |  [maio junho](2020-may.md)  |  [julho](2020-june.md)  |  [July](2020-july.md)  |  [agosto](2020-august.md)  |  [agosto](2020-september.md) Outubro
 
-________________________________
+______________
+
+## <a name="october-2020-cloud-solution-provider-csp-software-subscriptions-price-list-updates"></a><a name="14"></a>Outubro 2020 Cloud Solution Provider (CSP) subscrições de subscrições de preços atualizações de preços
+
+### <a name="categories"></a>Categorias
+
+- Data: 2020-10-26
+- Ofertas/Mercados
+ 
+### <a name="summary"></a>Resumo
+
+A lista de preços das subscrições de software para outubro de 2020 foi atualizada.
+
+### <a name="impacted-audience"></a>Audiência impactada
+
+Todos os parceiros que transacionam através do programa Cloud Solution Provider (CSP)
+
+### <a name="details"></a>Detalhes
+
+A lista de preços das subscrições de software de outubro de 2020 foi atualizada para incluir dois produtos previamente omitidos.
+
+[O Windows 7 Year 2 ESU](#3) estava disponível em outubro de 2020. O preço do ano 2 está agora disponível na lista de preços das subscrições de software.
+- ID do produto: DG7GMGF0FL73
+- Sku ID: 0003
+
+[Azure SQL Edge](2020-september.md#9) foi lançado no final de setembro de 2020. Está agora disponível na lista de preços do Partner Center. 
+- ID do produto: DG7GMGF0GJC2
+
+Todas as listas de preços do CSP Partner Center estão disponíveis através do login no Partner Center e navegando para Vendas/Ofertas e Preços.
+
+### <a name="additional-resources"></a>Recursos adicionais
+
+- [Página de FAQ de suporte do Windows 7](/troubleshoot/windows-client/windows-7-eos-faq/windows-7-end-support-faq)
+- [Suporte ao Windows 7 e Aplicações Microsoft 365](/deployoffice/endofsupport/windows-7-support)
+- [Galeria de Recursos ESU do Windows 7](https://partner.microsoft.com/resources/collection/windows-esu-csp#/)
+- [Site Azure SQL Edge](https://aka.ms/sqledge)
+
+________________
 
 ## <a name="introducing-a-performance-standard-for-direct-bill-partner-requirements-in-the-cloud-solution-provider-csp-program"></a><a name="13"></a>Introduzindo um padrão de desempenho para os requisitos de parceiros de conta direta no programa Cloud Solution Provider (CSP)
 
@@ -82,7 +119,7 @@ Para ajudar a garantir que está pronto e conhecedor da infraestrutura necessár
 
 Os parceiros de conta direta no programa CSP que não satisfaçam os novos requisitos terão de se reinscreverê-los como revendedores indiretos no programa dentro da Microsoft Partner Network. [Saiba mais](../transition-direct-to-indirect.md) sobre como pode fazer a transição de um parceiro de conta direta para um revendedor indireto.  
 
-### <a name="next-steps"></a>Passos seguintes
+### <a name="next-steps"></a>Próximas etapas
 
 - Reveja os [requisitos atualizados do parceiro de conta direta](../direct-partner-new-requirements.md#minimum-requirements).
 - Reveja as FAQ e outras informações na [Galeria de Recursos de Operações no site do parceiro da Microsoft.](https://partner.microsoft.com/resources/collection/new-performance-standard-for-direct-bill-partner-requirements-in-csp#/)
@@ -127,7 +164,7 @@ As informações de pré-visualização da lista de preços de novembro seguinte
    |Microsoft 365 Business Voice Adoption Promo (APENAS NOS)|93a8771f-ddc7-4c68-ac21-6bd1b17d1e5b|
    |Microsoft 365 Business Voice (Preços de Pessoal sem fins lucrativos)|ae54a18d-3472-473a-9b21-9831b8e658f3|
 
-### <a name="next-steps"></a>Passos seguintes
+### <a name="next-steps"></a>Próximas etapas
 
 - Familiarize-se com a lista de preços de pré-visualização e partilhe esta informação com todos os contactos apropriados na sua organização.
 - Reveja todos os materiais de prontidão na Galeria de Recursos de Atualizações do Programa CSP [introduzindo a Microsoft 365 Business Voice para pequenas e médias empresas.](https://partner.microsoft.com/resources/collection/m365-voice-smb)
@@ -150,7 +187,7 @@ Fatura direta, fornecedores indiretos e parceiros multi-camadas que participam n
 ### <a name="details"></a>Detalhes
 De acordo com a subsecção da Autorização de Serviços Online e do Canal de Software, ao abrigo dessa secção intitulada "Aviso de Alterações", intitulada "Alterações aos Guias", no seu Acordo de Parceiro microsoft – a Microsoft está a notificar-lhe que o Guia de Autorização de Serviços Online e Canal de Software está a ser atualizado; uma pré-visualização do guia atualizado está [disponível aqui.](https://partner.microsoft.com/resources/detail/update-guide-online-services-software-channel-authorization-pdf) Esta atualização irá efetivo 30 dias a contar da data deste aviso; não há mais nenhuma ação a tomar por si.
 
-### <a name="next-steps"></a>Passos seguintes
+### <a name="next-steps"></a>Próximas etapas
 Não são necessárias ações. Este é apenas um aviso.
 
 ________________
@@ -184,7 +221,7 @@ O Microsoft 365 Business Voice pode ser adicionado às seguintes subscrições p
 - Escritório 365: Business Essentials, Business Premium, A1, E1, A3 e E3  
 - Microsoft 365: Negócios, A3 e E3
 
-### <a name="next-steps"></a>Passos seguintes
+### <a name="next-steps"></a>Próximas etapas
 
 - Familiarize-se com a lista de preços de pré-visualização e partilhe esta informação com todos os contactos apropriados na sua organização.
 - Reveja todos os materiais de prontidão na Cloud Solution Provider (CSP) Program Updates Resource Gallery: [Introduzindo o Microsoft 365 Business VOICE para pequenas e médias empresas](https://partner.microsoft.com/resources/collection/m365-voice-smb#/).
@@ -235,7 +272,7 @@ Estas promoções afetam os seguintes clientes:
 - Consulte a Conferência de Áudio na Microsoft 365 para saber mais [capacidades de Audio Conferencing](/microsoftteams/audio-conferencing-in-office-365).
 - Saiba mais sobre estas promoções nas [FAQ de Parceiros relacionados.](https://www.microsoft.com/microsoft-365/partners/resources/faq-business-voice-audio-conferencing-promo)
 
-### <a name="next-steps"></a>Passos seguintes
+### <a name="next-steps"></a>Próximas etapas
 
 - Familiarize-se com estas reuniões e chame oportunidades promocionais, e partilhe esta informação com todos os contactos apropriados na sua organização.
 - Incorpore estas ofertas nas promoções de vendas microsoft 365.
@@ -277,7 +314,7 @@ Eis as novidades no portal Azure:
 
 Se tiver dúvidas sobre estas alterações, contacte a nossa [equipa de apoio.](https://aka.ms/marketplacepublishersupport)
 
-### <a name="next-steps"></a>Passos seguintes
+### <a name="next-steps"></a>Próximas etapas
 
 Reveja e atualize a documentação do seu cliente e os materiais de referência para garantir que refletem a nova experiência.
 
@@ -334,7 +371,7 @@ Com a oferta Premium, os clientes têm acesso aos recém-lançados Serviços Ger
 
 Para ajudá-lo a familiarizar-se com a nova oferta e a disponibilidade geográfica, visite as [perguntas frequentes (FAQ)](https://partner.microsoft.com/resources/detail/faq-microsoft-teams-rooms-premium-sku-for-microsoft-teams-pdf).
 
-### <a name="next-steps"></a>Passos seguintes
+### <a name="next-steps"></a>Próximas etapas
 
 - Saiba mais sobre o Microsoft Rooms e ofertas relacionadas [em rooms.microsoft.com.](https://rooms.microsoft.com/) 
 - Utilize o [Guia de Parceiros de Equipas](https://aka.ms/teamscallingmeetingsguide) para desenvolver a sua prática com salas de reuniões de equipas e crie uma oferta De Co-venda Ready. 
@@ -430,7 +467,7 @@ O Promo SKU de Comunicações Avançadas para equipas da Microsoft estará dispo
    |-------------------|:------|:------|
    |Promo de Comunicações Avançadas|0e89eea4-5cb1-4417-9f5d-886d1ff87940|1UC-00013|
 
-#### <a name="frequently-asked-questions"></a>Perguntas mais frequentes
+#### <a name="frequently-asked-questions"></a>Perguntas frequentes
 
 **O que é Comunicação Avançada?**
 Este é um novo SKU adicional da Microsoft Teams, permitindo aos clientes melhorar ainda mais a sua experiência de comunicação em cima de qualquer suite Microsoft 365 ou Office 365 a que estão subscritos.
@@ -456,7 +493,7 @@ Pode ser vendido em todos os mercados atuais.
 **Quais são os pré-requisitos para comunicações avançadas?**
 Microsoft Teams e qualquer suite Microsoft 365/Office 365.
 
-### <a name="next-steps"></a>Passos seguintes
+### <a name="next-steps"></a>Próximas etapas
 
 - Partilhe esta informação com os contactos relevantes na sua organização e compreenda as oportunidades de venda e venda cruzada.
 - Reveja a secção de recursos do [Guia de Parceiros de Equipas.](https://aka.ms/teamscallingmeetingsguide)
@@ -517,7 +554,7 @@ Para os clientes que esperam continuar a utilizar dispositivos Windows 7 em 2021
 - [Suporte ao Windows 7 e Aplicações Microsoft 365](/deployoffice/endofsupport/windows-7-support)
 - [Galeria de Recursos](https://partner.microsoft.com/resources/collection/windows-esu-csp#/)
 
-### <a name="next-steps"></a>Passos seguintes
+### <a name="next-steps"></a>Próximas etapas
 
 Reveja os recursos sobre este tema e partilhe esta informação com as partes interessadas apropriadas na sua organização.  
 
@@ -568,7 +605,7 @@ Com os conectores Microsoft Graph, os clientes podem indexar itens em repositór
    |Capacidade extra do conector de gráficos|9c8b008f-d84f-46cd-a588-fea84947161d|1LA-00002|
    |Capacidade de conector de gráfico extra para docentes|0e0eb210-86e7-4038-9905-4fd5bf71c4bd|1TL-00003|
 
-### <a name="next-steps"></a>Passos seguintes
+### <a name="next-steps"></a>Próximas etapas
 
 Reveja os recursos sobre este tema e partilhe com as partes interessadas apropriadas na sua organização.
 
@@ -598,7 +635,7 @@ O mandato do programa de incentivos do CDS FY20 terminou em 30 de setembro de 20
 
 As taxas atualizadas do programa FY21 vão estar em vigor a partir de 1 de outubro de 2020. Os parceiros vão notar as correspondentes alterações aos seus pagamentos mensais de incentivos a partir do dia 15 de dezembro de 2020, ciclo de pagamentos.
 
-### <a name="next-steps"></a>Passos seguintes
+### <a name="next-steps"></a>Próximas etapas
 
 - Reveja os ativos do programa FY21 e prepare-se para atualizações para taxas de incentivo em produtos selecionados e moções de clientes.
 
