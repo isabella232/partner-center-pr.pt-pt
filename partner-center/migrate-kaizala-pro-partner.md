@@ -1,0 +1,90 @@
+---
+title: Migrar subscrições do Kaizala Pro para o Microsoft365
+description: Saiba como migrar as subscrições do Kaizala Pro para as versões Microsoft365 ou Office 365. Leia este artigo para mais detalhes sobre a transição dos seus clientes.
+ms.topic: article
+ms.service: partner-dashboard
+ms.author: sukumart
+author: sukumart
+ms.date: 06/01/2020
+localization_priority: Normal
+ms.openlocfilehash: 0807931ae95b5c7d76f4ad33708cc8014412f55f
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.translationtype: MT
+ms.contentlocale: pt-PT
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92530518"
+---
+# <a name="migrate-kaizala-pro-standalone-subscriptions-to-microsoft365-or-office-365-versions"></a>Migrar subscrições kaizala Pro Standalone para versões Microsoft365 ou Office 365
+
+A partir de 1 de julho de 2020, a Microsoft está a terminar as vendas do serviço autónomo Kaizala Pro. Os clientes deixarão de poder adquirir novas subscrições kaizala Pro após esta data, e as subscrições existentes do Kaizala Pro não serão renovadas automaticamente quando expirarem.
+
+Para garantir a continuidade dos clientes, deve transitar os clientes com assinaturas autónomas kaizala Pro para uma opção SKU suportada, listada abaixo. Recomendamos que os clientes mudem os clientes para novas subscrições antes da data de fim anual da subscrição para evitar eventuais interrupções de serviço para os clientes.
+
+Se utilizar a API (CREST ou Partner Center), pode descobrir subscrições caducadas avaliando a data final da subscrição juntamente com a propriedade de renovação automática definida como falsa: `auto renew = False` .
+
+As assinaturas E4 serão marcadas para `auto renew=False` 1 de julho de 2020. Pode mover os clientes para um novo plano a qualquer momento.
+
+## <a name="kaizala-pro-standalone-replacement-plans"></a>Planos de substituição Kaizala Pro Autónomo
+
+Com os novos planos, os seus clientes podem tirar partido das funcionalidades e funcionalidades mais recentes da Microsoft 365. Os detalhes dos preços encontram-se na lista de preços e a matriz da lista de ofertas no Partner Center.
+
+- [**Microsoft 365 para Negócios,**](https://www.microsoft.com/microsoft-365/compare-all-microsoft-365-products?&activetab=tab:primaryr2)incluindo:  
+   - Microsoft 365 Business Basic
+   - Microsoft 365 Business Standard
+   - Microsoft 365 Business Premium
+    
+- [**Microsoft 365 para Linha da Frente,**](https://www.microsoft.com/microsoft-365/microsoft-365-enterprise-f3?activetab=pivot:overviewtab)incluindo:
+   - Microsoft 365 F3 (anteriormente Microsoft 365 F1) e Office 365 F3
+    
+- [**Microsoft 365 para Enterprise,**](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans)incluindo: 
+   - Escritório 365 E1
+   - Microsoft 365 E3 e Office 365 E3
+   - Microsoft 365 E5 e Office 365 E5
+
+- [**Microsoft 365 para educação,**](https://www.microsoft.com/education/buy-license/microsoft365)incluindo: 
+    - Microsoft 365 A1 e Office 365 A1
+    - Microsoft 365 A3 e Office 365 A3
+    - Microsoft 365 A5 e Office 365 A5
+
+## <a name="transition-customers-to-new-product-plans"></a>Transição de clientes para novos planos de produtos
+
+A Microsoft oferece continuamente novos produtos e serviços aos nossos parceiros. Nestes casos, poderá ter de atualizar os clientes para novos serviços ou migrar as suas subscrições de SKUs que acabarão por ser encerradas. Os clientes migradores de SKUs reformados para os mais recentes requerem os seguintes passos:
+
+A. Comprar a nova subscrição
+
+B. Reatribuir licenças de utilizador atuais
+
+C. Cancelar subscrição antiga
+
+
+## <a name="migrate-your-customers-to-new-plans"></a>Migrar os seus clientes para novos planos
+
+### <a name="a-purchase-the-new-subscription"></a>A. Comprar a nova subscrição
+
+1. Para adquirir a nova subscrição, a partir do menu **Partner Center,** selecione **Clientes,** selecione o cliente que pretende mover e, em seguida, selecione **Adicionar subscrições** .
+
+2. Selecione a subscrição que pretende adquirir no catálogo (neste caso, uma das opções acima), introduza o número de licenças e, em seguida, **selecione Enviar por isso** .
+
+O seu cliente deve agora ter subscrições antigas e novas, a antiga subscrição Kaizala Pro Standalone e a nova subscrição 'target', por exemplo, Opção 1 - Office 365 Enterprise F1.
+
+### <a name="b-reassign-current-user-licenses"></a>B. Reatribuir licenças de utilizador atuais
+
+1. Para reatribuir as licenças dos utilizadores do cliente, a partir do menu **Partner Center,** selecione **Clientes,** selecione o cliente que está a mover e, em seguida, selecione **Utilizadores e licenças** . A página de Utilizadores e Licenças do cliente abre.
+
+2. Para reatribuir a licença de utilizador, selecione o utilizador para reatribuir e, em seguida, **selecione Gerir licenças** .
+
+3. Na página **'Gerir licenças',** limpe a caixa de verificação da licença Kaizala Pro Standalone e selecione um novo plano de serviço para a subscrição para a qual o cliente está a mover-se.
+
+4.  Selecione **Submeter** . Uma página de confirmação lista as novas atribuições de licença. Continue este mesmo processo para outros utilizadores que necessitem de atribuição de licenças.
+
+### <a name="c-cancel-old-subscription"></a>C. Cancelar subscrição antiga
+
+Depois de transferir a licença do utilizador para o novo serviço, pode cancelar com segurança a subscrição aposentada a nível do cliente.
+
+1.  A partir do menu **Partner Center,** selecione **Clientes.** Selecione o cliente cuja subscrição está a cancelar.
+
+2.  Na página de detalhes da subscrição, desa estale a subscrição **de Suspended** .
+
+3.  Selecione **Submeter** .
+
+A subscrição antiga está suspensa e a nova subscrição está ativa. A subscrição suspensa será desavisionada automaticamente após 120 dias. O cliente não incorre em custos adicionais para a subscrição antiga.

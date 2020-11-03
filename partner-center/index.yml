@@ -1,0 +1,113 @@
+### YamlMime:Landing
+title: Documentação do Centro de Parceiros
+summary: O Centro de Parceiros é onde pode expandir o seu negócio através da Microsoft Partner Network (MPN), o programa de Fornecedor de Soluções Cloud (CSP) e muito mais.
+metadata:
+  title: Documentação do Centro de Parceiros
+  description: O Centro de Parceiros é onde pode expandir o seu negócio através da Microsoft Partner Network (MPN), o programa de Fornecedor de Soluções Cloud (CSP) e muito mais.
+  ms.service: partner-dashboard
+  ms.subservice: partnercenter-csp
+  ms.topic: landing-page
+  author: LauraBrenner
+  ms.author: labrenne
+  ms.date: 10/16/2020
+  ms.openlocfilehash: a10616a60e74de88c2f4fda37062275e47fb59bc
+  ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+  ms.translationtype: HT
+  ms.contentlocale: pt-PT
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "92526840"
+landingContent:
+- title: Introdução ao Centro de Parceiros
+  linkLists:
+  - linkListType: get-started
+    links:
+    - text: Anúncios do Centro de Parceiros
+      url: announcements/index.md
+    - text: Parceria com a Microsoft
+      url: mpn-overview.md
+    - text: Create a Partner Center account (Criar uma conta do Centro de Parceiros)
+      url: mpn-create-a-partner-center-account.md
+    - text: Gerir os seus benefícios e ofertas de associação MPN
+      url: manage-your-partner-network-benefits.md
+    - text: Obter informações sobre competências
+      url: learn-about-competencies.md
+- title: Expandir o seu negócio
+  linkLists:
+  - linkListType: concept
+    links:
+    - text: Ligar-se aos seus clientes
+      url: connect-with-your-customers.md
+    - text: Programa de Fornecedor de Soluções Cloud (CSP)
+      url: csp-overview.md
+    - text: Obter referências de cliente
+      url: manage-leads.md
+    - text: Programas de incentivos
+      url: incentives-get-started-intro.md
+    - text: Gerir oportunidades de venda conjunta
+      url: manage-co-sell-opportunities.md
+    - text: Obter uma especialização avançada
+      url: advanced-specializations.md
+- title: Principais conceitos e tarefas
+  linkLists:
+  - linkListType: concept
+    links:
+    - text: Requisitos de segurança do Centro de Parceiros
+      url: partner-security-requirements.md
+    - text: Criar um perfil empresarial
+      url: create-a-marketing-profile.md
+    - text: Introdução ao plano do Azure
+      url: azure-plan-lp.md
+    - text: Obter suporte da Microsoft
+      url: support-from-microsoft.md
+  - linkListType: how-to-guide
+    links:
+    - text: Gerir as suas localizações de conta MPN
+      url: manage-locations.md
+    - text: Renew your MPN offers (Renovar as ofertas da MPN)
+      url: renew-mpn-offers.md
+    - text: Localizar os seus benefícios de MPN
+      url: mpn-find-benefits.md
+    - text: Localizar a sua função
+      url: find-your-role.md
+- title: Contas e faturação
+  linkLists:
+  - linkListType: how-to-guide
+    links:
+    - text: Gerir a sua conta do Centro de Parceiros
+      url: partner-center-account-setup.md
+    - text: Atribuir funções e permissões a utilizadores
+      url: permissions-overview.md
+    - text: Gerir utilizadores e licenças de utilizadores
+      url: assign-licenses-to-users.md
+    - text: Noções básicas de faturação
+      url: billing-basics.md
+    - text: Configurar a conta de dividendos e os formulários fiscais
+      url: set-up-your-payout-account.md
+    - text: Compreender a sua fatura
+      url: read-your-bill.md
+- title: Recursos para programadores
+  linkLists:
+  - linkListType: reference
+    links:
+    - text: Aderir ao Programa Early Adopter da API e SDK do Centro de Parceiros
+      url: /partner-center/develop/early-adopter-program
+    - text: Documentação de programadores do Centro de Parceiros
+      url: /partner-center/develop
+    - text: Referência da API REST do Centro de Parceiros
+      url: /partner-center/develop/partner-center-rest-api-reference
+    - text: Referência da API .NET do Centro de Parceiros
+      url: /dotnet/api/?view=partnercenter-dotnet-latest&preserve-view=true
+    - text: SDK do Centro de Parceiros para Java
+      url: /java/partnercenter/overview
+    - text: PowerShell do Centro de Parceiros
+      url: /powershell/partnercenter/overview
+- title: Vender no marketplace comercial (ISVs)
+  linkLists:
+  - linkListType: concept
+    links:
+    - text: Documentação do marketplace comercial
+      url: /azure/marketplace
+    - text: O que é o marketplace comercial da Microsoft?
+      url: /azure/marketplace/overview
+    - text: Determinar as suas opções de publicação
+      url: /azure/marketplace/determine-your-listing-type

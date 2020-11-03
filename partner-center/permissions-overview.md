@@ -1,0 +1,172 @@
+---
+title: Atribuir funções & permissões aos utilizadores
+ms.topic: article
+ms.date: 09/04/2020
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
+description: Saiba quais as funções mais bem possíveis para os utilizadores da sua empresa que gerem transações comerciais, referências, incentivos ou membros mpn no Partner Center.
+author: hemas
+ms.author: hemas
+ms.localizationpriority: high
+ms.custom: SEOMAY.20, contperfq1
+ms.openlocfilehash: 32df86887ccbea5d18d1bd8c7c34add2b1ab60e4
+ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
+ms.translationtype: MT
+ms.contentlocale: pt-PT
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "92530260"
+---
+# <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>Atribuir funções e permissões aos utilizadores de uma empresa que necessite de trabalhar no Partner Center
+
+**Funções adequadas**
+
+- Administrador global
+- Administrador de utilizadores
+- Administrador sócio da MPN
+
+Configura o seu perfil de parceiro, incluindo nome legal e morada, detalhes de apoio, isenções de impostos, informações bancárias e o contacto principal para a sua empresa. Próximo passo: Configurar os seus utilizadores com senhas e funções para que possam começar a trabalhar no Partner Center consigo.
+
+## <a name="set-up-your-employees-to-work-in-partner-center"></a>Configurar os seus colaboradores para trabalhar no Partner Center
+
+Você determina os tipos de acesso que os seus utilizadores têm para Partner Center pelas funções e permissões que lhes dá. As funções estão relacionadas com o(s) programa(s) em que o seu negócio está envolvido. Por exemplo, se o seu negócio for um negócio cloud solution provider (CSP), você não só terá as funções padrão de gestão de inquilinos do Azure Ative Directory, como administração global, mas precisará de papéis específicos para o programa CSP. Cada programa tem papéis específicos.
+
+>[!Note]
+> As funções de inquilino do Azure Ative Directory incluem funções de administrador global, administração de utilizadores e CSP. As funções não-Azure-Active-Directory são as funções que não gerem o arrendatário, e incluem a administração mpn, administração de perfil de negócios, administração de encaminhamento, administração de incentivos e utilizador de incentivos. 
+
+### <a name="manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles"></a>Gerir transações comerciais em Partner Center (funções Azure AD e CSP)
+
+|**Role**|**O que podem fazer**|**Saiba mais**|
+|----------------------------------|---|:---------------------------------|
+|Administrador global|* Pode aceder a todas as contas/serviços da Microsoft com plenos privilégios|[Manage your Partner Center account](partner-center-account-setup.md) (Gerir a conta do Partner Center)
+|      |* Crie bilhetes de apoio para o Centro de Parceiros
+||* Ver bilhetes de apoio a parceiros que criar
+||* Ver acordos, listas de preços e ofertas
+||* Ver, criar e gerir utilizadores parceiros|
+||  Ver, criar e gerir ficheiros de faturação, faturas e recon
+|Administração de gestão de utilizadores   | * Ver, criar e gerir utilizadores|[Gerencie os benefícios e ofertas de adesão da Microsoft Partner Network no Partner Center](manage-your-partner-network-benefits.md)
+||* Ver todos os perfis de parceiros
+||* Crie bilhetes de apoio para o Centro de Parceiros
+||* Ver bilhetes de apoio a parceiros que criar
+|Administrador de faturação | - Ver, criar e gerir ficheiros de faturação, faturas e recon|[Read your bill](billing.md) (Ler a sua fatura)
+||* Ver preços
+||* Crie bilhetes de apoio para o Centro de Parceiros
+||* Ver bilhetes de apoio a parceiros que criar
+|Utilizador predefinido|  Ver o meu perfil   |[Repor a palavra-passe](reset-my-pasword.md)
+|Agente administrativo | * Gestão de clientes|[Conecte-se com os seus clientes](connect-with-your-customers.md)
+||* Adicione a lista de dispositivos ao Centro de Parceiros
+||* Criar e aplicar perfis em dispositivos
+||* Gestão de assinaturas
+||* Pedidos de saúde e serviço de serviço para os clientes
+||* Solicitar privilégios de administrador delegado
+||* Ver preços e ofertas
+||* Faturação
+||* Administrar em nome de um cliente
+||* Registar um revendedor de valor acrescentado
+||* Crie bilhetes de apoio para o Centro de Parceiros
+||* Ver bilhetes de apoio a parceiros que criar|
+|Agente comercial | * Gestão de clientes|[Fornecer suporte de faturação para os seus clientes e ajudar a responder às suas questões de faturação](provide-billing-support.md)
+||* Adicione a lista de dispositivos ao Centro de Parceiros
+||* Gestão de assinaturas
+||* Ver bilhetes de apoio
+||* Solicite uma relação com um cliente
+||* Ver preços e ofertas
+||* Gerir os condutores do cliente
+||* Ver o contrato de cliente
+||* Registar um revendedor de valor acrescentado
+||* Crie bilhetes de apoio para o Centro de Parceiros
+||* Ver bilhetes de apoio a parceiros que criar|
+|Agente helpdesk| * Procurar e ver um cliente|[Aumente os problemas para a Microsoft e saiba quais os problemas mais adequados à escalada da Microsoft](escalate-problems-to-microsoft.md)
+||* Editar detalhes do cliente
+||* Ajude a resolver problemas de clientes com faturação ou gestão de subscrição
+||* Solicitar apoio em nome dos clientes 
+||* Gerir subscrições e questões de faturação em nome dos clientes
+||* Crie bilhetes de apoio para o Centro de Parceiros
+||* Ver bilhetes de apoio a parceiros que criar| 
+
+### <a name="control-panel-vendor-cpv-csp-role-and-non-azure-ad-role"></a>Fornecedor de painel de controlo (CPV). (papel da CSP e papel de AD não-Azure)
+
+Os CPVs desenvolvem aplicativos para utilização pelos parceiros Cloud Solution Provider (CSP) para lhes permitir integrar os seus sistemas com APIs do Partner Center. 
+
+|**Role**   |**O que pode fazer**|**Saiba mais**|
+|------------------------------|:----------------------------|----|
+|Administrador global| Ver e gerir o seu perfil de CPV|[Inscreva-se como fornecedor de painéis de controlo para ajudar a integrar sistemas parceiros CSP com APIs do Partner Center](enroll-as-cpv.md)
+||Ver e gerir qualquer um dos seus utilizadores que necessite de acesso às capacidades do CPV|
+
+### <a name="guest-user-must-be-added-to-the-azure-active-directory-tenant"></a>Utilizador convidado (deve ser adicionado ao inquilino do Azure Ative Directory)
+
+|**Utilizador convidado**   | **Funções**|
+|---------------------------|:--------------------|
+||Administrador sócio da MPN|
+||Administradores de contas|
+||Administradores de incentivos|
+||Administrador de perfil de negócios|
+||Administração de referências|
+
+
+## <a name="manage-mpn-membership-and-your-company"></a>Gerir a adesão à MPN e à sua empresa 
+
+Estas funções não são funções do Azure Ative Directory. Estas funções gerem o negócio da empresa e não o inquilino.
+
+|**Role** | **O que pode fazer**|**Saiba mais**|
+|----------------------------|:----------------------------|-----|
+|Administrador sócio da MPN|* Ver, criar e gerir pedidos de serviço de parceiros|[Comprar ou renovar uma subscrição do Microsoft Action Pack ou competências Silver e Gold](mpn-get-action-pack.md)
+||* Ver perfis legais, empresariais, empresariais e MPN
+||* Ver detalhes do utilizador e seus dados de competências
+||* Ver competências
+||* Ver e gerir benefícios
+||* Ver e comprar ofertas mpn
+||* Ver MPN oferece histórico de encomendas e faturas
+||* Ver dados do indicador de contribuição do parceiro
+||* Pode funcionar na ferramenta de validação do voucher|
+||* Ver análise de dados do cliente
+||* Ver outras funções de utilizador dentro da empresa, mas não pode atribuir funções
+||* Crie bilhetes de apoio para o Centro de Parceiros
+||* Ver bilhetes de apoio a parceiros que criar
+|Administrador de conta| Adicionar localizações|[Gerir localizações](manage-locations.md)
+|| Gerir perfis relacionados com as contas para as contas para as contas para as que é administrador 
+||* Atribuir funções para utilizadores em inquilinos a funções não-Azure-Active-Directory 
+||* Inscrever localizações em programas
+||* Crie bilhetes de apoio para o Centro de Parceiros
+||* Ver bilhetes de apoio a parceiros que criar
+
+
+## <a name="manage-referrals"></a>Gerir referências 
+
+|**Role**|**O que pode fazer**|**Saiba mais**|
+|-----------------------------|:------------------------|---|
+|Administração de referências       |* Ver, criar e gerir perfis de negócio|[Gerir diferentes oportunidades potenciais como inquéritos ao cliente, oportunidades potenciais qualificadas para marketing e oportunidades potenciais qualificadas para vendas](manage-leads.md)
+||* Receber e gerir referências
+||* Ver, criar e gerir referências de co-venda|
+||* Ver, criar e gerir pedidos de serviço de parceiros
+|Administrador de perfil de negócios   |* Ver, criar e gerir o perfil de negócios |[Criar um perfil de negócio](create-a-marketing-profile.md)
+||* Ver, criar e gerir pedidos de serviço de parceiros
+||* Crie bilhetes de apoio para o Centro de Parceiros
+||* Ver bilhetes de apoio a parceiros que criar|
+
+## <a name="manage-incentives"></a>Gerir incentivos 
+
+|**Role** | **O que pode fazer**|**Saiba mais**
+|------------------------------|:-------------------------|---|
+|Administradores de incentivos|* Inicia e gere incentivos |[Use estes recursos para ajudá-lo a começar com incentivos](incentives-get-started-intro.md)
+||* Pode ver e editar todos os aspetos dos programas de incentivos
+||* Pode ver e editar dados bancários e fiscais
+||* Ver descontos e ganhos cooperativos
+||* Suporte de acesso
+||* Pagamentos de incentivos de litígios|
+|Utilizador de incentivos|* Pode ver programas de incentivos
+||* Pode ver e iniciar pedidos de incentivos
+||* Ver descontos e ganhos cooperativos
+||* Crie bilhetes de apoio para o Centro de Parceiros
+||* Ver bilhetes de apoio a parceiros que criar
+
+## <a name="view-partner-center-insights-data"></a>Ver dados do Partner Center Insights
+
+|**Role** | **O que pode fazer**|**Saiba mais**|
+|------------------------------|:-------------------------|---|
+|Espectador de relatório executivo|Acesso a todos os conjuntos de dados de reporte, criar bilhetes de apoio a parceiros, ver bilhetes de apoio a parceiros que criar|[Relatórios do painel de avaliação disponíveis no Partner Center Insights](pci-overview-report.md)
+|Espectador de relatório|Acesso a relatórios de dados com exceção das receitas e dados pessoais do cliente e dos colaboradores, criar bilhetes de apoio ao parceiro, ver bilhetes de apoio a parceiros que criar|
+
+## <a name="next-steps"></a>Passos seguintes
+
+- [Create user accounts and assign roles permissions](create-user-accounts-and-set-permissions.md) (Criar contas de utilizador e atribuir funções e permissões)
+- [Verifique as informações da sua conta quando se inscrever num novo programa do Partner Center](verification-responses.md)
