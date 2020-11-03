@@ -295,9 +295,6 @@
         - name: Criar a sua prova de execução
           href: incentives-prepare-your-proof-of-execution.md
           displayName: incentives
-        - name: Submeter uma fatura de imposto como PoE
-          href: incentives-tax-invoice-poe.md
-          displayName: 'incentives, invoice'
     - name: Queixas de co-op de incentivos
       items:
         - name: Queixas de co-op de incentivos
