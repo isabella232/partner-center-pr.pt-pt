@@ -1,5 +1,5 @@
 ---
-title: Gerir reclamações cooperativas
+title: Gerir queixas de co-op
 description: Compreenda o processo de reclamações cooperativas, incluindo prazos, questões cambiais e como contestar um pedido de cooperação rejeitado.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
@@ -7,13 +7,13 @@ author: Karthic83
 ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
-ms.date: 10/02/2020
-ms.openlocfilehash: 27b269016822157b8f3a20541fd027bd2c03ee75
-ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
+ms.date: 10/29/2020
+ms.openlocfilehash: 54c90cce33a1eabc87357048c348ffa2cc03de19
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/02/2020
-ms.locfileid: "92530197"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93133155"
 ---
 # <a name="manage-incentives-co-op-claims"></a>Gerir pedidos de cooperação de incentivos
 
@@ -65,16 +65,14 @@ Se os materiais enviados com o pedido de cooperação forem considerados insufic
 
 1. Inicie sessão no [dashboard do Centro de Parceiros](https://partner.microsoft.com/dashboard/).
 
-2. Ao abrigo **de Incentivos,** selecione **Gestão de Planos.**
+2. Ao abrigo de **Incentivos,** selecione **Gestão cooperativa.**
 
-3. Selecione **gestão cooperativa.**
+3. Selecione o pedido de cooperação que quer contestar. A página de reivindicação da cooperativa abre.
 
-4. Selecione o pedido de cooperação que quer contestar. A página de reivindicação da cooperativa abre.
-
-5. Na parte inferior da página, selecione **Contestar** .
+4. Na parte inferior da página, selecione **Contestar** .
 
 A equipa de validação de pedidos de cooperação irá rever o pedido dentro do prazo de cinco dias úteis. Durante esse tempo, o estado será apresentado como **Contestado** . Podemos contactá-lo para solicitar informações adicionais. Quando a revisão for concluída, a equipa de validação atualizará o estado para **Aprovado** , **Rejeitado** ou **Necessária Ação do Parceiro** .
 
 ## <a name="next-steps"></a>Passos seguintes
 
-- [Começar com incentivos](incentives-get-started-intro.md)
+- [Introdução aos incentivos](incentives-get-started-intro.md)

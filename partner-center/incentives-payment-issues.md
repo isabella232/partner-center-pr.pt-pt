@@ -1,19 +1,19 @@
 ---
 title: Resolver problemas de pagamentos e ganhos
 ms.topic: article
-ms.date: 09/11/2020
+ms.date: 10/30/2020
 description: Saiba como resolver problemas como ganhos em falta ou incorretos, problemas de elegibilidade e como conciliar os seus ganhos de incentivos.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 02d6aaf05abfed993d7fcb24f74b5303417b7636
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: e3a8890127ce9ff73fd09b7a35d4e167b5629f45
+ms.sourcegitcommit: 7f595faf952bf2d6cdc229da38bd67ee701b2083
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "92529715"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "93189769"
 ---
 # <a name="troubleshooting-missing-payments-incorrect-earnings-and-other-issues"></a>Resolução de problemas em falta de pagamentos, ganhos incorretos e outras questões
 
@@ -98,55 +98,61 @@ Os ganhos em falta ou incorretos podem ser causados por um dos seguintes problem
 
 - **Pode não ter cumprido os requisitos.**  Verifique se cumpriu as regras de [elegibilidade](#my-payment-is-missing-or-incorrect) e de receitas elegíveis correspondentes ao incentivo que procura.
 
-- **Pode existir uma discrepância.**  Se cumprir ambas as regras de elegibilidade do Parceiro e Elegível e ainda ver resultados incorretos, as seguintes informações podem ajudá-lo a recuperar os seus dados.
- 
-Os ganhos podem ser vistos através do **histórico de Transações** ou **Pagamentos** no Partner Center clicando no ícone **Payout** na barra de navegação no Partner Center. 
+- **Pode existir uma discrepância.**  Se cumprir os [requisitos](incentives-confirm-your-earnings-eligibility.md) de [elegibilidade](incentives-determined-your-program-eligibility.md) do programa e os seus ganhos ainda parecem estar incorretos, as seguintes informações podem ajudá-lo a recuperar os seus dados.
+
+Os ganhos são apresentados tanto na página de histórico de **Transações** como na página **Pagamentos.** Pode aceder a ambas as páginas selecionando o ícone **Payout** na barra de navegação no Partner Center.
 
 :::image type="content" source="images/incentives/paymenticon.png" alt-text="Informações sobre transações":::
 
 Os valores de ganho mensal na vista do histórico de transações podem não estar alinhados com o valor de pagamento recebido por um mês específico. Tal deve-se a recálculos e ajustamentos relativos a períodos de ganhos anteriores que são aplicados a pagamentos futuros.
 
 Por exemplo, um ajustamento para janeiro de 2019 que foi processado em setembro de 2019 não se refletirá no valor dos proveitos de setembro de 2019; no entanto, quando o pagamento de setembro de 2019 for recebido, incluirá o ajustamento para janeiro de 2019 que foi aplicado em setembro.
+
 Neste cenário, você precisaria de baixar os detalhes da transação para obter uma visão completa de todos os ganhos incluídos no seu pagamento.  Além disso, pode navegar para a vista pagamentos para descarregar transações para cada pagamento.
 
 ### <a name="transaction-history"></a>Histórico de transações
 
-Esta vista permite-lhe visualizar as tendências de ganhos e pagamentos por mês, ganhos por estado e detalhes de transação, juntamente com o estado de pagamento de cada transação. Os dados só são visíveis para os programas e para o MPN ID que lhe foi atribuído um incentivo ou função de administrador.
+Esta visão mostra as tendências de ganhos e pagamentos por mês, ganhos por estado e detalhes de transação, juntamente com o estado de pagamento de cada transação. Os dados só são visíveis para os programas e IDs MPN para os quais é um utilizador de incentivo ou administrador.
 
 ### <a name="payments"></a>Pagamentos
 
-Esta vista permite-lhe visualizar pagamentos para todos os programas e iDs mpn. Os dados só são visíveis para os programas e para o MPN ID que lhe foi atribuído um incentivo ou função de administrador. Nesta vista, pode transferir a remessa ou ver os detalhes das transações por pagamento. 
+Esta vista permite-lhe visualizar pagamentos para todos os programas e IDs MPN. Os dados só são visíveis para os programas e IDs MPN para os quais é um utilizador de incentivo ou administrador. A partir desta vista, você pode baixar remessas ou ver detalhes de transação por pagamento.
 
-Desloque-se até à secção **lista de pagamentos** para ver as informações de pagamento por linha, que incluem valores de ganhos e pagamentos em moeda local. Clique em **Remessa de Pagamento** para descarregar uma carta de remessa. Clique em **Ver** para abrir um novo separador e ver detalhes do nível de transação para um pagamento específico. 
-
-Para exportar dados de transações para o Excel, clique em **Iniciar o download** e, em seguida, clique em **Dados de Exportação** . Nota: todos os filtros selecionados serão aplicados aos dados exportados. Uma vez alterado o estado para ser concluído, pode clicar em Baixar e seguir as indicações para exportar o relatório de transações detalhadas. Refresque a página se o estado não for atualizado dentro de cinco minutos. 
+| Para efetuar isto | Clique aqui |
+| ------ | :----------- | 
+| Consulte as suas informações de pagamento por linha, incluindo valores de ganhos e pagamentos em moeda local  | Consulte o campo **Lista de Pagamentos**   |
+| Faça o download de uma carta de remessa   |  Selecione remessa **de pagamento**  |
+| Ver detalhes do nível de transação para um pagamento específico |  Selecione **Ver**  |
+| Detalhes de transações de exportação para o Excel  |  Selecione **Iniciar o download** e, em seguida, clique em **Dados de Exportação** . Note que todos os filtros selecionados serão aplicados aos dados exportados. Uma vez alterado o estado para Completed, selecione **Download** e siga as instruções para exportar o relatório de transações detalhadas. Refresque a página se o estado não for atualizado dentro de cinco minutos.  |
 
 ### <a name="missing-or-incorrect-earnings-and-payments"></a>Ganhos e pagamentos em falta ou incorretos
 
-Se não conseguir localizar um pagamento ou dados de transação, verifique se os filtros corretos foram aplicados. Alguns nomes do programa mudaram, o que pode requerer múltiplas seleções (por exemplo, CSP 1T Direct Partner, CSP Direct Bill Partner).
+Se não conseguir localizar um pagamento ou dados de transação, verifique se aplicou os filtros corretos. Note que uma vez que alguns nomes do programa mudaram (por exemplo, CSP 1T Direct Partner é agora CSP Direct Bill Partner), poderá ter de utilizar várias seleções.
 
-Se estas ações não ajudarem e ainda não conseguir encontrar ganhos ou continuar a acreditar que os ganhos estão incorretos, [contacte o suporte](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives).
+Se ainda não conseguir encontrar os seus ganhos ou acreditar que os ganhos apresentados estão incorretos, contacte [o Support](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives).
 
 ## <a name="how-do-i-reconcile-my-earnings"></a>Como posso conciliar os meus ganhos?
 
 Se existir alguma discrepância nos ganhos, execute os seguintes passos:
 
-1. **Verifique se é elegível para ganhos** .  Os ganhos só estarão disponíveis se cumprir os Requisitos de Elegibilidade Operacionais, ou seja, se se tiver inscrito no respetivo período de ganhos do programa.
+1. **Verifique se é elegível para ganhos** .  Os ganhos só estarão disponíveis se cumprir a [elegibilidade](incentives-determined-your-program-eligibility.md) do programa e [a elegibilidade dos ganhos.](incentives-confirm-your-earnings-eligibility.md)
 
 2. **Verifique se o perfil de pagamento está completo.**  Your incentive earnings start date will be the first day of the month in which you’ve completed all of the eligibility requirements, including onboarding with payout and tax details. Os ganhos não estarão disponíveis nos meses anteriores ao preenchimento dos dados de pagamento e fiscais. Por exemplo, se completar todos os requisitos durante o mês de abril de 2020, a data de início dos ganhos será 1 de abril de 2020. 
 
-3. **Verifique se cumpriu os requisitos.**  Verifique se cumpriu as regras de [elegibilidade](#my-payment-is-missing-or-incorrect) e de receitas elegíveis correspondentes ao incentivo que procura.
+3. **Verifique se cumpriu os requisitos.**  Verifique se cumpriu as regras de [elegibilidade](#my-payment-is-missing-or-incorrect) e receitas elegíveis para o seu programa de incentivos.
 
-Se estas ações não ajudarem e os ganhos continuarem por reconciliar, contacte o [suporte](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives).
+Se estas ações não ajudarem e os seus ganhos ainda não forem reconciliados, contacte [o Support](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives).
 
 ## <a name="where-can-i-find-my-rates"></a>Onde posso encontrar as minhas tarifas?
 
 1. Inscreva-se nos [incentivos do Parceiro](https://partner.microsoft.com/membership/partner-incentives).
 
-2. Desloque-se para aceder aos documentos do seu programa interessado e clique no link do documento para o respetivo programa.
+2. Percorra para baixo para aceder aos documentos do seu programa.
 
-3. No documento, consulte a **estrutura e tarifas** do programa de secção .
+3. Selecione o link do documento para o respetivo programa.
+
+4. No documento, consulte a **estrutura e tarifas** do programa de secção .
 
 ## <a name="next-steps"></a>Passos seguintes
 
-- [Gerir reclamações cooperativas](incentives-managing-co-op-claims.md)
+- [Gerir queixas de co-op](incentives-managing-co-op-claims.md)

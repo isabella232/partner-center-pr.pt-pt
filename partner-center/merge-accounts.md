@@ -6,12 +6,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: seodec18
 ms.date: 06/12/2020
-ms.openlocfilehash: d38c11e564d6776a5755f8df40ba6ad2dca27d12
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 26912daeae6648d49d1fda3ee148d46c8a3d6705
+ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92530521"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "92795836"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>Unir a sua conta de parceiro com outra conta de parceiro
 
@@ -89,7 +89,27 @@ Caso decida aceitar o convite para fundir contas: · Os seus ID(s) (s) e locais 
 3. Adicione o ID MPN localizado no **perfil partner** da conta que pretende convidar a fundir-se consigo. Deve usar o mpn global do parceiro deles. Não pode usar uma identificação de MPN de localização.
 
 4. Quando seleciona **a Merge,** é enviado um convite para a empresa parceira. Quando aceitarem o seu pedido, pode iniciar a fusão da conta no Partner Center. Se a empresa rejeitar o seu pedido de fusão de contas, pode explicar por que rejeitaram o pedido. Uma lista de todas as suas combinações de conta está disponível para si ao abrigo **do histórico da Merge.**
+ 
+### <a name="example-of-two-companies-merging-accounts"></a>Exemplo de duas empresas que fundem contas
 
+1. Contoso tem 
+
+    a. um [ID MPN global de 11111111](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) e um [IDs MPN de localização subordinada de 2222222](https://partner.microsoft.com/pcv/accountsettings/locationsprofile).
+  
+    b. um inquilino AD AZure = @contoso.com
+ 
+    c. uma competência de ouro que expira 1 de outubro de 2020
+2. Fabricam tem
+ 
+    a.  um ID MPN global de 3333333 e dois IDs MPN de localização subordinada de 44444444 e 555555
+
+    b.  um inquilino da AAD = @fabricam.com
+
+    c.  duas competências de ouro que expiram 1 de dezembro de 2020
+3.  Contoso compra Fabricam e vai [aqui](https://partner.microsoft.com/dashboard/account/merger) para iniciar um pedido de fusão
+4.  Fabricam assina no Partner Center e vai para a mesma página que Contoso fez em passo #3, para aprovar o pedido de Contoso.
+5.  A Contoso revê os detalhes da fusão nessa mesma página e fornece confirmação para avançar com a fusão da conta.
+    
 ## <a name="next-steps"></a>Passos seguintes
 
 - [Assign users roles and permissions](permissions-overview.md) (Atribuir funções e permissões de utilizador)

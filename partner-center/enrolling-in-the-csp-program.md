@@ -1,7 +1,7 @@
 ---
 title: Enroll in the Cloud Solution Provider program (Inscrever-se no programa do Fornecedor de Soluções Cloud)
 ms.topic: how-to
-ms.date: 10/06/2020
+ms.date: 10/28/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como se inscrever no modelo de vendas do programa Cloud Solution Provider (CSP) que é o melhor para o seu negócio, como o revendedor indireto ou o parceiro de conta direta.
@@ -9,18 +9,18 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: caa1442e5775a1617aa483a3cef675a6bd09eb17
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.openlocfilehash: 1074b25ef90495db82600fc5c18b335a91970d84
+ms.sourcegitcommit: 1840767efa4c5de41889bc9245567cf286a084c8
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92530665"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "92917166"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Enroll in the Cloud Solution Provider program (Inscrever-se no programa do Fornecedor de Soluções Cloud)
 
 **Aplica-se a**
 
-- Programa fornecedor de solução de nuvem  
+- Partner Center  
 
 **Funções adequadas**
 
@@ -73,6 +73,7 @@ Como parceiro de conta direta, é dono da relação de ponta a ponta com o seu c
 |**ID do MPN**   |Um ID ativo da Microsoft Partner Network (MPN) para a sua localização de negócio.    |
 |**Recomendação**   |A autoridade para aceitar e assinar acordos legais em nome da sua organização.|
 |**Suporte**   |A capacidade de fornecer o primeiro nível de suporte de produto em nuvem aos seus clientes. <br>Um plano de suporte da Microsoft, ou Suporte Avançado para Parceiros (ASfP) ou Premier Support for Partners (PSfP), dependendo das suas necessidades. [Compare os planos de suporte.](https://partner.microsoft.com/support/partnersupport)<br> IMPORTANTE: Tem de passar uma verificação de crédito antes de comprar um plano de apoio. Enviaremos um e-mail quando passar o cheque de crédito. |
+|**Requisito de receita**|Deve cumprir pelo menos USD300K no programa Cloud Solution Provider receitas anuais durante os doze meses anteriores como revendedor indireto. Os parceiros podem rever os seus 12 meses de receitas no Partner Center.As vendas que compõem as suas receitas de 12 meses estão sujeitas a revisão e verificação pela Microsoft e podem ser-lhe solicitadas informações adicionais. O requisito de receitas de USD300K é calculado com base nas receitas da nuvem e excluirá software perpétuo em CSP.|
 |**Serviço Gerido**   |Pelo menos um serviço gerido, serviço IP ou aplicação de solução de cliente. Saiba mais sobre a adição de [serviços geridos.](https://partner.microsoft.com/business-opportunities/managed-services-provider)|
 |**Contas a receber** |A infraestrutura organizacional em vigor para gerir a faturação e o provisionamento dos clientes.
 

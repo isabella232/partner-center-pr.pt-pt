@@ -9,14 +9,14 @@ author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fe0cb6ce028049ae8e9b911608d649d09f0d9217
-ms.sourcegitcommit: c65b9d2856a9f015f83850fcfc2dc40fd0f51b22
+ms.openlocfilehash: 9f60b6e2624bd4f9020181a936842bdb46db8aa9
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "92530161"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93133053"
 ---
-# <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>Perguntas frequentes sobre os requisitos de segurança do parceiro
+# <a name="common-questions-about-partner-security-requirements"></a>Questões comuns sobre requisitos de segurança dos parceiros
 
 **Aplica-se a**
 
@@ -26,17 +26,16 @@ ms.locfileid: "92530161"
 
 - Todos os utilizadores habilitados, incluindo utilizadores convidados
 
-## <a name="partner-security-requirements"></a>Requisitos de segurança dos parceiros
 
-Este artigo contém algumas perguntas frequentes para os [requisitos de segurança](partner-security-requirements.md)do parceiro.
+Este artigo responde a algumas perguntas comuns sobre os requisitos de segurança dos [parceiros.](partner-security-requirements.md)
 
-### <a name="what-are-the-partner-security-requirements-and-why-should-partners-implement"></a>Quais são os requisitos de segurança dos parceiros e por que razão os parceiros devem implementar?
+### <a name="what-are-the-partner-security-requirements-and-why-should-partners-implement-them"></a>Quais são os requisitos de segurança dos parceiros e por que razão os parceiros devem implementá-los?
 
 Maiores e contínuas salvaguardas de segurança e privacidade estão entre as nossas principais prioridades e continuamos a ajudar os parceiros a proteger os seus clientes e inquilinos. Continuamos a assistir a um número cada vez maior de ataques de segurança, principalmente relacionados com incidentes de compromisso de identidade. Como os controlos preventivos desempenham um papel fundamental numa estratégia global de defesa para impedir os ataques de segurança, introduzimos [requisitos obrigatórios de segurança](partner-security-requirements.md) em 2019. Todos os parceiros que participam no programa Cloud Solution Provider (CSP), Fornecedores de Painéis de Controlo e Assessores devem implementar os requisitos para se manterem em conformidade.
 
 ### <a name="what-are-the-key-timelines-and-milestones"></a>Quais são os principais prazos e marcos?
 
-Os termos associados a estes requisitos de segurança, incluindo prazos e marcos, estão incluídos no [Microsoft Partner Agreement](microsoft-partner-agreement.md) em 2019. Terá de implementar estes requisitos de segurança o mais rapidamente possível para se manter em conformidade com a sua participação no programa CSP.
+Os termos associados a estes requisitos de segurança, incluindo os prazos e os marcos, estão incluídos no [Acordo de Parceiros](microsoft-partner-agreement.md)da Microsoft. Terá de implementar estes requisitos de segurança o mais rapidamente possível para se manter em conformidade com a sua participação no programa CSP.
 
 ### <a name="what-will-happen-if-i-dont-implement-these-partner-security-requirements"></a>O que acontecerá se eu não implementar estes requisitos de segurança dos parceiros?
 
@@ -46,11 +45,11 @@ Os parceiros que não cumpram estas práticas de segurança podem perder a sua c
 
 ### <a name="do-the-security-requirements-apply-to-all-geographies"></a>Os requisitos de segurança aplicam-se a todas as geografias?
 
-Sim, os requisitos de segurança aplicam-se a todas as geografias. Recomendamos vivamente que todos os parceiros que transacionem através de uma nuvem soberana (21Vianet, Governo dos EUA e Alemanha) atuem e adotem imediatamente estes novos requisitos de segurança. No entanto, estes parceiros não são obrigados a cumprir os novos requisitos de segurança a partir de 1 de agosto. A Microsoft fornecerá detalhes adicionais sobre a aplicação destes requisitos de segurança para nuvens soberanas no futuro.
+Sim, os requisitos de segurança aplicam-se a todas as geografias. Recomendamos vivamente que todos os parceiros que transacionem através de uma nuvem soberana (Governo dos EUA e Alemanha) atuem e adotem imediatamente estes novos requisitos de segurança. No entanto, estes parceiros não são atualmente obrigados a cumprir os requisitos de segurança. A Microsoft fornecerá detalhes adicionais sobre a aplicação destes requisitos de segurança para nuvens soberanas no futuro.
 
 ### <a name="is-it-possible-to-get-an-exclusion-for-an-account"></a>É possível obter uma exclusão para uma conta?
 
-Não, não é possível excluir qualquer conta de utilizador da exigência de ter MFA aplicada. Dada a natureza altamente privilegiada de ser um parceiro, o Microsoft Partner Agreement exige que a autenticação multi-factor seja aplicada para cada conta de utilizador no seu inquilino parceiro.
+Não, não é possível excluir qualquer conta de utilizador da exigência de ter a autenticação multi-factor (MFA) aplicada. Dada a natureza altamente privilegiada de ser um parceiro, o Microsoft Partner Agreement exige que a autenticação multi-factor seja aplicada para cada conta de utilizador no seu inquilino parceiro.
 
 ### <a name="how-do-i-know-if-i-have-met-the-partner-security-requirements"></a>Como sei se cumpri os requisitos de segurança do parceiro?
 
@@ -95,9 +94,9 @@ Todos os parceiros do programa CSP (conta direta, fornecedor indireto e revended
 
     Os fornecedores de painéis de controlo são obrigados a [embarcar no](enroll-as-cpv.md) Partner Center como fornecedor de painéis de controlo e a começar a implementar este requisito imediatamente. Consulte o [Centro de Parceiros: Quadro de modelo de aplicação segura](https://assetsprod.microsoft.com/secure-application-model-guide.pdf). Os fornecedores de painéis de controlo devem aceitar e gerir o consentimento dos parceiros da CSP em vez de credenciais e expurgar todas as credenciais dos parceiros CSP existentes.
 
-## <a name="multi-factor-authentication"></a>Multi-Factor Authentication
+## <a name="multi-factor-authentication"></a>Autenticação multifator
 
-### <a name="what-is-multi-factor-authentication-mfa"></a>O que é a Autenticação Multi-Factor (MFA)?
+### <a name="what-is-multi-factor-authentication-mfa"></a>O que é a autenticação multi-factor (MFA)?
 
 O MFA é um mecanismo de segurança que os indivíduos são autenticados através de mais do que um procedimento de segurança e validação necessário. Funciona requerendo dois ou mais dos seguintes métodos de autenticação:
 
@@ -150,7 +149,7 @@ A funcionalidade de padrão de segurança Azure AD deve ser ativada ou, em alter
 
 ### <a name="will-enabling-mfa-affect-how-i-interact-with-my-customers-tenant"></a>Permitir que o MFA afete a forma como interajo com o inquilino do meu cliente?
 
-Não. O cumprimento destes requisitos de segurança não terá impacto na forma como gere os seus clientes. A sua capacidade para realizar operações administrativas delegadas não será interrompida.
+N.º O cumprimento destes requisitos de segurança não terá impacto na forma como gere os seus clientes. A sua capacidade para realizar operações administrativas delegadas não será interrompida.
 
 ### <a name="are-my-customers-subject-to-the-partner-security-requirements"></a>Os meus clientes estão sujeitos aos requisitos de segurança do parceiro?
 
@@ -308,7 +307,7 @@ A aplicação técnica dos requisitos de segurança do parceiro será verificada
 
 As políticas de "linha de base" do Azure Ative Directory (Azure AD) [estão a ser removidas e substituídas por](/azure/active-directory/fundamentals/whats-new#replacement-of-baseline-policies-with-security-defaults) "incumprimentos de segurança", um conjunto mais abrangente de políticas de proteção para si e para os seus clientes. [Os incumprimentos de segurança](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) podem ajudar a proteger a sua organização de ataques de segurança relacionados com roubo de identidade.
 
-A sua implementação de autenticação multi-factor (MFA) será removida devido à reforma das políticas de base se não tiver transitado das políticas de base para a política de incumprimentos de segurança ou [outras opções de implementação do MFA.](partner-security-requirements.md#actions-that-you-need-to-take) Qualquer utilizadores no seu parceiro inquilinos que realizem operações protegidas de MFA serão solicitados para completar a verificação de MFA. Reveja aqui orientações mais [detalhadas.](partner-security-requirements-mandating-mfa.md)
+A sua implementação de autenticação multi-factor (MFA) será removida devido à reforma das políticas de base se não tiver transitado das políticas de base para a política de incumprimentos de segurança ou [outras opções de implementação do MFA.](partner-security-requirements.md#implementing-multi-factor-authentication) Qualquer utilizadores no seu parceiro inquilinos que realizem operações protegidas de MFA serão solicitados para completar a verificação de MFA. Reveja aqui orientações mais [detalhadas.](partner-security-requirements-mandating-mfa.md)
 Para se manter em conformidade e minimizar as perturbações, tome uma das seguintes ações:
 
 - Transição para incumprimentos de segurança

@@ -1,7 +1,7 @@
 ---
 title: Trabalhar com fornecedores indiretos no programa CSP
 ms.topic: how-to
-ms.date: 04/27/2020
+ms.date: 10/09/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como os revendedores indiretos podem trabalhar com fornecedores indiretos (ou distribuidores) da Microsoft para obter ajuda com o apoio ao cliente e faturação.
@@ -10,20 +10,23 @@ ms.custom: contperfq2
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
-ms.openlocfilehash: 1b8b6f3c094471e67d43701a83da46d7dd1372a0
-ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
+ms.openlocfilehash: 74edfbfd766e6969b278c9ad83b3a12b7ef95abd
+ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "92530293"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "92795853"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Saiba como associar-se a fornecedores indiretos no programa Cloud Solution Provider
 
+**Aplica-se a**
+
+- Partner Center
+
 **Funções adequadas**
 
-- Administrador global
-- Administrador de utilizadores
-- Agente administrativo
+
+- Todos os parceiros da Microsoft interessados em inscrever-se no programa Cloud Solution Provider
 
 
 A procura crescente de soluções e serviços baseados na nuvem proporciona muitas oportunidades para os parceiros da Microsoft de todos os tamanhos construirem negócios rentáveis de soluções de nuvem. Os parceiros que estão prontos para entrar no mercado, mas que não querem ter de gerir vários fornecedores, ou que podem não ter uma infraestrutura de gestão de relacionamento com o cliente de ponta a ponta, podem inscrever-se no programa Cloud Solution Provider (CSP) da Microsoft como revendedores indiretos.
@@ -47,7 +50,7 @@ Para obter mais informações sobre o que é necessário para vender no programa
 
 ### <a name="before-you-begin"></a>Antes de começar
 
-Se é novo na CSP, terá de se inscrever no programa como revendedor indireto. Em seguida, precisa criar uma conta no Centro de Parceiros. Para tal, terá de fornecer as seguintes informações durante o processo de inscrição. Talvez queira tirar alguns minutos para recolher estes itens antes de começar:
+A partir de outubro de 2020, todos os parceiros da Microsoft novos na CSP, vão inscrever-se no programa CSP como revendedor indireto. Em seguida, precisa criar uma conta no Centro de Parceiros. Para tal, irá fornecer as seguintes informações durante o processo de inscrição. Talvez queira tirar alguns minutos para recolher estes itens antes de começar:
 
 - **Credenciais de administrador global para a sua conta de trabalho**
 
@@ -65,7 +68,7 @@ Se é novo na CSP, terá de se inscrever no programa como revendedor indireto. E
 
 ### <a name="get-started"></a>Introdução
 
-1. Para iniciar o processo, vá à [**página Welcome**](https://partnercenter.microsoft.com/pcv/register/joinnow/enrollmentwelcome/valueaddedreseller) para se registar.
+1. Para iniciar o processo de inscrição, vá à [**página Welcome**](https://partnercenter.microsoft.com/pcv/register/joinnow/enrollmentwelcome/valueaddedreseller) para se registar.
 
 2. Reveja a **página Welcome** para ter a certeza de que tem as informações necessárias para se inscrever e, em seguida, selecione **Next** .
 
@@ -99,6 +102,16 @@ Se é novo na CSP, terá de se inscrever no programa como revendedor indireto. E
 
    2. Selecione o seu nome na lista de utilizadores. Em seguida, selecione **o agente de administração** se ainda não estiver selecionado. Selecione **Atualizar** .
 
+## <a name="all-indirect-resellers-need-to-sign-the-microsoft-partner-agreement"></a>Todos os revendedores indiretos precisam de assinar o Acordo de Parceiros da Microsoft
+
+1.  Se ainda não se mudou para o Partner Center do Partner Membership Center, faça-o agora. Para obter ajuda na mudança para o Partner Center, leia [o Guia para migrar de PMC para Partner Center](guide-to-migration.md). 
+
+2.  Se tiver uma conta de membro do Partner Center (MPN ID), ainda precisa de se inscrever oficialmente no programa Cloud Solution Provider. Para verificar o estado da sua adesão, vá ao [**seu perfil de Parceiro**](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) e confirme o tipo de conta. Em [seguida, inscreva-se na CSP como revendedor indireto](enrolling-in-the-csp-program.md). Depois de se ter inscrito como revendedor indireto, [aceite o pedido de relacionamento CSP do seu Fornecedor Indireto.](indirect-reseller-tasks-in-partner-center.md)
+
+3.  Se já se inscreveu no Partner Center como revendedor indireto, aceite o Acordo de Parceiro da Microsoft na [visão geral](https://partner.microsoft.com/pcv/dashboard/overview) do painel do Partner Center utilizando credenciais de administração global. Confirme que assinou o Acordo de Parceiro da Microsoft na secção **de Informações** de Programa do perfil de Parceiro. Além disso, verá uma notificação de banner de confirmação na página de Visão Geral da CSP. 
+
+:::image type="content" source="images/mpagreen.png" alt-text="Bandeira verde aceite":::
+
 
 ## <a name="connect-with-an-indirect-provider"></a>Connect with an indirect provider (Ligar a um fornecedor indireto)
 
@@ -128,6 +141,8 @@ Se um fornecedor indireto quiser ligar-se consigo no Centro de Parceiros, inicia
 
 
 ## <a name="next-steps"></a>Passos seguintes
+
+- [O processo de verificação da conta](verification-responses.md)
 
 - [Manage your Partner Center account](partner-center-account-setup.md) (Gerir a conta do Partner Center)
 

@@ -1,7 +1,7 @@
 ---
 title: Requisitos de segurança dos parceiros
 ms.topic: article
-ms.date: 10/05/2020
+ms.date: 10/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Introduz os requisitos do parceiro para permitir a autenticação multi-factor (MFA) e adotar o quadro do Modelo de Aplicação Segura.
@@ -9,12 +9,12 @@ author: vijvala
 ms.author: vijvala
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 361a36adf40af67769a9a24ba1c485f2ad95b98c
-ms.sourcegitcommit: 8a4a3de728532533276a88b1fd40c82b7a4ebb15
+ms.openlocfilehash: c92e8c9a9a08582d89ef478a4600f737a548b787
+ms.sourcegitcommit: 2847efac28d3bff24ed37cdfaa88ff4be06705c8
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "92530218"
+ms.lasthandoff: 10/27/2020
+ms.locfileid: "92680388"
 ---
 # <a name="partner-security-requirements-for-partners-using-partner-center-or-partner-center-apis"></a>Requisitos de segurança do parceiro para parceiros que utilizem APIs do Partner Center ou do Partner Center
 
@@ -58,7 +58,7 @@ Para cumprir os requisitos de segurança do parceiro, deve impor a autenticaçã
 
 - Compra do Azure Ative Directory Premium para cada conta de utilizador. Para obter mais informações, consulte [Planejando uma implementação de autenticação multi-factor Azure baseada na nuvem](/azure/active-directory/authentication/howto-mfa-getstarted).
 
-- Utilizar uma solução de terceiros para impor a autenticação de vários fatores para cada conta de utilizador no seu inquilino parceiro. Para garantir que a solução fornecerá a solução esperada, veja [como os requisitos de segurança serão cumpridos.](#how-the-requirements-will-be-enforced)
+- Utilizar uma solução de terceiros para impor a autenticação de vários fatores para cada conta de utilizador no seu inquilino parceiro. Para garantir que a solução fornecerá a solução esperada, veja [como os requisitos de segurança serão cumpridos.](#how-the-requirements-are-enforced)
 
 > [!NOTE]
 > Embora a autenticação multi-factor não seja contratualmente necessária para uma nuvem soberana (21Vianet, Governo dos EUA e Alemanha) é altamente recomendado que adote estes requisitos de segurança.
@@ -92,7 +92,7 @@ Para a transição das políticas de base para os incumprimentos de segurança, 
 
 Uma vez que estes requisitos se aplicam a todas as contas de utilizador no seu inquilino parceiro, é necessário considerar várias coisas para garantir uma implementação suave, incluindo identificar contas de utilizadores no Azure Ative Directory que não podem realizar a autenticação de vários fatores, bem como aplicações e dispositivos utilizados pela sua organização que não suportam a autenticação moderna.
 
-Antes de realizar qualquer ação, recomendamos que identifique o seguinte:
+Antes de realizar qualquer ação, recomendamos que complete as seguintes validações: 
 
 #### <a name="do-you-have-an-application-or-device-that-does-not-support-the-use-of-modern-authentication"></a>Possui uma aplicação ou dispositivo que não suporte ao uso da autenticação moderna?
 
@@ -100,7 +100,7 @@ Quando aplicar a autenticação de vários fatores, os protocolos de autenticaç
 
 #### <a name="do-you-have-users-using-office-365-provided-by-licenses-associated-with-your-partner-tenant"></a>Tem utilizadores que utilizem o Office 365 fornecidos por licenças associadas ao seu inquilino parceiro?
 
-Antes de implementar qualquer solução, recomendamos que determine qual a versão do Microsoft Office que está a ser usada pelos utilizadores no seu inquilino parceiro. Existe a possibilidade de os seus utilizadores experimentarem problemas de conectividade com aplicações como o Outlook. Antes de impor a autenticação multi-factor, é importante garantir que o Outlook 2013 SP1, ou mais tarde, está a ser utilizado e que a sua organização tem a autenticação moderna ativada. Consulte [a autenticação moderna em Exchange Online](/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online) para obter mais informações.
+Antes de implementar qualquer solução, recomendamos que determine qual a versão do Microsoft Office que está a ser usada pelos utilizadores no seu inquilino parceiro. Existe a possibilidade de os seus utilizadores experimentarem problemas de conectividade com aplicações como o Outlook. Antes de impor a autenticação multi-factor, é importante garantir que o Outlook 2013 SP1, ou mais tarde, está a ser utilizado e que a sua organização tem a autenticação moderna ativada. Para mais informações, consulte [Ative a autenticação moderna em Exchange Online.](/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online) 
 
 Para ativar a autenticação moderna para qualquer dispositivo que esteja a executar o Windows, que tenha o Microsoft Office 2013 instalado, terá de criar duas chaves de registo. Consulte [a autenticação moderna do Office 2013 em dispositivos Windows](/office365/admin/security-and-compliance/enable-modern-authentication).
 
@@ -116,7 +116,7 @@ Para ativar a autenticação moderna para qualquer dispositivo que esteja a exec
 
 #### <a name="what-automation-or-integration-do-you-have-to-leverage-user-credentials-for-authentication"></a>Que automatização ou integração tem para alavancar as credenciais do utilizador para a autenticação?
 
-Uma vez que o requisito é fazer cumprir o MFA para cada utilizador, incluindo contas de serviço, no seu diretório de parceiros qualquer automatização ou integração que alavancar as credenciais de utilizadores para a autenticação será impactada. Por isso, é importante que identifique as contas que estão a ser usadas nestas situações. Consulte a seguinte lista de pedidos ou serviços de amostra a considerar:
+Uma vez que o requisito é fazer cumprir o MFA para cada utilizador, incluindo contas de serviço, no seu diretório de parceiros qualquer automatização ou integração que alavancar as credenciais de utilizadores para a autenticação será impactada. Por isso, é importante que identifique quais as contas que estão a ser utilizadas nestas situações. Consulte a seguinte lista de pedidos ou serviços de amostra a considerar:
 
 - Painel de controlo utilizado para a prestação de recursos em nome dos seus clientes
 
@@ -128,17 +128,19 @@ A lista acima não é abrangente. Por isso, é importante que realize uma avalia
 
 ## <a name="accessing-your-environment"></a>Acedendo ao seu ambiente
 
-Para melhor entender o que ou quem autentica sem ser desafiado para a autenticação de vários fatores, recomendamos que reveja a atividade de inscrição. Através do Azure Ative Directory Premium, pode aproveitar o relatório de inscrição. Consulte [os relatórios de atividades de inscrição no portal Azure Ative Directory](/azure/active-directory/reports-monitoring/concept-sign-ins) para obter mais informações. Se não tiver o Azure Ative Directory Premium, ou estiver à procura de uma forma de o obter através do PowerShell, então terá de aproveitar o cmdlet [Get-PartnerUserSignActivity](/powershell/module/partnercenter/get-partnerusersigninactivity) do módulo [Partner Center PowerShell.](https://www.powershellgallery.com/packages/PartnerCenter/)
+Para melhor entender o que ou quem autentica sem ser desafiado para a autenticação de vários fatores, recomendamos que reveja a atividade de inscrição. Através do Azure Ative Directory Premium, pode aproveitar o relatório de inscrição. Para obter mais informações sobre este tópico, consulte os [relatórios de atividade de inscrição no portal Azure Ative Directory](/azure/active-directory/reports-monitoring/concept-sign-ins). Se não tiver o Azure Ative Directory Premium, ou estiver à procura de uma forma de obter esta atividade de entrada através do PowerShell, então terá de aproveitar o cmdlet [Get-PartnerUserSignActivity](/powershell/module/partnercenter/get-partnerusersigninactivity) do módulo [Partner Center PowerShell.](https://www.powershellgallery.com/packages/PartnerCenter/)
 
-## <a name="how-the-requirements-will-be-enforced"></a>Como os requisitos serão cumpridos
+## <a name="how-the-requirements-are-enforced"></a>Como os requisitos são aplicados
 
-Os requisitos de segurança dos parceiros serão aplicados pela Azure Ative Directory e, por sua vez, pelo Partner Center, verificando a presença da alegação do MFA para identificar que a verificação de autenticação de vários fatores ocorreu. A partir de 18 de novembro de 2019, a Microsoft irá ativar salvaguardas de segurança adicionais (anteriormente conhecidas como "aplicação técnica") aos inquilinos parceiros. 
+Os requisitos de segurança dos parceiros são aplicados pela Azure Ative Directory e, por sua vez, pelo Partner Center, verificando a presença da alegação do MFA para identificar que a verificação de autenticação de vários fatores ocorreu. Iniciada a 18 de novembro de 2019, a Microsoft ativou salvaguardas de segurança adicionais (anteriormente conhecidas como "aplicação técnica") aos inquilinos parceiros.
 
-Após a ativação, os utilizadores do inquilino parceiro serão solicitados a completar a verificação de autenticação multi-factor (MFA) ao realizar qualquer administração em nome das operações (AOBO). Continuaremos a alargar o âmbito das salvaguardas de segurança a cenários adicionais e funções de utilizador, proporcionando aos parceiros um pré-aviso prévio. Para mais informações, por favor leia as referências a este documento, que será atualizado com frequência. Os parceiros que não cumpriram os requisitos devem aplicar estas medidas o mais rapidamente possível para evitar quaisquer perturbações nas empresas. 
+Após a ativação, os utilizadores do inquilino parceiro serão solicitados a completar a verificação de autenticação multi-fator (MFA) quando efetuam qualquer administração em nome de operações (AOBO), acedendo ao portal partner Center ou chamando a API do Partner Center. Para obter mais informações detalhadas, consulte [a Autenticação De Vários Fatores (MFA) para o seu inquilino parceiro.](partner-security-requirements-mandating-mfa.md) 
+
+Os parceiros que não cumpriram os requisitos devem aplicar estas medidas o mais rapidamente possível para evitar quaisquer perturbações nas empresas. 
 
 Se estiver a utilizar a autenticação multi-factor Azure ou as falhas de segurança Azure AD, não existem ações adicionais que necessite de tomar.
 
-Ao utilizar uma solução de autenticação multi-factor de terceiros, existe a possibilidade de a alegação de MFA não ser emitida. Se esta reclamação faltar, o Azure Ative Directory não poderá determinar se o pedido de autenticação foi contestado pela autenticação multi-factor. Para obter informações sobre como verificar a sua solução está a emitir a reclamação esperada, leia [testando os Requisitos de Segurança do Parceiro](/powershell/partnercenter/test-partner-security-requirements). 
+se estiver a utilizar uma solução de autenticação multi-factor de terceiros, existe a possibilidade de a alegação de MFA não ser emitida. Se esta reclamação faltar, o Azure Ative Directory não poderá determinar se o pedido de autenticação foi contestado pela autenticação multi-factor. Para obter informações sobre como verificar a sua solução está a emitir a reclamação esperada, leia [testando os Requisitos de Segurança do Parceiro](/powershell/partnercenter/test-partner-security-requirements). 
 
 > [!IMPORTANT]
 > Se a sua solução de terceiros não emitir a reclamação esperada, então terá de trabalhar com o fornecedor que desenvolveu a solução para determinar que ações devem ser tomadas.

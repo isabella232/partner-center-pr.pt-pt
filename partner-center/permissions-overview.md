@@ -1,7 +1,7 @@
 ---
 title: Atribuir funções & permissões aos utilizadores
 ms.topic: article
-ms.date: 09/04/2020
+ms.date: 10/30/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba quais as funções mais bem possíveis para os utilizadores da sua empresa que gerem transações comerciais, referências, incentivos ou membros mpn no Partner Center.
@@ -9,12 +9,12 @@ author: hemas
 ms.author: hemas
 ms.localizationpriority: high
 ms.custom: SEOMAY.20, contperfq1
-ms.openlocfilehash: 32df86887ccbea5d18d1bd8c7c34add2b1ab60e4
-ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
+ms.openlocfilehash: 6707ede563d07b6b96d2133bd75f8fbd53531875
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "92530260"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93133036"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>Atribuir funções e permissões aos utilizadores de uma empresa que necessite de trabalhar no Partner Center
 
@@ -52,7 +52,7 @@ Você determina os tipos de acesso que os seus utilizadores têm para Partner Ce
 ||* Crie bilhetes de apoio para o Centro de Parceiros
 ||* Ver bilhetes de apoio a parceiros que criar
 |Utilizador predefinido|  Ver o meu perfil   |[Repor a palavra-passe](reset-my-pasword.md)
-|Agente administrativo | * Gestão de clientes|[Conecte-se com os seus clientes](connect-with-your-customers.md)
+|Agente administrativo | * Gestão de clientes|[Ligar-se aos seus clientes](connect-with-your-customers.md)
 ||* Adicione a lista de dispositivos ao Centro de Parceiros
 ||* Criar e aplicar perfis em dispositivos
 ||* Gestão de assinaturas
@@ -97,8 +97,6 @@ Os CPVs desenvolvem aplicativos para utilização pelos parceiros Cloud Solution
 |**Utilizador convidado**   | **Funções**|
 |---------------------------|:--------------------|
 ||Administrador sócio da MPN|
-||Administradores de contas|
-||Administradores de incentivos|
 ||Administrador de perfil de negócios|
 ||Administração de referências|
 
@@ -138,7 +136,7 @@ Estas funções não são funções do Azure Ative Directory. Estas funções ge
 ||* Receber e gerir referências
 ||* Ver, criar e gerir referências de co-venda|
 ||* Ver, criar e gerir pedidos de serviço de parceiros
-|Administrador de perfil de negócios   |* Ver, criar e gerir o perfil de negócios |[Criar um perfil de negócio](create-a-marketing-profile.md)
+|Administrador de perfil de negócios   |* Ver, criar e gerir o perfil de negócios |[Criar um perfil empresarial](create-a-marketing-profile.md)
 ||* Ver, criar e gerir pedidos de serviço de parceiros
 ||* Crie bilhetes de apoio para o Centro de Parceiros
 ||* Ver bilhetes de apoio a parceiros que criar|

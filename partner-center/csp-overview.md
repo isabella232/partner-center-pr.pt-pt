@@ -1,7 +1,7 @@
 ---
 title: Visão geral do programa do Provedor de Solução de Nuvem
 ms.topic: article
-ms.date: 05/05/2020
+ms.date: 10/28/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba mais sobre os benefícios e diferentes modelos do programa Cloud Solution Provider (CSP) para ajudar o seu negócio a crescer com novos clientes e novas experiências.
@@ -9,19 +9,19 @@ author: billlinzbach
 ms.author: billLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e1f85f670de583052807c9ff2edfa84a50bd7daf
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.openlocfilehash: 9780fe0b90a4889fca1f3a887c445a75b1549eaa
+ms.sourcegitcommit: 1840767efa4c5de41889bc9245567cf286a084c8
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92530623"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "92917200"
 ---
 # <a name="cloud-solution-provider-program"></a>Programa fornecedor de solução de nuvem 
 
 **Aplica-se a**
 
 - Partner Center
-- Parceiros no programa CSP
+
 
 Este artigo apresenta uma visão geral do programa Cloud Solution Provider (CSP) e explica os diferentes modelos operacionais e os seus requisitos, bem como outros detalhes sobre a venda através deste programa.  O programa CSP ajuda-o a envolver-se mais nos negócios dos seus clientes, para além da revenda de licenças, e pode incluir os seguintes benefícios: 
 
@@ -41,6 +41,10 @@ Este artigo apresenta uma visão geral do programa Cloud Solution Provider (CSP)
 Suporte
 
 - Expanda as suas capacidades de suporte comprando suporte de nuvem um-a-um, priorizado com um pacote de Suporte Avançado para Parceiros da Microsoft. Ou, escolha um pacote microsoft Premier Support for Partners para aceder ao catálogo completo de serviços proactivos, suporte elevado de break/correção 24/7 e gestão técnica de conta através da nuvem, híbrido e no local.
+
+Receita
+
+- Deve cumprir pelo menos USD300K no programa Cloud Solution Provider receitas anuais durante os doze meses anteriores como revendedor indireto. Os parceiros podem rever os seus 12 meses de receitas no Partner Center.As vendas que compõem as suas receitas de 12 meses estão sujeitas a revisão e verificação pela Microsoft e podem ser-lhe solicitadas informações adicionais. O requisito de receitas de USD300K é calculado com base nas receitas da nuvem e excluirá software perpétuo em CSP.
 
 Serviços
 
@@ -70,7 +74,7 @@ Pode vender toda a gama de [serviços na nuvem](https://partner.microsoft.com/cl
 
 ## <a name="next-steps"></a>Passos seguintes
 
-- [Inscreva-se no programa CSP](enrolling-in-the-csp-program.md)
+- [Inscrever-se no programa CSP](enrolling-in-the-csp-program.md)
 - [Requisitos de revisão para cada modelo CSP](https://partnercenter.microsoft.com/partner/cloud-solution-provider)|
 - [Aplicar para vender em nuvens nacionais da Microsoft](csp-national-clouds-overview.md)
 - [Acordos de Clientes da Microsoft por região e idioma](agreements.md)

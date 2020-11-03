@@ -9,21 +9,25 @@ author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e9ffa6ef8145099a90fde16e4ce8d6a3453973e0
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: e3cd791f5f9f781980d73c79f0ec18627585372a
+ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92530074"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "92795870"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Transição do parceiro de faturação direta do Fornecedor de Soluções Cloud para o revendedor indireto do CSP
 
 **Aplica-se a:**
+- Partner Center
 
-- Parceiros CSP
+**Funções adequadas**
+
+- Todos os parceiros de conta direto cSP
 
 >[!Note]
 >Este artigo destina-se a parceiros de conta direta que tenham decidido transitar para revendedores indiretos. No entanto, mesmo que ainda não tenha tido uma decisão explícita de se inscrever como revendedor indireto, os parceiros de conta direto que não satisfaçam os novos requisitos para o programa de [parceiros](direct-partner-new-requirements.md) de conta direta CSP serão informados pela Microsoft quando as suas [capacidades de conta direta forem restringidas.](restricted-direct-bill-capabilities.md)
+<br>A partir de janeiro de 2021, será adicionado um novo requisito de receita. Os parceiros inscritos como parceiro de conta direta terão de ter transacionado pelo menos USD$300K em receitas do programa Cloud Solution Provider a um nível de Conta Global de Parceiros nos 12 meses anteriores.
 
 Poderá inscrever-se no programa de revenda indireto utilizando o seu inquilino de fatura direta existente.
 

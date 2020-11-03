@@ -6,12 +6,12 @@ ms.topic: conceptual
 ms.date: 09/28/2020
 author: eunjkim520
 ms.author: eunjkim
-ms.openlocfilehash: db347387df29dc36e256881546e632bd321dfde5
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 61730eec204674d7ad095d1fffcd997f65d135ea
+ms.sourcegitcommit: 7f595faf952bf2d6cdc229da38bd67ee701b2083
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92530533"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "93189735"
 ---
 # <a name="getting-paid-in-the-commercial-marketplace"></a>Receber pagamento no marketplace comercial
 
@@ -35,7 +35,7 @@ Antes de ser pago pela primeira vez, deve configurar a sua conta de pagamento e 
 
 Por padrão, enviaremos pagamentos mensalmente, conforme descrito acima. No entanto, tem a opção de colocar os seus pagamentos num programa em espera, e a Microsoft não libertará os seus pagamentos na sua conta. Se optar por colocar os seus pagamentos em espera, continuaremos a registar quaisquer ganhos na página **de Pagamentos.** No entanto, não enviaremos quaisquer pagamentos para a sua conta até que remova o porão.
 
-Para colocar os seus pagamentos em espera, vá para as **definições de Conta** . Em **Pagamento e Imposto,** na secção **de atribuição de prémios e perfis fiscais,** localize o programa para o qual gostaria de pagamentos realizados. Selecione a caixa de verificação **Hold my Payment** para guardar pagamentos para este programa. Pode alterar o seu estado de detenção a qualquer momento, mas a sua decisão afetará o próximo pagamento mensal. Por exemplo, se quiser realizar o pagamento de abril, certifique-se de definir o seu estado de detenção de pagamento para **On** antes do final de março.
+Para colocar os seus pagamentos em espera, selecione o ícone de engrenagem **Definições** no topo-direito e, em seguida, **as definições do Desenvolvedor** . Selecione **Payout e tax** no menu esquerdo, e na secção de atribuição de pagamento e perfil **fiscal,** localize o programa para o qual você gostaria de pagamentos realizados. Selecione a caixa de verificação **Hold my Payment** para guardar pagamentos para este programa. Pode alterar o seu estado de detenção a qualquer momento, mas a sua decisão afetará o próximo pagamento mensal. Por exemplo, se quiser realizar o pagamento de abril, certifique-se de definir o seu estado de detenção de pagamento para **On** antes do final de março.
 
 Uma vez definido o seu estado de detenção de pagamento para **On,** todos os pagamentos para este programa estarão em espera até que você limpe a caixa de verificação para **Off** . Quando o fizer, será incluído durante o próximo ciclo mensal de pagamento (desde que o limiar de pagamento tenha sido cumprido). Se já teve os seus pagamentos em espera, mas gostaria de ter um pagamento gerado em junho, então limpe a caixa de verificação para **off** antes do final de maio.
 

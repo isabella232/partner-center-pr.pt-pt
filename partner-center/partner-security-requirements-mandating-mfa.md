@@ -1,7 +1,7 @@
 ---
 title: Mandating MFA for your partner tenant (Autorizar a MFA para o inquilino parceiro)
 ms.topic: article
-ms.date: 05/26/2020
+ms.date: 10/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como mandatar o MFA para os inquilinos do seu parceiro ajudará a garantir o seu acesso aos recursos dos clientes. Inclui cenários de amostra.
@@ -9,12 +9,12 @@ author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4a85a7e415eac7f54ccd52302e350ce20de9856d
-ms.sourcegitcommit: 0cea15df24a6a1b310535eb1cb5e167dc2248a95
+ms.openlocfilehash: 01122e81254a8e63f9bbf8d6bc3d3271accac74a
+ms.sourcegitcommit: 2847efac28d3bff24ed37cdfaa88ff4be06705c8
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "92530443"
+ms.lasthandoff: 10/27/2020
+ms.locfileid: "92680400"
 ---
 # <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>Mandatar autenticação multi-factor (MFA) para o seu inquilino parceiro
 
@@ -43,9 +43,7 @@ Os parceiros são obrigados a impor a autenticação multi-factor (MFA) para tod
 
 Maiores e contínuas salvaguardas de segurança e privacidade estão entre as nossas principais prioridades e continuamos a ajudar os parceiros a proteger os seus clientes e inquilinos. Todos os parceiros que participam no programa Cloud Solution Provider (CSP), Fornecedores de Painéis de Controlo (CPVs) e Assessores devem implementar os [Requisitos de Segurança](partner-security-requirements.md) do Parceiro para se manterem em conformidade.
 
-A Microsoft iniciou a ativação de salvaguardas de segurança adicionais para os inquilinos parceiros. Esta ativação de salvaguardas pode ajudar os parceiros a proteger os seus inquilinos e seus clientes, obrigando à verificação de autenticação multi-factor (MFA) para impedir o acesso não autorizado.
-
-Completamos com sucesso a ativação das capacidades de administração delegada do parceiro a todos os inquilinos parceiros. Para ajudar ainda mais a proteger parceiros e clientes, a partir de 1 de maio de 2020, iniciaremos a ativação para transações do Partner Center na CSP, ajudando os parceiros a proteger os seus negócios e clientes de incidentes relacionados com roubo de identidade.
+Para ajudar os parceiros a proteger os seus negócios e clientes de incidentes relacionados com roubo de identidade, ativamos as salvaguardas de segurança adicionais para os inquilinos parceiros que podem ajudar os parceiros a garantir os seus inquilinos e seus clientes, obrigando a verificação de autenticação multi-fator (MFA) para impedir o acesso não autorizado. 
 
 Esta documentação proporciona aos parceiros uma experiência e orientação detalhadas sobre a ativação de salvaguardas de segurança.
 

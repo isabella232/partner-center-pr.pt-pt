@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/01/2020
-ms.openlocfilehash: 7591868f31d51750fcb30c41f73cea47c7178955
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: 1f73dc184ba38647061bf63dd573d8dc2e088ba3
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92530380"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93132999"
 ---
 # <a name="april-2020-announcements"></a>Anúncios de abril de 2020
 
@@ -192,7 +192,7 @@ Para assistência adicional com questões técnicas, por favor [envie um bilhete
 Obrigado pela sua parceria e empenho em garantir que o nosso ecossistema funciona com confiança.
 
 >[!NOTE] 
->Se estiver a utilizar políticas de base e não tiver transitado para a política de incumprimentos de segurança ou [outras opções de implementação do MFA,](..\partner-security-requirements.md#actions-that-you-need-to-take)por favor, faça a transição o mais rapidamente possível, referindo os [recursos-chave aqui](https://partner.microsoft.com/resources/collection/security-defaults-enable-mfa#/).
+>Se estiver a utilizar políticas de base e não tiver transitado para a política de incumprimentos de segurança ou [outras opções de implementação do MFA,](..\partner-security-requirements.md#implementing-multi-factor-authentication)por favor, faça a transição o mais rapidamente possível, referindo os [recursos-chave aqui](https://partner.microsoft.com/resources/collection/security-defaults-enable-mfa#/).
 
 ### <a name="change-log"></a>Change log
 

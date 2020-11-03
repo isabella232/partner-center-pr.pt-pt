@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/01/2020
-ms.openlocfilehash: 4023c4a6b0bae4bb77655aed568ec22b81862884
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: 7e608752b76c940e83434d7ec7daf3e4058512bd
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92530353"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93132849"
 ---
 # <a name="february-2020-announcements"></a>Anúncios de fevereiro de 2020
 
@@ -175,7 +175,7 @@ O nosso sistema indica que a sua organização utiliza atualmente políticas de 
 
 ### <a name="key-considerations"></a>Considerações principais
 
-A política de incumprimentos de segurança é uma das [opções](../partner-security-requirements.md#actions-that-you-need-to-take) que os parceiros podem optar por implementar MFA para os requisitos de segurança, dependendo das suas necessidades de negócio. Oferece um nível básico de segurança, sem custos adicionais. [Reveja como ativar o MFA para a sua organização com a Azure AD](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started) e as principais considerações abaixo:
+A política de incumprimentos de segurança é uma das [opções](../partner-security-requirements.md#implementing-multi-factor-authentication) que os parceiros podem optar por implementar MFA para os requisitos de segurança, dependendo das suas necessidades de negócio. Oferece um nível básico de segurança, sem custos adicionais. [Reveja como ativar o MFA para a sua organização com a Azure AD](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started) e as principais considerações abaixo:
 
 - Para os parceiros que estão a utilizar [o acesso condicional,](/azure/active-directory/conditional-access/concept-conditional-access-policy-common)não estarão disponíveis falhas de segurança.
 - Os incumprimentos de segurança aplicam todas as políticas ao mesmo tempo, incluindo a MFA necessária para a política de administração, a política de proteção do utilizador final e a necessidade de MFA para a gestão de serviços.

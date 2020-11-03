@@ -1,7 +1,7 @@
 ---
 title: Visão geral dos incentivos e reclamações
 ms.topic: article
-ms.date: 09/18/2020
+ms.date: 10/29/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: Saiba como submeter uma reivindicação cooperativa bem sucedida para os seus incentivos organizando a documentação adequada, faturas, declarações e prova de execução.
@@ -9,12 +9,12 @@ author: kaushikgMSFT
 ms.author: kaushikg
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: a79ca29d3bf097d9248c596d54d21ea4222a62ab
-ms.sourcegitcommit: 561db5fabdebcd369f456007e5061f15d4ab781d
+ms.openlocfilehash: a415c62619a486361168adb07d0d2e2cb94c5cf1
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92529799"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93133087"
 ---
 # <a name="earn-cooperative-marketing-funds"></a>Ganhe fundos de marketing cooperativo
 
@@ -41,6 +41,9 @@ Pode saber mais na página [De Recursos de Fundos cooperativos.](https://partner
 A Microsoft calcula os ganhos de incentivo elegíveis usando uma percentagem dividida (como desconto de 60% - 40% de cooperativa). Receberá a parte do desconto usando a cadência de pagamento existente para o seu programa individual, enquanto a Microsoft irá acumular a parte cooperativa dos ganhos de incentivo.
 
 Pode aprender mais sobre a cadência de pagamento e percentagem dividida no seu guia de programas de incentivos. Utilize [este procedimento](incentives-determined-your-program-eligibility.md) para aceder ao seu guia do programa.
+
+>[!NOTE]
+>Se os seus ganhos de cooperativa estiverem abaixo do limiar no período de ganhos cooperativos, os ganhos da cooperativa serão convertidos para um desconto no final do semestre. Para mais detalhes ou para determinar o valor do limiar, consulte o seu guia do programa de incentivos.
 
 ## <a name="when-to-claim-your-funds"></a>Quando reclamar os seus fundos
 
@@ -75,4 +78,4 @@ Os seguintes recursos irão ajudá-lo a começar a trabalhar com reivindicaçõe
 
 ## <a name="next-steps"></a>Passos seguintes
 
-- [Começar com incentivos](incentives-get-started-intro.md)
+- [Introdução aos incentivos](incentives-get-started-intro.md)

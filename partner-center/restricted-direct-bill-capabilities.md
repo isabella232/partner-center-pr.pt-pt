@@ -1,7 +1,7 @@
 ---
 title: Capacidades de conta direta restritas
 ms.topic: article
-ms.date: 06/05/2020
+ms.date: 10/09/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba mais sobre os requisitos dos parceiros de conta direta da CSP e o que fazer para evitar que as capacidades sejam restringidas. Descubra se as suas capacidades foram restritas.
@@ -9,12 +9,12 @@ author: billLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 46506548ec1848c983bfeabf44be74018e80be5e
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: 7ee6f4fdb537752cccbceb68716ed22bb8c5fb3a
+ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "92529364"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "92795779"
 ---
 # <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>Capacidades de conta direta restritas e os requisitos necessários para os parceiros de conta direta da CSP  
 
@@ -51,7 +51,7 @@ Se as suas capacidades de conta direta tiverem sido restritas, já não pode faz
 
 Também não é possível utilizar a [oferta de serviços partilhados do parceiro Azure](shared-services.md) ao abrigo do programa CSP para comprar novas subscrições Azure para seu próprio uso.
 
-As assinaturas de faturas diretas existentes não são afetadas. Permanecem válidos e autoestradas. Continuará a ser cobrado diretamente pela Microsoft até que sejam cancelados. Ainda pode gerir as subscrições existentes das seguintes formas:
+As assinaturas de faturas diretas existentes não são afetadas. Permanecem válidos e são renovados automaticamente. Continuará a ser cobrado diretamente pela Microsoft até que sejam cancelados. Ainda pode gerir as subscrições existentes das seguintes formas:
 
 - Suspender as assinaturas existentes
 

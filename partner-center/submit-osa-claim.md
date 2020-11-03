@@ -1,7 +1,7 @@
 ---
 title: Criar uma associação de clientes
 ms.topic: article
-ms.date: 09/11/2020
+ms.date: 10/28/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: Crie associações de clientes com o modelo Claiming Partner of Record (CPOR). Ajuda a gerir vendas, uso, incentivos para os clientes Microsoft 365 & Dynamics 365.
@@ -9,12 +9,12 @@ author: MalloryPrincipe
 ms.author: mallp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e34698b51a159445f4354e366f79f510533e6f30
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: fec01e6c4554421593de4135ccd1af5c5e7ce13b
+ms.sourcegitcommit: 1840767efa4c5de41889bc9245567cf286a084c8
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92530470"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "92917263"
 ---
 # <a name="customer-associations-via-the-claimed-partner-of-record-cpor-model-for-microsoft-365-and-dynamics-365"></a>Associações de clientes através do modelo Claimed Partner of Record (CPOR) para Microsoft 365 e Dynamics 365
 
@@ -35,9 +35,9 @@ Necessitará das seguintes informações para completar uma reclamação:
 
 - O **ID mpn** para a sua entidade que faz a reclamação
 
-- Nome de **domínio** do cliente [Encontre isto](find-domain-name.md)
+- Nome de **domínio** do cliente [Encontre isto](find-ids-and-domain-names.md)
 
-- ID do **Diretório** do Cliente ou **ID do Inquilino** [Encontre isto](find-domain-name.md)
+- ID do **Diretório** do Cliente ou **ID do Inquilino** [Encontre isto](find-ids-and-domain-names.md)
 
 - A **área de Solução** , como aplicações empresariais ou Microsoft 365
 
@@ -73,7 +73,7 @@ Deve também compreender os seguintes pontos:
 
 3. No topo da página de associações de clientes, selecione **+ associação de clientes.**
 
-4. Selecione o **ID do MPN** da localização do parceiro a associar ao cliente e, em seguida, adicione o ID do Diretório e nome de domínio do cliente. [Encontre isto](find-domain-name.md)
+4. Selecione o **ID do MPN** da localização do parceiro a associar ao cliente e, em seguida, adicione o ID do Diretório e nome de domínio do cliente. [Encontre isto](find-ids-and-domain-names.md)
 
 5. Selecione **Continuar** .
 

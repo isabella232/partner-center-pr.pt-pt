@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 11a37c0f0ac9218ec488441948faaa7b665bf0f3
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.openlocfilehash: ca06b4574d90993f62e6d8d018657e6bd81eb5e1
+ms.sourcegitcommit: 398e8361ae4b43a22d4015ad71bb724b2bf1b1a9
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92530674"
+ms.lasthandoff: 11/03/2020
+ms.locfileid: "93244068"
 ---
 # <a name="view-manage-and-export-your-incentives-program-details"></a>Ver, gerir e exportar os detalhes do programa de incentivos
 
@@ -106,6 +106,61 @@ Para ver mais detalhes sobre um ganho, selecione a seta para baixo no lado direi
 
 Para exportar qualquer um dos dados de transação nesta página, selecione **Export** e siga as instruções na página de dados de Exportação. Os ficheiros exportados da página De Histórico de Transações mostram dados em moeda de transação, ganhos tanto em moeda de transação como em dólares dos EUA, e o valor pago em pagamento à moeda.
 
+### <a name="submit-your-tax-invoice-as-proof-of-execution-poe"></a>Envie a sua fatura fiscal como prova de execução (PoE)
+
+>[!NOTE]
+>Este conteúdo diz **respeito apenas** a parceiros na Índia, China, Itália, Coreia, México e Taiwan. <br><br>Os parceiros na Índia são obrigados a apresentar uma cópia impressa da fatura fiscal.
+
+#### <a name="submit-a-tax-invoice"></a>Apresentar uma fatura fiscal
+
+Se você é um parceiro em um dos países listados acima, a Microsoft irá notificá-lo por e-mail que você é obrigado a submeter uma fatura de imposto para reclamar os seus ganhos de incentivo. O e-mail que recebe fornecerá instruções para a submissão da sua fatura fiscal, e também enumerará todas as informações adicionais necessárias.
+
+Os parceiros na Índia são obrigados a apresentar a sua fatura fiscal em cópia impressa. Os parceiros dos outros países podem submeter uma cópia impressa ou suave.
+
+Deve submeter a sua fatura fiscal no prazo de 180 dias após a sua reclamação. Assim que recebermos e validarmos a sua fatura, processaremos o seu incentivo de pagamento.
+
+Tem de submeter as seguintes informações juntamente com a sua fatura fiscal:
+
+- Número de fatura (este é um número que gera) 
+
+- Número de referência dos Incentivos ao Canal (CI) (fornecido pela Microsoft) 
+
+- O nome do seu programa de incentivos
+
+- O nome legal e endereço de conta no seu perfil de parceiro 
+
+- Valor dos ganhos
+
+- Montante dos impostos
+
+Se não souber o número de referência dos Incentivos ao Canal (CI), pode encontrá-lo nos seguintes três locais: 
+
+- A notificação por e-mail que a Microsoft envia para o seu administrador de incentivo. 
+
+- O [painel de instrumentos Partner Center](https://partner.microsoft.com/dashboard/) (pré-início obrigatório), tanto no separador **Pago** como no **separador Pendente.**  
+
+- O seu relatório de pagamento, que está localizado na sua [página de exportação de download de pagamento.](/partner-center/understand-incentive-payouts#payment-download-export) 
+
+#### <a name="if-your-submission-is-rejected"></a>Se a sua submissão for rejeitada
+
+A causa mais provável de uma submissão ser rejeitada é se a informação na fatura fiscal não corresponder à informação nos nossos registos. Exemplos de dados em falta ou incorretos incluem: 
+
+- Número do Imposto de Bens e Serviços (GST) da sua empresa
+
+- Os números do Seu Sistema Harmonizado de Nomenclatura (HSN) e código contabilístico de serviço (SAC)
+
+- Número da fatura (não deve exceder 16 dígitos)
+
+- Data da fatura
+
+- Valor fiscal (inclusivo e exclusivo)
+
+- Se a sua empresa estiver no mesmo estado que a Microsoft, as percentagens fiscais para o Imposto Central de Bens e Serviços (CGST) e para o Imposto sobre Bens e Serviços do Estado (SGST) devem alinhar-se.
+
+- Se a sua empresa estiver num estado diferente da Microsoft, deve fornecer a percentagem para o Imposto Integrado de Bens e Serviços (IGST).
+
+As submissões também podem ser rejeitadas se forem fornecidas mais de 180 dias após a reclamação, se a fatura for inválida ou se os dados foram introduzidos incorretamente.
+
 ### <a name="estimated-payment-month"></a>Mês Estimado do Pagamento
 
 A página 'Histórico de Transações' inclui agora uma tabela que mostra os valores estimados de pagamento para os próximos meses. Também pode visualizar e baixar estas informações no histórico de transações e exportações de relatório sumário. Esta informação facilita as reconciliações e as projeções de pagamentos.
@@ -116,7 +171,7 @@ O mês de pagamento estimado está atualmente disponível para todos os tipos de
 
 #### <a name="estimated-payment-month-example"></a>Exemplo estimado do mês do pagamento
 
-| Mês | Montante |
+| Mensal | Montante |
 | ------ | :-----------: |
 |  Sep-2020 |  $7.273,99   |
 |  Out-2020 | $8.692,30  |

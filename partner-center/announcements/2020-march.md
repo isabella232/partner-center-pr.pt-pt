@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 07/10/2020
-ms.openlocfilehash: 9a44adc0f4150f4cbb21c4b0e332c4958559443f
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: ff697bec18c59957d8be7d5ec8ad09edb364b6bb
+ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92530344"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "92795805"
 ---
 # <a name="march-2020-announcements"></a>Anúncios de março de 2020
 
@@ -317,7 +317,7 @@ Consulte [aqui](https://partner.microsoft.com/pcv/.) as alterações específica
 
 - [Home page do Dynamics 365](https://dynamics.microsoft.com/)
 - [Página inicial do Guia de Aplicações de Realidade Mista](https://dynamics.microsoft.com/mixed-reality/guides/)
-- [Página inicial da Fraude de Aplicações Biz](https://mbs.microsoft.com/partnersource/global/pricing-ordering/licensing-policies/Dyn365PricingandLicensing//docs.microsoft.com/dynamics365/fraud-protection/overview)
+- [Página inicial da Fraude de Aplicações Biz](/dynamics365/fraud-protection/overview)
 - [Atualizações de PowerApps e Licenciamento de Fluxo FY20](https://mbs.microsoft.com/partnersource/global/pricing-ordering/licensing-policies/Dyn365PricingandLicensing)
 - [Licenciamento Microsoft Dynamics 365](https://mbs.microsoft.com/partnersource/northamerica/pricing-ordering/licensing-policies/Dyn365BusinessCentralPricingLicensing)
 - [Dinâmica 365 e disponibilidade de plataforma de energia, localização de dados, idioma e localização](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)

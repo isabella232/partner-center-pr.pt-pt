@@ -1,7 +1,7 @@
 ---
 title: Gerir pedidos de cooperação de incentivos
 ms.topic: how-to
-ms.date: 10/02/2020
+ms.date: 10/29/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: Saiba como iniciar pedidos de cooperação de incentivos a partir do Partner Center. Você pode ver toda a atividade que vai para o edifício da sua reivindicação na História.
@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 1af4620d040931ebbc263339fbfe37c1f26d0123
-ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
+ms.openlocfilehash: 9b2f0b3acbbf3ad9648301b85cec3b8837e3e51e
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/02/2020
-ms.locfileid: "92530194"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93132951"
 ---
 # <a name="create-and-manage-an-incentives-co-op-claim"></a>Criar e gerir uma reivindicação cooperativa de incentivos
 
@@ -32,15 +32,13 @@ Pode iniciar uma reclamação de incentivos a partir do Centro de Parceiros.
 
 1. Inicie sessão no [dashboard do Centro de Parceiros](https://partner.microsoft.com/dashboard/).
 
-2. Selecione o separador **Incentivos** e, em seguida, selecione **Gestão de Planos** .
+2. Selecione o separador **Incentivos** e, em seguida, selecione **Gestão cooperativa** .
 
-3. Selecione **gestão cooperativa.**
+3. Se já tiver uma reclamação em processo, a página de visão geral das Reclamações mostra informações sobre o estado das reclamações e fundos existentes aprovados, reclamados e totais.
 
-4. Se já tiver uma reclamação em processo, a página de visão geral das Reclamações mostra informações sobre o estado das reclamações e fundos existentes aprovados, reclamados e totais.
+4. Para criar uma nova reclamação, **selecione Criar uma reclamação** .
 
-5. Para criar uma nova reclamação, **selecione Criar uma reclamação** .
-
-6. Quando tiver preenchido o formulário inicial e selecionado **Criar Reclamação,** será levado para a página de detalhes da Reclamação onde poderá adicionar faturas, CSR's, documentos comprovativos e métricas. Também poderá adicionar mais informações, se necessário.
+5. Quando tiver preenchido o formulário inicial e selecionado **Criar Reclamação,** será levado para a página de detalhes da Reclamação onde poderá adicionar faturas, CSR's, documentos comprovativos e métricas. Também poderá adicionar mais informações, se necessário.
 
 A página de detalhes dos pedidos permite-lhe pedir a outros utilizadores da sua organização que carreguem documentação para o formulário. Para cada um dos documentos de suporte que envia, pode introduzir detalhes explicativos. 
 
