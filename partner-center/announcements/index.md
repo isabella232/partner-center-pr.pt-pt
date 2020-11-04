@@ -8,20 +8,25 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 10/27/2020
-ms.openlocfilehash: a96dd7849b678357aaa28b8a35f113ead6f807ab
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.date: 11/02/2020
+ms.openlocfilehash: 1d514dd64cdb4dc3e7c599472a851b6877048568
+ms.sourcegitcommit: 04472887a8ea145b95c2774da06fc749ed8129de
 ms.translationtype: HT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93133019"
+ms.lasthandoff: 11/04/2020
+ms.locfileid: "93327256"
 ---
 # <a name="partner-center-announcements"></a>Anúncios do Centro de Parceiros
 
 Saiba mais sobre atualizações importantes do Centro de Parceiros. Estas informações são atualizadas frequentemente, pelo que visite-nos com alguma frequência!
 
-| **Categoria** | **Anúncios de outubro de 2020** | **Anunciado** |
+| **Categoria** | **Anúncios de novembro de 2020** | **Anunciado** |
 |---------|:---------|:---------|
+|Ofertas/Mercados|[A atualização do Windows 10 Education está agora disponível para clientes de Education qualificados do Fornecedor de Soluções Cloud (CSP)](2020-november.md#4)|2 de Novembro|
+|Ofertas/Mercados|[Experiência digital de Fornecedor de Soluções Cloud (CSP) atualizada já disponívelAtualizações da lista de preços de subscrições de software de Fornecedor de Soluções Cloud (CSP) de outubro de 2020](2020-november.md#3)|2 de Novembro|
+|Ofertas/Mercados|[Atualizações da lista de preços de subscrições de software do fornecedor de soluções cloud (CSP) de outubro de 2020](2020-november.md#2)|2 de Novembro|
+|Ofertas/Mercados|[Apresentamos um padrão de desempenho para requisitos de parceiros de faturação direta no programa de Fornecedor de Soluções Cloud (CSP)](2020-november.md#1)|2 de Novembro|
+| **Categoria** | **Anúncios de outubro de 2020** | **Data** |
 |Capacidades|[Atualizações de funcionalidades de subscrições de software Windows Server](2020-october.md#17)|29 de outubro|
 |Capacidades|[A atualização do Windows 10 Education está agora disponível para clientes de Education qualificados do Fornecedor de Soluções Cloud (CSP)](2020-october.md#16)|28 de outubro|
 |Capacidades|[Experiência digital de Fornecedor de Soluções Cloud (CSP) atualizada já disponível](2020-october.md#15)|28 de outubro|
