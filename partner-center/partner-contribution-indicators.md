@@ -1,7 +1,7 @@
 ---
 title: Indicadores de contribuição dos parceiros
 ms.topic: article
-ms.date: 09/16/2020
+ms.date: 11/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba mais sobre sete Indicadores de Contribuição de Parceiros (PCI) que mostram como está com a Dynamics 365 Customer Engagement ou Dynamics 365 Finanças e Operações.
@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 198e73432bd4ed14aa56a2df9bd7f43af6e12cbd
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: e5e3c0ad1a1abae49b05394d569b67840a01ecca
+ms.sourcegitcommit: fc4d94b2a9575808745f8fb8c7ee5ae88be6803c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92530476"
+ms.lasthandoff: 11/04/2020
+ms.locfileid: "93344396"
 ---
 # <a name="partner-contribution-indicators-pci-show-partner-impact-on-seven-key-measures-of-customer-success"></a>Indicadores de Contribuição de Parceiros (PCI) mostram impacto dos parceiros em sete medidas-chave de sucesso do cliente
 
@@ -89,7 +89,7 @@ Cada indicador traz uma pontuação que é adicionada ao total. Aqui estão as p
 |Sucesso do cliente - Crescimento mensal do utilizador ativo  | 25 pontos |
 
 A imagem a seguir oferece uma referência rápida e visual.
-:::image type="content" source="images/pci/perfnew.png" alt-text="Mostra pontuações de PCI para alcançar a competência de Prata ou Ouro." border="false":::
+:::image type="content" source="images/pci/perfnew.png" alt-text="Apresenta um gráfico com pontuações máximas possíveis para cada um dos sete Indicadores de Contribuição de Parceiros (PCI)." border="false":::
 
 ## <a name="thresholds-for-each-pci-metric"></a>Limiares para cada métrica de PCI
 
@@ -111,8 +111,8 @@ Consulte as seguintes tabelas para mais detalhes:
 | Métrica PCI | Indicador de desempenho: Receitas novas líquidas | Indicador de desempenho: Novo cliente adiciona | Indicador de capacidade: Consultores funcionais | Indicador de capacidade: Crescimento funcional do consultor | Indicador de capacidade: Desenvolvedores | Indicador de sucesso do cliente: Novas grandes implementações | Indicador de sucesso do cliente: Crescimento mensal do utilizador ativo |
 |---|---|---|---|---|---|---|---|
 | **Pontos máximos** | 10 pontos | 10 pontos | 15 pontos | 15 pontos | 5 pontos | 20 pontos | 25 pontos |
-| **Desenvolvido** | $300.000 | 10 pontos | 10 pontos | *\* Ver nota* | 5 pontos | 5 pontos | 25% |
-| **Desenvolvimento** | $150.000 | 5 pontos | 5 pontos |*\* Ver nota* | 2 pontos | 1 ponto | 25% |
+| **Desenvolvido** | $300.000 | 10 | 10 | *\* Ver nota* | 5 | 5 | 25% |
+| **Desenvolvimento** | $150.000 | 5  | 5  |*\* Ver nota* | 2 | 1 | 25% |
 
 *\* Nota: Os objetivos de crescimento diferem com base no número de consultores de base. Consulte [a tabela 3](partner-contribution-indicators.md#table-3-functional-consultant-growth) para obter metas de crescimento.*
 
@@ -122,8 +122,8 @@ Consulte as seguintes tabelas para mais detalhes:
 | Métrica PCI | Indicador de desempenho: Receitas novas líquidas | Indicador de desempenho: Novo cliente adiciona | Indicador de capacidade: Consultores funcionais | Indicador de capacidade: Crescimento funcional do consultor | Indicador de capacidade: Desenvolvedores | Indicador de sucesso do cliente: Novas grandes implementações | Indicador de sucesso do cliente: Crescimento mensal do utilizador ativo |
 |---|---|---|---|---|---|---|---|
 | **Pontos máximos** | 10 pontos | 10 pontos | 15 pontos | 15 pontos | 5 pontos | 20 pontos | 25 pontos |
-| **Desenvolvido** | $300.000 | 3 pontos | 15 pontos | *\* Ver nota* | 5 pontos | 3 pontos | 25% |
-| **Desenvolvimento** | $150.000 | 1 ponto | 5 pontos |*\* Ver nota* | 2 pontos | 1 ponto | 25% |
+| **Desenvolvido** | $300.000 | 3 | 15 | *\* Ver nota* | 5  | 3 | 25% |
+| **Desenvolvimento** | $150.000 | 1 | 5 |*\* Ver nota* | 2 | 1 | 25% |
 
 *\* Nota: Os objetivos de crescimento diferem com base no número de consultores de base. Consulte [a tabela 3](partner-contribution-indicators.md#table-3-functional-consultant-growth) para obter metas de crescimento.*
 
@@ -300,12 +300,12 @@ Para ver os gráficos e progressos dos indicadores de contribuição dos seus pa
 
 1. Inscreva-se no painel do Centro [de Parceiros.](https://partner.microsoft.com/dashboard)
 
-2. Selecione **CSP** no menu de navegação e, em seguida, selecione **Indicadores de Contribuição de Parceiros** . 
+2. Selecione **CSP** no menu de navegação e, em seguida, selecione **Indicadores de Contribuição de Parceiros**. 
 
    Deve ver o painel de indicadores de contribuição do parceiro com gráficos associados.
 
    > [!NOTE]
-   > Se não vir estas opções, tente selecionar **MPN** do menu, seguido de **Indicadores de Contribuição de Parceiros** . Se ainda não conseguir encontrar estas opções, poderá não ter a função de utilizador adequada atribuída no Partner Center. Contacte o seu administrador partner Center Global ou o administrador do parceiro MPN para obter ajuda.
+   > Se não vir estas opções, tente selecionar **MPN** do menu, seguido de **Indicadores de Contribuição de Parceiros**. Se ainda não conseguir encontrar estas opções, poderá não ter a função de utilizador adequada atribuída no Partner Center. Contacte o seu administrador partner Center Global ou o administrador do parceiro MPN para obter ajuda.
 
 ### <a name="read-the-charts"></a>Leia os gráficos
 
@@ -313,8 +313,8 @@ A imagem a seguir mostra como ler algumas das áreas e gráficos na página indi
 
 Para obter mais informações sobre a utilização desta área, consulte a recolha de recursos e vídeos encontrados no final deste artigo.
 
-   :::image type="content" source="images/pci/howto.png" alt-text="Mostra pontuações de PCI para alcançar a competência de Prata ou Ouro.":::
+   :::image type="content" source="images/pci/howto.png" alt-text="Como ler o gráfico":::
 
-## <a name="next-steps"></a>Passos seguintes
+## <a name="next-steps"></a>Próximos passos
 
 Ver mais vídeos de formação de PCI [e recursos informativos.](https://partner.microsoft.com/asset/collection/pci-learn#/)
