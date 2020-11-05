@@ -1,5 +1,5 @@
 ---
-title: Gerir oportunidades de co-venda
+title: Gerir oportunidades de venda conjunta
 ms.topic: article
 ms.date: 06/02/2020
 ms.service: partner-dashboard
@@ -9,12 +9,12 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4b8d849de6987e107c327d2fd2dcf892fae5a3f3
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.openlocfilehash: 9eb158163bb1a7ea5da0bc834e6bf7623f32a4dd
+ms.sourcegitcommit: 92be474db61cc12f684850c2a7a8a8bdd5c93f97
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92530647"
+ms.lasthandoff: 11/05/2020
+ms.locfileid: "93363644"
 ---
 # <a name="manage-co-sell-opportunities-in-partner-center"></a>Gerir oportunidades de co-venda no Partner Center
 
@@ -63,7 +63,7 @@ Pode criar três tipos de oportunidades.
 
 Selecione o cliente para esta oferta específica. Insira a sua localização e comece a escrever o nome. O autosuggest começará a apresentar recomendações com base nos critérios de pesquisa. Uma vez que muitas empresas têm mais do que uma entidade de negócio no mesmo local, pode ver vários resultados. Se não tiver certeza de qual escolher, pode confirmar qual o número D-U-N-S que pertence ao seu cliente. Certifique-se de selecionar a correspondência exata para o cliente com quem está a trabalhar.
 
-Assim que clicar Em **Selecionar o cliente,** será solicitado que introduza o nome, número de telefone e endereço de e-mail para a pessoa que é o seu principal ponto de contacto para esta oferta. Estes detalhes são opcionais e só são necessários se estiver a planear convidar as vendas da Microsoft para o ajudar com o noivado. Selecione **Seguinte** .
+Assim que clicar Em **Selecionar o cliente,** será solicitado que introduza o nome, número de telefone e endereço de e-mail para a pessoa que é o seu principal ponto de contacto para esta oferta. Estes detalhes são opcionais e só são necessários se estiver a planear convidar as vendas da Microsoft para o ajudar com o noivado. Selecione **Seguinte**.
 
 > [!IMPORTANT]
 > Certifique-se de que obteve o consentimento do cliente para fornecer as suas informações de contacto à Microsoft para o negócio. A Microsoft poderá utilizar estas informações para contactar diretamente o cliente.
@@ -75,6 +75,7 @@ Insira os detalhes do negócio atual. Os campos, definidos abaixo, podem mudar �
 | **Nome do campo** | **Obrigatório/opcional** | **Detalhes** |
 |-------------|--------|-------|
 |**Nome do negócio** | Obrigatório | O nome amigável para identificar o seu negócio mais tarde. |
+|**Localização**| Obrigatório | O âmbito de localização da MPN da referenciação. Os utilizadores de encaminhamento com este âmbito de localização podem ver as referências se fizerem parte da equipa. Os administradores de encaminhamento e os administradores de encaminhamento com âmbito global podem visualizar as referências independentemente da localização. A localização não pode ser editada após a criação da referência.|
 |**Valor estimado** | Obrigatório | O valor do negócio com base na informação disponível durante a criação do negócio.|
 |**Data de fecho estimada**| Obrigatório| A data em que espera fechar o negócio com o cliente. |
 |**CRM ID**| Opcional | Marque o acordo com o ID da oportunidade no seu respetivo CRM para fins de rastreio.|
@@ -134,15 +135,15 @@ Nesta fase, se recebeu uma nova oportunidade de Co-venda, quer de um vendedor da
 
 - **Aceitar:** Introduza um nome para o negócio, edite o valor estimado da oferta e o prazo estimado de compra com base na sua revisão. Assim que estabelecer o contacto com o cliente, deverá fornecer informações no campo **Notas** para explicar mais sobre o que o cliente procura. Pode opcionalmente introduzir o seu ID de CRM aqui (apenas para referência), o ID da campanha de marketing que resultou na respetiva oportunidade e adicionar contactos da sua empresa que estarão a trabalhar neste negócio.
 
-- Quando terminar, selecione **Seguinte** . Vamos passar a referência para **a fase seguinte, o** que significa que planeia envolver-se ativamente com o cliente para responder às suas necessidades. Também usaremos esta informação para ajudá-lo a encontrar ofertas semelhantes no futuro.
+- Quando terminar, selecione **Seguinte**. Vamos passar a referência para **a fase seguinte, o** que significa que planeia envolver-se ativamente com o cliente para responder às suas necessidades. Também usaremos esta informação para ajudá-lo a encontrar ofertas semelhantes no futuro.
 
-- **Recusar** : Selecione a razão pela qual está a recusar o negócio e adicione quaisquer notas que queira incluir e, em seguida, selecione **Close deal** . Vamos arquivá-lo como **Recusado** e notificar a Microsoft ou o parceiro que lhe enviou esta oportunidade.
+- **Recusar** : Selecione a razão pela qual está a recusar o negócio e adicione quaisquer notas que queira incluir e, em seguida, selecione **Close deal**. Vamos arquivá-lo como **Recusado** e notificar a Microsoft ou o parceiro que lhe enviou esta oportunidade.
 
 - Se não responder dentro do tempo atribuído (atualmente 14 dias), arquivá-lo-emos como **Expirado** e notificaremos a Microsoft ou o parceiro que lhe enviou esta oportunidade.
 
 ### <a name="accepted-stage"></a>Estágio aceite
 
-Trabalhar para fechar o negócio com o cliente. Se pretender alterar qualquer informação que tenha fornecido para uma remessa aceite, **selecione Editar** . Em seguida, pode atualizar o nome do negócio, data de compra estimada, valor estimado, notas, ID CRM e/ou o ID da campanha de marketing.  Também pode selecionar Adicionar a **sua equipa** para fornecer o nome, número de telefone e endereços de e-mail de quaisquer pessoas adicionais que estejam a trabalhar no negócio. As soluções também podem ser editadas com base na necessidade do cliente.
+Trabalhar para fechar o negócio com o cliente. Se pretender alterar qualquer informação que tenha fornecido para uma remessa aceite, **selecione Editar**. Em seguida, pode atualizar o nome do negócio, data de compra estimada, valor estimado, notas, ID CRM e/ou o ID da campanha de marketing.  Também pode selecionar Adicionar a **sua equipa** para fornecer o nome, número de telefone e endereços de e-mail de quaisquer pessoas adicionais que estejam a trabalhar no negócio. As soluções também podem ser editadas com base na necessidade do cliente.
 
 Todos os negócios que criou estão em fase Aceite por padrão.
 
@@ -184,7 +185,7 @@ Um negócio só será elegível para registo de transações se cumprir todos os
 
 Se o negócio for elegível para o registo de negócios, haverá um marco adicional adicionado ao ciclo de vida do negócio denominado "Registo de negócios", como mostrado abaixo.
 
-:::image type="content" source="images/pscmigration/dealregstages.png" alt-text="Imagem mostrando o ciclo de vida do negócio onde a fase de venda pode ser marcada.":::
+:::image type="content" source="images/pscmigration/dealregstages.png" alt-text="Imagem mostrando o ciclo de vida do negócio, o local de onde o registo do negócio pode ser iniciado.":::
 
 Pode optar por registar o negócio imediatamente após a marcação do negócio como ganho ou num momento posterior através do botão de ciclo de vida do negócio **Register now.**
 Uma vez registado o negócio, pode ver o progresso da validação do negócio a partir do mesmo ciclo de vida. Se houver alguma ação necessária da sua empresa, os erros adequados são mostrados na visão do ciclo de vida do negócio. O negócio vai para o estado fechado quando a validação do negócio estiver completa.
@@ -217,13 +218,13 @@ Não, os acordos não podem ser modificados quando se mudam para um estado termi
 
 Isto pode acontecer se a sua empresa tiver vários inquilinos associados à mesma conta MPN. Vá às definições da conta do Partner Center e verifique os inquilinos associados à conta. Em seguida, crie um bilhete de apoio solicitando para ligar os inquilinos. Forneça a identificação do inquilino no qual inscreveu o bilhete de apoio.
 
-:::image type="content" source="images/pscmigration/pctenants.png" alt-text="Imagem mostrando o ciclo de vida do negócio onde a fase de venda pode ser marcada.":::
+:::image type="content" source="images/pscmigration/pctenants.png" alt-text="Imagem mostrando as definições da conta onde a informação do inquilino pode ser encontrada.":::
 
 **Q3. Quem recebe uma notificação de e-mail do Partner Center?**
 
 O fluxo de trabalho abaixo explica como os e-mails são enviados aos parceiros do sistema de referências do centro parceiro para novas referências de entrada de parceiros.
 
-:::image type="content" source="images/pscmigration/emaillogic.png" alt-text="Imagem mostrando o ciclo de vida do negócio onde a fase de venda pode ser marcada.":::
+:::image type="content" source="images/pscmigration/emaillogic.png" alt-text="Imagem mostrando a lógica de como os e-mails são enviados aos parceiros para novas referências de entrada.":::
 
 ## <a name="getting-more-co-sell-opportunities"></a>Obtenção de mais oportunidades de co-venda
 
@@ -233,7 +234,7 @@ Aqui ficam algumas dicas para ajudá-lo a obter mais oportunidades de co-venda q
 - **Seja exigente com os acordos que aceita.** Monitorizamos os tipos de ofertas que aceita e recusa e utilizamos estas informações para ajudar a encontrar ofertas semelhantes. Aceitar ofertas que não sejam boas não melhorará os seus resultados de pesquisa e poderá ter impacto na qualidade das oportunidades que recebe.
 - **Informe de volta os tamanhos estimados do negócio, datas de encerramento e o estado final das suas ofertas** (ganhos ou perdidos). Vamos usar esta informação para continuar a fornecer-lhe referências de qualidade.
 
-## <a name="next-steps"></a>Passos seguintes
+## <a name="next-steps"></a>Próximos passos
 
 - [Gerir oportunidades potenciais](manage-leads.md)
 

@@ -9,12 +9,12 @@ author: hemas
 ms.author: hemas
 ms.localizationpriority: high
 ms.custom: SEOMAY.20, contperfq1
-ms.openlocfilehash: 6707ede563d07b6b96d2133bd75f8fbd53531875
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: 4839fbd6fac5f84e5a2ebc40d1f7f48da6114113
+ms.sourcegitcommit: 92be474db61cc12f684850c2a7a8a8bdd5c93f97
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93133036"
+ms.lasthandoff: 11/05/2020
+ms.locfileid: "93363627"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>Atribuir funções e permissões aos utilizadores de uma empresa que necessite de trabalhar no Partner Center
 
@@ -127,21 +127,38 @@ Estas funções não são funções do Azure Ative Directory. Estas funções ge
 ||* Crie bilhetes de apoio para o Centro de Parceiros
 ||* Ver bilhetes de apoio a parceiros que criar
 
+## <a name="manage-referrals"></a>Gerir referências
 
-## <a name="manage-referrals"></a>Gerir referências 
+> [!Note]
+>A nova função de utilizador de Referências estará disponível a partir de 16 de novembro de 2020. Os administradores de referência existentes manterão a sua função de administração de encaminhamento para toda a empresa.
 
-|**Role**|**O que pode fazer**|**Saiba mais**|
-|-----------------------------|:------------------------|---|
-|Administração de referências       |* Ver, criar e gerir perfis de negócio|[Gerir diferentes oportunidades potenciais como inquéritos ao cliente, oportunidades potenciais qualificadas para marketing e oportunidades potenciais qualificadas para vendas](manage-leads.md)
-||* Receber e gerir referências
-||* Ver, criar e gerir referências de co-venda|
-||* Ver, criar e gerir pedidos de serviço de parceiros
-|Administrador de perfil de negócios   |* Ver, criar e gerir o perfil de negócios |[Criar um perfil empresarial](create-a-marketing-profile.md)
-||* Ver, criar e gerir pedidos de serviço de parceiros
-||* Crie bilhetes de apoio para o Centro de Parceiros
-||* Ver bilhetes de apoio a parceiros que criar|
+|**Role** | **O que pode fazer**|**Saiba mais**
+|------------------------------|:-------------------------|---|
+|Administração de referências|Criar e gerir tudo sob o separador Referências no Centro de Parceiros|[Gerir Oportunidades de venda conjunta](manage-co-sell-opportunities.md)
+||    Pode ver e editar todas as oportunidades e pistas de co-venda
+||    Pode atribuir membros da equipa para um acordo
+||    Pode ver e editar perfis de negócio
+||    Pode ver e registar ofertas para oportunidades que são marcadas como ganhas e elegíveis para registo de negócios
+||    Pode criar e ver bilhetes de apoio
+|Utilizador de referências|Criar e gerir oportunidades de co-venda apenas se fizerem parte da equipa |[Gerir Oportunidades de venda conjunta](manage-co-sell-opportunities.md)
+||    Pode criar oportunidades de co-venda para os locais onde lhes é atribuído o papel.
+||    Pode visualizar e registar ofertas para oportunidades que são marcadas como ganhas e elegíveis para registo de negócios se forem membros da equipa.
+||    Pode criar e ver bilhetes de apoio
+|Administrador de perfil de negócios|Criar e gerir perfis de negócio | [Gerir perfis de negócio](create-a-marketing-profile.md)
+||    Pode criar e ver bilhetes de apoio
 
-## <a name="manage-incentives"></a>Gerir incentivos 
+Juntamente com a nova função de utilizador de referências, estamos também a introduzir a margem de localização para as ofertas. A tabela abaixo explica o acesso às ofertas com base no local.
+
+|**Âmbito** | **O que pode fazer** |
+|------------------------------|:-------------------------|
+|Empresa inteira | Tanto os administradores como os utilizadores têm acesso a criar ofertas para qualquer localização na sua empresa|
+|| Administração de referência tem acesso a visualização e edição de todos os negócios |
+|| Os utilizadores de referência têm acesso a visualização e edição de todas as ofertas apenas se fizerem parte da equipa |
+|Um ou mais locais | Tanto os administradores como os utilizadores têm acesso a criar ofertas para a localização atribuída na sua empresa|
+|| O administrador de referência tem acesso para visualizar e editar todos os negócios pertencentes aos locais atribuídos|
+|| Os utilizadores de referência têm acesso a visualização e edição de todas as ofertas pertencentes aos locais atribuídos se fizerem parte da equipa|
+
+## <a name="manage-incentives"></a>Gerir incentivos
 
 |**Role** | **O que pode fazer**|**Saiba mais**
 |------------------------------|:-------------------------|---|
@@ -164,7 +181,7 @@ Estas funções não são funções do Azure Ative Directory. Estas funções ge
 |Espectador de relatório executivo|Acesso a todos os conjuntos de dados de reporte, criar bilhetes de apoio a parceiros, ver bilhetes de apoio a parceiros que criar|[Relatórios do painel de avaliação disponíveis no Partner Center Insights](pci-overview-report.md)
 |Espectador de relatório|Acesso a relatórios de dados com exceção das receitas e dados pessoais do cliente e dos colaboradores, criar bilhetes de apoio ao parceiro, ver bilhetes de apoio a parceiros que criar|
 
-## <a name="next-steps"></a>Passos seguintes
+## <a name="next-steps"></a>Próximos passos
 
 - [Create user accounts and assign roles permissions](create-user-accounts-and-set-permissions.md) (Criar contas de utilizador e atribuir funções e permissões)
 - [Verifique as informações da sua conta quando se inscrever num novo programa do Partner Center](verification-responses.md)
