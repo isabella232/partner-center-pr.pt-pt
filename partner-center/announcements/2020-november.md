@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 2f82caf36171a1757d8e1f2d016c82f7f2dedecf
-ms.sourcegitcommit: 04472887a8ea145b95c2774da06fc749ed8129de
+ms.openlocfilehash: 2d4fc0aef733b8086e550695e2b2e4065930a4a1
+ms.sourcegitcommit: af2787e516ecfb5f6cf1acdb8179f2337bfa856a
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/04/2020
-ms.locfileid: "93328055"
+ms.lasthandoff: 11/06/2020
+ms.locfileid: "94333900"
 ---
 # <a name="november-2020-announcements"></a>Anúncios de novembro de 2020
 
@@ -23,6 +23,97 @@ Esta página detalha os anúncios para o Microsoft Partner Center para novembro 
 Anúncios de 2020: [abril](2020-april.md)  |  [maio](2020-may.md)  |  [junho julho](2020-june.md)  |  [July](2020-july.md)  |  [agosto](2020-august.md)  |  [September](2020-september.md)  |  [setembro](2020-October.md) Novembro
 
 ______________
+
+## <a name="expanding-commercial-licensing-partner-content-on-the-operations-readiness-gallery"></a><a name="6"></a>Expandir o conteúdo do parceiro de licenciamento comercial na Galeria de Preparação de Operações
+
+### <a name="categories"></a>Categorias
+
+- Data: 2020-11-5
+- Capacidades
+
+### <a name="summary"></a>Resumo
+
+A partir de 5 de novembro de 2020, os conteúdos parceiros de licenciamento comercial da Universidade Parceira também estarão disponíveis na Galeria de Prontidão de Operações.
+
+### <a name="impacted-audience"></a>Audiência impactada
+
+Parceiros comerciais
+
+### <a name="details"></a>Detalhes
+
+A partir de 5 de novembro de 2020, os conteúdos parceiros de licenciamento comercial da Universidade Parceira também estarão disponíveis na Galeria de Prontidão de Operações. Isto consolida o já existente parceiro operacional e de licenciamento comercial que lança conteúdos na Galeria de Prontidão de Operações com o nosso conteúdo parceiro de licenciamento comercial duradouro da Partner University. Proporcionará assim aos parceiros uma experiência de prontidão mais perfeita. Foram adicionadas as seguintes coleções à Galeria de Preparação de Operações:
+
+- [Microsoft Azure - Ofertas e Licenciamento](https://partner.microsoft.com/resources/collection/microsoft-azure-offers-and-licensing#/)
+- [Licenciamento Comercial - Chamada de Holofotes da CSP](https://partner.microsoft.com/resources/collection/commercial-licensing-csp-spotlight-call#/)
+- [Licenciamento Comercial - Chamada de Atualizações de Licenciamento](https://partner.microsoft.com/resources/collection/commercial-licensing-licensing-updates-call#/)
+
+### <a name="next-steps"></a>Passos seguintes
+
+Partilhe esta informação com todos os contactos apropriados na sua organização.
+
+________________
+
+## <a name="microsoft-teams-rooms-premium-sku-launch"></a><a name="5"></a>Lançamento do Microsoft Teams Rooms Premium SKU
+
+### <a name="categories"></a>Categorias
+
+- Data: 2020-11-3
+- Ofertas/Mercados
+
+### <a name="summary"></a>Resumo
+
+Microsoft Teams Quartos Premium SKU para equipas da Microsoft através do programa Cloud Solution Provider (CSP) já está disponível.
+
+### <a name="impacted-audience"></a>Audiência impactada
+
+Todos os parceiros que transacionam através do programa Cloud Solution Provider (CSP)
+
+### <a name="details"></a>Detalhes
+
+O novo Microsoft Teams Rooms Premium SKU para o Microsoft Teams Rooms está agora disponível para os seus clientes que adquirem CSP através de si a USD50 por dispositivo por mês. O Microsoft Teams Rooms Premium SKU é uma alternativa ao Microsoft Teams Rooms Standard SKU (anteriormente chamado Licença de Sala de Reuniões). Este SKU inclui tudo na oferta padrão, como as licenças necessárias para as Equipas Microsoft, Skype para Business Online e gestão Intune. A oferta também permite o Sistema telefónico — necessário para a integração da Rede Telefónica Comutada Pública (PSTN) — e a Conferência de Áudio, sempre que disponível. 
+
+Com a oferta premium, os clientes têm acesso aos recém-lançados Serviços Geridos microsoft Teams Rooms, onde os especialistas lidam com a gestão e operações das salas de reuniões em nome do cliente. Este serviço de gestão e monitorização de TI baseado na nuvem mantém os dispositivos microsoft Teams Rooms e os seus periféricos atualizados e seguros. Também são monitorizados e geridos proativamente, mantendo um ambiente otimizado para uma grande experiência no quarto.
+
+#### <a name="released-at-launch"></a>Lançado no lançamento
+
+   |****|**Microsoft Teams Rooms Dispositivo Standard USD15 por mês**|**Microsoft Teams Rooms Dispositivo Premium USD50 por mês**|
+   |-------------------|:------|:------|
+   |Skype para Empresas|Yes| |
+   |Microsoft Stream|Yes|Yes|
+   |Sistema telefónico|Yes|Yes|
+   |Conferência sonora|Yes|Yes|
+   |Microsoft Intune|Yes|Yes|
+   | |Microsoft Teams Rooms Standard USD15 por dispositivo por mês|Microsoft Teams Rooms Premium USD50 por dispositivo por mês|
+   |Microsoft Teams Rooms Managed Services| |Yes|
+   |Disponibilidade mundial|Yes|Em mercados selecionados|
+
+#### <a name="microsoft-teams-rooms-managed-services"></a>Microsoft Teams Rooms Managed Services
+
+- Gestão proativa: gestão 24x7x365 dos seus sistemas de quartos, incluindo patching, gestão de configuração, e muito mais.
+• Monitorização em tempo real e análise de causas de raiz: Monitorização e deteção com resposta orquestrada de gestão de incidentes impulsionada pela Microsoft em coordenação com o cliente, quando necessário. A aplicação móvel permite-lhe manter-se alerta on-the-go.
+- Atualizações geridas: Gestão e entrega de aplicações, atualizações do Windows KB e firmware.
+- Proteção contra ameaças de segurança: Proteção contra ameaças de segurança através da Proteção avançada de ameaças do Microsoft Defender.
+- Suporte ao cliente: suporte de bilhete 24x7x365 através do nosso centro de operações de serviço dedicado com remediação assistida de incidentes para casos não automatizados. Controlo de acesso baseado em funções granular.
+- Insights e recomendações: Insights agregados entre os clientes e relatórios sobre saúde da sala, inventário, uso, reuniões online e tendências de incidentes.
+
+#### <a name="offer-details"></a>Oferecer detalhes
+
+   |**Nome da oferta**|**ID da oferta**|**Material ID**|
+   |-------------------|:------|:------|
+   |Salas de Equipas Premium|5db9aa31-f039-4740-b122-a33514e4c492|6XB-00007|
+   |Salas de Equipas Premium (EUA e CAN)|03070f91-cc77-4c2e-b269-4a214b3698ab|6XB-00008|
+   |Salas de equipas Premium para docentes|d0c9a9a9-c9b6-41d7-9148-b60115c36c95|6Y5-00005|
+
+### <a name="next-steps"></a>Passos seguintes
+
+- Familiarize-se com a nova oferta e a sua disponibilidade geográfica, visite as [perguntas mais frequentes (FAQ)]().
+- Familiarize-se com a nova oferta e a sua disponibilidade geográfica. 
+- Saiba mais sobre o Microsoft Rooms e ofertas relacionadas no [Microsoft Team Rooms](https://rooms.microsoft.com/).
+- Utilize o [Guia de Parceiros de Equipas](https://aka.ms/teamscallingmeetingsguide) para desenvolver a sua prática com salas de reuniões de equipas e crie uma oferta De Co-venda Ready.
+- Reveja as [FAQ das Salas microsoft teams](https://aka.ms/PartnerMTRFAQ) para saber mais sobre a solução e serviços do produto. 
+- Partilhe esta informação com todos os contactos apropriados na sua organização e compreenda as oportunidades de venda e venda cruzada.
+
+________________
 
 ## <a name="new-microsoft-teams-advanced-communications-skus-for-government-community-cloud-gcc-coming-soon"></a><a name="4"></a>Novas Equipas da Microsoft Advanced Communications SKUs para a Government Community Cloud (GCC) em breve
 
