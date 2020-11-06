@@ -1,18 +1,17 @@
 ---
 title: Criar e gerir o Private Azure Marketplace no portal Azure
 description: Saiba como criar e gerir o Private Azure Marketplace (pré-visualização) no portal Azure.
-ms.service: marketplace
-ms.subservice: partnercenter-marketplace-publisher
+ms.prod: marketplace-customer
 ms.topic: article
 author: keferna
 ms.author: keferna
 ms.date: 09/18/2020
-ms.openlocfilehash: c0a395a7c5bfe926cdc56d7386aaaebb0305fb68
-ms.sourcegitcommit: d31c06022624ca2d1db12b3c60ef1d0a3861f763
+ms.openlocfilehash: 31179d9fd4068348e689d8b426b7a0307112501a
+ms.sourcegitcommit: af4726de429d2b9b7c3656d5cac7d542b0d4af74
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/19/2020
-ms.locfileid: "92529759"
+ms.lasthandoff: 11/06/2020
+ms.locfileid: "93414863"
 ---
 # <a name="create-and-manage-private-azure-marketplace-preview-in-the-azure-portal"></a>Criar e gerir o Private Azure Marketplace (pré-visualização) no portal Azure
 
@@ -130,37 +129,37 @@ Para obter mais informações sobre os cmdlets contidos no módulo Az.Portal Pow
 ## <a name="create-private-azure-marketplace"></a>Criar Mercado Privado Azure
 
 1. Inicie sessão no [portal do Azure](https://portal.azure.com/).
-2. Selecione **Todos os serviços** e, em seguida, **Marketplace** .
+2. Selecione **Todos os serviços** e, em seguida, **Marketplace**.
 
    :::image type="content" source="media/private-azure/azure-portal-marketplace.png" alt-text="Janela principal do portal Azure.":::
 
 3. Selecione **Private Marketplace** a partir das opções à esquerda.
 
-    :::image type="content" source="media/private-azure/private-marketplace.png" alt-text="Janela principal do portal Azure.":::
+    :::image type="content" source="media/private-azure/private-marketplace.png" alt-text="Selecionando o Private Marketplace na janela principal do portal Azure.":::
 
 4. **Selecione Get Start** para criar Private Azure Marketplace (só tem de o fazer uma vez).
 
-    :::image type="content" source="media/private-azure/private-marketplace-get-started.png" alt-text="Janela principal do portal Azure.":::
+    :::image type="content" source="media/private-azure/private-marketplace-get-started.png" alt-text="Selecionando Começar na janela principal do portal Azure.":::
 
     Se o Private Azure Marketplace já existir para este inquilino, **o Manage Marketplace** será selecionado por padrão.
 
 5. Uma vez concluído, terá um Mercado Privado Azure vazio e desativado.
 
-    :::image type="content" source="media/private-azure/new-private-marketplace.png" alt-text="Janela principal do portal Azure.":::
+    :::image type="content" source="media/private-azure/new-private-marketplace.png" alt-text="O ecrã vazio do Mercado Privado Azure.":::
 
 ## <a name="add-items-from-gallery"></a>Adicione artigos da galeria
 
 Um item é uma combinação de uma oferta e um plano. Pode pesquisar e adicionar artigo na página 'Gerir Mercado'.
 
-1. **Selecione Adicionar itens** .
+1. **Selecione Adicionar itens**.
 
 2. Navegue na **Galeria** ou utilize o campo de pesquisa para encontrar o item que deseja.
 
-    :::image type="content" source="media/private-azure/marketplace-gallery.png" alt-text="Janela principal do portal Azure.":::
+    :::image type="content" source="media/private-azure/marketplace-gallery.png" alt-text="Navegue na galeria ou utilize o campo de pesquisa.":::
 
 3. Como padrão, ao adicionar uma nova oferta, todos os planos atuais serão adicionados à lista permitida. Para modificar a seleção do plano antes de adicionar os itens selecionados, selecione o menu suspenso no azulejo da oferta e atualize os planos necessários.
 
-    :::image type="content" source="media/private-azure/update-plans-400.png" alt-text="Janela principal do portal Azure.":::
+    :::image type="content" source="media/private-azure/update-plans-400.png" alt-text="Atualização dos planos necessários.":::
 
 4. Selecione **Feito** na parte inferior esquerda depois de ter feito as suas seleções.
 
@@ -174,22 +173,22 @@ Pode editar os planos de um item na página Manage Marketplace.
 1. Na coluna **Planos,** reveja os planos disponíveis do menu suspenso para esse item.
 2. Selecione ou limpe as caixas de verificação para escolher quais os planos para disponibilizar aos seus utilizadores.
 
-    :::image type="content" source="media/private-azure/edit-items.png" alt-text="Janela principal do portal Azure.":::
+    :::image type="content" source="media/private-azure/edit-items.png" alt-text="Selecionar ou limpar a caixa de verificação para o item necessário.":::
 
 > [!NOTE]
 > Cada oferta necessita de pelo menos um plano selecionado para que a atualização ocorra. Para remover todos os planos relacionados com uma oferta, elimine toda a oferta (ver secção seguinte).
 
 ## <a name="delete-offers"></a>Excluir ofertas
 
-Na página Manage Marketplace, selecione a caixa de verificação ao lado do nome da oferta (ver ecrã acima) e selecione **Eliminar itens** .
+Na página Manage Marketplace, selecione a caixa de verificação ao lado do nome da oferta (ver ecrã acima) e selecione **Eliminar itens**.
 
 ## <a name="enabledisable-private-azure-marketplace"></a>Ativar/desativar o Mercado Privado de Azure
 
 Na página Manage Marketplace você verá um destes banners, que mostram o estado atual do Mercado Privado Azure:
 
-:::image type="content" source="media/private-azure/state-disable.png" alt-text="Janela principal do portal Azure.":::
+:::image type="content" source="media/private-azure/state-disable.png" alt-text="Desativar o banner do estado":::
 
-:::image type="content" source="media/private-azure/state-enable.png" alt-text="Janela principal do portal Azure.":::
+:::image type="content" source="media/private-azure/state-enable.png" alt-text="Ativar banner de estado":::
 
 Pode ativar ou desativar o Private Azure Marketplace conforme necessário.
 
@@ -205,7 +204,7 @@ Quando o Private Azure Marketplace estiver ativado, os utilizadores verão quais
 
 Os utilizadores podem filtrar entre ofertas que são e não são permitidas:
 
-:::image type="content" source="media/private-azure/filter-option.png" alt-text="Janela principal do portal Azure.":::
+:::image type="content" source="media/private-azure/filter-option.png" alt-text="Opção de filtragem.":::
 
 ## <a name="buy-or-deploy-in-private-azure-marketplace"></a>Comprar ou implementar no Private Azure Marketplace
 
@@ -213,15 +212,15 @@ Embora a experiência da página de detalhes do produto seja semelhante ao públ
 
 - Quando um utilizador seleciona um plano permitido, o botão **Criar** está ativado:
 
-    :::image type="content" source="media/private-azure/button-create-enabled.png" alt-text="Janela principal do portal Azure.":::
+    :::image type="content" source="media/private-azure/button-create-enabled.png" alt-text="Ofereça banner notando que um plano pode ser criado.":::
 
 - Quando um utilizador seleciona um plano não permitido, um banner nota que o plano não é permitido e o botão **Criar** é desativado.
 
-   :::image type="content" source="media/private-azure/button-create-disabled.png" alt-text="Janela principal do portal Azure.":::
+   :::image type="content" source="media/private-azure/button-create-disabled.png" alt-text="Oferecer banner notando que um plano não pode ser criado.":::
 
 - Se uma seleção de plano de produto não aparecer na página de detalhes do produto, mas o administrador aprovou um ou mais planos, um banner nota quais os planos permitidos e o botão **Criar** está ativado:
 
-    :::image type="content" source="media/private-azure/button-create-enabled-and-plans.png" alt-text="Janela principal do portal Azure.":::
+    :::image type="content" source="media/private-azure/button-create-enabled-and-plans.png" alt-text="Ofereça banner observando que um plano pode ser criado e mostrando planos disponíveis.":::
 
 ## <a name="contact-support"></a>Contactar o suporte
 
