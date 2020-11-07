@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: ca06b4574d90993f62e6d8d018657e6bd81eb5e1
-ms.sourcegitcommit: 398e8361ae4b43a22d4015ad71bb724b2bf1b1a9
+ms.openlocfilehash: 8dcd559e9e52c246b720678f05dec9128a6ca366
+ms.sourcegitcommit: fdc32c0afce88f8266f75746ec15bf04745590ad
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "93244068"
+ms.lasthandoff: 11/07/2020
+ms.locfileid: "94360059"
 ---
 # <a name="view-manage-and-export-your-incentives-program-details"></a>Ver, gerir e exportar os detalhes do programa de incentivos
 
@@ -70,7 +70,7 @@ Para aceder à **Descrição geral dos meus incentivos** :
    - Para grupo por localização, selecione o **separador Por localização** acima da tabela.
    - Para ver mais detalhes sobre as inscrições dentro de um grupo específico, selecione o símbolo chevron no final de uma determinada linha. Este chevron expande a sua visão.
 
-4. Se forem necessárias mais ações para se inscrever num programa, estas informações serão apresentadas na coluna **Estado** . Neste caso, selecione o símbolo de divisas para saber mais sobre os próximos passos que precisa de realizar.
+4. Se forem necessárias mais ações para se inscrever num programa, estas informações serão apresentadas na coluna **Estado**. Neste caso, selecione o símbolo de divisas para saber mais sobre os próximos passos que precisa de realizar.
 
 >[!NOTE]
 >Consulte a tabela seguinte para saber mais sobre os diferentes estados de matrícula indicados na coluna **Status.**
@@ -95,7 +95,7 @@ Os totais desta página representam todos os IDs mpn que utiliza. Pode filtrar p
 |Próximo pagamento estimado      |O próximo pagamento que lhe chega (mesmo que haja outros em breve), em dólares americanos.                                     |
 |Último pagamento           |O valor (em dólares americanos), nome do programa e ID MPN do seu pagamento mais recente.                                      |
 |Pagamentos por fonte       |Montante de pagamentos, em dólares americanos, representados por programa nos últimos 12 meses.                                      |
-|Pagamentos                       |Selecione **Pago** ou Pendente e, **em** seguida, ordenar como quiser. Para mais detalhes sobre um pagamento específico, selecione **Ver** . Para fazer o download de uma cópia da declaração de remessa de pagamento, selecione **Baixar** . Os dados do histórico de transações podem demorar até 24 horas a aparecer, pelo que poderá não ver os ganhos associados de imediato.  |
+|Pagamentos                       |Selecione **Pago** ou Pendente e, **em** seguida, ordenar como quiser. Para mais detalhes sobre um pagamento específico, selecione **Ver**. Para fazer o download de uma cópia da declaração de remessa de pagamento, selecione **Baixar**. Os dados do histórico de transações podem demorar até 24 horas a aparecer, pelo que poderá não ver os ganhos associados de imediato.  |
 
 Para exportar qualquer um dos dados desta página, selecione **Export** e siga as instruções na página de dados de Exportação.
 
@@ -139,7 +139,7 @@ Se não souber o número de referência dos Incentivos ao Canal (CI), pode encon
 
 - O [painel de instrumentos Partner Center](https://partner.microsoft.com/dashboard/) (pré-início obrigatório), tanto no separador **Pago** como no **separador Pendente.**  
 
-- O seu relatório de pagamento, que está localizado na sua [página de exportação de download de pagamento.](/partner-center/understand-incentive-payouts#payment-download-export) 
+- O seu relatório de pagamento, que está localizado na sua [página de exportação de download de pagamento.](#payment-download-export) 
 
 #### <a name="if-your-submission-is-rejected"></a>Se a sua submissão for rejeitada
 
@@ -167,7 +167,7 @@ A página 'Histórico de Transações' inclui agora uma tabela que mostra os val
 
 O mês de pagamento estimado é calculado com base nas regras e prazos de configuração do programa, e é processado no próximo/próximo ciclo de pagamento.
 
-O mês de pagamento estimado está atualmente disponível para todos os tipos de ganhos, exceto para a cooperativa, que apresentará como **não aplicável** . Para os ganhos antes de 1 de julho de 2020, o mês de pagamento estimado será apresentado como **Não disponível.**
+O mês de pagamento estimado está atualmente disponível para todos os tipos de ganhos, exceto para a cooperativa, que apresentará como **não aplicável**. Para os ganhos antes de 1 de julho de 2020, o mês de pagamento estimado será apresentado como **Não disponível.**
 
 #### <a name="estimated-payment-month-example"></a>Exemplo estimado do mês do pagamento
 
@@ -331,7 +331,7 @@ O relatório de resumo da transação fornece detalhes de transações de nível
 ### <a name="download-the-transaction-summary-report"></a>Faça o download do relatório do resumo da transação
 
 1. Na página De visão geral de **incentivos,** selecione o ícone **Dinheiro** (Payout) no canto superior direito.
-2. Selecione **Exportar dados** .
+2. Selecione **Exportar dados**.
 3. Selecione o **separador Resumo de Transações.**
 4. Selecione os filtros apropriados para ver os programas e alavancas que são elegíveis para ganhos agregados. Se não forem mostrados dados, os seus programas não são elegíveis para alavancas agregadas.
 5. Selecione **Iniciar o download** para   exportar o relatório.  
@@ -339,7 +339,7 @@ O relatório de resumo da transação fornece detalhes de transações de nível
 >[!NOTE]
 >O relatório de resumo da transação não incluirá informações de clientes e subscrições para subscrições mais recentes do que 60 dias, ou se as receitas de consumo forem inferiores a um cêntimo.
 
-|Nome da coluna |Descrição |
+|Nome da coluna |Description |
 |------ |:-----------|
 |  earningId | Identificador único para cada ganho  |
 |  participanteId | A identidade primária do parceiro que ganha ao abrigo do programa  |

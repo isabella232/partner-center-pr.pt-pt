@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1a4bb8eb1d3dbd24f4e18e96fb7b67c6e7332186
-ms.sourcegitcommit: 3cca87a10e8aebbf5be144ef525217509f0521ec
+ms.openlocfilehash: a65dcceea688094089ad06dacfd2abf13173ca5c
+ms.sourcegitcommit: fdc32c0afce88f8266f75746ec15bf04745590ad
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "93028793"
+ms.lasthandoff: 11/07/2020
+ms.locfileid: "94360008"
 ---
 # <a name="upgrade-windows-10-home-customers-to-windows-10-education"></a>Atualizar clientes domésticos do Windows 10 para o Windows 10 Education
 
@@ -27,7 +27,7 @@ ms.locfileid: "93028793"
 - Agente administrativo
 - Agente helpdesk
 
-## <a name="overview"></a>Descrição Geral
+## <a name="overview"></a>Descrição geral
 
 A partir de 1 de novembro de 2020, os CSPs que adquiriram as subscrições Microsoft 365 A3 ou A5 ou Windows 10 Enterprise A3 ou A5 podem ajudar os seus clientes de Educação a atualizarem-se do Windows 10 Home para o Windows 10 Education, que é projetado tanto para a sala de aula como para a aprendizagem remota.
 
@@ -51,7 +51,7 @@ Os parceiros devem criar um pedido de apoio e obter chaves do Suporte. Os parcei
 
 3. Selecione **a gestão do serviço** e selecione **pedidos de Serviço.**
 
-4. Selecione **novo pedido** e, em seguida, selecione **Office 365 e Enterprise Mobility Suite** .
+4. Selecione **novo pedido** e, em seguida, selecione **Office 365 e Enterprise Mobility Suite**.
 
 5. É levado para o portal do Office 365 onde tem de iniciar sômposição utilizando as credenciais do Centro de Parceiros.
 
@@ -63,7 +63,7 @@ Os parceiros devem criar um pedido de apoio e obter chaves do Suporte. Os parcei
 - **Descrição:** Solicitando as chaves [inserir número] para permitir o upgrade para o Windows 10 Education. (Note que o número de chaves solicitadas não deve ser superior às licenças de subscrição microsoft 365 A3/A5 ou Windows 10 Enterprise A3/A5.) ID de subscrição do cliente [inserir a subscrição de clientes ID GUID para a subscrição microsoft 365 A3/A5 ou Windows 10 Enterprise A3/A5.]
 - **Número de contacto:** Isto será preenchido; rever para confirmar ou atualizar.
 - **E-mail:** Este será pré-preenchido e deve ser o e-mail que utiliza como administrador do portal microsoft (administrador global ou administrador de faturação apenas).
-- **Método de contacto preferido** : Escolha **telefone** ou marque uma chamada **de volta** .
+- **Método de contacto preferido** : Escolha **telefone** ou marque uma chamada **de volta**.
 
 8. Selecione **Contacte-me.** O tempo de espera esperado é indicado no painel **de ajuda da necessidade?**
 
@@ -75,7 +75,7 @@ Os parceiros devem criar um pedido de apoio e obter chaves do Suporte. Os parcei
 
 Para atualizar o Windows 10 Home utilizando uma chave de produto Windows 10 Pro Education, o cliente deve fazer o seguinte:  
 
-1. Selecione **Iniciar** e, em seguida, selecione **Definições > atualização & ativação de segurança >** . Selecione **Alterar a tecla do produto** e, em seguida, introduza a tecla de produto Windows 10 Pro de 25 caracteres. Selecione **Next** para iniciar a atualização para o Windows 10 Pro.
+1. Selecione **Iniciar** e, em seguida, selecione **Definições > atualização & ativação de segurança >**. Selecione **Alterar a tecla do produto** e, em seguida, introduza a tecla de produto Windows 10 Pro de 25 caracteres. Selecione **Next** para iniciar a atualização para o Windows 10 Pro.
 
 2. Quando o dispositivo é associado ao domínio do inquilino (via AAD), o dispositivo será automaticamente atualizado para o Windows 10 Education.  
 
@@ -100,4 +100,4 @@ A atualização do Windows 10 Education baseia-se nas subscrições ativas da li
 Saiba mais seguindo estes links:
 
 - [Funcionalidades de edução do Windows](https://www.microsoft.com/education/products/windows/features)
-- [Centro de Educação Windows](https://docs.microsoft.com/education/windows/)
+- [Centro de Educação Windows](/education/windows/)
