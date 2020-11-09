@@ -1,20 +1,20 @@
 ---
 title: Migrar do Partner Sales Connect (PSC)
-ms.topic: article
-ms.date: 08/27/2020
-ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
 description: Saiba como os parceiros da Microsoft podem migrar do Partner Sales Connect (PSC) para Partner Center e criar ou gerir ofertas enviadas pelos vendedores da Microsoft.
+ms.topic: article
 author: vikramb
 ms.author: vikramb
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dc131991826a6428d613aa34e2e99c19e3efde05
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.date: 11/06/2020
+ms.openlocfilehash: 1f352234f47ea8b2745c649401603f931ec68957
+ms.sourcegitcommit: 0e142b4fbb044fe8dd2dbc7d13ab70a1a91b9f60
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92529820"
+ms.lasthandoff: 11/09/2020
+ms.locfileid: "94381436"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Guia para co-venda no Partner Center (PC) para parceiros que migram do Partner Sales Connect (PSC)
 
@@ -30,7 +30,7 @@ ms.locfileid: "92529820"
 - Administrador de Vendas de Parceiros (PSC)
 - Gestor de negócios Partner Sales Connect (PSC)
 
-Como sabem, a sua empresa perderá acesso ao PSC pós-31 de dezembro de 2020. No entanto, encontrará tudo o que pretende fazer para criar ofertas de co-venda, gerir as suas ofertas e agir sobre ofertas enviadas pelos vendedores da Microsoft no Partner Center. Haverá diferenças no entanto, e as seguintes orientações ajudarão a tornar a sua transição para o Partner Center mais suave e diretamente para a frente.
+Como sabem, a sua empresa perderá acesso ao PSC pós-31 de março de 2021. No entanto, encontrará tudo o que pretende fazer para criar ofertas de co-venda, gerir as suas ofertas e agir sobre ofertas enviadas pelos vendedores da Microsoft no Partner Center. Haverá diferenças no entanto, e as seguintes orientações ajudarão a tornar a sua transição para o Partner Center mais suave e diretamente para a frente.
 
 >[!Important]
 > Se está aqui porque viu um estandarte no PSC sobre a migração, está no lugar certo. Este guia não é aplicável aos parceiros de Avaliação de Soluções (SA) e OEM IOT que gerem as suas ofertas em PSC.
@@ -47,7 +47,7 @@ Como sabem, a sua empresa perderá acesso ao PSC pós-31 de dezembro de 2020. No
 >[!Important]
 > Certifique-se de que o ID MPN mostrado no banner do PSC está disponível na lista de localizações mpn no Partner Center. Pode verificar isso no Partner Center indo para "Definições de Conta" e "[Localizações](manage-locations.md)" sob isso para encontrar a lista de todos os MPNs associados à conta partner Center.
 
- :::image type="content" source="images/pscmigration/mpnidcheck.png" alt-text="Imagem mostrando o banner do PSC onde os parceiros podem encontrar o ID MPN.":::
+:::image type="content" source="images/pscmigration/mpnidcheck.png" alt-text="Imagem mostrando o banner do PSC onde os parceiros podem encontrar o ID MPN.":::
 
 ### <a name="if-you-are-psc-deal-manager-or-seller"></a>Se você é gestor de negócios psc ou vendedor
 
@@ -63,14 +63,55 @@ Se não vir o separador Referências:
 
 - O administrador [global](permissions-overview.md) da sua empresa pode dar-lhe acesso ao separador Referências. Para encontrar o seu administrador global, vá para as definições de Parceiro a partir do ícone de engrenagem no topo direito do Partner Center. Selecione a página de gestão do Utilizador no segundo nível da barra de navegação esquerda. Clique no drop-down que mostra "Todos os utilizadores" no topo direito da página e mude para "Global Admins". A página irá então exibir todos os administradores globais com os respetivos IDs de e-mail. Contacte-os para obter acesso "Administrativo de Encaminhamento" para a sua conta de trabalho.
 
->[!Important]
-> Se o seu papel é apenas gerir utilizadores em PSC, você pode obter você é o papel [de administrador de conta](permissions-overview.md#manage-mpn-membership-and-your-company) no Partner Center. Se o seu papel também inclui gerir oportunidades de co-venda, você deve obter o papel [de administrador de referências.](permissions-overview.md#manage-referrals) Além disso, nomeie um líder de gestão de mudança entre os administradores do PSC para trabalhar com a administração da conta Partner Center em vez de todos os administradores do PSC que chegam individualmente aos administradores da conta no PC.
+  >[!Important]
+  > Se o seu papel é apenas gerir utilizadores em PSC, você pode obter você é o papel [de administrador de conta](permissions-overview.md#manage-mpn-membership-and-your-company) no Partner Center. Se o seu papel também inclui gerir oportunidades de co-venda, você deve obter o papel [de administrador de referências.](permissions-overview.md#manage-referrals) Além disso, nomeie um líder de gestão de mudança entre os administradores do PSC para trabalhar com a administração da conta Partner Center em vez de todos os administradores do PSC que chegam individualmente aos administradores da conta no PC.
 
- :::image type="content" source="images/pscmigration/accountadmin.png" alt-text="Imagem mostrando o banner do PSC onde os parceiros podem encontrar o ID MPN." no topo direito da página e mude para "Global Admins".
-- O administrador Global pode criar uma nova conta de utilizador no seu inquilino AZure AD ou atribuir acesso de utilizador a outros utilizadores de conta de domínio.
-- Uma vez que as contas são configuradas para todos os gestores e utilizadores de negócios do PSC, eles precisam de iniciar sação no Partner Center, ir ao separador De referência na navegação à esquerda, e verificar se eles podem ver a página de Referências.
+  :::image type="content" source="images/pscmigration/accountadmin.png" alt-text="Imagem mostrando os administradores de conta na página de gestão de utilizadores de definições de parceiros.":::
+
+- Vá ao separador Referências no painel de navegação à esquerda e verifique se pode aceder às páginas.
+
+  >[!Note]
+  > Poderá ter de assinar fora do Centro parceiro e voltar a inscrever-se para refrescar as suas credenciais de acesso às páginas de Referências.
+
+## <a name="user-migration"></a>Migração de utilizadores
+
+Depois de configurar a sua conta no Partner Center, utilize o assistente de migração do utilizador na página de oportunidades de co-venda para atribuir automaticamente funções do Partner Center aos colaboradores da sua empresa.
+
+>[!Note]
+> A migração de utilizadores só pode ser realizada por administradores de [conta](permissions-overview.md#manage-mpn-membership-and-your-company) da sua empresa. Se não tiver a função de administrador de conta, encontre um administrador de conta que possa ajudar a configurar as contas do utilizador com a ajuda do assistente de migração do utilizador. A funcionalidade de migração dos utilizadores estará disponível a partir de 16 de novembro de 2020.
+
+:::image type="content" source="images/pscmigration/psc-user-migration.png" alt-text="Imagem mostrando o assistente de migração do utilizador.":::
+
+Os administradores de conta receberão um link de assistente de migração de utilizadores de PSC na página de oportunidades de co-venda ao lado do guia de referências. Podem iniciar a migração do utilizador clicando no link. Esta ação pode ser realizada várias vezes até que todos os utilizadores que a empresa quer migrar sejam atribuídos papéis adequados no Partner Center.
+
+A tabela de migração do utilizador tem os seguintes detalhes
+
+- Conta de utilizador - ID de e-mail do funcionário
+- Conta parceira do PSC - A conta a que o trabalhador está associado no PSC
+- Função de utilizador do PSC - Uma das três funções atribuídas no PSC.
+- Localização PC MPN - Local para o qual o utilizador receberá funções relevantes para PC. A conta parceira do PSC MPN é usada para encontrar a localização MPN equivalente no Partner Center para atribuir permissões. Toda a organização denota o vOrg MPN ID.
+- Função de utilizador do PC - Os colaboradores são atribuídos funções com base nas suas funções de utilizador do PSC. A administração no PSC será atribuída a funções de administração de referências no PC. Será atribuído ao vendedor a função de utilizador de referências no PC. Saiba mais sobre os papéis do PC e o que os utilizadores com estas funções podem fazer no centro parceiro [aqui](permissions-overview.md#manage-referrals)
+- PC AAD Tenant - o inquilino a que os utilizadores estão designados no Partner Center
+- Estado - Existem três Estados possíveis para o estado da migração
+    - Não migrado - O utilizador não tem qualquer função de referência para PC atribuída
+    - Migrado - O utilizador foi migrado com sucesso com papel relevante atribuído como mostrado na tabela
+    - Erro - Incapaz de completar a migração devido a algum erro
+
+A migração pode falhar e resultar em erros em algumas condições para as quais as soluções são fornecidas abaixo
+
+1. Os utilizadores de CPS podem estar a utilizar uma conta não-trabalho.
+
+2. Os utilizadores de PSC podem estar a utilizar uma conta de um domínio diferente daquele que está a usar no Partner Center.
+
+   - Para resolver erros relacionados com os cenários 1 e 2, todos esses utilizadores precisam de se inscrever no Partner Center utilizando a sua conta de trabalho anexada ao seu inquilino AZure AD. O teu [administrador global](permissions-overview.md#manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles) pode ajudar nisto. Para encontrar o seu administrador global, vá para as definições de Parceiro a partir do ícone de engrenagem no topo direito do Partner Center. Clique na página de gestão do Utilizador no segundo nível da barra de navegação esquerda. Clique no drop-down que mostra "Todos os utilizadores" no topo direito da página e mude para "Global Admins". O administrador Global pode criar uma nova conta de utilizador no seu inquilino AZure AD ou atribuir acesso de utilizador a outros utilizadores de conta de domínio. Uma vez que as contas são configuradas para todos os gestores e utilizadores de negócios do PSC, eles precisam de iniciar sação no Partner Center, ir ao separador De referência na navegação à esquerda, e verificar se eles podem ver a página de Referências.
+
+3. O utilizador já tem uma função de encaminhamento atribuída no Partner Center.
+    - Pode verificar o papel existente do utilizador a partir da página de gestão do Utilizador nas definições da conta e modificar o mesmo que necessário.
+
+Depois de concluída a migração dos utilizadores, utilize as seguintes orientações para decidir a estratégia de migração: 
 
 Se a sua empresa tiver um PDM - Quando a sua conta Partner Center estiver configurada e os seus utilizadores tiverem movimentos e permissões, pode mover as suas atividades de Co-venda para Partner Center. Informe o PDM para fazer a troca em vez de esperar até que a sua migração complete o prazo, o que permitirá que todas as suas novas ofertas fluam para o Partner Center.
+
 >[!Note]
 >Uma vez feita esta troca, só poderá atuar sobre as ofertas ativas existentes no PSC. Não pode criar novas ofertas nem receber quaisquer ofertas de vendedores da Microsoft no PSC.
 
@@ -108,7 +149,7 @@ Esta secção apresenta o mapeamento exato de atributos entre o PSC e o Partner 
 
 **Página inicial do PSC e vista padrão das oportunidades de Co-venda no Partner Center**
 
- :::image type="content" source="images/pscmigration/homepage.png" alt-text="Imagem mostrando o banner do PSC onde os parceiros podem encontrar o ID MPN.":::
+ :::image type="content" source="images/pscmigration/homepage.png" alt-text="Imagem mostrando os mapeamentos de campo entre a página inicial do Partner Sales Connect e a visão padrão de Oportunidades de Co-venda no Partner Center.":::
 
 **Vista da grelha do PSC e a vista de negócio do Centro Parceiro**
 
@@ -116,7 +157,7 @@ Esta secção apresenta o mapeamento exato de atributos entre o PSC e o Partner 
 - O papel do negócio não é um campo obrigatório no PC. Não é exibido nem capturado em nenhum dos fluxos de trabalho. É derivado automaticamente do lado do vendedor da Microsoft com base nas soluções adicionadas ao negócio.
 - A última data modificada não é apresentada na página de detalhes de encaminhamento no PC. Os parceiros podem usar a funcionalidade de tipo para classificar as ofertas com base na última data atualizada.
 
- :::image type="content" source="images/pscmigration/gridview.png" alt-text="Imagem mostrando o banner do PSC onde os parceiros podem encontrar o ID MPN.":::
+:::image type="content" source="images/pscmigration/gridview.png" alt-text="Imagem mostrando os mapeamentos de campo entre a vista da grelha de vendas de parceiros (PSC) e a vista de negócio do Partner Center.":::
 
 **Vista de detalhes do negócio no PSC e Partner Center**
 
@@ -129,24 +170,26 @@ Esta secção apresenta o mapeamento exato de atributos entre o PSC e o Partner 
 >[!Note]
 >Qualquer negócio marcado como ganho ou perdido não pode ser editado post que. Tenha cuidado ao mudar um negócio para um destes estados terminais.
 
- :::image type="content" source="images/pscmigration/dealdetails.png" alt-text="Imagem mostrando o banner do PSC onde os parceiros podem encontrar o ID MPN." do PSC e a visão do Centro Parceiro 'Adicionar soluções'**
+:::image type="content" source="images/pscmigration/dealdetails.png" alt-text="Imagem mostrando os mapeamentos de campo entre a visão de detalhes de negócio do Partner Sales Connect (PSC) e a visão de detalhes do negócio do Partner Center.":::
 
- :::image type="content" source="images/pscmigration/products.png" alt-text="Imagem mostrando o banner do PSC onde os parceiros podem encontrar o ID MPN.":::
+**Visão de "Adicionar Produtos" do PSC e a visão do Centro Parceiro 'Adicionar soluções'**
+
+:::image type="content" source="images/pscmigration/products.png" alt-text="Imagem mostrando os mapeamentos de campo entre o Partner Sales Connect (PSC) adicionar a vista de produtos e o Centro de Parceiros adicionar visão de soluções.":::
 
 **Gestão de utilizadores em PSC e Partner Center**
 
- :::image type="content" source="images/pscmigration/usermanagement.png" alt-text="Imagem mostrando o banner do PSC onde os parceiros podem encontrar o ID MPN.":::
+ :::image type="content" source="images/pscmigration/usermanagement.png" alt-text="Imagem mostrando os mapeamentos de campo entre a casa de gestão do utilizador Partner Sales Connect (PSC) e a gestão do utilizador do Partner Center na visualização das definições de conta.":::
 
 **Atribuição de função de utilizador no PSC e Partner Center**
 
 - O papel equivalente para a administração do PSC é o papel de administrador de conta no Partner Center.
 - Há apenas um papel no Partner Center para a gestão de negócios de co-venda que é o papel de administração de referência.
 
- :::image type="content" source="images/pscmigration/roles.png" alt-text="Imagem mostrando o banner do PSC onde os parceiros podem encontrar o ID MPN.":::
+:::image type="content" source="images/pscmigration/roles.png" alt-text="Imagem mostrando os mapeamentos de campo entre a visão de atribuição de funções Partner Sales Connect (PSC) e a vista de atribuição de funções do Partner Center.":::
 
 **Notificações no PSC e centro de parceiros**
 
- :::image type="content" source="images/pscmigration/notifications.png" alt-text="Imagem mostrando o banner do PSC onde os parceiros podem encontrar o ID MPN.":::
+:::image type="content" source="images/pscmigration/notifications.png" alt-text="Imagem mostrando o mapeamento entre as notificações Partner Sales Connect (PSC) e a visualização de notificações do Partner Center.":::
 
 ## <a name="moving-from-psc-to-partner-center---frequently-asked-questions"></a>Passar de PSC para Partner Center - Perguntas frequentes
 
@@ -154,7 +197,39 @@ Esta secção apresenta o mapeamento exato de atributos entre o PSC e o Partner 
 
 Pode contactar os seus administradores listados na página "Não ter acesso" para obter as funções atribuídas. Você precisará de um papel de "[administração](permissions-overview.md#manage-referrals)de referência " para ler e escrever permissão sob a secção de referências. Se estiver a gerir apenas perfis de negócio, então precisará do papel de administrador de perfil de negócios no centro de parceiros.
 
-:::image type="content" source="images/pscmigration/noaccess.png" alt-text="Imagem mostrando o banner do PSC onde os parceiros podem encontrar o ID MPN." deve ser utilizado apenas pelos parceiros que estão registados no programa de ligação ISV para registar um acordo sem oportunidade de co-venda correspondente no Partner Center. Para registar negócios com uma oportunidade de co-venda, um pop-up será exibido quando o negócio for marcado como ganho e se cumprir os critérios de registo do negócio.
+:::image type="content" source="images/pscmigration/noaccess.png" alt-text="Imagem mostrando a experiência de não acesso no Partner Center.":::
+
+**Q2. Quem me pode dar acesso à secção de referências no Centro de Parceiros?**
+
+O administrador da sua [conta](permissions-overview.md#manage-mpn-membership-and-your-company) pode dar-lhe acesso ao separador Referências. Para encontrar o administrador da sua conta, vá para as definições de Parceiro a partir do ícone de engrenagem no topo direito do Partner Center. Clique na página de gestão do Utilizador no segundo nível da barra de navegação esquerda. Clique no drop-down que mostra "Todos os utilizadores" no topo direito da página e altere para "Administradores de Conta". A página irá então exibir todos os administradores da Conta com os respetivos IDs de e-mail. Contacte-os para obter acesso "Administrativo de Encaminhamento" para a sua conta de trabalho.
+
+**Q3. O botão +new deal está acinzentado para a nossa conta. O que devo fazer para começar a criar acordos?**
+
+Isto só acontece se não houver soluções prontas de Co-venda anexadas à organização MPN que está a utilizar no Partner Center. Contacte o seu PDM para obter o ID MPN das suas soluções corrigido ou crie um bilhete de apoio que mencione o problema "Novo botão de negócio acinzentado após a migração do PSC."
+
+**Q4. Posso atribuir ofertas a uma pessoa específica da nossa organização como o PSC?**
+
+Pode atribuir membros da equipa a um acordo específico. Não impede outros administradores de visualização ou atuação nesses negócios. 
+
+**Q5. Há alguma visão de todos os acordos que me foram atribuídos?**
+
+Pode utilizar a funcionalidade favorito, que é um separador de nível de utilizador. Pode marcar todas as ofertas que lhe são atribuídas como favoritas para ter um acesso rápido às ofertas.
+
+**Q6. Há uma visão só de leitura para os negócios?**
+
+Não, não há uma visão apenas de leitura dos negócios na secção de referências. Todos os administradores de referência terão leitura completa e escreverão acesso a todos os negócios.
+
+**Q7. Como posso registar um acordo depois de o ter feito como ganho?**
+
+Se o negócio cumprir os critérios abaixo, mostraremos um pop-up para iniciar o [registo do negócio.](./register-deals.md)
+
+- Há uma solução elegível de incentivo anexa ao negócio.
+- O vendedor da Microsoft é convidado a participar no negócio, ou convidaram-no para o negócio.
+- O cartão Microsoft está no estado Aceite ou Ganho no Partner Center.
+
+**Q8. Recebo uma mensagem de erro quando clico no botão "+New deal registration" na secção De Registo de Negócios. Como posso registar os meus acordos?**
+
+O "+Registo de negócio novo" deve ser utilizado apenas pelos parceiros que estão registados no programa de ligação ISV para registar um acordo sem oportunidade de co-venda correspondente no Partner Center. Para registar negócios com uma oportunidade de co-venda, um pop-up será exibido quando o negócio for marcado como ganho e se cumprir os critérios de registo do negócio.
 
 **Q9. Adicionar uma organização de clientes é obrigatório?**
 
@@ -200,7 +275,9 @@ Se ainda não leu os tópicos de ajuda de co-venda, os seguintes recursos irão 
 |Criar e gerir o perfil de negócios|[Gerir perfil empresarial](./create-a-marketing-profile.md)
 |Gerencie pistas para o seu perfil de negócio |[Gerir oportunidades potenciais](./manage-leads.md)|
 
-## <a name="additional-resources"></a>Recursos adicionais
+## <a name="next-steps"></a>Próximos passos
+
+Siga estes recursos adicionais:
 
 - [Partner Sales Connect to Partner Center workbook](https://partner.microsoft.com/resources/detail/partner-sales-connect-to-partner-center-transition-workbook-pptx) - livro para alinhar os processos e funções de vendas dos parceiros com novos processos de vendas via Partner Center vs. Partner Sales Connect.
 - [Partner Center co-sell operating guide](https://partner.microsoft.com/resources/detail/co-sell-operating-model-guide-pptx) - orientação para identificar um modelo operativo via Partner Center para gerir leads ou co-vender oportunidades e registar ofertas.
