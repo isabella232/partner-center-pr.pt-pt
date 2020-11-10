@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 10/30/2020
-ms.openlocfilehash: ae27f193839d5456457afc923fd7834a8ff106f9
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: 37b8072742db0a9f8eb6bda3b74bf2db66b32e3d
+ms.sourcegitcommit: 146964ce0cc72bd821692f73f9c0b55e6fefb0fc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93132832"
+ms.lasthandoff: 11/10/2020
+ms.locfileid: "94433313"
 ---
 # <a name="october-2020-announcements"></a>Anúncios de outubro de 2020
 
@@ -23,6 +23,27 @@ Esta página detalha os anúncios do Microsoft Partner Center para outubro de 20
 Anúncios de 2020: [março](2020-march.md)  |  [April](2020-april.md)  |  [maio junho](2020-may.md)  |  [julho](2020-june.md)  |  [July](2020-july.md)  |  [agosto](2020-august.md)  |  [agosto](2020-september.md) Outubro
 
 ______________
+
+## <a name="correction-to-calling-plan-expansion"></a><a name="18"></a>Correção à expansão do Plano de Chamada 
+
+### <a name="categories"></a>Categorias
+
+- Data: 2020-10-29
+- Ofertas/Mercados
+
+### <a name="impacted-audience"></a>Audiência impactada
+
+Fornecedores diretos, fornecedores indiretos e revendedores indiretos
+
+### <a name="details"></a>Detalhes
+
+No dia 1 de outubro de 2020, anunciamos [a disponibilização do Office 365 Calling Plan em novos mercados.](2020-september.md#2) Este anúncio não está correto e 240 minutos por utilizador por mês para planos domésticos não estão disponíveis como mencionado anteriormente. 
+
+
+Para obter mais informações sobre os Planos de Chamada, consulte a [documentação](/microsoftteams/calling-plan-landing-page)do produto microsoft Teams .
+
+
+________________
 
 ## <a name="windows-server-software-subscriptions-feature-updates"></a><a name="17"></a>As subscrições de software do Windows Server apresentam atualizações
 
@@ -174,7 +195,7 @@ Hoje estamos a partilhar algumas alterações futuras aos requisitos para parcei
 
 Em primeiro lugar, **estamos a introduzir um padrão de desempenho como parte dos requisitos dos parceiros de conta direta.** Os parceiros que pretendam inscrever-se como parceiros de conta direta no programa Cloud Solution Provider devem cumprir pelo menos USD300K em receitas do programa Cloud Solution Provider durante os 12 meses anteriores à data de renovação [do contrato de apoio exigido.](https://partner.microsoft.com/support/partnersupport)
 
-Esta norma de desempenho entrará em vigor em janeiro de 2021 para os atuais parceiros de conta direta, e terá de cumprir os requisitos através da data de renovação do plano de apoio ao seu parceiro.
+Este padrão de desempenho entrará em vigor em janeiro de 2021 para os parceiros de faturação direta atuais e terá de cumprir os requisitos até à data de renovação do plano de suporte do parceiro.
 
 Se não conseguir ou preferir não cumprir os requisitos atualizados do parceiro de conta direta, terá de se reinscrever como revendedor indireto no programa Cloud Solution Provider. 
 
@@ -265,7 +286,7 @@ ________________
 ### <a name="categories"></a>Categorias
 
 - Data: 2020-10-14
-- Capacidade
+- Funcionalidade
  
 ### <a name="summary"></a>Resumo 
 Atualizações para o guia de autorização mpa.
@@ -379,7 +400,7 @@ ________________
 ### <a name="categories"></a>Categorias
 
 - Data: 2020-10-07
-- Capacidade
+- Funcionalidade
  
 ### <a name="summary"></a>Resumo 
 
