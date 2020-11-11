@@ -324,6 +324,25 @@
     - name: Resolver problemas de pagamentos e ganhos
       href: incentives-payment-issues.md
       displayName: incentives
+    - name: Trabalhar na Plataforma de Incentivos de Canal (CHIP)
+      items:
+        - name: Navegar na CHIP
+          href: chip-intro.md
+          displayName: chip
+        - name: Adicionar utilizadores à sua conta CHIP
+          href: chip-users.md
+        - name: Ver ganhos na CHIP
+          href: chip-earnings.md
+        - name: Verificar o estado de pagamento na CHIP
+          href: chip-payment-status.md
+        - name: Localizar a contagem de computadores e o nível de honorários de um contrato
+          href: chip-locate-agreement.md
+        - name: Elegibilidade do Solution Assessment
+          href: chip-solution-assessment.md
+        - name: Estado de pagamento do Solution Assessment
+          href: chip-solution-assessment-payment.md
+        - name: Problemas em aceder à CHIP
+          href: chip-access-trouble.md
 - name: Faturação e impostos
   href: billing.md
   displayName: trial
