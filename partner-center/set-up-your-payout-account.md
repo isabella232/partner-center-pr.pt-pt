@@ -6,12 +6,12 @@ ms.service: marketplace
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 12/10/2019
-ms.openlocfilehash: 38fa2943815a71c93bba7165ea970baefc992ed9
-ms.sourcegitcommit: e73a8a926476c47ea280735d1939b8a366982d33
+ms.openlocfilehash: 8907d9a394c5679dad5115e03d4ee697d7a07e0f
+ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92530095"
+ms.lasthandoff: 11/11/2020
+ms.locfileid: "94488144"
 ---
 # <a name="set-up-your-payout-account-and-tax-forms"></a>Configurar a conta de dividendos e os formulários fiscais
 
@@ -28,7 +28,7 @@ Depois de configurar a sua conta, há duas coisas que precisa de fazer antes de 
 - [Crie a sua conta de pagamento](#payout-account)
 
 > [!NOTE]
-> Para mais detalhes sobre como e quando será pago pelo dinheiro que a sua oferta faz, consulte [ser pago.](/azure/marketplace/marketplace-payout-account-setup)
+> Para mais detalhes sobre como e quando será pago pelo dinheiro que a sua oferta faz, consulte [ser pago no mercado comercial.](marketplace-get-paid.md)
 
 ## <a name="tax-forms"></a>Formulários fiscais
 
@@ -44,9 +44,9 @@ Pode completar e submeter os seus formulários fiscais eletronicamente no Partne
 > [!IMPORTANT]
 > Diferentes países e regiões têm diferentes requisitos fiscais. O valor exato que deve pagar em impostos depende dos países e regiões onde vende a sua oferta. Consulte o [Microsoft Azure Marketplace Publisher Agreement](https://go.microsoft.com/fwlink/p/?LinkID=699560) para saber para que países/regiões a Microsoft atribui vendas e utiliza o imposto em seu nome. Noutros países/regiões, dependendo do local onde está registado, poderá ter de reencamitá-lo e utilizar o imposto para as suas vendas de oferta diretamente à autoridade tributária local. Além disso, as receitas de vendas de aplicações que recebe podem ser tributáveis como rendimento. Encorajamo-lo vivamente a contactar a autoridade relevante para o seu país ou região que melhor o ajude a determinar a informação fiscal certa para as suas atividades de mercado comercial.
 
-1. No [Partner Center](https://partner.microsoft.com/dashboard), selecione o ícone de **definições de conta** no canto superior direito e, em seguida, selecione as **definições do Programador** .
+1. No [Partner Center](https://partner.microsoft.com/dashboard), selecione o ícone de **definições de conta** no canto superior direito e, em seguida, selecione as **definições do Programador**.
 
-2. No menu de navegação à esquerda, selecione **Payout e tax,** em seguida, selecione **Payout e tax assignments** .
+2. No menu de navegação à esquerda, selecione **Payout e tax,** em seguida, selecione **Payout e tax assignments**.
 
 3. Selecione a combinação de identificação do programa e do vendedor para a qual pretende configurar informações fiscais.
 
@@ -77,12 +77,12 @@ Se estiver fora dos Estados Unidos, poderá tirar partido dos benefícios do tra
 Uma conta de pagamento é a conta bancária para a qual enviamos os lucros das suas vendas. Pode ver todas as contas de pagamento que inseriu na página 'Perfil'.
 
 > [!NOTE]
-> Em alguns mercados, o PayPal pode ser usado para a sua conta de pagamento. Para saber se o PayPal é suportado para um mercado específico, consulte [limiares de pagamento, métodos e prazos e](/azure/marketplace/payment-thresholds-methods-timeframes) as [informações payPal](#paypal-info) abaixo para obter mais detalhes.
+> Em alguns mercados, o PayPal pode ser usado para a sua conta de pagamento. Para saber se o PayPal é suportado para um mercado específico, consulte [limiares de pagamento, métodos e prazos e](payment-thresholds-methods-timeframes.md) as [informações payPal](#paypal-info) abaixo para obter mais detalhes.
 
 ### <a name="create-a-payment-profile"></a>Criar um perfil de pagamento
 
-1. No [Partner Center](https://partner.microsoft.com/dashboard), selecione o ícone de engrenagem **Definições** no canto superior direito e, em seguida, selecione **as definições de Conta** .
-2. No fundo da *rubrica Payout e tax,* selecione **Payout e tax profile assignment** .
+1. No [Partner Center](https://partner.microsoft.com/dashboard), selecione o ícone de engrenagem **Definições** no canto superior direito e, em seguida, selecione **as definições de Conta**.
+2. No fundo da *rubrica Payout e tax,* selecione **Payout e tax profile assignment**.
 
     > [!NOTE]
     > Como esta é uma informação sensível, pode ser solicitado a entrar novamente.
@@ -124,27 +124,27 @@ Para garantir que o seu pagamento é bem sucedido, certifique-se de que:
 
 Pode editar os perfis de pagamento existentes se precisar de efetuar alterações ou corrigir qualquer informação incorreta.
 
-1. No [Partner Center](https://partner.microsoft.com/dashboard), selecione o ícone de engrenagem **Definições** no canto superior direito e, em seguida, selecione **as definições do Desenvolvedor** .
+1. No [Partner Center](https://partner.microsoft.com/dashboard), selecione o ícone de engrenagem **Definições** no canto superior direito e, em seguida, selecione **as definições do Desenvolvedor**.
 
-2. Por baixo do Pagamento e da rubrica *fiscal,* selecione **Payout e tax profiles** .
+2. Por baixo do Pagamento e da rubrica *fiscal,* selecione **Payout e tax profiles**.
 
 3. Os seus perfis de pagamento serão listados juntamente com o seu estado. Encontre o perfil que deseja editar e clique em **Editar** na extrema-direita
 
 > [!IMPORTANT]
-> Alterar a sua conta de pagamento pode atrasar os seus pagamentos até um ciclo de pagamento. Este atraso ocorre porque precisamos verificar a mudança de conta, tal como fizemos quando estabeleceu a conta de pagamento pela primeira vez. Continuará a ser pago pelo valor total depois de verificada a sua conta; quaisquer pagamentos devidos para o ciclo de pagamento em curso serão adicionados ao próximo. Veja [ser pago](/azure/marketplace/marketplace-payout-account-setup) para mais informações.
+> Alterar a sua conta de pagamento pode atrasar os seus pagamentos até um ciclo de pagamento. Este atraso ocorre porque precisamos verificar a mudança de conta, tal como fizemos quando estabeleceu a conta de pagamento pela primeira vez. Continuará a ser pago pelo valor total depois de verificada a sua conta; quaisquer pagamentos devidos para o ciclo de pagamento em curso serão adicionados ao próximo. Veja [ser pago no mercado comercial](marketplace-get-paid.md)para mais informações.
 
 ### <a name="paypal-info"></a>Informação PayPal
 
 Em países e regiões selecionados, pode criar uma conta de pagamento inserindo a sua informação PayPal. No entanto, antes de escolher o PayPal como opção de conta de pagamento:
 
-- Verifique [os limiares de pagamento, métodos e prazos](/azure/marketplace/payment-thresholds-methods-timeframes) para confirmar se o PayPal é um método de pagamento suportado no seu país ou região.
+- Verifique [os limiares de pagamento, métodos e prazos](payment-thresholds-methods-timeframes.md) para confirmar se o PayPal é um método de pagamento suportado no seu país ou região.
 - Reveja as seguintes PERGUNTAS Frequentes. Dependendo da sua situação, o PayPal pode não ser a melhor opção de conta de pagamento para si, podendo ser preferível uma conta bancária.
 
 Questões comuns sobre a utilização do PayPal como método de pagamento:
 
 - **Que definições do PayPal preciso de ter para receber pagamentos?** Certifique-se de que a sua conta PayPal não bloqueia os pagamentos eCheck. Esta definição é gerida na página de Preferências de Receção de Pagamento do PayPal. Consulte a [página de configuração da conta do PayPal](https://go.microsoft.com/fwlink/p/?linkid=513139) para obter mais informações.
 
-- **O meu país/região é apoiado?** Consulte [limiares de pagamento, métodos e prazos](/azure/marketplace/payment-thresholds-methods-timeframes) para saber onde o PayPal é um método de pagamento suportado.
+- **O meu país/região é apoiado?** Consulte [limiares de pagamento, métodos e prazos](payment-thresholds-methods-timeframes.md) para saber onde o PayPal é um método de pagamento suportado.
 
 - **A minha conta PayPal tem de ser registada no mesmo país/região que a minha conta partner Center?** Não. Quando configurar uma conta PayPal, pode aceitar a configuração predefinida. Não deve ter problemas com outros países/regiões e moedas a menos que tenha bloqueado o pagamento em algumas moedas. Esta definição é gerida na página de Preferências de Receção de Pagamento do PayPal.
 
@@ -205,4 +205,4 @@ Se optar por utilizar uma conta bancária para receber pagamentos, completará o
 
 ## <a name="next-steps"></a>Passos seguintes
 
-[Faturação do marketplace comercial](/azure/marketplace/billing-details)
+[Receber pagamento no marketplace comercial](marketplace-get-paid.md)

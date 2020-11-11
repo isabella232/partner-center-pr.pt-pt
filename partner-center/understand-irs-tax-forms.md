@@ -1,19 +1,19 @@
 ---
-title: Compreender formulários fiscais de IRS emitidos pela Microsoft
+title: Entender formulários do IRS emitidos pela Microsoft
 description: Conheça os formulários fiscais emitidos pela Microsoft, incluindo quem os receberá e quando estes forem disponibilizados.
 ms.topic: article
 author: mingshen-ms
 ms.author: mingshen
 ms.localizationpriority: medium
 ms.date: 09/30/2020
-ms.openlocfilehash: 18ebd0a82802e26295ed985084585306da464079
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: 5543ec62397a72a042c5aa64c6c8f77ce7286f4c
+ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92530398"
+ms.lasthandoff: 11/11/2020
+ms.locfileid: "94487878"
 ---
-# <a name="understand-irs-tax-forms-issued-by-microsoft"></a>Compreender formulários fiscais de IRS emitidos pela Microsoft
+# <a name="understand-irs-tax-forms-issued-by-microsoft"></a>Entender formulários do IRS emitidos pela Microsoft
 
 Pode receber anualmente um ou mais formulários fiscais da Microsoft. Isto depende da sua localização e do valor das vendas ou pagamentos que recebe. A Microsoft é obrigada a emitir estes formulários e a arquivá-los no Serviço de Receita Interna (IRS).
 
@@ -21,13 +21,13 @@ Este artigo explica mais sobre estes formulários, incluindo quem os receberá e
 
 ## <a name="types-of-tax-forms"></a>Tipos de formulários fiscais
 
-| Formulário de imposto sobre o IRS | Descrição | Disponibilidade |
+| Formulário de imposto sobre o IRS | Description | Disponibilidade |
 |--------------|-------------|--------------|
-|1099-MISC, 1099-K | Relacionado com a atividade de vendas e/ou pagamentos feitos a si para participação nos mercados da Microsoft | Os formulários impressos serão registados em ou antes **de 31 de janeiro** , e cópias .pdf estarão disponíveis no Partner [Center](https://partner.microsoft.com/dashboard) (nas **definições de Conta de Centro de Parceiros** ao abrigo **do Payout e > de impostos e perfis fiscais** ) ao mesmo tempo |
-|1042-S | Relacionado com pagamentos que lhe são feitos que estão sujeitos a retenção na fonte dos Estados Unidos | Os formulários impressos serão registados em ou antes **de 15 de março** , e cópias .pdf estarão disponíveis no Partner Center (em **Definições de Desenvolvedores de Centros de Parceiros** em **Pagamento e > de impostos e perfis fiscais** ) ao mesmo tempo  |
+|1099-MISC, 1099-K | Relacionado com a atividade de vendas e/ou pagamentos feitos a si para participação nos mercados da Microsoft | Os formulários impressos serão registados em ou antes **de 31 de janeiro,** e .pdf cópias estarão disponíveis no [Partner Center](https://partner.microsoft.com/dashboard) (nas **definições de Conta de Centro de Parceiros** em **Pagamento e > fiscal e perfis fiscais)** ao mesmo tempo |
+|1042-S | Relacionado com pagamentos que lhe são feitos que estão sujeitos a retenção na fonte dos Estados Unidos | Os formulários impressos serão registados em ou antes **de 15 de março** , e .pdf cópias estarão disponíveis no Partner Center (em **Definições de Desenvolvedores de Centros de Parceiros** em **Pagamento e > de impostos e perfis fiscais)** ao mesmo tempo  |
 
 > [!NOTE]
-> O endereço que utilizamos nos formulários de irs de IRS provém do endereço no seu [perfil de Imposto.](/azure/marketplace/marketplace-payout-account-setup) Se o seu endereço tiver mudado, certifique-se de atualizar o endereço no seu **perfil de Imposto** .
+> O endereço que utilizamos nos formulários de irs de IRS provém do endereço do seu perfil fiscal quando [configura a sua conta de pagamento e formulários fiscais.](set-up-your-payout-account.md) Se o seu endereço tiver mudado, certifique-se de atualizar o endereço no seu **perfil de Imposto**.
 
 Os formulários fiscais serão enviados a partir dos seguintes endereços:
 

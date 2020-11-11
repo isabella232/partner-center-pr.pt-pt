@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 2d4fc0aef733b8086e550695e2b2e4065930a4a1
-ms.sourcegitcommit: af2787e516ecfb5f6cf1acdb8179f2337bfa856a
+ms.openlocfilehash: 9702bef0a2fa753e37cfe305bc766ea64f0d0b3f
+ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/06/2020
-ms.locfileid: "94333900"
+ms.lasthandoff: 11/11/2020
+ms.locfileid: "94488151"
 ---
 # <a name="november-2020-announcements"></a>Anúncios de novembro de 2020
 
@@ -23,6 +23,56 @@ Esta página detalha os anúncios para o Microsoft Partner Center para novembro 
 Anúncios de 2020: [abril](2020-april.md)  |  [maio](2020-may.md)  |  [junho julho](2020-june.md)  |  [July](2020-july.md)  |  [agosto](2020-august.md)  |  [September](2020-september.md)  |  [setembro](2020-October.md) Novembro
 
 ______________
+
+
+## <a name="testing-available-partner-center-api-updates-and-user-interface-ui-enhancements-for-the-education-customer-validation-process"></a><a name="7"></a>Testes disponíveis: Atualizações da API do Partner Center e melhorias da interface do utilizador (UI) para o processo de validação do cliente da Educação
+
+### <a name="categories"></a>Categorias
+
+- Data 2020-11-10
+- Capacidades Escala de & de eficiência de unidade
+
+### <a name="impacted-audience"></a>Audiência impactada
+
+Parceiros que vendem ofertas académicas através do programa Cloud Solution Provider (CSP).
+
+### <a name="summary"></a>Resumo
+
+Os testes estão agora disponíveis para atualizações de API do Partner Center e melhorias de UI para o processo de validação do cliente de Educação.
+
+### <a name="details"></a>Detalhes
+
+A Microsoft tem confiança. Estamos empenhados em fornecer um método de validação de clientes conforme, seguro e seguro para a transação de ofertas académicas no programa CSP. Como parte disto, estamos a introduzir melhorias no Centro Parceiro API e UI no segundo trimestre deste ano fiscal (FY21 Q22). Estas melhorias irão adicionar clareza e visibilidade ao processo de validação do cliente, bem como a capacidade de inserir dados mais precisos, o que irá impulsionar um melhor sucesso de validação do cliente.
+
+**Melhorias do Partner Center**
+
+- Novas APIs de Qualificações GET e POST para suportar a entrada precisa de dados e melhorar o processo de validação do cliente de Educação pela Microsoft.
+
+- Melhorias de UI para suportar a entrada precisa de dados e melhorar o processo de validação do cliente de Educação pela Microsoft.
+
+**Teste**
+
+Para obter uma melhor compreensão das APIs e entrada de dados necessárias para a validação bem sucedida do cliente, os parceiros poderão testar estas melhorias a partir de outubro de 2020. Em breve, forneceremos mais detalhes sobre o momento exato e como participar. As APIs do Centro de Parceiros existentes serão retiradas antes do final do FY21 Q22. Nessa altura, terás de te mudar para as novas APIs do Partner Center.
+
+   - Testes disponíveis As datas de teste do parceiro são de 2 de outubro a 2 de dezembro de 2020. Os parceiros que queiram participar devem descarregar o guia de testes do cliente Partner Center Education para saber como se preparar, como se inscrever e o que esperar durante a fase de testes.
+
+**Clientes da Biblioteca e museu**
+
+Além destas melhorias, estamos entusiasmados por anunciar que no FY21 Q22, vamos permitir ofertas académicas para clientes de Bibliotecas e Museus, expandindo os clientes de Educação com os quais pode transacionar ofertas de CSP.
+
+A Microsoft reserva-se o direito de rever o estado de qualquer cliente ou cliente proposto como utilizador educacional qualificado. Consulte os requisitos do [Utilizador académico de educação qualificada](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7) para obter todos os detalhes.
+
+## <a name="next-steps"></a>Passos seguintes
+
+Reveja as novas alterações do Centro de Parceiros UI e API, bem como o Guia de Testes no processo de validação do [processo de validação](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/) do cliente do Partner Center Education
+
+• Inscreva-se para participar nos testes. (Consulte o [Guia de Testes](https://partner.microsoft.com/resources/detail/partner-center-edu-testing-guide-pdf) para mais detalhes.) 
+
+• Certifique-se de que a sua organização está familiarizada com os requisitos do [Utilizador académico de educação qualificada.](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7) 
+
+• Partilhe esta informação com as equipas apropriadas dentro da sua organização, juntamente com os seus revendedores para os ajudar a prepararem-se para estas alterações.
+
+
 
 ## <a name="expanding-commercial-licensing-partner-content-on-the-operations-readiness-gallery"></a><a name="6"></a>Expandir o conteúdo do parceiro de licenciamento comercial na Galeria de Preparação de Operações
 

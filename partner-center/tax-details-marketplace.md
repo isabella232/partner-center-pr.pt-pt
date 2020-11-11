@@ -6,14 +6,14 @@ ms.service: marketplace
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 05/04/2020
-ms.openlocfilehash: 161c524cb3c20b2d17e4bb265cc676acc1af2702
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 89b014b87dd37cc2d38a5931b2f5433394f369c9
+ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92530485"
+ms.lasthandoff: 11/11/2020
+ms.locfileid: "94488202"
 ---
-# <a name="tax-details-for-commercial-marketplace-publishers"></a>Detalhes fiscais para editores de mercado comercial
+# <a name="tax-details-for-commercial-marketplace-publishers"></a>Informações fiscais para publicadores do marketplace comercial
 
 Para compreender as suas considerações fiscais para a seleção de preços e responsabilidade fiscal ao abrigo do [Microsoft Azure Marketplace Publisher Agreement](https://go.microsoft.com/fwlink/p/?LinkID=699560) ou do Modern Publisher Agreement, consulte os seus países/regiões de distribuição nas tabelas abaixo.
 
@@ -269,7 +269,7 @@ O que se aplica apenas à Azure Marketplace Publishers, não obstante nada do qu
 
 ## <a name="mixed-remittance-countriesregions-for-publishers"></a>Países/regiões de remessas mistas para editores
 
-Certos parceiros de faturação da Microsoft podem cobrar e atribuir vendas, uso, bens e serviços, valor acrescentado ou impostos semelhantes, se houver, aplicáveis à aquisição dos clientes das suas Apps ou produtos In-App através da Loja nos países/regiões listados abaixo. Os [relatórios](/azure/marketplace/payout-summary-overview) que a Microsoft disponibiliza ao seu dispor identificarão as transações para as quais um parceiro de faturação recolheu vendas, uso, bens e serviços, valor acrescentado ou impostos similares aplicáveis à aquisição das suas Apps(s) ou In-App Produtos através da Loja. Com exceção das transações descritas nesses relatórios, nem a Microsoft nem os seus prestadores de serviços de faturação irão remediar quaisquer vendas, utilização, bens e serviços, valor acrescentado ou outro imposto similar relacionado com a aquisição dos clientes das suas Aplicações ou produtos In-App nestes países/regiões. É responsável por rever os relatórios que lhe foram fornecidos e determinar e cumprir as suas obrigações, caso existam, de registar, cobrar e remediar impostos relativos a transações que envolvam as suas App(s) ou In-App Produto(s).
+Certos parceiros de faturação da Microsoft podem cobrar e atribuir vendas, uso, bens e serviços, valor acrescentado ou impostos semelhantes, se houver, aplicáveis à aquisição dos clientes das suas Apps ou produtos In-App através da Loja nos países/regiões listados abaixo. Os relatórios na sua [declaração de pagamento](payout-statement.md) que a Microsoft disponibiliza ao seu dispor identificarão as transações para as quais um parceiro de faturação recolheu vendas, uso, bens e serviços, valor acrescentado ou impostos similares aplicáveis à aquisição dos clientes das suas Apps(s) ou In-App Produtos(s) através da Loja. Com exceção das transações descritas nesses relatórios, nem a Microsoft nem os seus prestadores de serviços de faturação irão remediar quaisquer vendas, utilização, bens e serviços, valor acrescentado ou outro imposto similar relacionado com a aquisição dos clientes das suas Aplicações ou produtos In-App nestes países/regiões. É responsável por rever os relatórios que lhe foram fornecidos e determinar e cumprir as suas obrigações, caso existam, de registar, cobrar e remediar impostos relativos a transações que envolvam as suas App(s) ou In-App Produto(s).
 
 | Países/regiões de remessas mistas |
 |------------------------------------|
@@ -289,4 +289,4 @@ O que se aplica apenas à Azure Marketplace Publishers:
 
 ## <a name="next-steps"></a>Passos seguintes
 
-[Configurar a conta de dividendos e os formulários fiscais](/azure/marketplace/marketplace-payout-account-setup)
+[Configurar a conta de dividendos e os formulários fiscais](set-up-your-payout-account.md)
