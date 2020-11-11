@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 11/02/2020
-ms.openlocfilehash: bf5204acd9783081ec91f3372cde0269891ff9de
-ms.sourcegitcommit: af2787e516ecfb5f6cf1acdb8179f2337bfa856a
+ms.date: 11/10/2020
+ms.openlocfilehash: 4afc08135ee84792d62391251fdb87ec0ddd9ce6
+ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
 ms.translationtype: HT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/06/2020
-ms.locfileid: "94333917"
+ms.lasthandoff: 11/11/2020
+ms.locfileid: "94488139"
 ---
 # <a name="partner-center-announcements"></a>Anúncios do Centro de Parceiros
 
@@ -22,6 +22,7 @@ Saiba mais sobre atualizações importantes do Centro de Parceiros. Estas inform
 
 | **Categoria** | **Anúncios de novembro de 2020** | **Anunciado** |
 |---------|:---------|:---------|
+|Capacidades|[Testes disponíveis: atualizações à API do Centro de Parceiros e melhorias na interface de utilizador (IU) para o processo de validação de clientes de Educação](2020-november.md#7)|10 de novembro|
 |Capacidades|[Expandir o conteúdo de parceiros da Licença Comercial na Galeria de Preparação de Operações ](2020-november.md#6)|2 de Novembro|
 |Ofertas/Mercados|[Lançamento do SKU Microsoft Teams Rooms Premium](2020-november.md#5)|2 de Novembro|
 |Ofertas/Mercados|[Novos SKUs de Comunicações Avançadas do Microsoft Teams para a GCC (Nuvem da Comunidade Governamental) disponíveis em breve](2020-november.md#4)|2 de Novembro|
@@ -29,6 +30,7 @@ Saiba mais sobre atualizações importantes do Centro de Parceiros. Estas inform
 |Ofertas/Mercados|[Introdução ao Microsoft 365 Voz para Empresas para organizações sem fins lucrativos](2020-november.md#2)|2 de Novembro|
 |Ofertas/Mercados|[A promoção do CSP (Fornecedor de Soluções Cloud) para o Microsoft 365 Business Voice já está disponível](2020-november.md#1)|2 de Novembro|
 | **Categoria** | **Anúncios de outubro de 2020** | **Data** |
+|Ofertas/Mercados|[Correção da expansão do Plano de Chamadas](2020-october.md#18)|29 de outubro|
 |Capacidades|[Atualizações de funcionalidades de subscrições de software Windows Server](2020-october.md#17)|29 de outubro|
 |Capacidades|[A atualização do Windows 10 Education está agora disponível para clientes de Education qualificados do Fornecedor de Soluções Cloud (CSP)](2020-october.md#16)|28 de outubro|
 |Capacidades|[Experiência digital de Fornecedor de Soluções Cloud (CSP) atualizada já disponível](2020-october.md#15)|28 de outubro|
