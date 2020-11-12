@@ -4,15 +4,15 @@ description: Saiba mais sobre as demonstrações e resumos de pagamento, e como 
 ms.subservice: partnercenter-marketplace-publisher
 ms.service: marketplace
 ms.topic: article
-author: mingshen-ms
-ms.author: mingshen
+author: eunjkim520
+ms.author: eunjkim
 ms.date: 09/23/2020
-ms.openlocfilehash: 460a7b1992d7db40e0f45d3aeb7e2236e9495e07
-ms.sourcegitcommit: a84812b650ec8b6d0513c46c04840e4bbb0c8460
+ms.openlocfilehash: 34d7d162673992601267db03beaddda1573b73c0
+ms.sourcegitcommit: cc30a06abe55b9da32177a24e74bfd6fc7d8bbb9
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "92530128"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "94532060"
 ---
 # <a name="payout-statements"></a>Declaração de dividendos
 
@@ -50,7 +50,7 @@ Também pode utilizar a [API de Pagamento de Parceiros](https://apidocs.microsof
 
 A página de histórico de **transações** mostra o resumo dos seus ganhos, o próximo pagamento estimado, e a tendência dos seus ganhos e pagamentos ao longo dos últimos 36 meses. Também pode baixar detalhes de transações a partir desta secção.
 
-:::image type="content" source="images/payouts/transaction-overview.png" alt-text="Ilustra o ícone payout no canto superior direito do portal Partner Center":::
+:::image type="content" source="images/payouts/transaction-overview.png" alt-text="Visão geral da transação.":::
 
 - **Resultados enviados este ano** – Total de ganhos e desagregação dos ganhos que foram pagos e serão pagos no próximo mês.
 - **Mês estimado de pagamento** – Lucros totais esperados para os próximos meses.
@@ -59,13 +59,13 @@ A página de histórico de **transações** mostra o resumo dos seus ganhos, o p
 
 Utilize a seleção da gama de datas no canto superior direito da página para filtrar a saída da página para mostrar os últimos 3, 6, 12 ou 36 meses. Ou, selecione um intervalo de data personalizada até 36 meses. O intervalo de data por defeito é de 12 meses.
 
-:::image type="content" source="images/payouts/search-filter.png" alt-text="Ilustra o ícone payout no canto superior direito do portal Partner Center":::
+:::image type="content" source="images/payouts/search-filter.png" alt-text="O filtro de pesquisa no topo direito da página.":::
 
 ### <a name="transaction-history-summary"></a>Resumo do histórico de transações
 
 Isto mostra detalhes de ganhos, incluindo a origem do ganho do produto vendido datas de ganho, estado e mês de pagamento estimado.
 
-:::image type="content" source="images/payouts/transaction-history.png" alt-text="Ilustra o ícone payout no canto superior direito do portal Partner Center":::
+:::image type="content" source="images/payouts/transaction-history.png" alt-text="Histórico de transações.":::
 
 - **Data ganha** - A data de compra.
 - **Tipo de ganho** – O tipo de ganho, como Venda, Desconto ou Cooperativa.
@@ -82,7 +82,7 @@ As transações de ganhos são mostradas assim que a transação satisfaz a eleg
 
 Para ver mais detalhes sobre um ganho, selecione **Baixar** no topo da página. A tabela seguinte explica cada coluna do relatório.
 
-| Nome da coluna | Descrição | Aplicabilidade para programas de incentivo/mercados |
+| Nome da coluna | Description | Aplicabilidade para programas de incentivo/mercados |
 | --- | --- | --- |
 | agreementEndDate | Data limite do acordo | Incentivos - apenas alguns programas |
 | agreementNumber | Número do contrato | Incentivos - apenas alguns programas |
@@ -171,7 +171,7 @@ A página **pagamentos** detalha o dinheiro que ganhou com a Microsoft. Também 
 >[!Note]
 > Para ser elegível para pagamento, as suas receitas devem atingir o limiar de [pagamento](payment-thresholds-methods-timeframes.md) de $50. Para obter mais informações, consulte o [Microsoft Publisher Agreement](https://go.microsoft.com/fwlink/?LinkID=699560).
 
-:::image type="content" source="images/payouts/payments-overview.png" alt-text="Ilustra o ícone payout no canto superior direito do portal Partner Center":::
+:::image type="content" source="images/payouts/payments-overview.png" alt-text="Ecrã geral de pagamentos.":::
 
 - **Total pago este ano** – O total combinado pago este ano, em dólares americanos, por todos os seus programas.
 - **Próximo pagamento estimado** – O próximo pagamento que lhe chega (mesmo que haja outros em breve), em dólares americanos.
@@ -182,7 +182,7 @@ A página **pagamentos** detalha o dinheiro que ganhou com a Microsoft. Também 
 
 A **tabela lista de pagamentos** mostra pagamentos pagos e pendentes. Você pode baixar informações sobre taxas de serviço em formato PDF e ver os detalhes de ganho para um dado pagamento.
 
-:::image type="content" source="images/payouts/list-of-payments.png" alt-text="Ilustra o ícone payout no canto superior direito do portal Partner Center":::
+:::image type="content" source="images/payouts/list-of-payments.png" alt-text="Histórico de transações de exportação":::
 
 - **Pago** – Todos os pagamentos enviados com sucesso. Escolha o ano no menu suspenso para filtrar os pagamentos lançados nesse ano.
 - **Pendentes** – Próximos pagamentos.
@@ -216,7 +216,7 @@ A tabela seguinte explica os diferentes estados de ganho.
 
 Para ver mais detalhes sobre os seus pagamentos, selecione **Baixar** no topo da página. A tabela seguinte explica cada coluna do relatório.
 
-| Nome da coluna | Descrição |
+| Nome da coluna | Description |
 | --- | --- |
 | id participante | A identidade primária do parceiro que ganha ao abrigo do programa |
 | IDType participante | Normalmente programa ID para programas de incentivos e ID do vendedor para programas de loja |
@@ -244,7 +244,7 @@ O filtro pode resultar num erro **de não dados disponíveis.** Isto pode aconte
 
 Aqui está uma amostra de pagamentos exportação:
 
-:::image type="content" source="images/payouts/pc-export-payments.png" alt-text="Ilustra o ícone payout no canto superior direito do portal Partner Center":::
+:::image type="content" source="images/payouts/pc-export-payments.png" alt-text="Relatório de pagamentos de exportação.":::
 
 ### <a name="historical-statements"></a>Declarações históricas
 
@@ -253,14 +253,17 @@ O resumo **dos dados relativos** às exportações também dá acesso a declara�
 > [!NOTE]
 > Uma afirmação histórica é um instantâneo e não é refrescada. Por favor contacte [o suporte](https://partner.microsoft.com/support/v2/?stage=1) e solicite os dados mais recentes, se necessário.
 
-:::image type="content" source="images/payouts/pc-export-statements.png" alt-text="Ilustra o ícone payout no canto superior direito do portal Partner Center" na história moderna, exceto que exclui todos os ganhos com estatuto igual a "Pagamento Enviado".
+:::image type="content" source="images/payouts/pc-export-statements.png" alt-text="Exportar declarações históricas.":::
+
+- O histórico de transações de antes de 1 de julho de 2019 é tratado separadamente e utiliza diferentes campos de relatórios de história posteriores.
+- O histórico de transações antigas tem uma coluna chamada "Reservado" que corresponde à coluna "Resultados" na história moderna, exceto que exclui todos os ganhos com estatuto igual a "Pagamento Enviado".
 - Filtros como 3M, 6M ou 12M não se aplicam à secção de declarações históricas.
 
 ### <a name="historical-statement-downloads"></a>Downloads de declarações históricas
 
 A tabela seguinte explica cada coluna numa declaração histórica.
 
-| Nome do campo | Descrição |
+| Nome do campo | Description |
 | --- | --- |
 | Fonte de Receitas | A fonte das suas receitas com base no local onde ocorreu a transação, como a Microsoft Store, Windows Phone Store, Windows Store 8 ou publicidade |
 | ID da Encomenda | Identificador de ordem único. Este ID permite identificar transações de compra com as respetivas transações não-compra, tais como reembolsos ou reembolsos. Ambos terão a mesma identificação de encomenda. Além disso, se houver uma taxa dividida em que foram utilizados vários métodos de pagamento para uma única compra, permite-lhe ligar as transações de compra. |

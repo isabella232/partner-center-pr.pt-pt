@@ -4,15 +4,15 @@ description: Saiba mais sobre detalhes relacionados com as políticas de pagamen
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
-author: mingshen-ms
-ms.author: mingshen
+author: eunjkim520
+ms.author: eunjkim
 ms.date: 11/06/2020
-ms.openlocfilehash: 8986ef1d2a16d939530ed49875a21c13b0b97868
-ms.sourcegitcommit: 0e142b4fbb044fe8dd2dbc7d13ab70a1a91b9f60
+ms.openlocfilehash: 9c03878ec69b9df06795054464ef7f76e038e780
+ms.sourcegitcommit: cc30a06abe55b9da32177a24e74bfd6fc7d8bbb9
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "94381397"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "94531992"
 ---
 # <a name="payout-schedules-and-policy-details"></a>Horários de pagamento e detalhes da política
 
@@ -28,7 +28,7 @@ Quando um cliente compra um produto do Microsoft AppSource ou do Azure Marketpla
 
 Um pagamento ocorrerá frequentemente antes de a Microsoft receber o pagamento do cliente. Consulte [o Processo de não pagamento do cliente](#process-for-customer-non-payment) abaixo para as ações que tomamos se o cliente não pagar à Microsoft, mas já emitimos um pagamento.
 
-| Evento | Descrição | Visibilidade reportando | Timing* |
+| Evento | Description | Visibilidade reportando | Timing* |
 | --- | --- | --- | --- |
 | Utilização ou Mês de Transação | O cliente usa ou compra um serviço. | [Painel de utilização](/azure/marketplace/partner-center-portal/usage-dashboard) ou [ordem](/azure/marketplace/partner-center-portal/orders-dashboard) | **Mês 1** |
 | A Ordem de Compra é criada | Determinar a utilização total, as transações totais | [Painel de utilização](/azure/marketplace/partner-center-portal/usage-dashboard) ou [ordem](/azure/marketplace/partner-center-portal/orders-dashboard) | **Mês 2** |
@@ -44,7 +44,7 @@ Um pagamento ocorrerá frequentemente antes de a Microsoft receber o pagamento d
 
 Todas as compras com cartão de crédito ou fatura mensal têm um período de detenção de 30 dias para garantir que os fundos são recolhidos junto do cliente.
 
-| Evento | Descrição | Visibilidade reportando | Timing* |
+| Evento | Description | Visibilidade reportando | Timing* |
 | --- | --- | --- | --- |
 | Utilização ou Mês de Transação | O cliente usa ou compra um serviço. | [Painel de utilização](/azure/marketplace/partner-center-portal/usage-dashboard) ou [ordem](/azure/marketplace/partner-center-portal/orders-dashboard) | **Mês 1** |
 | Fatura paga pelo Cliente | Determine o uso total, o valor total da transação e a fatura do cliente | [Painel de utilização](/azure/marketplace/partner-center-portal/usage-dashboard) ou [ordem](/azure/marketplace/partner-center-portal/orders-dashboard) | **Mês 2** |
@@ -95,6 +95,6 @@ Normalmente enviamos qualquer pagamento devido num dado mês no 15º dia desse m
 | Transferência bancária      | 7-10 dias úteis                         |
 |
 
-## <a name="next-steps"></a>Próximos passos
+## <a name="next-steps"></a>Passos seguintes
 
 Saiba mais detalhes [fiscais.](tax-details-marketplace.md)

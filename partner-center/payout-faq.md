@@ -4,15 +4,15 @@ description: Obtenha respostas a perguntas comuns sobre pagamentos no mercado co
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: article
-author: keferna
-ms.author: keferna
+author: eunjkim520
+ms.author: eunjkim
 ms.date: 09/11/2020
-ms.openlocfilehash: 44bd7f488e3d4e79c45cb2746c7e2a6da449a310
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 5775eb497940870344e0d3da85def7c3e717c65f
+ms.sourcegitcommit: cc30a06abe55b9da32177a24e74bfd6fc7d8bbb9
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92530572"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "94532026"
 ---
 # <a name="common-questions-about-commercial-marketplace-payouts"></a>Questões comuns sobre pagamentos de mercado comercial
 
@@ -71,7 +71,7 @@ Utilize o AssetID, o orderID e o ID do item de linha que aparece no relatório d
 
 
 #### <a name="how-do-i-set-my-account-to-not-receive-payment"></a>Como posso definir a minha conta para não receber o pagamento?
-Pode realizar pagamentos no [Perfil de Pagamento;](https://partner.microsoft.com/dashboard/commercial-marketplace/overview) basta verificar **Hold** . A Microsoft irá reter-lhe o pagamento até que liberte o porão.
+Pode realizar pagamentos no [Perfil de Pagamento;](https://partner.microsoft.com/dashboard/commercial-marketplace/overview) basta verificar **Hold**. A Microsoft irá reter-lhe o pagamento até que liberte o porão.
 
 #### <a name="why-do-i-receive-in-a-different-currency-than-the-purchase-currency"></a>Porque recebo numa moeda diferente da moeda de compra?
 
@@ -91,11 +91,11 @@ Na transferência do histórico de transações, localize a coluna Modelo de imp
 
 #### <a name="how-do-i-download-service-fee-tax-forms"></a>Como transfiro formulários do Imposto da Tarifa de Serviço?
 
-Aceda à página **Pagamentos** e, em seguida, à secção **Lista de Pagamentos** . Uma ligação para o formulário do imposto da Tarifa de Serviço é apresentado para um pagamento que tem o Imposto da Tarifa de Serviço.
+Aceda à página **Pagamentos** e, em seguida, à secção **Lista de Pagamentos**. Uma ligação para o formulário do imposto da Tarifa de Serviço é apresentado para um pagamento que tem o Imposto da Tarifa de Serviço.
 
 #### <a name="how-do-i-download-a-withholding-tax-form-in-pdf"></a>Como transfiro um formulário de Imposto retido em PDF?
 
-Aceda à página *Pagamentos* e, em seguida, à secção **Lista de Pagamentos** . Uma ligação para um formulário de imposto retido é apresentado junto a um pagamento.
+Aceda à página *Pagamentos* e, em seguida, à secção **Lista de Pagamentos**. Uma ligação para um formulário de imposto retido é apresentado junto a um pagamento.
 
 #### <a name="where-do-i-find-year-end-tax-forms"></a>Onde encontro os formulários de imposto de fim de ano?
 
@@ -131,11 +131,11 @@ Isto mostra os seus ganhos como não processados, processados ou enviados.
 
 #### <a name="how-do-i-download-service-fee-tax-forms"></a>Como transfiro formulários do Imposto da Tarifa de Serviço?
 
-Aceda à página **Pagamentos** e, em seguida, à secção **Lista de Pagamentos** . Uma ligação para o formulário do imposto da Tarifa de Serviço é apresentado para um pagamento que tem o Imposto da Tarifa de Serviço.
+Aceda à página **Pagamentos** e, em seguida, à secção **Lista de Pagamentos**. Uma ligação para o formulário do imposto da Tarifa de Serviço é apresentado para um pagamento que tem o Imposto da Tarifa de Serviço.
 
 #### <a name="how-do-i-download-a-withholding-tax-form-in-pdf"></a>Como faço o download de um formulário de retenção na fonte em PDF?
 
-Aceda à página **Pagamentos** e, em seguida, à secção **Lista de Pagamentos** . Uma ligação para um formulário de imposto retido é apresentado junto a um pagamento.
+Aceda à página **Pagamentos** e, em seguida, à secção **Lista de Pagamentos**. Uma ligação para um formulário de imposto retido é apresentado junto a um pagamento.
 
 #### <a name="where-do-i-find-year-end-tax-forms"></a>Onde encontro os formulários de imposto de fim de ano?
 

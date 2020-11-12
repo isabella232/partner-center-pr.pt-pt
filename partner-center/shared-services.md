@@ -8,19 +8,16 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.date: 06/03/2020
-ms.openlocfilehash: 49b5bd1c9a7cd4c56f2fac28a45cc8a4b922b9b0
-ms.sourcegitcommit: 2d11dbdcc2b1e64ad16d29182824984517470a63
+ms.date: 11/11/2020
+ms.openlocfilehash: 93ee3e142bf11c3b329fd27ec7320b93aea780b8
+ms.sourcegitcommit: cc30a06abe55b9da32177a24e74bfd6fc7d8bbb9
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "92530104"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "94532043"
 ---
 # <a name="add-azure-partner-shared-services-so-partners-can-buy-azure-subscriptions-for-their-own-use"></a>Adicione serviços partilhados azure partner para que os parceiros possam comprar subscrições Azure para seu próprio uso
 
-**Aplica-se a**
-
-- Partner Center
  
 **Funções adequadas**
 
@@ -32,29 +29,29 @@ A Azure Partner Shared Services é um novo tipo de oferta para parceiros no prog
 
 ## <a name="create-the-shared-services-tenant"></a>Crie o inquilino de serviços partilhados
 
-1. Ir para **Definições**  >  **definições de conta Serviços**  >  **partilhados** .
+1. Ir para **Definições**  >  **definições de conta Serviços**  >  **partilhados**.
 
    :::image type="content" source="images/sharedservices2.png" alt-text="Definições de conta > Serviços Partilhados":::
 
 2. Se ainda não tem um inquilino de serviços partilhados, clique em **Criar serviços partilhados.**
 
-   :::image type="content" source="images/sharedservices3.png" alt-text="Definições de conta > Serviços Partilhados":::
+   :::image type="content" source="images/sharedservices3.png" alt-text="Criar serviços partilhados":::
 
 3. Isto cria um inquilino de serviços partilhados e compra a assinatura Azure CSP Shared Services, para ser usada para recursos partilhados e carga de trabalho interna.
 
-   :::image type="content" source="images/sharedservices5.png" alt-text="Definições de conta > Serviços Partilhados":::
+   :::image type="content" source="images/sharedservices5.png" alt-text="Crie o inquilino e compre a subscrição":::
 
 ## <a name="about-the-azure--internalshared-services-offer"></a>Sobre a oferta de Serviços Internos/Partilhados Azure
 
 - A subscrição Azure - Serviços Internos/Partilhados é um novo tipo de oferta Azure em CSP acedido através do Partner Center que os parceiros obtêm para o seu próprio uso do Azure.
 
-- A oferta de Serviços Internos/Partilhados não é elegível para descontos e incentivos.
+- A oferta de Serviços Internos/Partilhados é elegível para descontos e incentivos.  As subscrições de Serviços Partilhados Azure Partner são elegíveis e podem ser usadas para comprar RIs.
 
 - A oferta Azure - Serviços Internos/Partilhados só pode ser aplicada ao arrendatário de serviços partilhados.
 
 - A utilização primária para a subscrição Azure - Serviços Internos/Partilhados é para que possa utilizar o Azure para os seus próprios fins de desenvolvimento. O inquilino partilhado que utiliza para oferecer esta oferta não pode ser usado para outros serviços, como licenças Office 365 ou Dynamics.
 
-- Pode cancelar a subscrição como qualquer outra subscrição. Ir às **definições**  >  **Ver todas as definições**  >  **Serviços partilhados** . Selecione a subscrição Azure - Serviços Internos/Partilhados e cancele-a.
+- Pode cancelar a subscrição como qualquer outra subscrição. Ir às **definições**  >  **Ver todas as definições**  >  **Serviços partilhados**. Selecione a subscrição Azure - Serviços Internos/Partilhados e cancele-a.
 
 ## <a name="accessing-azure-partner-shared-services-consumption-details"></a>Aceder aos detalhes do consumo de serviços partilhados do Azure Partner
 
@@ -78,3 +75,7 @@ Os parceiros que tenham BYOL ou serviços gratuitos implantados através da APSS
 Para tirar partido do catálogo completo de ofertas do Marketplace disponíveis (não apenas BYOL e serviços gratuitos), recomendamos que os parceiros da CSP implementem serviços partilhados utilizando subscrições da Web Direct Azure.  Os parceiros da CSP que já implementaram recursos de serviços gratuitos de terceiros byol e que desejam continuar a usá-los e implementar mais ofertas de terceiros são encorajados a migrar a subscrição APSS para subscrições de [Azure migrando diretamente](/azure/cloud-solution-provider/migration/migration#migrating-existing-azure-subscriptions)na Web.
 
 Os parceiros, que planeiam continuar a utilizar a subscrição da APSS após o dia 1 de março de 2019 e desejam implementar novos [serviços BYOL](https://azuremarketplace.microsoft.com/marketplace/apps?filters=byol) de terceiros ou serviços gratuitos, podem seguir as instruções dos ISVs para os implementar nas suas subscrições APSS.
+
+## <a name="next-steps"></a>Passos seguintes
+
+- [Sell software subscriptions through CSP](csp-software-subscriptions.md) (Vender subscrições de software através do CSP)

@@ -1,24 +1,24 @@
 ---
 title: Detalhes do pagamento por região - Mercado comercial da Microsoft
 description: Saiba mais sobre os prazos de pagamento e as lojas online da Microsoft onde pode receber pagamentos. Estes podem variar de acordo com o seu país, região e tipo de conta de pagamento.
-author: mingshen-ms
-ms.author: mingshen
+author: eunjkim520
+ms.author: eunjkim
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
 ms.date: 09/02/2020
-ms.openlocfilehash: cebd24d3709b622256469ab5e2af3e5cd6b80175
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: e8ab90251cc05253ad25069eaf9200f2f15e60fb
+ms.sourcegitcommit: cc30a06abe55b9da32177a24e74bfd6fc7d8bbb9
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92530584"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "94532009"
 ---
 # <a name="payment-thresholds-methods-and-time-frames"></a>Limiares, métodos e períodos de tempo de pagamento
 
 O tempo estimado para transferir pagamentos, e as lojas online de onde pode receber pagamentos, pode variar dependendo do seu país/região e do tipo de conta de pagamento. Este artigo descreve os métodos de pagamento suportados em cada país e região.
 
-Para qualquer país e região, pagamos usando ACH/SEPA ou transferência bancária. Alguns países e regiões também apoiam o PayPal como um método de pagamento.
+Para qualquer país e região, pagamos usando ACH/SEPA ou transferência bancária. Alguns países e regiões também apoiam PayPal como método de pagamento.
 
 > [!NOTE]
 > Para obter mais informações sobre quando a Microsoft emite pagamentos para o mercado comercial após a operação, consulte [os detalhes da política do Payout](payout-policy-details.md).
