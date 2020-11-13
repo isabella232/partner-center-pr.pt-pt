@@ -9,19 +9,19 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 58aaf94c06be233d9b12fce23a86b25078c3fd9b
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 1db695179915f8ee803ad4dfdcfd6278ce49238b
+ms.sourcegitcommit: a2ea54f814fdbd619421a83482831b22f49416f6
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92530551"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "94567095"
 ---
 # <a name="how-to-report-problems-with-partner-center-and-submit-any-log-or-diagnostics-information"></a>Como reportar problemas com o Partner Center e submeter qualquer informação de registo ou diagnóstico
 
 **Aplica-se a**
 
 - Partner Center
-- Centro de Parceiros para Microsoft Cloud para governo dos EUA
+- Centro de Parceiros do Microsoft Cloud for US Government
 
 Contacte o Partner Center Support se encontrar problemas ou precisar de ajuda com o Partner Center.
 
@@ -31,15 +31,33 @@ Todos os utilizadores do Partner Center podem criar pedidos de suporte a parceir
 
 ## <a name="report-a-problem-with-the-partner-center"></a>Reportar um problema com o Centro de Parceiros
 
-1. A partir do painel **de instrumentos do Centro de Parceiros,** selecione **Suporte** e, em seguida, selecione **pedidos de suporte do Parceiro** .
+1. A partir do painel **de instrumentos do Centro de Parceiros,** selecione **Suporte** e, em seguida, selecione **pedidos de suporte do Parceiro**.
 
-2. Selecione **Novo pedido** e, em seguida, procure o tipo de problema que melhor descreve o seu problema. Selecione o tipo de problema e **as soluções de Revisão** .
+2. Selecione **Novo pedido** e, em seguida, procure o tipo de problema que melhor descreve o seu problema. Selecione o tipo de problema e **as soluções de Revisão**.
 
 3. Reveja a página **de soluções Recomendadas** para ver etapas ou documentos relacionados que possam ajudá-lo a resolver o seu problema.
 
-4. Se as **soluções recomendadas** resolverem o seu problema, pode selecionar **o regresso ao Painel de Instrumentos** . Se ainda precisar de ajuda, pode continuar e **fornecer detalhes de emissão.**
+4. Se as **soluções recomendadas** resolverem o seu problema, pode selecionar **o regresso ao Painel de Instrumentos**. Se ainda precisar de ajuda, pode continuar e **fornecer detalhes de emissão.**
 
 5. Complete os detalhes da **emissão** e, em seguida, **submeta.** Um representante de Apoio a Parceiros irá acompanhá-lo.
+
+## <a name="schedule-a-support-appointment"></a>Agende uma nomeação de apoio 
+
+**Atualmente em pré-visualização*
+
+Se o seu problema requer uma conversa com o seu advogado de apoio, pode agendar a marcação a partir dos detalhes do seu bilhete.
+
+:::image type="content" source="images/support/ticket.png" alt-text="Agende uma nomeação de apoio":::
+
+1.  Na página de detalhes do bilhete no Partner Center, selecione uma data e hora disponíveis no calendário do advogado de apoio. Só verá datas e horários disponíveis no seu fuso horário local.
+
+:::image type="content" source="images/support/ticket2.png" alt-text="Marcação de horários":::
+
+2. O Partner Center verifica o calendário do advogado de apoio para disponibilidade.
+
+1. Quando marca uma marcação, o Partner Center envia-lhe um convite de calendário com informações sobre como o advogado de apoio irá contactá-lo, para que possa acompanhar esta nomeação no seu próprio calendário de trabalho.
+
+:::image type="content" source="images/support/ticket3.png" alt-text="Data e hora":::
 
 ## <a name="send-diagnostics"></a>Enviar diagnósticos
 
@@ -65,3 +83,6 @@ Pode visualizar as informações de diagnóstico e guardá-la num ficheiro que p
 
 O Apoio ao Parceiro pode pedir-lhe para executar esta ferramenta várias vezes para que possam obter as informações mais atualizadas.
 
+## <a name="next-steps"></a>Passos seguintes
+
+- [Reportar um problema de serviço em nome de um cliente](report-problems-on-behalf-of-a-customer.md)

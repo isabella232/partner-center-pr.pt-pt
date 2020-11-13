@@ -9,12 +9,12 @@ ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
 ms.date: 07/01/2020
-ms.openlocfilehash: 21a21bc363856ee041ff9e3f9f41b0bcf9796467
-ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
+ms.openlocfilehash: 12b902f8134a4fcf6d93439658da95fff6d80c4f
+ms.sourcegitcommit: a2ea54f814fdbd619421a83482831b22f49416f6
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "92530287"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "94567054"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Parceiro com revendedores indiretos no programa Fornecedor de Soluções Cloud
 
@@ -55,7 +55,7 @@ Complete os seguintes passos para estabelecer e gerir a sua parceria com revende
 
    - Antes de poder interagir e transagir com revendedores, tem de estabelecer parcerias com eles no Centro de Parceiros.
 
-3. Conecte-se com os clientes
+3. Ligar-se a clientes
 
    - Associar novos clientes e subscrições a revendedores
 
@@ -109,9 +109,9 @@ Para as subscrições existentes, se decidir trabalhar com um revendedor indiret
 
 Para remover a parceria com o revendedor indireto existente, siga os passos abaixo. 
 
-1. A partir do menu Partner Center no painel de instrumentos, **selecione Revendedores Indiretos** . 
+1. A partir do menu Partner Center no painel de instrumentos, **selecione Revendedores Indiretos**. 
 
-2. Na página de **revendedores indiretos,** selecione **Remover parceria** . Aparecerá uma mensagem pedindo confirmação selecione sim para prosseguir.
+2. Na página de **revendedores indiretos,** selecione **Remover parceria**. Aparecerá uma mensagem pedindo confirmação selecione sim para prosseguir.
 
 :::image type="content" source="images/ip-ir-relationship.png" alt-text="Remover parceria":::
 
@@ -124,7 +124,7 @@ Para remover a parceria com o revendedor indireto existente, siga os passos abai
 Dependendo do nível de acesso e envolvimento, poderá querer comunicar com o revendedor indireto, bem como com o cliente final sobre esta alteração.
 
 
-## <a name="connect-with-customers"></a>Conecte-se com os clientes
+## <a name="connect-with-customers"></a>Ligar-se a clientes
 
 Quando se tem novos clientes, é necessário criar contas para eles no Partner Center. Ao adicionar uma nova conta de cliente, pode designar um revendedor específico para gerir a conta e administrar as subscrições e serviços dos clientes em seu nome.
 
@@ -134,11 +134,11 @@ Quando associa um revendedor a uma nova conta de cliente, está a delegar conta 
 
 1. Selecione **revendedores indiretos** no menu **Partner Center.**
 
-2. Encontre o revendedor indireto a que pretende atribuir novos clientes e, em seguida, **selecione Adicionar novo cliente** . Note que o revendedor indireto já está selecionado para si no formulário de detalhe do cliente. Forneça os detalhes do cliente e, em seguida, selecione **Seguinte: Subscrições** .
+2. Encontre o revendedor indireto a que pretende atribuir novos clientes e, em seguida, **selecione Adicionar novo cliente**. Note que o revendedor indireto já está selecionado para si no formulário de detalhe do cliente. Forneça os detalhes do cliente e, em seguida, selecione **Seguinte: Subscrições**.
 
 3. Na página de **subscrição Nova,** selecione a subscrição(s) que o cliente quer comprar e, em seguida, insira o número de licenças que o cliente necessita.
 
-4. Selecione **Seguinte: Revisão** .
+4. Selecione **Seguinte: Revisão**.
 
 5. Se a encomenda estiver correta, **selecione Enviar por isso.** Se a encomenda estiver incorreta, **selecione Cancelar** para cancelar toda a operação e começar de novo.
 
@@ -147,23 +147,23 @@ Quando associa um revendedor a uma nova conta de cliente, está a delegar conta 
     > [!IMPORTANT]  
     > Certifique-se de que faz uma nota do nome da conta do utilizador e da palavra-passe, uma vez que não pode voltar a aceder a estas informações depois de fechar esta página.
 
-7. Selecione **Concluído** . O novo cliente aparece na sua lista de clientes, associado ao revendedor indireto. O revendedor tem agora acesso a administradores às informações e subscrições da conta do cliente e pode gerir as subscrições em nome do cliente.
+7. Selecione **Concluído**. O novo cliente aparece na sua lista de clientes, associado ao revendedor indireto. O revendedor tem agora acesso a administradores às informações e subscrições da conta do cliente e pode gerir as subscrições em nome do cliente.
 
 ### <a name="add-new-subscriptions-to-customer-accounts"></a>Adicionar novas subscrições às contas dos clientes
 
-Quando os clientes querem comprar novas subscrições, atualizar as existentes ou comprar licenças adicionais, faz estas alterações na conta do cliente.
+Quando os clientes querem comprar novas subscrições, atualizar as existentes ou comprar licenças adicionais, eis estas alterações na conta do cliente através do portal M365. Não pode fazer isso no portal Azure.
 
 1. Selecione **Clientes** do menu **Partner Center.**
 
-2. Encontre o cliente cuja conta pretende alterar. Pode filtrar a lista por revendedor indireto para reduzir as suas escolhas. Expanda o registo do cliente selecionando a seta para baixo e, em seguida, selecione **Adicionar a subscrição** .
+2. Encontre o cliente cuja conta pretende alterar. Pode filtrar a lista por revendedor indireto para reduzir as suas escolhas. Expanda o registo do cliente selecionando a seta para baixo e, em seguida, selecione **Adicionar a subscrição**.
 
 3. Na página de **subscrição Nova,** selecione a subscrição e introduza o número de licenças que o cliente pretende adquirir.
 
-4. Para associar a subscrição a um revendedor, selecione o nome do revendedor da lista e, em seguida, **selecione Enviar por isso** . Associar o revendedor com a subscrição permite-lhes ganhar incentivos, se aplicável.
+4. Para associar a subscrição a um revendedor, selecione o nome do revendedor da lista e, em seguida, **selecione Enviar por isso**. Associar o revendedor com a subscrição permite-lhes ganhar incentivos, se aplicável.
 
 5. A nova subscrição(s) aparece na lista de subscrições do cliente.
 
-6. Se pretender que o revendedor trate os pedidos de apoio ao cliente para a nova subscrição, selecione a subscrição e, em seguida, selecione o revendedor da lista de contactos de **suporte designado.**
+6. Se pretender que o revendedor trate os pedidos de apoio ao cliente para a nova subscrição, selecione a subscrição e, em seguida, selecione o revendedor da lista de contactos de **suporte designado.** 
 
 7. **Selecione Enviar por terminada.**
 
