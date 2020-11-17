@@ -9,12 +9,12 @@ author: hemas
 ms.author: hemas
 ms.localizationpriority: high
 ms.custom: SEOMAY.20, contperfq1
-ms.openlocfilehash: 4839fbd6fac5f84e5a2ebc40d1f7f48da6114113
-ms.sourcegitcommit: 92be474db61cc12f684850c2a7a8a8bdd5c93f97
+ms.openlocfilehash: 8ae4bed8536907c59f1b22e72896cfbe7f7aff9a
+ms.sourcegitcommit: 445c7b70943f71cc4b2cb48a327b9dcc1814974d
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/05/2020
-ms.locfileid: "93363627"
+ms.lasthandoff: 11/17/2020
+ms.locfileid: "94670155"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>Atribuir funções e permissões aos utilizadores de uma empresa que necessite de trabalhar no Partner Center
 
@@ -130,7 +130,7 @@ Estas funções não são funções do Azure Ative Directory. Estas funções ge
 ## <a name="manage-referrals"></a>Gerir referências
 
 > [!Note]
->A nova função de utilizador de Referências estará disponível a partir de 16 de novembro de 2020. Os administradores de referência existentes manterão a sua função de administração de encaminhamento para toda a empresa.
+>A nova função de utilizador de Referências estará disponível a partir de 18 de novembro de 2020. Os administradores de referência existentes manterão a sua função de administração de encaminhamento para toda a empresa.
 
 |**Role** | **O que pode fazer**|**Saiba mais**
 |------------------------------|:-------------------------|---|

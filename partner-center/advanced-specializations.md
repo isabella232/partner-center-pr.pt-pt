@@ -1,7 +1,7 @@
 ---
 title: Ganhe especializações avançadas
 ms.topic: article
-ms.date: 10/15/2020
+ms.date: 11/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Fortaleça o seu perfil de negócio no diretório de parceiros da Microsoft. Aprenda a ganhar especializações avançadas juntamente com as suas competências Gold e Silver.
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5dd5866a5ea9a87f0cd61cd863a6cd72ec070a10
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.openlocfilehash: 3b655b5cbd9a8ae2cc907af3ab4da561650e8aa1
+ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92530668"
+ms.lasthandoff: 11/17/2020
+ms.locfileid: "94691389"
 ---
 # <a name="earn-an-advanced-specialization-to-showcase-expertise"></a>Ganhe uma especialização avançada para mostrar a experiência
 
@@ -32,24 +32,25 @@ Especializações avançadas também permitem diferenciar-se aos clientes. Assim
 Você pode ganhar especializações avançadas em duas áreas principais de especialização:
 
 - Azure
-- Local de trabalho moderno e segurança
+- Trabalho moderno e segurança
 
 As especializações avançadas **do Azure** incluem:
 
-- Windows Server e SQL Server Migração para o Microsoft Azure 
-- Microsoft Windows Virtual Desktop
-- Base de dados Linux e Open Source migram para o Microsoft Azure
-- Kubernetes no Microsoft Azure
 - Migração do Armazém de Dados para o Microsoft Azure
-- SAP no Microsoft Azure
+- Kubernetes no Microsoft Azure
+- Base de dados Linux e Open Source migram para o Microsoft Azure
+- Microsoft Windows Virtual Desktop
 - Modernização das aplicações web para o Microsoft Azure
+- SAP no Microsoft Azure
+- Windows Server e SQL Server Migração para o Microsoft Azure
  
-As especializações avançadas **de trabalho e segurança modernas** incluem:
+**As** especializações avançadas de trabalho moderno e segurança incluem:
 
-- Reuniões e Salas de Reuniões para Equipas da Microsoft
 - Gestão de Adoção e Mudança
-- Implantação de trabalho em equipa
 - Chamando para equipas da Microsoft
+- Reuniões e Salas de Reuniões para Equipas da Microsoft
+- Implantação de trabalho em equipa
+- Gestão de Acesso e Identidades
 - Proteção Contra Ameaças
  
 > [!NOTE]
@@ -63,7 +64,7 @@ Para aceder a esta área a partir do Partner Center:
 
 1. Inscreva-se no painel do Centro [de Parceiros.](https://partner.microsoft.com/dashboard/home)
 
-2. Na secção MPN do menu Partner Center, selecione **Adv. Especializações** . O menu expande-se para mostrar todas as especializações avançadas disponíveis para si.
+2. Na secção MPN do menu Partner Center, selecione **Adv. Especializações**. O menu expande-se para mostrar todas as especializações avançadas disponíveis para si.
 
 3. Para ver detalhes, selecione o nome da especialização avançada. Você verá requisitos e passos específicos, o seu estado atual, e ligações a mais passos ou recursos.
 
@@ -79,12 +80,12 @@ Todas as especializações avançadas requerem que tenha ganho uma competência 
 
 Precisa de concluir uma auditoria com um auditor de terceiros para as seguintes especializações avançadas da Azure:
 
-- Windows Server e SQL Server Migração para o Microsoft Azure
-- Migração da base de dados Linux e Open Source para o Microsoft Azure
 - Migração do Armazém de Dados para o Microsoft Azure
 - Kubernetes no Microsoft Azure
-- Modernização das aplicações web para o Microsoft Azure
+- Migração da base de dados Linux e Open Source para o Microsoft Azure
 - Microsoft Windows Virtual Desktop
+- Modernização das aplicações web para o Microsoft Azure
+- Windows Server e SQL Server Migração para o Microsoft Azure
 
 ### <a name="audit-example-in-partner-center"></a>Exemplo de auditoria no Partner Center
 
@@ -95,17 +96,19 @@ Se estiver interessado na especialização avançada chamada **Modernização de
 Até que cumpra todos os pré-requisitos, o seu estatuto **permanece ainda não iniciado.**
 Uma vez cumprido os pré-requisitos, o botão **de auditoria Agendar** está ativado.
 
-Depois de completar todos os requisitos, o seu estado muda para **Ative** . O estado ativo permite automaticamente uma etiqueta de especialização avançada no seu **perfil de Negócio.** Este perfil é visível para todos os clientes que tentam [encontrar um fornecedor de soluções.](https://www.microsoft.com/solution-providers/home)
+Depois de completar todos os requisitos, o seu estado muda para **Ative**. O estado ativo permite automaticamente uma etiqueta de especialização avançada no seu **perfil de Negócio.** Este perfil é visível para todos os clientes que tentam [encontrar um fornecedor de soluções.](https://www.microsoft.com/solution-providers/home)
 
 ## <a name="prerequisites-that-include-customer-references---an-example"></a>Pré-requisitos que incluem referências ao cliente - um exemplo
 
 Precisa de referências ao cliente para as seguintes especializações avançadas:
 
-- SAP no Azure
+
 - Gestão de Adoção e Mudança
-- Implantação de trabalho em equipa
 - Chamando para equipas da Microsoft
 - Reuniões e salas de reuniões
+- SAP no Azure
+- Implantação de trabalho em equipa
+- Gestão de Acesso e Identidades
 - Proteção Contra Ameaças
 
 ### <a name="customer-reference-example-in-partner-center"></a>Exemplo de referência do cliente no Partner Center
@@ -114,9 +117,9 @@ Um exemplo de uma especialização avançada que requer referências ao cliente 
 
 Além da competência em ouro, certificações e um requisito de desempenho, deve fornecer três referências ao cliente que demonstrem a sua capacidade de implantação e gestão.
 
-:::image type="content" source="images/advancedspecializations/as-2.png" alt-text="A página de pré-requisitos da amostra mostra requisitos para ganhar uma competência ativa da Plataforma Nuvem dourada.":::
+:::image type="content" source="images/advancedspecializations/as-2.png" alt-text="Experimente a página de pré-requisitos de especializações avançadas que requer referências ao cliente.":::
 
-Até que cumpra todos os pré-requisitos, o seu estatuto **permanece ainda não iniciado.** Uma vez preenchido todos os requisitos, o seu estado muda para **Ative** . O estado ativo permite automaticamente uma etiqueta de especialização avançada no seu **perfil de Negócio.** Este perfil é visível para todos os clientes que tentam [encontrar um fornecedor de soluções.](https://www.microsoft.com/solution-providers/home)
+Até que cumpra todos os pré-requisitos, o seu estatuto **permanece ainda não iniciado.** Uma vez preenchido todos os requisitos, o seu estado muda para **Ative**. O estado ativo permite automaticamente uma etiqueta de especialização avançada no seu **perfil de Negócio.** Este perfil é visível para todos os clientes que tentam [encontrar um fornecedor de soluções.](https://www.microsoft.com/solution-providers/home)
 
 ## <a name="next-steps"></a>Passos seguintes
 

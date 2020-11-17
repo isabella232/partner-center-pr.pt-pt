@@ -1,7 +1,7 @@
 ---
 title: Microsoft gold, requisitos de competência de prata
 ms.topic: article
-ms.date: 10/15/2020
+ms.date: 11/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Aprenda a ganhar o estatuto de parceiro de elite da Microsoft e atraia novos clientes cumprindo os requisitos de competência para ganhar níveis de adesão de ouro e prata.
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1392a4c4a0147af3ffe18564da08061cd10cbc06
-ms.sourcegitcommit: 1719ff11409cd6953602b7798f8cfe821b8ea15e
+ms.openlocfilehash: 51a0e1d1e726444597d99a55e8c62b6788549073
+ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/15/2020
-ms.locfileid: "92530431"
+ms.lasthandoff: 11/17/2020
+ms.locfileid: "94691338"
 ---
 # <a name="differentiate-your-business-by-attaining-microsoft-competencies"></a>Diferenciar o seu negócio ao alcançar competências da Microsoft
 
@@ -40,7 +40,7 @@ Pode ver os requisitos e o que a sua empresa conseguiu a partir da área de comp
 
 1. Inscreva-se no painel do Centro [de Parceiros.](https://partner.microsoft.com/dashboard/home)
 
-2. Na secção MPN do menu Centro de Parceiros, selecione **Competências** .
+2. Na secção MPN do menu Centro de Parceiros, selecione **Competências**.
 
 3. Selecione o nome da competência e a opção de competência específica para ver os detalhes. Pode ver o que completou e também pode ver todos os requisitos e ligações aos exames específicos e datas de validação de exames aposentados.
 
@@ -65,6 +65,10 @@ Para saber mais sobre o que é necessário para obter competências de prata e o
 
 - Saiba como mostrar ainda mais a sua experiência emparelhando uma competência em ouro com uma ou mais [especializações avançadas.](advanced-specializations.md)
 
-- Saiba mais sobre [benefícios específicos do go-to-market](mpn-learn-about-go-to-market-benefits.md) incluídos com competências.
+- Conheça [os recursos específicos do go-to-market](mpn-learn-about-go-to-market-benefits.md) incluídos com competências.
 
 - Conheça [as faturas e impostos para competências.](mpn-view-print-maps-invoice.md)
+
+- Consulte um [relatório de competências](pci-competencies-report.md) do Partner Center Insights que mostra o estado atual das suas competências.
+
+- Obtenha respostas para [perguntas frequentes](competencies-faq.md) sobre competências.

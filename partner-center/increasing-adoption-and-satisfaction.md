@@ -1,7 +1,7 @@
 ---
 title: Aumentar a adoção e satisfação
 ms.topic: how-to
-ms.date: 07/21/2020
+ms.date: 11/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Aprenda a usar métricas no Partner Center. As métricas podem mostrar se o seu negócio está a crescer, como os clientes usam as suas licenças e onde se concentram no investimento.
@@ -9,19 +9,19 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d995d72f6b5f9fb3beafff91eee7518ee999bf6c
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 494c9d7ff8e726e8bd183456926761c3cebf10ee
+ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "92529463"
+ms.lasthandoff: 11/17/2020
+ms.locfileid: "94691372"
 ---
 # <a name="use-metrics-in-partner-center-to-increase-adoption-and-satisfaction"></a>Use métricas no Partner Center para aumentar a adoção e satisfação
 
 **Aplica-se a**
 
 - Partner Center
-- Programa fornecedor de solução de nuvem
+- Programa Fornecedor de Soluções Cloud
 
 **Funções adequadas**
 
@@ -49,7 +49,7 @@ Pode encontrar dados de licença e utilizador para um único cliente ou através
 
 3. Escolha um cliente.
 
-4. Selecione **insights do cliente** .
+4. Selecione **insights do cliente**.
 
 ### <a name="find-license-and-user-data-across-your-portfolio"></a>Encontre licença e dados de utilizador em todo o seu portfólio
 
@@ -67,7 +67,7 @@ Terminologia:
 
 - **Implantação %** = licenças atribuídas/licenças vendidas
 
-- **Percentagem de utilização** = direitos ativos/direitos totais
+- **% de utilização** = utilizadores ativos/utilizadores totais
 
    Às vezes, o uso % é inflacionado, ou superior a 100%. Isto pode ocorrer por diversos motivos:
 
@@ -89,13 +89,13 @@ Se você está no campo de muitas perguntas de Ajuda e Como-to, os números de a
 
 **O que considerar:** Os clientes podem não entender o valor que o software poderia fornecer. Precisam de ajuda para imaginar as formas de incorporar no seu dia-a-dia para simplificar tarefas que já estão a fazer, ou para permitir novos tipos de produtividade.
 
-**O que tentar** : Estudos de caso, testemunhos de utilizadores sobre cenários específicos, blogs tutoriais ou vídeos.
+**O que tentar**: Estudos de caso, testemunhos de utilizadores sobre cenários específicos, blogs tutoriais ou vídeos.
 
-**Problema** : Há um grande volume de pedidos de apoio para pedir ajuda e perguntas como fazer.
+**Problema**: Há um grande volume de pedidos de apoio para pedir ajuda e perguntas como fazer.
 
 **O que considerar:** Os clientes podem ser novos no software, na versão do produto ou na sua tarefa.
 
-**O que tentar** : Pode utilizar uma dupla estratégia de oferta de formação (presencial ou online) para aumentar a experiência global dos clientes, ao mesmo tempo que promove algumas das opções de self-service disponíveis para os clientes.
+**O que tentar**: Pode utilizar uma dupla estratégia de oferta de formação (presencial ou online) para aumentar a experiência global dos clientes, ao mesmo tempo que promove algumas das opções de self-service disponíveis para os clientes.
 
 Pode querer redesenhar o seu site de suporte para incluir também as opções de autosserviço descritas no [auto-suporte do Cliente,](customer-self-support.md) para além das informações de contacto de suporte.
 
