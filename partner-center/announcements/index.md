@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/10/2020
-ms.openlocfilehash: 4afc08135ee84792d62391251fdb87ec0ddd9ce6
-ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
+ms.openlocfilehash: 183ee0fe5e14608b0b43024e5c07e5ee95d608cd
+ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
 ms.translationtype: HT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "94488139"
+ms.lasthandoff: 11/17/2020
+ms.locfileid: "94691321"
 ---
 # <a name="partner-center-announcements"></a>Anúncios do Centro de Parceiros
 
@@ -22,6 +22,9 @@ Saiba mais sobre atualizações importantes do Centro de Parceiros. Estas inform
 
 | **Categoria** | **Anúncios de novembro de 2020** | **Anunciado** |
 |---------|:---------|:---------|
+|Capacidades|[Alteração da Moeda de Faturação de Parceiros da UE/EFTA para novas ofertas de comércio](2020-november.md#10)|17 de novembro|
+|Capacidades|[Limitação de APIs para APIs do Centro de Parceiros](2020-november.md#9)|17 de novembro|
+|Capacidades|[409 erros devido a pedidos de MCA duplicados](2020-november.md#8)|16 de novembro|
 |Capacidades|[Testes disponíveis: atualizações à API do Centro de Parceiros e melhorias na interface de utilizador (IU) para o processo de validação de clientes de Educação](2020-november.md#7)|10 de novembro|
 |Capacidades|[Expandir o conteúdo de parceiros da Licença Comercial na Galeria de Preparação de Operações ](2020-november.md#6)|2 de Novembro|
 |Ofertas/Mercados|[Lançamento do SKU Microsoft Teams Rooms Premium](2020-november.md#5)|2 de Novembro|
