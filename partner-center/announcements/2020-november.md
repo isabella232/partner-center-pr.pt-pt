@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 1e6002354323d2c528cbf32271144bbf61d40ac8
-ms.sourcegitcommit: 4fd1ff569e22e5e10ba9896b4e63eead7dcc5f1e
+ms.openlocfilehash: 495ea6df347a5c2f6cf05a9f9efddaf33113e0b4
+ms.sourcegitcommit: 992b9e57e1abc26d2b835414278c96b3de61dd2b
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/18/2020
-ms.locfileid: "94845344"
+ms.lasthandoff: 11/19/2020
+ms.locfileid: "94885599"
 ---
 # <a name="november-2020-announcements"></a>Anúncios de novembro de 2020
 
@@ -22,6 +22,34 @@ Esta página detalha os anúncios para o Microsoft Partner Center para novembro 
 
 Anúncios de 2020: [abril](2020-april.md)  |  [maio](2020-may.md)  |  [junho julho](2020-june.md)  |  [July](2020-july.md)  |  [agosto](2020-august.md)  |  [September](2020-september.md)  |  [setembro](2020-October.md) Novembro
 
+______________
+
+## <a name="office-365-e1-for-mid-market-promo-latam-apac-and-india"></a><a name="12"></a>Escritório 365 E1 para promo de mercado médio (LATAM, APAC e Índia)
+
+### <a name="categories"></a>Categorias
+- Data 2020-11-18
+- Ofertas/Mercados
+
+### <a name="summary"></a>Resumo
+Estamos a introduzir um novo Office 365 E1 Promo para o mercado intermédio, restrito aos mercados emergentes da LATAM, Índia e APAC (excluindo mercados desenvolvidos dentro da APAC).
+
+### <a name="impacted-audience"></a>Audiência Impactada
+Todos os parceiros que transacionam através do programa Cloud Solution Provider (CSP) nos mercados participantes acima mencionados.
+
+### <a name="details"></a>Detalhes
+O Promo consiste em 30% de desconto no Office 365 E1 para CSP. Será lançado a 1 de dezembro de 2020 e estará disponível por 6 meses, até 31 de maio de 2020. Este Promo só está disponível para clientes que são novos na nuvem MW e têm até 500 lugares. Por favor, note que este é restrito aos mercados emergentes da LATAM, Índia e APAC, de forma a permitir a transição para a nuvem. 
+
+#### <a name="offer-details"></a>Oferecer detalhes
+
+   |**Nome da oferta**|**ID da oferta**|
+   |-------------------|:------|
+   |Escritório 365 E1 para promo de mercado médio|d20fdad5-f524-45e4-97b1-59a94c21778f|
+
+### <a name="next-steps"></a>Passos seguintes
+Isto estará disponível no dia 1 de dezembro - entretanto, por favor, partilhe esta informação com todos os contactos apropriados dentro da sua organização (nas regiões participantes). Comece a envolver-se com clientes que ainda não estão na nuvem nas regiões participantes. 
+
+### <a name="questions"></a>Perguntas?
+Entre em contato com [o suporte do Partner Center](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp) para quaisquer questões, consultas ou informações adicionais.
 ______________
 
 ## <a name="partner-center-api-updates-and-user-interface-ui-enhancements-to-strengthen-customer-screening-in-certain-countries"></a><a name="11"></a>Atualizações da API do Partner Center e melhorias da interface do utilizador (UI) para reforçar o rastreio de clientes em determinados países
