@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 495ea6df347a5c2f6cf05a9f9efddaf33113e0b4
-ms.sourcegitcommit: 992b9e57e1abc26d2b835414278c96b3de61dd2b
+ms.openlocfilehash: 4524514177c636fbb2b613ed50323fd8f586c56d
+ms.sourcegitcommit: 511c21ae664bd438dc9d11f880cd58400a5d9eea
 ms.translationtype: MT
 ms.contentlocale: pt-PT
 ms.lasthandoff: 11/19/2020
-ms.locfileid: "94885599"
+ms.locfileid: "94932825"
 ---
 # <a name="november-2020-announcements"></a>Anúncios de novembro de 2020
 
@@ -23,6 +23,43 @@ Esta página detalha os anúncios para o Microsoft Partner Center para novembro 
 Anúncios de 2020: [abril](2020-april.md)  |  [maio](2020-may.md)  |  [junho julho](2020-june.md)  |  [July](2020-july.md)  |  [agosto](2020-august.md)  |  [September](2020-september.md)  |  [setembro](2020-October.md) Novembro
 
 ______________
+## <a name="new-unified-account-management-experience"></a><a name="13"></a>Nova experiência de gestão de conta unificada
+
+### <a name="categories"></a>Categorias
+
+- Data: 2020-11-18
+- Capacidades
+
+## <a name="summary"></a>Resumo
+
+A partir de 18 de novembro, o Partner Center vai começar a desenvolver a nova experiência de gestão de conta que irá melhorar a experiência do utilizador para os parceiros. Os parceiros poderão agora gerir a sua conta para todos os programas a partir de Definições -> As definições de Conta.
+
+### <a name="impacted-audience"></a>Audiência impactada
+
+Todos os parceiros
+
+### <a name="details"></a>Detalhes
+
+A principal mudança na gestão de conta é a integração da visão de definições de parceiros anteriormente **separados** para parceiros inscritos em programas comerciais (Microsoft Partner Network, Cloud Solution Provider, Referrals, etc.) e **a visualização de definições de desenvolvedores** para parceiros inscritos em programas de Desenvolvimento (Commercial Marketplace, Windows & Xbox, etc.) numa visão de **definições** de conta unificada.
+
+### <a name="entry-point"></a>Ponto de entrada
+
+Inscreva-se no painel de instrumentos do Centro de Parceiros e, em seguida, selecione o ícone  **Definições**   e clique nas **definições de Conta**. Já não deve escolher entre Parceiro e Desenvolvedor, uma vez que todos os perfis e configurações estão agora combinados.
+
+### <a name="left-navigation-hierarchy"></a>Hierarquia de navegação à esquerda
+
+- Perfil da organização
+   - Legal - Gerir o seu perfil de negócio legal, perfil de parceiro e localizações da empresa.
+   - Inquilinos - Toda a sua informação sobre os seus inquilinos da AD Azure, comercial e promotor, é rastreada aqui.
+   - Identifiers - Partner Center identidades para a sua empresa - o seu MPNID's, publisherId's etc
+- Gestão do utilizador - Gerencie os seus utilizadores e atribua-lhes funções comerciais e de desenvolvimento a partir de um local. Você também pode gerir grupos e aplicações AD AZure a partir daqui.
+
+### <a name="next-steps"></a>Passos seguintes
+
+Partilhe esta informação com todos os contactos adequados na sua empresa.
+
+
+
 
 ## <a name="office-365-e1-for-mid-market-promo-latam-apac-and-india"></a><a name="12"></a>Escritório 365 E1 para promo de mercado médio (LATAM, APAC e Índia)
 
@@ -303,6 +340,7 @@ Reveja [a orientação de estrangulamento da API](https://docs.microsoft.com/par
 - Partilhe esta informação com as equipas apropriadas dentro da sua organização para ajudá-las a prepararem-se para estas mudanças.
 
 
+>>>>>>> b9adba1905026516f3b9d15ff488d1c383af219b
 
 ## <a name="testing-available-partner-center-api-and-user-interface-ui-enhancements-for-the-education-customer-validation-process"></a><a name="7"></a>Testes disponíveis: API do Partner Center e melhorias na interface do utilizador (UI) para o processo de validação do cliente da Educação
 

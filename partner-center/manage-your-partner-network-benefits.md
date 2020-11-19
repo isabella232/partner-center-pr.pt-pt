@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 321e3c7f48106d29e44941f24b9cd709662618a9
-ms.sourcegitcommit: 4a88db7e9e90b4fbb2ba82af38d7f77b016977f3
+ms.openlocfilehash: 7c42533027977853322a0bf815e3b1d387d8ad88
+ms.sourcegitcommit: 511c21ae664bd438dc9d11f880cd58400a5d9eea
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/24/2020
-ms.locfileid: "92530827"
+ms.lasthandoff: 11/19/2020
+ms.locfileid: "94932849"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits-and-offers-in-partner-center"></a>Gerencie os benefícios e ofertas de adesão da Microsoft Partner Network no Partner Center
 
@@ -43,7 +43,7 @@ Depois de comprar um pacote de benefícios de adesão, terá de obter chaves de 
 
 Os pacotes de benefícios incluem alocações de software licenciado, serviços na nuvem, subscrições do Visual Studio e suporte técnico. Os pacotes de benefícios também podem incluir certos recursos go-to-market, ofertas e programas relacionados com o mercado. Pode obter detalhes de subscrição do Action Pack no site [da Microsoft Partner Network.](https://partner.microsoft.com/membership/internal-use-software)  
 
-Para visualizar e gerir todos os seus benefícios de adesão, vá à sua página [ **Benefícios**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (iniciar sposição necessária). Em alternativa, pode inscrever-se no painel de [instrumentos](https://partner.microsoft.com/dashboard)Partner Center , selecione a opção [ **Benefícios** ] do menu esquerdo e, em seguida, selecione quaisquer opções de benefícios apresentadas.  
+Para visualizar e gerir todos os seus benefícios de adesão, vá à sua página [ **Benefícios**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (iniciar sposição necessária). Em alternativa, pode inscrever-se no painel de [instrumentos](https://partner.microsoft.com/dashboard)Partner Center , selecione a opção [**Benefícios**] do menu esquerdo e, em seguida, selecione quaisquer opções de benefícios apresentadas.  
 
 Para ativar a maioria dos benefícios ou descarregar chaves de software relacionadas, etc., o Partner Center normalmente requer alguém que atribui o papel de administrador global ou de um parceiro MPN. Se não consegue ver quaisquer benefícios ou não conseguir ativar benefícios, consulte o administrador do Partner Center Global para garantir que tem as permissões certas. [Saiba mais sobre as funções do Partner Center.](permissions-overview.md)
 
@@ -63,15 +63,34 @@ Para ativar a maioria dos benefícios ou descarregar chaves de software relacion
 
    d. Siga os links para descarregar e instalar os pacotes de instalação de software.
 
-## <a name="manage-cloud-services-benefits"></a>Gerir os benefícios dos serviços na nuvem
+## <a name="azure-and-cloud-products"></a>Azure e produtos em nuvem
 
-1. Selecione **Cloud** para ver a sua lista de subscrições de serviços baseados na nuvem.
+O separador **Azure & Cloud Products** mostra as subscrições baseadas no uso (crédito Azure) e as subscrições baseadas em licença (como o Office 365) que lhe são aprovisionadas, a quantidade de licença para cada produto, o tipo de oferta que lhe proporcionou esse produto, o tipo de benefício (quer seja proveniente do núcleo, ou incremental) e a data de validade desse benefício.
 
-2. Encontre a subscrição ou produto que pretende começar a usar e, em seguida, selecione a seta para baixo na extrema direita da linha para expandir os detalhes da subscrição ou do produto.
+:::image type="content" source="images/benefits/azuretab.png" alt-text="Separador de produtos Azure e cloud":::
 
-3. Para ativar as subscrições baseadas em uso do Microsoft Azure, atribua-se como utilizador. Vá ao portal Microsoft Azure para gerir a subscrição.
+### <a name="usage-based-subscriptions---microsoft-azure-credit"></a>Subscrições baseadas em uso - Microsoft Azure Credit
 
-   Para ativar subscrições baseadas em licenças, selecione **Obter teclas** para copiar a ou as teclas de licença do produto e, em seguida, siga quaisquer instruções especiais para ativar a subscrição.  
+Existem dois tipos de subscrições baseadas em uso que pode receber, dependendo do tipo de oferta que tem ativa como Parceiro MPN – MAPS, Prata e/ou Ouro – crédito mensal ou crédito a granel.
+
+Pode ser a provisionado com:
+
+- $100/mês (ou equivalente em moeda local) Crédito mensal azure ou/e
+- $6000, $12000 ou/e $13000/ano (ou cada um deles equivalente em moeda local) Crédito a granel Azure
+
+Para ativar uma subscrição do Microsoft Azure no Partner Center, atribua acesso a um utilizador dentro da empresa (incluindo utilizadores convidados), que tem uma entrada de utilizador criada no seu Azure Ative Directory.
+Para o crédito mensal Azure de $100/mês (ou equivalente em moeda local), pode adicionar ou remover os utilizadores desta subscrição a qualquer momento. 
+
+Para o Crédito Azure Bulk (anual) a opção de remoção não está disponível no Partner Center, mas pode transferir o crédito a granel para outra pessoa durante o seu ano de inscrição. A subscrição de crédito Azure Bulk (anualmente) não pode ser combinada com outras ofertas de licenciamento, pré-pago ou crédito (ou seja, Microsoft Enterprise Agreement, Cloud Solution Partner, Azure in Open, Azure Pass, Action Pack, etc.).
+
+## <a name="license-based-subscriptions"></a>Assinaturas baseadas em licenças
+
+Na secção de subscrições baseadas em licenças do separador Azure & Cloud Products, encontrará todos os produtos em nuvem que requerem uma chave de produto para ativação, tais como Microsoft O365, Microsoft Dynamics, Microsoft Intune, Azure AD basic, Power BI, etc., que lhe são oferecidos dependendo do tipo de oferta que tem ativa como parceiro MPN – MAPS, Silver ou Gold.
+
+Para ativar as subscrições baseadas na licença, clique no símbolo dropdown em conformidade com o produto de interesse e leia as instruções sobre como resgatar as teclas. Depois de ler as instruções, selecione o link que o redireciona para o portal para resgatar as teclas, bem como a chave atribuída para o seu produto.
+
+>[!IMPORTANT]
+>Por favor, note que uma vez que uma chave é resgatada, a mesma chave não pode ser redimida uma segunda vez, por isso certifique-se de que está claro sobre se precisa adicionar mais licenças (assentos) ou prolongar a data de fim. Se optar por adicionar mais licenças e não prolongar a data de fim, o sistema fornecer-lhe-á menos de 12 meses de subscrição ativa. Certifique-se de que está a iniciar sessão com as credenciais corretas para ativar as chaves do inquilino correto.
 
 ## <a name="manage-visual-studio-subscriptions"></a>Gerir subscrições do Estúdio Visual
 
@@ -79,10 +98,10 @@ Para ativar a maioria dos benefícios ou descarregar chaves de software relacion
 
 2. Encontre a subscrição que pretende começar a usar e, em seguida, selecione a seta para baixo na extrema direita da linha para expandir os detalhes da subscrição.
 
-3. Para ativar uma subscrição do Visual Studio, selecione um utilizador da lista e, em seguida, **selecione Atribuir utilizador** .
+3. Para ativar uma subscrição do Visual Studio, selecione um utilizador da lista e, em seguida, **selecione Atribuir utilizador**.
 
    > [!IMPORTANT]  
-   > Se o utilizador que pretende atribuir não estiver na lista, pode [adicionar novos utilizadores](create-user-accounts-and-set-permissions.md) nas **definições de Conta** .
+   > Se o utilizador que pretende atribuir não estiver na lista, pode [adicionar novos utilizadores](create-user-accounts-and-set-permissions.md) nas **definições de Conta**.
 
 4. Repita este processo para cada subscrição que pretende atribuir. Os utilizadores podem gerir as suas subscrições no portal Visual Studio.
 
@@ -97,13 +116,13 @@ Para ver os seus benefícios técnicos no Partner Center, faça o seguinte:
 
 1. Inscreva-se no painel do Centro [de Parceiros](https://partner.microsoft.com/dashboard).
 
-2. Selecione **Benefícios** , em **seguida, benefícios técnicos** do menu de navegação à esquerda. A página de benefícios técnicos aparece com uma lista de benefícios técnicos de suporte disponíveis para qualquer uma das suas competências Gold, Silver ou Microsoft Action Pack.
+2. Selecione **Benefícios**, em **seguida, benefícios técnicos** do menu de navegação à esquerda. A página de benefícios técnicos aparece com uma lista de benefícios técnicos de suporte disponíveis para qualquer uma das suas competências Gold, Silver ou Microsoft Action Pack.
 
    Se não vir estas opções ou a página de benefícios técnicos, poderá não ter as [funções corretas](permissions-overview.md) de utilizador atribuídas no Partner Center. Contacte o seu administrador Partner Center Global para obter acesso.
 
 3. Expandir a lista de benefícios. Para começar a usar um benefício de suporte específico, tem de fazer o seguinte da primeira vez que o utiliza:
 
-   - **Ativar o benefício técnico.** Depois de expandir os detalhes de um benefício, **selecione Ative** . Deixe alguns dias para processar o seu pedido de ativação.
+   - **Ativar o benefício técnico.** Depois de expandir os detalhes de um benefício, **selecione Ative**. Deixe alguns dias para processar o seu pedido de ativação.
 
    - **Ver e partilhar suporte ao produto Acesso ID e ID do contrato.** Após o seu pedido de ativação ser processado, verá detalhes sobre **o Acesso ID** e o **ID do Contrato** da próxima vez que expandir esse benefício técnico. Você ou os utilizadores da sua empresa poderão precisar de partilhar esta informação na primeira vez que submeter um pedido de suporte para determinados tipos de produtos ou serviços.
 
@@ -113,7 +132,7 @@ Para ver os seus benefícios técnicos no Partner Center, faça o seguinte:
 
    **Suporte técnico (Break-fix).** Utilize este tipo de suporte técnico quando a funcionalidade estiver avariada ou quando algo não estiver a funcionar como esperado (por exemplo, quando recebe uma mensagem de erro). Aqui vai uma orientação:
 
-   - Apenas para parceiros de competência Gold/Silver (não disponível para assinantes do Action Pack), utilize **o Signature Product Support** para produtos **Cloud** .
+   - Apenas para parceiros de competência Gold/Silver (não disponível para assinantes do Action Pack), utilize **o Signature Product Support** para produtos **Cloud**.
 
    - Tanto para parceiros de competência Action Pack como Gold/Silver, utilize incidentes de **suporte ao Microsoft Product** para produtos recentes no local (apenas versões atuais e anteriores). **recent on-premises products**
 
@@ -131,28 +150,28 @@ Para ver os seus benefícios técnicos no Partner Center, faça o seguinte:
 - Administrador global
 - Administrador do Parceiro MPN
 
-1. Selecione **Benefícios** , em **seguida, Go-To-Market** para ver a sua lista de ofertas associadas ao programa Go-To-Market com a Microsoft.
+1. Selecione **Benefícios**, em **seguida, Go-To-Market** para ver a sua lista de ofertas associadas ao programa Go-To-Market com a Microsoft.
 
    [As funcionalidades go-to-market](mpn-learn-about-go-to-market-benefits.md) oferecem recursos de marketing adicionais, ofertas, programas e assistência que podem estar disponíveis para si. Os tipos de ofertas disponíveis dependem do seu nível específico de parceiro e de quaisquer competências que já tenha obtido.
 
 2. Para ativar qualquer oferta ou programa de mercado, você deve primeiro atribuir um contato de marketing da empresa. Este contacto receberá comunicações de acompanhamento sobre as suas ofertas ativas do Go-To-Market.
 
-3. Para adicionar ou atualizar as suas informações de contacto de marketing, vá ao topo da página Go-To-Market, em seguida, **selecione Adicionar,** **Atualizar** ou **Alterar** . Agora, faça os seguintes passos:  
+3. Para adicionar ou atualizar as suas informações de contacto de marketing, vá ao topo da página Go-To-Market, em seguida, **selecione Adicionar,** **Atualizar** ou **Alterar**. Agora, faça os seguintes passos:  
 
-   a. Selecione um utilizador da lista. Se o utilizador que pretende atribuir não estiver na lista, pode [adicionar novos utilizadores](create-user-accounts-and-set-permissions.md) nas **definições de Conta** .
+   a. Selecione um utilizador da lista. Se o utilizador que pretende atribuir não estiver na lista, pode [adicionar novos utilizadores](create-user-accounts-and-set-permissions.md) nas **definições de Conta**.
 
    b. Forneça um endereço de e-mail para o utilizador que seja diferente do endereço de e-mail associado à conta partner Center da sua empresa.
 
       Enviaremos por e-mail instruções para utilizar a sua oferta Go-To-Market para o endereço de e-mail designado para o seu contacto de marketing.
 
-   c.  Indique o contacto telefónico e o idioma preferencial deste contacto de marketing. Depois de introduzidas estas informações, selecione **Atribuir utilizador** .
+   c.  Indique o contacto telefónico e o idioma preferencial deste contacto de marketing. Depois de introduzidas estas informações, selecione **Atribuir utilizador**.
 
 4. Depois de atualizar o seu contacto de marketing, encontre a oferta Go-To-Market que pretende começar a usar e, em seguida, selecione a seta para baixo na extrema direita da fila para expandir os detalhes da oferta. A lista apresentará cada tipo de oferta disponível abaixo do nome Benefit (como, **Silver Core,** **Gold Core** ou **ISV Co-sell ready).**
 
 5. **Selecione Ativar** para ativar a oferta.
 
    > [!NOTE]
-   >Pode levar vários dias para enviar instruções por e-mail para o contacto de marketing atribuído e ativar uma oferta Go-To-Market. Assim que a oferta for ativada, verá alterações na página Go-To-Market. Na coluna **Status,** verá a alteração da oferta para **Ative** . Na coluna **Expira,** verá a data em que a oferta expira. Pode utilizar esta oferta até à data de validade. Saiba mais sobre os [diferentes tipos de recursos, ofertas e programas disponíveis.](mpn-learn-about-go-to-market-benefits.md)  
+   >Pode levar vários dias para enviar instruções por e-mail para o contacto de marketing atribuído e ativar uma oferta Go-To-Market. Assim que a oferta for ativada, verá alterações na página Go-To-Market. Na coluna **Status,** verá a alteração da oferta para **Ative**. Na coluna **Expira,** verá a data em que a oferta expira. Pode utilizar esta oferta até à data de validade. Saiba mais sobre os [diferentes tipos de recursos, ofertas e programas disponíveis.](mpn-learn-about-go-to-market-benefits.md)  
 
 ## <a name="cancel-a-membership-benefit-or-offer"></a>Cancelar um subsídio de adesão ou oferta
 
