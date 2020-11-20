@@ -7,12 +7,12 @@ ms.topic: conceptual
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 11/06/2020
-ms.openlocfilehash: 9c03878ec69b9df06795054464ef7f76e038e780
-ms.sourcegitcommit: cc30a06abe55b9da32177a24e74bfd6fc7d8bbb9
+ms.openlocfilehash: cbd849001d128db1912a9bb61ef4c5217a5932ce
+ms.sourcegitcommit: 7e32544cf91f932cbeb053c9de506ba9ee773fe2
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "94531992"
+ms.lasthandoff: 11/20/2020
+ms.locfileid: "94947669"
 ---
 # <a name="payout-schedules-and-policy-details"></a>Horários de pagamento e detalhes da política
 
@@ -28,13 +28,13 @@ Quando um cliente compra um produto do Microsoft AppSource ou do Azure Marketpla
 
 Um pagamento ocorrerá frequentemente antes de a Microsoft receber o pagamento do cliente. Consulte [o Processo de não pagamento do cliente](#process-for-customer-non-payment) abaixo para as ações que tomamos se o cliente não pagar à Microsoft, mas já emitimos um pagamento.
 
-| Evento | Description | Visibilidade reportando | Timing* |
+| Evento | Descrição | Visibilidade reportando | Timing* |
 | --- | --- | --- | --- |
 | Utilização ou Mês de Transação | O cliente usa ou compra um serviço. | [Painel de utilização](/azure/marketplace/partner-center-portal/usage-dashboard) ou [ordem](/azure/marketplace/partner-center-portal/orders-dashboard) | **Mês 1** |
 | A Ordem de Compra é criada | Determinar a utilização total, as transações totais | [Painel de utilização](/azure/marketplace/partner-center-portal/usage-dashboard) ou [ordem](/azure/marketplace/partner-center-portal/orders-dashboard) | **Mês 2** |
-| Isv Payout Earning isv é criado | Determinar taxas de agência e ganhos de pagamento | Marcado como não processado no histórico de transações na Declaração de Pagamento | **Mês 3 (1ª semana)** |
-| Preparar o Pagamento | Os ganhos estão preparados para o pagamento mensal | Marcado como O Próximo no Histórico de Transações na Declaração de Pagamento | **Mês 3 (1ª semana)** |
-| **Data de Pagamento** | **O pagamento é enviado para editor** | **Marcada como Enviada no Histórico de Transações e na secção de Pagamentos da Declaração de Pagamento** | **Mês 3 (o mais tardar no dia 15)** |
+| Isv Payout Earning isv é criado | Determinar taxas de agência e ganhos de pagamento | Marcado como não processado no histórico de transações na declaração de [pagamento](payout-statement.md) | **Mês 3 (1ª semana)** |
+| Preparar o Pagamento | Os ganhos estão preparados para o pagamento mensal | Marcado como O Próximo no Histórico de Transações na declaração de [pagamento](payout-statement.md) | **Mês 3 (1ª semana)** |
+| **Data de Pagamento** | **O pagamento é enviado para editor** | **Marcado como Enviado no Histórico de Transações e na secção de Pagamentos da declaração de [pagamento](payout-statement.md)** | **Mês 3 (o mais tardar no dia 15)** |
 | Fatura paga pelo Cliente | Microsoft recolhe pagamento do cliente | Sem alterações | **Mês 4 a 12** |
 |
 
@@ -44,14 +44,14 @@ Um pagamento ocorrerá frequentemente antes de a Microsoft receber o pagamento d
 
 Todas as compras com cartão de crédito ou fatura mensal têm um período de detenção de 30 dias para garantir que os fundos são recolhidos junto do cliente.
 
-| Evento | Description | Visibilidade reportando | Timing* |
+| Evento | Descrição | Visibilidade reportando | Timing* |
 | --- | --- | --- | --- |
 | Utilização ou Mês de Transação | O cliente usa ou compra um serviço. | [Painel de utilização](/azure/marketplace/partner-center-portal/usage-dashboard) ou [ordem](/azure/marketplace/partner-center-portal/orders-dashboard) | **Mês 1** |
 | Fatura paga pelo Cliente | Determine o uso total, o valor total da transação e a fatura do cliente | [Painel de utilização](/azure/marketplace/partner-center-portal/usage-dashboard) ou [ordem](/azure/marketplace/partner-center-portal/orders-dashboard) | **Mês 2** |
-| Isv Payout Earning isv é criado | Determinar taxas de agência e ganhos de pagamento | Marcado como não processado no histórico de transações na Declaração de Pagamento | **Mês 2** |
-| Período de detenção de 30 dias | Garantir a recolha de fundos, possíveis pedidos de reembolso e reembolso | Marcado como não processado no histórico de transações na Declaração de Pagamento | **3 mês** |
-| Preparar o Pagamento | Os ganhos estão preparados para o pagamento mensal | Marcado como O Próximo no Histórico de Transações na Declaração de Pagamento | **Primeira semana do Mês 4** |
-| **Data de Pagamento** | **O pagamento é enviado para editor** | **Marcada como Enviada no Histórico de Transações e na secção de Pagamentos da Declaração de Pagamento** | **Mês 4 (o mais tardar no dia 15)** |
+| Isv Payout Earning isv é criado | Determinar taxas de agência e ganhos de pagamento | Marcado como não processado no histórico de transações na declaração de [pagamento](payout-statement.md) | **Mês 2** |
+| Período de detenção de 30 dias | Garantir a recolha de fundos, possíveis pedidos de reembolso e reembolso | Marcado como não processado no histórico de transações na declaração de [pagamento](payout-statement.md) | **3 mês** |
+| Preparar o Pagamento | Os ganhos estão preparados para o pagamento mensal | Marcado como O Próximo no Histórico de Transações na declaração de [pagamento](payout-statement.md) | **Mês 4 (1ª semana)** |
+| **Data de Pagamento** | **O pagamento é enviado para editor** | **Marcado como Enviado no Histórico de Transações e na secção de Pagamentos da declaração de [pagamento](payout-statement.md)** | **Mês 4 (o mais tardar no dia 15)** |
 |
 
 \* A data de pagamento é na Hora Padrão do Pacífico (PST).
@@ -75,8 +75,8 @@ Segue-se um exemplo de calendário:
 | Editor é notificado write-off é provável | 1/7/2021 | E-mail notificação enviada ao editor que o seu cliente ainda não enviou o pagamento. O ID de transação e o valor em dólares estão incluídos. |
 | Cliente recebe aviso de rescisão | 2/1/2021 | Nenhum |
 | Fim do processo de recolha / os fundos são anulados | 2/15/2021 | E-mail notificação enviada ao editor de que os fundos foram anulados. O ID de transação e o valor em dólares estão incluídos. |
-| O pagamento é deduzido | 3/1/2021 | Editor verá transação negativa em Declaração de Pagamento do Partner Center |
-| O pagamento é retido | 3/15/2021 | Os pagamentos futuros serão mostrados na Declaração de Pagamento do Centro Parceiro. A editora não receberá o pagamento até que o saldo não seja mais negativo.  |
+| O pagamento é deduzido | 3/1/2021 | Editor verá transação negativa em declaração de pagamento do Partner Center |
+| O pagamento é retido | 3/15/2021 | Os pagamentos futuros serão mostrados na declaração de pagamento do Partner Center. A editora não receberá o pagamento até que o saldo não seja mais negativo.  |
 |||
 
 \* A data de pagamento é na Hora Padrão do Pacífico (PST).
@@ -97,4 +97,4 @@ Normalmente enviamos qualquer pagamento devido num dado mês no 15º dia desse m
 
 ## <a name="next-steps"></a>Passos seguintes
 
-Saiba mais detalhes [fiscais.](tax-details-marketplace.md)
+- [Detalhes fiscais](tax-details-marketplace.md)

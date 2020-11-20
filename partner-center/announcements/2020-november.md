@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 4524514177c636fbb2b613ed50323fd8f586c56d
-ms.sourcegitcommit: 511c21ae664bd438dc9d11f880cd58400a5d9eea
+ms.openlocfilehash: 2b089a666fdb312d49f26be0f9a47da8daad2715
+ms.sourcegitcommit: 7e32544cf91f932cbeb053c9de506ba9ee773fe2
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/19/2020
-ms.locfileid: "94932825"
+ms.lasthandoff: 11/20/2020
+ms.locfileid: "94947703"
 ---
 # <a name="november-2020-announcements"></a>Anúncios de novembro de 2020
 
@@ -51,7 +51,7 @@ Inscreva-se no painel de instrumentos do Centro de Parceiros e, em seguida, sele
 - Perfil da organização
    - Legal - Gerir o seu perfil de negócio legal, perfil de parceiro e localizações da empresa.
    - Inquilinos - Toda a sua informação sobre os seus inquilinos da AD Azure, comercial e promotor, é rastreada aqui.
-   - Identifiers - Partner Center identidades para a sua empresa - o seu MPNID's, publisherId's etc
+   - Identifiers - Partner Center identidades para a sua empresa - os seus MPNIDs, editorids, etc.
 - Gestão do utilizador - Gerencie os seus utilizadores e atribua-lhes funções comerciais e de desenvolvimento a partir de um local. Você também pode gerir grupos e aplicações AD AZure a partir daqui.
 
 ### <a name="next-steps"></a>Passos seguintes

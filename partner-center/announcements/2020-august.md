@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 08/14/2020
-ms.openlocfilehash: e469f3a99a07715ebadf3b6bcca7b1cf1db46c44
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: f3503e4edf9b5e9081eb53b80a32f451db861a70
+ms.sourcegitcommit: 7e32544cf91f932cbeb053c9de506ba9ee773fe2
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92530383"
+ms.lasthandoff: 11/20/2020
+ms.locfileid: "94947686"
 ---
 # <a name="august-2020-announcements"></a>Anúncios de agosto de 2020
 
@@ -167,8 +167,6 @@ O novo addon Advanced Communications para o Microsoft Teams está agora disponí
 
 Lançado no lançamento
 - Limites de eventos ao vivo para 20 K participantes (50 simultâneos, 16 horas)
-- Integração do Registo de Conformidade (ISV) 
-- Integração de soluções do Contact Center (ISV) 
 
 Lançado mais tarde no CY2020
 - Reunião de equipas interativas de 1.000 pessoas 
