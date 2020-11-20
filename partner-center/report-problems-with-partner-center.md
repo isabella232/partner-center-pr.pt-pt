@@ -1,20 +1,20 @@
 ---
 title: Comunicar problemas com o Centro de Parceiros
 ms.topic: how-to
-ms.date: 06/05/2020
+ms.date: 11/19/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-mpn
 description: Saiba como reportar problemas com o Partner Center e como recolher informações de diagnóstico para a equipa de Apoio ao Parceiro.
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1db695179915f8ee803ad4dfdcfd6278ce49238b
-ms.sourcegitcommit: a2ea54f814fdbd619421a83482831b22f49416f6
+ms.openlocfilehash: 7d978ca3c48ccadaabb7d714ea9a5d2900bef819
+ms.sourcegitcommit: 7dff27bd799951c28bd1ef2665aa564cce71aff0
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "94567095"
+ms.lasthandoff: 11/20/2020
+ms.locfileid: "94983346"
 ---
 # <a name="how-to-report-problems-with-partner-center-and-submit-any-log-or-diagnostics-information"></a>Como reportar problemas com o Partner Center e submeter qualquer informação de registo ou diagnóstico
 
@@ -23,9 +23,7 @@ ms.locfileid: "94567095"
 - Partner Center
 - Centro de Parceiros do Microsoft Cloud for US Government
 
-Contacte o Partner Center Support se encontrar problemas ou precisar de ajuda com o Partner Center.
-
-**Funções de Utilizador**
+**Funções adequadas**
 
 Todos os utilizadores do Partner Center podem criar pedidos de suporte a parceiros. Os utilizadores só podem ver os pedidos de suporte que submeteram após iniciar sessão no Partner Center.
 
@@ -59,6 +57,12 @@ Se o seu problema requer uma conversa com o seu advogado de apoio, pode agendar 
 
 :::image type="content" source="images/support/ticket3.png" alt-text="Data e hora":::
 
+## <a name="hours-of-operation"></a>Horas de funcionamento
+
+**Apoio a parceiros**
+
+:::image type="content" source="images/support/hoop.png" alt-text="Horário de funcionamento de apoio":::
+
 ## <a name="send-diagnostics"></a>Enviar diagnósticos
 
 Se ocorrer um erro durante a página do Centro de Parceiros, poderá ser solicitado que recolha informações de registo. **Selecione Recolher mais informações** a partir do link que cai do topo da página para abrir a ferramenta de Diagnóstico do Cliente. Esta ferramenta reúne as informações que a equipa de Suporte de Parceiros precisa para determinar a causa do erro. 
@@ -83,6 +87,6 @@ Pode visualizar as informações de diagnóstico e guardá-la num ficheiro que p
 
 O Apoio ao Parceiro pode pedir-lhe para executar esta ferramenta várias vezes para que possam obter as informações mais atualizadas.
 
-## <a name="next-steps"></a>Passos seguintes
+## <a name="next-steps"></a>Próximos passos
 
 - [Reportar um problema de serviço em nome de um cliente](report-problems-on-behalf-of-a-customer.md)
