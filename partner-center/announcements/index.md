@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 11/17/2020
-ms.openlocfilehash: d8bd7be9d77f9c8d59af5d45821b9c0728457e52
-ms.sourcegitcommit: 992b9e57e1abc26d2b835414278c96b3de61dd2b
+ms.date: 11/19/2020
+ms.openlocfilehash: c3d811a32e2ddd9d7127fe331beb944e5e7b20fb
+ms.sourcegitcommit: 511c21ae664bd438dc9d11f880cd58400a5d9eea
 ms.translationtype: HT
 ms.contentlocale: pt-PT
 ms.lasthandoff: 11/19/2020
-ms.locfileid: "94885616"
+ms.locfileid: "94932774"
 ---
 # <a name="partner-center-announcements"></a>Anúncios do Centro de Parceiros
 
@@ -22,6 +22,7 @@ Saiba mais sobre atualizações importantes do Centro de Parceiros. Estas inform
 
 | **Categoria** | **Anúncios de novembro de 2020** | **Anunciado** |
 |---------|:---------|:---------|
+|Capacidades|[Experiência de gestão de conta nova e unificada](2020-november.md#13)|18 de novembro|
 |Ofertas/Mercados|[Promo do Office 365 E1 para mercados intermédios (LATAM, APAC e Índia)](2020-november.md#12)|18 de novembro|
 |Capacidades|[Atualizações de APIs do Centro de Parceiros e melhoramentos da interface de utilizador (IU) para fortalecer a filtragem de clientes em determinados países](2020-november.md#11)|17 de novembro|
 |Capacidades|[Alteração da Moeda de Faturação de Parceiros da UE/EFTA para novas ofertas de comércio](2020-november.md#10)|17 de novembro|
