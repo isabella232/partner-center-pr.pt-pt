@@ -2,16 +2,16 @@
 title: Criar e gerir o Private Azure Marketplace no portal Azure
 description: Saiba como criar e gerir o Private Azure Marketplace (pré-visualização) no portal Azure.
 ms.prod: marketplace-customer
-ms.topic: article
+ms.topic: how-to
 author: msjogarrig
 ms.author: jogarrig
 ms.date: 09/18/2020
-ms.openlocfilehash: 1333bb2c8830cec83d7b7f05890af818d5c0ce5b
-ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
+ms.openlocfilehash: f62c9aef13b51ba2db42b267d7620f506bbdc1ec
+ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "94487708"
+ms.lasthandoff: 11/21/2020
+ms.locfileid: "95006944"
 ---
 # <a name="create-and-manage-private-azure-marketplace-preview-in-the-azure-portal"></a>Criar e gerir o Private Azure Marketplace (pré-visualização) no portal Azure
 
@@ -36,9 +36,9 @@ O administrador global inquilino deve atribuir o papel **de administrador do Mar
 Deve cumprir estes pré-requisitos antes de poder atribuir a função de Administrador do Marketplace a um utilizador no âmbito do arrendatário:
 
 - Tem acesso a um utilizador **administrador global.**
-- O arrendatário tem pelo menos uma Subscrição (pode ser qualquer tipo).
-- O utilizador administrador Global é atribuído à função **Contribuinte** ou superior para a subscrição escolhida no passo 2.
-- O utilizador administrador global tem um acesso elevado definido para **Sim** (ver [elevate-access-global-admin).](/azure/role-based-access-control/elevate-access-global-admin)
+- O arrendatário tem pelo menos uma subscrição (pode ser qualquer tipo).
+- O utilizador administrador Global é atribuído à função **Contribuinte** ou superior para a subscrição escolhida.
+- O utilizador administrador global tem um acesso elevado definido para **Sim** (ver [acesso Elevate para gerir todas as subscrições e grupos de gestão do Azure).](/azure/role-based-access-control/elevate-access-global-admin)
 
 ### <a name="assign-the-marketplace-admin-role-with-powershell"></a>Atribuir o papel de administrador do Marketplace com o PowerShell
 
@@ -105,7 +105,6 @@ Write-Output -Message "'$($MarketplaceAdminRoleDefinitionName)' role is availabl
 }
 
 Write-Output -Message "About to assign '$($MarketplaceAdminRoleDefinitionName)' role for $($UsernameToAssignRoleFor)..."
-
 $elevatedAccessOnRoot = Get-AzRoleAssignment | where {$_.RoleDefinitionName -eq "User Access Administrator" -and $_.Scope -eq "/" -and $_.SignInName.Trim().ToLower() -eq $GlobalAdminUsername.Trim().ToLower() } | ft -Property SignInName
 
 if($elevatedAccessOnRoot.Count -eq 0)

@@ -1,19 +1,19 @@
 ---
-title: Integrações de parceiros Azure Marketplace
+title: Integrações de parceiros do Azure Marketplace
 description: Conheça as soluções Azure Marketplace que se integram com o seu ambiente Azure e obtenha link para guias de implementação de parceiros microsoft.
 ms.service: partner-services
 ms.topic: conceptual
-author: dsindona
-ms.author: dsindona
+author: JasonWHowell
+ms.author: jasonh
 ms.date: 11/16/2020
-ms.openlocfilehash: 7c97936e7764361c21503eca174433029707cf69
-ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
+ms.openlocfilehash: b31486000e59f3d85ee30019ecea000252b297a8
+ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "94691695"
+ms.lasthandoff: 11/21/2020
+ms.locfileid: "95006910"
 ---
-# <a name="azure-marketplace-partner-integrations"></a>Integrações de parceiros Azure Marketplace
+# <a name="azure-marketplace-partner-integrations"></a>Integrações de parceiros do Azure Marketplace
 
 Saiba como integrar soluções parceiras no seu ambiente Azure. Este artigo apresenta uma visão geral de cada solução e liga-se a guias de implantação detalhados. As soluções estão listadas por ordem alfabética. 
 
@@ -44,7 +44,7 @@ O Datadog fornece ferramentas de observabilidade e segurança para que os utiliz
 
 Consulte a documentação do [Azure Monitor](/azure/azure-monitor/platform/partners#datadog) para saber mais sobre esta solução e inscreva-se para a pré-visualização pública.
 
-## <a name="next-steps"></a>Passos seguintes
+## <a name="next-steps"></a>Próximos passos
 
 - [Loja online Azure Marketplace](https://azure.microsoft.com/marketplace/)
 - [Microsoft Learn: Criar uma conta Azure](/learn/modules/create-an-azure-account/)
