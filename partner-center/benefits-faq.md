@@ -1,5 +1,5 @@
 ---
-title: Benefícios FAQ
+title: FAQ de Benefícios
 ms.topic: article
 ms.date: 09/08/2020
 description: Respostas a questões sobre a expiração, renovação e ativação de licenças para Azure, cloud, Visual Studio e benefícios técnicos e de suporte
@@ -9,19 +9,19 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOJUNE20
-ms.openlocfilehash: 4af9e87ce02364f32f1aa41deb66d8935f657f40
-ms.sourcegitcommit: 3a9318d0de7a159215cb454295125532134ff8de
+ms.openlocfilehash: 089d358b75d17c409d614ed63e92aee921b1c80f
+ms.sourcegitcommit: e4f870b9070eb3aed49061cc652d124ba0d05b68
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "92529683"
+ms.lasthandoff: 11/23/2020
+ms.locfileid: "95417256"
 ---
-# <a name="benefits-faq"></a>Benefícios FAQ
+# <a name="benefits-faq"></a>FAQ de Benefícios
 
 Aplica-se a:
 
 - Partner Center
-- Centro de Parceiros para Microsoft Cloud para governo dos EUA
+- Centro de Parceiros do Microsoft Cloud for US Government
 
 ## <a name="general-questions"></a>Perguntas gerais
 
@@ -44,7 +44,7 @@ Utilize o seguinte procedimento para renovar os seus benefícios:
 
 1. Inicie sessão no [dashboard do Centro de Parceiros](https://partner.microsoft.com/dashboard/).
 
-2. No navegador esquerdo, selecione **MPN** .
+2. No navegador esquerdo, selecione **MPN**.
 
 3. No separador **MPN,** selecione a opção **Benefícios.**
 
@@ -87,16 +87,16 @@ Pode atribuir subscrições a qualquer pessoa na sua lista de Gestão de Utiliza
 
 1. Inicie sessão no [dashboard do Centro de Parceiros](https://partner.microsoft.com/dashboard/).
 
-2. No navegador esquerdo, selecione **MPN** .
+2. No navegador esquerdo, selecione **MPN**.
 
-3. Selecione **Benefícios** e, em seguida, selecione **Visual Studio** .
+3. Selecione **Benefícios** e, em seguida, selecione **Visual Studio**.
 
 4. Atribua os utilizadores desejados às subscrições do Estúdio Visual existentes disponíveis.
 
 Depois de ter atribuído a subscrição, o utilizador precisa de iniciar sessão no Visual Studio para a gerir.
 
 >[!Note]
-> Um utilizador atribuído a uma subscrição do Visual Studio no Partner Center não pode ser removido até 90 dias após a atribuição original.
+> As subscrições do Visual Studio podem ser transferidas de um assinante para outro após 90 dias de atribuição original
 
 ## <a name="technical-benefits-and-support"></a>Benefícios técnicos e apoio
 
@@ -106,9 +106,9 @@ A instalação, ativação e outras ajudas relacionadas com o produto são forne
 
 1. Inicie sessão no [dashboard do Centro de Parceiros](https://partner.microsoft.com/dashboard/).
 
-2. No navegador esquerdo, selecione **MPN** .
+2. No navegador esquerdo, selecione **MPN**.
 
-3. Selecione **Benefícios** e, em seguida, selecione **Benefícios Técnicos** .
+3. Selecione **Benefícios** e, em seguida, selecione **Benefícios Técnicos**.
 
 4. Utilize a secção benefícios técnicos para ativar e receber um ID de acesso/ID contratual.
 

@@ -9,12 +9,12 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9eb158163bb1a7ea5da0bc834e6bf7623f32a4dd
-ms.sourcegitcommit: 92be474db61cc12f684850c2a7a8a8bdd5c93f97
+ms.openlocfilehash: 61dab9f869d8bb9a26f1317fb1aec3013e915465
+ms.sourcegitcommit: e4f870b9070eb3aed49061cc652d124ba0d05b68
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/05/2020
-ms.locfileid: "93363644"
+ms.lasthandoff: 11/23/2020
+ms.locfileid: "95417273"
 ---
 # <a name="manage-co-sell-opportunities-in-partner-center"></a>Gerir oportunidades de co-venda no Partner Center
 
@@ -100,7 +100,7 @@ Nesta secção, você precisa fornecer as informações relacionadas com as solu
 
 Depois de fornecer as informações da solução, selecione Seguinte para passar para a secção onde pode decidir o tipo de venda. Tem três opções se escolher soluções das três primeiras opções e não uma avaliação de solução:
 
-**Oferta privada** : Se não convidar a Microsoft e criar um compromisso neste passo, será do tipo de oleoduto privado. Os vendedores da Microsoft não terão visibilidade nos detalhes deste negócio.
+**Oferta privada**: Se não convidar a Microsoft e criar um compromisso neste passo, será do tipo de oleoduto privado. Os vendedores da Microsoft não terão visibilidade nos detalhes deste negócio.
 
 > [!Important]
 > O registo de negócios não é aplicável a ofertas privadas. Tenha cuidado ao criar um negócio privado com soluções elegíveis de incentivo, uma vez que não serão elegíveis para o registo de negócios no Partner Center.
@@ -137,7 +137,7 @@ Nesta fase, se recebeu uma nova oportunidade de Co-venda, quer de um vendedor da
 
 - Quando terminar, selecione **Seguinte**. Vamos passar a referência para **a fase seguinte, o** que significa que planeia envolver-se ativamente com o cliente para responder às suas necessidades. Também usaremos esta informação para ajudá-lo a encontrar ofertas semelhantes no futuro.
 
-- **Recusar** : Selecione a razão pela qual está a recusar o negócio e adicione quaisquer notas que queira incluir e, em seguida, selecione **Close deal**. Vamos arquivá-lo como **Recusado** e notificar a Microsoft ou o parceiro que lhe enviou esta oportunidade.
+- **Recusar**: Selecione a razão pela qual está a recusar o negócio e adicione quaisquer notas que queira incluir e, em seguida, selecione **Close deal**. Vamos arquivá-lo como **Recusado** e notificar a Microsoft ou o parceiro que lhe enviou esta oportunidade.
 
 - Se não responder dentro do tempo atribuído (atualmente 14 dias), arquivá-lo-emos como **Expirado** e notificaremos a Microsoft ou o parceiro que lhe enviou esta oportunidade.
 
@@ -214,13 +214,7 @@ Esta é a fase final para todas as oportunidades. Pode ver todos os negócios qu
 
 Não, os acordos não podem ser modificados quando se mudam para um estado terminal. Expirado, declinado, ganho e perdido são estados terminais onde não são possíveis mais atualizações para o negócio. Tenha cuidado quando estiver a mover o negócio para qualquer um destes estados terminais.
 
-**Q2. Recebi uma nova notificação de encaminhamento, mas não a encontrei no Partner Center?**
-
-Isto pode acontecer se a sua empresa tiver vários inquilinos associados à mesma conta MPN. Vá às definições da conta do Partner Center e verifique os inquilinos associados à conta. Em seguida, crie um bilhete de apoio solicitando para ligar os inquilinos. Forneça a identificação do inquilino no qual inscreveu o bilhete de apoio.
-
-:::image type="content" source="images/pscmigration/pctenants.png" alt-text="Imagem mostrando as definições da conta onde a informação do inquilino pode ser encontrada.":::
-
-**Q3. Quem recebe uma notificação de e-mail do Partner Center?**
+**Q2. Quem recebe uma notificação de e-mail do Partner Center?**
 
 O fluxo de trabalho abaixo explica como os e-mails são enviados aos parceiros do sistema de referências do centro parceiro para novas referências de entrada de parceiros.
 
@@ -234,7 +228,7 @@ Aqui ficam algumas dicas para ajudá-lo a obter mais oportunidades de co-venda q
 - **Seja exigente com os acordos que aceita.** Monitorizamos os tipos de ofertas que aceita e recusa e utilizamos estas informações para ajudar a encontrar ofertas semelhantes. Aceitar ofertas que não sejam boas não melhorará os seus resultados de pesquisa e poderá ter impacto na qualidade das oportunidades que recebe.
 - **Informe de volta os tamanhos estimados do negócio, datas de encerramento e o estado final das suas ofertas** (ganhos ou perdidos). Vamos usar esta informação para continuar a fornecer-lhe referências de qualidade.
 
-## <a name="next-steps"></a>Próximos passos
+## <a name="next-steps"></a>Passos seguintes
 
 - [Gerir oportunidades potenciais](manage-leads.md)
 
