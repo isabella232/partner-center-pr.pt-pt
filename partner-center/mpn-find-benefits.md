@@ -1,7 +1,7 @@
 ---
 title: Encontre os seus benefícios
 ms.topic: how-to
-ms.date: 09/02/2020
+ms.date: 11/23/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Saiba como encontrar os seus benefícios MPN no painel de instrumentos partner Center. Inclui informações sobre como encontrar o seu ID de acesso e ID do contrato para benefícios técnicos.
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a7d53da2f83fcd5c85732b24843365717e66429d
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 0162766018087112ebe34c82f29902b3225822b1
+ms.sourcegitcommit: c5e9175792a4e2aac50bfae78fcef18e3cc9922a
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92530590"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "95812828"
 ---
 # <a name="locate-your-microsoft-partner-network-benefits"></a>Localize os seus benefícios do Microsoft Partner Network 
 
@@ -36,7 +36,7 @@ Este artigo diz aos membros da Microsoft Partner Network (MPN) como encontrar os
 
 Como membro da Microsoft Partner Network, a sua empresa tem acesso a muitos benefícios que podem ajudar no crescimento do seu negócio. Para descobrir quais são os benefícios:
 
-1. Inscreva-se no painel de [instrumentos](https://partner.microsoft.com/dashboard/home)Partner Center , selecione **MPN** e, em seguida, selecione **Benefícios** .
+1. Inscreva-se no painel de [instrumentos](https://partner.microsoft.com/dashboard/home)Partner Center , selecione **MPN** e, em seguida, selecione **Benefícios**.
 
 2. A partir de Benefícios, pode rever, ativar, classificar ou baixar os benefícios de interesse pertencentes a uma das categorias disponíveis para si. Para tal, selecione a área de benefícios que pretende saber mais sobre:
 
@@ -68,13 +68,13 @@ Para benefícios técnicos, verá iDs de suporte ao produto da Microsoft, tais c
 
 1. Inicie sessão no [dashboard](https://partner.microsoft.com/dashboard/home) do Centro de Parceiros
 
-2. Selecione **MPN** , em **seguida, Benefícios** , seguido de **benefícios técnicos** .
+2. Selecione **MPN**, em **seguida, Benefícios**, seguido de **benefícios técnicos**.
 
 3. Selecione um benefício da lista. Expanda o benefício para ver mais detalhes. 
 
    Deverá ver o **ID** do Contrato de Apoio ao Produto específico e **o ID de acesso** atribuídos a este benefício.  
 
-   :::image type="content" source="images/benefits/technical-benefits-show-contract-id-access-id.png" alt-text="Benefícios alargados":::
+   :::image type="content" source="images/benefits/technical-benefits-show-contract-id-access-id.png" alt-text="Amostra Gold core benefício técnico de apoio a benefícios técnicos mostrando IDs de suporte ao produto da Microsoft como ID de contrato e ID de acesso":::
 
    > [!NOTE]
    > Acompanhe estas identificações de suporte. Certos sistemas podem pedir-lhes a primeira vez que você (ou um dos utilizadores da sua empresa) regista um pedido de suporte associado a um benefício técnico específico. É provável que todos os utilizadores da sua empresa utilizem o mesmo ID de acesso e ID do Contrato.
@@ -83,7 +83,7 @@ Para benefícios técnicos, verá iDs de suporte ao produto da Microsoft, tais c
 
 Para saber quais os benefícios disponíveis com as competências do Microsoft Action Pack, Silver e/ou Gold, consulte os seguintes recursos:
 
-- [Tabela de licenças para parceiros microsoft Action Pack](https://assetsprod.microsoft.com/mpn/MPN-MAPS-Software-IUR-License-Table.xlsx)
+- [Tabela de licenças para parceiros microsoft Action Pack](https://assetsprod.microsoft.com/en-us/microsoft-action-pack-license-table.pdf)
 
 - [Tabela de licenças para Parceiros de Competência](https://assetsprod.microsoft.com/mpn-maps-software-iur-competency-license-table.docx)
 

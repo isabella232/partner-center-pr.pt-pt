@@ -1,7 +1,7 @@
 ---
 title: Comprar ou renovar ofertas do Microsoft Action Pack
 ms.topic: article
-ms.date: 05/18/2020
+ms.date: 11/23/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Saiba como comprar uma subscrição do Microsoft Action Pack e comece a usar os benefícios do Action Pack. Também aprenda a renovar, cancelar, ver a sua conta, e muito mais.
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 73827cdbf49535d9594fa4951d2abd56bf00a96a
-ms.sourcegitcommit: 81348141eece79492c6f43c84ddac2b98f80428d
+ms.openlocfilehash: 658524b9f916d929fc7e07701ca339d64de95fca
+ms.sourcegitcommit: c5e9175792a4e2aac50bfae78fcef18e3cc9922a
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/07/2020
-ms.locfileid: "92529504"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "95812856"
 ---
 # <a name="buy-or-renew-a-microsoft-action-pack-subscription-or-silver-and-gold-competencies"></a>Comprar ou renovar uma subscrição do Microsoft Action Pack ou competências Silver e Gold
 
@@ -52,7 +52,7 @@ Torne-se um [parceiro de competência.](https://partner.microsoft.com/membership
 ### <a name="check-your-renewal-eligibility"></a>Verifique a sua elegibilidade de renovação
 
 >[!IMPORTANT]
->Se for convidado a renovar a sua subscrição no Centro de Parceiros, por favor, note que mudamos a nossa política de janela de renovação e só poderá renovar a sua subscrição depois de expirar. Por exemplo, se a sua subscrição expirar no dia 22 de junho, pode renová-la a partir de 23 de junho e durante 30 dias depois.       
+>Se for convidado a renovar a sua subscrição no Centro de Parceiros, por favor, note que mudamos a nossa política de janela de renovação e só poderá renovar a sua subscrição depois de expirar. Por exemplo, se a sua subscrição expirar no dia 22 de junho, pode renová-la a partir de 23 de junho e durante 30 dias depois.
 >Pode encontrar a data de validade da sua subscrição na página [**de ofertas de adesão**](https://partnercenter.microsoft.com/pcv/partnership/offers) (inscrição obrigatória). Quando tiver direito a renovação no Centro de Parceiros, siga os passos abaixo.  
 
 ### <a name="to-renew-a-microsoft-action-pack-subscription-in-the-partner-center"></a>Para renovar uma subscrição do Microsoft Action Pack no Partner Center
@@ -64,13 +64,13 @@ Torne-se um [parceiro de competência.](https://partner.microsoft.com/membership
     >[!NOTE]
     >Se **a subscrição renovar** não for apresentada ou estiver acinzentado, ainda não poderá renovar a subscrição do Action Pack. Mudamos a nossa política de renovação da janela e só pode renovar a subscrição depois de expirar. Por exemplo, se a sua subscrição expirar no dia 22 de junho, pode renová-la a partir de 23 de junho e durante 30 dias depois.  
 
-3. Se pagar com cartão de crédito, siga as instruções para adicionar a informação do seu cartão de crédito. Se pagar por transferência bancária eletrónica, forneça um nome de contacto, número de telefone e endereço de e-mail e, em seguida, selecione Enviar por email o artigo Enviar por email o artigo Bancos, em seguida, para poder fazer o pagamento de **um endereço de telefone.** 
-     
+3. Se pagar com cartão de crédito, siga as instruções para adicionar a informação do seu cartão de crédito. Se pagar por transferência bancária eletrónica, forneça um nome de contacto, número de telefone e endereço de e-mail e, em seguida, selecione Enviar por email o artigo Enviar por email o artigo Bancos, em seguida, para poder fazer o pagamento de **um endereço de telefone.**
+
 4. Reveja os detalhes da sua encomenda e, em seguida, **selecione Comprar** quando estiver pronto para comprar o Action Pack. O seu cartão de crédito é cobrado imediatamente.
 
-5. O seu pedido está confirmado. Selecione **Fechar** .
+5. O seu pedido está confirmado. Selecione **Fechar**.
 
-A subscrição do Action Pack renovará automaticamente todos os anos nesta data. Pode desativar a renovação automática a qualquer momento da sua lista de ofertas **adquiridas;** no entanto, não poderá voltar a ligar a renovação automática da subscrição até renovar novamente a sua subscrição. 
+A subscrição do Action Pack renovará automaticamente todos os anos nesta data.
 
 ### <a name="update-your-bill-to-address"></a>Atualize o seu endereço conta-to
 
@@ -80,23 +80,13 @@ No processo de renovação ou compra do Action Pack, tem a oportunidade de valid
   
  1. Na página de perfil do **Parceiro,** atualize o seu endereço.
 
-## <a name="turn-off-automatic-action-pack-subscription-renewal"></a>Desligue a renovação automática de assinaturas do Action Pack
-
-1. Vá à página [**de ofertas de membros.**](https://partnercenter.microsoft.com/pcv/partnership/offers)  Selecione **a subscrição do Microsoft Action Pack** para ver os seus dados de subscrição. 
-
-2. **Selecione Desligue a renovação automática** se não quiser que a subscrição do Action Pack seja renovada automaticamente todos os anos. 
-
-    >[!NOTE]
-    >Se desativar a renovação automática da subscrição, não poderá voltar a ligá-la até renovar novamente a subscrição. Vamos lembrá-lo de renovar antes que a sua assinatura expire.
-
-
 ## <a name="cancel-your-action-pack-subscription"></a>Cancel your Action Pack subscription (Cancelar a subscrição do Action Pack)
 
 Para cancelar a subscrição do Microsoft Action Pack, poderá ter de contactar o Partner Support.
 
 1. Vá à página [**de ofertas de membros.**](https://partnercenter.microsoft.com/pcv/partnership/offers) Selecione **a subscrição do Microsoft Action Pack** para ver os seus dados de subscrição. 
 
-3. Selecione **cancelar a subscrição** . Siga as instruções para criar um pedido de apoio. 
+3. Selecione **cancelar a subscrição**. Siga as instruções para criar um pedido de apoio. 
 
 4. No formulário de pedido de apoio, selecione os seguintes valores para encaminhar corretamente o seu pedido:
 
@@ -106,13 +96,13 @@ Para cancelar a subscrição do Microsoft Action Pack, poderá ter de contactar 
 
 5. Termine de preencher as informações necessárias e, em seguida, **selecione Enviar por isso.** A equipa de Apoio ao Centro de Parceiros entrará em contacto consigo para o ajudar a cancelar a subscrição.
 
-Para verificar o estado do seu pedido de serviço, selecione **os pedidos** do Centro de Parceiros do **Suporte** e, em seguida, selecione **Open** . Escolha o pedido de serviço apropriado da lista.  
+Para verificar o estado do seu pedido de serviço, selecione **os pedidos** do Centro de Parceiros do **Suporte** e, em seguida, selecione **Open**. Escolha o pedido de serviço apropriado da lista.  
 
 ## <a name="download-your-action-pack-invoice"></a>Baixe a sua fatura do Action Pack
 
 1. Vá à página [**de ofertas de membros.**](https://partnercenter.microsoft.com/pcv/partnership/offers) Selecione **a subscrição do Microsoft Action Pack** para ver os seus dados de subscrição. 
 
-3. **Selecione Baixar a fatura** .
+3. **Selecione Baixar a fatura**.
  
 ## <a name="next-steps"></a>Passos seguintes
 

@@ -1,26 +1,26 @@
 ---
 title: Competências - perguntas frequentes
 ms.topic: article
-ms.date: 10/19/2020
+ms.date: 11/23/2020
 description: Respostas a perguntas sobre a obtenção de competências em ouro e prata da Microsoft Partner Network, validade, renovação e ativação de licenças para Azure, cloud, Visual Studio e benefícios técnicos e de suporte
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: bdcb1db0dbeb96a5b732decc11691364ade36c13
-ms.sourcegitcommit: 13248a782fe6854909a2f1ed3eb6d9d0f2cb5a67
+ms.openlocfilehash: 0a20b464c9784b0939ba404019cab007310ad4bd
+ms.sourcegitcommit: c5e9175792a4e2aac50bfae78fcef18e3cc9922a
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/27/2020
-ms.locfileid: "92755275"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "95812825"
 ---
 # <a name="competencies---frequently-asked-questions"></a>Competências - perguntas frequentes
 
 Aplica-se a:
 
 - Partner Center
-- Centro de Parceiros para Microsoft Cloud para governo dos EUA
+- Centro de Parceiros do Microsoft Cloud for US Government
 - Parceiros no programa Microsoft Partner Network (MPN)
 
 Este artigo responde a questões gerais sobre exames, certificações e benefícios de software relacionados com a obtenção de uma competência da Microsoft Partner Network.
@@ -44,7 +44,7 @@ Podem fazê-lo a partir do Partner Center, da seguinte forma:
 
 1. Inscreva-se no painel do Centro [de Parceiros](https://partner.microsoft.com/dashboard).
 
-1. Selecione **MPN** seguido **por Competências** .
+1. Selecione **MPN** seguido **por Competências**.
 
 1. Para o topo da página Competências, localize e selecione a opção **de relatório de competências de descarregamento.**
 
@@ -64,7 +64,7 @@ Veja os relatórios insights da seguinte forma:
 
 ## <a name="q-how-long-does-it-take-to-see-the-latest-user-assessments-in-the-partner-center-user-skills-report"></a>P. Quanto tempo demora a ver as últimas avaliações dos utilizadores no Relatório de Competências do Utilizador do Centro de Parceiros?
 
-A conta da Universidade Partner será associada à conta de utilizador do Partner Center. As avaliações do utilizador aparecerão no Relatório de Competências do Utilizador do Centro de Parceiros dentro de **72 horas** .
+A conta da Universidade Partner será associada à conta de utilizador do Partner Center. As avaliações do utilizador aparecerão no Relatório de Competências do Utilizador do Centro de Parceiros dentro de **72 horas**.
 
 Apenas as competências relevantes para as competências e programas no Centro de Parceiros aparecerão neste relatório. (Algumas competências aposentadas podem também aparecer durante 12 meses ou mais após a sua reforma).
 
@@ -79,7 +79,7 @@ Consulte os seguintes recursos:
 
 - [Baixe](https://assetsprod.microsoft.com/mpn-maps-software-iur-competency-license-table.docx) as tabelas de licenças para parceiros de competência.
 
-- [Descarregue](https://assetsprod.microsoft.com/MPN-MAPS-Software-IUR-License-Table.xlsx) a tabela de licenças para parceiros de subscrição do Microsoft Action Pack.
+- [Descarregue](https://assetsprod.microsoft.com/en-us/microsoft-action-pack-license-table.pdf) a tabela de licenças para parceiros de subscrição do Microsoft Action Pack.
 
 ## <a name="q-how-do-i-link-a-microsoft-certification-profile-id-mcp-id-or-mcid-to-my-microsoft-partner-center-account"></a>P. Como posso ligar um ID do Perfil de Certificação da Microsoft (MCP ou MCID) à minha conta microsoft Partner Center?
 
