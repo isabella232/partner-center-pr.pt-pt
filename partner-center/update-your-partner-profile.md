@@ -7,14 +7,14 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.topic: how-to
 ms.localizationpriority: high
-ms.date: 11/20/2020
+ms.date: 11/23/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e93d7c706c5281d239062a1eb4fa95d5fba92097
-ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
+ms.openlocfilehash: b9b23fc887b754bf4eb1d703026a24e294952f4c
+ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "95007012"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "95514712"
 ---
 # <a name="verify-your-organization-profile-information-in-partner-center"></a>Verifique as informações do seu perfil de organização no Partner Center
 
@@ -53,9 +53,11 @@ Pode agora atualizar o seu endereço legal no Partner Center.
 
 Se, durante a sua migração do Partner Membership Center para Partner Center, o negócio errado foi identificado como o negócio legal, pode alterá-lo para o negócio legal correto.
 
-1. A partir **das definições de Conta,** vá a **Localizações** e certifique-se de que o negócio que pretende, uma vez que o seu negócio legal está na lista. Se não for, pode adicionar. Selecione **Localizar adicionar**. Adicione os detalhes da localização e **Guarde.**
+1. A partir **das definições de Conta,** vá ao **perfil da Organização** e, em seguida, vá para **Legal**.
 
-2. Em seguida, vá ao **perfil da Organização** e selecione Update legal business **profile**.
+1.  Desça até **localizações** e certifique-se de que o negócio que deseja, uma vez que o seu negócio legal está na lista. Se não for, pode adicionar. Selecione **Localizar adicionar**. Adicione os detalhes da localização e **Guarde.**
+
+2. Em seguida, percorra para **atualizar o perfil de negócio legal**.
 
 3. Verá o local que acabou de adicionar. Selecione-o e negócios que pretende utilizar como seu negócio legal e, em seguida, **selecione Save**.
 
@@ -78,7 +80,7 @@ Para atualizar o ID MPN associado à sua conta CSP:
 
 Se você é o administrador global, administrador de faturação ou agente administrativo, pode alterar o endereço que aparece na sua fatura no seu **perfil de pagamento e imposto**. No entanto, não poderá alterar o nome da empresa na fatura devido a uma limitação do sistema de faturas.
 
-## <a name="next-steps"></a>Próximos passos
+## <a name="next-steps"></a>Passos seguintes
 
 
 - [Verifique o seu estado de verificação](verification-responses.md)

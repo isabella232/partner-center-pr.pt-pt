@@ -6,12 +6,12 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: d0db9296157eb4a8f1d7ef7288d438cb39e1c026
-ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
+ms.openlocfilehash: d30678d38326a367b03cd81309c29c5b814a2f17
+ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "95007603"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "95514780"
 ---
 # <a name="azure-marketplace-billing-and-invoicing"></a>Faturação e faturação do Azure Marketplace
 
@@ -57,11 +57,11 @@ Quando recebe a sua fatura varia:
 - Se o seu instrumento de pagamento for o cartão de crédito, será faturado imediatamente após a compra da reserva. Esta fatura será separada da sua fatura mensal.
 - Se o seu instrumento de pagamento for de verificação/fio, esta compra será incluída na sua fatura mensal do Marketplace.
 
-São criadas faturas para as contas de faturação do Microsoft Online Service Program (MOSP), do Contrato de Cliente Microsoft (MCA) e do Contrato de Parceiro da Microsoft (MPA). As faturas geram com base no tipo de conta de faturação. O Azure Marketplace conta-lhe alguns dias após o fim do seu [período de faturação](/azure/cost-management-billing/understand/download-azure-invoice#why-you-might-not-see-an-invoice). A fatura do Azure Marketplace, reservas e VMs spot são geradas por volta do [nono dia do mês.](/azure/cost-management-billing/understand/download-azure-invoice#invoices-for-mosp-billing-accounts) Mostra os respetivos encargos do mês anterior. Por exemplo, se um utilizador comprou uma reserva no dia 1 de março e outra reserva no dia 30 de março, uma única fatura em abril inclui ambas as reservas.
+São criadas faturas para as contas de faturação do Microsoft Online Service Program (MOSP), do Contrato de Cliente Microsoft (MCA) e do Contrato de Parceiro da Microsoft (MPA). As faturas geram com base no tipo de conta de faturação. O Azure Marketplace conta-lhe alguns dias após o fim do seu período de faturação. A fatura do Azure Marketplace, reservas e VMs spot são geradas por volta do [nono dia do mês.](/azure/cost-management-billing/understand/download-azure-invoice#invoices-for-mosp-billing-accounts) Mostra os respetivos encargos do mês anterior. Por exemplo, se um utilizador comprou uma reserva no dia 1 de março e outra reserva no dia 30 de março, uma única fatura em abril inclui ambas as reservas.
 
 Para obter mais informações sobre faturas, consulte [as taxas de serviço externos da Azure.](/azure/cost-management-billing/understand/understand-azure-marketplace-charges)
 
-## <a name="next-steps"></a>Próximos passos
+## <a name="next-steps"></a>Passos seguintes
 
 - [O que é o Azure Marketplace?](azure-marketplace-overview.md)
 - [Compra do Azure Marketplace](azure-purchasing-invoicing.md)

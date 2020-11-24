@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 2b089a666fdb312d49f26be0f9a47da8daad2715
-ms.sourcegitcommit: 7e32544cf91f932cbeb053c9de506ba9ee773fe2
+ms.openlocfilehash: d3057dc50ce1df4e4dbe1d3821904326b452e7cf
+ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "94947703"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "95514746"
 ---
 # <a name="november-2020-announcements"></a>Anúncios de novembro de 2020
 
@@ -23,6 +23,32 @@ Esta página detalha os anúncios para o Microsoft Partner Center para novembro 
 Anúncios de 2020: [abril](2020-april.md)  |  [maio](2020-may.md)  |  [junho julho](2020-june.md)  |  [July](2020-july.md)  |  [agosto](2020-august.md)  |  [September](2020-september.md)  |  [setembro](2020-October.md) Novembro
 
 ______________
+## <a name="introducing-the-ability-to-purchase-saas-offers-with-metered-billing-in-partner-center"></a><a name="14"></a>Introduzindo a capacidade de comprar ofertas saaS com faturação medido no Partner Center 
+
+### <a name="categories"></a>Categorias
+
+- Data: 2020-11-24
+- Capacidades
+
+## <a name="summary"></a>Resumo
+
+A Microsoft está a introduzir a capacidade de os parceiros no programa Cloud Solution Provider comprarem ofertas saaS com faturação medido no Partner Center. 
+
+### <a name="impacted-audience"></a>Audiência impactada
+
+Todos os parceiros
+
+### <a name="details"></a>Detalhes
+
+A Microsoft está a introduzir a capacidade de os parceiros no programa Cloud Solution Provider, incluindo fornecedores indiretos e parceiros de contas diretas, adquirirem ofertas saaS com [faturação medido](https://docs.microsoft.com/azure/marketplace/partner-center-portal/saas-metered-billing)   no Partner Center. Hoje, os parceiros do programa Cloud Solution Provider podem visualizar e [comprar ofertas saaS com faturação medido através do portal Azure.](https://docs.microsoft.com/partner-center/csp-commercial-marketplace-purchase)Esta nova experiência permitirá aos parceiros adquirir estas ofertas através do CSP Marketplace no Partner Center e da API, tal como acontece com outros tipos de oferta SaaS. 
+
+### <a name="next-steps"></a>Passos seguintes
+
+Partilhe esta informação com todos os contactos adequados na sua empresa.
+
+
+
+
 ## <a name="new-unified-account-management-experience"></a><a name="13"></a>Nova experiência de gestão de conta unificada
 
 ### <a name="categories"></a>Categorias
@@ -445,14 +471,14 @@ Com a oferta premium, os clientes têm acesso aos recém-lançados Serviços Ger
 
    |****|**Microsoft Teams Rooms Dispositivo Standard USD15 por mês**|**Microsoft Teams Rooms Dispositivo Premium USD50 por mês**|
    |-------------------|:------|:------|
-   |Skype para Empresas|Yes| |
-   |Microsoft Stream|Yes|Yes|
-   |Sistema telefónico|Yes|Yes|
-   |Conferência sonora|Yes|Yes|
-   |Microsoft Intune|Yes|Yes|
+   |Skype para Empresas|Sim| |
+   |Microsoft Stream|Sim|Sim|
+   |Sistema telefónico|Sim|Sim|
+   |Conferência sonora|Sim|Sim|
+   |Microsoft Intune|Sim|Sim|
    | |Microsoft Teams Rooms Standard USD15 por dispositivo por mês|Microsoft Teams Rooms Premium USD50 por dispositivo por mês|
-   |Microsoft Teams Rooms Managed Services| |Yes|
-   |Disponibilidade mundial|Yes|Em mercados selecionados|
+   |Microsoft Teams Rooms Managed Services| |Sim|
+   |Disponibilidade mundial|Sim|Em mercados selecionados|
 
 #### <a name="microsoft-teams-rooms-managed-services"></a>Microsoft Teams Rooms Managed Services
 
