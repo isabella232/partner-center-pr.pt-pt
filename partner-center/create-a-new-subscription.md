@@ -9,19 +9,19 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.openlocfilehash: 8c3cfc2a6576029a8fdfb902a7b3889b4ea6c628
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 85a40974557817825d58246c2c010c7cf8a6a5e1
+ms.sourcegitcommit: f34f2f69e6df4f260479a205d94010cf47987ff2
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92530008"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "96038885"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Create, suspend, or cancel customer subscriptions (Criar, suspender ou cancelar subscrições de clientes)
 
 **Aplica-se a**
 
 - Partner Center
-- Centro de Parceiros para Microsoft Cloud para governo dos EUA
+- Centro de Parceiros do Microsoft Cloud for US Government
 - Parceiros CSP
 
 **Funções adequadas**
@@ -36,8 +36,8 @@ Depois de ter criado um registo do seu cliente no Partner Center, pode vendê-lo
 
 Algumas ofertas são limitadas a uma subscrição por cliente. Para ver uma lista das ofertas restritas, visite a página de Preços e Ofertas do Centro de Parceiros.
 
-> [!IMPORTANT]
-> Como parceiro no programa CSP, só é possível adquirir assinaturas SaaS **baseadas em licenças** de editores ISV dentro do Partner Center. Isto significa que pode adquirir qualquer oferta saaS **baseada em licença** que o editor ISV tenha disponibilizado para si, incluindo [ofertas exclusivas](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) às quais tenha acesso. Para comprar ou gerir outras ofertas de marketplace comercial a partir de ISVs (por exemplo, ofertas **baseadas em uso,** medidos ou baseados em consumos que envolvam aplicações Azure, Contentores ou VMs), você deve ir ao portal de [gestão Azure.](https://portal.azure.com/) Para mais informações, consulte [Comprar produtos comerciais de mercado.](csp-commercial-marketplace-purchase.md)
+>[!IMPORTANT]
+> Como parceiro no programa CSP, pode adquirir assinaturas SaaS **baseadas em licenças** ou **medidos** a editores da ISV dentro do Partner Center. Isto significa que pode adquirir qualquer oferta SaaS **baseada em licença** ou **medido** que o editor ISV lhe tenha disponibilizado, incluindo [ofertas exclusivas](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) às quais tem acesso. Para comprar ou gerir outras ofertas comerciais de marketplace a partir de ISVs (tais como ofertas baseadas em uso envolvendo aplicações Azure, Contentores ou VMs), você deve ir ao [portal Azure.](https://portal.azure.com/)
 
 ## <a name="create-a-new-subscription"></a>Criar uma nova subscrição
 
@@ -45,12 +45,12 @@ Algumas ofertas são limitadas a uma subscrição por cliente. Para ver uma list
 
 2. No menu Partner Center, selecione **Clientes,** em seguida, escolha um cliente da lista.
 
-3. Selecione **Adicionar subscrição** . O separador **Serviços Online** mostrará todas as ofertas disponíveis do Marketplace SaaS.
+3. Selecione **Adicionar subscrição**. O separador **Serviços Online** mostrará todas as ofertas disponíveis do Marketplace SaaS.
 
 4. Para ver apenas certos tipos de subscrições, faça seleções nos filtros disponíveis:
-   - **Editor** : Escolha a **Microsoft** para ver apenas ofertas da Microsoft, ou **Partner** para ver produtos de mercado comercial publicados por ISVs.
-   - **Tipo de faturação** : Selecione o tipo de faturação de subscrição que pretende utilizar: **Licença** ou **Utilização** . Consulte [a faturação baseada em licença](license-based-billing.md) para obter informações que o ajudarão a decidir entre a frequência de faturação mensal e anual.
-   - **Categoria** : Escolha **Empresa,** **Pequenas empresas,** ou **Trial.** Para obter informações sobre subscrições de teste, consulte [Oferecer aos seus clientes testes de produtos microsoft.](offer-your-customers-trials-of-microsoft-products.md)
+   - **Editor**: Escolha a **Microsoft** para ver apenas ofertas da Microsoft, ou **Partner** para ver produtos de mercado comercial publicados por ISVs.
+   - **Tipo de faturação**: Selecione o tipo de faturação de subscrição que pretende utilizar: **Licença** ou **Utilização**. Consulte [a faturação baseada em licença](license-based-billing.md) para obter informações que o ajudarão a decidir entre a frequência de faturação mensal e anual.
+   - **Categoria**: Escolha **Empresa,** **Pequenas empresas,** ou **Trial.** Para obter informações sobre subscrições de teste, consulte [Oferecer aos seus clientes testes de produtos microsoft.](offer-your-customers-trials-of-microsoft-products.md)
 
 5. Selecione as subscrições de produto que pretende comprar para o seu cliente. Os produtos que vê dependem do tipo de segmento de cliente (educação, governo, etc.) e dos filtros que aplicou. Algumas ofertas apresentadas no Mercado podem nem sempre estar disponíveis para um cliente específico ou um parceiro CSP específico. Isto pode ser porque:
 
@@ -60,17 +60,17 @@ Algumas ofertas são limitadas a uma subscrição por cliente. Para ver uma list
 
    - Para as ofertas isv SaaS, pode haver algumas razões pelas quais a oferta não está disponível para compra: O ISV pode não suportar o país ou região de faturação do cliente; o ISV pode ter optado por não disponibilizar a oferta através do programa CSP; ou, o ISV pode ter feito a oferta [exclusiva](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) a apenas alguns parceiros da CSP. A oferta ISV também pode não ser transacionável através do Partner Center (por exemplo, contentores ou algumas ofertas baseadas em uso).  
 
-6. Para cada subscrição que pretende adicionar, insira o número de licenças (se necessário) e selecione **Adicionar ao carrinho** .
+6. Para cada subscrição que pretende adicionar, insira o número de licenças (se necessário) e selecione **Adicionar ao carrinho**.
 
 7. Quando terminar de adicionar subscrições, selecione **'Rever'** e reveja a sua encomenda.
 
-8. Depois de rever as suas encomendas e estiver pronto para comprar estas subscrições, selecione **Comprar** .
+8. Depois de rever as suas encomendas e estiver pronto para comprar estas subscrições, selecione **Comprar**.
 
 9. Depois de comprar uma subscrição para um cliente, ocorrerá o seguinte:
 
     - Pode rever ou editar a subscrição selecionando o nome de subscrição na página de **Subscrições** desse cliente. A partir daqui, pode selecionar licenças adicionais se alguma estiver disponível, alterar a quantidade de licenças ou suspender a subscrição.
 
-    **Para subscrições ISV SaaS (baseada em licenças):**
+    **Para assinaturas ISV SaaS (baseadas em licenças e contadores):**
     - Receberá um link para o site da editora ISV. Este link deve ajudá-lo a completar a implementação ou configuração da conta da subscrição do cliente.
       
     >[!NOTE]
@@ -112,7 +112,7 @@ Quando altera o estado de uma subscrição de **Suspenso,** os utilizadores não
 
 3. Escolha a subscrição que pretende gerir.
 
-4. Na secção **Estado** , escolha **Suspenso** . Em seguida, **submeta** as alterações.
+4. Na secção **Estado**, escolha **Suspenso**. Em seguida, **submeta** as alterações.
 
 5. Todos os dados serão eliminados a menos que a subscrição seja reativada no prazo de 90 dias, ou 90 dias mais o número de dias entre o momento em que a conta foi aberta e o primeiro período de faturação (máximo de 120 dias).
 
@@ -147,11 +147,11 @@ Para cancelar uma subscrição SaaS com base numa licença num editor do ISV, fa
 
 3. Localize a subscrição que pretende cancelar.
 
-4. Na coluna **'Estado',** **selecione Cancelar** . Em seguida, **submeta** as alterações.
+4. Na coluna **'Estado',** **selecione Cancelar**. Em seguida, **submeta** as alterações.
 
-5. Se aparecer uma caixa de diálogo, preencha os detalhes relevantes e, em seguida, **selecione Enviar por isso** .
+5. Se aparecer uma caixa de diálogo, preencha os detalhes relevantes e, em seguida, **selecione Enviar por isso**.
 
-6. Para confirmar o cancelamento, selecione **Sim, cancele** .
+6. Para confirmar o cancelamento, selecione **Sim, cancele**.
 
 > [!NOTE]
 > Também pode optar por cancelar uma subscrição do Azure Marketplace utilizando APIs. Para tal, consulte [cancelar uma subscrição do Azure Marketplace](/partner-center/develop/cancel-an-azure-marketplace-subscription).
@@ -166,13 +166,13 @@ Para impedir que uma subscrição de mercado comercial ativo renove automaticame
 
 2. No menu Partner Center, selecione **Clientes,** em seguida, escolha um cliente da lista.
 
-3. Selecione **Subscrições** . Isto lista quaisquer subscrições baseadas em licença que tenha comprado para o cliente.
+3. Selecione **Subscrições**. Isto lista quaisquer subscrições baseadas em licença que tenha comprado para o cliente.
 
 4. Na coluna **Subscrição,** selecione a subscrição que pretende modificar.
 
 5. Na página de detalhes da subscrição, localize a secção **'Estado'** e desmarque a caixa **de renovação automática.**
 
-6. Selecione **Submeter** .
+6. Selecione **Submeter**.
 
 ## <a name="next-steps"></a>Passos seguintes
 
@@ -180,4 +180,4 @@ Para impedir que uma subscrição de mercado comercial ativo renove automaticame
 
 - [Gerir produtos de mercado comercial para os seus clientes](csp-commercial-marketplace-manage.md)
 
-- [Visão geral do mercado comercial](csp-commercial-marketplace-overview.md)
+- [Descrição geral do marketplace comercial](csp-commercial-marketplace-overview.md)
