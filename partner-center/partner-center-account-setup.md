@@ -9,18 +9,18 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 81ca02a0fb93f88893e7339d63deec55b6913d9c
-ms.sourcegitcommit: f34f2f69e6df4f260479a205d94010cf47987ff2
+ms.openlocfilehash: 45b924fa9143d1b4947e5b88c2e14c41c4451d19
+ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/25/2020
-ms.locfileid: "96038934"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96439004"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Gerir a sua conta Partner Center - perfil da empresa, informações bancárias, funções, permissões e muito mais
 
-A conta que cria no Centro de Parceiros quando se inscreve é o seu email de trabalho mais as informações do seu negócio. Depois de criar uma conta, terminará a configuração do perfil completo da sua empresa, incluindo detalhes de suporte, isenções de impostos de arquivo, se for caso disso, e informações de contacto primários. A conta da sua empresa também incluirá contas de utilizador para quem utilizar o Partner Center para adicionar ou gerir clientes, vender subscrições, trabalhar com faturação e faturação, criar perfis de negócio, gerir referenciações, trabalhar com programas de incentivos e fornecer apoio.
-
 **Funções apropriadas** - administrador global, administrador mpn
+
+A conta que cria no Centro de Parceiros quando se inscreve é o seu email de trabalho mais as informações do seu negócio. Depois de criar uma conta, terminará a configuração do perfil completo da sua empresa, incluindo detalhes de suporte, isenções de impostos de arquivo, se for caso disso, e informações de contacto primários. A conta da sua empresa também incluirá contas de utilizador para quem utilizar o Partner Center para adicionar ou gerir clientes, vender subscrições, trabalhar com faturação e faturação, criar perfis de negócio, gerir referenciações, trabalhar com programas de incentivos e fornecer apoio.
 
 Ver artigos [Convide os colaboradores a juntarem-se ao Partner Center](guide-to-migration.md) e adicione um novo [utilizador.](create-user-accounts-and-set-permissions.md)
 

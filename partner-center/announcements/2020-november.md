@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: d3057dc50ce1df4e4dbe1d3821904326b452e7cf
-ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
+ms.openlocfilehash: 0c8bf1c31a2662d5dcf65eed40e9c4f82c2ee80b
+ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "95514746"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96439086"
 ---
 # <a name="november-2020-announcements"></a>Anúncios de novembro de 2020
 
@@ -30,7 +30,7 @@ ______________
 - Data: 2020-11-24
 - Capacidades
 
-## <a name="summary"></a>Resumo
+### <a name="summary"></a>Resumo
 
 A Microsoft está a introduzir a capacidade de os parceiros no programa Cloud Solution Provider comprarem ofertas saaS com faturação medido no Partner Center. 
 
@@ -46,8 +46,7 @@ A Microsoft está a introduzir a capacidade de os parceiros no programa Cloud So
 
 Partilhe esta informação com todos os contactos adequados na sua empresa.
 
-
-
+______________
 
 ## <a name="new-unified-account-management-experience"></a><a name="13"></a>Nova experiência de gestão de conta unificada
 
@@ -56,7 +55,7 @@ Partilhe esta informação com todos os contactos adequados na sua empresa.
 - Data: 2020-11-18
 - Capacidades
 
-## <a name="summary"></a>Resumo
+### <a name="summary"></a>Resumo
 
 A partir de 18 de novembro, o Partner Center vai começar a desenvolver a nova experiência de gestão de conta que irá melhorar a experiência do utilizador para os parceiros. Os parceiros poderão agora gerir a sua conta para todos os programas a partir de Definições -> As definições de Conta.
 
@@ -84,8 +83,7 @@ Inscreva-se no painel de instrumentos do Centro de Parceiros e, em seguida, sele
 
 Partilhe esta informação com todos os contactos adequados na sua empresa.
 
-
-
+______________
 
 ## <a name="office-365-e1-for-mid-market-promo-latam-apac-and-india"></a><a name="12"></a>Escritório 365 E1 para promo de mercado médio (LATAM, APAC e Índia)
 
@@ -113,6 +111,7 @@ Isto estará disponível no dia 1 de dezembro - entretanto, por favor, partilhe 
 
 ### <a name="questions"></a>Perguntas?
 Entre em contato com [o suporte do Partner Center](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp) para quaisquer questões, consultas ou informações adicionais.
+
 ______________
 
 ## <a name="partner-center-api-updates-and-user-interface-ui-enhancements-to-strengthen-customer-screening-in-certain-countries"></a><a name="11"></a>Atualizações da API do Partner Center e melhorias da interface do utilizador (UI) para reforçar o rastreio de clientes em determinados países
@@ -254,8 +253,6 @@ Na região da União Europeia (UE)/Associação Europeia de Comércio Livre (EFT
 
 A partir de janeiro de 2021, os parceiros que têm novos clientes que adquiram novas ofertas de comércio serão cobrados para essas compras em moeda de localização parceira. Os parceiros com clientes existentes que já tenham adquirido novas ofertas de comércio na CSP, continuarão a ser faturados na moeda do local de faturação do cliente durante esta fase. 
 
- 
-
 - **Fase 2: Clientes existentes que compraram uma nova oferta de comércio na CSP antes de janeiro de 2021** 
 
 Após a Fase 1 e durante o ano civil de 2021, a Microsoft irá transitar a faturação de novas ofertas de comércio para parceiros com clientes existentes, que compraram uma nova oferta de comércio na CSP antes de janeiro de 2021, desde a moeda de localização do cliente até à moeda de localização do parceiro. Os parceiros serão notificados antecipadamente antes de esta alteração ser implementada.  
@@ -279,6 +276,8 @@ As novas ofertas de comércio em campo para esta mudança são: subscrições Az
 ### <a name="resources"></a>Recursos 
 
 Reveja as informações sobre este tema na [Galeria de Operações], https://partner.microsoft.com/resources/collection/eu-efta-changes-collection#/ no site do parceiro da Microsoft.  
+
+______________
 
 ## <a name="api-throttling-to-partners-calling-partner-center-apis"></a><a name="9"></a>API acelera para parceiros que chamam APIs do Partner Center
 
@@ -310,7 +309,7 @@ O Partner Center é projetado para lidar com um grande volume de pedidos, mas se
 |-------------------------|----------------------------------|
 |{baseURL}/v1/clientes/{customer_id}/subscrições|[Obtenha todas as subscrições de um cliente](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-subscriptions)|  
 |{baseURL}/v1/customers/{customer_id}/subscrições/{subscription_id}|[Obtenha uma subscrição por ID](https://docs.microsoft.com/partner-center/develop/get-a-subscription-by-id) | 
-|{baseURL}/v1/clientes/{customer_id}/encomendas||[Receba todas as encomendas de um cliente](https://docs.microsoft.com/artner-center/develop/get-all-of-a-customer-s-orders)|  
+|{baseURL}/v1/clientes/{customer_id}/encomendas||[Receba todas as encomendas de um cliente](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-orders)|  
 |{baseURL}/v1/customers/{customer_id}/orders/{order_id}|[Obter uma encomenda por ID](https://docs.microsoft.com/partner-center/develop/get-an-order-by-id)|  
 |{baseURL}/v1/customers/{customer_id}/orders/{order_id}/provisioningstatus|[Obtenha o estado de provisionamento de assinatura](https://docs.microsoft.com/partner-center/develop/get-subscription-provisioning-status)|  
 |{baseURL}/v1/customers/{customer_id}/subscrições/{subscription_id}|[Gerir encomendas e gerir uma subscrição](https://docs.microsoft.com/partner-center/develop/manage-orders#manage-a-subscription)| 
@@ -328,7 +327,7 @@ Este anúncio destina-se a proporcionar aos parceiros uma consciência precoce d
 
 Reveja [a orientação de estrangulamento da API](https://docs.microsoft.com/partner-center/develop/api-throttling-guidance)e tome as medidas necessárias. 
 
-
+______________
 
 ## <a name="409-errors-due-to-duplicate-mca-requests"></a><a name="8"></a>409 erros devido a duplicação de pedidos de MCA
 
@@ -365,8 +364,7 @@ Reveja [a orientação de estrangulamento da API](https://docs.microsoft.com/par
 
 - Partilhe esta informação com as equipas apropriadas dentro da sua organização para ajudá-las a prepararem-se para estas mudanças.
 
-
->>>>>>> b9adba1905026516f3b9d15ff488d1c383af219b
+______________
 
 ## <a name="testing-available-partner-center-api-and-user-interface-ui-enhancements-for-the-education-customer-validation-process"></a><a name="7"></a>Testes disponíveis: API do Partner Center e melhorias na interface do utilizador (UI) para o processo de validação do cliente da Educação
 
@@ -405,17 +403,17 @@ Além destas melhorias, estamos entusiasmados por anunciar que no FY21 Q22, vamo
 
 A Microsoft reserva-se o direito de rever o estado de qualquer cliente ou cliente proposto como utilizador educacional qualificado. Consulte os requisitos do [Utilizador académico de educação qualificada](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7) para obter todos os detalhes.
 
-## <a name="next-steps"></a>Passos seguintes
+### <a name="next-steps"></a>Passos seguintes
 
-Reveja as novas alterações do Centro de Parceiros UI e API, bem como o Guia de Testes no processo de validação do [processo de validação](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/) do cliente do Partner Center Education
+- Reveja as novas alterações do Centro de Parceiros UI e API, bem como o Guia de Testes no processo de validação do [processo de validação](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/) do cliente do Partner Center Education
 
-• Inscreva-se para participar nos testes. (Consulte o [Guia de Testes](https://partner.microsoft.com/resources/detail/partner-center-edu-testing-guide-pdf) para mais detalhes.) 
+- Inscreva-se para participar nos testes. (Consulte o [Guia de Testes](https://partner.microsoft.com/resources/detail/partner-center-edu-testing-guide-pdf) para mais detalhes.) 
 
-• Certifique-se de que a sua organização está familiarizada com os requisitos do [Utilizador académico de educação qualificada.](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7) 
+- Certifique-se de que a sua organização está familiarizada com os requisitos do [Utilizador académico de educação qualificada.](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7) 
 
-• Partilhe esta informação com as equipas apropriadas dentro da sua organização, juntamente com os seus revendedores para os ajudar a prepararem-se para estas alterações.
+- Partilhe esta informação com as equipas apropriadas dentro da sua organização, juntamente com os seus revendedores para ajudá-los a prepararem-se para estas mudanças.
 
-
+______________
 
 ## <a name="expanding-commercial-licensing-partner-content-on-the-operations-readiness-gallery"></a><a name="6"></a>Expandir o conteúdo do parceiro de licenciamento comercial na Galeria de Preparação de Operações
 
@@ -483,7 +481,7 @@ Com a oferta premium, os clientes têm acesso aos recém-lançados Serviços Ger
 #### <a name="microsoft-teams-rooms-managed-services"></a>Microsoft Teams Rooms Managed Services
 
 - Gestão proativa: gestão 24x7x365 dos seus sistemas de quartos, incluindo patching, gestão de configuração, e muito mais.
-• Monitorização em tempo real e análise de causas de raiz: Monitorização e deteção com resposta orquestrada de gestão de incidentes impulsionada pela Microsoft em coordenação com o cliente, quando necessário. A aplicação móvel permite-lhe manter-se alerta on-the-go.
+- Monitorização em tempo real e análise de causas de raiz: Monitorização e deteção com resposta orquestrada de gestão de incidentes impulsionada pela Microsoft em coordenação com o cliente, quando necessário. A aplicação móvel permite-lhe manter-se alerta on-the-go.
 - Atualizações geridas: Gestão e entrega de aplicações, atualizações do Windows KB e firmware.
 - Proteção contra ameaças de segurança: Proteção contra ameaças de segurança através da Proteção avançada de ameaças do Microsoft Defender.
 - Suporte ao cliente: suporte de bilhete 24x7x365 através do nosso centro de operações de serviço dedicado com remediação assistida de incidentes para casos não automatizados. Controlo de acesso baseado em funções granular.

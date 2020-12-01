@@ -9,19 +9,19 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 982d4ed310415349acde3d260afce04eb0d55ac5
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: e311af31bbce65ed38c20df12243d325c7a63d04
+ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "92529487"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96438987"
 ---
 # <a name="set-check-or-remove-monthly-azure-spending-budgets-for-customers-in-partner-center"></a>Desconfiem, verifiquem ou removam os orçamentos mensais de gastos da Azure para os clientes no Partner Center
 
 Aplica-se a:
 
 - Partner Center
-- Centro de Parceiros para Microsoft Cloud para governo dos EUA
+- Centro de Parceiros do Microsoft Cloud for US Government
 
 Pode [definir um orçamento mensal de gastos da Azure para os seus clientes](#set-azure-spending-budget) no Partner Center. Isto ajuda os seus clientes a gerir os seus gastos com o Azure. Esta opção permite comparar os gastos do Azure dos seus clientes com o orçamento durante o mês. Também ajuda os seus clientes a orçamentar os seus gastos com o Azure para que a sua fatura mensal não seja maior do que antecipam.
 
@@ -50,7 +50,7 @@ Pode *definir um orçamento mensal de gastos da Azure* para vários clientes no 
 
 1. Inscreva-se no painel do [Centro de Parceiros.](https://partner.microsoft.com/dashboard/)
 
-2. No menu à esquerda em **CSP,** escolha os gastos do **Azure** .
+2. No menu à esquerda em **CSP,** escolha os gastos do **Azure**.
 
 3. Na página de gastos do **Azure,** em **Clientes com subscrições Microsoft Azure,** selecione os clientes(s) para os quais pretende definir um orçamento.
 
@@ -62,11 +62,11 @@ Também pode *definir um orçamento para um cliente individual* nas suas defini�
 
 1. Inscreva-se no painel do Centro de Parceiros.
 
-2. No menu à esquerda em **CSP,** escolha **Clientes** .
+2. No menu à esquerda em **CSP,** escolha **Clientes**.
 
 3. Na página **Clientes,** selecione o **nome da Empresa** do cliente.
 
-4. Na página de **Subscrições** do cliente, na **subscrição baseada em utilização,** escolha **o orçamento change** .
+4. Na página de **Subscrições** do cliente, na **subscrição baseada em utilização,** escolha **o orçamento change**.
 
 5. Insira um valor para o orçamento.
 
@@ -78,11 +78,11 @@ Pode *remover um orçamento mensal de gastos da Azure* para o seu cliente(s) no 
 
 1. Inscreva-se no painel do [Centro de Parceiros.](https://partner.microsoft.com/dashboard/)
 
-2. No menu à esquerda em **CSP,** escolha os gastos do **Azure** .
+2. No menu à esquerda em **CSP,** escolha os gastos do **Azure**.
 
 3. Na página de gastos do **Azure,** em **Clientes com subscrições Microsoft Azure,** selecione os clientes(s) cujo orçamento pretende remover.
 
-4. Escolha **Remover orçamento** .
+4. Escolha **Remover orçamento**.
 
 ## <a name="check-current-azure-spending"></a>Verifique os gastos atuais do Azure
 
@@ -90,7 +90,7 @@ Pode *acompanhar os gastos atuais do Azure e os orçamentos mensais dos seus cli
 
 1. Inscreva-se no painel do [Centro de Parceiros.](https://partner.microsoft.com/dashboard/)
 
-2. No menu à esquerda em **CSP,** escolha os gastos do **Azure** .
+2. No menu à esquerda em **CSP,** escolha os gastos do **Azure**.
 
 3. Na página de gastos do **Azure,** em **Clientes com subscrições microsoft Azure,** pode ver uma visão geral dos orçamentos mensais dos clientes, estimativas de gastos correntes e percentagem de orçamento utilizado.
 
@@ -100,13 +100,18 @@ Pode *ligar notificações por e-mail* para quando os gastos mensais do seu clie
 
 1. Inicie sessão no Centro de Parceiros.
 
-2. No menu à esquerda em **CSP,** escolha os gastos do **Azure** .
+2. Ir para **Definições**.
 
-3. Na página de gastos do **Azure,** em **notificações por e-mail,** altere a definição **de e-mails de Obter** para **On** .
+3. Selecione **as minhas preferências**.
 
-4. Escolha **O endereço de e-mail** para ver o endereço de e-mail para notificações.
+4. Configure um endereço de e-mail preferido se não tiver.
 
-5. Se o endereço de e-mail *não estiver correto,* insira o endereço de e-mail correto e escolha **Atualização** . Se o endereço de e-mail *estiver correto,* escolha **Cancelar** .
+5. Configurar a língua preferida para a notificação.
+
+6. Selecione o separador **CSP** na secção **de preferências de notificação.**
+
+7. Consulte a opção E-mail para obter a notificação de gastos do **Azure** e **guarde**.
+
 
 ## <a name="itemized-costs-by-service"></a>Custos itemados por serviço
 
@@ -114,10 +119,10 @@ Pode *ver os custos (e a utilização estimada) por serviço para subscrições 
 
 1. Inicie sessão no Centro de Parceiros.
 
-2. No menu à esquerda em **CSP,** escolha **Clientes** .
+2. No menu à esquerda em **CSP,** escolha **Clientes**.
 
 3. Na página **Clientes,** selecione o **nome da Empresa** do cliente.
 
-4. Na página de **Subscrições** do cliente, em **subscrições baseadas em uso,** selecione o nome da **Subscrição** .
+4. Na página de **Subscrições** do cliente, em **subscrições baseadas em uso,** selecione o nome da **Subscrição**.
 
 5. Na página da subscrição, pode rever os **custos itemizados** por serviço e a **utilização estimada** para o mês em curso.

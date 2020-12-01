@@ -9,12 +9,12 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: b88d6e11c7f4d56cf58d136a91b530688b3e5413
-ms.sourcegitcommit: fdc32c0afce88f8266f75746ec15bf04745590ad
+ms.openlocfilehash: cb0325aae30fe57a4be2be3e37bca1ee6aa1eab8
+ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/07/2020
-ms.locfileid: "94360076"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96439242"
 ---
 # <a name="locate-important-ids-for-a-user"></a>Localizar iDs importantes para um utilizador
 
@@ -33,7 +33,7 @@ Siga estes passos para localizar o ID do inquilino Azure ou o nome de domínio p
 > [!NOTE]
 > A identificação do inquilino pode ser chamada de nomes diferentes em diferentes aplicações ou recursos. Por exemplo, o ID do inquilino pode ser referido como o ID do diretório, o inquilino do Azure Ative Directory (Azure AD), o Microsoft ID, ou para determinados relatórios, até mesmo o guia do *inquilino.*
 
-1. Inicie sessão no [Portal do Azure](https://portal.azure.com/).
+1. Inicie sessão no [portal do Azure](https://portal.azure.com/).
 
 2. Selecione **Azure Ative Directory** no menu.
 
@@ -53,7 +53,7 @@ Siga estes passos para localizar o ID do inquilino Azure ou o nome de domínio p
 
 Encontrar o nome de domínio e a identificação do inquilino pode nem sempre ser suficiente. Também pode ter de localizar o ID do objeto específico atribuído a um utilizador. Siga estes passos para encontrar o ID do objeto de um utilizador no portal Azure:
 
-1. Inicie sessão no [Portal do Azure](https://portal.azure.com/).
+1. Inicie sessão no [portal do Azure](https://portal.azure.com/).
 
 2. Selecione **Azure Ative Directory** no menu.
 
@@ -78,3 +78,4 @@ Encontrar o nome de domínio e a identificação do inquilino pode nem sempre se
 - [Encontre o seu ID de inquilino programáticamente com PowerShell ou CLI](/azure/active-directory/fundamentals/active-directory-how-to-find-tenant)
 - [Saiba mais sobre os perfis de utilizador no Azure Ative Directory](/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)
 - [Saiba como os parceiros podem ver ou exportar detalhes do cliente no Partner Center](see-your-customer-list.md)
+

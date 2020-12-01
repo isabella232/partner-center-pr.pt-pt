@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/01/2020
-ms.openlocfilehash: 1f73dc184ba38647061bf63dd573d8dc2e088ba3
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: cf83cd6eedf982a416f683fa1767e7afa23200c1
+ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93132999"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96439128"
 ---
 # <a name="april-2020-announcements"></a>Anúncios de abril de 2020
 
@@ -30,8 +30,8 @@ _________________
 
 - Data: 2020-04-30
 - Tipo: Capacidades
-- Estado: Em breve
-- [Saiba mais](https://aka.ms/CSPCOVIDPromo)
+
+
 
 ### <a name="summary"></a>Resumo
 
@@ -49,7 +49,7 @@ No dia 4 de maio de 2020, a Microsoft introduzirá novas promoções de desconto
 Estas promoções substituirão a atual oferta experimental do Office 365 E1 e diferem das seguintes formas:
 
 - Os parceiros irão transacionar anualmente o Office 365 E1 ou o Microsoft 365 Business Basic SKUs aproveitando um CSP Promo que aplica um desconto de 100% nos primeiros 6 meses, em vez de um SKU experimental único de 6 meses. [Saiba mais sobre as promoções da CSP.](../promotions.md)
-- A encomenda será tecnicamente restrita apenas a "novos clientes", em vez do julgamento do Office 365 E1, que se restringia apenas a novos clientes através de uma política escrita. Saiba mais através da revisão [do Microsoft Partner FAQ](https://aka.ms/CSPCOVIDPromo).
+- A encomenda será tecnicamente restrita apenas a "novos clientes", em vez do julgamento do Office 365 E1, que se restringia apenas a novos clientes através de uma política escrita. 
 - Para os clientes SMB, o Microsoft 365 Business Basic será incluído nesta promoção. Isto garante que os parceiros podem iniciar clientes com menos de 300 lugares na família de produtos certos com a Microsoft 365 para negócios.
 Os clientes atualmente licenciados com o ensaio Do Office 365 E1 (disponível até 4 de maio de 2020) permanecerão no seu plano atual – esta alteração só afeta novos clientes líquidos.
 
@@ -58,12 +58,13 @@ Definição de Novos Clientes
 Novos clientes elegíveis para esta promoção são:
 
 1. Novos inquilinos líquidos
-2. Clientes existentes que não tenham uma subscrição paga ou recentemente cancelada (nos últimos 30 dias) no seu inquilino para qualquer um dos produtos definidos no [guia de Perguntas Frequentes (FAQ) do Microsoft Partner .](https://aka.ms/CSPCOVIDPromo)
+2. Clientes existentes que não tenham uma subscrição paga ou recentemente cancelada (nos últimos 30 dias) no seu inquilino para qualquer um dos produtos definidos no guia de Perguntas Frequentes (FAQ) do Microsoft Partner
 
+ 
 ### <a name="additional-resources"></a>Recursos adicionais
 
 - Visite o [Centro de Recursos de Trabalho Remoto do Parceiro](https://www.microsoft.com/microsoft-365/partners/remotework) para saber mais sobre o Trabalho Remoto Seguro.
-- Saiba mais sobre estas alterações nas [FAQ do parceiro relacionado.](https://aka.ms/CSPCOVIDPromo)
+
 
 ### <a name="next-steps"></a>Passos seguintes
 
