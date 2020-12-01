@@ -9,12 +9,12 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/01/2020
-ms.openlocfilehash: 670146b30c953e579cb5a8638cdb820dd8262258
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: a87b6cdde7fb339dd498bfa4834e618c19f504f3
+ms.sourcegitcommit: 32612717e2b62dd307741933afa580a622ef7787
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92530365"
+ms.lasthandoff: 11/30/2020
+ms.locfileid: "96354229"
 ---
 # <a name="get-data-about-how-well-your-customers-and-azure-subscriptions-are-doing"></a>Obtenha dados sobre como os seus clientes e subscrições da Azure estão a correr bem
 
@@ -32,7 +32,7 @@ ms.locfileid: "92530365"
 
 Os dados impulsionam as decisões empresariais. Use as métricas na página de utilização do **Azure** para identificar os seus sucessos e áreas que precisam de mais atenção. Use esta informação enquanto planeia novos objetivos de negócio.
 
-Para chegar à utilização do **Azure,** inscreva-se no [painel partner center](https:/partner.microsoft.com/dashboard). Selecione **Analytics** no menu Partner Center e, em seguida, selecione **a utilização do Azure** .
+Para chegar à utilização do **Azure,** inscreva-se no [painel partner center](https://partner.microsoft.com/dashboard). Selecione **Analytics** no menu Partner Center e, em seguida, selecione **a utilização do Azure**.
 
 > [!NOTE]
 > A azure use analytics está disponível apenas para parceiros no programa Cloud Solution Provider.
@@ -41,9 +41,9 @@ Estamos a seguir as seguintes métricas:
 
 ## <a name="summary"></a>Resumo
 
-- **Total de assinaturas Azure vendidas** : Número de subscrições vendidas no período de tempo especificado  
-- **Clientes com utilização** : Número de clientes com utilização Azure no período de tempo especificado  
-- **Clientes sem utilização** : Número de clientes sem utilização da Azure no período de tempo especificado  
+- **Total de assinaturas Azure vendidas**: Número de subscrições vendidas no período de tempo especificado  
+- **Clientes com utilização**: Número de clientes com utilização Azure no período de tempo especificado  
+- **Clientes sem utilização**: Número de clientes sem utilização da Azure no período de tempo especificado  
 
 ## <a name="top-5-customers-in-category"></a>Top 5 clientes na categoria
 
@@ -59,8 +59,8 @@ Esta secção indica o risco previsto para as subscrições do Azure. Esta infor
 
 ## <a name="azure-subscription-churn"></a>Churn de subscrição Azure
 
-- **Assinaturas ativas** : Contagem de subscrições ativas por data  
-- **Assinaturas desprovisionadas** : Contagem de subscrições desprovisionadas ou suspensas por data  
+- **Assinaturas ativas**: Contagem de subscrições ativas por data  
+- **Assinaturas desprovisionadas**: Contagem de subscrições desprovisionadas ou suspensas por data  
 
 ## <a name="customer-count"></a>Contagem de clientes
 
