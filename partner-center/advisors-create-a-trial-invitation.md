@@ -1,5 +1,5 @@
 ---
-title: Criar um convite para o julgamento do Office 365
+title: Criar um convite para avaliação do Office 365
 ms.topic: article
 ms.date: 04/28/2020
 ms.service: partner-dashboard
@@ -9,19 +9,16 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: db32f3d48089457cb9c49196bcb190ccd4308582
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: e180485a6ee769c911b3d2119869661ea118ccc1
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "92529396"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474160"
 ---
 # <a name="advisors-create-and-send-a-trial-invitation-for-clients-to-try-office-365"></a>Assessoria: Criar e enviar um convite experimental para os clientes experimentarem o Office 365
 
-**Aplica-se a**
 
-- Partner Center
- 
 **Funções adequadas**
 
 - Consultores
@@ -39,15 +36,15 @@ Se estiver certificado para oferecer uma administração delegada, pode adiciona
 
 2. Na página de **convite para o teste** Create, selecione as opções de convite de teste que pretende incluir:
 
-    - **Escritório de sócios** : Se a sua empresa tiver vários escritórios, escolha o escritório que pretende associar a este convite experimental.
+    - **Escritório de sócios**: Se a sua empresa tiver vários escritórios, escolha o escritório que pretende associar a este convite experimental.
 
         Para adicionar localizações de escritórios parceiros, consulte [adicionar uma localização](manage-locations.md). As novas localizações de escritórios podem exigir até 24 horas após a sua criação para aparecerem na lista de escritórios do Parceiro.
 
-    - **Localização de utilização** : Escolha o local onde o seu cliente utilizará os serviços.
-    - **Assinaturas de teste** : A lista de subscrições de teste que pode escolher é determinada pela localização de utilização do país ou região do seu cliente.
-    - **Administração delegada** : Esta opção só está disponível para os parceiros certificados para oferecer uma administração delegada. Escolha esta opção se quiser oferecer ao seu cliente uma administração delegada. Se o fizer, o seu cliente pode aceitar o convite para o julgamento com ou sem aceitação da administração delegada. Para obter mais informações sobre a administração delegada, consulte [a Administração Delegada da Oferta.](customers-revoke-admin-privileges.md)
+    - **Localização de utilização**: Escolha o local onde o seu cliente utilizará os serviços.
+    - **Assinaturas de teste**: A lista de subscrições de teste que pode escolher é determinada pela localização de utilização do país ou região do seu cliente.
+    - **Administração delegada**: Esta opção só está disponível para os parceiros certificados para oferecer uma administração delegada. Escolha esta opção se quiser oferecer ao seu cliente uma administração delegada. Se o fizer, o seu cliente pode aceitar o convite para o julgamento com ou sem aceitação da administração delegada. Para obter mais informações sobre a administração delegada, consulte [a Administração Delegada da Oferta.](customers-revoke-admin-privileges.md)
 
-3. Clique em **Seguinte** .
+3. Clique em **Seguinte**.
 
 4. Na página do **seu convite de teste,** copie as informações do convite de teste e URL e, em seguida, cole-as num e-mail, documento ou numa página web para criar um convite de teste personalizado.
 
@@ -57,3 +54,7 @@ Se estiver certificado para oferecer uma administração delegada, pode adiciona
 5. Personalize a sua mensagem incluindo o logótipo da sua empresa, introdução, comentários finais ou outras informações.
 
 6. Envie o convite do julgamento para o seu cliente.
+
+## <a name="next-steps"></a>Passos seguintes
+
+- [Criar uma oferta de compra](advisor-create-a-purchase-offer.md)

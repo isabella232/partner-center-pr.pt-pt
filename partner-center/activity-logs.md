@@ -9,20 +9,14 @@ author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 43ee23fe23b75946fa960f68fe41f7e490761f5c
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 1eaa7fee628015eb633cac3a2796e371f6046585
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "92529415"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474245"
 ---
 # <a name="view-or-export-customer-activity-logs-for-more-insight-into-customer-transactions"></a>Ver ou exportar registos de atividade do cliente para obter mais informações sobre as transações de clientes
-
-**Aplica-se a**
-
-- Partner Center
-- Centro de Parceiros para Microsoft Cloud para governo dos EUA
-- Parceiros de programas cloud Solution Provider
 
 **Funções adequadas**
 
@@ -33,7 +27,7 @@ ms.locfileid: "92529415"
 - Agente comercial
 - Agente helpdesk
 
-Os registos de atividade fornecem informações sobre transações e ações de gestão de parceiros para os clientes. Os registos de transações fornecem informações detalhadas sobre a transação, incluindo subscrições adquiridas. Também pode exportar registos de atividade para um formato de ficheiro de valor separado por vírgula (.csv) compatível com o Excel.
+Os registos de atividade fornecem informações sobre transações e ações de gestão de parceiros para os clientes. Os registos de transações fornecem informações detalhadas sobre a transação, incluindo subscrições adquiridas. Também pode exportar registos de atividade para um formato de ficheiro de valor separado por vírgula (.csv).
 
 Os registos de atividades fornecem registos de ações do Parceiro nas contas dos clientes e transações de produtos. Também pode exportar registos de atividades para um ficheiro .csv.
 
@@ -51,9 +45,9 @@ Os registos de atividades fornecem registos de ações do Parceiro nas contas do
 
 4. As colunas de dados do registo incluem o seguinte:
    - **Data -data** e hora da ação;
-   - **Cliente afetado** — o nome da empresa do cliente;
-   - **Ação** — a ação tomada pelo cliente como "criou uma referência";
-   - **Utilizador parceiro** — o parceiro associado à atividade.
+   - **Cliente afetado**— o nome da empresa do cliente;
+   - **Ação**— a ação tomada pelo cliente como "criou uma referência";
+   - **Utilizador parceiro**— o parceiro associado à atividade.
 
 5. Selecione **o registo de exportação** para copiar os dados de subscrição do cliente num ficheiro .csv e descarregue-os para a pasta de descarregamento predefinido no seu computador.
 

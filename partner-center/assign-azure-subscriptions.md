@@ -9,28 +9,29 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 02bd7ca573be4b0b61da546f66c6102fbc752c2d
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 8cac2a6edc9199befeae940ed271c3236440c260
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "92529431"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96473956"
 ---
 # <a name="assigning-azure-subscriptions-to-customers-in-partner-center"></a>Atribuir assinaturas Azure a clientes no Partner Center
 
-**Aplica-se a**
+**Funções adequadas**
 
-- Partner Center
+- Administrador global
+- Agente comercial
 
 ## <a name="assign-azure-subscriptions-to-your-customers"></a>Atribuir subscrições da Azure aos seus clientes
 
 1. Selecione **Clientes** do menu **Partner Center** e localize o cliente que pretende gerir.
 
-2. Selecione a seta para baixo no final da linha para expandir o registo do cliente e, em seguida, selecione **o Microsoft Azure Management Portal** . Será direcionado para o [portal Azure](https://portal.azure.com/) onde poderá gerir as subscrições do cliente.
+2. Selecione a seta para baixo no final da linha para expandir o registo do cliente e, em seguida, selecione **o Microsoft Azure Management Portal**. Será direcionado para o [portal Azure](https://portal.azure.com/) onde poderá gerir as subscrições do cliente.
 
-3. A partir do portal Azure, **selecione Subscrições** .
+3. A partir do portal Azure, **selecione Subscrições**.
 
-4. Selecione a subscrição que pretende atribuir e, em seguida, selecione **Access Control** .
+4. Selecione a subscrição que pretende atribuir e, em seguida, selecione **Access Control**.
 
 5. **Selecione Adicionar** um utilizador à subscrição. 
 
@@ -40,7 +41,7 @@ ms.locfileid: "92529431"
 
 Depois de criar uma subscrição do Microsoft Azure para um cliente, pode capacitá-lo a gerir a subscrição. Para isso, terá de iniciar sessão no portal Microsoft Azure Management do cliente. 
 
-1. Para abrir o portal Azure do cliente, expanda a listagem do cliente na sua lista de clientes ou selecione o nome do cliente e, em seguida, selecione o **Portal de Gestão microsoft Azure** .
+1. Para abrir o portal Azure do cliente, expanda a listagem do cliente na sua lista de clientes ou selecione o nome do cliente e, em seguida, selecione o **Portal de Gestão microsoft Azure**.
 
    > [!NOTE]  
    > Se for solicitado a entrar no portal Azure, pode não ter delegado privilégios administrativos. Selecione **Solicite uma relação** para convidar o cliente a identificá-lo como seu Parceiro de Registo. Após o cliente aceitar o seu convite, é-lhe concedido automaticamente privilégios administrativos delegados.

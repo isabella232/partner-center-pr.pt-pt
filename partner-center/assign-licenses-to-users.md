@@ -9,32 +9,27 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fc208283e0ed8c0f164a44cc9bd70260b8671c6e
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.openlocfilehash: fb7906b006540ef939e443a21855488e9d2c36f9
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92530629"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474075"
 ---
 # <a name="manage-users-and-user-licenses-for-customer-accounts"></a>Gerir utilizadores e licenças de utilizador para contas de clientes
-
-**Aplica-se a**
-
-- Partner Center
 
 **Funções adequadas**
 
 - Administrador global
 - Administração de gestão de utilizadores
 - Agente administrativo
-- Agente comercial
-- Agente helpdesk
+
 
 Pode criar e eliminar novos utilizadores na conta de um cliente. Também pode restaurar uma ou mais contas de utilizador que apagou anteriormente no prazo de 30 dias após a eliminação. As atribuições anteriores do utilizador também serão restauradas (assumindo que as dotações anteriores estão disponíveis).
 
 Ao comprar novas subscrições para um cliente, o cliente deve dar-lhe uma lista de todos os utilizadores que precisarão de contas, permissões do utilizador e quais os serviços de que cada utilizador necessita.  
 
-Pode [atribuir subscrições a vários utilizadores de](bulk-license-provisioning-for-multiple-users.md) uma só vez importando os nomes utilizando um [ficheiro de folha de cálculo .csv compatível com o Excel.](adding-multiple-users-to-a-customer-account.md)
+Pode [atribuir subscrições a vários utilizadores de](bulk-license-provisioning-for-multiple-users.md) uma só vez importando os nomes utilizando um [ficheiro de folha de cálculo compatível com Excel .csv](adding-multiple-users-to-a-customer-account.md).
 
 <a href="" id="createuseraccounts"></a>
 
@@ -50,9 +45,9 @@ Pode [atribuir subscrições a vários utilizadores de](bulk-license-provisionin
 
 5. Certifique-se de que regista o nome de utilizador e a palavra-passe temporária para enviar ao utilizador.
 
-6. Se estiver a adicionar vários utilizadores um de cada **vez, utilize outro utilizador** .
+6. Se estiver a adicionar vários utilizadores um de cada **vez, utilize outro utilizador**.
 
-7. Também pode adicionar vários utilizadores de uma só vez [importando um ficheiro de folha de cálculo .csv compatível com Excel.](adding-multiple-users-to-a-customer-account.md) Pode esperar até terminar com todo o conjunto antes de enviar e-mails ou imprimir os nomes e senhas do ecrã de confirmação.
+7. Também pode adicionar vários utilizadores de uma só vez [importando um ficheiro de folha de cálculo compatível com Excel .csv](adding-multiple-users-to-a-customer-account.md). Pode esperar até terminar com todo o conjunto antes de enviar e-mails ou imprimir os nomes e senhas do ecrã de confirmação.
 
 <a href="" id="userlicensing"></a>
 
@@ -68,7 +63,7 @@ As seguintes medidas aplicam-se à adição ou remoção de licenças de utiliza
 
 4. Escolha um ou mais utilizadores da lista. Se, por exemplo, o cliente acaba de adquirir novas licenças e quiser atribuí-las a pessoas que ainda não as têm, pode utilizar os utilizadores do **Filtro por...** opção para encontrar o grupo certo.
 
-5. Selecione **Licenças de Gestão** . Faça as alterações e, em seguida, **Guarde** .
+5. Selecione **Licenças de Gestão**. Faça as alterações e, em seguida, **Guarde**.
 
 > [!NOTE]
 > Para [os produtos Azure Marketplace,](csp-commercial-marketplace-manage.md#assign-licenses-and-activate-a-subscription-on-behalf-of-a-customer)a atribuição e ativação de licenças é gerida através do Fornecedor Independente de Software (ISV) que publicou o produto.
@@ -83,7 +78,7 @@ As seguintes medidas aplicam-se à adição ou remoção de licenças de utiliza
 
 3.  No menu do cliente, selecione **Utilizadores e licenças.** Escolha o utilizador na lista.
 
-4.  Na parte inferior do ecrã, **selecione Redefinir a palavra-passe** . 
+4.  Na parte inferior do ecrã, **selecione Redefinir a palavra-passe**. 
 
 5.  Envie a nova senha temporária para o utilizador.
 
@@ -95,7 +90,7 @@ As seguintes medidas aplicam-se à adição ou remoção de licenças de utiliza
 
 2.  No menu do cliente, selecione **Utilizadores e licenças.** Escolha o utilizador na lista.
 
-3.  Na parte inferior do ecrã, **selecione Eliminar a conta de utilizador** .
+3.  Na parte inferior do ecrã, **selecione Eliminar a conta de utilizador**.
 
 Se precisar de restaurar esta conta, pode encontrá-la no separador **utilizadores eliminados** da lista de **Utilizadores e licenças** do Cliente. Tem 30 dias para restaurar um utilizador apagado.
 
@@ -109,13 +104,13 @@ Se precisar de restaurar esta conta, pode encontrá-la no separador **utilizador
 
 3.  Selecione o separador **utilizadores eliminados ()** Deve ler **(1)** ou mais quando houver utilizadores eliminados que possam ser restaurados.
 
-4.  Selecione uma ou mais das caixas de verificação dos utilizadores eliminados e, em seguida, selecione **Restaurar** .
+4.  Selecione uma ou mais das caixas de verificação dos utilizadores eliminados e, em seguida, selecione **Restaurar**.
 
     Todas as contas de utilizador selecionadas reaparecerão na página **Utilizadores e licenças.**
 
 ## <a name="related-topics"></a>Tópicos relacionados
 
 
-[Assign or revoke licenses to multiple users](bulk-license-provisioning-for-multiple-users.md) (Atribuir ou revogar licenças para vários utilizadores)
+[Assign or revoke licenses to multiple users (Atribuir ou revogar licenças para vários utilizadores)](bulk-license-provisioning-for-multiple-users.md)
 
 [Criar vários utilizadores para uma conta de cliente](adding-multiple-users-to-a-customer-account.md)

@@ -9,19 +9,14 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 53aa25ab0c318efde13788013df09d003b234347
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 7b6c5f1f6d86398ab65e60a498614bfc9f42976e
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92529852"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474228"
 ---
 # <a name="add-licenses-or-more-services-to-a-customers-subscription"></a>Adicionar licenças ou mais serviços à subscrição de um cliente
-
-**Aplica-se a**
-
-- Partner Center
-- Parceiros de programas cloud Solution Provider
 
 **Funções adequadas**
 
@@ -35,7 +30,7 @@ Se o seu cliente precisar de mais licenças do que a subscrição atual fornece,
 
 ## <a name="upgrades-supported-in-the-csp-program"></a>Atualizações suportadas no programa CSP <a id="upgradesubscription"></a>
 
-As seguintes atualizações são suportadas no Cloud Solution Provider:
+As seguintes atualizações são suportadas no programa Cloud Solution Provider:
 
 | Oferta | Possíveis atualizações|
 |---:|:---|
@@ -66,7 +61,7 @@ Para obter mais informações sobre o impacto na faturação, consulte como canc
 
 1. Para ver se uma subscrição é elegível para upgrade, escolha o seu cliente e, em seguida, abra a sua lista de subscrições.
 
-2. Se a subscrição puder ser atualizada, verá um ícone informativo logo após o nome da subscrição. Passe por cima deste ícone e, em seguida, **selecione Upgrade agora** .
+2. Se a subscrição puder ser atualizada, verá um ícone informativo logo após o nome da subscrição. Passe por cima deste ícone e, em seguida, **selecione Upgrade agora**.
 
 3. Selecione a nova oferta e, em seguida, escolha **Enviar por isso.**
 

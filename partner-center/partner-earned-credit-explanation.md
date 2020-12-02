@@ -1,7 +1,7 @@
 ---
 title: Parceiro ganhou crédito por serviços geridos
 ms.topic: article
-ms.date: 05/26/2020
+ms.date: 11/30/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como o parceiro da Microsoft ganhou crédito (PEC) por serviços geridos é calculado e pago e como garantir que é elegível.
@@ -9,14 +9,14 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 89fce612d5756da3f9674d4170ac8c0c3a48abfe
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 97af446c4021e9785833374131eee2f08431b5fe
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92530587"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474313"
 ---
-# <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>Como o parceiro auferido crédito é calculado e pago
+# <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>Como o crédito de parceiro ganho é calculado e pago
 
 **Funções adequadas**
 
@@ -38,7 +38,13 @@ Leia Também [os privilégios de administração da Reinstate para as assinatura
 
 - A PEC está associada ao consumo faturado (a cargo) da propriedade Azure do cliente em CSP gerida pelo parceiro. O PEC é disponibilizado apenas aos parceiros da CSP faturados pela Microsoft (fornecedor indireto e parceiro de conta direta). 
 
-- Serviços elegíveis: O crédito auferido pelo parceiro é aplicável aos serviços enumerados no **plano Azure de preços** de consumo que os parceiros podem exportar a partir da página de preços do plano [Azure.](https://partner.microsoft.com/commerce/sales) O crédito adquirido pelo parceiro não é aplicável a produtos **terceiros identificados** como **Terceiros** na coluna Tags da lista de preços de consumo do plano Azure, reservas do Plano Azure, produtos na lista de preços do Mercado e [Máquinas Virtuais Azure Spot.](https://partner.microsoft.com/resources/collection/azure-spot-in-csp#/)
+- Serviços elegíveis: O crédito auferido pelo parceiro é aplicável aos serviços enumerados no **plano Azure de preços** de consumo que os parceiros podem exportar a partir da página de preços do plano [Azure.](https://partner.microsoft.com/commerce/sales) 
+
+- Serviços não elegíveis: O crédito adquirido pelo parceiro *_não_* é * não aplicável ao seguinte:
+    - Reservas do Plano Azure
+    - Produtos de terceiros identificados como _ *Terceiros** na **coluna Tags** do preço de consumo do plano Azure    
+    - Produtos na tabela de preços do Mercado
+   - [Máquinas virtuais Azure Spot](https://partner.microsoft.com/resources/collection/azure-spot-in-csp#/)
 
 - O PEC é calculado diariamente e pode ser visto no ficheiro de utilização diária e no ficheiro mensal de reconhecimento de fatura. Um parceiro (fornecedor indireto ou revendedor indireto) deve ter acesso durante todo o dia (24x7) para garantir que obtém PEC. O PEC é calculado diariamente com base nos ativos geridos da Azure. O PEC máximo para um determinado período de faturação (Mês) é de 15%. Os parceiros que mantêm o acesso privilegiado persistente ao longo do mês (período de acesso) e para todos os recursos elegíveis (âmbito de acesso) ganharão PEC total de 15%. A redução do âmbito e do alcance resultará numa taxa de PEC mais baixa para o mês. O ficheiro de utilização diária mostra diariamente num ativo Azure se o PEC é aplicado ou não. Os parceiros também podem inscrever-se em alertas para detetar se há alterações no acesso privilegiado persistente.
 
@@ -50,7 +56,7 @@ Leia Também [os privilégios de administração da Reinstate para as assinatura
 
 A Azure Cost Management (ACM) utilizando a Análise de Custos permite-lhe, como parceiro, visualizar os custos que receberam o benefício da PEC.  
 
-1. No [portal Azure,](https://portal.azure.com)inscreva-se no seu inquilino parceiro e selecione **Cost Management + Billing** .
+1. No [portal Azure,](https://portal.azure.com)inscreva-se no seu inquilino parceiro e selecione **Cost Management + Billing**.
 
 2. Selecione **gestão de custos**
 

@@ -9,19 +9,15 @@ author: parthp
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4fabdc52056b4b4bd9fe612dfa2d299a357be213
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 316fee641e321311c13e29a01f2e9091c69e67a6
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "92529404"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474279"
 ---
 # <a name="partner-center-has-two-levels-of-accounts-for-mpn-partners"></a>Partner Center tem dois níveis de contas para parceiros MPN
 
-**Aplica-se a**
-
-- Partner Center
-- Parceiros MPN
 
 **Funções adequadas**
 
@@ -34,7 +30,7 @@ A sua empresa tem dois níveis de contas no Partner Center.
 ## <a name="the-top-level-is-the-partner-global-account-pga"></a>O nível superior é a conta global Partner (PGA).
 
 - A conta global partner contém o endereço de negócio legal e o contacto principal para a sua empresa. 
-- Consulte os detalhes da sua conta global partner a partir do perfil da **Organização de Definições,**  ->  **Organization profile** **Perfil Legal** .
+- Consulte os detalhes da sua conta global partner a partir do perfil da **Organização de Definições,**  ->  **Organization profile** **Perfil Legal**.
 - Os detalhes também conterão o MpN ID de conta global partner. 
 - A PGA é a mãe da sua empresa e não está habituada a associar-se a programas de Incentivos ou Cloud Solution Provider. 
 - As localizações devem ser utilizadas para essas associações.
@@ -44,7 +40,7 @@ A sua empresa tem dois níveis de contas no Partner Center.
 A sua PGA pode ter localizações comerciais adicionais por baixo. Cada local tem a sua própria CONTA DE ID MPN ou De Localização de Parceiros (PLA). Utiliza a localização MPN ID para negócios transacionais e inscrição em programas de incentivo.
 
 - Cada Conta de Localização do Parceiro pode ter o seu próprio endereço legal e contacto primário. As localizações também podem partilhar o endereço legal com a conta global ou com outros locais.
-- Ver a lista de contas **Settings** de localização do parceiro a partir de  ->  **Localizações de Definições** .
+- Ver a lista de contas **Settings** de localização do parceiro a partir de  ->  **Localizações de Definições**.
 - Todas as contas de localização estão no mesmo nível e na conta global do Partner.
 - Os administradores de conta podem adicionar localizações.
 

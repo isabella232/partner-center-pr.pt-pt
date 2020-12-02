@@ -9,18 +9,15 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a36f67609f0e51b0d65d0032610157fc4d81f97e
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 56a8438ad2503ab22151ed4da7e8ef4b43794543
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "92529392"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474143"
 ---
 # <a name="advisors-create-a-purchase-offer"></a>Assessores: Criar uma oferta de compra
 
-**Aplica-se a**
-
-- Partner Center
  
 **Funções adequadas**
 
@@ -42,16 +39,16 @@ Se o seu cliente quiser um número diferente de licenças, envie-lhes uma nova o
 
 2. Na página **'Criar oferta de compra',** selecione as opções de oferta de compra que pretende incluir:
 
-    - **Escritório de parceiros** : Se a sua empresa tiver vários escritórios, escolha o escritório com o qual pretende associar esta oferta de compra.
+    - **Escritório de parceiros**: Se a sua empresa tiver vários escritórios, escolha o escritório com o qual pretende associar esta oferta de compra.
 
         Para adicionar localizações de escritórios parceiros, consulte [adicionar uma localização](manage-locations.md). As novas localizações de escritórios podem exigir até 24 horas após a sua criação para aparecerem na lista de escritórios do **Parceiro.**
 
-    - **Localização de utilização** : Selecione o local onde o seu cliente utilizará os serviços.
-    - **Assinaturas** : A lista de subscrições que pode escolher é determinada pela localização de utilização do país ou região do seu cliente. Verifique a caixa da subscrição ou subscrições que irá oferecer ao seu cliente.
-    - **Contagem de licenças** : Quando selecionar uma subscrição, digite o número de licenças que pretende incluir na oferta de compra.
-    - **Administração delegada** : Esta opção só está disponível para os parceiros certificados para oferecer uma administração delegada. Escolha esta opção se quiser oferecer ao seu cliente uma administração delegada. Se o fizer, o seu cliente pode aceitar a oferta de compra com ou sem aceitação da administração delegada.
+    - **Localização de utilização**: Selecione o local onde o seu cliente utilizará os serviços.
+    - **Assinaturas**: A lista de subscrições que pode escolher é determinada pela localização de utilização do país ou região do seu cliente. Verifique a caixa da subscrição ou subscrições que irá oferecer ao seu cliente.
+    - **Contagem de licenças**: Quando selecionar uma subscrição, digite o número de licenças que pretende incluir na oferta de compra.
+    - **Administração delegada**: Esta opção só está disponível para os parceiros certificados para oferecer uma administração delegada. Escolha esta opção se quiser oferecer ao seu cliente uma administração delegada. Se o fizer, o seu cliente pode aceitar a oferta de compra com ou sem aceitação da administração delegada.
 
-3. Clique em **Seguinte** .
+3. Clique em **Seguinte**.
 
 4. Na página **Enviar,** copie as informações da oferta de compra e URL e, em seguida, cole-as num e-mail, documento ou numa página web para criar uma oferta de compra personalizada.
 
@@ -69,3 +66,7 @@ Se o seu cliente quiser um número diferente de licenças, envie-lhes uma nova o
     - Informe os clientes como contactá-lo com perguntas sobre o serviço ou a oferta.
     - Informe os clientes de que controlam o número de licenças de utilizador adquiridas e podem alterar o número de licenças quando aceitam a oferta.
     - Se oferecer administração delegada, explique o que significa e quais são as suas responsabilidades. Para obter mais informações sobre a administração delegada, consulte [a Administração Delegada da Oferta.](customers-revoke-admin-privileges.md)
+
+## <a name="next-steps"></a>Passos seguintes
+
+- [Construa a sua base de clientes com convites de teste do Office 365 e ofertas de compra](advisors-build-your-business.md)

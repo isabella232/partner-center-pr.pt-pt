@@ -1,25 +1,21 @@
 ---
 title: Incentivos ao pagamento e ao perfil fiscal FAQs
 ms.topic: article
-ms.date: 10/27/2020
+ms.date: 12/01/2020
 description: Muitas vezes se questionam sobre o pagamento de incentivos e perfis fiscais. As perguntas incluem por que não consegue ver o seu pagamento e perfis fiscais e o que fazer acerca disso.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 7fae97fb1a527ab557d76bd3b5fd738315271899
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: d7a5e5ae5fa8bd23c3158efe7c0880f67544f9b9
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93133138"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474330"
 ---
 # <a name="frequently-asked-questions-regarding-incentives-payout-and-tax-profiles"></a>Perguntas frequentes sobre pagamento de incentivos e perfis fiscais
-
-Aplica-se a:
-
-- Partner Center
 
 Funções adequadas:
 
@@ -35,7 +31,7 @@ Para receber pagamentos para programas de incentivo da Microsoft, você precisa 
 
 Todos os parceiros que se inscrevam num novo programa de incentivos devem fornecer pagamentos válidos e detalhes fiscais para completar a inscrição.
 
-Também poderá ter de fornecer informações atualizadas se as regras para o seu programa de incentivos mudarem ou se os aspetos do perfil expirarem ou ficarem desatualizados. Se isso acontecer, a sua página de Visão Geral mostrará o estado de **Ação necessário – Atualizar o perfil bancário e/ou fiscal** .
+Também poderá ter de fornecer informações atualizadas se as regras para o seu programa de incentivos mudarem ou se os aspetos do perfil expirarem ou ficarem desatualizados. Se isso acontecer, a sua página de Visão Geral mostrará o estado de **Ação necessário – Atualizar o perfil bancário e/ou fiscal**.
 
 ## <a name="how-do-i-provide-update-my-payout-and-or-tax-details"></a>Como posso indicar/atualizar os meus dados de pagamento e/ou fiscais?
 
@@ -51,11 +47,11 @@ Utilize o seguinte procedimento para ver os perfis de pagamento e impostos:
 
 1. Inscreva-se no [Painel de Instrumentos do Centro de Parceiros](https://partner.microsoft.com/dashboard).
 
-2. Selecione o ícone de engrenagem para abrir o menu **Definições** .
+2. Selecione o ícone de engrenagem para abrir o menu **Definições**.
 
-3. Selecione **as definições do Parceiro** .
+3. Selecione **as definições do Parceiro**.
 
-4. Em **Definições da conta** , selecione **Pagamento e impostos** e, em seguida, selecione **Perfil de pagamento e perfil fiscal** . Verá todos os perfis de pagamento e perfis fiscais existentes, juntamente com o estado e a opção de edição.
+4. Em **Definições da conta**, selecione **Pagamento e impostos** e, em seguida, selecione **Perfil de pagamento e perfil fiscal**. Verá todos os perfis de pagamento e perfis fiscais existentes, juntamente com o estado e a opção de edição.
 
 ## <a name="my-organization-is-participating-in-multiple-incentive-programs-do-i-need-to-provide-my-payment-and-tax-profile-multiple-times"></a>A minha organização está a participar em vários programas de incentivo. Preciso de fornecer o meu pagamento e o meu perfil de impostos várias vezes?
 
@@ -75,17 +71,19 @@ Se um perfil fiscal estiver caducado ou prestes a expirar, significa que o formu
 
 1. Inicie sessão no [dashboard do Centro de Parceiros](https://partner.microsoft.com/dashboard/).
 
-2. Selecione o ícone de engrenagem para abrir o menu **Definições** .
+2. Selecione o ícone de engrenagem para abrir o menu **Definições**.
 
-3. Em **Definições da conta** , selecione **Pagamento e impostos** e, em seguida, selecione **Perfil de pagamento e perfil fiscal** .
+3. Em **Definições da conta**, selecione **Pagamento e impostos** e, em seguida, selecione **Perfil de pagamento e perfil fiscal**.
 
-4. Selecione **perfil fiscal** .
+4. Selecione **perfil fiscal**.
 
 5. Selecione a coluna **Data de Expiração** e, em seguida, navegue para o perfil fiscal que está expirado ou prestes a expirar.
 
 6. Selecione **Editar** para iniciar o processo de edição de perfil fiscal.
 
-7. Atualizar os formulários fiscais fornecendo os detalhes necessários.
+7. Procure a secção **de formulários fiscais** e, em seguida, selecione **formulário de imposto de lançamento**.
+
+8. Atualizar os formulários fiscais fornecendo os detalhes necessários.
 
 ## <a name="how-does-microsoft-ensure-that-the-bank-information-is-indeed-that-of-the-company-and-not-a-personal-bank-account-for-an-employee"></a>Como é que a Microsoft garante que a informação bancária é, de facto, a da empresa e não uma conta bancária pessoal para um funcionário?
 

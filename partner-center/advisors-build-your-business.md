@@ -1,5 +1,5 @@
 ---
-title: Adicione clientes com ofertas de teste do Office 365
+title: Adicionar clientes com ofertas de avaliação do Office 365
 ms.topic: article
 ms.date: 05/06/2020
 ms.service: partner-dashboard
@@ -9,19 +9,16 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c5631e141f3b232ddfb0afd7dab6acc6a08f59df
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 83acde5e5cb29ea8249bfbba78a15cf3efbdf271
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "92529395"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474177"
 ---
 # <a name="advisors-build-your-client-base-with-office-365-trial-invitations-and-purchase-offers"></a>Assessoria: Construa a sua base de clientes com convites de experimentação do Office 365 e ofertas de compra
 
-**Aplica-se a**
 
-- Partner Center
- 
 **Funções adequadas**
 
 - Consultores
@@ -53,5 +50,7 @@ Depois de enviar um convite experimental aos seus clientes, acompanhe uma oferta
 Ao criar a oferta de compra, é criado um URL personalizado para si. O URL tem um código incorporado que o identifica como o conselheiro de subscrição. Você pode usar este URL para um cliente ou muitos clientes. Envie o URL ao seu cliente num e-mail ou publique-o no seu site.
 
 Se o seu cliente quiser um número diferente de licenças, envie-lhes uma nova oferta ou poderá alterar o número de licenças quando comprar a subscrição.
+
+## <a name="next-steps"></a>Passos seguintes
 
 Para obter mais informações sobre ofertas de compra, consulte [Criar uma oferta de compra.](advisor-create-a-purchase-offer.md)
