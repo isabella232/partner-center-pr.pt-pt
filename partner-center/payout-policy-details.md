@@ -7,12 +7,12 @@ ms.topic: conceptual
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 11/06/2020
-ms.openlocfilehash: cbd849001d128db1912a9bb61ef4c5217a5932ce
-ms.sourcegitcommit: 7e32544cf91f932cbeb053c9de506ba9ee773fe2
+ms.openlocfilehash: bd8153ffd368c1f67b27eaeb44d383409bd59e97
+ms.sourcegitcommit: 2e880efb02a48afc4f234ec27da34519407f87c6
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "94947669"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96513302"
 ---
 # <a name="payout-schedules-and-policy-details"></a>Horários de pagamento e detalhes da política
 
@@ -28,33 +28,37 @@ Quando um cliente compra um produto do Microsoft AppSource ou do Azure Marketpla
 
 Um pagamento ocorrerá frequentemente antes de a Microsoft receber o pagamento do cliente. Consulte [o Processo de não pagamento do cliente](#process-for-customer-non-payment) abaixo para as ações que tomamos se o cliente não pagar à Microsoft, mas já emitimos um pagamento.
 
-| Evento | Descrição | Visibilidade reportando | Timing* |
+| Evento | Description | Visibilidade reportando | Timing* |
 | --- | --- | --- | --- |
-| Utilização ou Mês de Transação | O cliente usa ou compra um serviço. | [Painel de utilização](/azure/marketplace/partner-center-portal/usage-dashboard) ou [ordem](/azure/marketplace/partner-center-portal/orders-dashboard) | **Mês 1** |
-| A Ordem de Compra é criada | Determinar a utilização total, as transações totais | [Painel de utilização](/azure/marketplace/partner-center-portal/usage-dashboard) ou [ordem](/azure/marketplace/partner-center-portal/orders-dashboard) | **Mês 2** |
-| Isv Payout Earning isv é criado | Determinar taxas de agência e ganhos de pagamento | Marcado como não processado no histórico de transações na declaração de [pagamento](payout-statement.md) | **Mês 3 (1ª semana)** |
-| Preparar o Pagamento | Os ganhos estão preparados para o pagamento mensal | Marcado como O Próximo no Histórico de Transações na declaração de [pagamento](payout-statement.md) | **Mês 3 (1ª semana)** |
-| **Data de Pagamento** | **O pagamento é enviado para editor** | **Marcado como Enviado no Histórico de Transações e na secção de Pagamentos da declaração de [pagamento](payout-statement.md)** | **Mês 3 (o mais tardar no dia 15)** |
-| Fatura paga pelo Cliente | Microsoft recolhe pagamento do cliente | Sem alterações | **Mês 4 a 12** |
+| Utilização ou mês de transação | O cliente usa ou compra um serviço. | [Painel de utilização](/azure/marketplace/partner-center-portal/usage-dashboard) ou [ordem](/azure/marketplace/partner-center-portal/orders-dashboard) | **Mês 1** |
+| Microsoft calcula valor de faturação | Determinar a utilização total, as transações totais | [Painel de utilização](/azure/marketplace/partner-center-portal/usage-dashboard) ou [ordem](/azure/marketplace/partner-center-portal/orders-dashboard) | **Mês 2** |
+| Pagamento publicado | Determinar taxas de agência e ganhos de pagamento | Marcado como não processado no histórico de transações na declaração de [pagamento](payout-statement.md) | **Mês 3 (1ª semana)** |
+| Preparar o pagamento | Os ganhos estão preparados para o pagamento mensal | Marcado como O Próximo no Histórico de Transações na declaração de [pagamento](payout-statement.md) | **Mês 3 (1ª semana)** |
+| **Pagamento enviado** | **O pagamento é enviado para editor** | **Marcado como Enviado no Histórico de Transações e na secção de Pagamentos da declaração de [pagamento](payout-statement.md)** | **Mês 3 (o mais tardar no dia 15)** |
+| Fatura paga pelo cliente | Microsoft recolhe pagamento do cliente | Sem alterações | **Mês 4 a 12** |
 |
 
 \* A data de pagamento está na Hora Padrão do Pacífico (PST).
 
-### <a name="customers-who-pay-using-credit-card-or-invoice"></a>Clientes que pagam com cartão de crédito ou fatura
+:::image type="content" source="images/payouts/timeline-enterprise.png" alt-text="Cronologia dos pagamentos para clientes de acordos empresariais.":::
+
+### <a name="transactions-with-credit-card-or-invoice-checkwire"></a>Transações com cartão de crédito ou fatura (cheque/fio)
 
 Todas as compras com cartão de crédito ou fatura mensal têm um período de detenção de 30 dias para garantir que os fundos são recolhidos junto do cliente.
 
-| Evento | Descrição | Visibilidade reportando | Timing* |
+| Evento | Description | Visibilidade reportando | Timing* |
 | --- | --- | --- | --- |
-| Utilização ou Mês de Transação | O cliente usa ou compra um serviço. | [Painel de utilização](/azure/marketplace/partner-center-portal/usage-dashboard) ou [ordem](/azure/marketplace/partner-center-portal/orders-dashboard) | **Mês 1** |
-| Fatura paga pelo Cliente | Determine o uso total, o valor total da transação e a fatura do cliente | [Painel de utilização](/azure/marketplace/partner-center-portal/usage-dashboard) ou [ordem](/azure/marketplace/partner-center-portal/orders-dashboard) | **Mês 2** |
-| Isv Payout Earning isv é criado | Determinar taxas de agência e ganhos de pagamento | Marcado como não processado no histórico de transações na declaração de [pagamento](payout-statement.md) | **Mês 2** |
-| Período de detenção de 30 dias | Garantir a recolha de fundos, possíveis pedidos de reembolso e reembolso | Marcado como não processado no histórico de transações na declaração de [pagamento](payout-statement.md) | **3 mês** |
-| Preparar o Pagamento | Os ganhos estão preparados para o pagamento mensal | Marcado como O Próximo no Histórico de Transações na declaração de [pagamento](payout-statement.md) | **Mês 4 (1ª semana)** |
-| **Data de Pagamento** | **O pagamento é enviado para editor** | **Marcado como Enviado no Histórico de Transações e na secção de Pagamentos da declaração de [pagamento](payout-statement.md)** | **Mês 4 (o mais tardar no dia 15)** |
+| Utilização ou mês de transação | O cliente usa ou compra um serviço. | [Painel de utilização](/azure/marketplace/partner-center-portal/usage-dashboard) ou [ordem](/azure/marketplace/partner-center-portal/orders-dashboard) | **Mês 1** |
+| Fatura paga pelo cliente | Determine o uso total, o valor total da transação e a fatura do cliente | [Painel de utilização](/azure/marketplace/partner-center-portal/usage-dashboard) ou [ordem](/azure/marketplace/partner-center-portal/orders-dashboard) | **Mês 2** |
+| Pagamento publicado | Determinar taxas de agência e ganhos de pagamento | Marcado como não processado no histórico de transações na declaração de [pagamento](payout-statement.md) | **Mês 2** |
+| Período de exploração de 30 dias | Garantir a recolha de fundos, possíveis encargos e pedidos de reembolso | Marcado como não processado no histórico de transações na declaração de [pagamento](payout-statement.md) | **3 mês** |
+| Preparar o pagamento | Os ganhos estão preparados para o pagamento mensal | Marcado como O Próximo no Histórico de Transações na declaração de [pagamento](payout-statement.md) | **Mês 4 (1ª semana)** |
+| **Pagamento enviado** | **O pagamento é enviado para editor** | **Marcado como Enviado no Histórico de Transações e na secção de Pagamentos da declaração de [pagamento](payout-statement.md)** | **Mês 4 (o mais tardar no dia 15)** |
 |
 
 \* A data de pagamento é na Hora Padrão do Pacífico (PST).
+
+:::image type="content" source="images/payouts/timeline-credit-card-invoice.png" alt-text="Cronologia dos pagamentos para clientes com cartão de crédito e fatura.":::
 
 ## <a name="process-for-customer-non-payment"></a>Processo de não pagamento de clientes
 
