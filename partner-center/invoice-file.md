@@ -2,17 +2,17 @@
 title: Compreender faturas de faturação do Partner Center
 ms.topic: article
 ms.date: 05/18/2020
-description: Compreenda os campos no seu ficheiro de fatura para a faturação do Partner Center.A informação inclui campos e definições para todos os campos de fatura e campos de carregamento único.
+description: Compreenda os campos no seu ficheiro de fatura para a faturação do Partner Center. Incluem-se campos e definições para todos os campos de fatura e campos de carregamento único.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 121b0bc756e715af358eda30eff92cba35e802ed
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.openlocfilehash: 3e9eb392279c0a09b5e30395b38ab7030bfa87d4
+ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92530641"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96556298"
 ---
 # <a name="understand-partner-center-billing-invoice-fields"></a>Compreenda os campos de faturação do Partner Center
 

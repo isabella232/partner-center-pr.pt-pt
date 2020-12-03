@@ -1,6 +1,6 @@
 ---
 title: Encontre o papel que lhe foi atribuído
-description: Saiba onde ir no Partner Center para encontrar o seu papel e permissões.
+description: Saiba onde ir no Partner Center para encontrar o papel que lhe foi atribuído, as suas permissões e o seu administrador global.
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.date: 10/12/2020
-ms.openlocfilehash: e382509ae11797d81b5b56b3f1c58e7b1ebafee2
-ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
+ms.openlocfilehash: 4f4a36bbe5021b6c73025e14bf3f608bd6a269e8
+ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "92530245"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96556281"
 ---
 # <a name="find-your-role-your-permissions-and-your-global-admin"></a>Encontre o seu papel, as suas permissões e o seu administrador global
 
@@ -31,7 +31,7 @@ Se o seu administrador global não lhe disser, pode descobrir qual o papel que t
 
 1. Inscreva-se no [painel partner center](https://partner.microsoft.com/dashboard/home).
 
-1. Selecione o ícone **de definições de definições de conta** e, em seguida, selecione O meu **perfil** .
+1. Selecione o ícone **de definições de definições de conta** e, em seguida, selecione O meu **perfil**.
  
 1. Selecione o **separador Funções e permissões.** Verá os seus papéis e permissões.
  
@@ -44,7 +44,7 @@ Por vezes, um utilizador pode precisar de alterar o seu papel ou um novo utiliza
 
 Para encontrar um administrador global que possa fazer alterações de funções ou atribuir funções a um novo utilizador: 
 
-1. A partir do **ícone de definições de conta** no topo direito do Centro de Parceiros, selecione a **gestão do Utilizador** .
+1. A partir do **ícone de definições de conta** no topo direito do Centro de Parceiros, selecione a **gestão do Utilizador**.
 
 1. Filtro na administração global
 

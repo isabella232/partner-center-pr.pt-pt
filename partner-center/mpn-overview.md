@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 10/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Conheça os benefícios da Microsoft Partner Network (MPN), incluindo o Microsoft Action Pack, competências e opções de programa para ir ao mercado e vender as suas soluções.
+description: Conheça os benefícios da Microsoft Partner Network (MPN), como o Microsoft Action Pack, competências ou opções de programa para ir ao mercado e vender as suas soluções.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0678a7f59620c951fc7595f0ff7437d64a433a05
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.openlocfilehash: 4a3b00db6b48d95da58cdc130832ba5dc1ab990f
+ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92530626"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96556383"
 ---
 # <a name="partner-with-microsoft-and-discover-membership-benefits"></a>Parceria com a Microsoft e descubra benefícios de adesão
 
@@ -31,7 +31,7 @@ Quando te juntas a um programa de parceiros da Microsoft, tornas-te parte de uma
 
 ## <a name="join-the-microsoft-partner-network"></a>Junte-se à Rede de Parceiros da Microsoft
 
-Para aderir à Rede de Parceiros da Microsoft, aceda à página [ **de Adesão**](https://partner.microsoft.com/membership) no site da MPN e selecione **Matricular-se** ou **Juntar-se agora** .
+Para aderir à Rede de Parceiros da Microsoft, aceda à página [ **de Adesão**](https://partner.microsoft.com/membership) no site da MPN e selecione **Matricular-se** ou **Juntar-se agora**.
 
 ## <a name="action-pack"></a>Action Pack
 

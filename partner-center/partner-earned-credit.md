@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Saiba como o crédito ganho por parceiros (PEC) oferece preços uniformes simplificados Azure, fornece serviços geridos de valor acrescentado e ajuda a eliminar a concorrência nas margens.
+description: Saiba como o crédito ganho por parceiros (PEC) oferece preços uniformes simplificados E serviços geridos de valor acrescentado, ajudando a eliminar a concorrência nas margens.
 author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 45a9e4eb4a2e2ddb3419a2c8b1342725964ec39a
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 464a277cc62f8b3349e8f7957106b902081eded8
+ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "92529583"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96556400"
 ---
 # <a name="partner-earned-credit---an-overview-of-how-it-works-in-the-new-commerce-experience-in-csp"></a>Partner earned credit - uma visão geral de como funciona na nova experiência de comércio na CSP
 
@@ -51,7 +51,7 @@ Estes serviços exigem que um parceiro esteja muito familiarizado com o ambiente
 
 Os seus clientes procuram-lhe ajuda-los a tirar o máximo partido dos seus negócios hospedados em Azure. Com serviços geridos, pode fornecer regularmente aos seus clientes um serviço de luva branca. Algumas das operações do dia-a-dia e suporte que pode fornecer incluem:
 
-- **Operações na nuvem e serviços de gestão** : Os clientes procuram os parceiros da Microsoft para reduzir os custos no Azure enquanto reproduzem os modelos de isolamento, segurança e auditoria que têm hoje. Esperam também que os parceiros tenham acesso a ferramentas maduras para identificar a adequação da carga de trabalho, bem como a implantação única e os custos operacionais em curso da Azure. Além disso, os clientes precisam de apoio para automação e orquestração, atualizações de remendação, gestão de configuração, backup e recuperação de desastres, e gestão de identidade. 
+- **Operações na nuvem e serviços de gestão**: Os clientes procuram os parceiros da Microsoft para reduzir os custos no Azure enquanto reproduzem os modelos de isolamento, segurança e auditoria que têm hoje. Esperam também que os parceiros tenham acesso a ferramentas maduras para identificar a adequação da carga de trabalho, bem como a implantação única e os custos operacionais em curso da Azure. Além disso, os clientes precisam de apoio para automação e orquestração, atualizações de remendação, gestão de configuração, backup e recuperação de desastres, e gestão de identidade. 
 
 - **Monitorização em** nuvem e suporte técnico : Num mundo de consumo em nuvem, as ferramentas e requisitos evoluíram, mas a preocupação de encontrar o recurso certo para gerir a infraestrutura de TI não mudou. A maioria das organizações simplesmente não tem o tempo, recursos ou pessoal dedicado necessário para monitorizar todos os aspetos das TI, e é aqui que você, como parceiro de confiança, acrescenta mais valor. Enquanto a Azure oferece muitos parceiros de capacidades de monitorização incorporadas que fornecem ferramentas de monitorização adicionais e mais profundas, triagem os falsos positivos dos alertas reais, e agir proativamente sobre os alertas antes de qualquer perda mensurável no desempenho. 
 
@@ -75,6 +75,6 @@ Estes serviços implicam um nível adequado de acesso dos parceiros ao ambiente 
 
 ## <a name="next-steps"></a>Passos seguintes
 
-- [Como o parceiro auferido crédito é calculado e pago](partner-earned-credit-explanation.md)
+- [Como o crédito de parceiro ganho é calculado e pago](partner-earned-credit-explanation.md)
 - [Manage subscriptions and resources under the Azure plan](azure-plan-manage.md) (Gerir subscrições e recursos ao abrigo do plano do Azure)
 - [Tabela de preços para a nova experiência de comércio Azure na CSP](azure-plan-price-list.md)

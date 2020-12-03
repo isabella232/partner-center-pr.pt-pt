@@ -1,20 +1,20 @@
 ---
-title: Cálculo efetivo dos preços unitários
+title: Cálculo efetivo do preço por unidade
 ms.topic: how-to
 ms.date: 11/10/2020
-description: Saiba mais sobre a unidade de preço e como é calculada. Inclui um cálculo de amostra.
+description: Saiba mais sobre o preço unitário eficaz e como é calculado. Este artigo também inclui um cálculo de amostra.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7b65a79232656af6ddb69fede7a9ee35fe426a9d
-ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
+ms.openlocfilehash: 6ca6e9bf6a49e695314a3e33e36d2d1d5d4d2a25
+ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "94499147"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96556332"
 ---
 # <a name="effective-unit-price-calculation-for-azure-plan-consumption"></a>Cálculo efetivo dos preços unitários para o consumo do plano Azure
 
@@ -35,7 +35,7 @@ Como monitorizamos o consumo diariamente ao longo do ciclo de faturação, o pre
 Se não sabe se o seu contador utiliza preços hierárquicos, use o procedimento abaixo para saber. 
 
 1. Inicie sessão no [dashboard do Centro de Parceiros](https://partner.microsoft.com/dashboard/).
-2. Selecione **Vender,** **selecione Preços e ofertas** , e, em seguida, selecione **preços do plano Azure**.
+2. Selecione **Vender,** **selecione Preços e ofertas**, e, em seguida, selecione **preços do plano Azure**.
 3. Localize o seu medidor por ID e, em seguida, descarregue os seus dados de preços. 
 
 ## <a name="sample-calculation"></a>Cálculo da amostra

@@ -1,6 +1,6 @@
 ---
-title: Conecte-se com os seus clientes
-description: Saiba como conectar-se com clientes novos e existentes como revendedor indireto
+title: Ligar-se aos seus clientes
+description: Se for um revendedor indireto no programa CSP, este artigo irá ajudá-lo a conectar-se com os seus novos e já existentes clientes.
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,14 +9,14 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.date: 10/12/2020
-ms.openlocfilehash: dc0d5af728b5e17bc8070fae9c895adc2bf8db4c
-ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
+ms.openlocfilehash: cb8a3403968ddf5c83c7fdbd1d1af6f6f740d1ff
+ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "92530257"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96556315"
 ---
-# <a name="connect-with-customers"></a>Conecte-se com os clientes
+# <a name="connect-with-customers"></a>Ligar-se a clientes
 
 **Aplica-se a:**
 
@@ -38,7 +38,7 @@ Quando se conecta com um fornecedor indireto, não ganha automaticamente cliente
 
 ## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Convide um cliente a estabelecer uma relação de revendedor consigo
 
-1. Selecione **Clientes** no menu **Partner Center** e, em seguida, selecione **Solicite uma relação de revendedor** .
+1. Selecione **Clientes** no menu **Partner Center** e, em seguida, selecione **Solicite uma relação de revendedor**.
 
 2. Na página seguinte, analise a mensagem de e-mail de rascunho. Pode abrir a mensagem de rascunho por e-mail ou pode copiar a mensagem para a sua área de transferência e colá-la num e-mail.
 
@@ -64,7 +64,7 @@ Para obter permissões de administrador para gerir as subscrições e serviços 
 
 ## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you-and-your-indirect-provider-at-the-same-time"></a>Convide um cliente a estabelecer uma relação de revendedor consigo e com o seu fornecedor indireto ao mesmo tempo
 
-1. Selecione **fornecedores indiretos** do **menu Partner Center** .
+1. Selecione **fornecedores indiretos** do **menu Partner Center**.
 
 2. Selecione **Convidar novos clientes** a convidar um cliente a estabelecer uma relação de revendedor tanto consigo como com o fornecedor indireto ao mesmo tempo. O fornecedor precisa de ter uma relação de revendedor com o seu cliente para que possa submeter encomendas em nome do seu cliente quando o cliente quiser comprar novas subscrições ou adicionar novas licenças às subscrições existentes.
 
@@ -82,9 +82,9 @@ Para remover a relação com um cliente, complete os passos abaixo:
 
 1.  A partir do Partner Center, vá aos **Clientes** e selecione o cliente cuja relação pretende remover.
 
-2.  Selecione a **Conta** .
+2.  Selecione a **Conta**.
 
-3.  **Selecione Remover a relação com o cliente** .
+3.  **Selecione Remover a relação com o cliente**.
 
 4.  O cliente deixará de aparecer na lista de clientes.
 
@@ -95,4 +95,4 @@ Para remover a relação com um cliente, complete os passos abaixo:
 
 ## <a name="next-steps"></a>Passos seguintes
 
-- [Adicione um novo cliente](add-a-new-customer.md)
+- [Adicionar um novo cliente](add-a-new-customer.md)
