@@ -9,18 +9,14 @@ ms.author: vinayks
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
 ms.date: 11/25/2019
-ms.openlocfilehash: 2cc30c3681f0310f738ed937c15e0142b20cdc4c
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: bc837db5a9dbcf92fbfead54b552695a218ae675
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92529832"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534799"
 ---
 # <a name="create-a-work-account-that-links-your-company-to-your-partner-center-account"></a>Crie uma conta de trabalho que ligue a sua empresa à sua conta Partner Center
-
-**Aplica-se a**
-
-- Partner Center
 
 **Funções adequadas**
 
@@ -44,7 +40,7 @@ Se tiver mais do que um endereço de e-mail válido, use o que está associado �
 
 Se não tem certeza se a sua empresa tem uma conta de trabalho, siga estes passos para verificar. Se tiver uma subscrição ativa do Microsoft Azure ou do Office 365, já tem uma conta de trabalho.
 
-1. Inicie sessão no [Portal do Azure](https://portal.azure.com).
+1. Inicie sessão no [portal do Azure](https://portal.azure.com).
 
 2. Selecione Azure Ative Directory no menu e, em seguida, selecione Nomes de Domínio.
 
@@ -71,3 +67,8 @@ Ao comprar uma subscrição da Azure, está essencialmente a alugar um espaço d
 Uma conta de trabalho Azure é uma representação virtual dedicada e isolada da sua empresa na nuvem pública Azure, criada para si quando subscreve um serviço de cloud da Microsoft como Azure, Microsoft Intune ou Office 365.
 
 A sua conta de trabalho acolhe os seus utilizadores AZure AD e as informações sobre eles - as suas palavras-passe, dados de perfil, permissões, e assim por diante. A conta de trabalho contém também grupos, aplicações e outras informações relativas a uma empresa e à sua segurança.
+
+## <a name="next-steps"></a>Passos seguintes
+
+- [Manage your Partner Center account](partner-center-account-setup.md) (Gerir a conta do Partner Center)
+- [Estado de verificação da faixa](verification-responses.md)

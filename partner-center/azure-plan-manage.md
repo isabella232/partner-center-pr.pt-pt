@@ -9,16 +9,21 @@ author: amitravat
 ms.author: amrava
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4bbeb417fdc5964d66f754a789873c1dbc8b1d25
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 31e9c6862a5aa19407fa6da5e15333bb7e696720
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92530047"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534935"
 ---
 # <a name="manage-subscriptions-and-resources-under-the-azure-plan"></a>Manage subscriptions and resources under the Azure plan (Gerir subscrições e recursos ao abrigo do plano do Azure)
 
-Quando transita um cliente para o plano Azure, é-lhe atribuído direitos de administração privilegiados em Azure (direitos de proprietário de subscrição através de administração em nome de) por padrão.
+**Funções adequadas**
+
+- Agente administrativo
+
+
+Este artigo explica como os parceiros da CSP podem usar diferentes opções de controlo de acesso baseado em funções (RBAC) para obter controlo operacional e gestão dos recursos Azure de um cliente. Quando transita um cliente para o plano Azure, é-lhe atribuído direitos de administração privilegiados em Azure (direitos de proprietário de subscrição através de administração em nome de) por padrão.
 
  > [!NOTE]
  > Os direitos de administração da subscrição Azure podem ser removidos pelo cliente a um nível de subscrição, grupo de recursos ou carga de trabalho. 
@@ -27,9 +32,9 @@ Quando transita um cliente para o plano Azure, é-lhe atribuído direitos de adm
 
 - **Administrador em Nome de (AOBO)** - Com [a AOBO,](https://channel9.msdn.com/Series/cspdev/Module-11-Admin-On-Behalf-Of-AOBO)qualquer utilizador com o papel de Agente Administrador no inquilino parceiro terá acesso ao proprietário do RBAC às subscrições Azure que cria através do programa CSP.
 
-- **Farol Azure** : A AOBO não permite a flexibilidade para criar grupos distintos que trabalham com diferentes clientes, ou para permitir diferentes funções para grupos ou utilizadores. Utilizando o Farol Azure, pode atribuir diferentes grupos a diferentes clientes ou funções. Uma vez que os utilizadores terão o nível de acesso adequado através da gestão de recursos delegados do Azure, pode reduzir o número de utilizadores que têm a função de Agente Administrador (e assim ter acesso total ao AOBO). Isto ajuda a melhorar a segurança limitando o acesso desnecessário aos recursos dos seus clientes. Também lhe dá mais flexibilidade para gerir vários clientes em escala. Para mais informações, leia [o Farol Azure e o programa Cloud Solution Provider](/azure/lighthouse/concepts/cloud-solution-provider).
+- **Farol Azure**: A AOBO não permite a flexibilidade para criar grupos distintos que trabalham com diferentes clientes, ou para permitir diferentes funções para grupos ou utilizadores. Utilizando o Farol Azure, pode atribuir diferentes grupos a diferentes clientes ou funções. Uma vez que os utilizadores terão o nível de acesso adequado através da gestão de recursos delegados do Azure, pode reduzir o número de utilizadores que têm a função de Agente Administrador (e assim ter acesso total ao AOBO). Isto ajuda a melhorar a segurança limitando o acesso desnecessário aos recursos dos seus clientes. Também lhe dá mais flexibilidade para gerir vários clientes em escala. Para mais informações, leia [o Farol Azure e o programa Cloud Solution Provider](/azure/lighthouse/concepts/cloud-solution-provider).
 
--  **Diretório ou Utilizadores convidados ou [principais de serviço :](/azure/active-directory/develop/app-objects-and-service-principals)** Pode delegar o acesso granular às subscrições do CSP adicionando utilizadores no diretório de clientes ou adicionando utilizadores convidados e atribuindo funções específicas de RBAC.
+- **Diretório ou Utilizadores convidados ou [principais de serviço :](/azure/active-directory/develop/app-objects-and-service-principals)** Pode delegar o acesso granular às subscrições do CSP adicionando utilizadores no diretório de clientes ou adicionando utilizadores convidados e atribuindo funções específicas de RBAC.
 
 A Microsoft recomenda que os utilizadores tenham as permissões mínimas necessárias para realizar o seu trabalho como prática de segurança. Consulte os recursos de Gestão de Identidade Privilegiada do [Diretório Ativo Azure.](/azure/active-directory/privileged-identity-management/pim-configure)
 
@@ -60,7 +65,7 @@ Necessita de acesso administrativo para gerir os serviços do seu cliente e rece
 
 2. Selecione o tipo de ação que deseja que o alerta tome. Por exemplo, se especificar que deseja um e-mail, receberá um e-mail notificando-o caso de ocorrer alguma eliminação de funções.
 
-   :::image type="content" source="images/azure/azureconfigurealert2.png" alt-text="alerta azul":::
+   :::image type="content" source="images/azure/azureconfigurealert2.png" alt-text="alerta de configuração":::
 
 ### <a name="aobo-removal"></a>Remoção do AOBO
 

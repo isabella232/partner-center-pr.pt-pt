@@ -9,20 +9,14 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 08/06/2020
-ms.openlocfilehash: 317d1f0295b79b79bf06f1091ae365bc7012b749
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 9dc92685503fd4b9b05e40337f72e810c1693779
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92529912"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534901"
 ---
 # <a name="sell-microsoft-azure-reservations-to-customers-using-partner-center-the-azure-portal-or-apis"></a>Venda reservas do Microsoft Azure a clientes que usam Partner Center, o portal Azure ou APIs
-
-**Aplica-se a**
-
-- Partner Center
-- Portal do Microsoft Azure
-- Parceiros no programa CSP
 
 **Funções adequadas**
 
@@ -32,8 +26,10 @@ ms.locfileid: "92529912"
 - Agente comercial
 - Administração de gestão de utilizadores
 
+Como parceiro no programa Cloud Solution Provider (CSP), pode comprar, vender ou gerir reservas Azure para os clientes. Use Partner Center, o portal Azure ou a API do Centro Parceiro.
+
 > [!NOTE]
-> Este artigo aplica-se apenas aos parceiros do programa Cloud Solution Provider (CSP). Os clientes que utilizem outros tipos de subscrições (tais como, pay-as-you-go, individual, Microsoft Customer Agreement ou Enterprise Agreement) devem, em vez disso, ler [esta documentação de reservas Azure](/azure/cost-management-billing/reservations).
+> Este artigo aplica-se apenas aos sócios da CSP. Os clientes que utilizem outros tipos de subscrições (tais como, pay-as-you-go, individual, Microsoft Customer Agreement ou Enterprise Agreement) devem, em vez disso, ler [esta documentação de reservas Azure](/azure/cost-management-billing/reservations).
 
 Os parceiros do programa CSP podem oferecer reservas aos seus clientes Microsoft Azure. Os clientes podem obter poupanças significativas quando reservam antecipadamente. As reservas Azure oferecem aos clientes simplicidade e flexibilidade das seguintes formas:
 

@@ -9,14 +9,20 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a86ee34070b53fb7dcee3ffcd9c11c79a5a4b856
-ms.sourcegitcommit: 81348141eece79492c6f43c84ddac2b98f80428d
+ms.openlocfilehash: 87638a036086db933e0375ec232f2d512d73653e
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/07/2020
-ms.locfileid: "92529507"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534748"
 ---
 # <a name="introduction-azure-plan-lets-partners-buy-azure-at-pay-as-you-go-rates-for-customers"></a>Introdução: Plano Azure permite aos parceiros comprar Azure a preços de pagamento para clientes
+
+**Funções adequadas**
+
+- Agente administrativo
+- Agente comercial
+- Administrador global
 
 A Microsoft introduziu uma nova experiência de comércio no Partner Center, o plano Azure.  Com esta nova experiência de comércio, os parceiros terão acesso aos serviços Azure a preços de pagamento para clientes ao abrigo do Microsoft Customer Agreement.
 
@@ -30,15 +36,15 @@ Transição dos seus clientes das suas ofertas CSP Azure existentes para serviç
 >A partir de 1 de fevereiro de 2020, o atual Microsoft Cloud Agreement será removido do programa CSP. A partir desse momento, será necessária a confirmação do parceiro (atestado) da aceitação do cliente para o novo Acordo de Cliente da Microsoft para todas as outras ofertas, incluindo a Microsoft 365, Dynamics 365 e o Azure existente. Os parceiros da CSP não poderão fazer uma nova encomenda para o cliente sem aestestação do Acordo de Cliente da Microsoft. Para mais detalhes, leia [Confirme a aceitação do cliente do Contrato de Cliente da Microsoft.](confirm-customer-agreement.md)
 
 
-## <a name="learn-about-the-azure-plan"></a>Conheça o plano Azure
+## <a name="next-steps"></a>Passos seguintes
 
 |**Para fazer isto**   |**Leia isto**   |
 |------------------|---------------------|
 |Comece a mudar-se para o plano Azure|[Move to Azure plan - começa](azure-plan-get-started.md)
 |Transição dos seus clientes de PAYG para plano Azure|[Transition your customer to Azure plan](azure-plan-transition.md) (Fazer a transição dos clientes para o plano do Azure)|
-|Compre o plano Azure para os seus clientes|[Comprar o plano Azure](purchase-azure-plan.md)|
+|Compre o plano Azure para os seus clientes|[Comprar o plano do Azure](purchase-azure-plan.md)|
 |Os parceiros de faturação que fornecem 24 X 7 de gestão de operações em nuvem tornar-se-ão elegíveis para um **Partner que ganhou crédito pelos serviços geridos** para esse trabalho.|[Parceiro ganhou crédito - visão geral](partner-earned-credit.md) e [como o parceiro ganhou crédito é determinado - detalhes](partner-earned-credit-explanation.md)|
-|Veja uma comparação lado a lado dos tipos de oferta azure|[Compare ofertas da Azure](compare-azure-offers.md)|
+|Veja uma comparação lado a lado dos tipos de oferta azure|[Comparar ofertas do Azure](compare-azure-offers.md)|
 |Gerir as subscrições e recursos dos clientes ao abrigo do plano Azure|[Manage subscriptions and resources under the Azure plan](azure-plan-manage.md) (Gerir subscrições e recursos ao abrigo do plano do Azure)|
 |Saiba como ler a lista de preços do plano Azure   |[Lista de preços do plano Azure explicada](azure-plan-price-list.md)|
 |Onde está o plano Azure disponível?|[A lista completa dos países/regiões onde o plano Azure está disponível](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3QN0x)

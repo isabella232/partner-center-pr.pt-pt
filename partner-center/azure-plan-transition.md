@@ -9,12 +9,12 @@ ms.author: mowrim
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 06/16/2020
-ms.openlocfilehash: 5390e950689e930b246aaaddcb1a9ef1b1ab6d46
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 4e22386dc8bddd9662a0d80020a5c90c464e9d39
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92529921"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534816"
 ---
 # <a name="transition-customers-to-azure-plan-from-existing-csp-azure-offers"></a>Transição de clientes para plano Azure a partir de ofertas CSP Azure existentes
 
@@ -27,9 +27,9 @@ ms.locfileid: "92529921"
 - Agente comercial
 - Administração de gestão de utilizadores
 
-Os fornecedores indiretos e os parceiros de conta direto podem transitar para a nova experiência de comércio disponível no Microsoft Cloud Service Provider Program (CSP) para o Azure. (Os revendedores indiretos terão de trabalhar através dos seus fornecedores indiretos.) Os clientes terão uma forma simplificada de comprar serviços na nuvem, seja comprando de parceiros, de vendedores da Microsoft, ou diretamente na web.
+Este artigo explica como os parceiros da CSP podem usar o Partner Center para transferir os clientes das ofertas csp azure existentes para os serviços da Azure ao abrigo do plano Azure. Os fornecedores indiretos e os parceiros de conta direto podem transitar para a nova experiência de comércio disponível no Microsoft Cloud Service Provider Program (CSP) para o Azure. (Os revendedores indiretos terão de trabalhar através dos seus fornecedores indiretos.) Os clientes terão uma forma simplificada de comprar serviços na nuvem, seja comprando de parceiros, de vendedores da Microsoft, ou diretamente na web.
 
-A capacidade de transição destina-se apenas aos clientes que transitam para a nova experiência de comércio para o Azure e que assinaram o Microsoft Customer Agreement e não para outras ofertas em CSP como o Office 365 ou Dynamics 365.
+A capacidade de transição destina-se apenas aos clientes que transitam para a nova experiência de comércio para o Azure e que assinaram o Acordo de Cliente da Microsoft. Não é para outras ofertas em CSP como o Office 365 ou Dynamics 365.
 
 ## <a name="transition-existing-csp-offers-to-an-azure-plan"></a>Transição cSP existente oferece a um plano Azure
 
@@ -39,13 +39,13 @@ Pode transitar um cliente das suas ofertas CSP Azure existentes para os serviço
 
 1. Selecione plano Azure para o seu cliente.
 
-2. Selecione **faturação de transição para o plano Azure** .
+2. Selecione **faturação de transição para o plano Azure**.
 
    :::image type="content" source="images/azure/transition1.png" alt-text="Screenshot mostrando subscrições baseadas em uso reportam informações com uma opção selecionável chamada: Faturação de subscrição transitiona azure para o plano Azure.":::
 
 3. Selecione **Continuar**
 
-   :::image type="content" source="images/azure/transition2.png" alt-text="Screenshot mostrando subscrições baseadas em uso reportam informações com uma opção selecionável chamada: Faturação de subscrição transitiona azure para o plano Azure.":::
+   :::image type="content" source="images/azure/transition2.png" alt-text="Caixa de diálogo intitulada Transição para plano Azure com implicações para ler sobre a transição e duas opções para selecionar, Continuar ou Cancelar.":::
 
    O seu cliente será transitado para o plano Azure.
 
@@ -63,7 +63,7 @@ Pode transitar um cliente das suas ofertas CSP Azure existentes para os serviço
 
 4. Volte à página de **Subscrições** do Centro de Parceiros do seu cliente para atualizar o seu limite de orçamento utilizando a moeda local.
 
-   :::image type="content" source="images/azure/transition3.png" alt-text="Screenshot mostrando subscrições baseadas em uso reportam informações com uma opção selecionável chamada: Faturação de subscrição transitiona azure para o plano Azure.":::
+   :::image type="content" source="images/azure/transition3.png" alt-text="Vista parcial da página de subscrições do Partner Center com limites orçamentais definidos em moeda local por um período de faturação.":::
 
    >[!NOTE]
    >O orçamento que definiu no Partner Center não passa para o portal Azure. Também deverá definir o orçamento e alertar no portal Azure.
@@ -77,7 +77,7 @@ Pode transitar um cliente das suas ofertas CSP Azure existentes para os serviço
 
 Acompanhe o progresso da transição no portal Azure, bem como no Partner Center.
 
-:::image type="content" source="images/azure/details1.png" alt-text="Screenshot mostrando subscrições baseadas em uso reportam informações com uma opção selecionável chamada: Faturação de subscrição transitiona azure para o plano Azure.":::
+:::image type="content" source="images/azure/details1.png" alt-text="Screenshot mostrando tabela com lista de detalhes de transição por subscrição - inclui subscrição I D, data de transição e estado de transição.":::
 
 ### <a name="billing-impact-to-partners"></a>Impacto da faturação para os parceiros
 

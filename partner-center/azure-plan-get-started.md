@@ -9,14 +9,20 @@ ms.author: amrava
 ms.custom: SEOAPR.20
 ms.localizationpriority: High
 ms.date: 12/02/2019
-ms.openlocfilehash: 5ad7bd7c99d7caa044877c98aac6dc5e3ce69420
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: fcf75acef4afb80c5aec889911ffc2b4a53b6edd
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92530050"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534918"
 ---
 # <a name="begin-using-pay-as-you-go-rates-with-the-azure-plan"></a>Comece a usar as taxas de pagamento com o plano Azure
+
+**Funções adequadas**
+
+- Agente administrativo
+- Agente comercial
+
 
 A Microsoft introduziu uma nova experiência de comércio no Partner Center.  Com esta nova experiência de comércio, os parceiros terão acesso aos serviços Azure a preços de pagamento para clientes ao abrigo do Microsoft Customer Agreement.
 
@@ -54,9 +60,9 @@ A Microsoft recomenda que os parceiros utilizem o RBAC de forma diligente, segui
 
 ## <a name="read-more-about-the-azure-plan"></a>Leia mais sobre o plano Azure
 
-- [Comprar o plano Azure](purchase-azure-plan.md)
+- [Comprar o plano do Azure](purchase-azure-plan.md)
 
-- [Compare ofertas da Azure](compare-azure-offers.md)
+- [Comparar ofertas do Azure](compare-azure-offers.md)
 
 - [Parceiro ganhou crédito - visão geral](partner-earned-credit.md)
 

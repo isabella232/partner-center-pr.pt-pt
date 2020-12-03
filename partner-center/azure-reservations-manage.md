@@ -9,20 +9,14 @@ ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 08/06/2020
-ms.openlocfilehash: 937a7268caa5ae7872f8a3ec6dcb05f56dd9fbe5
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: c377fca3e38161258c836d14202ac4db21484526
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92529918"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534765"
 ---
 # <a name="manage-cancel-exchange-or-refund-microsoft-azure-reservations-for-customers"></a>Gerir, cancelar, trocar ou reembolsar reservas do Microsoft Azure para os clientes
-
-**Aplica-se a**
-
-- Partner Center
-- Portal do Microsoft Azure 
-- Parceiros na CSP
 
 **Funções adequadas**
 
@@ -31,6 +25,8 @@ ms.locfileid: "92529918"
 - Agente helpdesk
 - Agente comercial
 - Administração de gestão de utilizadores
+
+Este artigo explica como gerir as reservas do Azure para um cliente, incluindo como cancelar uma reserva, trocar uma reserva ou solicitar um reembolso.
 
 > [!NOTE]
 > Este artigo aplica-se apenas aos parceiros do programa Cloud Solution Provider (CSP). Os clientes que utilizem outros tipos de subscrições (tais como, pay-as-you-go, individual, Microsoft Customer Agreement ou Enterprise Agreement) devem, em vez disso, ler [esta documentação de reservas Azure](/azure/cost-management-billing/reservations).
@@ -41,7 +37,7 @@ Para gerir as reservas Azure dos seus clientes após a compra, seleciona o clien
 
 2. No menu de página de pormenor do cliente, selecione **reservas Azure** e, em seguida, selecione a reserva específica que pretende gerir.  
 
-3. Em **Ações** , **selecione Gerir** para o registo de reservas do cliente no portal Azure. Na página de detalhes da reserva, siga os passos abaixo para completar as tarefas.  
+3. Em **Ações**, **selecione Gerir** para o registo de reservas do cliente no portal Azure. Na página de detalhes da reserva, siga os passos abaixo para completar as tarefas.  
 
     | **Selecionar**   | **Para**    |
     |:-----------------------------|:-----------------|
@@ -66,10 +62,10 @@ Veja abaixo os detalhes e taxas de cancelamento.
 
 |**Data de cancelamento**<br> (dias)   |**Utilização**    |**Crédito**  |**Rescisão antecipada**<br> taxa    |**Limite máximo de reembolso** | 
 |:----------------------------------|:------------|:-----------|:--------------------------------|:--------------|
-|5 ou menos                         | No          | 100%       | No                              | $50.000 USD   |
-|5 ou menos                         | Yes         | Pró-classificado  | No                              | $50.000 USD   |
-|Mais de 5                        | No          | Pró-classificado  | 12%                             | $50.000 USD   |
-|Mais de 5                        | Yes         | Pró-classificado  | 12%                             | $50.000 USD   |
+|5 ou menos                         | Não          | 100%       | Não                              | $50.000 USD   |
+|5 ou menos                         | Sim         | Pró-classificado  | Não                              | $50.000 USD   |
+|Mais de 5                        | Não          | Pró-classificado  | 12%                             | $50.000 USD   |
+|Mais de 5                        | Sim         | Pró-classificado  | 12%                             | $50.000 USD   |
 
 ### <a name="how-exchanges-work"></a>Como funcionam as trocas 
 
@@ -88,7 +84,7 @@ Para apresentar um pedido de apoio para reembolso ou troca em nome dos seus clie
 
 2. Na página de detalhes do cliente, selecione **reservas Azure** e, em seguida, selecione a reserva específica que o cliente quer que seja reembolsada.  
 
-3. Em **Ações** , **selecione Refund** para ir ao registo de reservas do cliente no portal Azure e inicie um pedido de apoio.  
+3. Em **Ações**, **selecione Refund** para ir ao registo de reservas do cliente no portal Azure e inicie um pedido de apoio.  
 
 4. Na página de **novo pedido de apoio,** siga os passos abaixo para solicitar o reembolso. Selecione **Seguinte** após cada passo. 
 

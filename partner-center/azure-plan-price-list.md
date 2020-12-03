@@ -9,14 +9,14 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 57e976f2968f0bd6b13f36eb04be9f68577d1389
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 02cea980626ec32d3dd60f646b1f8744130792ea
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92529930"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534731"
 ---
-# <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Tabela de preços para a nova experiência de comércio na CSP para a Azure
+# <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Lista de preços da nova experiência comercial no CSP para Azure
 
 **Funções adequadas**
 
@@ -31,16 +31,16 @@ A tabela de preços para a nova experiência de comércio Azure na CSP é public
 
 ## <a name="see-pricing-for-subscriptions-under-the-azure-plan-pricing"></a>Ver preços para subscrições ao abrigo do plano Azure
 
-1. A partir do menu Partner Center à esquerda, selecione **Vender** e, em seguida, selecione **Marketplace** .
+1. A partir do menu Partner Center à esquerda, selecione **Vender** e, em seguida, selecione **Marketplace**.
 
 2. De acordo com os preços do plano Azure, selecione o país para o qual deseja preços.
 
-3. Ao lado **do tipo Exportação,** selecione **preços de consumo do plano Azure,** **preços de reservas do plano Azure** , ou **tarifas FX** . 
+3. Ao lado **do tipo Exportação,** selecione **preços de consumo do plano Azure,** **preços de reservas do plano Azure**, ou **tarifas FX**. 
 
 >[!NOTE] 
 >**As tarifas de FX** não são específicas do país.
 
-4. Ao lado **do Preço para data** , selecione a data desejada, por exemplo, **Corrente** .
+4. Ao lado **do Preço para data**, selecione a data desejada, por exemplo, **Corrente**.
 
    :::image type="content" source="images/azure/pricingnew.png" alt-text="país específico":::
 
@@ -55,15 +55,15 @@ A tabela de preços para a nova experiência de comércio Azure na CSP é public
 
 - As opções de exportação incluem:
 
-  - **Preços de hoje** : Isto inclui todos os contadores e preços desde o dia 1 do mês até à data atual do mês em curso. Isto inclui novos preços, preços alterados ou preços removidos. Todos os preços terão datas de início e fim eficazes para explicar se são novos ou removidos.
+  - **Preços de hoje**: Isto inclui todos os contadores e preços desde o dia 1 do mês até à data atual do mês em curso. Isto inclui novos preços, preços alterados ou preços removidos. Todos os preços terão datas de início e fim eficazes para explicar se são novos ou removidos.
 
-  - **Preço do mês anterior** : Os downloads de cada tipo de recurso serão por mês. Para os ficheiros de preços, isto incluirá todos os contadores que estavam disponíveis durante esse mês. Se um novo medidor aparecer em meados do mês, eu apareci como um medidor com uma data efetiva que reflete a sua disponibilidade. Semelhante aos preços que são descontinuados, mostrando com uma data final efetiva descrevendo quando já não estão disponíveis.
+  - **Preço do mês anterior**: Os downloads de cada tipo de recurso serão por mês. Para os ficheiros de preços, isto incluirá todos os contadores que estavam disponíveis durante esse mês. Se um novo medidor aparecer em meados do mês, eu apareci como um medidor com uma data efetiva que reflete a sua disponibilidade. Semelhante aos preços que são descontinuados, mostrando com uma data final efetiva descrevendo quando já não estão disponíveis.
 
-  - **Tarifas FX** : As tarifas FX estarão disponíveis para download na véspera do dia 1 do mês, 18h PST. Por exemplo, se quiser as tarifas para novembro, baixe as tarifas no dia 31 de outubro. As tarifas de FX do mês anterior também estarão disponíveis.
+  - **Tarifas FX**: As tarifas FX estarão disponíveis para download na véspera do dia 1 do mês, 18h PST. Por exemplo, se quiser as tarifas para novembro, baixe as tarifas no dia 31 de outubro. As tarifas de FX do mês anterior também estarão disponíveis.
 
 - Os preços nas tabelas de preços são preços diretos. Alguns parceiros podem ser elegíveis para sócios que ganharam créditos. Para obter informações sobre como o parceiro obteve crédito é calculado, leia [como o parceiro obteve crédito é calculado e pago](partner-earned-credit-explanation.md).
 
-- **Serviços elegíveis** : O crédito auferido pelo parceiro é aplicável aos serviços listados no **plano Azure que** os parceiros de preços de consumo podem exportar a partir da página de preços do [plano Azure.](https://partner.microsoft.com/commerce/sales) Note que existem exceções, incluindo, mas não se limitando a, produtos de terceiros identificados como "Terceiros" na coluna Tags da lista de preços de consumo do plano Azure e reservas do Plano Azure.
+- **Serviços elegíveis**: O crédito auferido pelo parceiro é aplicável aos serviços listados no **plano Azure que** os parceiros de preços de consumo podem exportar a partir da página de preços do [plano Azure.](https://partner.microsoft.com/commerce/sales) Note que existem exceções, incluindo, mas não se limitando a, produtos de terceiros identificados como "Terceiros" na coluna Tags da lista de preços de consumo do plano Azure e reservas do Plano Azure.
 
 ## <a name="price-list-data"></a>Dados da lista de preços
 
@@ -114,3 +114,7 @@ Esta API também permite que os parceiros recuperem taxas de câmbio mensais por
 > A API de preços é específica para os preços do plano Azure. Você ainda deve usar a API do RateCard existente e as listas de preços postadas na página "Preços e ofertas" do Partner Center para recursos Azure ou reservas implantadas para subscrições de planos não-Azure. O plano Azure que fixa preços API não suporta preços baseados em software, marketplace ou licença, como o Microsoft 365 ou o Dynamics 365.
 
 Para obter mais informações sobre os preços do plano Azure e as APIs cambiais, consulte a documentação completa da [API sobre preços](/partner/develop/pricing).
+
+## <a name="next-steps"></a>Passos seguintes
+
+- [Manage subscriptions and resources under the Azure plan](azure-plan-manage.md) (Gerir subscrições e recursos ao abrigo do plano do Azure)

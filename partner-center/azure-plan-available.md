@@ -1,6 +1,6 @@
 ---
 title: Available Azure services in Azure CSP (Serviços do Azure disponíveis no Azure CSP)
-description: Esta secção discute os serviços Azure que estão e não estão disponíveis no programa Azure Cloud Solution Provider (CSP).
+description: Este artigo discute os serviços Azure que estão e não estão disponíveis no programa Azure Cloud Solution Provider (CSP).
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ ms.author: amrava
 ms.localizationpriority: high
 ms.date: 05/13/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 094aa585be3114c198a8581b3d23bd4b212393c9
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 2ca8df054a48217a21dbdd897bd260e7bc181e62
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92529835"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534969"
 ---
 # <a name="azure-services-available-in-the-azure-cloud-solution-provider-csp-program"></a>Serviços Azure disponíveis no programa Azure Cloud Solution Provider (CSP)
 
@@ -86,7 +86,7 @@ A tabela que se segue apresenta uma lista regularmente atualizada dos produtos, 
 |  Conjuntos de dimensionamento de máquinas virtuais  |  X  |  X  |
 |  Funções  |    |    |
 |  Azure Container Service  |    |    |
-|  **Redes**  |    |    |
+|  **Rede**  |    |    |
 |  DNS do Azure  |    |    |
 |  Rede de Entrega de Conteúdos  |    |    |
 |  Gestor de Tráfego  |    |    |
@@ -98,7 +98,7 @@ A tabela que se segue apresenta uma lista regularmente atualizada dos produtos, 
 |  Observador de Rede  |  X  |  X  |
 |  **Armazenamento**  |    |    |
 |  Armazenamento  |  X  |  X  |
-|  Cópia de segurança  |  X  |  X  |
+|  Backup  |  X  |  X  |
 |  StorSimple  |    |  X  |
 |  Recuperação de sites  |  X  |  X  |
 |  Data Lake Storage  |    |    |

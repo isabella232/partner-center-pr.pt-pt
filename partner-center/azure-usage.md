@@ -9,20 +9,21 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
 ms.date: 08/06/2020
-ms.openlocfilehash: e6c4e3e7a68de720f586754703308a447d7d30c1
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 226ebd27b4ca4cdef56ce833a58a10bed89f8056
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92529903"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534952"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>Dimensionamento da VM do Microsoft Azure para a máxima utilização de reserva
 
-**Aplica-se a**
+**Funções adequadas**
 
-- Partner Center
-- Portal do Azure
-- Parceiros no programa CSP
+- Agente administrativo
+- Agente comercial
+
+Este artigo explica como dimensionar uma máquina virtual (VM) às necessidades de computação dos seus clientes quando compra reservas do Microsoft Azure para eles.
  
 > [!NOTE]
 > Este artigo aplica-se apenas aos parceiros do programa Cloud Solution Provider (CSP). Os clientes que utilizem outros tipos de subscrições (tais como, pay-as-you-go, individual, Microsoft Customer Agreement ou Enterprise Agreement) devem, em vez disso, ler [esta documentação de reservas Azure](/azure/cost-management-billing/reservations).
@@ -66,7 +67,7 @@ As instruções para a utilização de cada um destes métodos estão abaixo. De
 
 Utilize as informações na imagem abaixo para obter a localização e o tamanho do VM para o qual pretende comprar uma reserva. 
 
-:::image type="content" source="images/usage2.png" alt-text="Informações sobre tamanho e região na página de detalhes":::
+:::image type="content" source="images/usage2.png" alt-text="Localização e tamanho VM":::
 
 ### <a name="get-vm-sizing-information-using-the-azure-resource-manager-arm-api"></a>Obtenha informações de tamanho VM utilizando a API AZure Resource Manager (ARM)
 
@@ -76,8 +77,8 @@ Utilize as informações na imagem abaixo para obter a localização e o tamanho
 
 3. A chamada devolve os valores para **vmSize** e **localização,** conforme ilustrado abaixo.
 
-    :::image type="content" source="images/usage3.png" alt-text="Informações sobre tamanho e região na página de detalhes":::
-    :::image type="content" source="images/usage4.png" alt-text="Informações sobre tamanho e região na página de detalhes":::
+    :::image type="content" source="images/usage3.png" alt-text="valor vmSize":::
+    :::image type="content" source="images/usage4.png" alt-text="valor de localização":::
 
 ## <a name="verify-azure-vm-usage-and-reservation-discount"></a>Verifique o uso do Azure VM e o desconto de reserva
 
@@ -117,7 +118,7 @@ As instruções para a utilização de cada um destes métodos estão abaixo.
 
 Pode obter dados de utilização da reserva com a API de utilização Azure para verificar se o cliente está a receber o desconto de reserva e para ver a que VMs (máquinas virtuais) o desconto é aplicado. Compare o exemplo A ao exemplo B para ver como verificar o uso da reserva de um cliente.
 
-:::image type="content" source="images/usage5.png" alt-text="Informações sobre tamanho e região na página de detalhes":::
+:::image type="content" source="images/usage5.png" alt-text="Exemplos de utilização de reservas":::
 
 - O reservationId identifica a reserva Azure que foi usada para aplicar o desconto ao VM.
 - consumptionMeter é o MeterId para o VM que tem o desconto de reserva aplicado a ele.
@@ -128,7 +129,7 @@ Para obter mais informações, [consulte os registos de utilização de um clien
 >[!IMPORTANT]
 >Os custos do software, como o Microsoft Windows Server, não estão atualmente incluídos no preço de uma reserva VM e aparecerão como itens de linha separados no registo de encomendas e na sua fatura. No entanto, se um cliente tiver o Azure Hybrid Use Benefit, os custos do software não serão aplicados. Para obter mais informações, consulte [os custos do software windows não incluídos nas Instâncias Reservadas.](/azure/billing/billing-reserved-instance-windows-software-costs)  
 
-## <a name="azure-reservations-resources"></a>Recursos de reservas Azure
+## <a name="next-steps"></a>Passos seguintes
 
 |**Para obter informações sobre**   |**Leia isto**    |
 |:-----------------------------|:-----------------|

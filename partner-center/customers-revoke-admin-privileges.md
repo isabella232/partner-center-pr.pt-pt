@@ -1,7 +1,7 @@
 ---
 title: Obtenha privilégios administrativos de um cliente
 ms.topic: how-to
-ms.date: 06/19/2020
+ms.date: 12/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Obtenha as permissões necessárias para gerir o serviço ou subscrição de um cliente em seu nome. Saiba como as permissões são concedidas, revogadas e geridas.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
-ms.openlocfilehash: dcfc552016560ecc3167deebf96f7a75a72048bc
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 6f99c9ed9fb43136bccf0d3024377ba2208ed1a1
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "92529460"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534884"
 ---
 # <a name="obtain-permissions-to-manage-a-customers-service-or-subscription"></a>Obter permissões para gerir o serviço ou subscrição de um cliente
 
@@ -31,7 +31,7 @@ Para gerir o serviço ou subscrição de um cliente em seu nome, o cliente deve 
 
 ## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Convide um cliente a estabelecer uma relação de revendedor consigo
 
-1.  Selecione **Clientes** e, em seguida, **selecione Solicite uma relação de revendedor** .
+1.  Selecione **Clientes** e, em seguida, **selecione Solicite uma relação de revendedor**.
 
 2.  Na página seguinte, analise a mensagem de e-mail de rascunho. Pode abrir a mensagem de rascunho na aplicação de e-mail predefinida ou pode copiar a mensagem para a área de transferência e colar num e-mail. 
 
@@ -47,13 +47,13 @@ Para gerir o serviço ou subscrição de um cliente em seu nome, o cliente deve 
 6.  Para gerir a conta, serviços, utilizadores e licenças do cliente, expanda o registo do cliente selecionando a seta para baixo perto do seu nome e, em seguida, selecione o portal de administração para o serviço que pretende gerir.
 
 >[!IMPORTANT]  
->Os clientes podem reatribuir ou remover permissões de administrador no portal de administração de um serviço. No entanto, a menos que e até que renegocie o seu acordo com o cliente, continua a ser responsável por fornecer apoio ao cliente e aderir aos termos do Acordo de Revenda cloud, mesmo depois de um cliente reatribuir ou remover permissões de administrador. Nesta situação, se o cliente necessitar de ajuda, contacte o suporte da Microsoft para abrir um pedido de serviço em nome do cliente.
+>Os clientes podem reatribuir ou remover permissões de administrador no portal de administração de um serviço. No entanto, precisa de informar o cliente de que remover as permissões do administrador significa que deixará de poder abrir um pedido de serviço à Microsoft em seu nome. Não poderá abrir este tipo de pedidos de serviço em nome do cliente até renegociar o seu acordo com o cliente.
 
 Os seus clientes podem descobrir qual dos seus parceiros tem privilégios administrativos para o seu inquilino dentro do portal de administração do Office 365. Para efetuar este procedimento:
 
 1. O cliente precisa de se inscrever no portal de administração do Office 365 como administrador global.
 
-2. Selecione **Definições**  >  **Relacionamentos de parceiros** .
+2. Selecione **Definições**  >  **Relacionamentos de parceiros**.
 
 3. Na página de **relações com** parceiros, o cliente verá uma lista dos parceiros com quem trabalham e daqueles a quem foi concedido privilégios de administração delegados ao seu inquilino.
 
@@ -69,7 +69,7 @@ Para remover os privilégios de administração delegados de um parceiro:
 
 1. Na página **de relações do Parceiro,** selecione o parceiro de interesse.
 2. No painel de detalhes, **selecione Remover** administrador delegado .
-3. No painel de confirmação, selecione **Remover** .
+3. No painel de confirmação, selecione **Remover**.
 
 >[!IMPORTANT]  
 >As atribuições de papel da AD Azure ao parceiro estão implícitas. Se tentar listar os membros das funções AD Azure utilizando o Portal AD/PowerShell/Graph do Azure, o parceiro não será devolvido. Para saber se os parceiros são atribuídos às funções de Azure AD, deve consultar a página de relações de Parceiro no Portal de Administração do Office 365 para saber se o privilégio de administração delegado foi ou não concedido ao parceiro.

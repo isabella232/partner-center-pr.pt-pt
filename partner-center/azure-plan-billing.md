@@ -9,36 +9,36 @@ author: khpavan
 ms.author: sakhanda
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5d8bb85357d796ae4917faf91c93db8fef4369c2
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 1dc683c194de158dc7a4dac541b37631f3be1f1e
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92529828"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534697"
 ---
-# <a name="new-commerce-experience-in-csp---azure-billing"></a>Nova experiência de comércio em CSP - Faturação Azure 
+# <a name="new-commerce-experience-in-csp---azure-billing"></a>Nova experiência comercial no CSP – faturação do Azure 
 
-**Funções adequadas:**
+**Funções adequadas**
 
 - Agente administrativo
 - Administrador de faturação
 - Administrador global
 
-A faturação ao abrigo do plano Azure é uma experiência de faturação simplificada usando uma data de faturação única alinhada e período de faturação de um mês de calendário.
+Este artigo explica como aceder e compreender a estrutura de ficheiros de fatura e reconciliação relacionada com a faturação do plano Azure. A faturação ao abrigo do plano Azure é uma experiência de faturação simplificada usando uma data de faturação única alinhada e período de faturação de um mês de calendário.
 
 ## <a name="summary-of-billing-essentials"></a>Resumo do essencial da faturação
 
-- **Data da fatura** : A fatura e o ficheiro de reconciliação estarão disponíveis no painel de instrumentos/API do Centro Parceiro até ao dia 8 (meia-noite UTC).
+- **Data da fatura**: A fatura e o ficheiro de reconciliação estarão disponíveis no painel de instrumentos/API do Centro Parceiro até ao dia 8 (meia-noite UTC).
 
-- **Período de faturação** : O período de faturação está alinhado com o mês civil, por exemplo, 10/1-10/31, 11/1-11/30.
+- **Período de faturação**: O período de faturação está alinhado com o mês civil, por exemplo, 10/1-10/31, 11/1-11/30.
 
-- **Períodos de serviço de cobrança** : As taxas irão alinhar-se com o mês civil. Por exemplo, se o parceiro faturado adicionar serviços Azure através de um plano Azure em 10/15 e o cliente iniciar o consumo de serviços Azure em 10/15, então o parceiro faturado receberá fatura/reconhecimento em 11/8 para consumo de clientes para o período de serviço 10/15 - 10/31. A fatura do próximo mês que será gerada em 12/8 contém todos os encargos para o período de serviço 11/1- 11/31.
+- **Períodos de serviço de cobrança**: As taxas irão alinhar-se com o mês civil. Por exemplo, se o parceiro faturado adicionar serviços Azure através de um plano Azure em 10/15 e o cliente iniciar o consumo de serviços Azure em 10/15, então o parceiro faturado receberá fatura/reconhecimento em 11/8 para consumo de clientes para o período de serviço 10/15 - 10/31. A fatura do próximo mês que será gerada em 12/8 contém todos os encargos para o período de serviço 11/1- 11/31.
 
 - **Prazo de pagamento da fatura:** Líquido 60 dias.
 
-- **Moeda de fatura** : Os parceiros continuarão a ser faturados na moeda atribuída ao cliente. Por exemplo, se o parceiro faturado estiver na Irlanda com clientes no Reino Unido, Noruega e Alemanha, então o parceiro faturado receberá uma fatura/reconhecimento de EUROS.
+- **Moeda de fatura**: Os parceiros continuarão a ser faturados na moeda atribuída ao cliente. Por exemplo, se o parceiro faturado estiver na Irlanda com clientes no Reino Unido, Noruega e Alemanha, então o parceiro faturado receberá uma fatura/reconhecimento de EUROS.
 
-- **Incentivos ao parceiro** : Pago 45 dias a partir do final do mês de fatura.
+- **Incentivos ao parceiro**: Pago 45 dias a partir do final do mês de fatura.
 
 ## <a name="access-your-invoices-and-reconciliation-files"></a>Aceda às suas faturas e ficheiros de reconciliação
 
@@ -48,7 +48,7 @@ Para aceder à fatura e ao ficheiro de reconciliação:
 
 1. Inscreva-se no painel do Centro [de Parceiros.](https://partner.microsoft.com/dashboard/)
 
-2. No menu Partner Center, selecione **Billing** .
+2. No menu Partner Center, selecione **Billing**.
 
 3. Selecione o separador para o **Recorrente** e **uma vez** e a moeda em que está interessado.
 
@@ -106,7 +106,7 @@ Para aceder à fatura e ao ficheiro de reconciliação:
 
 5. Reveja o ficheiro de reconhecimento de fatura e o ficheiro de utilização nominal diário para obter detalhes adicionais de faturação.
 
-   :::image type="content" source="images/azure/invoice1.png" alt-text="faturação":::
+   :::image type="content" source="images/azure/invoice1.png" alt-text="fatura":::
 
 ## <a name="read-the-invoice-reconciliation-file"></a>Leia o ficheiro de reconciliação da fatura
 
@@ -134,7 +134,7 @@ Para aceder à fatura e ao ficheiro de reconciliação:
 
   - O medidor qualificado para **Partner ganhou crédito por serviços geridos** de 7/8 - 7/31 (note que o preço unitário efetivo é o preço de venda a retalho menos parceiro ganho crédito).
 
-   :::image type="content" source="images/azure/pecfinal.png" alt-text="faturação":::
+   :::image type="content" source="images/azure/pecfinal.png" alt-text="recon2":::
 
 ## <a name="invoice-in-customer-currency"></a>Fatura em moeda de cliente
 
@@ -160,7 +160,7 @@ A experiência de gastos azure existente é atualizada para apoiar a nova fatura
 
 Uma vez que o modelo de faturação dos serviços Azure através de um plano Azure é o consumo pós-pagamento, para evitar uma fatura maior do que o previsto, os parceiros podem aplicar um orçamento mensal e acompanhar a percentagem de utilização. Um orçamento pode ser aplicado a um cliente ou a vários clientes de uma só vez. 
 
-:::image type="content" source="images/azure/azurespend.png" alt-text="faturação":::
+:::image type="content" source="images/azure/azurespend.png" alt-text="Despesas do Azure":::
 
 ## <a name="next-steps"></a>Passos seguintes
 
