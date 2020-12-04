@@ -1,22 +1,22 @@
 ---
-title: Ver ganhos em CHIP
+title: Ver ganhos na CHIP
 ms.topic: how-to
 ms.date: 11/09/2020
-description: Diretrizes para ver os ganhos em CHIP
+description: Saiba como ver a sua declaração de incentivos e ganhos na ferramenta Channel Incentives Platform (CHIP).
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b860b8ccd932e23bd12e17e1441a3113cc29400f
-ms.sourcegitcommit: b8e9609fd6448fcb265e4afc480d7a97e8009e63
+ms.openlocfilehash: a78fb9d13d149cba75fc616b93cdfe0b47dfafc4
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94422260"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570506"
 ---
-# <a name="view-earnings-in-chip"></a>Ver ganhos em CHIP
+# <a name="view-earnings-using-the-chip-tool"></a>Ver ganhos utilizando a ferramenta CHIP
 
 Pode aceder à sua declaração de incentivos através da ferramenta Channel Incentives Platform (CHIP).
 
@@ -41,4 +41,4 @@ Pode aceder à sua declaração de incentivos através da ferramenta Channel Inc
 
 ## <a name="next-steps"></a>Passos seguintes
 
-- [Verifique o estado do pagamento em CHIP](chip-payment-status.md)
+- [Verificar o estado de pagamento na CHIP](chip-payment-status.md)

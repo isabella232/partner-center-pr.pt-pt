@@ -1,6 +1,6 @@
 ---
 title: Verifique a saúde do serviço para um cliente
-ms.topic: article
+ms.topic: how-to
 ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,18 +9,14 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 34b74d6039e0fb184d7fcb7f3a5b24717d593ed3
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 60957d227197460a0cdb108e1826758e0ec48e03
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "92529408"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570625"
 ---
 # <a name="check-service-health-for-a-customer-reporting-a-potential-service-problem-or-outage"></a>Verifique a saúde do serviço para um cliente que reporte um potencial problema de serviço ou paralisação
-
-**Aplica-se a**
-
-- Partner Center
 
 **Funções adequadas**
 
@@ -29,9 +25,9 @@ ms.locfileid: "92529408"
 - Agente helpdesk
 - Agente comercial
 
-Uma das primeiras coisas que pode fazer quando um cliente está com problemas com um serviço é verificar a saúde do serviço. 
+Este artigo explica como usar o Partner Center para verificar a saúde do serviço para um cliente quando eles experimentam um problema com um serviço. 
 
-## <a name="check-service-health"></a>Verifique a saúde do serviço
+## <a name="check-service-health"></a>Verificar o estado de funcionamento dos serviços
 
 1. Selecione o **Cliente** que está tendo o problema na **lista de Clientes.**
 
@@ -48,5 +44,5 @@ Durante uma paragem de serviço, a Microsoft fornece atualizações regulares en
 
 - A Microsoft 365 e o Microsoft Azure fornecem apis cada um [que os parceiros podem usar para recuperar a saúde do serviço em tempo real,](get-automated-service-notifications-with-our-apis.md)comunicações do centro de mensagens e eventos de manutenção planeados.
 
- 
+ 
 

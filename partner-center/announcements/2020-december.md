@@ -9,18 +9,61 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 12/02/2020
-ms.openlocfilehash: d0bc790e31cf38aabc1703f073c42f8946c316ee
-ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
+ms.openlocfilehash: 38a9b83c5c13ed0a0c0f27db409335f9b86b8173
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: pt-PT
 ms.lasthandoff: 12/03/2020
-ms.locfileid: "96556728"
+ms.locfileid: "96570778"
 ---
 # <a name="december-2020-announcements"></a>Anúncios de dezembro de 2020
 
 Esta página detalha os anúncios para o Microsoft Partner Center para novembro de 2020.
 
 Anúncios de 2020: [abril](2020-april.md)  |  [maio](2020-may.md)  |  [junho julho](2020-june.md)  |  [July](2020-july.md)  |  [agosto](2020-august.md)  |  [setembro](2020-september.md)  |  [October](2020-October.md)  |  [novembro](2020-november.md) Dezembro
+
+
+______________
+
+## <a name="an-update-of-the-us-microsoft-365-business-voice-with-calling-plan-offer-is-coming-soon"></a><a name="2"></a>Uma atualização da oferta de Business Voice 365 da Microsoft 365 com o Plano de Chamada dos EUA está para breve
+
+### <a name="categories"></a>Categorias
+
+- Data: 2020-12-3
+- Ofertas/Mercados
+
+### <a name="summary"></a>Resumo 
+
+A 1 de janeiro de 2021, a Microsoft começará a transitar parceiros e clientes dos EUA para uma nova oferta microsoft 365 Business Voice com Call Plan. Não é necessária qualquer ação de parceiro.
+
+### <a name="impacted-audience"></a>Audiência Impactada 
+
+Todos os parceiros que transacionam através do programa Cloud Solution Provider (CSP)
+
+### <a name="details"></a>Detalhes
+
+A Microsoft substituirá a oferta de plano Business Voice por Call nos EUA por uma nova oferta de suporte aos requisitos internos dos produtos telco. A nova oferta terá o mesmo conjunto de funcionalidades e preços. As alterações da oferta são internas para a Microsoft e não devem afetar a forma como os parceiros da CSP comercializam, vendem ou suportam a oferta business voice com o Plano de Chamada. A mudança só se aplicará a esta oferta.
+
+Para novas vendas, utilizará a nova oferta a partir de 1 de janeiro de 2021. A oferta antiga será substituída pela nova oferta na tabela de preços.
+
+Os clientes existentes serão automaticamente transitados para a nova oferta após a data de renovação. Não é necessária qualquer ação por parte dos parceiros e da renovação de clientes.
+
+
+**Novos detalhes da oferta
+ 
+   |**Nome da oferta**|**ID da oferta**|**Material ID**|
+   |-------------------|:------|:------|
+   |Microsoft 365 Business Voice (EUA)|86713ec1-ad33-42cf-a1ce-8397d4d875fe|PZW-00023|
+   
+**Detalhes de oferta antiga
+
+   |**Nome da oferta**|**ID da oferta**|**Material ID**|
+   |-------------------|:------|:------|
+   |Microsoft 365 Business Voice (EUA)|9f9f2c7b-c961-402b-9421-8e3c9207eeb3|PZW-00009|
+
+### <a name="next-steps"></a>Passos seguintes
+
+Familiarize-se com a lista de preços e partilhe esta informação com todos os contactos apropriados na sua organização.
 
 ______________
 

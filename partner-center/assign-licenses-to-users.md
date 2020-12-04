@@ -1,22 +1,22 @@
 ---
-title: Gerir utilizadores e licenças de utilizador para contas de clientes
+title: Gerir utilizadores para contas de clientes
 ms.topic: how-to
 ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Saiba como gerir os utilizadores para os seus clientes no Partner Center, como criar contas de utilizador, adicionar ou remover licenças de utilizador, redefinir as palavras-passe do utilizador e eliminar ou restaurar as contas do utilizador.
+description: Gerir os utilizadores para os seus clientes no Partner Center - criar contas de utilizador, adicionar ou remover licenças de utilizador, redefinir palavras-passe e eliminar ou restaurar as contas do utilizador.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fb7906b006540ef939e443a21855488e9d2c36f9
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: cea1ac8bff9690edfe4b257c910fc3c335d2836c
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474075"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570744"
 ---
-# <a name="manage-users-and-user-licenses-for-customer-accounts"></a>Gerir utilizadores e licenças de utilizador para contas de clientes
+# <a name="manage-users-and-user-licenses-for-customer-accounts"></a>Gerir utilizadores e licenças de utilizador para contas de clientes 
 
 **Funções adequadas**
 
@@ -72,25 +72,25 @@ As seguintes medidas aplicam-se à adição ou remoção de licenças de utiliza
 
 ## <a name="reset-a-users-password-for-a-customer"></a>Redefinir a palavra-passe de um utilizador para um cliente
 
-1. Inscreva-se no painel do Centro [de Parceiros](https://partner.microsoft.com/dashboard).
+1. Inscreva-se no painel do Centro [de Parceiros.](https://partner.microsoft.com/dashboard)
 
 2. No menu Partner Center, selecione **Clientes,** em seguida, escolha um cliente da lista.
 
-3.  No menu do cliente, selecione **Utilizadores e licenças.** Escolha o utilizador na lista.
+3. No menu do cliente, selecione **Utilizadores e licenças.** Escolha o utilizador na lista.
 
-4.  Na parte inferior do ecrã, **selecione Redefinir a palavra-passe**. 
+4. Na parte inferior do ecrã, **selecione Redefinir a palavra-passe**. 
 
-5.  Envie a nova senha temporária para o utilizador.
+5. Envie a nova senha temporária para o utilizador.
 
 <a href="" id="deleteuseraccounts"></a>
 
 ## <a name="delete-user-accounts-for-a-customer"></a>Eliminar contas de utilizador para um cliente
 
-1.  A partir do menu **Partner Center,** selecione **Clientes.** Escolha o cliente na lista.
+1. A partir do menu **Partner Center,** selecione **Clientes.** Escolha o cliente na lista.
 
-2.  No menu do cliente, selecione **Utilizadores e licenças.** Escolha o utilizador na lista.
+2. No menu do cliente, selecione **Utilizadores e licenças.** Escolha o utilizador na lista.
 
-3.  Na parte inferior do ecrã, **selecione Eliminar a conta de utilizador**.
+3. Na parte inferior do ecrã, **selecione Eliminar a conta de utilizador**.
 
 Se precisar de restaurar esta conta, pode encontrá-la no separador **utilizadores eliminados** da lista de **Utilizadores e licenças** do Cliente. Tem 30 dias para restaurar um utilizador apagado.
 
@@ -98,19 +98,18 @@ Se precisar de restaurar esta conta, pode encontrá-la no separador **utilizador
 
 ## <a name="restore-deleted-user-accounts"></a>Restaurar contas de utilizador eliminadas
 
-1.  A partir do menu **Partner Center,** selecione **Clientes,** em seguida, escolha o cliente da lista.
+1. A partir do menu **Partner Center,** selecione **Clientes,** em seguida, escolha o cliente da lista.
 
-2.  Selecione **Utilizadores e licenças.**
+2. Selecione **Utilizadores e licenças.**
 
-3.  Selecione o separador **utilizadores eliminados ()** Deve ler **(1)** ou mais quando houver utilizadores eliminados que possam ser restaurados.
+3. Selecione o separador **utilizadores eliminados ()** Deve ler **(1)** ou mais quando houver utilizadores eliminados que possam ser restaurados.
 
-4.  Selecione uma ou mais das caixas de verificação dos utilizadores eliminados e, em seguida, selecione **Restaurar**.
+4. Selecione uma ou mais das caixas de verificação dos utilizadores eliminados e, em seguida, selecione **Restaurar**.
 
     Todas as contas de utilizador selecionadas reaparecerão na página **Utilizadores e licenças.**
 
-## <a name="related-topics"></a>Tópicos relacionados
+## <a name="next-steps"></a>Passos seguintes
 
+- [Assign or revoke licenses to multiple users (Atribuir ou revogar licenças para vários utilizadores)](bulk-license-provisioning-for-multiple-users.md)
 
-[Assign or revoke licenses to multiple users (Atribuir ou revogar licenças para vários utilizadores)](bulk-license-provisioning-for-multiple-users.md)
-
-[Criar vários utilizadores para uma conta de cliente](adding-multiple-users-to-a-customer-account.md)
+- [Criar vários utilizadores para uma conta de cliente](adding-multiple-users-to-a-customer-account.md)

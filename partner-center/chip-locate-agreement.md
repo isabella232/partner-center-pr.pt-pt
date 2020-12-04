@@ -1,22 +1,22 @@
 ---
-title: Localize a contagem do ambiente de trabalho e o nível de taxa para um acordo
+title: Encontre a contagem de desktop, nível de taxa em CHIP
 ms.topic: how-to
 ms.date: 11/09/2020
-description: Onde está a contagem de ambiente de trabalho e a informação do nível de taxa no CHIP.
+description: Saiba como usar a plataforma Channel Incentives (CHIP) para encontrar a contagem de desktop e informações de nível de taxas para um acordo.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6eb763593427070fa309efe78fd39a294e9a6d99
-ms.sourcegitcommit: b8e9609fd6448fcb265e4afc480d7a97e8009e63
+ms.openlocfilehash: 51307be51de3c41aca9fb9d39ab623f4dac318a7
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94422255"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570557"
 ---
-# <a name="locate-the-desktop-count-and-fee-level-for-an-agreement"></a>Localize a contagem do ambiente de trabalho e o nível de taxa para um acordo
+# <a name="locate-the-desktop-count-and-fee-level-for-an-agreement"></a>Localizar a contagem de computadores e o nível de honorários de um contrato
 
 Você é capaz de baixar para o Excel, um ficheiro que fornece detalhes do acordo para a contagem de desktop e nível de taxas.
 

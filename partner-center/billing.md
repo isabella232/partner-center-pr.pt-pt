@@ -9,19 +9,14 @@ ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 04/05/2020
-ms.openlocfilehash: d34744b1bfe8508c1bcdb804b109f7ac00ad27b8
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 6bb915681d65213c1180bab1f44f49372cb72697
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92529894"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570642"
 ---
 # <a name="overview-main-billing-and-tax-articles-in-partner-center"></a>Visão geral: Principais faturas e artigos fiscais no Partner Center
-
-**Aplica-se a**
-
-- Partner Center
-- Centro de Parceiros para Microsoft Cloud para governo dos EUA
 
 **Funções adequadas**
 
@@ -29,6 +24,9 @@ ms.locfileid: "92529894"
 - Administrador de faturação
 - Administrador global
 - Agente comercial
+
+Esta artilce fornece links para informações sobre faturação e tópicos fiscais no Partner Center, incluindo recursos de faturação, faturas, faturas e impostos.
+
 
 | Tópico | Descrição |
 | ----- | ----------- |
@@ -44,3 +42,7 @@ ms.locfileid: "92529894"
 | [Solicite um crédito SLA para interrupções](request-credit.md) | Como solicitar um crédito SLA da Microsoft para os seus clientes quando há uma falha de serviço. |
 
 Se procura informações e recursos de faturação da API do Partner Center, consulte a [documentação de faturação](/partner-center/develop/manage-billing)do desenvolvedor.
+
+## <a name="next-steps"></a>Passos seguintes
+
+- [Receber pagamento no marketplace comercial](marketplace-get-paid.md)

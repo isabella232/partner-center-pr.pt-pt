@@ -9,18 +9,14 @@ author: amitravat
 ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: de7b9775be925911dab6a7fd72b8f81a5b701bec
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: b2c59bc40b5092a4a2ee6e06bcb2e49a86e0201d
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "92529416"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570659"
 ---
 # <a name="assign-or-revoke-licenses-at-the-same-time-to-multiple-users-in-a-customer-account"></a>Atribuir ou revogar licenças ao mesmo tempo a vários utilizadores numa conta de cliente
-
-**Aplica-se a**
-
-- Partner Center
 
 **Funções adequadas**
 
@@ -42,7 +38,7 @@ O Partner Center rastreia e mostra todos os direitos de licença do cliente.
 
 3. Selecione a caixa de verificação para dois ou mais utilizadores da lista. (Para selecionar todos os utilizadores na página atual, selecione a caixa de verificação na parte superior da coluna **Utilizadores.)**
 
-    Pode encontrar e selecionar utilizadores em várias páginas utilizando as ferramentas **First** , **Previous** , **Next** and **Last.**
+    Pode encontrar e selecionar utilizadores em várias páginas utilizando as ferramentas **First**, **Previous**, **Next** and **Last.**
 
 4. Selecione a ligação **Utilizadores Selecionados.** A lista apresentada mostra os utilizadores selecionados.
 
@@ -71,7 +67,7 @@ O Partner Center rastreia e mostra todos os direitos de licença do cliente.
 7. Selecione mais de um produto para os utilizadores selecionando a caixa de verificação de cada produto.
     -   Selecione **Os planos de serviço** para qualquer produto, para visualizar e selecionar os planos de serviço de que os utilizadores precisam.
 
-8. Selecione **Guardar** . O Partner Center abre uma página de confirmação **atualizada das Licenças** que lista os utilizadores e as suas novas licenças.
+8. Selecione **Guardar**. O Partner Center abre uma página de confirmação **atualizada das Licenças** que lista os utilizadores e as suas novas licenças.
 
 >[!NOTE]
 >Alguns produtos da Microsoft podem não estar disponíveis em determinados locais. Outros produtos dependem de outros produtos ou serviços, ou não podem ser atribuídos juntos ao mesmo utilizador. Depois de guardar, a página de confirmação lista todos os resultados de todos os utilizadores da atribuição de licença bem sucedida e quaisquer erros da atribuição da licença.
@@ -94,7 +90,7 @@ O Partner Center rastreia e mostra todos os direitos de licença do cliente.
 
    Por exemplo, se todos os utilizadores selecionados tiverem licenças do Office 365 Enterprise e quiser revogar as licenças, selecione a caixa de verificação para limpá-la.
 
-7. Selecione **Guardar** .
+7. Selecione **Guardar**.
 
 ## <a name="next-steps"></a>Passos seguintes
 

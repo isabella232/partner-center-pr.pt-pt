@@ -9,19 +9,14 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4ff64c265aadacca5389c16168d1e161936f5e88
-ms.sourcegitcommit: e243bc0ef337f5d92c5b208ce6bb9dc5f179b185
+ms.openlocfilehash: 254543c353669166ed9971d57e6255bd589ccb7d
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/31/2020
-ms.locfileid: "92529384"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570710"
 ---
 # <a name="billing-overview-for-csp-program-partners-working-in-partner-center"></a>Descrição geral da faturação para parceiros do programa CSP que trabalham no Centro de Parceiros 
-
-**Aplica-se a**
-
-- Partner Center
-- Parceiros no programa Cloud Solution Provider (CSP)
 
 **Funções adequadas**
 
@@ -31,13 +26,16 @@ ms.locfileid: "92529384"
 - Agente helpdesk
 - Agente comercial
 
+Este artigo fornece a informação básica de faturação e fatura para parceiros CSP no Partner Center, incluindo como faturar os clientes e como encontrar e ler a sua fatura.
+
+
 ## <a name="find-your-bill"></a>Encontre a sua conta
 
 Para encontrar a sua conta:
 
-1. [Inscreva-se no painel do Centro de Parceiros.](https://partner.microsoft.com/dashboard/home)
+1. Inscreva-se no painel do Centro [de Parceiros.](https://partner.microsoft.com/dashboard/home)
 
-2. No menu da esquerda, escolha **Billing.**
+2. No menu Partner Center, escolha **Faturação.**
 
 3. Na página **de Faturação,** você pode baixar a sua conta mais recente ou baixar as contas anteriores na secção de histórico de **Faturação.**
 
@@ -45,7 +43,7 @@ Para encontrar a sua conta:
 
 A Microsoft não tem requisitos nem condições sobre a forma como lida com a sua própria faturação.
 
-Para determinar a utilização de um cliente, [consulte os seus ficheiros](#find-your-bill)de reconciliação . Pode utilizar o nome do cliente e outros campos relevantes para determinar a utilização.
+Para determinar a utilização de um cliente, consulte os seus ficheiros de [reconciliação](#find-your-bill). Utilize o nome do cliente e outros campos relevantes para determinar a utilização.
 
 ### <a name="billing-types"></a>Tipos de faturação
 
@@ -53,9 +51,9 @@ Os tipos de faturação no Partner Center incluem **faturação baseada em licen
 
 ### <a name="billing-currency"></a>Moeda de faturação
 
-**Faturação baseada em licenças e com base em uso** : Você será cobrado para produtos(s) na moeda do país ou região em que você está localizado. É cobrado o mesmo independentemente da localização do cliente a quem vendeu o produto.
+**Faturação baseada em licenças e com base em uso**: Você será cobrado para produtos(s) na moeda do país ou região em que você está localizado. É cobrado o mesmo independentemente da localização do cliente a quem vendeu o produto.
 
-**Faturação única** : A sua conta é gerada no contexto da moeda do cliente. Isto significa que se você é um parceiro que transaciona com clientes de diferentes moedas faturantes, você receberá uma fatura para cada tipo de moeda de cliente. Leia mais sobre [uma vez e recorrente.](azure-plan-billing.md) 
+**Faturação única**: A sua conta é gerada no contexto da moeda do cliente. Isto significa que se você é um parceiro que transaciona com clientes de diferentes moedas faturantes, você receberá uma fatura para cada tipo de moeda de cliente. Leia mais sobre [uma vez e recorrente.](azure-plan-billing.md) 
 
 ## <a name="invoices"></a>Faturas
 
@@ -72,7 +70,7 @@ As listas de preços são atualizadas mensalmente. As listas de preços de pré-
 Para ver as listas de preços:
 
 1. [Inscreva-se no painel do Centro de Parceiros.](https://partner.microsoft.com/dashboard/home)
-2. No menu à esquerda, escolha **Vender,** em seguida, **selecione Preços e ofertas** .
+2. No menu à esquerda, escolha **Vender,** em seguida, **selecione Preços e ofertas**.
 3. Na página **de Preços e Ofertas,** pode ver 6 meses de listas de preços (incluindo o mês em curso) e listas de preços de pré-visualização (quando aplicável).
 
 Os preços **baseados na licença** são garantidos para o prazo da subscrição, geralmente 12 meses a partir da data de compra. 
@@ -109,7 +107,7 @@ Para alterar a frequência de faturação de um serviço online para um cliente:
 2. No menu à esquerda, escolha **Clientes.**
 3. Selecione o cliente cuja frequência de faturação de subscrição pretende alterar.
 4. Na página **de Subscrições** do cliente, selecione a subscrição que pretende alterar.
-5. Na página **Detalhes,** em **frequência de Faturação,** selecione **Mensal ou** **Anual** . Você verá uma página de confirmação com informações importantes sobre a alteração da frequência de faturação, bem como uma lista das subscrições prestes a ser alteradas.
+5. Na página **Detalhes,** em **frequência de Faturação,** selecione **Mensal ou** **Anual**. Você verá uma página de confirmação com informações importantes sobre a alteração da frequência de faturação, bem como uma lista das subscrições prestes a ser alteradas.
 6. Escolha **OK** para fazer a alteração (ou **cancele** para desfazê-la).
 
 ### <a name="adjustmentscreditscancellations"></a>Ajustes/Créditos/Cancelamentos
@@ -153,7 +151,7 @@ As taxas de serviço medidos podem ser alteradas dentro do ciclo da fatura.
 Para ver o seu estado atual de faturação, faturas e ficheiros de reconciliação:
 
 1. Inscreva-se no painel do Centro [de Parceiros.](https://partner.microsoft.com/dashboard/home)
-2. No menu à esquerda, escolha **Billing,** em seguida, selecione **compras recorrentes e únicas** .
+2. No menu à esquerda, escolha **Billing,** em seguida, selecione **compras recorrentes e únicas**.
 3. Na página do estado da faturação, selecione uma fatura ou ficheiro de reconciliação para visualizar informações mais detalhadas.
 
 ### <a name="customer-order-history"></a>Histórico de pedidos de clientes
@@ -173,3 +171,8 @@ Poderá ter de solicitar um crédito ou rebill pelas seguintes razões:
 - Foi aplicada uma restituição fiscal após a geração da fatura. Você pode solicitar um crédito ou rebill para obter o reembolso de imposto reenusado de volta para a fatura original. O mesmo se aplica também aos reembolsos. Você pode solicitar um crédito ou rebill da fatura original, em seguida, puxar um reembolso.
 
 **Para todas as transações pontuais e recorrentes,** a Microsoft pode emitir uma nota de crédito quando solicitar um crédito ou um rebill. A fatura é cancelada quando o crédito é emitido. 
+
+## <a name="next-steps"></a>Passos seguintes
+
+- [Compreenda o seu projeto de lei e arquivo de reconciliação](read-your-bill.md)
+- [Cenários comuns de faturação para parceiros do programa CSP](common-billing-scenarios.md)

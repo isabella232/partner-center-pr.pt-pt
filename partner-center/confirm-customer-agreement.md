@@ -1,6 +1,6 @@
 ---
 title: Confirm customer acceptance of the Microsoft Customer Agreement (Confirmar a aceitação do cliente do Contrato de Cliente Microsoft)
-description: Saiba como confirmar a aceitação do cliente do Acordo de Cliente da Microsoft. Os participantes do programa Cloud Solution Provider (CSP) precisam de encomendar produtos e serviços da Microsoft aos clientes.
+description: Os parceiros do Cloud Solution Provider (CSP) precisam confirmar a aceitação do cliente do Microsoft Customer Agreement antes de encomendar os serviços da Microsoft aos clientes.
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ ms.author: v-aarzh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 05/05/2020
-ms.openlocfilehash: 45a34473ff63875af8bd07962ea836661bc948ee
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.openlocfilehash: 423cf1aab281ad8e77e03aa386b43360e1b99b3c
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92530638"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570574"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement-in-the-csp-partner-program"></a>Confirme a aceitação do Cliente do Microsoft No programa de parceiros CSP
 
@@ -32,9 +32,9 @@ No dia 1 de outubro de 2019, a Microsoft introduziu o **Microsoft Customer Agree
 
 Os clientes têm duas opções para aceitar o Acordo de Cliente da Microsoft. 
 
-**Opção 1** : Atestado parceiro de aceitação do cliente - O Parceiro pode confirmar a aceitação do cliente utilizando o Partner Center API/SDK ou através do painel partner Center.
+**Opção 1**: Atestado parceiro de aceitação do cliente - O Parceiro pode confirmar a aceitação do cliente utilizando o Partner Center API/SDK ou através do painel partner Center.
 
-**Opção 2** : Aceitação direta do cliente - O parceiro pode convidar o cliente através de um URL para rever e aceitar o acordo no Microsoft 365 Admin Center.
+**Opção 2**: Aceitação direta do cliente - O parceiro pode convidar o cliente através de um URL para rever e aceitar o acordo no Microsoft 365 Admin Center.
 
 ## <a name="access-microsoft-customer-agreement-template"></a>Aceder ao modelo de Acordo de Cliente da Microsoft
 
@@ -48,7 +48,7 @@ Os parceiros podem confirmar a aceitação do Cliente do Microsoft Customer Agre
 
 Quando criar um novo inquilino de clientes no Partner Center, utilize os seguintes passos para confirmar a aceitação do Cliente do Microsoft Customer Agreement. Deve ser um agente administrativo ou agente comercial para executar estes passos.
 
-1. Selecione **Clientes** , e depois **Novo cliente** .
+1. Selecione **Clientes**, e depois **Novo cliente**.
 
 2. Informação em **Conta,** introduza informação para a empresa e o seu contacto principal.
 
@@ -66,17 +66,17 @@ Quando criar um novo inquilino de clientes no Partner Center, utilize os seguint
 
 Deve ser um agente administrativo ou agente comercial para fazer isto:
 
-1. Selecione **Clientes** . Encontre e selecione o cliente.
+1. Selecione **Clientes**. Encontre e selecione o cliente.
 
-2. Selecione **informação de Conta** .
+2. Selecione **informação de Conta**.
 
-3. Ao abrigo **do Microsoft Customer Agreement** , selecione **Update** .
+3. Ao abrigo **do Microsoft Customer Agreement**, selecione **Update**.
 
-4. Introduza o **Nome Próprio** , **Apelido,** **endereço de e-mail** e número de **telefone** (opcional) da pessoa que aceitou o acordo. Nos termos **da data de aceitação** do Acordo, insira a data adequada. Não pode marcar isto para uma data futura.
+4. Introduza o **Nome Próprio**, **Apelido,** **endereço de e-mail** e número de **telefone** (opcional) da pessoa que aceitou o acordo. Nos termos **da data de aceitação** do Acordo, insira a data adequada. Não pode marcar isto para uma data futura.
 
 5. **Selecione Save** e continue.
 
-   :::image type="content" source="images/mcua2-update2.png" alt-text="Novo cliente":::
+   :::image type="content" source="images/mcua2-update2.png" alt-text="Cliente existente":::
 
 ### <a name="retrieve-confirmation-of-customer-acceptance"></a>Recuperar a confirmação da aceitação do cliente
 
@@ -84,7 +84,7 @@ Pode obter a confirmação de que um cliente existente aceitou o Acordo de Clien
 
 1. Selecione **Clientes** e, em seguida, encontre e selecione o cliente que deseja ver.
 
-2. Selecione **informação de Conta** .
+2. Selecione **informação de Conta**.
 
 3. De acordo com **o contrato de cliente da Microsoft,** consulte se a confirmação foi ou não fornecida por este cliente.
 
@@ -119,16 +119,16 @@ Use os seguintes passos para criar um novo cliente no Partner Center e, em segui
 
 1. A partir do separador **Clientes** dentro do Partner Center, **selecione Adicionar cliente.**
 
-2. Informação **em Conta** , introduza informações sobre o novo cliente em todas as áreas requeridas, incluindo o nome da empresa do cliente e o contacto primário.
+2. Informação **em Conta**, introduza informações sobre o novo cliente em todas as áreas requeridas, incluindo o nome da empresa do cliente e o contacto primário.
 
-3. De acordo com o **Cliente** , selecione a primeira opção, **o Cliente será solicitado a aceitar o Acordo de Cliente da Microsoft no Microsoft 365 Admin Center** . Preencha todos os outros campos necessários na página.
+3. De acordo com o **Cliente**, selecione a primeira opção, **o Cliente será solicitado a aceitar o Acordo de Cliente da Microsoft no Microsoft 365 Admin Center**. Preencha todos os outros campos necessários na página.
 
 4. Selecione **Seguinte: Reveja** então continue os passos para criar o inquilino do cliente. 
 
 >[!NOTE] 
 >Os novos clientes não podem fazer uma nova compra até aceitarem o Acordo de Cliente da Microsoft.  
 
-   :::image type="content" source="images/mca/create-new-customer.jpg" alt-text="Novo cliente":::
+   :::image type="content" source="images/mca/create-new-customer.jpg" alt-text="Criar novo cliente":::
 
 5. Quando chegar ao ecrã **de Confirmação** no novo fluxo de trabalho do cliente, guarde as credenciais do cliente. Terá de dar estas credenciais ao seu cliente mais tarde.
 
@@ -152,11 +152,11 @@ Utilize os seguintes passos para convidar um novo cliente a rever e aceitar a re
 
 2. Será gerado um modelo de e-mail automático, incluindo texto e um URL parametrizado que direciona o cliente para o Microsoft 365 Admin Center.
 
-3. Pode personalizar o modelo de e-mail gerado automaticamente e, em seguida, selecionar **Copy para clipboard** ou **Abrir no e-mail** .
+3. Pode personalizar o modelo de e-mail gerado automaticamente e, em seguida, selecionar **Copy para clipboard** ou **Abrir no e-mail**.
 
 4. Utilize este modelo de e-mail para convidar o cliente a aceitar o pedido **de relacionamento do revendedor** e o **Acordo de Cliente da Microsoft.** (Nota: No convite por e-mail, certifique-se de que o parceiro também inclui o URL que foi fornecido automaticamente, bem como as credenciais de cliente que foram criadas recentemente.)
 
-   :::image type="content" source="images/mca/createrelationship.png" alt-text="Novo cliente":::
+   :::image type="content" source="images/mca/createrelationship.png" alt-text="criar uma relação":::
 
 5. O cliente recebe convite via e-mail e clica no URL parametrizado. 
 
@@ -166,7 +166,7 @@ Utilize os seguintes passos para convidar um novo cliente a rever e aceitar a re
 
 8. Dentro do mesmo URL, o cliente é capaz de ver uma lista consolidada de diferentes parceiros com os quais está a trabalhar. Podem selecionar um parceiro para ver detalhes.
 
-   :::image type="content" source="images/mca/accept.jpg" alt-text="Novo cliente":::
+   :::image type="content" source="images/mca/accept.jpg" alt-text="Aceitar o contrato":::
 
 
 ## <a name="invite-an-existing-customer-to-review-and-accept-the-agreement"></a>Convide um cliente existente a rever e aceitar o acordo
@@ -183,14 +183,14 @@ Utilize os seguintes passos para convidar um cliente existente a rever e aceitar
 
 5. Dentro do mesmo URL, o cliente pode ver a lista consolidada de diferentes parceiros com quem está a trabalhar. Podem selecionar um parceiro para ver detalhes.
 
-   :::image type="content" source="images/mca/customeraccept.png" alt-text="Novo cliente":::
+   :::image type="content" source="images/mca/customeraccept.png" alt-text="cliente":::
 
 >[!NOTE]
 >Em certos cenários, os clientes podem não ser capazes de aceitar diretamente o Acordo de Cliente da Microsoft. Para saber mais sobre estas situações, consulte [dois cenários onde precisa de atestar em nome do seu cliente.](attest-acceptance-customer-agreement.md)
 
 ### <a name="historical-timeline-details"></a>Detalhes históricos da linha do tempo
 
-| Date | Marco | Detalhes |
+| Data | Marco | Detalhes |
 |------------|------------|--------------------------------|
 |01 de agosto de 2019| Pré-visualização UX disponível na caixa de areia| Os parceiros podem confirmar a aceitação do Cliente do Microsoft Customer Agreement utilizando o painel de instrumentos partner Center no ambiente de caixa de areia CSP. Os parceiros com acesso ao ambiente de caixa de areia CSP pré-visualizam as alterações da experiência do utilizador. Os parceiros sem acesso a sandbox podem aprender sobre as mudanças neste tópico.|
 |03 de setembro de 2019|A pré-visualização da API está disponível na caixa de areia.|O parceiro pode confirmar a aceitação do Cliente do Microsoft Customer Agreement utilizando a API do Partner Center em ambiente de caixa de areia CSP. Os parceiros da API podem aproveitar esta oportunidade para visualizar as alterações da API e começar a trabalhar na integração da API para apoiar o novo acordo.|
