@@ -1,19 +1,19 @@
 ---
-title: Informação sobre imposto sobre o valor acrescentado (IVA) no registo do Partner Center
+title: Informações de IVA (imposto sobre valor acrescentado) no registro do Centro de Parceiros
 description: Se você é obrigado a fornecer um número de ID de IVA durante o processo de registo do Centro parceiro, esta informação ajuda-o a começar.
 ms.topic: article
 author: mingshen-ms
 ms.author: mingshen
 ms.localizationpriority: medium
-ms.date: 10/31/2018
-ms.openlocfilehash: e455110d0ef631c4eb4eaefd67bd209c7f1b1abf
-ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
+ms.date: 12/04/2020
+ms.openlocfilehash: 2f46213cb72717c36461f58c159fa6a5803e3bb2
+ms.sourcegitcommit: 54c19f62474a4841d0bbd6a02a84b9c597f70fae
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/02/2020
-ms.locfileid: "92530209"
+ms.lasthandoff: 12/07/2020
+ms.locfileid: "96755644"
 ---
-# <a name="vat-info"></a>Informação sobre IVA
+# <a name="value-added-tax-vat-information"></a>Informação sobre o imposto sobre o valor acrescentado (IVA)
 
 **Aplica-se a:**
 
@@ -25,6 +25,24 @@ Se você é obrigado a fornecer um número de ID de IVA durante o processo de re
 ## <a name="understanding-vat-numbers"></a>Compreender os números do IVA
 
 Um número de imposto sobre o valor acrescentado (IVA) é um identificador utilizado para países ou regiões da União Europeia. Para mais informações, consulte o site oficial [vies](http://ec.europa.eu/taxation_customs/vies/vieshome.do)da União Europeia.
+
+## <a name="location-specific-vat-information"></a>Informações específicas do IVA específicas da localização
+
+Os seguintes detalhes são exclusivos dos países ou regiões abaixo listados.
+
+### <a name="european-union"></a>União Europeia
+
+Nos Estados-Membros da União Europeia, os parceiros devem fornecer o seu número de identificação válido do IVA para cobrança inversa e faturação adequada. O número do IVA deve ser aceite como válido.
+
+A Microsoft não suporta crédito e re-factura. Antes de vender quaisquer subscrições, tem de [registar o seu número de Identificação de IVA](organization-tax-info.md) no Partner Center.
+
+### <a name="south-africa"></a>África do Sul
+
+A Microsoft aplica agora o IVA padrão sobre conteúdos digitais e serviços adquiridos por parceiros na África do Sul. Para excluir o IVA das suas faturas e geri-lo por si mesmo, tem de atualizar o perfil de faturação do seu parceiro [enviando à Microsoft o seu número de ID de IVA](organization-tax-info.md).
+
+### <a name="turkey"></a>Turquia
+
+A Microsoft aplica agora o IVA padrão sobre conteúdos digitais e serviços adquiridos por parceiros na Turquia. Para excluir o IVA das suas faturas e geri-lo por si mesmo, tem de atualizar o perfil de faturação do seu parceiro [enviando à Microsoft o seu número de ID de IVA](organization-tax-info.md).
 
 ## <a name="accepted-formats-for-vat-numbers"></a>Formatos aceites para números de IVA
 
