@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: e706c85a31967c163c2b147b0f40bfc4c99f67e2
-ms.sourcegitcommit: 5cbea13b9f5b34e8588382caab9a08537b4ca36f
+ms.openlocfilehash: 7f9ab107a622cfe8cc7ef3f1d1d2877810f749ed
+ms.sourcegitcommit: bc44a6e0c5ef048cda6e882fdb543c13c5b64912
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/17/2020
-ms.locfileid: "92530449"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "96869338"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>Conheça o Acordo de Parceiros da Microsoft (MPA) para parceiros de programas da CSP
 
@@ -30,6 +30,8 @@ Para continuar a participar no programa CSP, tem de assinar o Acordo de Parceiro
 
 ## <a name="verify-your-mpn-id-is-active-and-migrated-to-partner-center"></a>Verifique se o seu ID MPN está ativo e migrado para o Partner Center
 
+1. Se não emigrou a sua conta MPN do Partner Membership Center (PMC) para Partner Center, então precisa de migrar a [sua conta MPN para Partner Center](move-pmc-pc-map.md). Irá completar o resto dos passos após a conclusão da migração. 
+
 1. Inscreva-se no Partner Center com as suas credenciais de conta MPN.
  
 1. A partir **de Definições** selecione [Perfil de Parceiro](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile).
@@ -38,14 +40,16 @@ Para continuar a participar no programa CSP, tem de assinar o Acordo de Parceiro
  
 1. Se o estado do Programa MPN for **recusado/rejeitado** ou **pendente,** a verificação da sua conta falhou. Leia [o processo de verificação](verification-responses.md) para saber como resolver a questão da verificação.
 
-1. Se não vir um estado de conta MPN, ou não tiver migrado a sua conta MPN do Partner Membership Center (PMC) para Partner Center, então tem de migrar a [sua conta MPN para o Partner Center](move-pmc-pc-map.md).
+
 
 >[!NOTE]
 >As credenciais de conta mpn ID podem não ser as mesmas que as credenciais da sua conta CSP.
 
 ## <a name="confirm-you-are-enrolled-as-a-csp-indirect-reseller"></a>Confirme que está inscrito como Revendedor indireto do CSP
 
-1. Inscreva-se no Partner Center com as suas credenciais de conta CSP.
+1. Se ainda não está matriculado como [Revendedor Indireto CSP](enrolling-in-the-csp-program.md)  no Partner Center, então tem de o fazer primeiro. Complete o resto dos passos após a inscrição como Revendedor Indireto CSP no Partner Center.
+
+1. Inscreva-se no Partner Center com as suas credenciais de conta de administração CSP Global.
 
 1. A partir **de Definições** selecione [Perfil de Parceiro](https://partner.microsoft.com/pcv/accountsettings/partnerprofile).
 
@@ -57,7 +61,7 @@ Para continuar a participar no programa CSP, tem de assinar o Acordo de Parceiro
  
 1. Se o estado do revendedor indireto for **rejeitado** ou **recusado,** então a verificação da sua conta falhou. Leia [o processo de verificação](verification-responses.md) para saber como resolver a questão da verificação.
 
-1. Se já tenha acedido ao Partner Center como revendedor indireto, aceite o Acordo de Parceiro da Microsoft na visão geral do painel do Partner Center utilizando credenciais de Administração Global. Pode confirmar se o Acordo de Parceiro da Microsoft já foi assinado a partir de **informações** do Programa de Perfil de [Parceiro](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) ou da notificação do banner na página de Visão Geral da CSP.
+1. Se já se mudou para partner center como revendedor indireto, aceite o Acordo de Parceiro da Microsoft na visão geral do painel do Partner Center utilizando credenciais de Administração Global. Pode confirmar se o Acordo de Parceiro da Microsoft já foi assinado a partir de **informações** do Programa de Perfil de [Parceiro](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) ou da notificação do banner na página de Visão Geral da CSP.
 
 Lembre-se de aceitar o pedido de relacionamento CSP com o seu fornecedor Indireto.
 
@@ -65,23 +69,23 @@ Lembre-se de aceitar o pedido de relacionamento CSP com o seu fornecedor Indiret
 
 Para ver se assinou a MPA:
 
-1. Como administrador global da sua empresa, inscreva-se no [painel partner center](https://partner.microsoft.com/dashboard/home).
+ Como administrador global da sua empresa, vá ao seu [CSP Overview](https://partner.microsoft.com/pcv/dashboard/overview) e verifique para ver o banner verde que o notifica de que aceitou a MPA.
 
-2. Vá ao seu **Visão Geral da CSP** e verifique para ver o banner verde que o notifica de que aceitou a MPA.
  
 :::image type="content" source="images/mpagreen.png" alt-text="Banner verde mostrando aceitação mpa":::
 
 >[!NOTE]
 >Só o administrador global da sua empresa pode ver e assinar a MPA. Se você não é o administrador global, você precisará pedir ao seu administrador global para verificar a MPA.
 
-## <a name="microsoft-customer-agreement"></a>Contrato de Cliente da Microsoft
 
-A aceitação pelo cliente do Microsoft Customer Agreement (MCuA) será necessária na CSP para compras de serviços Azure através de um plano Azure, e para todas as outras ofertas em CSP adquiridas após 31 de janeiro de 2020. Para mais informações, leia [Confirme a aceitação do cliente do Contrato de Cliente da Microsoft.](confirm-customer-agreement.md)
+## <a name="downloadable-step-by-step-guides"></a>Guias passo a passo transferíveis
 
+1. [Migrar do PMC para o Centro de Parceiros e aceitar o Contrato de Parceiro da Microsoft](https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx)
+
+2. [Integração de membros do MPN e o Contrato de Parceiro da Microsoft](https://assetsprod.microsoft.com/mpn/onboard-pc-csp-mpn-mpa-guide.pptx)
+
+3. [Verificar o estado de aceitação do Contrato de Parceiro da Microsoft](https://assetsprod.microsoft.com/mpn/verify-mpa-acceptance-status.pptx)
+ 
 ## <a name="next-steps"></a>Passos seguintes
 
-- [Migrar do PMC para o Centro de Parceiros e aceitar o Contrato de Parceiro da Microsoft](https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx)
-
-- [Integração de membros do MPN e o Contrato de Parceiro da Microsoft](https://assetsprod.microsoft.com/mpn/onboard-pc-csp-mpn-mpa-guide.pptx)
-
-- [Verificar o estado de aceitação do Contrato de Parceiro da Microsoft](https://assetsprod.microsoft.com/mpn/verify-mpa-acceptance-status.pptx)
+- [Enroll in the Cloud Solution Provider program](enrolling-in-the-csp-program.md) (Inscrever-se no programa do Fornecedor de Soluções Cloud)
