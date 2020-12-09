@@ -1,7 +1,7 @@
 ---
 title: Software Assurance Planning Services (Serviços de Planeamento do Software Assurance)
 ms.topic: article
-ms.date: 06/03/2020
+ms.date: 12/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Saiba como se inscrever e qualificar-se nos compromissos dos Microsoft Planning Services para que possa fornecer formação e outros serviços a clientes com Software Assurance.
@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4c61a649da7e4983be1a478fdd963ba937e7783b
-ms.sourcegitcommit: 2254b8c18c34254ed14db55ec20dcb2ccb287663
+ms.openlocfilehash: 03292d00864e30fd4941320748aef1590c9e2a80
+ms.sourcegitcommit: 175fa04ba45a1133b77d8055a0123561bd987415
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "92529515"
+ms.lasthandoff: 12/09/2020
+ms.locfileid: "96926649"
 ---
 # <a name="software-assurance-planning-services-in-partner-center"></a>Software Assurance Planning Services in Partner Center (Serviços de Planeamento do Software Assurance no Partner Center)
 
@@ -42,10 +42,9 @@ Este artigo explica como completar cada passo.
 
 ## <a name="verify-eligibility-new-partners"></a>Verificar elegibilidade (novos parceiros)
 
-Antes de empresas e consultores parceiros poderem inscrever-se numa das ofertas dos Serviços de Planeamento, devem satisfazer tanto os requisitos de formação de conformidade como os requisitos de competência:
+Antes de empresas e consultores parceiros poderem inscrever-se numa das ofertas dos Serviços de Planeamento, devem satisfazer os requisitos de competência, da seguinte forma:
 
-- **Requisitos de treino de conformidade.** Os requisitos de formação de conformidade do programa devem ser satisfeitos a nível da empresa.
-- **Requisitos de competência.** Os requisitos de competência são específicos para o noivado a ser entregue. Por exemplo, a sua empresa pode estar inscrita na oferta de Desktop Deployment Planning Services (DDPS). No entanto, só poderá realizar um compromisso específico dentro da oferta do DDPS se a sua empresa também detém uma competência qualificada para esse compromisso específico.
+**Requisitos de competência.** Os requisitos de competência são específicos para o noivado a ser entregue. Por exemplo, a sua empresa pode estar inscrita na oferta de Desktop Deployment Planning Services (DDPS). No entanto, só poderá realizar um compromisso específico dentro da oferta do DDPS se a sua empresa também detém uma competência qualificada para esse compromisso específico.
 
 >[!NOTE]
 > Para saber mais sobre os requisitos de elegibilidade para compromissos específicos, [consulte os requisitos de elegibilidade para compromissos de Serviços de Planeamento.](software-assurance-dps-requirements.md)
@@ -53,8 +52,8 @@ Antes de empresas e consultores parceiros poderem inscrever-se numa das ofertas 
 Para ajudar a verificar a elegibilidade da sua empresa para se inscrever num compromisso específico dos Serviços de Planeamento:
 
 1. Inscreva-se no painel do Centro [de Parceiros](https://partner.microsoft.com/dashboard/home).
-2. Selecione **MPN** no menu e, em seguida, selecione **Programas** .
-3. Selecione **a inscrição de garantia de software** .
+2. Selecione **MPN** no menu e, em seguida, selecione **Programas**.
+3. Selecione **a inscrição de garantia de software**.
 4. Selecione o separador **de inscrição** do programa De planeamento no topo da página. Verá uma marca de verificação verde ao lado de quaisquer requisitos ou competências que já tenha cumprido.
 
 ## <a name="enroll-new-partners"></a>Inscreva-se (novos parceiros)

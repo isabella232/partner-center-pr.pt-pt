@@ -1,7 +1,7 @@
 ---
 title: Programa de Voucher de Formação de Garantia de Software
 ms.topic: article
-ms.date: 06/12/2020
+ms.date: 12/09/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Saiba como se inscrever no programa de Voucher de Formação de Garantia de Software para que possa ser compensado pela entrega de formação e planeamento a clientes empresariais.
@@ -9,12 +9,12 @@ author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 9470918fd868d9e8759f62b37e0bf30a21eaf540
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: 786f69858dc90a9c0993e88c4900a647a07ba81f
+ms.sourcegitcommit: 175fa04ba45a1133b77d8055a0123561bd987415
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "92529484"
+ms.lasthandoff: 12/09/2020
+ms.locfileid: "96926612"
 ---
 # <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>Software Assurance Training Voucher (SATV) program in Partner Center (Programa do Voucher de Formação do Software Assurance (SATV) no Partner Center)
 
@@ -45,11 +45,11 @@ Pode verificar a elegibilidade da sua empresa, incluindo os requisitos de compet
 
 ## <a name="enroll-in-the-training-program"></a>Inscreva-se no programa de formação
 
-Quando a sua empresa cumprir os requisitos de elegibilidade e os participantes do seu programa terem passado no curso de formação de conformidade, estará pronto para assinar o contrato do programa Software Assurance Training Voucher e para se inscrever. Certifique-se de rever todas as [políticas do programa SATV,](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP)em seguida, siga as instruções no [passo 2](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) do fluxo de trabalho para concluir o processo de inscrição satv no Partner Center.
+Depois de a sua empresa cumprir os requisitos de elegibilidade, está pronto para assinar o contrato do programa de formação de software Assurance Voucher e inscrever-se. Certifique-se de rever todas as [políticas do programa SATV,](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP)em seguida, siga as instruções no [passo 2](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) do fluxo de trabalho para concluir o processo de inscrição satv no Partner Center.
 
 
 ## <a name="confirm-course-eligibility"></a>Confirmar a elegibilidade do curso
-Uma vez inscritos no programa SATV, os parceiros podem oferecer sessões de formação para cursos elegíveis para SATV, para os quais os clientes podem usar os seus vouchers de formação. Os cursos elegíveis estão listados no catálogo de elegibilidade do [curso SATV.](https://savl-catalog.microsoft.com/) Rever [a 3.](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) duração do fluxo de trabalho para compreender que tipos de cursos são elegíveis para o SATV.
+Uma vez inscritos no programa SATV, os parceiros podem oferecer sessões de formação para cursos elegíveis para SATV, para os quais os clientes podem usar os seus vouchers de formação. Os cursos elegíveis estão listados no catálogo de elegibilidade do curso SATV. Rever [a 3.](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) duração do fluxo de trabalho para compreender que tipos de cursos são elegíveis para a SATV ou para obter uma ligação ao catálogo de elegibilidade do curso.
 
 ## <a name="have-customer-create-and-assign-voucher"></a>Ter o cliente a criar e atribuir voucher
 

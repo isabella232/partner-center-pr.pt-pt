@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a4472702104d3d4596d57633e80b8e652c624297
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 98ad8e3f78b8181013b21d6146744337de6976bd
+ms.sourcegitcommit: 175fa04ba45a1133b77d8055a0123561bd987415
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "92529299"
+ms.lasthandoff: 12/09/2020
+ms.locfileid: "96926666"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies-where-you-can-sell-csp-offers"></a>Cloud Solution Provider programa mercados regionais e moedas onde pode vender ofertas de CSP
 
@@ -43,23 +43,23 @@ Se a localização da sua empresa estiver na lista abaixo, pode vender ofertas d
 
 | País/Região           | Moeda |
 | ------------------------ |:--------:|
-| Angola                   |          |
+| Angola                   |   USD    |
 | Benim                    |   USD    |
-| Botsuana                 |          |
+| Botsuana                 |   USD    |
 | Burkina Faso             |   USD    |
 | Burundi                  |   USD    |
 | Camarões                 |   USD    |
-| Cabo Verde               |          |
+| Cabo Verde               |   USD    |
 | República Centro-Africana |   USD    |
 | Chade                     |   USD    |
 | Comoros                  |   USD    |
 | Congo                    |   USD    |
 | República Democrática do Congo              |   USD    |
-| Costa do Marfim (Côte d’Ivoire)            |          |
+| Costa do Marfim (Côte d’Ivoire)            |   USD    |
 | Jibuti                 |   USD    |
 | Guiné Equatorial        |   USD    |
 | Eritreia                  |   USD    |
-| Etiópia                 |          |
+| Etiópia                 |   USD    |
 | Polinésia Francesa         |   USD    |
 | Gabão                    |   USD    |
 | Gâmbia                   |   USD    |
@@ -80,7 +80,7 @@ Se a localização da sua empresa estiver na lista abaixo, pode vender ofertas d
 | Reunião                  |   USD    |
 | Ruanda                   |   USD    |
 | São Tomé e Príncipe    |   USD    |
-| Senegal                  |          |
+| Senegal                  |   USD    |
 | Seicheles               |   USD    |
 | Serra Leoa             |   USD    |
 | Somália                  |   USD    |
@@ -88,8 +88,8 @@ Se a localização da sua empresa estiver na lista abaixo, pode vender ofertas d
 | Santa Helena, Ascensão, Tristão da Cunha|    USD   |
 | Tanzânia                 |   USD    |
 | Togo                     |   USD    |
-| Uganda                   |          |
-| Zâmbia                   |          |
+| Uganda                   |   USD    |
+| Zâmbia                   |   USD    |
 |
 
 ## <a name="asia-and-pacific-region-and-market"></a>Ásia e Pacífico região e mercado
@@ -99,17 +99,17 @@ Se a localização da sua empresa estiver na lista abaixo, pode vender ofertas d
 | País/Região     | Moeda |
 | --------------     |:--------:|
 |  Bangladesh        |   USD    |
-|  Butão            |          |
+|  Butão            |   USD    |
 |  Brunei Darussalam |   USD    |
-|  Camboja          |          |
+|  Camboja          |   USD    |
 |  RAE de Hong Kong         |   USD    |
 |  Indonésia         |   USD    |
-|  Laos              |          |
+|  Laos              |   USD    |
 |  Macau             |   USD    |
 |  Malásia          |   USD    |
-|  Maldivas          |          |
-|  Mianmar           |          |
-|  Nepal             |          |
+|  Maldivas          |   USD    |
+|  Mianmar           |   USD    |
+|  Nepal             |   USD    |
 |  Filipinas       |   USD    |
 |  Singapura         |   USD    |
 |  Sri Lanca         |   USD    |
@@ -179,9 +179,9 @@ Se a localização da sua empresa estiver na lista abaixo, pode vender ofertas d
 |  Áustria        |   EUR    |
 |  Bélgica        |   EUR    |
 |  Ilha Bouvet  |   EUR    |
-|  Bulgária       |          |
+|  Bulgária       |   EUR    |
 |  Croácia        |   EUR    |
-|  Chipre         |          |
+|  Chipre         |   EUR    |
 |  República Checa |   EUR    |
 |  Dinamarca        |   DKK    |
 |  Estónia        |   EUR    |
@@ -191,7 +191,7 @@ Se a localização da sua empresa estiver na lista abaixo, pode vender ofertas d
 |  Alemanha        |   EUR    |
 |  Gibraltar      |   GBP    |
 |  Grécia         |   EUR    |
-|  Gronelândia      |          |
+|  Gronelândia      |   EUR    |
 |  Guernesey       |   GBP    |
 |  Hungria        |   EUR    |
 |  Islândia        |   EUR    |
@@ -203,8 +203,8 @@ Se a localização da sua empresa estiver na lista abaixo, pode vender ofertas d
 |  Listenstaine  |   EUR    |
 |  Lituânia      |   EUR    |
 |  Luxemburgo     |   EUR    |
-|  Malta          |          |
-|  Mónaco         |          |
+|  Malta          |   EUR    |
+|  Mónaco         |   EUR    |
 |  Países Baixos    |   EUR    |
 |  Noruega         |   NOK    |
 |  Polónia         |   EUR    |
@@ -278,13 +278,13 @@ Se a localização da sua empresa estiver na lista abaixo, pode vender ofertas d
 |  Ilhas Falkland (Malvinas)|  USD    |
 |  Guiana Francesa  |   USD    |
 |  Granada        |   USD    |
-|  Guadalupe     |          |
+|  Guadalupe     |   USD    |
 |  Guatemala      |   USD    |
 |  Guiana         |   USD    |
 |  Haiti          |   USD    |
 |  Honduras       |   USD    |
 |  Jamaica        |   USD    |
-|  Martinica     |          |
+|  Martinica     |   USD    |
 |  México         |   USD    |
 |  Montserrate     |   USD    |
 |  Nicarágua      |   USD    |
@@ -315,9 +315,9 @@ Se a localização da sua empresa estiver na lista abaixo, pode vender ofertas d
 
 |  País/Região | Moeda |
 |  -------------- |:--------:|
-|  Afeganistão    |          |
+|  Afeganistão    |   USD    |
 |  Albânia        |   USD    |
-|  Argélia        |          |
+|  Argélia        |   USD    |
 |  Arménia        |   USD    |
 |  Azerbaijão     |   USD    |
 |  Barém        |   USD    |
@@ -328,21 +328,21 @@ Se a localização da sua empresa estiver na lista abaixo, pode vender ofertas d
 |  Geórgia        |   USD    |
 |  Iraque           |   USD    |
 |  Israel         |   USD    |
-|  Jordânia         |          |
+|  Jordânia         |   USD    |
 |  Cazaquistão     |   USD    |
 |  Kosovo         |   USD    |
 |  Koweit         |   USD    |
 |  Quirguistão     |   USD    |
 |  Líbano        |   USD    |
 |  Lesoto        |   USD    |
-|  Líbia          |          |
+|  Líbia          |   USD    |
 |  Macedónia, República da|   |
 |  Mauritânia     |   USD    |
-|  Moldávia        |          |
-|  Mongólia       |          |
-|  Montenegro     |          |
+|  Moldávia        |   USD    |
+|  Mongólia       |   USD    |
+|  Montenegro     |   USD    |
 |  Marrocos        |   USD    |
-|  Moçambique     |          |
+|  Moçambique     |   USD    |
 |  Omã           |   USD    |
 |  Paquistão       |   USD    |
 |  Território Palestiniano, Ocupado |        |
@@ -351,15 +351,15 @@ Se a localização da sua empresa estiver na lista abaixo, pode vender ofertas d
 |  Sérvia         |   USD    |
 |  África do Sul   |   USD    |
 |  Suazilândia      |   USD    |
-|  Tajiquistão     |          |
+|  Tajiquistão     |   USD    |
 |  Tunísia        |   USD    |
 |  Turquia         |   USD    |
-|  Turquemenistão   |          |
+|  Turquemenistão   |   USD    |
 |  Ucrânia        |   USD    |
 |  Emirados Árabes Unidos| USD |
-|  Usbequistão     |          |
+|  Usbequistão     |   USD    |
 |  Iémen          |   USD    |
-|  Zimbabué       |          |
+|  Zimbabué       |   USD    |
 |
 
 ## <a name="new-zealand-region-and-market"></a>Região e mercado da Nova Zelândia
