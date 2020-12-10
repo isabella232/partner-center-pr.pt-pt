@@ -9,18 +9,18 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 55046b21e70ad04f47bf4cd191736aa12335060e
-ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
+ms.openlocfilehash: 0a59849fdf1937c1a4ec5d619a95f9321fe58fa0
+ms.sourcegitcommit: 455894365fa488368f7572ac72312e84a267ef5e
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96556451"
+ms.lasthandoff: 12/10/2020
+ms.locfileid: "97011536"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Gerir a sua conta Partner Center - perfil da empresa, informações bancárias, funções, permissões e muito mais
 
 **Funções apropriadas** - administrador global, administrador mpn
 
-A conta que cria no Centro de Parceiros quando se inscreve é o seu email de trabalho mais as informações do seu negócio. Depois de criar uma conta, terminará a configuração do perfil completo da sua empresa, incluindo detalhes de suporte, isenções de impostos de arquivo, se for caso disso, e informações de contacto primários. A conta da sua empresa também incluirá contas de utilizador para quem utilizar o Partner Center para adicionar ou gerir clientes, vender subscrições, trabalhar com faturação e faturação, criar perfis de negócio, gerir referenciações, trabalhar com programas de incentivos e fornecer apoio.
+A conta que cria no Partner Center quando se inscreve é o seu email de trabalho mais as informações do seu negócio. Depois de criar uma conta, terminará a configuração do perfil completo da sua empresa, incluindo detalhes de suporte, isenções de impostos de arquivo, se for caso disso, e informações de contacto primários. A conta da sua empresa também incluirá contas de utilizador para quem utilizar o Partner Center para adicionar ou gerir clientes, vender subscrições, trabalhar com faturação e faturação, criar perfis de negócio, gerir referenciações, trabalhar com programas de incentivos e fornecer apoio.
 
 Ver artigos [Convide os colaboradores a juntarem-se ao Partner Center](guide-to-migration.md) e adicione um novo [utilizador.](create-user-accounts-and-set-permissions.md)
 
@@ -41,9 +41,19 @@ Isto mostra a página de definições de conta.
 
 Quer seja um parceiro ou um desenvolvedor, use o seu ID MPN para coisas como registar bilhetes de suporte. O seu ID MPN está localizado na página **de informações legais.** Também pode encontrá-lo no **perfil identidade.**
 
+## <a name="account-settings---partners-resellers"></a>Definições de conta - parceiros, revendedores
+
+Quando seleciona o ícone **Definições** e abre o menu **de definições de Conta,** a vista padrão, se a sua empresa fizer parte do programa Cloud Solution Provider, é **informação legal** que mostra dois separadores, **Parceiro** e **Revendedor**. Cada aba inclui aspetos do seu negócio.
+
+:::image type="content" source="images/accountsettings/reseller.png" alt-text="Menu mostra separadores para Parceiros e Revendedores":::
+
+O separador Partner incluirá todas as informações legais de negócio, tais como nome legal registado e endereço para a sua empresa, bem como contacto primário e localizações empresariais. O separador Revendedor para parceiros que fazem negócios CSP inclui o perfil de suporte ao **Cliente.**
+
+Se a sua empresa não participar na CSP, a vista predefinida mostrará apenas o **separador Parceiro** que incluirá o perfil de suporte ao **Cliente.**
+
 ## <a name="organization-profile"></a>Perfil da organização
 
-Utilize estas páginas para gerir áreas como o perfil de negócio legal, o perfil de parceiros e as localizações da empresa. Selecione separadores como **Legal** ou **Inquilinos (descritos** em mais detalhes abaixo) para editar essa área. Selecione o separador para o programa em que está interessado (MPN, CSP ou mercado comercial) para ver as suas informações e estado de verificação.
+Use estas páginas para gerir áreas aprofundadas do seu negócio, incluindo o perfil de negócio legal, perfil de parceiro e inquilinos. Gerir cada área separadamente. São descritos abaixo. 
 
 :::image type="content" source="images/accountsettings/account-settings-new.png" alt-text="Menu de informações legais.":::
 
@@ -81,7 +91,7 @@ O que trabalha no Partner Center e as áreas que pode atualizar ou ver depende d
 
 Para atualizar o seu e-mail preferido para receber notificações do Partner Center:
 
-1. Inscreva-se no [painel do Centro de Parceiros.](https://partner.microsoft.com/dashboard)
+1. Inscreva-se no painel do [Centro de Parceiros.](https://partner.microsoft.com/dashboard)
 1. Vá à [**preferência de Engagement**](https://partner.microsoft.com/dashboard/engagement/preference), selecione o link **Alterar,** atualize o endereço de e-mail e selecione **Guardar**.
 
 ### <a name="find-your-user-role"></a>Encontre a sua função de utilizador
