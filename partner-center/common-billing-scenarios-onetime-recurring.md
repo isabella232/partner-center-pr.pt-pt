@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 720e3c4f97e374b0137db2302988a0fbd2db9432
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: a301aa85310142b3327baabbf3c8545b31f489bd
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92530308"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354394"
 ---
 # <a name="partner-center-billing-scenarios-for-one-time-and-select-recurring-purchases"></a>Cenários de faturação do Partner Center para uma única vez e selecione compras recorrentes
 
@@ -88,3 +88,7 @@ O ficheiro de reconhecimento incluirá o seguinte:
 |6/11/2019 (tem 2 licenças)     |6/10/2019   |7/09/2019         |$4         |2        |$8       |Novo       |
 |6/12/2019     | 6/10/2019    |7/09/2019        |$4        |2        | -$7,74       |removerQuantidade           |
 |6/12/2019 (tem 1 licença)    | 6/10/2019    |7/09/2019   |$4    |1      |$3,87    |removerQuantidade |
+
+## <a name="next-steps"></a>Passos seguintes
+
+- [Experimente cenários de faturação mensal para novas subscrições, alteração dos valores das licenças ou suspensões](common-billing-scenarios-monthly.md)

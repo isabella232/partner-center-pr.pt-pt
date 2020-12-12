@@ -9,18 +9,15 @@ ms.author: v-aarzh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 06/30/2020
-ms.openlocfilehash: aacca72e9af45b2777364734c2b07dbe8101989d
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.openlocfilehash: f2513213bff38a6296832253a13725ff2508f1f8
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92530656"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354615"
 ---
 # <a name="updated-method-to-confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>Método atualizado para confirmar a aceitação do cliente do Acordo de Cliente da Microsoft
 
-**Aplica-se a**
-
--  Partner Center
 
 **Funções adequadas**
 
@@ -31,7 +28,7 @@ ms.locfileid: "92530656"
 > O recurso Do Acordo é atualmente suportado pelo Partner Center apenas na nuvem pública da Microsoft. Não é aplicável a:
 > * Centro de Parceiros operado pela 21Vianet
 > * Centro de Parceiros para Microsoft Cloud Germany
-> * Centro de Parceiros para Microsoft Cloud para governo dos EUA
+> * Centro de Parceiros do Microsoft Cloud for US Government
 
 >[!NOTE]
 >A partir de 31 de janeiro de 2020, todos os clientes, existentes e novos, devem assinar o novo Acordo de Clientes da Microsoft. Para saber mais, leia [Confirme a aceitação do cliente do Acordo de Cliente da Microsoft.](confirm-customer-agreement.md)
@@ -70,7 +67,7 @@ Isto aplica-se tanto aos ambientes de produção como de caixas de areia.
 
 Utilize o seguinte procedimento para confirmar a aceitação do cliente enquanto cria um novo inquilino de cliente no Partner Center. Deves ser um agente administrativo ou agente comercial para fazer isto.
 
-1. Selecione **Clientes** , e depois **Novo cliente** e, em seguida, selecione **informações de Conta** .
+1. Selecione **Clientes**, e depois **Novo cliente** e, em seguida, selecione **informações de Conta**.
 
 2. Insira a informação sobre o contacto **da Empresa** e **da Primária.**
 
@@ -82,9 +79,9 @@ Utilize o seguinte procedimento para confirmar a aceitação do cliente enquanto
 
 5. Insira os detalhes do utilizador que forneceu a aceitação.
 
-   :::image type="content" source="images/mca/MCA3.png" alt-text="Informações da empresa":::
+   :::image type="content" source="images/mca/MCA3.png" alt-text="Adicionar data de aceitação":::
 
-   Por predefinição, é apresentada a informação do utilizador de contacto primário. Se isto não estiver correto, selecione **Update** e, em seguida, insira o **Nome Próprio** , **Apelido,** **endereço de e-mail** e * número de *telefone* (opcional) da pessoa que aceitou o acordo.
+   Por predefinição, é apresentada a informação do utilizador de contacto primário. Se isto não estiver correto, selecione **Update** e, em seguida, insira o **Nome Próprio**, **Apelido,** **endereço de e-mail** e * número de *telefone* (opcional) da pessoa que aceitou o acordo.
 
 6. Selecione **Seguinte** para continuar com os passos restantes para criar o inquilino do cliente.
 
@@ -94,27 +91,27 @@ Deves ser um agente administrativo ou agente comercial para fazer isto.
 
 1. Selecione **Clientes** e, em seguida, encontre e selecione o cliente que deseja ver.
 
-2. Selecione **informação de Conta** .
+2. Selecione **informação de Conta**.
 
-3. Ao abrigo do **contrato de cliente da Microsoft,** selecione **Update** .
+3. Ao abrigo do **contrato de cliente da Microsoft,** selecione **Update**.
 
-   :::image type="content" source="images/mca/mca4.png" alt-text="Informações da empresa":::
+   :::image type="content" source="images/mca/mca4.png" alt-text="Atualizar":::
 
-4. Introduza o **Nome Próprio** , **Apelido,** **endereço de e-mail** e número de **telefone** (opcional) do utilizador que aceitou o acordo.
+4. Introduza o **Nome Próprio**, **Apelido,** **endereço de e-mail** e número de **telefone** (opcional) do utilizador que aceitou o acordo.
 
 5. Nos termos **da data de aceitação** do Acordo, insira a data adequada. Não pode marcar isto para uma data futura.
 
-6. Selecione **Guardar e continuar** .
+6. Selecione **Guardar e continuar**.
 
 ## <a name="confirm-customer-acceptance-while-creating-new-order-for-an-existing-customer"></a>Confirme a aceitação do cliente ao criar uma nova encomenda para um cliente existente
 
 Se tentar criar uma nova encomenda para um cliente existente que não tenha confirmado antes, receberá um pedido para completar a confirmação. Utilize o seguinte procedimento para o fazer.
 
-1. Introduza o **Nome Próprio** , **Apelido,** **endereço de e-mail** e número de **telefone** (opcional) do utilizador que aceitou o acordo.
+1. Introduza o **Nome Próprio**, **Apelido,** **endereço de e-mail** e número de **telefone** (opcional) do utilizador que aceitou o acordo.
 
 2. Nos termos **da data de aceitação** do Acordo, insira a data adequada. Não pode marcar isto para uma data futura.
 
-3. Selecione **Guardar e continuar** .
+3. Selecione **Guardar e continuar**.
 
 ## <a name="retrieve-confirmation-of-customer-acceptance-for-an-existing-customer"></a>Recuperar a confirmação da aceitação do cliente para um cliente existente
 
@@ -122,7 +119,7 @@ Pode obter a confirmação da aceitação do cliente para um cliente existente q
 
 1. Selecione **Clientes** e, em seguida, encontre e selecione o cliente que deseja ver.
 
-2. Selecione **informação de Conta** .
+2. Selecione **informação de Conta**.
 
 3. De acordo com **o contrato de cliente da Microsoft,** verá se foi ou não fornecida confirmação para este cliente.
 

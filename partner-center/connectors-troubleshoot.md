@@ -8,18 +8,17 @@ description: Aprenda respostas a perguntas comuns sobre a utilização de conect
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 988a696a8a0a0abb4d37e3915c76f905ec5b35b0
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: b8977f7c602b8587a619236b37a760a55bf87e53
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92530305"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354547"
 ---
 # <a name="troubleshoot-co-sell-referrals-connectors"></a>Resolução de problemas co-venda de conectores de referências
 
 **Aplica-se a:**
 
-- Partner Center
 - Dinâmica 365 CRM
 - Salesforce CRM
 
@@ -61,7 +60,7 @@ A solução Salesforce Connector é do tipo "Dynamics Flow" que suporta a sincro
 
 1. O que deve fazer se enfrentar o seguinte erro enquanto ativa os fluxos na Plataforma De Automatização de Energia?
 
-Erro: O pedido ao Gestor de Recursos Azure falhou com erro: '{"error":{"code":"WorkflowTriggerNotFound","message":"O fluxo de trabalho 'e14d00f1-1fdf-4b1b-aaac-54a50606093d3' não foi encontrado."}}}}}}}}}}}}}}}}} 
+Erro: O pedido ao Gestor de Recursos Azure falhou com erro: '{"error":{"code":"WorkflowTriggerNotFound","message":"O fluxo de trabalho 'e14d00f1-1fdf-4b1b-aaac-54a50606093d3' não foi encontrado."} 
 
 Siga estes passos de resolução de problemas:
 
@@ -80,7 +79,7 @@ Siga este passo de resolução de problemas:
 
 3. O que deve fazer se receber o seguinte erro ao ativar o Centro de Parceiros para o fluxo de CRM na Plataforma de Automatização de Energia?
  
-:::image type="content" source="images/cosellconnectors/powererror.png" alt-text="Mensagem de erro que requer o sinal":::
+:::image type="content" source="images/cosellconnectors/powererror.png" alt-text="Mensagem de erro que requer atualizações":::
 
 Siga estes passos de resolução de problemas:
 
@@ -95,11 +94,11 @@ Adiciona-se ligações ao fluxo enquanto o fluxo está em funcionamento e adicio
 - Selecione cada fluxo e edite-os individualmente.
 - Expandir todos os passos no fluxo 
 
-:::image type="content" source="images/cosellconnectors/flowsteps.png" alt-text="Mensagem de erro que requer o sinal":::
+:::image type="content" source="images/cosellconnectors/flowsteps.png" alt-text="Passos que precisam de ligações":::
 
 - Selecione os passos onde vê um ícone de aviso pedindo para associar ligações e adicione ligações. 
 
-:::image type="content" source="images/cosellconnectors/editflow.png" alt-text="Mensagem de erro que requer o sinal":::
+:::image type="content" source="images/cosellconnectors/editflow.png" alt-text="Editar passo a passo":::
 
 
 5. O que deve fazer se os fluxos da solução de Conectores de Referências co-vender não ligarem?
@@ -114,9 +113,9 @@ A. No Power Automamate, terá de editar fluxos na seguinte ordem e atualizá-los
 - Oportunidade Salesforce para Partner Center (Visualização insider)
 - Salesforce Microsoft Solutions to Partner Center (Visualização insider)
 
- B. Para cada um dos fluxos, selecione A opção **de utilizadores de executar apenas.** Selecione **Utilizar a ligação** em vez de **fornecido pelo utilizador apenas por execução** .  
+ B. Para cada um dos fluxos, selecione A opção **de utilizadores de executar apenas.** Selecione **Utilizar a ligação** em vez de **fornecido pelo utilizador apenas por execução**.  
 
-:::image type="content" source="images/cosellconnectors/runonly.png" alt-text="Mensagem de erro que requer o sinal":::
+:::image type="content" source="images/cosellconnectors/runonly.png" alt-text="Para ativar um fluxo":::
 
 
 C. Ativar estes fluxos abaixo mencionados:
@@ -128,7 +127,7 @@ C. Ativar estes fluxos abaixo mencionados:
     
 D. Ativar todos os fluxos restantes.
 
-E. No flow Partner Center Webhook Registration, selecione **Run** . Forneça o **url http** da primeira ação no Partner Center para o fluxo **Salesforce.** Selecione todas as quatro opções em **Eventos para se registar** e selecione **sim** para Overwrite.
+E. No flow Partner Center Webhook Registration, selecione **Run**. Forneça o **url http** da primeira ação no Partner Center para o fluxo **Salesforce.** Selecione todas as quatro opções em **Eventos para se registar** e selecione **sim** para Overwrite.
 
 ## <a name="questions-and-answers-about-runmaintenance"></a>Perguntas e respostas sobre Execução/Manutenção
 
@@ -138,13 +137,13 @@ Para garantir que os fluxos de automatismo de potência funcionam como espera e 
 
 2. O que deve fazer se vir referências que não são sincronizadas corretamente no Centro de Parceiros ou no ambiente de CRM?
  
-Para determinar o estado da sincronização de referência, **selecione Audit** . 
+Para determinar o estado da sincronização de referência, **selecione Audit**. 
 
-:::image type="content" source="images/cosellconnectors/synch.png" alt-text="Mensagem de erro que requer o sinal":::
+:::image type="content" source="images/cosellconnectors/synch.png" alt-text="Como sincronizar referências":::
 
 Certifique-se de que estão reunidas as seguintes condições:
 
-- O id de solução é fornecido como parte da oportunidade.
+- O ID da solução é fornecido como parte da oportunidade.
 
 - É necessário um código de país de duas letras.
 
@@ -156,7 +155,53 @@ Faça os seguintes passos:
 
 - Os vendedores de parceiros precisam de garantir que ativaram a opção **Sync com Partner Center** na secção CRM.
 
-:::image type="content" source="images/cosellconnectors/enablesynch.png" alt-text="Mensagem de erro que requer o sinal" no Partner Center.
+:::image type="content" source="images/cosellconnectors/enablesynch.png" alt-text="Certifique-se de que ativou o Synch":::
+
+- Os vendedores precisam fornecer receitas e data de encerramento na qualificação de uma liderança.
+
+- Se o ID de CRM for fornecido na fase de **criação** ou **atualização** da oportunidade de co-venda, mas uma oportunidade de chumbo com esse ID não for encontrada em CRM, então a atualização ou criação será ignorada.
+
+- Certifique-se de que o campo de referência da moeda está configurado no ambiente salesforce. 
+
+4. O que deve fazer se o conector ficar desligado e perder uma sincronização de referência. 
+
+Seguem-se algumas das opções que pode experimentar:
+
+- Verifique se o nome de utilizador ou a palavra-passe expirou para o utilizador do Partner Center com funções de administração de encaminhamento.
+
+- Pode ir à oportunidade não sincronizada, fazer uma pequena atualização e observar se a referência foi sincronizada.
+
+- Se os fluxos tiverem corrido e falhado, então selecione o fluxo e reencando a execução que falhou.
+
+5. O que deve fazer quando tiver acesso a erros negados?
+
+Certifique-se de que existem as funções apropriadas
+
+- Função de administrador de referência para o vendedor do Partner Center 
+ 
+- Função de administrador de sistema ou personalizador de sistema na sua instância crm
+
+- Certifique-se de que o utilizador da conta de fluxo Power Automamate entra https://flow.microsoft.com em, pelo menos, uma vez antes
+
+6. Se vir que **o código do país da conta do cliente** está em falta enquanto cria uma oportunidade de Co-venda, o que deve fazer?
+
+Terá de adicionar o código de 2 letras ISO à conta do Cliente em CRM.
+
+7. O que deve fazer se vir o erro que o **ID da solução é necessário** ao criar uma oportunidade de Co-venda?
+
+Para criar uma referência de co-venda, precisa de uma solução pronta para co-venda da Microsoft. 
+
+8. O que deve fazer quando vê oportunidades de Co-venda criadas no Partner Center que não são sincronizadas com CRM, mesmo que não existam erros de fluxo:
+
+Faça o seguinte:
+
+- Depois de ter criado um novo negócio de co-venda no Partner Center, verifique se o fluxo partner Center to Dynamics 365 é invocado (pode ser invocado várias vezes).
+
+- Se o fluxo for invocado, verifique todos os fluxos invocados e identifique o fluxo que atualizaria o CRM. Pode seguir as ações e verificar se a atualizou o CRM ou se encontrou um problema.
+
+- Check *New deal** in Partner Center para ver se é preenchido com ID CRM.
+
+- Certifique-se de que o negócio não está fechado acidentalmente como "Won" ou "Lost" no Partner Center.
 
 ## <a name="next-steps"></a>Passos seguintes
 
