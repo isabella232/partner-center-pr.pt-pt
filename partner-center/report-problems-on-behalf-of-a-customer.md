@@ -9,19 +9,19 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 12310b8c89f593122cdd9caec0aa74a712953219
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: baeb53d237ba1aeb987b08097526eda5c6235512
+ms.sourcegitcommit: df7f26b46d1ca46e962e528578d20330804638f9
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92530488"
+ms.lasthandoff: 12/11/2020
+ms.locfileid: "97153150"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>Relatar um problema de serviço em nome de um cliente - incluindo quando e como fazê-lo
 
 **Aplica-se a**
 
 - Partner Center
-- Centro de Parceiros para Microsoft Cloud para governo dos EUA
+- Centro de Parceiros do Microsoft Cloud for US Government
 
 **Funções adequadas**
 
@@ -31,11 +31,13 @@ Se o seu cliente estiver a ter um problema de serviço que não pode resolver, e
 
 ## <a name="submit-a-service-request-for-a-customer"></a>Submeter um pedido de serviço para um cliente
 
-1. A partir do menu **Centro de Parceiros,** selecione **pedidos de Serviço** e, em seguida, pedido de **Cliente** . 
+1. A partir do menu Partner Center em CSP, selecione **Clientes**
 
-2. Na página de pedidos do Cliente, procure o cliente que deseja.
+2. Na página Clientes, selecione ou procure o cliente que deseja
+    
+3. A partir do menu do cliente, selecione **pedidos de Serviço**
 
-3. A partir do menu **dropdown de novo pedido,** selecione **Azure** ou **Office 365, Dynamics 365, Enterprise Mobility Suite** . Será redirecionado para o portal Microsoft Azure ou para o centro de administração do Office 365.
+4. A partir do menu **dropdown de novo pedido,** selecione **Azure** ou **Office 365, Dynamics 365, Enterprise Mobility Suite**. Será redirecionado para o portal Microsoft Azure ou para o centro de administração do Office 365.
 
 >[!NOTE]
 >Os parceiros de Operações de Apoio que transacionam a Dynamics 365 em CSP são obrigados a manter um acordo de apoio do plano de Apoio Avançado para Parceiros (ASfP) ou superior. Este acordo de apoio é necessário para submeter a Dynamics 365 incidentes em nome de um cliente da CSP. [Saiba mais](https://partner.microsoft.com/support/partnersupport) sobre as opções do acordo de apoio.
@@ -49,15 +51,15 @@ Se o seu cliente estiver a ter um problema de serviço que não pode resolver, e
 >
 >- Embora o administrador helpdesk no Partner Center não possa criar pedidos de serviço no portal de serviços Azure, o que eles podem fazer é criar um grupo de suporte no portal de serviço Azure e dar a esse grupo permissões para registar pedidos de suporte.
 
-1. Selecione **Novo pedido de suporte** .
+1. Selecione **Novo pedido de suporte**.
 
-2. Preencha o pedido de apoio com as informações apropriadas e, em seguida, **selecione Criar** :
+2. Preencha o pedido de apoio com as informações apropriadas e, em seguida, **selecione Criar**:
 
    - Na secção **Básico** do pedido de suporte, certifique-se de selecionar o **Fornecedor de Solução Cloud** no campo do plano de **suporte.**
 
    - Na secção de informações de **contacto** do pedido de suporte, insira as suas informações e não as informações do seu cliente.
 
-3. Mais tarde, reveja os pedidos de serviço do seu cliente dentro do portal Microsoft Azure selecionando **pedidos de suporte de gestão** .
+3. Mais tarde, reveja os pedidos de serviço do seu cliente dentro do portal Microsoft Azure selecionando **pedidos de suporte de gestão**.
 
 Poderá ter de criar um pedido de apoio para um cliente quando não tiver permissões de administrador para esse cliente. Isto pode acontecer num de dois cenários:
 
@@ -149,5 +151,5 @@ Leia [o Suporte à Dinâmica da Microsoft](https://support.microsoft.com/help/40
 
 ## <a name="next-steps"></a>Passos seguintes
 
-- [Fornecer apoio aos seus clientes](customer-support.md)
-- [Verifique a saúde do serviço](check-service-health.md)
+- [Fornecer suporte aos seus clientes](customer-support.md)
+- [Verificar o estado de funcionamento dos serviços](check-service-health.md)
