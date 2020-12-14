@@ -9,21 +9,49 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f098058f5ddd00de9633633d9bcc0fdd8502e538
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 6337d4998fea20eed756183a3eb3adfbfe70585b
+ms.sourcegitcommit: 0eae5734b0e50bd5a7ef39ec7738d1e997c5a02d
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92530599"
+ms.lasthandoff: 12/14/2020
+ms.locfileid: "97389310"
 ---
-# <a name="known-issues-with-partner-center-insights"></a>Problemas conhecidos com Partner Center Insights
+# <a name="partner-insights--frequently-asked-questions"></a>Insights de Parceiros – Perguntas Frequentes
+
+**Funções adequadas**
+- Espectador de relatório
+- Espectador de relatório executivo
 
 Isto diz respeito a quaisquer problemas conhecidos de visualização ou prestação de relatórios associados à Insights.
 
-- Não existe uma forma apoiada de permitir os relatórios insights para os inquilinos apenas da CSP. Apenas os inquilinos com acesso ao programa MPN podem aceder a estes relatórios.
-- Os relatórios têm problemas de renderização com o Internet Explorer. Funcionam bem com o Microsoft Edge e outros navegadores.
-- Os dados de desempenho da competência cloud business application estão incompletos devido a um problema de dados a montante.
+Q) **Não vejo o centro de insights na minha conta do Partner Center. O que devo fazer?**
 
-## <a name="next-steps"></a>Passos seguintes
+A) Certifique-se de que iniciou sessão na conta MPN da sua organização. Não é possível aceder ao dashboard Insights a partir da sua conta CSP. Certifique-se também de que foi-lhe fornecido o acesso ao papel do Observador de Relatórios ou Do Relatório Executivo pelo seu Administrador Global.  Para mais informações sobre funções, consulte [este artigo.](https://docs.microsoft.com/partner-center/pci-roles)
+
+Q) **Não posso ver os dados da Faturação ou da Receita Consumida (ACR) nos meus relatórios. E porquê?**
+
+A) As receitas faturadas e os dados ACR estão disponíveis apenas para utilizadores que sejam Espectadores de Relatório Executivo.  Para mais informações sobre funções, consulte [este artigo.](https://docs.microsoft.com/partner-center/pci-roles)
+
+Q) **Não posso ver os dados da Faturação ou da Receita Consumida (ACR) nos meus relatórios. E porquê?**
+
+A) As receitas faturadas e os dados ACR estão disponíveis apenas para utilizadores que sejam Espectadores de Relatório Executivo. Para mais informações sobre funções, consulte [este artigo.](https://docs.microsoft.com/partner-center/pci-roles)
+
+Q) **O país reportado para o meu cliente parece estar incorreto. E porquê?**
+
+A) O país cliente é derivado do país da organização-mãe Global desse cliente. Este país pode ser diferente do país do cliente com quem poderia ter transagido. Daí que o país relatado pelo cliente possa ser diferente do que se espera que seja.
+
+Q) **Vejo alguns nomes de clientes serem obstinados nos relatórios. É esperado?**
+
+A) Os nomes dos clientes são obstinados para determinadas subscrições devido a razões de conformidade. No entanto, o TPID do cliente está disponível e pode usar esse nome de clientes a partir dele.
+
+Q) **Qual é a latência típica dos relatórios?**
+
+A) As assinaturas e os dados dos clientes são atualizados diariamente e os dados são reportados com uma semana de latência. Os dados de utilização do Azure são reportados com uma semana de latência. Office365, Teams, Dynamic365, EMS e Power BI datas de utilização são reportados com uma latência de um mês.
+
+Q) **Os relatórios não estão a renderizar no Internet Explorer – é isso que se espera?**
+
+A) Os relatórios têm problemas de renderização com o Internet Explorer. Funcionam bem com o Microsoft Edge e outros navegadores.
+
+**Próximos passos**
 
 - Saiba mais sobre [o Partner Center Insights](partner-center-insights.md).
