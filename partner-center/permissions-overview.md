@@ -8,13 +8,13 @@ description: Saiba quais as funções mais bem possíveis para os utilizadores d
 author: hemas
 ms.author: hemas
 ms.localizationpriority: high
-ms.custom: SEOMAY.20, contperfq1
-ms.openlocfilehash: 8ae4bed8536907c59f1b22e72896cfbe7f7aff9a
-ms.sourcegitcommit: 445c7b70943f71cc4b2cb48a327b9dcc1814974d
+ms.custom: SEOMAY.20, contperf-fy21q1
+ms.openlocfilehash: 80aeb62ba875d4ecd7c11063663f7c2d29912bdf
+ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "94670155"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97492709"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>Atribuir funções e permissões aos utilizadores de uma empresa que necessite de trabalhar no Partner Center
 
@@ -181,7 +181,7 @@ Juntamente com a nova função de utilizador de referências, estamos também a 
 |Espectador de relatório executivo|Acesso a todos os conjuntos de dados de reporte, criar bilhetes de apoio a parceiros, ver bilhetes de apoio a parceiros que criar|[Relatórios do painel de avaliação disponíveis no Partner Center Insights](pci-overview-report.md)
 |Espectador de relatório|Acesso a relatórios de dados com exceção das receitas e dados pessoais do cliente e dos colaboradores, criar bilhetes de apoio ao parceiro, ver bilhetes de apoio a parceiros que criar|
 
-## <a name="next-steps"></a>Próximos passos
+## <a name="next-steps"></a>Passos seguintes
 
 - [Create user accounts and assign roles permissions](create-user-accounts-and-set-permissions.md) (Criar contas de utilizador e atribuir funções e permissões)
 - [Verifique as informações da sua conta quando se inscrever num novo programa do Partner Center](verification-responses.md)

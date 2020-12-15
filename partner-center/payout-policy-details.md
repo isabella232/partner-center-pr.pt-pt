@@ -1,22 +1,27 @@
 ---
-title: Horários de pagamento e detalhes da política - Mercado Azure
-description: Saiba mais sobre detalhes relacionados com as políticas de pagamento de mercado comercial, incluindo horários e recuperação.
+title: Horários e processos de pagamento
+description: Conheça os pagamentos e transações, tais como horários de pagamento e processos de recuperação para o mercado comercial e outras transações.
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
 author: eunjkim520
 ms.author: eunjkim
-ms.date: 11/06/2020
-ms.openlocfilehash: bd8153ffd368c1f67b27eaeb44d383409bd59e97
-ms.sourcegitcommit: 2e880efb02a48afc4f234ec27da34519407f87c6
+ms.date: 11/25/2020
+ms.openlocfilehash: bb7a6673d2dee5a35f1c5be96f354451633eecf5
+ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96513302"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97492675"
 ---
-# <a name="payout-schedules-and-policy-details"></a>Horários de pagamento e detalhes da política
+# <a name="payout-schedules-and-processes"></a>Horários e processos de pagamento
 
-Este artigo discute o processo de pagamento da Microsoft, o calendário de pagamentos, onde encontrar o estado de um pagamento, e o processo de não pagamento do cliente.
+**Funções adequadas:**
+
+- Administrador de conta
+- Administrador global
+
+Este artigo discute a agenda de pagamentos da Microsoft, onde encontrar o estado de pagamento e o processo de não pagamento do cliente.
 
 ## <a name="payment-schedules"></a>Horários de pagamento
 
@@ -28,7 +33,7 @@ Quando um cliente compra um produto do Microsoft AppSource ou do Azure Marketpla
 
 Um pagamento ocorrerá frequentemente antes de a Microsoft receber o pagamento do cliente. Consulte [o Processo de não pagamento do cliente](#process-for-customer-non-payment) abaixo para as ações que tomamos se o cliente não pagar à Microsoft, mas já emitimos um pagamento.
 
-| Evento | Description | Visibilidade reportando | Timing* |
+| Evento | Descrição | Visibilidade reportando | Timing* |
 | --- | --- | --- | --- |
 | Utilização ou mês de transação | O cliente usa ou compra um serviço. | [Painel de utilização](/azure/marketplace/partner-center-portal/usage-dashboard) ou [ordem](/azure/marketplace/partner-center-portal/orders-dashboard) | **Mês 1** |
 | Microsoft calcula valor de faturação | Determinar a utilização total, as transações totais | [Painel de utilização](/azure/marketplace/partner-center-portal/usage-dashboard) ou [ordem](/azure/marketplace/partner-center-portal/orders-dashboard) | **Mês 2** |
@@ -46,7 +51,7 @@ Um pagamento ocorrerá frequentemente antes de a Microsoft receber o pagamento d
 
 Todas as compras com cartão de crédito ou fatura mensal têm um período de detenção de 30 dias para garantir que os fundos são recolhidos junto do cliente.
 
-| Evento | Description | Visibilidade reportando | Timing* |
+| Evento | Descrição | Visibilidade reportando | Timing* |
 | --- | --- | --- | --- |
 | Utilização ou mês de transação | O cliente usa ou compra um serviço. | [Painel de utilização](/azure/marketplace/partner-center-portal/usage-dashboard) ou [ordem](/azure/marketplace/partner-center-portal/orders-dashboard) | **Mês 1** |
 | Fatura paga pelo cliente | Determine o uso total, o valor total da transação e a fatura do cliente | [Painel de utilização](/azure/marketplace/partner-center-portal/usage-dashboard) ou [ordem](/azure/marketplace/partner-center-portal/orders-dashboard) | **Mês 2** |
@@ -90,7 +95,7 @@ Segue-se um exemplo de calendário:
 Normalmente enviamos qualquer pagamento devido num dado mês no 15º dia desse mês, mas leva tempo adicional para o pagamento chegar à sua conta. O número de dias depende do método de pagamento que utilizamos para a sua conta, conforme descrito abaixo.
 
 > [!NOTE]
-> Os dias abaixo apresentados são aproximados; qualquer pagamento pode demorar um tempo maior ou mais curto para chegar à sua conta.
+> Os dias abaixo apresentados são aproximados; qualquer pagamento pode demorar mais ou menos tempo a chegar à sua conta.
 
 | Método de pagamento     | Número de dias para chegar à conta de pagamento     |
 |--------------------|--------------------------------------------|

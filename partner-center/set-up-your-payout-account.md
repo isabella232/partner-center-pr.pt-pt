@@ -6,14 +6,19 @@ ms.service: marketplace
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 12/10/2019
-ms.openlocfilehash: 40f9f90eb1da5d80b8df5a2a3d99979883060d81
-ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
+ms.openlocfilehash: 58a981dbed3aa9a38a29cdd2b085d661b9341232
+ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "95514763"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97492692"
 ---
 # <a name="set-up-your-payout-account-and-tax-forms"></a>Configurar a conta de dividendos e os formulários fiscais
+
+**Funções adequadas:**
+
+- Administrador de conta
+- Administrador global
 
 Para receber dinheiro das vendas de ofertas no mercado comercial, é necessário configurar a sua conta de pagamento e preencher os formulários fiscais necessários no [Partner Center.](https://partner.microsoft.com/dashboard)
 
@@ -32,19 +37,16 @@ Depois de configurar a sua conta, há duas coisas que precisa de fazer antes de 
 
 ## <a name="tax-forms"></a>Formulários fiscais
 
-### <a name="fill-out-your-tax-forms"></a>Preencha os seus formulários fiscais
+Gere o seu perfil fiscal e formulários fiscais na página **de pagamento e imposto** do Partner Center. As permissões da sua organização determinarão os perfis e informações que vê.
 
-Primeiro, terá de criar um perfil fiscal e atribuí-lo aos programas em que participa. Pode criar o seu *perfil fiscal* para o mercado comercial, completando os seguintes passos:
+### <a name="create-or-update-your-tax-profile"></a>Criar ou atualizar o seu perfil fiscal
 
-- Especifique o seu país/região de residência e cidadania.
-- Preencha os formulários fiscais apropriados.
-
-Pode completar e submeter os seus formulários fiscais eletronicamente no Partner Center; na maioria dos casos, não precisa imprimir e enviar nenhum formulário.
+Primeiro, terá de criar um perfil fiscal e atribuí-lo aos programas em que participa. Utilize os seguintes passos para criar ou atualizar o seu *perfil fiscal* no Partner Center. Pode completar e submeter os seus formulários fiscais eletronicamente no painel do Centro de Parceiros; na maioria dos casos, não precisa imprimir e enviar nenhum formulário.
 
 > [!IMPORTANT]
 > Diferentes países e regiões têm diferentes requisitos fiscais. O valor exato que deve pagar em impostos depende dos países e regiões onde vende a sua oferta. Consulte o [Microsoft Azure Marketplace Publisher Agreement](https://go.microsoft.com/fwlink/p/?LinkID=699560) para saber para que países/regiões a Microsoft atribui vendas e utiliza o imposto em seu nome. Noutros países/regiões, dependendo do local onde está registado, poderá ter de reencamitá-lo e utilizar o imposto para as suas vendas de oferta diretamente à autoridade tributária local. Além disso, as receitas de vendas de aplicações que recebe podem ser tributáveis como rendimento. Encorajamo-lo vivamente a contactar a autoridade relevante para o seu país ou região que melhor o ajude a determinar a informação fiscal certa para as suas atividades de mercado comercial.
 
-1. No [Partner Center](https://partner.microsoft.com/dashboard), selecione o ícone de engrenagem **Definições** no canto superior direito e, em seguida, **as definições de Conta**.
+1. No [painel 'Centro parceiro' (Centro parceiro),](https://partner.microsoft.com/dashboard)selecione o ícone de engrenagem **Definições** no canto superior direito e, em seguida, **as definições de Conta**.
 
 2. No menu de navegação à esquerda, selecione **Payout e tax,** em seguida, selecione **Payout e tax assignments**.
 

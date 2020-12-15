@@ -6,22 +6,20 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como os revendedores indiretos podem trabalhar com fornecedores indiretos (ou distribuidores) da Microsoft para obter ajuda com o apoio ao cliente e faturação.
 ms.prod: ''
-ms.custom: contperfq2
+ms.custom: contperf-fy21q2
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
-ms.openlocfilehash: 74edfbfd766e6969b278c9ad83b3a12b7ef95abd
-ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
+ms.openlocfilehash: 082574f381186731cee023cfcdfa04b46d0ba1c5
+ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "92795853"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97492403"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Saiba como associar-se a fornecedores indiretos no programa Cloud Solution Provider
 
-**Aplica-se a**
 
-- Partner Center
 
 **Funções adequadas**
 
@@ -48,7 +46,7 @@ Para obter mais informações sobre o que é necessário para vender no programa
 > [!NOTE]  
 > Se já está inscrito em CSP, poderá necessitar apenas de fornecer informações de contacto de apoio ao cliente para criar uma conta de revendedor no Centro de Parceiros.
 
-### <a name="before-you-begin"></a>Antes de começar
+### <a name="before-you-begin"></a>Before you begin
 
 A partir de outubro de 2020, todos os parceiros da Microsoft novos na CSP, vão inscrever-se no programa CSP como revendedor indireto. Em seguida, precisa criar uma conta no Centro de Parceiros. Para tal, irá fornecer as seguintes informações durante o processo de inscrição. Talvez queira tirar alguns minutos para recolher estes itens antes de começar:
 
@@ -70,26 +68,26 @@ A partir de outubro de 2020, todos os parceiros da Microsoft novos na CSP, vão 
 
 1. Para iniciar o processo de inscrição, vá à [**página Welcome**](https://partnercenter.microsoft.com/pcv/register/joinnow/enrollmentwelcome/valueaddedreseller) para se registar.
 
-2. Reveja a **página Welcome** para ter a certeza de que tem as informações necessárias para se inscrever e, em seguida, selecione **Next** .
+2. Reveja a **página Welcome** para ter a certeza de que tem as informações necessárias para se inscrever e, em seguida, selecione **Next**.
 
 3. Inscreva-se na sua conta de trabalho. Selecione **Iniciar sômposições** e, em seguida, insira o nome de utilizador e a palavra-passe que utiliza para iniciar seduminação global para o Office 365, Microsoft Azure ou Microsoft Dynamics CRM.
 
    Se não tiver uma conta de trabalho, selecione **Criar uma** para configurar uma agora. Depois de criar a sua conta de trabalho, inscreva-se na utilização das credenciais de administração global para a sua nova conta.
 
-4. Reveja as informações sobre como associar o seu ID da Rede de Parceiros da Microsoft (MPN ID) à sua nova conta Partner Center. Precisamos de ligar o ID mpn da sua empresa à sua nova conta Partner Center para que possa gerir os seus benefícios de adesão e incentivos no Centro de Parceiros. Selecione **Iniciar sessão** .
+4. Reveja as informações sobre como associar o seu ID da Rede de Parceiros da Microsoft (MPN ID) à sua nova conta Partner Center. Precisamos de ligar o ID mpn da sua empresa à sua nova conta Partner Center para que possa gerir os seus benefícios de adesão e incentivos no Centro de Parceiros. Selecione **Iniciar sessão**.
 
-5. Introduza o nome de utilizador que utiliza para iniciar sposição no site do Centro de Adesão de Parceiros (PMC). O site partner membership Center é onde gere atualmente a sua conta de parceiro microsoft. A inscrição no Partner Membership Center permite-nos recuperar o seu ID MPN e associá-lo à sua nova conta Partner Center. Selecione **Seguinte** .
+5. Introduza o nome de utilizador que utiliza para iniciar sposição no site do Centro de Adesão de Parceiros (PMC). O site partner membership Center é onde gere atualmente a sua conta de parceiro microsoft. A inscrição no Partner Membership Center permite-nos recuperar o seu ID MPN e associá-lo à sua nova conta Partner Center. Selecione **Seguinte**.
 
 6. Introduza a palavra-passe para a sua conta Do Centro de Adesão ao Parceiro e, em seguida, **selecione Iniciar sposição .**
 
-7. Selecione o perfil da empresa com o ID MPN ligado aos seus incentivos, benefícios de adesão e competências. Em seguida, podemos mover esta informação para a sua conta Partner Center. Selecione **Continuar** .
+7. Selecione o perfil da empresa com o ID MPN ligado aos seus incentivos, benefícios de adesão e competências. Em seguida, podemos mover esta informação para a sua conta Partner Center. Selecione **Continuar**.
 
    Se o ID MPN que pretende utilizar não estiver listado nesta página, selecione **Cancelar** e faça o sessão novamente com o nome de utilizador e palavra-passe para o perfil da empresa que pretende utilizar.
 
    > [!IMPORTANT]  
    > Selecione o ID MPN associado a um perfil de empresa ativo que está localizado no mesmo país/região que o seu inquilino AZure AD.
 
-8. Forneça ou atualize o perfil de negócio legal da sua empresa, informações de contacto primários e informações de apoio ao cliente. Selecione **Matricular-se agora** .
+8. Forneça ou atualize o perfil de negócio legal da sua empresa, informações de contacto primários e informações de apoio ao cliente. Selecione **Matricular-se agora**.
 
    O contacto principal deve ser a pessoa na sua empresa que podemos contactar sobre a sua aplicação. O contacto principal pode ser você ou outra pessoa na sua empresa. Nota: Não aceitamos endereços de e-mail de serviços de e-mail baseados na Web, como o Gmail, Yahoo! Mail, iCloud Mail, AOL Mail ou Outlook Mail.
 
@@ -98,9 +96,9 @@ A partir de outubro de 2020, todos os parceiros da Microsoft novos na CSP, vão 
 
 9. Quando a sua conta Partner Center estiver pronta a ser utilizada, verifique se foi adicionado ao grupo de agentes administrativos. Para terminar a configuração da sua conta, incluindo a adição de outros utilizadores, tem de ter permissões de agente administrativo. Siga estes passos para visualizar ou atualizar as suas permissões:
 
-   1. No seu **Centro de Parceiros,** selecione o ícone **Definições** e, em seguida, selecione a **gestão do Utilizador** .
+   1. No seu **Centro de Parceiros,** selecione o ícone **Definições** e, em seguida, selecione a **gestão do Utilizador**.
 
-   2. Selecione o seu nome na lista de utilizadores. Em seguida, selecione **o agente de administração** se ainda não estiver selecionado. Selecione **Atualizar** .
+   2. Selecione o seu nome na lista de utilizadores. Em seguida, selecione **o agente de administração** se ainda não estiver selecionado. Selecione **Atualizar**.
 
 ## <a name="all-indirect-resellers-need-to-sign-the-microsoft-partner-agreement"></a>Todos os revendedores indiretos precisam de assinar o Acordo de Parceiros da Microsoft
 
@@ -125,7 +123,7 @@ Se um fornecedor indireto quiser ligar-se consigo no Centro de Parceiros, inicia
 
 2. Para aceitar o convite, siga o link no e-mail do fornecedor. Pode ter de voltar a inscrever-se no Centro de Parceiros.
 
-3. Para confirmar a parceria com o fornecedor, verifique a caixa e, em seguida, **selecione Authorize indiret provider** . O fornecedor está agora listado na sua página **de fornecedores Indiretos** e a sua empresa está agora listada na página de **revendedores Indiretos** do fornecedor.
+3. Para confirmar a parceria com o fornecedor, verifique a caixa e, em seguida, **selecione Authorize indiret provider**. O fornecedor está agora listado na sua página **de fornecedores Indiretos** e a sua empresa está agora listada na página de **revendedores Indiretos** do fornecedor.
 
    > [!NOTE]  
    > Quando estabelece uma parceria com um fornecedor indireto, está a autorizar-nos a submeter encomendas e adicionar subscrições em nome dos seus clientes, e está a conceder-lhes acesso ao administrador da conta de trabalho da sua empresa. Após a sua parceria com o fornecedor ter sido estabelecida, pode remover o acesso do administrador do prestador à sua conta de trabalho no portal Do Office 365.
@@ -146,9 +144,9 @@ Se um fornecedor indireto quiser ligar-se consigo no Centro de Parceiros, inicia
 
 - [Manage your Partner Center account](partner-center-account-setup.md) (Gerir a conta do Partner Center)
 
-- [Conecte-se com os seus clientes](connect-with-your-customers.md)
+- [Ligar-se aos seus clientes](connect-with-your-customers.md)
 
-- [Criar um perfil de negócio](create-a-marketing-profile.md)
+- [Criar um perfil empresarial](create-a-marketing-profile.md)
 
 - [Conheça o processo de verificação](verification-responses.md)
  

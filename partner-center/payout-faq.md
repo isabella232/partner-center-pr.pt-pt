@@ -1,22 +1,69 @@
 ---
-title: Pagamento de FAQ para o mercado comercial da Microsoft
-description: Obtenha respostas a perguntas comuns sobre pagamentos no mercado comercial. Inclui respostas sobre o porquê dos seus ganhos serem diferentes do que esperava.
+title: Pagamentos e perfil fiscal FAQ
+description: Obtenha respostas a perguntas comuns sobre pagamentos e detalhes fiscais no Partner Center. Inclui respostas sobre o porquê dos seus ganhos serem diferentes do que esperava.
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
-ms.date: 09/11/2020
-ms.openlocfilehash: 5775eb497940870344e0d3da85def7c3e717c65f
-ms.sourcegitcommit: cc30a06abe55b9da32177a24e74bfd6fc7d8bbb9
+ms.date: 11/25/2020
+ms.openlocfilehash: 3b09f0a08cd974f88afe5c5708df307830491f3f
+ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "94532026"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97492590"
 ---
-# <a name="common-questions-about-commercial-marketplace-payouts"></a>Questões comuns sobre pagamentos de mercado comercial
+# <a name="common-questions-about-payouts-and-taxes"></a>Questões comuns sobre pagamentos e impostos
 
-Este artigo responde frequentemente a perguntas sobre pagamentos no mercado comercial.
+**Funções adequadas:**
+
+- Administrador de conta
+- Administrador global
+- Administradores de incentivos
+
+Este artigo responde frequentemente a perguntas sobre pagamentos e detalhes fiscais no Partner Center.Os tópicos cobertos incluem o tempo de pagamentos, a verificação da elegibilidade dos seus ganhos e a importância de configurar corretamente os seus perfis de pagamento e impostos.
+
+## <a name="profile-management"></a>Gestão de perfis
+
+#### <a name="why-do-i-need-to-provide-or-update-my-payout-andor-tax-details"></a>Por que preciso fornecer ou atualizar os meus dados de pagamento e/ou impostos?
+
+Todos os parceiros que se inscrevam num novo programa devem fornecer pagamentos válidos e detalhes fiscais para completar a sua inscrição e receber pagamentos. Uma inscrição só é considerada completa depois de a Microsoft ter validado o seu pagamento e perfil fiscal.
+
+Também poderá ter de atualizar as suas informações se as regras para o seu programa mudarem ou se os aspetos do seu perfil expirarem ou ficarem desatualizados. Se isso acontecer, a sua página de Visão Geral mostrará o estado de **Ação necessário – Atualizar o perfil bancário e/ou fiscal**.
+
+#### <a name="how-do-i-find-set-up-or-update-payout-and-tax-details"></a>Como encontro, configuração ou atualização de pagamentos e detalhes fiscais?
+
+Para obter informações detalhadas sobre como atualizar os dados de pagamento e impostos no Partner Center, consulte [Configurar a sua conta de pagamento e formulários fiscais.](set-up-your-payout-account.md)
+
+#### <a name="why-dont-i-see-my-enrollments-when-i-go-to-assign-my-payout-and-tax-profile"></a>Por que não vejo as minhas inscrições quando vou atribuir o meu perfil de pagamento e perfil fiscal?
+
+Pode ser que não tenhas as permissões adequadas, ou que tenhas iniciado sessão com uma conta que não tenha essas permissões. Por exemplo, apenas os administradores de incentivo para a sua localização MPN podem criar ou gerir perfis de pagamento e impostos. Contacte o administrador da sua organização para gerir permissões bancárias e fiscais.
+
+#### <a name="im-only-able-to-sign-in-with-my-onmicrosoftcom-domain-what-should-i-do"></a>Só posso assinar com o meu @onmicrosoft.com domínio. O que devo fazer?
+
+Contacte o Administrador de conta para adicionar domínios adicionais à conta AAD.
+ 
+#### <a name="my-organization-is-participating-in-multiple-programs-do-i-need-to-provide-my-payment-and-tax-profile-multiple-times"></a>A minha organização está a participar em vários programas. Preciso de fornecer o meu pagamento e o meu perfil de impostos várias vezes?
+
+Depende das necessidades da sua organização. Os perfis de pagamento são criados a nível de organização, o que permite que o mesmo perfil bancário seja atribuído em vários IDs e programas de MPN dentro de uma organização. Na maioria dos casos, pode reutilizar um perfil existente ou criar um novo.
+
+Pode haver exceções, no entanto, ao aplicar o perfil bancário a diferentes países ou regiões, pois poderão aplicar-se regras bancárias ou fiscais locais.
+
+Os perfis fiscais criados para uma localização MPN são reutilizados e automaticamente povoados quando a mesma localização MPN participa em outro programa. Mas pode haver exceções. Por exemplo, as regras de pagamento de um novo programa de incentivos podem exigir detalhes adicionais para o perfil fiscal.
+
+#### <a name="can-i-use-the-same-bank-and-tax-details-for-all-incentive-programs-at-microsoft"></a>Posso usar os mesmos dados bancários e fiscais para todos os programas de incentivo na Microsoft?
+
+Se a sua empresa for convidada para vários programas, poderá utilizar a mesma conta de pagamento para todos os seus programas, ou pode optar por ter diferentes contas de pagamento para os diferentes programas.
+
+
+#### <a name="how-does-microsoft-ensure-that-the-bank-information-is-indeed-that-of-the-company-and-not-a-personal-bank-account-for-an-employee"></a>Como é que a Microsoft garante que a informação bancária é, de facto, a da empresa e não uma conta bancária pessoal para um funcionário?
+
+É da responsabilidade da empresa assegurar que o papel dos administradores de incentivos - que tem as permissões para editar esta informação - seja apenas dado aos colaboradores adequados.
+
+#### <a name="my-tax-profile-has-expired-how-do-i-fix-this"></a>O meu perfil de impostos expirou. Como é que eu arranjo isto?
+
+Utilize os passos em [Criar ou atualizar o seu perfil fiscal](set-up-your-payout-account.md#create-or-update-your-tax-profile) para atualizar o seu perfil fiscal. Na página de **perfil do Tax,** pode ver perfis que estão caducados ou prestes a expirar na coluna **Data de Expiração.** 
 
 ## <a name="earnings-incorrect-or-missing"></a>Ganhos incorretos ou em falta
 
@@ -32,9 +79,10 @@ Este artigo responde frequentemente a perguntas sobre pagamentos no mercado come
 - Verifique a responsabilidade fiscal por país. No caso de países em que o imposto seja da responsabilidade da Microsoft, a Microsoft cobra e deduz o imposto dos ganhos do publicador. O montante da transação mostrado na declaração é após o montante do imposto. Veja [Detalhes fiscais](tax-details-marketplace.md).
 - As ofertas da SaaS e da IaaS têm uma taxa de agência descontada de 10% em vez dos 20% padrão, deixando uma taxa de ganhos de 90%. Esta promoção está em vigor até 30 de junho de 2021.
 
-**Continuar a ler** [Acordo de Editor de Mercado Comercial](https://go.microsoft.com/fwlink/p/?LinkID=699560), [Detalhes da política de pagamento,](payout-policy-details.md) [limiar de pagamento, método e prazo,](payment-thresholds-methods-timeframes.md) [Ser pago no mercado comercial,](marketplace-get-paid.md) [detalhes fiscais,](tax-details-marketplace.md) [declarações de pagamento,](payout-statement.md) [dashboard de encomendas em análise de mercado comercial](/azure/marketplace/partner-center-portal/orders-dashboard)
+**Continuar a ler** [Acordo de Editor de Mercado Comercial](https://go.microsoft.com/fwlink/p/?LinkID=699560), Detalhes da política de [pagamento](payout-policy-details.md), limiar [de pagamento, método e prazo,](payment-thresholds-methods-timeframes.md) [Ser pago,](marketplace-get-paid.md) [Detalhes fiscais,](tax-details-marketplace.md) [declarações de pagamento](payout-statement.md)
 
 ## <a name="earnings-reconciliation"></a>Reconciliação dos ganhos
+
 ### <a name="how-do-i-reconcile-payout-statements-to-order-or-usage-reports-in-analytics"></a>Como devo proceder para reconciliar as declarações de dividendos para relatórios de encomendas ou de utilização nas análises?
 Utilize o AssetID, o orderID e o ID do item de linha que aparece no relatório do histórico de transações de pagamento com ordens analíticas e relatórios de utilização. Utilize este mapeamento:
 
@@ -48,19 +96,6 @@ Utilize o AssetID, o orderID e o ID do item de linha que aparece no relatório d
 - Para clientes não empresariais, os ganhos dos editores aparecem no comunicado 1-2 dias após o pagamento do cliente.
 
 **Continuar a ler** [Declarações de pagamento](payout-statement.md), Dashboard de encomendas em análise de mercado [comercial](/azure/marketplace/partner-center-portal/orders-dashboard)
-
-## <a name="payout-policies"></a>Políticas de dividendos
-
-#### <a name="how-do-i-find-the-current-agency-fee-and-the-payout-rate"></a>Como devo proceder para encontrar a tarifa da agência atual e a taxa de dividendos?
-
-- Verifique o Contrato do Editor do marketplace comercial. A tarifa da agência padrão é de 20%. As transações elegíveis Co-Sell SaaS têm uma taxa descontada de 10%. Verifique se existem anúncios de tarifas promocionais da agência.
-- Na sua demonstração de pagamento, a Taxa de Ganhos especifica a taxa de pagamento real para uma determinada transação.
-
-#### <a name="when-can-i-expect-a-payment-from-microsoft-once-earnings-appear-on-my-statement"></a>Quando posso esperar um pagamento da Microsoft, assim que os ganhos aparecerem na minha declaração?
-- Assim que os ganhos estiverem no estado não processado, pode verificar a data de vencimento referente ao mês em que os ganhos serão processados para pagamento. Uma vez preparado o seu pagamento, o seu estado de ganho mudará para "processado".  A Microsoft lança os pagamentos no 15º dia do mês de vencimento.
-- Para encomendas pagas com cartão de crédito, a Microsoft detém pagamentos de 30 dias até que o ganho seja amadurecido.
-
- **Continuar a ler** [Acordo de Editor de Mercado Comercial](https://go.microsoft.com/fwlink/p/?LinkID=699560), Detalhes da política de [pagamento,](payout-policy-details.md) [detalhes fiscais,](tax-details-marketplace.md) [limiar de pagamento, método e prazo](payment-thresholds-methods-timeframes.md)
 
 ## <a name="payments-and-adjustments"></a>Pagamentos e ajustamentos
 
@@ -157,6 +192,20 @@ A declaração do histórico mostrará o instantâneo dos dados de pagamento a p
 
 Utilize a [API de Pagamento de Parceiros.](https://apidocs.microsoft.com/services/partnerpayouts)
 
+## <a name="commercial-marketplace-payout-policies"></a>Políticas de pagamento de mercado comercial
+
+#### <a name="how-do-i-find-the-current-agency-fee-and-the-payout-rate"></a>Como devo proceder para encontrar a tarifa da agência atual e a taxa de dividendos?
+
+- Verifique o Contrato do Editor do marketplace comercial. A tarifa da agência padrão é de 20%. As transações elegíveis Co-Sell SaaS têm uma taxa descontada de 10%. Verifique se existem anúncios de tarifas promocionais da agência.
+- Na sua demonstração de pagamento, a Taxa de Ganhos especifica a taxa de pagamento real para uma determinada transação.
+
+#### <a name="when-can-i-expect-a-payment-from-microsoft-once-earnings-appear-on-my-statement"></a>Quando posso esperar um pagamento da Microsoft, assim que os ganhos aparecerem na minha declaração?
+- Assim que os ganhos estiverem no estado não processado, pode verificar a data de vencimento referente ao mês em que os ganhos serão processados para pagamento. Uma vez preparado o seu pagamento, o seu estado de ganho mudará para "processado".  A Microsoft lança os pagamentos no 15º dia do mês de vencimento.
+- Para encomendas pagas com cartão de crédito, a Microsoft detém pagamentos de 30 dias até que o ganho seja amadurecido.
+
+ **Continuar a ler** [Acordo de Editor de Mercado Comercial](https://go.microsoft.com/fwlink/p/?LinkID=699560), Detalhes da política de [pagamento,](payout-policy-details.md) [detalhes fiscais,](tax-details-marketplace.md) [limiar de pagamento, método e prazo](payment-thresholds-methods-timeframes.md)
+
 ## <a name="next-steps"></a>Passos seguintes
 
-- [Receber pagamento no marketplace comercial](marketplace-get-paid.md)
+- [Receber o pagamento](marketplace-get-paid.md)
+- [Configurar a conta de dividendos e os formulários fiscais](set-up-your-payout-account.md)

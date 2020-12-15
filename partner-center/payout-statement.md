@@ -1,22 +1,30 @@
 ---
-title: Declaração de pagamento para o mercado comercial no Partner Center
-description: Saiba mais sobre as demonstrações e resumos de pagamento, e como ver e exportar os seus dados de pagamento para o mercado comercial
+title: Declaração de dividendos
+description: Saiba mais sobre os pedidos de pagamento e resumos, e como ver e exportar os seus dados de pagamento do Microsoft Partner Center
 ms.subservice: partnercenter-marketplace-publisher
 ms.service: marketplace
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
-ms.date: 09/23/2020
-ms.openlocfilehash: 34d7d162673992601267db03beaddda1573b73c0
-ms.sourcegitcommit: cc30a06abe55b9da32177a24e74bfd6fc7d8bbb9
+ms.date: 10/29/2020
+ms.openlocfilehash: f74dcdc240553cea2c9d226364a8bd6242acc200
+ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "94532060"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97492641"
 ---
 # <a name="payout-statements"></a>Declaração de dividendos
 
+**Funções adequadas:**
+
+- Administrador de conta
+- Administrador global
+
 A **declaração do Payout** apresenta uma visão geral dos seus pagamentos a partir de ofertas vendidas através do mercado comercial. Mostra o histórico transacional dos seus ganhos, estima o seu próximo pagamento e mostra as tendências de pagamento. Também pode baixar o histórico de transações e as demonstrações de pagamento. Este artigo explica como aceder ao seu depoimento de pagamento, e às diferentes páginas de pagamento e downloads acessíveis a si no Partner Center.
+
+>[!NOTE]
+>Só verá dados para IDs de MPN e programas aos quais está associado. Se quiser ver dados adicionais, trabalhe com o administrador da sua conta para obter permissões. 
 
 ## <a name="roles-and-permissions"></a>Funções e permissões
 
@@ -50,16 +58,19 @@ Também pode utilizar a [API de Pagamento de Parceiros](https://apidocs.microsof
 
 A página de histórico de **transações** mostra o resumo dos seus ganhos, o próximo pagamento estimado, e a tendência dos seus ganhos e pagamentos ao longo dos últimos 36 meses. Também pode baixar detalhes de transações a partir desta secção.
 
+
 :::image type="content" source="images/payouts/transaction-overview.png" alt-text="Visão geral da transação.":::
 
 - **Resultados enviados este ano** – Total de ganhos e desagregação dos ganhos que foram pagos e serão pagos no próximo mês.
 - **Mês estimado de pagamento** – Lucros totais esperados para os próximos meses.
 - **Tendência de ganhos e pagamentos** – Os valores mensais de ganhos e pagamentos dos últimos 36 meses.
-- **Baixar** - Baixar detalhes de transações em formato .csv ou .tsv.
+- **Baixar** – Baixar detalhes de transações em formato .csv ou .tsv.
 
-Utilize a seleção da gama de datas no canto superior direito da página para filtrar a saída da página para mostrar os últimos 3, 6, 12 ou 36 meses. Ou, selecione um intervalo de data personalizada até 36 meses. O intervalo de data por defeito é de 12 meses.
+Utilize a seleção da gama de datas no canto superior direito da página para filtrar a saída da página para mostrar os últimos 3, 6, 12 ou 36 meses. Ou, selecione um intervalo de data personalizada até 36 meses. O intervalo de data por defeito é de 12 meses. Também pode filtrar por ID de Inscrição, Programa, ID de Pagamento, Tipo de Ganho, Alavanca e Estado. Os dados estão disponíveis para o exercício em curso (1 de julho a 30 de junho) e para os dois exercícios anteriores.
 
 :::image type="content" source="images/payouts/search-filter.png" alt-text="O filtro de pesquisa no topo direito da página.":::
+
+Para ver mais detalhes sobre um ganho, selecione a seta para baixo no lado direito da página. Ao fazê-lo, apresentará a alavanca, o valor das receitas, o produto e o cliente. Se por alguma razão algum destes dados não estiver disponível, mas necessitar de acesso aos mesmos, contacte o suporte. Se o ganho for o resultado de um ajustamento, e não de uma transação, os campos de Produto e Cliente não serão apresentados.
 
 ### <a name="transaction-history-summary"></a>Resumo do histórico de transações
 
@@ -74,15 +85,51 @@ Isto mostra detalhes de ganhos, incluindo a origem do ganho do produto vendido d
     - **A seguir** – Os ganhos estão em período de arrefecimento pendente.
     - **Processado** – Os ganhos estão preparados para o próximo pagamento.
     - **Enviados** – Os ganhos foram pagos.
-- **Mês estimado de pagamento** – O mês em que os ganhos deverão ser pagos.
+- **Mês estimado de pagamento** – O mês em que os ganhos deverão ser pagos. Consulte a [secção seguinte](#estimated-payment-month) para mais informações.
 
 As transações de ganhos são mostradas assim que a transação satisfaz a elegibilidade do pagamento. Para entender por que pode ter ganhos em falta ou inesperados, consulte [questões comuns sobre pagamentos de mercado comercial.](payout-faq.md#why-are-my-earnings-missing)
+
+#### <a name="estimated-payment-month"></a>Mês estimado de pagamento
+
+A página 'Histórico de Transações' inclui agora uma tabela que mostra os valores estimados de pagamento para os próximos meses. Também pode visualizar e baixar estas informações no histórico de transações e exportações de relatório sumário. Esta informação facilita as reconciliações e as projeções de pagamentos.
+
+O mês de pagamento estimado é calculado com base nas regras e prazos de configuração do programa, e é processado no próximo/próximo ciclo de pagamento.
+
+O mês de pagamento estimado está atualmente disponível para todos os tipos de ganhos, exceto para a cooperativa, que apresentará como **não aplicável**. Para os ganhos antes de 1 de julho de 2020, o mês de pagamento estimado será apresentado como **Não disponível.**
+
+A tabela a seguir mostra um exemplo estimado do mês de pagamento.
+
+| Mensal | Montante |
+| ------ | :-----------: |
+|  Sep-2020 |  $7.273,99   |
+|  Out-2020 | $8.692,30  |
+|  Nov-2020 | $107.89  |
+
+O montante estimado pode variar do montante real por uma variedade de razões:
+
+- Reafirmação de ganhos: Se os ganhos forem recalculados, o valor real será diferente
+- Ajustamentos: O montante real varia consoante os ajustamentos ocorridos ou apresentados.
+- Regras Alterar: Uma alteração nas regras pode refletir recálculo no valor real pago
+- A pagar: Se ocorrer uma falha de pagamento, o valor real pode ser diferente
+
+Note que o seu pagamento só é liberado no mês previsto se as regras de elegibilidade do seu programa e de elegibilidade para o pagamento forem cumpridas. Estas regras incluem, mas não se limitam à lista abaixo:
+
+- O seu perfil fiscal deve estar atualizado
+- Os seus ganhos devem cumprir ou exceder o limiar mínimo de ganho definido no seu guia de programa.
+- Pagamento em espera: Se selecionar a opção "Hold my Payment" na página de atribuição de perfis.
+- Instrumento de pagamento não disponível: O perfil de pagamento ou/e fiscal não está concluído.
 
 ### <a name="transaction-history-download"></a>Download do histórico de transações
 
 Para ver mais detalhes sobre um ganho, selecione **Baixar** no topo da página. A tabela seguinte explica cada coluna do relatório.
 
-| Nome da coluna | Description | Aplicabilidade para programas de incentivo/mercados |
+>[!NOTE]
+>A exportação de downloads de histórico de transações tem dois novos campos a partir de agosto de 2020:
+>
+>- **última Procuração**  A moeda em que o pagamento mais recente foi recebido, em todos os MPNs a que o parceiro que está atualmente registado tem acesso. Se nenhum pagamento for recebido, a última moeda de pagamento será dólares americanos.
+>- **earningAmountInLastPaymentCurrency**  O valor de ganho na última moeda de pagamento.
+
+| Nome da coluna | Descrição | Aplicabilidade para programas de incentivo/mercados |
 | --- | --- | --- |
 | agreementEndDate | Data limite do acordo | Incentivos - apenas alguns programas |
 | agreementNumber | Número do contrato | Incentivos - apenas alguns programas |
@@ -125,7 +172,7 @@ Para ver mais detalhes sobre um ganho, selecione **Baixar** no topo da página. 
 | partNumber | Estará sempre em branco. | Alguns programas de incentivo e mercados |
 | pagamentoId | Identificador único para o pagamento. Este número é geralmente visível no seu extrato bancário | Pagamentos SAP apenas |
 | estatísticas de pagamentos | Estado dos pagamentos | Todos |
-| subscrição de pagamentosSdededesimento | Descrição amigável do estado do pagamento | Todos |
+| subscrição de pagamentosSdesimento | Descrição amigável do estado do pagamento | Todos |
 | productId | Identificador de produto único | mercados |
 | produtoName | Nome do produto ligado à transação | Todos |
 | productType | Tipo de produto, como App, Add-on ou Game | mercados |
@@ -159,10 +206,25 @@ Para ver mais detalhes sobre um ganho, selecione **Baixar** no topo da página. 
 | transacçõesDate | Data da transação. Útil para programas onde muitas transações contribuem para um ganho | Todos |
 | transacçãoExchangeRate | Data de câmbio utilizada para mostrar o valor correspondente da transação USD | Todos |
 | transactionId | Identificador único para a transação | Todos |
-| transactionPaymentMethod | Instrumento de pagamento do cliente utilizado para a transação, como Cartão, Faturação de Transportadora Móvel ou PayPal | mercados |
+| transactionPaymentMethod | Instrumento de pagamento do cliente utilizado para a transação, como cartão, faturação de porta-transporte móvel ou PayPal | mercados |
 | tipo de transação | Tipo de transação, tais como compra, reembolso, reversão ou cobrança | mercados |
 | workload | Carga de trabalho | Incentivos - apenas alguns programas |
 |
+
+### <a name="transaction-adjustment-codes"></a>Códigos de ajustamento de transações
+
+A tabela que se segue lista os códigos de razão para ajustes e as suas descrições.
+
+|**Código da razão**   |**Descrição**   |
+|------------------|:-------------------------------------|
+| Conformidade AR | Ajuste que reduz os ganhos quando as faturas da Microsoft não são pagas a tempo pelo parceiro. |
+| Capotamento cooperativo | Ajuste que transfere os ganhos cooperativos para outro período, ou converte os ganhos cooperativos em desconto. |
+| Ajuste de Operações | Ajuste que corrige erros de cálculo do sistema da Microsoft. |
+| Ajuste de ops Microsoft calc incorreto | Ajuste que corrige erros de cálculo. |
+| Ajuste de ops Microsoft inscrição incorreta | Ajustamento para erros de cálculo relacionados com a matrícula. |
+| Mapeamento de parceiros (subscrição) MCI/CSP | Ajuste que corrige o desalinhamento da subscrição. |
+| Exceção da Política | Ajuste que substitui uma regra do programa.  |
+| Resultados do período anterior | Ajustamento dos ganhos fora do período de ganhos em curso. |
 
 ## <a name="payments"></a>Pagamentos
 
@@ -197,26 +259,26 @@ A tabela seguinte explica os diferentes estados de ganho.
 
 | Estado de ganho | Razão | A ação do parceiro é necessária? |
 | --- | --- | --- |
-| Não processado | O ganho é elegível para pagamento. Permanece neste estado por um período de arrefecimento, conforme definido no guia do programa para o programa Incentivos. | No |
-| A seguir | Ordem de pagamento gerada até revisões internas antes do pagamento ser processado. | No |
+| Não processado | O ganho é elegível para pagamento. Permanece neste estado por um período de arrefecimento, conforme definido no guia do programa para o programa Incentivos. | Não |
+| A seguir | Ordem de pagamento gerada até revisões internas antes do pagamento ser processado. | Não |
 | Fatura fiscal pendente | A sua fatura fiscal é incompleta ou inválida. | Precisa atualizar a sua fatura fiscal antes de poder ser paga |
 | Rejeitado durante a revisão | O pagamento foi rejeitado durante a revisão. | Contacte o suporte da Microsoft para obter mais detalhes |
 | Com falhas | O pagamento falhou devido a um erro no sistema da Microsoft. | Contacte o suporte da Microsoft para obter mais detalhes |
-| Em curso | O pagamento está em andamento. | No |
-| Pagamento incorreto | A recuperação dos pagamentos está em curso. | No |
-| Enviados | O pagamento foi enviado para o seu banco. | No |
-| Reprocessamento | O pagamento encontrou um erro no sistema da Microsoft e está a ser reprocessado. | No |
-| Invertido | O pagamento foi revertido pelo seu banco e será remetido no próximo ciclo de pagamentos. | No |
+| Em curso | O pagamento está em andamento. | Não |
+| Pagamento incorreto | A recuperação dos pagamentos está em curso. | Não |
+| Enviados | O pagamento foi enviado para o seu banco. | Não |
+| Reprocessamento | O pagamento encontrou um erro no sistema da Microsoft e está a ser reprocessado. | Não |
+| Invertido | O pagamento foi revertido pelo seu banco e será remetido no próximo ciclo de pagamentos. | Não |
 | Fatura fiscal rejeitada | A sua fatura fiscal foi rejeitada durante a revisão. Todos os pagamentos pendentes estarão suspensos até que a revisão da fatura fiscal esteja completa. | Contacte o suporte da Microsoft para obter mais detalhes |
-| Fatura fiscal em análise | A sua fatura fiscal está a ser revista. O seu pagamento será liberado assim que a fatura do imposto tiver sido aprovada. | No |
+| Fatura fiscal em análise | A sua fatura fiscal está a ser revista. O seu pagamento será liberado assim que a fatura do imposto tiver sido aprovada. | Não |
 | Rejeitado | O pagamento foi rejeitado pelo seu banco. | Contacte o seu banco para obter mais detalhes. |
 |
 
 ### <a name="payments-download"></a>Transferência de pagamentos
 
-Para ver mais detalhes sobre os seus pagamentos, selecione **Baixar** no topo da página. A tabela seguinte explica cada coluna do relatório.
+ A tabela seguinte explica cada coluna do relatório. Para ver mais detalhes sobre os seus pagamentos, selecione **Baixar** no topo da página Pagamentos.
 
-| Nome da coluna | Description |
+| Nome da coluna | Descrição |
 | --- | --- |
 | id participante | A identidade primária do parceiro que ganha ao abrigo do programa |
 | IDType participante | Normalmente programa ID para programas de incentivos e ID do vendedor para programas de loja |
@@ -232,7 +294,7 @@ Para ver mais detalhes sobre os seus pagamentos, selecione **Baixar** no topo da
 | pagamentoMethod | O método usado para pagar ao parceiro, por exemplo, transferência bancária eletrónica, nota de crédito |
 | paymentID | Identificador único para o pagamento. Este número é geralmente visível no seu extrato bancário (aplicável apenas para pagamentos SAP). |
 | estatísticas de pagamentos | Estado dos pagamentos |
-| subscrição de pagamentosSdededesimento | Descrição amigável do estado do pagamento |
+| subscrição de pagamentosSdesimento | Descrição amigável do estado do pagamento |
 | pagamentoDate | O pagamento da data foi enviado da Microsoft |
 |
 
@@ -263,7 +325,7 @@ O resumo **dos dados relativos** às exportações também dá acesso a declara�
 
 A tabela seguinte explica cada coluna numa declaração histórica.
 
-| Nome do campo | Description |
+| Nome do campo | Descrição |
 | --- | --- |
 | Fonte de Receitas | A fonte das suas receitas com base no local onde ocorreu a transação, como a Microsoft Store, Windows Phone Store, Windows Store 8 ou publicidade |
 | ID da Encomenda | Identificador de ordem único. Este ID permite identificar transações de compra com as respetivas transações não-compra, tais como reembolsos ou reembolsos. Ambos terão a mesma identificação de encomenda. Além disso, se houver uma taxa dividida em que foram utilizados vários métodos de pagamento para uma única compra, permite-lhe ligar as transações de compra. |
@@ -276,7 +338,7 @@ A tabela seguinte explica cada coluna numa declaração histórica.
 | Tipo de Produto | Tipo de produto, como App, Add-on ou Game |
 | Quantidade | Quando a Fonte de Receita é a Microsoft Store para Negócios, a Quantidade representa o número de licenças adquiridas. Para todas as outras Fontes de Receita, a Quantidade será sempre 1. Mesmo quando uma única transação é dividida em dois itens de linha porque foram utilizados dois métodos de pagamento diferentes, cada item de linha mostrará uma quantidade de 1. |
 | Tipo de Transação | Tipo de transação, tais como compra, reembolso, reversão ou cobrança |
-| Método de Pagamento | Instrumento de pagamento do cliente utilizado para a transação, como Cartão, Faturação de Transportadora Móvel ou PayPal |
+| Método de Pagamento | Instrumento de pagamento do cliente utilizado para a transação, como cartão, faturação de porta-transporte móvel ou PayPal |
 | País / Região | País/região onde ocorreu a transação |
 | Fornecedor Local / Vendedor | Fornecedor local/vendedor de registos |
 | Moeda de Transação | Moeda da transação |

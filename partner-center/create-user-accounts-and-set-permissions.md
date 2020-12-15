@@ -4,17 +4,17 @@ description: Todos os empregados devem ter uma função antes de poderem aceder 
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-ms.custom: contperfq2
+ms.custom: contperf-fy21q2
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.date: 10/12/2020
-ms.openlocfilehash: 41f7f68c61630daf30595e28bd5de52f5a5787c8
-ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
+ms.openlocfilehash: c8fad4432f9aabba69877d80038ec9e2665c639d
+ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "92530248"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97492539"
 ---
 # <a name="create-user-accounts"></a>Criar contas de utilizador  
 
@@ -28,9 +28,9 @@ Crie contas de utilizador para funcionários que precisem de acesso ao Centro de
 
 ## <a name="add-a-new-user"></a>Adicionar um novo utilizador
 
-1. A partir do ícone **Definições** no topo direito do Centro de **Parceiros,** selecione as definições de Conta e, em seguida, selecione **a gestão do Utilizador** .
+1. A partir do ícone **Definições** no topo direito do Centro de **Parceiros,** selecione as definições de Conta e, em seguida, selecione **a gestão do Utilizador**.
 
-2. Selecione **Adicionar utilizador** .
+2. Selecione **Adicionar utilizador**.
 
 3. Insira o nome completo do utilizador e o endereço de e-mail único.
 

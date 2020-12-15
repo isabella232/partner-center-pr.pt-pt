@@ -8,12 +8,12 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 66177c6e3cd0091081866e1508d28346f49ec713
-ms.sourcegitcommit: bfc9e6f6476766cf10ba714f03ca2e96560003b1
+ms.openlocfilehash: 1e97e2e9db798e5ef90858cf96dc06602bbfe427
+ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/14/2020
-ms.locfileid: "94626036"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97492471"
 ---
 # <a name="create-and-manage-incentives-payout-and-tax-profiles-in-partner-center"></a>Criar e gerir incentivos no pagamento e perfis fiscais no Partner Center
 
@@ -72,7 +72,7 @@ As secções abaixo irão acompanhar-te através do processo de criação e gest
 
 1. Inscreva-se no [painel de instrumentos Partner Center](https://partner.microsoft.com/dashboard/)e, em seguida, selecione o ícone de engrenagem para abrir o menu **Definições.** 
 
-2. Selecione **as definições de Parceiro** , expanda a secção de Pagamento e **Imposto** , e, em seguida, selecione Payout e tax **profile assignment**. 
+2. Selecione **as definições de Parceiro**, expanda a secção de Pagamento e **Imposto**, e, em seguida, selecione Payout e tax **profile assignment**. 
    
    Será apresentada uma lista dos seus programas. Selecione a seta ao lado de um programa para ver os detalhes do perfil. 
 
@@ -152,4 +152,4 @@ Para empresas parceiras nas Américas, se necessitar de informações sobre o pr
 
 ## <a name="next-steps"></a>Passos seguintes
 
-- [Incentivos ao pagamento e ao perfil fiscal FAQs](incentives-payout-tax-profile-faqs.md)
+- [Questões comuns sobre pagamentos e impostos](payout-faq.md)

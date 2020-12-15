@@ -1,23 +1,28 @@
 ---
-title: Receber pagamento no marketplace comercial
-description: Saiba mais sobre receber pagamentos por ganhos no mercado comercial - Azure Marketplace. Inclui política de pagamento, estatuto de detenção de pagamento e declarações de pagamento.
+title: Ser pago no Partner Center
+description: Saiba como receber pagamentos por ganhos como parceiro da Microsoft, como por exemplo através de ofertas de marketplace comercial, programas de incentivo e o programa Cloud Solution Provider. Inclui política de pagamento, estatuto de detenção de pagamento e declarações de pagamento.
 ms.service: marketplace
 ms.topic: conceptual
-ms.date: 09/28/2020
+ms.date: 11/25/2020
 author: eunjkim520
 ms.author: eunjkim
-ms.openlocfilehash: e998ae248b5b09340cb4a7b57c8fbd77b59731d4
-ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
+ms.openlocfilehash: fc1eea0d8a90bb2b5e11dad24a71c9c34fd1a4a0
+ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "95514729"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97492454"
 ---
-# <a name="getting-paid-in-the-commercial-marketplace"></a>Receber pagamento no marketplace comercial
+# <a name="getting-paid-in-partner-center"></a>Ser pago no Partner Center
+
+**Funções adequadas:**
+
+- Administrador de conta
+- Administrador global
 
 Este artigo tem informações importantes sobre receber pagamento pelas suas ofertas, complementos e ganhos publicitários. Resume a política de pagamentos, os passos necessários antes de serem pagos, e a visão geral do pagamento.
 
-## <a name="commercial-marketplace-payout-policies-and-agreements"></a>Políticas e acordos de pagamento de mercado comercial
+## <a name="payout-policies-and-agreements"></a>Políticas e acordos de pagamento
 
 Ser pago requer que cumpra os acordos e a política de pagamentos.
 
@@ -49,4 +54,4 @@ O depoimento do pagamento mostra os seus ganhos com as vendas das suas ofertas e
 ## <a name="next-steps"></a>Passos seguintes
 
 - [API de Pagamentos de Parceiros](https://apidocs.microsoft.com/services/partnerpayouts)
-- [Marketplace paga FAQ](payout-faq.md)
+- [FAQ sobre dividendos](payout-faq.md)
