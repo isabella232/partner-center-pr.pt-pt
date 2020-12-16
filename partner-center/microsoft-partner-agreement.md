@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: d8dac9e5d8720a39d6bf585a1f6cd9bd5c70465a
-ms.sourcegitcommit: 175fa04ba45a1133b77d8055a0123561bd987415
+ms.openlocfilehash: 09653cbe4db15678db94a1012861924a6c7cf6c9
+ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "96926683"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97514758"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>Conheça o Acordo de Parceiros da Microsoft (MPA) para parceiros de programas da CSP
 
@@ -56,7 +56,7 @@ Para continuar a participar no programa CSP, tem de assinar o Acordo de Parceiro
 
 1. A partir **de Definições** selecione [Perfil de Parceiro](https://partner.microsoft.com/pcv/accountsettings/partnerprofile).
 
-1. Consulte a secção **de informações** do Programa. Se a sua informação não mostrar o estado **do revendedor indireto,** então tem de [se inscrever como revendedor indireto](https://partner.microsoft.com/cloud-solution-provider/whats-required).
+1. Consulte a secção **de informações** do Programa. Se a sua informação não mostrar o estado **do revendedor indireto,** então tem de [se inscrever como revendedor indireto](indirect-reseller-tasks-in-partner-center.md).
 
 1. Se o estado  **do revendedor indireto** estiver **ativo,** então é um revendedor indireto ativo no Partner Center.
  

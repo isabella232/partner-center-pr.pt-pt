@@ -1,7 +1,7 @@
 ---
 title: Trabalhar com fornecedores indiretos no programa CSP
 ms.topic: how-to
-ms.date: 10/09/2020
+ms.date: 12/11/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como os revendedores indiretos podem trabalhar com fornecedores indiretos (ou distribuidores) da Microsoft para obter ajuda com o apoio ao cliente e faturação.
@@ -10,16 +10,14 @@ ms.custom: contperf-fy21q2
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
-ms.openlocfilehash: 082574f381186731cee023cfcdfa04b46d0ba1c5
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: 3fc6b50280ac07f7c68c5a0913d0938d5eadd7f5
+ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
 ms.translationtype: MT
 ms.contentlocale: pt-PT
 ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492403"
+ms.locfileid: "97514740"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Saiba como associar-se a fornecedores indiretos no programa Cloud Solution Provider
-
-
 
 **Funções adequadas**
 
@@ -70,33 +68,22 @@ A partir de outubro de 2020, todos os parceiros da Microsoft novos na CSP, vão 
 
 2. Reveja a **página Welcome** para ter a certeza de que tem as informações necessárias para se inscrever e, em seguida, selecione **Next**.
 
-3. Inscreva-se na sua conta de trabalho. Selecione **Iniciar sômposições** e, em seguida, insira o nome de utilizador e a palavra-passe que utiliza para iniciar seduminação global para o Office 365, Microsoft Azure ou Microsoft Dynamics CRM.
+3. Iniciar sação utilizando a sua conta de trabalho - o nome de utilizador e a palavra-passe que utiliza para iniciar seduções como administrador global do Office 365, Microsoft Azure ou Microsoft Dynamics CRM. Se não tiver uma conta de trabalho, selecione **Criar uma** para configurar uma agora. Depois de criar a sua conta de trabalho, inscreva-se na utilização das credenciais de administração global para a sua nova conta.
 
-   Se não tiver uma conta de trabalho, selecione **Criar uma** para configurar uma agora. Depois de criar a sua conta de trabalho, inscreva-se na utilização das credenciais de administração global para a sua nova conta.
-
-4. Reveja as informações sobre como associar o seu ID da Rede de Parceiros da Microsoft (MPN ID) à sua nova conta Partner Center. Precisamos de ligar o ID mpn da sua empresa à sua nova conta Partner Center para que possa gerir os seus benefícios de adesão e incentivos no Centro de Parceiros. Selecione **Iniciar sessão**.
-
-5. Introduza o nome de utilizador que utiliza para iniciar sposição no site do Centro de Adesão de Parceiros (PMC). O site partner membership Center é onde gere atualmente a sua conta de parceiro microsoft. A inscrição no Partner Membership Center permite-nos recuperar o seu ID MPN e associá-lo à sua nova conta Partner Center. Selecione **Seguinte**.
-
-6. Introduza a palavra-passe para a sua conta Do Centro de Adesão ao Parceiro e, em seguida, **selecione Iniciar sposição .**
-
-7. Selecione o perfil da empresa com o ID MPN ligado aos seus incentivos, benefícios de adesão e competências. Em seguida, podemos mover esta informação para a sua conta Partner Center. Selecione **Continuar**.
-
-   Se o ID MPN que pretende utilizar não estiver listado nesta página, selecione **Cancelar** e faça o sessão novamente com o nome de utilizador e palavra-passe para o perfil da empresa que pretende utilizar.
 
    > [!IMPORTANT]  
-   > Selecione o ID MPN associado a um perfil de empresa ativo que está localizado no mesmo país/região que o seu inquilino AZure AD.
+   > Selecione o ID MPN associado ao perfil de empresa ativa que está localizado no mesmo país/região que o seu inquilino AZure AD.
 
-8. Forneça ou atualize o perfil de negócio legal da sua empresa, informações de contacto primários e informações de apoio ao cliente. Selecione **Matricular-se agora**.
+4. Forneça ou atualize o perfil de negócio legal da sua empresa, informações de contacto primários e informações de apoio ao cliente. (Para encontrar as informações legais sobre o seu negócio, selecione **perfil da Organização** e, em seguida, selecione **Informações Legais**.) Selecione **Matricular-se agora**.
 
-   O contacto principal deve ser a pessoa na sua empresa que podemos contactar sobre a sua aplicação. O contacto principal pode ser você ou outra pessoa na sua empresa. Nota: Não aceitamos endereços de e-mail de serviços de e-mail baseados na Web, como o Gmail, Yahoo! Mail, iCloud Mail, AOL Mail ou Outlook Mail.
+   O contacto principal é a pessoa na sua empresa que podemos contactar sobre a sua aplicação. Pode ser você ou outra pessoa na sua companhia. Nota: Não aceitamos endereços de e-mail de serviços de e-mail baseados na Web, como o Gmail, Yahoo! Mail, iCloud Mail, AOL Mail ou Outlook Mail.
 
    > [!IMPORTANT]  
    > Para ajudar a garantir a segurança e privacidade da sua empresa, enviaremos um e-mail para o seu contacto principal para verificar se (1) ele ou ela se inscreveu para uma conta partner Center, e (2) que este endereço de e-mail pertence à sua empresa. Após o contacto principal verificar o seu endereço de e-mail, continuaremos a nossa revisão da informação que forneceu. Enviaremos por e-mail atualizações do estado de inscrição para o contacto primário.
 
-9. Quando a sua conta Partner Center estiver pronta a ser utilizada, verifique se foi adicionado ao grupo de agentes administrativos. Para terminar a configuração da sua conta, incluindo a adição de outros utilizadores, tem de ter permissões de agente administrativo. Siga estes passos para visualizar ou atualizar as suas permissões:
+5. Quando a sua conta Partner Center estiver pronta a ser utilizada, verifique se foi adicionado ao grupo de agentes administrativos. Para terminar a configuração da sua conta, incluindo a adição de outros utilizadores, tem de ter permissões de agente administrativo. Siga estes passos para visualizar ou atualizar as suas permissões:
 
-   1. No seu **Centro de Parceiros,** selecione o ícone **Definições** e, em seguida, selecione a **gestão do Utilizador**.
+   1. A partir do painel 'Centro parceiro', selecione o ícone **Definições** e, em seguida, nas **definições de Conta**, selecione **a gestão do Utilizador**.
 
    2. Selecione o seu nome na lista de utilizadores. Em seguida, selecione **o agente de administração** se ainda não estiver selecionado. Selecione **Atualizar**.
 
@@ -136,6 +123,10 @@ Se um fornecedor indireto quiser ligar-se consigo no Centro de Parceiros, inicia
 
    > [!IMPORTANT]  
    > O seu fornecedor indireto precisa de ter uma relação de revendedor com os seus clientes para submeter encomendas em seu nome.
+
+## <a name="your-csp-country-and-the-csp-regions-where-you-do-business"></a>O seu país CSP e as regiões da CSP onde faz negócios
+
+A sua localização de negócio legal como revendedor indireto CSP determina os fornecedores indiretos com quem pode trabalhar, bem como as regiões onde pode fazer negócios com CSP. Saiba mais ao ler [cloud Solution Provider programa mercados regionais e moedas onde pode vender ofertas de CSP.](regional-authorization-overview.md)
 
 
 ## <a name="next-steps"></a>Passos seguintes

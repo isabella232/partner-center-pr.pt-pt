@@ -1,7 +1,7 @@
 ---
 title: Comprar ou renovar ofertas do Microsoft Action Pack
-ms.topic: article
-ms.date: 11/23/2020
+ms.topic: how-to
+ms.date: 12/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Saiba como comprar uma subscrição do Microsoft Action Pack e comece a usar os benefícios do Action Pack. Também aprenda a renovar, cancelar, ver a sua conta, e muito mais.
@@ -9,20 +9,15 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 658524b9f916d929fc7e07701ca339d64de95fca
-ms.sourcegitcommit: c5e9175792a4e2aac50bfae78fcef18e3cc9922a
+ms.openlocfilehash: 32b8eafa688ce6210ec0732368d8dd6892e61d75
+ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "95812856"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97514728"
 ---
 # <a name="buy-or-renew-a-microsoft-action-pack-subscription-or-silver-and-gold-competencies"></a>Comprar ou renovar uma subscrição do Microsoft Action Pack ou competências Silver e Gold
 
-**Aplica-se a**
-
-- Partner Center
-- Centro de Adesão de Parceiros
-- Parceiros de programas MPN
 
 **Funções adequadas**
 
@@ -30,13 +25,13 @@ ms.locfileid: "95812856"
 - Administrador de utilizadores
 - Administrador sócio da MPN
 - Agente administrativo
-- Agente comercial
 
-Agora, a partir do [painel](https://partner.microsoft.com/dashboard)partner Center, os membros da Microsoft Partner Network (MPN.md) podem comprar ou renovar as suas ofertas de benefícios. Tais ofertas incluem a subscrição do Microsoft Action Pack e as competências de prata e ouro.
+
+A partir do [painel](https://partner.microsoft.com/dashboard)partner center, os membros da Microsoft Partner Network (MPN)) podem comprar ou renovar ofertas de benefícios, incluindo a subscrição do Microsoft Action Pack e competências de prata e ouro.
 
 ## <a name="buy-microsoft-action-pack-for-the-first-time"></a>Comprar Microsoft Action Pack pela primeira vez
 
-Se é novo em parceria com a Microsoft, o primeiro passo é juntar-se à Microsoft Partner Network. Se ainda não é membro da rede de parceiros, vá à [página de membros](https://partner.microsoft.com/membership) no site da rede de parceiros e selecione **Junte-se agora** quando estiver pronto para se inscrever. 
+Se é novo em parceria com a Microsoft, o primeiro passo é juntar-se à Microsoft Partner Network. Para se juntar à MPN, aceda à [página de membros](https://partner.microsoft.com/membership) no site da rede de parceiros e selecione **Junte-se agora** quando estiver pronto para se inscrever.
 
 Depois de ter entrado com sucesso na rede de parceiros, siga as [instruções no site da rede de parceiros](https://partner.microsoft.com/membership/action-pack) (iniciar súm) para comprar a sua primeira subscrição do Action Pack. 
 
@@ -62,7 +57,7 @@ Torne-se um [parceiro de competência.](https://partner.microsoft.com/membership
 2. Selecione **Renovar a subscrição** e, em seguida, selecione o seu método de pagamento. Pode pagar com cartão de crédito ou com uma transferência bancária electrónica.
 
     >[!NOTE]
-    >Se **a subscrição renovar** não for apresentada ou estiver acinzentado, ainda não poderá renovar a subscrição do Action Pack. Mudamos a nossa política de renovação da janela e só pode renovar a subscrição depois de expirar. Por exemplo, se a sua subscrição expirar no dia 22 de junho, pode renová-la a partir de 23 de junho e durante 30 dias depois.  
+    >Se **a subscrição renovar** não for apresentada ou estiver acinzentado, ainda não poderá renovar a subscrição do Action Pack. Mudamos a nossa política de renovação da janela para que só possa renovar a sua subscrição **depois de** expirar. Por exemplo, se a sua subscrição expirar no dia 22 de junho, pode renová-la a partir de 23 de junho e durante 30 dias depois.  
 
 3. Se pagar com cartão de crédito, siga as instruções para adicionar a informação do seu cartão de crédito. Se pagar por transferência bancária eletrónica, forneça um nome de contacto, número de telefone e endereço de e-mail e, em seguida, selecione Enviar por email o artigo Enviar por email o artigo Bancos, em seguida, para poder fazer o pagamento de **um endereço de telefone.**
 
@@ -70,15 +65,13 @@ Torne-se um [parceiro de competência.](https://partner.microsoft.com/membership
 
 5. O seu pedido está confirmado. Selecione **Fechar**.
 
-A subscrição do Action Pack renovará automaticamente todos os anos nesta data.
-
 ### <a name="update-your-bill-to-address"></a>Atualize o seu endereço conta-to
 
 No processo de renovação ou compra do Action Pack, tem a oportunidade de validar o seu endereço de conta-to..
 
  1. Depois de selecionar **Enviar por isso,** pode rever os detalhes da sua compra. Selecione **Update** se vir que o seu endereço precisa de ser atualizado.
   
- 1. Na página de perfil do **Parceiro,** atualize o seu endereço.
+ 1. Na página **de perfil Legal,** atualize o seu endereço.
 
 ## <a name="cancel-your-action-pack-subscription"></a>Cancel your Action Pack subscription (Cancelar a subscrição do Action Pack)
 
@@ -115,6 +108,3 @@ Para verificar o estado do seu pedido de serviço, selecione **os pedidos** do C
 -   [Add users and assign permissions to them](create-user-accounts-and-set-permissions.md) (Adicionar utilizadores e atribuir permissões aos mesmos)
 
 -   [Create a business profile to get sales leads from Microsoft](create-a-marketing-profile.md) (Crie um perfil empresarial para obter oportunidades potenciais da Microsoft)
-
-
-

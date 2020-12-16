@@ -1,7 +1,7 @@
 ---
 title: FAQ de Benefícios
 ms.topic: article
-ms.date: 09/08/2020
+ms.date: 12/15/2020
 description: Respostas a questões sobre a expiração, renovação e ativação de licenças para Azure, cloud, Visual Studio e benefícios técnicos e de suporte
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOJUNE20
-ms.openlocfilehash: 61ceb869d2268b441d990049b9956da8ea87f8f5
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: f4ed4fe8946c6cacba1277921aececd84863c465
+ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570693"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97514685"
 ---
 # <a name="benefits-faq"></a>FAQ de Benefícios
 
@@ -75,7 +75,7 @@ Quando renova ou prolonga as subscrições, o número de licenças permanece o m
 
 ### <a name="q-can-i-activate-the-license-on-my-customers-account"></a>P. Posso ativar a licença na conta do meu cliente?
 
-Não. As licenças de produtos são emitidas para fins de demonstração. Os seus colaboradores de vendas e marketing podem usar este software para mostrar produtos aos seus clientes, mas os produtos de demonstração não podem ser instalados em hardware ou infraestrutura de clientes, e devem ser usados com a supervisão do parceiro.
+N.º As licenças de produtos são emitidas para fins de demonstração. Os seus colaboradores de vendas e marketing podem usar este software para mostrar produtos aos seus clientes, mas os produtos de demonstração não podem ser instalados em hardware ou infraestrutura de clientes, e devem ser usados com a supervisão do parceiro.
 
 ### <a name="q-im-having-trouble-assigning-users-in-azure-bulk-credit-what-should-i-do"></a>P. Estou a ter problemas em atribuir utilizadores no Crédito Azure Azure A granel. O que devo fazer
 
@@ -98,7 +98,7 @@ Pode atribuir subscrições a qualquer pessoa na sua lista de Gestão de Utiliza
 Depois de ter atribuído a subscrição, o utilizador precisa de iniciar sessão no Visual Studio para a gerir.
 
 >[!Note]
-> As subscrições do Visual Studio podem ser transferidas de um assinante para outro 90 dias após a atribuição original.
+> As subscrições do Visual Studio podem ser transferidas de um assinante para outro se 90 dias se passaram desde o momento da atribuição original.
 
 ## <a name="technical-benefits-and-support"></a>Benefícios técnicos e apoio
 
