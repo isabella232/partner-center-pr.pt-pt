@@ -279,18 +279,12 @@
         - name: Compreender perfis de dividendos e impostos
           href: incentives-create-and-manage-your-payout-and-tax-profiles.md
           displayName: incentives
-        - name: FAQ de perfis de dividendos e impostos
-          href: incentives-payout-tax-profile-faqs.md
-          displayName: incentives
         - name: Verificar elegibilidade para ganhos
           href: incentives-confirm-your-earnings-eligibility.md
           displayName: incentives
-        - name: Ver pagamentos e programas
+        - name: Ver programas e pagamentos
           href: understand-incentive-payouts.md
           displayName: 'mpn, incentives'
-        - name: Aceder à sua página de dividendos
-          href: incentives-unified-user-guide.md
-          displayName: incentives
     - name: Planos e provas de execução
       items:
         - name: Entender planos e PoE
@@ -433,23 +427,21 @@
       displayName: csp
 - name: Receber o pagamento
   items:
+    - name: Ser pago
+      href: marketplace-get-paid.md
+    - name: Declaração de dividendos
+      href: payout-statement.md
     - name: 'Gerir não pagamento, fraude ou uso indevido'
       href: non-payment-fraud-misuse.md
     - name: Gerir pagamentos não alocados
       href: unallocated-payment.md
-    - name: Pagamentos do marketplace comercial
-      items:
-        - name: Receber pagamentos - marketplace
-          href: marketplace-get-paid.md
-        - name: Detalhes da política de dividendos
-          href: payout-policy-details.md
-        - name: 'Limiares, métodos e períodos de tempo de pagamento'
-          href: payment-thresholds-methods-timeframes.md
-        - name: Declaração de dividendos
-          href: payout-statement.md
-          displayName: invoice
-        - name: FAQ sobre dividendos
-          href: payout-faq.md
+    - name: Agendamentos e processos de dividendos
+      href: payout-policy-details.md
+    - name: 'Limiares, métodos e períodos de tempo de pagamento'
+      href: payment-thresholds-methods-timeframes.md
+      displayName: invoice
+    - name: FAQ sobre dividendos e perfis de imposto
+      href: payout-faq.md
 - name: Ligar-se a clientes
   items:
     - name: Ligar-se aos seus clientes
@@ -663,10 +655,12 @@
               displayName: 'indirect, reseller'
             - name: Formação
               href: pci-training-dashboard.md
-        - name: Problemas conhecidos
+        - name: FAQ sobre o Insights
           href: pci-known-issues.md
         - name: Transferir relatórios de Informações
           href: pci-download-reports.md
+        - name: Definições de dados do Insights
+          href: pci-data-definitions.md
     - name: Indicadores de Contributo do Parceiro
       href: partner-contribution-indicators.md
       displayName: mpn
