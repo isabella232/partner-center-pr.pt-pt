@@ -7,14 +7,14 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.topic: how-to
 ms.localizationpriority: high
-ms.date: 11/23/2020
+ms.date: 12/16/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b9b23fc887b754bf4eb1d703026a24e294952f4c
-ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
+ms.openlocfilehash: 398e02e4d18df9e555a1576e845e1d0e0bdf1105
+ms.sourcegitcommit: 3ff229fd6f80b9e935d151280b17a60b8c39e8a9
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "95514712"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "97636012"
 ---
 # <a name="verify-your-organization-profile-information-in-partner-center"></a>Verifique as informações do seu perfil de organização no Partner Center
 
@@ -65,16 +65,12 @@ Se, durante a sua migração do Partner Membership Center para Partner Center, o
 
 Para atualizar o ID MPN associado à sua conta CSP:
 
-1. Inscreva-se no painel do Centro de Parceiros.
+1. Inscreva-se no painel do Centro de Parceiros e, em seguida, **selecione Definições**.
  
-1. Selecione **o perfil** da Organização a partir das definições de **Conta.**
+1. A partir **das definições de Conta**, selecione **Identifiers**.
 
-1. Ao lado **do MPNID Associado,** selecione **Update**.
+1. Na secção **CSP** utilize o link **'Actualização'** para atualizar o ID MPN associado à sua conta CSP.
  
-1. Selecione **Continuar**.
- 
-1. Adicione o seu ID MPN.
-
 
 ## <a name="update-your-billing-address"></a>Atualize o seu endereço de faturação
 
