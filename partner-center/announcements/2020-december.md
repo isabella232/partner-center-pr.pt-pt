@@ -9,18 +9,72 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 12/02/2020
-ms.openlocfilehash: 1341e60fd9914f421fd59335a8f037f3d915b72f
-ms.sourcegitcommit: bc44a6e0c5ef048cda6e882fdb543c13c5b64912
+ms.openlocfilehash: 841ef4701ef7c973cc7a4fffaa26bb24b8d6f7e9
+ms.sourcegitcommit: e9066768ab8e242c03f0a7e3ce460ae8cd2e3fda
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "96869304"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "97622155"
 ---
 # <a name="december-2020-announcements"></a>Anúncios de dezembro de 2020
 
 Esta página detalha os anúncios para o Microsoft Partner Center para novembro de 2020.
 
-Anúncios de 2020: [abril](2020-april.md)  |  [maio](2020-may.md)  |  [junho julho](2020-june.md)  |  [July](2020-july.md)  |  [agosto](2020-august.md)  |  [setembro](2020-september.md)  |  [October](2020-October.md)  |  [novembro](2020-november.md) Dezembro
+Anúncios de 2020: [abril](2020-april.md)  |  [maio](2020-may.md)  |  [junho julho](2020-june.md)  |  [](2020-july.md)  |  [agosto](2020-august.md)  |  [setembro](2020-september.md)  |  [](2020-October.md)  |  [novembro](2020-november.md) Dezembro
+
+______________
+
+## <a name="power-apps-promo-offer-now-available"></a><a name="5"></a>Oferta promocional das Power Apps já disponível
+
+### <a name="categories"></a>Categorias
+
+- Data: 2020-12-16
+- Ofertas/Mercados
+
+### <a name="impacted-audience"></a>Audiência impactada
+
+Todos os parceiros que transacionam através do programa Cloud Solution Provider (CSP)
+
+### <a name="details"></a>Detalhes
+
+A oferta promocional da Power Apps inicialmente prevista para o dia 1 de dezembro foi ligeiramente adiada. A oferta deverá estar disponível a 16 de dezembro de 2020. Esta oferta está disponível a um preço reduzido e tem outra diferença notável das ofertas típicas no Partner Center.
+ 
+**Oferecer detalhes**
+
+- A oferta estará disponível para compra até 30 de junho de 2021.
+- A oferta é um prazo de 12 meses a um preço reduzido, como outras ofertas da CSP.
+- Esta oferta não será nova e expirará no final do prazo de 12 meses. Inicialmente, a nova propriedade será definida para **True,** mas esta será alterada para que a oferta expire no final do prazo de 12 meses da oferta.
+- Os parceiros terão de adquirir a oferta a preços não promocionais (id oferta: 5e1087b6-246b-4503-b88a-b60bdf0b3840) antes do prazo de 12 meses se quiserem continuar a utilizar os serviços prestados pela oferta inicial.
+
+**Detalhes dos preços**
+
+Os detalhes de preços da oferta abaixo para esta oferta estarão na lista de preços de janeiro de 2021.
+
+- Nome do display da oferta: Power Apps por promoção de plano de aplicação (200 lugares min)
+- ID da oferta: 988b7b06-e034-4b3e-89ea-51198cb2723e
+- Tipo de Contrato de Licença: Corporativo
+- Unidade de Compra: 1 Mês(s)
+- Tipo de Licença Secundária: NÃO ESPECÍFICO
+- Preços da lista: Os preços da lista podem ser descarregados a partir [deste local.](https://partnercenter.microsoft.com/pc/api/cms/rtdownload?id=sales/RE4Lr1n) Nota: terá de iniciar sessão no Partner Center para baixar os preços. Se não estiver registado no Partner Center, receberá uma mensagem de erro **não autorizada.**
+- Preço do ERP: Ainda não disponível, procure o ERP desta oferta na próxima atualização da lista de preços de janeiro em 1/1/2021
+- ID do material: SEQ-00016
+ 
+**Oferecer detalhes**
+
+Os detalhes da oferta abaixo para esta oferta estarão na matriz da lista de ofertas de janeiro de 2021.
+
+- ID de provisionamento: POWERAPPS_PER_APP
+- Duração: 1 Ano
+- Frequência de Faturação: Mensalmente; Anualmente
+- Contagem de assentos min: 200
+- Contagem de assentos max: 10000000
+- Limite de oferta: Nenhum
+- Países Permitidos: Ilhas Permuíduas dos EUA; Inglês (Territórios do Sul francês); Ilha Bouvet; Território britânico do Oceano Índico; Iémen; Heard e Mc Donald Islands; Wallis e Futuna; Vanuatu; Antártica; Tuvalu; Somália; Tokelau; Serra Leoa; Suazilândia; Santa Helena, Ascensão, Tristão da Cunha; São Tomé e Príncipe; Ilhas Pitcairn; Palau; Ilhas Salomão; Nauru; Niue; Ilha Norfolk; Mauritânia; Ilhas Marianas do Norte; Lesoto; Kiribati; Guiné Equatorial; Guiné-Bissau; Ilhas Cook; Eritreia; Ilha de Natal; Burkina Faso; República Centro-Africana; Kosovo; Ilhas Cocos (Keeling); Svalbard e jan Mayen; Ilhas Åland; Sudão do Sul; Geórgia do Sul e Ilhas Sandwich do Sul; Samoa; São Barthélemy; Ilhas Virgens Britânicas; São Pedro e Miquelon; Chade; Níger; Montserrat; Guiana; Haiti; Gâmbia; Guam; Guiné; Gabão; Granada; Gibraltar; Guernsey; Libéria; Micronésia; Ilhas Falkland;Dominica;Djibuti; Congo; Congo (RDC); Zimbabué; Samoa Americana; Zâmbia; África do Sul; Mayotte; Vietname; São Vicente e Granadinas;Ilhas Virgens Americanas; Venezuela; Santa Sé (Cidade do Vaticano); Ucrânia; Uganda; Usbequistão; Estados Unidos; Uruguai; Tanzânia; Taiwan; Trinidad e Tobago; Turquia; Tunísia; Tonga; Timor-Leste; Turquemenistão; Tajiquistão; Tailândia; Togo; El Salvador; Sint Maarten; Ilhas Turcas e Caicos; Suriname; Singapura; Eslovénia; São Marino; Senegal; Eslováquia; Suécia; Seychelles; Arábia Saudita; Sérvia; Ruanda; Rússia; Roménia; Reunião; Qatar; Paraguai; Portugal; Filipinas; Território Palestiniano, Ocupado; Polónia; Porto Rico; Paquistão; Peru; Panamá; Papua Nova Guiné; Polinésia Francesa; Nova Zelândia;Omã; Nepal; Holanda; Noruega; Nigéria; Nicarágua; Nova Caledónia; Namíbia; Moçambique; Malásia; México; Martinica; Malawi; Maldivas; Maurícia; Malta; Myanmar; RAE de Macau; Mongólia; Mali; Madagáscar; Ilhas Marshall; Macedónia, FYRO; Montenegro; São Martinho; Marrocos; Mónaco; Moldávia; Letónia; Líbia; Luxemburgo; Líbano; Santa Lúcia; Lituânia; Sri Lanka; Ilhas Caimão; Liechtenstein; Laos; Cazaquistão; Kuwait; Coreia; Comores; Camboja; São Cristóvão e Nevis; Quénia; Quirguistão; Japão; Jordânia; Jamaica; Jersey;Itália;Islândia;Iraque;Irlanda;Índia;Indonésia;Ilha de Man; Honduras;Israel; A Hungria; Hong Kong SAR; Croácia; Guatemala; Grécia; Guadalupe; Guiana Francesa; Gronelândia; Gana; Ilhas Faroé; Reino Unido; Geórgia; França; Fiji; Etiópia; Finlândia; Espanha; Egito; Estónia; Equador;República Dominicana; Argélia; Alemanha;Dinamarca; Chipre; República Checa; Curaçao; Cabo Verde; Costa Rica; Chile; Camarões; Colômbia; Costa do Marfim; Canadá; Suíça; Belize; Bielorrússia; Botsuana; Butão; Bahamas; Bonaire, Sint Eustatius e Saba; Brasil; O Benin; Brunei; Bermudas; Bolívia; Bélgica; Bulgária; Bahrein; Burundi; Bósnia e Herzegovina; Bangladesh; Barbados; Azerbaijão; Aruba; Austrália; Argentina; Áustria; Angola; Arménia; Afeganistão; Albânia; Anguilla; Andorra; Emirados Árabes Unidos; Antígua e Barbuda
+
+### <a name="next-steps"></a>Passos Seguintes
+
+- A oferta promocional estará disponível na lista oficial de preços base de licença do CSP partner center de 1 de janeiro de 2021 e matriz de lista de ofertas. 
+- As perguntas ou acompanhamento desta promoção podem ser publicadas no anúncio da [comunidade microsoft](https://www.microsoftpartnercommunity.com/t5/Pricing-Licensing-Incentives/Announcing-a-new-Power-Apps-promotional-offer-to-accelerate-FY21/m-p/32540).
 
 ______________
 
@@ -37,7 +91,7 @@ Parceiros Direct Bill e Fornecedores Indiretos que participam no programa CSP qu
 
 ### <a name="details"></a>Detalhes
 
-A partir de 08 de dezembro de 2020, os Parceiros podem começar a descarregar a versão do [MicrosoftPartnerCenter.NETSDK (NuGet Gallery ] Microsoft.Store.PartnerCenter 1.16.3)](https://www.nuget.org/packages/Microsoft.Store.PartnerCenter/1.16.3), juntamente com [amostras atualizadas](https://github.com/Microsoft/Partner-Center-DotNet-Samples)do Centro De Parceiros Públicos SDK GitHub . Esta versão inclui atualizações para o seguinte:
+A partir de 08 de dezembro de 2020, os Parceiros podem começar a descarregar a versão do [MicrosoftPartnerCenter.NETSDK (NuGet Gallery ] Microsoft.Store.PartnerCenter 1.16.3)](https://www.nuget.org/packages/Microsoft.Store.PartnerCenter/1.16.3), juntamente com [amostras atualizadas](https://github.com/Microsoft/Partner-Center-DotNet-Samples)do Centro De Parceiros Públicos SDK GitHub . Esta versão inclui atualizações aos seguintes métodos:
  
 **SelfServePolicies - nova funcionalidade adicionada**
 
@@ -83,7 +137,7 @@ As listas de preços baseadas em licenças de dezembro e os ficheiros de matriz 
 
 #### <a name="incorrect-offers-in-the-license-based-price-list"></a>Ofertas incorretas na lista de preços baseadas em licenças
 
-As listas de preços baseadas em licenças de dezembro contêm as ofertas abaixo que não devem constar das tabelas de preços. Estas ofertas foram previamente incluídas nas tabelas de preços por engano e não deveriam ter sido publicadas. Não há horário para saber quando estes podem estar disponíveis. No futuro, se forem adicionados de volta, serão listados como ADS em futuras listas de preços de pré-visualização.
+As listas de preços baseadas em licenças de dezembro contêm as ofertas abaixo que não devem constar das tabelas de preços. Estas ofertas foram previamente incluídas nas tabelas de preços por engano e não deveriam ter sido publicadas. Não há nenhum horário para quando estas ofertas podem estar disponíveis. No futuro, se forem adicionados de volta, serão listados como ADS em futuras listas de preços de pré-visualização.
 
    |**Nome da oferta**|**ID da oferta**|
    |-------------------|:------|
@@ -96,7 +150,7 @@ As listas de preços baseadas em licenças de dezembro contêm as ofertas abaixo
    
 #### <a name="incorrect-offers-in-the-offer-list-matrix"></a>Ofertas incorretas na matriz da lista de ofertas
    
-Abaixo as ofertas estavam na matriz da lista de ofertas por engano. Não estão disponíveis, ainda não há data-alvo para disponibilidade. Os parceiros devem ignorar isto.
+Abaixo as ofertas estavam na matriz da lista de ofertas por engano. Não estão disponíveis, ainda não há data-alvo para disponibilidade. Os parceiros devem ignorar estes itens de linha.
 
    |**Nome da oferta**|**ID da oferta**|
    |-------------------|:------|
@@ -176,7 +230,7 @@ Parceiros que vendem ofertas académicas através do programa Cloud Solution Pro
 
 ### <a name="summary"></a>Resumo 
 
-A Microsoft tem confiança. Estamos empenhados em fornecer um método de validação de clientes conforme, seguro e seguro para a transação de ofertas académicas no programa Cloud Solution Provider. Como parte deste compromisso, estamos a introduzir API do Partner Center e melhorias na interface do utilizador que irão adicionar clareza e visibilidade no processo de verificação do cliente, bem como a capacidade de inserir dados mais precisos que irão impulsionar um melhor sucesso na verificação do cliente. 
+A Microsoft tem confiança. Estamos empenhados em fornecer um método de validação de clientes conforme, seguro e seguro para a transação de ofertas académicas no programa Cloud Solution Provider. Como parte deste compromisso, estamos a introduzir API do Partner Center e melhorias na interface do utilizador que irão adicionar clareza e visibilidade ao processo de verificação do cliente, bem como a capacidade de inserir dados mais precisos, o que irá impulsionar um melhor sucesso na verificação do cliente. 
 
 **Melhorias do Partner Center** 
 
@@ -196,7 +250,7 @@ Para obter uma melhor compreensão das APIs e entrada de dados necessária para 
 
 Para além das melhorias acima referidas, estamos entusiasmados por anunciar que vamos permitir ofertas académicas para clientes de Bibliotecas e Museus, expandindo os clientes de Educação com os quais pode transacionar ofertas de CSP. 
 
-A Microsoft reserva-se o direito de rever o estado de qualquer cliente ou cliente proposto como utilizador educacional qualificado. Consulte os [Requisitos de Utilização Académica De Educação Qualificada](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7) para obter todos os detalhes. 
+A Microsoft reserva-se o direito de rever o estado de qualquer cliente ou cliente proposto como utilizador educacional qualificado. Consulte os [Requisitos de Utilização académica qualificada](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7) para a educação para obter todos os detalhes. 
 
 ### <a name="next-stepsadditional-resources"></a>Próximos passos/recursos adicionais
 

@@ -1,7 +1,7 @@
 ---
 title: Parceiro ganhou crédito por serviços geridos
 ms.topic: article
-ms.date: 11/30/2020
+ms.date: 12/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como o parceiro da Microsoft ganhou crédito (PEC) por serviços geridos é calculado e pago e como garantir que é elegível.
@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 97af446c4021e9785833374131eee2f08431b5fe
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: 3acc078b3de3c0443ee64fdaaba2d486d9c466c8
+ms.sourcegitcommit: e9066768ab8e242c03f0a7e3ce460ae8cd2e3fda
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474313"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "97622172"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>Como o crédito de parceiro ganho é calculado e pago
 
@@ -30,29 +30,31 @@ O parceiro ganhou crédito pelos serviços geridos (PEC) reconhece e recompensa 
 
 Leia Também [os privilégios de administração da Reinstate para as assinaturas Azure CSP](revoke-reinstate-csp.md)
 
-## <a name="important-eligibility-and-calculation-information"></a>Important eligibility and calculation information (Informações importantes de elegibilidade e cálculo)
+## <a name="eligibility"></a>Elegibilidade
 
-- O parceiro deve ter um contrato de MPN ativo e um papel rbac válido para receber crédito adquirido pelos ativos da Azure que gerem. 
+Para receber o parceiro auferido crédito (PEC), aplicam-se os seguintes requisitos: 
 
-- No caso dos fornecedores indiretos e dos seus revendedores indiretos, o fornecedor indireto será elegível para a PEC se o fornecedor indireto, ou o revendedor indireto ou ambos tiverem controlo operacional e gestão 24x7 dos recursos Azure do cliente em CSP.
+- Você deve ter um acordo mPN ativo e papel válido de controlo de acesso baseado em funções (RBAC) para receber crédito ganho pelos ativos Azure que você gere.
 
-- A PEC está associada ao consumo faturado (a cargo) da propriedade Azure do cliente em CSP gerida pelo parceiro. O PEC é disponibilizado apenas aos parceiros da CSP faturados pela Microsoft (fornecedor indireto e parceiro de conta direta). 
+- Deve ter controlo operacional 24x7 e gestão dos recursos Azure do cliente em CSP. Isto significa que deve ter privilégios administrativos na subscrição Azure do cliente, grupo de recursos Azure, recurso Azure. No caso dos fornecedores indiretos e dos seus revendedores indiretos, o fornecedor indireto será elegível para o PEC se o fornecedor indireto ou o revendedor indireto tiverem esse controlo operacional. Para saber mais sobre isto, consulte [os privilégios de administração da Reinstate para as assinaturas Azure CSP](https://docs.microsoft.com/partner-center/revoke-reinstate-csp).
 
-- Serviços elegíveis: O crédito auferido pelo parceiro é aplicável aos serviços enumerados no **plano Azure de preços** de consumo que os parceiros podem exportar a partir da página de preços do plano [Azure.](https://partner.microsoft.com/commerce/sales) 
+- Além dos requisitos acima referidos, o PEC só é aplicável aos serviços listados no preço de consumo do plano Azure, que pode exportar a partir da página de preços do [plano Azure.](https://partner.microsoft.com/commerce/sales)
 
-- Serviços não elegíveis: O crédito adquirido pelo parceiro *_não_* é * não aplicável ao seguinte:
+- A PEC **não** se aplica aos seguintes serviços:
     - Reservas do Plano Azure
-    - Produtos de terceiros identificados como _ *Terceiros** na **coluna Tags** do preço de consumo do plano Azure    
+    - Produtos de terceiros identificados como terceiros na coluna Tags do preço de consumo do plano Azure
     - Produtos na tabela de preços do Mercado
-   - [Máquinas virtuais Azure Spot](https://partner.microsoft.com/resources/collection/azure-spot-in-csp#/)
+    - [Máquinas virtuais Azure Spot](https://partner.microsoft.com/resources/collection/azure-spot-in-csp#/)
 
-- O PEC é calculado diariamente e pode ser visto no ficheiro de utilização diária e no ficheiro mensal de reconhecimento de fatura. Um parceiro (fornecedor indireto ou revendedor indireto) deve ter acesso durante todo o dia (24x7) para garantir que obtém PEC. O PEC é calculado diariamente com base nos ativos geridos da Azure. O PEC máximo para um determinado período de faturação (Mês) é de 15%. Os parceiros que mantêm o acesso privilegiado persistente ao longo do mês (período de acesso) e para todos os recursos elegíveis (âmbito de acesso) ganharão PEC total de 15%. A redução do âmbito e do alcance resultará numa taxa de PEC mais baixa para o mês. O ficheiro de utilização diária mostra diariamente num ativo Azure se o PEC é aplicado ou não. Os parceiros também podem inscrever-se em alertas para detetar se há alterações no acesso privilegiado persistente.
+- O PEC é ganho até ao nível de recursos Azure. Se tiver acesso válido a nível de subscrição ou grupo de recursos, cada recurso que se ause até à entidade superior ganhará PEC.
 
-- O PEC é ganho até ao nível de recursos Azure. Se o parceiro tiver acesso válido a nível de subscrição ou grupo de recursos, cada recurso que se funirá até à entidade superior ganhará PEC.  
+- Os detalhes sobre o PEC também estão disponíveis na página [de gestão do Custo Azure.](https://docs.microsoft.com/azure/cost-management-billing/costs/get-started-partners)
 
-- Detalhes do PEC também estarão disponíveis na [gestão do Custo Azure](/azure/cost-management-billing/costs/get-started-partners)
+### <a name="calculation"></a>Cálculo
 
-## <a name="azure-cost-management"></a>Azure Cost Management
+O PEC é calculado diariamente e pode ser visto no ficheiro de utilização diária e no ficheiro mensal de reconhecimento de fatura. Um parceiro (fornecedor indireto ou revendedor indireto) deve ter acesso durante todo o dia (24x7) para garantir que obtém PEC. O PEC é calculado diariamente com base nos ativos geridos da Azure. O PEC máximo para um determinado período de faturação (Mês) é de 15%. Os parceiros que mantêm o acesso privilegiado persistente ao longo do mês (período de acesso) e para todos os recursos elegíveis (âmbito de acesso) ganharão PEC total de 15%. A redução do âmbito e do alcance resultará numa taxa de PEC mais baixa para o mês. O ficheiro de utilização avaliado diariamente mostra diariamente um ativo Azure, quer o PEC seja aplicado ou não. Os parceiros também podem inscrever-se em alertas para monitorizar as alterações ao acesso privilegiado persistente.
+
+## <a name="azure-cost-management"></a>Gestão de Custos do Azure
 
 A Azure Cost Management (ACM) utilizando a Análise de Custos permite-lhe, como parceiro, visualizar os custos que receberam o benefício da PEC.  
 
@@ -66,10 +68,10 @@ A Azure Cost Management (ACM) utilizando a Análise de Custos permite-lhe, como 
 
 4. Selecione **PartnerEarnedCreditApplied** na queda em um gráfico de pivô para ver os custos que têm PEC aplicado. Quando a propriedade **PartnerEarnedCreditApplied** é Verdadeira, o custo associado tem o benefício do parceiro que ganhou crédito. 
 
-Quando a propriedade PartnerEarnedCreditApplied é falsa, o custo associado não cumpriu a elegibilidade exigida para o crédito ou o serviço adquirido não é elegível para o parceiro obtido crédito.
+   Quando a propriedade PartnerEarnedCreditApplied é falsa, o custo associado não cumpriu a elegibilidade exigida para o crédito ou o serviço adquirido não é elegível para o parceiro obtido crédito.
 
->[!NOTE] 
->Normalmente, o uso dos serviços demora 8-24 horas a aparecer na **Gestão de Custos** e os créditos PEC aparecerão dentro de 48 horas a partir do momento de acesso na Azure Cost Management.
+   >[!NOTE] 
+   >Normalmente, o uso dos serviços demora 8-24 horas a aparecer na **Gestão de Custos** e os créditos PEC aparecerão dentro de 48 horas a partir do momento de acesso na Azure Cost Management.
 
 5. Também pode agrupar e filtrar a propriedade **PartnerEarnedCreditApplied** utilizando as funcionalidades de filtro **do Grupo por e Adicionar** para perfurar custos que têm PEC e os custos que não têm PEC aplicados.
 

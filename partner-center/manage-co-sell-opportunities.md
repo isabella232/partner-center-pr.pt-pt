@@ -1,7 +1,7 @@
 ---
 title: Gerir oportunidades de venda conjunta
 ms.topic: article
-ms.date: 06/02/2020
+ms.date: 12/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Como parceiro qualificado da Microsoft, pode co-vender com a Microsoft. Saiba como definir ofertas, convidar a Microsoft a colaborar ou ver ofertas enviadas.
@@ -9,12 +9,12 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 61dab9f869d8bb9a26f1317fb1aec3013e915465
-ms.sourcegitcommit: e4f870b9070eb3aed49061cc652d124ba0d05b68
+ms.openlocfilehash: 52a1ac20b0370e1dd4a1de85087303090c1b7eb4
+ms.sourcegitcommit: e9066768ab8e242c03f0a7e3ce460ae8cd2e3fda
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/23/2020
-ms.locfileid: "95417273"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "97622206"
 ---
 # <a name="manage-co-sell-opportunities-in-partner-center"></a>Gerir oportunidades de co-venda no Partner Center
 
@@ -44,13 +44,19 @@ Aproveite as oportunidades de co-venda.  As oportunidades de co-venda são uma c
 
 ## <a name="navigating-the-co-sell-section"></a>Navegando na secção Co-sell
 
-Há três guias de alto nível na secção co-venda.
+Para aceder à secção Co-venda, siga estes passos:
 
-**Entrada** – Todas as oportunidades que são enviadas ao parceiro dos vendedores da Microsoft para venda colaborativa estão disponíveis neste separador.
+1. Faça login no painel de instrumentos do Centro [de Parceiros.](https://partner.microsoft.com/dashboard)
 
-**Outbound** – Todas as oportunidades criadas pelo parceiro estão disponíveis neste separador. Os parceiros podem criar três categorias diferentes de oportunidades – co-vender, privado e parceiro a parceiro.
+2. A partir do menu de navegação à esquerda, **selecione Referências,** seguido **de Oportunidades de Co-venda.**
 
-**Favoritos** – As oportunidades marcadas como favoritas nos separadores de Oportunidades de Co-venda de Entrada ou Saída serão mostradas neste separador. Marque qualquer oportunidade como um favorito clicando no ícone do coração na oportunidade na vista da lista. Pode remover a oportunidade dos favoritos clicando novamente no mesmo ícone.
+   Verá três separadores de alto nível nesta secção:
+
+   - **Entrada** – Todas as oportunidades que são enviadas ao parceiro dos vendedores da Microsoft para venda colaborativa estão disponíveis neste separador.
+
+   - **Outbound** – Todas as oportunidades criadas pelo parceiro estão disponíveis neste separador. Os parceiros podem criar três categorias diferentes de oportunidades – co-vender, privado e parceiro a parceiro.
+
+   - **Favoritos** – As oportunidades marcadas como favoritas nos separadores de Oportunidades de Co-venda de Entrada ou Saída serão mostradas neste separador. Marque qualquer oportunidade como um favorito clicando no ícone do coração na oportunidade na vista da lista. Pode remover a oportunidade dos favoritos clicando novamente no mesmo ícone.
 
 ## <a name="creating-a-co-sell-opportunity"></a>Criar uma oportunidade de co-venda
 
