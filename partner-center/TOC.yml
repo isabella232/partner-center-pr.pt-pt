@@ -738,6 +738,8 @@
     - name: Mandating MFA for your partner tenant (Autorizar a MFA para o inquilino parceiro)
       href: partner-security-requirements-mandating-mfa.md
       displayName: csp
+    - name: Configurar os seus utilizadores com MFA
+      href: mfa-for-users.md
     - name: Estado dos requisitos
       href: partner-security-compliance.md
       displayName: csp

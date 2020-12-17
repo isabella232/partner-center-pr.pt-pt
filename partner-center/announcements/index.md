@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 12/03/2020
-ms.openlocfilehash: d90a9adf70b372517c0454733ec1a2262f330c1f
-ms.sourcegitcommit: bc44a6e0c5ef048cda6e882fdb543c13c5b64912
+ms.openlocfilehash: a373a6a956e8c8a8e8052a946cc82a8d82213da0
+ms.sourcegitcommit: e9066768ab8e242c03f0a7e3ce460ae8cd2e3fda
 ms.translationtype: HT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "96869321"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "97622189"
 ---
 # <a name="partner-center-announcements"></a>Anúncios do Centro de Parceiros
 
@@ -22,6 +22,7 @@ Saiba mais sobre atualizações importantes do Centro de Parceiros. Estas inform
 
 | **Categoria** | **Anúncios de dezembro de 2020** | **Anunciado** |
 |---------|:---------|:---------|
+|Ofertas/Mercados|[A oferta promocional do Power Apps está agora disponível](2020-december.md#5)|16 de dezembro|
 |Capacidades|[Versão do SDK no .NET Standard (v1.16.3)](2020-december.md#4)|8 de dezembro|
 |Ofertas/Mercados|[Notas de versão da lista de preços com base em licenças de dezembro de 2020](2020-december.md#3)|8 de dezembro|
 |Ofertas/Mercados|[Está a chegar uma atualização da oferta do Microsoft 365 Voz Para Empresas dos E.U.A. com Plano de Chamadas](2020-december.md#2)|3 de dezembro|
