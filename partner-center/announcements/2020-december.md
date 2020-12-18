@@ -8,19 +8,110 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 12/02/2020
-ms.openlocfilehash: c546885d74f5959dd02c0c7ce0fdbc22f9ff5313
-ms.sourcegitcommit: 3ff229fd6f80b9e935d151280b17a60b8c39e8a9
+ms.date: 12/17/2020
+ms.openlocfilehash: 0712c2b8aa3a22dd4a6f327759c383257cb6605a
+ms.sourcegitcommit: 37c421eac547f6d9c2f5c8460a40f736ec8b8841
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "97635995"
+ms.lasthandoff: 12/18/2020
+ms.locfileid: "97666779"
 ---
 # <a name="december-2020-announcements"></a>Anúncios de dezembro de 2020
 
 Esta página detalha os anúncios para o Microsoft Partner Center para novembro de 2020.
 
 Anúncios de 2020: [abril](2020-april.md)  |  [maio](2020-may.md)  |  [junho julho](2020-june.md)  |  [](2020-july.md)  |  [agosto](2020-august.md)  |  [setembro](2020-september.md)  |  [](2020-October.md)  |  [novembro](2020-november.md) Dezembro
+
+______________
+
+## <a name="perpetual-software-in-csp--new-products-and-geographies"></a><a name="10"></a>Software perpétuo em CSP: Novos produtos e geografias
+
+### <a name="categories"></a>Categorias
+
+- Data: 2020-12-17
+- Ofertas
+
+### <a name="impacted-audience"></a>Audiência impactada
+
+Parceiros de conta diretos da CSP, fornecedores indiretos e revendedores indiretos
+
+### <a name="details"></a>Detalhes
+
+À medida que melhoramos as nossas capacidades de comércio para proporcionar aos clientes e parceiros uma melhor experiência de compra, estamos a expandir o portfólio de ofertas para incluir a disponibilidade de licenças de software perpétuos dentro do programa Cloud Solution Provider (CSP). A adição de licenças de software dentro da CSP permite que os parceiros participantes se concentrem na oferta de diversas soluções e serviços geridos aos seus clientes. Também capacita a transição dos clientes para a nuvem e dá aos parceiros a flexibilidade necessária para ambientes híbridos em nuvem.
+
+A partir de 19 de janeiro de 2021, a Microsoft permitirá que todos os parceiros de conta direta da CSP, fornecedores indiretos e revendedores indiretos vendam licenças de software dentro do programa CSP e também adicionaremos produtos e geografias adicionais. 
+
+Encontre todos os detalhes sobre software perpétuo no CSP consulte a coleção de prontidão:  [Software perpétuo no programa Cloud Solution Provider](https://partner.microsoft.com/resources/collection/software-in-csp#/).
+
+### <a name="products"></a>Produtos
+
+Estes produtos adicionais aparecerão na lista de preços da CSP de janeiro de 2021, a publicar a 19 de janeiro de 2020.  Esta será uma ree publicação da lista inicial de preços da CSP publicada a 1 de janeiro de 2021.
+
+- Exchange Server Enterprise 2019
+- Bolsa servidor Enterprise 2019 Dispositivo CAL
+- Bolsa servidor Enterprise 2019 User CAL
+- Padrão do Servidor de Troca 2019
+- Servidor de Troca Standard 2019 Dispositivo CAL
+- Troca servidor Standard 2019 User CAL
+
+### <a name="geographies"></a>Geografias
+
+As geografias adicionais disponíveis a partir de 19 de janeiro de 2021 para software perpétuo em CSP incluem:
+
+|**Geografias disponíveis**|| | |
+|-----------------------------|-------------------------------|------------|----------------------|
+|Azerbaijão|Bielorrússia|Benim|Butão|
+|Bonaire, Sint Eustatius e Saba|Ilha Bouvet|Brasil|
+|Território Britânico do Oceano Índico|Burkina Faso|Burundi|Camboja|
+|República Centro-Africana|Chade|Ilha do Natal|Ilhas dos Cocos (Keeling)|
+|Comoros|Congo|Congo, República Democrática do|Ilhas Cook|
+|Jibuti|Guiné Equatorial|Eritreia|Ilhas Falkland (Malvinas)|
+|Guiana Francesa|Polinésia Francesa|Territórios Austrais Franceses|Gabão|
+|Gâmbia|Geórgia|Gibraltar|Gronelândia|
+|Granada|Guadalupe|Guame|Guernesey|
+|Guiné|Guiné-Bissau|Haiti|Ilhas Heard e McDonald|
+Santa Sé|Hungria|Índia|Iraque|
+|Ilha de Man|Jersey|Cazaquistão|Quiribáti|
+|Coreia, República da|Quirguistão|Libéria|Madagáscar|
+|Maláui|Maldivas|Mali|Ilhas Marshall|
+|Martinica|Mauritânia|Maiote|Micronésia (Estados Federados de)|
+|Moldávia|Mongólia|Montserrate|Moçambique|
+|Mianmar|Nauru|Antigas Antilhas Neerlandesas|Nova Caledónia|
+|Níger|Niuê|Ilha Norfolk|Ilhas Marianas do Norte|
+|Palau|Papua-Nova Guiné|Pitcairn|Polónia|
+|Catar|Reunião|Rússia|São Bartolomeu|
+|Santa Helena, Ascensão e Tristão da Cunha|Santa Lúcia|São Martinho (parte francesa)|São Pedro e Miquelão|
+|São Vicente e Granadinas|Samoa|São Marino|São Tomé e Príncipe|
+|Arábia Saudita|Seicheles|Serra Leoa|Sint Maarten (parte holandesa)|Ilhas Salomão|
+|Somália|África do Sul|Ilhas Geórgia do Sul e Sandwich do Sul|Sudão do Sul|
+|Suriname|Svalbard e Jan Mayen|Suazilândia|Taiwan|
+|Tajiquistão|Tailândia|Timor-Leste|Togo|
+|Toquelau|Tonga|Turquia|Turquemenistão|
+|Ilhas Turcas e Caicos|Tuvalu|Ucrânia|Ilhas Menores dos Estados Unidos|
+|Usbequistão|Vanuatu|Venezuela|Vietname|
+|Ilhas Virgens Britânicas|Wallis e Futuna
+
+
+____________
+
+## <a name="government-academic-and-non-profit-continuing-the-open-license-program-changes-and-evolution-of-csp"></a><a name="9"></a>Governo, académico e sem fins lucrativos: Continuação do programa de Licença Aberta alterações e evolução do CSP
+
+### <a name="categories"></a>Categorias
+
+- Data: 2020-12-17
+- Cresça o seu Negócio
+
+### <a name="impacted-audience"></a>Audiência impactada
+
+Todos os parceiros da CSP
+
+### <a name="details"></a>Detalhes
+
+Hoje, à medida que continuamos a dar prioridade à [nuvem,](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/)estamos a dar conhecimento de futuras mudanças para clientes do setor público (governo, educação e sem fins lucrativos) que compram através do programa Licença Aberta, bem como alterações relacionadas com o programa Cloud Solution Provider.
+
+### <a name="next-steps"></a>Passos seguintes
+
+O anúncio completo só está disponível para parceiros da Microsoft. [Inscreva-se para aceder ao anúncio completo.](https://partner.microsoft.com/resources/detail/public-sector-open-license-csp-evolution-to-a-better-experience-pc-announcement-pdf)
 
 ______________
 
