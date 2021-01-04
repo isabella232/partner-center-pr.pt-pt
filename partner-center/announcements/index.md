@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 12/03/2020
-ms.openlocfilehash: a373a6a956e8c8a8e8052a946cc82a8d82213da0
-ms.sourcegitcommit: e9066768ab8e242c03f0a7e3ce460ae8cd2e3fda
+ms.date: 12/17/2020
+ms.openlocfilehash: ea08eb3ab860c0ed4c34ee3818b7db42307c3b4e
+ms.sourcegitcommit: 37c421eac547f6d9c2f5c8460a40f736ec8b8841
 ms.translationtype: HT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "97622189"
+ms.lasthandoff: 12/18/2020
+ms.locfileid: "97666745"
 ---
 # <a name="partner-center-announcements"></a>Anúncios do Centro de Parceiros
 
@@ -22,6 +22,11 @@ Saiba mais sobre atualizações importantes do Centro de Parceiros. Estas inform
 
 | **Categoria** | **Anúncios de dezembro de 2020** | **Anunciado** |
 |---------|:---------|:---------|
+|Ofertas/Mercados|[Software perpétuo no CSP:  Novos produtos e geografias](2020-december.md#10)|17 de dezembro|
+|Expanda o seu Negócio|[Administração pública, instituições académicas e organizações sem fins lucrativos: Continuação das alterações ao programa Open License e da evolução do CSP](2020-december.md#9)|17 de dezembro|
+|Ofertas/Mercados|[Alterações dos requisitos de inclusão de clientes do programa Fornecedor de Soluções Cloud (CSP)](2020-december.md#8)|17 de dezembro|
+|Expanda o seu Negócio|[Lembrete: Software perpétuo no programa Fornecedor de Soluções Cloud (CSP) amplamente disponível a partir de janeiro de 2021](2020-december.md#7)|17 de dezembro|
+|Capacidades|[Guia de Autorização para Canal de Software e Serviços Online](2020-december.md#6)|17 de dezembro|
 |Ofertas/Mercados|[A oferta promocional do Power Apps está agora disponível](2020-december.md#5)|16 de dezembro|
 |Capacidades|[Versão do SDK no .NET Standard (v1.16.3)](2020-december.md#4)|8 de dezembro|
 |Ofertas/Mercados|[Notas de versão da lista de preços com base em licenças de dezembro de 2020](2020-december.md#3)|8 de dezembro|
