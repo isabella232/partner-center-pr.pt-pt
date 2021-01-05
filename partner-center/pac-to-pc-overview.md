@@ -9,12 +9,12 @@ author: parthpandyamsft
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: da6a3ab2a2fab99f49b9f5ba22824e5e61f6d482
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: db35696483c8a1e67f173ec7953cfa33a428a022
+ms.sourcegitcommit: 7575fa314fd9efbbf90089999de4f0703f94898c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92530458"
+ms.lasthandoff: 12/22/2020
+ms.locfileid: "97720837"
 ---
 # <a name="partner-admin-center-is-moving-to-the-partner-center"></a>Partner Admin Center está se mudando para o Centro de Parceiros
 
@@ -41,13 +41,10 @@ Durante abril de 2018, o PAC vai reformar-se e os parceiros da CSP começarão a
 
 - Parceiros Cloud Solutions Provider: Se for um parceiro CSP, redireciona-lo-emos automaticamente para o Centro de Parceiros a partir de abril de 2018.
 
-- Parceiros de consultoria (se não transacionar via CSP e utilizar o PAC para fornecer testes/cotações para os seus clientes): Assim que decidirmos sobre a linha temporal para a sua reorientação automática para o Partner Center, vamos anunciá-lo aqui.
+- Parceiros de consultoria (se não transacionar via CSP e utilizar o PAC para fornecer testes/cotações para os seus clientes): Se for um parceiro Advisor, redireciona-o automaticamente para o Centro de Parceiros a partir de junho de 2020.
 
 ## <a name="start-using-the-microsoft-partner-center-now"></a>Comece já a utilizar o Microsoft Partner Center!
 
 Comece agora a utilizar [o Microsoft Partner Center](https://partnercenter.microsoft.com/) para se preparar para a mudança do PAC.  Você usará as mesmas credenciais para o Centro de Parceiros que você usa para PAC.
 
-> [!IMPORTANT]  
-> Algumas funcionalidades e funções que estavam disponíveis no PAC não estarão disponíveis no Centro de Parceiros.
-
- Leia a comparação lado a lado para entender e [familiarizar-se](moving-from-pac-to-pc.md) com estas mudanças. 
+Leia a comparação lado a lado para entender e [familiarizar-se](moving-from-pac-to-pc.md) com estas mudanças.

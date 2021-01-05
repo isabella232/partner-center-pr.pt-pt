@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 12/17/2020
-ms.openlocfilehash: 0712c2b8aa3a22dd4a6f327759c383257cb6605a
-ms.sourcegitcommit: 37c421eac547f6d9c2f5c8460a40f736ec8b8841
+ms.date: 12/21/2020
+ms.openlocfilehash: c186c61fa6a583284884020bf442517e9bb38182
+ms.sourcegitcommit: 4c52d3a1fde7eba20607e9e329a71e478b019036
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "97666779"
+ms.lasthandoff: 12/22/2020
+ms.locfileid: "97736546"
 ---
 # <a name="december-2020-announcements"></a>Anúncios de dezembro de 2020
 
@@ -22,75 +22,148 @@ Esta página detalha os anúncios para o Microsoft Partner Center para novembro 
 
 Anúncios de 2020: [abril](2020-april.md)  |  [maio](2020-may.md)  |  [junho julho](2020-june.md)  |  [](2020-july.md)  |  [agosto](2020-august.md)  |  [setembro](2020-september.md)  |  [](2020-October.md)  |  [novembro](2020-november.md) Dezembro
 
-______________
+________________
 
-## <a name="perpetual-software-in-csp--new-products-and-geographies"></a><a name="10"></a>Software perpétuo em CSP: Novos produtos e geografias
+## <a name="unused-channel-incentive-co-operative-marketing-fund-co-op-funds-from-the-fy21-h1-usage-period-to-be-rolled-over-to-the-h2-usage-period"></a><a name="13"></a>Fundos de financiamento cooperativo de incentivos de canais não reutilizados (cooperativa) do período de utilização FY21 H1 a reverter para o período de utilização do H2
 
 ### <a name="categories"></a>Categorias
 
-- Data: 2020-12-17
+- Data: 2020-12-22
 - Ofertas
+
+### <a name="summary"></a>Resumo
+
+Os fundos de cooperação não reutilizados para o período de utilização fy21 H1 (1 de julho a 31 de dezembro de 2020) serão revirados para o período de utilização do FY21 H2 (1 de janeiro a 30 de junho de 2021)
 
 ### <a name="impacted-audience"></a>Audiência impactada
 
-Parceiros de conta diretos da CSP, fornecedores indiretos e revendedores indiretos
+Parceiros que participam no Cloud Solution Provider (CSP) parceiro de conta direta, fornecedor indireto e programas de incentivos de revendedores indiretos
 
 ### <a name="details"></a>Detalhes
 
-À medida que melhoramos as nossas capacidades de comércio para proporcionar aos clientes e parceiros uma melhor experiência de compra, estamos a expandir o portfólio de ofertas para incluir a disponibilidade de licenças de software perpétuos dentro do programa Cloud Solution Provider (CSP). A adição de licenças de software dentro da CSP permite que os parceiros participantes se concentrem na oferta de diversas soluções e serviços geridos aos seus clientes. Também capacita a transição dos clientes para a nuvem e dá aos parceiros a flexibilidade necessária para ambientes híbridos em nuvem.
+Reconhecemos o impacto contínuo destes tempos desafiantes nos nossos parceiros e clientes. Para proporcionar aos parceiros uma flexibilidade adicional, estamos a conceder uma transição única de fundos cooperativos não reutilizados do atual período de utilização do FY21 H1, que decorre de 1 de julho a 31 de dezembro de 2021. Os fundos de cooperação são recompensados como parte dos seus ganhos de incentivo e podem ser reclamados para atividades elegíveis de marketing, geração de procura e prontidão.
 
-A partir de 19 de janeiro de 2021, a Microsoft permitirá que todos os parceiros de conta direta da CSP, fornecedores indiretos e revendedores indiretos vendam licenças de software dentro do programa CSP e também adicionaremos produtos e geografias adicionais. 
+Com este capotamento, os fundos cooperativos não utilizados permanecem na sua conta após o encerramento do período de reclamação H1 pode ser utilizado para atividades de cooperação elegível durante o período de utilização do FY21 H2, que decorre de 1 de janeiro a 30 de junho de 2021.  
 
-Encontre todos os detalhes sobre software perpétuo no CSP consulte a coleção de prontidão:  [Software perpétuo no programa Cloud Solution Provider](https://partner.microsoft.com/resources/collection/software-in-csp#/).
+As reclamações devem ser submetidas através da [ferramenta de reclamações](https://partner.microsoft.com/dashboard/incentives/claims/web/) do Centro Parceiro no prazo de 45 dias após a conclusão da atividade e serão aceites até 15 de agosto de 2021.
 
-### <a name="products"></a>Produtos
+Pode verificar o seu saldo cooperativo no painel [de ganhos](https://partner.microsoft.com/dashboard/incentives/enrollment/summary)do Partner Center . Consulte a [recolha de ativos cooperativos](https://partner.microsoft.com/asset/collection/co-op-funds-resources#/) no site do parceiro da Microsoft para obter informações adicionais sobre atividades elegíveis, submissão de pedidos e muito mais.
 
-Estes produtos adicionais aparecerão na lista de preços da CSP de janeiro de 2021, a publicar a 19 de janeiro de 2020.  Esta será uma ree publicação da lista inicial de preços da CSP publicada a 1 de janeiro de 2021.
+### <a name="next-steps"></a>Passos seguintes
 
-- Exchange Server Enterprise 2019
-- Bolsa servidor Enterprise 2019 Dispositivo CAL
-- Bolsa servidor Enterprise 2019 User CAL
-- Padrão do Servidor de Troca 2019
-- Servidor de Troca Standard 2019 Dispositivo CAL
-- Troca servidor Standard 2019 User CAL
+- Continuar a impulsionar o marketing, a geração de procura e os esforços de prontidão, e apresentar pedidos de atividades elegíveis no prazo de 45 dias após a sua conclusão.
+- Consulte o saldo da sua conta cooperativa regularmente para garantir que utiliza a totalidade do valor até ao fecho do período de utilização do H2 em 30 de junho de 2021.
 
-### <a name="geographies"></a>Geografias
+### <a name="questions"></a>Perguntas?
 
-As geografias adicionais disponíveis a partir de 19 de janeiro de 2021 para software perpétuo em CSP incluem:
+Pode encontrar passos recomendados e artigos de autoajuda para questões relacionadas com incentivos, digitando "incentivos" na barra de pesquisa na página inicial do Partner Center. Para assistência adicional, pode criar um pedido de [apoio](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp) diretamente no Centro de Parceiros. Saiba mais na [aka.ms/IncentivesSupport.](https://aka.ms/IncentivesSupport)
 
-|**Geografias disponíveis**|| | |
-|-----------------------------|-------------------------------|------------|----------------------|
-|Azerbaijão|Bielorrússia|Benim|Butão|
-|Bonaire, Sint Eustatius e Saba|Ilha Bouvet|Brasil|
-|Território Britânico do Oceano Índico|Burkina Faso|Burundi|Camboja|
-|República Centro-Africana|Chade|Ilha do Natal|Ilhas dos Cocos (Keeling)|
-|Comoros|Congo|Congo, República Democrática do|Ilhas Cook|
-|Jibuti|Guiné Equatorial|Eritreia|Ilhas Falkland (Malvinas)|
-|Guiana Francesa|Polinésia Francesa|Territórios Austrais Franceses|Gabão|
-|Gâmbia|Geórgia|Gibraltar|Gronelândia|
-|Granada|Guadalupe|Guame|Guernesey|
-|Guiné|Guiné-Bissau|Haiti|Ilhas Heard e McDonald|
-Santa Sé|Hungria|Índia|Iraque|
-|Ilha de Man|Jersey|Cazaquistão|Quiribáti|
-|Coreia, República da|Quirguistão|Libéria|Madagáscar|
-|Maláui|Maldivas|Mali|Ilhas Marshall|
-|Martinica|Mauritânia|Maiote|Micronésia (Estados Federados de)|
-|Moldávia|Mongólia|Montserrate|Moçambique|
-|Mianmar|Nauru|Antigas Antilhas Neerlandesas|Nova Caledónia|
-|Níger|Niuê|Ilha Norfolk|Ilhas Marianas do Norte|
-|Palau|Papua-Nova Guiné|Pitcairn|Polónia|
-|Catar|Reunião|Rússia|São Bartolomeu|
-|Santa Helena, Ascensão e Tristão da Cunha|Santa Lúcia|São Martinho (parte francesa)|São Pedro e Miquelão|
-|São Vicente e Granadinas|Samoa|São Marino|São Tomé e Príncipe|
-|Arábia Saudita|Seicheles|Serra Leoa|Sint Maarten (parte holandesa)|Ilhas Salomão|
-|Somália|África do Sul|Ilhas Geórgia do Sul e Sandwich do Sul|Sudão do Sul|
-|Suriname|Svalbard e Jan Mayen|Suazilândia|Taiwan|
-|Tajiquistão|Tailândia|Timor-Leste|Togo|
-|Toquelau|Tonga|Turquia|Turquemenistão|
-|Ilhas Turcas e Caicos|Tuvalu|Ucrânia|Ilhas Menores dos Estados Unidos|
-|Usbequistão|Vanuatu|Venezuela|Vietname|
-|Ilhas Virgens Britânicas|Wallis e Futuna
+________________
 
+## <a name="docusign-migration-to-adobe-sign-in-2021-for-partners-who-have-microsoft-partner-agreements-mpas"></a><a name="12"></a>Migração do DocuSign para a Adobe Assine em 2021 para parceiros que tenham Acordos de Parceiros microsoft (MPAs)
+
+### <a name="categories"></a>Categorias
+
+- Data: 2020-12-22
+- Capacidades - Aumenta a conformidade & segurança
+
+### <a name="summary"></a>Resumo
+
+A Microsoft vai transitar todo o processamento de assinaturas eletrónicas do DocuSign para o Adobe Sign
+
+### <a name="impacted-audience"></a>Audiência impactada
+
+O Cloud Solution Provider (CSP) parceiros com acordos de parceiros da Microsoft (MPAs)
+
+### <a name="details"></a>Detalhes
+
+O Adobe Sign é a solução de assinatura electrónica preferida da Microsoft (ESS). Em janeiro de 2021, a Microsoft começará a transitar todo o processamento de assinaturas eletrónicas do DocuSign para o Adobe Sign, começando com MPAs. Deve esperar uma transição suave. Após a migração, receberá e-mails de uma [adobesign@adobesign.com](mailto:adobesign@adobesign.com) conta, que lhe fornecerá um link para um novo ambiente de assinatura. Para uma melhor experiência, adicione [adobesign@adobesign.com](mailto:adobesign@adobesign.com) à sua lista de remetentes seguros.
+
+A transição para o Adobe Sign garantirá uma experiência de assinatura electrónica segura e eficiente que irá oferecer maior valor aos nossos clientes e parceiros. Receberá mais informações sobre os planos de migração de conta para a Adobe Sign em janeiro de 2021.  
+
+### <a name="next-steps"></a>Passos seguintes
+
+Partilhe esta informação com as partes interessadas apropriadas na sua organização. Enviaremos mais informações sobre a migração em janeiro de 2021.
+
+### <a name="questions"></a>Perguntas?
+
+Se tiver alguma dúvida, contacte o seu Centro de Operações Regionais utilizando a Ferramenta de Registo de Chamadas (CLT) em [https://clt.partners.extranet.microsoft.com/CLT](https://clt.partners.extranet.microsoft.com/CLT) ou através de [explore.ms](https://www.explore.ms/publichome.aspx). Siga o processo padrão de CLT de perto para que possamos resolver a sua consulta o mais rapidamente possível.
+
+______________
+
+## <a name="january-2021-pricing-and-catalog-schedules"></a><a name="11"></a>Horários de preços e catálogos de janeiro de 2021
+
+### <a name="categories"></a>Categorias
+
+- Data: 2020-12-22
+- Capacidades
+
+### <a name="impacted-audience"></a>Audiência impactada
+
+Fatura direta e fornecedores indiretos que participam no programa Cloud Solution Provider (CSP).
+
+### <a name="details"></a>Detalhes
+
+Os preços do Partner Center e as atualizações de catálogo normalmente previstas para o primeiro dia do mês terão ligeiras alterações no horário previsto para janeiro de 2021. Todos os ficheiros de preços estarão disponíveis como de costume, disponíveis a 31 de dezembro de 2020 por volta das 18:00 horas do Pacífico (PST). No entanto, as atualizações abaixo que normalmente ocorrem no primeiro dia do mês serão ligeiramente adiadas. 
+
+- As listas de preços baseadas no uso da Azure serão adiadas até ao final do dia útil 4 de janeiro de 2021. Os ficheiros de preços baseados em Azure no dia 1 de janeiro de 2021 só terão preços até 21 de dezembro de 2020. No dia 4 de janeiro, os ficheiros serão atualizados.
+- Os ficheiros de preços baseados em licença estarão atualizados a 1 de janeiro de 2021, mas haverá um ligeiro atraso até que quaisquer novas ofertas estejam disponíveis no catálogo para compra. A atualização do catálogo baseada em licença está agendada para 5 de janeiro de 2021 5PM PST. 
+
+Perceba que todos os outros ficheiros da lista de preços estão agendados para estarem disponíveis no horário habitual, simplesmente os dois resultados acima serão ligeiramente atrasados.
+
+### <a name="next-steps"></a>Passos seguintes
+
+Em resumo, os ficheiros de preços abaixo estarão disponíveis como de costume no dia 31 de dezembro de 2020 por aproximadamente 6PM PST:
+
+- Ficheiros de lista de preços baseados em licença e matriz de lista de ofertas
+- Ficheiros de preços baseados em uso, mas apenas com atualizações até 21 de dezembro de 2020
+- Listas de preços de reservas baseadas em uso
+- Listas de preços de subscrições de software
+- Listas de preços de software perpétuo
+- Listas de preços de consumo do plano Azure
+- Azure planeia reservas listas de preços
+- Plano Azure consumo cambial taxas de câmbio
+
+O seguinte ficheiro de preços será atualizado até 4 de janeiro de 2021:
+
+- Ficheiros de preços baseados em utilização
+
+O catálogo partner Center será atualizado com atualizações de janeiro de 2021 até 5 de janeiro de 2021.
+ 
+______________
+
+## <a name="microsoft-365-apps-and-services-support-of-internet-explorer-11-and-microsoft-edge-legacy-announcement"></a><a name="10"></a>Microsoft 365 apps e suporte de serviços do Internet Explorer 11 e anúncio legado microsoft Edge
+
+### <a name="categories"></a>Categorias
+
+- Data: 2020-12-21
+- Capacidades
+
+### <a name="impacted-audience"></a>Audiência impactada
+
+Administradores de TI, decisores de TI, chefes de informação e utilizadores finais
+
+### <a name="details"></a>Detalhes
+
+Os subscritores da Microsoft 365, tanto em contextos de consumo como comerciais, serão bem servidos com esta mudança através de um acesso web mais rápido e responsivo a mais conjuntos de funcionalidades em conjuntos de ferramentas do dia-a-dia como Outlook, Teams, SharePoint e muito mais.
+
+O novo Microsoft Edge é a nossa melhor expressão de um navegador moderno, e estamos entusiasmados para que os clientes o experimentem. Agora que enviamos o novo Microsoft Edge e atualizámos a maioria dos nossos clientes do Windows 10 para o novo navegador, estamos a terminar o suporte para a aplicação de desktop do Microsoft Edge.
+
+**Impacto da mudança**
+
+- A partir **de 30 de novembro de 2020,** os clientes deixarão de poder ligar-se à aplicação web microsoft Teams no Internet Explorer 11. A Microsoft acredita que os clientes irão tirar o máximo partido do Microsoft 365 e a melhor expressão de um navegador moderno ao utilizar o [novo Microsoft Edge.](https://www.microsoft.com/edge/business?form=MO12H3&OCID=MO12H3)
+- Depois **de 9 de março de 2021**, as aplicações e sites criados para o legado do Microsoft Edge continuarão a funcionar no novo Microsoft Edge, mas se surgir um problema de compatibilidade, existe a promessa da [App Assure](https://aka.ms/appassure) de fornecer suporte.
+- Depois de **17 de agosto de 2021,** os clientes terão uma experiência degradada ou não poderão ligar-se às aplicações e serviços da Microsoft 365 no Internet Explorer 11. A Microsoft acredita que os clientes irão tirar o máximo partido do Microsoft 365 e a melhor expressão de um navegador moderno ao utilizar o [novo Microsoft Edge.](https://www.microsoft.com/edge/business?form=MO12H3&OCID=MO12H3)
+
+### <a name="next-steps"></a>Passos seguintes
+
+- Leia a publicação do blog para entender os detalhes do anúncio.
+- Aproveite esta oportunidade para contactar os seus parceiros para ajudar a implementar o novo Microsoft Edge.
+- Recursos adicionais e mais informações: [Edge YouTube](https://www.youtube.com/channel/UCIGx7oT8p6-jUpOfg98yelA) ou [Edge adoção](https://www.microsoft.com/edge/business?form=MO12H3&OCID=MO12H3)
+
+### <a name="questions"></a>Perguntas
+
+Contacte a [equipa de Pesquisa Comercial GTM](mailto:CommercialSearchGTM@microsoft.com?subject=Internet%20Explorer%2011%20and%20Microsoft%20Edge%20legacy%20announcement) para quaisquer questões.
 
 ____________
 
@@ -99,7 +172,7 @@ ____________
 ### <a name="categories"></a>Categorias
 
 - Data: 2020-12-17
-- Cresça o seu Negócio
+- Expanda o seu Negócio
 
 ### <a name="impacted-audience"></a>Audiência impactada
 
@@ -189,7 +262,7 @@ ______________
 ### <a name="categories"></a>Categorias
 
 - Data: 2020-12-17
-- Cresça o seu Negócio
+- Expanda o seu Negócio
  
 ### <a name="summary"></a>Resumo
 
@@ -295,16 +368,16 @@ Os detalhes da oferta abaixo para esta oferta estarão na matriz da lista de ofe
 
 - ID de provisionamento: POWERAPPS_PER_APP
 - Duração: 1 Ano
-- Frequência de Faturação: Mensalmente; Anualmente
+- Frequência de faturação: Mensal ou Anualmente
 - Contagem de assentos min: 200
 - Contagem de assentos max: 10000000
 - Limite de oferta: Nenhum
-- Países Permitidos: Ilhas Permuíduas dos EUA; Inglês (Territórios do Sul francês); Ilha Bouvet; Território britânico do Oceano Índico; Iémen; Heard e Mc Donald Islands; Wallis e Futuna; Vanuatu; Antártica; Tuvalu; Somália; Tokelau; Serra Leoa; Suazilândia; Santa Helena, Ascensão, Tristão da Cunha; São Tomé e Príncipe; Ilhas Pitcairn; Palau; Ilhas Salomão; Nauru; Niue; Ilha Norfolk; Mauritânia; Ilhas Marianas do Norte; Lesoto; Kiribati; Guiné Equatorial; Guiné-Bissau; Ilhas Cook; Eritreia; Ilha de Natal; Burkina Faso; República Centro-Africana; Kosovo; Ilhas Cocos (Keeling); Svalbard e jan Mayen; Ilhas Åland; Sudão do Sul; Geórgia do Sul e Ilhas Sandwich do Sul; Samoa; São Barthélemy; Ilhas Virgens Britânicas; São Pedro e Miquelon; Chade; Níger; Montserrat; Guiana; Haiti; Gâmbia; Guam; Guiné; Gabão; Granada; Gibraltar; Guernsey; Libéria; Micronésia; Ilhas Falkland;Dominica;Djibuti; Congo; Congo (RDC); Zimbabué; Samoa Americana; Zâmbia; África do Sul; Mayotte; Vietname; São Vicente e Granadinas;Ilhas Virgens Americanas; Venezuela; Santa Sé (Cidade do Vaticano); Ucrânia; Uganda; Usbequistão; Estados Unidos; Uruguai; Tanzânia; Taiwan; Trinidad e Tobago; Turquia; Tunísia; Tonga; Timor-Leste; Turquemenistão; Tajiquistão; Tailândia; Togo; El Salvador; Sint Maarten; Ilhas Turcas e Caicos; Suriname; Singapura; Eslovénia; São Marino; Senegal; Eslováquia; Suécia; Seychelles; Arábia Saudita; Sérvia; Ruanda; Rússia; Roménia; Reunião; Qatar; Paraguai; Portugal; Filipinas; Território Palestiniano, Ocupado; Polónia; Porto Rico; Paquistão; Peru; Panamá; Papua Nova Guiné; Polinésia Francesa; Nova Zelândia;Omã; Nepal; Holanda; Noruega; Nigéria; Nicarágua; Nova Caledónia; Namíbia; Moçambique; Malásia; México; Martinica; Malawi; Maldivas; Maurícia; Malta; Myanmar; RAE de Macau; Mongólia; Mali; Madagáscar; Ilhas Marshall; Macedónia, FYRO; Montenegro; São Martinho; Marrocos; Mónaco; Moldávia; Letónia; Líbia; Luxemburgo; Líbano; Santa Lúcia; Lituânia; Sri Lanka; Ilhas Caimão; Liechtenstein; Laos; Cazaquistão; Kuwait; Coreia; Comores; Camboja; São Cristóvão e Nevis; Quénia; Quirguistão; Japão; Jordânia; Jamaica; Jersey;Itália;Islândia;Iraque;Irlanda;Índia;Indonésia;Ilha de Man; Honduras;Israel; A Hungria; Hong Kong SAR; Croácia; Guatemala; Grécia; Guadalupe; Guiana Francesa; Gronelândia; Gana; Ilhas Faroé; Reino Unido; Geórgia; França; Fiji; Etiópia; Finlândia; Espanha; Egito; Estónia; Equador;República Dominicana; Argélia; Alemanha;Dinamarca; Chipre; República Checa; Curaçao; Cabo Verde; Costa Rica; Chile; Camarões; Colômbia; Costa do Marfim; Canadá; Suíça; Belize; Bielorrússia; Botsuana; Butão; Bahamas; Bonaire, Sint Eustatius e Saba; Brasil; O Benin; Brunei; Bermudas; Bolívia; Bélgica; Bulgária; Bahrein; Burundi; Bósnia e Herzegovina; Bangladesh; Barbados; Azerbaijão; Aruba; Austrália; Argentina; Áustria; Angola; Arménia; Afeganistão; Albânia; Anguilla; Andorra; Emirados Árabes Unidos; Antígua e Barbuda
+- Países Permitidos: Ilhas Permuais dos EUA, Inglês (Territórios do Sul francês), Ilha Bouvet, Território Britânico do Oceano Índico, Iémen, Ilhas Heard e Mc Donald, Wallis e Futuna, Vanuatu, Antártica, Tuvalu, Somália, Tokelau, Serra Leoa, Suazilândia, Santa Helena, Ascensão, Tristan da Cunha, Sã£o TomÃ© e Právio, Ilhas Pitcairn, Palau, Ilhas Salomão, Nauru, Niue, Ilha Norfolk, Mauritânia, Ilhas Marianas do Norte, Leso , Ilhas Cook, Eritreia, Ilha de Natal, Burkina Faso, República Centro-Africana, Kosovo, Ilhas Cocos (Keeling), Svalbard e jan Mayen, Ã... Ilhas terrestres, Sudão do Sul, Geórgia do Sul e Ilhas Sandwich do Sul, Samoa, Saint Barthã©lemy, Ilhas Virgens Britânicas, Saint Pierre e Miquelon, Chade, Níger, Montserrat, Guiana, Haiti, Gâmbia, Guam, Guiné, Gabão, Granada, Gibraltar, Guernsey, Libéria, Micronésia, Ilhas Falkland, Dominica, Djibuti, Congo , Congo (RDC), Zimbabwe, Samoa Americana, Zâmbia, África do Sul, Mayotte, Vietname, São Vicente e Granadina, , Ucrânia, Uganda, Uzbequistão, Estados Unidos, Uruguai, Tanzânia, Taiwan, Trinidad e Tobago, Turquia, Tunísia, Tonga, Timor-Leste, Turquemenistão, Tajiquistão, Tailândia, Togo, El Salvador, Sint Maarten, Ilhas Turcas e Caicos, Suriname, Singapura, Eslovénia, São Marino, Senegal, Eslováquia, Suécia, Seychelles, Arábia Saudita, Sérvia, Ruanda, Rússia, Roménia, RÃ©Instrução, Qatar, Paraguai, Portugal, Filipinas, Território Palestiniano, Ocupado, Polónia, Porto Rico, Paquistão, , Nova Zelândia, Omã, Nepal, Países Baixos, Noruega, Nigéria, Nicarágua, Nova Caledónia, Namíbia, Moçambique, Malásia, México, Martinica, Maláui, Maldivas, Maurícia, Malta, Myanmar, RAE de Macau, Mongólia, Mali, Madagáscar, Ilhas Marshall, Macedónia, FYRO, Montenegro, São Martinho, Marrocos, Mónaco, Moldávia, Letónia, Líbia, Luxemburgo, Líbano, Santa Lúcia, Lituânia, Sri Lanka, Ilhas Caimão, Cazaquistão, Kuwait, , Jamaica, Jersey, Itália, Islândia, Iraque, Irlanda, Índia, Indonésia, Ilhas de Man, Honduras, Israel, Hungria, Hong Kong SAR, Croácia, Guatemala, Grécia, Guadalupe, Guiana Francesa, Gronelândia, Gana, Ilhas Faroé, Reino Unido, Geórgia, França, Fiji, Etiópia, Finlândia ™, Espanha, Egito, Estónia, Equador, República Dominicana, Argélia, Alemanha, Dinamarca, Chipre, República Checa, Curaéis, , Belize, Bielorrússia, Botsuana, Butão, Bahamas, Bonaire, Sint Eustatius e Saba, Brasil, Benin, Brunei, Bermudas, Bolívia, Bélgica, Bulgária, Bahrein, Burundi, Bósnia e Herzegovina, Bangladesh, Barbados, Azerbaijão, Aruba, Austrália, Argentina, Áustria, Angola, Arménia, Afeganistão, Albânia, Anguilla, Andorra, Emirados Árabes Unidos,
 
 ### <a name="next-steps"></a>Passos Seguintes
 
 - A oferta promocional estará disponível na lista oficial de preços base de licença do CSP partner center de 1 de janeiro de 2021 e matriz de lista de ofertas. 
-- As perguntas ou acompanhamento desta promoção podem ser publicadas no anúncio da [comunidade microsoft](https://www.microsoftpartnercommunity.com/t5/Pricing-Licensing-Incentives/Announcing-a-new-Power-Apps-promotional-offer-to-accelerate-FY21/m-p/32540).
+- As perguntas sobre esta promoção podem ser publicadas no anúncio da comunidade da [Microsoft.](https://www.microsoftpartnercommunity.com/t5/Pricing-Licensing-Incentives/Announcing-a-new-Power-Apps-promotional-offer-to-accelerate-FY21/m-p/32540)
 
 ______________
 
@@ -355,7 +428,7 @@ ______________
 
 ### <a name="summary"></a>Resumo 
 
-A lista de preços baseada em licenças de dezembro de 2020 e a matriz da lista de ofertas tem alguns problemas.
+A lista de preços baseada em licenças de dezembro de 2020 e a matriz da lista de ofertas têm alguns problemas.
 
 ### <a name="impacted-audience"></a>Audiência Impactada 
 
@@ -375,7 +448,7 @@ As listas de preços baseadas em licenças de dezembro contêm as ofertas abaixo
    |Dinâmica 365 Recursos Humanos Anexam à Oferta Base de Dinâmica Qualificativa 365 (Preços sem fins lucrativos)|8bf0b826-e05b-45aa-9cd1-9a9f742f7731|
    |Dinâmica 365 Recursos Humanos Anexam à Qualificação Dinâmica 365 Oferta Base (Preços Sem Fins Lucrativos) (Oferta Qualificada)|f906435d-9dc9-42ba-bea6-2a2b08ca60db|
    |Dynamics 365 Human Resources Sandbox (Preços sem fins lucrativos)|079ec5ba-d726-4384-95af-62d135c210d2|
-   |Dinâmica 365 Self Service de Recursos Humanos (Preços Sem Fins Lucrativos)|931acecc-34c3-4f83-913e-c7fdbfd7e2a1|
+   |Dinâmica 365 Recursos Humanos Self-Service (Preços Sem Fins Lucrativos)|931acecc-34c3-4f83-913e-c7fdbfd7e2a1|
    |Dinâmica 365 Operações – Linhas de Encomenda (Preços Sem Fins Lucrativos)|7dd6b78a-3d53-47f8-8a64-bd84609a9a70|
    
 #### <a name="incorrect-offers-in-the-offer-list-matrix"></a>Ofertas incorretas na matriz da lista de ofertas

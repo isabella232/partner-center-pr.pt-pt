@@ -9,12 +9,12 @@ ms.localizationpriority: medium
 author: mckennaville
 ms.author: mcville
 ms.date: 07/29/2020
-ms.openlocfilehash: 81f64e117f9e0a4abc817746d11dc9acae887577
-ms.sourcegitcommit: 146964ce0cc72bd821692f73f9c0b55e6fefb0fc
+ms.openlocfilehash: e792e4af2999924ba8be77ec0517ce56c1db7a27
+ms.sourcegitcommit: ed5c873d19f0464cc986fe6e852383cd4280daf6
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94433352"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "97893211"
 ---
 # <a name="transfer-a-customers-azure-plan-subscriptions-to-a-different-partner"></a>Transferir subscrições do plano Azure de um cliente para um parceiro diferente
 
@@ -49,7 +49,7 @@ O cliente deve estar em conversações com ambos os parceiros (atuais e futuros)
 
 - Cliente contrata atual parceiro CSP na sua intenção de transição
 - Futuro parceiro da CSP trabalha com o cliente para garantir que as necessidades dos clientes podem ser satisfeitas
-- Futuro parceiro da CSP estabelece uma relação com o cliente antes do início da transição  
+- Futuro parceiro da CSP estabelece uma relação com o cliente e compra um plano Azure antes do início da transição  
 - Cliente deve assinar Acordo de Cliente da Microsoft com futuro parceiro CSP
 - O futuro parceiro da CSP deve ter assinado o Acordo de Parceiros da Microsoft para utilizar esta ferramenta
 
