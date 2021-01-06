@@ -9,20 +9,39 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/04/2021
-ms.openlocfilehash: 7a499c8c0fc64d00dcc8efe56f4bd5830d5e23bd
-ms.sourcegitcommit: 87677b45535a7b9d9ebd9afcbe4ea2491b4a1f52
+ms.openlocfilehash: 827d4d732e8aa5ff7e343ef3732ff0036eb8d628
+ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "97902671"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "97916801"
 ---
 # <a name="january-2021-announcements"></a>Janeiro de 2021 anúncios
 
 Esta página detalha os anúncios para o Microsoft Partner Center para janeiro de 2021.
 
+Anúncios de 2021: [janeiro](2021-january.md)
+
 Anúncios de 2020: [maio](2020-may.md)  |  [junho julho](2020-june.md)  |  [](2020-july.md)  |  [agosto](2020-august.md)  |  [setembro](2020-september.md)  |  [](2020-October.md)  |  [](2020-november.md)  |  [dezembro](2020-december.md) Janeiro
 
 ________________
+## <a name="deprecation-and-retirement-of-existing-get-and-put-qualification-apis-for-the-education-customer-validation-process-by-the-end-of-february-2021"></a><a name="2"></a>Depreciação e aposentação das APIs de qualificação existentes para o processo de validação de clientes da Educação até ao final de fevereiro de 2021
+
+### <a name="impacted-audience"></a>Audiência impactada
+
+Parceiros que vendem ofertas académicas através do programa Cloud Solution Provider utilizando a API do Centro Parceiro
+
+### <a name="details"></a>Detalhes 
+
+Este é um seguimento das melhorias da API lançadas em dezembro de 2020. Em dezembro de 2020 foram lançadas novas APIs GET e POST Qualifications, e como resultado, as antigas APIs get e PUT Qualification serão retiradas até ao final de fevereiro de 2021. Nessa altura, terá de utilizar as novas APIs do Get and POST Partner Center para poder comprar ofertas de Educação. 
+
+## <a name="next-steps"></a>Passos seguintes
+
+- Se ainda não o fez, atualize as novas APIs para uma transição bem sucedida e oportuna.
+- Reveja as novas alterações da API do Centro parceiro e [Guia nos recursos de Prontidão de Operações: Melhorias do processo de validação do processo de validação do cliente do Partner Center Education](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/).
+- Partilhe esta informação com as equipas apropriadas na sua organização e com os seus revendedores, para ajudá-los a prepararem-se para estas mudanças.
+
+_____________
 
 ## <a name="dynamics-365-offers-for-february-2021"></a><a name="1"></a>Ofertas dynamics 365 para fevereiro de 2021
 

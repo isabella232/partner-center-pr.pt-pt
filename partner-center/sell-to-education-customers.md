@@ -2,25 +2,22 @@
 title: Como vender ofertas a clientes de educação
 description: Aprenda a criar um cliente de educação e venda-lhes ofertas no Partner Center. Inclui confirmar o estado de verificação do seu cliente de educação.
 ms.topic: how-to
-ms.date: 10/06/2020
+ms.date: 12/17/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5f17493a55ebd7d1ff9de0570e867cdf38e2e3fb
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 5af6ae0d3c11d2ea59e4b8ef2224393e48d6a3df
+ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92530473"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "97916921"
 ---
-# <a name="how-to-sell-offers-to-education-customers--how-to-create-an-education-customer-in-partner-center"></a>Como vender ofertas a clientes de educação & como criar um cliente de educação no Partner Center
+# <a name="how-to-sell-offers-to-education-customers-and-how-to-create-an-education-customer-in-partner-center"></a>Como vender ofertas a clientes de educação e como criar um cliente de educação no Partner Center
 
-**Aplica-se a**
-
-- Partner Center
 
 **Funções adequadas**
 
@@ -28,7 +25,7 @@ ms.locfileid: "92530473"
 - Agente administrativo
 - Agente comercial
 
-## <a name="create-an-education-customer"></a>Criar um cliente de educação
+## <a name="create-an-education-customer"></a>Create an education customer (Criar um cliente do Education)
 
 Este artigo explica como criar um cliente de educação no Partner Center e vender-lhes produtos de educação. Abrange igualmente a forma de visualizar o estado de verificação e de reenviar o pedido de verificação, se necessário.
 
@@ -37,17 +34,21 @@ Este artigo explica como criar um cliente de educação no Partner Center e vend
 
 1. Inicie sessão no Centro de Parceiros.
 
-2. Selecione **Clientes** e, em seguida, **selecione Adicionar um cliente** . Selecione **Educação** a partir do abandono **das qualificações especiais.**  Preencha o resto da informação da conta conforme necessário.  Os principais campos que ajudam no processo de verificação incluem:
+2. Selecione **Clientes** e, em seguida, **selecione Adicionar um cliente**. Selecione **Educação** a partir do abandono **das qualificações especiais.**  Preencha o resto da informação da conta conforme necessário.  Os principais campos que ajudam no processo de verificação incluem:
 
-   - **Nome da empresa** : INSERIR NOME DE ENTIDADE LEGAL - Necessário para verificação
-   - **Linhas de país/região e endereços** : ENTER FULL ENTITY MAILING ADDRESS – necessário para verificação
-   - **Endereço de e-mail** : Insira o e-mail de propriedade da Entidade – não um e-mail gratuito ou on.microsoft.com – necessário para verificação
-   - **Informações de contacto do cliente** : estes detalhes serão utilizados como parte do processo de verificação
-   - **Nome de domínio primário** : Usado para criar contas de clientes e endereços de e-mail.  Escolha um nome semelhante ao nome da empresa sem espaços ou caracteres especiais.  Este nome não pode ser mudado mais tarde.
+   - **Nome da empresa**: INSERIR NOME DE ENTIDADE LEGAL - Necessário para verificação
+   - **Linhas de país/região e endereços**: ENTER FULL ENTITY MAILING ADDRESS – necessário para verificação
+   - **Endereço de e-mail**: Insira o e-mail de propriedade da Entidade – não um e-mail gratuito ou on.microsoft.com – necessário para verificação
+   - **Informações de contacto do cliente**: estes detalhes serão utilizados como parte do processo de verificação
+   - **Nome de domínio primário**: Usado para criar contas de clientes e endereços de e-mail.  Escolha um nome semelhante ao nome da empresa sem espaços ou caracteres especiais.  Este nome não pode ser mudado mais tarde.
 
 3. Quando terminar, selecione **'Reveja'.**
 
    :::image type="content" source="images/eduaccountinfo.png" alt-text="Conta de cliente de educação":::
+
+4. Após confirmar **o Review,** receberá um estado **InReview** se as informações submetidas forem válidas. 
+
+    :::image type="content" source="images/edu/create-review.png" alt-text="Conta de cliente de educação em revisão"lightbox="images/edu/create-review-expanded.png":::
 
 ### <a name="confirm-your-education-customers-verification-status"></a>Confirme o estado de verificação do seu cliente de educação
 
@@ -56,15 +57,19 @@ Exemplos de estado:
 
 - Se o cliente passou a verificação: Educação
 
-   :::image type="content" source="images/edupassedvetting.png" alt-text="Conta de cliente de educação":::
+   :::image type="content" source="images/edupassedvetting.png" alt-text="A verificação da educação foi bem sucedida":::
 
 - Se o cliente não passou a verificação: Não é um cliente de educação
 
-   :::image type="content" source="images/edudidnotpassvetting.png" alt-text="Conta de cliente de educação":::
+   :::image type="content" source="images/edu/fail-reason.png" alt-text="A verificação da educação não foi bem sucedida" lightbox="images/edu/fail-reason-expanded.png":::
 
 - Se o cliente não foi marcado como um cliente de Educação: Nenhum
 
-   :::image type="content" source="images/edunottagged.png" alt-text="Conta de cliente de educação":::
+   :::image type="content" source="images/edu/account-one.png" alt-text="cliente de educação não é marcado como tal" lightbox="images/edu/account-one-expanded.png":::
+
+- Se o cliente estiver em revisão como cliente da Educação: Em revisão
+
+    :::image type="content" source="images/edu/in-review.png" alt-text="cliente de educação está em revisão" lightbox="images/edu/in-review-expanded.png":::
 
 ## <a name="correct-the-customer-account-info-and-resubmit-for-verification"></a>Corrija a informação da conta do cliente e reenvia para verificação
 
@@ -76,15 +81,15 @@ Deve ter privilégios de administração global para atualizar a informação do
 
 1. Na página **Conta,** verá informações indicando que a qualificação do cliente é considerada como "Não um cliente de educação".
 
-2. Refresque o seu navegador para redefinir a página. Haverá um botão **de atualização** e **o estado das qualificações especiais** está definido para **Nenhum** .
+2. Refresque o seu navegador para redefinir a página. Haverá um botão **de atualização** e **o estado das qualificações especiais** está definido para **Nenhum**.
 
-3. Selecione **Atualizar** . Na página gestão de **serviços,** selecione **Office 365** .
+3. Selecione **Atualizar**. Na página gestão de **serviços,** selecione **Office 365**.
 
 4. Você será redirecionado para o centro de administração do Office 365 em um novo separador do seu navegador. Pode ser solicitado que assine com as suas credenciais.
 
-5. Selecione **Definições** .
+5. Selecione **Definições**.
 
-6. Selecione o **separador de perfil** da Organização no topo do ecrã e, em seguida, **informações da Organização** . Pode agora atualizar os detalhes do cliente.
+6. Selecione o **separador de perfil** da Organização no topo do ecrã e, em seguida, **informações da Organização**. Pode agora atualizar os detalhes do cliente.
 
 7. **Selecione Guardar as alterações** na parte inferior da barra lateral.  
 
@@ -98,6 +103,6 @@ Deve ter privilégios de administração global para atualizar a informação do
 
 - [Vender a indústrias especializadas](get-special-pricing-for-offers.md)
 
-- [Adicione um novo cliente](add-a-new-customer.md)
+- [Adicionar um novo cliente](add-a-new-customer.md)
 
 - [Vender Minecraft: Subscrições da Education Edition para clientes de educação](minecraft-subscriptions.md)
