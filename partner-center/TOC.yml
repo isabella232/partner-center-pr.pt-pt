@@ -301,6 +301,9 @@
         - name: Queixas de co-op de incentivos
           href: claims-overview.md
           displayName: incentives
+        - name: Ver fundos de co-op disponíveis
+          href: incentives-view-funds.md
+          displayName: incentives
         - name: Gerir queixas de co-op
           href: create-incentives-claims.md
           displayName: incentives
