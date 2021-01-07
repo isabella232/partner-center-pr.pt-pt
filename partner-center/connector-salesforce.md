@@ -1,19 +1,19 @@
 ---
 title: O conector de co-venda para Salesforce CRM Partner Center
 ms.topic: how-to
-ms.date: 09/29/2020
+ms.date: 01/06/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Sincronizar as suas referências no Partner Center com o seu Salesforce CRM. Os vendedores podem então co-vender com a Microsoft a partir dos seus sistemas CRM.
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: b73f0b24538daa18b93fa206fce5eda1ab9bc9b9
-ms.sourcegitcommit: 7e32544cf91f932cbeb053c9de506ba9ee773fe2
+ms.openlocfilehash: 68b8bdf7a88c1ca8d063cf3198fc49bf87552edb
+ms.sourcegitcommit: de2ac2eea26426ae8f962d29ab50b68850318ce6
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "94947856"
+ms.lasthandoff: 01/07/2021
+ms.locfileid: "97960956"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>Conector de co-venda para Salesforce CRM - visão geral
 
@@ -51,7 +51,7 @@ Para sincronizar as referências através do Partner Center e da Salesforce CRM,
 
 3. No Salesforce, instale campos e objetos personalizados utilizando o instalador de pacotes abaixo.
   
-Vá [aqui](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t2w000006Vs9a) para instalar o pacote em qualquer empresa:
+Vá [aqui](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t2w000006WIwV) para instalar o pacote em qualquer empresa.
 
 
 Nota: Se estiver a instalar-se numa caixa de areia, deve substituir a parte inicial do URL por http://test.salesforce.com
