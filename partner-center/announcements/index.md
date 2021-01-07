@@ -8,21 +8,27 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 12/17/2020
-ms.openlocfilehash: ea08eb3ab860c0ed4c34ee3818b7db42307c3b4e
-ms.sourcegitcommit: 37c421eac547f6d9c2f5c8460a40f736ec8b8841
+ms.date: 01/04/2021
+ms.openlocfilehash: 754fbb58c2344ad09c6f9b72b36afc62eda38b71
+ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
 ms.translationtype: HT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "97666745"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "97916818"
 ---
 # <a name="partner-center-announcements"></a>Anúncios do Centro de Parceiros
 
 Saiba mais sobre atualizações importantes do Centro de Parceiros. Estas informações são atualizadas frequentemente, pelo que visite-nos com alguma frequência!
 
-| **Categoria** | **Anúncios de dezembro de 2020** | **Anunciado** |
+| **Categoria** | **Anúncios de janeiro de 2021** | **Anunciado** |
 |---------|:---------|:---------|
-|Ofertas/Mercados|[Software perpétuo no CSP:  Novos produtos e geografias](2020-december.md#10)|17 de dezembro|
+|Capacidades|[Descontinuação e extinção das APIs de qualificação GET e PUT existentes para o processo de validação de clientes Education até ao final de fevereiro de 2021](2021-january.md#2)|5 de janeiro|
+|Ofertas/Mercados|[Ofertas do Dynamics 365 para fevereiro de 2021](2021-january.md#1)|4 de janeiro|
+| **Categoria** | **Anúncios de dezembro de 2020** | **Anunciado** |
+|Ofertas|[Incentivo de canal não utilizado: fundos do fundo de marketing cooperativo (co-op) do período de utilização FY21 H1 a implementar ao longo do período de utilização H2](2020-december.md#13)|22 de dezembro|
+|Capacidades|[Migração do DocuSign para o Adobe Sign em 2021 para parceiros com Contratos de Parceiro da Microsoft (MPAs)](2020-december.md#12)|22 de dezembro|
+|Ofertas/Mercados|[Preços e agendas de catálogos de janeiro de 2021](2020-december.md#11)|22 de dezembro|
+|Capacidades|[Anúncio do suporte de aplicações e serviços do Microsoft 365 do Internet Explorer 11 e do Microsoft Edge legado](2020-december.md#10)|21 de dezembro|
 |Expanda o seu Negócio|[Administração pública, instituições académicas e organizações sem fins lucrativos: Continuação das alterações ao programa Open License e da evolução do CSP](2020-december.md#9)|17 de dezembro|
 |Ofertas/Mercados|[Alterações dos requisitos de inclusão de clientes do programa Fornecedor de Soluções Cloud (CSP)](2020-december.md#8)|17 de dezembro|
 |Expanda o seu Negócio|[Lembrete: Software perpétuo no programa Fornecedor de Soluções Cloud (CSP) amplamente disponível a partir de janeiro de 2021](2020-december.md#7)|17 de dezembro|
