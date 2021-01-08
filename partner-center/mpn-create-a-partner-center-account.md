@@ -1,7 +1,7 @@
 ---
 title: Create a Partner Center account (Criar uma conta do Centro de Parceiros)
 ms.topic: article
-ms.date: 08/07/2020
+ms.date: 01/07/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Saiba como os membros da Microsoft Partner Network podem criar uma conta Partner Center para gerir os seus benefícios e competências de rede.
@@ -9,12 +9,12 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e3f04708d3b7e2c86c88541931c120a6649674fb
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: c7aa97760be9fdb2cc004ffd5612826f777c05c5
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570795"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979741"
 ---
 # <a name="create-a-partner-center-account-to-manage-network-benefits-and-competencies"></a>Criar uma conta Partner Center para gerir benefícios e competências de rede
 
@@ -55,16 +55,20 @@ Vamos verificar esta informação durante o processo de criação de conta. Para
 
     Se a sua empresa não tiver uma conta de trabalho, selecione **Criar uma** para configurar uma agora. Depois de criar uma conta de trabalho, inscreva-se na utilização das suas credenciais de administração global para a conta de trabalho que acabou de criar.
 
-3.  Forneça ou atualize o perfil de negócio legal da sua empresa e informações de contacto primários e, em seguida, **selecione Matricular-se agora**. 
+3.  Forneça ou atualize o perfil de negócio legal da sua empresa.
+
+    Pode procurar o perfil da empresa ou introduzir informações da empresa manualmente. Se a sua empresa estiver registada na [Dun & Bradstreet,](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad)use o DUNS Id para consultar as informações da sua empresa. Se pretender fornecer os seus dados da sua empresa, selecione **Manual**.
+
+4. Depois de ter fornecido a informação da empresa, introduza as informações de contacto primários e, em seguida, **selecione Matricular-se agora**.
 
     O contacto principal deve ser a pessoa na sua empresa que podemos contactar sobre a sua aplicação (pode ser você ou outra pessoa na sua empresa). Também usaremos esta informação para verificar se esta pessoa trabalha na sua empresa e se inscreveu para uma conta partner Center.
 
     > [!IMPORTANT]  
     > Para ajudar a garantir a segurança e privacidade da sua empresa, enviaremos um e-mail para o seu contacto principal para verificar se (1) ele ou ela se inscreveu para uma conta partner Center, e (2) que este endereço de e-mail pertence à sua empresa. Após o contacto principal verificar o seu endereço de e-mail, continuaremos a nossa revisão da informação que forneceu.
 
-4.  Leia e aceite os termos e condições no acordo da Microsoft Partner Network. 
+5.  Leia e aceite os termos e condições no acordo da Microsoft Partner Network. 
 
-5.  Verifique se foi adicionado ao grupo de agentes administrativos. Para terminar a configuração da sua conta, incluindo a adição de outros utilizadores, tem de ter permissões de agente administrativo. Siga estes passos para visualizar ou atualizar as suas permissões:
+6.  Verifique se foi adicionado ao grupo de agentes administrativos. Para terminar a configuração da sua conta, incluindo a adição de outros utilizadores, tem de ter permissões de agente administrativo. Siga estes passos para visualizar ou atualizar as suas permissões:
 
     a. A partir do painel 'Centro [parceiro',](https://partner.microsoft.com/dashboard/home**)selecione o ícone **Definições** e, em seguida, selecione **a gestão do Utilizador**.  
 
@@ -109,7 +113,7 @@ Siga estes passos para ver detalhes da conta ou ver e baixar o contrato MPN:
 > [!NOTE]
 > Também pode utilizar os passos acima para visualizar ou transferir outros acordos para outros programas matriculados, como o Microsoft Partner Agreement, caso esteja inscrito no programa Cloud Solution Provider (CSP).
 
-## <a name="next-steps"></a>Passos seguintes
+## <a name="next-steps"></a>Próximos passos
 
 -   [Adicione os utilizadores de conta e atribua-lhes permissões](create-user-accounts-and-set-permissions.md)
 

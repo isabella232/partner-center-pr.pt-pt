@@ -9,19 +9,18 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c8d64167261fe9f425a1430ac0c109b446b50913
-ms.sourcegitcommit: f34f2f69e6df4f260479a205d94010cf47987ff2
+ms.openlocfilehash: 6b914d6dbd69f374976584d1261382ef8fe9ded9
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/25/2020
-ms.locfileid: "96038834"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979452"
 ---
 # <a name="overview-of-the-commercial-marketplace-in-partner-center"></a>Visão geral do mercado comercial no Partner Center
 
-**Aplica-se a**
+**Funções adequadas**
 
-- Partner Center
-- Parceiros no programa CSP
+- Administrador global
 
 Ser um parceiro no programa Cloud Solution Provider (CSP) permite-lhe agregar e vender produtos da Microsoft juntamente com soluções publicadas por fornecedores de software independentes (ISVs) de terceiros. Ser capaz de agregar soluções desta forma permite-lhe servir melhor os clientes finais e fazer crescer o seu negócio de serviços CSP.
 
@@ -68,7 +67,7 @@ Vá ao [Billing Basics](billing-basics.md) para saber mais sobre como a faturaç
 
 Para saber onde completar uma atividade de mercado específica para ofertas ISV baseadas em licenças ou baseadas em uso, consulte as seguintes tabelas.
 
-|**Para ofertas saaS baseadas em licença ou medidos a partir de ISVs**  |**Utilização**  |
+|**Para ofertas saaS baseadas em licença ou medidos a partir de ISVs**  |**Utilizar**  |
 |:------------------------------------|:------------------|
 |Para descobrir ou procurar ofertas disponíveis  | Painel de instrumentos do Centro de Parceiros ou APIs do Partner Center  |
 |Para comprar uma oferta  | Painel de instrumentos do Centro de Parceiros ou APIs do Partner Center  |
@@ -76,7 +75,7 @@ Para saber onde completar uma atividade de mercado específica para ofertas ISV 
 |Para cancelar/renovar subscrições de oferta ou adicionar/remover licenças | Painel de instrumentos do Centro de Parceiros ou APIs do Partner Center  |
 |Criar utilizadores ou gerir permissões  | Sistema ou site do editor ISV  |
 
-|**Para ofertas baseadas em uso de ISVs**  |**Utilização**  |
+|**Para ofertas baseadas em uso de ISVs**  |**Utilizar**  |
 |:------------------------------------|:------------------|
 |Para descobrir ou procurar ofertas disponíveis  | Painel de instrumentos do Partner Center, APIs do Partner Center ou portal Azure  |
 |Para comprar uma oferta  | Portal do Azure  |
@@ -84,7 +83,7 @@ Para saber onde completar uma atividade de mercado específica para ofertas ISV 
 |Para cancelar/renovar subscrições de oferta ou adicionar/remover licenças | Portal do Azure  |
 |Criar utilizadores ou gerir permissões  | Portal do Azure  |
 
-## <a name="next-steps"></a>Passos seguintes
+## <a name="next-steps"></a>Próximos passos
 
 - [Descubra ou veja ofertas de mercado comercial](csp-commercial-marketplace-discover.md)
 - [Comprar ofertas de mercado comercial](csp-commercial-marketplace-purchase.md)

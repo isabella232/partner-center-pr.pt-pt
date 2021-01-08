@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: a05b1ba1a4fb92e30a7a21609a4794d8b3b8fd4c
-ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
+ms.openlocfilehash: fc5a34bbb8326b38c13cc73ca9fff099f9b1c0db
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "97916835"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979769"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>Conheça o Acordo de Parceiros da Microsoft (MPA) para parceiros de programas da CSP
 
@@ -54,7 +54,7 @@ Para continuar a participar no programa CSP, tem de assinar o Acordo de Parceiro
 
 1. Inscreva-se no Partner Center com as suas credenciais de conta de administração CSP Global.
 
-1. A partir **de Definições** selecione [Perfil de Parceiro](https://partner.microsoft.com/pcv/accountsettings/partnerprofile).
+1. A partir **de Definições**, selecione **as definições de Conta** e, em seguida, selecione Perfil de [Parceiro](https://partner.microsoft.com/pcv/accountsettings/partnerprofile).
 
 1. Consulte a secção **de informações** do Programa. Se a sua informação não mostrar o estado **do revendedor indireto,** então tem de [se inscrever como revendedor indireto](indirect-reseller-tasks-in-partner-center.md).
 
@@ -80,6 +80,10 @@ Para ver se assinou a MPA:
 >[!NOTE]
 >Só o administrador global da sua empresa pode ver e assinar a MPA. Se você não é o administrador global, você precisará pedir ao seu administrador global para verificar a MPA.
 
+Também pode ver se assinou o acordo selecionando **Contratos** a partir de definições de **Conta.**
+
+:::image type="content" source="images/agreements/agreements.png" alt-text="Indicação de que a MPA está assinada":::
+
 
 ## <a name="download-the-step-by-step-guide-thats-right-for-where-you-are-in-the-process"></a>Faça o download do guia passo a passo que é certo para onde você está no processo
 
@@ -89,6 +93,6 @@ Para ver se assinou a MPA:
 
 3. Para verificar o estado do MPA no Centro de Parceiros depois de concluir o passo 1 e/ou 2 acima: [Verificar o estado de aceitação do Contrato de Parceiro da Microsoft](https://assetsprod.microsoft.com/mpn/verify-mpa-acceptance-status.pptx)
  
-## <a name="next-steps"></a>Passos seguintes
+## <a name="next-steps"></a>Próximos passos
 
 - [Enroll in the Cloud Solution Provider program](enrolling-in-the-csp-program.md) (Inscrever-se no programa do Fornecedor de Soluções Cloud)

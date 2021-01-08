@@ -1,7 +1,7 @@
 ---
 title: Preços e ofertas
 ms.topic: article
-ms.date: 07/10/2020
+ms.date: 01/07/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Consulte as listas de preços atuais para serviços baseados em licenças como o Office 365, Microsoft Dynamics CRM e Enterprise Mobility Suite, e serviços baseados em uso como o Azure.
@@ -9,18 +9,15 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 18c671b7903914bbbca49ded24f54b808833a92e
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: bf2630ffcdd36aee17b74a07ac03782ae4d9c9f0
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "92529367"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979826"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Preços e ofertas para Office 365, Dynamics CRM, Enterprise Mobility Suite, Azure, e muito mais
 
-**Aplica-se a**
-
-- Partner Center
 
 **Funções adequadas**
 
@@ -46,7 +43,7 @@ Para ver os mais recentes programas e ofertas do Cloud Solution Provider, a part
 
 ## <a name="price-list-preview-and-change-frequency"></a>Pré-visualização da lista de preços e alteração da frequência 
 
-Os serviços baseados em licença incluem uma pré-visualização da lista de preços, fornecida com 30 dias de antecedência de quaisquer alterações. Para ver a pré-visualização da lista de preços, vá a **Venda > Preços e ofertas** . Não há pré-visualização de preços para serviços baseados no uso, uma vez que estes serviços são dinâmicos. A tabela seguinte explica como ler a tabela de preços.
+Os serviços baseados em licença incluem uma pré-visualização da lista de preços, fornecida com 30 dias de antecedência de quaisquer alterações. Para ver a pré-visualização da lista de preços, vá a **Venda > Preços e ofertas**. Não há pré-visualização de preços para serviços baseados no uso, uma vez que estes serviços são dinâmicos. A tabela seguinte explica como ler a tabela de preços.
 
 |**Item**        |**Definição**      |
 |:-----------   |:-----------   |
@@ -89,8 +86,8 @@ A CSP oferece alguns serviços a segmentos de mercado especiais, por exemplo, ed
 
 |**Segment**   |**que precisa de se qualificar**   |**Parceiro qualifica cliente**|**Tipos de produtos habilitados**|
 |-------------------|-----------------------|----------------------------|-----------------------------|
-|Education|Cliente|Não, a qualificação do cliente será realizada pela Microsoft |Apenas com base em licenças|
-|Sem fins lucrativos|Cliente|Não, o cliente qualifica-se fora do Partner Center|Apenas com base em licenças|
+|Education|Customer|Não, a qualificação do cliente será realizada pela Microsoft |Apenas com base em licenças|
+|Sem fins lucrativos|Customer|Não, o cliente qualifica-se fora do Partner Center|Apenas com base em licenças|
 |GCC (Government Community Cloud)|Parceiro e cliente|Uma vez ativado o GCC, o parceiro pode criar clientes GCC| Apenas com base em licenças|
 |Azure Government|Parceiro|Uma vez qualificado, o parceiro opera num inquilino da CSP específico do Governo Azure|Recursos do Azure|
 
@@ -169,7 +166,7 @@ Abaixo está um resumo de como estas ofertas funcionam:
 - A subscrição não é renovada e expira após 6 anos
 - A frequência de faturação da oferta mostra-se como anual, mas o parceiro é faturado adiantado na sua primeira fatura após a aquisição da subscrição
 - As assinaturas de ofertas A1 de 72 meses são bloqueadas após a compra e não podem ser canceladas e as contagens de licença não podem ser adicionadas à subscrição após a compra inicial
-- Os parceiros que precisam cancelar precisam de criar um bilhete de apoio com o motivo do cancelamento e o ID de subscrição com que precisam de ajuda.
+- Esta subscrição não é cancelável e não reembolsável.
 
 ## <a name="estimated-retail-price-erp"></a>Preço estimado a retalho (ERP)
 

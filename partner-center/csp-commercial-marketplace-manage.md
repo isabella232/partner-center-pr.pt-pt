@@ -9,19 +9,15 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1d32f42b2c4bd8e4ec6c659326d1a21385c0642f
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 5e6ca188aeb50cec6f847afb08be4a9d62b36984
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92530002"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979681"
 ---
 # <a name="manage-commercial-marketplace-products-and-offers-for-your-customers"></a>Gerir produtos e ofertas de marketplace comercial para os seus clientes
 
-**Aplica-se a**
-
-- Partner Center
-- Parceiros no programa CSP
 
 **Funções adequadas**
 
@@ -36,7 +32,7 @@ Depois de adquirir uma subscrição de um editor ISV de terceiros, pode revê-la
 
 1. Inscreva-se no painel partner [center](https://partner.microsoft.com/dashboard)e, em seguida, selecione **Clientes** do menu de navegação à esquerda.
 
-2. Selecione um cliente apropriado e, em seguida, **selecione Subscrições** . Isto lista quaisquer subscrições baseadas em licença que tenha comprado para o cliente.
+2. Selecione um cliente apropriado e, em seguida, **selecione Subscrições**. Isto lista quaisquer subscrições baseadas em licença que tenha comprado para o cliente.
 
 3. Na coluna **Subscrição,** selecione a subscrição que pretende visualizar ou editar. Isto dá-lhe mais informações para configurar ou providenciar a oferta. (Se for necessária mais ação sobre a oferta, poderá também ver um estado de "Ação Necessária" apresentado na coluna Status. Isto também pode ser acompanhado por um link para o site da editora ISV.)
 
@@ -102,7 +98,7 @@ Para ofertas de mercado comercial SaaS, pode adicionar ou remover licenças de u
 
 1. Inscreva-se no painel partner [center](https://partner.microsoft.com/dashboard)e, em seguida, selecione **Clientes** do menu de navegação à esquerda.
 
-2. Selecione um cliente apropriado e, em seguida, **selecione Subscrições** . Isto lista quaisquer subscrições baseadas em licença que tenha comprado para o cliente.
+2. Selecione um cliente apropriado e, em seguida, **selecione Subscrições**. Isto lista quaisquer subscrições baseadas em licença que tenha comprado para o cliente.
 
 3. Na coluna **Subscrição,** selecione a subscrição que pretende modificar.
 
@@ -114,7 +110,7 @@ Para ofertas de mercado comercial SaaS, pode adicionar ou remover licenças de u
 
 Também pode utilizar APIs do Partner Center para realizar a gestão do ciclo de vida e gerir faturas para as suas subscrições. Para obter mais informações, consulte [Criar uma subscrição para produtos de mercado comercial.](/partner-center/develop/create-subscription-azure-marketplace-products)
 
-## <a name="next-steps"></a>Passos seguintes
+## <a name="next-steps"></a>Próximos passos
 
 - [Comprar ofertas de mercado comercial](csp-commercial-marketplace-purchase.md)
 - [Conheça a faturação no mercado comercial](csp-commercial-marketplace-billing.md)

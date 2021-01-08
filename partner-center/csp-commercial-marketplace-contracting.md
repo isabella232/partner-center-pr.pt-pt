@@ -9,26 +9,22 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c340baa12b834fae66888c08cf910d2918583ce1
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 4b4653e0f26bdce558dbdc70f03251e60277527f
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "92529256"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979659"
 ---
 # <a name="contracts-for-csp-partners-doing-business-in-the-commercial-marketplace"></a>Contratos para parceiros da CSP que fazem negócios no mercado comercial
 
-**Aplica-se a**
-
-- Partner Center
-- Parceiros no programa CSP
 
 **Funções adequadas**
 
 - Administrador global
 - Agente administrativo
 
-Esta secção diz respeito a contratos para parceiros no programa CSP que optem por adquirir ofertas de mercado ISV ou produtos para os seus clientes a partir do mercado comercial partner Center ou do portal Azure.
+Este artigo é sobre contratos para parceiros no programa CSP que optam por adquirir ofertas de marketplace ISV ou produtos para os seus clientes no mercado comercial do Partner Center ou no portal Azure.
 
 O [Guia do Programa CSP](https://go.microsoft.com/fwlink/p/?LinkId=617100) contém os termos e condições que regem as ofertas de mercado comercial entre a Microsoft e os parceiros no programa CSP. Os parceiros da CSP devem rever estes termos e condições para garantir que estão a funcionar em conformidade com o programa.  
 
@@ -47,7 +43,7 @@ Para obter mais informações sobre os termos que regem as atividades da CSP no 
   
 A Microsoft não assume a responsabilidade legal pela prestação de serviços entre as partes transaccionantes e não fornece um mecanismo para que os parceiros transaccionantes estabeleçam termos legais através da sua plataforma de comércio. Se os parceiros transaccionantes exigirem termos legais adicionais, terão de executar um acordo diretamente.
 
-## <a name="next-steps"></a>Passos seguintes
+## <a name="next-steps"></a>Próximos passos
 
 - [Apoio a produtos de mercado comercial](csp-commercial-marketplace-support.md)
 

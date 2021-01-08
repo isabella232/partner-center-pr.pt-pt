@@ -9,19 +9,15 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c03ab358b8fb6ab0f23ea5f42b9d35c6f6c2b80c
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 10592c7f8a3b1f075bc726161603859552b29961
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92529966"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979537"
 ---
 # <a name="billing-for-commercial-marketplace-products-and-subscriptions-in-partner-center"></a>Faturação para produtos e subscrições de mercado comercial no Partner Center
 
-**Aplica-se a**
-
-- Partner Center
-- Parceiros no programa CSP
 
 **Funções adequadas**
 
@@ -43,7 +39,7 @@ O administrador global ou administrador de faturação da sua empresa receberá 
 
 1. Inscreva-se no painel do Centro [de Parceiros.](https://partner.microsoft.com/dashboard/)
 
-2. No menu Partner Center, selecione **Billing** . 
+2. No menu Partner Center, selecione **Billing**. 
 
     Verá dois separadores no topo da página de Faturação: **Compras recorrentes** e **recorrentes e únicas.** Cada separador permite-lhe aceder a ficheiros de fatura e reconciliação (recon) para diferentes produtos de mercado:
 
@@ -53,7 +49,7 @@ O administrador global ou administrador de faturação da sua empresa receberá 
   
 3. Selecione o **separador compras recorrente e único.** Se adquiriu subscrições para um cliente numa moeda diferente, verá um separador para cada moeda. Você pode fazer algumas coisas fr:om esta página:
 
-    - Para ver a fatura mais recente e o ficheiro de reconciliação, selecione **Fatura** ou **Arquivo de Reconciliação** . (Se assim o quisesse, também pode aceder aos dados mais recentes da fatura e do ficheiro de reconhecimento utilizando [APIs do Partner Center](/partner-center/develop/).
+    - Para ver a fatura mais recente e o ficheiro de reconciliação, selecione **Fatura** ou **Arquivo de Reconciliação**. (Se assim o quisesse, também pode aceder aos dados mais recentes da fatura e do ficheiro de reconhecimento utilizando [APIs do Partner Center](/partner-center/develop/).
 
     - Para ver faturas anteriores e ficheiros de reconhecimento, expanda a linha de histórico de **Billing** abaixo.
 
@@ -70,7 +66,7 @@ Quando seleciona **compras recorrentes e pontuais** a partir da opção **De Fat
 
 - Subscrições SaaS (de editores microsoft ou ISV)
 
-- Plano Azul
+- Plano do Azure
 
 - Reservas do Azure
 
@@ -107,7 +103,7 @@ No caso de ofertas isv de teste gratuito:
 
 Para obter mais informações sobre o que cada coluna representa, consulte [utilizar os seus ficheiros de reconciliação](use-the-reconciliation-files.md). Ver também [Tipos de faturação no Centro de Parceiros](billing-different-types.md)
 
-## <a name="next-steps"></a>Passos seguintes
+## <a name="next-steps"></a>Próximos passos
 
 - [Gerir produtos de mercado comercial para clientes](csp-commercial-marketplace-manage.md)
 - [Conheça o apoio a produtos de mercado comercial](csp-commercial-marketplace-support.md)
