@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/07/2021
-ms.openlocfilehash: 17c4e19216218d070515b34d326dcca6596e94a8
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: 0f03ae17b9dd4b7a9097c7531dc6b519de70acef
+ms.sourcegitcommit: e4dea28c06da7677ea6a8615afdfd82d0151bd00
 ms.translationtype: MT
 ms.contentlocale: pt-PT
 ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979809"
+ms.locfileid: "98041012"
 ---
 # <a name="january-2021-announcements"></a>Anúncios de janeiro de 2021
 
@@ -25,21 +25,59 @@ Anúncios de 2021: [janeiro](2021-january.md)
 Anúncios de 2020: [maio](2020-may.md)  |  [junho julho](2020-june.md)  |  [](2020-july.md)  |  [agosto](2020-august.md)  |  [setembro](2020-september.md)  |  [](2020-October.md)  |  [](2020-november.md)  |  [dezembro](2020-december.md) Janeiro
 
 ________________
+
+## <a name="license-base-price-list-updates-for-january-2021"></a><a name="4"></a>Atualizações da lista de preços base de licença para janeiro de 2021 
+
+### <a name="categories"></a>Categorias
+
+- Data: 2021-01-08
+- Ofertas/Mercados
+
+### <a name="summary"></a>Resumo
+
+As listas de preços de janeiro e fevereiro para ofertas baseadas em licenças foram atualizadas para corrigir certos preços de lista incorretos.
+
+### <a name="impacted-audience"></a>Audiência impactada
+
+Todos os parceiros que transacionam através do programa Cloud Solution Provider (CSP).
+
+### <a name="details"></a>Detalhes 
+
+As listas de preços baseadas em licenças para janeiro de 2021 e fevereiro de 2021 incluíam alguns preços de lista incorretos. As ofertas e moedas impactadas estão abaixo. O preço correto foi atualizado e disponível a partir de 7 de janeiro de 2021 2PM PST (Pacific Standard Time). 
+
+   |**Nome da oferta**|**ID da oferta**|**Material ID**|
+   |-------------------|:------|:------|
+   |Microsoft 365 E3|2b3b8d2d-10aa-4be4-b5fd-7f2feb0c3091|AAA-35638| 
+   |Microsoft 365 Business Basic|bd938f12-058f-4927-bba3-ae36b1d2501c|AAA-10624|
+
+As moedas tiveram impacto: 
+
+- As emissões de preços da Microsoft 365 E3 limitavam-se apenas a estas moedas: JPY (Iene Japonês), GBP (Grande Libra Britânica), EUR (União Europeia), AUD (Dólar Australiano). 
+- As emissões de Business Basic da Microsoft 365 estavam limitadas apenas a USD (Dólares dos Estados Unidos). 
+
+Os parceiros devem fazer referência às listas de preços de pré-visualização atualmente disponíveis de janeiro e fevereiro para os preços corretos. 
+
+### <a name="next-steps"></a>Passos seguintes
+
+- Os parceiros devem descarregar os mais recentes ficheiros da lista de preços do Centro de Parceiros para obter os preços corrigidos de janeiro e fevereiro. 
+- Os administradores globais para inquilinos com impacto que tenham adquirido subscrições entre 1 de janeiro e 6 de janeiro serão notificados através de um email do Partner Center antes do final de janeiro com mais detalhes. 
+
+_____________ 
+
 ## <a name="euefta-change-of-partner-billing-currency-for-new-commerce-offers"></a><a name="3"></a> Mudança de moeda de faturação de parceiros da UE/EFTA para novas ofertas de comércio
 
 ### <a name="categories"></a>Categorias
 
 - Data: 2021-01-07
-- Local de trabalho moderno
+- Capacidades
 
 ### <a name="impacted-audience"></a>Audiência impactada
 
-- Prestador direto, fornecedor indireto, revendedor indireto
 - Todos os parceiros que transfiram através do programa Cloud Solution Provider na região UE/EFTA 
 
 ### <a name="details"></a>Detalhes
 
-Na região da União Europeia (UE)/Associação Europeia de Comércio Livre (EFTA), todas as novas ofertas de comércio no programa Cloud Solution Provider utilizarão o local de faturação de parceiros em vez da localização da faturação dos clientes. Isto significa que os parceiros serão faturados pela Microsoft com base na sua moeda de localização, e não na moeda de localização dos seus clientes. Isto será feito em duas fases:
+Na região da União Europeia (UE)/Associação Europeia de Comércio Livre (EFTA), todas as novas ofertas de comércio no programa Cloud Solution Provider utilizarão o local de faturação de parceiros em vez da localização da faturação dos clientes. Como tal, os parceiros serão faturados pela Microsoft com base na sua moeda de localização, e não na moeda de localização dos seus clientes. Isto será feito em duas fases:
 
 **Fase 1:**
 
@@ -47,7 +85,7 @@ Na região da União Europeia (UE)/Associação Europeia de Comércio Livre (EFT
 
 - Clientes existentes compram pela primeira vez novas ofertas de comércio - Inquilino criado antes de 11 de maio de 2020
 
-A partir de 28 de janeiro de 2021, os parceiros que têm novos clientes líquidos que adquirem uma nova oferta de comércio, ou clientes existentes com inquilinos criados antes de 11 de maio de 2020, fazendo a sua primeira compra de novas ofertas de comércio, serão cobrados para essas compras em moeda de localização parceira.  
+A partir de 28 de janeiro de 2021, os parceiros que têm novos clientes líquidos que adquirem uma nova oferta de comércio, ou clientes existentes com inquilinos criados antes de 11 de maio de 2020 fazendo a sua primeira compra de novas ofertas de comércio, serão cobrados para essas compras em moeda de localização parceira.  
 
 Os parceiros com clientes existentes que já tenham adquirido novas ofertas de comércio na CSP continuarão a ser faturados na moeda do local de faturação do cliente durante esta fase. Além disso, os parceiros com clientes existentes que fazem uma primeira compra de uma nova oferta de comércio, cujos inquilinos foram criados em ou depois de 11 de maio de 2020, continuarão a ser faturados na moeda do cliente.
 
@@ -61,9 +99,8 @@ Após a Fase 1 e durante o ano civil de 2021, a Microsoft irá transitar a fatur
 Após a Fase 2, os parceiros da região UE/EFTA serão faturados em moeda de localização parceira para todos os clientes e todas as compras da CSP.
 
 >[!NOTE]
->Esta alteração só terá impacto na moeda de faturação dos parceiros e não nos preços das novas ofertas de comércio na CSP.
+>Esta alteração só terá impacto na moeda de faturação dos parceiros e não nos preços das novas ofertas de comércio na CSP. As novas ofertas de comércio em campo para esta mudança são: subscrições Azure que fazem parte de um plano Azure, reservas Azure, subscrições de servidores, software perpétuo e compras de marketplace comercial da Microsoft no programa Cloud Solution Provider.
 
-As novas ofertas de comércio em campo para esta mudança são: subscrições Azure que fazem parte de um plano Azure, reservas Azure, subscrições de servidores, software perpétuo e compras de marketplace comercial da Microsoft no programa Cloud Solution Provider.
 
 ### <a name="partner-benefits"></a>Benefícios do parceiro
 
@@ -74,13 +111,20 @@ Esta atualização reduzirá a complexidade e a sobrecarga com a faturação mul
 - Os parceiros notarão uma reduzida complexidade de faturação causada pela faturação multi-moeda, que libertará tempo e recursos atualmente associados à conciliação das contas
 - Para os parceiros que ainda não adotaram novas ofertas de comércio, esta mudança alinha-se com o anterior modelo de faturação de parceiros, permitindo aos parceiros fazerem uma transição mais fácil para a nova experiência de comércio na CSP
 
-### <a name="next-steps"></a>Próximos passos
+### <a name="next-steps"></a>Passos seguintes
 
 Reveja as informações sobre este tópico na Galeria de [Operações](https://partner.microsoft.com/resources/collection/eu-efta-changes-collection#/) (inscrição obrigatória) no site do parceiro da Microsoft.  
 
 ### <a name="questions"></a>Perguntas?
 
 Para quaisquer questões relacionadas com este [suporte do Centro de Parceiros](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals) de notificação (inscrição obrigatória).
+
+### <a name="change-log"></a>Change log
+
+- 17 de novembro de 2020: Publicação original
+ 
+- 7 de janeiro de 2021 : Cenário adicional incluído para a Fase 1 e Fase 2
+
 
 ________________
 ## <a name="deprecation-and-retirement-of-existing-get-and-put-qualification-apis-for-the-education-customer-validation-process-by-the-end-of-february-2021"></a><a name="2"></a>Depreciação e aposentação das APIs de qualificação existentes para o processo de validação de clientes da Educação até ao final de fevereiro de 2021
@@ -91,9 +135,9 @@ Parceiros que vendem ofertas académicas através do programa Cloud Solution Pro
 
 ### <a name="details"></a>Detalhes 
 
-Este é um seguimento das melhorias da API lançadas em dezembro de 2020. Em dezembro de 2020 foram lançadas novas APIs GET e POST Qualifications, e como resultado, as antigas APIs get e PUT Qualification serão retiradas até ao final de fevereiro de 2021. Nessa altura, terá de utilizar as novas APIs do Get and POST Partner Center para poder comprar ofertas de Educação. 
+Este é um seguimento das melhorias da API lançadas em dezembro de 2020. Em dezembro de 2020 foram lançadas novas APIs GET e POST Qualifications, e consequentemente as antigas APIs get e PUT Qualification serão retiradas até ao final de fevereiro de 2021. Nessa altura, terá de utilizar as novas APIs do Get and POST Partner Center para poder comprar ofertas de Educação. 
 
-## <a name="next-steps"></a>Próximos passos
+### <a name="next-steps"></a>Passos seguintes
 
 - Se ainda não o fez, atualize as novas APIs para uma transição bem sucedida e oportuna.
 - Reveja as novas alterações da API do Centro parceiro e [Guia nos recursos de Prontidão de Operações: Melhorias do processo de validação do processo de validação do cliente do Partner Center Education](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/).
@@ -157,7 +201,7 @@ Estes SKUs foram removidos da lista final de preços de 1 de janeiro de 2021 e n
    |Dinâmica 365 Operações – Dispositivo para Programa de Migração AX|8c8b7c8f-cb3a-4737-8319-1752938c7be3|
    |Dinâmica 365 Membros da equipa para o Programa de Migração AX|1eb3ad0b-9de3-419d-8bfe-0d61bddd945b2|
 
-## <a name="next-steps"></a>Próximos passos
+### <a name="next-steps"></a>Passos seguintes
 
 Reveja os recursos sobre este tema e partilhe-os com as partes interessadas apropriadas na sua organização. 
 
