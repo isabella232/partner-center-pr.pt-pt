@@ -9,22 +9,81 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/07/2021
-ms.openlocfilehash: 0f03ae17b9dd4b7a9097c7531dc6b519de70acef
-ms.sourcegitcommit: e4dea28c06da7677ea6a8615afdfd82d0151bd00
+ms.openlocfilehash: 042ef617bfde17c1a28ab91d89ae9151e339cefc
+ms.sourcegitcommit: 0e8abea7445b7d3f0c4a6320380ecc7d0ef049f9
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "98041012"
+ms.lasthandoff: 01/11/2021
+ms.locfileid: "98062455"
 ---
 # <a name="january-2021-announcements"></a>Anúncios de janeiro de 2021
 
 Esta página detalha os anúncios para o Microsoft Partner Center para janeiro de 2021.
 
-Anúncios de 2021: [janeiro](2021-january.md)
+Anúncios de 2021: janeiro
 
-Anúncios de 2020: [maio](2020-may.md)  |  [junho julho](2020-june.md)  |  [](2020-july.md)  |  [agosto](2020-august.md)  |  [setembro](2020-september.md)  |  [](2020-October.md)  |  [](2020-november.md)  |  [dezembro](2020-december.md) Janeiro
+Anúncios de 2020: [maio](2020-may.md)  |  [junho julho](2020-june.md)  |  [](2020-july.md)  |  [agosto](2020-august.md)  |  [setembro](2020-september.md)  |  [](2020-October.md)  |  [dezembro](2020-november.md)  |  [](2020-december.md)  
+
+_____________ 
+
+## <a name="commercial-pricing-update-for-the-indian-rupee"></a><a name="6"></a>Atualização de preços comerciais para a rupia indiana 
+
+### <a name="categories"></a>Categorias
+
+- Data: 2021-01-08
+- Ofertas/Mercados
+
+### <a name="impacted-audience"></a>Audiência impactada
+
+Parceiros da CSP transacionam na Índia.
+
+### <a name="details"></a>Detalhes 
+
+A Microsoft está a fazer alterações na lista de preços da rupia indiana para alinhar os preços dos softwares comerciais e dos serviços online na Índia e na região asiática.
+
+O anúncio completo só está disponível para os Microsoft Partners. [Faça login para aceder ao anúncio completo](https://partner.microsoft.com/resources/detail/price-update-indian-rupee.pdf).
 
 ________________
+
+## <a name="calling-plan-and-phone-system-updates-for-february-1-20201"></a><a name="5"></a>Atualizações do Plano de Chamada e do Sistema Telefónico para 1 de fevereiro de 20201
+
+### <a name="categories"></a>Categorias
+
+- Data: 2021-01-08
+- Ofertas/Mercados
+
+### <a name="summary"></a>Resumo
+
+Uma oferta adicionada ao Microsoft 365, que incluirá o Phone System e o Domestic Call Plan e um Plano de Chamada Doméstica autónomo, está para breve selecionar países.
+
+### <a name="impacted-audience"></a>Audiência impactada
+
+Todos os parceiros que transacionam através do programa Cloud Solution Provider (CSP).
+
+### <a name="details"></a>Detalhes 
+
+A oferta agregada adicionada às ofertas do Microsoft 365 E1, E3 e E5 incluirá o Phone System e o Domestic Calling Plan. Além disso, uma nova oferta autónoma do Plano de Chamada Doméstica estará disponível apenas para a E5. As novas ofertas estarão disponíveis apenas para clientes nos EUA, Porto Rico e Canadá; para todos os outros países e territórios, os ATUAIS SKUs autónomos globais e os preços permanecem os mesmos. 
+
+Estas ofertas estarão disponíveis para clientes Comerciais, Estudantes, Docentes, Comunidade Do Governo (GCC) e clientes sem fins lucrativos nos EUA, Porto Rico e Canadá. Os planos de chamada não estão disponíveis em nenhum dos outros territórios dos EUA.
+
+   |**Nome da oferta**|**ID da oferta**|**Material ID**|
+   |-------------------|:------|:------|
+   |Equipas da Microsoft que chamam essencial para EUA e Canadá|1ee81de6-4d8b-4cf1-b926-2fd2a774a|8N2-00010|
+   |Microsoft Teams Calling Essentials for US and Canada (Preços de Pessoal sem fins lucrativos)|0c2ece0d-39b7-40ec-8c08-87c2b6c75d62|8N2-00011|
+   |Equipas da Microsoft chamam essencial para EUA e Canadá para docentes|b8baa3b8-8cc2-4f26-a212-7fbeb28e7895|8N3-00003|
+   |Equipas da Microsoft que chamam essencial para os EUA e Canadá para estudantes|26956da8-eeb5-44e3-aa79-d36e0e42b930|8N3-00004|
+   |Microsoft Teams chamando essencial para EUA e Canadá para GCC|7a2e2d5a-41b5-4b20-a0d1-0d06d34b5fe1|8N4-00002|
+   |Microsoft 365 Plano de Chamada Doméstica para EUA e Canadá|60d2919e-427a-46c9-bd03-89cbad27d53f|TK2-00050|
+   |Microsoft 365 Plano de Chamada Doméstica para docentes para EUA e Canadá|602e7548-375b-4e01-bf79-a9a8b8ff16d4|LM7-00006|
+   |Microsoft 365 Plano de Chamada Doméstica para estudantes para EUA e Canadá|1f4b4375-3185-40cf-b044-117fe3b102c6|LM7-00007|
+   |Microsoft 365 Plano de Chamada Doméstica para GCC para EUA e Canadá|594ed84e-ddf8-4e40-9726-76c04bd29e3b|LM9-00023|
+
+### <a name="next-steps"></a>Próximos passos
+
+- Partilhe esta informação com os contactos relevantes na sua organização e compreenda as oportunidades de venda e venda cruzada. 
+- Reveja a secção de recursos do [Guia de Parceiros de Equipas.](https://aka.ms/teamscallingmeetingsguide)
+
+_____________ 
 
 ## <a name="license-base-price-list-updates-for-january-2021"></a><a name="4"></a>Atualizações da lista de preços base de licença para janeiro de 2021 
 
@@ -57,7 +116,7 @@ As moedas tiveram impacto:
 
 Os parceiros devem fazer referência às listas de preços de pré-visualização atualmente disponíveis de janeiro e fevereiro para os preços corretos. 
 
-### <a name="next-steps"></a>Passos seguintes
+### <a name="next-steps"></a>Próximos passos
 
 - Os parceiros devem descarregar os mais recentes ficheiros da lista de preços do Centro de Parceiros para obter os preços corrigidos de janeiro e fevereiro. 
 - Os administradores globais para inquilinos com impacto que tenham adquirido subscrições entre 1 de janeiro e 6 de janeiro serão notificados através de um email do Partner Center antes do final de janeiro com mais detalhes. 
@@ -77,7 +136,7 @@ _____________
 
 ### <a name="details"></a>Detalhes
 
-Na região da União Europeia (UE)/Associação Europeia de Comércio Livre (EFTA), todas as novas ofertas de comércio no programa Cloud Solution Provider utilizarão o local de faturação de parceiros em vez da localização da faturação dos clientes. Como tal, os parceiros serão faturados pela Microsoft com base na sua moeda de localização, e não na moeda de localização dos seus clientes. Isto será feito em duas fases:
+Na região da União Europeia (UE)/Associação Europeia de Comércio Livre (EFTA), todas as novas ofertas de comércio no programa Cloud Solution Provider utilizarão o local de faturação de parceiros em vez da localização da faturação dos clientes. Como tal, os parceiros serão faturados pela Microsoft com base na sua moeda de localização, e não na moeda de localização dos seus clientes. Estas alterações serão feitas em duas fases:
 
 **Fase 1:**
 
@@ -85,7 +144,7 @@ Na região da União Europeia (UE)/Associação Europeia de Comércio Livre (EFT
 
 - Clientes existentes compram pela primeira vez novas ofertas de comércio - Inquilino criado antes de 11 de maio de 2020
 
-A partir de 28 de janeiro de 2021, os parceiros que têm novos clientes líquidos que adquirem uma nova oferta de comércio, ou clientes existentes com inquilinos criados antes de 11 de maio de 2020 fazendo a sua primeira compra de novas ofertas de comércio, serão cobrados para essas compras em moeda de localização parceira.  
+A partir de 28 de janeiro de 2021, os parceiros que têm novos clientes líquidos que adquirem uma nova oferta de comércio, ou clientes existentes com inquilinos criados antes de 11 de maio de 2020 para a compra pela primeira vez de novas ofertas de comércio, serão cobrados para essas compras em moeda de localização de parceiros.  
 
 Os parceiros com clientes existentes que já tenham adquirido novas ofertas de comércio na CSP continuarão a ser faturados na moeda do local de faturação do cliente durante esta fase. Além disso, os parceiros com clientes existentes que fazem uma primeira compra de uma nova oferta de comércio, cujos inquilinos foram criados em ou depois de 11 de maio de 2020, continuarão a ser faturados na moeda do cliente.
 
@@ -111,7 +170,7 @@ Esta atualização reduzirá a complexidade e a sobrecarga com a faturação mul
 - Os parceiros notarão uma reduzida complexidade de faturação causada pela faturação multi-moeda, que libertará tempo e recursos atualmente associados à conciliação das contas
 - Para os parceiros que ainda não adotaram novas ofertas de comércio, esta mudança alinha-se com o anterior modelo de faturação de parceiros, permitindo aos parceiros fazerem uma transição mais fácil para a nova experiência de comércio na CSP
 
-### <a name="next-steps"></a>Passos seguintes
+### <a name="next-steps"></a>Próximos passos
 
 Reveja as informações sobre este tópico na Galeria de [Operações](https://partner.microsoft.com/resources/collection/eu-efta-changes-collection#/) (inscrição obrigatória) no site do parceiro da Microsoft.  
 
@@ -122,8 +181,7 @@ Para quaisquer questões relacionadas com este [suporte do Centro de Parceiros](
 ### <a name="change-log"></a>Change log
 
 - 17 de novembro de 2020: Publicação original
- 
-- 7 de janeiro de 2021 : Cenário adicional incluído para a Fase 1 e Fase 2
+- 7 de janeiro de 2021: Cenário adicional incluído para a Fase 1 e Fase 2
 
 
 ________________
@@ -137,7 +195,7 @@ Parceiros que vendem ofertas académicas através do programa Cloud Solution Pro
 
 Este é um seguimento das melhorias da API lançadas em dezembro de 2020. Em dezembro de 2020 foram lançadas novas APIs GET e POST Qualifications, e consequentemente as antigas APIs get e PUT Qualification serão retiradas até ao final de fevereiro de 2021. Nessa altura, terá de utilizar as novas APIs do Get and POST Partner Center para poder comprar ofertas de Educação. 
 
-### <a name="next-steps"></a>Passos seguintes
+### <a name="next-steps"></a>Próximos passos
 
 - Se ainda não o fez, atualize as novas APIs para uma transição bem sucedida e oportuna.
 - Reveja as novas alterações da API do Centro parceiro e [Guia nos recursos de Prontidão de Operações: Melhorias do processo de validação do processo de validação do cliente do Partner Center Education](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/).
@@ -170,7 +228,7 @@ A Microsoft está a anunciar novas mudanças na oferta Dynamics 365 que serão l
 
 **Dinâmica 365 Resposta Adicional de Voz do Cliente**
 
-No dia 1 de fevereiro de 2021, a Microsoft criará uma nova oferta de "Resposta Adicional" com direito de resposta de 1 K para substituir a oferta existente por 2 K Survey Responses, o fim da venda será a 1 de fevereiro de 2021.
+Em 1 de fevereiro de 2021, a Microsoft criará uma nova oferta de "Resposta Adicional" com direito de resposta 1-K para substituir a oferta existente por respostas de pesquisa 2-K, que o fim da venda será em 1 de fevereiro de 2021.
 
 Consulte o separador "Customer Voice Addl Resp" no [documento Dynamics CSP Offers-February 2021 Excel](https://partner.microsoft.com/resources/detail/dynamics-csp-offers-february-2021-xls) para os detalhes do SKU. Consulte a Página Inicial da [Voz do Cliente Microsoft Dynamics 365](https://dynamics.microsoft.com/en-us/customer-voice/overview/) para obter mais informações.
 
@@ -201,7 +259,7 @@ Estes SKUs foram removidos da lista final de preços de 1 de janeiro de 2021 e n
    |Dinâmica 365 Operações – Dispositivo para Programa de Migração AX|8c8b7c8f-cb3a-4737-8319-1752938c7be3|
    |Dinâmica 365 Membros da equipa para o Programa de Migração AX|1eb3ad0b-9de3-419d-8bfe-0d61bddd945b2|
 
-### <a name="next-steps"></a>Passos seguintes
+### <a name="next-steps"></a>Próximos passos
 
 Reveja os recursos sobre este tema e partilhe-os com as partes interessadas apropriadas na sua organização. 
 
