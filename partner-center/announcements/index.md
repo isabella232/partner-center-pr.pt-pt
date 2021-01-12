@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/04/2021
-ms.openlocfilehash: 5de6dd2acff560a0093e51dfccb2454ea9cb71f4
-ms.sourcegitcommit: e4dea28c06da7677ea6a8615afdfd82d0151bd00
+ms.openlocfilehash: 2963a27a0b189b81540cf8c955feaa6237822e0b
+ms.sourcegitcommit: 0e8abea7445b7d3f0c4a6320380ecc7d0ef049f9
 ms.translationtype: HT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "98040995"
+ms.lasthandoff: 01/11/2021
+ms.locfileid: "98062438"
 ---
 # <a name="partner-center-announcements"></a>Anúncios do Centro de Parceiros
 
@@ -22,6 +22,8 @@ Saiba mais sobre atualizações importantes do Centro de Parceiros. Estas inform
 
 | **Categoria** | **Anúncios de janeiro de 2021** | **Anunciado** |
 |---------|:---------|:---------|
+|Ofertas/Mercados|[Atualização de preços comerciais para a rupia indiana](2021-january.md#6)|8 de janeiro|
+|Ofertas/Mercados|[Atualizações do Plano de Chamadas e do Sistema Telefónico para 1 de fevereiro de 2021](2021-january.md#5)|8 de janeiro|
 |Ofertas/Mercados|[Atualizações de lista de preços com base em licenças para janeiro de 2021](2021-january.md#4)|8 de janeiro|
 |Modern Workplace|[Alteração da Moeda de Faturação de Parceiros da UE/EFTA para novas ofertas de comércio](2021-january.md#3)|7 de janeiro|
 |Capacidades|[Descontinuação e extinção das APIs de qualificação GET e PUT existentes para o processo de validação de clientes Education até ao final de fevereiro de 2021](2021-january.md#2)|5 de janeiro|
