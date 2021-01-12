@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: fc5a34bbb8326b38c13cc73ca9fff099f9b1c0db
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: c557e517f46be09a9f903273d8bec37ce5ec0d04
+ms.sourcegitcommit: 8cb98de420f6ab5bb4cb3efc9007262c4d7d3327
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979769"
+ms.lasthandoff: 01/12/2021
+ms.locfileid: "98105516"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>Conheça o Acordo de Parceiros da Microsoft (MPA) para parceiros de programas da CSP
 
@@ -93,6 +93,6 @@ Também pode ver se assinou o acordo selecionando **Contratos** a partir de defi
 
 3. Para verificar o estado do MPA no Centro de Parceiros depois de concluir o passo 1 e/ou 2 acima: [Verificar o estado de aceitação do Contrato de Parceiro da Microsoft](https://assetsprod.microsoft.com/mpn/verify-mpa-acceptance-status.pptx)
  
-## <a name="next-steps"></a>Próximos passos
+## <a name="next-steps"></a>Passos seguintes
 
-- [Enroll in the Cloud Solution Provider program](enrolling-in-the-csp-program.md) (Inscrever-se no programa do Fornecedor de Soluções Cloud)
+- [Enroll in the Cloud Solution Provider program](indirect-reseller-tasks-in-partner-center.md) (Inscrever-se no programa do Fornecedor de Soluções Cloud)

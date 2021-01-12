@@ -9,22 +9,22 @@ ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
 ms.date: 12/15/2020
-ms.openlocfilehash: 7efd3ab2303f66fbd2b02e872e51be6c0e64993c
-ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
+ms.openlocfilehash: 9c2ec0c7204a275f6b32e75b86eae775eb87bb55
+ms.sourcegitcommit: 8cb98de420f6ab5bb4cb3efc9007262c4d7d3327
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97514705"
+ms.lasthandoff: 01/12/2021
+ms.locfileid: "98105533"
 ---
 # <a name="requirements-to-enroll-as-a-csp-direct-bill-partner"></a>Requisitos para se inscrever como um CSP Direct Bill Partner
 
-**Aplica-se a**
+**Funções adequadas**
 
-- Parceiros de conta direto no programa Cloud Solution Provider
+- Administrador global
 
 ## <a name="enroll-as-a-direct-partner"></a>Inscreva-se como parceiro direto
 
-Como parceiro de conta direta, é dono da relação de ponta a ponta com o seu cliente e com a Microsoft. Como parceiro de conta direta, é dono da relação de ponta a ponta com o seu cliente e com a Microsoft. Atualizámos os requisitos de inscrição para os sócios diretos a partir de 27 de outubro de 2020. Estes requisitos irão ajudá-lo a acelerar o crescimento do seu negócio com o modelo correto do Cloud Solution Provider e fortalecer as suas relações com o cliente com serviços de valor acrescentado e suporte.  
+Como parceiro de conta direta, é dono da relação de ponta a ponta com o seu cliente e com a Microsoft. Atualizámos os requisitos de inscrição para os sócios diretos a partir de 27 de outubro de 2020. Estes requisitos irão ajudá-lo a acelerar o crescimento do seu negócio com o modelo correto do Cloud Solution Provider e fortalecer as suas relações com o cliente com serviços de valor acrescentado e suporte.  
 
 ### <a name="minimum-requirements"></a>Requisitos mínimos
 
