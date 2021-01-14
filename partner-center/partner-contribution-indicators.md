@@ -1,44 +1,58 @@
 ---
-title: Indicadores de contribuição dos parceiros
+title: Indicadores de contribuição dos parceiros - CBA
 ms.topic: article
-ms.date: 12/16/2020
+ms.date: 01/13/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Saiba mais sobre sete Indicadores de Contribuição de Parceiros (PCI) que mostram como está com a Dynamics 365 Customer Engagement ou Dynamics 365 Finanças e Operações.
+description: Saiba mais sobre sete Indicadores de Contribuição de Parceiros (PCI) que mostram aos parceiros como obter uma competência de Aplicações empresariais cloud prateadas ou douradas.
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 336481cf390fb467c4768edfff9d9c38e8dd8f31
-ms.sourcegitcommit: 3ff229fd6f80b9e935d151280b17a60b8c39e8a9
+ms.openlocfilehash: 853af76627fcd2554492fbc918e147b8464a3e1f
+ms.sourcegitcommit: 623d03feab847538d484e0d062dc56fe9d9d82f4
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "97636046"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "98204075"
 ---
-# <a name="partner-contribution-indicators-pci-show-partner-impact-on-seven-key-measures-of-customer-success"></a>Indicadores de Contribuição de Parceiros (PCI) mostram impacto dos parceiros em sete medidas-chave de sucesso do cliente
+# <a name="use-partner-contribution-indicators-to-attain-the-cloud-business-applications-competency"></a>Utilizar indicadores de contribuição de parceiros para atingir a competência de Aplicações empresariais em nuvem
 
-Este artigo descreve cada um dos sete principais Indicadores de Contribuição de Parceiros (PCI) utilizados para avaliar os progressos de um parceiro na obtenção ou manutenção da competência mpn de aplicações de negócios em nuvem (CBA).
+**Funções adequadas**
 
-O artigo inclui informações sobre:
+- Administrador global
+- Administrador sócio da MPN
+- Administrador de conta
+
+Este artigo descreve sete indicadores-chave de contribuição de parceiros (PCI) utilizados para avaliar os progressos de um parceiro para alcançar ou manter uma competência de Aplicações empresariais silver ou gold cloud.
+
+> [!NOTE]
+> Saiba como os parceiros podem usar um conjunto diferente de métricas do Indicador de Contribuição de Parceiros para atingir a competência Silver ou Gold Small and Midmarket Cloud Solutions através da opção Cloud Business Applications SMB. Para obter mais informações, consulte [utilizar indicadores de contribuição de parceiros para a competência das Soluções cloud small e midmarket.](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md) Também pode [ler mais](https://partner.microsoft.com/membership/competencies) sobre competências e suas necessidades.
+
+Este artigo inclui informações sobre:
 
 - [Como cada indicador de PCI é pontuado](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators)
 
-- [Limiares para cada indicador de PCI](partner-contribution-indicators.md#thresholds-for-each-pci-metric)
+- [Limiares para cada indicador de PCI](partner-contribution-indicators.md#thresholds-for-each-pci-metric-for-this-competency)
 
-- [Definições detalhadas de cada indicador de PCI](partner-contribution-indicators.md#detailed-definitions-of-pci-metrics)
+- [Definições detalhadas de cada indicador de PCI](partner-contribution-indicators.md#detailed-pci-metrics-definitions-for-this-competency)
 
-- [Como aceder e ler](partner-contribution-indicators.md#how-to-access-and-read-the-charts) os gráficos de PCI no Partner Center
+- [Como aceder e ler](partner-contribution-indicators.md#how-to-access-partner-contribution-indicators) os gráficos de PCI no Partner Center
 
-## <a name="overview-of-partner-contribution-indicators"></a>Visão geral dos Indicadores de Contribuição dos Parceiros
+## <a name="overview-of-partner-contribution-indicators-for-this-competency"></a>Visão geral dos Indicadores de Contribuição de Parceiros para esta competência
 
-Os Indicadores de Contribuição dos Parceiros fornecem uma medida holística do impacto de um parceiro na condução de resultados bem sucedidos do cliente e, portanto, uma maior diferenciação no mercado quando um parceiro atinge e mantém a competência MPN da Cloud Business Applications (CBA).
+Os Indicadores de Contribuição de Parceiros fornecem uma medida holística do impacto de um parceiro na condução de resultados bem sucedidos do cliente e, portanto, uma maior diferenciação no mercado quando um parceiro atinge ou mantém a competência silver ou gold cloud business applications.
 
-Com o PCI, os parceiros recebem crédito por medidas-chave de sucesso do cliente, como implementações bem-sucedidas e uso crescente, e são recompensados por continuarem a investir e a ampliar as suas capacidades técnicas.
+Com o PCI, os parceiros recebem crédito por medidas-chave de sucesso do cliente, tais como implementações bem-sucedidas e uso crescente. São recompensados por continuarem a investir e a ampliar as suas capacidades técnicas.
+
+Quando um parceiro atinge determinados níveis de impacto em indicadores-chave, por exemplo, o parceiro pode atingir (ou reter) a competência silver ou Gold Cloud Business Applications.
+
+> [!NOTE]
+> Para saber mais sobre os benefícios de alcançar competências, consulte [as competências dos parceiros da Microsoft.](https://partner.microsoft.com/membership/competencies)
 
 ## <a name="pci-scoring-based-on-seven-key-indicators"></a>Pontuação de PCI com base em sete indicadores-chave
 
-O PCI proporciona uma visão sofisticada das capacidades técnicas de um parceiro, da sua capacidade de impulsionar o sucesso do cliente e do seu desempenho de vendas. O PCI mede o desempenho da sua empresa no ano anterior em sete indicadores-chave:
+O PCI proporciona uma visão sofisticada das capacidades técnicas de um parceiro, da sua capacidade de impulsionar o sucesso do cliente e do seu desempenho de vendas. Para ajudar os parceiros a alcançar a competência silver ou gold cloud business applications, o PCI mede o desempenho da sua empresa no ano anterior em sete indicadores-chave:
 
 *Indicadores de desempenho:*
 
@@ -68,17 +82,17 @@ A sua pontuação PCI determina a elegibilidade da competência, da seguinte for
 |Se a sua pontuação PCI for  | O utilizador  |
 |:----------------------|:-----------------|
 |1-59 pontos  | **não são** elegíveis para uma competência prata ou ouro |
-|60-79 pontos  | cumprir os requisitos para uma competência prata  |
-|80-100 pontos  | cumprir os requisitos para uma competência Gold
+|60-79 pontos  | cumprir requisitos para uma competência de prata  |
+|80-100 pontos  | cumprir requisitos para uma competência de ouro
 
 A imagem a seguir oferece uma referência rápida e visual.
 :::image type="content" source="images/pcinew1.png" alt-text="Mostra pontuações de PCI para alcançar a competência de Prata ou Ouro." border="false":::
 
-### <a name="maximum-scores-you-can-achieve-for-each-indicator"></a>Pontuações máximas que pode alcançar para cada indicador
+### <a name="maximum-pci-competency-scores-you-can-achieve-for-each-indicator"></a>Pontuações máximas de competências de PCI que pode alcançar para cada indicador
 
-Cada indicador traz uma pontuação que é adicionada ao total. Aqui estão as pontuações máximas para cada indicador:
+Cada indicador traz uma pontuação que é adicionada ao total. Aqui estão as pontuações máximas para cada indicador para a competência cloud business applications:
 
-|Para este indicador | A sua pontuação máxima é  |
+|Para este indicador | Sua pontuação máxima para esta competência é  |
 |:------------|:--------------:|
 |Desempenho - Receitas novas líquidas  | 10 pontos  |
 |Desempenho - Adicionam clientes líquidos  | 10 pontos  |
@@ -91,9 +105,9 @@ Cada indicador traz uma pontuação que é adicionada ao total. Aqui estão as p
 A imagem a seguir oferece uma referência rápida e visual.
 :::image type="content" source="images/pci/perfnew.png" alt-text="Apresenta um gráfico com pontuações máximas possíveis para cada um dos sete Indicadores de Contribuição de Parceiros (PCI)." border="false":::
 
-## <a name="thresholds-for-each-pci-metric"></a>Limiares para cada métrica de PCI
+## <a name="thresholds-for-each-pci-metric-for-this-competency"></a>Limiares para cada métrica de PCI para esta competência
 
-Cada métrica de PCI tem limiares definidos pela Microsoft que podem ganhar os pontos máximos da sua empresa. Estes limiares diferem para os caminhos de Envolvimento e Finanças e Operações para atingir a competência de Aplicações de Negócios da Cloud. Os limiares também diferem para os parceiros que operam em mercados desenvolvidos versus parceiros que operam exclusivamente em mercados em desenvolvimento. A categorização do mercado **desenvolvido** ou **em desenvolvimento** de um país baseia-se nas [definições](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf)da Microsoft Partner Network .
+Cada métrica de PCI tem limiares definidos pela Microsoft que podem ganhar os pontos máximos da sua empresa. Estes limiares diferem para os caminhos de Envolvimento e Finanças e Operações do Cliente utilizados para atingir a competência de Aplicações de Negócios da Cloud. Os limiares também diferem para os parceiros que operam em mercados desenvolvidos versus parceiros que operam exclusivamente em mercados em desenvolvimento. A categorização do mercado **desenvolvido** ou **em desenvolvimento** de um país baseia-se nas [definições](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf)da Microsoft Partner Network .
 
 Os pontos em cada métrica são contados para produzir uma pontuação de PCI distinta para o envolvimento do cliente e finanças e operações. Esta partitura será atualizada mensalmente.
 
@@ -102,10 +116,10 @@ Os parceiros podem ganhar os pontos máximos para uma determinada métrica se cu
 Por exemplo, um parceiro de mercado desenvolvido com $150.000 em Receitas Novas Líquidas ganhará metade ($150.000/$300.000) do máximo de 10 pontos.
 
 Consulte as seguintes tabelas para mais detalhes:
-- [Mesa 1. Limiares de envolvimento do cliente](partner-contribution-indicators.md#table-1-customer-engagement-thresholds)
-- [Mesa 2. Limiares de Finanças e Operações](partner-contribution-indicators.md#table-2-finance-and-operations-thresholds)
+- [Mesa 1. Limiares de envolvimento do cliente](partner-contribution-indicators.md#table-1-customer-engagement-thresholds-for-this-competency)
+- [Mesa 2. Limiares de Finanças e Operações](partner-contribution-indicators.md#table-2-finance-and-operations-thresholds-for-this-competency)
 
-### <a name="table-1-customer-engagement-thresholds"></a>Limiares de envolvimento do cliente da tabela 1
+### <a name="table-1-customer-engagement-thresholds-for-this-competency"></a>Tabela 1 Limites de Envolvimento do Cliente para esta competência
 
 
 | Métrica PCI | Indicador de desempenho: Receitas novas líquidas | Indicador de desempenho: Novo cliente adiciona | Indicador de capacidade: Consultores funcionais | Indicador de capacidade: Crescimento funcional do consultor | Indicador de capacidade: Desenvolvedores | Indicador de sucesso do cliente: Novas grandes implementações | Indicador de sucesso do cliente: Crescimento mensal do utilizador ativo |
@@ -116,7 +130,7 @@ Consulte as seguintes tabelas para mais detalhes:
 
 *\*Nota: Os objetivos de crescimento diferem com base no número de consultores de base e na opção específica que um parceiro utiliza para obter pontos. Para saber mais sobre opções para obter pontos ou metas de crescimento específicas de cada opção, consulte [Definições para o crescimento funcional do consultor.](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth)*
 
-### <a name="table-2-finance-and-operations-thresholds"></a>Quadro 2 Limiares de Finanças e Operações
+### <a name="table-2-finance-and-operations-thresholds-for-this-competency"></a>Quadro 2 Limiares de Finanças e Operações para esta competência
 
 
 | Métrica PCI | Indicador de desempenho: Receitas novas líquidas | Indicador de desempenho: Novo cliente adiciona | Indicador de capacidade: Consultores funcionais | Indicador de capacidade: Crescimento funcional do consultor | Indicador de capacidade: Desenvolvedores | Indicador de sucesso do cliente: Novas grandes implementações | Indicador de sucesso do cliente: Crescimento mensal do utilizador ativo |
@@ -127,7 +141,28 @@ Consulte as seguintes tabelas para mais detalhes:
 
 *\*Nota: Os objetivos de crescimento diferem com base no número de consultores de base e na opção específica que um parceiro utiliza para obter pontos. Para saber mais sobre opções para obter pontos ou metas de crescimento específicas de cada opção, consulte [Definições para o crescimento funcional do consultor.](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth)*
 
-## <a name="detailed-definitions-of-pci-metrics"></a>Definições detalhadas das métricas de PCI
+## <a name="prerequisites-to-receive-pci-credit-for-a-customer"></a>Pré-requisitos para receber crédito de PCI para um cliente
+
+Certos Indicadores de Contribuição de Parceiros só lhe permitem receber crédito para um determinado cliente se tiver uma associação parceiro-cliente específica com eles. Os indicadores, ou métricas de PCI, impactados por estes pré-requisitos são:
+
+- Novas receitas líquidas
+- O cliente líquido adiciona
+- Novas implementações
+- Crescimento mensal do utilizador ativo
+
+Só pode receber crédito por estas métricas de PCI para um determinado cliente se tiver uma das seguintes associações parceiro-cliente:
+- Você é um Cloud Solution Provider (CSP) para uma subscrição paga pertencente ao inquilino desse cliente
+- Você é o Parceiro Reivindicante da Record (CPOR) por uma subscrição paga pertencente ao inquilino desse cliente
+- Você é um Parceiro Digital da Record (DPOR) para uma subscrição paga pertencente ao inquilino desse cliente
+
+Um parceiro torna-se o CPOR se tiver estabelecido associação com um cliente ao nível da subscrição através do incentivo Dynamics 365 [Online Services Advisor](https://support.microsoft.com/help/4501560/online-services-advisor-osa-sell-incentives-faq) (OSA) ou do incentivo Dynamics 365 Online Services [Usage](https://support.microsoft.com/help/4489988/online-services-usage-osu-incentives-faq) (OSU).
+
+Um parceiro torna-se o DPOR se tiver estabelecido associação com um cliente ao nível de subscrição dentro do produto.
+
+> [!NOTE]
+> Quando existirem tanto a CPOR como a DPOR para uma determinada subscrição de clientes, o CPOR receberá crédito pelas métricas de PCI relevantes associadas a essa subscrição. Se a associação foi via OSA, o CPOR recebe o crédito para a Net novas receitas e o cliente Net adiciona. Se a associação foi via OSU, o CPOR recebe o crédito para novas implementações e crescimento mensal de utilizadores ativos.
+
+## <a name="detailed-pci-metrics-definitions-for-this-competency"></a>Definições detalhadas de métricas de PCI para esta competência
 
 As secções seguintes descrevem mais detalhes sobre cada uma das sete métricas de PCI e como os seus pontos são calculados.
 
@@ -143,24 +178,23 @@ Utilize a seguinte lista para ir rapidamente para uma definição específica:
 
 ### <a name="definitions-for-pci-metric-1---net-new-revenue"></a>Definições para #1 métricas de PCI - Novas receitas líquidas
 
-As novas receitas líquidas são um indicador de desempenho e um dos sete principais indicadores de contribuição dos parceiros [descritos anteriormente neste artigo.](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators) Aqui estão mais informações sobre como as novas receitas líquidas são definidas e como os seus pontos são calculados:
+As novas receitas líquidas são um [indicador de desempenho.](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators) Os pontos deste indicador são calculados para a competência cloud business applications da seguinte forma:
 
 - As novas receitas líquidas são definidas como receitas líquidas de faturação em todos os canais de vendas para produtos dynamics 365 qualificados.
 - As novas receitas líquidas são resumidas num período de 12 meses com um rendimento máximo possível de 10 pontos.
 - Os pontos para as novas receitas líquidas são calculados como faturações menos créditos e agregados ao longo de 12 meses.
 - As novas receitas líquidas são calculadas com base nos seguintes produtos elegíveis:
-
-   - Os produtos elegíveis para o atendimento ao cliente incluem: Vendas, Atendimento ao Cliente, Serviço de Campo, Automação de Serviços de Projeto, Marketing, Vendas de Relacionamento da Microsoft, Plano 1, Talento e Membro da Equipa Empresarial.
-   - Os produtos elegíveis para as Finanças e Operações incluem: Operações Unificadas, Finanças, Gestão da Cadeia de Abastecimento, Retalho, Comércio, Plano 2, Realidade Mista, Talento e Membro da Equipa Empresarial.
+  - Os produtos elegíveis para o atendimento ao cliente incluem: Vendas, Atendimento ao Cliente, Serviço de Campo, Automação de Serviços de Projeto, Marketing, Vendas de Relacionamento da Microsoft, Plano 1, Talento e Membro da Equipa Empresarial.
+  - Os produtos elegíveis para as Finanças e Operações incluem: Operações Unificadas, Finanças, Gestão da Cadeia de Abastecimento, Retalho, Comércio, Plano 2, Realidade Mista, Talento e Membro da Equipa Empresarial.
 
 - Os canais de vendas incluem Enterprise Agreement (EA), Cloud Solution Provider (CSP) e Web Direct.
 - Para o Contrato de Empresa apenas: Esta receita inclui receitas do primeiro ano do contrato. As receitas recorrentes do segundo e terceiro anos não estão incluídas.
 
 ### <a name="definitions-for-pci-metric-2---net-customer-adds"></a>Definições para #2 métrica de PCI - Cliente líquido adiciona
 
-O ac adds líquidos de clientes é um indicador de desempenho e um dos sete principais indicadores de contribuição do parceiro [descritos anteriormente neste artigo](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators). Aqui estão mais informações sobre como os adicionars líquidos do cliente são definidos e como os pontos desta categoria são calculados:
+O ac adds de clientes líquidos é um [indicador de desempenho](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators). Os pontos deste indicador são calculados para a competência cloud business applications da seguinte forma:
 
-- Os acedidos líquidos de clientes são resumidos ao longo de um período de 12 meses com um ganho máximo possível de 10 pontos.
+- Os acedidos líquidos de clientes são resumidos ao longo de um período de 12 meses com um máximo de ganhos possíveis de 10 pontos. 
 
 - Os clientes líquidos são adicionados em todos os canais de vendas. 
 
@@ -169,6 +203,16 @@ O ac adds líquidos de clientes é um indicador de desempenho e um dos sete prin
 - Um **complemento de cliente** é definido nestas condições: Quando um cliente não tem assentos pagos em todas as suas subscrições no mês anterior, mas tem pelo menos um lugar pago no mês em curso.
 
 - Um **cliente perdido** é definido nestas condições: Quando um cliente tem pelo menos um lugar pago em todas as suas subscrições no mês anterior, **e** não tem quaisquer lugares pagos no mês em curso.
+
+- Os pontos máximos e parciais podem ser obtidos para adição líquida de clientes. Os seguintes mostram requisitos para ganhar pontos máximos para uma determinada competência:
+
+  | Para este caminho | Cliente líquido adiciona para ganhar o máximo de 10 pontos |
+  |---------------------|----------------------------|
+  | Cativação do Cliente | - 10 adicionações líquidas de clientes (para parceiros em mercados *desenvolvidos);*</br>- 5 adicionações líquidas de clientes (para parceiros em mercados em *desenvolvimento)*  |
+  | Finance and Operations | - 3 adicionações líquidas de clientes (para parceiros em mercados *desenvolvidos);*</br>- 1 novo complemento de cliente (para parceiros em mercados em *desenvolvimento)* |
+
+  > [!NOTE]
+  > Para obter detalhes sobre mercados desenvolvidos vs. desenvolvimento, consulte estas [definições da Microsoft Partner Network](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf).
 
 - Os canais de vendas incluem Enterprise Agreement (EA), Cloud Solution Provider (CSP) e Web Direct.
 
@@ -190,7 +234,7 @@ O ac adds líquidos de clientes é um indicador de desempenho e um dos sete prin
 
 ### <a name="definitions-for-pci-metric-3---functional-consultants"></a>Definições para #3 métricas de PCI - Consultores funcionais
 
-Os consultores funcionais são um indicador de capacidade e um dos sete principais indicadores de contribuição dos parceiros [descritos anteriormente neste artigo.](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators) Aqui estão mais informações sobre como o indicador de consultores funcionais é definido e como os pontos desta categoria são calculados:
+Os consultores funcionais são um [indicador de capacidade.](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators) Os pontos deste indicador são calculados para a competência cloud business applications da seguinte forma:
 
 - Os pontos indicadores de consultor funcional baseiam-se no instantâneo do mês em curso com um máximo de ganhos possíveis de 15 pontos.
 
@@ -209,15 +253,14 @@ Os consultores funcionais são um indicador de capacidade e um dos sete principa
 > [!NOTE]
 > Os exames marcados com um asterisco \* estão a ser retirados ou substituídos nos próximos meses. Veja abaixo os detalhes específicos:
 >
-> - Os exames marcados com um único \* asterisco vão reformar-se a 31 de dezembro de 2020. Os exames que se reformarem a 31 de dezembro de 2020 continuarão elegíveis para a obtenção de competências e renovação até 31 de dezembro de 2021, se forem feitos antes de serem retirados.
+> - Os exames marcados com um único asterisco \* foram retirados em 31 de dezembro de 2020. Os exames aposentados a 31 de dezembro de 2020 continuarão elegíveis para a obtenção de competências e renovação até 31 de dezembro de 2021, se forem feitos antes de serem retirados.
 > - Os exames marcados com dois asteriscos \* \* vão reformar-se a 31 de janeiro de 2021. Os exames que se reformarem a 31 de janeiro de 2021 continuarão elegíveis para a obtenção de competências e renovação até 31 de janeiro de 2022, se forem feitos antes de serem retirados.
-
 
 ### <a name="definitions-for-pci-metric-4---functional-consultant-growth"></a>Definições para #4 métricas de PCI - Crescimento de consultores funcionais
 
-O crescimento funcional dos consultores é um indicador de capacidade e um dos sete principais indicadores de contribuição dos parceiros [descritos anteriormente neste artigo.](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators) Um parceiro tem uma de duas opções para alcançar os pontos de tudo ou nada (15 ou 0 pontos) disponíveis para esta métrica. Não serão atribuídos pontos parciais. 
+O crescimento funcional do consultor é um [indicador de capacidade.](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators) Os pontos deste indicador são calculados para a competência cloud business applications da seguinte forma:
 
-Aqui está mais informações sobre como o indicador de crescimento do consultor funcional é definido e como os pontos desta categoria são calculados.
+Um parceiro tem uma de duas opções para alcançar os pontos de tudo ou nada (15 ou 0 pontos) disponíveis para esta métrica. Não serão atribuídos pontos parciais.
 
 **Opção um para obter pontos:**
 
@@ -239,13 +282,13 @@ Aqui está mais informações sobre como o indicador de crescimento do consultor
 
 **Opção dois para obter pontos:**
 
-- Os parceiros de mercado desenvolvidos podem certificar 50 ou mais consultores funcionais a tempo do seu primeiro aniversário de CBA baseado em PCI. (Os parceiros de mercado em desenvolvimento podem certificar 25 ou mais consultores funcionais a tempo do seu primeiro aniversário de ACB baseado em PCI.)
+- Os parceiros de mercado desenvolvidos podem certificar 50 ou mais consultores funcionais a tempo do seu primeiro aniversário de competência em Cloud Business Applications baseada em PCI. (Os parceiros de mercado em desenvolvimento podem certificar 25 ou mais consultores funcionais a tempo do seu primeiro aniversário de competência em Cloud Business Applications baseada em PCI.)
 
-- Se atingir este limiar, receberá os 15 pontos completos para o Crescimento do Consultor Funcional durante 24 meses a partir dessa data. Isto significa que você receberá o máximo de pontos para o Crescimento de Consultor Funcional para dois aniversários da CBA.
+- Se atingir este limiar, receberá os 15 pontos completos para o Crescimento do Consultor Funcional durante 24 meses a partir dessa data. Isto significa que você receberá o máximo de pontos para o Crescimento de Consultor Funcional para dois aniversários de competências de Cloud Business Applications.
 
 ### <a name="definitions-for-pci-metric-5---developers"></a>Definições para #5 métricas de PCI - Desenvolvedores
 
-Os desenvolvedores são um indicador de capacidade e um dos sete principais indicadores de contribuição dos parceiros [descritos anteriormente neste artigo](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators). Aqui estão mais informações sobre como o indicador Developers é definido e como os pontos desta categoria são calculados:
+Os desenvolvedores são um [indicador de capacidade.](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators) Os pontos deste indicador são calculados para a competência cloud business applications da seguinte forma:
 
 - Os desenvolvedores são definidos como o número de indivíduos que detêm uma certificação de Developer Associate atualmente ativa.
 
@@ -264,20 +307,22 @@ Os desenvolvedores são um indicador de capacidade e um dos sete principais indi
 > [!NOTE]
 > Os exames marcados com um asterisco \* estão a ser retirados ou substituídos nos próximos meses. Veja abaixo os detalhes específicos:
 >
-> - Os exames marcados com um único \* asterisco vão reformar-se a 31 de dezembro de 2020. Os exames que se reformarem a 31 de dezembro de 2020 continuarão elegíveis para a obtenção de competências e renovação até 31 de dezembro de 2021, se forem feitos antes de serem retirados.
+> - Os exames marcados com um único asterisco \* foram retirados em 31 de dezembro de 2020. Os exames retirados a 31 de dezembro de 2020 continuarão elegíveis para a obtenção de competências e renovação até 31 de dezembro de 2021, se forem feitos antes de serem retirados.
 > - Os exames marcados com dois asteriscos \* \* vão reformar-se a 31 de janeiro de 2021. Os exames que se reformarem a 31 de janeiro de 2021 continuarão elegíveis para a obtenção de competências e renovação até 31 de janeiro de 2022, se forem feitos antes de serem retirados.
 
 ### <a name="definitions-for-pci-metric-6---new-large-deployments"></a>Definições para #6 métricas de PCI - Novas grandes implantações
 
-As novas grandes implementações são um indicador de sucesso do cliente e um dos sete principais indicadores de contribuição dos parceiros [descritos anteriormente neste artigo.](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators) Aqui estão mais informações sobre como o novo indicador de grandes implementações é definido e como os pontos desta categoria são calculados:
+As novas grandes implementações são um indicador de [sucesso do cliente.](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators) Os pontos deste indicador são calculados para a competência cloud business applications da seguinte forma:
 
 - As novas grandes implantações são resumidas ao longo de um período de 12 meses com um máximo de 20 pontos disponíveis.
 
-- As novas grandes implementações são definidas de forma diferente para o Envolvimento do Cliente vs. Finanças e Operações:
+- As novas grandes implementações são definidas de forma diferente para o Envolvimento do Cliente vs. Finanças e Operações e para parceiros que operam em mercados *desenvolvidos* vs. mercados em *desenvolvimento:*
 
   - Para o Envolvimento do Cliente, as novas grandes implementações são definidas como o número de casos de produção sob um inquilino que cruzaram **250 utilizadores** ativos mensais (para parceiros de mercado desenvolvidos) e **150 utilizadores** ativos mensais (para parceiros de mercado em desenvolvimento).
 
-   - Para as Finanças e Operações, as novas grandes implementações são definidas como o número de casos de produção sob um inquilino que já cruzaram **100 utilizadores** ativos mensais (para parceiros de mercado desenvolvidos) e **50 utilizadores** ativos mensais (para parceiros de mercado em desenvolvimento).
+  - Para as Finanças e Operações, as novas grandes implementações são definidas como o número de casos de produção sob um inquilino que já cruzaram **100 utilizadores** ativos mensais (para parceiros de mercado desenvolvidos) e **50 utilizadores** ativos mensais (para parceiros de mercado em desenvolvimento).
+  
+  (Para mais detalhes sobre mercados desenvolvidos vs. desenvolvimento, consulte estas [definições da Microsoft Partner Network](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf).)
 
 - Considera-se que o arrendatário ultrapassou o limiar mensal de utilizador ativo se o arrendatário: 
 
@@ -285,13 +330,17 @@ As novas grandes implementações são um indicador de sucesso do cliente e um d
   - Ultrapassou esse limiar pelo menos uma vez nos 11 meses seguintes.
 
 - Os utilizadores ativos mensais são contados ao nível do arrendatário e resumidos apenas em todas as assinaturas pagas sob o arrendatário.
+
 - Os utilizadores ativos mensais são calculados no final de cada mês.
-- Os parceiros estão associados aos inquilinos ao nível da subscrição. As assinaturas são mapeadas para produtos de Envolvimento do Cliente ou para Produtos de Finanças e Operações.
+
+- Os parceiros estão associados aos inquilinos ao nível da subscrição. As subscrições são mapeadas para os seguintes produtos de envolvimento do cliente ou para produtos de Finanças e Operações:
+  - Os produtos elegíveis para o atendimento ao cliente incluem: Vendas, Atendimento ao Cliente, Serviço de Campo, Automação de Serviços de Projeto, Marketing, Vendas de Relacionamento da Microsoft, Plano 1, Talento e Membro da Equipa Empresarial.
+  - Os produtos elegíveis para as Finanças e Operações incluem: Operações Unificadas, Finanças, Gestão da Cadeia de Abastecimento, Retalho, Comércio, Plano 2, Realidade Mista, Talento e Membro da Equipa Empresarial.
 - Todos os parceiros associados a qualquer subscrição paga sob um inquilino receberão crédito por todos os casos de produção de Envolvimento do Cliente ou Finanças e Operações ao abrigo desse inquilino.
 
 ### <a name="definitions-for-pci-metric-7---monthly-active-user-growth"></a>Definições para #7 métricas de PCI - Crescimento mensal do utilizador ativo
 
-O crescimento mensal do utilizador ativo é um indicador de sucesso do cliente e um dos sete principais indicadores de contribuição dos parceiros [descritos anteriormente neste artigo.](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators) Aqui estão mais informações sobre como o crescimento mensal do utilizador ativo é definido e como os pontos desta categoria são calculados:
+O crescimento mensal do utilizador ativo é um indicador de [sucesso do cliente.](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators) Os pontos deste indicador são calculados para a competência cloud business applications da seguinte forma:
 
 - O crescimento mensal do utilizador ativo é definido como o crescimento de utilizadores ativos mensais em toda a base de clientes ao longo dos últimos 12 meses. 
 
@@ -301,49 +350,37 @@ O crescimento mensal do utilizador ativo é um indicador de sucesso do cliente e
 
 - Os utilizadores ativos mensais são calculados no final de cada mês.
 
-- Para que o Envolvimento com o Cliente seja elegível para pontos, os parceiros de mercado desenvolvidos devem ter uma linha de base de pelo menos **250 utilizadores** ativos mensais, e os parceiros de mercado em desenvolvimento devem ter uma linha de base de **150 utilizadores** ativos mensais em toda a sua base de clientes há 12 meses. 
+- O crescimento mensal dos utilizadores ativos é definido de forma diferente para as vias de Envolvimento do Cliente vs. Finanças e Operações, e para parceiros que operam em mercados *desenvolvidos* vs. mercados em *desenvolvimento:*
 
-- Para que as Finanças e as Operações sejam elegíveis para pontos, os parceiros de mercado desenvolvidos devem ter uma linha de base de pelo menos **100 utilizadores** ativos mensais, e os parceiros de mercado em desenvolvimento devem ter uma linha de base de **50 utilizadores** ativos mensais em toda a sua base de clientes há 12 meses. 
+  - Para que o Envolvimento com o Cliente seja elegível para pontos, os parceiros de mercado desenvolvidos devem ter uma linha de base de pelo menos **250 utilizadores** ativos mensais, e os parceiros de mercado em desenvolvimento devem ter uma linha de base de **150 utilizadores** ativos mensais em toda a sua base de clientes há 12 meses.
 
-- Os parceiros estão associados aos inquilinos ao nível da subscrição. As assinaturas são mapeadas para o Envolvimento do Cliente ou para produtos de Finanças e Operações.
+  - Para que as Finanças e as Operações sejam elegíveis para pontos, os parceiros de mercado desenvolvidos devem ter uma linha de base de pelo menos **100 utilizadores** ativos mensais, e os parceiros de mercado em desenvolvimento devem ter uma linha de base de **50 utilizadores** ativos mensais em toda a sua base de clientes há 12 meses.
+  
+  (Para mais detalhes sobre mercados desenvolvidos vs. desenvolvimento, consulte estas [definições da Microsoft Partner Network](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf.)
+
+- Os parceiros estão associados aos inquilinos ao nível da subscrição. As subscrições são mapeadas para produtos de envolvimento do cliente qualificados ou para produtos de Finanças e Operações qualificados.
 
 - Todos os parceiros associados a qualquer subscrição paga sob um inquilino receberão crédito por todos os utilizadores ativos mensais de Envolvimento do Cliente ou Finanças e Operações, resumidos em todas as subscrições pagas ao abrigo desse inquilino.
 
-## <a name="customer-to-partner-association"></a>Associação cliente-parceiro
-
-Recebe crédito para a Net novas receitas, adicionam o cliente Net, novas grandes implementações e crescimento mensal do utilizador ativo para um determinado cliente, dentro dos limites da definição métrica, apenas se for o Cloud Solution Provider (CSP), o Parceiro Reivindicativo da Record (CPOR) ou Parceiro Digital da Record (DPOR) por uma subscrição paga pertencente ao inquilino do cliente.
-
-Um parceiro torna-se o CPOR se tiver estabelecido associação com um cliente ao nível da subscrição através do incentivo Dynamics 365 [Online Services Advisor](https://support.microsoft.com/help/4501560/online-services-advisor-osa-sell-incentives-faq) (OSA) ou do incentivo Dynamics 365 Online Services [Usage](https://support.microsoft.com/help/4489988/online-services-usage-osu-incentives-faq) (OSU).
-
-Um parceiro torna-se o DPOR se tiver estabelecido associação com um cliente ao nível de subscrição dentro do produto.
-
-Quando existirem tanto a CPOR como a DPOR para uma determinada subscrição, o CPOR receberá crédito pelas métricas de PCI relevantes associadas a essa subscrição. O CPOR recebe o crédito para a Net novas receitas e o cliente Net acrescenta se a associação foi via OSA. Se a associação foi via OSU, o CPOR recebe o crédito de novas grandes implementações e crescimento mensal de utilizadores ativos.
-
-## <a name="how-to-access-and-read-the-charts"></a>Como aceder e ler os gráficos
+## <a name="how-to-access-partner-contribution-indicators"></a>Como aceder a Indicadores de Contribuição de Parceiros
 
 Esta secção descreve como aceder aos Indicadores de Contribuição dos Parceiros a partir do painel de instrumentos do Centro de Parceiros e como ler os gráficos associados.
 
-### <a name="access-partner-contribution-indicators"></a>Aceder a Indicadores de Contribuição de Parceiros
-
 Para ver os gráficos e progressos dos indicadores de contribuição dos seus parceiros, siga estes passos:
 
-1. Inscreva-se no painel do Centro [de Parceiros.](https://partner.microsoft.com/dashboard)
+1. Inicie sessão no [dashboard](https://partner.microsoft.com/dashboard) do Centro de Parceiros.
 
 2. Selecione **CSP** no menu de navegação e, em seguida, selecione **Indicadores de Contribuição de Parceiros**. 
 
    Deve ver o painel de indicadores de contribuição do parceiro com gráficos associados.
 
+   :::image type="content" source="images/pci/howto.png" alt-text="Como ler o gráfico":::
+
    > [!NOTE]
    > Se não vir estas opções, tente selecionar **MPN** do menu, seguido de **Indicadores de Contribuição de Parceiros**. Se ainda não conseguir encontrar estas opções, poderá não ter a função de utilizador adequada atribuída no Partner Center. Contacte o seu administrador partner Center Global ou o administrador do parceiro MPN para obter ajuda.
 
-### <a name="read-the-charts"></a>Leia os gráficos
-
-A imagem a seguir mostra como ler algumas das áreas e gráficos na página indicadores de contribuição do parceiro no Partner Center.
-
 Para obter mais informações sobre a utilização desta área, consulte a recolha de recursos e vídeos encontrados no final deste artigo.
-
-   :::image type="content" source="images/pci/howto.png" alt-text="Como ler o gráfico":::
 
 ## <a name="next-steps"></a>Passos seguintes
 
-Ver mais vídeos de formação de PCI [e recursos informativos.](https://partner.microsoft.com/asset/collection/pci-learn#/)
+Veja mais [vídeos de formação](https://partner.microsoft.com/asset/collection/pci-learn#/) de PCI e recursos informativos sobre a obtenção da competência gold ou Silver Cloud Business Applications.
