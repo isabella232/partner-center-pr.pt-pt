@@ -9,18 +9,18 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 0c8bf1c31a2662d5dcf65eed40e9c4f82c2ee80b
-ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
+ms.openlocfilehash: 8d247d4f39b85423bfd128056595b414238b113c
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96439086"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182550"
 ---
 # <a name="november-2020-announcements"></a>Anúncios de novembro de 2020
 
 Esta página detalha os anúncios para o Microsoft Partner Center para novembro de 2020.
 
-Anúncios de 2020: [abril](2020-april.md)  |  [maio](2020-may.md)  |  [junho julho](2020-june.md)  |  [July](2020-july.md)  |  [agosto](2020-august.md)  |  [September](2020-september.md)  |  [setembro](2020-October.md) Novembro
+Anúncios de 2020: [abril](2020-april.md)  |  [maio](2020-may.md)  |  [junho julho](2020-june.md)  |  [](2020-july.md)  |  [agosto](2020-august.md)  |  [](2020-september.md)  |  [setembro](2020-October.md) Novembro
 
 ______________
 ## <a name="introducing-the-ability-to-purchase-saas-offers-with-metered-billing-in-partner-center"></a><a name="14"></a>Introduzindo a capacidade de comprar ofertas saaS com faturação medido no Partner Center 
@@ -40,7 +40,7 @@ Todos os parceiros
 
 ### <a name="details"></a>Detalhes
 
-A Microsoft está a introduzir a capacidade de os parceiros no programa Cloud Solution Provider, incluindo fornecedores indiretos e parceiros de contas diretas, adquirirem ofertas saaS com [faturação medido](https://docs.microsoft.com/azure/marketplace/partner-center-portal/saas-metered-billing)   no Partner Center. Hoje, os parceiros do programa Cloud Solution Provider podem visualizar e [comprar ofertas saaS com faturação medido através do portal Azure.](https://docs.microsoft.com/partner-center/csp-commercial-marketplace-purchase)Esta nova experiência permitirá aos parceiros adquirir estas ofertas através do CSP Marketplace no Partner Center e da API, tal como acontece com outros tipos de oferta SaaS. 
+A Microsoft está a introduzir a capacidade de os parceiros no programa Cloud Solution Provider, incluindo fornecedores indiretos e parceiros de contas diretas, adquirirem ofertas saaS com [faturação medido](/azure/marketplace/partner-center-portal/saas-metered-billing)   no Partner Center. Hoje, os parceiros do programa Cloud Solution Provider podem visualizar e [comprar ofertas saaS com faturação medido através do portal Azure.](../csp-commercial-marketplace-purchase.md)Esta nova experiência permitirá aos parceiros adquirir estas ofertas através do CSP Marketplace no Partner Center e da API, tal como acontece com outros tipos de oferta SaaS. 
 
 ### <a name="next-steps"></a>Passos seguintes
 
@@ -308,24 +308,24 @@ O Partner Center é projetado para lidar com um grande volume de pedidos, mas se
 |**Operação**|**Documentação do Centro de Parceiros**|
 |-------------------------|----------------------------------|
 |{baseURL}/v1/clientes/{customer_id}/subscrições|[Obtenha todas as subscrições de um cliente](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-subscriptions)|  
-|{baseURL}/v1/customers/{customer_id}/subscrições/{subscription_id}|[Obtenha uma subscrição por ID](https://docs.microsoft.com/partner-center/develop/get-a-subscription-by-id) | 
-|{baseURL}/v1/clientes/{customer_id}/encomendas||[Receba todas as encomendas de um cliente](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-orders)|  
-|{baseURL}/v1/customers/{customer_id}/orders/{order_id}|[Obter uma encomenda por ID](https://docs.microsoft.com/partner-center/develop/get-an-order-by-id)|  
-|{baseURL}/v1/customers/{customer_id}/orders/{order_id}/provisioningstatus|[Obtenha o estado de provisionamento de assinatura](https://docs.microsoft.com/partner-center/develop/get-subscription-provisioning-status)|  
-|{baseURL}/v1/customers/{customer_id}/subscrições/{subscription_id}|[Gerir encomendas e gerir uma subscrição](https://docs.microsoft.com/partner-center/develop/manage-orders#manage-a-subscription)| 
-|{baseURL}/v1/customers/{customer_id}/subscrições/{subscription_id}/addons|[Obtenha uma lista de addons para uma subscrição](https://docs.microsoft.com/partner-center/develop/get-a-list-of-add-ons-for-a-subscription)| 
-|{baseURL}/v1/customers/{customer_id}/subscrições/{subscription_id}/azureEntitlements|[Obtenha uma lista de direitos Azure para uma subscrição](https://docs.microsoft.com/partner-center/develop/get-a-list-of-azure-entitlements-for-subscription)|  
-|{baseURL}/v1/customers/{customer_id}/subscrições/{subscription_id}/registrationstatus|[Obtenha o estado do registo de assinatura](https://docs.microsoft.com/partner-center/develop/get-subscription-registration-status)| 
-|{baseURL}/v1/clientes/{cliente-inquilino-id}/transfers|[Obtenha todas as transferências de um cliente](https://docs.microsoft.com/partner-center/develop/get-subscription-registration-status)| 
-|{baseURL}/v1/productUpgrades/{upgrade-id}/status|[Obtenha o estado de atualização do produto](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-transfers)| 
-|{baseURL}/v1/customers/{customer-id}/subscrições/{subscription-id}/conversões|[Obtenha uma lista de ofertas de conversão de ensaios](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-transfers) 
+|{baseURL}/v1/customers/{customer_id}/subscrições/{subscription_id}|[Obter uma subscrição por ID](https://docs.microsoft.com/partner-center/develop/get-a-subscription-by-id) | 
+|{baseURL}/v1/clientes/{customer_id}/encomendas||[Obter todas as encomendas de um cliente](/partner-center/develop/get-all-of-a-customer-s-orders)|  
+|{baseURL}/v1/customers/{customer_id}/orders/{order_id}|[Obter encomenda por ID](/partner-center/develop/get-an-order-by-id)|  
+|{baseURL}/v1/customers/{customer_id}/orders/{order_id}/provisioningstatus|[Obter o estado de aprovisionamento da subscrição](/partner-center/develop/get-subscription-provisioning-status)|  
+|{baseURL}/v1/customers/{customer_id}/subscrições/{subscription_id}|[Gerir encomendas e gerir uma subscrição](/partner-center/develop/manage-orders#manage-a-subscription)| 
+|{baseURL}/v1/customers/{customer_id}/subscrições/{subscription_id}/addons|[Obter uma lista de suplementos para uma subscrição](/partner-center/develop/get-a-list-of-add-ons-for-a-subscription)| 
+|{baseURL}/v1/customers/{customer_id}/subscrições/{subscription_id}/azureEntitlements|[Obter uma lista de elegibilidade do Azure para uma subscrição](/partner-center/develop/get-a-list-of-azure-entitlements-for-subscription)|  
+|{baseURL}/v1/customers/{customer_id}/subscrições/{subscription_id}/registrationstatus|[Obter o estado de registo da subscrição](/partner-center/develop/get-subscription-registration-status)| 
+|{baseURL}/v1/clientes/{cliente-inquilino-id}/transfers|[Obtenha todas as transferências de um cliente](/partner-center/develop/get-subscription-registration-status)| 
+|{baseURL}/v1/productUpgrades/{upgrade-id}/status|[Obter estado de atualização do produto](/partner-center/develop/get-all-of-a-customer-s-transfers)| 
+|{baseURL}/v1/customers/{customer-id}/subscrições/{subscription-id}/conversões|[Obter uma lista de ofertas de conversão de avaliação](/partner-center/develop/get-all-of-a-customer-s-transfers) 
   
 
-Este anúncio destina-se a proporcionar aos parceiros uma consciência precoce das próximas mudanças, permitindo-lhes assim preparar-se. Recomendamos vivamente que os parceiros se familiarizem com estas APIs e considerem usar o registo de atividade API para obter mais eficiência e evitar estrangulamentos. Para obter mais informações sobre esta funcionalidade, consulte os detalhes da [orientação de estrangulamento da API](https://docs.microsoft.com/partner-center/develop/api-throttling-guidance). 
+Este anúncio destina-se a proporcionar aos parceiros uma consciência precoce das próximas mudanças, permitindo-lhes assim preparar-se. Recomendamos vivamente que os parceiros se familiarizem com estas APIs e considerem usar o registo de atividade API para obter mais eficiência e evitar estrangulamentos. Para obter mais informações sobre esta funcionalidade, consulte os detalhes da [orientação de estrangulamento da API](/partner-center/develop/api-throttling-guidance). 
 
 ### <a name="next-steps"></a>Passos seguintes
 
-Reveja [a orientação de estrangulamento da API](https://docs.microsoft.com/partner-center/develop/api-throttling-guidance)e tome as medidas necessárias. 
+Reveja [a orientação de estrangulamento da API](/partner-center/develop/api-throttling-guidance)e tome as medidas necessárias. 
 
 ______________
 
@@ -339,7 +339,7 @@ ______________
 ### <a name="context"></a>Contexto
 
 - Em fevereiro deste ano, foi solicitado aos parceiros que assinassem o Microsoft Customer Agreement (MCuA). Esta foi uma migração do anterior Microsoft Cloud Agreement (MCA). 
-- Como parte desta alteração, foi solicitado aos parceiros que incluíssem o parâmetro tipo de acordo, tal como documentado [aqui.](https://docs.microsoft.com/partner-center/develop/get-confirmation-of-customer-agreement)
+- Como parte desta alteração, foi solicitado aos parceiros que incluíssem o parâmetro tipo de acordo, tal como documentado [aqui.](/partner-center/develop/get-confirmation-of-customer-agreement)
 
 ### <a name="what-happened-next"></a>O que aconteceu depois:
 

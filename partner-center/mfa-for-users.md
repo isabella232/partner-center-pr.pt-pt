@@ -9,12 +9,12 @@ author: vijvala
 ms.author: vijvala
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 355258fd20f867052fa8598e688630005262bb16
-ms.sourcegitcommit: ab2ca3c5990b7f920df4ecb9c611d5b1046ec111
+ms.openlocfilehash: f42c97be88a1a505f7e0ae9b8af0d4a9167d8447
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/16/2020
-ms.locfileid: "97579981"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182380"
 ---
 # <a name="set-up-your-users-with-multi-factor-authentication"></a>Configurar os seus utilizadores com a autenticação multifator
 
@@ -39,11 +39,10 @@ Isto permitirá o MFA para este utilizador. Ativado significa que o utilizador s
 :::image type="content" source="images/MFA/securityverification.png" alt-text="Especificar como verificar":::
 
 >[!NOTE]
->Pode **impor aos** seus utilizadores a utilização de MFA utilizando os mesmos passos acima e selecionando **Enforce**. Para saber mais, leia [Ativar a autenticação multi-factor Azure por utilizador para garantir eventos de entrada.](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-userstates) 
+>Pode **impor aos** seus utilizadores a utilização de MFA utilizando os mesmos passos acima e selecionando **Enforce**. Para saber mais, leia [Ativar a autenticação multi-factor Azure por utilizador para garantir eventos de entrada.](/azure/active-directory/authentication/howto-mfa-userstates) 
 
 Todos os utilizadores começam **desativados.** Quando inscreve os utilizadores na autenticação multi-factor Azure por utilizador, o seu estado muda para **Enabled**. Quando os utilizadores ativados iniciaram o seu registo e completam o processo de registo, as alterações de estado para **Aplicadas**. 
 
 ## <a name="next-steps"></a>Passos seguintes
 
 - [Atribuir funções e permissões a utilizadores](permissions-overview.md)
-

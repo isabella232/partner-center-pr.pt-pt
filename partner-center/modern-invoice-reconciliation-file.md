@@ -8,12 +8,12 @@ ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
-ms.openlocfilehash: 71ffee8426244c211338e97becab516c07251e45
-ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
+ms.openlocfilehash: 29574dad6c3dd5eedbcf93dd555509cb04144ef5
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "94499141"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182584"
 ---
 # <a name="csp-one-time-purchase-reconciliation-file-fields"></a>CSP uma vez comprar campos de arquivos de reconciliação
 
@@ -28,9 +28,9 @@ Para obter mais informações sobre ficheiros de reconciliação, consulte [util
 | CustomerId | Identificador exclusivo da Microsoft para o cliente em formato GUID. | *196e2273-9651-43a3-ba7e-7cbcd918fc40* |
 | CustomerName | Nome da organização do cliente, conforme relatado no Partner Center. Esta coluna é importante para conciliar a fatura com a informação do seu sistema. | *Johnny Modern Cust DE2* |
 | Nome do Nome do Cliente | Nome de domínio do cliente. | *testcustomerdomain.onmicrosoft.com* |
-| CustomerCountry | O país onde está localizado o seu cliente. Veja a lista completa [dos países](/partner-center/regional-authorization-overview) para a sua região.  | *DE* |
+| CustomerCountry | O país onde está localizado o seu cliente. Veja a lista completa [dos países](./regional-authorization-overview.md) para a sua região.  | *DE* |
 | FaturaNumber | O número da fatura associado ao ficheiro de reconciliação.  | *G002297372* |
-| MpnId | Identificador mpn do parceiro da CSP. Para mais informações, consulte [como itemar por parceiro.](/partner-center/use-the-reconciliation-files#itemize-reconciliation-files-by-partner) | *6034453* |
+| MpnId | Identificador mpn do parceiro da CSP. Para mais informações, consulte [como itemar por parceiro.](./use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner) | *6034453* |
 | RevendedorMpnId | Identificador MPN do revendedor de registo para a subscrição. | *6048879* |
 | OrderId | Identificador único para uma encomenda na plataforma de faturação da Microsoft. Pode ser útil identificar a ordem ao contactar o suporte. Não é usado para a reconciliação. | *0ET2qaZvJGfF9wgSKnWzR5JLmhp10lOc1* |
 | OrderDate | Data em que a encomenda foi feita. | *10/3/2020* |
@@ -39,8 +39,8 @@ Para obter mais informações sobre ficheiros de reconciliação, consulte [util
 | DisponibilidadeyId | O identificador único de disponibilidade. | *DZH318Z08B80* |
 | SkuName | O nome SKU. | *Tabelas - LRS* |
 | NomeDoProduto | O nome do produto. | *Tabelas* |
-| ChargeType | O [tipo de carga](/partner-center/recon-file-charge-types) ou ajuste. | *Novo* |
-| Preço Unitário | Preço por licença, conforme publicado na tabela de preços no momento da compra. Certifique-se de que isto corresponde às informações armazenadas no seu sistema de faturação durante a reconciliação. | *0.045* |
+| ChargeType | O [tipo de carga](./recon-file-charge-types.md) ou ajuste. | *Novo* |
+| UnitPrice | Preço por licença, conforme publicado na tabela de preços no momento da compra. Certifique-se de que isto corresponde às informações armazenadas no seu sistema de faturação durante a reconciliação. | *0.045* |
 | Quantidade | O número de licenças. Certifique-se de que isto corresponde às informações armazenadas no seu sistema de faturação durante a reconciliação. | *1* |
 | Subtotal | Total antes de impostos. O subtotal deve ser igual à quantidade faturada multiplicada pelo preço unitário efetivo. | *0* |
 | ImpostoTotal | Carga de imposto. Com base nas regras fiscais do seu mercado e circunstâncias específicas. | *0* |
@@ -54,7 +54,7 @@ Para obter mais informações sobre ficheiros de reconciliação, consulte [util
 | ChargeStartDate | A data em que o centro parceiro cobra pela taxa de subscrição. Se a subscrição for comprada com um prazo anual de faturação e um plano de faturação mensal, então no primeiro ficheiro de reconciliação, este é o dia em que a subscrição é comprada. Começando com o próximo ficheiro de reconciliação, será aumentado por 30 dias. | *9/1/2020* |
 | ChargeEndDate | Fim do dia das taxas para o ciclo de faturação da subscrição. Se a subscrição for comprada com um prazo anual de faturação e um plano de faturação mensal, então no primeiro ficheiro de reconciliação, este é o 30º dia após a compra da subscrição. Começando com o próximo ficheiro de reconciliação, será aumentado por 30 dias. | *30/9/2020* |
 | TermAndBillingCycle | O compromisso de duração para continuar a subscrição no momento da compra. | *Dados Armazenados (GB/Mês)* |
-| EffectiveUnitPrice | O preço unitário proscedido para calcular o custo do ciclo de faturação. Descontos, ajustes nos dias de faturação e outros fatores determinam o preço unitário efetivo. Para obter mais informações, consulte [o Cálculo Efetivo do Preço Unitário](/partner-center/effective-unit-price-calculation).  | *0.03825* |
+| EffectiveUnitPrice | O preço unitário proscedido para calcular o custo do ciclo de faturação. Descontos, ajustes nos dias de faturação e outros fatores determinam o preço unitário efetivo. Para obter mais informações, consulte [o Cálculo Efetivo do Preço Unitário](./effective-unit-price-calculation.md).  | *0.03825* |
 | UnitType | O tipo de unidade em que o contador é carregado. | *1 GB/Mês* |
 | AlternateId | A identificação alternativa do item da linha de encomenda referenciada. | *6dc5c039750a* |
 | BillableQuantity | A quantidade total a ser cobrada.  | *0.005001* |

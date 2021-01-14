@@ -6,12 +6,12 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: 89ed8850d92861ea7da2d83a9945980f0ca71daa
-ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
+ms.openlocfilehash: 06797fb221763b7173fb07925366bb27e44afe04
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "95007651"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182533"
 ---
 # <a name="what-is-azure-marketplace"></a>O que é o Azure Marketplace?
 
@@ -59,11 +59,11 @@ Para pagamento, existem algumas opções:
 - Cartão de crédito
 - Fatura (com o contrato de compra existente da Microsoft)
 
-As compras do Azure Marketplace são automaticamente adicionadas à sua conta Azure e cobradas ao método de pagamento associado à conta. Para obter ajuda para associar diferentes contas de pagamento, consulte [o tipo de conta de faturação](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-azure-marketplace-charges#check-billing-account-type) no tópico de **encargos externos Azure.**
+As compras do Azure Marketplace são automaticamente adicionadas à sua conta Azure e cobradas ao método de pagamento associado à conta. Para obter ajuda para associar diferentes contas de pagamento, consulte [o tipo de conta de faturação](/azure/cost-management-billing/understand/understand-azure-marketplace-charges#check-billing-account-type) no tópico de **encargos externos Azure.**
 
 ## <a name="certification-and-security"></a>Certificação e segurança
 
-Todos os produtos disponíveis no Azure Marketplace foram certificados de acordo com critérios específicos. Ainda o encorajamos a rever cada produto cuidadosamente para garantir que ele cumpre os requisitos únicos da sua organização. Para conhecer as políticas de certificação que revemos para cada tipo de oferta, consulte as políticas de [certificação](https://docs.microsoft.com/legal/marketplace/certification-policies)do mercado comercial.
+Todos os produtos disponíveis no Azure Marketplace foram certificados de acordo com critérios específicos. Ainda o encorajamos a rever cada produto cuidadosamente para garantir que ele cumpre os requisitos únicos da sua organização. Para conhecer as políticas de certificação que revemos para cada tipo de oferta, consulte as políticas de [certificação](/legal/marketplace/certification-policies)do mercado comercial.
 
 ## <a name="terms-and-conditions"></a>Termos e condições
 
@@ -75,7 +75,7 @@ Todas as páginas de produtos apresentam classificações e avaliações de outr
 
 :::image type="content" source="media/azure-marketplace/app-reviews.png" alt-text="Um exemplo de avaliações de aplicações.":::
 
-## <a name="next-steps"></a>Próximos passos
+## <a name="next-steps"></a>Passos seguintes
 
 - [Compra do Azure Marketplace](azure-purchasing-invoicing.md)
-- [O que é Microsoft AppSource?](appsource-overview.md)
+- [O que é o Microsoft AppSource?](appsource-overview.md)

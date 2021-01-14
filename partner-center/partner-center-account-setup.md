@@ -9,12 +9,12 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0a59849fdf1937c1a4ec5d619a95f9321fe58fa0
-ms.sourcegitcommit: 455894365fa488368f7572ac72312e84a267ef5e
+ms.openlocfilehash: 3c5541323d691799d3f89b94ed9556c2458c737d
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "97011536"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182465"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Gerir a sua conta Partner Center - perfil da empresa, informações bancárias, funções, permissões e muito mais
 
@@ -122,9 +122,9 @@ Existem muitos programas do Partner Center disponíveis. Cada programa tem difer
 
 Para saber mais sobre a inscrição em determinados programas do Partner Center, consulte a seguinte lista parcial:
 
-- [Programa de Marketplace Comercial](https://docs.microsoft.com/azure/marketplace/partner-center-portal/create-account)
+- [Programa de Marketplace Comercial](/azure/marketplace/partner-center-portal/create-account)
 - [Benefícios de adesão à Microsoft Partner Network](mpn-overview.md)
-- [Programa CSP](https://docs.microsoft.com/partner-center/enrolling-in-the-csp-program)
+- [Programa CSP](./enrolling-in-the-csp-program.md)
 - [Loja de Escritórios](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/office)
 
 Para saber mais sobre a inscrição nos programas do Partner Center, consulte também [os recursos de rede partner.](https://partner.microsoft.com/)

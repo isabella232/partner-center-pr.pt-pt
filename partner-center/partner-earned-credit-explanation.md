@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3acc078b3de3c0443ee64fdaaba2d486d9c466c8
-ms.sourcegitcommit: e9066768ab8e242c03f0a7e3ce460ae8cd2e3fda
+ms.openlocfilehash: f274103feeadfa6fd135f99632f3013c29601972
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "97622172"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182414"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>Como o crédito de parceiro ganho é calculado e pago
 
@@ -36,7 +36,7 @@ Para receber o parceiro auferido crédito (PEC), aplicam-se os seguintes requisi
 
 - Você deve ter um acordo mPN ativo e papel válido de controlo de acesso baseado em funções (RBAC) para receber crédito ganho pelos ativos Azure que você gere.
 
-- Deve ter controlo operacional 24x7 e gestão dos recursos Azure do cliente em CSP. Isto significa que deve ter privilégios administrativos na subscrição Azure do cliente, grupo de recursos Azure, recurso Azure. No caso dos fornecedores indiretos e dos seus revendedores indiretos, o fornecedor indireto será elegível para o PEC se o fornecedor indireto ou o revendedor indireto tiverem esse controlo operacional. Para saber mais sobre isto, consulte [os privilégios de administração da Reinstate para as assinaturas Azure CSP](https://docs.microsoft.com/partner-center/revoke-reinstate-csp).
+- Deve ter controlo operacional 24x7 e gestão dos recursos Azure do cliente em CSP. Isto significa que deve ter privilégios administrativos na subscrição Azure do cliente, grupo de recursos Azure, recurso Azure. No caso dos fornecedores indiretos e dos seus revendedores indiretos, o fornecedor indireto será elegível para o PEC se o fornecedor indireto ou o revendedor indireto tiverem esse controlo operacional. Para saber mais sobre isto, consulte [os privilégios de administração da Reinstate para as assinaturas Azure CSP](./revoke-reinstate-csp.md).
 
 - Além dos requisitos acima referidos, o PEC só é aplicável aos serviços listados no preço de consumo do plano Azure, que pode exportar a partir da página de preços do [plano Azure.](https://partner.microsoft.com/commerce/sales)
 
@@ -48,13 +48,13 @@ Para receber o parceiro auferido crédito (PEC), aplicam-se os seguintes requisi
 
 - O PEC é ganho até ao nível de recursos Azure. Se tiver acesso válido a nível de subscrição ou grupo de recursos, cada recurso que se ause até à entidade superior ganhará PEC.
 
-- Os detalhes sobre o PEC também estão disponíveis na página [de gestão do Custo Azure.](https://docs.microsoft.com/azure/cost-management-billing/costs/get-started-partners)
+- Os detalhes sobre o PEC também estão disponíveis na página [de gestão do Custo Azure.](/azure/cost-management-billing/costs/get-started-partners)
 
 ### <a name="calculation"></a>Cálculo
 
 O PEC é calculado diariamente e pode ser visto no ficheiro de utilização diária e no ficheiro mensal de reconhecimento de fatura. Um parceiro (fornecedor indireto ou revendedor indireto) deve ter acesso durante todo o dia (24x7) para garantir que obtém PEC. O PEC é calculado diariamente com base nos ativos geridos da Azure. O PEC máximo para um determinado período de faturação (Mês) é de 15%. Os parceiros que mantêm o acesso privilegiado persistente ao longo do mês (período de acesso) e para todos os recursos elegíveis (âmbito de acesso) ganharão PEC total de 15%. A redução do âmbito e do alcance resultará numa taxa de PEC mais baixa para o mês. O ficheiro de utilização avaliado diariamente mostra diariamente um ativo Azure, quer o PEC seja aplicado ou não. Os parceiros também podem inscrever-se em alertas para monitorizar as alterações ao acesso privilegiado persistente.
 
-## <a name="azure-cost-management"></a>Gestão de Custos do Azure
+## <a name="azure-cost-management"></a>Azure Cost Management
 
 A Azure Cost Management (ACM) utilizando a Análise de Custos permite-lhe, como parceiro, visualizar os custos que receberam o benefício da PEC.  
 
