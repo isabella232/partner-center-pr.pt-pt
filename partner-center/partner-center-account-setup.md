@@ -1,7 +1,7 @@
 ---
 title: Gerir a sua conta do Centro de Parceiros
 ms.topic: conceptual
-ms.date: 11/20/2020
+ms.date: 01/14/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Saiba como usar o Partner Center para gerir o perfil da sua empresa, informações bancárias e fiscais, funções, permissões e muito mais.
@@ -9,16 +9,17 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3c5541323d691799d3f89b94ed9556c2458c737d
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: 9c1a17b6703981dee93acbb057bff2405d1f4f11
+ms.sourcegitcommit: 7d15e9bdb93a780886f588d294383d33c70a49f0
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182465"
+ms.lasthandoff: 01/15/2021
+ms.locfileid: "98235975"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Gerir a sua conta Partner Center - perfil da empresa, informações bancárias, funções, permissões e muito mais
 
-**Funções apropriadas** - administrador global, administrador mpn
+**Funções apropriadas** - administração global
+- Administrador de conta MPN
 
 A conta que cria no Partner Center quando se inscreve é o seu email de trabalho mais as informações do seu negócio. Depois de criar uma conta, terminará a configuração do perfil completo da sua empresa, incluindo detalhes de suporte, isenções de impostos de arquivo, se for caso disso, e informações de contacto primários. A conta da sua empresa também incluirá contas de utilizador para quem utilizar o Partner Center para adicionar ou gerir clientes, vender subscrições, trabalhar com faturação e faturação, criar perfis de negócio, gerir referenciações, trabalhar com programas de incentivos e fornecer apoio.
 
@@ -60,6 +61,10 @@ Use estas páginas para gerir áreas aprofundadas do seu negócio, incluindo o p
 ### <a name="legal-info"></a>Informação legal
 
 Quando se junta ao Partner Center, a sua empresa passa por um processo de verificação com a Microsoft. Pode acompanhar o estado da sua verificação na página **de informações legais.** Mostra o contacto principal (a quem a Microsoft entrará em contacto em relação a questões de parceiros) bem como o contacto jurídico primário (a pessoa que gere as suas informações legais e o seu estado). Todos os locais de negócios da sua empresa estão listados e podem ser adicionados aqui.
+
+### <a name="primary-contact-email"></a>E-mail de contato primário
+
+O e-mail de contacto principal é o que usaremos para o notificar sobre a verificação da sua conta. É muito importante que o e-mail que fornece para o contacto primário seja aquele que é regularmente gerido e vigiado.  
 
 Saiba mais sobre [a Verificação e informações sobre a sua conta.](verification-responses.md)
 

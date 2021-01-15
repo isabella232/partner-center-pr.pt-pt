@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/07/2021
-ms.openlocfilehash: 042ef617bfde17c1a28ab91d89ae9151e339cefc
-ms.sourcegitcommit: 0e8abea7445b7d3f0c4a6320380ecc7d0ef049f9
+ms.openlocfilehash: f92b801d5e3294e461d07f9089b545a41efc4d6a
+ms.sourcegitcommit: 7d15e9bdb93a780886f588d294383d33c70a49f0
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/11/2021
-ms.locfileid: "98062455"
+ms.lasthandoff: 01/15/2021
+ms.locfileid: "98235941"
 ---
 # <a name="january-2021-announcements"></a>Anúncios de janeiro de 2021
 
@@ -23,6 +23,24 @@ Esta página detalha os anúncios para o Microsoft Partner Center para janeiro d
 Anúncios de 2021: janeiro
 
 Anúncios de 2020: [maio](2020-may.md)  |  [junho julho](2020-june.md)  |  [](2020-july.md)  |  [agosto](2020-august.md)  |  [setembro](2020-september.md)  |  [](2020-October.md)  |  [dezembro](2020-november.md)  |  [](2020-december.md)  
+
+_____________ 
+
+## <a name="commercial-pricing-update-for-norwegian-krone"></a><a name="7"></a>Atualização dos preços comerciais para a coroa norueguesa 
+
+### <a name="categories"></a>Categorias
+
+- Data: 2021-01-14
+- Ofertas/Mercados
+
+### <a name="impacted-audience"></a>Audiência impactada
+
+Parceiros cloud Solution Provider usando a coroa norueguesa.
+
+### <a name="details"></a>Detalhes
+
+A partir de 1 de março de 2021, os preços da coroa norueguesa para software comercial no local e serviços online vão mudar para realinhar-se com os níveis de preços prevalecentes na região.
+O anúncio completo está disponível apenas para parceiros da Microsoft. [Inscreva-se para aceder ao anúncio completo.](https://partner.microsoft.com/resources/detail/pricing-update-norway-partners-pdf)
 
 _____________ 
 
@@ -78,7 +96,7 @@ Estas ofertas estarão disponíveis para clientes Comerciais, Estudantes, Docent
    |Microsoft 365 Plano de Chamada Doméstica para estudantes para EUA e Canadá|1f4b4375-3185-40cf-b044-117fe3b102c6|LM7-00007|
    |Microsoft 365 Plano de Chamada Doméstica para GCC para EUA e Canadá|594ed84e-ddf8-4e40-9726-76c04bd29e3b|LM9-00023|
 
-### <a name="next-steps"></a>Próximos passos
+### <a name="next-steps"></a>Passos seguintes
 
 - Partilhe esta informação com os contactos relevantes na sua organização e compreenda as oportunidades de venda e venda cruzada. 
 - Reveja a secção de recursos do [Guia de Parceiros de Equipas.](https://aka.ms/teamscallingmeetingsguide)
@@ -116,7 +134,7 @@ As moedas tiveram impacto:
 
 Os parceiros devem fazer referência às listas de preços de pré-visualização atualmente disponíveis de janeiro e fevereiro para os preços corretos. 
 
-### <a name="next-steps"></a>Próximos passos
+### <a name="next-steps"></a>Passos seguintes
 
 - Os parceiros devem descarregar os mais recentes ficheiros da lista de preços do Centro de Parceiros para obter os preços corrigidos de janeiro e fevereiro. 
 - Os administradores globais para inquilinos com impacto que tenham adquirido subscrições entre 1 de janeiro e 6 de janeiro serão notificados através de um email do Partner Center antes do final de janeiro com mais detalhes. 
@@ -170,7 +188,7 @@ Esta atualização reduzirá a complexidade e a sobrecarga com a faturação mul
 - Os parceiros notarão uma reduzida complexidade de faturação causada pela faturação multi-moeda, que libertará tempo e recursos atualmente associados à conciliação das contas
 - Para os parceiros que ainda não adotaram novas ofertas de comércio, esta mudança alinha-se com o anterior modelo de faturação de parceiros, permitindo aos parceiros fazerem uma transição mais fácil para a nova experiência de comércio na CSP
 
-### <a name="next-steps"></a>Próximos passos
+### <a name="next-steps"></a>Passos seguintes
 
 Reveja as informações sobre este tópico na Galeria de [Operações](https://partner.microsoft.com/resources/collection/eu-efta-changes-collection#/) (inscrição obrigatória) no site do parceiro da Microsoft.  
 
@@ -195,7 +213,7 @@ Parceiros que vendem ofertas académicas através do programa Cloud Solution Pro
 
 Este é um seguimento das melhorias da API lançadas em dezembro de 2020. Em dezembro de 2020 foram lançadas novas APIs GET e POST Qualifications, e consequentemente as antigas APIs get e PUT Qualification serão retiradas até ao final de fevereiro de 2021. Nessa altura, terá de utilizar as novas APIs do Get and POST Partner Center para poder comprar ofertas de Educação. 
 
-### <a name="next-steps"></a>Próximos passos
+### <a name="next-steps"></a>Passos seguintes
 
 - Se ainda não o fez, atualize as novas APIs para uma transição bem sucedida e oportuna.
 - Reveja as novas alterações da API do Centro parceiro e [Guia nos recursos de Prontidão de Operações: Melhorias do processo de validação do processo de validação do cliente do Partner Center Education](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/).
@@ -259,7 +277,7 @@ Estes SKUs foram removidos da lista final de preços de 1 de janeiro de 2021 e n
    |Dinâmica 365 Operações – Dispositivo para Programa de Migração AX|8c8b7c8f-cb3a-4737-8319-1752938c7be3|
    |Dinâmica 365 Membros da equipa para o Programa de Migração AX|1eb3ad0b-9de3-419d-8bfe-0d61bddd945b2|
 
-### <a name="next-steps"></a>Próximos passos
+### <a name="next-steps"></a>Passos seguintes
 
 Reveja os recursos sobre este tema e partilhe-os com as partes interessadas apropriadas na sua organização. 
 

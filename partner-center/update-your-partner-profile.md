@@ -9,12 +9,12 @@ ms.topic: how-to
 ms.date: 01/14/2021
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3b0c9611927d644cc7a5beecc89e0a8cc6f066b7
-ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
+ms.openlocfilehash: 3dc16fe12a722a7e926dcb72d46eeb9be6b7d4ea
+ms.sourcegitcommit: 7d15e9bdb93a780886f588d294383d33c70a49f0
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98215888"
+ms.lasthandoff: 01/15/2021
+ms.locfileid: "98235924"
 ---
 # <a name="verify-your-organization-profile-information-in-partner-center"></a>Verifique as informações do seu perfil de organização no Partner Center
 
@@ -27,8 +27,9 @@ A primeira vez que assinar no Partner Center como administrador global, deve con
 
 O seu perfil de parceiro consiste na informação de negócios legal, nome de contacto primário e e-mail, nos programas em que a sua empresa participa e, se relevante, das suas outras empresas que estão agora fundidas no âmbito do seu negócio legal. Certifique-se de que o nome e endereço da Empresa no seu perfil de negócio legal estão isentos de erros ortográficos e abreviaturas e corresponda exatamente aos seus registos formais de registo comercial da empresa. Se estiver a operar como proprietário único, tem de usar o nome da sua empresa como nome legal.
 
-- Para as contas MPN, tanto o administrador global como o administrador de conta podem atualizar o nome da empresa legal.
-- Para contas de revendedores indiretos da CSP, o administrador Global pode atualizar o nome da empresa legal. 
+>[!Important]
+>- Para as contas MPN, tanto o administrador global como o administrador de conta podem atualizar o nome da empresa legal.
+>- Para contas de revendedores indiretos da CSP, o administrador Global pode atualizar o nome da empresa legal. 
 
 ## <a name="locate-the-legal-business-profile"></a>Localize o perfil de negócio legal
 
@@ -83,12 +84,7 @@ Se você é o administrador global, administrador de faturação ou agente admin
 
 ## <a name="next-steps"></a>Passos seguintes
 
-
 - [Verifique o seu estado de verificação](verification-responses.md)
  
 - [Gerir localizações de MPN](manage-locations.md)
 
-
-
-Para o programa MPN, o Administrador Global e a Administração de Contas podem atualizar o nome da empresa legal.
-Para o Revendedor Indireto CSP, a Global Admin pode atualizar o nome da empresa legal.
