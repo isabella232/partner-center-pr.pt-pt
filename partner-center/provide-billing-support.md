@@ -9,30 +9,27 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 82eaf215bcbc107da6a3f9f5049e4eb89c952ab0
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 11a17550ed5c0ab2154ec0daa03818236b26e820
+ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "92529187"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "98215939"
 ---
 # <a name="provide-billing-support-for-your-customers-and-help-answer-their-billing-questions"></a>Fornecer suporte de faturação para os seus clientes e ajudar a responder às suas questões de faturação
 
-**Aplica-se a**
-
-- Partner Center
-- Centro de Parceiros para Microsoft Cloud para governo dos EUA
 
 **Funções adequadas**
+
 - Administrador global
 - Administrador de utilizadores
 - Agente helpdesk
 - Administrador de faturação
 - Agente comercial
 
-É dono da relação de faturação com os seus clientes e é responsável por responder a questões relacionadas com a faturação dos seus clientes.
+É dono da relação de faturação com os seus clientes, e é responsável por responder às questões relacionadas com a faturação que os seus clientes podem ter.
 
-- É responsável pelo pagamento a tempo à Microsoft.
+- É responsável pelos pagamentos a tempo à Microsoft.
 
 - Recomendamos estabelecer uma política clara de cobranças com os clientes que detalham o processo de recolha e quando o acesso às subscrições, serviços ou software do cliente será impactado.
 
@@ -59,11 +56,14 @@ Os parceiros são obrigados a receber pedidos de apoio de entrada dos clientes, 
 
 ### <a name="providing-billing-subscription-management-and-technical-support"></a>Prestação de faturação, gestão de subscrições e suporte técnico 
 
-Cada serviço online tem requisitos específicos e detalhados para fornecer faturação, gestão de subscrição e suporte técnico aos clientes. Para obter mais informações, consulte:
+Cada serviço online tem requisitos específicos e detalhados para fornecer faturação, gestão de subscrição e suporte técnico aos clientes. Para obter mais informações, veja:
 
 - [Dinâmica 365 subscrições vendidas através da CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
 
 - [Assinaturas Azure vendidas através da CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
 
 - [Escritório 365 assinaturas vendidas através da CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
- 
+ 
+## <a name="next-steps"></a>Passos seguintes
+
+- [Fornecer suporte técnico](provide-technical-support.md)

@@ -6,15 +6,15 @@ description: Saiba como verificar os detalhes da sua empresa, como contacto prim
 author: parthpandyaMSFT
 ms.author: parthp
 ms.topic: how-to
-ms.date: 12/17/2020
+ms.date: 01/14/2021
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 938713a08b52d7f5d601ef7801f300eec223b921
-ms.sourcegitcommit: 37c421eac547f6d9c2f5c8460a40f736ec8b8841
+ms.openlocfilehash: 3b0c9611927d644cc7a5beecc89e0a8cc6f066b7
+ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "97666796"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "98215888"
 ---
 # <a name="verify-your-organization-profile-information-in-partner-center"></a>Verifique as informações do seu perfil de organização no Partner Center
 
@@ -27,6 +27,11 @@ A primeira vez que assinar no Partner Center como administrador global, deve con
 
 O seu perfil de parceiro consiste na informação de negócios legal, nome de contacto primário e e-mail, nos programas em que a sua empresa participa e, se relevante, das suas outras empresas que estão agora fundidas no âmbito do seu negócio legal. Certifique-se de que o nome e endereço da Empresa no seu perfil de negócio legal estão isentos de erros ortográficos e abreviaturas e corresponda exatamente aos seus registos formais de registo comercial da empresa. Se estiver a operar como proprietário único, tem de usar o nome da sua empresa como nome legal.
 
+- Para as contas MPN, tanto o administrador global como o administrador de conta podem atualizar o nome da empresa legal.
+- Para contas de revendedores indiretos da CSP, o administrador Global pode atualizar o nome da empresa legal. 
+
+## <a name="locate-the-legal-business-profile"></a>Localize o perfil de negócio legal
+
 1. Aceda ao ícone **Definições** e selecione **as definições de Conta**.
  
 1. Selecione **perfil de Organização**. 
@@ -37,15 +42,15 @@ Se fundiu as suas outras empresas no âmbito do seu negócio legal, também pode
 
 ## <a name="update-your-legal-business-profile"></a>Atualize o seu perfil de negócio legal
 
-Pode agora atualizar o seu endereço legal no Partner Center.
+Atualize o seu endereço legal no Partner Center.
 
-1. Vá a **Definições** e selecione **perfil de Organização**
+1. Vá a **Definições** e selecione **perfil de Organização**.
 
 
 2. Selecione **Legal**  e, em seguida, selecione o perfil de negócio legal que pretende usar.
 
 >[!Important]
->Se é um parceiro do Cloud Solution Provider (CSP), não pode alterar o país associado ao seu endereço legal. O seu país de endereço legal está ligado ao seu inquilino e serviços, bem como à moeda com que negoceia. Se não estiver no programa CSP, pode alterar o país associado ao seu endereço legal. O nome da empresa legal não pode ser atualizado no Partner Center se o seu estado de verificação for "Autorizado". Você precisará [criar um bilhete de apoio](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772).
+>Se é um parceiro do Cloud Solution Provider (CSP), não pode alterar o país associado ao seu endereço legal. O seu país de endereço legal está ligado ao seu inquilino e serviços, bem como à moeda com que negoceia. Se não estiver no programa CSP, pode alterar o país associado ao seu endereço legal. O nome da sociedade legal não pode ser atualizado no Partner Center se o seu estado de validação for "Autorizado". Se precisar de alterar o nome, terá de [criar um bilhete de Apoio.](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772)
 
 3. Quando selecionar Enviar por **email** o artigo Submeter-se, a sua identidade legal será reavaliada e receberá outro e-mail que terá de aceitar.
 
@@ -85,3 +90,5 @@ Se você é o administrador global, administrador de faturação ou agente admin
 
 
 
+Para o programa MPN, o Administrador Global e a Administração de Contas podem atualizar o nome da empresa legal.
+Para o Revendedor Indireto CSP, a Global Admin pode atualizar o nome da empresa legal.

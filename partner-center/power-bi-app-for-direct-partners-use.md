@@ -10,18 +10,16 @@ author: v-sumukh
 ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 248527fdbc536c552f7b2d00f208838b4ef19085
-ms.sourcegitcommit: 0a6b1e6d845391539f54213efff00af4d23f028c
+ms.openlocfilehash: 244cb852728d47360cf8ecd1d1e9ccb641466b1d
+ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "92529208"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "98215752"
 ---
 # <a name="view-your-business-data-with-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Veja os seus dados de negócio com a aplicação Partner Center Analytics para Microsoft Power BI
 
-**Aplica-se a**
 
-- Partner Center
 
 **Funções adequadas**
 
@@ -58,27 +56,27 @@ Obtenha uma representação visual dos seus dados de negócio com a aplicação 
 
 ### <a name="business-insights-report"></a>Relatório de Insights de Negócios
 
-- **Inquilinos do cliente** : Número de inquilinos distintos da AZure AD de clientes que adquiriram assinaturas
+- **Inquilinos do cliente**: Número de inquilinos distintos da AZure AD de clientes que adquiriram assinaturas
 
-- **Novo (últimos 30 dias)** : Novos clientes que compram pelo menos uma subscrição nos últimos 30 dias
+- **Novo (últimos 30 dias)**: Novos clientes que compram pelo menos uma subscrição nos últimos 30 dias
 
-- **Churn (últimos 30 dias)** : Clientes sem assinaturas "ativas", "em graça" ou "desativadas"
+- **Churn (últimos 30 dias)**: Clientes sem assinaturas "ativas", "em graça" ou "desativadas"
 
-- **Novo (últimas 24 horas)** : Novos clientes que compram pelo menos uma subscrição nas últimas 24 horas
+- **Novo (últimas 24 horas)**: Novos clientes que compram pelo menos uma subscrição nas últimas 24 horas
 
-- **Custo mensal estimado nos últimos 12 meses** : Mês ao longo do mês tendência da fatura estimada antes de impostos valor do dólar agregado mensalmente durante o período dos últimos 12 meses
+- **Custo mensal estimado nos últimos 12 meses**: Mês ao longo do mês tendência da fatura estimada antes de impostos valor do dólar agregado mensalmente durante o período dos últimos 12 meses
 
-- **Custo estimado por produto ao longo dos últimos 12 meses** : Produtos vendidos classificados pela estimativa de fatura de imposto em dólares agregados durante o período dos últimos 12 meses. Este estatuto indica que os produtos de topo trazem a maioria das receitas.
+- **Custo estimado por produto ao longo dos últimos 12 meses**: Produtos vendidos classificados pela estimativa de fatura de imposto em dólares agregados durante o período dos últimos 12 meses. Este estatuto indica que os produtos de topo trazem a maioria das receitas.
 
-- **Clientes nos últimos 12 meses** : Mês ao longo do mês tendência de novos clientes e clientes agregados mensalmente ao longo do período dos últimos 12 meses
+- **Clientes nos últimos 12 meses**: Mês ao longo do mês tendência de novos clientes e clientes agregados mensalmente ao longo do período dos últimos 12 meses
 
-- **Custo estimado pelo cliente ao longo dos últimos 12 meses** : Clientes classificados pelo valor estimado da fatura antes de impostos em dólares agregados ao longo do período dos últimos 12 meses. Este estado indica que os principais clientes trazem a maioria das receitas.
+- **Custo estimado pelo cliente ao longo dos últimos 12 meses**: Clientes classificados pelo valor estimado da fatura antes de impostos em dólares agregados ao longo do período dos últimos 12 meses. Este estado indica que os principais clientes trazem a maioria das receitas.
 
-- **Contagem de clientes por produto** : Produtos vendidos por clientes associados. Este estado indica produtos de topo vendidos à maioria dos clientes.
+- **Contagem de clientes por produto**: Produtos vendidos por clientes associados. Este estado indica produtos de topo vendidos à maioria dos clientes.
 
 ### <a name="subscription-insights-report"></a>Relatório de Insights de Subscrição
 
-- **Estado da subscrição** :
+- **Estado da subscrição**:
 
 - Ativo: Assinaturas pertencentes ao estado "ativo" ou "em graça"
 
@@ -94,75 +92,75 @@ Obtenha uma representação visual dos seus dados de negócio com a aplicação 
 
   - Expiração em 30 dias: Assinaturas que caducarão nos próximos 30 dias (onde a data de fim da subscrição é entre hoje e os próximos 30 dias)
 
-- **Total de assinaturas** : Assinaturas em estado "ativo", "em graça" ou "deficiente"
+- **Total de assinaturas**: Assinaturas em estado "ativo", "em graça" ou "deficiente"
 
-- **Novidade (últimos 30 dias)** : Novas subscrições compradas pelos clientes nos últimos 30 dias
+- **Novidade (últimos 30 dias)**: Novas subscrições compradas pelos clientes nos últimos 30 dias
 
-- **Novidade (últimas 24 horas)** : Novas subscrições compradas pelos clientes nas últimas 24 horas
+- **Novidade (últimas 24 horas)**: Novas subscrições compradas pelos clientes nas últimas 24 horas
 
-- **Expiração em 30 dias** : Assinaturas que caducarão nos próximos 30 dias
+- **Expiração em 30 dias**: Assinaturas que caducarão nos próximos 30 dias
 
-- **Churn (últimos 30 dias)** : Assinaturas que tenham sido desavisionadas ou suspensas (desativadas) nos últimos 30 dias
+- **Churn (últimos 30 dias)**: Assinaturas que tenham sido desavisionadas ou suspensas (desativadas) nos últimos 30 dias
 
-- **Distribuição por tipos de subscrição** : % distribuição de subscrições totais por tipo de subscrição baseada em licença e por uso
+- **Distribuição por tipos de subscrição**: % distribuição de subscrições totais por tipo de subscrição baseada em licença e por uso
 
-- **Contagem ativa de subscrição por produto** : Produtos vendidos classificados por subscrições ativas contam
+- **Contagem ativa de subscrição por produto**: Produtos vendidos classificados por subscrições ativas contam
 
-- **Assinaturas ao longo dos últimos 12 meses** : Mês ao longo do mês tendência de novas subscrições e subscrições de churn agregadas mensalmente ao longo do período dos últimos 12 meses
+- **Assinaturas ao longo dos últimos 12 meses**: Mês ao longo do mês tendência de novas subscrições e subscrições de churn agregadas mensalmente ao longo do período dos últimos 12 meses
 
 - **Detalhes da subscrição** do cliente : Vista detalhada dos clientes, subscrições e ofertas
 
 ### <a name="license-insights-report"></a>Relatório de Insights de Licença:
 
-- **Total de licenças** : Número total de licenças agregadas em todas as subscrições baseadas em licenças
+- **Total de licenças**: Número total de licenças agregadas em todas as subscrições baseadas em licenças
 
-- **Novo (últimos 30 dias)** : Adição de licença nos últimos 30 dias
+- **Novo (últimos 30 dias)**: Adição de licença nos últimos 30 dias
 
-- **Churn (últimos 30 dias)** : Redução da licença nos últimos 30 dias
+- **Churn (últimos 30 dias)**: Redução da licença nos últimos 30 dias
 
-- **Novo (último 24 horas)** : Adição de licença nas últimas 24 horas
+- **Novo (último 24 horas)**: Adição de licença nas últimas 24 horas
 
-- **Licenças nos últimos 90 dias** : Mês ao longo do mês tendência de aditamentos e reduções de licenças agregadas mensalmente durante o período dos últimos 90 dias
+- **Licenças nos últimos 90 dias**: Mês ao longo do mês tendência de aditamentos e reduções de licenças agregadas mensalmente durante o período dos últimos 90 dias
 
-- **Contagem de licença ativa por produto** : Produtos vendidos classificados por contagem de licença ativa
+- **Contagem de licença ativa por produto**: Produtos vendidos classificados por contagem de licença ativa
 
-- **Contagem de licença ativa por cliente** : Clientes classificados por contagem de licença ativa
+- **Contagem de licença ativa por cliente**: Clientes classificados por contagem de licença ativa
 
-- Detalhes do evento da licença do cliente ao longo dos **últimos 90 dias** : Vista detalhada dos clientes, subscrições e eventos de subscrição, incluindo data do evento, nome do evento, quantidade e alteração de quantidade.
+- Detalhes do evento da licença do cliente ao longo dos **últimos 90 dias**: Vista detalhada dos clientes, subscrições e eventos de subscrição, incluindo data do evento, nome do evento, quantidade e alteração de quantidade.
 
 ### <a name="licenses-usage-report"></a>Relatório de utilização das licenças:
 
-- **Licenças atribuídas por produto** : Produtos vendidos classificados por contagem de atribuição de licença
+- **Licenças atribuídas por produto**: Produtos vendidos classificados por contagem de atribuição de licença
 
-- **Licenças em uso por produto** : Produtos vendidos classificados por contagem de utilização de licença
+- **Licenças em uso por produto**: Produtos vendidos classificados por contagem de utilização de licença
 
-- **Distribuição de clientes das licenças atribuídas:** % distribuição do total de clientes quebrados em baldes de 20% de intervalo por atribuição de licenças %
+- **Distribuição de clientes das licenças atribuídas:**% distribuição do total de clientes quebrados em baldes de 20% de intervalo por atribuição de licenças %
 
-- **Distribuição do cliente de licenças em uso** : % distribuição do total de clientes quebrados em baldes de 20% de intervalo por utilização de licença %
+- **Distribuição do cliente de licenças em uso**: % distribuição do total de clientes quebrados em baldes de 20% de intervalo por utilização de licença %
 
-- **Licenças atribuídas pelo cliente** : Vista detalhada das licenças vendidas e licenças atribuídas por clientes e produtos
+- **Licenças atribuídas pelo cliente**: Vista detalhada das licenças vendidas e licenças atribuídas por clientes e produtos
 
-- **Licenças em uso por cliente** : Vista detalhada das licenças vendidas e licenças em uso por clientes e produtos
+- **Licenças em uso por cliente**: Vista detalhada das licenças vendidas e licenças em uso por clientes e produtos
 
 ### <a name="azure-insights-report"></a>Relatório Azure Insights:
 
-- **Clientes baseados em uso nos últimos 12 meses** : Mês ao longo do mês tendência de novos clientes baseados em uso e clientes com base em uso agregados mensalmente durante o período dos últimos 12 meses
+- **Clientes baseados em uso nos últimos 12 meses**: Mês ao longo do mês tendência de novos clientes baseados em uso e clientes com base em uso agregados mensalmente durante o período dos últimos 12 meses
 
-- **Subscrições baseadas em uso ao longo dos últimos 12 meses** : Tendência mensal de novas subscrições baseadas em uso e subscrições baseadas em uso agregadas mensalmente durante o período dos últimos 12 meses
+- **Subscrições baseadas em uso ao longo dos últimos 12 meses**: Tendência mensal de novas subscrições baseadas em uso e subscrições baseadas em uso agregadas mensalmente durante o período dos últimos 12 meses
 
-- **Custo estimado de utilização por parte do cliente ao longo dos últimos 60 dias** : Clientes baseados no uso classificados pelo valor estimado da fatura antes de impostos em dólares agregados ao longo do período dos últimos 60 dias. Este estado indica que os clientes de topo baseados em uso trazem a maioria das receitas
+- **Custo estimado de utilização por parte do cliente ao longo dos últimos 60 dias**: Clientes baseados no uso classificados pelo valor estimado da fatura antes de impostos em dólares agregados ao longo do período dos últimos 60 dias. Este estado indica que os clientes de topo baseados em uso trazem a maioria das receitas
 
-- **Custo estimado de utilização por categoria ao longo dos últimos 60 dias** : Categorias de contadores de assinaturas baseadas em uso ordenadas por valor estimado de fatura antes de impostos em dólares agregados ao longo do período dos últimos 60 dias.
+- **Custo estimado de utilização por categoria ao longo dos últimos 60 dias**: Categorias de contadores de assinaturas baseadas em uso ordenadas por valor estimado de fatura antes de impostos em dólares agregados ao longo do período dos últimos 60 dias.
 
-- **Custo estimado de utilização por subscrição ao longo dos últimos 60 dias** : Subscrições baseadas em uso por valor estimado em dólares de fatura pré-impostos agregados ao longo do período dos últimos 60 dias.
+- **Custo estimado de utilização por subscrição ao longo dos últimos 60 dias**: Subscrições baseadas em uso por valor estimado em dólares de fatura pré-impostos agregados ao longo do período dos últimos 60 dias.
 
-- **Custo de utilização estimado pelo cliente através do orçamento de gastos** : Clientes classificados em percentagem do seu orçamento atual de despesas de utilização excedendo o limiar (100%).
+- **Custo de utilização estimado pelo cliente através do orçamento de gastos**: Clientes classificados em percentagem do seu orçamento atual de despesas de utilização excedendo o limiar (100%).
 
 ### <a name="azure-resource-usage-report"></a>Relatório de utilização de recursos Azure:
 
-- **Utilização de recursos Azure por dia durante o período selecionado** : Unidades de consumo diário para cada recurso medido em cada subscrição baseada em utilização durante o período selecionado nos últimos 60 dias.
+- **Utilização de recursos Azure por dia durante o período selecionado**: Unidades de consumo diário para cada recurso medido em cada subscrição baseada em utilização durante o período selecionado nos últimos 60 dias.
 
-- **Custo estimado de utilização dos recursos Azure para o período selecionado** : Custo estimado com base no cartão de tarifa mais recente para cada recurso medido em cada subscrição baseada em uso para o período selecionado nos últimos 60 dias. 
+- **Custo estimado de utilização dos recursos Azure para o período selecionado**: Custo estimado com base no cartão de tarifa mais recente para cada recurso medido em cada subscrição baseada em uso para o período selecionado nos últimos 60 dias. 
 
 ## <a name="next-steps"></a>Passos seguintes
 

@@ -9,19 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 11d31ba8fc33c965be7d5a6eeb4b5a32e5a4fa77
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 48521424fd695f20192e69e11a980505873768c2
+ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "92529226"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "98215871"
 ---
 # <a name="use-promotions-to-attract-new-customers-and-pass-the-savings-on-to-them"></a>Use promoções para atrair novos clientes e passe as poupanças para eles
 
-**Aplica-se a**
 
-- Partner Center
-- Parceiros no programa Cloud Solution Provider (CSP)
 
 **Funções adequadas**
 
@@ -47,16 +44,16 @@ Aproveite um momento para rever estes importantes factos sobre promoções:
 
 ## <a name="see-available-promotions"></a>Ver promoções disponíveis
 
-Pode ver para que promoções é elegível, se aplicável, na página **Promoções** . Selecione **Promoções** no menu **Partner Center** para ver uma lista de promoções atuais, juntamente com o desconto, tipo de promoção e datas de início e fim para a subscrição. Caso não estejam disponíveis promoções, verá uma mensagem a indicá-lo. 
+Pode ver para que promoções é elegível, se aplicável, na página **Promoções**. Selecione **Promoções** no menu **Partner Center** para ver uma lista de promoções atuais, juntamente com o desconto, tipo de promoção e datas de início e fim para a subscrição. Caso não estejam disponíveis promoções, verá uma mensagem a indicá-lo. 
 
 > [!NOTE]  
-> Também pode ver as promoções quando faz uma compra. Quando seleciona uma subscrição, os preços de promoção aparecem na página **Rever** .
+> Também pode ver as promoções quando faz uma compra. Quando seleciona uma subscrição, os preços de promoção aparecem na página **Rever**.
 
 ## <a name="purchase-subscriptions-at-promotion-prices"></a>Comprar subscrições a preços de promoção
 
 1. No menu **Partner Center,** selecione **Clientes** e, em seguida, selecione o cliente que está a comprar a subscrição. 
 
-2. Selecione **Adicionar subscrição** .
+2. Selecione **Adicionar subscrição**.
 
 3. Na página de **subscrição Nova,** selecione a subscrição a que a promoção se aplica.
 
@@ -67,3 +64,6 @@ Pode ver para que promoções é elegível, se aplicável, na página **Promoç�
 6. **Selecione Submeter-se** à compra. O seu cliente verá o preço de promoção na sua próxima conta.  
 
 
+## <a name="next-steps"></a>Passos seguintes
+
+- [Venda para públicos especializados](sell-to-education-customers.md)
