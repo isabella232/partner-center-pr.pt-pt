@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 01/07/2021
-ms.openlocfilehash: f92b801d5e3294e461d07f9089b545a41efc4d6a
-ms.sourcegitcommit: 7d15e9bdb93a780886f588d294383d33c70a49f0
+ms.date: 01/15/2021
+ms.openlocfilehash: 60a0f0a3c2d26d431cd4a79e606d96ae01fb50a1
+ms.sourcegitcommit: 7681c6fc51e78cba106c46a52f6bb27e1a5c1c6b
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "98235941"
+ms.lasthandoff: 01/18/2021
+ms.locfileid: "98560481"
 ---
 # <a name="january-2021-announcements"></a>Anúncios de janeiro de 2021
 
@@ -23,6 +23,112 @@ Esta página detalha os anúncios para o Microsoft Partner Center para janeiro d
 Anúncios de 2021: janeiro
 
 Anúncios de 2020: [maio](2020-may.md)  |  [junho julho](2020-june.md)  |  [](2020-july.md)  |  [agosto](2020-august.md)  |  [setembro](2020-september.md)  |  [](2020-October.md)  |  [dezembro](2020-november.md)  |  [](2020-december.md)  
+
+_____________ 
+
+## <a name="security-compliance-and-identity-sci-launches-coming-on-february-1-2021"></a><a name="9"></a>Segurança, Compliance e Identidade (SCI) estreia a 1 de fevereiro de 2021 
+
+### <a name="categories"></a>Categorias
+
+- Data: 2021-01-15
+- Ofertas/Mercados
+
+### <a name="summary"></a>Resumo
+
+Vários lançamentos da Microsoft 365 serão incluídos na pré-visualização da lista de preços em janeiro e estarão disponíveis a partir de 1 de fevereiro de 2021.
+
+### <a name="impacted-audience"></a>Audiência impactada
+
+Todos os parceiros que transacionam através do programa Cloud Solution Provider (CSP)
+
+### <a name="details"></a>Detalhes
+
+#### <a name="microsoft-365-g5-compliance-component-skus-for-government"></a>[Microsoft 365 G5 componente de conformidade SKUs para o governo](https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance)
+
+Vamos lançar três novas ofertas de componentes para clientes Government Community Cloud (GCC) e GCC High, que estarão disponíveis a partir de 1 de fevereiro de 2021. Estes SKUs serão o equivalente ao Microsoft 365 E5 Information Protection and Governance, M365 E5 Insider Risk Management e Microsoft 365 E5 eDiscovery & Audit que estão atualmente disponíveis em Comercial. 
+
+   |**Nome da oferta**|**ID da oferta**|**Material ID**|
+   |-------------------|:------|:------|
+   |Microsoft 365 E5 Proteção e Governação da Informação para O GCC|9e5397ab-f309-4d90-97f3-6fb53074d6|8QL-00002|
+   |Microsoft 365 E5 eDiscovery e Auditoria para GCC|5c9ef884-6307-47e7-a914-f5092feae51e|8RI-00002|
+   |Microsoft 365 E5 Insider Risk Management para GCC|11ccfdb3-80cb-4c80-8146-c9775045df17|8RF-00002|
+   |Microsoft 365 E5 Information Protection e DLP (add-on) para GCC|911d3177-53a9-42ec-a0e9-3b73fce527f0|8QY-00002|
+
+#### <a name="10-year-audit-log-retention-add-on"></a>[Complemento de retenção de registos de auditoria de 10 anos](https://docs.microsoft.com/microsoft-365/compliance/)
+
+Um complemento disponível com um pré-requisito do Microsoft 365 E5 permitirá que os clientes mantenham os seus dados durante 10 anos. 
+
+   |**Nome da oferta**|**ID da oferta**|**Material ID**|
+   |-------------------|:------|:------|
+   |10 anos de retenção de registos de auditoria adicionar para EDU|879b5e1a-eaa2-4ea9-a628-0b429b2e8732|8LC-00002|
+   |10 anos de auditoria Dados de Retenção de Registos Adicionam|e14ce8d1-09f4-42d2-9b5e-ee85f32e7be4|8LB-00003|
+   
+#### <a name="frontline-worker-add-ons"></a>Complementos de trabalhador da linha da frente
+
+A partir de 1 de fevereiro de 2021, os clientes podem adquirir três novas ofertas programáticas de Segurança e Conformidade para trabalhadores da linha da frente como complementos para os [SKUs microsoft 365 F1 e F3.](https://www.microsoft.com/microsoft-365/firstline-workers)
+
+Estas ofertas programáticas vão substituir a atual promoção [de Segurança e Conformidade,](https://microsoft.sharepoint.com/teams/M365LicensingNews/SitePages/Security-and-Compliance-Promotion-for-Firstline-Workers-Update.aspx) que expira a **28 de fevereiro de 2021.** Ao contrário da promoção atual, os addons F5 dão aos clientes mais previsibilidade para a previsão à medida que a sua força de trabalho de linha da frente cresce.
+
+   
+   |**Nome da oferta**|**ID da oferta**|**Material ID**|
+   |-------------------|:------|:------|
+   |Segurança Microsoft 365 F5|a8fba59e-1fc2-4658-8684-5f3d0c71c490|8RQ-00003|
+   |Conformidade microsoft 365 F5|6dc6cb1d-7bcb-4234-80cc-9c7a9cded044|8RL-00003|
+   |Microsoft 365 F5 Segurança & Compliance|ad396924-ee4e-4059-b779-efe43dfa24d2|8RU-00003|
+   
+### <a name="next-steps"></a>Passos seguintes
+
+Reveja a pré-visualização da lista de preços e partilhe com as partes interessadas apropriadas na sua organização. Para mais informações, aceda à [Microsoft Security and Compliance - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-security-and/ct-p/MicrosoftSecurityandCompliance).
+
+### <a name="questions"></a>Perguntas?
+
+Para mais perguntas sobre estas ofertas, consulte as suas comunidades Yammer relevantes. 
+
+_____________ 
+
+## <a name="docusign-migration-to-adobe-sign-for-partners-under-microsoft-partner-agreements-mpas"></a><a name="8"></a>Migração do DocuSign para Adobe Sign para parceiros ao abrigo de Acordos de Parceiros da Microsoft (MPAs) 
+
+### <a name="categories"></a>Categorias
+
+- Data: 2021-01-15
+- Capacidades
+
+### <a name="summary"></a>Resumo
+
+A Microsoft irá transitar todo o processamento de assinaturas electrónicas do DocuSign para o Adobe Sign.
+
+### <a name="impacted-audience"></a>Audiência impactada
+
+Parceiros de Cloud Solution Provider (CSP) existentes no âmbito da MPA. Parceiros na Ucrânia, Rússia e Cazaquistão serão obrigados a voltar a assinar física ou electronicamente o Rider anualmente.
+
+### <a name="details"></a>Detalhes
+
+Em fevereiro de 2021, a Microsoft começará a transitar todo o processamento de assinaturas eletrónicas do DocuSign para o Adobe Sign para parceiros CSP. 
+
+Deve esperar uma transição suave. Após a migração, receberá um e-mail adobesign@adobesign.com de , em vez de DocuSign, sempre que for necessária a sua assinatura eletrónica. Este e-mail fornecer-lhe-á um link para a página web do Adobe Sign onde terá de assinar. Os parceiros da Microsoft não terão de re-assinar acordos existentes, apenas futuros Acordos de Canal. 
+
+Pode encontrar um exemplo de um e-mail de pedido de assinatura Adobe Sign na [galeria de recursos.](https://partner.microsoft.com/resources/detail/adobe-sign-signature-request-email-pdf) 
+
+**Para uma melhor experiência, certifique-se de fazer o seguinte:**
+
+1. Adicione adobesign@adobesign.com à sua lista de remetentes seguros para evitar que os e-mails desta conta entrem diretamente na sua pasta de correio publicitário não solicitado.
+2. Trabalhe com o seu departamento de TI para:
+   - Adicione o adobesign@adobesign.com endereço de e-mail à sua lista de remetentes seguros para garantir que não está incluído em nenhuma regra de phishing pré-estabelecida.
+   - Atualize as políticas de segurança existentes para garantir que todos os destinatários necessários possam assinar documentação sob a sua licença de empresa Adobe Sign.
+
+O Adobe Sign é a solução de assinatura electrónica preferida da Microsoft (ESS). A transição para o Adobe Sign garantirá uma experiência de assinatura electrónica segura e eficiente que irá oferecer maior valor aos nossos clientes e parceiros.
+
+Para obter informações adicionais sobre como assinar eletronicamente documentos e delegação de assinatura electrónica, consulte os **seguintes tutoriais:** 
+- [Assinar eletronicamente um documento | Tutoriais de Sinal de Adobe](https://helpx.adobe.com/sign/how-to/adobe-for-signers.html?playlist=/ccx/v1/collection/product/sign/segment/designer/explevel/beginner/applaunch/continuinged/collection.ccx.js&ref=helpx.adobe.com)
+- [Delege alguém para assinar um documento | Tutoriais de Sinal de Adobe](https://helpx.adobe.com/sign/how-to/use-the-delegator-role.html?playlist=/ccx/v1/collection/product/sign/segment/designer/explevel/beginner/applaunch/orientation/collection.ccx.js&ref=helpx.adobe.com)
+
+### <a name="next-steps"></a>Passos seguintes
+
+Partilhe esta informação com as partes interessadas apropriadas na sua organização.
+
+### <a name="questions"></a>Perguntas?
+
+Se tiver alguma dúvida, contacte o seu Centro de Operações Regionais utilizando a [Ferramenta de Registo de Chamadas (CLT)](https://clt.partners.extranet.microsoft.com/CLT) ou no Explore [MS](https://www.explore.ms/). Siga o processo padrão de CLT de perto para que possamos resolver a sua consulta o mais rapidamente possível.
 
 _____________ 
 
