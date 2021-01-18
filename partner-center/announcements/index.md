@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/04/2021
-ms.openlocfilehash: 2963a27a0b189b81540cf8c955feaa6237822e0b
-ms.sourcegitcommit: 0e8abea7445b7d3f0c4a6320380ecc7d0ef049f9
+ms.openlocfilehash: 6c7255f1bece1b107d173b8f1dc8a2b77defa992
+ms.sourcegitcommit: 7d15e9bdb93a780886f588d294383d33c70a49f0
 ms.translationtype: HT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/11/2021
-ms.locfileid: "98062438"
+ms.lasthandoff: 01/15/2021
+ms.locfileid: "98235958"
 ---
 # <a name="partner-center-announcements"></a>Anúncios do Centro de Parceiros
 
@@ -22,6 +22,7 @@ Saiba mais sobre atualizações importantes do Centro de Parceiros. Estas inform
 
 | **Categoria** | **Anúncios de janeiro de 2021** | **Anunciado** |
 |---------|:---------|:---------|
+|Ofertas/Mercados|[Atualização de preços comerciais para a coroa norueguesa](2021-january.md#7)|14 de janeiro|
 |Ofertas/Mercados|[Atualização de preços comerciais para a rupia indiana](2021-january.md#6)|8 de janeiro|
 |Ofertas/Mercados|[Atualizações do Plano de Chamadas e do Sistema Telefónico para 1 de fevereiro de 2021](2021-january.md#5)|8 de janeiro|
 |Ofertas/Mercados|[Atualizações de lista de preços com base em licenças para janeiro de 2021](2021-january.md#4)|8 de janeiro|
