@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/04/2021
-ms.openlocfilehash: 6c7255f1bece1b107d173b8f1dc8a2b77defa992
-ms.sourcegitcommit: 7d15e9bdb93a780886f588d294383d33c70a49f0
+ms.openlocfilehash: bc85c2537201c3fab95541798932fe1be0a9a231
+ms.sourcegitcommit: 7681c6fc51e78cba106c46a52f6bb27e1a5c1c6b
 ms.translationtype: HT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "98235958"
+ms.lasthandoff: 01/18/2021
+ms.locfileid: "98560498"
 ---
 # <a name="partner-center-announcements"></a>Anúncios do Centro de Parceiros
 
@@ -22,6 +22,8 @@ Saiba mais sobre atualizações importantes do Centro de Parceiros. Estas inform
 
 | **Categoria** | **Anúncios de janeiro de 2021** | **Anunciado** |
 |---------|:---------|:---------|
+|Ofertas/Mercados|[Lançamentos sobre Segurança, Conformidade e Identidade (SCI) previstos para 1 de fevereiro de 2021](2021-january.md#9)|15 de janeiro|
+|Capacidades|[Migração do DocuSign para o Adobe Sign para parceiros abrangidos por Contratos de Parceiro da Microsoft (MPAs)](2021-january.md#8)|15 de janeiro|
 |Ofertas/Mercados|[Atualização de preços comerciais para a coroa norueguesa](2021-january.md#7)|14 de janeiro|
 |Ofertas/Mercados|[Atualização de preços comerciais para a rupia indiana](2021-january.md#6)|8 de janeiro|
 |Ofertas/Mercados|[Atualizações do Plano de Chamadas e do Sistema Telefónico para 1 de fevereiro de 2021](2021-january.md#5)|8 de janeiro|
