@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/04/2021
-ms.openlocfilehash: bc85c2537201c3fab95541798932fe1be0a9a231
-ms.sourcegitcommit: 7681c6fc51e78cba106c46a52f6bb27e1a5c1c6b
+ms.openlocfilehash: aa06fa03b29bb43d5b3c9d2c64e7208ebe9a9d5f
+ms.sourcegitcommit: 9bcccaf8864d8ee3c93e67691f773463f162b5f0
 ms.translationtype: HT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "98560498"
+ms.lasthandoff: 01/19/2021
+ms.locfileid: "98571657"
 ---
 # <a name="partner-center-announcements"></a>Anúncios do Centro de Parceiros
 
@@ -22,6 +22,8 @@ Saiba mais sobre atualizações importantes do Centro de Parceiros. Estas inform
 
 | **Categoria** | **Anúncios de janeiro de 2021** | **Anunciado** |
 |---------|:---------|:---------|
+|Expanda o seu Negócio|[Software permanente agora em disponibilidade geral para o programa de Fornecedor de Soluções Cloud](2021-january.md#11)|19 de janeiro|
+|Expanda o seu Negócio|[Lembrete: apresentação da limitação de APIs para parceiros que utilizam APIs do Centro de Parceiros](2021-january.md#10)|19 de janeiro|
 |Ofertas/Mercados|[Lançamentos sobre Segurança, Conformidade e Identidade (SCI) previstos para 1 de fevereiro de 2021](2021-january.md#9)|15 de janeiro|
 |Capacidades|[Migração do DocuSign para o Adobe Sign para parceiros abrangidos por Contratos de Parceiro da Microsoft (MPAs)](2021-january.md#8)|15 de janeiro|
 |Ofertas/Mercados|[Atualização de preços comerciais para a coroa norueguesa](2021-january.md#7)|14 de janeiro|
