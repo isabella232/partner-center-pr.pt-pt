@@ -1,7 +1,7 @@
 ---
 title: Vender software no local através da CSP
 ms.topic: how-to
-ms.date: 05/05/2020
+ms.date: 01/15/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como os parceiros do programa CSP podem comprar, gerir, vender e cancelar subscrições de software no local em nome dos clientes no Partner Center.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 179527f2edc710420be0b7119b758389dddf6947
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: b1d9cddd46ac6ee23a92fab41fc41b1e7eb613a1
+ms.sourcegitcommit: c46658f4d70004596e758fe4cd8671b6e9dadeab
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "92529448"
+ms.lasthandoff: 01/20/2021
+ms.locfileid: "98584164"
 ---
 # <a name="sell-on-premise-software-through-the-cloud-solution-provider-csp-program"></a>Venda de software no local através do programa Cloud Solution Provider (CSP)
 
@@ -40,17 +40,12 @@ Para comprar subscrições de software em nome de um cliente, vá à página de 
 Uma vez adquirido o seu software, você e os seus clientes precisam descarregá-lo. Utilize o seguinte procedimento para o fazer. 
 
 >[!NOTE]
->Você deve ser um agente de administração para obter chaves e downloads. 
+>Você deve ser um agente de administração para obter chaves e downloads.
 
-1. Aceda à página de detalhes do seu cliente e, em seguida, **selecione Software** . Verá uma lista de todo o software que comprou em nome do cliente. 
-2.  Expanda o produto que pretende descarregar. No campo **de produto Select,** selecione a **versão,** **idioma** e **tipo de ficheiro/sistema** que pretende. 
-3.  **Selecione Submeter-se** para exibir os produtos específicos. 
-4.  **Selecione Obter chaves e downloads** . 
-5.  Selecione **Baixar** para começar a descarregar ou selecione **Copy link** para copiar o link e enviá-lo para o cliente. 
+1. Aceda à página de detalhes do seu cliente e, em seguida, **selecione Software**. Verá uma lista de todo o software que comprou em nome do cliente.
+2. Copie o link de Link para Chaves de **Produto de Software e descarregue** e partilhe o link com o seu cliente. Quando selecionarem este link, serão redirecionados para o Portal Admin da Microsoft para descarregar e obter as chaves do produto.
 
->[!NOTE]
->Este link expirará após duas semanas ou 50 downloads, o que vier primeiro. Assim que o link expirar, volte a esta página e selecione **Obter chaves e downloads** novamente para ativar mais duas semanas ou 50 downloads. Podes fazer isto quantas vezes for preciso. 
-
+Se você ou os seus clientes quiserem saber mais sobre o download das chaves da licença, consulte as [chaves do software de descarregamento e da licença de produto.](https://go.microsoft.com/fwlink/p/?linkid=2152525)
 
 ## <a name="cancel-a-purchase"></a>Cancelar uma compra
 
@@ -65,11 +60,11 @@ Utilize o seguinte procedimento para cancelar uma compra. Uma vez que o cancelam
     - Motivo de reembolso
     - Montante solicitado
 
-2.  Na página de detalhes do cliente, selecione **Software** . Verá uma lista de todo o software que comprou. 
+2.  Na página de detalhes do cliente, selecione **Software**. Verá uma lista de todo o software que comprou. 
 
-3.  Localize o software que pretende cancelar e **selecione Cancelar** . O Relatório abre um problema com a página **do Partner Center.** 
+3.  Localize o software que pretende cancelar e **selecione Cancelar**. O Relatório abre um problema com a página **do Partner Center.** 
 
-4.  Em **Detalhes** , na lista **de problemas,** selecione **CSP Purchase/Refund em nome dos clientes** .
+4.  Em **Detalhes**, na lista **de problemas,** selecione **CSP Purchase/Refund em nome dos clientes**.
 
 5.  Preencha os campos **de Impacto** e **Título.** 
 
@@ -81,6 +76,6 @@ Utilize o seguinte procedimento para cancelar uma compra. Uma vez que o cancelam
 
 7.  No campo **Contacto,** insira o seu nome, endereço de e-mail e número de telefone. 
 
-8.  Se precisar de anexar um ficheiro por qualquer motivo, **selecione Adicionar ficheiros** . Este passo é opcional. 
+8.  Se precisar de anexar um ficheiro por qualquer motivo, **selecione Adicionar ficheiros**. Este passo é opcional. 
 
 9.  Quando terminar, **selecione Submeter.**

@@ -5,13 +5,13 @@ ms.prod: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
-ms.date: 11/20/2020
-ms.openlocfilehash: 8f7962b1b040be90f7dc1b2696a2ced3830d25b9
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.date: 01/18/2021
+ms.openlocfilehash: de58fad7af7dd2cd6b8c98e5763557d54cc776a2
+ms.sourcegitcommit: c46658f4d70004596e758fe4cd8671b6e9dadeab
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182482"
+ms.lasthandoff: 01/20/2021
+ms.locfileid: "98584198"
 ---
 # <a name="azure-marketplace-purchasing"></a>Compra do Azure Marketplace
 
@@ -60,6 +60,20 @@ Ao comprar produtos no Azure Marketplace, pretende obter insights que o ajudem a
 Pode ver as suas cobranças e faturas do Azure Marketplace na ferramenta de análise de custos do Azure Cost Management.
 
 :::image type="content" source="media/overview/azure-cost-management.png" alt-text="Use a Azure Cost Management para obter informações sobre os seus produtos adquiridos.":::
+
+## <a name="purchase-validation-checks"></a>Cheques de validação de compras
+
+A compra de uma oferta através do Azure Marketplace pode falhar por diferentes razões. A utilização da interface de linha de comando (CLI) para uma compra é mais provável que cause erros, uma vez que pode estar a tentar adquirir uma oferta que não esteja disponível ou visível no Azure Marketplace. Seguem-se os controlos que podem fazer com que uma compra falhe:
+
+1. A subscrição pertence a um Acordo de Empresa (EA) e à administração da EA desativada as compras do Azure Marketplace.
+1. O administrador da EA permitiu compras apenas para ofertas gratuitas e a oferta é uma oferta paga.
+1. A oferta não se encontra no mercado.
+1. O Fornecedor Independente de Software (ISV) deixou de vender a oferta, pelo menos na sua região.
+1. A subscrição que está a utilizar pertence a uma conta de faturação numa região onde a oferta não está disponível.
+1. A conta de subscrição/faturação não está associada a um instrumento de pagamento válido (como um cartão de crédito válido).
+1. A subscrição pertence a um Fornecedor de Solução Cloud (CSP) e o ISV recusou-se a vender através de um CSP.
+1. O Private Marketplace está habilitado para a subscrição e a oferta não está na lista de ofertas permitidas.
+1. A oferta é Privada/Pré-visualização para clientes específicos e a subscrição não está na lista de clientes autorizados.
 
 ## <a name="next-steps"></a>Passos seguintes
 

@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/15/2021
-ms.openlocfilehash: 60a0f0a3c2d26d431cd4a79e606d96ae01fb50a1
-ms.sourcegitcommit: 7681c6fc51e78cba106c46a52f6bb27e1a5c1c6b
+ms.openlocfilehash: 9b972354fb21dbdfa4780717cee54bac14acdb0e
+ms.sourcegitcommit: 9bcccaf8864d8ee3c93e67691f773463f162b5f0
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "98560481"
+ms.lasthandoff: 01/19/2021
+ms.locfileid: "98571674"
 ---
 # <a name="january-2021-announcements"></a>Anúncios de janeiro de 2021
 
@@ -24,7 +24,84 @@ Anúncios de 2021: janeiro
 
 Anúncios de 2020: [maio](2020-may.md)  |  [junho julho](2020-june.md)  |  [](2020-july.md)  |  [agosto](2020-august.md)  |  [setembro](2020-september.md)  |  [](2020-October.md)  |  [dezembro](2020-november.md)  |  [](2020-december.md)  
 
-_____________ 
+________________
+## <a name="perpetual-software-now-generally-available-for-the-cloud-solution-provider-program"></a><a name="11"></a> Software perpétuo agora geralmente disponível para o programa Cloud Solution Provider
+
+### <a name="categories"></a>Categorias
+
+- Data: 2021-01-19
+- Expanda o seu Negócio
+
+### <a name="impacted-audience"></a>Audiência impactada
+
+Todos os parceiros da CSP
+
+### <a name="details"></a>Detalhes
+
+Como [anunciado](https://blogs.partner.microsoft.com/mpn/general-availability-of-perpetual-software-licenses-in-the-cloud-solution-provider-program/) hoje, estamos entusiasmados em informá-lo que as licenças de software perpétuo comercial estão agora geralmente disponíveis para todos os parceiros da CSP para vender. A lista de preços perpétuos de software perpétuo do Partner Center CSP foi republicado e agora inclui produtos e geografias adicionais.
+
+Note também que a partir de hoje o software do Partner Center e a capacidade de cumprimento da chave de licença foi reformado e que os parceiros e clientes que vão para a frente devem usar o Microsoft 365 Admin Center para o efeito.
+Veja abaixo mais detalhes e próximos passos.
+
+### <a name="next-steps"></a>Passos seguintes
+
+- Descarregue a lista de preços **de software perpétuo CSP** na secção de **Software** da página de Ofertas de Preços & Do Centro De [Parceiros.](https://partnercenter.microsoft.com/en-us/pcv/sales) Uma lista dos produtos e geografias recém-adicionados pode ser consultada [aqui.](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf)
+- Reveja o [software perpétuo do Microsoft 365 Admin Center e as chaves da licença de produto descarreguem o artigo](https://go.microsoft.com/fwlink/p/?linkid=2152525) e partilhem com os seus clientes quando estiverem prontos para descarregar o software e as chaves de licença.
+- Reveja o software Perpetual nos materiais de prontidão [do programa Cloud Solution Provider.](https://partner.microsoft.com/resources/collection/software-in-csp#/) Use este [mapa de prontidão](https://partner.microsoft.com/resources/detail/software-in-csp-readiness-map-pdf) para localizar rapidamente as informações certas para o seu papel.
+
+### <a name="questions"></a>Perguntas?
+
+Para mais perguntas, verifique as suas comunidades CSP Yammer relevantes.
+
+_____________
+## <a name="reminder-introducingapithrottlingtopartners-calling-partner-centerapis"></a><a name="10"></a> Lembrete: Introdução do estrangulamento da API aos parceiros que chamam APIs do Partner Center 
+
+### <a name="categories"></a>Categorias
+
+- Data: 2021-01-19
+- Expanda o seu Negócio
+
+### <a name="summary"></a>Resumo
+
+A Microsoft estará a implementar o estrangulamento da API para permitir um desempenho mais consistente dentro de um período de tempo para os parceiros que chamam as APIs do Partner Center.
+
+### <a name="impacted-audience"></a>Audiência impactada
+
+Todos os parceiros que transacionam através do programa Cloud Solution Provider (CSP)  
+
+### <a name="details"></a>Detalhes
+
+A partir de fevereiro de 2021, a Microsoft estará a implementar o estrangulamento da API para permitir um desempenho mais consistente dentro de um período de tempo para os parceiros que chamam as APIs do Partner Center.O estrangulamento limita o número de pedidos a um serviço num período de tempo para evitar o uso excessivo de recursos.Quando um limiar de estrangulamento é ultrapassado, o Partner Center limita quaisquer pedidos adicionais desse cliente por um período de tempo.
+  
+**Benefícios do parceiro:** O Partner Center é projetado para lidar com um grande volume de pedidos, mas se um número esmagador de pedidos são feitos por alguns parceiros, o estrangulamento ajudará a manter o melhor desempenho e fiabilidade para todos os parceiros.  
+
+- A aceleração garante um tempo mínimo de inatividade.
+- O throttling reduz o número de pedidos de grande volume, ajudando a garantir um desempenho consistente para todos os parceiros.
+
+**APIs a ser estrangulado:**
+
+| Operação | Documentação do Centro de Parceiros |
+| ------ | ------- |
+|{baseURL}/v1/clientes/{customer_id}/subscrições  | [Assinaturas Get-all-of-a-customer-s](/partner-center/develop/get-all-of-a-customer-s-subscriptions&data) |
+|{baseURL}/v1/customers/{customer_id}/subscrições/{subscription_id}  | [Obter uma subscrição por ID](/partner-center/develop/get-a-subscription-by-id) |
+|{baseURL}/v1/clientes/{customer_id}/encomendas  | [Receba todas as encomendas de clientes](/partner-center/develop/get-all-of-a-customer-s-orders) |
+|{baseURL}/v1/customers/{customer_id}/orders/{order_id}  | [Obter encomenda por ID](/partner-center/develop/get-an-order-by-id) |
+|{baseURL}/v1/customers/{customer_id}/orders/{order_id}/provisioningstatus  | [Obter o estado de aprovisionamento da subscrição](/partner-center/develop/get-subscription-provisioning-status) |
+|{baseURL}/v1/customers/{customer_id}/subscrições/{subscription_id}  | [Gerir encomendas e gerir uma subscrição](/partner-center/develop/manage-orders#manage-a-subscription) |
+|{baseURL}/v1/customers/{customer_id}/subscrições/{subscription_id}/addons  | [Obter uma lista de suplementos para uma subscrição](/partner-center/develop/get-a-list-of-add-ons-for-a-subscription) |
+|{baseURL}/v1/customers/{customer_id}/subscrições/{subscription_id}/azureEntitlements | [Obtenha uma lista de direitos Azure para uma subscrição](/partner-center/develop/get-a-list-of-azure-entitlements-for-subscription) |
+|{baseURL}/v1/customers/{customer_id}/subscrições/{subscription_id}/registrationstatus  | [Obter o estado de registo da subscrição](/partner-center/develop/get-subscription-registration-status) |
+|{baseURL}/v1/clientes/{cliente-inquilino-id}/transfers  | [Obtenha todas as transferências de um cliente](/partner-center/develop/get-all-of-a-customer-s-transfers) |
+|{baseURL}/v1/productUpgrades/{upgrade-id}/status  | [Obter estado de atualização do produto](/partner-center/develop/get-product-upgrade-status) |
+|{baseURL}/v1/customers/{customer-id}/subscrições/{subscription-id}/conversões   | [Obter uma lista de ofertas de conversão de avaliação](/partner-center/develop/get-a-list-of-trial-conversion-offers) |
+ 
+Recomendamos vivamente que os parceiros considerem usar o log de atividade API para obter mais eficiência e evitar estrangulamentos.Para mais informações sobre esta funcionalidade, consulte os detalhes [aqui.](/partner-center/develop/api-throttling-guidance)  
+
+### <a name="next-steps"></a>Passos seguintes
+
+Reveja os [recursos](/partner-center/develop/api-throttling-guidance)   para este tema e tome as medidas necessárias.  
+
+_____________
 
 ## <a name="security-compliance-and-identity-sci-launches-coming-on-february-1-2021"></a><a name="9"></a>Segurança, Compliance e Identidade (SCI) estreia a 1 de fevereiro de 2021 
 
@@ -43,7 +120,7 @@ Todos os parceiros que transacionam através do programa Cloud Solution Provider
 
 ### <a name="details"></a>Detalhes
 
-#### <a name="microsoft-365-g5-compliance-component-skus-for-government"></a>[Microsoft 365 G5 componente de conformidade SKUs para o governo](https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance)
+#### <a name="microsoft-365-g5-compliance-component-skus-for-government"></a>[Microsoft 365 G5 componente de conformidade SKUs para o governo](/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance)
 
 Vamos lançar três novas ofertas de componentes para clientes Government Community Cloud (GCC) e GCC High, que estarão disponíveis a partir de 1 de fevereiro de 2021. Estes SKUs serão o equivalente ao Microsoft 365 E5 Information Protection and Governance, M365 E5 Insider Risk Management e Microsoft 365 E5 eDiscovery & Audit que estão atualmente disponíveis em Comercial. 
 
@@ -54,7 +131,7 @@ Vamos lançar três novas ofertas de componentes para clientes Government Commun
    |Microsoft 365 E5 Insider Risk Management para GCC|11ccfdb3-80cb-4c80-8146-c9775045df17|8RF-00002|
    |Microsoft 365 E5 Information Protection e DLP (add-on) para GCC|911d3177-53a9-42ec-a0e9-3b73fce527f0|8QY-00002|
 
-#### <a name="10-year-audit-log-retention-add-on"></a>[Complemento de retenção de registos de auditoria de 10 anos](https://docs.microsoft.com/microsoft-365/compliance/)
+#### <a name="10-year-audit-log-retention-add-on"></a>[Complemento de retenção de registos de auditoria de 10 anos](/microsoft-365/compliance/)
 
 Um complemento disponível com um pré-requisito do Microsoft 365 E5 permitirá que os clientes mantenham os seus dados durante 10 anos. 
 
