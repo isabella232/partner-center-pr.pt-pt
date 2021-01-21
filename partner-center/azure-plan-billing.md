@@ -1,7 +1,7 @@
 ---
 title: Faturação do plano Azure - fatura & arquivos de reconhecimento
 ms.topic: article
-ms.date: 07/02/2020
+ms.date: 01/20/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como aceder e compreender a estrutura de ficheiros de fatura e reconciliação relacionada com a faturação do plano Azure.
@@ -9,12 +9,12 @@ author: khpavan
 ms.author: sakhanda
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1dc683c194de158dc7a4dac541b37631f3be1f1e
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: e230cc0d8ff3afea4bf2cc7b55d3847814696af6
+ms.sourcegitcommit: f99424919f0d77bbe4f44293d84f9ea1e3317f13
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534697"
+ms.lasthandoff: 01/21/2021
+ms.locfileid: "98658438"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>Nova experiência comercial no CSP – faturação do Azure 
 
@@ -46,7 +46,7 @@ O administrador global ou administrador de faturação da sua empresa receberá 
 
 Para aceder à fatura e ao ficheiro de reconciliação:
 
-1. Inscreva-se no painel do Centro [de Parceiros.](https://partner.microsoft.com/dashboard/)
+1. Inicie sessão no [dashboard](https://partner.microsoft.com/dashboard/) do Centro de Parceiros.
 
 2. No menu Partner Center, selecione **Billing**.
 
@@ -140,9 +140,7 @@ Para aceder à fatura e ao ficheiro de reconciliação:
 
 Os serviços Azure através de um plano Azure serão avaliados em USD e faturados na moeda atribuída pelo país cliente. Se a moeda de faturação não for USD, então a taxa cambial (FX) utilizada será mostrada na última página da fatura. As tarifas FX são determinadas mensalmente e aplicadas à seguinte fatura. Para obter uma lista completa de moedas de país, por favor, veja o [novo comércio oferece disponibilidade do país e matriz de moeda de cliente.](https://go.microsoft.com/fwlink/?linkid=2112354)
 
-A Microsoft usará a Thomson Reuters para determinar as taxas FX utilizadas para determinar a moeda de preços para a conversão de moeda de faturação. As tarifas de FX serão atualizadas e disponíveis na véspera do primeiro dia do mês para o qual se candidatam.
-
-**Exemplo:** As taxas de utilização para o período de serviço de 1 de agosto a 31 de agosto serão faturadas através da taxa FX publicada a 31 de julho. Estes encargos aparecerão na fatura de setembro e a taxa FX será anotado na última página da fatura.
+A Microsoft segue a Bolsa de Valores de Londres para conversão. Usamos a taxa de câmbio, que é igual à taxa de câmbio capturada no último segundo do último dia útil do mês na Bolsa de Valores de Londres. As tarifas de FX serão atualizadas e disponíveis na véspera do primeiro dia do mês para o qual se candidatam.
 
 ## <a name="azure-reservations"></a>Reservas do Azure
 
