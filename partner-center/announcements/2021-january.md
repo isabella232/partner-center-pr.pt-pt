@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 01/15/2021
-ms.openlocfilehash: 9b972354fb21dbdfa4780717cee54bac14acdb0e
-ms.sourcegitcommit: 9bcccaf8864d8ee3c93e67691f773463f162b5f0
+ms.date: 01/20/2021
+ms.openlocfilehash: 02b1e93c84065b6223ffc06cf36ddfec757f9a6a
+ms.sourcegitcommit: 37a18fb999bfc713b4fe514d082c63fe58ef9236
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/19/2021
-ms.locfileid: "98571674"
+ms.lasthandoff: 01/22/2021
+ms.locfileid: "98685927"
 ---
 # <a name="january-2021-announcements"></a>Anúncios de janeiro de 2021
 
@@ -23,6 +23,92 @@ Esta página detalha os anúncios para o Microsoft Partner Center para janeiro d
 Anúncios de 2021: janeiro
 
 Anúncios de 2020: [maio](2020-may.md)  |  [junho julho](2020-june.md)  |  [](2020-july.md)  |  [agosto](2020-august.md)  |  [setembro](2020-september.md)  |  [](2020-October.md)  |  [dezembro](2020-november.md)  |  [](2020-december.md)  
+
+________________
+## <a name="changes-to-azure-offer-availability-in-csp-related-to-the-new-commerce-experience-in-csp-for-azure"></a><a name="12"></a> Alterações à Azure oferecem disponibilidade em CSP relacionada com a nova experiência de comércio na CSP para a Azure
+
+### <a name="categories"></a>Categorias
+
+- Data: 2021-01-21
+- Capacidades
+ 
+### <a name="impacted-audience"></a>Audiência impactada
+
+Todos os parceiros que transacionam através do programa Cloud Solution Provider (CSP).
+
+### <a name="details"></a>Detalhes:
+
+#### <a name="the-new-commerce-experience-for-azure-in-csp"></a>A nova experiência de comércio para a Azure na CSP
+
+A nova experiência de comércio da Microsoft criará uma experiência de compra consistente e simplificada para os clientes e permitir-lhes-á transformar digitalmente, com maior flexibilidade na forma e onde compram. Os parceiros desempenham um papel fundamental na jornada em nuvem do cliente, independentemente dos canais que os clientes decidam negociar com a Microsoft. Uma vez totalmente lançado, a plataforma e modelo de comércio atualizados permitirá aos parceiros participar através de moções de vendas para clientes empresariais maiores, bem como pequenas e médias empresas, e dará aos parceiros oportunidades para expandir a sua participação para impulsionar o sucesso do cliente.
+
+A nova experiência de comércio da Azure no programa Cloud Solution Provider expande as oportunidades de parceria para construir e fornecer serviços geridos, alargar ainda mais a sua base de clientes e ajudar os clientes na sua transformação digital.
+
+A nova experiência de comércio proporciona os seguintes benefícios:
+
+- Simplifica o processo de compra do Azure com o Plano Azure.
+- Cria um melhor alinhamento de preços através dos canais. Com base no feedback de clientes e parceiros, a nova experiência Azure no programa Cloud Solution Provider utilizará uma única lista de preços, em USD, proporcionando aos clientes e parceiros preços consistentes à escala global.
+- Reduz os obstáculos à aquisição de clientes fornecendo-lhe ferramentas que incorporam a governação adequada, a experiência do cliente e as políticas para movê-los para a nova experiência Azure no programa Cloud Solution Provider.
+- Permite aos parceiros gerir os seus clientes de forma mais eficiente, alavancando capacidades como o Azure Lighthouse e a Azure Cost Management. 
+- Expande o acesso ao Azure Marketplace.
+
+Expandindo a nova experiência de comércio para o Azure, permitimos ferramentas de transição para aumentar a flexibilidade para gerir o Azure de forma a adaptar-se às necessidades de negócio em evolução dos clientes e ajudar a facilitar a obtenção dos seus clientes para a nova oferta da Azure no programa Cloud Solution Provider. Veja a visão geral das ferramentas existentes para apoiar a transição das subscrições do Cliente Azure no programa Cloud Solution Provider.
+
+#### <a name="new-azure-in-cloud-solution-provider-program-offer-azure-plan"></a>Oferta de programa Azure in Cloud Solution Provider (plano Azure)
+
+Com a nova experiência de comércio, os parceiros ganham acesso aos serviços Azure a uma taxa de pagamento para os clientes ao abrigo do Microsoft Customer Agreement, através de um plano Azure. Este plano simplifica a experiência de compra, permitindo a criação de várias subscrições Azure dentro de um plano Azure. Já não é necessário submeter uma encomenda separada por assinatura Azure no Partner Center.
+
+#### <a name="changes-to-the-previous-azure-offer-availability-in-the-cloud-solution-provider-program"></a>Alterações à oferta anterior do Azure no programa Cloud Solution Provider
+
+Quando anunciámos a nova oferta do Azure no programa Cloud Solution Provider (plano Azure) informámos os parceiros de que a oferta e plataforma anteriores da Azure continuariam disponíveis, juntamente com a nova experiência Azure, durante algum tempo, e que informaríamos os parceiros com seis meses de antecedência antes de quaisquer alterações à oferta anterior da Azure.
+
+Enquanto a nova oferta do Azure no programa Cloud Solution Provider (plano Azure) proporciona aos parceiros uma experiência melhorada, queremos dar tempo aos parceiros para incorporarem as novas funcionalidades do Azure com os seus serviços e transitarem os seus clientes para a nova experiência.
+
+Haverá três fases de alteração à oferta anterior do Azure. Hoje, estamos a partilhar mais informação sobre estas três fases.
+
+#### <a name="three-phases"></a>Três fases
+
+**Fase 1 - Início a 21 de julho de 2021**
+
+Na fase 1, todo o novo negócio do programa Azure Cloud Solution Provider estará na nova oferta do Plano Azure. Aplicar-se-ão as seguintes orientações:
+
+- Para todas as relações de revendedor existentes entre parceiros e clientes no programa Cloud Solution Provider, se o cliente já tiver adquirido a oferta anterior da Azure, o parceiro poderá continuar a negociar, e o cliente pode continuar a adquirir a oferta anterior da Azure a esse parceiro.
+- A oferta anterior do Azure deixará de estar disponível para novos parceiros líquidos que transacionem na CSP
+- A oferta anterior da Azure deixará de estar disponível para os novos clientes líquidos que adquirem através de um parceiro na CSP
+- Para todas as novas relações de revendedor ou novas aquisições de clientes, os parceiros só podem transacionar a nova oferta Azure (Plano Azure)
+- Para todas as relações de revendedor existentes entre parceiros e clientes, se o cliente nunca ter comprado a Azure antes, o parceiro só pode transacionar, e o cliente só pode adquirir a nova oferta da Azure a esse parceiro.
+
+**Fase 2 - Durante o ano civil de 2022**
+
+Na fase 2, que começará algures durante o ano civil de 2022, os incentivos e a oportunidade de margem de parceiro serão retirados da oferta anterior do Azure. Comunicaremos a data de início da fase 2 aos parceiros com 6 meses de antecedência.
+
+**Fase 3 - TBD data**
+
+Na fase 3, quaisquer clientes restantes na oferta anterior do Azure serão migrados para a nova oferta Azure no programa Cloud Solution Provider (plano Azure). Tal como nas fases anteriores, comunicaremos a data de início da fase 3 aos parceiros com 6 meses de antecedência.
+
+#### <a name="partner-earned-credit-pec"></a>Crédito Adquirido (PEC)
+
+Com a nova experiência de comércio, os parceiros são reconhecidos por serviços diferenciados de valor acrescentado de forma contínua através do modelo de crédito obtido pelo parceiro. O parceiro ganhou parceiros de recompensas de crédito que se concentram em impulsionar o sucesso do cliente através de serviços de valor acrescentado que geram rentabilidade sustentável.
+
+### <a name="next-steps"></a>Passos Seguintes:
+
+Os parceiros são altamente encorajados a familiarizar-se com os seguintes recursos:
+
+#### <a name="partner-earned-credit-pec"></a>Parceiro ganhou crédito (PEC)
+
+- [Compreensão do parceiro Adquirido Crédito (Guia)(microsoft.com)](https://partner.microsoft.com/resources/detail/understanding-partner-earned-credit-pdf)
+- [Parceiro ganhou crédito - visão geral - Partner Center | Microsoft Docs](https://docs.microsoft.com/partner-center/partner-earned-credit?branch=main )
+- [Parceiro ganhou crédito por serviços geridos - Partner Center | Microsoft Docs](https://docs.microsoft.com/partner-center/partner-earned-credit-explanation?branch=main)
+- [Funções, permissões para parceiro ganhou crédito - Partner Center | Microsoft Docs](https://docs.microsoft.com/partner-center/azure-roles-perms-pec)
+- [Módulo de formação a pedido sobre parceiro ganhou crédito em Azure em módulos CSP (eventbuilder.com)](https://commercial_licensing.eventbuilder.com/NewcommerceinCSPforAzuretrainingmodules)
+
+#### <a name="the-new-commerce-experience"></a>A nova experiência de comércio
+
+- [Galeria de recursos parceiros: Uma nova experiência de comércio na CSP para a Azure](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/)
+
+### <a name="questions"></a>Perguntas?
+
+Para quaisquer questões relacionadas com este [suporte do Centro de Parceiros de](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals)notificação .
 
 ________________
 ## <a name="perpetual-software-now-generally-available-for-the-cloud-solution-provider-program"></a><a name="11"></a> Software perpétuo agora geralmente disponível para o programa Cloud Solution Provider
