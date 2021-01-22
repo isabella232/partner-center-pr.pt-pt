@@ -1,7 +1,7 @@
 ---
 title: Candidatar-se a especializações avançadas
 ms.topic: how-to
-ms.date: 11/30/2020
+ms.date: 01/21/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Fortaleça o seu perfil de negócio no diretório de parceiros da Microsoft. Saiba como usar o Partner Center para se candidatar e ganhar especializações avançadas.
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dea98a5268feecbbea448592637a24f180d8eff2
-ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
+ms.openlocfilehash: aa616678832341ea38f5da6d5062c460ad4d22d9
+ms.sourcegitcommit: f99424919f0d77bbe4f44293d84f9ea1e3317f13
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96440063"
+ms.lasthandoff: 01/21/2021
+ms.locfileid: "98658421"
 ---
 # <a name="use-partner-center-to-apply-for-advanced-specializations-and-check-their-status"></a>Use o Partner Center para solicitar especializações avançadas e verificar o seu estado
 
@@ -37,7 +37,7 @@ Para aceder a esta área, deve ser-lhe concedido o papel de **MPN Account Admin*
 
 ### <a name="follow-these-steps-to-access-this-area"></a>Siga estes passos para aceder a esta área:
 
-1. Inscreva-se no painel do Centro [de Parceiros.](https://partner.microsoft.com/dashboard/home)
+1. Inicie sessão no [dashboard](https://partner.microsoft.com/dashboard/home) do Centro de Parceiros.
 
 2. Selecione a secção **MPN** do menu Partner Center, seguida de **Adv. Especializações**. O menu expande-se para mostrar todas as especializações avançadas disponíveis para si.
 
@@ -60,20 +60,21 @@ Ambas as tarefas podem ser executadas no Partner Center.
 
 Especializações avançadas que requerem uma auditoria com um auditor de terceiros incluem:
 
-- Migração do Armazém de Dados para o Microsoft Azure
+- Analytics no Microsoft Azure
+- Migração do Data Warehouse para o Microsoft Azure
 - Kubernetes no Microsoft Azure
-- Migração da base de dados Linux e Open Source para o Microsoft Azure
+- Migração de Base de Dados Open Source e Linux para o Microsoft Azure
 - Microsoft Windows Virtual Desktop
-- Modernização das aplicações web para o Microsoft Azure
-- Windows Server e SQL Server Migração para o Microsoft Azure
+- Modernização de Aplicações Web para o Microsoft Azure
+- Migração do Windows Server e SQL Server para o Microsoft Azure
 
 As especializações avançadas que requerem referências ao cliente incluem:
 
-- Gestão de Adoção e Mudança
-- Chamando para equipas da Microsoft
+- Adoção e Gestão da Mudança
+- Chamar o Microsoft Teams
 - Reuniões e salas de reuniões para equipas da Microsoft
 - SAP no Azure
-- Implantação de trabalho em equipa
+- Implementação do Teamwork
 - Gestão de Acesso e Identidades
 - Proteção Contra Ameaças
 
@@ -85,7 +86,7 @@ Além dos seus próprios pré-requisitos, algumas especializações avançadas t
 
 Em seguida, siga estes passos para agendar uma auditoria no Partner Center:
 
-1. Inscreva-se no painel do Centro [de Parceiros.](https://partner.microsoft.com/dashboard/home)
+1. Inicie sessão no [dashboard](https://partner.microsoft.com/dashboard/home) do Centro de Parceiros.
 
 2. Selecione a secção **MPN** do menu Partner Center, seguida de **Adv. Especializações**. O menu expande-se para mostrar todas as especializações avançadas disponíveis para si.
 
@@ -104,7 +105,7 @@ Além dos seus próprios pré-requisitos, algumas especializações avançadas t
 
 Em seguida, siga estes passos para fornecer referências ao cliente no Partner Center:
 
-1. Inscreva-se no painel do Centro [de Parceiros.](https://partner.microsoft.com/dashboard/home)
+1. Inicie sessão no [dashboard](https://partner.microsoft.com/dashboard/home) do Centro de Parceiros.
 
 2. Selecione a secção **MPN** do menu Partner Center, seguida de **Adv. Especializações**. O menu expande-se para mostrar todas as especializações avançadas disponíveis para si.
 
