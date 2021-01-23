@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/20/2021
-ms.openlocfilehash: b31191aa5d6f6a09b3f5708044df17f5efe69d7a
-ms.sourcegitcommit: 410f8ef9a5b944b454b1980cd1eb796fbdb4e6ea
+ms.openlocfilehash: 2716c4724528714cdc64a6a36ae85bee3cd92712
+ms.sourcegitcommit: e5f48e327d91f358778b3216f24087db412cb21f
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "98705033"
+ms.lasthandoff: 01/23/2021
+ms.locfileid: "98717833"
 ---
 # <a name="january-2021-announcements"></a>Anúncios de janeiro de 2021
 
@@ -23,6 +23,38 @@ Esta página detalha os anúncios para o Microsoft Partner Center para janeiro d
 Anúncios de 2021: janeiro
 
 Anúncios de 2020: [maio](2020-may.md)  |  [junho julho](2020-june.md)  |  [](2020-july.md)  |  [agosto](2020-august.md)  |  [setembro](2020-september.md)  |  [](2020-October.md)  |  [dezembro](2020-november.md)  |  [](2020-december.md)  
+
+________________
+## <a name="partner-center-audit-log-changes-to-include-two-new-operation-types-for-dap"></a><a name="13"></a> Alterações no registo de auditoria do Partner Center para incluir dois novos Tipos de Operação para DAP
+
+### <a name="categories"></a>Categorias
+
+- Data: 2021-01-25
+- Capacidades
+
+### <a name="impacted-audience"></a>Audiência impactada
+
+Todos os parceiros da CSP
+
+### <a name="details"></a>Detalhes
+
+Como anunciado hoje, estamos entusiasmados por informá-lo que expusemos dois novos tipos de operação nos registos de Atividade do Centro de Parceiros para dar visibilidade aos parceiros quando o cliente tiver aprovado ou removido as Relações de Administração Delegadas.
+
+Abaixo estão os novos tipos de operação:
+
+"operationType": "dap_admin_relationship_terminated"
+
+"operationType": "dap_admin_relationship_approved",
+
+### <a name="next-steps"></a>Próximos passos
+
+- Aproveite os novos tipos de operação para acompanhar os eventos quando o DAP foi aprovado pelo cliente e encerrado pelo cliente.  
+- [Obtenha um registo da atividade do Partner Center - Partner Center app developer | Microsoft Docs](https://docs.microsoft.com/partner-center/develop/get-a-record-of-partner-center-activity-by-user)
+- [Recursos de auditoria - Partner Center app developer | Microsoft Docs](https://docs.microsoft.com/partner-center/develop/auditing-resources)
+
+### <a name="questions"></a>Perguntas?
+
+Para mais perguntas, verifique as suas comunidades CSP Yammer relevantes.
 
 ________________
 ## <a name="changes-to-azure-offer-availability-in-csp-related-to-the-new-commerce-experience-in-csp-for-azure"></a><a name="12"></a> Alterações à Azure oferecem disponibilidade em CSP relacionada com a nova experiência de comércio na CSP para a Azure
@@ -130,7 +162,7 @@ Note também que a partir de hoje o software do Partner Center e a capacidade de
 
 ### <a name="next-steps"></a>Próximos passos
 
-- Descarregue a lista de preços **de software perpétuo CSP** na secção de **Software** da página de Ofertas de Preços & Do Centro De [Parceiros.](https://partnercenter.microsoft.com/en-us/pcv/sales) Uma lista dos produtos e geografias recém-adicionados pode ser consultada [aqui.](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf)
+- Descarregue a lista de preços **de software perpétuo CSP** na secção de **Software** da página de Ofertas de Preços & Do Centro De [Parceiros.](https://partnercenter.microsoft.com/pcv/sales) Uma lista dos produtos e geografias recém-adicionados pode ser consultada [aqui.](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf)
 - Reveja o [software perpétuo do Microsoft 365 Admin Center e as chaves da licença de produto descarreguem o artigo](https://go.microsoft.com/fwlink/p/?linkid=2152525) e partilhem com os seus clientes quando estiverem prontos para descarregar o software e as chaves de licença.
 - Reveja o software Perpetual nos materiais de prontidão [do programa Cloud Solution Provider.](https://partner.microsoft.com/resources/collection/software-in-csp#/) Use este [mapa de prontidão](https://partner.microsoft.com/resources/detail/software-in-csp-readiness-map-pdf) para localizar rapidamente as informações certas para o seu papel.
 
@@ -516,7 +548,7 @@ A Microsoft está a anunciar novas mudanças na oferta Dynamics 365 que serão l
 
 Em 1 de fevereiro de 2021, a Microsoft criará uma nova oferta de "Resposta Adicional" com direito de resposta 1-K para substituir a oferta existente por respostas de pesquisa 2-K, que o fim da venda será em 1 de fevereiro de 2021.
 
-Consulte o separador "Customer Voice Addl Resp" no [documento Dynamics CSP Offers-February 2021 Excel](https://partner.microsoft.com/resources/detail/dynamics-csp-offers-february-2021-xls) para os detalhes do SKU. Consulte a Página Inicial da [Voz do Cliente Microsoft Dynamics 365](https://dynamics.microsoft.com/en-us/customer-voice/overview/) para obter mais informações.
+Consulte o separador "Customer Voice Addl Resp" no [documento Dynamics CSP Offers-February 2021 Excel](https://partner.microsoft.com/resources/detail/dynamics-csp-offers-february-2021-xls) para os detalhes do SKU. Consulte a Página Inicial da [Voz do Cliente Microsoft Dynamics 365](https://dynamics.microsoft.com/customer-voice/overview/) para obter mais informações.
 
 **Dinâmica 365 Atendimento ao Cliente Insights Fim de Vida**
 

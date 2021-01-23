@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/04/2021
-ms.openlocfilehash: 83d2abd4c799a9776087efc4fb4f5e755ecbadad
-ms.sourcegitcommit: 37a18fb999bfc713b4fe514d082c63fe58ef9236
+ms.openlocfilehash: 205f882cccb2375a7ad2681556103e39b9a88185
+ms.sourcegitcommit: e5f48e327d91f358778b3216f24087db412cb21f
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "98685910"
+ms.lasthandoff: 01/23/2021
+ms.locfileid: "98717850"
 ---
 # <a name="partner-center-announcements"></a>Anúncios do Centro de Parceiros
 
@@ -22,6 +22,7 @@ Saiba mais sobre atualizações importantes do Centro de Parceiros. Estas inform
 
 | **Categoria** | **Anúncios de janeiro de 2021** | **Anunciado** |
 |---------|:---------|:---------|
+|Capacidades|[Alterações no registo de auditoria do Partner Center para incluir dois novos Tipos de Operação para DAP](2021-january.md#13)|25 de janeiro|
 |Capacidades|[Alterações à Azure oferecem disponibilidade em CSP relacionada com a nova experiência de comércio na CSP para a Azure](2021-january.md#12)|21 de janeiro|
 |Expanda o seu Negócio|[Software permanente agora em disponibilidade geral para o programa de Fornecedor de Soluções Cloud](2021-january.md#11)|19 de janeiro|
 |Expanda o seu Negócio|[Lembrete: apresentação da limitação de APIs para parceiros que utilizam APIs do Centro de Parceiros](2021-january.md#10)|19 de janeiro|
