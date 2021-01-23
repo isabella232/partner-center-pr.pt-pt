@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/20/2021
-ms.openlocfilehash: 02b1e93c84065b6223ffc06cf36ddfec757f9a6a
-ms.sourcegitcommit: 37a18fb999bfc713b4fe514d082c63fe58ef9236
+ms.openlocfilehash: b31191aa5d6f6a09b3f5708044df17f5efe69d7a
+ms.sourcegitcommit: 410f8ef9a5b944b454b1980cd1eb796fbdb4e6ea
 ms.translationtype: MT
 ms.contentlocale: pt-PT
 ms.lasthandoff: 01/22/2021
-ms.locfileid: "98685927"
+ms.locfileid: "98705033"
 ---
 # <a name="january-2021-announcements"></a>Anúncios de janeiro de 2021
 
@@ -126,10 +126,9 @@ Todos os parceiros da CSP
 
 Como [anunciado](https://blogs.partner.microsoft.com/mpn/general-availability-of-perpetual-software-licenses-in-the-cloud-solution-provider-program/) hoje, estamos entusiasmados em informá-lo que as licenças de software perpétuo comercial estão agora geralmente disponíveis para todos os parceiros da CSP para vender. A lista de preços perpétuos de software perpétuo do Partner Center CSP foi republicado e agora inclui produtos e geografias adicionais.
 
-Note também que a partir de hoje o software do Partner Center e a capacidade de cumprimento da chave de licença foi reformado e que os parceiros e clientes que vão para a frente devem usar o Microsoft 365 Admin Center para o efeito.
-Veja abaixo mais detalhes e próximos passos.
+Note também que a partir de hoje o software do Partner Center e a capacidade de cumprimento da chave de licença foi reformado e que os parceiros que vão para a frente devem apontar os clientes para o Microsoft 365 Admin Center para este fim. Veja abaixo mais detalhes e próximos passos.
 
-### <a name="next-steps"></a>Passos seguintes
+### <a name="next-steps"></a>Próximos passos
 
 - Descarregue a lista de preços **de software perpétuo CSP** na secção de **Software** da página de Ofertas de Preços & Do Centro De [Parceiros.](https://partnercenter.microsoft.com/en-us/pcv/sales) Uma lista dos produtos e geografias recém-adicionados pode ser consultada [aqui.](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf)
 - Reveja o [software perpétuo do Microsoft 365 Admin Center e as chaves da licença de produto descarreguem o artigo](https://go.microsoft.com/fwlink/p/?linkid=2152525) e partilhem com os seus clientes quando estiverem prontos para descarregar o software e as chaves de licença.
@@ -183,7 +182,7 @@ A partir de fevereiro de 2021, a Microsoft estará a implementar o estrangulamen
  
 Recomendamos vivamente que os parceiros considerem usar o log de atividade API para obter mais eficiência e evitar estrangulamentos.Para mais informações sobre esta funcionalidade, consulte os detalhes [aqui.](/partner-center/develop/api-throttling-guidance)  
 
-### <a name="next-steps"></a>Passos seguintes
+### <a name="next-steps"></a>Próximos passos
 
 Reveja os [recursos](/partner-center/develop/api-throttling-guidance)   para este tema e tome as medidas necessárias.  
 
@@ -239,7 +238,7 @@ Estas ofertas programáticas vão substituir a atual promoção [de Segurança e
    |Conformidade microsoft 365 F5|6dc6cb1d-7bcb-4234-80cc-9c7a9cded044|8RL-00003|
    |Microsoft 365 F5 Segurança & Compliance|ad396924-ee4e-4059-b779-efe43dfa24d2|8RU-00003|
    
-### <a name="next-steps"></a>Passos seguintes
+### <a name="next-steps"></a>Próximos passos
 
 Reveja a pré-visualização da lista de preços e partilhe com as partes interessadas apropriadas na sua organização. Para mais informações, aceda à [Microsoft Security and Compliance - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-security-and/ct-p/MicrosoftSecurityandCompliance).
 
@@ -285,7 +284,7 @@ Para obter informações adicionais sobre como assinar eletronicamente documento
 - [Assinar eletronicamente um documento | Tutoriais de Sinal de Adobe](https://helpx.adobe.com/sign/how-to/adobe-for-signers.html?playlist=/ccx/v1/collection/product/sign/segment/designer/explevel/beginner/applaunch/continuinged/collection.ccx.js&ref=helpx.adobe.com)
 - [Delege alguém para assinar um documento | Tutoriais de Sinal de Adobe](https://helpx.adobe.com/sign/how-to/use-the-delegator-role.html?playlist=/ccx/v1/collection/product/sign/segment/designer/explevel/beginner/applaunch/orientation/collection.ccx.js&ref=helpx.adobe.com)
 
-### <a name="next-steps"></a>Passos seguintes
+### <a name="next-steps"></a>Próximos passos
 
 Partilhe esta informação com as partes interessadas apropriadas na sua organização.
 
@@ -365,7 +364,7 @@ Estas ofertas estarão disponíveis para clientes Comerciais, Estudantes, Docent
    |Microsoft 365 Plano de Chamada Doméstica para estudantes para EUA e Canadá|1f4b4375-3185-40cf-b044-117fe3b102c6|LM7-00007|
    |Microsoft 365 Plano de Chamada Doméstica para GCC para EUA e Canadá|594ed84e-ddf8-4e40-9726-76c04bd29e3b|LM9-00023|
 
-### <a name="next-steps"></a>Passos seguintes
+### <a name="next-steps"></a>Próximos passos
 
 - Partilhe esta informação com os contactos relevantes na sua organização e compreenda as oportunidades de venda e venda cruzada. 
 - Reveja a secção de recursos do [Guia de Parceiros de Equipas.](https://aka.ms/teamscallingmeetingsguide)
@@ -403,7 +402,7 @@ As moedas tiveram impacto:
 
 Os parceiros devem fazer referência às listas de preços de pré-visualização atualmente disponíveis de janeiro e fevereiro para os preços corretos. 
 
-### <a name="next-steps"></a>Passos seguintes
+### <a name="next-steps"></a>Próximos passos
 
 - Os parceiros devem descarregar os mais recentes ficheiros da lista de preços do Centro de Parceiros para obter os preços corrigidos de janeiro e fevereiro. 
 - Os administradores globais para inquilinos com impacto que tenham adquirido subscrições entre 1 de janeiro e 6 de janeiro serão notificados através de um email do Partner Center antes do final de janeiro com mais detalhes. 
@@ -457,7 +456,7 @@ Esta atualização reduzirá a complexidade e a sobrecarga com a faturação mul
 - Os parceiros notarão uma reduzida complexidade de faturação causada pela faturação multi-moeda, que libertará tempo e recursos atualmente associados à conciliação das contas
 - Para os parceiros que ainda não adotaram novas ofertas de comércio, esta mudança alinha-se com o anterior modelo de faturação de parceiros, permitindo aos parceiros fazerem uma transição mais fácil para a nova experiência de comércio na CSP
 
-### <a name="next-steps"></a>Passos seguintes
+### <a name="next-steps"></a>Próximos passos
 
 Reveja as informações sobre este tópico na Galeria de [Operações](https://partner.microsoft.com/resources/collection/eu-efta-changes-collection#/) (inscrição obrigatória) no site do parceiro da Microsoft.  
 
@@ -482,7 +481,7 @@ Parceiros que vendem ofertas académicas através do programa Cloud Solution Pro
 
 Este é um seguimento das melhorias da API lançadas em dezembro de 2020. Em dezembro de 2020 foram lançadas novas APIs GET e POST Qualifications, e consequentemente as antigas APIs get e PUT Qualification serão retiradas até ao final de fevereiro de 2021. Nessa altura, terá de utilizar as novas APIs do Get and POST Partner Center para poder comprar ofertas de Educação. 
 
-### <a name="next-steps"></a>Passos seguintes
+### <a name="next-steps"></a>Próximos passos
 
 - Se ainda não o fez, atualize as novas APIs para uma transição bem sucedida e oportuna.
 - Reveja as novas alterações da API do Centro parceiro e [Guia nos recursos de Prontidão de Operações: Melhorias do processo de validação do processo de validação do cliente do Partner Center Education](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/).
@@ -546,7 +545,7 @@ Estes SKUs foram removidos da lista final de preços de 1 de janeiro de 2021 e n
    |Dinâmica 365 Operações – Dispositivo para Programa de Migração AX|8c8b7c8f-cb3a-4737-8319-1752938c7be3|
    |Dinâmica 365 Membros da equipa para o Programa de Migração AX|1eb3ad0b-9de3-419d-8bfe-0d61bddd945b2|
 
-### <a name="next-steps"></a>Passos seguintes
+### <a name="next-steps"></a>Próximos passos
 
 Reveja os recursos sobre este tema e partilhe-os com as partes interessadas apropriadas na sua organização. 
 
