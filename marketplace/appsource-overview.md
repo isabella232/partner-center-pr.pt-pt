@@ -6,12 +6,12 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: b1eb9eeed676cc07b042659dffd77d04ebd50326
-ms.sourcegitcommit: 4e8e5a18e6e64892761dadcf182e179a128dcbc7
+ms.openlocfilehash: 5c89ef94977882b72563763744c6437c6c7f368a
+ms.sourcegitcommit: 79e45aa581ad7785e2417660ed6c73689988f58b
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98166703"
+ms.lasthandoff: 01/25/2021
+ms.locfileid: "98759863"
 ---
 # <a name="what-is-microsoft-appsource"></a>O que é o Microsoft AppSource?
 
@@ -46,7 +46,7 @@ Todos os produtos disponíveis no AppSource foram certificados de acordo com cri
 
 O fornecedor de software define o preço, o contrato de licença de utilizador final e as políticas de privacidade. Todas as ofertas no AppSource incluem links para o contrato de licença da editora e política de privacidade. Ver e reconhecer estes acordos faz parte do fluxo de compra. Para mais informações, consulte [os contratos legais.](legal-contracts.md)
 
-## <a name="discover-saas-and-m365-integrated-apps"></a>Descubra apps integradas SaaS e M365
+## <a name="discover-saas-and-microsoft-365-integrated-apps"></a>Descubra aplicações integradas SaaS e Microsoft 365
 
 Os nossos parceiros podem ligar-se entre uma aplicação SaaS e os seus suplementos correspondentes para o Microsoft 365. Isto permite-lhe descarregar e utilizar os add-ins de serviços ou produtos específicos da Microsoft 365 quando obtém uma aplicação SaaS ligada a add-ins.
 
@@ -65,6 +65,6 @@ Os utilizadores de Admin microsoft 365 podem implementar tanto o SaaS como os ad
 
 Em cada página de listagem, encontrará classificações e comentários de outros clientes. As classificações usam uma escala de cinco estrelas, e a classificação média é exibida em cada cartão de oferta. As avaliações verbatim também estão disponíveis para que possa conhecer as experiências de outros clientes. Uma vez adquirida uma solução, também pode deixar uma classificação e revisão para ajudar outros clientes a tomar decisões.
 
-## <a name="next-steps"></a>Passos seguintes
+## <a name="next-steps"></a>Próximos passos
 
 - [Comprar software no Microsoft AppSource](purchase-software-appsource.md)
