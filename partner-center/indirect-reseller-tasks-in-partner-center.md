@@ -1,29 +1,27 @@
 ---
 title: Trabalhar com fornecedores indiretos no programa CSP
 ms.topic: how-to
-ms.date: 12/16/2020
+ms.date: 01/25/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como os revendedores indiretos podem trabalhar com fornecedores indiretos (ou distribuidores) da Microsoft para obter ajuda com o apoio ao cliente e faturação.
 ms.prod: ''
 ms.custom: contperf-fy21q2
-author: BillLinzbach
-ms.author: BillLi
+author: vinayks
+ms.author: vinayks
 ms.localizationpriority: high
-ms.openlocfilehash: c1929a68146c09beae16e5aabd96b1f192db3a31
-ms.sourcegitcommit: 3ff229fd6f80b9e935d151280b17a60b8c39e8a9
+ms.openlocfilehash: 7717f51504563ebb0193f693728229252827d7e3
+ms.sourcegitcommit: e99882e9b6c9b1a0f7427fb133693b1d977be76b
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "97636029"
+ms.lasthandoff: 01/26/2021
+ms.locfileid: "98773449"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Saiba como associar-se a fornecedores indiretos no programa Cloud Solution Provider
 
 **Funções adequadas**
 
-
-- Todos os parceiros da Microsoft interessados em inscrever-se no programa Cloud Solution Provider
-
+- Administrador global
 
 A procura crescente de soluções e serviços baseados na nuvem proporciona muitas oportunidades para os parceiros da Microsoft de todos os tamanhos construirem negócios rentáveis de soluções de nuvem. Os parceiros que estão prontos para entrar no mercado, mas que não querem ter de gerir vários fornecedores, ou que podem não ter uma infraestrutura de gestão de relacionamento com o cliente de ponta a ponta, podem inscrever-se no programa Cloud Solution Provider (CSP) da Microsoft como revendedores indiretos.
 
@@ -80,12 +78,11 @@ A partir de outubro de 2020, todos os parceiros da Microsoft novos na CSP, vão 
 
 5. Associe o seu ID MPN ao seu inquilino de ID Azure.
 
-    1. Selecione **identificadores** a partir das **definições** de Conta .
-
-    1. Na secção **CSP** utilize o link **'Actualização'** para atualizar o ID MPN associado à sua conta CSP. 
- 
+    1. Inscreva-se na sua conta MPN. Ir para **Definições**  ->  **de definições de conta**  ->  **Identificadores de perfil** da organização  ->  . Veja os seus IDs MPN e selecione aquele cujo país seja o mesmo que o país da sua conta CSP. Por outras palavras, a sua conta CSP e o ID MPN associado devem estar localizados no mesmo país/região.
+    
+     
  > [!IMPORTANT]  
-   > Selecione o ID MPN associado ao perfil de empresa ativa que está localizado no mesmo país/região que o seu inquilino AZure AD.
+   > Selecione o ID MPN que está localizado no mesmo país/região que a sua conta CSP.
 
 6. Quando a sua conta Partner Center estiver pronta a ser utilizada, verifique se foi adicionado ao grupo de agentes administrativos. Para terminar a configuração da sua conta, incluindo a adição de outros utilizadores, tem de ter permissões de agente administrativo. Siga estes passos para visualizar ou atualizar as suas permissões:
 
@@ -135,7 +132,7 @@ Se um fornecedor indireto quiser ligar-se consigo no Centro de Parceiros, inicia
 A sua localização de negócio legal como revendedor indireto CSP determina os fornecedores indiretos com quem pode trabalhar, bem como as regiões onde pode fazer negócios com CSP. Saiba mais ao ler [cloud Solution Provider programa mercados regionais e moedas onde pode vender ofertas de CSP.](regional-authorization-overview.md)
 
 
-## <a name="next-steps"></a>Passos seguintes
+## <a name="next-steps"></a>Próximos passos
 
 - [O processo de verificação da conta](verification-responses.md)
 
@@ -146,5 +143,5 @@ A sua localização de negócio legal como revendedor indireto CSP determina os 
 - [Criar um perfil empresarial](create-a-marketing-profile.md)
 
 - [Conheça o processo de verificação](verification-responses.md)
- 
+
 - [Consulte os requisitos diretos do parceiro de conta](direct-partner-new-requirements.md)

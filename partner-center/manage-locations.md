@@ -1,7 +1,7 @@
 ---
 title: Gerir localizações na sua conta de parceiro
 ms.topic: how-to
-ms.date: 11/23/2020
+ms.date: 01/25/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Saiba como adicionar uma nova localização e como a localização MPN ID é usada em programas de incentivo, negócios de CSP, subscrições e outras transações.
@@ -9,18 +9,15 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 03c4fb5a4adeb49602fe3736971e140ac6da6f4f
-ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
+ms.openlocfilehash: 38ea8a451f51d80998643e2a023420ea3efaa6ba
+ms.sourcegitcommit: e99882e9b6c9b1a0f7427fb133693b1d977be76b
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "95514807"
+ms.lasthandoff: 01/26/2021
+ms.locfileid: "98773425"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-a-new-location"></a>Gerencie as localizações da sua conta MPN e adicione uma nova localização
 
-**Aplica-se a**
-
-- Partner Center
 
 **Funções adequadas**
 
@@ -38,7 +35,7 @@ A Contoso tem a sua conta global Partner (PGA) no Reino Unido. Este é o seu neg
 
 :::image type="content" source="images/locations/locations1.png" alt-text="Estrutura das localizações da MPN":::
 
-## <a name="prerequisites-in-order-to-add-a-new-location-for-a-csp-business"></a>Pré-requisitos para adicionar um novo local para uma empresa de CSP
+## <a name="prerequisites-in-order-to-add-a-new-account-location-for-a-csp-business"></a>Pré-requisitos para adicionar uma nova localização de conta para uma empresa de CSP
 
 Para adicionar uma nova localização comercial da CSP, existem vários pré-requisitos:
 
@@ -78,6 +75,6 @@ Fornecendo detalhes legais da empresa, incluindo o nome da empresa legal, endere
 3. Selecione a região e entidade legal e **envie-a.**
 
   
-## <a name="next-steps"></a>Passos seguintes
+## <a name="next-steps"></a>Próximos passos
 
 - Conheça o [processo de verificação.](verification-responses.md)

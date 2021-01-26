@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5ca7dd4239821fedfdb017c7a475b31b9e91cf68
-ms.sourcegitcommit: e5f48e327d91f358778b3216f24087db412cb21f
+ms.openlocfilehash: a6cf5bc3d1e0f28a9c4e0a11d8a603297fa57bf9
+ms.sourcegitcommit: e99882e9b6c9b1a0f7427fb133693b1d977be76b
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/23/2021
-ms.locfileid: "98717717"
+ms.lasthandoff: 01/26/2021
+ms.locfileid: "98773501"
 ---
 # <a name="how-indirect-providers-can-help-their-indirect-resellers-adopt-the-microsoft-partner-agreement-mpa"></a>Como os fornecedores indiretos podem ajudar os seus revendedores indiretos a adotar o Acordo de Parceiros da Microsoft (MPA)
 
@@ -126,13 +126,13 @@ Em caso de problemas, levante um bilhete de [apoio](https://partner.microsoft.co
 ### <a name="i-want-to-migrate-my-mpn-account-from-partner-membership-center-to-partner-center-how-can-i-do-it-i-do-not-know-who-was-my-mpn-admin-in-pmc--how-can-i-migrate-"></a>Quero migrar a minha conta MPN do Centro de Sócios para o Centro de Parceiros. Como posso fazê-lo? Não sei quem foi o meu MPN Admin no PMC, como posso migrar? 
 
 **Resposta** Veja o guia passo a passo sobre como [migrar o MPN de PMC para PC](guide-to-migration.md). Tem vários links para a hep que migra.
--   [O Microsoft Partner Agreement (MPA) para a CSP](microsoft-partner-agreement.md#download-the-step-by-step-guide-thats-right-for-where-you-are-in-the-process)
+-   [O Microsoft Partner Agreement (MPA) para a CSP](microsoft-partner-agreement.md)
 
 Em caso de problemas, levante um bilhete de [apoio](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=2da4e1c7-3b4b-5672-6227-56bc75a936b4) de dentro do Partner Center. 
 
 ### <a name="are-there-any-localized-step-by-step-instructions-available"></a>Existem alguma instrução passo a passo localizada?
 
-**Resposta** Sim, temos orientações localizadas disponíveis aqui: [Revendedor indireto a bordo para o Microsoft Partner Agreement no programa CSP](https://partner.microsoft.com/resources/collection/indirect-reseller-onboarding-for-mpa-in-csp/data=04%7C01%7Cchimil%40microsoft.com%7C4ced38f77d8e4888d3cb08d8961d18dc%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C1%7C637424399031516927%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=jMq4Izi2Oreg5%2BpgKDOXGpUgzA3MnkJ1QMewnogc%2BY8%3D&reserved=0)  (idiomas disponíveis: espanhol, coreano, chinês, japonês)
+**Resposta** Sim, temos orientações localizadas em: [Reseller indireto no embarque para o Microsoft Partner Agreement no programa CSP](https://partner.microsoft.com/resources/collection/indirect-reseller-onboarding-for-mpa-in-csp/data=04%7C01%7Cchimil%40microsoft.com%7C4ced38f77d8e4888d3cb08d8961d18dc%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C1%7C637424399031516927%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=jMq4Izi2Oreg5%2BpgKDOXGpUgzA3MnkJ1QMewnogc%2BY8%3D&reserved=0)  (idiomas disponíveis: espanhol, coreano, chinês, japonês)
 
 ### <a name="i-dont-know-who-the-partner-center-admin-is-who-can-sign-mpa-"></a>Não sei quem é o administrador do Centro de Parceiros que pode assinar a MPA?
 
@@ -159,8 +159,8 @@ A partir **das definições de Conta**, selecione página de perfil **legal** no
 
 Se não conseguir resolver o problema por conta própria, levante um bilhete de apoio a partir do Centro de Parceiros, insinuá-lo com a sua conta CSP e:
 
-- Para questões de verificação de negócios, clique [aqui](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=52ac28f3-d58f-99d9-9846-3df5a6477c54)  
-- Para questões de verificação de emprego, clique [aqui](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=c34a5c81-a111-476d-11a4-81c808c37a6b)
+- Para questões de verificação de negócios, crie um pedido de [apoio.](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=52ac28f3-d58f-99d9-9846-3df5a6477c54)  
+- Para questões de verificação de emprego, crie um pedido de [apoio.](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=c34a5c81-a111-476d-11a4-81c808c37a6b)
 
 :::image type="content" source="images/rejected-faq-mpa.png" alt-text="rejeitado":::
 
