@@ -1,7 +1,7 @@
 ---
 title: Indicadores de contribuição dos parceiros - SMMCS
 ms.topic: article
-ms.date: 01/13/2021
+ms.date: 01/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Conheça os parceiros de Indicadores de Contribuição de Parceiros (PCI) que precisam de se reunir antes de poderem atingir a competência das Soluções cloud de pequeno e médio mercado.
@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cbde581a5a2d0b79b92be54abfba4920b53cbba4
-ms.sourcegitcommit: 623d03feab847538d484e0d062dc56fe9d9d82f4
+ms.openlocfilehash: e7fc9961c74d11e3bb36332d0cfff5ea4f9378be
+ms.sourcegitcommit: 6632d7452be36010bfc8c6823efe5a5197377989
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98204144"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "98861432"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-small-and-midmarket-cloud-solutions-competency"></a>Utilizar indicadores de contribuição de parceiros para atingir a competência das Soluções cloud de pequeno e médio mercado
 
@@ -157,11 +157,10 @@ As novas receitas líquidas são um [indicador de desempenho.](partner-contribut
 - As novas receitas líquidas são definidas como receitas líquidas de faturação em todos os canais de vendas para produtos dynamics 365 qualificados.
 - As novas receitas líquidas são resumidas num período de 12 meses com um rendimento máximo possível de 10 pontos.
 - Os pontos para as novas receitas líquidas são calculados como faturações menos créditos e agregados ao longo de 12 meses.
-- As novas receitas líquidas são calculadas com base nos seguintes produtos elegíveis que seguem a trajetória de Envolvimento do Cliente ou a trajetória de Finanças e Operações:
+- As novas receitas líquidas são calculadas com base em qualquer combinação dos seguintes produtos elegíveis:
   - Dinâmica 365 Produtos elegíveis para o envolvimento do cliente incluem: Vendas, Marketing, Atendimento ao Cliente, Serviço de Campo, Servidor de Projeto, Plano 1, Automação, Marketing, Vendas de Relacionamento microsoft
-  - Os produtos elegíveis para as Finanças e operações incluem: Business Central, Capacity and Storage, Finance and Operations (incluindo proteção contra fraudes, operações, retalho, RH, plano 2), realidade mista, Membro da Equipa
-  - Dynamics 365 Business Central
-
+  - Os produtos elegíveis para as Finanças e Operações incluem: Dynamics 365 Business Central, Capacity and Storage, Finance and Operations (incluindo proteção contra fraudes, operações, retalho, RH, plano 2), realidade mista, Membro da Equipa
+  
 - Os canais de vendas incluem Enterprise Agreement (EA), Cloud Solution Provider (CSP) e Web Direct.
 - Para o Contrato de Empresa apenas: Esta receita inclui receitas do primeiro ano do contrato. As receitas recorrentes do segundo e terceiro anos não estão incluídas.
 
@@ -307,6 +306,6 @@ Para ver a tabela indicadores de contribuição dos parceiros, siga estes passos
 
    :::image type="content" source="images/partner-contribution-indicators-small-and-midmarket-view-progress.png" alt-text="Como ler a tabela de Indicadores de Contribuição de Parceiros":::
 
-## <a name="next-steps"></a>Passos seguintes
+## <a name="next-steps"></a>Próximos passos
 
 Consulte estes [recursos informativos](https://partner.microsoft.com/training/assets/collection/cloud-business-applications-smb-option-for-smmcs-competency-attainment#/) para saber mais sobre a obtenção da competência Gold ou Silver Small and Midmarket Cloud Solutions através da opção Cloud Business Applications SMB.
