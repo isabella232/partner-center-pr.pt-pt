@@ -1,7 +1,7 @@
 ---
 title: Microsoft gold, requisitos de competência de prata
 ms.topic: article
-ms.date: 11/03/2020
+ms.date: 01/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Aprenda a ganhar o estatuto de parceiro de elite da Microsoft e atraia novos clientes cumprindo os requisitos de competência para ganhar níveis de adesão de ouro e prata.
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 51a0e1d1e726444597d99a55e8c62b6788549073
-ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
+ms.openlocfilehash: 10d2cbf848cb2c9a5d9aafb98f1ab6869f417182
+ms.sourcegitcommit: 06c272d86722a2315a65aa536fb32727aab5178d
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "94691338"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "98912544"
 ---
 # <a name="differentiate-your-business-by-attaining-microsoft-competencies"></a>Diferenciar o seu negócio ao alcançar competências da Microsoft
 
@@ -38,7 +38,7 @@ A obtenção de uma competência pode também ser uma entrada para benefícios e
 
 Pode ver os requisitos e o que a sua empresa conseguiu a partir da área de competência do seu painel de instrumentos partner Center.
 
-1. Inscreva-se no painel do Centro [de Parceiros.](https://partner.microsoft.com/dashboard/home)
+1. Inicie sessão no [dashboard](https://partner.microsoft.com/dashboard/home) do Centro de Parceiros.
 
 2. Na secção MPN do menu Centro de Parceiros, selecione **Competências**.
 
@@ -59,7 +59,7 @@ Os níveis de competência em prata e ouro têm requisitos diferentes para cada 
 
 Para saber mais sobre o que é necessário para obter competências de prata e ouro, consulte [as competências da Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
 
-## <a name="next-steps"></a>Passos seguintes
+## <a name="next-steps"></a>Próximos passos
 
 - Saiba mais sobre [os requisitos para alcançar competências em prata e ouro.](https://partner.microsoft.com/membership/competencies)
 
@@ -68,6 +68,8 @@ Para saber mais sobre o que é necessário para obter competências de prata e o
 - Conheça [os recursos específicos do go-to-market](mpn-learn-about-go-to-market-benefits.md) incluídos com competências.
 
 - Conheça [as faturas e impostos para competências.](mpn-view-print-maps-invoice.md)
+
+- Saiba como pagar a [taxa](mpn-pay-fee-silver-gold-competency.md) associada a uma adesão de prata ou ouro.
 
 - Consulte um [relatório de competências](pci-competencies-report.md) do Partner Center Insights que mostra o estado atual das suas competências.
 
