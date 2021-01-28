@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 254543c353669166ed9971d57e6255bd589ccb7d
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: d34a264f366cc21109bb0f0ae379d34130f6f590
+ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570710"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98924946"
 ---
 # <a name="billing-overview-for-csp-program-partners-working-in-partner-center"></a>Descrição geral da faturação para parceiros do programa CSP que trabalham no Centro de Parceiros 
 
@@ -33,7 +33,7 @@ Este artigo fornece a informação básica de faturação e fatura para parceiro
 
 Para encontrar a sua conta:
 
-1. Inscreva-se no painel do Centro [de Parceiros.](https://partner.microsoft.com/dashboard/home)
+1. Inicie sessão no [dashboard](https://partner.microsoft.com/dashboard/home) do Centro de Parceiros.
 
 2. No menu Partner Center, escolha **Faturação.**
 
@@ -53,7 +53,7 @@ Os tipos de faturação no Partner Center incluem **faturação baseada em licen
 
 **Faturação baseada em licenças e com base em uso**: Você será cobrado para produtos(s) na moeda do país ou região em que você está localizado. É cobrado o mesmo independentemente da localização do cliente a quem vendeu o produto.
 
-**Faturação única**: A sua conta é gerada no contexto da moeda do cliente. Isto significa que se você é um parceiro que transaciona com clientes de diferentes moedas faturantes, você receberá uma fatura para cada tipo de moeda de cliente. Leia mais sobre [uma vez e recorrente.](azure-plan-billing.md) 
+**Faturação única**: A partir de 28 de janeiro de 2021, os parceiros da região UE/EFTA e reino unido que têm novos clientes e clientes csp existentes que compram novas ofertas de comércio pela primeira vez cujos inquilinos foram criados antes de 11 de maio de 2020, serão cobrados para essas compras em moeda de localização parceira.  Os parceiros situados fora da região UE/EFTA e reino unido continuarão a ser faturados em moeda de localização de parceiros. Leia mais sobre [uma vez e recorrente.](azure-plan-billing.md) 
 
 ## <a name="invoices"></a>Faturas
 
@@ -150,15 +150,15 @@ As taxas de serviço medidos podem ser alteradas dentro do ciclo da fatura.
 
 Para ver o seu estado atual de faturação, faturas e ficheiros de reconciliação:
 
-1. Inscreva-se no painel do Centro [de Parceiros.](https://partner.microsoft.com/dashboard/home)
+1. Inicie sessão no [dashboard](https://partner.microsoft.com/dashboard/home) do Centro de Parceiros.
 2. No menu à esquerda, escolha **Billing,** em seguida, selecione **compras recorrentes e únicas**.
-3. Na página do estado da faturação, selecione uma fatura ou ficheiro de reconciliação para visualizar informações mais detalhadas.
+3. Na página de estado de faturação, selecione uma fatura ou um ficheiro de reconciliação para ver informações mais detalhadas.
 
 ### <a name="customer-order-history"></a>Histórico de pedidos de clientes
 
 Para ver o histórico de encomendas de um cliente:
 
-1. Inscreva-se no painel do Centro [de Parceiros.](https://partner.microsoft.com/dashboard/home)
+1. Inicie sessão no [dashboard](https://partner.microsoft.com/dashboard/home) do Centro de Parceiros.
 2. No menu à esquerda, escolha **Clientes.**
 3. Na página **Clientes,** encontre o cliente cujo histórico de encomendas pretende ver. Selecione a seta para baixo para expandir o registo do cliente.
 4. Escolha As ordens de **visualização** para mostrar o histórico de encomendas do cliente.
@@ -172,7 +172,7 @@ Poderá ter de solicitar um crédito ou rebill pelas seguintes razões:
 
 **Para todas as transações pontuais e recorrentes,** a Microsoft pode emitir uma nota de crédito quando solicitar um crédito ou um rebill. A fatura é cancelada quando o crédito é emitido. 
 
-## <a name="next-steps"></a>Passos seguintes
+## <a name="next-steps"></a>Próximos passos
 
 - [Compreenda o seu projeto de lei e arquivo de reconciliação](read-your-bill.md)
 - [Cenários comuns de faturação para parceiros do programa CSP](common-billing-scenarios.md)

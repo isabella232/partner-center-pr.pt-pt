@@ -1,7 +1,7 @@
 ---
 title: Trabalhar com fornecedores indiretos no programa CSP
 ms.topic: how-to
-ms.date: 01/25/2021
+ms.date: 01/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como os revendedores indiretos podem trabalhar com fornecedores indiretos (ou distribuidores) da Microsoft para obter ajuda com o apoio ao cliente e faturação.
@@ -10,12 +10,12 @@ ms.custom: contperf-fy21q2
 author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
-ms.openlocfilehash: 7717f51504563ebb0193f693728229252827d7e3
-ms.sourcegitcommit: e99882e9b6c9b1a0f7427fb133693b1d977be76b
+ms.openlocfilehash: a2fc1fee31a72364179deee5d18f9af3c5b626fc
+ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/26/2021
-ms.locfileid: "98773449"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98924983"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Saiba como associar-se a fornecedores indiretos no programa Cloud Solution Provider
 
@@ -76,30 +76,39 @@ A partir de outubro de 2020, todos os parceiros da Microsoft novos na CSP, vão 
    > [!IMPORTANT]  
    > Para ajudar a garantir a segurança e privacidade da sua empresa, enviaremos um e-mail para o seu contacto principal para verificar se (1) ele ou ela se inscreveu para uma conta partner Center, e (2) que este endereço de e-mail pertence à sua empresa. Após o contacto principal verificar o seu endereço de e-mail, continuaremos a nossa revisão da informação que forneceu. Enviaremos por e-mail atualizações do estado de inscrição para o contacto primário.
 
-5. Associe o seu ID MPN ao seu inquilino de ID Azure.
+5. Associe o seu ID MPN à sua Conta CSP. 
+  A sua conta CSP e o ID MPN associado devem estar localizados no mesmo país.
 
-    1. Inscreva-se na sua conta MPN. Ir para **Definições**  ->  **de definições de conta**  ->  **Identificadores de perfil** da organização  ->  . Veja os seus IDs MPN e selecione aquele cujo país seja o mesmo que o país da sua conta CSP. Por outras palavras, a sua conta CSP e o ID MPN associado devem estar localizados no mesmo país/região.
+   a. Inscreva-se no Partner Center com as suas credenciais de conta "MPN" (as suas credenciais MPN podem ser diferentes das suas credenciais CSP).
+   
+   b. Ir para **Configurações**  ->  **Configurações Configurações**  ->  **Identificação de Perfil da Organização**  ->  .
+ 
+    c. Encontre o ID MPN com o tipo "Localização" que corresponda ao país desta conta CSP. 
+
+    d. Se não conseguir encontrar o ID MPN de localização que corresponda à conta CSP que pretende utilizar, pode adicionar uma nova localização que irá criar um novo ID MPN. Saiba mais, [gerir localizações.](manage-locations.md)
+
+    e. Pode adiar este passo por enquanto, no entanto, não poderá assinar o Microsoft Partner Agreement (MPA) ou transacionar em CSP, até completar a associação do seu ID MPN à sua conta CSP.
     
      
  > [!IMPORTANT]  
-   > Selecione o ID MPN que está localizado no mesmo país/região que a sua conta CSP.
+   > Selecione o ID MPN que está localizado no mesmo país que a sua conta CSP.
 
-6. Quando a sua conta Partner Center estiver pronta a ser utilizada, verifique se foi adicionado ao grupo de agentes administrativos. Para terminar a configuração da sua conta, incluindo a adição de outros utilizadores, tem de ter permissões de agente administrativo. Siga estes passos para visualizar ou atualizar as suas permissões:
+6. Depois de a Microsoft completar a verificação de inscrição que demora 3 a 5 dias úteis, assine o Acordo de Parceiro da Microsoft na [visão geral](https://partner.microsoft.com/pcv/dashboard/overview) do painel do Partner Center utilizando credenciais de administração global. Para visualizar e descarregar o **Microsoft Partner Agreement** antes de o assinar, clique no link Do Acordo de Parceiro da Microsoft, conforme mostrado abaixo.  Se a sua conta estiver presa na verificação após 5 dias úteis, leia [o processo de verificação da conta](verification-responses.md).
+
+
+:::image type="content" source="images/agreement-three.png" alt-text="Nova localização do acordo mpa":::
+
+ 
+7. Confirme que assinou o Acordo de Parceiro da Microsoft na secção **de Informações** de Programa do perfil de Parceiro. Além disso, verá uma notificação de banner de confirmação na página de Visão Geral da CSP. 
+
+:::image type="content" source="images/mpagreen.png" alt-text="Bandeira verde aceite":::
+
+
+8. Quando a sua conta Partner Center estiver pronta a ser utilizada, verifique se foi adicionado ao grupo de agentes administrativos. Para terminar a configuração da sua conta, incluindo a adição de outros utilizadores, tem de ter permissões de agente administrativo. Siga estes passos para visualizar ou atualizar as suas permissões:
 
    1. A partir do painel 'Centro parceiro', selecione o ícone **Definições** e, em seguida, nas **definições de Conta**, selecione **a gestão do Utilizador**.
 
    2. Selecione o seu nome na lista de utilizadores. Em seguida, selecione **o agente de administração** se ainda não estiver selecionado. Selecione **Atualizar**.
-
-## <a name="all-indirect-resellers-need-to-sign-the-microsoft-partner-agreement"></a>Todos os revendedores indiretos precisam de assinar o Acordo de Parceiros da Microsoft
-
-1.  Se ainda não se mudou para o Partner Center do Partner Membership Center, faça-o agora. Para obter ajuda na mudança para o Partner Center, leia [o Guia para migrar de PMC para Partner Center](guide-to-migration.md). 
-
-2.  Se tiver uma conta de membro do Partner Center (MPN ID), ainda precisa de se inscrever oficialmente no programa Cloud Solution Provider. Para verificar o estado da sua adesão, vá ao [**seu perfil de Parceiro**](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) e confirme o tipo de conta. Em [seguida, inscreva-se na CSP como revendedor indireto](enrolling-in-the-csp-program.md). Depois de se ter inscrito como revendedor indireto, [aceite o pedido de relacionamento CSP do seu Fornecedor Indireto.](indirect-reseller-tasks-in-partner-center.md)
-
-3.  Se já se inscreveu no Partner Center como revendedor indireto, aceite o Acordo de Parceiro da Microsoft na [visão geral](https://partner.microsoft.com/pcv/dashboard/overview) do painel do Partner Center utilizando credenciais de administração global. Confirme que assinou o Acordo de Parceiro da Microsoft na secção **de Informações** de Programa do perfil de Parceiro. Além disso, verá uma notificação de banner de confirmação na página de Visão Geral da CSP. 
-
-:::image type="content" source="images/mpagreen.png" alt-text="Bandeira verde aceite":::
-
 
 ## <a name="connect-with-an-indirect-provider"></a>Connect with an indirect provider (Ligar a um fornecedor indireto)
 
@@ -145,3 +154,4 @@ A sua localização de negócio legal como revendedor indireto CSP determina os 
 - [Conheça o processo de verificação](verification-responses.md)
 
 - [Consulte os requisitos diretos do parceiro de conta](direct-partner-new-requirements.md)
+- [Contrato de Parceiro da Microsoft](microsoft-partner-agreement.md)

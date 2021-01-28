@@ -1,5 +1,5 @@
 ---
-title: Pagamentos e perfil fiscal FAQ
+title: FAQ sobre dividendos e perfis de imposto
 description: Obtenha respostas a perguntas comuns sobre pagamentos e detalhes fiscais no Partner Center. Inclui respostas sobre o porquê dos seus ganhos serem diferentes do que esperava.
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
@@ -7,12 +7,12 @@ ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 11/25/2020
-ms.openlocfilehash: 3b09f0a08cd974f88afe5c5708df307830491f3f
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: a1dda9c49486d9da92b7f7f5623a37739736873f
+ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492590"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98924908"
 ---
 # <a name="common-questions-about-payouts-and-taxes"></a>Questões comuns sobre pagamentos e impostos
 
@@ -128,10 +128,6 @@ Na transferência do histórico de transações, localize a coluna Modelo de imp
 
 Aceda à página **Pagamentos** e, em seguida, à secção **Lista de Pagamentos**. Uma ligação para o formulário do imposto da Tarifa de Serviço é apresentado para um pagamento que tem o Imposto da Tarifa de Serviço.
 
-#### <a name="how-do-i-download-a-withholding-tax-form-in-pdf"></a>Como transfiro um formulário de Imposto retido em PDF?
-
-Aceda à página *Pagamentos* e, em seguida, à secção **Lista de Pagamentos**. Uma ligação para um formulário de imposto retido é apresentado junto a um pagamento.
-
 #### <a name="where-do-i-find-year-end-tax-forms"></a>Onde encontro os formulários de imposto de fim de ano?
 
 Aceda à [página Perfil](https://partner.microsoft.com/dashboard/payee/profiles/partner/manage) para ver os seus formulários de imposto de fim de ano.
@@ -170,7 +166,7 @@ Aceda à página **Pagamentos** e, em seguida, à secção **Lista de Pagamentos
 
 #### <a name="how-do-i-download-a-withholding-tax-form-in-pdf"></a>Como faço o download de um formulário de retenção na fonte em PDF?
 
-Aceda à página **Pagamentos** e, em seguida, à secção **Lista de Pagamentos**. Uma ligação para um formulário de imposto retido é apresentado junto a um pagamento.
+Aceda à página **Pagamentos** e, em seguida, à secção **Lista de Pagamentos**. Uma ligação para um formulário de imposto retido é apresentado junto a um pagamento. Um formulário de retenção na fonte aplica-se apenas a programas de incentivo selecionados, e não a um pagamento de mercado comercial.
 
 #### <a name="where-do-i-find-year-end-tax-forms"></a>Onde encontro os formulários de imposto de fim de ano?
 
@@ -205,7 +201,7 @@ Utilize a [API de Pagamento de Parceiros.](https://apidocs.microsoft.com/service
 
  **Continuar a ler** [Acordo de Editor de Mercado Comercial](https://go.microsoft.com/fwlink/p/?LinkID=699560), Detalhes da política de [pagamento,](payout-policy-details.md) [detalhes fiscais,](tax-details-marketplace.md) [limiar de pagamento, método e prazo](payment-thresholds-methods-timeframes.md)
 
-## <a name="next-steps"></a>Passos seguintes
+## <a name="next-steps"></a>Próximos passos
 
 - [Receber o pagamento](marketplace-get-paid.md)
 - [Configurar a conta de dividendos e os formulários fiscais](set-up-your-payout-account.md)

@@ -9,12 +9,12 @@ author: khpavan
 ms.author: sakhanda
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e230cc0d8ff3afea4bf2cc7b55d3847814696af6
-ms.sourcegitcommit: f99424919f0d77bbe4f44293d84f9ea1e3317f13
+ms.openlocfilehash: 819f90ca9a8467de4a8001a1b10f8409d3fb1b81
+ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/21/2021
-ms.locfileid: "98658438"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98924992"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>Nova experiência comercial no CSP – faturação do Azure 
 
@@ -36,7 +36,7 @@ Este artigo explica como aceder e compreender a estrutura de ficheiros de fatura
 
 - **Prazo de pagamento da fatura:** Líquido 60 dias.
 
-- **Moeda de fatura**: Os parceiros continuarão a ser faturados na moeda atribuída ao cliente. Por exemplo, se o parceiro faturado estiver na Irlanda com clientes no Reino Unido, Noruega e Alemanha, então o parceiro faturado receberá uma fatura/reconhecimento de EUROS.
+- **Moeda de fatura**: A partir de 28 de janeiro de 2021, os parceiros da região UE/EFTA e reino unido que tenham novos clientes e clientes CSP existentes que adquiram novas ofertas de comércio pela primeira vez, cujos inquilinos foram criados antes de 11 de maio de 2020, serão cobrados para essas compras em moeda de localização parceira. Os parceiros situados fora da região UE/EFTA e reino unido continuarão a ser faturados em moeda de localização de parceiros.
 
 - **Incentivos ao parceiro**: Pago 45 dias a partir do final do mês de fatura.
 
@@ -160,7 +160,7 @@ Uma vez que o modelo de faturação dos serviços Azure através de um plano Azu
 
 :::image type="content" source="images/azure/azurespend.png" alt-text="Despesas do Azure":::
 
-## <a name="next-steps"></a>Passos seguintes
+## <a name="next-steps"></a>Próximos passos
 
 - Veja como o parceiro obteve crédito (PEC) é calculado. Inscreva-se no [painel do](https://partner.microsoft.com/dashboard/) Partner Center e localize a lista de preços disponíveis.
 

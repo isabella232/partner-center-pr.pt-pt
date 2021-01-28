@@ -9,12 +9,12 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 02cea980626ec32d3dd60f646b1f8744130792ea
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: f11031c6071dadb427d2d5b93edd90af1a844131
+ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534731"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98924954"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Lista de preços da nova experiência comercial no CSP para Azure
 
@@ -27,7 +27,7 @@ ms.locfileid: "96534731"
 - Agente comercial
 - Administração de gestão de utilizadores
 
-A tabela de preços para a nova experiência de comércio Azure na CSP é publicada no Partner Center. A lista de preços é entregue dinamicamente num ficheiro preciso em tempo real e os preços são mostrados apenas em USD. A faturação, no entanto, é feita na moeda suportada aplicável à localização da moeda do cliente. Para obter mais informações sobre a faturação na localização da moeda do cliente, leia o [plano Azure - faturação](azure-plan-billing.md).
+A tabela de preços para a nova experiência de comércio Azure na CSP é publicada no Partner Center. A lista de preços é entregue dinamicamente num ficheiro preciso em tempo real e os preços são mostrados apenas em USD. A partir de 28 de janeiro de 2021, os parceiros da região UE/EFTA e reino unido que têm novos clientes e clientes csp existentes que compram novas ofertas de comércio pela primeira vez, cujos inquilinos foram criados antes de 11 de maio de 2020, serão cobrados para essas compras em moeda de localização parceira.  Os parceiros situados fora da região UE/EFTA e reino unido continuarão a ser faturados em moeda de localização parceira, lê-se no [plano Azure - faturação](azure-plan-billing.md).
 
 ## <a name="see-pricing-for-subscriptions-under-the-azure-plan-pricing"></a>Ver preços para subscrições ao abrigo do plano Azure
 
@@ -79,7 +79,7 @@ A tabela de preços para a nova experiência de comércio Azure na CSP é public
 |TermoDuração|Para produtos de base a prazo, a duração do termo, aplicável às reservas|
 |Mercado|Mercado dos preços|
 |Moeda|Moeda do preço|
-|Preço Unitário|Preço por unidade|
+|UnitPrice|Preço por unidade|
 |PreçosTierRangeMin|Para preços diferenciados, o preço mínimo aplica-se|
 |PreçosTierRangeMax|Para preços diferenciados, o preço máximo aplica-se|
 |EficazStartDate|Data de início dos preços|
@@ -94,7 +94,7 @@ As listas de preços do plano Azure podem ser exportadas a partir da [página de
 
 Alguns serviços de consumo de plano Azure apoiam preços diferenciados. Os parceiros podem encontrar estes produtos e skus na lista de preços do plano Azure. Os itens que têm valores nas colunas de gama de preços permitem aos parceiros compreender o preço com base na utilização. No exemplo abaixo, usando dados de amostra, temos um produto sku com três níveis de preços.
 
-|**ProductId**   |**SkuId**   |**Preço Unitário**   |**PreçosTierRangeMin**   |**PreçosTierRangeMax**   |
+|**ProductId**   |**SkuId**   |**UnitPrice**   |**PreçosTierRangeMin**   |**PreçosTierRangeMax**   |
 |:---------------|:-----------|:---------------|:-------------------------|:-------------------------|
 |DDD123456ABC|01AB|.50|100001|9223372036854780000|
 |DDD123456ABC|01AB|.80|101|100000|
@@ -115,6 +115,6 @@ Esta API também permite que os parceiros recuperem taxas de câmbio mensais por
 
 Para obter mais informações sobre os preços do plano Azure e as APIs cambiais, consulte a documentação completa da [API sobre preços](/partner/develop/pricing).
 
-## <a name="next-steps"></a>Passos seguintes
+## <a name="next-steps"></a>Próximos passos
 
 - [Manage subscriptions and resources under the Azure plan](azure-plan-manage.md) (Gerir subscrições e recursos ao abrigo do plano do Azure)
