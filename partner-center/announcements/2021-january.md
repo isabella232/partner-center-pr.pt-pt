@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 01/20/2021
-ms.openlocfilehash: 555ccc81fcce924b44d6e4da5db3e3ff4aeb87d7
-ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
+ms.date: 01/28/2021
+ms.openlocfilehash: 2879a129879f894da89f57dc79366d2122a4a160
+ms.sourcegitcommit: 98f41b32c39adad83ed29050084d2d31057b7c2e
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "98924891"
+ms.lasthandoff: 01/29/2021
+ms.locfileid: "99042740"
 ---
 # <a name="january-2021-announcements"></a>Anúncios de janeiro de 2021
 
@@ -26,7 +26,7 @@ Anúncios de 2020: [maio](2020-may.md)  |  [junho julho](2020-june.md)  |  [](20
 
 _____________ 
 
-## <a name="phase-1-now-live-euefta--uk-change-of-partner-billing-currency-for-new-commerce-offers"></a><a name="14"></a> Fase 1 Agora ao vivo: EU/EFTA & Uk Change of Partner Billing Currency para novas ofertas de comércio
+## <a name="phase-1-now-live-euefta--uk-change-of-partner-billing-currency-for-new-commerce-offers"></a><a name="15"></a> Fase 1 Agora ao vivo: EU/EFTA & Uk Change of Partner Billing Currency para novas ofertas de comércio
 
 ### <a name="categories"></a>Categorias
 
@@ -72,7 +72,7 @@ Esta atualização reduzirá a complexidade e a sobrecarga com a faturação mul
 - Os parceiros notarão uma reduzida complexidade de faturação causada pela faturação multi-moeda, que libertará tempo e recursos atualmente associados à conciliação das contas
 - Para os parceiros que ainda não adotaram novas ofertas de comércio, esta mudança alinha-se com o anterior modelo de faturação de parceiros, permitindo aos parceiros fazerem uma transição mais fácil para a nova experiência de comércio na CSP
 
-### <a name="next-steps"></a>Próximos passos
+### <a name="next-steps"></a>Passos seguintes
 
 Reveja as informações sobre este tópico na Galeria de [Operações](https://partner.microsoft.com/resources/collection/eu-efta-changes-collection#/) (inscrição obrigatória) no site do parceiro da Microsoft.  
 
@@ -87,6 +87,74 @@ Para quaisquer questões relacionadas com este [suporte do Centro de Parceiros](
 - 28 de janeiro de 2021: 
     -    Anunciando a Fase 1 está em direto 
     -    Esclarecendo que, embora o Reino Unido não esteja incluído na UE/EFTA, eles fazem parte da [região e do mercado da Microsoft Europeia](https://docs.microsoft.com/partner-center/regional-authorization-overview) e serão afetados
+
+
+________________
+## <a name="changes-to-the-cloud-solution-provider-csp-customer-onboarding-requirements"></a><a name="14"></a> Alterações aos requisitos de embarque do fornecedor de solução cloud (CSP)
+
+### <a name="categories"></a>Categorias
+
+- Data: 2021-01-28
+- Segurança e Conformidade Reforçadas
+
+### <a name="impacted-audience"></a>Audiência impactada
+
+Parceiros de conta direta da CSP e fornecedores indiretos que tenham clientes novos ou existentes nos países listados na secção seguinte.
+
+### <a name="summary"></a>Resumo
+
+Como parte do nosso compromisso de ajudar parceiros e clientes a gerir negócios com base na confiança, solicitaremos informações adicionais ao cliente, efetivo final de março de 2021.
+
+### <a name="details"></a>Detalhes
+
+A Microsoft tem confiança. Estamos empenhados em fornecer um método de validação de clientes conforme, seguro e seguro para a transação de subscrições de clientes no programa CSP. No final de março de 2021, apresentaremos melhorias no Partner Center API e na interface de utilizador (UI) que afetarão parceiros que satisfaçam ambos os seguintes critérios:
+
+1. O parceiro tem uma relação de faturação direta com a Microsoft (o que significa que o parceiro é ou um parceiro de conta direta ou um fornecedor indireto).
+2. O parceiro negoceia com clientes novos ou existentes nos seguintes países:
+    - Tailândia
+    - Vietname
+    - Turquia
+    - Polónia
+    - África do Sul
+    - Índia
+    - Brasil
+    - Iraque
+    - Mianmar
+    - Sudão do Sul
+    - Arábia Saudita
+    - Emirados Árabes Unidos
+    - Venezuela
+
+Os parceiros que satisfaçam os critérios terão de submeter o **identificador legal** de um cliente (também conhecido como organização do cliente **INN)** e o número de **telefone** quando estiverem a bordo de novos clientes ou a modificar os dados do cliente existentes. Estes parceiros também podem introduzir um **nome do meio** opcional para o cliente.
+
+Os parceiros que fazem negócios com clientes novos ou já existentes nos seguintes países já foram a bordo com um lançamento anterior em novembro de 2020.
+
+- Arménia
+- Azerbaijão
+- Bielorrússia
+- Hungria
+- Cazaquistão
+- Quirguistão
+- Moldávia
+- Rússia
+- Tajiquistão
+- Ucrânia
+- Usbequistão
+
+Os parceiros com clientes no resto do mundo terão a capacidade, no final de março de 2021, de introduzir o **identificador legal**, **número de telefone** e nome do **meio** para os clientes como detalhes opcionais.
+
+### <a name="next-steps"></a>Passos seguintes
+
+- Reveja a documentação técnica e as perguntas frequentes na coleção de [parceiros](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) dedicados (inscrição necessária) para uma orientação mais detalhada.
+- Prepare-se para incorporar as alterações utilizando a API do Partner Center e a experiência do utilizador web. A API/SDKs estará disponível para testes.
+- Certifique-se de submeter os dados adicionais ao embarcar em novos clientes ou modificar os dados do cliente existentes.
+- Se estiver a utilizar uma solução de fornecedor de painéis de controlo (CPV), consulte o seu CPV.
+
+### <a name="questions"></a>Perguntas?
+
+Contacte o seu consultor fiscal ou o fisco local se tiver alguma questão relacionada com o identificador legal (também chamado INN ou TIN). A Microsoft não pode fornecer orientações sobre questões fiscais.
+
+Se precisar de apoio com as suas operações com a Microsoft, [abra um pedido](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8) de serviço (pedido de inscrição).
 
 ________________
 ## <a name="microsoft-partner-agreement-mpa--indirect-reseller-update--new-faqs"></a><a name="13"></a> Microsoft Partner Agreement (MPA) – atualização de revendedor indireto & novas FAQs 
@@ -104,7 +172,7 @@ Todos os revendedores indiretos & fornecedores indiretos que transacionam atrav�
 
 A implementação do Acordo de Parceiros da Microsoft (MPA) para revendedores indiretos está atualmente em curso. Para continuar a apoiar fornecedores e revendedores, ouvimos o seu feedback e agora consolidámos consultas comuns sobre como aceitar a MPA numa nova [página de Perguntas Frequentes](https://docs.microsoft.com/partner-center/mpa-indirect-provider-faq).
 
-### <a name="next-steps"></a>Próximos passos
+### <a name="next-steps"></a>Passos seguintes
 
 **Revendedores indiretos:** Se não aceitou a MPA, reveja as [FAQs de MPA](https://docs.microsoft.com/partner-center/mpa-indirect-provider-faq) e siga as orientações passo a passo disponíveis [para](https://docs.microsoft.com/partner-center/microsoft-partner-agreement) aceitar a MPA.
 
@@ -136,7 +204,7 @@ Abaixo estão os novos tipos de operação:
 
 "operationType": "dap_admin_relationship_approved",
 
-### <a name="next-steps"></a>Próximos passos
+### <a name="next-steps"></a>Passos seguintes
 
 - Aproveite os novos tipos de operação para acompanhar os eventos quando o DAP foi aprovado pelo cliente e encerrado pelo cliente.  
 - [Obtenha um registo da atividade do Partner Center - Partner Center app developer | Microsoft Docs](https://docs.microsoft.com/partner-center/develop/get-a-record-of-partner-center-activity-by-user)
@@ -250,7 +318,7 @@ Como [anunciado](https://blogs.partner.microsoft.com/mpn/general-availability-of
 
 Note também que a partir de hoje o software do Partner Center e a capacidade de cumprimento da chave de licença foi reformado e que os parceiros que vão para a frente devem apontar os clientes para o Microsoft 365 Admin Center para este fim. Veja abaixo mais detalhes e próximos passos.
 
-### <a name="next-steps"></a>Próximos passos
+### <a name="next-steps"></a>Passos seguintes
 
 - Descarregue a lista de preços **de software perpétuo CSP** na secção de **Software** da página de Ofertas de Preços & Do Centro De [Parceiros.](https://partnercenter.microsoft.com/pcv/sales) Uma lista dos produtos e geografias recém-adicionados pode ser consultada [aqui.](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf)
 - Reveja o [software perpétuo do Microsoft 365 Admin Center e as chaves da licença de produto descarreguem o artigo](https://go.microsoft.com/fwlink/p/?linkid=2152525) e partilhem com os seus clientes quando estiverem prontos para descarregar o software e as chaves de licença.
@@ -304,7 +372,7 @@ A partir de fevereiro de 2021, a Microsoft estará a implementar o estrangulamen
  
 Recomendamos vivamente que os parceiros considerem usar o log de atividade API para obter mais eficiência e evitar estrangulamentos.Para mais informações sobre esta funcionalidade, consulte os detalhes [aqui.](/partner-center/develop/api-throttling-guidance)  
 
-### <a name="next-steps"></a>Próximos passos
+### <a name="next-steps"></a>Passos seguintes
 
 Reveja os [recursos](/partner-center/develop/api-throttling-guidance)   para este tema e tome as medidas necessárias.  
 
@@ -360,7 +428,7 @@ Estas ofertas programáticas vão substituir a atual promoção [de Segurança e
    |Conformidade microsoft 365 F5|6dc6cb1d-7bcb-4234-80cc-9c7a9cded044|8RL-00003|
    |Microsoft 365 F5 Segurança & Compliance|ad396924-ee4e-4059-b779-efe43dfa24d2|8RU-00003|
    
-### <a name="next-steps"></a>Próximos passos
+### <a name="next-steps"></a>Passos seguintes
 
 Reveja a pré-visualização da lista de preços e partilhe com as partes interessadas apropriadas na sua organização. Para mais informações, aceda à [Microsoft Security and Compliance - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-security-and/ct-p/MicrosoftSecurityandCompliance).
 
@@ -406,7 +474,7 @@ Para obter informações adicionais sobre como assinar eletronicamente documento
 - [Assinar eletronicamente um documento | Tutoriais de Sinal de Adobe](https://helpx.adobe.com/sign/how-to/adobe-for-signers.html?playlist=/ccx/v1/collection/product/sign/segment/designer/explevel/beginner/applaunch/continuinged/collection.ccx.js&ref=helpx.adobe.com)
 - [Delege alguém para assinar um documento | Tutoriais de Sinal de Adobe](https://helpx.adobe.com/sign/how-to/use-the-delegator-role.html?playlist=/ccx/v1/collection/product/sign/segment/designer/explevel/beginner/applaunch/orientation/collection.ccx.js&ref=helpx.adobe.com)
 
-### <a name="next-steps"></a>Próximos passos
+### <a name="next-steps"></a>Passos seguintes
 
 Partilhe esta informação com as partes interessadas apropriadas na sua organização.
 
@@ -453,7 +521,7 @@ O anúncio completo só está disponível para os Microsoft Partners. [Faça log
 
 ________________
 
-## <a name="calling-plan-and-phone-system-updates-for-february-1-20201"></a><a name="4"></a>Atualizações do Plano de Chamada e do Sistema Telefónico para 1 de fevereiro de 20201
+## <a name="calling-plan-and-phone-system-updates-for-february-1-2021"></a><a name="4"></a>Atualizações do Plano de Chamada e do Sistema Telefónico para 1 de fevereiro de 2021
 
 ### <a name="categories"></a>Categorias
 
@@ -486,7 +554,7 @@ Estas ofertas estarão disponíveis para clientes Comerciais, Estudantes, Docent
    |Microsoft 365 Plano de Chamada Doméstica para estudantes para EUA e Canadá|1f4b4375-3185-40cf-b044-117fe3b102c6|LM7-00007|
    |Microsoft 365 Plano de Chamada Doméstica para GCC para EUA e Canadá|594ed84e-ddf8-4e40-9726-76c04bd29e3b|LM9-00023|
 
-### <a name="next-steps"></a>Próximos passos
+### <a name="next-steps"></a>Passos seguintes
 
 - Partilhe esta informação com os contactos relevantes na sua organização e compreenda as oportunidades de venda e venda cruzada. 
 - Reveja a secção de recursos do [Guia de Parceiros de Equipas.](https://aka.ms/teamscallingmeetingsguide)
@@ -524,7 +592,7 @@ As moedas tiveram impacto:
 
 Os parceiros devem fazer referência às listas de preços de pré-visualização atualmente disponíveis de janeiro e fevereiro para os preços corretos. 
 
-### <a name="next-steps"></a>Próximos passos
+### <a name="next-steps"></a>Passos seguintes
 
 - Os parceiros devem descarregar os mais recentes ficheiros da lista de preços do Centro de Parceiros para obter os preços corrigidos de janeiro e fevereiro. 
 - Os administradores globais para inquilinos com impacto que tenham adquirido subscrições entre 1 de janeiro e 6 de janeiro serão notificados através de um email do Partner Center antes do final de janeiro com mais detalhes. 
@@ -540,7 +608,7 @@ Parceiros que vendem ofertas académicas através do programa Cloud Solution Pro
 
 Este é um seguimento das melhorias da API lançadas em dezembro de 2020. Em dezembro de 2020 foram lançadas novas APIs GET e POST Qualifications, e consequentemente as antigas APIs get e PUT Qualification serão retiradas até ao final de fevereiro de 2021. Nessa altura, terá de utilizar as novas APIs do Get and POST Partner Center para poder comprar ofertas de Educação. 
 
-### <a name="next-steps"></a>Próximos passos
+### <a name="next-steps"></a>Passos seguintes
 
 - Se ainda não o fez, atualize as novas APIs para uma transição bem sucedida e oportuna.
 - Reveja as novas alterações da API do Centro parceiro e [Guia nos recursos de Prontidão de Operações: Melhorias do processo de validação do processo de validação do cliente do Partner Center Education](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/).
@@ -604,7 +672,7 @@ Estes SKUs foram removidos da lista final de preços de 1 de janeiro de 2021 e n
    |Dinâmica 365 Operações – Dispositivo para Programa de Migração AX|8c8b7c8f-cb3a-4737-8319-1752938c7be3|
    |Dinâmica 365 Membros da equipa para o Programa de Migração AX|1eb3ad0b-9de3-419d-8bfe-0d61bddd945b2|
 
-### <a name="next-steps"></a>Próximos passos
+### <a name="next-steps"></a>Passos seguintes
 
 Reveja os recursos sobre este tema e partilhe-os com as partes interessadas apropriadas na sua organização. 
 

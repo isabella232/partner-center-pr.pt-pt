@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 01/27/2021
-ms.openlocfilehash: 6001199d4da9d000f82f16f9fcf2f945c3c3e08b
-ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
+ms.date: 01/28/2021
+ms.openlocfilehash: 6e5a9f4bcc9918a78833121c22c410aac9fac79c
+ms.sourcegitcommit: 98f41b32c39adad83ed29050084d2d31057b7c2e
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "98924922"
+ms.lasthandoff: 01/29/2021
+ms.locfileid: "99042706"
 ---
 # <a name="partner-center-announcements"></a>Anúncios do Centro de Parceiros
 
@@ -22,7 +22,8 @@ Saiba mais sobre atualizações importantes do Centro de Parceiros. Estas inform
 
 | **Categoria** | **Anúncios de janeiro de 2021** | **Anunciado** |
 |---------|:---------|:---------|
-|Modern Workplace|[Alteração da Moeda de Faturação de Parceiros da UE/EFTA para novas ofertas de comércio](2021-january.md#14)|27 de janeiro|
+|Modern Workplace|[Fase 1 Agora ao vivo: EU/EFTA & Uk Change of Partner Billing Currency para novas ofertas de comércio](2021-january.md#15)|28 de janeiro|
+|Modern Workplace|[Alterações dos requisitos de inclusão de clientes do programa Fornecedor de Soluções Cloud (CSP)](2021-january.md#14)|28 de janeiro|
 |Capacidades|[Microsoft Partner Agreement (MPA) – atualização de revendedor indireto & novas FAQs](2021-january.md#13)|27 de janeiro|
 |Capacidades|[Alterações no registo de auditoria do Partner Center para incluir dois novos Tipos de Operação para DAP](2021-january.md#12)|25 de janeiro|
 |Capacidades|[Alterações à Azure oferecem disponibilidade em CSP relacionada com a nova experiência de comércio na CSP para a Azure](2021-january.md#11)|21 de janeiro|

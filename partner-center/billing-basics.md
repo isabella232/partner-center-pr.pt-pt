@@ -1,7 +1,7 @@
 ---
 title: Visão geral da faturação do Partner Center
 ms.topic: article
-ms.date: 05/05/2020
+ms.date: 01/28/2021
 description: Aprenda informações básicas de faturação e fatura para parceiros CSP no Partner Center. Inclui como cobrar aos clientes e como encontrar e ler a sua fatura.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d34a264f366cc21109bb0f0ae379d34130f6f590
-ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
+ms.openlocfilehash: 21cc9ddcffe2e9a29e920e235e79a5ce0bbd86b8
+ms.sourcegitcommit: 98f41b32c39adad83ed29050084d2d31057b7c2e
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "98924946"
+ms.lasthandoff: 01/29/2021
+ms.locfileid: "99042723"
 ---
 # <a name="billing-overview-for-csp-program-partners-working-in-partner-center"></a>Descrição geral da faturação para parceiros do programa CSP que trabalham no Centro de Parceiros 
 
@@ -86,6 +86,8 @@ Verá **ajustes** e **créditos** em atraso na sua próxima fatura de faturaçã
 As condições de pagamento são líquidas de 60 dias. As faturas devem ser pagas pela data de vencimento da fatura (60 dias após a data de faturação), ou a sua conta será delinquente, o que poderá ter impacto na sua inscrição na CSP. 
 
 Pode recuperar a funcionalidade completa das suas contas suspensas quando pagar o valor devido do passado.
+
+Uma vez fornecidas as informações de faturação corrigidas, o seu pagamento será visível na página de faturação do Partner Center no prazo de 5 dias úteis.
 
 ### <a name="taxes-and-vat"></a>Impostos e IVA
 
@@ -172,7 +174,7 @@ Poderá ter de solicitar um crédito ou rebill pelas seguintes razões:
 
 **Para todas as transações pontuais e recorrentes,** a Microsoft pode emitir uma nota de crédito quando solicitar um crédito ou um rebill. A fatura é cancelada quando o crédito é emitido. 
 
-## <a name="next-steps"></a>Próximos passos
+## <a name="next-steps"></a>Passos seguintes
 
 - [Compreenda o seu projeto de lei e arquivo de reconciliação](read-your-bill.md)
 - [Cenários comuns de faturação para parceiros do programa CSP](common-billing-scenarios.md)
