@@ -10,12 +10,12 @@ ms.custom: contperf-fy21q2
 author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
-ms.openlocfilehash: a2fc1fee31a72364179deee5d18f9af3c5b626fc
-ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
+ms.openlocfilehash: d93a94ce1171770d76617a9ec8bed9a1dd96d287
+ms.sourcegitcommit: 1aeabd40513f06809cb111131b4e6bc188975ce6
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "98924983"
+ms.lasthandoff: 01/29/2021
+ms.locfileid: "99065476"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Saiba como associar-se a fornecedores indiretos no programa Cloud Solution Provider
 
@@ -76,8 +76,8 @@ A partir de outubro de 2020, todos os parceiros da Microsoft novos na CSP, vão 
    > [!IMPORTANT]  
    > Para ajudar a garantir a segurança e privacidade da sua empresa, enviaremos um e-mail para o seu contacto principal para verificar se (1) ele ou ela se inscreveu para uma conta partner Center, e (2) que este endereço de e-mail pertence à sua empresa. Após o contacto principal verificar o seu endereço de e-mail, continuaremos a nossa revisão da informação que forneceu. Enviaremos por e-mail atualizações do estado de inscrição para o contacto primário.
 
-5. Associe o seu ID MPN à sua Conta CSP. 
-  A sua conta CSP e o ID MPN associado devem estar localizados no mesmo país.
+5. Associe o seu ID MPN à sua Conta CSP. A sua conta CSP e o ID MPN associado devem estar localizados no mesmo país, e o seu ID MPN deve estar no Partner Center.
+  
 
    a. Inscreva-se no Partner Center com as suas credenciais de conta "MPN" (as suas credenciais MPN podem ser diferentes das suas credenciais CSP).
    
@@ -88,10 +88,9 @@ A partir de outubro de 2020, todos os parceiros da Microsoft novos na CSP, vão 
     d. Se não conseguir encontrar o ID MPN de localização que corresponda à conta CSP que pretende utilizar, pode adicionar uma nova localização que irá criar um novo ID MPN. Saiba mais, [gerir localizações.](manage-locations.md)
 
     e. Pode adiar este passo por enquanto, no entanto, não poderá assinar o Microsoft Partner Agreement (MPA) ou transacionar em CSP, até completar a associação do seu ID MPN à sua conta CSP.
-    
-     
+
  > [!IMPORTANT]  
-   > Selecione o ID MPN que está localizado no mesmo país que a sua conta CSP.
+ > Selecione o ID MPN disponível no Partner Center e no mesmo país que a sua conta CSP e certifique-se de que o seu ID MPN está no Partner Center.
 
 6. Depois de a Microsoft completar a verificação de inscrição que demora 3 a 5 dias úteis, assine o Acordo de Parceiro da Microsoft na [visão geral](https://partner.microsoft.com/pcv/dashboard/overview) do painel do Partner Center utilizando credenciais de administração global. Para visualizar e descarregar o **Microsoft Partner Agreement** antes de o assinar, clique no link Do Acordo de Parceiro da Microsoft, conforme mostrado abaixo.  Se a sua conta estiver presa na verificação após 5 dias úteis, leia [o processo de verificação da conta](verification-responses.md).
 
@@ -141,7 +140,7 @@ Se um fornecedor indireto quiser ligar-se consigo no Centro de Parceiros, inicia
 A sua localização de negócio legal como revendedor indireto CSP determina os fornecedores indiretos com quem pode trabalhar, bem como as regiões onde pode fazer negócios com CSP. Saiba mais ao ler [cloud Solution Provider programa mercados regionais e moedas onde pode vender ofertas de CSP.](regional-authorization-overview.md)
 
 
-## <a name="next-steps"></a>Próximos passos
+## <a name="next-steps"></a>Passos seguintes
 
 - [O processo de verificação da conta](verification-responses.md)
 

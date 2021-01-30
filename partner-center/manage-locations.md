@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e39f264485e71c5a96916c224c0ea1a85c17a55b
-ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
+ms.openlocfilehash: 21d82fc3ec4470d4941d3ca7436089d3e892439e
+ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "98925051"
+ms.lasthandoff: 01/30/2021
+ms.locfileid: "99098895"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-a-new-location"></a>Gerencie as localizações da sua conta MPN e adicione uma nova localização
 
@@ -47,6 +47,20 @@ Para adicionar uma nova conta de negócios da CSP, comece por garantir que cumpr
  >Lembre-se de assinar com as **novas** credenciais para a **nova** conta CSP. Não use as suas credenciais existentes como Partner Center irá reconhecê-lo como tendo já uma conta.
 
 2. Aceite o Acordo de Parceiro da Microsoft e ative a conta.
+
+## <a name="view-your-mpn-locations"></a>Ver as suas localizações de MPN
+
+1. Inscreva-se no painel partner [Center](https://partner.microsoft.com/dashboard/home) com as suas credenciais de conta MPN. (As suas credenciais MPN podem ser diferentes das suas credenciais de CSP) 
+ 
+1. A partir do ícone **Definições,** selecione **definições de conta**, **perfil de organização,** **Legal**. 
+
+1. No **separador Partner** verifique se não existe uma mensagem de erro de banner a pedir-lhe para corrigir locais migrados a partir de PMC. Se houver, siga as instruções e fixe os locais. 
+
+3. Se não houver uma mensagem de erro, então a partir de  **Definições**, selecione  **Definições** de Conta , **Perfil da Organização,** **Identificadores**.
+
+4. Encontre o ID MPN com o Tipo "Localização" que corresponda ao país desta conta CSP e use-o para pesquisar abaixo e completar a associação.
+
+5. Se não conseguir encontrar o ID MPN de localização que corresponda à conta CSP que pretende utilizar, pode adicionar uma nova localização que irá criar um novo ID MPN. Consulte **a localização mpn** abaixo.
 
 ## <a name="add-an-mpn-location"></a>Adicione uma localização MPN
 
@@ -81,6 +95,6 @@ Para adicionar uma nova conta de negócios da CSP, comece por garantir que cumpr
 
 6. O país da conta global da MPN será alterado para o novo país legal.
   
-## <a name="next-steps"></a>Próximos passos
+## <a name="next-steps"></a>Passos seguintes
 
 - Conheça o [processo de verificação.](verification-responses.md)

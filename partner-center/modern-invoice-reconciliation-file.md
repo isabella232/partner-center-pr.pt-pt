@@ -1,19 +1,19 @@
 ---
 title: Recon campos de arquivo para compras únicas da CSP
 ms.topic: conceptual
-ms.date: 11/10/2020
+ms.date: 01/29/2021
 description: Saiba mais sobre todos os itens do seu ficheiro de reconciliação de compra única no Partner Center, incluindo valores de amostra.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
-ms.openlocfilehash: 29574dad6c3dd5eedbcf93dd555509cb04144ef5
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: f1606cceaf9dec1f04850fd85b3924ef75bbfda0
+ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182584"
+ms.lasthandoff: 01/30/2021
+ms.locfileid: "99098810"
 ---
 # <a name="csp-one-time-purchase-reconciliation-file-fields"></a>CSP uma vez comprar campos de arquivos de reconciliação
 
@@ -64,6 +64,9 @@ Para obter mais informações sobre ficheiros de reconciliação, consulte [util
 | PCToBCExchangeRateDate | A data em que é determinada a moeda de fixação da moeda de faturação. | *30/9/2020* |
 | Descrição do Medidor | Descrição do medidor.  | *Tabelas - Dados LRS Armazenados (GB/Mês)* |
 | ReservationOrderId | O ID da Ordem de Reserva. | *E21A6344E398FFC1C4D7...* |
+
+>[!NOTE]
+>Pode conciliar o seu consumo de Azure no seu ficheiro de reconhecimento de compra única. Para isso, vá ao seu arquivo de reconhecimento de utilização diária e procure a sua SubscriçãoID. Isto mostrará todos os custos associados ao seu ID do Plano Azure. O seu Azure SubscriptionID é apresentado como o EntitlementID.
 
 ## <a name="next-steps"></a>Passos seguintes
 

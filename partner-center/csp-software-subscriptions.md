@@ -1,7 +1,7 @@
 ---
 title: Sell software subscriptions through CSP (Vender subscrições de software através do CSP)
 ms.topic: how-to
-ms.date: 06/18/2020
+ms.date: 01/29/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como os parceiros no programa CSP podem usar o Partner Center para comprar, gerir, vender e cancelar instâncias reservadas do Azure e subscrições do Servidor para os clientes.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bd14a82472f1a102902f1962479640b1437ef495
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 07fdc40ae9232a5cf2636b309dae45a52538edf2
+ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92529999"
+ms.lasthandoff: 01/30/2021
+ms.locfileid: "99098844"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Vender subscrições de software através do programa Cloud Solution Provider (CSP)
 
@@ -45,22 +45,22 @@ O Azure Hybrid Benefit ajuda-o a obter mais valor das suas licenças do Windows 
 > | Ilhas Alanda     | Gronelândia     | Papua-Nova Guiné     |
 > | Samoa Americana     | Granada     | Ilhas Pitcairn     |
 > | Andorra     | Guadalupe     | Reunião     |
-> | Anguila     | Guame     | Rio Saba   |
-> | Antártica     | Guernesey     | São Barthélemy   |
+> | Anguila     | Guame     | Saba   |
+> | Antártica     | Guernesey     | São Bartolomeu   |
 > | Antígua e Barbuda       | Guiné     | Santa Lúcia   |
 > | Aruba       | Guiné-Bissau     | São Martinho (Saint Martin)   |
-> | Azerbaijão       | Guiana     | São Pedro e Miquelon   |
+> | Azerbaijão       | Guiana     | São Pedro e Miquelão   |
 > | Benim     | Haiti       | São Vicente e Granadinas     |
-> | Butão     | Ilha Heard e Ilhas McDonald       | Samoa     |
-> | Rio Bonaire     | Ilha de Man     | São Marino     |
+> | Butão     | Ilhas Heard e McDonald       | Samoa     |
+> | Bonaire     | Ilha de Man     | São Marino     |
 > | Ilha Bouvet     | Jan Mayen     | São Tomé e Príncipe   |
 > | Território Britânico do Oceano Índico       | Jersey     | Seicheles   |
 > | Ilhas Virgens Britânicas     | Quiribáti       | Serra Leoa   |
-> | Burkina Faso     | Kosovo     | Sint Eustatius     |
+> | Burkina Faso     | Kosovo     | Santo Eustáquio     |
 > | Burundi     | Laos     | São Martinho (Sint Maarten)     |
 > | Camboja     | Lesoto     | Ilhas Salomão     |
 > | República Centro-Africana     | Libéria     | Somália     |
-> | Chade     | Madagáscar     | Ilhas da Geórgia do Sul e Sandwich do Sul     |
+> | Chade     | Madagáscar     | Ilhas Geórgia do Sul e Sandwich do Sul     |
 > | China     | Maláui     | Sudão do Sul     |
 > | Ilha do Natal     | Maldivas     | Santa Helena, Ascensão, Tristão da Cunha     |
 > | Ilhas dos Cocos (Keeling)     | Mali     | Suriname     |
@@ -72,7 +72,7 @@ O Azure Hybrid Benefit ajuda-o a obter mais valor das suas licenças do Windows 
 > | Dominica     | Montserrate     | Tonga   |
 > | Guiné Equatorial     | Moçambique     | Ilhas Turcas e Caicos   |
 > | Eritreia     | Mianmar     | Tuvalu   |
-> | Ilhas Falkland (Malvinas)     | Nauru     | Ilhas Menores Distantes dos EUA   |
+> | Ilhas Falkland (Malvinas)     | Nauru     | Ilhas Desondo dos EUA   |
 > | Guiana Francesa     | Nova Caledónia     | Vanuatu   |
 > | Polinésia Francesa     | Níger     | Cidade do Vaticano   |
 > | Territórios Austrais Franceses     | Niuê     | Wallis e Futuna   |
@@ -92,27 +92,18 @@ Para comprar subscrições de software em nome de um cliente:
 
 ## <a name="activate-and-manage-software-subscriptions"></a>Activate and manage software subscriptions (Ativar e gerir subscrições de software)
 
-Depois de adquirir a subscrição do software, siga os passos abaixo para descarregá-lo.
+Depois de ter adquirido o seu software, os seus clientes têm de o descarregar. Utilize o seguinte procedimento para o fazer.
 
 >[!NOTE]
->Deve ser um agente administrativo para descarregar software e obter chaves de ativação.
+>Você deve ser um agente de administração para obter chaves e downloads.
 
-1. Inscreva-se no painel do Centro [de Parceiros](https://partner.microsoft.com/dashboard).
-
-2. No menu Partner Center, selecione **Clientes,** em seguida, escolha um cliente da lista.
-
-3. Aceda à página de detalhes do seu cliente e, em seguida, **selecione Software** . Verá uma lista de todo o software que comprou em nome do cliente. 
-
-4. Expanda o produto que pretende descarregar. No campo **de produto Select,** selecione a **versão,** **idioma** e **tipo de ficheiro/sistema** que pretende. 
-
-5. **Selecione Submeter-se** para exibir os produtos específicos. 
-
-6. **Selecione Obter chaves e downloads** . 
-
-7. Selecione **Baixar** para começar a descarregar ou selecione **Copy link** para copiar o link e enviá-lo para o cliente. 
+1. Aceda à página de detalhes do seu cliente e, em seguida, **selecione Software**. Verá uma lista de todo o software que comprou em nome do cliente.
+2. Copie o "link profundo" das **chaves e transferências** de produtos Link para Software e partilhe o link com o seu cliente. Quando selecionarem este link, serão redirecionados para o Microsoft Admin Center para descarregar e obter as chaves do produto.
 
 >[!NOTE]
->Este link expirará após duas semanas ou 50 downloads, o que vier primeiro. Assim que o link expirar, volte a esta página e selecione **Obter chaves e downloads** novamente para ativar mais duas semanas ou 50 downloads. Podes fazer isto quantas vezes for preciso. 
+>Apenas os clientes podem ver as chaves do produto e descarregar informações no Microsoft Admin Center. Os parceiros não podem ver esta informação.
+
+Se você ou os seus clientes quiserem saber mais sobre o download das chaves da licença, consulte as [chaves do software de descarregamento e da licença de produto.](https://go.microsoft.com/fwlink/p/?linkid=2152525)
 
 ## <a name="server-subscription-download-and-license-keys-available-through-microsoft-365-admin-center-for-customers"></a>Chaves de descarregamento e licença de subscrição do servidor disponíveis através do Microsoft 365 Admin Center para clientes 
 
@@ -129,7 +120,7 @@ Para efeitos de auditoria ou conformidade, poderá ter de verificar uma lista de
 
 2. Selecione o ícone de engrenagem a partir do canto superior direito.
 
-3. No menu, selecione **Registo de Atividades** .
+3. No menu, selecione **Registo de Atividades**.
 
 4. Insira o intervalo de datas para a atividade que deseja ver. O registo de atividade apresentará uma lista de utilizadores que acederam a chaves de software ou descarregaram software durante o tempo especificado. 
 
@@ -159,7 +150,7 @@ Siga os passos abaixo para cancelar uma compra:
 
 4. Na página de detalhes do cliente, selecione **Software** para ver a lista de software adquirido para o cliente. 
 
-5. Localize a compra de software que pretende cancelar e, em seguida, **selecione Cancelar** . Aparecerá uma caixa de diálogo.
+5. Localize a compra de software que pretende cancelar e, em seguida, **selecione Cancelar**. Aparecerá uma caixa de diálogo.
 
 6. Na lista de drop-down de número de encomenda da Ordem, selecione o número de identificação de encomenda correto que pretende cancelar. (Pode obter mais informações sobre um número de pedido ou iD de encomenda na página de histórico da **Encomenda** do cliente.)
 
@@ -194,7 +185,7 @@ Se tentou cancelar uma compra de software através do Partner Center, mas lhe fo
 
 1. Quando selecionar o link de pedido de apoio ao **cliente** a partir da janela de compra Cancelar, o Relatório abrirá um problema com a página **Partner Center.**
 
-2. Em **Detalhes** , na lista de problemas, selecione **CSP Purchase/Refund em nome dos clientes** .
+2. Em **Detalhes**, na lista de problemas, selecione **CSP Purchase/Refund em nome dos clientes**.
 
 3. Preencha os campos de Impacto e Título.
 
@@ -210,7 +201,7 @@ Se tentou cancelar uma compra de software através do Partner Center, mas lhe fo
 
 5. No campo Contacto, insira o seu nome, endereço de e-mail e número de telefone.
 
-6. Se precisar de anexar um ficheiro por qualquer motivo, **selecione Adicionar ficheiros** . Este passo é opcional.
+6. Se precisar de anexar um ficheiro por qualquer motivo, **selecione Adicionar ficheiros**. Este passo é opcional.
 
 7. Quando terminar, **selecione Submeter.**
 
