@@ -9,44 +9,43 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 52a1ac20b0370e1dd4a1de85087303090c1b7eb4
-ms.sourcegitcommit: e9066768ab8e242c03f0a7e3ce460ae8cd2e3fda
+ms.openlocfilehash: 7ab3d1ab3f29e01303a9a039b9e9b21b9cfad07f
+ms.sourcegitcommit: 2c8d1bca0737a3d73f2888dfeaf099176bf9e9ae
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "97622206"
+ms.lasthandoff: 02/03/2021
+ms.locfileid: "99480073"
 ---
 # <a name="manage-co-sell-opportunities-in-partner-center"></a>Gerir oportunidades de co-venda no Partner Center
 
-**Aplica-se a**
-
-- Partner Center
 
 **Funções adequadas**
 
 - Administrador sócio da MPN
 - Administração de referências
 
-Aproveite as oportunidades de co-venda.  As oportunidades de co-venda são uma colaboração de várias partes para vender produtos que atendam às necessidades do cliente. Este artigo irá ajudá-lo a entender como pode usar o poder de Co-sell no Partner Center para co-vender e adquirir novos clientes.
+Aproveite as oportunidades de co-venda.  Uma oportunidade de co-venda é uma colaboração de várias partes para vender produtos que atendam a uma necessidade do cliente. Este artigo irá ajudá-lo a entender como pode usar o poder de co-venda no Partner Center para co-vender e adquirir novos clientes.
 
 ## <a name="types-of-co-sell-opportunities"></a>Tipos de oportunidades de co-venda
 
-**Co-venda** – É aqui que um ou mais representantes de vendas da Microsoft estão ativamente envolvidos no negócio para ajudar a resolver um problema de cliente. As oportunidades podem ter origem numa conta de clientes onde um representante de vendas da Microsoft convida o parceiro a participar numa atividade de co-venda ou de um parceiro onde precisam de ajuda adicional das vendas da Microsoft para fechar o negócio.
+**Oportunidade de co-venda** – É aqui que um ou mais representantes de vendas da Microsoft estão ativamente envolvidos no negócio para ajudar a resolver um problema de cliente. As oportunidades podem ter origem numa conta de clientes onde um representante de vendas da Microsoft convida o parceiro a participar numa atividade de co-venda ou de um parceiro onde precisam de mais ajuda das vendas da Microsoft para fechar o negócio.
 
 **Parceiro para Parceiro (P2P)** – É aqui que um parceiro pode convidar outros parceiros no ecossistema de Co-venda da Microsoft para colaborar. Os parceiros podem opcionalmente convidar um representante de vendas da Microsoft para ajudar a fechar o negócio. Ambos os parceiros e Microsoft podem ser convidados mesmo depois de criarem um acordo, desde que seja antes de serem concluídos. (Nota que a conclusão inclui ganhos, perdidos, declinados e expirados).
 
-**Negócio privado** – É quando um parceiro decide trabalhar independentemente num negócio que foi criado no Partner Center. Os parceiros têm a opção de convidar os vendedores da Microsoft depois de criarem o negócio para torná-lo uma atividade de venda colaborativa. Os detalhes do negócio não são partilhados com a equipa de vendas da Microsoft até ao momento em que a ajuda de vendas da Microsoft é explicitamente procurada pelo parceiro.
+**Negócio privado** – É quando um parceiro decide trabalhar independentemente num negócio que foi criado no Partner Center. Os parceiros podem dar visibilidade à equipa de vendas da Microsoft ou convidar os vendedores da Microsoft a procurarem ajuda ativa após a criação do negócio. Os detalhes do negócio não são partilhados com a equipa de vendas da Microsoft até que os parceiros selecionem explicitamente sim para a pergunta "Gostaria que os vendedores da Microsoft vissem este negócio?" ou solicitar a ajuda da equipa de vendas da Microsoft, escolhendo uma das opções para a pergunta "Identifique o tipo de ajuda que precisa da Microsoft?".
+
+**Acordo liderado por parceiros - Trata-se de** negócios em que um parceiro decide trabalhar independentemente num negócio, mas não faz mal dar visibilidade dos detalhes do negócio aos membros da equipa de vendas da Microsoft. Os parceiros podem convidar os vendedores da Microsoft depois de criarem o negócio. Estas ofertas são elegíveis para registo de negócios quando uma solução elegível de incentivo faz parte do negócio. Convidar o vendedor da Microsoft não é necessário para o registo de negócios se os critérios de solução elegíveis de incentivo forem cumpridos. Pode fazer um acordo liderado por um parceiro, respondendo sim à pergunta "Gostaria que os vendedores da Microsoft vissem este negócio?"
 
 **Avaliação de Soluções (SA)** – Este tipo de ofertas só pode ser criado por um conjunto de parceiros que são examinados pela equipa de negócios de avaliação de soluções para a realização de avaliações tecnológicas para clientes que usam ou planeiam utilizar tecnologias da Microsoft.
 
 > [!NOTE]
-> As ofertas privadas, apesar de não serem verdadeiramente colaborativas, estão aqui incluídas para proporcionar um caminho fácil para atualizar qualquer negócio de pipeline para uma oportunidade de co-venda em qualquer fase não terminal **(ganha, perdida, recusada e expirada).**
+> As ofertas privadas, apesar de não serem verdadeiramente colaborativas, estão incluídas no separador de oportunidades de co-venda para proporcionar um caminho fácil para atualizar qualquer negócio de pipeline para uma oportunidade de co-venda em qualquer fase não terminal **(won, lost, declinou e expirou).**
 
 ## <a name="navigating-the-co-sell-section"></a>Navegando na secção Co-sell
 
 Para aceder à secção Co-venda, siga estes passos:
 
-1. Faça login no painel de instrumentos do Centro [de Parceiros.](https://partner.microsoft.com/dashboard)
+1. Inscreva-se no painel do Centro [de Parceiros](https://partner.microsoft.com/dashboard).
 
 2. A partir do menu de navegação à esquerda, **selecione Referências,** seguido **de Oportunidades de Co-venda.**
 
@@ -67,7 +66,7 @@ Pode criar três tipos de oportunidades.
 
 ### <a name="select-your-customer"></a>Selecione o seu cliente
 
-Selecione o cliente para esta oferta específica. Insira a sua localização e comece a escrever o nome. O autosuggest começará a apresentar recomendações com base nos critérios de pesquisa. Uma vez que muitas empresas têm mais do que uma entidade de negócio no mesmo local, pode ver vários resultados. Se não tiver certeza de qual escolher, pode confirmar qual o número D-U-N-S que pertence ao seu cliente. Certifique-se de selecionar a correspondência exata para o cliente com quem está a trabalhar.
+Selecione o cliente para uma oferta específica. Insira a sua localização e comece a escrever o nome. A caixa de sugestões começará a apresentar recomendações com base nos critérios de pesquisa. Uma vez que muitas empresas têm mais do que uma entidade de negócio no mesmo local, pode ver vários resultados. Se não tiver certeza de qual escolher, pode confirmar qual o número D-U-N-S que pertence ao seu cliente. Certifique-se de selecionar a correspondência exata para o cliente com quem está a trabalhar.
 
 Assim que clicar Em **Selecionar o cliente,** será solicitado que introduza o nome, número de telefone e endereço de e-mail para a pessoa que é o seu principal ponto de contacto para esta oferta. Estes detalhes são opcionais e só são necessários se estiver a planear convidar as vendas da Microsoft para o ajudar com o noivado. Selecione **Seguinte**.
 
@@ -104,18 +103,20 @@ Nesta secção, você precisa fornecer as informações relacionadas com as solu
 > [!Important]
 > Apenas um tipo de avaliação pode ser selecionado para um acordo de avaliação de soluções e nenhuma outra solução pode ser adicionada. Uma vez selecionada uma avaliação da solução, o parceiro tem de escolher o local para o qual a avaliação está a ser criada. Isto é necessário para os pagamentos corretos dos incentivos.
 
-Depois de fornecer as informações da solução, selecione Seguinte para passar para a secção onde pode decidir o tipo de venda. Tem três opções se escolher soluções das três primeiras opções e não uma avaliação de solução:
+Depois de fornecer as informações da solução, selecione Seguinte para passar para a secção onde pode decidir o tipo de venda. Tem quatro opções se escolher soluções das três primeiras opções no tipo de solução e não uma avaliação de solução:
 
-**Oferta privada**: Se não convidar a Microsoft e criar um compromisso neste passo, será do tipo de oleoduto privado. Os vendedores da Microsoft não terão visibilidade nos detalhes deste negócio.
+**Oferta privada**: Se não convidar a Microsoft e criar um compromisso neste passo, será do tipo de oleoduto privado. Os vendedores da Microsoft não terão visibilidade nos detalhes deste negócio. Pode criar um negócio privado selecionando **Nenhuma ajuda necessária neste momento** para a pergunta **"Identifique o tipo de ajuda que precisa da Microsoft?"** e **não** para a pergunta **"Gostaria que os vendedores da Microsoft vissem este negócio?"**. Pode sempre atualizar um negócio privado para um acordo de co-venda liderado por parceiros ou ativos antes que o negócio chegue a um estado terminal (ganho, perdido).
 
 > [!Important]
 > O registo de negócios não é aplicável a ofertas privadas. Tenha cuidado ao criar um negócio privado com soluções elegíveis de incentivo, uma vez que não serão elegíveis para o registo de negócios no Partner Center.
 
-**Negócio de co-venda:** Se selecionar outra opção que não a seleção padrão para a pergunta **"Identifique o tipo de ajuda que gostaria da Microsoft",** o negócio transforma-se num negócio de co-venda onde um vendedor da Microsoft pode potencialmente ajudá-lo a fechar o negócio. Um pedido de ajuda da Microsoft não é garantia de que um vendedor da Microsoft participará no negócio. Os representantes de vendas da Microsoft têm 14 dias para decidir se querem participar. Na secção de notas, certifique-se de identificar o tipo de ajuda que deseja.
+**Acordo liderado por parceiros**: Se não pretender não procurar ajuda ativa da equipa de vendas da Microsoft, mas quiser dar-lhes visibilidade no seu pipeline, pode criar um acordo liderado por parceiros. Pode criar um acordo liderado por parceiros selecionando **Nenhuma ajuda necessária neste momento** para a pergunta **"Identifique o tipo de ajuda que precisa da Microsoft?"** e **Sim** para a pergunta **"Gostaria que os vendedores da Microsoft vissem este negócio?"**. Estas ofertas são elegíveis para registo de transações, embora o vendedor da Microsoft não esteja ativamente envolvido em ajudar o parceiro. Os requisitos para o registo de negócios estão a ter uma solução elegível de incentivo no negócio e ganham o estatuto do negócio.
+
+**Negócio de co-venda:** Se selecionar outra opção que não a seleção padrão para a pergunta **"Identifique o tipo de ajuda que gostaria da Microsoft",** o negócio transforma-se num negócio de co-venda onde um vendedor da Microsoft pode potencialmente ajudá-lo a fechar o negócio. Um pedido de ajuda da Microsoft não garante que um vendedor da Microsoft participe no negócio. Os representantes de vendas da Microsoft têm 14 dias para decidir se querem participar. Na secção de notas, certifique-se de identificar o tipo de ajuda que deseja.
 
 **Negócio de Parceiro para Parceiro (P2P):** Pode convidar outros parceiros para o negócio clicando no link do parceiro Convidar. Abaixo está o processo de criação de um negócio P2P.
 
-- **Selecione um parceiro:** Depois de clicar no parceiro Convidar, poderá começar a digitar o nome do parceiro para obter uma lista sugerida de parceiros que correspondam ao nome que está a introduzir. Selecione o parceiro em que está interessado para preencher detalhes adicionais para esse parceiro. Só é possível pesquisar parceiros que estejam no ecossistema de co-venda da Microsoft e estejam a negociar no Partner Center.
+- **Selecione um parceiro:** Depois de clicar no parceiro Convidar, poderá começar a digitar o nome do parceiro para obter uma lista sugerida de parceiros que correspondam ao nome que está a introduzir. Selecione o parceiro em que está interessado para preencher mais detalhes para esse parceiro. Só é possível pesquisar parceiros que estejam no ecossistema de co-venda da Microsoft e estejam a negociar no Partner Center.
 
 - **Data de fecho estimada:** Esta é a data em que espera que o parceiro convidado complete a sua parte do acordo. A data é pré-preenchida para que possa optar por modificar a data apenas se necessário. É um campo obrigatório e pode ser editado pelo parceiro que está a convidar depois de criar o negócio. Não pode modificar este campo depois de criar o negócio.
 
@@ -129,7 +130,7 @@ Depois de fornecer as informações da solução, selecione Seguinte para passar
 
 - **Identificar o tipo de ajuda:** Identifique o tipo de ajuda: Por fim, identifique a ajuda específica de que necessita do parceiro convidado.
 
-Repita isto para todos os parceiros que quiser convidar para fazer parte deste acordo. Um parceiro para um negócio de parceiro também pode ter o vendedor da Microsoft envolvido onde você está convidando a Microsoft e os parceiros para o negócio. Também pode convidar tanto a Microsoft como os parceiros mais tarde, depois de criar o negócio.
+Repita isto para todos os parceiros que quiser convidar para este negócio. Um parceiro para um negócio de parceiro também pode ter o vendedor da Microsoft envolvido onde você está convidando a Microsoft e os parceiros para o negócio. Também pode convidar tanto a Microsoft como os parceiros mais tarde, depois de criar o negócio.
 
 ## <a name="responding-to-a-co-sell-opportunity"></a>Respondendo a uma oportunidade de co-venda
 
@@ -149,7 +150,7 @@ Nesta fase, se recebeu uma nova oportunidade de Co-venda, quer de um vendedor da
 
 ### <a name="accepted-stage"></a>Estágio aceite
 
-Trabalhar para fechar o negócio com o cliente. Se pretender alterar qualquer informação que tenha fornecido para uma remessa aceite, **selecione Editar**. Em seguida, pode atualizar o nome do negócio, data de compra estimada, valor estimado, notas, ID CRM e/ou o ID da campanha de marketing.  Também pode selecionar Adicionar a **sua equipa** para fornecer o nome, número de telefone e endereços de e-mail de quaisquer pessoas adicionais que estejam a trabalhar no negócio. As soluções também podem ser editadas com base na necessidade do cliente.
+Trabalhar para fechar o negócio com o cliente. Se pretender alterar qualquer informação que tenha fornecido para uma remessa aceite, **selecione Editar**. Em seguida, pode atualizar o nome do negócio, data de compra estimada, valor estimado, notas, ID CRM e/ou o ID da campanha de marketing.  Também pode selecionar Adicionar a **sua equipa** para fornecer o nome, número de telefone e endereços de e-mail de mais pessoas que estão a trabalhar no negócio. As soluções também podem ser editadas com base na necessidade do cliente.
 
 Todos os negócios que criou estão em fase Aceite por padrão.
 
@@ -182,14 +183,15 @@ Quando terminar, pode tomar uma das duas ações, que estão marcando o acordo c
 
 Um negócio só será elegível para registo de transações se cumprir todos os critérios abaixo.
 
-1. A Microsoft está convidada para o acordo.
-2. A Microsoft aceitou o convite ou marcou o acordo como ganho. Pode compreender o estado da Microsoft olhando para o cartão microsoft abaixo dos detalhes do seu negócio.
-3. Há uma solução elegível de incentivo no negócio.
+- O tipo de negócio é co-venda ou liderado por parceiros.
+- Há uma solução elegível de incentivo no negócio.
+- O estado do acordo está ganho.
+- Se o tipo de negócio for co-vendido, então a Microsoft aceitou o convite ou marcou o negócio como ganho. Pode compreender o estado da Microsoft olhando para o cartão microsoft abaixo dos detalhes do seu negócio.
 
 > [!Important]
 > Registe o negócio apenas se o nome da sua empresa e a solução elegível de incentivo no negócio forem claramente mencionados no contrato com o cliente.
 
-Se o negócio for elegível para o registo de negócios, haverá um marco adicional adicionado ao ciclo de vida do negócio denominado "Registo de negócios", como mostrado abaixo.
+Se o negócio for elegível para o registo de negócios, haverá outro marco adicionado ao ciclo de vida do negócio chamado "Registo de negócios", como mostrado abaixo.
 
 :::image type="content" source="images/pscmigration/dealregstages.png" alt-text="Imagem mostrando o ciclo de vida do negócio, o local de onde o registo do negócio pode ser iniciado.":::
 
@@ -206,6 +208,8 @@ A tabela abaixo mostra as combinações de quem pode ser convidado nesta fase do
 |**Tipo de negócio original**|**Quem pode ser convidado**|**Notas**|
 |-----|:-----|:-----|
 |Privado|Microsoft e/ou outros parceiros|O negócio será atualizado para Co-vender se a Microsoft for convidada.|
+|Privado|Equipa de vendas da Microsoft para ver as ofertas|O negócio será atualizado para parceiros liderados por parceiros quando a equipa de vendas da Microsoft receber visibilidade para as ofertas.|
+|Liderado por parceiros|Microsoft e/ou outros parceiros|O negócio será atualizado para Co-vender se a Microsoft for convidada.|
 |Co-vender|Outros parceiros|Outros parceiros só podem ser convidados se a sua empresa iniciar o negócio. Os parceiros não podem ser convidados para ofertas no separador Entrada.|
 |Parceiro para parceiro sem Microsoft|Microsoft|O acordo será atualizado para um acordo de co-venda.|
 |Parceiro para parceiro sem Microsoft|Outros parceiros||
@@ -216,17 +220,25 @@ Esta é a fase final para todas as oportunidades. Pode ver todos os negócios qu
 
 ## <a name="frequently-asked-questions"></a>Perguntas mais frequentes
 
-**Q1. Um negócio pode ser editado depois de marcado como Won ou perdido?**
+**Q. Um negócio pode ser editado depois de marcado como Won ou perdido?**
 
 Não, os acordos não podem ser modificados quando se mudam para um estado terminal. Expirado, declinado, ganho e perdido são estados terminais onde não são possíveis mais atualizações para o negócio. Tenha cuidado quando estiver a mover o negócio para qualquer um destes estados terminais.
 
-**Q2. Quem recebe uma notificação de e-mail do Partner Center?**
+**Q. Quem recebe uma notificação de e-mail do Partner Center?**
 
 O fluxo de trabalho abaixo explica como os e-mails são enviados aos parceiros do sistema de referências do centro parceiro para novas referências de entrada de parceiros.
 
 :::image type="content" source="images/pscmigration/emaillogic.png" alt-text="Imagem mostrando a lógica de como os e-mails são enviados aos parceiros para novas referências de entrada.":::
 
-## <a name="getting-more-co-sell-opportunities"></a>Obtenção de mais oportunidades de co-venda
+**Q. Que tipo de incentivos são elegíveis para o registo de negócios?**
+
+Apenas os incentivos IP são elegíveis para o registo de transações. Estes incluem
+
+- Co-venda Azure IP
+- Biz apps premium
+- Biz apps standard
+
+## <a name="get-more-co-sell-opportunities"></a>Obtenha mais oportunidades de co-venda
 
 Aqui ficam algumas dicas para ajudá-lo a obter mais oportunidades de co-venda que são adequadas ao seu negócio:
 
