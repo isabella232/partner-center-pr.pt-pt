@@ -1,7 +1,7 @@
 ---
 title: Microsoft Partner Network beneficia FAQ
 ms.topic: article
-ms.date: 12/10/2020
+ms.date: 02/04/2021
 description: Perguntas respondidas sobre políticas relativas aos benefícios da Microsoft Partner Network.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
@@ -9,12 +9,12 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: ''
-ms.openlocfilehash: ef57b282a1a062ac34d48e7fc247175aa9dab32c
-ms.sourcegitcommit: df7f26b46d1ca46e962e528578d20330804638f9
+ms.openlocfilehash: 521e3a3adb51f528fd7b2a35103f78b0c193f1d1
+ms.sourcegitcommit: efd37a9c5db4b87f75de1d13d75ce470b84b31f6
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "97349550"
+ms.lasthandoff: 02/04/2021
+ms.locfileid: "99552392"
 ---
 # <a name="microsoft-partner-network-benefits-faq"></a>Microsoft Partner Network beneficia FAQ
 
@@ -22,8 +22,13 @@ ms.locfileid: "97349550"
 
 - Administrador sócio da MPN
 
-
 O artigo que se segue responde a algumas das principais questões que os parceiros da Microsoft Partner Network (MPN) têm sobre os seus benefícios de adesão mpn, competências e licenças de produtos.
+
+## <a name="responding-to-covid-19"></a>Respondendo ao COVID-19
+
+**P.** **A data do aniversário da nossa competência está a chegar e não podemos cumprir os requisitos de competência devido aos impactos relacionados com a COVID-19. O que devemos fazer?**
+
+A. Se a data do seu aniversário de competência for entre 1 de janeiro e 30 de junho de 2021, estamos a alargar as suas competências ou competências existentes (com exceção da competência cloud Business Applications) até à sua próxima data de aniversário em 2022. Não precisará de cumprir os requisitos de exame ou desempenho, mas continuará a pagar a taxa de competência.Para mais informações, consulte a nossa [publicação de blog.](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/)
 
 ## <a name="membership"></a>Membership
 
@@ -140,18 +145,7 @@ A. A aquisição de competências e de Action Pack é concluída no Partner Cent
 
 A. Você pode ir à [secção de Apoio do Centro de Parceiros](https://partner.microsoft.com/support) para links para recursos que podem ser de ajuda, ou para abrir um bilhete com a nossa equipe de apoio parceiro, se necessário.
 
-## <a name="competency-extension-to-offset-effects-of-covid-19"></a>Extensão de competência para compensar os efeitos do COVID-19
-
-**P: A Microsoft oferece ajuda aos parceiros que enfrentam dificuldades?**
-
-R: Para os parceiros com data de aniversário de competência entre 1 de julho e 31 de dezembro de 2020, estamos a alargar as competências ou competências existentes do parceiro até à data do próximo aniversário, em 2021. O parceiro receberá um lembrete de renovação para refletir esta nova oferta. O parceiro precisa de pagar a sua taxa de competência dentro do período de renovação de 30 dias.
-
-**P: E se um parceiro perdeu o seu período de renovação de 30 dias?**
-
-R: O parceiro pode reativar a sua competência e recuperar o acesso aos recursos e benefícios pagando a sua taxa na página de ofertas de sócios no Partner Center até 30 dias após a data do seu aniversário. Se um parceiro tiver perdido o período de carência de 30 dias após a data de aniversário, deve submeter um bilhete de apoio através do Partner Center, indicando os detalhes do seu pedido para ser concedido um adiamento do COVID após o termo do seu período de renovação de 30 dias.
-
-Para mais informações, por favor leia [a oferta da MPN.](renew-mpn-offers.md)
-
 ## <a name="next-steps"></a>Passos seguintes
 
-- [Localize os seus benefícios do Microsoft Partner Network](mpn-find-benefits.md) 
+- [Localize os seus benefícios do Microsoft Partner Network](mpn-find-benefits.md)
+- [Renovar oferta de MPN](renew-mpn-offers.md)

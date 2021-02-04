@@ -8,20 +8,24 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 01/28/2021
-ms.openlocfilehash: 6e5a9f4bcc9918a78833121c22c410aac9fac79c
-ms.sourcegitcommit: 98f41b32c39adad83ed29050084d2d31057b7c2e
+ms.date: 02/03/2021
+ms.openlocfilehash: 9002e77d364985ffec170dbf3887dde0ab324746
+ms.sourcegitcommit: efd37a9c5db4b87f75de1d13d75ce470b84b31f6
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "99042706"
+ms.lasthandoff: 02/04/2021
+ms.locfileid: "99552412"
 ---
 # <a name="partner-center-announcements"></a>Anúncios do Centro de Parceiros
 
 Saiba mais sobre atualizações importantes do Centro de Parceiros. Estas informações são atualizadas frequentemente, pelo que visite-nos com alguma frequência!
 
-| **Categoria** | **Anúncios de janeiro de 2021** | **Anunciado** |
+|**Categoria**|**Anúncios de fevereiro de 2021**|**Anunciado**|
 |---------|:---------|:---------|
+|Capacidades|[Respondendo ao COVID-19: Atualização da Microsoft Partner Network](2021-february.md#3)|4 de fevereiro|
+|Capacidades|[Novas atualizações para o módulo de referências no Partner Center](2021-february.md#2)|4 de fevereiro|
+|Modern Workplace|[Depreciação e aposentação das APIs de Qualificação PUT para o processo de validação de clientes de Educação até 25 de fevereiro de 2021 e qualificação GET até 4 de maio de 2021](2021-february.md#1)|4 de fevereiro|
+| **Categoria** | **Anúncios de janeiro de 2021** | **Anunciado** |
 |Modern Workplace|[Fase 1 Agora ao vivo: EU/EFTA & Uk Change of Partner Billing Currency para novas ofertas de comércio](2021-january.md#15)|28 de janeiro|
 |Modern Workplace|[Alterações dos requisitos de inclusão de clientes do programa Fornecedor de Soluções Cloud (CSP)](2021-january.md#14)|28 de janeiro|
 |Capacidades|[Microsoft Partner Agreement (MPA) – atualização de revendedor indireto & novas FAQs](2021-january.md#13)|27 de janeiro|
