@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7d978ca3c48ccadaabb7d714ea9a5d2900bef819
-ms.sourcegitcommit: 7dff27bd799951c28bd1ef2665aa564cce71aff0
+ms.openlocfilehash: c06b11a3ddd6a91d4e939b21d603dd33aa138716
+ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "94983346"
+ms.lasthandoff: 02/04/2021
+ms.locfileid: "99530668"
 ---
 # <a name="how-to-report-problems-with-partner-center-and-submit-any-log-or-diagnostics-information"></a>Como reportar problemas com o Partner Center e submeter qualquer informação de registo ou diagnóstico
 
@@ -53,7 +53,7 @@ Se o seu problema requer uma conversa com o seu advogado de apoio, pode agendar 
 
 2. O Partner Center verifica o calendário do advogado de apoio para disponibilidade.
 
-1. Quando marca uma marcação, o Partner Center envia-lhe um convite de calendário com informações sobre como o advogado de apoio irá contactá-lo, para que possa acompanhar esta nomeação no seu próprio calendário de trabalho.
+1. Quando marca uma marcação, o Partner Center envia-lhe um convite de calendário com informações sobre como o advogado de apoio irá contactá-lo, para que possa acompanhar esta nomeação no seu próprio calendário de trabalho.  Enquanto esta capacidade ainda estiver em Pré-visualização, o e-mail e o convite do calendário serão em inglês, mas o advogado poderá apoiá-lo no idioma que selecionou ao criar o seu bilhete.
 
 :::image type="content" source="images/support/ticket3.png" alt-text="Data e hora":::
 
@@ -87,6 +87,6 @@ Pode visualizar as informações de diagnóstico e guardá-la num ficheiro que p
 
 O Apoio ao Parceiro pode pedir-lhe para executar esta ferramenta várias vezes para que possam obter as informações mais atualizadas.
 
-## <a name="next-steps"></a>Próximos passos
+## <a name="next-steps"></a>Passos seguintes
 
 - [Reportar um problema de serviço em nome de um cliente](report-problems-on-behalf-of-a-customer.md)

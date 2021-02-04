@@ -6,13 +6,13 @@ ms.author: eunjkim
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
-ms.date: 09/02/2020
-ms.openlocfilehash: e8ab90251cc05253ad25069eaf9200f2f15e60fb
-ms.sourcegitcommit: cc30a06abe55b9da32177a24e74bfd6fc7d8bbb9
+ms.date: 02/02/2021
+ms.openlocfilehash: 81c5ecb93caef7836dc6e6725a700ac74d881558
+ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "94532009"
+ms.lasthandoff: 02/04/2021
+ms.locfileid: "99530719"
 ---
 # <a name="payment-thresholds-methods-and-time-frames"></a>Limiares, métodos e períodos de tempo de pagamento
 
@@ -33,6 +33,10 @@ Normalmente enviaremos qualquer pagamento que seja devido num dado mês até ao 
 | ACH/SEPA | 2-3 dias úteis |
 | Transferência eletrónica | 7-10 dias úteis |
 | | |
+
+>[!NOTE]
+>Devido às alterações das taxas de câmbio, o valor exato das vendas pode variar ligeiramente de uma moeda para outra. As taxas de câmbio são calculadas mensalmente. Com base na altura em que a sua transação ocorreu, é aplicada a taxa de câmbio adequada. A taxa de câmbio e a data para a qual estava em vigor são indicadas no seu relatório de pagamento nas colunas exchangeRate e exchangeRateDate, respectivamente.
+
 
 ## <a name="payment-methods-in-countries-and-regions"></a>Métodos de pagamento em países e regiões
 

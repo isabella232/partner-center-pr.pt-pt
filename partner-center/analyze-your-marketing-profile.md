@@ -9,14 +9,14 @@ author: vikrambmsft
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: c3ca88d367ea9dea8df1bb2bb4945ecc7b900b26
-ms.sourcegitcommit: 351c7ff4e6ebbb615a00190b2310156381f9cf03
+ms.openlocfilehash: 1f8d9f04920a4f2a0fab40523c217835d9b0e4ef
+ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/07/2020
-ms.locfileid: "96776862"
+ms.lasthandoff: 02/04/2021
+ms.locfileid: "99530838"
 ---
-# <a name="analyze-your-leads---see-how-well-you-attract-target-customers-and-potential-referrals"></a>Analise as suas pistas - veja como atrai clientes-alvo e potenciais referências
+# <a name="analyze-your-leads---see-how-well-you-attract-target-customers-and-potential-referrals"></a>Analisar as oportunidades potenciais – veja até que ponto atrai clientes-alvo e potenciais referências
 <!-- 
 https://go.microsoft.com/fwlink/?linkid=849120
 -->
@@ -24,11 +24,6 @@ https://go.microsoft.com/fwlink/?linkid=849120
 **Funções adequadas**
 
 - Administração de referências
-
-**Aplica-se a**
-
-- Lidera o mercado
-- Pistas qualificadas
 
 A página **Leads** na secção **Analytics** em Referências permite-lhe ver como as suas referências estão a funcionar. Reveja estas métricas regularmente para identificar tendências ou áreas que precisam de atenção, e comece a dirigir-se para os seus objetivos de negócio.
 
@@ -115,3 +110,7 @@ Pode haver várias razões pelas quais está a receber um gráfico em branco com
 
 > [!TIP]
 > Para ver como estão a funcionar as suas oportunidades de co-venda, reveja a [página de insights de oportunidades de Co-venda.](referral-insights.md)
+
+## <a name="next-steps"></a>Passos seguintes
+
+- [Gerir oportunidades potenciais](manage-leads.md)

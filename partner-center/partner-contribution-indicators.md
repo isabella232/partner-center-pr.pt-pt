@@ -1,7 +1,7 @@
 ---
 title: Indicadores de contribuição dos parceiros - CBA
 ms.topic: article
-ms.date: 01/13/2021
+ms.date: 02/03/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba mais sobre sete Indicadores de Contribuição de Parceiros (PCI) que mostram aos parceiros como obter uma competência de Aplicações empresariais cloud prateadas ou douradas.
@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 853af76627fcd2554492fbc918e147b8464a3e1f
-ms.sourcegitcommit: 623d03feab847538d484e0d062dc56fe9d9d82f4
+ms.openlocfilehash: c6698d955433e8fe180fe5537c52d1aba6deea3b
+ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98204075"
+ms.lasthandoff: 02/04/2021
+ms.locfileid: "99530821"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-cloud-business-applications-competency"></a>Utilizar indicadores de contribuição de parceiros para atingir a competência de Aplicações empresariais em nuvem
 
@@ -125,7 +125,7 @@ Consulte as seguintes tabelas para mais detalhes:
 | Métrica PCI | Indicador de desempenho: Receitas novas líquidas | Indicador de desempenho: Novo cliente adiciona | Indicador de capacidade: Consultores funcionais | Indicador de capacidade: Crescimento funcional do consultor | Indicador de capacidade: Desenvolvedores | Indicador de sucesso do cliente: Novas grandes implementações | Indicador de sucesso do cliente: Crescimento mensal do utilizador ativo |
 |---|---|---|---|---|---|---|---|
 | **Pontos máximos** | 10 pontos | 10 pontos | 15 pontos | 15 pontos | 5 pontos | 20 pontos | 25 pontos |
-| **Desenvolvido** | $300.000 | 10 | 10 | *\* Ver nota* | 5 | 5 | 25% |
+| **Desenvolvido** | $300.000 | 10 | 15 | *\* Ver nota* | 5 | 5 | 25% |
 | **Desenvolvimento** | $150.000 | 5  | 5  |*\* Ver nota* | 2 | 1 | 25% |
 
 *\*Nota: Os objetivos de crescimento diferem com base no número de consultores de base e na opção específica que um parceiro utiliza para obter pontos. Para saber mais sobre opções para obter pontos ou metas de crescimento específicas de cada opção, consulte [Definições para o crescimento funcional do consultor.](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth)*
