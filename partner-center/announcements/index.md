@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 02/03/2021
-ms.openlocfilehash: 9002e77d364985ffec170dbf3887dde0ab324746
-ms.sourcegitcommit: efd37a9c5db4b87f75de1d13d75ce470b84b31f6
+ms.date: 02/05/2021
+ms.openlocfilehash: 9dd646b693f718f47c2f5edd4778836694fb0954
+ms.sourcegitcommit: 2a3fe71ef30fbda25cc70f8f526b3efd2b3df687
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "99552412"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "99588738"
 ---
 # <a name="partner-center-announcements"></a>Anúncios do Centro de Parceiros
 
@@ -22,6 +22,7 @@ Saiba mais sobre atualizações importantes do Centro de Parceiros. Estas inform
 
 |**Categoria**|**Anúncios de fevereiro de 2021**|**Anunciado**|
 |---------|:---------|:---------|
+|Capacidades|[Avaliações premium, um complemento ao Compliance Manager, chega a 1 de março de 2021](2021-february.md#4)|5 de fevereiro|
 |Capacidades|[Respondendo ao COVID-19: Atualização da Microsoft Partner Network](2021-february.md#3)|4 de fevereiro|
 |Capacidades|[Novas atualizações para o módulo de referências no Partner Center](2021-february.md#2)|4 de fevereiro|
 |Modern Workplace|[Depreciação e aposentação das APIs de Qualificação PUT para o processo de validação de clientes de Educação até 25 de fevereiro de 2021 e qualificação GET até 4 de maio de 2021](2021-february.md#1)|4 de fevereiro|

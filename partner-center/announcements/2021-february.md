@@ -9,18 +9,54 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/03/2021
-ms.openlocfilehash: dd389d0857f1ddf391086155ea5a595f0fa5b2d6
-ms.sourcegitcommit: efd37a9c5db4b87f75de1d13d75ce470b84b31f6
+ms.openlocfilehash: 30dc62c9c4b6ca2997f60da0caa2706f66d02961
+ms.sourcegitcommit: 2a3fe71ef30fbda25cc70f8f526b3efd2b3df687
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "99554349"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "99588721"
 ---
 # <a name="february-2021-announcements"></a>Anúncios de fevereiro de 2021
 
 Esta página detalha os anúncios do Microsoft Partner Center para fevereiro de 2021.
 
 _______________
+
+## <a name="premium-assessments-an-add-on-to-compliance-manager-is-coming-on-march-1-2021"></a><a name="4"></a>Avaliações premium, um complemento ao Compliance Manager, chega a 1 de março de 2021
+
+### <a name="categories"></a>Categorias
+
+- Data: 2021-02-05
+- Capacidades
+
+### <a name="affected-audience"></a>Público afetado
+
+Todos os parceiros que transacionam através do programa Cloud Solution Provider (CSP)
+
+### <a name="summary"></a>Resumo
+
+As avaliações premium serão incluídas na pré-visualização da tabela de preços em fevereiro e estarão disponíveis a partir de 1 de março de 2021.
+
+### <a name="details"></a>Detalhes
+
+As avaliações premium são um complemento opcional ao Compliance Manager e podem ajudar os clientes a cumprir os requisitos nacionais, regionais e específicos do setor que regem a recolha e utilização de dados. As avaliações premium são reservadas aos clientes do Office 365 E5, A5 e G5 e Microsoft 365 E5, A5 e G5.
+
+|**Nome da oferta**|**ID da oferta**|**Material ID**|
+|------------------|:--------------------|:------------------|
+|CSP - Corp - Addon|[76be61a7-2c03-4b3e-8330-63b11bd904ed](https://commoffertool.catalog.cp.microsoft.com/Prod/Office365/offer/details/76be61a7-2c03-4b3e-8330-63b11bd904ed)|8JA-00003|
+|CSP - Corp - Julgamento|[f2f6ae44-24fe-450c-9cd7-529e7c8cfcb4](https://commoffertool.catalog.cp.microsoft.com/Prod/Office365/offer/details/f2f6ae44-24fe-450c-9cd7-529e7c8cfcb4)|8JA-00004|
+|CSP - Ensino - Faculdade - Addon|[fa7f5773-063a-48cf-b3e2-de509ea1262f](https://commoffertool.catalog.cp.microsoft.com/Prod/Office365/offer/details/fa7f5773-063a-48cf-b3e2-de509ea1262f)|8JB-00003|
+|CSP - Educação - Faculdade - Julgamento|[828cecbd-8728-4339-b0c2-51e009a67d88](https://commoffertool.catalog.cp.microsoft.com/Prod/Office365/offer/details/828cecbd-8728-4339-b0c2-51e009a67d88)|8JB-00004|
+
+### <a name="next-steps"></a>Passos seguintes
+
+Reveja os seguintes recursos para este tópico e partilhe a informação com as partes interessadas apropriadas na sua organização.   
+
+- [Segurança e conformidade microsoft 365 E5](https://www.microsoft.com/licensing/product-licensing/microsoft-365-enterprise?rtc=1&activetab=m365-enterprise:primaryr5)
+- [Construir e gerir avaliações no Microsoft Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments&preserve-view=true=o365-worldwide)
+
+_________________________________________________________
+
 ## <a name="responding-to-covid-19-microsoft-partner-network-update"></a><a name="3"></a> Respondendo ao COVID-19: Atualização da Microsoft Partner Network
 
 ### <a name="categories"></a>Categorias

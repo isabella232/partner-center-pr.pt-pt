@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: 3475d606b3a59cf88bb9fb864ee765e4e9a20063
-ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
+ms.openlocfilehash: f84ceb4d17be7e02a4380e4da55d7ac199f43515
+ms.sourcegitcommit: 2a3fe71ef30fbda25cc70f8f526b3efd2b3df687
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98215956"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "99588755"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Guia para co-venda no Partner Center (PC) para parceiros que migram do Partner Sales Connect (PSC)
 
@@ -127,7 +127,70 @@ A tabela de migração do utilizador tem os seguintes detalhes:
 3. O utilizador já tem uma função de encaminhamento atribuída no Partner Center.
     - Pode verificar o papel existente do utilizador. No canto superior direito do Partner Center, selecione **Definições** (o ícone de engrenagem) e, em **seguida, as definições de Conta**. Quando vir um segundo menu de navegação à esquerda, selecione **a gestão do utilizador** e procure o utilizador.
 
-Depois de ter concluído a migração dos utilizadores, utilize as seguintes orientações para decidir a estratégia de migração:
+## <a name="psc-deals-migration"></a>PSC Negoceia migração
+
+Depois de ter concluído a migração de utilizadores, utilize o assistente de migração de ofertas na página de oportunidades de co-venda para trazer todas as ofertas abertas elegíveis do PSC para PC. **O link de migração de negócios será visível apenas com todo o âmbito de organização no Partner Center.** Haverá um link chamado **"migração de acordos psc"** no topo direito da página de Oportunidades de Co-venda, que abrirá o assistente de migração do negócio.
+
+Leia esta secção antes de iniciar a migração do negócio.
+
+**Elegível para migração**
+
+Apenas algumas ofertas são elegíveis para migração de CPC para PC. Este assistente de migração foi construído para ajudar os parceiros a levarem as suas ofertas para o Partner Center, onde ainda estão a trabalhar ativamente com os seus clientes para fechar o negócio. **Apenas as ofertas que estejam em estado aberto com detalhes válidos da conta de parceiro (ID MPN válido) e não submetidas a registo de negócios são elegíveis para migração.**
+
+**Não elegível para migração**
+
+- Acordos de avaliação de soluções não são elegíveis para migração de negócios
+- Negócios de licenciamento da OEM não são elegíveis para migração de negócios
+- Qualquer acordo que tenha sido marcado como ganho no PSC não é elegível para migração. O registo de negócios se for elegível para as transações marcadas como ganhos deve ser concluído no PSC.
+
+## <a name="pre-requisites-for-deal-migration"></a>Pré-requisitos para a migração de negócios
+
+Antes de iniciar a migração do negócio a partir do PC, siga as instruções abaixo para estabelecer os acordos no PSC para uma migração bem sucedida.
+
+1. Todos os membros da equipa de vendas da sua empresa que trabalham nos negócios abertos são informados sobre esta migração.
+2. Os membros da equipa de vendas são treinados para usar o Partner Center para a gestão de negócios.
+3. Os negócios têm todas as informações necessárias, conforme descrito abaixo.
+    - Detalhes da empresa do cliente, incluindo nome e endereço
+    - Dados de contato do cliente se for um negócio de co-venda
+    - Pelo menos uma solução
+    - Pelo menos um membro da equipa com todos os detalhes - primeiro nome, apelido, ID de e-mail e número de telefone
+    - Valor do negócio
+    - Data de fecho de negócio estimada
+    - Notas de parceiro
+
+Você pode usar as capacidades de descarregamento e upload em massa no PSC para limpar os dados para todas as ofertas elegíveis.
+
+>[!Note]
+> A migração de acordos terá êxito, mesmo que os pré-requisitos acima referidos não sejam cumpridos. Mas não pode alterar o estado do negócio se algum dos campos acima mencionados exigidos no Partner Center não estiver disponível. Em seguida, terá de introduzir todas as informações necessárias que faltam nos negócios no Partner Center para começar a trabalhar neles. **É fortemente aconselhável limpar as ofertas elegíveis no CPS antes de migrar para o Partner Center.**
+
+A migração de negócios no Partner Center é construída como uma experiência de clique. Tudo o que precisa fazer é clicar no botão **"Ofertas migratórias"** assim que a sua empresa estiver pronta para migrar as ofertas elegíveis. **Não pode escolher os acordos que pretende migrar do PSC. Se não quiser migrar quaisquer ofertas para o Partner Center, transloque-os para o estado fechado no PSC antes de iniciar a migração.**
+
+>[!Note]
+> Após o início da migração, **pode levar até 24 horas para os negócios serem migrados.**
+
+Uma vez concluída a migração, a mensagem do banner terá o estatuto alterado para ser completada com um link para o relatório de migração. Faça o download do relatório para ver os detalhes das ofertas que foram migradas do PSC para pc.
+
+O relatório inclui os detalhes abaixo.
+
+1. **Partner Center engagement ID** - O identificador único no Partner Center para todos os negócios em um noivado. Existem duas ofertas - uma para o parceiro e outra para a Microsoft num compromisso de co-venda no Partner Center.
+2. **Partner Center referenciação ID** - O identificador único no Partner Center para o negócio pertencente ao parceiro.
+3. **Nome do negócio** - Identificador dado ao negócio no PSC.
+4. **Identificação de acordo com o PSC** - O identificador único no PSC para o negócio.
+5. **Erros** - para indicar se há algum erro durante a migração de um negócio específico.
+
+Todos os negócios que foram migrados com sucesso não serão visíveis no PSC. Pode trabalhar nas ofertas migratórias no PC. Não haverá alterações nas interações com os vendedores da Microsoft para co-vender ofertas.
+
+As ofertas migradas do PSC estarão disponíveis nos separadores de Entrada e Saída com base na origem do negócio. Todas as ofertas criadas pelo parceiro estarão disponíveis no separador Outbound e as ofertas iniciadas pela Microsoft estarão disponíveis no separador Entrada do Partner Center. Haverá dois tipos de acordos que serão criados após a migração.
+
+1. **Co-vender ofertas** - Ofertas que são marcadas como co-venda no PSC serão criadas como co-vender ofertas no Partner Center.
+2. **Ofertas lideradas por parceiros** - Ofertas que não estejam marcadas como co-venda serão criadas como ofertas lideradas por parceiros no Partner Center. As ofertas lideradas por parceiros são visíveis para os vendedores da Microsoft e podem ser atualizadas para co-vender ofertas antes de atingir o estado terminal (won, lost). Além disso, os acordos liderados por parceiros são elegíveis para registo de negócios se houver uma solução elegível de incentivo no negócio.
+
+>[!Important]
+> Se houver erros devidos aos quais algumas ofertas não puderam ser migradas, **pode relançar a migração do negócio clicando no botão "Acordos migratórios".** Só será ativado se houver algumas negociações elegíveis ainda por migrar. Isto também será útil se estiver na fase de transição onde alguns novos negócios estão a ser criados no PSC após o início da migração de acordos.
+
+Uma vez que todos os negócios são migrados com sucesso, haverá banner mostrando **"No deals to migrar"** com o botão **"Migrar acordos"** a ser **desativado.**
+
+Após completar a migração dos utilizadores e/ou a migração de negócios, utilize as seguintes orientações para decidir a estratégia de migração:
 
 Se a sua empresa tiver um Partner Development Manager (PDM) - Quando a sua conta Partner Center estiver configurada e os seus utilizadores tiverem movimentos e permissões, pode mover as suas atividades de Co-venda para Partner Center. Informe o PDM para fazer a troca em vez de esperar até que a sua migração complete o prazo, o que permitirá que todas as suas novas ofertas fluam para o Partner Center.
 
