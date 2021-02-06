@@ -9,12 +9,12 @@ author: billlinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5822fbc1cb874f0199c4dc8e1e2c541a3ed3f9bd
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 7909b795be03bcd1b110da3f2c3b77019753730d
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "92529296"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624260"
 ---
 # <a name="manage-marketplace-rewards-in-partner-center--activate-marketing-sales-and-technical-benefits"></a>Gerir prémios de marketplace no Partner Center & ativar marketing, vendas e benefícios técnicos
 
@@ -34,7 +34,7 @@ A elegibilidade do Marketplace Rewards é calculada com base em todos os perfis 
 
 2. Para ativar benefícios de marketing e vendas, deve primeiro atribuir o contato de marketing da empresa. Este contacto receberá as comunicações de acompanhamento do Marketplace Rewards.
 
-3. Para adicionar ou atualizar as suas informações de contacto de marketing, vá ao topo do separador de benefícios de Vendas e Marketing na página Marketplace Rewards e, em **seguida, selecione Adicionar, atualizar ou alterar** . 
+3. Para adicionar ou atualizar as suas informações de contacto de marketing, vá ao topo do separador de benefícios de Vendas e Marketing na página Marketplace Rewards e, em **seguida, selecione Adicionar, atualizar ou alterar**. 
 
    Em seguida, faça o seguinte:
 
@@ -42,7 +42,7 @@ A elegibilidade do Marketplace Rewards é calculada com base em todos os perfis 
 
    - Forneça um endereço de e-mail para o utilizador que seja diferente do endereço de e-mail associado à conta partner Center da sua empresa. Enviaremos para o endereço de e-mail designado como contacto de marketing as instruções sobre a utilização do benefício do Marketplace Rewards.
 
-   - Indique o contacto telefónico e o idioma preferencial deste contacto de marketing. Depois de introduzidas estas informações, selecione **Atribuir utilizador** .
+   - Indique o contacto telefónico e o idioma preferencial deste contacto de marketing. Depois de introduzidas estas informações, selecione **Atribuir utilizador**.
 
 4. Depois de atualizar o contacto de marketing, selecione **Ativar** para o benefício que quer começar a utilizar. Depois de ativar um benefício, o contacto de marketing será contactado por um membro da equipa do Rewards no prazo de uma semana.
 
@@ -60,7 +60,7 @@ A informação de recompensas do mercado está disponível através do inquilino
 
 1. Como administrador global ou administrador de conta, inscreva-se na PGA no Partner Center.
 
-2. Selecione **Configurações** (em cima-direita), **Definições de parceiros,** **Inquilinos** . 
+2. Selecione **Definições** (em cima-direita), Definições de **conta,** **Inquilinos**. 
 
 3. **Selecione Associar outro inquilino AZure AD** e selecione o inquilino AZure AD que pretende associar com a PGA.
 

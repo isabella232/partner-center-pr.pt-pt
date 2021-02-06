@@ -1,7 +1,7 @@
 ---
 title: Renew your MPN offers (Renovar as ofertas da MPN)
 ms.topic: article
-ms.date: 02/02/2021
+ms.date: 02/04/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Renovar as ofertas da Microsoft Partner Network (MPN) para competências e especializações avançadas - a janela de renovação começa o aniversário da data de compra mais um dia.
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: be1590d83f6349e9caeb85ed9303e7a10d0cca6b
-ms.sourcegitcommit: efd37a9c5db4b87f75de1d13d75ce470b84b31f6
+ms.openlocfilehash: f254c3353a49a8aa65703ef123e727b0a9ac4a85
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "99552433"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624141"
 ---
 # <a name="renew-your-mpn-offers-for-competencies-and-advanced-specializations-during-the-renewal-window"></a>Renove as suas ofertas de MPN para competências e especializações avançadas durante a janela de renovação
 
@@ -24,15 +24,7 @@ ms.locfileid: "99552433"
 
 ## <a name="responding-to-covid-19-microsoft-partner-network-update"></a>Respondendo ao COVID-19: Atualização da Microsoft Partner Network
 
-Atualização 27 de janeiro de 2021:  
-
-A Microsoft renunciará à competência e aos requisitos avançados de especialização para todos os parceiros que tenham uma data de aniversário (AD) entre 1 de janeiro de 2021 e 30 de junho de 2021. A exceção a isso é a competência Cloud Business Applications (CBA), para a qual os parceiros de caso que tenham um AD em ou depois de 1 de abril de 2021, até 30 de junho de 2021, serão recompensados com os 15 pontos para a exigência de métrica de crescimento de consultor funcional dentro da construção do PCI.  
-
-**Parceiros com competências (com exceção da competência cloud business applications) que tenham datas de aniversário entre 1 de janeiro de 2021 e 30 de junho de 2021** são elegíveis para uma extensão de competência de um ano. Estamos a alargar a sua competência ou competências existentes até à data do seu próximo aniversário, em 2022.Informações específicas da sua organização estarão disponíveis no Partner Center a partir de fevereiro e alinhadas com o seu prazo de renovação.Terá de tomar medidas no Partner Center para pagar a taxa de competência e completar a sua renovação.Se estiver a aproximar-se do final do seu prazo de renovação de 30 dias de competência e não conseguir renovar no Partner Center, contacte o [apoio do parceiro](https://partner.microsoft.com/support) para assistência.  
-
-**Para parceiros com a competência Cloud Business Applications:** Conforme previamente comunicado, a pontuação dos Indicadores de Contribuição de Parceiros (PCI) entrará em vigor em 1 de abril de 2021. Se a data de aniversário da competência cloud business applications for entre 1 de janeiro de 2021 e 31 de março de 2021, terá de cumprir os requisitos publicados no Partner Center e pagar a taxa de competência para completar a sua renovação. Se a data de aniversário da competência cloud business applications for entre 1 de abril de 2021 e 30 de junho de 2021, receberá os 15 pontos para a métrica de Crescimento de Consultor Funcional. Terá de cumprir os requisitos restantes, conforme publicado no Partner Center e pagar a taxa de competência para completar a sua renovação.  
-
-**Para os parceiros renovarem uma especialização avançada em 2021:** Os parceiros com datas avançadas de aniversário de especialização entre 1 de janeiro de 2021 e 30 de junho de 2021 são elegíveis para uma extensão de um ano até 2022, desde que mantenha a competência de ouro exigida que se alinha com a especialização avançada, que pode incluir o pagamento da taxa de competência para renovar. Informações específicas da sua organização estarão disponíveis no Partner Center a partir de fevereiro e alinhadas com o seu prazo de renovação.  
+A Microsoft está a oferecer uma extensão de competências (com exceção da competência cloud business applications) e uma extensão avançada de especialização para parceiros com datas de aniversário (AD) entre 1 de janeiro de 2021 e 30 de junho de 2021. Por favor, reveja o [nosso blog de parceiros post](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/) para mais informações.
 
 ## <a name="renewal-reminders"></a>Lembretes de renovação
 

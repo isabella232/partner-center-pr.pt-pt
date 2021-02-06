@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f274103feeadfa6fd135f99632f3013c29601972
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: 010f74164b0428a5cd6ffcde5000b52ac6a6993f
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182414"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624005"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>Como o crédito de parceiro ganho é calculado e pago
 
@@ -52,7 +52,7 @@ Para receber o parceiro auferido crédito (PEC), aplicam-se os seguintes requisi
 
 ### <a name="calculation"></a>Cálculo
 
-O PEC é calculado diariamente e pode ser visto no ficheiro de utilização diária e no ficheiro mensal de reconhecimento de fatura. Um parceiro (fornecedor indireto ou revendedor indireto) deve ter acesso durante todo o dia (24x7) para garantir que obtém PEC. O PEC é calculado diariamente com base nos ativos geridos da Azure. O PEC máximo para um determinado período de faturação (Mês) é de 15%. Os parceiros que mantêm o acesso privilegiado persistente ao longo do mês (período de acesso) e para todos os recursos elegíveis (âmbito de acesso) ganharão PEC total de 15%. A redução do âmbito e do alcance resultará numa taxa de PEC mais baixa para o mês. O ficheiro de utilização avaliado diariamente mostra diariamente um ativo Azure, quer o PEC seja aplicado ou não. Os parceiros também podem inscrever-se em alertas para monitorizar as alterações ao acesso privilegiado persistente.
+O PEC é calculado diariamente e pode ser visto no ficheiro de utilização diária e no ficheiro mensal de reconhecimento de fatura. Um parceiro (fornecedor indireto ou revendedor indireto) deve ter acesso durante todo o dia (24x7) para garantir que obtém PEC. O PEC é calculado diariamente com base nos ativos geridos da Azure. Os parceiros que mantêm o acesso privilegiado persistente ao longo do mês (período de acesso) e para todos os recursos elegíveis (âmbito de acesso) ganharão o PEC completo. A redução do âmbito e do alcance resultará numa taxa de PEC mais baixa para o mês. O ficheiro de utilização avaliado diariamente mostra diariamente um ativo Azure, quer o PEC seja aplicado ou não. Os parceiros também podem inscrever-se em alertas para monitorizar as alterações ao acesso privilegiado persistente.
 
 ## <a name="azure-cost-management"></a>Azure Cost Management
 

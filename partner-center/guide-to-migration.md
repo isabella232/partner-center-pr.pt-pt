@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8b6646ff943ff219c41c975d60e66a46d1e0f595
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: dd566a6d9ef60747eb7fd515b4d63d87d991da2a
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92530536"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624192"
 ---
 # <a name="guide-to-migrating-from-pmc-to-partner-center"></a>Guide to migrating from PMC to Partner Center (Guia para migrar do PMC para o Centro de Parceiros)
 
@@ -53,9 +53,9 @@ Se a sua empresa não tiver um e-mail de trabalho e inquilino da AAD, podemos aj
 >[!NOTE]
 >Se for um parceiro na China e estiver inscrito no Programa Microsoft Partner Network e Cloud Solution Provider (CSP), terá um inquilino separado para cada conta. A sua conta com o Programa Cloud Solution Provider é gerida na nuvem nacional e a sua conta Microsoft Partner Network é gerida na nuvem global. As duas contas não podem ser ligadas.
 
-:::image type="content" source="images/migration/newtellusabout.png" alt-text="Introdução":::
+:::image type="content" source="images/migration/newtellusabout.png" alt-text="Fale-nos da sua empresa":::
 
-Uma vez verificadas ou atualizadas as informações, **selecione Aceite e continue** .
+Uma vez verificadas ou atualizadas as informações, **selecione Aceite e continue**.
 Os Termos e Condições nesta página são **exatamente os mesmos** que o acordo que a sua empresa já assinou em PMC.  
 Este passo inicia a criação do seu inquilino AZure AD e fornece a sua conta de trabalho.
 
@@ -71,7 +71,7 @@ Selecionar **Aceitar e continuar** também faz o seguinte:
 
 Quando o seu novo inquilino AZure AD for criado, pode convidar os seus colaboradores a inscreverem-se no Partner Center.
 
-:::image type="content" source="images/migration/invite.png" alt-text="Introdução":::
+:::image type="content" source="images/migration/invite.png" alt-text="Convidar funcionários":::
 
 Se assinou contrato com um inquilino da AAD, os seus empregados terão-se mudado consigo. Neste caso, atribua aos seus colaboradores funções que determinam o que podem fazer no Partner Center. 
 
@@ -84,11 +84,11 @@ Se o seu inquilino da AAD é novo, ninguém é designado para o papel de adminis
 
 Embora possa utilizar as ofertas que já adquiriu, não poderá comprar novas ofertas até completar o passo de atribuir um administrador global.
 
-:::image type="content" source="images/migration/takecontrol.png" alt-text="Introdução":::
+:::image type="content" source="images/migration/takecontrol.png" alt-text="Assuma o controlo":::
 
 Quando selecionar, verá o seguinte ecrã:
 
-:::image type="content" source="images/migration/verifytxt.png" alt-text="Introdução":::
+:::image type="content" source="images/migration/verifytxt.png" alt-text="Verificar a propriedade do domínio":::
 
 O seu registo de domínio já será preenchido por si. Apenas o proprietário do domínio pode atualizar o ficheiro DNS, por isso, copiando e adicionando o ficheiro de texto ao seu registo DNS, podemos verificar se é o proprietário. Levará alguns minutos para que a atualização ocorra. Terá de assinar fora do Partner Center e depois voltar a entrar. O seu papel terá sido alterado para administrador global.
 
@@ -96,11 +96,11 @@ O seu registo de domínio já será preenchido por si. Apenas o proprietário do
 
 Faça o tour do seu painel. Aqui é onde pode gerir a sua adesão, adicionar um perfil de negócio para referências, inscrever-se no programa Cloud Solution Provider e ver notificações e ofertas relevantes para o seu negócio a qualquer momento, selecionando **Dashboard.** Você também pode gerir incentivos, comprar no mercado, se inscrever para serviços de ir ao mercado, e muito mais.  
 
-:::image type="content" source="images/migration/fre.png" alt-text="Introdução":::
+:::image type="content" source="images/migration/fre.png" alt-text="Faça o tour":::
 
 ## <a name="sign-the-microsoft-partner-agreement"></a>Assine o Acordo de Parceiro da Microsoft
 
-Se é um revendedor indireto, quando criou a sua conta Partner Center, ainda precisa de se inscrever oficialmente no programa Cloud Solution Provider. Para verificar o estado da sua adesão, vá ao [seu perfil de Parceiro](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) e confirme o tipo de conta. Em seguida, inscreva-se na CSP como [revendedor indireto](enrolling-in-the-csp-program.md).
+Se é um revendedor indireto, quando criou a sua conta Partner Center, ainda precisa de se inscrever oficialmente no programa Cloud Solution Provider. Para verificar o seu estado de adesão, vá ao seu [perfil Legal](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) e confirme o tipo de conta. Em seguida, inscreva-se na CSP como [revendedor indireto](enrolling-in-the-csp-program.md).
 
  Depois de se ter inscrito como revendedor indireto, aceite o pedido de [relacionamento CSP com o seu fornecedor Indireto](indirect-reseller-tasks-in-partner-center.md).
 

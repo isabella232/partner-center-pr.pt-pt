@@ -8,18 +8,15 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 1e97e2e9db798e5ef90858cf96dc06602bbfe427
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: 282fdacc8689ff71e885a2f0ea01ce9570611707
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492471"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624243"
 ---
 # <a name="create-and-manage-incentives-payout-and-tax-profiles-in-partner-center"></a>Criar e gerir incentivos no pagamento e perfis fiscais no Partner Center
 
-**Aplica-se a:**
-
-- Partner Center
 
 **Funções adequadas:**
 
@@ -64,7 +61,7 @@ As secções abaixo irão acompanhar-te através do processo de criação e gest
    - Se só conseguir fazer login com o @onmicrosoft.com domínio, contacte o administrador da conta para adicionar domínios adicionais à conta Azure AD.
    - Se lhe for solicitado que selecione **conta de trabalho ou escola** ou conta **pessoal,** selecione **Trabalho ou conta escolar**.
 
-2. Selecione o ícone de engrenagem para abrir o menu **Definições** e, em seguida, selecione **as definições de Parceiro**.
+2. Selecione o ícone de engrenagem para abrir o menu **Definições** e, em seguida, selecione **as definições de Conta**.
 
 3. No menu **de definições de conta,** selecione **Payout e tax**. 
 
@@ -72,7 +69,7 @@ As secções abaixo irão acompanhar-te através do processo de criação e gest
 
 1. Inscreva-se no [painel de instrumentos Partner Center](https://partner.microsoft.com/dashboard/)e, em seguida, selecione o ícone de engrenagem para abrir o menu **Definições.** 
 
-2. Selecione **as definições de Parceiro**, expanda a secção de Pagamento e **Imposto**, e, em seguida, selecione Payout e tax **profile assignment**. 
+2. Selecione **as definições de Conta,** expanda a **secção de Pagamento e Imposto**, e, em seguida, selecione Payout e tax profile **assignment**. 
    
    Será apresentada uma lista dos seus programas. Selecione a seta ao lado de um programa para ver os detalhes do perfil. 
 

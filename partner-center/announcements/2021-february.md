@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 02/03/2021
-ms.openlocfilehash: 30dc62c9c4b6ca2997f60da0caa2706f66d02961
-ms.sourcegitcommit: 2a3fe71ef30fbda25cc70f8f526b3efd2b3df687
+ms.date: 02/04/2021
+ms.openlocfilehash: cb9bc726acb5d76f4774c9a515443d58f7947fbd
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "99588721"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624175"
 ---
 # <a name="february-2021-announcements"></a>Anúncios de fevereiro de 2021
 
@@ -70,22 +70,7 @@ Todos os parceiros
 
 ### <a name="details"></a>Detalhes
 
-A Microsoft renunciará à competência e aos requisitos avançados de especialização para todos os parceiros que tenham uma data de aniversário (AD) entre 1 de janeiro de 2021 e 30 de junho de 2021. A exceção a isso é a competência Cloud Business Applications (CBA), para a qual os parceiros de caso que tenham um AD em ou depois de 1 de abril de 2021, até 30 de junho de 2021, serão recompensados com os 15 pontos para a exigência de métrica de crescimento de consultor funcional dentro da construção do PCI.  
-
-**Parceiros com competências (com exceção da competência cloud business applications) que tenham datas de aniversário entre 1 de janeiro de 2021 e 30 de junho de 2021** são elegíveis para uma extensão de competência de um ano. Estamos a alargar a sua competência ou competências existentes até à data do seu próximo aniversário, em 2022.Informações específicas da sua organização estarão disponíveis no Partner Center a partir de fevereiro e alinhadas com o seu prazo de renovação.Você precisará de .tomar medidas no Partner Center para pagar a taxa de competência e completar a sua renovação.Se estiver a aproximar-se do final do seu prazo de renovação de 30 dias de competência e não conseguir renovar no Partner Center, contacte o [apoio do parceiro](https://partner.microsoft.com/support) para assistência.  
-
-**Para parceiros com a competência Cloud Business Applications:** Conforme previamente comunicado, a pontuação dos Indicadores de Contribuição de Parceiros (PCI) entrará em vigor em 1 de abril de 2021. Se a data de aniversário da competência cloud business applications for entre 1 de janeiro de 2021 e 31 de março de 2021, terá de cumprir os requisitos publicados no Partner Center e pagar a taxa de competência para completar a sua renovação. Se a data de aniversário da competência cloud business applications for entre 1 de abril de 2021 e 30 de junho de 2021, receberá os 15 pontos para a métrica de Crescimento de Consultor Funcional. Terá de cumprir os requisitos restantes, conforme publicado no Partner Center e pagar a taxa de competência para completar a sua renovação.  
-
-**Para os parceiros renovarem uma especialização avançada em 2021:** Os parceiros com datas avançadas de aniversário de especialização entre 1 de janeiro de 2021 e 30 de junho de 2021 são elegíveis para uma extensão de um ano até 2022, desde que mantenha a competência de ouro exigida que se alinha com a especialização avançada, que pode incluir o pagamento da taxa de competência para renovar. Informações específicas da sua organização estarão disponíveis no Partner Center a partir de fevereiro e alinhadas com o seu prazo de renovação.  
-
-### <a name="next-steps"></a>Passos seguintes
-
-- Para obter mais atualizações, consulte [Responder ao COVID-19: Microsoft Partner Network update - Microsoft Partner Network](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/).
-
-### <a name="questions"></a>Perguntas?
-
-Para quaisquer questões relacionadas com este [suporte do Centro de Parceiros de](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals)notificação .
-
+A Microsoft está a oferecer uma extensão de competências (com exceção da competência cloud business applications) e uma extensão avançada de especialização para parceiros com datas de aniversário (AD) entre 1 de janeiro de 2021 e 30 de junho de 2021. Por favor, reveja o [nosso blog de parceiros post](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/) para mais informações.
 ________________
 ## <a name="new-updates-to-the-referrals-module-in-partner-center"></a><a name="2"></a> Novas atualizações para o módulo de referências no Partner Center
 
@@ -124,12 +109,12 @@ Eis as novidades no módulo de referências do Centro de Parceiros:
 
 ### <a name="questions"></a>Perguntas?
 
-Se precisar de ajuda para utilizar qualquer uma das [novidades,](https://docs.microsoft.com/partner-center/referrals) consulte a secção de Referências na nossa base de conhecimento ou os nossos materiais de suporte de como apoiar a nossa [galeria de experiências de co-venda](https://aka.ms/CoSellExperience) (inscrição obrigatória).
+Se precisar de ajuda para utilizar qualquer uma das [novidades,](https://docs.microsoft.com/partner-center/referrals) consulte a secção de Referências na nossa base de conhecimento ou os nossos materiais de suporte de como suportar a nossa [galeria de experiências de co-venda](https://aka.ms/CoSellExperience) (inscrição obrigatória).
 
 Para apoio adicional, pode [abrir um bilhete com a nossa equipa de Apoio ao Parceiro.](https://partner.microsoft.com/support/?stage=1)
 
 ________________
-## <a name="deprecation-and-retirement-of-put-qualification-apis-for-the-education-customer-validation-process-by-february-25th-2021-and-get-qualification-by-may-4th-2021"></a><a name="1"></a> Depreciação e aposentação das APIs de Qualificação PUT para o processo de validação de clientes de Educação até 25 de fevereiro de 2021 e qualificação GET até 4 de maio de 2021.
+## <a name="deprecation-and-retirement-of-put-qualification-apis-for-the-education-customer-validation-process-by-february-25-2021-and-get-qualification-by-may-4-2021"></a><a name="1"></a> Depreciação e aposentação das APIs de Qualificação PUT para o processo de validação de clientes de Educação até 25 de fevereiro de 2021 e qualificação GET até 4 de maio de 2021.
 
 ### <a name="categories"></a>Categorias
 
@@ -142,7 +127,7 @@ Parceiros que vendem ofertas académicas, sem fins lucrativos e GCC através do 
 
 ### <a name="details"></a>Detalhes
 
-Este é um seguimento das melhorias do Partner Center [lançadas em dezembro.](https://docs.microsoft.com/partner-center/announcements/2020-december#1) Como parte desse lançamento, foram implementadas novas APIs de Qualificações GET e POST e, **consequentemente, as APIs do Centro de Parceiros de Qualificação PUT Qualification existentes vão reformar-se até 25 de fevereiro de 2021 e OBTER até 4 de maio de 2021**. Nessa altura, terá de passar a utilizar as novas APIs do Post Partner Center para poder comprar ofertas de Educação e as novas qualificações GET API para adquirir ofertas pré-qualificadas sem fins lucrativos e GCC.
+Este anúncio é um seguimento das melhorias do Partner Center [lançadas em dezembro.](https://docs.microsoft.com/partner-center/announcements/2020-december#1) Como parte desse lançamento, foram implementadas novas APIs de Qualificações GET e POST, e **consequentemente as APIs do Centro de Parceiros de Qualificação PUT Qualification serão aposentadas até 25 de fevereiro de 2021 e obter a qualificação até 4 de maio de 2021**. Nessa altura, terá de passar a utilizar as novas APIs do Post Partner Center para poder comprar ofertas de Educação e as novas qualificações GET API para adquirir ofertas pré-qualificadas sem fins lucrativos e GCC.
 
 ### <a name="next-steps"></a>Passos seguintes
 

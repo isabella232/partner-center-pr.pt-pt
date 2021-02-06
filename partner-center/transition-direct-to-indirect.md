@@ -9,21 +9,18 @@ author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e3cd791f5f9f781980d73c79f0ec18627585372a
-ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
+ms.openlocfilehash: ceaf3fd0819937177648814a02df4a2a266ee06f
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "92795870"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624311"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Transição do parceiro de faturação direta do Fornecedor de Soluções Cloud para o revendedor indireto do CSP
 
-**Aplica-se a:**
-- Partner Center
-
 **Funções adequadas**
 
-- Todos os parceiros de conta direto cSP
+- Administradores globais
 
 >[!Note]
 >Este artigo destina-se a parceiros de conta direta que tenham decidido transitar para revendedores indiretos. No entanto, mesmo que ainda não tenha tido uma decisão explícita de se inscrever como revendedor indireto, os parceiros de conta direto que não satisfaçam os novos requisitos para o programa de [parceiros](direct-partner-new-requirements.md) de conta direta CSP serão informados pela Microsoft quando as suas [capacidades de conta direta forem restringidas.](restricted-direct-bill-capabilities.md)
@@ -41,7 +38,7 @@ Poderá inscrever-se no programa de revenda indireto utilizando o seu inquilino 
 
 3. Reveja os detalhes do seu parceiro no formulário de inscrição.
 
-   :::image type="content" source="images/direct/direct2a.png" alt-text="Descrição geral":::
+   :::image type="content" source="images/direct/direct2a.png" alt-text="Inscreva-se agora":::
 
 4. Selecione Matricular-se agora. O seu negócio de revendedor indireto usará o mesmo inquilino da AAD que usa para o seu negócio direto.
 
@@ -51,13 +48,13 @@ Poderá inscrever-se no programa de revenda indireto utilizando o seu inquilino 
 5. Quando a sua inscrição for aprovada, inscreva-se novamente no Partner Center.
 
     > [!NOTE]
-    > Embora a aprovação seja geralmente imediata, pode levar até cinco dias úteis. Uma vez aprovado, receberá uma notificação para o endereço de e-mail que especificou no contacto primário no formulário de inscrição. Também pode verificar o **Settings** estado de inscrição nas  >  **definições de definições de parceiros**  >  **Partner Profile** > informações do Programa.
+    > Embora a aprovação seja geralmente imediata, pode levar até cinco dias úteis. Uma vez aprovado, receberá uma notificação para o endereço de e-mail que especificou no contacto primário no formulário de inscrição. Também pode verificar o estado de inscrição nas  >  **definições de definições de definições**  >  **de perfil do parceiro** > informações do Programa.
 
 6. Na sua página **de visão geral,** verá o acordo de revendedor indireto. Selecione **Aceitar e continuar.** Esta ação permite as capacidades de revendedor indiretos.
 
 Quando aceitar o acordo de revendedor indireto, note que o seu perfil de Parceiro o identifica **como** uma fatura direta e um revendedor indireto.
 
-:::image type="content" source="images/direct/direct3.png" alt-text="Descrição geral":::
+:::image type="content" source="images/direct/direct3.png" alt-text="Acordo de revendedor indireto":::
 
 > [!IMPORTANT]
 > Uma vez que você se inscreva como um revendedor indireto usando a nova capacidade, não há opção para reverter para um inquilino direto apenas. Por favor, certifique-se de que avalia totalmente as necessidades do seu negócio antes de se inscrever como revendedor indireto.
@@ -66,7 +63,7 @@ Quando aceitar o acordo de revendedor indireto, note que o seu perfil de Parceir
 
 Durante esta fase, continuará a gerir as necessidades de subscrição dos seus clientes diretos, incluindo o processo de faturação. Também pode começar a aceitar clientes do seu fornecedor Indireto e a operar como revendedor indireto.
 
-:::image type="content" source="images/direct/direct4.png" alt-text="Descrição geral":::
+:::image type="content" source="images/direct/direct4.png" alt-text="Ambos são uma conta direta e um revendedor indireto":::
 
 ## <a name="find-an-indirect-provider"></a>Localizar um fornecedor indireto
 
@@ -176,9 +173,9 @@ Para utilizar esta funcionalidade num inquilino de cliente existente:
 
 2. Na **página Clientes,** selecione um cliente existente e clique no seu ícone **de links Rápidos** para expandir a visão sumária do cliente.
 
-3. **No(s) fornecedor(s) indireto,** clique **em Transferir clientes num fornecedor indireto** .
+3. **No(s) fornecedor(s) indireto,** clique **em Transferir clientes num fornecedor indireto**.
 
-    :::image type="content" source="images/direct/direct5-1.png" alt-text="Descrição geral":::
+    :::image type="content" source="images/direct/direct5-1.png" alt-text="Transferir cliente para um fornecedor indireto":::
 
 4. No diálogo pop-up, selecione o **Fornecedor Indireto** que pretende ter uma relação de revendedor com o cliente.
 
@@ -186,7 +183,7 @@ Para utilizar esta funcionalidade num inquilino de cliente existente:
 
 6. Verifique se o fornecedor indireto selecionado aparece no **ou nos fornecedores indiretos.**
 
-    :::image type="content" source="images/direct/direct5-2.png" alt-text="Descrição geral":::
+    :::image type="content" source="images/direct/direct5-2.png" alt-text="Fornecedor indireto listado":::
 
 ### <a name="send-an-indirect-reseller-invitation-to-the-customer"></a>Envie um convite de revendedor indireto ao cliente
 
@@ -196,7 +193,7 @@ O seu fornecedor indireto não pode submeter encomendas para os seus clientes de
 
 2. Selecione **Convidar novos clientes** a convidar um cliente a estabelecer uma relação de revendedor tanto consigo como com o fornecedor indireto ao mesmo tempo. O fornecedor precisa de ter uma relação de revendedor com o seu cliente, para que possa submeter encomendas em nome do seu cliente quando o cliente quiser comprar novas subscrições ou adicionar novas licenças às subscrições existentes.
 
-    :::image type="content" source="images/direct/direct6.png" alt-text="Descrição geral":::
+    :::image type="content" source="images/direct/direct6.png" alt-text="Convidar novos clientes":::
 
 3. Na página seguinte, analise a mensagem de e-mail de rascunho. Pode abrir a mensagem de rascunho por e-mail ou pode copiar a mensagem para a sua área de transferência e colá-la num e-mail.
 
@@ -251,12 +248,12 @@ A funcionalidade é um processo de 4 etapas, onde:
 > [!NOTE]
 > Também pode utilizar [a API/SDK do Partner Center](/partner-center/develop/manage-customers) para transferir as subscrições existentes para o seu fornecedor indireto.
 >
-> - [Obtenha a elegibilidade de transferência de subscrições de um cliente](/partner-center/develop/get-customer-s-subscriptions-transfer-eligibility)
-> - [Criar transferência de um cliente](/partner-center/develop/create-a-transfer)
+> - [Obter a elegibilidade de transferência de subscrições de um cliente](/partner-center/develop/get-customer-s-subscriptions-transfer-eligibility)
+> - [Criar a transferência de um cliente](/partner-center/develop/create-a-transfer)
 > - [Retirar a transferência de um cliente](/partner-center/develop/withdraw-a-transfer)
 > - [Aceitar a transferência de um cliente](/partner-center/develop/accept-a-transfer)
 > - [Rejeitar a transferência de um Cliente](/partner-center/develop/reject-a-transfer)
-> - [Obter transferências de um cliente](/partner-center/develop/get-all-of-a-customer-s-transfers)
+> - [Obter as transferências de um cliente](/partner-center/develop/get-all-of-a-customer-s-transfers)
 > - [Obtenha detalhes de transferência por id](/partner-center/develop/get-transfer-by-id)
 
 ### <a name="transitioning-partner---create-transfer-request"></a>Parceiro de transição - crie pedido de transferência
@@ -269,23 +266,23 @@ Para criar um pedido de transferência como parceiro de transição:
 
 3. Ao abrigo **do ou dos fornecedores indiretos,** confirme que o fornecedor indireto pretendido está listado.
 
-4. Clique **em Ver Assinaturas** .
+4. Clique **em Ver Assinaturas**.
 
 5. Na página **subscrições,** procure **a Transferência de Assinaturas.**
 
-6. Em **Transferência de Assinatura** , clique em Solicitar transferência de **subscrição.**
+6. Em **Transferência de Assinatura**, clique em Solicitar transferência de **subscrição.**
 
-    :::image type="content" source="images/direct/direct8.png" alt-text="Descrição geral":::
+    :::image type="content" source="images/direct/direct8.png" alt-text="Solicitar transferência de assinatura":::
 
 7. No diálogo do pedido de transferência, selecione uma ou mais subscrições a serem transferidas.
 
-    :::image type="content" source="images/direct/direct9.png" alt-text="Descrição geral":::
+    :::image type="content" source="images/direct/direct9.png" alt-text="Criar Pedido de Transferência":::
 
-8. Clique em **Criar** .
+8. Clique em **Criar**.
 
 9. Um pedido de transferência de assinatura ativo será apresentado no âmbito **da Transferência de Assinaturas.**
 
-    :::image type="content" source="images/direct/direct10.png" alt-text="Descrição geral":::
+    :::image type="content" source="images/direct/direct10.png" alt-text="Lista de pedidos de transferência":::
 
 10. Informe o seu fornecedor indireto de que criou um pedido de transferência de assinatura para eles.
 
@@ -299,23 +296,23 @@ Rever e aceitar um pedido de transferência como fornecedor indireto:
 
 3. **No(s) Revendedor indireto,** confirme que o parceiro de transição está listado.
 
-4. Clique **em Ver Assinaturas** .
+4. Clique **em Ver Assinaturas**.
 
 5. Na página **subscrições,** procure **a Transferência de Assinaturas.**
 
-    :::image type="content" source="images/direct/direct11.png" alt-text="Descrição geral":::
+    :::image type="content" source="images/direct/direct11.png" alt-text="Ver pedido de transferência":::
 
 6. No Âmbito **da Transferência de Assinaturas,** clique no pedido de transferência a rever.
 
 7. Clique **em Aceitar** (ou **Rejeitar)** conforme apropriado.
 
-    :::image type="content" source="images/direct/direct12.png" alt-text="Descrição geral":::
+    :::image type="content" source="images/direct/direct12.png" alt-text="Aceite o pedido de transferência":::
 
 8. Aguarde que o pedido de transferência esteja concluído.
 
 ### <a name="indirect-provider---verify-transfer-request-is-complete"></a>Fornecedor indireto - verifique se o pedido de transferência está completo
 
-1. Após o pedido de transferência ter sido concluído com sucesso, verifique se pode ver as subscrições aparecerem em **Subscrições** .
+1. Após o pedido de transferência ter sido concluído com sucesso, verifique se pode ver as subscrições aparecerem em **Subscrições**.
 
 2. Informe o parceiro de transição.
 
@@ -327,11 +324,11 @@ O parceiro de transição deve fazer o seguinte:
 
 2. Na página **Clientes,** selecione o cliente pretendido e clique no ícone **links Rápidos** para expandir a visão sumária do cliente.
 
-3. Clique **em Ver Assinaturas** .
+3. Clique **em Ver Assinaturas**.
 
 4. Na página **subscrições,** procure **a Transferência de Assinaturas.**
 
-5. Verifique se o pedido de transferência está marcado como **Completo** .
+5. Verifique se o pedido de transferência está marcado como **Completo**.
 
 6. Verifique se as subscrições deixaram de aparecer como ativas na página **de Subscrições:**
 
@@ -339,7 +336,7 @@ O parceiro de transição deve fazer o seguinte:
 
    2. Se se trata de uma subscrição baseada em licença (Office 365, Dynamics, Intune), será listada com o estado como **Suspenso.**
 
-   :::image type="content" source="images/direct/direct13.png" alt-text="Descrição geral":::
+   :::image type="content" source="images/direct/direct13.png" alt-text="Assinatura suspensa":::
 
 ### <a name="considerations"></a>Considerações
 

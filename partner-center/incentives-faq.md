@@ -8,18 +8,14 @@ ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: b16fb54ede696ac623f68cff933daf8aaf1666e7
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: 166e120af2f00cef50ec0681913dd3787a4f9f39
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93133070"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624226"
 ---
 # <a name="frequently-asked-questions-on-incentives"></a>Perguntas frequentes sobre Incentivos
-
-**Aplica-se a:**
-
-- Partner Center
 
 **Funções adequadas:**
 
@@ -35,7 +31,7 @@ N.º Tanto o administrador global como o administrador de conta podem atribuir o
 
 Se tentar juntar-se à MPN e a sua empresa já for membro, a MPN reconhecerá o domínio e associar-lhe-á a conta existente. A conta existente pode ser a mesma empresa ou uma empresa relacionada usando o mesmo domínio de e-mail, ou o mesmo Diretório de Atividades Azure (Azure AD) para gerir vários domínios.
 
-Pode identificar o Contacto Primário a partir da Página de Perfil do Parceiro. Se a sua localização for a localização MPNHQ, basta configurar com as permissões necessárias para gerir os incentivos. Para obter mais informações sobre funções e permissões, consulte a visão geral das [permissões.](permissions-overview.md)
+Pode identificar o Contacto Primário a partir da Página de Perfil Legal. Se a sua localização for a localização MPNHQ, basta configurar com as permissões necessárias para gerir os incentivos. Para obter mais informações sobre funções e permissões, consulte a visão geral das [permissões.](permissions-overview.md)
 
 Se não estiver localizado no mesmo país que a localização do MPNHQ, consulte as [Instruções de Contas Multinacionais para](https://support.microsoft.com/help/4515619/special-considerations-for-multi-national-partners-joining-the-microso) obter mais detalhes sobre este cenário.
 
@@ -51,7 +47,7 @@ Para mais informações, consulte [a visão geral das permissões.](permissions-
 
 Para encontrar um administrador global ou administrador de conta que possa fazer alterações de funções ou atribuir funções a um novo utilizador:
 
-1. A partir do ícone de definições de conta no topo direito do Centro de Parceiros, selecione **a gestão do Utilizador** .
+1. A partir do ícone de definições de conta no topo direito do Centro de Parceiros, selecione **a gestão do Utilizador**.
 2. Filtrar quer **administração global** quer **administração de conta.**
 3. Também pode ir ao **meu perfil,** selecionar **Funções e permissões** e ver uma lista dos diferentes administradores que podem ajudá-lo a elevar as suas permissões.
  
@@ -63,9 +59,9 @@ A razão provável para não ver incentivos é que não tem as permissões corre
 
 1. Inscreva-se no painel de [instrumentos](https://partner.microsoft.com/dashboard/) do Partner Center com as suas credenciais de inquilino Azure AD (as suas credenciais de trabalho). Se não conseguir assinar, contacte o administrador global da sua empresa.
 
-2. Ao iniciar sessão, se for solicitado para selecionar na sua **conta De Trabalho** ou na conta **Pessoal** , selecione Conta **De Trabalho** .
+2. Ao iniciar sessão, se for solicitado para selecionar na sua **conta De Trabalho** ou na conta **Pessoal**, selecione Conta **De Trabalho**.
 
-3. No menu Partner Center, selecione **Incentivos** e, em seguida, **selecione Overview** . Se não tiver permissões de administração de incentivos ou incentivos, ser-lhe-á mostrada a informação de contacto para todos os administradores globais e de conta da sua empresa. Contacte um destes administradores para obter o papel de incentivo para os IDs de MPN necessários e programas de incentivo.
+3. No menu Partner Center, selecione **Incentivos** e, em seguida, **selecione Overview**. Se não tiver permissões de administração de incentivos ou incentivos, ser-lhe-á mostrada a informação de contacto para todos os administradores globais e de conta da sua empresa. Contacte um destes administradores para obter o papel de incentivo para os IDs de MPN necessários e programas de incentivo.
 
 4. Se já tem um papel de administrador de Incentivos, verá as inscrições para a sua empresa para os IDs mpn e programas de incentivo para os quais tem acesso.
 
@@ -75,7 +71,7 @@ Se vir menos inscrições do que esperava na página **de visão geral** dos inc
 
 1. Inicie sessão no [dashboard do Centro de Parceiros](https://partner.microsoft.com/dashboard/).
 
-2. Em **Definições** , selecione [Gestão do Utilizador](https://partner.microsoft.com/pcv/users).
+2. Em **Definições**, selecione [Gestão do Utilizador](https://partner.microsoft.com/pcv/users).
 
 3. Selecione o seu nome para ver as suas permissões.
 

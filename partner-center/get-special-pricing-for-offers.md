@@ -9,18 +9,14 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c25bafc4b152ce0ca205860b3692293aaadf3636
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: 24343b4cf7d51398410c33403efa7dc596adf891
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "92529636"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624056"
 ---
 # <a name="sell-to-specialized-industries-like-education-non-profit-and-government-users"></a>Vender a indústrias especializadas como utilizadores de educação, sem fins lucrativos e governamentais
-
-**Aplica-se a**
-
-- Partner Center
 
 **Funções adequadas**
 
@@ -42,9 +38,9 @@ A Microsoft fornece preços especiais e reduzidos para grupos selecionados de cl
 
 Os seguintes passos aplicam-se apenas aos fornecedores indiretos e aos parceiros de conta direta. Os revendedores indiretos precisam de se conectar com um fornecedor indireto para entregar ofertas a preços académicos a utilizadores de educação qualificada.
 
-1. No [painel](https://partner.microsoft.com/dashboard)partner Center , selecione o ícone de engrenagem no canto superior direito da janela para abrir as **definições de Conta** .
+1. No [painel](https://partner.microsoft.com/dashboard)partner Center , selecione o ícone de engrenagem no canto superior direito da janela para abrir as **definições de Conta**.
 
-2. No seu **perfil parceiro,** na secção informações do **Programa,** procure **qualificações de Revendedor** .
+2. No seu **perfil Legal,** na secção informações do **Programa,** procure **qualificações de Revendedor**.
 
 3. Se não vir **qualificações de Revseller,** ainda não foi autorizado a comprar ofertas especiais.
 
@@ -81,4 +77,4 @@ Regras de compra para venda de ofertas especiais aos clientes:
 
 - [Vender Minecraft: Subscrições da Education Edition para clientes de educação](minecraft-subscriptions.md)
 
-- [Centro de Parceiros para Microsoft Cloud para governo dos EUA](partner-center-for-microsoft-us-govt-cloud.md)
+- [Centro de Parceiros do Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md)

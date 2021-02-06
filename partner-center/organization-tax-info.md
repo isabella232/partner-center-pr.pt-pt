@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 4db0c81bf9f92975cc119215de76565e6acbadbd
-ms.sourcegitcommit: 54c19f62474a4841d0bbd6a02a84b9c597f70fae
+ms.openlocfilehash: b18f42f34951e09272d59c75b4588e962809ce62
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/07/2020
-ms.locfileid: "96755627"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624209"
 ---
 # <a name="add-a-vat-id-to-your-billing-profile"></a>Adicione um ID de IVA ao seu perfil de faturação
 
@@ -31,7 +31,7 @@ Pode utilizar o seguinte procedimento para atualizar o seu perfil de faturação
 ## <a name="update-your-billing-profile-with-your-vat-id"></a>Atualize o seu perfil de faturação com o seu ID de IVA
 
 1. Inscreva-se no painel do [Centro de Parceiros.](https://partner.microsoft.com/dashboard/)
-2. No menu **Definições** (ícone de engrenagem), escolha **Definições de Parceiros**.
+2. No menu **Definições** (ícone de engrenagem), escolha **Definições de Conta**.
 3. Na página **de definições de conta,** escolha o **perfil de faturação do Parceiro** no menu da página.
 4. Na secção **de dados financeiros,** escolha **Atualização**.
 5. Para **identificação do imposto sobre a empresa,** especifique o seu número de identificação do IVA.

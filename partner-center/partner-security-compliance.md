@@ -9,27 +9,22 @@ ms.author: iswillia
 ms.localizationpriority: high
 ms.topic: conceptual
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 673728ad03d6617fa60ba4119f0ebbbaaa4ce328
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: 3f521e05fbf0b3a6c209a84ed9ab53d2502960a5
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93132969"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624158"
 ---
 # <a name="security-requirements-status-report"></a>Relatório de estado dos requisitos de segurança
 
-**Aplica-se a**
-
-- Todos os parceiros no programa Cloud Solution Provider
-- Todos os fornecedores de painéis de controlo
-- Todos os Conselheiros
-
-**Utilizadores apropriados**
-- Todos os utilizadores habilitados, incluindo utilizadores convidados
+**Funções adequadas**
+- Fornecedores de painéis de controlo
+- Administradores globais
 
 Este artigo explica o relatório de estado dos requisitos de segurança no Partner Center. Este relatório fornece métricas sobre o cumprimento dos requisitos de [segurança dos parceiros](partner-security-requirements.md) para a autenticação de vários fatores (MFA) para os utilizadores do seu inquilino parceiro.
 
-Para aceder a este relatório no [Partner Center,](https://partner.microsoft.com/dashboard)aceda ao estado dos requisitos de segurança das definições do Parceiro **de Definições de Definições** de  >  **Partner settings**  >  **Definições** . O relatório é atualizado diariamente e reflete os dados de login dos últimos sete dias.
+Para aceder a este relatório no [Partner Center,](https://partner.microsoft.com/dashboard)aceda ao estado dos **requisitos** de segurança das definições de  >  **definições** de  >  **definições**. O relatório é atualizado diariamente e reflete os dados de login dos últimos sete dias.
 
 >[!NOTE]
 >O relatório de estado dos requisitos de segurança é suportado apenas no Partner Center. Não está disponível na Microsoft Cloud para o Governo dos EUA ou microsoft Cloud Germany. Recomendamos vivamente que todos os parceiros que transacionem através de uma nuvem soberana (Governo dos EUA e Alemanha) adotem imediatamente estes novos requisitos de segurança. No entanto, estes parceiros não são atualmente obrigados a satisfazer os novos requisitos de segurança. A Microsoft fornecerá detalhes adicionais sobre a aplicação destes requisitos de segurança para nuvens soberanas no futuro.

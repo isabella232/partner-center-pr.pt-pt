@@ -9,16 +9,16 @@ author: billLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7ee6f4fdb537752cccbceb68716ed22bb8c5fb3a
-ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
+ms.openlocfilehash: 38fe5d03784d0fcf0796545d31e8272f316d2878
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "92795779"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99623988"
 ---
 # <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>Capacidades de conta direta restritas e os requisitos necessários para os parceiros de conta direta da CSP  
 
-## <a name="overview"></a>Descrição geral
+## <a name="overview"></a>Descrição Geral
 
 Os parceiros de conta direta devem cumprir os novos [requisitos](direct-partner-new-requirements.md) para permanecer no programa de parceiros de conta direta da CSP. Caso contrário, o seu acesso às capacidades de faturação direta acabará por ser restringido e poderá continuar a executar tarefas específicas, como fazer novas compras para os seus clientes.
 
@@ -31,9 +31,9 @@ Para confirmar se o acesso do inquilino do parceiro de conta direta às capacida
 
 1. Inscreva-se no painel do [Centro de Parceiros.](https://partner.microsoft.com/dashboard)
 
-2. Vá ao Perfil de Parceiro **de Definições**  ->  **de Parceiros** .
+2. Ir para **as definições de Conta** Perfil  ->  **Legal**.
 
-3. Informações **do Programa** , procure **o estado do Microsoft Cloud Solution Provider** .
+3. Informações **do Programa**, procure **o estado do Microsoft Cloud Solution Provider**.
 
 4. Se o estado do programa tiver valor **restrito,** significa que o acesso do seu parceiro de conta direta às capacidades de conta direta foi restringido.
 
@@ -62,7 +62,7 @@ As assinaturas de faturas diretas existentes não são afetadas. Permanecem vál
     >[!Note] 
     >Não é possível adicionar novos addons às subscrições existentes, uma vez que é tratada como nova compra.
 
-- Implemente novos recursos Azure e gere os recursos Azure existentes sob as subscrições Azure existentes. Isto inclui recursos, que estão disponíveis através do mercado Azure e subscrições do Visual Studio.
+- Implemente novos recursos Azure e gere os recursos Azure existentes sob as subscrições Azure existentes. Isto inclui recursos, que estão disponíveis através de subscrições do Azure Marketplace e do Visual Studio.
 
 Além de novas compras, não é possível aceder às seguintes capacidades de faturação direta no Partner Center:
 
