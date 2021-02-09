@@ -59,6 +59,9 @@
         - name: Obter informações sobre competências
           href: learn-about-competencies.md
           displayName: mpn
+        - name: Inscreva-se como Parceiro de Aprendizagem
+          href: mpn-benefits-map-competency-learning-option-enroll.md
+          displayName: mpn
         - name: FAQ sobre competências
           href: competencies-faq.md
           displayName: 'renew, mpn'
