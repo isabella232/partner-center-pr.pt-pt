@@ -1,19 +1,19 @@
 ---
 title: Incentivos FAQ
 ms.topic: how-to
-ms.date: 10/29/2020
+ms.date: 02/05/2021
 description: Frequentemente, perguntas para incentivos da Microsoft. Este artigo inclui perguntas sobre as funções dos utilizadores, como se inscrever ou o que fazer sobre mensagens de erro.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 166e120af2f00cef50ec0681913dd3787a4f9f39
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: 332832b14e3434824aee2b1a6bcf7eb321fb7a60
+ms.sourcegitcommit: 2d1f0d7bc897278ef37af6d43c1a088f5ca14807
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624226"
+ms.lasthandoff: 02/08/2021
+ms.locfileid: "99835072"
 ---
 # <a name="frequently-asked-questions-on-incentives"></a>Perguntas frequentes sobre Incentivos
 
@@ -67,17 +67,11 @@ A razão provável para não ver incentivos é que não tem as permissões corre
 
 ## <a name="some-enrollments-are-missing-from-the-incentives-overview-page"></a>Faltam algumas inscrições na página geral dos incentivos.
 
-Se vir menos inscrições do que esperava na página **de visão geral** dos incentivos, pode fazer o seguinte.
+Se recebeu um convite de um programa de incentivos que já não está visível no painel de instrumentos, deve verificar duas vezes se tem acesso adequado. Apenas os utilizadores com função de Incentivo utilizador ou administrador de incentivo são capazes de ver o programa. Ver [Encontre o seu papel.](https://docs.microsoft.com/partner-center/find-your-role)
 
-1. Inicie sessão no [dashboard do Centro de Parceiros](https://partner.microsoft.com/dashboard/).
+Se precisar de alterar a sua função ou permissões, contacte a administração global ou de conta da sua empresa. Para saber quem são estas pessoas, leia [Encontre o seu administrador global.](https://docs.microsoft.com/partner-center/find-your-role#find-your-global-admin)
 
-2. Em **Definições**, selecione [Gestão do Utilizador](https://partner.microsoft.com/pcv/users).
-
-3. Selecione o seu nome para ver as suas permissões.
-
-Se precisar de alterar o seu papel ou permissões, consulte a administração global ou de conta da sua empresa.
-
-Note que esta página apenas apresentará inscrições associadas à Conta Global de Parceiros (PGA) associadas ao inquilino AZURE AD. Se a sua empresa tiver mais do que uma PGA, terá de ter credenciais diferentes para cada uma.
+Note que a página 'Vista Geral' apenas apresentará inscrições associadas à Conta Global de Parceiros (PGA) associadas ao inquilino AZURE AD. Se a sua empresa tiver mais do que uma PGA, terá de ter credenciais diferentes para cada uma.
 
 ## <a name="who-should-i-contact-if-i-get-an-error-message-or-need-help-during-the-enrollment-process"></a>Quem devo contactar se receber uma mensagem de erro ou precisar de ajuda durante o processo de inscrição?
 

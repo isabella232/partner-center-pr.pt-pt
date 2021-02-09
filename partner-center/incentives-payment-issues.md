@@ -1,19 +1,19 @@
 ---
 title: Resolver problemas de pagamentos e ganhos
 ms.topic: article
-ms.date: 10/30/2020
+ms.date: 02/05/2021
 description: Saiba como resolver problemas como ganhos em falta ou incorretos, problemas de elegibilidade e como conciliar os seus ganhos de incentivos.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: e3a8890127ce9ff73fd09b7a35d4e167b5629f45
-ms.sourcegitcommit: 7f595faf952bf2d6cdc229da38bd67ee701b2083
+ms.openlocfilehash: 971b053119a263ed5c7f8e25fb532b4137e1cb13
+ms.sourcegitcommit: 2d1f0d7bc897278ef37af6d43c1a088f5ca14807
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "93189769"
+ms.lasthandoff: 02/08/2021
+ms.locfileid: "99834888"
 ---
 # <a name="troubleshooting-missing-payments-incorrect-earnings-and-other-issues"></a>Resolução de problemas em falta de pagamentos, ganhos incorretos e outras questões
 
@@ -74,6 +74,24 @@ Os pagamentos em falta ou incorretos devem-se frequentemente a um dos seguintes 
 
 Se estas ações não ajudarem e os seus pagamentos continuarem em falta ou incorretos, [contacte o suporte](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives).
 
+## <a name="how-can-i-reconcile-my-adjustments"></a>Como posso reconciliar os meus ajustes?
+
+Pode localizar e conciliar os seus ajustes descarregando os seus dados de ganhos e transações.
+
+1. Inicie sessão no [dashboard do Centro de Parceiros](https://partner.microsoft.com/dashboard/).
+2. Na barra de navegação superior, selecione o ícone do dinheiro e, em seguida, selecione **o histórico de Transações**.
+3. Aplique os filtros apropriados. (Ver a nota **importante** abaixo.)
+4. Depois de filtrar os seus dados, selecione **Iniciar o download** e, em seguida, selecione **dados de Exportação**. Os seus dados serão abertos num ficheiro CSV.
+5. No ficheiro CSV, navegue para a Coluna P, **Tipo De Ganho**.
+6. Filtrar esta coluna para **o Ajuste-Redução**. Pode ver o mês de cada ajuste na Coluna S.
+
+>[!IMPORTANT]
+>Os ajustamentos aplicados aos períodos de ganhos anteriores não serão visíveis nos ganhos do mês em que o ajustamento foi aplicado. Os ajustamentos refletir-se-ão sempre no relatório de resultados do mês a que o ajustamento foi aplicado.
+>
+>Por exemplo, um ajustamento para janeiro de 2019 que foi processado em setembro de 2019 não vai refletir no valor dos ganhos de setembro de 2019. No entanto, quando o pagamento de setembro de 2019 for recebido, incluirá o ajustamento para janeiro de 2019 que foi aplicado em setembro. Neste cenário, você precisaria de baixar os detalhes da transação para janeiro de 2019 para ver o ajuste que foi aplicado.
+>
+>Tenha isto em mente quando definir os filtros da data. Como acima referido, os ajustamentos relativos a períodos anteriores só serão visíveis no mês em que o ajustamento foi aplicado. Verifique duas vezes se o intervalo de datas selecionado corresponde ao mês do ajuste que está a tentar localizar. Pode ser necessário selecionar **Limpar tudo** para remover os filtros e, em seguida, aplicar os novos.
+
 ## <a name="why-are-my-co-op-claim-payments-made-in-two-different-currencies"></a>Porque é que os meus pagamentos de pedidos de cooperação são feitos em duas moedas diferentes?
 
 Quando os fundos de cooperação são obtidos por diferentes entidades da Microsoft, os pagamentos são feitos na moeda local de cada entidade.  
@@ -123,7 +141,7 @@ Esta vista permite-lhe visualizar pagamentos para todos os programas e IDs MPN. 
 | Consulte as suas informações de pagamento por linha, incluindo valores de ganhos e pagamentos em moeda local  | Consulte o campo **Lista de Pagamentos**   |
 | Faça o download de uma carta de remessa   |  Selecione remessa **de pagamento**  |
 | Ver detalhes do nível de transação para um pagamento específico |  Selecione **Ver**  |
-| Detalhes de transações de exportação para o Excel  |  Selecione **Iniciar o download** e, em seguida, clique em **Dados de Exportação** . Note que todos os filtros selecionados serão aplicados aos dados exportados. Uma vez alterado o estado para Completed, selecione **Download** e siga as instruções para exportar o relatório de transações detalhadas. Refresque a página se o estado não for atualizado dentro de cinco minutos.  |
+| Detalhes de transações de exportação para o Excel  |  Selecione **Iniciar o download** e, em seguida, clique em **Dados de Exportação**. Note que todos os filtros selecionados serão aplicados aos dados exportados. Uma vez alterado o estado para Completed, selecione **Download** e siga as instruções para exportar o relatório de transações detalhadas. Refresque a página se o estado não for atualizado dentro de cinco minutos.  |
 
 ### <a name="missing-or-incorrect-earnings-and-payments"></a>Ganhos e pagamentos em falta ou incorretos
 
@@ -135,7 +153,7 @@ Se ainda não conseguir encontrar os seus ganhos ou acreditar que os ganhos apre
 
 Se existir alguma discrepância nos ganhos, execute os seguintes passos:
 
-1. **Verifique se é elegível para ganhos** .  Os ganhos só estarão disponíveis se cumprir a [elegibilidade](incentives-determined-your-program-eligibility.md) do programa e [a elegibilidade dos ganhos.](incentives-confirm-your-earnings-eligibility.md)
+1. **Verifique se é elegível para ganhos**.  Os ganhos só estarão disponíveis se cumprir a [elegibilidade](incentives-determined-your-program-eligibility.md) do programa e [a elegibilidade dos ganhos.](incentives-confirm-your-earnings-eligibility.md)
 
 2. **Verifique se o perfil de pagamento está completo.**  Your incentive earnings start date will be the first day of the month in which you’ve completed all of the eligibility requirements, including onboarding with payout and tax details. Os ganhos não estarão disponíveis nos meses anteriores ao preenchimento dos dados de pagamento e fiscais. Por exemplo, se completar todos os requisitos durante o mês de abril de 2020, a data de início dos ganhos será 1 de abril de 2020. 
 

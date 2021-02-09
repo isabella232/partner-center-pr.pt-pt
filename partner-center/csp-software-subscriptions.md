@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 07fdc40ae9232a5cf2636b309dae45a52538edf2
-ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
+ms.openlocfilehash: 5355dd6229d22d154512be8536e5fd4ab9b900ad
+ms.sourcegitcommit: 2d1f0d7bc897278ef37af6d43c1a088f5ca14807
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/30/2021
-ms.locfileid: "99098844"
+ms.lasthandoff: 02/08/2021
+ms.locfileid: "99834861"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Vender subscrições de software através do programa Cloud Solution Provider (CSP)
 
@@ -95,7 +95,7 @@ Para comprar subscrições de software em nome de um cliente:
 Depois de ter adquirido o seu software, os seus clientes têm de o descarregar. Utilize o seguinte procedimento para o fazer.
 
 >[!NOTE]
->Você deve ser um agente de administração para obter chaves e downloads.
+>Você deve ser um agente de administração para obter o link para chaves e downloads.
 
 1. Aceda à página de detalhes do seu cliente e, em seguida, **selecione Software**. Verá uma lista de todo o software que comprou em nome do cliente.
 2. Copie o "link profundo" das **chaves e transferências** de produtos Link para Software e partilhe o link com o seu cliente. Quando selecionarem este link, serão redirecionados para o Microsoft Admin Center para descarregar e obter as chaves do produto.
