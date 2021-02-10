@@ -1,5 +1,5 @@
 ---
-title: Create a Partner Center account (Criar uma conta do Centro de Parceiros)
+title: Criar uma conta MPN no Partner Center
 ms.topic: article
 ms.date: 02/08/2021
 ms.service: partner-dashboard
@@ -9,23 +9,23 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 129cdd337f9b475b37d14c4e68058736b473fe33
-ms.sourcegitcommit: 5768f10cd122a20fe3df3062ea34e7096d99f639
+ms.openlocfilehash: 39ff18e82782dcc19e1bda5cd774012f241a0b3a
+ms.sourcegitcommit: df3360786b46f9c2724dbd521e11366ffcbda307
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "100005930"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "100013695"
 ---
-# <a name="create-a-partner-center-account-to-manage-network-benefits-and-competencies"></a>Criar uma conta Partner Center para gerir benefícios e competências de rede
+# <a name="create-an-mpn-account-in-partner-center-to-manage-network-benefits-and-competencies"></a>Criar uma conta MPN no Partner Center para gerir benefícios e competências de rede
 
 
-Se é novo na Microsoft Partner Network e não tem um ID MPN, pode iniciar a sua inscrição seguindo as [instruções de inscrição](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/partnership).
+Se é novo na Microsoft Partner Network (MPN) e não tem um ID MPN, pode iniciar a sua inscrição seguindo as [instruções de inscrição](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/partnership).
 
 ## <a name="prerequisites"></a>Pré-requisitos 
 
 Quando estiver pronto para criar uma conta no Partner Center, para começar terá de ter à mão os seguintes itens.  Talvez queira tirar alguns minutos para recolher estes itens antes de começar:
 
-- Trabalho da empresa e-mail OR Office 365 conta de trabalho. Fore mais informações, leia [a sua conta de trabalho da empresa e o Partner Center](azure-active-directory-tenants-and-partner-center.md) 
+- Trabalho da empresa e-mail OR Office 365 conta de trabalho. Para mais informações, leia [a sua conta de trabalho da empresa e o Partner Center](azure-active-directory-tenants-and-partner-center.md) 
  
 - O nome e endereço legais da sua empresa.
 
@@ -61,7 +61,7 @@ Depois de ter fornecido a informação da empresa, insira as informações de co
 O contacto principal deve ser a pessoa na sua empresa que podemos contactar sobre a sua aplicação (pode ser você ou outra pessoa na sua empresa).
 
 >[!IMPORTANT]
->Para ajudar a garantir a segurança e privacidade da sua empresa, enviamos um e-mail para o seu contacto principal para verificar o endereço de e-mail e garantir que o endereço de e-mail pertence à sua empresa, Depois de o contacto principal verificar o endereço de e-mail, continuaremos a rever as informações que forneceu. A verificação geralmente leva 3-5 dias úteis. 
+>Para ajudar a garantir a segurança e privacidade da sua empresa, enviamos um e-mail para o seu contacto principal para verificar o endereço de e-mail e garantir que o endereço de e-mail pertence à sua empresa. Após o contacto principal verificar o endereço de e-mail, continuaremos a nossa revisão das informações que forneceu. A verificação geralmente leva 3-5 dias úteis. 
 
 ## <a name="how-to-view-account-details-or-view-and-download-the-mpn-agreement"></a>Como ver detalhes da conta ou visualizar e descarregar o acordo MPN
 
