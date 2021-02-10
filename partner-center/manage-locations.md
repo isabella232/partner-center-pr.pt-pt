@@ -1,7 +1,7 @@
 ---
 title: Gerir localizações na sua conta de parceiro
 ms.topic: how-to
-ms.date: 02/05/2021
+ms.date: 02/08/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Saiba como adicionar uma nova localização e como a localização MPN ID é usada em programas de incentivo, negócios de CSP, subscrições e outras transações.
@@ -9,14 +9,14 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c5ac31b772c6757468c5ea9d463643731571b31f
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: 41ffaeaf0fb46659142949872295523546bb91c1
+ms.sourcegitcommit: 5768f10cd122a20fe3df3062ea34e7096d99f639
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624277"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "100005908"
 ---
-# <a name="manage-your-mpn-account-locations-and-add-a-new-location"></a>Gerencie as localizações da sua conta MPN e adicione uma nova localização
+# <a name="manage-your-mpn-account-locations-and-add-delete-a-location"></a>Gerencie as localizações da sua conta MPN e adicione (excluir) uma localização
 
 
 **Funções adequadas**
@@ -79,7 +79,11 @@ Para adicionar uma nova conta de negócios da CSP, comece por garantir que cumpr
 :::image type="content" source="images/legal-biz.png" alt-text="Adicione um novo negócio legal":::
 
 > [!NOTE]
-> Uma vez que uma localização é adicionada no Centro de Parceiros, não pode ser removida. Verá **MPN** no menu esquerdo do Partner Center se tiver usado o ID MPN correto para iniciar sins.
+> Uma vez que uma localização é adicionada no Partner Center, não é possível removê-la. Verá **MPN** no menu esquerdo do Partner Center se tiver usado o ID MPN correto para iniciar sins.
+
+## <a name="delete-a-location"></a>Excluir uma localização
+
+Para eliminar uma localização da sua conta, terá de contactar o Suporte ao [Parceiro.](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=1af7f3a0-1757-3543-4b6a-c945c3ad187b) Certifique-se de que compreende o impacto que esta ação tem. As localizações eliminadas não podem ser recuperadas e qualquer coisa ligada a esse id MPN específico deixará de ser reconhecida ou ativa para a sua empresa.
 
 ## <a name="change-country-of-partner-global-account"></a>Mudar país de conta global partner 
 
