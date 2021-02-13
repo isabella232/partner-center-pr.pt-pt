@@ -9,18 +9,18 @@ ms.localizationpriority: medium
 author: dhirajgandhi
 ms.author: dhgandhi
 ms.date: 07/29/2020
-ms.openlocfilehash: 992dd7f9901efd0176395fb626e4048d5229e82b
-ms.sourcegitcommit: e10d2a19dea7e317d227d7fbdcf1bbc3dc4f6257
+ms.openlocfilehash: 94df138eb94d79fb0e472744f19337ad536eb90d
+ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "92530236"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "100281259"
 ---
 # <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>Saiba como transferir as subscrições do Azure de um cliente para outro parceiro
 
 **Aplica-se a**
 
-- Centro de Parceiros para Microsoft Cloud para governo dos EUA
+- Centro de Parceiros do Microsoft Cloud for US Government
 - Centro de Parceiros para Microsoft Global Cloud
 - Parceiros no programa Cloud Solution Provider (CSP)
 
@@ -43,36 +43,36 @@ Para mudar os serviços ou subscrições do Azure de um cliente para um parceiro
 
    Crie um bilhete de serviço Azure do Partner Center para solicitar uma transferência de assinatura:
 
-   1. A partir do menu Partner Center, selecione **Clientes,** selecione o seu cliente da lista e, em seguida, selecione **a gestão do Serviço** . 
+   1. A partir do menu Partner Center, selecione **Clientes,** selecione o seu cliente da lista e, em seguida, selecione **a gestão do Serviço**. 
 
-   2. Na secção **de bilhetes De Suporte,** selecione o novo dropdown de **bilhetes** e escolha **o Microsoft Azure** .
+   2. Na secção **de bilhetes De Suporte,** selecione o novo dropdown de **bilhetes** e escolha **o Microsoft Azure**.
    
-   3. A partir do [portal Azure,](https://portal.azure.com)selecione **Novo pedido de suporte** .
+   3. A partir do [portal Azure,](https://portal.azure.com)selecione **Novo pedido de suporte**.
    
    4. No Passo 1, escolha a **gestão de Subscrição** como o tipo de problema, especifique o ID de subscrição que pretende ser transferido e escolha o **Cloud Solution Provider** como o plano de suporte.
    
    5. No passo 2, selecione **o impacto C-Minimal** e escolha **Outras Perguntas Gerais** como o tipo de problema.
    
-   6. Descarregue o [formulário de Transferência de Assinatura CSP](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA).
+   6. Descarregue o [formulário de Transferência de Assinatura CSP](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWwTWC).
 
-3. O parceiro para a subscrição: Preencha o [formulário de Transferência de Assinatura CSP,](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA)assine-o e, em seguida, envie-o ao cliente. 
+3. O parceiro para a subscrição: Preencha o [formulário de Transferência de Assinatura CSP,](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWwTWC)assine-o e, em seguida, envie-o ao cliente. 
 
    Para preencher o formulário, necessitará das seguintes informações:
 
-   - As informações de contacto do parceiro atual e a identificação da Microsoft. No menu Partner Center, selecione perfil de **Organização de Definições de Contas** e utilize o &gt; **Organization profile** **ID** da **Microsoft,** nome da Organização e **Endereço** listados lá.
+   - As informações de contacto do parceiro atual e a identificação da Microsoft. No menu Partner Center, selecione perfil de **Organização de Definições de Contas** e utilize o &gt;  **ID** da **Microsoft,** nome da Organização e **Endereço** listados lá.
 
-   - O iD da Microsoft do cliente. No menu Partner Center, selecione **Clientes** e, em seguida, expanda a listagem do cliente para ver o seu **ID Microsoft** .
+   - O iD da Microsoft do cliente. No menu Partner Center, selecione **Clientes** e, em seguida, expanda a listagem do cliente para ver o seu **ID Microsoft**.
 
-   - O ID de assinatura para transferir. Na listagem de clientes expandida, selecione **Ver Subscrições,** em seguida, expandir a subscrição escolhida para ver o **ID de subscrição** .
+   - O ID de assinatura para transferir. Na listagem de clientes expandida, selecione **Ver Subscrições,** em seguida, expandir a subscrição escolhida para ver o **ID de subscrição**.
 
    >[!Note]
-   >A transferência de uma subscrição resulta em dois IDs de subscrição que verá na página de Subscrição de **Edição** da subscrição transferida: **1** - O ID de subscrição do Partner Center é utilizado para efeitos de faturação. **2** - O ID de subscrição original do Azure é mantido e aparecerá no Partner Center, bem como no portal Azure Management. Esta identificação aparecerá no seu ficheiro de reconhecimento.  **Ao registar bilhetes de suporte, você precisa usar ambos os IDs.**
+   >A transferência de uma subscrição resulta em dois IDs de subscrição que verá na página de Subscrição de **Edição** da subscrição transferida: **1**- O ID de subscrição do Partner Center é utilizado para efeitos de faturação. **2**- O ID de subscrição original do Azure é mantido e aparecerá no Partner Center, bem como no portal Azure Management. Esta identificação aparecerá no seu ficheiro de reconhecimento.  **Ao registar bilhetes de suporte, você precisa usar ambos os IDs.**
 
 4. O cliente e novo parceiro para a subscrição:
 
    Reveja o formulário, preencha informações sobre o novo parceiro e assine-o. Confirme que o novo cliente tem um contrato em vigor. Envie o formulário de volta para o atual parceiro de registo.
 
-   *Importante* : Se o novo Parceiro CSP não tiver uma relação de revendedor com o cliente, deve estabelecer uma antes da transferência da subscrição. [Pode encontrar informações sobre como fazê-lo aqui.](request-a-relationship-with-a-customer.md)
+   *Importante*: Se o novo Parceiro CSP não tiver uma relação de revendedor com o cliente, deve estabelecer uma antes da transferência da subscrição. [Pode encontrar informações sobre como fazê-lo aqui.](request-a-relationship-with-a-customer.md)
 
    >[!Note]
    >O novo sócio da CSP e o inquilino do cliente devem estar no mesmo país. 
@@ -105,7 +105,7 @@ Para mudar os serviços ou subscrições do Azure de um cliente para um parceiro
    - No menu Partner Center, selecione **Clientes.**
    - Localize o cliente na lista. Selecione (clique duplo) o nome da empresa. Isto abre a página **de Assinaturas** do cliente.
    - No menu de detalhes do cliente, selecione **Gestão de Serviço.**
-   - No **Microsoft Azure,** clique no link para ir ao **Microsoft Azure Management Portal** .
+   - No **Microsoft Azure,** clique no link para ir ao **Microsoft Azure Management Portal**.
 
 ## <a name="next-steps"></a>Passos seguintes
 
@@ -115,4 +115,4 @@ Para mudar os serviços ou subscrições do Azure de um cliente para um parceiro
 
 - [suporte multi-parceiro.](multipartner.md)
 - [suporte multicanal](multichannel.md).
-- [Transfer Azure subscriptions](/azure/cost-management-billing/manage/transfer-subscriptions-subscribers-csp) (Transferir subscrições do Azure)
+- [Transfer Azure subscriptions (Transferir subscrições do Azure)](/azure/cost-management-billing/manage/transfer-subscriptions-subscribers-csp)

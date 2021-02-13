@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bf2630ffcdd36aee17b74a07ac03782ae4d9c9f0
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: 086f5423d748ca2a84062577cd934987decc88f8
+ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979826"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "100281294"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Preços e ofertas para Office 365, Dynamics CRM, Enterprise Mobility Suite, Azure, e muito mais
 
@@ -82,12 +82,12 @@ Os preços baseados no uso podem mudar ao longo de um mês. Para obter preços d
 
 ## <a name="pricing-and-special-segments"></a>Preços e segmentos especiais
 
-A CSP oferece alguns serviços a segmentos de mercado especiais, por exemplo, educação, sem fins lucrativos e nuvem comunitária governamental. Nem todos os serviços estão disponíveis em todos os canais. Nenhum segmento de incumprimento do que chamamos de segmento 'comercial'. Todos os preços baseados em licenças estão disponíveis na lista de preços baseados na licença na página de Preços e Ofertas. Os preços do Governo Azure estão disponíveis na lista de preços baseada na utilização quando assinados no Governo Azure habilitado para o inquilino da CSP.
+A CSP oferece alguns serviços a segmentos de mercado especiais, por exemplo, educação, sem fins lucrativos e nuvem comunitária governamental. Nem todos os serviços estão disponíveis em todos os canais. Nenhum segmento de incumprimento do que chamamos de segmento 'comercial'. Todos os preços baseados em licenças estão disponíveis na lista de preços baseados na licença na página de Preços e Ofertas. Os preços do Governo Azure estão disponíveis na lista de preços baseada na utilização quando assinados no Governo Azure habilitado para o inquilino da CSP. As subscrições de software e o software perpétuo ainda não suportam estes segmentos especiais.
 
 |**Segment**   |**que precisa de se qualificar**   |**Parceiro qualifica cliente**|**Tipos de produtos habilitados**|
 |-------------------|-----------------------|----------------------------|-----------------------------|
-|Education|Customer|Não, a qualificação do cliente será realizada pela Microsoft |Apenas com base em licenças|
-|Sem fins lucrativos|Customer|Não, o cliente qualifica-se fora do Partner Center|Apenas com base em licenças|
+|Education|Cliente|Não, a qualificação do cliente será realizada pela Microsoft |Apenas com base em licenças|
+|Sem fins lucrativos|Cliente|Não, o cliente qualifica-se fora do Partner Center|Apenas com base em licenças|
 |GCC (Government Community Cloud)|Parceiro e cliente|Uma vez ativado o GCC, o parceiro pode criar clientes GCC| Apenas com base em licenças|
 |Azure Government|Parceiro|Uma vez qualificado, o parceiro opera num inquilino da CSP específico do Governo Azure|Recursos do Azure|
 

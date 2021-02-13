@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: f84ceb4d17be7e02a4380e4da55d7ac199f43515
-ms.sourcegitcommit: 2a3fe71ef30fbda25cc70f8f526b3efd2b3df687
+ms.openlocfilehash: 03271459ccdea5b62192ec176557a6c3b8f1a556
+ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "99588755"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "100281356"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Guia para co-venda no Partner Center (PC) para parceiros que migram do Partner Sales Connect (PSC)
 
@@ -158,7 +158,7 @@ Antes de iniciar a migração do negócio a partir do PC, siga as instruções a
     - Data de fecho de negócio estimada
     - Notas de parceiro
 
-Você pode usar as capacidades de descarregamento e upload em massa no PSC para limpar os dados para todas as ofertas elegíveis.
+Você pode usar as capacidades de descarregamento e upload em massa no PSC para adicionar todos os detalhes em falta no negócio para todas as ofertas elegíveis.
 
 >[!Note]
 > A migração de acordos terá êxito, mesmo que os pré-requisitos acima referidos não sejam cumpridos. Mas não pode alterar o estado do negócio se algum dos campos acima mencionados exigidos no Partner Center não estiver disponível. Em seguida, terá de introduzir todas as informações necessárias que faltam nos negócios no Partner Center para começar a trabalhar neles. **É fortemente aconselhável limpar as ofertas elegíveis no CPS antes de migrar para o Partner Center.**
@@ -178,9 +178,9 @@ O relatório inclui os detalhes abaixo.
 4. **Identificação de acordo com o PSC** - O identificador único no PSC para o negócio.
 5. **Erros** - para indicar se há algum erro durante a migração de um negócio específico.
 
-Todos os negócios que foram migrados com sucesso não serão visíveis no PSC. Pode trabalhar nas ofertas migratórias no PC. Não haverá alterações nas interações com os vendedores da Microsoft para co-vender ofertas.
+Todos os negócios que foram migrados com sucesso não serão visíveis no PSC. Pode continuar a trabalhar nas ofertas migradas no PC, incluindo completar o registo de negócios no PC. Não haverá alterações nas interações com os vendedores da Microsoft para co-vender ofertas.
 
-As ofertas migradas do PSC estarão disponíveis nos separadores de Entrada e Saída com base na origem do negócio. Todas as ofertas criadas pelo parceiro estarão disponíveis no separador Outbound e as ofertas iniciadas pela Microsoft estarão disponíveis no separador Entrada do Partner Center. Haverá dois tipos de acordos que serão criados após a migração.
+As ofertas migradas do PSC estarão disponíveis nos separadores de Entrada e Saída com base na origem do negócio. Todas as ofertas partilhadas pela sua empresa estarão disponíveis no separador Outbound e as ofertas iniciadas pela Microsoft estarão disponíveis no separador Entrada do Partner Center. Haverá dois tipos de acordos que serão criados após a migração.
 
 1. **Co-vender ofertas** - Ofertas que são marcadas como co-venda no PSC serão criadas como co-vender ofertas no Partner Center.
 2. **Ofertas lideradas por parceiros** - Ofertas que não estejam marcadas como co-venda serão criadas como ofertas lideradas por parceiros no Partner Center. As ofertas lideradas por parceiros são visíveis para os vendedores da Microsoft e podem ser atualizadas para co-vender ofertas antes de atingir o estado terminal (won, lost). Além disso, os acordos liderados por parceiros são elegíveis para registo de negócios se houver uma solução elegível de incentivo no negócio.
@@ -386,12 +386,20 @@ O Partner Center não pode ser acedido pelos seus PDMs diretamente ao contrário
 
 ## <a name="finding-the-correct-mpn-id-if-your-account-in-psc-is-not-associated-with-a-valid-mpn"></a>Encontrar o ID MPN correto se a sua conta no PSC não estiver associada a um MPN válido
 
-Se está aqui porque viu um banner no PSC mencionando "problema de associação MPN inválido do PSC", está no lugar certo.
+Se está aqui porque viu um banner no PSC mencionando "problema de associação MPN inválido do PSC", está no lugar certo. A sua conta pode ter sido ligada a um ID MPN inválido devido às seguintes razões
+
+- A sua empresa não tem uma conta no Partner Center.
+- O seu PDM cometeu um erro ao introduzir o ID mpn da sua conta nos sistemas internos que ligam a sua conta DESEC à sua conta Partner Center (MPNID).
+- A sua empresa não completou a migração do Partner Membership Center (PMC) para PC.
 
 Primeiro, encontre o ID MPN correto seguindo os passos abaixo
 
 - Faça login na sua conta Partner Center
 - Utilize as orientações indicadas na documentação das [definições](./partner-center-account-setup.md#locate-your-mpn-id) de conta para localizar o ID MPN.
+
+Abaixo está uma imagem mostrando a localização exata onde você pode encontrar o seu Parceiro Centro MPN ID
+
+:::image type="content" source="images/pscmigration/findingMPNID.png" alt-text="Imagem mostrando as definições da conta onde o parceiro pode encontrar o seu ID MPN."  lightbox="images/pscmigration/findingMPNID.png":::
 
 Seguinte
 

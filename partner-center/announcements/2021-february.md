@@ -9,16 +9,66 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/04/2021
-ms.openlocfilehash: cb9bc726acb5d76f4774c9a515443d58f7947fbd
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: ac5c82887ddf17e66045e36c0f4de607529f6024
+ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624175"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "100281226"
 ---
 # <a name="february-2021-announcements"></a>Anúncios de fevereiro de 2021
 
 Esta página detalha os anúncios do Microsoft Partner Center para fevereiro de 2021.
+
+_______________
+
+## <a name="microsoft-365-e3-price-changes-coming-for-march-2021"></a><a name="6"></a>Microsoft 365 E3 alterações nos preços a chegar para março de 2021
+
+### <a name="categories"></a>Categorias
+
+- Data: 2021-02-11
+- Ofertas/Mercados
+
+### <a name="affected-audience"></a>Público afetado
+
+Todos os parceiros que transfiram através do programa Cloud Solution Provider (CSP) em EUR, AUD, GBP e JPY.
+
+### <a name="details"></a>Detalhes
+
+A lista de preços de pré-visualização baseada em licenças para março de 2021 foi atualizada para incluir as alterações de preços para o Microsoft 365 E3. A oferta impactada e as moedas estão listadas abaixo. 
+ 
+Nome da oferta: Microsoft 365 E3 Offer ID: 2b3b8d2d-10aa-4be4-b5fd-7f2feb0c3091 Material ID: AAA-35638
+
+Estas atualizações de preços microsoft 365 E3 estão limitadas apenas a estas moedas: JPY (Iene Japonês), GBP (Grande Libra Britânica), EUR (União Europeia), AUD (Dólar Australiano). Existem outras alterações de preços no ficheiro de março e os parceiros devem obter a última pré-visualização para ver as outras alterações esperadas.
+
+### <a name="next-steps"></a>Passos seguintes
+
+Os parceiros devem descarregar os mais recentes ficheiros da lista de preços do Centro de Parceiros para obter os preços mais recentes de março. 
+
+_______________
+
+## <a name="license-based-preview-price-list-updated-for-norwegian-krone"></a><a name="5"></a>Lista de preços de pré-visualização baseada em licença atualizada para coroa norueguesa
+
+### <a name="categories"></a>Categorias
+
+- Data: 2021-02-10
+- Ofertas/Mercados
+
+### <a name="affected-audience"></a>Público afetado
+
+Todos os parceiros que transacionam através do programa Cloud Solution Provider (CSP)
+
+### <a name="summary"></a>Resumo
+
+A lista de preços de pré-visualização baseada em licenças foi atualizada para os preços da coroa norueguesa prevista para 1 de março de 2021.
+
+### <a name="details"></a>Detalhes
+
+As alterações nas taxas de FX para março não foram incluídas nas listas de preços anteriores baseadas em licenças de março. Este ficheiro foi atualizado para refletir as esperadas alterações de preços da coroa norueguesa. Os parceiros devem obter o mais recente ficheiro de preços de pré-visualização atual para ver estas alterações previstas para 1 de março de 2021. Estas alterações são apenas para os preços da moeda de krone norueguesa.
+
+### <a name="next-steps"></a>Passos seguintes
+
+Os parceiros devem descarregar o ficheiro de pré-visualização da lista de preços atual para as alterações previstas para 1 de março de 2021.
 
 _______________
 

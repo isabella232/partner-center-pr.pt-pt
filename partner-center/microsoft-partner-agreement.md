@@ -1,7 +1,7 @@
 ---
 title: O Microsoft Partner Agreement (MPA) para a CSP
 ms.topic: how-to
-ms.date: 01/25/2021
+ms.date: 02/11/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Conheça os requisitos do parceiro Da Microsoft CSP para assinar e verificar este Acordo de Parceiro microsoft unificado e aceite digitalmente (MPA).
@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 68d7bfa23a03d46afe44475023c91109f2f1cfa6
-ms.sourcegitcommit: e99882e9b6c9b1a0f7427fb133693b1d977be76b
+ms.openlocfilehash: 829b444f1990058cd323e3effec6da6d7585155a
+ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/26/2021
-ms.locfileid: "98773465"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "100281324"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>Conheça o Acordo de Parceiros da Microsoft (MPA) para parceiros de programas da CSP
 
@@ -34,6 +34,8 @@ Para continuar a participar no programa CSP, tem de assinar o Acordo de Parceiro
 ## <a name="verify-your-mpn-id-is-active-and-migrated-to-partner-center"></a>Verifique se o seu ID MPN está ativo e migrado para o Partner Center
 
 1. Se não emigrou a sua conta MPN do Partner Membership Center (PMC) para Partner Center, então precisa de migrar a [sua conta MPN para Partner Center](move-pmc-pc-map.md). Irá completar o resto dos passos após a conclusão da migração. 
+
+1. Se não possuir um ID ou conta MPN, deverá aderir primeiro ao programa Microsoft Partner Network. [Saiba como aderir à MPN.](mpn-create-a-partner-center-account.md)
 
 1. Inscreva-se no Partner Center com as suas credenciais de conta MPN.
  
@@ -107,6 +109,6 @@ Também pode ver se assinou o acordo selecionando **Contratos** a partir de defi
 
 3. Para verificar o estado do MPA no Centro de Parceiros depois de concluir o passo 1 e/ou 2 acima: [Verificar o estado de aceitação do Contrato de Parceiro da Microsoft](https://assetsprod.microsoft.com/mpn/verify-mpa-acceptance-status.pptx)
  
-## <a name="next-steps"></a>Próximos passos
+## <a name="next-steps"></a>Passos seguintes
 
 - [Enroll in the Cloud Solution Provider program](indirect-reseller-tasks-in-partner-center.md) (Inscrever-se no programa do Fornecedor de Soluções Cloud)

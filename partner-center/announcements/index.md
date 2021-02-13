@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/05/2021
-ms.openlocfilehash: 9dd646b693f718f47c2f5edd4778836694fb0954
-ms.sourcegitcommit: 2a3fe71ef30fbda25cc70f8f526b3efd2b3df687
+ms.openlocfilehash: 5a5f2ee73c84a3d50e20e6319b07ee2f90aa4972
+ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "99588738"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "100281225"
 ---
 # <a name="partner-center-announcements"></a>Anúncios do Centro de Parceiros
 
@@ -22,6 +22,8 @@ Saiba mais sobre atualizações importantes do Centro de Parceiros. Estas inform
 
 |**Categoria**|**Anúncios de fevereiro de 2021**|**Anunciado**|
 |---------|:---------|:---------|
+|Ofertas/Mercados|[Microsoft 365 E3 alterações nos preços a chegar para março de 2021](2021-february.md#6)|11 de fevereiro|
+|Ofertas/Mercados|[Lista de preços de pré-visualização baseada em licença atualizada para coroa norueguesa](2021-february.md#5)|10 de fevereiro|
 |Capacidades|[Avaliações premium, um complemento ao Compliance Manager, chega a 1 de março de 2021](2021-february.md#4)|5 de fevereiro|
 |Capacidades|[Respondendo ao COVID-19: Atualização da Microsoft Partner Network](2021-february.md#3)|4 de fevereiro|
 |Capacidades|[Novas atualizações para o módulo de referências no Partner Center](2021-february.md#2)|4 de fevereiro|
