@@ -127,9 +127,6 @@
     - name: Contrato de Parceiro da Microsoft - CSPs
       href: microsoft-partner-agreement.md
       displayName: 'csp, mpn'
-    - name: Gerir localizações
-      href: manage-locations.md
-      displayName: 'mpn, csp'
     - name: Como os fornecedores indiretos podem ajudar os seus revendedores a adotar a MPA
       href: mpa-indirect-provider-faq.md
       displayName: 'csp, mpa, indirect, provider'
@@ -197,6 +194,9 @@
           displayName: mpn
         - name: Associar a sua conta profissional
           href: azure-active-directory-tenants-and-partner-center.md
+        - name: Gerir localizações
+          href: manage-locations.md
+          displayName: 'mpn, csp'
         - name: Verificar a propriedade do domínio
           href: become-global-admin.md
         - name: Verificar informações da conta
@@ -262,6 +262,8 @@
       items:
         - name: Sobre oportunidades potenciais de venda conjunta
           href: manage-co-sell-opportunities.md
+        - name: Operações a granel
+          href: bulk-operations.md
         - name: Utilizar conectores CRM de venda conjunta
           items:
             - name: Para Dynamics 365
