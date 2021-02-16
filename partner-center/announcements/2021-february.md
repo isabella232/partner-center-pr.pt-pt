@@ -9,16 +9,120 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/04/2021
-ms.openlocfilehash: f1822a0bba6c14f48da3dfca3081bba5da3c6a2e
-ms.sourcegitcommit: b41c8e1715bc55cb263af17f2781722a143d29bc
+ms.openlocfilehash: 8348179438ad65449ea75cd5ebce8ba0a92d7b9a
+ms.sourcegitcommit: 0416562dd89408524f8312a8acd5b6944b6d91c4
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/14/2021
-ms.locfileid: "100490177"
+ms.lasthandoff: 02/16/2021
+ms.locfileid: "100541003"
 ---
 # <a name="february-2021-announcements"></a>Anúncios de fevereiro de 2021
 
 Esta página detalha os anúncios do Microsoft Partner Center para fevereiro de 2021.
+
+________________
+## <a name="now-live-docusign-migration-to-adobe-sign-for-partners-under-microsoft-partner-agreements-mpas"></a><a name="9"></a> Agora live: DocuSign migração para Adobe Sign para parceiros ao abrigo de Acordos de Parceiros microsoft (MPAs)
+
+### <a name="categories"></a>Categorias
+
+- Data: 2021-02-16
+- Capacidades
+
+### <a name="summary"></a>Resumo
+
+A Microsoft irá transitar todo o processamento de assinaturas electrónicas do DocuSign para o Adobe Sign.
+
+### <a name="impacted-audience"></a>Audiência impactada
+
+Parceiros de Cloud Solution Provider (CSP) existentes no âmbito da MPA.
+
+### <a name="details"></a>Detalhes
+
+Em fevereiro de 2021, a Microsoft começará a transitar todo o processamento de assinaturas eletrónicas do DocuSign para o Adobe Sign para parceiros CSP.
+
+Deve esperar uma transição suave. Após a migração, receberá um e-mail adobesign@adobesign.com de , em vez de DocuSign, sempre que for necessária a sua assinatura eletrónica. Este e-mail fornecer-lhe-á um link para a página web do Adobe Sign onde terá de assinar. Os parceiros da Microsoft não terão de re-assinar acordos existentes, apenas futuros Acordos de Canal. Parceiros na Ucrânia, Rússia e Cazaquistão serão obrigados a voltar a assinar física ou electronicamente o Rider anualmente.
+
+Pode encontrar um exemplo de um e-mail de pedido de assinatura Adobe Sign na [galeria de recursos.](https://partner.microsoft.com/resources/detail/adobe-sign-signature-request-email-pdf)
+
+Para uma melhor experiência, certifique-se de fazer o seguinte:
+
+1. Adicione adobesign@adobesign.com à sua lista de remetentes seguros para evitar que os e-mails desta conta entrem diretamente na sua pasta de correio publicitário não solicitado.
+2. Trabalhe com o seu departamento de TI para:
+    - Adicione o adobesign@adobesign.com endereço de e-mail à sua lista de remetentes seguros para garantir que não está incluído em nenhuma regra de phishing pré-estabelecida.
+    - Atualize as políticas de segurança existentes para garantir que todos os destinatários necessários possam assinar documentação sob a sua licença de empresa Adobe Sign.
+
+Os recursos relativos a questões de embarque, funcionalidade e processo de negócio podem ser encontrados na Página do [Parceiro de Migração do Adobe Sign.](https://aka.ms/eSignature/External)
+
+O Adobe Sign é a solução de assinatura electrónica preferida da Microsoft (ESS). A transição para o Adobe Sign garantirá uma experiência de assinatura electrónica segura e eficiente que irá oferecer maior valor aos nossos clientes e parceiros.
+
+Para obter informações adicionais sobre como assinar eletronicamente documentos e delegação de assinatura electrónica, consulte os seguintes tutoriais:
+
+- [Assinar eletronicamente um documento | Tutoriais de Sinal de Adobe](https://helpx.adobe.com/sign/how-to/adobe-for-signers.html?playlist=/ccx/v1/collection/product/sign/segment/designer/explevel/beginner/applaunch/continuinged/collection.ccx.js&ref=helpx.adobe.com)
+- [Delege alguém para assinar um documento | Tutoriais de Sinal de Adobe](https://helpx.adobe.com/sign/how-to/use-the-delegator-role.html?playlist=/ccx/v1/collection/product/sign/segment/designer/explevel/beginner/applaunch/orientation/collection.ccx.js&ref=helpx.adobe.com)
+
+### <a name="next-steps"></a>Passos seguintes
+
+Partilhe esta informação com as partes interessadas apropriadas na sua organização.
+
+### <a name="questions"></a>Perguntas?
+
+Se tiver alguma dúvida, contacte o seu Centro de Operações Regionais utilizando a [Ferramenta de Registo de Chamadas (CLT)](https://clt.partners.extranet.microsoft.com/CLT) ou no Explore [MS](https://www.explore.ms/). Siga o processo padrão de CLT de perto para que possamos resolver a sua consulta o mais rapidamente possível.
+
+### <a name="change-log"></a>Alterar Registo
+
+- 15 de janeiro de 2021: publicação original 
+- 16 de fevereiro de 2021: Agora ao vivo, Novo Recurso: Adobe Sign Migration Partner Page 
+
+_____________
+
+## <a name="reminder-introducingapithrottlingtopartners-calling-partner-centerapis"></a><a name="8"></a> Lembrete: Introdução do estrangulamento da API aos parceiros que chamam APIs do Partner Center
+
+### <a name="categories"></a>Categorias
+
+- Data: 2021-02-16
+- Expanda o seu Negócio
+
+### <a name="summary"></a>Resumo
+
+A Microsoft estará a implementar o estrangulamento da API para permitir um desempenho mais consistente dentro de um período de tempo para os parceiros que chamam as APIs do Partner Center.
+
+### <a name="impacted-audience"></a>Audiência impactada
+
+Todos os parceiros que transacionam através do programa Cloud Solution Provider (CSP)  
+
+### <a name="details"></a>Detalhes
+
+A partir de fevereiro de 2021, a Microsoft estará a implementar o estrangulamento da API para permitir um desempenho mais consistente dentro de um período de tempo para os parceiros que chamam as APIs do Partner Center.O estrangulamento limita o número de pedidos a um serviço num período de tempo para evitar o uso excessivo de recursos.Quando um limiar de estrangulamento é ultrapassado, o Partner Center limita quaisquer pedidos adicionais desse cliente por um período de tempo.
+
+**Benefícios do parceiro:**
+
+O Partner Center é projetado para lidar com um grande volume de pedidos, mas se um número esmagador de pedidos são feitos por alguns parceiros, o estrangulamento ajudará a manter o melhor desempenho e fiabilidade para todos os parceiros.  
+
+- A aceleração garante um tempo mínimo de inatividade.
+- O throttling reduz o número de pedidos de grande volume, ajudando a garantir um desempenho consistente para todos os parceiros.
+
+**APIs a ser estrangulado:**
+
+| Operação | Documentação do Centro de Parceiros |
+| ------ | ------- |
+|{baseURL}/v1/clientes/{customer_id}/subscrições  | [Assinaturas Get-all-of-a-customer-s](/partner-center/develop/get-all-of-a-customer-s-subscriptions&data) |
+|{baseURL}/v1/customers/{customer_id}/subscrições/{subscription_id}  | [Obter uma subscrição por ID](/partner-center/develop/get-a-subscription-by-id) |
+|{baseURL}/v1/clientes/{customer_id}/encomendas  | [Receba todas as encomendas de clientes](/partner-center/develop/get-all-of-a-customer-s-orders) |
+|{baseURL}/v1/customers/{customer_id}/orders/{order_id}  | [Obter encomenda por ID](/partner-center/develop/get-an-order-by-id) |
+|{baseURL}/v1/customers/{customer_id}/orders/{order_id}/provisioningstatus  | [Obter o estado de aprovisionamento da subscrição](/partner-center/develop/get-subscription-provisioning-status) |
+|{baseURL}/v1/customers/{customer_id}/subscrições/{subscription_id}  | [Gerir encomendas e gerir uma subscrição](/partner-center/develop/manage-orders#manage-a-subscription) |
+|{baseURL}/v1/customers/{customer_id}/subscrições/{subscription_id}/addons  | [Obter uma lista de suplementos para uma subscrição](/partner-center/develop/get-a-list-of-add-ons-for-a-subscription) |
+|{baseURL}/v1/customers/{customer_id}/subscrições/{subscription_id}/azureEntitlements | [Obtenha uma lista de direitos Azure para uma subscrição](/partner-center/develop/get-a-list-of-azure-entitlements-for-subscription) |
+|{baseURL}/v1/customers/{customer_id}/subscrições/{subscription_id}/registrationstatus  | [Obter o estado de registo da subscrição](/partner-center/develop/get-subscription-registration-status) |
+|{baseURL}/v1/clientes/{cliente-inquilino-id}/transfers  | [Obtenha todas as transferências de um cliente](/partner-center/develop/get-all-of-a-customer-s-transfers) |
+|{baseURL}/v1/productUpgrades/{upgrade-id}/status  | [Obter estado de atualização do produto](/partner-center/develop/get-product-upgrade-status) |
+|{baseURL}/v1/customers/{customer-id}/subscrições/{subscription-id}/conversões   | [Obter uma lista de ofertas de conversão de avaliação](/partner-center/develop/get-a-list-of-trial-conversion-offers) |
+ 
+Recomendamos vivamente que os parceiros considerem usar o log de atividade API para obter mais eficiência e evitar estrangulamentos.Para mais informações sobre esta funcionalidade, consulte os detalhes [aqui.](/partner-center/develop/api-throttling-guidance)  
+
+### <a name="next-steps"></a>Passos seguintes
+
+Reveja os [recursos](/partner-center/develop/api-throttling-guidance)   para este tema e tome as medidas necessárias.  
 
 _______________
 

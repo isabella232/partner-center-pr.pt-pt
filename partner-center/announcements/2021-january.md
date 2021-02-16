@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/28/2021
-ms.openlocfilehash: 7195dbd9bb9a862b7b3064ed641739f04bcab512
-ms.sourcegitcommit: 99e4ca8495860a3119debb139509b9c8a9db4c87
+ms.openlocfilehash: f6179e76e9bcb05f75551056fa7a9e81f6d74d12
+ms.sourcegitcommit: 0416562dd89408524f8312a8acd5b6944b6d91c4
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "99974761"
+ms.lasthandoff: 02/16/2021
+ms.locfileid: "100541029"
 ---
 # <a name="january-2021-announcements"></a>Anúncios de janeiro de 2021
 
@@ -348,7 +348,9 @@ Todos os parceiros que transacionam através do programa Cloud Solution Provider
 
 A partir de fevereiro de 2021, a Microsoft estará a implementar o estrangulamento da API para permitir um desempenho mais consistente dentro de um período de tempo para os parceiros que chamam as APIs do Partner Center.O estrangulamento limita o número de pedidos a um serviço num período de tempo para evitar o uso excessivo de recursos.Quando um limiar de estrangulamento é ultrapassado, o Partner Center limita quaisquer pedidos adicionais desse cliente por um período de tempo.
   
-**Benefícios do parceiro:** O Partner Center é projetado para lidar com um grande volume de pedidos, mas se um número esmagador de pedidos são feitos por alguns parceiros, o estrangulamento ajudará a manter o melhor desempenho e fiabilidade para todos os parceiros.  
+**Benefícios do parceiro:**
+
+O Partner Center é projetado para lidar com um grande volume de pedidos, mas se um número esmagador de pedidos são feitos por alguns parceiros, o estrangulamento ajudará a manter o melhor desempenho e fiabilidade para todos os parceiros.  
 
 - A aceleração garante um tempo mínimo de inatividade.
 - O throttling reduz o número de pedidos de grande volume, ajudando a garantir um desempenho consistente para todos os parceiros.
