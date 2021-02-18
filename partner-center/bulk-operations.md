@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 02/03/2021
-ms.openlocfilehash: 831fbc294bfd82caef77489f74747bb32cf0b12c
-ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
+ms.openlocfilehash: 16975e78c10aeb73bf141c1a1d0a215ac885039c
+ms.sourcegitcommit: 64243caed029ffe40e2bbc369f4ee96f4f0ca26f
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "100334593"
+ms.lasthandoff: 02/18/2021
+ms.locfileid: "100645644"
 ---
 # <a name="bulk-operations-for-co-sell-opportunities-using-comma-separated-valuecsv-files"></a>Operações a granel para co-venda de oportunidades utilizando ficheiros de valor separados por vírgula (CSV)
 
@@ -71,7 +71,7 @@ Linha de Endereço do Cliente 2|No|Linha de endereço 2 da empresa cliente.|Rua 
 Cidade do Cliente|Yes|Cidade onde está localizada a organização do cliente.|Redmond
 Estado do Cliente|No|Estado onde está localizada a organização do cliente.|Viseu
 Código Postal do Cliente|No|Código Postal da região onde se encontra a organização do cliente.|98052
-País do Cliente|Yes|País/Região onde está localizada a organização de clientes. Utilize os códigos de três letras do país, tal como mencionado [aqui.]( https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes)|E.U.A.
+País do Cliente|Yes|País/Região onde está localizada a organização de clientes. Utilize os códigos de dois países de letras, como mencionado [aqui.]( https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes)|EUA
 ID do cliente D-U-N-S|No|Tente obter a identificação duns da organização do cliente. Isto ajudará a combinar mais rapidamente a organização do cliente do lado da Microsoft, o que ajuda a uma atribuição mais rápida do vendedor. Você pode obter DUNS ID gratuitamente a partir deste [site.](https://www.dnb.com/duns-number/lookup.html)|81466849
 Contato com o cliente Primeiro Nome|Depende|O primeiro nome só é obrigatório se precisar da ajuda da Microsoft. O primeiro nome do contacto principal da organização de clientes que trabalha neste negócio.|John
 Contato com o cliente Nome do Último Nome|Depende|O apelido só é obrigatório se precisar da ajuda da Microsoft. Último nome do contacto primário da organização de clientes que trabalha neste negócio.|Cliente
