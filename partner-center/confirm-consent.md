@@ -1,5 +1,5 @@
 ---
-title: Confirme a aceitação do cliente do Microsoft Customer Agreement
+title: Confirmar aceitação do cliente do Contrato de Cliente Microsoft
 description: Saiba como confirmar a aceitação do cliente do Acordo de Cliente da Microsoft. Isto pode ser necessário para encomendar produtos e serviços da Microsoft para os clientes.
 ms.topic: how-to
 ms.service: partner-dashboard
@@ -8,15 +8,15 @@ author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.date: 06/30/2020
-ms.openlocfilehash: f2513213bff38a6296832253a13725ff2508f1f8
-ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
+ms.date: 03/02/2021
+ms.openlocfilehash: ab2f5be77f6480b4a8b47bef0e0fd5096f7c1776
+ms.sourcegitcommit: a7897284b79abb1ceeee79deb3a87b72d59900dc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "97354615"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "102029921"
 ---
-# <a name="updated-method-to-confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>Método atualizado para confirmar a aceitação do cliente do Acordo de Cliente da Microsoft
+# <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>Confirm customer acceptance of the Microsoft Customer Agreement (Confirmar a aceitação do cliente do Contrato de Cliente Microsoft)
 
 
 **Funções adequadas**
@@ -30,8 +30,6 @@ ms.locfileid: "97354615"
 > * Centro de Parceiros para Microsoft Cloud Germany
 > * Centro de Parceiros do Microsoft Cloud for US Government
 
->[!NOTE]
->A partir de 31 de janeiro de 2020, todos os clientes, existentes e novos, devem assinar o novo Acordo de Clientes da Microsoft. Para saber mais, leia [Confirme a aceitação do cliente do Acordo de Cliente da Microsoft.](confirm-customer-agreement.md)
 
 Como parceiro, precisa de obter a aceitação do Acordo de Cliente da Microsoft antes de poder encomendar produtos e serviços da Microsoft para esse cliente. Para melhor ajudar os parceiros a cumprir os requisitos de conformidade, a Microsoft pede aos parceiros que confirmem a aceitação, fornecendo os seguintes detalhes sobre a pessoa que aceitou o acordo:
 
@@ -46,6 +44,9 @@ Como parceiro, precisa de obter a aceitação do Acordo de Cliente da Microsoft 
 - Data de aceitação
 
 Os parceiros de conta direta e os Fornecedores Indiretos devem confirmar a aceitação do Cliente do Microsoft Customer Agreement ao transagir através do Partner Center ou da Partner Center API. A confirmação é *obrigatória.*
+
+>[!NOTE]
+>A partir de 31 de janeiro de 2020, todos os clientes, existentes e novos, devem assinar o novo Acordo de Clientes da Microsoft. Para saber mais, leia [Confirme a aceitação do cliente do Acordo de Cliente da Microsoft.](confirm-customer-agreement.md)
 
 Se não for fornecida confirmação para um determinado cliente:
 
