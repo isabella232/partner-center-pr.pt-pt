@@ -1,7 +1,7 @@
 ---
 title: Gerir utilizadores para contas de clientes
 ms.topic: how-to
-ms.date: 05/13/2020
+ms.date: 02/25/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Gerir os utilizadores para os seus clientes no Partner Center - criar contas de utilizador, adicionar ou remover licenças de utilizador, redefinir palavras-passe e eliminar ou restaurar as contas do utilizador.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cea1ac8bff9690edfe4b257c910fc3c335d2836c
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: 0e2bb4ceb146174da83e9c08a9ff030380298bd0
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570744"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756080"
 ---
 # <a name="manage-users-and-user-licenses-for-customer-accounts"></a>Gerir utilizadores e licenças de utilizador para contas de clientes 
 
@@ -28,6 +28,9 @@ ms.locfileid: "96570744"
 Pode criar e eliminar novos utilizadores na conta de um cliente. Também pode restaurar uma ou mais contas de utilizador que apagou anteriormente no prazo de 30 dias após a eliminação. As atribuições anteriores do utilizador também serão restauradas (assumindo que as dotações anteriores estão disponíveis).
 
 Ao comprar novas subscrições para um cliente, o cliente deve dar-lhe uma lista de todos os utilizadores que precisarão de contas, permissões do utilizador e quais os serviços de que cada utilizador necessita.  
+
+>[!NOTE]
+>A secção de **Utilizadores e licenças** do separador **Cliente** mostra todos os utilizadores criados no inquilino de um cliente específico, incluindo utilizadores que tenham licenças compradas a outro parceiro CSP ou a partir de outro canal de compra.
 
 Pode [atribuir subscrições a vários utilizadores de](bulk-license-provisioning-for-multiple-users.md) uma só vez importando os nomes utilizando um [ficheiro de folha de cálculo compatível com Excel .csv](adding-multiple-users-to-a-customer-account.md).
 
@@ -72,7 +75,7 @@ As seguintes medidas aplicam-se à adição ou remoção de licenças de utiliza
 
 ## <a name="reset-a-users-password-for-a-customer"></a>Redefinir a palavra-passe de um utilizador para um cliente
 
-1. Inscreva-se no painel do Centro [de Parceiros.](https://partner.microsoft.com/dashboard)
+1. Inicie sessão no [dashboard](https://partner.microsoft.com/dashboard) do Centro de Parceiros.
 
 2. No menu Partner Center, selecione **Clientes,** em seguida, escolha um cliente da lista.
 

@@ -5,24 +5,23 @@ ms.prod: marketplace-customer
 ms.topic: how-to
 author: msjogarrig
 ms.author: jogarrig
-ms.date: 12/22/2020
-ms.openlocfilehash: 09f7bcb29dc619e4e31c0aa3d5c73fade5218819
-ms.sourcegitcommit: 30d154cdf40aa75400be7805cd9b2685b66a1382
+ms.date: 02/24/2021
+ms.openlocfilehash: 73b9137728fba93704d9b0cb2bc93a3f6498bd90
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/24/2020
-ms.locfileid: "97760827"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101757072"
 ---
-# <a name="create-and-manage-private-azure-marketplace-preview-in-the-azure-portal"></a>Criar e gerir o Private Azure Marketplace (pré-visualização) no portal Azure
+# <a name="create-and-manage-private-azure-marketplace-in-the-azure-portal"></a>Criar e gerir o Private Azure Marketplace no portal Azure
 
-O Private Azure Marketplace (pré-visualização) permite aos administradores governar quais as soluções de terceiros que os seus utilizadores podem utilizar. Fá-lo permitindo-lhe implementar apenas ofertas que aprove e que cumpram as políticas da sua empresa. Com o Private Azure Marketplace, os seus utilizadores podem pesquisar na loja online ofertas compatíveis para comprar e implementar. 
+O Private Azure Marketplace permite aos administradores governar quais as soluções de terceiros que os seus utilizadores podem utilizar. Fá-lo permitindo que o utilizador implemente apenas ofertas que sejam aprovadas pelo administrador e cumpram as políticas da sua empresa. Com o Private Azure Marketplace, os utilizadores podem pesquisar na loja online ofertas compatíveis para comprar e implementar.
 
-Como administrador do Marketplace (papel atribuído), começará com uma Loja Privada desativada e vazia, onde poderá adicionar as suas ofertas e planos aprovados. Este artigo explica como criar, gerir e ativar o Private Azure Marketplace para os seus utilizadores.
+Como administrador do Marketplace (papel atribuído), começará com uma Loja Privada desativada e vazia, onde poderá adicionar as suas ofertas e planos aprovados. Este artigo explica como atribuir a função necessária, criar uma loja privada, gerir itens, aprovar pedidos de utilizador e ativar o Private Azure Marketplace para os seus utilizadores.
 
-Notas:
-
-- O Private Azure Marketplace está ao nível dos inquilinos, pelo que todos os utilizadores sob o inquilino verão a mesma lista com curadoria.
-- Todas as soluções microsoft são automaticamente adicionadas ao Private Azure Marketplace.
+> [!NOTE]
+> - O Private Azure Marketplace está ao nível dos inquilinos, pelo que todos os utilizadores sob o inquilino verão a mesma lista com curadoria.
+> - Todas as soluções microsoft (incluindo [as distribuições de Linux endossadas)](https://docs.microsoft.com/azure/virtual-machines/linux/endorsed-distros)são automaticamente adicionadas ao Private Azure Marketplace.
 
 ## <a name="assign-the-marketplace-admin-role"></a>Atribuir o papel de administrador do Marketplace
 
@@ -33,28 +32,28 @@ O administrador global inquilino deve atribuir o papel **de administrador do Mar
 
 ### <a name="prerequisites"></a>Pré-requisitos
 
-Deve cumprir estes pré-requisitos antes de poder atribuir a função de Administrador do Marketplace a um utilizador no âmbito do arrendatário:
+Estes pré-requisitos são necessários antes de poder atribuir a função de Administrador do Mercado a um utilizador no âmbito do arrendatário:
 
 - Tem acesso a um utilizador **administrador global.**
 - O arrendatário tem pelo menos uma subscrição (pode ser qualquer tipo).
 - O utilizador administrador Global é atribuído à função **Contribuinte** ou superior para a subscrição escolhida.
 
-### <a name="assign-the-marketplace-admin-role-with-iam"></a>Atribuir o papel de administrador do Marketplace com o IAM
+### <a name="assign-the-marketplace-admin-role-with-access-control-iam"></a>Atribuir a função de administrador do Marketplace com controlo de acesso (IAM)
 
 1. Inicie sessão no [portal do Azure](https://portal.azure.com/).
 1. Selecione **Todos os serviços** e, em seguida, **Marketplace**.
+1. Selecione **Private Marketplace** a partir do menu à esquerda.
 
-   :::image type="content" source="media/private-azure/azure-portal-marketplace.png" alt-text="Janela principal do portal Azure.":::
+    [![Mostra a opção de menu de mercado privado no lado esquerdo do Mercado.](media/private-azure/private-marketplace.png)](media/private-azure/private-marketplace-zoom.png#lightbox)
 
-3. Selecione **Private Marketplace** a partir das opções à esquerda.
 1. Selecione **o controlo de acesso (IAM)** para atribuir a função de administração do Marketplace.
 
-    :::image type="content" source="media/private-azure/access-control-iam.png" alt-text="Ecrã de controlo de acesso IAM.":::
+    :::image type="content" source="media/private-azure/access-control-iam.png" alt-text="Mostra o ecrã de controlo de acesso I A M.":::
 
 1. Selecione **+ Adicionar** > **Adicionar atribuição de função**.
 1. Under **Role**, escolha **Marketplace Admin**.
 
-    :::image type="content" source="media/private-azure/iam-role-assignment.png" alt-text="Menu de atribuição de funções.":::
+    :::image type="content" source="media/private-azure/iam-role-assignment.png" alt-text="Mostra o menu de atribuição de funções.":::
 
 1. Selecione o utilizador desejado da lista de retirada e, em seguida, selecione **'Fazer'.**
 
@@ -68,7 +67,7 @@ Utilize o seguinte script PowerShell para atribuir a função de Administrador m
 - **Nome de utilizadorToAssignRoleFor:** O nome de utilizador ao qual será atribuída a função de administrador do Marketplace.
 
 > [!NOTE]
-> Para os utilizadores convidados convidados ao arrendatário, pode demorar até 48 horas até que a sua conta esteja disponível para atribuir o papel de administrador do Marketplace. Para mais informações, consulte [propriedades de um utilizador de colaboração Azure Ative Directory B2B.](/azure/active-directory/b2b/user-properties)
+> Para os utilizadores convidados convidados ao arrendatário, pode demorar até 48 horas até que a sua conta esteja disponível para atribuir o papel de Administrador do Mercado. Para mais informações, consulte [propriedades de um utilizador de colaboração Azure Ative Directory B2B.](/azure/active-directory/b2b/user-properties)
 
 ```PowerShell
 function Assign-MarketplaceAdminRole { 
@@ -157,52 +156,50 @@ Para obter mais informações sobre os cmdlets contidos no módulo Az.Portal Pow
 1. Inicie sessão no [portal do Azure](https://portal.azure.com/).
 2. Selecione **Todos os serviços** e, em seguida, **Marketplace**.
 
-   :::image type="content" source="media/private-azure/azure-portal-marketplace.png" alt-text="Janela principal do portal Azure.":::
+   :::image type="content" source="media/private-azure/azure-portal-marketplace.png" alt-text="Mostra a janela principal do portal Azure.":::
 
-3. Selecione **Private Marketplace** a partir das opções à esquerda.
-
-    :::image type="content" source="media/private-azure/private-marketplace.png" alt-text="Selecionando o Private Marketplace na janela principal do portal Azure.":::
+3. Selecione **Private Marketplace** a partir do menu à esquerda.
 
 4. **Selecione Get Start** para criar Private Azure Marketplace (só tem de o fazer uma vez).
 
-    :::image type="content" source="media/private-azure/private-marketplace-get-started.png" alt-text="Selecionando Começar na janela principal do portal Azure.":::
+    :::image type="content" source="media/private-azure/private-marketplace-get-started.png" alt-text="Mostra como selecionar a janela principal do portal Azure.":::
 
     Se o Private Azure Marketplace já existir para este inquilino, **o Manage Marketplace** será selecionado por padrão.
 
 5. Uma vez concluído, terá um Mercado Privado Azure vazio e desativado.
 
-    :::image type="content" source="media/private-azure/new-private-marketplace.png" alt-text="O ecrã vazio do Mercado Privado Azure.":::
+    :::image type="content" source="media/private-azure/new-private-marketplace.png" alt-text="Mostra o ecrã vazio do Mercado Privado Azure.":::
 
 ## <a name="add-items-from-gallery"></a>Adicione artigos da galeria
 
-Um item é uma combinação de uma oferta e um plano. Pode pesquisar e adicionar artigo na página 'Gerir Mercado'.
+Um item é uma combinação de uma oferta e um plano. Pode pesquisar e adicionar itens na página 'Gerir Mercado'.
 
 1. **Selecione Adicionar itens**.
 
 2. Navegue na **Galeria** ou utilize o campo de pesquisa para encontrar o item que deseja.
 
-    :::image type="content" source="media/private-azure/marketplace-gallery.png" alt-text="Navegue na galeria ou utilize o campo de pesquisa.":::
+    [![Mostra como navegar na galeria ou utilizar o campo de pesquisa.](media/private-azure/marketplace-gallery.png)](media/private-azure/marketplace-gallery-zoom.png#lightbox)
 
-3. Como padrão, ao adicionar uma nova oferta, todos os planos atuais serão adicionados à lista permitida. Para modificar a seleção do plano antes de adicionar os itens selecionados, selecione o menu suspenso no azulejo da oferta e atualize os planos necessários.
+3. Como padrão, ao adicionar uma nova oferta, todos os planos atuais serão adicionados à lista aprovada. Para modificar a seleção do plano antes de adicionar os itens selecionados, selecione o menu suspenso no azulejo da oferta e atualize os planos necessários.
 
-    :::image type="content" source="media/private-azure/update-plans-400.png" alt-text="Atualização dos planos necessários.":::
+    :::image type="content" source="media/private-azure/update-plans-400.png" alt-text="Mostra como atualizar os planos necessários.":::
 
 4. Selecione **Feito** na parte inferior esquerda depois de ter feito as suas seleções.
 
 >[!Note]
-> **Adicionar itens** ao Mercado estará disponível apenas para ofertas não microsoft. As ofertas da Microsoft são permitidas por padrão.
+> **Adicionar itens** ao Mercado estará disponível apenas para ofertas não microsoft. As soluções da Microsoft (incluindo [as Distribuições Linux endossadas)](https://docs.microsoft.com/azure/virtual-machines/linux/endorsed-distros)serão marcadas como "Aprovadas por padrão" e não podem ser geridas no Private Marketplace.
 
-## <a name="edit-item-plans"></a>Editar planos de artigos
+## <a name="edit-items-plans"></a>Editar os planos do item
 
 Pode editar os planos de um item na página Manage Marketplace.
 
 1. Na coluna **Planos,** reveja os planos disponíveis do menu suspenso para esse item.
 2. Selecione ou limpe as caixas de verificação para escolher quais os planos para disponibilizar aos seus utilizadores.
 
-    :::image type="content" source="media/private-azure/edit-items.png" alt-text="Selecionar ou limpar a caixa de verificação para o item necessário.":::
+    :::image type="content" source="media/private-azure/edit-items.png" alt-text="Mostra como selecionar ou limpar a caixa de verificação para o item necessário.":::
 
 > [!NOTE]
-> Cada oferta necessita de pelo menos um plano selecionado para que a atualização ocorra. Para remover todos os planos relacionados com uma oferta, elimine toda a oferta (ver secção seguinte).
+> Cada oferta precisa de pelo menos um plano selecionado para que a atualização ocorra. Para remover todos os planos relacionados com uma oferta, elimine toda a oferta (ver secção seguinte).
 
 ## <a name="delete-offers"></a>Excluir ofertas
 
@@ -212,42 +209,134 @@ Na página Manage Marketplace, selecione a caixa de verificação ao lado do nom
 
 Na página Manage Marketplace você verá um destes banners, que mostram o estado atual do Mercado Privado Azure:
 
-:::image type="content" source="media/private-azure/state-disable.png" alt-text="Desativar o banner do estado":::
+:::image type="content" source="media/private-azure/state-disable.png" alt-text="Mostra o banner &quot;Desativar o estado&quot;.":::
 
-:::image type="content" source="media/private-azure/state-enable.png" alt-text="Ativar banner de estado":::
+:::image type="content" source="media/private-azure/state-enable.png" alt-text="Mostra o banner &quot;Enable state&quot;.":::
 
 Pode ativar ou desativar o Private Azure Marketplace conforme necessário.
 
 - Se estiver desativado, selecione **Enable Private Marketplace** para ativar.
 - Se estiver ativado, **selecione Desativar o Mercado Privado** para desativar.
 
+## <a name="private-azure-marketplace-notification-center"></a>Centro de notificação private Azure Marketplace
+
+O Centro de Notificação é composto por três tipos de notificações e permite ao administrador do Marketplace tomar medidas com base na notificação:
+
+- Pedidos de aprovação dos utilizadores para itens que não constam da lista aprovada (ver [Pedido de adicionar ofertas ou planos](#request-to-add-offers-or-plans) abaixo).
+- Novas notificações de plano para ofertas que já tenham um ou mais planos na lista aprovada.
+- Removidos notificações do plano para itens que estão na lista aprovada, mas foram removidos do mercado global de Azure.
+
+Para aceder ao centro de notificação:
+
+1. Selecione **Notificações** do menu do lado esquerdo.
+
+    [![Mostra o menu notificações.](media/private-azure/marketplace-notifications-small.png)](media/private-azure/marketplace-notifications.png#lightbox)
+
+1. Selecione o menu de elipses para mais ações.
+
+    :::image type="content" source="media/private-azure/notifications-more-options.png" alt-text="Mostra os resultados do menu Mais Opções.":::
+
+1. Para pedidos de plano, **os pedidos do Show** abrem o formulário de pedido de aprovação onde pode rever todos os pedidos do utilizador para a oferta específica.
+1. Selecione **Aprovar** ou **Rejeitar**.
+
+    [![Mostra as opções de aprovação e rejeição.](media/private-azure/notifications-approve-reject-small.png)](media/private-azure/notifications-approve-reject.png#lightbox)
+
+1. Selecione o plano para aprovar no menu suspenso.
+1. Adicione um comentário e **selecione Enviar por isso.**
+
 ## <a name="browsing-private-azure-marketplace"></a>Navegar no Mercado Privado Azure
 
-Quando o Private Azure Marketplace estiver ativado, os utilizadores verão quais os planos que o administrador do Marketplace permitiu.
+Quando o Private Azure Marketplace estiver ativado, os utilizadores verão quais os planos que o administrador do Marketplace aprovou.
 
-- Um aviso **verde Permitido** indica uma oferta de Parceiro (não-Microsoft) que é permitida.
-- Um aviso azul **permitido** indica uma oferta da Microsoft que é permitida.
+- Um **aviso** aprovado verde indica uma oferta de Parceiro (não Microsoft) que é aprovada.
+- Um aviso **aprovado** azul indica uma oferta da Microsoft (incluindo [distribuições de Linux endossadas)](https://docs.microsoft.com/azure/virtual-machines/linux/endorsed-distros)que é aprovada.
 
-Os utilizadores podem filtrar entre ofertas que são e não são permitidas:
+Os utilizadores podem filtrar entre ofertas que são e não são aprovadas:
 
-:::image type="content" source="media/private-azure/filter-option.png" alt-text="Opção de filtragem.":::
+[![Mostra a opção de filtragem.](media/private-azure/filter-option-small.png)](media/private-azure/filter-option.png#lightbox)
 
 ## <a name="buy-or-deploy-in-private-azure-marketplace"></a>Comprar ou implementar no Private Azure Marketplace
 
-Embora a experiência da página de detalhes do produto seja semelhante ao público Azure Marketplace, existem três cenários específicos do Private Azure Marketplace.
+Embora a experiência da página de detalhes do produto seja semelhante ao Azure Marketplace global, existem três cenários específicos do Private Azure Marketplace.
 
-- Quando um utilizador seleciona um plano permitido, o botão **Criar** está ativado:
+- Quando um utilizador seleciona um plano aprovado, o botão **Criar** está ativado:
 
-    :::image type="content" source="media/private-azure/button-create-enabled.png" alt-text="Ofereça banner notando que um plano pode ser criado.":::
+    [![Mostra o banner de oferta observando que um plano pode ser criado.](media/private-azure/button-create-enabled-small.png)](media/private-azure/button-create-enabled.png#lightbox)
 
-- Quando um utilizador seleciona um plano não permitido, um banner nota que o plano não é permitido e o botão **Criar** é desativado.
+- Se uma seleção de plano de produto não aparecer na página de detalhes do produto, mas o administrador aprovou um ou mais planos, um banner assinala quais os planos aprovados e o botão **Criar** está ativado:
 
-   :::image type="content" source="media/private-azure/button-create-disabled.png" alt-text="Oferecer banner notando que um plano não pode ser criado.":::
+    [![Mostra o banner da oferta notando que um plano pode ser criado e mostrando planos disponíveis.](media/private-azure/button-create-enabled-and-plans-small.png)](media/private-azure/button-create-enabled-and-plans.png#lightbox)
 
-- Se uma seleção de plano de produto não aparecer na página de detalhes do produto, mas o administrador aprovou um ou mais planos, um banner nota quais os planos permitidos e o botão **Criar** está ativado:
+- Quando um utilizador seleciona um plano não aprovado, um banner assinala o plano como não aprovado e o botão **Criar** é desativado. O utilizador ainda pode solicitar a adição do plano à lista aprovada (ver secção seguinte).
 
-    :::image type="content" source="media/private-azure/button-create-enabled-and-plans.png" alt-text="Ofereça banner notando que um plano pode ser criado e mostrando planos disponíveis.":::
+## <a name="request-to-add-offers-or-plans"></a>Pedido de adição de ofertas ou planos
+
+Pode solicitar a adição de uma oferta pública ou plano que não esteja atualmente aprovado no Mercado Privado Azure.
+
+1. Selecione **Pedido para adicionar** no banner para abrir o formulário de pedido de **acesso**.
+
+    [![Mostra o banner com o link 'Pedido de adicionar'.](media/private-azure/request-banner-small.png)](media/private-azure/request-banner.png#lightbox)
+
+    [![Mostra o formulário de pedido de acesso para ofertas ou planos.](media/private-azure/access-request-form-small.png)](media/private-azure/access-request-form.png#lightbox)
+
+1. Selecione quais os planos para adicionar ao pedido (**Qualquer Plano** diz ao administrador do Marketplace que você não tem uma preferência por um plano dentro de uma oferta).
+
+1. Adicione uma **Justificação** e selecione **Pedido** para submeter o seu pedido.
+  
+    [![Mostra o formulário de pedido de acesso para ofertas ou planos com entradas de amostra.](media/private-azure/access-request-form-filled-small.png)](media/private-azure/access-request-form-filled.png#lightbox)
+
+1. Uma indicação para um pedido pendente aparecerá no formulário de pedido de Acesso com opção de **retirar o pedido.**
+
+    [![Mostra uma lista de planos aprovados ou pendentes com link Pedido de Retirada.](media/private-azure/approved-pending-plans-small.png)](media/private-azure/approved-pending-plans.png#lightbox)
+
+> [!NOTE]
+> Uma vez apresentado, o formulário de pedido de aprovação será enviado ao [Centro de Notificação](#private-azure-marketplace-notification-center) do Administrador do Mercado para rever o pedido e tomar medidas.
+
+## <a name="frequently-asked-questions-faqs"></a>Perguntas frequentes (Perguntas Frequentes)
+
+#### <a name="i-am-already-blocking-marketplace-third-party-application-through-azure-policy-how-is-this-different"></a>Já estou a bloquear a aplicação de terceiros do Marketplace através da Política Azure. Como é que isto é diferente?
+
+Existem atualmente duas formas de restringir os serviços de terceiros no Marketplace:
+
+1. Através do portal EA ou do portal Azure, desative os serviços de terceiros ou limite-se apenas a "SKUs gratuitos ou BYOL".
+
+    :::image type="content" source="media/private-azure/disable-services.png" alt-text="Mostra como restringir os serviços no portal Azure.":::
+
+    :::image type="content" source="media/private-azure/disable-services-other-view.png" alt-text="Mostra como restringir os serviços no portal E A.":::
+
+2. Crie uma política Azure apenas para permitir VMs específicos. Para obter mais informações sobre como aplicar a política aos VMs do Windows, consulte [aplicar as políticas aos VMs do Windows com o Azure Resource Manager](https://docs.microsoft.com/azure/virtual-machines/windows/policy).
+
+O Private Azure Marketplace permite uma maior flexibilidade na limitação e na possibilidade de ofertas e planos específicos. Informa os utilizadores finais sobre a disponibilidade para implantação na galeria do mercado mesmo antes de tentarem implementar serviços de terceiros. Para permitir a implantação de serviços de terceiros, defina o Azure Marketplace para On/Enabled no Portal EA e no portal Azure.
+
+- O Private Azure Marketplace pode curar soluções parceiras não limitadas a máquinas virtuais.
+- O Private Azure Marketplace pode ser curador ao nível do plano e pode ainda definir "Plano atual e futuro".
+- O Private Azure Marketplace pode informar os utilizadores finais adiantado sobre o que pode ou não ser implementado.
+
+#### <a name="whats-the-difference-between-a-private-offer-and-private-azure-marketplace"></a>Qual é a diferença entre uma Oferta Privada e o Mercado Privado Azure?
+
+Uma **Oferta Privada** permite que os editores criem planos que só são visíveis para clientes direcionados. Isto permite-lhes partilhar em privado soluções personalizadas com preços e condições negociados, termos e condições privados e configurações especializadas. Para mais detalhes, consulte [ofertas privadas no mercado comercial.](https://docs.microsoft.com/azure/marketplace/private-offers)
+
+**O Private Azure Marketplace** no portal Azure permite aos administradores pré-aprovarem quais as soluções de terceiros que os seus utilizadores podem implementar. Com um Private Azure Marketplace, os utilizadores podem usufruir dos benefícios do Azure Marketplace, encontrando, comprando e implementando ofertas compatíveis. Para gerir ofertas privadas baseadas em subscrições no Mercado Privado, o administrador do Marketplace deve ter um papel mínimo de "leitura" na subscrição específica.
+
+#### <a name="i-added-a-private-offer-to-the-private-azure-marketplace-why-is-it-not-showing-in-the-manage-marketplace-tab"></a>Adicionei uma Oferta Privada ao Private Azure Marketplace, porque é que não está a aparecer no separador de mercado de gestão?
+
+As Ofertas Privadas baseadas em subscrições são visíveis apenas para as subscrições listadas nas definições de Oferta Privada. Para ver a Oferta Privada, certifique-se de que o filtro global de subscrição está mostrando todas as subscrições.
+
+[![Mostra o filtro do mercado privado.](media/private-azure/private-marketplace-filter.png)](media/private-azure/private-marketplace-filter.png#lightbox)
+
+#### <a name="can-we-include-custom-images-in-private-azure-marketplace"></a>Podemos incluir imagens personalizadas no Private Azure Marketplace?
+
+N.º O Private Azure Marketplace permite que qualquer administrador de TI gere e cuide de soluções de terceiros a partir do Mercado Azure Global. Uma vez que as imagens personalizadas não estão no Azure Marketplace global, o administrador de TI não pode escolher as suas imagens personalizadas. Se quiser partilhar imagens personalizadas, utilize a [Galeria de Imagens Partilhadas.](https://docs.microsoft.com/azure/virtual-machines/shared-image-galleries)
+
+1. Guia passo a passo Criar uma Galeria de Imagem Partilhada (SIG)[(CLI,](https://docs.microsoft.com/azure/virtual-machines/shared-images-cli) [PowerShell).](https://docs.microsoft.com/azure/virtual-machines/shared-images-powershell)
+2. Crie uma definição de imagem dentro de um SIG. O cliente deve escolher **generalizado** para o campo estado-OS. ([CLI,](https://docs.microsoft.com/azure/virtual-machines/image-version-managed-image-cli#create-an-image-definition) [PowerShell).](https://docs.microsoft.com/azure/virtual-machines/image-version-vm-powershell#create-an-image-definition)
+3. Traga a imagem gerida para a Galeria de Imagens Partilhadas[(CLI,](https://docs.microsoft.com/azure/virtual-machines/image-version-managed-image-cli) [PowerShell).](https://docs.microsoft.com/azure/virtual-machines/image-version-managed-image-powershell)
+4. As imagens SIG VM residiriam numa subscrição. Para disponibilizá-lo a outras subscrições, utilize um registo de aplicações[(CLI,](https://docs.microsoft.com/azure/virtual-machines/linux/share-images-across-tenants) [PowerShell).](https://docs.microsoft.com/azure/virtual-machines/windows/share-images-across-tenants)
+
+#### <a name="why-do-i-see-some-offers-approved-by-default-even-though-the-publisher-is-not-microsoft"></a>Por que vejo algumas ofertas **aprovadas por padrão,** mesmo que a editora não seja a Microsoft?
+
+A Microsoft suporta o Linux e a tecnologia open-source em Azure. [As distribuições de Linux endossadas](https://docs.microsoft.com/azure/virtual-machines/linux/endorsed-distros) são suportadas no Azure e o preço está integrado em máquinas virtuais. Uma vez que o Agente Azure Linux já está pré-instalado no Azure Marketplace, é tratado como uma oferta da Microsoft. Uma vez que as ofertas da Microsoft são aprovadas por padrão, as distribuições de Linux endossadas não podem ser geridas no Private Azure Marketplace e são aprovadas por padrão.
 
 ## <a name="contact-support"></a>Contactar o suporte
 
-Para obter suporte ao Azure Marketplace, visite [o Microsoft Q&A](/answers/products/). 
+- Para obter suporte ao Azure Marketplace, visite [o Microsoft Q&A](/answers/products/).

@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5355dd6229d22d154512be8536e5fd4ab9b900ad
-ms.sourcegitcommit: 2d1f0d7bc897278ef37af6d43c1a088f5ca14807
+ms.openlocfilehash: b6e08baf11061bc027b52d4662311bdc91ee0202
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/08/2021
-ms.locfileid: "99834861"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756103"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Vender subscrições de software através do programa Cloud Solution Provider (CSP)
 
@@ -103,7 +103,7 @@ Depois de ter adquirido o seu software, os seus clientes têm de o descarregar. 
 >[!NOTE]
 >Apenas os clientes podem ver as chaves do produto e descarregar informações no Microsoft Admin Center. Os parceiros não podem ver esta informação.
 
-Se você ou os seus clientes quiserem saber mais sobre o download das chaves da licença, consulte as [chaves do software de descarregamento e da licença de produto.](https://go.microsoft.com/fwlink/p/?linkid=2152525)
+Se você ou os seus clientes quiserem saber mais sobre o download das chaves da licença, consulte as [chaves do software de descarregamento e da licença de produto.](/microsoft-365/admin/setup/download-software-licenses-csp)
 
 ## <a name="server-subscription-download-and-license-keys-available-through-microsoft-365-admin-center-for-customers"></a>Chaves de descarregamento e licença de subscrição do servidor disponíveis através do Microsoft 365 Admin Center para clientes 
 

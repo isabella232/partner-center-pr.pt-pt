@@ -9,18 +9,18 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 8d247d4f39b85423bfd128056595b414238b113c
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: 8c9e978fb636392d7cfd1ad48c101eadeececcc6
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182550"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756403"
 ---
 # <a name="november-2020-announcements"></a>Anúncios de novembro de 2020
 
 Esta página detalha os anúncios para o Microsoft Partner Center para novembro de 2020.
 
-Anúncios de 2020: [abril](2020-april.md)  |  [maio](2020-may.md)  |  [junho julho](2020-june.md)  |  [](2020-july.md)  |  [agosto](2020-august.md)  |  [](2020-september.md)  |  [setembro](2020-October.md) Novembro
+Anúncios de 2020: [abril](2020-april.md)  |  [maio](2020-may.md)  |  [junho julho](2020-june.md)  |  [agosto](2020-july.md)  |  [](2020-august.md)  |  [setembro](2020-september.md)  |  [](2020-October.md) | Novembro
 
 ______________
 ## <a name="introducing-the-ability-to-purchase-saas-offers-with-metered-billing-in-partner-center"></a><a name="14"></a>Introduzindo a capacidade de comprar ofertas saaS com faturação medido no Partner Center 
@@ -98,7 +98,7 @@ Estamos a introduzir um novo Office 365 E1 Promo para o mercado intermédio, res
 Todos os parceiros que transacionam através do programa Cloud Solution Provider (CSP) nos mercados participantes acima mencionados.
 
 ### <a name="details"></a>Detalhes
-O Promo consiste em 30% de desconto no Office 365 E1 para CSP. Será lançado a 1 de dezembro de 2020 e estará disponível por 6 meses, até 31 de maio de 2020. Este Promo só está disponível para clientes que são novos na nuvem MW e têm até 500 lugares. Por favor, note que este é restrito aos mercados emergentes da LATAM, Índia e APAC, de forma a permitir a transição para a nuvem. 
+O Promo consiste em 30% de desconto no Office 365 E1 para CSP. Será lançado a 1 de dezembro de 2020 e estará disponível por 6 meses, até 31 de maio de 2021. Este Promo só está disponível para clientes que são novos na nuvem MW e têm até 500 lugares. Por favor, note que este é restrito aos mercados emergentes da LATAM, Índia e APAC, de forma a permitir a transição para a nuvem. 
 
 #### <a name="offer-details"></a>Oferecer detalhes
 
@@ -119,7 +119,7 @@ ______________
 ### <a name="categories"></a>Categorias
 
 - Data 2020-11-17
-- Capacidades Rastreio melhorado do cliente
+- Capacidades | Rastreio melhorado do cliente
 
 ### <a name="impacted-audience"></a>Audiência impactada
 
@@ -371,7 +371,7 @@ ______________
 ### <a name="categories"></a>Categorias
 
 - Data 2020-11-10
-- Capacidades Escala de & de eficiência de unidade
+- Capacidades | Escala de & de eficiência de unidade
 
 ### <a name="impacted-audience"></a>Audiência impactada
 

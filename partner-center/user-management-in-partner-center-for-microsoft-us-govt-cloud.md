@@ -10,27 +10,22 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5f81022c3ea32eefc0e1f85bea1b1830603620e7
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: e3cf34aa52bd1d0359736dbcf6cc5ed9029f6d9e
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92529939"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756758"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-for-us-government"></a>Gestão de utilizadores e licenças no Partner Center para Microsoft Cloud para governo dos EUA
 
 **Aplica-se a**
 
-- Centro de Parceiros para Microsoft Cloud para governo dos EUA
+- Centro de Parceiros do Microsoft Cloud for US Government
 
-As seguintes tarefas são geridas no portal de administração microsoft Azure para o Microsoft Cloud para o Governo dos EUA:
+**Funções adequadas**
 
-- Gestão de utilizadores de parceiros
-
-- Gestão de clientes e licenças
-
-- Repor as palavras-passe dos utilizadores
-
+- Administrador global
 
 ## <a name="how-to-manage-users-in-the-azure-portal-for-microsoft-cloud-for-us-government"></a>Como gerir os utilizadores no portal Azure para o Microsoft Cloud para o Governo dos EUA
 
@@ -49,6 +44,6 @@ Depois de ter assinado com sucesso o portal Azure para o Microsoft Cloud para o 
 
 **Tópicos relacionados**
 
--  [**Centro de Parceiros para Microsoft Cloud para governo dos EUA**](partner-center-for-microsoft-us-govt-cloud.md)
+-  [**Centro de Parceiros do Microsoft Cloud for US Government**](partner-center-for-microsoft-us-govt-cloud.md)
 
 -  [**Inscreva-se no programa Cloud Solution Provider para o Microsoft Cloud para o Governo dos EUA**](enroll-in-csp-for-microsoft-us-govt-cloud.md)

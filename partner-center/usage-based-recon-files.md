@@ -7,19 +7,24 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 04ad6a0c2c7a6330d2e1230f046ee78b2a7405c8
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: d3941d09d6ec808f3d188521c4f0c51c9a6d0222
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "92529199"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101755767"
 ---
 # <a name="understand-usage-based-reconciliation-files-and-their-specific-fields-in-partner-center"></a>Compreenda os ficheiros de reconciliação baseados no uso e os seus campos específicos no Partner Center
 
 Aplica-se a:
 
 - Partner Center
-- Centro de Parceiros para Microsoft Cloud para governo dos EUA
+- Centro de Parceiros do Microsoft Cloud for US Government
+
+**Funções adequadas**
+
+- Administrador de conta
+- Administrador de faturação
 
 Para conciliar os seus encargos com a utilização de um cliente, compare o **ResellerID,** **o ResellerName** e o **ResellerBillableAccount** do ficheiro de reconciliação com o **nome do Cliente** e **iD** de assinatura do Partner Center.
 
@@ -43,15 +48,15 @@ Os seguintes campos explicam quais os serviços utilizados e a taxa.
 | AssinaturaDescrição | Linha de negócios da oferta de serviços. | *Microsoft Azure* |
 | OrderID | Identificador único para uma encomenda na plataforma de faturação da Microsoft. Pode ser útil identificar a subscrição ao contactar o suporte. Não é usado para a reconciliação. | *566890604832738111* |
 | ServiceName | O nome do serviço Azure em questão. | *MÁQUINAS VIRTUAIS* |
-| ServiceType | O tipo específico de serviço Azure. | *Service Bus – Individual or Pack* , BASE de *dados SQL Azure – Business or Web Edition* |
+| ServiceType | O tipo específico de serviço Azure. | *Service Bus – Individual or Pack*, BASE de *dados SQL Azure – Business or Web Edition* |
 | ResourceGuid | Identificador exclusivo específico para todos os dados de serviço e estrutura de preços. | *DA41BC5F-C52D-4464-8A8D-8C8DCC43503B* |
-| ResourceName | O nome do recurso Azure. | *Transferência de dados em (GB)* , *Transferência de Dados (GB)* |
-| Região | A região à qual se aplica o uso. Principalmente usado para atribuir taxas a transferências de dados, porque as taxas variam por região. | *Ásia Pacífico* , *Europa* , *América Latina,* *América do Norte* |
+| ResourceName | O nome do recurso Azure. | *Transferência de dados em (GB)*, *Transferência de Dados (GB)* |
+| Region | A região à qual se aplica o uso. Principalmente usado para atribuir taxas a transferências de dados, porque as taxas variam por região. | *Ásia Pacífico*, *Europa*, *América Latina,* *América do Norte* |
 | Sku | Identificador exclusivo da Microsoft para uma oferta. | *7UD-00001* |
 | DetalheLineItemId | Um identificador e quantidade para itemizar diferentes tarifas para um serviço ou recurso num determinado período de faturação. Para o preço hierárquico Azure, pode haver uma taxa para até uma certa quantidade de unidades faturadas, em seguida, uma taxa diferente após essa quantidade. | *1* |
 | ConsumedQuantity | A quantidade de serviço consumida (por exemplo, horas ou GB) durante o período de reporte. Também inclui qualquer utilização não mediada de períodos de reporte anteriores. | *11* |
 | IncludedQuantity | Unidades incluídas como parte da oferta. Normalmente não está presente na CSP. | *0* |
-| Excesso de sobreaquidadeQuantidade | Unidades não incluídas como parte da oferta. Estes devem ser pagos pelo parceiro. Igual **aQuantidade Consumida** menos **IncluaQuantidade** . | *11* |
+| Excesso de sobreaquidadeQuantidade | Unidades não incluídas como parte da oferta. Estes devem ser pagos pelo parceiro. Igual **aQuantidade Consumida** menos **IncluaQuantidade**. | *11* |
 | ListPrice | Preço de oferta em vigor na data de início da subscrição. | *$0.0808* |
 | Pré-impostos | Igual a **ListPrist** multiplicado por **OverageQuantity,** arredondado para o cent mais próximo. | *$0,085* |
 | TaxAmount | Valor dos impostos cobrado. Com base nas regras fiscais do seu mercado e circunstâncias específicas. | *$0,08* |
@@ -66,8 +71,12 @@ Os seguintes campos explicam quais os serviços utilizados e a taxa.
 | Unidade | A unidade do **nome** de recurso . | *GB* ou *HORAS* |
 | Contabillável do Cliente | Identificador de conta único na plataforma de faturação da Microsoft. | *1280018095* |
 | UsageDate | Data de implantação de serviço. | *2/1/2019 0:00* |
-| Região Medido | Identifica a localização de um centro de dados na região (para serviços onde este valor é aplicável e povoado). | *Leste asiático* , *Sudeste Asiático* , *Norte da Europa* , Europa *Ocidental* , Norte *Central EUA* , Centro Sul *dos EUA* |
-| Serviço Medido | Identifica o uso do serviço Azure individual quando não está especificamente identificado na coluna **ServiceName.** Por exemplo, as transferências de dados são reportadas como *Microsoft Azure - Todos os Serviços* na coluna **ServiceName.** | *AccessControl* , *CDN* , *Compute,* *Database* , *ServiceBus,* *Storage* |
+| Região Medido | Identifica a localização de um centro de dados na região (para serviços onde este valor é aplicável e povoado). | *Leste asiático*, *Sudeste Asiático*, *Norte da Europa*, Europa *Ocidental*, Norte *Central EUA*, Centro Sul *dos EUA* |
+| Serviço Medido | Identifica o uso do serviço Azure individual quando não está especificamente identificado na coluna **ServiceName.** Por exemplo, as transferências de dados são reportadas como *Microsoft Azure - Todos os Serviços* na coluna **ServiceName.** | *AccessControl*, *CDN*, *Compute,* *Database*, *ServiceBus,* *Storage* |
 | MedidoServiceType | Subposição para o campo **MeteredService** que fornece esclarecimentos adicionais sobre a utilização do serviço Azure. | *EXTERNA* |
 | Project | Nome definido pelo cliente para a sua instância de serviço. | *ORDDC52E52FDEF405786F0642D0108BE4* |
 | ServiceInfo | O número de ligações Azure Service Bus que foram a provisionadas e utilizadas num determinado dia. | *1.000000 Ligações / 30 dias* (se tivesse uma ligação individualmente a provisionada durante um mês de 30 dias), *25 Ligações / 30 Dias – Usado: 1.000000* (se tivesse um pacote de 25 ligações de Service Bus provisidas e utilizasse 1 durante esse dia) |
+
+## <a name="next-steps"></a>Passos seguintes
+
+- [Compreenda os campos em ficheiros de reconciliação baseados em licenças do Partner Center](license-based-recon-files.md)

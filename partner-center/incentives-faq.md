@@ -8,12 +8,12 @@ ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 332832b14e3434824aee2b1a6bcf7eb321fb7a60
-ms.sourcegitcommit: 2d1f0d7bc897278ef37af6d43c1a088f5ca14807
+ms.openlocfilehash: 2ee2ba7c3a04453927bd8e508190f23ec295da1d
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/08/2021
-ms.locfileid: "99835072"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756719"
 ---
 # <a name="frequently-asked-questions-on-incentives"></a>Perguntas frequentes sobre Incentivos
 
@@ -67,9 +67,9 @@ A razão provável para não ver incentivos é que não tem as permissões corre
 
 ## <a name="some-enrollments-are-missing-from-the-incentives-overview-page"></a>Faltam algumas inscrições na página geral dos incentivos.
 
-Se recebeu um convite de um programa de incentivos que já não está visível no painel de instrumentos, deve verificar duas vezes se tem acesso adequado. Apenas os utilizadores com função de Incentivo utilizador ou administrador de incentivo são capazes de ver o programa. Ver [Encontre o seu papel.](https://docs.microsoft.com/partner-center/find-your-role)
+Se recebeu um convite de um programa de incentivos que já não está visível no painel de instrumentos, deve verificar duas vezes se tem acesso adequado. Apenas os utilizadores com função de Incentivo utilizador ou administrador de incentivo são capazes de ver o programa. Ver [Encontre o seu papel.](./find-your-role.md)
 
-Se precisar de alterar a sua função ou permissões, contacte a administração global ou de conta da sua empresa. Para saber quem são estas pessoas, leia [Encontre o seu administrador global.](https://docs.microsoft.com/partner-center/find-your-role#find-your-global-admin)
+Se precisar de alterar a sua função ou permissões, contacte a administração global ou de conta da sua empresa. Para saber quem são estas pessoas, leia [Encontre o seu administrador global.](./find-your-role.md#find-your-global-admin)
 
 Note que a página 'Vista Geral' apenas apresentará inscrições associadas à Conta Global de Parceiros (PGA) associadas ao inquilino AZURE AD. Se a sua empresa tiver mais do que uma PGA, terá de ter credenciais diferentes para cada uma.
 

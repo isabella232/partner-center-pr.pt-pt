@@ -9,25 +9,21 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: eff687f59e433e3465048173e3f74821280bde41
-ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
+ms.openlocfilehash: c66a0d4ed7aa798321c42de34d879dc63de6a16b
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96556418"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101755835"
 ---
 # <a name="upgrade-some-education-customers-from-windows-10-home-to-windows-10-education"></a>Atualizar alguns clientes da Educação do Windows 10 Home para o Windows 10 Education
-
-**Aplica-se a**
-
-- Partner Center
 
 **Funções adequadas**
 
 - Agente administrativo
 - Agente helpdesk
 
-## <a name="overview"></a>Descrição geral
+## <a name="overview"></a>Descrição Geral
 
 A partir de 1 de novembro de 2020, os CSPs que adquiriram as subscrições Microsoft 365 A3 ou A5 ou Windows 10 Enterprise A3 ou A5 podem ajudar os seus clientes de Educação a atualizarem-se do Windows 10 Home para o Windows 10 Education, que é projetado tanto para a sala de aula como para a aprendizagem remota.
 

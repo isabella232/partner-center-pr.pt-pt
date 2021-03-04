@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: 03271459ccdea5b62192ec176557a6c3b8f1a556
-ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
+ms.openlocfilehash: 84863e96278ba17ecc9922ff9589abc504ff1fe0
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "100281356"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756192"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Guia para co-venda no Partner Center (PC) para parceiros que migram do Partner Sales Connect (PSC)
 
@@ -28,12 +28,15 @@ ms.locfileid: "100281356"
 
 Este artigo fornece orientação para os parceiros que migram do Partner Sales Connect para Partner Center para que possam continuar a criar e gerir ofertas de co-venda no Partner Center.
 
-Como sabem, a sua empresa perderá acesso ao PSC depois de 31 de março de 2021. No entanto, ainda encontrará tudo o que pretende fazer no Partner Center, como criar ofertas de co-venda, gerir as suas ofertas e atuar em ofertas enviadas pelos vendedores da Microsoft.
-
-Haverá diferenças, no entanto. A seguinte orientação pode ajudar a tornar a sua transição para o Partner Center mais suave e simples.
+>[!Note]
+> Se está aqui porque viu um estandarte no PSC sobre a migração, está no lugar certo. Este guia não é aplicável para a Solution Assessment (SA) e para os parceiros comerciais de licenciamento da OEM que gerem as suas ofertas em PSC.
 
 >[!Important]
-> Se está aqui porque viu um estandarte no PSC sobre a migração, está no lugar certo. Este guia não é aplicável aos parceiros de Avaliação de Soluções (SA) e OEM IOT que gerem as suas ofertas em PSC.
+> A partir de 1 de maio de 2021 a sua empresa não poderá criar ou editar negócios no PSC. **Você ainda será capaz de descarregar os dados de ofertas existentes usando a capacidade de exportação a granel em PSC. Você também pode [migrar ofertas abertas](psc-to-pc.md#psc-deals-migration) de PSC para Partner Center após esta data.** <br><br> Se houver ofertas em que está a trabalhar ativamente que contenham soluções elegíveis de incentivo de CO-sell IP, tem duas opções: <br><br> 1. Marque o negócio como ganho e complete o registo de negócio no PSC antes de 30 de abril de 2021. <br> 2. [Migrar as ofertas](psc-to-pc.md#psc-deals-migration) para o Partner Center para que tenha mais tempo para trabalhar no negócio e iniciar o registo de negócios.
+
+Como sabem, **a empresa perderá acesso ao PSC depois de 31 de maio de 2021**. No entanto, ainda encontrará tudo o que pretende fazer no Partner Center, como criar ofertas de co-venda, gerir as suas ofertas e atuar em ofertas enviadas pelos vendedores da Microsoft.
+
+Haverá diferenças, no entanto. A seguinte orientação pode ajudar a tornar a sua transição para o Partner Center mais suave e simples.
 
 ## <a name="before-you-move-things-you-need-to-know"></a>Antes de te mexeres, as coisas que precisas de saber
 
@@ -90,7 +93,7 @@ Para encontrar a administração da conta da sua empresa:
 Depois de configurar a sua conta no Partner Center, utilize o assistente de migração do utilizador na página de oportunidades de co-venda para atribuir automaticamente funções do Partner Center aos colaboradores da sua empresa.
 
 >[!Note]
-> A migração de utilizadores só pode ser realizada por administradores de [conta](permissions-overview.md#manage-mpn-membership-and-your-company) da sua empresa. Se não tiver a função de administrador de conta, encontre um administrador de conta que possa ajudar a configurar as contas do utilizador com a ajuda do assistente de migração do utilizador. A funcionalidade de migração dos utilizadores estará disponível a partir de 18 de novembro de 2020.
+> A migração de utilizadores só pode ser realizada por administradores de [conta](permissions-overview.md#manage-mpn-membership-and-your-company) da sua empresa. Se não tiver a função de administrador de conta, encontre um administrador de conta que possa ajudar a configurar as contas do utilizador com a ajuda do assistente de migração do utilizador.
 
 :::image type="content" source="images/pscmigration/psc-user-migration.png" alt-text="Imagem mostrando o assistente de migração do utilizador.":::
 
@@ -135,7 +138,7 @@ Leia esta secção antes de iniciar a migração do negócio.
 
 **Elegível para migração**
 
-Apenas algumas ofertas são elegíveis para migração de CPC para PC. Este assistente de migração foi construído para ajudar os parceiros a levarem as suas ofertas para o Partner Center, onde ainda estão a trabalhar ativamente com os seus clientes para fechar o negócio. **Apenas as ofertas que estejam em estado aberto com detalhes válidos da conta de parceiro (ID MPN válido) e não submetidas a registo de negócios são elegíveis para migração.**
+Apenas algumas ofertas são elegíveis para migração de CPC para PC. Este assistente de migração foi construído para ajudar os parceiros a levarem as suas ofertas para o Partner Center, onde ainda estão a trabalhar ativamente com os seus clientes para fechar o negócio. **Apenas os negócios que estão em estado aberto criados a partir de 1 de janeiro de 2020 com detalhes válidos da conta de parceiro (ID MPN válido) e não submetidos a registo de negócios são elegíveis para migração.**
 
 **Não elegível para migração**
 
@@ -200,7 +203,7 @@ Se a sua empresa tiver um Partner Development Manager (PDM) - Quando a sua conta
 Se a sua empresa não tiver um PDM - Certifique-se de que todas as contas de utilizador são configuradas e verificadas por todos os utilizadores. Será notificado através de um e-mail e de um banner no PSC sobre a data exata em que pode começar a Co-vender no Partner Center. Lembre-se que ainda terá de gerir os negócios ativos existentes no PSC.
 
 >[!Important]
->As ofertas ativas não serão migradas para PC. Tem até 31 de março de 2021 para fechar e registar os negócios.
+> Tem até 30 de abril de 2021 para registar os negócios que estão marcados como ganhos.
 
 ## <a name="next-steps-for-psc-admins-psc-deal-managers-and-psc-sellers"></a>Próximos passos para administradores de PSC, gestores de acordos de PSC e vendedores de PSC
 

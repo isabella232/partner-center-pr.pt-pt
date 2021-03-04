@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 02/05/2021
-ms.openlocfilehash: 7974d6f02951db944a44634543cda5bba49df976
-ms.sourcegitcommit: 0416562dd89408524f8312a8acd5b6944b6d91c4
+ms.date: 02/25/2021
+ms.openlocfilehash: df9cbea19ff51839e6624aba3e5050c41a55f32e
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/16/2021
-ms.locfileid: "100540986"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756151"
 ---
 # <a name="partner-center-announcements"></a>Anúncios do Centro de Parceiros
 
@@ -22,6 +22,11 @@ Saiba mais sobre atualizações importantes do Centro de Parceiros. Estas inform
 
 |**Categoria**|**Anúncios de fevereiro de 2021**|**Anunciado**|
 |---------|:---------|:---------|
+|Capacidades|[APIs de qualificação de PUT estão reformados, GET para se aposentar em maio](2021-february.md#14)|25 de fevereiro|
+|Capacidades|[Partilhar ofertas de co-venda em escala utilizando a capacidade de operações a granel do Partner Center](2021-february.md#13)|25 de fevereiro|
+|Capacidades|[Migrar as suas ofertas a partir do Partner Sales Connect (PSC) utilizando a funcionalidade de migração do novo negócio](2021-february.md#12)|25 de fevereiro|
+|Capacidades|[Maior flexibilidade com acordos de co-venda liderados por parceiros](2021-february.md#11)|25 de fevereiro|
+|Capacidades|[Alterações ao cliente de solução cloud (CSP) no embarque](2021-february.md#10)|25 de fevereiro|
 |Capacidades|[Agora live: DocuSign migração para Adobe Sign para parceiros ao abrigo de Acordos de Parceiros microsoft (MPAs)](2021-february.md#9)|16 de fevereiro|
 |Cresça o seu negócio|[Lembrete: apresentação da limitação de APIs para parceiros que utilizam APIs do Centro de Parceiros](2021-february.md#8)|16 de fevereiro|
 |Capacidades|[Apresentando tópicos do Microsoft Viva](2021-february.md#7)|12 de fevereiro|

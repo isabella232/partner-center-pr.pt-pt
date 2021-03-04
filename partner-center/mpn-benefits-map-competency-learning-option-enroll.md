@@ -8,12 +8,12 @@ ms.subservice: partnercenter-csp
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: c7e4f2b395ac421c9c01a813689723901374124a
-ms.sourcegitcommit: 99e4ca8495860a3119debb139509b9c8a9db4c87
+ms.openlocfilehash: 12fea98deb0b4ad0fc85783d04912ac7f76b8115
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "99975989"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756139"
 ---
 # <a name="use-partner-center-to-enroll-as-a-microsoft-learning-partner"></a>Use o Partner Center para se inscrever como Parceiro de Aprendizagem da Microsoft
 
@@ -115,7 +115,7 @@ O cumprimento de um KPI não tem a ver com a duração da formação. Para saber
 
 ### <a name="q-why-dont-i-appear-as-a-microsoft-learning-partner-in-the-learning-partner-directory"></a>P. Por que não apareci como parceiro de aprendizagem da Microsoft no diretório de parceiros de aprendizagem?
 
-Talvez tenhamos de adicioná-lo ao [diretório do Parceiro de Aprendizagem.](https://docs.microsoft.com/learn/certifications/partners) Em seguida, pode ligar para o seu website a partir da página de diretório do Learning Partner.
+Talvez tenhamos de adicioná-lo ao [diretório do Parceiro de Aprendizagem.](/learn/certifications/partners) Em seguida, pode ligar para o seu website a partir da página de diretório do Learning Partner.
 
 Este é um processo manual que é submetido apenas uma vez por mês, durante a terceira semana. A atualização subsequente estará visível até ao final da primeira semana do mês seguinte. Para ajudá-lo a resolver a situação, contacte o [Parceiro De Apoio à Linha da Frente.](https://partner.microsoft.com/support) Esteja preparado para fornecer os seguintes detalhes:
 

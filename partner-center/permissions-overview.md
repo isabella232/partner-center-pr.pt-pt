@@ -9,12 +9,12 @@ author: hemas
 ms.author: hemas
 ms.localizationpriority: high
 ms.custom: SEOMAY.20, contperf-fy21q1
-ms.openlocfilehash: 80aeb62ba875d4ecd7c11063663f7c2d29912bdf
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: 964c0e6be3003c2b3c9da8828d6e896e2fff82f9
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492709"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756464"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>Atribuir funções e permissões aos utilizadores de uma empresa que necessite de trabalhar no Partner Center
 
@@ -129,18 +129,15 @@ Estas funções não são funções do Azure Ative Directory. Estas funções ge
 
 ## <a name="manage-referrals"></a>Gerir referências
 
-> [!Note]
->A nova função de utilizador de Referências estará disponível a partir de 18 de novembro de 2020. Os administradores de referência existentes manterão a sua função de administração de encaminhamento para toda a empresa.
-
 |**Role** | **O que pode fazer**|**Saiba mais**
 |------------------------------|:-------------------------|---|
-|Administração de referências|Criar e gerir tudo sob o separador Referências no Centro de Parceiros|[Gerir Oportunidades de venda conjunta](manage-co-sell-opportunities.md)
+|Administração de referências|Criar e gerir tudo sob o separador Referências no Centro de Parceiros|[Gerir oportunidades de Venda conjunta](manage-co-sell-opportunities.md)
 ||    Pode ver e editar todas as oportunidades e pistas de co-venda
 ||    Pode atribuir membros da equipa para um acordo
 ||    Pode ver e editar perfis de negócio
 ||    Pode ver e registar ofertas para oportunidades que são marcadas como ganhas e elegíveis para registo de negócios
 ||    Pode criar e ver bilhetes de apoio
-|Utilizador de referências|Criar e gerir oportunidades de co-venda apenas se fizerem parte da equipa |[Gerir Oportunidades de venda conjunta](manage-co-sell-opportunities.md)
+|Utilizador de referências|Criar e gerir oportunidades de co-venda apenas se fizerem parte da equipa |[Gerir oportunidades de Venda conjunta](manage-co-sell-opportunities.md)
 ||    Pode criar oportunidades de co-venda para os locais onde lhes é atribuído o papel.
 ||    Pode visualizar e registar ofertas para oportunidades que são marcadas como ganhas e elegíveis para registo de negócios se forem membros da equipa.
 ||    Pode criar e ver bilhetes de apoio

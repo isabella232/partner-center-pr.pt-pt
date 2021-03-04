@@ -1,5 +1,5 @@
 ---
-title: Gerir pagamentos não atribuídos
+title: Gerir pagamentos não alocados
 ms.topic: how-to
 ms.date: 06/08/2020
 ms.service: partner-dashboard
@@ -9,18 +9,19 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bddf0482e20817f9087a3610104652dabdef72c4
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: d3920cbdc52a844477aacac9c7ac2122c14edeba
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "92529476"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101755807"
 ---
 # <a name="manage-unallocated-payments-on-your-partner-center-billing-page"></a>Gerir pagamentos não atribuídos na sua página de Faturação do Centro de Parceiros
 
-**Aplica-se a**
+**Funções adequadas**
 
-- Partner Center
+- Administrador de faturação
+- Administrador de conta
 
 Ocasionalmente, poderá ver um pagamento não atribuído na sua página de Faturação. Um pagamento não atribuído é um pagamento que fez à Microsoft que não solicitou a uma fatura específica.
 
@@ -35,3 +36,7 @@ Ocasionalmente, poderá ver um pagamento não atribuído na sua página de Fatur
 Para aplicar este valor a uma determinada fatura, bposcapp@microsoft.com envie-nos um e-mail e diga-nos a que fatura aplicar este pagamento. Certifique-se de incluir toda a informação que iria se estivesse a fazer um pagamento. A sua página de Faturação será atualizada dentro de 5-6 dias. 
 
 Os pagamentos não atribuídos permanecem por atribuir até atribuir-lhes uma fatura. 
+
+## <a name="next-steps"></a>Passos seguintes
+
+- [Faturação para produtos e subscrições de mercado comercial no Partner Center](csp-commercial-marketplace-billing.md)

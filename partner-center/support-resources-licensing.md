@@ -1,25 +1,22 @@
 ---
 title: Recursos de licenciamento da Microsoft
 ms.topic: article
-ms.date: 08/25/2020
+ms.date: 02/25/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Como parceiro da Microsoft, pode ter dúvidas sobre a utilização de diferentes programas de licenciamento da Microsoft. Este artigo oferece recursos que podem ajudar.
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
-ms.openlocfilehash: 70b9381cf67a54f2e8c7e1c7764610c91fca1b1b
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: a00ae527b1ac89e14f33960517ec20f8a5bec624
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92529856"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756808"
 ---
 # <a name="guide-to-licensing-resources-for-microsoft-partners"></a>Guia para licenciar recursos para parceiros da Microsoft 
 
-**Aplica-se a**
-
-- Parceiros Microsoft MPN, parceiros CSP, e outros
 
 Este artigo partilha recursos que podem ajudar a responder a questões de licenciamento de parceiros.
 
@@ -32,7 +29,7 @@ Se tiver dúvidas sobre como estes programas funcionam, estes recursos podem aju
 > [!NOTE]
 > Se precisar de ajuda com questões de licenciamento mais detalhadas ou com uma cotação do cliente, comece com o fornecedor indireto designado do seu programa de licenciamento (para o programa CSP) ou o distribuidor do seu programa. São muitas vezes os seus melhores pontos de contacto para questões específicas de licença ou para questões sobre a criação de cotações de clientes, compras SKU ou pré-requisitos. Se não tiver um parceiro a servir este papel para si, consulte [um parceiro](find-a-partner.md) para localizar um.
 >
-> Também pode contactar os seus contactos da Microsoft para alavancar uma equipa interna de especialistas em licenciamento. Se não tiver contactos específicos da Microsoft, vá ao Suporte do [Parceiro](https://partner.microsoft.com/support/v2/?stage=1) e escreva **licenças** no campo **Problemas** da página de Suporte. Lá, você pode aprender sobre outros recursos de apoio de licenciamento que podem estar disponíveis para você. Se ainda precisar de ajuda, também pode registar um bilhete de apoio para ajudar a responder a questões específicas da licença ou ajudá-lo a encontrar o produto correto SKU.
+> Também pode contactar os seus contactos da Microsoft para alavancar uma equipa interna de especialistas em licenciamento. Se não tiver contactos específicos da Microsoft, vá ao Suporte do [Parceiro](https://partner.microsoft.com/support/v2/?stage=1) e escreva **licenças** no campo **Problemas** da página de Suporte. 
 
 ## <a name="general-resources-about-licensing-and-license-training"></a>Recursos gerais sobre licenciamento e formação de licenças
 
@@ -43,7 +40,7 @@ Você pode saber mais sobre programas de licenciamento específicos a partir dos
 
 |Para efetuar isto  | Leia isto  |
 |:------------------|:--------------- |
-|Compare as licenças do programa CSP com outros modelos de licenciamento *(visão geral de alto nível)* | Aceda à página de inscrição do [CSP](https://partner.microsoft.com/licensing/). Desloque-se para baixo até ver a secção, *compare o CSP com outros modelos de licenciamento* .  |
+|Compare as licenças do programa CSP com outros modelos de licenciamento *(visão geral de alto nível)* | Aceda à página de inscrição do [CSP](https://partner.microsoft.com/licensing/). Desloque-se para baixo até ver a secção, *compare o CSP com outros modelos de licenciamento*.  |
 |Compare diferentes contratos de licença de parceiro para serviços na nuvem da Microsoft e software no local *(visão detalhada)*  | [Acordos de licenciamento da Microsoft](https://partner.microsoft.com/licensing/licensing-agreements)  |
 |Ler mais sobre Licenciamento de Volume (VL) e licenciamento para soluções específicas  | [Licenciamento da Microsoft - produtos e soluções](https://www.microsoft.com/licensing/default) |
 |Saiba mais sobre a formação de licenciamento de volume e recursos que podem ajudar com preços VL, orçamentos, acordos, ativação de produtos e outras ferramentas  | [Formação e recursos da Microsoft Partner Network](https://partner.microsoft.com/licensing/training-and-resources) |
@@ -97,6 +94,6 @@ Vá ao [suporte do Microsoft Partner](https://partner.microsoft.com/support/?sta
 ## <a name="next-steps"></a>Passos seguintes
 
 - [Ver mais recursos de apoio](https://partner.microsoft.com/support/?stage=1)
-- [Encontre um parceiro](find-a-partner.md)
+- [Encontrar um parceiro](find-a-partner.md)
 - [Saiba ou inscreva-se no programa MPN](https://partner.microsoft.com/membership)
 - [Saiba ou inscreva-se no programa CSP](https://partner.microsoft.com/membership/cloud-solution-provider)

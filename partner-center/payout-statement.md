@@ -7,12 +7,12 @@ ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 10/29/2020
-ms.openlocfilehash: f74dcdc240553cea2c9d226364a8bd6242acc200
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: 4a511dc026e3c71f05c5b18ca6d8915bd2654826
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492641"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756166"
 ---
 # <a name="payout-statements"></a>Declaração de dividendos
 
@@ -129,7 +129,7 @@ Para ver mais detalhes sobre um ganho, selecione **Baixar** no topo da página. 
 >- **última Procuração**  A moeda em que o pagamento mais recente foi recebido, em todos os MPNs a que o parceiro que está atualmente registado tem acesso. Se nenhum pagamento for recebido, a última moeda de pagamento será dólares americanos.
 >- **earningAmountInLastPaymentCurrency**  O valor de ganho na última moeda de pagamento.
 
-| Nome da coluna | Descrição | Aplicabilidade para programas de incentivo/mercados |
+| Nome da coluna | Description | Aplicabilidade para programas de incentivo/mercados |
 | --- | --- | --- |
 | agreementEndDate | Data limite do acordo | Incentivos - apenas alguns programas |
 | agreementNumber | Número do contrato | Incentivos - apenas alguns programas |
@@ -138,7 +138,7 @@ Para ver mais detalhes sobre um ganho, selecione **Baixar** no topo da página. 
 | claimId | Identificador único para reclamação | Incentivos - apenas alguns programas |
 | clienteCountry | País/região do cliente | mercados |
 | customerEmail |  |  |
-| nome do cliente | Estará sempre em branco. | Apenas programas de incentivo (exceção: OEM) e mercados |
+| nome do cliente | Pode estar em branco | Apenas programas de incentivo (exceção: OEM) e mercados. Para as transações da CSP, os mercados mostrarão o nome da CSP |
 | customerTenantId |  |  |
 | distribuidorId | Identificador de distribuidor | Incentivos - apenas alguns programas |
 | nome distribuidorna | Nome do distribuidor | Incentivos - apenas alguns programas |
@@ -278,7 +278,7 @@ A tabela seguinte explica os diferentes estados de ganho.
 
  A tabela seguinte explica cada coluna do relatório. Para ver mais detalhes sobre os seus pagamentos, selecione **Baixar** no topo da página Pagamentos.
 
-| Nome da coluna | Descrição |
+| Nome da coluna | Description |
 | --- | --- |
 | id participante | A identidade primária do parceiro que ganha ao abrigo do programa |
 | IDType participante | Normalmente programa ID para programas de incentivos e ID do vendedor para programas de loja |

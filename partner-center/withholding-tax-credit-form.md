@@ -9,20 +9,21 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cd718377fad435b72ff62e61604f58a3d302dc11
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 064a5ea1e712ca66504536652543c0523fc73eae
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92530461"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101755730"
 ---
 # <a name="receive-credit-on-your-partner-center-account-for-tax-withholding"></a>Receba crédito na sua conta partner center para retenção na fonte de impostos
 
-Aplica-se a:
+**Funções adequadas**
 
-- Partner Center
+- Administrador de conta
+- Administrador de faturação
 
-## <a name="overview"></a>Descrição geral
+## <a name="overview"></a>Descrição Geral
 
 Os parceiros da CSP em alguns países recebem valores de fatura que incluem impostos. Alguns destes parceiros pagam à autoridade fiscal local em vez da Microsoft. Se pagar à sua autoridade tributária local, tem de apresentar um pedido de retenção na fonte, incluindo o seu certificado fiscal para limpar o valor tributado das faturas anteriores. Estes valores apurados refletem-se na última coluna **de pagamento** na página **de Faturação** no Partner Center.
 
@@ -35,7 +36,7 @@ Os parceiros costumavam apresentar pedidos de retenção na fonte através da cr
 
 Siga estas medidas para submeter uma nova retenção na fonte fiscal:
 
-1. Inscreva-se no painel do Centro [de Parceiros.](https://partner.microsoft.com/dashboard/home)
+1. Inicie sessão no [dashboard](https://partner.microsoft.com/dashboard/home) do Centro de Parceiros.
 
 2. No menu da esquerda, escolha **Billing** e vá para **a história do Billing.**
 
@@ -45,7 +46,9 @@ Siga estas medidas para submeter uma nova retenção na fonte fiscal:
 
 4. Reveja os dados da fatura para garantir que está a enviar o pedido para a fatura correta.
 
-   :::image type="content" source="images/wht2.png" alt-text="Apresentar nova retenção na fonte de imposto para uma fatura" é o valor que espera ser creditado.
+   :::image type="content" source="images/wht2.png" alt-text="Detalhes completos da retenção na fonte de impostos para uma fatura":::
+
+5. Introduza o "Total de Retenção na Fonte" em **detalhes de retenção na fonte fiscal**. O "Total de Retenção" é o valor que espera ser creditado.
 
 6. **Anexar** um certificado fiscal. Terá de incluir uma **cópia digital** do seu certificado de **retenção** na fonte no seu pedido de retenção na fonte fiscal. Recebeu este certificado da sua agência tributária local quando paga os seus impostos à sua autoridade tributária local. O valor do imposto sobre a fatura no certificado de retenção na fonte deve corresponder ao valor total do seu pedido de retenção na fonte.
 
@@ -62,7 +65,7 @@ Siga estas medidas para submeter uma nova retenção na fonte fiscal:
 
 A equipa de revisão pode exigir que faça correções e reenvia um pedido antes de poder ser aprovado. Alterarão o estatuto para ação **de parceiro pendente.** Para corrigir e reenviar o pedido:
 
-1. Inscreva-se no painel do Centro [de Parceiros.](https://partner.microsoft.com/dashboard/home)
+1. Inicie sessão no [dashboard](https://partner.microsoft.com/dashboard/home) do Centro de Parceiros.
 
 2. No menu da esquerda, escolha **Billing**
 
@@ -70,7 +73,7 @@ A equipa de revisão pode exigir que faça correções e reenvia um pedido antes
 
 4. Clique na retenção na fonte de imposto e no estado que o leva à página do pedido.
 
-5. Selecione **Update and resubmit under** **Status** .
+5. Selecione **Update and resubmit under** **Status**.
 
 6. Reveja os comentários deixados pelos revisores que destacam o que precisa de ser alterado.
 
@@ -84,7 +87,7 @@ A submissão do pedido irá enviá-lo de volta para a equipa de revisão onde el
 
 Os pedidos de retenção na fonte de imposto aprovados serão executados contra a sua próxima fatura, a escrevendo o valor em dívida. Os pedidos sinalizados como **Concluídos** devem ser aplicados no prazo de 10 dias úteis. 
 
-Os montantes limpos serão refletidos na secção de **histórico de faturação da página de Faturação** . Os montantes apurados mostrarão na última coluna **de pagamentos** ao lado da fatura para a a que o pedido foi apresentado.
+Os montantes limpos serão refletidos na secção de **histórico de faturação da página de Faturação**. Os montantes apurados mostrarão na última coluna **de pagamentos** ao lado da fatura para a a que o pedido foi apresentado.
 
    > [!IMPORTANT]
    > As faturas anteriores não são regeneradas ou reemitidas. O montante da clearace é simplesmente aplicado aos pagamentos dos meses anteriores.
@@ -108,4 +111,4 @@ Os sócios que apresentem pedidos de retenção na fonte alemã devem lembrar-se
 Os parceiros devem utilizar o novo processo acima detalhado para apresentar novos pedidos e deixar de utilizar o pedido de apoio para novos pedidos de retenção na fonte. Os parceiros com questões adicionais sobre pedidos de retenção na fonte podem [apresentar pedidos de apoio.](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=9227afa6-babf-3917-acee-67db7860f5ed) Os pedidos de apoio destinam-se a ajudar os parceiros para os pedidos existentes, pelo que terão de ter o seu **ID de pedido** para apresentar um novo bilhete. Se os parceiros não puderem apresentar um pedido utilizando o novo processo, devem inserir algum número (todos 1' no formulário de pedido de apoio. 
 
    > [!IMPORTANT]
-   > Os parceiros não precisam de contactar o suporte se o seu estado de pedido estiver **concluído.** Este estado aparece no histórico de **Faturação** ao lado da fatura para a submissão. **Os** últimos montantes de pagamento junto à fatura devem refletir o valor da retenção na fonte no prazo de dez dias após a marcação do pedido como **Concluído** .
+   > Os parceiros não precisam de contactar o suporte se o seu estado de pedido estiver **concluído.** Este estado aparece no histórico de **Faturação** ao lado da fatura para a submissão. **Os** últimos montantes de pagamento junto à fatura devem refletir o valor da retenção na fonte no prazo de dez dias após a marcação do pedido como **Concluído**.

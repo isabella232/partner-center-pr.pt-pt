@@ -1,7 +1,7 @@
 ---
 title: Indicadores de contribuição dos parceiros - CBA
 ms.topic: article
-ms.date: 02/03/2021
+ms.date: 02/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba mais sobre sete Indicadores de Contribuição de Parceiros (PCI) que mostram aos parceiros como obter uma competência de Aplicações empresariais cloud prateadas ou douradas.
@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c6698d955433e8fe180fe5537c52d1aba6deea3b
-ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
+ms.openlocfilehash: 53711ce9c480c195886096f0445c048307bee9db
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "99530821"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756558"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-cloud-business-applications-competency"></a>Utilizar indicadores de contribuição de parceiros para atingir a competência de Aplicações empresariais em nuvem
 
@@ -155,7 +155,7 @@ Só pode receber crédito por estas métricas de PCI para um determinado cliente
 - Você é o Parceiro Reivindicante da Record (CPOR) por uma subscrição paga pertencente ao inquilino desse cliente
 - Você é um Parceiro Digital da Record (DPOR) para uma subscrição paga pertencente ao inquilino desse cliente
 
-Um parceiro torna-se o CPOR se tiver estabelecido associação com um cliente ao nível da subscrição através do incentivo Dynamics 365 [Online Services Advisor](https://support.microsoft.com/help/4501560/online-services-advisor-osa-sell-incentives-faq) (OSA) ou do incentivo Dynamics 365 Online Services [Usage](https://support.microsoft.com/help/4489988/online-services-usage-osu-incentives-faq) (OSU).
+Um parceiro torna-se o CPOR se tiver estabelecido associação com um cliente ao nível da subscrição através do incentivo Dynamics 365 Online Services Advisor (OSA) ou do incentivo Dynamics 365 Online Services Usage (OSU). Para saber mais, consulte [as associações CPOR.](incentives-customer-associations-intro.md)
 
 Um parceiro torna-se o DPOR se tiver estabelecido associação com um cliente ao nível de subscrição dentro do produto.
 

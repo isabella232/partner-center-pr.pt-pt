@@ -8,12 +8,12 @@ ms.subservice: partnercenter-mpn
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: 490cb13b99b15f9c88fdab4d7bca79d1ab018eca
-ms.sourcegitcommit: 98f41b32c39adad83ed29050084d2d31057b7c2e
+ms.openlocfilehash: 5ce5dadfc7fbb22ffc206e2dd48cccc0b274c499
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "99042689"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101757389"
 ---
 # <a name="how-to-pay-the-fee-associated-with-a-silver-or-gold-competency"></a>Como pagar a taxa associada a uma competência de prata ou ouro
 
@@ -37,7 +37,7 @@ Caso contrário, siga estes passos para pagar a taxa por uma competência de pra
 
 - Já cumpriu os [requisitos](https://partner.microsoft.com/membership/competencies) para atingir uma competência específica de prata ou ouro.
 
-- Foi-lhe atribuído o papel de Partner Center da [administração global ou do parceiro MPN.](https://docs.microsoft.com/partner-center/permissions-overview) Se for um utilizador convidado sem uma destas funções, será-lhe negado o acesso a algumas das páginas do Centro de Parceiros descritas abaixo. Se isso acontecer, [contacte o seu administrador global](https://docs.microsoft.com/partner-center/find-your-role) e peça-lhes que lhe atribuam o papel apropriado. 
+- Foi-lhe atribuído o papel de Partner Center da [administração global ou do parceiro MPN.](./permissions-overview.md) Se for um utilizador convidado sem uma destas funções, será-lhe negado o acesso a algumas das páginas do Centro de Parceiros descritas abaixo. Se isso acontecer, [contacte o seu administrador global](./find-your-role.md) e peça-lhes que lhe atribuam o papel apropriado. 
 
 1. Utilizando as credenciais de conta de trabalho da sua organização, inscreva-se no [painel de instrumentos](https://partner.microsoft.com/dashboard)do Partner Center .
 
@@ -54,7 +54,7 @@ Caso contrário, siga estes passos para pagar a taxa por uma competência de pra
 
 4. Na página de detalhes da **Compra,** reveja e confirme os seus dados.
 
-   (Saiba mais sobre a atualização [das informações de **identificação fiscal** da sua empresa](https://docs.microsoft.com/partner-center/organization-tax-info) ou a Conta da sua empresa [ **para/Vender para** endereço da empresa](https://docs.microsoft.com/partner-center/mpn-get-action-pack).)
+   (Saiba mais sobre a atualização [das informações de **identificação fiscal** da sua empresa](./organization-tax-info.md) ou a Conta da sua empresa [ **para/Vender para** endereço da empresa](./mpn-get-action-pack.md).)
 
    :::image type="content" source="images/offers/2-mpn-competency-payment-preference.png" alt-text="A associação oferece página de detalhes de compra com preferências de pagamento." border="false":::
 

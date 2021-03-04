@@ -7,12 +7,12 @@ ms.topic: conceptual
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 12/04/2020
-ms.openlocfilehash: 09e1301cb106c9e1ed40ff1fb6f70da92d2695ee
-ms.sourcegitcommit: 6632d7452be36010bfc8c6823efe5a5197377989
+ms.openlocfilehash: 9c4ad89eb25e811c4bea11e7e7e5d3845ceafee6
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "98861415"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756845"
 ---
 # <a name="payout-schedules-and-processes"></a>Agendamentos e processos de dividendos
 
@@ -37,7 +37,6 @@ Um pagamento ocorrerá frequentemente antes de a Microsoft receber o pagamento d
 | --- | --- | --- | --- |
 | Utilização ou mês de transação | O cliente usa ou compra um serviço. | [Painel de utilização](/azure/marketplace/partner-center-portal/usage-dashboard) ou [ordem](/azure/marketplace/partner-center-portal/orders-dashboard) | **Mês 1** |
 | Microsoft calcula valor de faturação | Determinar a utilização total, as transações totais | [Painel de utilização](/azure/marketplace/partner-center-portal/usage-dashboard) ou [ordem](/azure/marketplace/partner-center-portal/orders-dashboard) | **Mês 2** |
-| Fatura paga pelo cliente | Microsoft recolhe pagamento do cliente | Sem alterações | **Mês 2** |
 | Pagamento publicado | Determinar taxas de agência e ganhos de pagamento | Marcado como não processado no histórico de transações na declaração de [pagamento](payout-statement.md) | **Mês 3 (1ª semana)** |
 | Preparar o pagamento | Os ganhos estão preparados para o pagamento mensal | Marcado como O Próximo no Histórico de Transações na declaração de [pagamento](payout-statement.md) | **Mês 3 (1ª semana)** |
 | **Pagamento enviado** | **O pagamento é enviado para editor** | **Marcado como Enviado no Histórico de Transações e na secção de Pagamentos da declaração de [pagamento](payout-statement.md)** | **Mês 3 (o mais tardar no dia 15)** |
@@ -105,6 +104,6 @@ Normalmente enviamos qualquer pagamento devido num dado mês no 15º dia desse m
 | Transferência bancária      | 7-10 dias úteis                         |
 |
 
-## <a name="next-steps"></a>Próximos passos
+## <a name="next-steps"></a>Passos seguintes
 
 - [Detalhes fiscais](tax-details-marketplace.md)
