@@ -1,20 +1,20 @@
 ---
-title: Adicione inquilinos adicionais à sua conta partner Center
+title: Adicione inquilinos à sua conta partner Center
 ms.topic: article
 ms.date: 01/11/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Saiba como adicionar, consolidar ou gerir vários inquilinos AZure AD na sua conta partner Center. Saiba também sobre algumas das razões pelas quais poderá querer fazê-lo.
+description: Saiba como adicionar, consolidar ou gerir vários inquilinos AZure AD na sua conta partner Center, e saiba por que quer fazê-lo.
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f9852b4e1c3997b82f744555db25fe64e1afc8ad
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: 2f3094489f65b7164b4a55804047f9a4ab5f11cb
+ms.sourcegitcommit: 79d2f00c352db61252e523f45abf93fe2a2742a5
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182443"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "102124810"
 ---
 # <a name="add-and-manage-multiple-tenants-in-your-partner-center-account"></a>Adicione e gere vários inquilinos na sua conta Partner Center
 
@@ -24,57 +24,58 @@ ms.locfileid: "98182443"
 - Administrador global
 - Administrador de conta
 
-Esta funcionalidade permite-lhe gerir vários inquilinos para a sua empresa e consolidá-los na sua conta do Centro de Parceiros. Existem muitas razões pelas quais você pode precisar de gerir vários inquilinos AZure AD na sua conta partner Center. Por exemplo:
+Este artigo discute como consolidar vários inquilinos do Azure Ative Directory (Azure AD) para a sua empresa e, em seguida, adicioná-los e geri-los na sua conta partner Center. Há muitas razões para o fazer. Por exemplo:
 
-- A sua empresa pode comprar outra empresa, e quer que os colaboradores da nova empresa possam utilizar o Partner Center. No entanto, quer que as duas empresas permaneçam separadas. Neste caso, associaria o inquilino da AZure AD da nova empresa à sua conta global partner (PGA). Esta associação permitiria que os utilizadores de ambas as empresas trabalhassem no Partner Center.
+- Digamos que a sua empresa, Contoso, adquiriu outra empresa, a Fabrikam. Quer que as duas empresas permaneçam separadas, mas quer que os novos colaboradores possam usar o Partner Center. Neste caso, associa o inquilino Azure AD da nova empresa à sua conta global partner (PGA). Esta associação permite que os utilizadores de ambas as empresas trabalhem no Partner Center.
 
-- Se tiver mais de um inquilino para gerir o seu negócio (por exemplo, contoso.com, contoso.uk, contoso.in) pode usar vários arrendamentos para os amarrar na mesma conta de PC.
+- Se gere o seu negócio com mais de um inquilino (por exemplo, *contoso.com*, *contoso.uk*, e *contoso.in),* pode utilizar a multitenência para agrupar na mesma conta de PC.
 
-- Fusões e aquisições obrigam a trabalhar com mais do que um inquilino (por exemplo, se a Contoso adquirir a Fabrikam, terá de ser capaz de utilizar tanto Constoso.com como Fabrikam.com respetivos inquilinos).
+- Se as diretrizes de fusões e aquisições exigirem que você trabalhe com inquilinos de ambas as empresas, você usaria tanto o *constoso.com* como *fabrikam.com* inquilinos.
 
-- Os utilizadores de qualquer um dos inquilinos teriam de ser capazes de:
-    1.  Centro de Parceiros de Acesso para formação, downloads digitais, associação MCP
-    2.  Ser designado Partner Center funções como MPN Admin, Incentives Admin etc.
+- Os utilizadores de qualquer um dos inquilinos devem ser capazes de:
+    * Access Partner Center para formação, downloads digitais ou associação Microsoft Certified Professional (MCP).
+    * Ser designado funções partner center tais como Microsoft Partner Network (MPN) administração ou administração de incentivos.
 
+## <a name="add-an-azure-ad-tenant-to-your-account"></a>Adicione um inquilino AZure AD à sua conta
 
-## <a name="add-another-azure-ad-tenant-to-your-account"></a>Adicione outro inquilino AZure AD à sua conta
+1. Inscreva-se como administrador global para o [Microsoft Partner Center](https://partner.microsoft.com/dashboard).
 
-1. Como administrador global, inscreva-se no painel partner [center](https://partner.microsoft.com/dashboard).
-1. A partir do ícone **Definições,** selecione **as definições de Conta** e, em seguida, selecione **Inquilinos**.
+1. No canto superior direito, selecione **Definições**, selecione **definições de Conta** e, em seguida, selecione **Inquilinos**.
  
-:::image type="content" source="images/merge-accounts/multitenantNew.png" alt-text="inquilinos associados"::: 
+   :::image type="content" source="images/merge-accounts/multitenantNew.png" alt-text="Screenshot do botão Associado no painel de perfil Ad Azure."::: 
 
-3. Selecione **Associar outro inquilino de AD** e indicar o inquilino que você deseja associar.
+1. Selecione **Associado** e, em seguida, indique o inquilino que deseja associar.
 
-1. Como administrador global, inscreva-se no inquilino que quer associar e confirmar a associação. 
+1. No momento, inscreva-se como administrador global para o inquilino que pretende associar e, em seguida, **selecione Confirmar**. 
 
-:::image type="content" source="images/merge-accounts/multitenantNew2.png" alt-text="confirmar inquilinos associados"::: 
+   :::image type="content" source="images/merge-accounts/multitenantNew2.png" alt-text="Screenshot do botão Confirmar no painel de associação Confirm novo Azure AD."::: 
 
-5. Depois de confirmar, verá um aviso **de todos os conjuntos.**  **Selecione Return to tenant management** e você verá o recém-adicionado inquilino listado. 
+   Depois de ter confirmado a associação, é exibida uma mensagem **all set.** Para ver o recém-adicionado inquilino, **selecione Devolver à gestão de inquilinos.** 
  
-
 >[!NOTE]
 >Não pode associar um inquilino a uma conta se já estiver associado a outra conta do Partner Center.
 
 
 ## <a name="remove-a-tenant-from-your-account"></a>Retire um inquilino da sua conta
  
-1. Como administrador global, inscreva-se no painel partner [center](https://partner.microsoft.com/dashboard).
+1. Inscreva-se como administrador global para o [Microsoft Partner Center](https://partner.microsoft.com/dashboard).
 
-1. A partir do ícone **Definições,** selecione **definições** de conta -> Inquilinos e clique no **separador Parceiro.**
+1. No canto superior direito, selecione o ícone **Definições** e, em seguida, selecione **as definições de Conta**.
+
+1. No painel esquerdo, selecione **Inquilinos.** No **âmbito do Manage Azure AD,** selecione o **separador Partner.**
  
-3. Clique em **Remover** para o inquilino que deseja dissociar.
+1. **Selecione Remova** ao lado do inquilino cuja associação pretende remover.
 
-4. Dissociar um inquilino significa que os utilizadores desse inquilino deixarão de ter acesso à conta do Centro de Parceiros, o que poderá ter impacto nas suas competências. 
+   :::image type="content" source="images/disassociate.png" alt-text="Screenshot das atuais associações de inquilinos e seus links Remove.":::
 
-O botão **Remover** está ativado para todos os inquilinos associados, exceto o inquilino principal e o inquilino em que você está atualmente assinado.
+   Como mostrado na imagem anterior, os links **Remove** estão habilitados para todos os inquilinos associados, exceto para o inquilino principal e o inquilino que você está atualmente assinado. 
 
-:::image type="content" source="images/disassociate.png" alt-text="inquilinos com o botão remover":::
- 
+   > [!NOTE]   
+   > Quando você retira um inquilino, os utilizadores desse inquilino já não têm acesso à conta do Centro de Parceiros, e a remoção pode ter um impacto nas suas competências. 
 
 ## <a name="next-steps"></a>Passos seguintes
 
-- [Adicionar utilizadores](create-user-accounts-and-set-permissions.md)
+- [Criar contas de utilizador](create-user-accounts-and-set-permissions.md)
 
 
 
