@@ -1,7 +1,7 @@
 ---
 title: Vender software no local através da CSP
 ms.topic: how-to
-ms.date: 01/29/2021
+ms.date: 03/04/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como os parceiros do programa CSP podem comprar, gerir, vender e cancelar subscrições de software no local em nome dos clientes no Partner Center.
@@ -9,27 +9,23 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 927135e3615d554ed4180dc9100ab0c4d5a3586e
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 6c442711a3b60f5014397b3b2d8bdfd75a852fcc
+ms.sourcegitcommit: b0734f9c9ef6c582095573eb0a73cc0c39c7e65b
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756050"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "102220249"
 ---
-# <a name="sell-on-premise-software-through-the-cloud-solution-provider-csp-program"></a>Venda de software no local através do programa Cloud Solution Provider (CSP)
+# <a name="sell-on-premises-software-through-the-cloud-solution-provider-csp-program"></a>Venda de software no local através do programa Cloud Solution Provider (CSP)
 
 **Funções adequadas**
 
 - Agente administrativo
 - Administrador global
 
-O software no local em CSP suporta uma transição suave para a nuvem introduzindo software no local num programa focado na nuvem.Esta nova oferta ajuda a trazer o parceiro de valor acrescentado para cada cenário de compra, uma vez que fornece uma única plataforma para transacionar todos os produtos da Microsoft. Como CSP, pode agora vender software no local através do Partner Center, além de Open, EA e outros programas atualmente em uso. O software no local em CSP é um novo programa de vendas e não se destina a substituir nenhum dos outros programas de licenciamento de volume da Microsoft. 
+O software no local em CSP suporta uma transição suave para a nuvem, introduzindo software no local num programa focado na nuvem.Esta nova oferta ajuda a trazer o parceiro de valor acrescentado para cada cenário de compra, uma vez que fornece uma única plataforma para transacionar todos os produtos da Microsoft. Como CSP, pode agora vender software no local através do Partner Center, além de Open, EA e outros programas atualmente em uso.  
  
-Ao mesmo tempo que garantimos o melhor valor geral do cliente com opções de licenciamento de software no local, também tornamos o modelo de negócio o mais amigável possível. O licenciamento simples de software no local em CSP significa previsibilidade de custos e um processo de venda simplificado para si. Este novo modelo de negócio facilita a aquisição, gestão e preço de software no local para os seus clientes, permitindo-lhe focar-se em negócios vencedores com um portfólio alargado de soluções de valor acrescentado de gestão de TI. 
-
->[!NOTE]
->O software no local está atualmente disponível para parceiros limitados. Para saber se é elegível, consulte o seu contacto com a Microsoft. 
-
+Ao mesmo tempo que garantimos o melhor valor geral do cliente com opções de licenciamento de software no local, também tornamos o modelo de negócio o mais amigável possível. O licenciamento simples de software no local em CSP significa previsibilidade de custos e um processo de venda simplificado para si. Este novo modelo de negócio facilita a aquisição, gestão e preço no local do software para os seus clientes, permitindo-lhe focar-se em negócios vencedores com um portfólio alargado de soluções de valor acrescentado de gestão de TI.
 
 ## <a name="buy-software-subscriptions-on-behalf-of-customers"></a>Comprar subscrições de software em nome dos clientes
 
@@ -37,18 +33,16 @@ Para comprar subscrições de software em nome de um cliente, vá à página de 
 
 ## <a name="activate-and-manage-software-subscriptions"></a>Activate and manage software subscriptions (Ativar e gerir subscrições de software)
 
-Depois de ter adquirido o seu software, os seus clientes têm de o descarregar. Utilize o seguinte procedimento para o fazer.
+Uma vez adquirido o seu software, você ou os seus clientes precisam descarregá-lo. Utilize o seguinte procedimento para o fazer.
 
 >[!NOTE]
 >Você deve ser um agente de administração para obter o link para chaves e downloads.
 
 1. Aceda à página de detalhes do seu cliente e, em seguida, **selecione Software**. Verá uma lista de todo o software que comprou em nome do cliente.
-2. Copie o "link profundo" das **chaves e transferências** de produtos Link para Software e partilhe o link com o seu cliente. Quando selecionarem este link, serão redirecionados para o Microsoft Admin Center para descarregar e obter as chaves do produto.
+2. Siga as instruções dentro do [Guia de Operações](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf) do Parceiro para concluir o cumprimento da sua compra de software em nome do cliente.
 
 >[!NOTE]
 >Apenas os clientes podem ver as chaves do produto e descarregar informações no Microsoft Admin Center. Os parceiros não podem ver esta informação.
-
-Se você ou os seus clientes quiserem saber mais sobre o download das chaves da licença, consulte as [chaves do software de descarregamento e da licença de produto.](/microsoft-365/admin/setup/download-software-licenses-csp)
 
 ## <a name="cancel-a-purchase"></a>Cancelar uma compra
 

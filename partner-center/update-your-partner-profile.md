@@ -9,12 +9,12 @@ ms.topic: how-to
 ms.date: 03/03/2021
 ms.localizationpriority: medium
 ms.custom: contperf-fy21q3
-ms.openlocfilehash: 2527e57ea0c95c5d91728dd6198490365b264c6f
-ms.sourcegitcommit: 79d2f00c352db61252e523f45abf93fe2a2742a5
+ms.openlocfilehash: 7593ddab8d495e3edc67cb89255c9c7cba4772d3
+ms.sourcegitcommit: b0734f9c9ef6c582095573eb0a73cc0c39c7e65b
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "102124776"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "102220272"
 ---
 # <a name="verify-your-company-profile-information-in-partner-center"></a>Verifique as informações do perfil da sua empresa no Partner Center
 
@@ -54,8 +54,7 @@ Atualize o seu endereço legal no Partner Center.
 1. Quando selecionar Enviar por **email** o artigo Submeter-se, a sua identidade legal será reavaliada e receberá outro e-mail que terá de aceitar.
 
 >[!Important]
->Se é um parceiro do Cloud Solution Provider (CSP), não pode alterar o país associado ao seu endereço legal. O seu país de endereço legal está ligado ao seu inquilino e serviços, bem como à moeda com que negoceia. Se não estiver no programa CSP, pode alterar o país associado ao seu endereço legal. Os sócios da Direct Bill e os fornecedores indiretos não podem alterar o nome legal da sua empresa se o estado de validação for "Autorizado". Se precisar de alterar o nome, terá de [criar um bilhete de Apoio.](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772)
-
+>Se é um parceiro do Cloud Solution Provider (CSP), não pode alterar o país associado ao seu endereço legal. O seu país de endereço legal está ligado ao seu inquilino e serviços, bem como à moeda com que negoceia. Os sócios da Direct Bill e os fornecedores indiretos não podem alterar o nome legal da sua empresa se o estado de validação for "Autorizado". Se precisar de alterar o nome, terá de [criar um bilhete de Apoio.](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772)
 
 
 ## <a name="update-your-mpn-global-business-account"></a>Atualize a sua Conta Global de Negócios MPN

@@ -8,17 +8,91 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/03/2021
-ms.openlocfilehash: 0ffc09fc6496fc053a8ca150bd85235976153c03
-ms.sourcegitcommit: 7ef441a0e4dbef11012212bfc087c5244a75765e
+ms.date: 03/04/2021
+ms.openlocfilehash: 8b86623c6af832de654e3c4ad9fea666427eb51d
+ms.sourcegitcommit: b0734f9c9ef6c582095573eb0a73cc0c39c7e65b
 ms.translationtype: MT
 ms.contentlocale: pt-PT
 ms.lasthandoff: 03/05/2021
-ms.locfileid: "102185269"
+ms.locfileid: "102220300"
 ---
 # <a name="march-2021-announcements"></a>Anúncios de março de 2021
 
 Esta página fornece os anúncios para o Microsoft Partner Center para março de 2021.
+
+________________
+## <a name="partner-center-software-license-key-and-download-fulfillment"></a><a name="4"></a>Chave de licença de software Partner Center e cumprimento de descarregamento
+
+### <a name="categories"></a>Categorias
+
+- Data: 2021-03-04
+- Capacidades
+
+### <a name="summary"></a>Resumo
+
+O software Partner Center descarregamento e capacidade de cumprimento da chave da licença foi reintegrado.
+
+### <a name="impacted-audience"></a>Audiência impactada
+
+Todos os parceiros do Cloud Solution Provider (CSP) transacionando encomendas de software de subscrição perpétua e servidor através do Partner Center
+
+### <a name="details"></a>Detalhes
+
+Em resposta ao feedback do parceiro, estamos a reinstaurar a capacidade de cumprimento do Partner Center para obter chaves de software e licença para ordens de software de subscrição perpétua e servidor. Será restaurado ao seu estado anterior antes de ser removido em 19 de janeiro de 2021. (Ver o [anúncio](2020-september.md#17).)
+
+Note que as chaves de licença de software e links de descarregamento são valiosos e altamente procurados por ativos de propriedade intelectual. Se vazadas, podem ser rapidamente esgotadas dos seus limites de ativação e causar uma experiência negativa de cliente e parceiro.
+
+### <a name="next-steps"></a>Passos seguintes
+
+Reveja os seguintes recursos para instruções de utilização e orientações importantes sobre a distribuição das chaves do software:
+
+- [Vender software no local através do programa CSP](https://docs.microsoft.com/partner-center/csp-on-premise-software)
+- [Guia de operações](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf) do Centro Parceiro (Consulte a **secção de distribuição de chaves de software.)**
+
+### <a name="questions"></a>Perguntas?
+
+Se tiver mais perguntas sobre este aviso, consulte as suas comunidades Yammer relevantes.
+
+________________
+## <a name="migrate-your-deals-from-partner-sales-connect-psc-to-partner-center"></a><a name="3"></a>Migrar as suas ofertas de Partner Sales Connect (PSC) para Partner Center
+
+### <a name="categories"></a>Categorias
+
+- Data: 2021-03-04
+- Capacidades
+
+### <a name="summary"></a>Resumo
+
+A Partner Sales Connect (PSC) passará para o acesso apenas à leitura a partir de 31 de março de 2021, pelo que pedimos que comece a migrar as suas ofertas do PSC para o Partner Center.
+
+### <a name="impacted-audience"></a>Audiência impactada
+
+Parceiros com negócios no PSC
+
+### <a name="details"></a>Detalhes
+
+Como parte do nosso compromisso comum com o crescimento, **co-vender com** a Microsoft é o caminho para que **você seja descoberto, entregue a sua experiência e expanda a sua pegada de cliente** para resultados positivos do cliente. Com uma oferta média **3,5 vezes mais rápida** do que o normal, gerir a sua experiência de co-venda no Partner Center permite-lhe vender através dos canais de clientes diretos, parceiro e vendedor da Microsoft, e gerir todo o seu pipeline de referência num local.
+
+**O PSC** passará a **ter acesso apenas** a leitura a partir de 31 de março de **2021,** por isso pedimos-lhe que inicie a sua mudança para o Partner Center e aceda a estas melhorias de capacidade: 
+
+- **Encaminhamento mais preciso** das ofertas que partilha com a Microsoft para o vendedor certo, com base no tipo de assistência que necessita.
+- **Validação de elegibilidade do negócio inicial** para soluções elegíveis para incentivos e para cumprir os critérios do programa ISV Connect, simplificando o processo de aprovação e a prova final de execução (POE).
+- **Experiência de utilizador sem emenda** para gerir todas as suas oportunidades de co-venda e vendas qualificadas lidera num só local.
+
+Também adicionámos recentemente novas funcionalidades no Partner Center para ajudar no seu movimento:
+
+- [Operações a granel para co-vender oportunidades](https://docs.microsoft.com/partner-center/bulk-operations)
+- [Recurso de migração de acordo](https://docs.microsoft.com/partner-center/psc-to-pc) (ver a secção **de migração do PSC Deals.)**
+
+Utilizando a experiência de co-venda no Partner Center, as suas equipas de vendas terão mais tempo para se concentrarem em nutrir leads e oportunidades, fechar ofertas e criar relações duradouras com o cliente.
+
+### <a name="next-steps"></a>Passos seguintes
+
+Utilize o [guia de transição](https://docs.microsoft.com/partner-center/psc-to-pc) do Centro de Parceiros para o acompanhar através dos passos para migrar as suas ofertas do PSC para o Partner Center.
+
+### <a name="questions"></a>Perguntas?
+
+Para mais perguntas, contacte [o Support](https://partner.microsoft.com/support/?stage=1).
 
 ________________
 ## <a name="new-microsoft-dynamics-365-products-and-offers-available-on-april-1-2021"></a><a name="2"></a>Novos produtos e ofertas microsoft Dynamics 365 disponíveis a 1 de abril de 2021
