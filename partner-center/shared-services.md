@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 11/11/2020
-ms.openlocfilehash: 93ee3e142bf11c3b329fd27ec7320b93aea780b8
-ms.sourcegitcommit: cc30a06abe55b9da32177a24e74bfd6fc7d8bbb9
+ms.openlocfilehash: a59cf0b271a0ccf5fd5a1d8e3e85ff43818a3801
+ms.sourcegitcommit: fe867be44de3479607be3309940b904d7ea9fc6e
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "94532043"
+ms.lasthandoff: 03/06/2021
+ms.locfileid: "102247706"
 ---
 # <a name="add-azure-partner-shared-services-so-partners-can-buy-azure-subscriptions-for-their-own-use"></a>Adicione serviços partilhados azure partner para que os parceiros possam comprar subscrições Azure para seu próprio uso
 
@@ -45,7 +45,7 @@ A Azure Partner Shared Services é um novo tipo de oferta para parceiros no prog
 
 - A subscrição Azure - Serviços Internos/Partilhados é um novo tipo de oferta Azure em CSP acedido através do Partner Center que os parceiros obtêm para o seu próprio uso do Azure.
 
-- A oferta de Serviços Internos/Partilhados é elegível para descontos e incentivos.  As subscrições de Serviços Partilhados Azure Partner são elegíveis e podem ser usadas para comprar RIs.
+- As subscrições de Serviços Partilhados Azure Partner são elegíveis e podem ser usadas para comprar RIs.
 
 - A oferta Azure - Serviços Internos/Partilhados só pode ser aplicada ao arrendatário de serviços partilhados.
 
@@ -67,8 +67,8 @@ A partir de 1 de março de 2019, a Azure Partner Shared Services (APSS) já não
 
 |**Apoio ao mercado**   |**APSS apoiado antes de 1 de março de 2019**|**Depois de 1 de março de 2019**|
 |---------------------------|:----------------------------|:-------------------|
-|Traga a sua própria licença (BYOL) e serviços gratuitos   | Yes   | No|
-|Outras ofertas de mercado de terceiros   | No   |No|
+|Traga a sua própria licença (BYOL) e serviços gratuitos   | Sim   | Não|
+|Outras ofertas de mercado de terceiros   | Não   |Não|
 
 Os parceiros que tenham BYOL ou serviços gratuitos implantados através da APSS não serão afetados; no entanto, após 1 de março de 2019 não poderão adquirir novos serviços BYOL ou gratuitos.
 

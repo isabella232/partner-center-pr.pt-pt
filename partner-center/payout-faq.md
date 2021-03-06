@@ -6,13 +6,13 @@ ms.subservice: partnercenter-marketplace-publisher
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
-ms.date: 11/25/2020
-ms.openlocfilehash: a1dda9c49486d9da92b7f7f5623a37739736873f
-ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
+ms.date: 03/05/2021
+ms.openlocfilehash: 4cbbf89ef0df9c3fd1c1d4c59977a8ba34317673
+ms.sourcegitcommit: fe867be44de3479607be3309940b904d7ea9fc6e
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "98924908"
+ms.lasthandoff: 03/06/2021
+ms.locfileid: "102247659"
 ---
 # <a name="common-questions-about-payouts-and-taxes"></a>Questões comuns sobre pagamentos e impostos
 
@@ -63,7 +63,14 @@ Se a sua empresa for convidada para vários programas, poderá utilizar a mesma 
 
 #### <a name="my-tax-profile-has-expired-how-do-i-fix-this"></a>O meu perfil de impostos expirou. Como é que eu arranjo isto?
 
-Utilize os passos em [Criar ou atualizar o seu perfil fiscal](set-up-your-payout-account.md#create-or-update-your-tax-profile) para atualizar o seu perfil fiscal. Na página de **perfil do Tax,** pode ver perfis que estão caducados ou prestes a expirar na coluna **Data de Expiração.** 
+Se um perfil fiscal estiver caducado ou prestes a expirar, significa que o formulário de imposto que forneceu à Microsoft precisa de ser atualizado. Utilize os seguintes passos para atualizar o seu perfil fiscal:
+
+1. Inscreva-se no painel de [instrumentos](https://partner.microsoft.com/dashboard/home)Partner Center e, em seguida, selecione o ícone de engrenagem para abrir o menu **Definições.**
+2. Selecione **as definições de Conta,** expanda a secção **de Pagamento e Imposto** e, em seguida, selecione Payout e **tax** profile.
+3. Selecione perfil **de imposto**
+4. Verifique a **data de validade** da coluna e navegue para o perfil fiscal que está caducado ou prestes a expirar.
+5. **Selecione Editar** para lançar o processo de edição de perfil fiscal.
+6. Na secção de formulários fiscais, forneça os detalhes atualizados.
 
 ## <a name="earnings-incorrect-or-missing"></a>Ganhos incorretos ou em falta
 
@@ -201,7 +208,7 @@ Utilize a [API de Pagamento de Parceiros.](https://apidocs.microsoft.com/service
 
  **Continuar a ler** [Acordo de Editor de Mercado Comercial](https://go.microsoft.com/fwlink/p/?LinkID=699560), Detalhes da política de [pagamento,](payout-policy-details.md) [detalhes fiscais,](tax-details-marketplace.md) [limiar de pagamento, método e prazo](payment-thresholds-methods-timeframes.md)
 
-## <a name="next-steps"></a>Próximos passos
+## <a name="next-steps"></a>Passos seguintes
 
 - [Receber o pagamento](marketplace-get-paid.md)
 - [Configurar a conta de dividendos e os formulários fiscais](set-up-your-payout-account.md)

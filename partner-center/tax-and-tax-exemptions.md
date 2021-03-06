@@ -1,7 +1,7 @@
 ---
 title: Impostos regionais e isenções fiscais
 ms.topic: article
-ms.date: 12/04/2020
+ms.date: 03/05/2021
 description: Para os parceiros do programa CSP, conheça as responsabilidades fiscais por região, como apresentar isenções fiscais para as vendas de CSP e como obter apoio para questões fiscais.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,19 +9,15 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3777ea3dbf6d889787c942e584087b2378659adb
-ms.sourcegitcommit: 54c19f62474a4841d0bbd6a02a84b9c597f70fae
+ms.openlocfilehash: f423687cacb1f1b2d53750075ff7db9837e8125c
+ms.sourcegitcommit: fe867be44de3479607be3309940b904d7ea9fc6e
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/07/2020
-ms.locfileid: "96755593"
+ms.lasthandoff: 03/06/2021
+ms.locfileid: "102247679"
 ---
 # <a name="read-about-taxes-and-tax-exemption-details-by-region-or-country-for-partners-in-the-csp-program"></a>Leia sobre impostos e isenções fiscais por região ou país para parceiros no programa CSP
 
-Aplica-se a:
-
-- Partner Center
-- Centro de Parceiros do Microsoft Cloud for US Government
 
 O programa Cloud Solution Provider (CSP) é um canal de vendas focado na revenda de produtos por parceiros. Como resultado, a Microsoft nem sempre é obrigada a cobrar imposto sobre vendas em faturas de parceiros. As regras variam por país e/ou região. Pode rever [detalhes específicos de um país e específicos da região para isenções fiscais.](#country-and-region-tax-details)
 
@@ -33,7 +29,6 @@ Informações específicas relacionadas com impostos estão disponíveis para o 
 
 Se estiver noutro país ou região que cobra impostos, consulte [a informação para outras regiões.](#other-regions)
 
-Para questões adicionais, [solicite suporte no Partner Center](#support).
 
 ### <a name="canada"></a>Canadá
 
