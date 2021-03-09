@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 01/28/2021
-ms.openlocfilehash: d07555d3559b2f8dbbb15f9cfe90753e50db0c04
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.date: 03/08/2021
+ms.openlocfilehash: 103b21e92ea32f251812770d66abcd413254cb36
+ms.sourcegitcommit: 109c20a2dc71bf6ab15a3a9880807ec014eb8c67
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756288"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "102475233"
 ---
 # <a name="january-2021-announcements"></a>Anúncios de janeiro de 2021
 
@@ -313,6 +313,9 @@ ________________
 Todos os parceiros da CSP
 
 ### <a name="details"></a>Detalhes
+
+>[!NOTE]
+>Devido ao feedback do parceiro, estamos a reinstaurar a capacidade de cumprimento do Partner Center para obter chaves de software e licença para ordens de software de subscrição perpétua e servidor. Será restaurado ao seu estado anterior antes de ser removido em 19 de janeiro de 2021. Para mais informações, consulte o [anúncio de março de 2021.](https://docs.microsoft.com/partner-center/announcements/2021-march#4)
 
 Como [anunciado](https://blogs.partner.microsoft.com/mpn/general-availability-of-perpetual-software-licenses-in-the-cloud-solution-provider-program/) hoje, estamos entusiasmados em informá-lo que as licenças de software perpétuo comercial estão agora geralmente disponíveis para todos os parceiros da CSP para vender. A lista de preços perpétuos de software perpétuo do Partner Center CSP foi republicado e agora inclui produtos e geografias adicionais.
 

@@ -1,7 +1,7 @@
 ---
 title: Vender software no local através da CSP
 ms.topic: how-to
-ms.date: 03/04/2021
+ms.date: 03/08/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como os parceiros do programa CSP podem comprar, gerir, vender e cancelar subscrições de software no local em nome dos clientes no Partner Center.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6c442711a3b60f5014397b3b2d8bdfd75a852fcc
-ms.sourcegitcommit: b0734f9c9ef6c582095573eb0a73cc0c39c7e65b
+ms.openlocfilehash: 650f8085ba0e204b01f97a23640a37388ef57f17
+ms.sourcegitcommit: 109c20a2dc71bf6ab15a3a9880807ec014eb8c67
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "102220249"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "102475216"
 ---
 # <a name="sell-on-premises-software-through-the-cloud-solution-provider-csp-program"></a>Venda de software no local através do programa Cloud Solution Provider (CSP)
 
@@ -33,20 +33,29 @@ Para comprar subscrições de software em nome de um cliente, vá à página de 
 
 ## <a name="activate-and-manage-software-subscriptions"></a>Activate and manage software subscriptions (Ativar e gerir subscrições de software)
 
-Uma vez adquirido o seu software, você ou os seus clientes precisam descarregá-lo. Utilize o seguinte procedimento para o fazer.
+Depois de ter adquirido o seu software, você ou os seus clientes precisam descarregá-lo (parceiros usando Partner Center; clientes que usam o Microsoft 365 Admin Center). Utilize o seguinte procedimento para o fazer. É importante compreender os riscos associados à cópia de links e ao descarregamento de software. Para obter mais informações, consulte **o Use Partner Center para obter transferências de software de clientes e chaves de licença** no Guia de Operações do Centro Parceiro de Novos [Comércio.](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf)
 
 >[!NOTE]
->Você deve ser um agente de administração para obter o link para chaves e downloads.
+>Você deve ser um agente de administração no Partner Center para obter o link para chaves e downloads.
 
-1. Aceda à página de detalhes do seu cliente e, em seguida, **selecione Software**. Verá uma lista de todo o software que comprou em nome do cliente.
-2. Siga as instruções dentro do [Guia de Operações](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf) do Parceiro para concluir o cumprimento da sua compra de software em nome do cliente.
+1. Aceda à página de detalhes do seu cliente e, em seguida, selecione **Software**. Verá uma lista de todo o software que comprou em nome do cliente.
+
+2. Escolha **a versão do** produto, **idioma,** **bit**, e selecione **Obter teclas e downloads**. 
+
+3. Escolha **a Chave Get** que irá exibir o produto de 32 dígitos num diálogo pop-up que pode copiar e enviar ao cliente. 
+
+4. Escolha **baixar** para baixar as partes. 
+
+5. Escolha **Copy Link** se quiser enviar ao cliente o link para o download de bits. 
+
+6. Também pode **cancelar** a encomenda de software e receber 100% de crédito (se for feito dentro do período de 60 dias de política de cancelamento).
 
 >[!NOTE]
->Apenas os clientes podem ver as chaves do produto e descarregar informações no Microsoft Admin Center. Os parceiros não podem ver esta informação.
+>Apenas os clientes têm acesso para ver as chaves do produto e descarregar informações no Microsoft 365 Admin Center (função global de administração necessária). Os parceiros devem usar o Partner Center para ver esta informação.
 
 ## <a name="cancel-a-purchase"></a>Cancelar uma compra
 
-Utilize o seguinte procedimento para cancelar uma compra. Uma vez que o cancelamento esteja concluído, a chave de software será revogada. 
+Utilize o seguinte procedimento para cancelar uma compra. Uma vez que o cancelamento esteja concluído, a chave de software será revogada.
 
 >[!NOTE]
 >Deve ser um agente administrativo para cancelar uma compra. 

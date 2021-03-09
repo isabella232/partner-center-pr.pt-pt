@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 09/30/2020
-ms.openlocfilehash: 65f0d6a25811928a3639dc2ac6bacae31293e58f
-ms.sourcegitcommit: 410f8ef9a5b944b454b1980cd1eb796fbdb4e6ea
+ms.date: 03/08/2021
+ms.openlocfilehash: b8fd7fdea5cfbbc43826e7ebe05eeca11b5fddc4
+ms.sourcegitcommit: 109c20a2dc71bf6ab15a3a9880807ec014eb8c67
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "98705016"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "102475284"
 ---
 # <a name="september-2020-announcements"></a>Anúncios de setembro de 2020
 
@@ -36,6 +36,9 @@ Todos os parceiros de cloud solution partner (CSP) que transcam ofertas de softw
 
 ### <a name="details"></a>Detalhes
 
+>[!NOTE]
+>Devido ao feedback do parceiro, estamos a reinstaurar a capacidade de cumprimento do Partner Center para obter chaves de software e licença para ordens de software de subscrição perpétua e servidor. Será restaurado ao seu estado anterior antes de ser removido em 19 de janeiro de 2021. Para mais informações, consulte o [anúncio de março de 2021.](https://docs.microsoft.com/partner-center/announcements/2021-march#4)
+
 Hoje em dia, os parceiros podem usar o Partner Center ou o Microsoft 365 Admin Center para descarregar software e cumprir as chaves de licença para as ordens de software CSP. A partir de 19 de janeiro de **2021,** o software do Partner Center e a capacidade de cumprimento da chave de licença serão retirados, e os parceiros apontarão os clientes para usar o **Microsoft 365 Admin Center** exclusivamente para o efeito. A página de Software do Cliente dentro do Partner Center conterá uma "ligação profunda" ao Microsoft 365 Admin Center onde pode apontar clientes para obter as licenças de clientes e transferências de software. Isto ajuda a garantir a experiência mais segura e eficiente para os clientes.
 
 Chaves de licença de software e links de descarregamento são valiosos e ativos de propriedade intelectual altamente procurados. Se vazadas, podem ser rapidamente esgotadas dos seus limites de ativação e causar uma experiência negativa de cliente e parceiro. Por isso, é fundamental que os parceiros utilizem a tecnologia mais segura e as melhores práticas para ajudar a salvaguardar estes valiosos ativos e proteger os seus clientes.
@@ -44,7 +47,7 @@ Chaves de licença de software e links de descarregamento são valiosos e ativos
 
 O Microsoft 365 Admin Center melhora a entrega segura de software adquirido e permite que os clientes gerem as suas subscrições e self-service à sua conveniência, melhorando a experiência do cliente. Reduz os riscos associados à cópia e envio de chaves de licença diretamente ao cliente, como poderia ser o caso usando o Partner Center. Como medida de segurança adicional, todas as atividades de parceiro para aceder e entregar chaves de software e downloads são rastreadas no Registo de Atividade do Centro de Parceiros. Com esta funcionalidade de registo de atividade, os parceiros podem rastrear o acesso interno do utilizador para criar encomendas, obter chaves e downloads, e ter mais controlo e reduzir o risco potencial de fraude.
 
-### <a name="next-steps"></a>Próximos passos
+### <a name="next-steps"></a>Passos seguintes
 
 - Saiba mais sobre o software do Microsoft 365 Admin Center, analisando a [visão geral,](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3) [tarefas comuns](/microsoft-365/admin/admin-overview/about-the-admin-center?view=o365-worldwide&preserve-view=true) e [capacidades de cumprimento das chaves da licença.](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf)
 
@@ -70,7 +73,7 @@ Todos os parceiros nos programas CSP e Open
 
 O programa CSP da Microsoft cresceu exponencialmente, com mais de 90.000 empresas participantes. É o nosso principal movimento de vendas de parceiros para pequenas e médias empresas, e para clientes corporativos mais pequenos dentro da nova experiência de comércio. Aproveitando este ímpeto, anunciamos hoje que estamos a expandir oportunidades para parceiros no programa CSP. Os detalhes estão no [nosso blog post partner.](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/)
 
-### <a name="next-steps"></a>Próximos passos
+### <a name="next-steps"></a>Passos seguintes
 
 - Reveja o [post de blog](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/) do parceiro e partilhe a informação com as pessoas relevantes da sua organização.
 
@@ -152,7 +155,7 @@ Além das melhorias descritas anteriormente, estamos entusiasmados por anunciar 
 >[!Note]
 > A Microsoft reserva-se o direito de rever o estado de qualquer cliente ou cliente proposto como utilizador educacional qualificado. Consulte os [Requisitos de Utilização académica qualificada](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7) para a educação para obter todos os detalhes. 
 
-## <a name="next-steps"></a>Próximos passos
+## <a name="next-steps"></a>Passos seguintes
 
 - Reveja as melhorias do processo de validação do processo de validação do cliente do Partner Center Education nos recursos de prontidão de operações para conhecer a nova [Interface de Utilizador do Centro de Parceiros, alterações de API e Guia de Testes.](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/) 
 
@@ -466,7 +469,7 @@ Nota: As capacidades de compra de self-service não estão atualmente disponíve
 Poderá oferecer os seus serviços a indivíduos e equipas sem precisar de passar por um processo centralizado de aquisição de TI para obter licenças necessárias. Os seus serviços podem abranger o Project e o Visio, com base em cenários de integração com a Microsoft 365 e a Power Platform. Os clientes também podem tentar antes de comprar com ensaios Visio e Project, disponíveis agora para [Visio Plan 1 e Visio Plan 2](https://partner.microsoft.com/resources/collection/visio-availability-announcing-trial-offers#/), e [Projeto Plano 1](https://www.microsoft.com/microsoft-365/project/compare-microsoft-project-management-software).
 
 
-### <a name="next-steps"></a>Próximos passos
+### <a name="next-steps"></a>Passos seguintes
 
 - Reveja todos os recursos de prontidão na galeria de recursos de prontidão de operações: [Capacidade de compra de autosserviço do cliente.](https://partner.microsoft.com/resources/collection/customer-self-serve-purchase#/) -Saiba mais sobre oportunidades de parceiros com soluções Visio e Power Platform na sessão Microsoft Inspire [Reconstruir e reimaginar negócios com a Microsoft Visio e a Power Platform.](https://www.microsoft.com/microsoft-365/partners/videos/inspire-visio-power-platform)
 - Consulte o [guia de administração de autosserviço](/microsoft-365/commerce/subscriptions/manage-self-service-purchases-admins?preserve-view=true&view=o365-worldwide) para obter informações adicionais.
@@ -516,7 +519,7 @@ A partir de 1 de outubro de 2020:
    |Capacidade extra do conector de gráficos|9c8b008f-d84f-46cd-a588-fea84947161d|1LA-00002|
    |Capacidade de conector de gráfico extra para docentes|0e0eb210-86e7-4038-9905-4fd5bf71c4bd|1TL-00003|
 
-### <a name="next-steps"></a>Próximos passos
+### <a name="next-steps"></a>Passos seguintes
 
 - Reveja os recursos para este tópico e partilhe-os com as partes interessadas apropriadas na sua organização.
 - Se tiver alguma dúvida sobre estas ofertas, consulte as suas comunidades Yammer relevantes.
@@ -549,7 +552,7 @@ Foram adicionadas melhorias para os Incentivos aos Parceiros para melhorar a sua
 - Novas questões de deteção de problemas estão disponíveis para todos os tópicos de autoajuda. A conclusão destas questões reduz grande parte do back-and-forth no início do bilhete de apoio, fornecendo ao agente muitos dos detalhes importantes à frente.
 
 
-### <a name="next-steps"></a>Próximos passos
+### <a name="next-steps"></a>Passos seguintes
 
 - Partilhe esta informação com outros da sua organização. 
 - Utilize a nova experiência de suporte via [Partner Center](https://aka.ms/IncentivesSupport) ou na Microsoft [Partner Network](https://partner.microsoft.com/support/?stage=1) para todos os seus requisitos de suporte a Incentivos. 
@@ -606,7 +609,7 @@ No dia 1 de outubro de 2020, novas ofertas adicionais para ofertas de Business C
 
 Reveja o separador **Ambientes Adicionais** no [documento Dynamics CSP Offers-October 2020 Excel](https://partner.microsoft.com/resources/detail/microsoft-dynamics-365-new-ids-offers-csp-october-2020-xls) para os detalhes do ID da oferta.
 
-### <a name="next-steps"></a>Próximos passos
+### <a name="next-steps"></a>Passos seguintes
 
 Partilhe esta atualização com os contactos relevantes na sua organização.
 
@@ -656,7 +659,7 @@ O Call Plan está atualmente disponível na Bélgica, Canadá, França, Alemanha
    |Microsoft 365 Plano de Chamada Doméstica (120 min) para estudantes|353d7f89-2e6f-4deb-9145-80f281a782ab|AAD-11641|
    |Microsoft 365 Plano de Chamada Doméstica (120 min) para docentes|80fc6c74-cc94-478d-97b0-8455593a5987|AAD-11640|
 
-### <a name="next-steps"></a>Próximos passos
+### <a name="next-steps"></a>Passos seguintes
 
 Reveja os recursos sobre este tema e partilhe esta informação com as partes interessadas apropriadas na sua organização.
 
@@ -681,7 +684,7 @@ Detalhes da oferta do produto:
 - Nome da oferta: Microsoft Defender ATP para Servidores para Educação
 - ID da oferta: c7b9ab7e-8f80-4b4b-8aed-dcad61f2899
 
-### <a name="next-steps"></a>Próximos passos
+### <a name="next-steps"></a>Passos seguintes
 
 - Partilhe esta informação com os contactos adequados na sua organização.
 - Leia a [documentação ATP do Microsoft Defender](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection) para obter mais informações sobre o produto.
