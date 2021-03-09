@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 03/08/2021
-ms.openlocfilehash: 103b21e92ea32f251812770d66abcd413254cb36
-ms.sourcegitcommit: 109c20a2dc71bf6ab15a3a9880807ec014eb8c67
+ms.openlocfilehash: 71deeb121fdc8b95499a7f12e08f2d116c370c7c
+ms.sourcegitcommit: 6e505d043d54e36cade511cb4b803eae64c63ff0
 ms.translationtype: MT
 ms.contentlocale: pt-PT
 ms.lasthandoff: 03/09/2021
-ms.locfileid: "102475233"
+ms.locfileid: "102514124"
 ---
 # <a name="january-2021-announcements"></a>Anúncios de janeiro de 2021
 
@@ -330,6 +330,12 @@ Note também que a partir de hoje o software do Partner Center e a capacidade de
 ### <a name="questions"></a>Perguntas?
 
 Para mais perguntas, verifique as suas comunidades CSP Yammer relevantes.
+
+### <a name="change-log"></a>Alterar Registo:
+
+- 19 de janeiro de 2021: Publicação original 
+
+- 5 de março de 2021: Nota adicional no topo sobre a reintegração do software partner Center e capacidade de cumprimento chave de licença
 
 _____________
 ## <a name="reminder-introducingapithrottlingtopartners-calling-partner-centerapis"></a><a name="9"></a> Lembrete: Introdução do estrangulamento da API aos parceiros que chamam APIs do Partner Center 
