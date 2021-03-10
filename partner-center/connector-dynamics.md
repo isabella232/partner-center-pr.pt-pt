@@ -8,12 +8,12 @@ description: Sincronizar referências no Partner Center com o seu conector de co
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 10062fd20e3553856d8b595efd3224ff456c2c49
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 3724b53f527ebe294590c09d7ad77d0dbcfd9c34
+ms.sourcegitcommit: 5e9ca304cce4575eed05ca3b17fb77c9711402a5
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756804"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "102532082"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm--overview"></a>Conector de co-venda para Dynamics 365 CRM – Visão geral
 
@@ -104,7 +104,7 @@ Antes de instalar, configurar e personalizar a solução Power Automamate no amb
      
       7. Uma vez adicionadas todas as Ligações, deverá ver as seguintes Ligações no seu ambiente:
 
-:::image type="content" source="images/cosellconnectors/dynamics-2.png" alt-text="Ligações":::
+         :::image type="content" source="images/cosellconnectors/dynamics-2.png" alt-text="Ligações":::
    
 ## <a name="edit-the-connections"></a>Editar as ligações
 
@@ -141,7 +141,7 @@ As APIs do Partner Center Webhook permitem-lhe registar-se para eventos de alter
 
 3. Selecione o ícone **Copy** para copiar o URL HTTP POST fornecido.
 
- :::image type="content" source="images/webhook-video.gif" alt-text="Use webhooks para registar alterações de recursos":::
+   :::image type="content" source="images/webhook-video.gif" alt-text="Use webhooks para registar alterações de recursos":::
 
 4. Selecione o fluxo de automatização do "Partner Center Webhook "Insider Preview)" e, em seguida, selecione **Executar**.
 
@@ -205,7 +205,7 @@ Para atualizar um valor variável ambiental:
 
 3. Atualizar **Valor Corrente** (não atualizar Valor Predefinido) utilizando nova opção de **valor** e fornecer o valor. O valor deve coincidir com o tipo de Dados da variável para, por exemplo, Sim/Nenhum tipo de dados aceitará ou sim ou não.
 
-:::image type="content" source="images/environment-variables-video.gif" alt-text="Atualizar variáveis ambientais":::
+ :::image type="content" source="images/environment-variables-video.gif" alt-text="Atualizar variáveis ambientais":::
 
 - Sincronização de co-venda bidis de ponta a ponta
 
