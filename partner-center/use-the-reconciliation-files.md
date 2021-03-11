@@ -1,7 +1,7 @@
 ---
 title: Use os seus ficheiros de reconciliação
 ms.topic: article
-ms.date: 06/08/2020
+ms.date: 03/10/2021
 description: Conheça os ficheiros de reconciliação no Partner Center e como interpretar as vistas detalhadas e de item de linha das taxas para um determinado ciclo de faturação.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,19 +9,14 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d927b138c32b3e5f6f5d906db898e17f89a85aae
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: e6b9e466402d71c988729052bd72ba2346a9d977
+ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101755769"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "103022779"
 ---
 # <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>Saiba como ler os itens de linha nos ficheiros de reconciliação do Partner Center
-
-Aplica-se a:
-
-- Partner Center
-- Centro de Parceiros do Microsoft Cloud for US Government
 
 **Funções adequadas**
 
@@ -72,7 +67,7 @@ Para mapear impostos ou imposto sobre o valor acrescentado (IVA) na sua fatura:
 
 Os parceiros no **modelo indireto** podem utilizar estes campos adicionais em ficheiros de reconciliação baseados em licenças e uso para itemizar os ficheiros por revendedor.
 
-| ID do MPN | Descrição |
+| ID do MPN | Description |
 | ------ | ----------- |
 | ID do MPN | O identificador da Microsoft Partner Network (MPN) do parceiro Cloud Solution Provider (CSP) (direto ou indireto). |
 | [Revendedor MPN ID](#reseller-mpn-id) | O [identificador MPN do revendedor de registos para a subscrição](#reseller-mpn-id). Este campo corresponde ao ID revendedor listado para a subscrição específica no Partner Center. Só aparece em ficheiros de reconciliação para parceiros no modelo indireto. |

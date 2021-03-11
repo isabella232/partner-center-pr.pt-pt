@@ -6,17 +6,17 @@ description: Saiba como verificar os detalhes da sua empresa, como contacto prim
 author: parthpandyaMSFT
 ms.author: parthp
 ms.topic: how-to
-ms.date: 03/03/2021
+ms.date: 03/10/2021
 ms.localizationpriority: medium
 ms.custom: contperf-fy21q3
-ms.openlocfilehash: 7593ddab8d495e3edc67cb89255c9c7cba4772d3
-ms.sourcegitcommit: b0734f9c9ef6c582095573eb0a73cc0c39c7e65b
+ms.openlocfilehash: 5ade6d7c587561cc1af4a7645d1e4b0cce9a505e
+ms.sourcegitcommit: 26095af7950817099764bf47370cb3e77e0dce7c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "102220272"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "102770248"
 ---
-# <a name="verify-your-company-profile-information-in-partner-center"></a>Verifique as informações do perfil da sua empresa no Partner Center
+# <a name="verify-or-update-your-company-profile-information"></a>Verifique ou atualize as informações do perfil da empresa 
 
 **Funções adequadas**
 
@@ -26,7 +26,6 @@ ms.locfileid: "102220272"
 A primeira vez que assinar no Partner Center como administrador global, deve confirmar que todos os detalhes da sua empresa estão corretos. Estes incluem contacto primário, nome e endereço de negócios legais e informações do programa. Se a sua empresa tiver mais de uma localização, reveja os seus dados de localização para obter uma precisão. Como administrador global, administrador de faturação ou agente administrativo, também poderá ver e atualizar a sua faturação e informação fiscal.
 
 O seu perfil de parceiro consiste na informação de negócios legal, nome de contacto primário e e-mail, nos programas em que a sua empresa participa e, se relevante, das suas outras empresas que estão agora fundidas no âmbito do seu negócio legal. Certifique-se de que o nome e endereço da Empresa no seu perfil de negócio legal estão isentos de erros ortográficos e abreviaturas e corresponda exatamente aos seus registos formais de registo comercial da empresa. Se estiver a operar como proprietário único, tem de usar o nome da sua empresa como nome legal.
-
 
 
 ## <a name="locate-the-legal-business-profile"></a>Localize o perfil de negócio legal
@@ -39,22 +38,37 @@ O seu perfil de parceiro consiste na informação de negócios legal, nome de co
 
 Se fundiu as suas outras empresas no âmbito do seu negócio legal, também pode rever essa informação. 
 
-## <a name="update-your-legal-business-profile"></a>Atualize o seu perfil de negócio legal
+## <a name="update-your-legal-business-profile"></a>Atualize o seu perfil de negócio legal 
 
-Atualize o seu endereço legal no Partner Center.
+Atualize o nome ou endereço da sua empresa legal no Partner Center.
 
 >[!Important]
 >- Para as contas MPN, tanto o administrador global como o administrador de conta podem atualizar o nome da empresa legal.
 >- Para as contas de revendedor indireto CSP, apenas o administrador Global pode atualizar o nome da empresa legal. 
+>- Os sócios da Direct Bill e os fornecedores indiretos não podem alterar o nome legal da sua empresa se o estado de verificação da conta for **autorizado.** Se precisar de alterar o nome, tem de criar um [bilhete De Apoio.](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772)
 
-1. Vá a **Definições** e selecione **perfil de Organização**.
 
-2. Selecione **Legal**  e, em seguida, selecione o perfil de negócio legal que pretende usar.
+
+1. Vá a **Definições,** **Definições de Conta** e selecione **o perfil da Organização**.
+
+2. Selecione **Legal**  e, em seguida, selecione o perfil de negócio legal (Parceiro ou Revendedor) que pretende atualizar.
+
+1. Clique em **Atualização**  ao lado do nome/endereço da empresa e altere os detalhes.
  
-1. Quando selecionar Enviar por **email** o artigo Submeter-se, a sua identidade legal será reavaliada e receberá outro e-mail que terá de aceitar.
+1. Quando selecionar **Enviar por ela,** a sua identidade legal será reavaliada.
+
+1. Se a verificação falhar, aprenda a [corrigir o problema](verification-responses.md).
 
 >[!Important]
->Se é um parceiro do Cloud Solution Provider (CSP), não pode alterar o país associado ao seu endereço legal. O seu país de endereço legal está ligado ao seu inquilino e serviços, bem como à moeda com que negoceia. Os sócios da Direct Bill e os fornecedores indiretos não podem alterar o nome legal da sua empresa se o estado de validação for "Autorizado". Se precisar de alterar o nome, terá de [criar um bilhete de Apoio.](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772)
+>Se é um parceiro do Cloud Solution Provider (CSP), não pode alterar o país associado ao seu endereço legal. O seu país de endereço legal está ligado ao seu inquilino e serviços, bem como à moeda com que negoceia. Para saber mais sobre as atualizações do país da MPN, leia  [as atualizações do país da MPN](manage-locations.md#change-country-of-partner-global-account).
+
+
+### <a name="who-can-update-legal-business-name-and-when"></a>Quem pode atualizar o nome legal do negócio e quando
+
+|**Programa**|**Quem pode atualizar o nome da empresa**|**Quando (estado) pode ser atualizado**|**Permitido**|
+|---------------------|:-------------------------------|:------------|:-----------------|
+MPN|Administração global; Administrador de conta|Autorizado; pendente; rejeitado| Permitido|
+|CSP: Revendedor indireto|Administrador global|Autorizado; pendente; rejeitado| Permitido|
 
 
 ## <a name="update-your-mpn-global-business-account"></a>Atualize a sua Conta Global de Negócios MPN
@@ -78,7 +92,6 @@ Para atualizar o ID MPN associado à sua conta CSP:
 ## <a name="update-your-csp-legal-billing-address"></a>Atualize o seu endereço de faturação legal CSP
 
 Se você é o administrador global, administrador de faturação ou agente administrativo, pode alterar o endereço que aparece na sua fatura no seu **perfil de pagamento e imposto**. No entanto, não poderá alterar o nome da empresa na fatura devido a uma limitação do sistema de faturas.
-
 
 
 ## <a name="next-steps"></a>Passos seguintes

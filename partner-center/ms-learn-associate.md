@@ -9,12 +9,12 @@ author: kbangalore
 ms.author: kiranban
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9828c791cf1b1ee99eb8a23ec84869472a2c8114
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 515a35584d8c31538b6722a282c53181c7809420
+ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756572"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "103022728"
 ---
 # <a name="link-or-unlink-a-microsoft-certification-profile-id-mcid-to-a-microsoft-partner-network-mpn-account"></a>Ligue ou desvincula um ID de perfil de certificação da Microsoft (MCID) a uma conta da Microsoft Partner Network (MPN)
 
@@ -33,8 +33,7 @@ Use o procedimento abaixo para ter acesso à Partner University.
 
 1. Inicie sessão no [dashboard do Centro de Parceiros](https://partner.microsoft.com/dashboard/).
 2. Selecione o ícone azul **My Profile** no canto superior direito
-3. No campo **De Aprendizagem,** selecione **Get Partner University Access**.
-A sua conta da Universidade Partner será agora associada à sua conta de utilizador do Partner Center. As suas avaliações serão refletidas no relatório de Competências do Utilizador do Centro de Parceiros dentro de 72 horas. As avaliações recentemente aprovadas podem demorar 7 a 10 dias a refletir no relatório.
+3. No campo **De Aprendizagem,** selecione **Get Partner University Access**. Tem de introduzir as credenciais de conta da Partner University (não a sua conta de centro de parceiros) A sua conta de universidade partner estará agora associada à sua conta de utilizador do Partner Center. As suas avaliações serão refletidas no relatório de Competências do Utilizador do Centro de Parceiros dentro de 72 horas. As avaliações recentemente aprovadas podem demorar 7 a 10 dias a refletir no relatório.
 4. Para remover a associação, selecione **Remover o acesso**.
 
 ## <a name="associate-a-microsoft-learning-account"></a>Associar uma conta microsoft learning
@@ -47,6 +46,10 @@ Utilize o seguinte procedimento para associar uma conta Microsoft Learning.
 
 >[!NOTE]
 >Se as credenciais de conta microsoft Learning forem as mesmas que as credenciais de conta da Partner University, selecione **Use para associar a minha conta Microsoft email@address Learning**.
+
+## <a name="download-skills-report-microsoft-certification-list"></a>Relatório de competências de descarregamento (lista de certificação da Microsoft)
+Se precisar de detalhes, o relatório de competências pode ser acedido e descarregado por qualquer Administrador Global ou MPN Partner Admin do Partner Center. Para [saber mais.](https://docs.microsoft.com/partner-center/mpn-skills-report#view-skills-report-data)
+
 
 ## <a name="frequently-asked-questions-about-linking-accounts"></a>Perguntas frequentes sobre a ligação de contas
 

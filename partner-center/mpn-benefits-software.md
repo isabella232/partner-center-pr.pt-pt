@@ -9,12 +9,12 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c3632d66dbbdf4f0f8eb93439325427b8319b955
-ms.sourcegitcommit: fe867be44de3479607be3309940b904d7ea9fc6e
+ms.openlocfilehash: b559c1e8493c274204f1bdd219eae8bab994953e
+ms.sourcegitcommit: d7fbaff51c7ac29fbf700d7f7fdef798fd97c6fa
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/06/2021
-ms.locfileid: "102251079"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "102619380"
 ---
 # <a name="mpn-benefits---software"></a>Benefícios MPN - Software
 
@@ -33,7 +33,7 @@ Selecione o produto de interesse do software e encontre as instruções específ
 
 Se um produto necessitar de uma chave de produto para a instalação, será solicitado que introduza uma chave do produto durante o processo de instalação. Você pode obter a partir do mesmo painel no Partner Center onde você escolheu a versão do software que você quer baixar.
 
-A ativação do produto é necessária para **o servidor do Windows** e **sistemas operativos** do cliente e **todas as aplicações do cliente do Microsoft Office**. Nem todos os produtos requerem ativação do produto.
+A ativação do produto é necessária para o **Windows Server** e **sistemas operativos** do cliente e **todas as aplicações do cliente do Microsoft Office.** Nem todos os produtos requerem ativação do produto.
 
 :::image type="content" source="images/benefits/mpn-software-benefits-1.png" alt-text="Benefícios do produto de software disponíveis no MPN." border="false":::
 

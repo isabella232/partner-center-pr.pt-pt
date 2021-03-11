@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 3d163271329e2f2a117d7df3abcf9b31f2c4979f
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 4c4b3a9a71027f5fb02bc29566c20c214e3df371
+ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101755869"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "103022813"
 ---
 # <a name="view-your-incentives-program-details"></a>Ver os detalhes do programa de incentivos
 
@@ -22,18 +22,17 @@ ms.locfileid: "101755869"
 
 - Administrador de incentivos
 - Utilizador de incentivos
-- Espectador só de leitura de incentivo
 - Administrador global
 - Administrador do Parceiro MPN
 
-Este artigo explica como aceder à página de visão geral dos **meus incentivos,** que mostra o estado geral dos seus programas de incentivo, bem como o estado de cada programa em cada local. Também dá os diferentes estatutos de inscrição. 
+Este artigo explica a página **de visão geral** dos meus incentivos, que mostra o estado geral dos seus programas de incentivo, bem como o estado de cada programa em cada local. Também dá os diferentes estatutos de inscrição.
 
 >[!NOTE]
 >Para obter mais informações sobre incentivos e funcionalidades de incentivo no Partner Center, consulte [Investimentos e Incentivos de Parceiros](https://partner.microsoft.com/membership/partner-incentives) (pedido de inscrição).
 
 ## <a name="access-the-incentives-overview-page"></a>Aceda à página geral dos incentivos
 
-1. Inscreva-se no painel do [Centro de Parceiros.](https://partner.microsoft.com/dashboard)
+1. Inicie sessão no [dashboard do Centro de Parceiros](https://partner.microsoft.com/dashboard).
 1. Selecione **Incentivos,** em **seguida, visão geral** do menu.
 1. Veja o resumo dos ganhos e dos pagamentos na parte superior da página e mais detalhes na tabela abaixo. Também pode classificar, agrupar e expandir a tabela que o acompanha:
 
