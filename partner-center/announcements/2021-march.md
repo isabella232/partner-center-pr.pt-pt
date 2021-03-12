@@ -8,17 +8,51 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/09/2021
-ms.openlocfilehash: 2f3fd11125619ca3eaf3e0c870f5460a0abe2b4d
-ms.sourcegitcommit: d7fbaff51c7ac29fbf700d7f7fdef798fd97c6fa
+ms.date: 03/11/2021
+ms.openlocfilehash: 479f18318a2cc85ca16c399a0379e5528090d229
+ms.sourcegitcommit: ddb9ad42d7bd8fb433d86f84a839f793a42600dd
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "102619448"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "103193635"
 ---
 # <a name="march-2021-announcements"></a>Anúncios de março de 2021
 
 Esta página fornece os anúncios para o Microsoft Partner Center para março de 2021.
+
+________________
+## <a name="migrate-your-solutions-from-one-commercial-partner-ocp-go-to-market-gtm-to-the-microsoft-commercial-marketplace"></a><a name="6"></a> Migrar as suas soluções de One Commercial Partner (OCP) go-to market (GTM) para o mercado comercial da Microsoft
+
+### <a name="categories"></a>Categorias
+
+- Data: 2021-03-12
+- Capacidades
+
+### <a name="summary"></a>Resumo
+
+A partir de 29 de março de 2021, começará a experimentar capacidades limitadas de um Parceiro Comercial (OCP) no mercado (GTM). Encorajamo-lo a migrar as suas soluções para o mercado comercial no Partner Center.
+
+### <a name="impacted-audience"></a>Audiência impactada
+
+Organizações co-vendem com soluções no OCP GTM
+
+### <a name="details"></a>Detalhes
+
+Em dezembro de 2020, iniciámos a nossa viagem desde a ferramenta Microsoft OCP GTM até ao mercado comercial da Microsoft no Partner Center. Esta transição expande as capacidades do mercado comercial onde pode mostrar as suas soluções a milhões de clientes, partilhar oportunidades bidirecionalmente com outros vendedores da Microsoft e parceiros e vender soluções inovadoras em conjunto.
+
+O próximo marco na transição terá lugar no dia 29 de março de 2021. É aí que começará a experimentar capacidades limitadas de OCP GTM, com alguns campos a tornarem-se apenas para ler. Se está atualmente a co-vender com soluções no OCP GTM, encorajamo-lo a migrar as suas soluções para o mercado comercial para tirar partido das suas capacidades e simplificar a sua experiência de publicação. 
+
+Mudar-se para o mercado comercial faz do Partner Center o principal destino da experiência de co-venda. É onde pode continuar a crescer o seu negócio ligando as suas soluções aos nossos clientes partilhados através dos mesmos canais e experiências no produto que usamos para produtos da Microsoft. [Saiba mais sobre o mercado comercial.](https://blogs.partner.microsoft.com/mpn/getting-started-with-the-microsoft-commercial-marketplace/)
+
+### <a name="next-steps"></a>Passos seguintes
+
+- Se ainda não mexeu nas suas soluções, siga as instruções detalhadas no guia de [transição](https://docs.microsoft.com/azure/marketplace/co-sell-solution-migration) ou veja o [tutorial de vídeo passo a passo](https://partner.microsoft.com/asset/detail/ocp-gtm-to-the-microsoft-commercial-marketplace-mp4) para completar todas as atividades de migração e começar a publicar as suas soluçãos no mercado comercial.
+
+- Para questões relacionadas com a experiência de capacidade limitada no OCP GTM, consulte os [requisitos de Co-venda para publicar no mercado comercial da Microsoft FAQ](https://partner.microsoft.com/resources/detail/co-sell-requirements-publish-commercial-marketplace-faq-pdf). (Ver a secção "OCP GTM limited capabilities starting March 29, 2021.")
+
+### <a name="questions"></a>Perguntas?
+
+[Contacte o Suporte](https://partner.microsoft.com/support/?stage=1) se tiver alguma dúvida ou precisar de mais informações.
 
 ________________
 ## <a name="expanding-the-new-commerce-experience-in-the-cloud-solution-provider-csp-program-for-azure-to-russia"></a><a name="5"></a>Expandir a nova experiência de comércio no programa Cloud Solution Provider (CSP) para o Azure à Rússia

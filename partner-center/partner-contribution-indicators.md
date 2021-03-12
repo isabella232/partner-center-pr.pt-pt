@@ -1,7 +1,7 @@
 ---
 title: Indicadores de contribuição dos parceiros - CBA
 ms.topic: article
-ms.date: 02/26/2021
+ms.date: 03/11/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba mais sobre sete Indicadores de Contribuição de Parceiros (PCI) que mostram aos parceiros como obter uma competência de Aplicações empresariais cloud prateadas ou douradas.
@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 53711ce9c480c195886096f0445c048307bee9db
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: b9a70d723c3b12bfcf279f63da3ab22f8a8d1601
+ms.sourcegitcommit: ddb9ad42d7bd8fb433d86f84a839f793a42600dd
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756558"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "103193652"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-cloud-business-applications-competency"></a>Utilizar indicadores de contribuição de parceiros para atingir a competência de Aplicações empresariais em nuvem
 
@@ -274,11 +274,11 @@ Um parceiro tem uma de duas opções para alcançar os pontos de tudo ou nada (1
 
 - **Não serão atribuídos pontos parciais.** O crescimento em cima do instantâneo de base deve cumprir ou exceder os limiares indicados no quadro seguinte. A tabela mostra uma coluna **desenvolvida** e **em desenvolvimento** com a linha de base de consultor funcional necessária para ser elegível para ganhar pontos.
 
-  | Desenvolvido | Desenvolvimento | Crescimento necessário para ganhar todos os 15 pontos*
+  | Desenvolvido | Desenvolvimento | Crescimento necessário para ganhar todos os 15 pontos
   |:---:|:---:|:---:|
   | 15-29 | 5-14 | 35% |
   | 30-49 | 15-24 | 25% |
-  | 50 ou mais | 25 e acima | 15% |
+  | 50 ou mais | 25 e acima | Ver opções abaixo |
 
 **Opção dois para obter pontos:**
 
