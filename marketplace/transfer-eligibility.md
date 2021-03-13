@@ -1,17 +1,17 @@
 ---
 title: Elegibilidade de transferência – Orientações para a transferência de uma subscrição entre contas de faturação, Azure Marketplace
 description: Diretrizes para verificações comerciais antes de transferir uma subscrição entre contas de faturação no portal Azure.
-ms.prod: marketplace-customer
+ms.service: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: a6a3c8954643ea982ae5107ae417a900ed51e77d
-ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
+ms.openlocfilehash: 4b235bd462915fc205813ae86e92f98b4fd49fe4
+ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "95007602"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "103412561"
 ---
 # <a name="transfer-eligibility-for-a-subscription-between-billing-accounts"></a>Elegibilidade de transferência para uma subscrição entre contas de faturação
 
@@ -31,7 +31,7 @@ Não é possível transferir uma subscrição se alguma das suas aplicações de
 
 Uma transferência bloqueada permanece em vigor até remover o recurso da subscrição, após o qual pode tentar a transferência novamente.
 
-## <a name="next-steps"></a>Próximos passos
+## <a name="next-steps"></a>Passos seguintes
 
 [Obtenha suporte para Microsoft AppSource e Azure Marketplace](get-support.md)
 

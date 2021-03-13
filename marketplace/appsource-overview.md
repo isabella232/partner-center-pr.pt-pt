@@ -1,17 +1,17 @@
 ---
 title: Visão geral do Microsoft AppSource
 description: Conheça a loja online microsoft AppSource e como pode encontrar e extenso catálogo de software e soluções.
-ms.prod: marketplace-customer
+ms.service: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: 5c89ef94977882b72563763744c6437c6c7f368a
-ms.sourcegitcommit: 79e45aa581ad7785e2417660ed6c73689988f58b
+ms.openlocfilehash: 6e0ca8e63276d63230b3862d7618ad0c649d8ffe
+ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "98759863"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "103412527"
 ---
 # <a name="what-is-microsoft-appsource"></a>O que é o Microsoft AppSource?
 
@@ -65,6 +65,6 @@ Os utilizadores de Admin microsoft 365 podem implementar tanto o SaaS como os ad
 
 Em cada página de listagem, encontrará classificações e comentários de outros clientes. As classificações usam uma escala de cinco estrelas, e a classificação média é exibida em cada cartão de oferta. As avaliações verbatim também estão disponíveis para que possa conhecer as experiências de outros clientes. Uma vez adquirida uma solução, também pode deixar uma classificação e revisão para ajudar outros clientes a tomar decisões.
 
-## <a name="next-steps"></a>Próximos passos
+## <a name="next-steps"></a>Passos seguintes
 
 - [Comprar software no Microsoft AppSource](purchase-software-appsource.md)
