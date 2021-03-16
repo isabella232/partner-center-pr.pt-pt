@@ -5,43 +5,54 @@ ms.service: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
-ms.date: 11/20/2020
-ms.openlocfilehash: 5fbcb4809f13081479078be9cff07cbf65e1f91a
-ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
+ms.custom: contperf-fy21q3
+ms.date: 03/09/2021
+ms.openlocfilehash: 96e8d686d2048856791a691ccc1d03f541ad856d
+ms.sourcegitcommit: 062ee7d60eb552b25b4dc7cd2493da0a0a267635
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103412595"
+ms.lasthandoff: 03/16/2021
+ms.locfileid: "103486958"
 ---
 # <a name="what-is-azure-marketplace"></a>O que é o Azure Marketplace?
 
-O Azure Marketplace é uma loja online que contém milhares de aplicações e serviços de software de TI construídos por empresas tecnológicas líderes do setor. No Azure Marketplace pode encontrar, tentar, comprar e implementar o software e serviços de que necessita para construir novas soluções e gerir a sua infraestrutura em nuvem. O catálogo inclui soluções para diferentes indústrias e áreas técnicas, testes gratuitos e também serviços de consultoria de parceiros da Microsoft.
+[O Azure Marketplace](https://azuremarketplace.microsoft.com/marketplace/apps/category/security) é uma loja online que contém milhares de aplicações e serviços de software de TI construídos por empresas tecnológicas líderes do setor. No Azure Marketplace pode encontrar, tentar, comprar e implementar o software e serviços de que necessita para construir novas soluções e gerir a sua infraestrutura em nuvem. O catálogo inclui soluções para diferentes indústrias e áreas técnicas, testes gratuitos e também serviços de consultoria de parceiros da Microsoft.
 
 ## <a name="find-what-you-need-in-azure-marketplace"></a>Encontre o que precisa no Azure Marketplace
 
-Pesquise o nosso catálogo por nome ou categorias de navegação, tais como analítica, segurança, networking, armazenamento e DevOps. O Azure Marketplace simplifica a aquisição de software e a gestão de TI (com as suas várias opções de preços e múltiplos métodos de implementação) para lhe dar flexibilidade para atender às suas necessidades de negócio únicas. Agiliza igualmente os contratos com contratos-padrão, a faturação e faturação consolidadas e a gestão centralizada das assinaturas.
+O Azure Marketplace oferece opções simples de pesquisa e filtragem para ajudá-lo a encontrar rapidamente o que procura. Utilize a barra de pesquisa no topo da página para encontrar soluções por fornecedor, nome do produto ou palavras-chave.
 
-O catálogo Azure Marketplace está disponível na loja online e através do portal Azure.  
+:::image type="content" source="media/azure-marketplace/azure-marketplace-select.png" alt-text="Mostra a janela principal do Azure Marketplace, onde pode escolher se navega em Apps ou Serviços de Consultoria.":::
 
-### <a name="search-the-online-store"></a>Pesquisar na loja online
+Ao explorar a galeria de aplicações, utilize os filtros no topo para reduzir os resultados com base na disponibilidade de um teste gratuito ou test drive, sistema operativo, editor, modelo de preços ou tipo de produto.
 
-Visite a [loja online](https://azuremarketplace.microsoft.com/) e no topo escolha se navega em **Apps** ou **Serviços de Consultoria.** As aplicações adquiridas aqui serão implementadas no Azure Marketplace.
+:::image type="content" source="media/azure-marketplace/azure-marketplace-filters.png" alt-text="Mostra filtros no topo da janela Azure Marketplace.":::
 
-:::image type="content" source="media/azure-marketplace/azure-marketplace-select.png" alt-text="No Azure Marketplace, escolha no topo se navegue em Apps ou Serviços de Consultoria.":::
+O painel mais à esquerda permite filtrar o catálogo por categorias como analítica, segurança, networking, armazenamento e DevOps. Selecione uma categoria para visualizar as suas subcategorias disponíveis.
 
-Utilize a barra de pesquisa na parte superior do ecrã ou as categorias de produto mais abaixo na página (não mostrada acima) para encontrar a ferramenta perfeita para as suas necessidades.
+:::image type="content" source="media/azure-marketplace/categories-subcategories.png" alt-text="Mostra categorias com sub-categorias.":::
 
-Os serviços de consultoria só estão disponíveis na loja online, não no portal Azure.
+O Azure Marketplace simplifica a aquisição de software e a gestão de TI (com as suas várias opções de preços e múltiplos métodos de implementação) para lhe dar flexibilidade para atender às suas necessidades de negócio únicas. Agiliza igualmente os contratos com contratos-padrão, a faturação e faturação consolidadas e a gestão centralizada das assinaturas. O catálogo Azure Marketplace está disponível na loja online e através do portal Azure.
 
-### <a name="search-in-the-azure-portal"></a>Pesquisa no portal Azure
+## <a name="microsoft-preferred-solutions"></a>Soluções preferidas da Microsoft
+
+Ao pesquisar ou filtrar o catálogo, os resultados podem incluir soluções preferidas da Microsoft, que são identificadas através do crachá de soluções preferidas localizado no canto inferior direito do cartão de aplicação ou o crachá na página de detalhes do produto.
+
+:::image type="content" source="media/azure-marketplace/preferred-solution-badge.png" alt-text="Mostra o crachá de fornecedor preferido do Azure Marketplace.":::
+
+As soluções preferidas são selecionadas por uma equipa de especialistas da Microsoft e são publicadas por parceiros da Microsoft com conhecimentos e capacidades profundas e comprovadas para responder às necessidades específicas dos clientes numa categoria, indústria ou vertical da indústria.
+
+## <a name="search-in-the-azure-portal"></a>Pesquisa no portal Azure
 
 No portal Azure, selecione **+ Crie um recurso** ou procure por "marketplace". Em seguida, navegue nas categorias do lado esquerdo ou utilize a barra de pesquisa, que inclui uma função de filtro.
 
 :::image type="content" source="media/azure-marketplace/azure-portal.png" alt-text="Escolher aplicativos no portal Azure.":::
 
+Os serviços de consultoria só estão disponíveis na loja online, não no portal Azure.
+
 ## <a name="take-action-on-a-listing"></a>Tomar medidas em uma listagem
 
-Cada listagem no Azure Marketplace suporta uma ou mais das seguintes ações:
+Tome medidas numa listagem selecionando um ou mais dos seguintes:
 
 - **Obtê-lo Agora** - Compre a solução imediatamente.
 - **Test Drive** – Explore uma demonstração com curadoria. Os test drives não requerem nenhuma configuração. Permitem determinar se a solução satisfaz as necessidades do seu negócio sem utilizar os seus dados de produção ou ambiente.

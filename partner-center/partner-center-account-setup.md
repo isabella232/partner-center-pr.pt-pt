@@ -1,7 +1,7 @@
 ---
 title: Gerir a sua conta do Centro de Parceiros
 ms.topic: conceptual
-ms.date: 01/14/2021
+ms.date: 03/15/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Saiba como usar o Partner Center para gerir o perfil da sua empresa, informações bancárias e fiscais, funções, permissões e muito mais.
@@ -9,12 +9,12 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9c1a17b6703981dee93acbb057bff2405d1f4f11
-ms.sourcegitcommit: 7d15e9bdb93a780886f588d294383d33c70a49f0
+ms.openlocfilehash: c2acc97a5f509f97b0ffeb6904f511cf755e4ca5
+ms.sourcegitcommit: 062ee7d60eb552b25b4dc7cd2493da0a0a267635
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "98235975"
+ms.lasthandoff: 03/16/2021
+ms.locfileid: "103487019"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Gerir a sua conta Partner Center - perfil da empresa, informações bancárias, funções, permissões e muito mais
 
@@ -26,7 +26,7 @@ A conta que cria no Partner Center quando se inscreve é o seu email de trabalho
 Ver artigos [Convide os colaboradores a juntarem-se ao Partner Center](guide-to-migration.md) e adicione um novo [utilizador.](create-user-accounts-and-set-permissions.md)
 
 >[!NOTE]
->O menu de definições de definições de conta será alterado dependendo dos programas em que está inscrito. Por exemplo, se for um parceiro no programa Cloud Solution Provider (CSP), poderá gerir os seus serviços Azure Shared a partir das definições de Conta.
+>O menu de definições de definições de conta será alterado dependendo dos programas em que está inscrito. Por exemplo, se for um parceiro no programa Cloud Solution Provider (CSP), poderá gerir os seus serviços Azure Shared a partir das definições de **Conta.**
 
 ## <a name="account-management"></a>Gestão de contas
 
@@ -51,6 +51,20 @@ Quando seleciona o ícone **Definições** e abre o menu **de definições de Co
 O separador Partner incluirá todas as informações legais de negócio, tais como nome legal registado e endereço para a sua empresa, bem como contacto primário e localizações empresariais. O separador Revendedor para parceiros que fazem negócios CSP inclui o perfil de suporte ao **Cliente.**
 
 Se a sua empresa não participar na CSP, a vista predefinida mostrará apenas o **separador Parceiro** que incluirá o perfil de suporte ao **Cliente.**
+
+### <a name="when-you-are-in-more-than-one-account"></a>Quando se está em mais de uma conta
+
+Pode fazer parte de mais de uma conta. Pode verificar se faz parte de várias contas pela presença do "apanhador de contas" no menu de navegação à esquerda.
+
+:::image type="content" source="images/accountsettings/account-picker.png" alt-text="Identifique o apanhador de contas":::
+
+Se não vir o apanhador de contas, faz parte de uma única conta. 
+
+Ao clicar neste picker, todas as contas de que faz parte aparecem como uma lista. Em seguida, pode clicar em qualquer um deles e mudar para essa conta. Tudo depois disso aparece no contexto dessa conta.  
+
+No exemplo abaixo, o utilizador inscrito faz parte das três contas destacadas. O utilizador pode alternar entre eles clicando numa conta.
+
+:::image type="content" source="images/accountsettings/picked-accounts.png" alt-text="As contas em que faz parte":::
 
 ## <a name="organization-profile"></a>Perfil da organização
 
@@ -90,13 +104,13 @@ Esta página contém o seu pagamento e detalhes fiscais, incluindo **Bill para**
 
 ## <a name="user-management"></a>Gestão de utilizadores
 
-O que trabalha no Partner Center e as áreas que pode atualizar ou ver depende do seu papel e das permissões anexadas a essa função. Por exemplo, se não for um administrador de Incentivos, não poderá alterar nada nas páginas de Incentivos, embora possa ver os dados.
+O que trabalha no Partner Center e as áreas que pode atualizar ou ver depende do seu papel e das permissões anexadas a essa função. Por exemplo, se não for um administrador de Incentivos, não poderá alterar nada nas páginas de Incentivos, embora possa ver os dados. Saiba mais sobre [papéis e permissões](permissions-overview.md)
 
 ### <a name="update-preferred-email"></a>Atualizar e-mail preferido
 
 Para atualizar o seu e-mail preferido para receber notificações do Partner Center:
 
-1. Inscreva-se no painel do [Centro de Parceiros.](https://partner.microsoft.com/dashboard)
+1. Inicie sessão no [dashboard do Centro de Parceiros](https://partner.microsoft.com/dashboard).
 1. Vá à [**preferência de Engagement**](https://partner.microsoft.com/dashboard/engagement/preference), selecione o link **Alterar,** atualize o endereço de e-mail e selecione **Guardar**.
 
 ### <a name="find-your-user-role"></a>Encontre a sua função de utilizador
