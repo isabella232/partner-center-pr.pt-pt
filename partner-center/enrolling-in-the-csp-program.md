@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1753649f375c66027ecc6cd427a7506913d55e8d
-ms.sourcegitcommit: c79137fba9e70037a2dc0e4a99c7334696c3740a
+ms.openlocfilehash: 9c1296c0e28412bfece328be2d8033c2d080bfdc
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "96322088"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712278"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Enroll in the Cloud Solution Provider program (Inscrever-se no programa do Fornecedor de Soluções Cloud)
 
@@ -68,7 +68,7 @@ Como parceiro de conta direta, é dono da relação de ponta a ponta com o seu c
 
 ### <a name="minimum-requirements"></a>Requisitos mínimos
 
-|**Requisito**|                             |
+|**Requisito**|  **Descrição**  |
 |--------------------------------|--------------------------------------------------------------|
 |**ID do MPN**   |Uma adesão ativa na Microsoft Partner Network e MPN ID para a localização em que pretende vender.    |
 |**Recomendação**   |A autoridade para aceitar e assinar acordos legais em nome da sua organização.|

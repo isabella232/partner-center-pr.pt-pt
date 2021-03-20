@@ -4,14 +4,16 @@ description: Conheça os formulários fiscais emitidos pela Microsoft, incluindo
 ms.topic: article
 author: mingshen-ms
 ms.author: mingshen
+ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 ms.localizationpriority: medium
 ms.date: 09/30/2020
-ms.openlocfilehash: 5543ec62397a72a042c5aa64c6c8f77ce7286f4c
-ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
+ms.openlocfilehash: 42c5d6f0d31e6509253fe44d5b97606fc688f177
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "94487878"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712822"
 ---
 # <a name="understand-irs-tax-forms-issued-by-microsoft"></a>Entender formulários do IRS emitidos pela Microsoft
 
@@ -24,7 +26,7 @@ Este artigo explica mais sobre estes formulários, incluindo quem os receberá e
 | Formulário de imposto sobre o IRS | Description | Disponibilidade |
 |--------------|-------------|--------------|
 |1099-MISC, 1099-K | Relacionado com a atividade de vendas e/ou pagamentos feitos a si para participação nos mercados da Microsoft | Os formulários impressos serão registados em ou antes **de 31 de janeiro,** e .pdf cópias estarão disponíveis no [Partner Center](https://partner.microsoft.com/dashboard) (nas **definições de Conta de Centro de Parceiros** em **Pagamento e > fiscal e perfis fiscais)** ao mesmo tempo |
-|1042-S | Relacionado com pagamentos que lhe são feitos que estão sujeitos a retenção na fonte dos Estados Unidos | Os formulários impressos serão registados em ou antes **de 15 de março** , e .pdf cópias estarão disponíveis no Partner Center (em **Definições de Desenvolvedores de Centros de Parceiros** em **Pagamento e > de impostos e perfis fiscais)** ao mesmo tempo  |
+|1042-S | Relacionado com pagamentos que lhe são feitos que estão sujeitos a retenção na fonte dos Estados Unidos | Os formulários impressos serão registados em ou antes **de 15 de março**, e .pdf cópias estarão disponíveis no Partner Center (em **Definições de Desenvolvedores de Centros de Parceiros** em **Pagamento e > de impostos e perfis fiscais)** ao mesmo tempo  |
 
 > [!NOTE]
 > O endereço que utilizamos nos formulários de irs de IRS provém do endereço do seu perfil fiscal quando [configura a sua conta de pagamento e formulários fiscais.](set-up-your-payout-account.md) Se o seu endereço tiver mudado, certifique-se de atualizar o endereço no seu **perfil de Imposto**.
@@ -53,7 +55,7 @@ Os formulários fiscais serão enviados a partir dos seguintes endereços:
 
 | Se sou um programador dos Estados Unidos a vender aplicativos pagos e...   | Devo receber este formulário: |
 |------------------------|-----------------------|
-| Tive **mais de 200 vendas** de aplicações com um total de compras destas vendas **superior a $20.000 USD** no ano fiscal aplicável ( **sem** contar com as vendas feitas no Brasil e na China através da Microsoft Store no Windows 10.)| **1099-K:**<br/>Filer: Microsoft Corporation<br/>EIN: \* \* \* \* \* 4442<br/><br/>**Importante:** O formulário 1099-K contém valores brutos de **compra,** não pagamentos feitos a si.| 
+| Tive **mais de 200 vendas** de aplicações com um total de compras destas vendas **superior $ $20.000 USD** no ano fiscal aplicável (**sem** contar com as vendas feitas no Brasil e na China através da Microsoft Store no Windows 10.)| **1099-K:**<br/>Filer: Microsoft Corporation<br/>EIN: \* \* \* \* \* 4442<br/><br/>**Importante:** O formulário 1099-K contém valores brutos de **compra,** não pagamentos feitos a si.| 
 | Recebi **pelo menos 10 dólares em pagamentos** (i) vendas de aplicações feitas no Brasil e na China através da Microsoft Store no Windows 10 ou (ii) vendas no Minecraft Marketplace.<br/><br/>**OR**<br/><br/>Recebi pelo menos 600 dólares em pagamentos não relacionados com as vendas de aplicações da Microsoft no ano fiscal aplicável (por exemplo, pagamentos de incentivos ou pagamentos de um concurso ou promoção)| **1099-MISC:**<br/>Pagador: Microsoft Corporation<br/>EIN: \* \* \* \* \* 4442<br/><br/>**Importante:** Algumas entidades empresariais não receberão formulários 1099-MISC, independentemente dos montantes de pagamento recebidos da Microsoft.  Consulte o seu profissional fiscal para mais informações.| 
 | Nenhum dos acima se aplicam.| Nenhum |
 | <br/><br/>**Se eu for um programador dos Estados Unidos a vender anúncios em apps e...** |<br/><br/>**Devo receber este formulário:** |
@@ -64,7 +66,7 @@ Os formulários fiscais serão enviados a partir dos seguintes endereços:
 ## <a name="for-developers-located-outside-of-the-united-states"></a>Para desenvolvedores localizados fora dos Estados Unidos
 
 
-| | |
+| **Pergunta** | **Resposta** |
 |---|---|
 | **Recebi um formulário 1042-S da Microsoft. Para que é?** | A Microsoft forneceu-lhe um formulário ou formulários 1042-S porque lhe pagámos receitas que são consideradas reportáveis às autoridades fiscais dos Estados Unidos e que estavam sujeitas a retenção na fonte.  O formulário 1042-S é utilizado para este requisito de reporte. | 
 | **O que devo fazer com os formulários?** | Geralmente, não é necessária nenhuma ação específica da sua parte. O formulário 1042-S pode ser útil para si se quiser candidatar-se às autoridades fiscais locais para qualquer forma de crédito fiscal.  Consulte os seus próprios consultores fiscais para obter mais informações sobre este tema. | 

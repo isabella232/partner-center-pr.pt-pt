@@ -1,7 +1,7 @@
 ---
-title: Definir um orçamento de gastos Azure para os clientes
+title: Definir um orçamento de despesas do Azure para os clientes
 ms.topic: how-to
-ms.date: 06/03/2020
+ms.date: 03/17/2021
 description: Saiba como definir ou remover orçamentos mensais de gastos do Azure para os seus clientes, bem como ver os dados de gastos do Azure e definir notificações relacionadas com o orçamento.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,19 +9,18 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e311af31bbce65ed38c20df12243d325c7a63d04
-ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
+ms.openlocfilehash: eaf54898d7a130ca38e5a2aaeba279fb722c9e66
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96438987"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712754"
 ---
 # <a name="set-check-or-remove-monthly-azure-spending-budgets-for-customers-in-partner-center"></a>Desconfiem, verifiquem ou removam os orçamentos mensais de gastos da Azure para os clientes no Partner Center
 
-Aplica-se a:
+**Funções adequadas**
 
-- Partner Center
-- Centro de Parceiros do Microsoft Cloud for US Government
+- Agente administrativo
 
 Pode [definir um orçamento mensal de gastos da Azure para os seus clientes](#set-azure-spending-budget) no Partner Center. Isto ajuda os seus clientes a gerir os seus gastos com o Azure. Esta opção permite comparar os gastos do Azure dos seus clientes com o orçamento durante o mês. Também ajuda os seus clientes a orçamentar os seus gastos com o Azure para que a sua fatura mensal não seja maior do que antecipam.
 
@@ -48,7 +47,7 @@ Os dados de gastos são *atualizados uma vez por dia.* Os seus clientes podem co
 
 Pode *definir um orçamento mensal de gastos da Azure* para vários clientes no Partner Center:
 
-1. Inscreva-se no painel do [Centro de Parceiros.](https://partner.microsoft.com/dashboard/)
+1. Inicie sessão no [dashboard do Centro de Parceiros](https://partner.microsoft.com/dashboard/).
 
 2. No menu à esquerda em **CSP,** escolha os gastos do **Azure**.
 
@@ -60,7 +59,7 @@ Pode *definir um orçamento mensal de gastos da Azure* para vários clientes no 
 
 Também pode *definir um orçamento para um cliente individual* nas suas definições de subscrição:
 
-1. Inscreva-se no painel do Centro de Parceiros.
+1. Inicie sessão no dashboard do Centro de Parceiros.
 
 2. No menu à esquerda em **CSP,** escolha **Clientes**.
 
@@ -76,7 +75,7 @@ Também pode *definir um orçamento para um cliente individual* nas suas defini�
 
 Pode *remover um orçamento mensal de gastos da Azure* para o seu cliente(s) no Partner Center:
 
-1. Inscreva-se no painel do [Centro de Parceiros.](https://partner.microsoft.com/dashboard/)
+1. Inicie sessão no [dashboard do Centro de Parceiros](https://partner.microsoft.com/dashboard/).
 
 2. No menu à esquerda em **CSP,** escolha os gastos do **Azure**.
 
@@ -88,7 +87,7 @@ Pode *remover um orçamento mensal de gastos da Azure* para o seu cliente(s) no 
 
 Pode *acompanhar os gastos atuais do Azure e os orçamentos mensais dos seus clientes* a qualquer momento:
 
-1. Inscreva-se no painel do [Centro de Parceiros.](https://partner.microsoft.com/dashboard/)
+1. Inicie sessão no [dashboard do Centro de Parceiros](https://partner.microsoft.com/dashboard/).
 
 2. No menu à esquerda em **CSP,** escolha os gastos do **Azure**.
 
@@ -126,3 +125,8 @@ Pode *ver os custos (e a utilização estimada) por serviço para subscrições 
 4. Na página de **Subscrições** do cliente, em **subscrições baseadas em uso,** selecione o nome da **Subscrição**.
 
 5. Na página da subscrição, pode rever os **custos itemizados** por serviço e a **utilização estimada** para o mês em curso.
+
+
+## <a name="next-steps"></a>Passos seguintes
+
+- [Nova experiência comercial no CSP – faturação do Azure](azure-plan-billing.md)

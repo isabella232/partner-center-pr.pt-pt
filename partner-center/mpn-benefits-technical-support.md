@@ -9,12 +9,12 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 85287746381ee0ac18bc570650cc310df7ef6219
-ms.sourcegitcommit: 7ef441a0e4dbef11012212bfc087c5244a75765e
+ms.openlocfilehash: ea26eb7755aebea67bad1b4bc97e9662c2054591
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "102187367"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712907"
 ---
 # <a name="technical-support-benefits"></a>Benefícios técnicos de apoio
 
@@ -23,7 +23,7 @@ ms.locfileid: "102187367"
 -   Administrador sócio da MPN 
 -   Agente administrativo 
 
-## <a name="overview"></a>Descrição Geral
+## <a name="overview"></a>Descrição geral
 
 Este artigo destina-se a membros da Microsoft Partner Network Partners (MPN) que precisam de saber como um incidente de suporte técnico pode ser criado usando os benefícios do MPN Partner
 
@@ -58,12 +58,10 @@ O suporte técnico fornece resolução de problemas para um problema específico
 Como parte da subscrição da Microsoft Partner Network, os parceiros são elegíveis para o seguinte suporte técnico
 
 
-|                           Suporte Técnico                          |  Action Pack |                                      Competência de prata                                      |                                        Competência do ouro                                        |   |
-|:--------------------------------------------------------------------:|:------------:|:-------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------:|:-:|
-| Suporte ao produto da Microsoft<br>Para o recente On-In-As <br>produtos apenas | 10 Incidentes | 15 Incidentes                                                                                | 20 Incidentes                                                                                  |   |
-| Suporte à nuvem de assinatura<br>Apenas para produtos Cloud                   |              | Competências em nuvem:<br>Ilimitado<br>         <br>Outras competências:<br>5 Incidentes         | Competências em nuvem:<br>Ilimitado<br>          <br>Outras competências:<br>10 Incidentes   
-
-
+| Suporte Técnico |  Action Pack | Competência de prata | Competência do ouro |
+|:---:|:---:|:---:|:---:|
+| Suporte ao produto da Microsoft<br>Para o recente On-In-As <br>produtos apenas | 10 Incidentes | 15 Incidentes  | 20 Incidentes |
+| Suporte à nuvem de assinatura<br>Apenas para produtos Cloud |  | Competências em nuvem:<br>Ilimitado<br><br>Outras competências:<br>5 Incidentes  | Competências em nuvem:<br>Ilimitado<br>          <br>Outras competências:<br>10 Incidentes  |
 
 *As competências em nuvem incluem: Competência de Segurança, Aplicações de Negócios em Nuvem, Plataforma Cloud, Produtividade em Nuvem, Gestão de Mobilidade Empresarial, Soluções cloud pequenas e médias.
 

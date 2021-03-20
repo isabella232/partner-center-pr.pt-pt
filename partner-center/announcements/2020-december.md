@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 12/21/2020
-ms.openlocfilehash: 8cb81778c352e4e173cc70177675c7ee9bac4410
-ms.sourcegitcommit: 410f8ef9a5b944b454b1980cd1eb796fbdb4e6ea
+ms.date: 03/08/2021
+ms.openlocfilehash: a74c08fcd64b1de99226353cca1f16d5c79b6bcd
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "98705050"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712550"
 ---
 # <a name="december-2020-announcements"></a>Anúncios de dezembro de 2020
 
@@ -49,7 +49,7 @@ As reclamações devem ser submetidas através da [ferramenta de reclamações](
 
 Pode verificar o seu saldo cooperativo no painel [de ganhos](https://partner.microsoft.com/dashboard/incentives/enrollment/summary)do Partner Center . Consulte a [recolha de ativos cooperativos](https://partner.microsoft.com/asset/collection/co-op-funds-resources#/) no site do parceiro da Microsoft para obter informações adicionais sobre atividades elegíveis, submissão de pedidos e muito mais.
 
-### <a name="next-steps"></a>Próximos passos
+### <a name="next-steps"></a>Passos seguintes
 
 - Continuar a impulsionar o marketing, a geração de procura e os esforços de prontidão, e apresentar pedidos de atividades elegíveis no prazo de 45 dias após a sua conclusão.
 - Consulte o saldo da sua conta cooperativa regularmente para garantir que utiliza a totalidade do valor até ao fecho do período de utilização do H2 em 30 de junho de 2021.
@@ -81,7 +81,7 @@ O Adobe Sign é a solução de assinatura electrónica preferida da Microsoft (E
 
 A transição para o Adobe Sign garantirá uma experiência de assinatura electrónica segura e eficiente que irá oferecer maior valor aos nossos clientes e parceiros. Receberá mais informações sobre os planos de migração de conta para a Adobe Sign em janeiro de 2021.  
 
-### <a name="next-steps"></a>Próximos passos
+### <a name="next-steps"></a>Passos seguintes
 
 Partilhe esta informação com as partes interessadas apropriadas na sua organização. Enviaremos mais informações sobre a migração em janeiro de 2021.
 
@@ -111,7 +111,7 @@ Os preços do Partner Center e as atualizações de catálogo normalmente previs
 
 Perceba que todos os outros ficheiros da lista de preços estão agendados para estarem disponíveis no horário habitual, simplesmente os dois resultados acima serão ligeiramente atrasados.
 
-### <a name="next-steps"></a>Próximos passos
+### <a name="next-steps"></a>Passos seguintes
 
 Em resumo, os ficheiros de preços abaixo estarão disponíveis como de costume no dia 31 de dezembro de 2020 por aproximadamente 6PM PST:
 
@@ -155,7 +155,7 @@ O novo Microsoft Edge é a nossa melhor expressão de um navegador moderno, e es
 - Depois **de 9 de março de 2021**, as aplicações e sites criados para o legado do Microsoft Edge continuarão a funcionar no novo Microsoft Edge, mas se surgir um problema de compatibilidade, existe a promessa da [App Assure](/fasttrack/products-and-capabilities#app-assure) de fornecer suporte.
 - Depois de **17 de agosto de 2021,** os clientes terão uma experiência degradada ou não poderão ligar-se às aplicações e serviços da Microsoft 365 no Internet Explorer 11. A Microsoft acredita que os clientes irão tirar o máximo partido do Microsoft 365 e a melhor expressão de um navegador moderno ao utilizar o [novo Microsoft Edge.](https://www.microsoft.com/edge/business?form=MO12H3&OCID=MO12H3)
 
-### <a name="next-steps"></a>Próximos passos
+### <a name="next-steps"></a>Passos seguintes
 
 - Leia a publicação do blog para entender os detalhes do anúncio.
 - Aproveite esta oportunidade para contactar os seus parceiros para ajudar a implementar o novo Microsoft Edge.
@@ -182,7 +182,7 @@ Todos os parceiros da CSP
 
 Hoje, à medida que continuamos a dar prioridade à [nuvem,](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/)estamos a dar conhecimento de futuras mudanças para clientes do setor público (governo, educação e sem fins lucrativos) que compram através do programa Licença Aberta, bem como alterações relacionadas com o programa Cloud Solution Provider.
 
-### <a name="next-steps"></a>Próximos passos
+### <a name="next-steps"></a>Passos seguintes
 
 O anúncio completo só está disponível para parceiros da Microsoft. [Inscreva-se para aceder ao anúncio completo.](https://partner.microsoft.com/resources/detail/public-sector-open-license-csp-evolution-to-a-better-experience-pc-announcement-pdf)
 
@@ -242,7 +242,7 @@ Os parceiros que fazem negócios com clientes novos ou já existentes nos seguin
 
 Os parceiros com clientes no resto do mundo terão a capacidade, no final de março de 2021, de introduzir o **identificador legal**, **número de telefone** e nome do **meio** para os clientes como detalhes opcionais.
 
-### <a name="next-steps"></a>Próximos passos
+### <a name="next-steps"></a>Passos seguintes
 
 - Reveja a documentação técnica e questione frequentemente na coleção de [parceiros](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) dedicados para obter uma orientação mais detalhada.
 - Prepare-se para incorporar as alterações utilizando a API do Partner Center e a experiência do utilizador web. A API/SDKs estará disponível para testes.
@@ -274,6 +274,9 @@ Todos os parceiros da CSP
 
 ### <a name="details"></a>Detalhes
 
+>[!NOTE]
+>Devido ao feedback do parceiro, estamos a reinstaurar a capacidade de cumprimento do Partner Center para obter chaves de software e licença para ordens de software de subscrição perpétua e servidor. Será restaurado ao seu estado anterior antes de ser removido em 19 de janeiro de 2021. Para mais informações, consulte o [anúncio de março de 2021.](./2021-march.md#4)
+
 Gostaríamos de lembrá-lo que a partir de **19 de janeiro de 2021,** todos os parceiros inscritos no programa CSP poderão vender licenças de software perpétuo comercial para implantação no local através da CSP. Isto dará aos clientes a flexibilidade de licenciamento de que necessitam como parte da sua transformação digital.
 
 O seguinte também acontecerá na mesma data:
@@ -286,7 +289,7 @@ O seguinte também acontecerá na mesma data:
 
 A adição de software perpétuo ao programa CSP na nova experiência de comércio reduzirá o tempo e os custos que os parceiros têm de gastar na gestão de múltiplos programas de licenciamento. Isto conduzirá a melhores capacidades de vendas, operacionais e de gestão. Os parceiros podem expandir os seus negócios oferecendo soluções diversas e serviços geridos com a flexibilidade para combinar licenças e serviços geridos para ambientes híbridos em nuvem, acelerando ainda mais a transição dos seus clientes para a nuvem. Os clientes, por sua vez, beneficiarão de uma abordagem simplificada e de uma maior flexibilidade na aquisição de licenças de software. Este processo de compra é fácil de entender, melhora diretamente a gestão de ativos de licenciamento, e tem custos previsíveis.
 
-### <a name="next-steps"></a>Próximos passos
+### <a name="next-steps"></a>Passos seguintes
 
 Reveja os seguintes recursos e partilhe-os com os contactos relevantes na sua organização:
 
@@ -301,6 +304,12 @@ Reveja os seguintes recursos e partilhe-os com os contactos relevantes na sua or
 ### <a name="questions"></a>Perguntas?
 
 Para mais perguntas sobre estas ofertas, consulte as suas comunidades Yammer relevantes.
+
+### <a name="change-log"></a>Alterar Registo:
+
+- 17 de dezembro de 2020: Publicação original 
+
+- 5 de março de 2021: Nota adicional no topo sobre a reintegração do software Partner Center e capacidade de cumprimento da chave de licença.
 
 ______________
 
@@ -321,7 +330,7 @@ De acordo com o seu Acordo de Parceiros da Microsoft (consulte a secção **Serv
 
 Uma pré-visualização do guia atualizado está [disponível aqui,](https://partner.microsoft.com/resources/detail/update-guide-online-services-software-channel-authorization-jan-pdf)com uma linha vermelha indicando alterações [disponíveis aqui](https://partner.microsoft.com/resources/detail/update-guide-online-services-software-channel-authorization-jan-redline-pdf). Esta atualização irá efetivo 30 dias a contar da data deste aviso; não há mais nenhuma ação necessária para si neste momento.
 
-### <a name="next-steps"></a>Próximos passos
+### <a name="next-steps"></a>Passos seguintes
 
 Nenhuma ação necessária. Isto é só para informação.
 
@@ -468,7 +477,7 @@ Esta oferta foi incluída na matriz da lista de ofertas, mas não na lista de pr
    |-------------------|:------|
    |Power Apps por plano de aplicações|5e1087b6-246b-4503-b88a-b60bdf0b3840|
 
-### <a name="next-steps"></a>Próximos passos
+### <a name="next-steps"></a>Passos seguintes
 
 Verifique as notas de lançamento muitas vezes à medida que outros problemas forem descobertos, serão anexados a este anúncio.
 
@@ -514,7 +523,7 @@ Os clientes existentes serão automaticamente transitados para a nova oferta ap�
    |-------------------|:------|:------|
    |Microsoft 365 Business Voice (EUA)|9f9f2c7b-c961-402b-9421-8e3c9207eeb3|PZW-00009|
 
-### <a name="next-steps"></a>Próximos passos
+### <a name="next-steps"></a>Passos seguintes
 
 Familiarize-se com a lista de preços e partilhe esta informação com todos os contactos apropriados na sua organização.
 

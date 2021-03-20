@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 03/08/2021
-ms.openlocfilehash: 71deeb121fdc8b95499a7f12e08f2d116c370c7c
-ms.sourcegitcommit: 6e505d043d54e36cade511cb4b803eae64c63ff0
+ms.openlocfilehash: 2dd1563aab9d2505932bf35a9f1fe7ef22c1be28
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "102514124"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712465"
 ---
 # <a name="january-2021-announcements"></a>Anúncios de janeiro de 2021
 
@@ -286,7 +286,7 @@ Os parceiros são altamente encorajados a familiarizar-se com os seguintes recur
 
 #### <a name="partner-earned-credit-pec"></a>Parceiro ganhou crédito (PEC)
 
-- [Compreensão do parceiro Adquirido Crédito (Guia)(microsoft.com)](https://partner.microsoft.com/resources/detail/understanding-partner-earned-credit-pdf)
+- [Compreensão do parceiro adquirido crédito (guia)(microsoft.com)](https://partner.microsoft.com/resources/detail/understanding-partner-earned-credit-pdf)
 - [Parceiro ganhou crédito - visão geral - Partner Center | Microsoft Docs](../partner-earned-credit.md?branch=main)
 - [Parceiro ganhou crédito por serviços geridos - Partner Center | Microsoft Docs](../partner-earned-credit-explanation.md?branch=main)
 - [Funções, permissões para parceiro ganhou crédito - Partner Center | Microsoft Docs](../azure-roles-perms-pec.md)
@@ -315,7 +315,7 @@ Todos os parceiros da CSP
 ### <a name="details"></a>Detalhes
 
 >[!NOTE]
->Devido ao feedback do parceiro, estamos a reinstaurar a capacidade de cumprimento do Partner Center para obter chaves de software e licença para ordens de software de subscrição perpétua e servidor. Será restaurado ao seu estado anterior antes de ser removido em 19 de janeiro de 2021. Para mais informações, consulte o [anúncio de março de 2021.](https://docs.microsoft.com/partner-center/announcements/2021-march#4)
+>Devido ao feedback do parceiro, estamos a reinstaurar a capacidade de cumprimento do Partner Center para obter chaves de software e licença para ordens de software de subscrição perpétua e servidor. Será restaurado ao seu estado anterior antes de ser removido em 19 de janeiro de 2021. Para mais informações, consulte o [anúncio de março de 2021.](./2021-march.md#4)
 
 Como [anunciado](https://blogs.partner.microsoft.com/mpn/general-availability-of-perpetual-software-licenses-in-the-cloud-solution-provider-program/) hoje, estamos entusiasmados em informá-lo que as licenças de software perpétuo comercial estão agora geralmente disponíveis para todos os parceiros da CSP para vender. A lista de preços perpétuos de software perpétuo do Partner Center CSP foi republicado e agora inclui produtos e geografias adicionais.
 

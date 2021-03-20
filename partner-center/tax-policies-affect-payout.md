@@ -6,12 +6,12 @@ ms.service: partner-dashboard
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 02/09/2021
-ms.openlocfilehash: 3630824c839ccd9f54f3e8e5199a573b5824bb91
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 19acb085b601212f1bf94316aab2b72c54aecc1a
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101758943"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712958"
 ---
 # <a name="how-tax-policies-affect-payout-for-azure-marketplace"></a>Como as políticas fiscais afetam o pagamento do Azure Marketplace
 
@@ -47,7 +47,7 @@ Consulte [o Cenário D](#foreign-publisher-transacts-with-us-customer) para tran
 
 **Cenário C** – Transações que ocorrem entre um editor e um cliente num país fiscal gerido por editores que não impõe uma retenção na fonte aos clientes. Os clientes não pagam imposto no ponto de venda e é obrigação da editora pagar todos os impostos aplicáveis.
 
-Para obter mais informações sobre preços específicos de cada país (por exemplo, para compensar a tributação futura) consulte [planos e preços para ofertas de mercado comercial](https://docs.microsoft.com/azure/marketplace/plans-pricing#custom-prices).
+Para obter mais informações sobre preços específicos de cada país (por exemplo, para compensar a tributação futura) consulte [planos e preços para ofertas de mercado comercial](/azure/marketplace/plans-pricing#custom-prices).
 
 :::image type="content" source="images/tax-policies/payout-scenario-c.png" alt-text="Mostra fluxo de trabalho para o cenário do processo de pagamento C.":::
 
@@ -77,5 +77,5 @@ Para obter mais informações sobre preços específicos de cada país (por exem
 
 ## <a name="next-steps"></a>Passos seguintes
 
-- [Editor FAQ](https://docs.microsoft.com/azure/marketplace/marketplace-faq-publisher-guide)
-- [Instruções para criar perfis de pagamento e impostos](https://docs.microsoft.com/partner-center/set-up-your-payout-account?context=/azure/marketplace/context/context#create-a-payment-profile)
+- [Editor FAQ](/azure/marketplace/marketplace-faq-publisher-guide)
+- [Instruções para criar perfis de pagamento e impostos](./set-up-your-payout-account.md?context=%2fazure%2fmarketplace%2fcontext%2fcontext#create-a-payment-profile)

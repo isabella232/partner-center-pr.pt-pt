@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 02/03/2021
-ms.openlocfilehash: 8b69b430344c64f3d74e0b5058d561358bdd2b45
-ms.sourcegitcommit: d7fbaff51c7ac29fbf700d7f7fdef798fd97c6fa
+ms.openlocfilehash: 39a1370ad4e5da9120c74b46dfb0c20cd93df4e3
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "102619397"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712194"
 ---
 # <a name="bulk-operations-for-co-sell-opportunities-using-comma-separated-value-csv-files"></a>Operações a granel para co-vender oportunidades utilizando ficheiros de valor separados por vírgula (CSV)
 
@@ -89,7 +89,7 @@ CRM ID|No|Identificador desta referência específica no seu sistema crm, se hou
 ID de campanha de marketing|No|Este campo indica a campanha de marketing, que resultou nesta referência específica. Tipicamente usado para o cálculo roi|BingSummer2020
 Notas|No|Notas detalhadas que indicam as atualizações relacionadas com a referenciação|Esta é uma nota de amostra
 Ajuda da Microsoft necessária?|Yes|Isto é para indicar se você quer que a Microsoft o ajude a fazer este pedido de co-venda|Yes
-Que ajuda específica da Microsoft?|Depende|Uma das seis maneiras diferentes que a Microsoft pode ajudá-lo. Isto só é aplicável se escolher Não para a pergunta "A ajuda da Microsoft necessária? " <br/> **Introduza um número com base nas opções abaixo** <br/><br/> **1**- Carga de trabalho - proposta de valor específico  <br/> **2**- Arquitetura técnica do cliente  <br/> **3**- Prova de conceito /Demonstração  <br/> **4**- Orçamentos e Licenciamento  <br/> **5**- Pós - sucesso do cliente de vendas  <br/> **6**- Geral ou outro|1|
+Que ajuda específica da Microsoft?|Depende|Uma das seis maneiras diferentes que a Microsoft pode ajudá-lo. Isto só é aplicável se escolher Sim para a pergunta "A ajuda da Microsoft necessária? " <br/> **Introduza um número com base nas opções abaixo** <br/><br/> **1**- Carga de trabalho - proposta de valor específico  <br/> **2**- Arquitetura técnica do cliente  <br/> **3**- Prova de conceito /Demonstração  <br/> **4**- Orçamentos e Licenciamento  <br/> **5**- Pós - sucesso do cliente de vendas  <br/> **6**- Geral ou outro|1|
 Partilhe com a equipa de vendas da Microsoft|Yes|Isto indica se quer partilhar ou não os detalhes do negócio com a equipa de vendas da Microsoft. Isto só é aplicável se escolher Não para a pergunta "A ajuda da Microsoft necessária? "|Yes
 Notas para a Microsoft|No|Quaisquer notas específicas para a Microsoft se precisar de ajuda da Microsoft|Precisa de ajuda com um POC para cliente Contoso
 Consentimento para partilhar contacto Cliente/Parceiro|Yes|Consentimento para partilhar os dados de contacto do cliente e os dados de contato dos seus colaboradores da empresa que estão a trabalhar no negócio. **As ofertas não serão criadas ou atualizadas se escolher o Nº para esta coluna.** |Yes

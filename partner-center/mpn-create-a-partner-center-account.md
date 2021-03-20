@@ -1,7 +1,7 @@
 ---
 title: Criar uma conta MPN no Partner Center
 ms.topic: article
-ms.date: 03/15/2021
+ms.date: 03/18/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Saiba como os membros da Microsoft Partner Network podem criar uma conta Partner Center para gerir os seus benefícios e competências de rede.
@@ -9,12 +9,12 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 16d19ce353c081359ab59a34bf0a21392fc7d484
-ms.sourcegitcommit: af8cfd89218f55467bd3bbd4102f7baf890e5066
+ms.openlocfilehash: a099b30753d2ea6de217001e7b13e4a333e40f55
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "103570214"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712924"
 ---
 # <a name="create-an-mpn-account-in-partner-center-to-manage-network-benefits-and-competencies"></a>Criar uma conta MPN no Partner Center para gerir benefícios e competências de rede
 
@@ -40,14 +40,14 @@ Quando estiver pronto para criar uma conta no Partner Center, terá de ter à m�
 
 ## <a name="get-started"></a>Introdução
 
-1. Na página [**Get start,**](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/partnership) comece com o seu email de trabalho dado pela sua empresa como you@yourcompanyname.com .
+1. Na página [**Get start,**](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/partnership) comece com o seu email de trabalho que lhe foi dado pela sua empresa, por exemplo, you@yourcompanyname.com .
 
  
-    a.  O endereço de e-mail deve ser válido e acessível a si, pois enviaremos um código de verificação para continuar.
+    a.  O endereço de e-mail deve ser válido e acessível a si porque enviaremos um código de verificação para esse e-mail para continuar.
 
-    b.  O endereço de e-mail não deve conter palavras como "info", "administrador", email@. ." Ou " marketing@.. ", como estes não são apoiados.
+    b.  O endereço de e-mail não deve conter palavras como "info", "administrador", email@ ." Ou " marketing@.. ."; estes formatos de endereço não são suportados.
 
-    c.  Para comprar MAPS ou gerir competências, terá de atualizar esta conta verificando o seu domínio e tornando-se administrador. 
+    c.  Para comprar MAPS ou gerir competências, terá de atualizar esta conta [verificando o seu domínio](become-global-admin.md) e tornando-se administrador. 
 
 2. Pode iniciar sôms nas suas contas de trabalho do Office 365, por you@contoso.onmicrosoft.com exemplo, .
 
@@ -58,8 +58,11 @@ Quando estiver pronto para criar uma conta no Partner Center, terá de ter à m�
 
 Pode procurar o perfil da empresa ou introduzir informações da empresa manualmente. Se a sua empresa estiver registada na [Dun & Bradstreet,](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad)utilize o ID DUNS para consultar as informações da sua empresa. Se pretender fornecer os seus dados da sua empresa, selecione **Manual**.
 
-Depois de ter fornecido a informação da empresa, insira as informações de contacto primários e, em seguida, **selecione Matricular-se agora**.
-O contacto principal deve ser a pessoa na sua empresa que podemos contactar sobre a sua aplicação (pode ser você ou outra pessoa na sua empresa).
+Se a sua empresa estiver localizada na **Arménia**, **Hungria,** **Quirguistão,** **Moldávia,** **Uzbequistão** ou **Rússia,** e introduzir o seu endereço manualmente, validaremos o seu endereço para si. Se o que inseriu, diferir do validado, sugerimos que utilize o endereço validado. Isto garante que os elementos do endereço são normalizados conforme definido pela autoridade postal do país, corretamente formatados e enviados.  
+
+Depois de fornecer informações sobre a empresa, insira as informações de contacto primários. O contacto principal deve ser a pessoa na sua empresa que podemos contactar sobre a sua aplicação (este contacto pode ser você ou outra pessoa na sua empresa).
+
+4. Selecione **Matricular-se agora**.
 
 >[!IMPORTANT]
 >Para ajudar a garantir a segurança e privacidade da sua empresa, enviamos um e-mail para o seu contacto principal para verificar o endereço de e-mail e garantir que o endereço de e-mail pertence à sua empresa. Após o contacto principal verificar o endereço de e-mail, continuaremos a nossa revisão das informações que forneceu. A verificação geralmente leva 3-5 dias úteis. 
@@ -75,14 +78,14 @@ Também pode ver outras informações importantes como MPN Ids, gerir localizaç
 
 ## <a name="next-steps"></a>Passos seguintes
 
--   [Adicione os utilizadores de conta e atribua-lhes permissões](create-user-accounts-and-set-permissions.md)
+-  [Adicione os utilizadores de conta e atribua-lhes permissões](create-user-accounts-and-set-permissions.md)
 
--   [Purchase or renew a subscription to Microsoft Action Pack](mpn-get-action-pack.md) (Comprar ou renovar uma subscrição para o Microsoft Action Pack)
+-  [Purchase or renew a subscription to Microsoft Action Pack](mpn-get-action-pack.md) (Comprar ou renovar uma subscrição para o Microsoft Action Pack)
 
--   [Gerencie os seus benefícios de adesão](manage-your-partner-network-benefits.md)
+-  [Gerencie os seus benefícios de adesão](manage-your-partner-network-benefits.md)
 
--   [Conheça os requisitos de competência para a adesão à Gold and Silver](https://partner.microsoft.com/membership/competencies)
+-  [Conheça os requisitos de competência para a adesão à Gold and Silver](https://partner.microsoft.com/membership/competencies)
 
--   [Create a business profile to get sales leads from Microsoft](create-a-marketing-profile.md) (Crie um perfil empresarial para obter oportunidades potenciais da Microsoft)
+-  [Create a business profile to get sales leads from Microsoft](create-a-marketing-profile.md) (Crie um perfil empresarial para obter oportunidades potenciais da Microsoft)
 
--   [Obter e gerir os leads de vendas da Microsoft](manage-leads.md)
+-  [Obter e gerir os leads de vendas da Microsoft](manage-leads.md)

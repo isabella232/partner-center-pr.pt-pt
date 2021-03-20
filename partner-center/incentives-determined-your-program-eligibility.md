@@ -1,25 +1,21 @@
 ---
 title: Elegibilidade do programa de incentivos
-description: Certifique-se de que o seu programa de incentivos é elegível para que possa ser pago. Este processo inclui a verificação da elegibilidade no seu guia do programa.
+description: Certifique-se de ter cumprido os requisitos de elegibilidade para o programa de incentivos. Este processo inclui a verificação da elegibilidade no seu guia do programa.
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.date: 09/11/2020
-ms.openlocfilehash: 89d523d637a5a7641e9a9a8be255a1525ca66752
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.date: 03/16/2021
+ms.openlocfilehash: 405f7603639a3d460a307fab467872550487e936
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92530548"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712171"
 ---
 # <a name="determine-your-incentives-program-eligibility"></a>Determine a elegibilidade do seu programa de incentivos
-
-**Aplica-se a:**
-
-- Partner Center
 
 **Funções adequadas:**
 
@@ -36,11 +32,15 @@ Pode encontrar os requisitos específicos de elegibilidade do programa no guia d
 
 1. Inicie sessão no [dashboard do Centro de Parceiros](https://partner.microsoft.com/dashboard/).
 
-2. Em **Incentivos** , no painel de navegação esquerdo, selecione **Descrição geral** . É apresentada a página **Descrição geral do programa** .
+2. Em **Incentivos**, no painel de navegação esquerdo, selecione **Descrição geral**. É apresentada a página **Descrição geral do programa**.
 
 3. Selecione o programa que deseja.
 
-4. No campo **Detalhes do programa** , selecione **Guia do Programa** .
+4. No campo **Status,** selecione **os requisitos de elegibilidade**.
+
+   :::image type="content" source="images/incentives/eligibility.png" alt-text="Screenshot é um exemplo de requisitos de incentivos.":::
+
+5. É necessário completar todas as áreas que não são controladas para cumprir a elegibilidade. Cada programa de incentivos tem o seu próprio conjunto de requisitos.
 
 ## <a name="next-steps"></a>Passos seguintes
 

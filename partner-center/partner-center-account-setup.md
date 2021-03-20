@@ -1,7 +1,7 @@
 ---
 title: Gerir a sua conta do Centro de Parceiros
 ms.topic: conceptual
-ms.date: 03/15/2021
+ms.date: 03/18/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Saiba como usar o Partner Center para gerir o perfil da sua empresa, informações bancárias e fiscais, funções, permissões e muito mais.
@@ -9,19 +9,19 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c2acc97a5f509f97b0ffeb6904f511cf755e4ca5
-ms.sourcegitcommit: 062ee7d60eb552b25b4dc7cd2493da0a0a267635
+ms.openlocfilehash: 514c8d1e1c94c0a500384502ad57bad977dcc368
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "103487019"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712863"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Gerir a sua conta Partner Center - perfil da empresa, informações bancárias, funções, permissões e muito mais
 
 **Funções apropriadas** - administração global
 - Administrador de conta MPN
 
-A conta que cria no Partner Center quando se inscreve é o seu email de trabalho mais as informações do seu negócio. Depois de criar uma conta, terminará a configuração do perfil completo da sua empresa, incluindo detalhes de suporte, isenções de impostos de arquivo, se for caso disso, e informações de contacto primários. A conta da sua empresa também incluirá contas de utilizador para quem utilizar o Partner Center para adicionar ou gerir clientes, vender subscrições, trabalhar com faturação e faturação, criar perfis de negócio, gerir referenciações, trabalhar com programas de incentivos e fornecer apoio.
+A conta que cria no Partner Center quando se inscreve é o seu email de trabalho mais as informações do seu negócio. Depois de criar uma conta, terminará a configuração do perfil completo da sua empresa, incluindo detalhes de suporte, isenções de impostos de arquivo, se for caso disso, e informações de contacto primários. A conta da sua empresa também incluirá contas de utilizadores para qualquer pessoa da sua equipa que utilize o Partner Center. O trabalho que podem fazer inclui a adição ou gestão de clientes, a venda de subscrições, o trabalho com faturação e faturação, a criação de perfis de negócio, a gestão de referenciações, o trabalho com programas de incentivos, a prestação de apoio, e muito mais.
 
 Ver artigos [Convide os colaboradores a juntarem-se ao Partner Center](guide-to-migration.md) e adicione um novo [utilizador.](create-user-accounts-and-set-permissions.md)
 
@@ -30,7 +30,7 @@ Ver artigos [Convide os colaboradores a juntarem-se ao Partner Center](guide-to-
 
 ## <a name="account-management"></a>Gestão de contas
 
-Para aceder à gestão de conta no Partner Center para todos os parceiros, comercial e desenvolvedor, inscreva-se no painel de [instrumentos](https://partner.microsoft.com/dashboard) partner Center e selecione **Definições** (o ícone de engrenagem) no canto superior direito do ecrã, em seguida, **definições** de conta . Já não tem de escolher entre as definições de Partner e Developer, uma vez que todos os perfis e configurações estão agora combinados.
+Todos os parceiros comerciais e desenvolvedores acedem à **gestão de conta** no Partner Center, assinando no painel de [instrumentos](https://partner.microsoft.com/dashboard) partner Center e selecionando **Definições** (o ícone de engrenagem) no canto superior direito do ecrã e, em seguida, **definições** de Conta . Já não tem de escolher entre as definições de Partner e Developer. Todos os perfis e configurações estão agora combinados.
 
 :::image type="content" source="images/accountsettings/opening.png" alt-text="ícone de definições":::
 
@@ -50,13 +50,13 @@ Quando seleciona o ícone **Definições** e abre o menu **de definições de Co
 
 O separador Partner incluirá todas as informações legais de negócio, tais como nome legal registado e endereço para a sua empresa, bem como contacto primário e localizações empresariais. O separador Revendedor para parceiros que fazem negócios CSP inclui o perfil de suporte ao **Cliente.**
 
-Se a sua empresa não participar na CSP, a vista predefinida mostrará apenas o **separador Parceiro** que incluirá o perfil de suporte ao **Cliente.**
+Se a sua empresa não participar na CSP, a vista predefinida mostrará apenas o **separador Parceiro,** que incluirá o perfil de suporte ao **Cliente.**
 
 ### <a name="when-you-are-in-more-than-one-account"></a>Quando se está em mais de uma conta
 
 Pode fazer parte de mais de uma conta. Pode verificar se faz parte de várias contas pela presença do "apanhador de contas" no menu de navegação à esquerda.
 
-:::image type="content" source="images/accountsettings/account-picker.png" alt-text="Identifique o apanhador de contas":::
+:::image type="content" source="images/accountsettings/picker-one.png" alt-text="Identifique o apanhador de contas":::
 
 Se não vir o apanhador de contas, faz parte de uma única conta. 
 
@@ -64,7 +64,7 @@ Ao clicar neste picker, todas as contas de que faz parte aparecem como uma lista
 
 No exemplo abaixo, o utilizador inscrito faz parte das três contas destacadas. O utilizador pode alternar entre eles clicando numa conta.
 
-:::image type="content" source="images/accountsettings/picked-accounts.png" alt-text="As contas em que faz parte":::
+:::image type="content" source="images/accountsettings/picker-two.png" alt-text="As contas em que faz parte":::
 
 ## <a name="organization-profile"></a>Perfil da organização
 
@@ -74,11 +74,17 @@ Use estas páginas para gerir áreas aprofundadas do seu negócio, incluindo o p
 
 ### <a name="legal-info"></a>Informação legal
 
-Quando se junta ao Partner Center, a sua empresa passa por um processo de verificação com a Microsoft. Pode acompanhar o estado da sua verificação na página **de informações legais.** Mostra o contacto principal (a quem a Microsoft entrará em contacto em relação a questões de parceiros) bem como o contacto jurídico primário (a pessoa que gere as suas informações legais e o seu estado). Todos os locais de negócios da sua empresa estão listados e podem ser adicionados aqui.
+Quando se junta ao Partner Center, a sua empresa passa por um processo de verificação com a Microsoft. Pode acompanhar o estado da sua verificação na página **de informações legais.** Mostra o contacto principal (a quem a Microsoft entrará em contacto em relação a questões de parceiros) e o contacto jurídico primário (a pessoa que gere as suas informações legais e o seu estado). Todos os locais de negócios da sua empresa estão listados e podem ser adicionados aqui. 
+
+### <a name="provide-your-companys-legal-business-details"></a>Forneça detalhes legais de negócios da sua empresa
+
+Pode procurar o perfil da empresa ou introduzir informações da empresa manualmente. Se a sua empresa estiver registada na [Dun & Bradstreet,](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad)utilize o ID DUNS para consultar as informações da sua empresa. Se pretender fornecer os seus dados da sua empresa, selecione **Manual**.
+
+Se a sua empresa estiver localizada na **Arménia**, **Hungria,** **Quirguistão,** **Moldávia,** **Uzbequistão** ou **Rússia,** e introduzir o seu endereço manualmente, validaremos o seu endereço para si. Se o que inseriu, diferir do validado, sugerimos que utilize o endereço validado. A verificação garante que o endereço é preciso e pode ser enviado para.
 
 ### <a name="primary-contact-email"></a>E-mail de contato primário
 
-O e-mail de contacto principal é o que usaremos para o notificar sobre a verificação da sua conta. É muito importante que o e-mail que fornece para o contacto primário seja aquele que é regularmente gerido e vigiado.  
+O e-mail de contacto principal é o que usaremos para notificá-lo sobre a verificação da sua conta. É importante que o e-mail que fornece para o contacto primário seja aquele que é regularmente gerido e vigiado.  
 
 Saiba mais sobre [a Verificação e informações sobre a sua conta.](verification-responses.md)
 

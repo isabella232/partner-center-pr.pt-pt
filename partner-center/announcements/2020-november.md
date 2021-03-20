@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 8c9e978fb636392d7cfd1ad48c101eadeececcc6
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 08eb760769f86f6568703590b28142c1581583a8
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756403"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712533"
 ---
 # <a name="november-2020-announcements"></a>Anúncios de novembro de 2020
 
@@ -305,11 +305,11 @@ O Partner Center é projetado para lidar com um grande volume de pedidos, mas se
 
 ### <a name="apis-to-be-throttled"></a>APIs a ser estrangulado
 
-|**Operação**|**Documentação do Centro de Parceiros**|
+| **Operação** | **Documentação do Centro de Parceiros** |
 |-------------------------|----------------------------------|
 |{baseURL}/v1/clientes/{customer_id}/subscrições|[Obtenha todas as subscrições de um cliente](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-subscriptions)|  
 |{baseURL}/v1/customers/{customer_id}/subscrições/{subscription_id}|[Obter uma subscrição por ID](https://docs.microsoft.com/partner-center/develop/get-a-subscription-by-id) | 
-|{baseURL}/v1/clientes/{customer_id}/encomendas||[Obter todas as encomendas de um cliente](/partner-center/develop/get-all-of-a-customer-s-orders)|  
+|{baseURL}/v1/clientes/{customer_id}/encomendas|[Obter todas as encomendas de um cliente](/partner-center/develop/get-all-of-a-customer-s-orders)|  
 |{baseURL}/v1/customers/{customer_id}/orders/{order_id}|[Obter encomenda por ID](/partner-center/develop/get-an-order-by-id)|  
 |{baseURL}/v1/customers/{customer_id}/orders/{order_id}/provisioningstatus|[Obter o estado de aprovisionamento da subscrição](/partner-center/develop/get-subscription-provisioning-status)|  
 |{baseURL}/v1/customers/{customer_id}/subscrições/{subscription_id}|[Gerir encomendas e gerir uma subscrição](/partner-center/develop/manage-orders#manage-a-subscription)| 
@@ -318,7 +318,7 @@ O Partner Center é projetado para lidar com um grande volume de pedidos, mas se
 |{baseURL}/v1/customers/{customer_id}/subscrições/{subscription_id}/registrationstatus|[Obter o estado de registo da subscrição](/partner-center/develop/get-subscription-registration-status)| 
 |{baseURL}/v1/clientes/{cliente-inquilino-id}/transfers|[Obtenha todas as transferências de um cliente](/partner-center/develop/get-subscription-registration-status)| 
 |{baseURL}/v1/productUpgrades/{upgrade-id}/status|[Obter estado de atualização do produto](/partner-center/develop/get-all-of-a-customer-s-transfers)| 
-|{baseURL}/v1/customers/{customer-id}/subscrições/{subscription-id}/conversões|[Obter uma lista de ofertas de conversão de avaliação](/partner-center/develop/get-all-of-a-customer-s-transfers) 
+|{baseURL}/v1/customers/{customer-id}/subscrições/{subscription-id}/conversões|[Obter uma lista de ofertas de conversão de avaliação](/partner-center/develop/get-all-of-a-customer-s-transfers) |
   
 
 Este anúncio destina-se a proporcionar aos parceiros uma consciência precoce das próximas mudanças, permitindo-lhes assim preparar-se. Recomendamos vivamente que os parceiros se familiarizem com estas APIs e considerem usar o registo de atividade API para obter mais eficiência e evitar estrangulamentos. Para obter mais informações sobre esta funcionalidade, consulte os detalhes da [orientação de estrangulamento da API](/partner-center/develop/api-throttling-guidance). 
@@ -469,14 +469,14 @@ Com a oferta premium, os clientes têm acesso aos recém-lançados Serviços Ger
 
    |****|**Microsoft Teams Rooms Dispositivo Standard USD15 por mês**|**Microsoft Teams Rooms Dispositivo Premium USD50 por mês**|
    |-------------------|:------|:------|
-   |Skype para Empresas|Sim| |
-   |Microsoft Stream|Sim|Sim|
-   |Sistema telefónico|Sim|Sim|
-   |Conferência sonora|Sim|Sim|
-   |Microsoft Intune|Sim|Sim|
+   |Skype para Empresas|Yes| |
+   |Microsoft Stream|Yes|Yes|
+   |Sistema telefónico|Yes|Yes|
+   |Conferência sonora|Yes|Yes|
+   |Microsoft Intune|Yes|Yes|
    | |Microsoft Teams Rooms Standard USD15 por dispositivo por mês|Microsoft Teams Rooms Premium USD50 por dispositivo por mês|
-   |Microsoft Teams Rooms Managed Services| |Sim|
-   |Disponibilidade mundial|Sim|Em mercados selecionados|
+   |Microsoft Teams Rooms Managed Services| |Yes|
+   |Disponibilidade mundial|Yes|Em mercados selecionados|
 
 #### <a name="microsoft-teams-rooms-managed-services"></a>Microsoft Teams Rooms Managed Services
 

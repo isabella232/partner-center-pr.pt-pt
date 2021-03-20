@@ -7,19 +7,19 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8b45ef4767e4bde28befd35c5294ed19149bf034
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: 531f28ae2bceed2d854c6fb139d0abb837a047b5
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92530395"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712244"
 ---
 # <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>Saiba como ler ficheiros de reconciliação de utilização diária no Partner Center
 
 **Aplica-se a**
 
 - Partner Center
-- Centro de Parceiros para Microsoft Cloud para governo dos EUA
+- Centro de Parceiros do Microsoft Cloud for US Government
 
 **Funções adequadas**
 
@@ -70,7 +70,7 @@ Este artigo explica como ler ficheiros de reconciliação de utilização diári
 | ResourceGroup | Representa um contentor que detém recursos relacionados para uma solução Azure. |
 | RecursoURI | O URI do recurso que está a ser utilizado. |
 | ChargeType | O tipo de custo ou ajuste.  |
-| Preço Unitário | Preço por licença, conforme publicado na tabela de preços no momento da compra. Certifique-se de que este preço corresponde às informações armazenadas no seu sistema de faturação durante a reconciliação. |
+| UnitPrice | Preço por licença, conforme publicado na tabela de preços no momento da compra. Certifique-se de que este preço corresponde às informações armazenadas no seu sistema de faturação durante a reconciliação. |
 | Quantidade | Número de licenças. Certifique-se de que este preço corresponde às informações armazenadas no seu sistema de faturação durante a reconciliação. |
 | UnitType | O tipo de unidade em que o contador é carregado.  |
 | BillingPreTaxTotal | Valor total da faturação antes de impostos.<br/> _**BillingPreTaxTotal** = FLOOR([ [ @EffectiveUnitPrice *@Quantity* @PCToBCExchangeRate [], 2)_ |
@@ -87,7 +87,8 @@ Este artigo explica como ler ficheiros de reconciliação de utilização diári
 | Direitodid | Representa o ID de subscrição Azure. |
 | DireitosDescrição | Representa o nome do ID de assinatura Azure. |
 | PartnerEarnedCreditPercentage | Apresenta o PartnerEarnedCredit para o item da linha. O crédito adquirido será de 0 ou 15 por cento |
-
+| CreditPercentage | Exibe o Crédito de Consumo Azure. O crédito ganho será de 0 ou 100 por cento. |
+| CréditoType | Tipo de crédito. Por exemplo, **a Azure Credit Applied.** |
 >[!NOTE]
 >O uso diário normalmente leva 24 horas para aparecer no Partner Center ou para ser acedido através da API.
 
