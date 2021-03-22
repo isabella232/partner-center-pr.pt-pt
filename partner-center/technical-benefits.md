@@ -9,12 +9,12 @@ ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 02/24/2021
-ms.openlocfilehash: b3f62bb6d6d48e9dbcdcb906041a1653de436606
-ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
+ms.openlocfilehash: 3e3f1d576c03e437c218f7902c7770a1203eba70
+ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "103022796"
+ms.lasthandoff: 03/22/2021
+ms.locfileid: "104768725"
 ---
 # <a name="explore-technical-presales-and-deployment-services-tpd"></a>Explore as Pré-vendas Técnicas e os serviços de Implantação (TPD) 
 
@@ -30,7 +30,7 @@ Todas as soluções Cloud ou Hybrid são suportadas, para além das instalaçõe
 
 - Os parceiros Gold e Silver recebem assistência ilimitada de pré-vendas. 
 
-- Os membros da rede podem adquirir [o Action Pack](https://partner.microsoft.com/membership/action-pack) para receber cinco horas de aconselhamento  
+- Os membros da rede podem adquirir [o Action Pack](https://partner.microsoft.com/membership/action-pack) para receber cinco horas de aviso.  
 
 |     Tipo de oferta    | Número de horas de aviso |   Pré-venda técnica   |
 |:-----------------:|:------------------------:|:----------------------:|
@@ -46,7 +46,7 @@ Inscreva-se em qualquer conta de utilizador associada à MPN para **[criar um pe
 
 Os seus benefícios técnicos de pré-venda e serviços de implantação (TPD) são automaticamente ativados e disponíveis para todos os utilizadores associados à MPN. 
 
-Para ver os seus benefícios técnicos no Partner Center
+Para ver os seus benefícios técnicos no Partner Center:
 
 1. Inscreva-se com a sua conta associada à MPN no [painel de instrumentos](https://partner.microsoft.com/dashboard)do Centro de Parceiros . 
 

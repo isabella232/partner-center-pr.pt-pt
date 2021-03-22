@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9622f02039360e8ab39f459c9a2fe082ec70c854
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 7d80651c4e5e4afb476dada388f23c118e0bdf25
+ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756738"
+ms.lasthandoff: 03/22/2021
+ms.locfileid: "104768708"
 ---
 # <a name="troubleshoot-account-setup-or-mpn-renewal-issues"></a>Configuração de conta de resolução de problemas ou problemas de renovação de MPN
 
@@ -28,20 +28,20 @@ Aqui ficam algumas sugestões para resolver problemas comuns que surgem ao confi
 
 ## <a name="what-happens-if-you-are-migrating-from-partner-membership-center-and-you-cant-edit-any-company-information-fields"></a>O que acontece se estiver a migrar do Centro de Membros de Parceiros e não puder editar quaisquer campos de informação da empresa
 
-Nos casos em que a sua empresa já tenha presença no Partner Center (por exemplo, conta CSP) – será mostrado um ecrã apenas de leitura. Este ecrã apresentará todas as informações sobre a sua empresa tal como existe no Partner Center.
+Nos casos em que a sua empresa já tenha presença no Partner Center (por exemplo, uma conta CSP) – será mostrado um ecrã apenas de leitura. Este ecrã apresentará todas as informações sobre a sua empresa tal como existe no Partner Center.
 
 Não podes alterar os detalhes deste ecrã. Isto é por design e não por um erro.
 
 Selecione **Aceitar** e **Continuar** a prosseguir.
 
 
-### <a name="if-the-it-department-has-turned-off-sign-up-for-partner-center"></a>Se o departamento de TI tiver desligado **a inscrição para o Partner Center**.
+### <a name="if-the-it-department-has-turned-off-sign-up-for-partner-center"></a>Se o departamento de TI tiver desligado **inscreva-se no Partner Center**
 
 Você vê esta mensagem porque os utilizadores virais são desativado, ou porque a Inscrição Viral é desativada no inquilino AZure AD. O administrador Global para a sua conta Azure AD pode permitir as funcionalidades necessárias executando o seguinte comando PowerShell:
 
 **Set-MsolCompanySettings -AllowEmailVerifiedUsers $true -AllowAdHocSubscriptions $true**
 
-Para mais informações, leia [Self-service inscreva-se](/azure/active-directory/users-groups-roles/directory-self-service-signup)
+Para mais informações, leia [o Self-service inscreva-se.](/azure/active-directory/users-groups-roles/directory-self-service-signup)
 
 ## <a name="you-forgot-your-password"></a>Esqueceu-se da sua senha.
 

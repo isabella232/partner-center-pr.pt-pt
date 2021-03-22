@@ -9,12 +9,12 @@ author: parthp
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 316fee641e321311c13e29a01f2e9091c69e67a6
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: 9ed503fbeee6264e1127163b7cc44b7b351d3b89
+ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474279"
+ms.lasthandoff: 03/22/2021
+ms.locfileid: "104768674"
 ---
 # <a name="partner-center-has-two-levels-of-accounts-for-mpn-partners"></a>Partner Center tem dois níveis de contas para parceiros MPN
 
@@ -30,17 +30,17 @@ A sua empresa tem dois níveis de contas no Partner Center.
 ## <a name="the-top-level-is-the-partner-global-account-pga"></a>O nível superior é a conta global Partner (PGA).
 
 - A conta global partner contém o endereço de negócio legal e o contacto principal para a sua empresa. 
-- Consulte os detalhes da sua conta global partner a partir do perfil da **Organização de Definições,**  ->  **Organization profile** **Perfil Legal**.
+- Consulte os detalhes da sua conta global partner a partir do perfil da **Organização de Definições,**  ->   **Perfil Legal**.
 - Os detalhes também conterão o MpN ID de conta global partner. 
 - A PGA é a mãe da sua empresa e não está habituada a associar-se a programas de Incentivos ou Cloud Solution Provider. 
 - As localizações devem ser utilizadas para essas associações.
 
 ## <a name="the-second-level-account-is-the-location-account-called-partner-location-account-pla"></a>A conta de segundo nível é a conta de localização chamada Conta de Localização de Parceiros (PLA).
 
-A sua PGA pode ter localizações comerciais adicionais por baixo. Cada local tem a sua própria CONTA DE ID MPN ou De Localização de Parceiros (PLA). Utiliza a localização MPN ID para negócios transacionais e inscrição em programas de incentivo.
+A sua PGA pode ter localizações comerciais extra por baixo. Cada local tem a sua própria CONTA DE ID MPN ou De Localização de Parceiros (PLA). Utiliza a localização MPN ID para negócios transacionais e inscrição em programas de incentivo.
 
 - Cada Conta de Localização do Parceiro pode ter o seu próprio endereço legal e contacto primário. As localizações também podem partilhar o endereço legal com a conta global ou com outros locais.
-- Ver a lista de contas **Settings** de localização do parceiro a partir de  ->  **Localizações de Definições**.
+- Ver a lista de contas de localização do parceiro a partir de  ->  **Localizações de Definições**.
 - Todas as contas de localização estão no mesmo nível e na conta global do Partner.
 - Os administradores de conta podem adicionar localizações.
 
