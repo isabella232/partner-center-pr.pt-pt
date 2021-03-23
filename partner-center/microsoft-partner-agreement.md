@@ -1,7 +1,7 @@
 ---
 title: O Microsoft Partner Agreement (MPA) para a CSP
 ms.topic: how-to
-ms.date: 02/11/2021
+ms.date: 03/23/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Conheça os requisitos do parceiro Da Microsoft CSP para assinar e verificar este Acordo de Parceiro microsoft unificado e aceite digitalmente (MPA).
@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 829b444f1990058cd323e3effec6da6d7585155a
-ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
+ms.openlocfilehash: 34f43895da6b25ca62e32b0d56eaa401564cca92
+ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "100281324"
+ms.lasthandoff: 03/23/2021
+ms.locfileid: "104880808"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>Conheça o Acordo de Parceiros da Microsoft (MPA) para parceiros de programas da CSP
 
@@ -110,5 +110,7 @@ Também pode ver se assinou o acordo selecionando **Contratos** a partir de defi
 3. Para verificar o estado do MPA no Centro de Parceiros depois de concluir o passo 1 e/ou 2 acima: [Verificar o estado de aceitação do Contrato de Parceiro da Microsoft](https://assetsprod.microsoft.com/mpn/verify-mpa-acceptance-status.pptx)
  
 ## <a name="next-steps"></a>Passos seguintes
+
+- [Como os fornecedores indiretos podem ajudar os seus revendedores a adotar o Acordo de Parceiros da Microsoft - FAQ](mpa-indirect-provider-faq.md)
 
 - [Enroll in the Cloud Solution Provider program](indirect-reseller-tasks-in-partner-center.md) (Inscrever-se no programa do Fornecedor de Soluções Cloud)

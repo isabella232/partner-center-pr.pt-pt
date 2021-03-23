@@ -8,17 +8,105 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/18/2021
-ms.openlocfilehash: eb6f57ed9a1b3031aeaaff51260e718ce3420ae3
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.date: 03/22/2021
+ms.openlocfilehash: a3172b78d41a966b52a824703a7f15f163467d63
+ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712312"
+ms.lasthandoff: 03/23/2021
+ms.locfileid: "104880740"
 ---
 # <a name="march-2021-announcements"></a>Anúncios de março de 2021
 
 Esta página fornece os anúncios para o Microsoft Partner Center para março de 2021.
+
+________________
+## <a name="corrections-made-to-march-1-2021-perpetual-software-price-list"></a><a name="14"></a>Correções feitas até 1 de março de 2021 lista de preços perpétuos de software
+
+### <a name="categories"></a>Categorias
+
+- Data: 2021-03-23
+- Ofertas/Mercados
+
+### <a name="impacted-audience"></a>Audiência impactada
+
+Fornecedores indiretos e parceiros de conta direto que transfiram software perpétuo no programa Cloud Solution Provider 
+
+### <a name="details"></a>Detalhes
+
+A lista de preços do software perpétuo publicada a 1 de março de 2021 incluía mercados que não deveriam ter estado lá. A lista de preços perpétuos de software foi atualizada em 17 de março de 2021 com as correções. Estas correções só se aplicavam:
+
+- ID do produto: DF77X4D43RKT 
+- Nome do produto: Windows 10 Home to Pro Upgrade para o Microsoft 365 Business
+- Mercados removidos ou não apoiados: AE, AF, AL, AM, AO, BA, BB, BD, BH, BM, BN, BO, BR, BS, BW, BY, BZ, CI, CL, CM, CO, CR, CW, CW, DO, DZ, EC, EG, ET, FJ, FO, GE, GH, GT, HN, IL, IN, IQ, JM, JO, KE, KG, KN, KW, KY, KZ, LB, LK, LY, MA, MC, MD, ME, MN, MN, , NI, NP, OM, PA, PE, PH, PK, PR, PY, QA, RS, RU, RW, SG, SN, SV, TH, TJ, TM, TN, TT, TZ, UA, UG, UY, UZ, VE, VN, YE, ZM, ZW
+
+Estas alterações aplicam-se apenas ao produto acima referido. Outros produtos não tinham correções. 
+
+### <a name="next-steps-and-resources"></a>Próximos passos e recursos
+
+- Os parceiros que transacionam software perpétuo devem descarregar a mais recente lista de preços perpétuos de software.
+- Consulte os [códigos dos países](https://docs.microsoft.com/azure/marketplace/commercial-marketplace-co-sell-countries) da região para um mapeamento amigável da abreviatura de duas letras para os países.
+________________
+## <a name="sdk-release-on-net-standard-v1170"></a><a name="13"></a> Lançamento SDK em .NET Standard (v1.17.0)
+
+### <a name="categories"></a>Categorias
+
+- Data: 2021-03-23
+
+- Capacidades
+ 
+### <a name="impacted-audience"></a>Audiência impactada
+
+Parceiros Direct Bill e Fornecedores Indiretos que participam no programa CSP que estão a utilizar o Partner Center .NET SDK.
+
+### <a name="details"></a>Detalhes
+
+A partir de 23 de março de 2020, os Parceiros podem começar a descarregar a versão do [MicrosoftPartnerCenter.NETSDK (NuGet Gallery | Microsoft.Store.PartnerCenter 1.17.0)](https://www.nuget.org/packages/Microsoft.Store.PartnerCenter/1.17.0), juntamente com [amostras atualizadas](https://github.com/Microsoft/Partner-Center-DotNet-Samples)do Centro De Parceiros Públicos SDK GitHub . Esta versão inclui atualizações aos seguintes métodos:
+
+#### <a name="audit-updated-new-operation-types"></a>Auditoria Atualizada: Novos tipos de operação
+
+Adicione novos [tipos de operação](https://docs.microsoft.com/partner-center/develop/auditing-resources) para saber quando o cliente aprovou e encerrou o DAP.
+
+- DapAdminRelationshipApproved
+
+- DapAdminRelationshipTerminated
+
+#### <a name="audit-updated-new-resource-and-operation-types"></a>Auditoria Atualizada: Novos tipos de recursos e de operação
+
+Adicionou novos [tipos de recursos e de operação](https://docs.microsoft.com/partner-center/develop/auditing-resources) para apoiar o cenário de função do diretório do cliente.
+
+- Novo tipo de recurso "CustomerDirectoryRole"
+
+- Tipos de operação "AddUserMember" e "RemoveUserMember"
+
+#### <a name="sdk-updates-to-customer-accounts"></a>Atualizações SDK para contas de clientes
+
+- Suporte para GET /clientes/{customer-tenant-id}/directSignedMicrosoftCustomerAgreementStatus
+
+- GET /clientes/{cliente-inquilino-id}/qualificações
+
+- POST /clientes/{customer_id}/qualificações?código={validação Código}
+
+#### <a name="additional-changes"></a>Alterações adicionais
+
+As seguintes alterações são introduzidas como parte do Novo Comércio, e estão atualmente disponíveis apenas por convite para parceiros que fazem parte da experiência técnica M365/D365 New Commerce. Os parceiros que não fazem parte da pré-visualização técnica do Novo Comércio não devem notar impactos e devem ser compatíveis com retroparos.
+
+- Alterações no catálogo:
+
+  - GET /products/{product-id}/skus/{sku-id}
+
+- Compra e Gestão:
+  - GET /clientes/{clienteId}/subscrições
+  - GET /clientes/{customerId}/subscrições/{subscriçãoD}
+  - PATCH /clientes/{customerId}/subscrições/{subscriçãoD}
+  - GET /clientes/{customerId}/subscrições/{subscriçãoD}/transitioneligibilities
+  - GET /clientes/{customerId}/subscrições/{subscriçãoId}/transições
+  - POST /clientes/{customerId}/subscrições/{subscriçãoD}/transições
+
+### <a name="next-steps"></a>Passos Seguintes
+
+- Descarregue a versão mais recente [do MicrosoftPartnerCenter.NETSDK (NuGet Gallery | Microsoft.Store.PartnerCenter 1.17.0)](https://www.nuget.org/packages/Microsoft.Store.PartnerCenter/1.17.0)
+- Faça o download e reveja as amostras do [GitHub](https://github.com/Microsoft/Partner-Center-DotNet-Samples)
 
 ________________
 ## <a name="csp-commercial-marketplace-offer-and-fy21-csp-incentives-for-eligible-offers"></a><a name="12"></a>Oferta de mercado comercial da CSP e incentivos ao CDS para ofertas elegíveis

@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/18/2021
-ms.openlocfilehash: 87d71434a44bcfe66f7a928291007237e9c958c6
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.date: 03/22/2021
+ms.openlocfilehash: 669bf079b095cff1c7198aa63dc900453bbd745a
+ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712295"
+ms.lasthandoff: 03/23/2021
+ms.locfileid: "104880757"
 ---
 # <a name="partner-center-announcements"></a>Anúncios do Centro de Parceiros
 
@@ -22,6 +22,8 @@ Saiba mais sobre atualizações importantes do Centro de Parceiros. Estas inform
 
 |**Categoria**|**Anúncios de março de 2021**|**Anunciado**|
 |---------|:---------|:---------|
+|Ofertas/Mercados|[Correções feitas até 1 de março de 2021 lista de preços perpétuos de software](2021-march.md#14)|23 de março|
+|Capacidades|[Lançamento SDK em .NET Standard (v1.17.0)](2021-march.md#13)|23 de março|
 |Capacidades|[Oferta de mercado comercial da CSP e incentivos ao CDS para ofertas elegíveis](2021-march.md#12)|18 de março|
 |Capacidades|[Power BI Premium oferece nomeação e atualização pré-requisito](2021-march.md#11)|18 de março|
 |Ofertas/Mercados|[Atualizações de preços de março para o Microsoft 365 F3](2021-march.md#10)|16 de março|

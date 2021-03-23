@@ -8,13 +8,13 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.date: 07/01/2020
-ms.openlocfilehash: 12b902f8134a4fcf6d93439658da95fff6d80c4f
-ms.sourcegitcommit: a2ea54f814fdbd619421a83482831b22f49416f6
+ms.date: 03/23/2021
+ms.openlocfilehash: ece0e5f3bedf1496a252ac8e8c1545fb22ec8108
+ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "94567054"
+ms.lasthandoff: 03/23/2021
+ms.locfileid: "104880774"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Parceiro com revendedores indiretos no programa Fornecedor de Soluções Cloud
 
@@ -101,7 +101,7 @@ Para as subscrições existentes, se decidir trabalhar com um revendedor indiret
 | **Para realizar isto** | **Faça isto** | **Onde** |
 |   ------------------   |   -------   |   -----   |
 | Capacitar o revendedor a gerir a conta de um cliente e ter permissões de administrador para gerir as suas subscrições | Associar um revendedor a uma conta de cliente ao adicionar um novo cliente | Na página do **novo cliente** |
-| Permitir ao revendedor gerir a conta de um cliente Azure|Associar um revendedor a uma conta de cliente da Azure ao adicionar um novo cliente|No portal de **serviçoS Azure** , selecione [Definições de Utilizador](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings) para dar permissão de proprietário de **inquilino** reencameiro indireto|
+| Permitir ao revendedor gerir a conta de um cliente Azure|Associar um revendedor a uma conta de cliente da Azure ao adicionar um novo cliente|No portal de **serviçoS Azure**, selecione [Definições de Utilizador](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings) para dar permissão de proprietário de **inquilino** reencameiro indireto|
 | Dê ao revendedor crédito por incentivos | Associar o revendedor à subscrição (nova ou existente) | Na nova página **de subscrição** |
 | Delegar apoio ao cliente para subscrições específicas do revendedor | Selecione o revendedor na lista **de contactos de suporte designado** | Na página de pormenor da subscrição: Selecione o cliente da página **dos seus Clientes** e, em seguida, selecione a subscrição a partir da página de **Subscrições** do cliente |
 
@@ -168,6 +168,10 @@ Quando os clientes querem comprar novas subscrições, atualizar as existentes o
 7. **Selecione Enviar por terminada.**
 
 ## <a name="next-steps"></a>Passos seguintes
+
+Encontre respostas às suas perguntas sobre o Acordo de Parceiros da Microsoft
+
+- [Como os fornecedores indiretos podem ajudar os seus revendedores a adotar o Acordo de Parceiros da Microsoft - FAQ](mpa-indirect-provider-faq.md)
 
 Para obter mais informações sobre a gestão de contas e subscrições de clientes, consulte:
 
