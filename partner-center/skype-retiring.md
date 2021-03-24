@@ -9,18 +9,14 @@ ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 06/03/2020
-ms.openlocfilehash: c9ad5b1c0671ff1d27d25c6f92499b72d77e6c22
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: 67c1689136892443937748b6cc9e31e4f0ac9983
+ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "92529655"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "105028422"
 ---
 # <a name="migrate-skype-for-business-online-plan-1-subscriptions-to-newer-office-365-versions"></a>Migrate Skype for Business Online Plan 1 subscriptions to newer Office 365 version (Migrar as subscrições do Skype para Empresas Online Plano 1 para a versão mais recente do Office 365)
-
-**Aplica-se a**
-
-- Partner Center
 
 O Skype for Business Online Plan 1 será reformado, a partir de 1 de agosto de 2018. Após essa data, os clientes deixarão de poder adquirir novas subscrições do Skype para o Plano de Negócios 1, e as subscrições existentes não renovarão automaticamente quando expirarem e não fornecerão uma opção de renovação. Na página de pormenor da subscrição, o estado de subscrição do Skype for Business Online Plan 1 mudou para "Expira na [data]" de "Renovações automáticas em [data]".  
 
@@ -56,25 +52,25 @@ A Microsoft oferece continuamente novos produtos e serviços aos nossos parceiro
 
 ### <a name="migrate-your-customers-to-new-plans"></a>Migrar os seus clientes para novos planos
 
-1. Para adquirir a nova subscrição, a partir do **menu Partner Center** , selecione **Clientes,** selecione o cliente que pretende mover e, em seguida, selecione **Adicionar subscrições** .
+1. Para adquirir a nova subscrição, a partir do **menu Partner Center**, selecione **Clientes,** selecione o cliente que pretende mover e, em seguida, selecione **Adicionar subscrições**.
 
-2. Selecione a subscrição que pretende adquirir no catálogo (neste caso, uma das opções acima), introduza o número de licenças e, em seguida, **selecione Enviar por isso** . 
+2. Selecione a subscrição que pretende adquirir no catálogo (neste caso, uma das opções acima), introduza o número de licenças e, em seguida, **selecione Enviar por isso**. 
 
 O seu cliente deve agora ter subscrições antigas e novas, a antiga subscrição do Skype para o Plano Online 1 e a nova subscrição 'target', por exemplo, Opção 1 - Office 365 Enterprise F1.
 
-3. Para reatribuir as licenças dos utilizadores do cliente, a partir do menu **Partner Center,** selecione **Clientes,** selecione o cliente que está a mover e, em seguida, selecione **Utilizadores e licenças** . A página de Utilizadores e Licenças do cliente abre.
+3. Para reatribuir as licenças dos utilizadores do cliente, a partir do menu **Partner Center,** selecione **Clientes,** selecione o cliente que está a mover e, em seguida, selecione **Utilizadores e licenças**. A página de Utilizadores e Licenças do cliente abre.
 
 4. Para reatribuir a licença de utilizador, selecione o utilizador para reatribuir e, em seguida, **selecione Gerir licenças.**
 
 5. Na página **'Gerir licenças',** limpe a caixa de verificação da licença Skype for Business Online Plan 1 e selecione um novo plano de serviço para a subscrição para a qual o cliente está a mover-se.
 
-6. Selecione **Submeter** . Uma página de confirmação lista as novas atribuições de licença. Continue este mesmo processo para outros utilizadores que necessitem de atribuição de licenças.
+6. Selecione **Submeter**. Uma página de confirmação lista as novas atribuições de licença. Continue este mesmo processo para outros utilizadores que necessitem de atribuição de licenças.
 
 Depois de transferir a licença do utilizador para o novo serviço, pode cancelar com segurança a subscrição aposentada a nível do cliente.
 
 7. A partir do menu **Partner Center,** selecione **Clientes.** Selecione o cliente cuja subscrição está a cancelar.
 
-8. Na página de detalhes da subscrição, desa estale a subscrição **de Suspended** .
+8. Na página de detalhes da subscrição, desa estale a subscrição **de Suspended**.
 
 9. **Selecione Enviar.**
 

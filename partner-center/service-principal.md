@@ -9,18 +9,14 @@ author: dhirajgandhi
 ms.author: dhgandhi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 21ef2aaa46359570bbf13c12c5fb6c1f5eab080a
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: 6ef5373fd9a606cd25345cbe80a55f28fc1f753f
+ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "92529491"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "105028473"
 ---
 # <a name="add-an-azure-ad-application-service-principal-in-partner-center"></a>Adicione uma aplicação AD AZure (principal serviço) no Partner Center
-
-**Aplica-se a**
-
-- Partner Center
 
 **Funções adequadas**
 
@@ -33,19 +29,19 @@ No programa Mercado Comercial no Partner Center, pode agora adicionar uma aplica
 
 ## <a name="add-an-azure-ad-application-service-principal"></a>Adicione uma aplicação AD AZure (principal serviço)
 
-1. A partir do painel 'Partner Center', selecione **Definições** e, em seguida, selecione **as definições do Programador** .
+1. A partir do painel 'Partner Center', selecione **Definições** e, em seguida, selecione **as definições do Programador**.
 
-2. Selecione **Utilizadores** e, em seguida, **selecione Adicionar Aplicações AD Azure** .
+2. Selecione **Utilizadores** e, em seguida, **selecione Adicionar Aplicações AD Azure**.
 
 3. Selecione uma aplicação AD Azure existente ou crie uma nova.
 
 4. Se criar uma nova aplicação AD Azure, inclua as seguintes informações:  
 
-   - **URL de resposta** : O URL onde os utilizadores podem iniciar sação para utilizar a sua aplicação AD Azure.
+   - **URL de resposta**: O URL onde os utilizadores podem iniciar sação para utilizar a sua aplicação AD Azure.
 
-   - **App ID URI** : Um identificador lógico para a aplicação Azure AD que é apresentado quando envia um único pedido de inscrição para Azure AD.
+   - **App ID URI**: Um identificador lógico para a aplicação Azure AD que é apresentado quando envia um único pedido de inscrição para Azure AD.
 
-   - **Funções de segurança** : O **Gestor** de Funções (o mesmo que o papel de 'Proprietário' no CPP) e o **Desenvolvedor** (o mesmo papel de 'Contribuinte' no CPP) aplicam-se ao programa de Marketplace Comercial no Partner Center, podendo ser associados a esta Aplicação AD Azure.  
+   - **Funções de segurança**: O **Gestor** de Funções (o mesmo que o papel de 'Proprietário' no CPP) e o **Desenvolvedor** (o mesmo papel de 'Contribuinte' no CPP) aplicam-se ao programa de Marketplace Comercial no Partner Center, podendo ser associados a esta Aplicação AD Azure.  
 
 ## <a name="next-steps"></a>Passos seguintes
 

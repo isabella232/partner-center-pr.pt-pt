@@ -9,19 +9,19 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 03292d00864e30fd4941320748aef1590c9e2a80
-ms.sourcegitcommit: 175fa04ba45a1133b77d8055a0123561bd987415
+ms.openlocfilehash: 4b931f616417d8781b8864d7bcb9b0d6d47560ec
+ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "96926649"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "105028234"
 ---
 # <a name="software-assurance-planning-services-in-partner-center"></a>Software Assurance Planning Services in Partner Center (Serviços de Planeamento do Software Assurance no Partner Center)
 
 **Funções adequadas**
 
-- Admin Global
-- MPN Partner Admin
+- Administrador global
+- Administrador sócio da MPN
 
 Como parceiro de Serviços de Planeamento aprovado, a Microsoft compensa-o por fornecer compromissos de planeamento pré-implementação para clientes empresariais. Participar neste programa pode ajudá-lo a atrair mais clientes, tornar-se o seu parceiro de planeamento de confiança e levar a compromissos adicionais com o cliente.
 

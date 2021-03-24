@@ -2,20 +2,21 @@
 title: Configurar conta de pagamento & formulários fiscais - Mercado comercial da Microsoft
 description: Para receber dinheiro das vendas de ofertas no mercado comercial, aprenda a configurar a sua conta de pagamento e preencha os formulários fiscais necessários.
 ms.topic: conceptual
-ms.service: marketplace
+ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 12/10/2019
-ms.openlocfilehash: 58a981dbed3aa9a38a29cdd2b085d661b9341232
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: c08dfb816e08efdc194dbeff8800a2cbcec2b972
+ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492692"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "105028439"
 ---
 # <a name="set-up-your-payout-account-and-tax-forms"></a>Configurar a conta de dividendos e os formulários fiscais
 
-**Funções adequadas:**
+**Funções adequadas**
 
 - Administrador de conta
 - Administrador global
@@ -54,7 +55,7 @@ Primeiro, terá de criar um perfil fiscal e atribuí-lo aos programas em que par
 
 4. Se quiser utilizar um perfil fiscal existente, selecione-o a partir da redução. Caso contrário, **selecione Criar novo perfil** e prima Enviar por **isso.** Será levado para a página de perfis fiscais.
 
-5. Clique no botão **Editar** para editar as suas informações fiscais.
+5. Selecione o botão **Editar** para editar as suas informações fiscais.
 
 6. Selecione o botão de rádio apropriado e selecione o seu país/região se solicitado. Este passo determina a entidade empresarial da Microsoft que será usada para fazer pagamentos na sua conta.
 
@@ -91,7 +92,7 @@ Uma conta de pagamento é a conta bancária para a qual enviamos os lucros das s
 
 3. Selecione o método de pagamento que pretende configurar.
 
-4. Selecione um perfil de pagamento existente ou clique em **Criar um novo perfil de pagamento** para criar um novo perfil para o método de pagamento escolhido.
+4. Selecione um perfil de pagamento existente ou selecione **Criar um novo perfil de pagamento** para criar um novo perfil para o método de pagamento escolhido.
 
 ### <a name="create-a-bank-based-payment-profile"></a>Criar um perfil de pagamento baseado no banco
 
@@ -111,7 +112,7 @@ Se optar por utilizar uma conta bancária para receber pagamentos, completará o
 
 5. Terá de selecionar um perfil de pagamento para cada programa em que participe, embora possa utilizar o mesmo perfil para vários programas.
 
-6. Clique em submeter-se para guardar as suas alterações.
+6. Selecione submeter-se para guardar as suas alterações.
 
    > [!NOTE]
    > A Microsoft pode demorar até 48 horas a validar as informações no seu perfil. Quando este processo estiver *completo, o estado de verificação* mostrará **Completa**
@@ -130,7 +131,7 @@ Pode editar os perfis de pagamento existentes se precisar de efetuar alteraçõe
 
 2. Por baixo do Pagamento e da rubrica *fiscal,* selecione **Payout e tax profiles**.
 
-3. Os seus perfis de pagamento serão listados juntamente com o seu estado. Encontre o perfil que deseja editar e clique em **Editar** na extrema-direita
+3. Os seus perfis de pagamento serão listados juntamente com o seu estado. Encontre o perfil que deseja editar e selecione **Editar** na extrema-direita
 
 > [!IMPORTANT]
 > Alterar a sua conta de pagamento pode atrasar os seus pagamentos até um ciclo de pagamento. Este atraso ocorre porque precisamos verificar a mudança de conta, tal como fizemos quando estabeleceu a conta de pagamento pela primeira vez. Continuará a ser pago pelo valor total depois de verificada a sua conta; quaisquer pagamentos devidos para o ciclo de pagamento em curso serão adicionados ao próximo. Veja [ser pago no mercado comercial](marketplace-get-paid.md)para mais informações.
@@ -148,9 +149,9 @@ Questões comuns sobre a utilização de PayPal como método de pagamento:
 
 - **O meu país/região é apoiado?** Consulte [os limiares de pagamento, métodos e prazos](payment-thresholds-methods-timeframes.md) para saber onde PayPal é um método de pagamento suportado.
 
-- **A minha conta PayPal tem de ser registada no mesmo país/região que a minha conta partner Center?** Não. Quando configurar uma conta PayPal, pode aceitar a configuração padrão. Não deve ter problemas com outros países/regiões e moedas a menos que tenha bloqueado o pagamento em algumas moedas. Esta definição é gerida na página PayPal's Payment Receiving Preferences.
+- **A minha conta PayPal tem de ser registada no mesmo país/região que a minha conta partner Center?** N.º Quando configurar uma conta PayPal, pode aceitar a configuração padrão. Não deve ter problemas com outros países/regiões e moedas a menos que tenha bloqueado o pagamento em algumas moedas. Esta definição é gerida na página PayPal's Payment Receiving Preferences.
 
-- **Tenho de aceitar PayPal pagamentos manualmente?** Não. PayPal contas são definidas por padrão para exigir que os utilizadores aceitem pagamentos manualmente, o que significa que se não aceitar o pagamento no prazo de 30 dias, é devolvido. Pode alterar esta definição desligando "Ask Me" na página mais definições de PayPal.
+- **Tenho de aceitar PayPal pagamentos manualmente?** N.º PayPal contas são definidas por padrão para exigir que os utilizadores aceitem pagamentos manualmente, o que significa que se não aceitar o pagamento no prazo de 30 dias, é devolvido. Pode alterar esta definição desligando "Ask Me" na página mais definições de PayPal.
 
 - **Que moedas PayPal suporta?** Consulte [a página de suporte da PayPal](https://developer.paypal.com/docs/classic/api/currency-codes/#paypal) para a lista atual
 
@@ -203,7 +204,7 @@ Se optar por utilizar uma conta bancária para receber pagamentos, completará o
 3. Fornecer detalhes do beneficiário.
 4. De volta à página de *atribuição de perfil,* selecione a moeda que gostaria que usássemos quando emitimos os seus pagamentos.
 5. Terá de selecionar um perfil de pagamento para cada programa em que participe, embora possa utilizar o mesmo perfil para vários programas.
-6. Clique em submeter-se para guardar as suas alterações.
+6. Selecione submeter-se para guardar as suas alterações.
 
 ## <a name="next-steps"></a>Passos seguintes
 
