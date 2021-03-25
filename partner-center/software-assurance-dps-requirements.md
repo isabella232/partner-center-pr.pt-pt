@@ -9,21 +9,21 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6955f28c78978e1f9f9e887ef612d38d57568d77
-ms.sourcegitcommit: 9c7a8a33c73c9536142a59a6c65027202ec20547
+ms.openlocfilehash: 2cf45807c6347ad62ad343d2be8a477ab8ea9d33
+ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "92529624"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "105028269"
 ---
 # <a name="view-eligibility-requirements-for-planning-services-engagements"></a>Ver requisitos de elegibilidade para compromissos de Serviços de Planeamento
 
 **Funções adequadas**
 
-- Admin Global
-- MPN Partner Admin
+- Administrador global
+- Administrador sócio da MPN
 
-Este tópico ajuda-o a conhecer os requisitos de elegibilidade que precisa de satisfazer antes de a sua empresa poder inscrever-se ou entregar compromissos de Software Assurance Planning Services para a Microsoft.
+Este artigo ajuda-o a conhecer os requisitos de elegibilidade que precisa de satisfazer antes de a sua empresa poder inscrever-se ou entregar compromissos de Software Assurance Planning Services para a Microsoft.
 
 >[!NOTE]
 > Além de satisfazer os requisitos de elegibilidade para uma oferta de Serviços de Planeamento, também deve seguir vários outros passos antes de poder fornecer compromissos de Software Assurance Planning Services. Para obter uma visão geral de todas as etapas necessárias, consulte [os Serviços de Planeamento de Garantia de Software no Partner Center](software-assurance-dps.md).

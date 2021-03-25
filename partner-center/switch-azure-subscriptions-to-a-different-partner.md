@@ -9,20 +9,19 @@ ms.localizationpriority: medium
 author: dhirajgandhi
 ms.author: dhgandhi
 ms.date: 02/09/2021
-ms.openlocfilehash: b9058b00708e0ed745c7d6343dfd9c04382cfa9e
-ms.sourcegitcommit: 64243caed029ffe40e2bbc369f4ee96f4f0ca26f
+ms.openlocfilehash: 20e00034e9c20a5d41500892df059b34a9347a63
+ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/18/2021
-ms.locfileid: "100645661"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "105028303"
 ---
 # <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>Saiba como transferir as subscrições do Azure de um cliente para outro parceiro
 
 **Aplica-se a**
 
-- Centro de Parceiros do Microsoft Cloud for US Government
-- Centro de Parceiros para Microsoft Global Cloud
-- Parceiros no programa Cloud Solution Provider (CSP)
+- Centro de Parceiros para a nuvem do Governo da Microsoft
+- Partner Center para a nuvem global da Microsoft
 
 Este artigo descreve como um cliente pode mudar os seus serviços Microsoft Azure de um Cloud Solution Provider (CSP) para outro.
 
@@ -43,7 +42,7 @@ Para mudar os serviços ou subscrições do Azure de um cliente para um parceiro
 
    Crie um bilhete de serviço Azure do Partner Center para solicitar uma transferência de assinatura:
 
-   1. A partir do menu Partner Center, selecione **Clientes,** selecione o seu cliente da lista e, em seguida, selecione **a gestão do Serviço**. 
+   1. A partir do menu Partner Center, selecione **Clientes,** selecione o seu cliente da lista e, em seguida, selecione **a gestão do Serviço**.
 
    2. Na secção **de bilhetes De Suporte,** selecione o novo dropdown de **bilhetes** e escolha **o Microsoft Azure**.
    
@@ -100,12 +99,12 @@ Para mudar os serviços ou subscrições do Azure de um cliente para um parceiro
      Get-AzRoleAssignment
      ```
 
-7. Remover permissões de acesso desatualizadas
+7. Remover permissões de acesso desatualizadas:
 
    - No menu Partner Center, selecione **Clientes.**
-   - Localize o cliente na lista. Selecione (clique duplo) o nome da empresa. Isto abre a página **de Assinaturas** do cliente.
+   - Localize o cliente na lista. Selecione (clique duplo) o nome da empresa. Esta ação abre a página **de Assinaturas** do Cliente.
    - No menu de detalhes do cliente, selecione **Gestão de Serviço.**
-   - No **Microsoft Azure,** clique no link para ir ao **Microsoft Azure Management Portal**.
+   - No **Microsoft Azure,** selecione o link para ir ao **Microsoft Azure Management Portal**.
 
 ## <a name="next-steps"></a>Passos seguintes
 

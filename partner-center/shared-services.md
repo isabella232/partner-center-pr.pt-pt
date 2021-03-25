@@ -9,16 +9,15 @@ ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 11/11/2020
-ms.openlocfilehash: a59cf0b271a0ccf5fd5a1d8e3e85ff43818a3801
-ms.sourcegitcommit: fe867be44de3479607be3309940b904d7ea9fc6e
+ms.openlocfilehash: 756fbfda3438933b50fc51936b396291986472a7
+ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/06/2021
-ms.locfileid: "102247706"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "105028286"
 ---
 # <a name="add-azure-partner-shared-services-so-partners-can-buy-azure-subscriptions-for-their-own-use"></a>Adicione serviços partilhados azure partner para que os parceiros possam comprar subscrições Azure para seu próprio uso
 
- 
 **Funções adequadas**
 
 - Administrador global
@@ -59,7 +58,7 @@ Encontrará o consumo do Azure na sua fatura CSP e no ficheiro de reconciliaçã
 
 ## <a name="azure-partner-shared-services-pricing"></a>Preços dos Serviços Partilhados Azure Partner
 
-Para ver o novo ficheiro de preços dos Serviços Partilhados Azure Partner vai para **vender**  >  **preços e ofertas** e selecione a lista de preços do mês atual. Nas próximas semanas, será também lançado um cartão de tarifa específico api.
+Para ver o novo ficheiro de preços dos Serviços Partilhados do Azure Partner, vá à **Venda**  >  **de Preços e Ofertas** e selecione a lista de preços do mês em curso. Nas próximas semanas, será também lançado um cartão de tarifa específico api.
 
 ## <a name="marketplace-offers-and-azure-partner-shared-services"></a>Ofertas de Marketplace e Serviços Partilhados parceiros Azure
 
@@ -67,8 +66,8 @@ A partir de 1 de março de 2019, a Azure Partner Shared Services (APSS) já não
 
 |**Apoio ao mercado**   |**APSS apoiado antes de 1 de março de 2019**|**Depois de 1 de março de 2019**|
 |---------------------------|:----------------------------|:-------------------|
-|Traga a sua própria licença (BYOL) e serviços gratuitos   | Sim   | Não|
-|Outras ofertas de mercado de terceiros   | Não   |Não|
+|Traga a sua própria licença (BYOL) e serviços gratuitos   | Yes   | No|
+|Outras ofertas de mercado de terceiros   | No   |No|
 
 Os parceiros que tenham BYOL ou serviços gratuitos implantados através da APSS não serão afetados; no entanto, após 1 de março de 2019 não poderão adquirir novos serviços BYOL ou gratuitos.
 
