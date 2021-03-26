@@ -9,19 +9,15 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7be44a0f67258989e4a55d6d34a93019712b341b
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: cf3514d394dc49efb967632baa277df94bbfdfbd
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "92529564"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105548993"
 ---
 # <a name="reset-a-users-password-in-partner-center"></a>Redefinir a palavra-passe de um utilizador no Partner Center
 
-**Aplica-se a**
-
-- Partner Center
- 
 **Funções adequadas**
 
 - Administrador global
@@ -33,13 +29,13 @@ Se os utilizadores esquecerem as suas palavras-passe, atribua-lhes uma senha tem
 
 ## <a name="reset-a-user-password-as-an-admin"></a>Redefinir uma palavra-passe do utilizador como administrador
 
-1. Ir para **definições** &gt; **Gestão do utilizador** .
+1. Ir para **definições** &gt; **Gestão do utilizador**.
 
 2. Selecione o utilizador na lista.
 
 3. Escolha **a palavra-passe Reset,** na parte inferior da página.
 
-4. Verá um ecrã de confirmação com uma senha temporária para o novo s-in. Tem de copiar isto e enviá-lo para o novo utilizador - este não está acessível depois de sair do ecrã. Quando iniciarem a sua primeira sedução, serão solicitados a atualizar a sua palavra-passe.
+4. Verá um ecrã de confirmação com uma senha temporária. Copie a palavra-passe temporária e envie-a para o novo utilizador - a palavra-passe temporária não estará acessível depois de sair do ecrã. Quando o utilizador entrar pela primeira vez, será solicitado para atualizar a sua palavra-passe.
 
 ## <a name="next-steps"></a>Passos seguintes
 

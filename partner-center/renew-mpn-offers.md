@@ -9,18 +9,14 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f254c3353a49a8aa65703ef123e727b0a9ac4a85
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: 9c0386d6cbaba1094659c76a3bd274d88e4fe948
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624141"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549112"
 ---
 # <a name="renew-your-mpn-offers-for-competencies-and-advanced-specializations-during-the-renewal-window"></a>Renove as suas ofertas de MPN para competências e especializações avançadas durante a janela de renovação
-
-### <a name="applies-to"></a>Aplica-se a
-
-- Partner Center
 
 ## <a name="responding-to-covid-19-microsoft-partner-network-update"></a>Respondendo ao COVID-19: Atualização da Microsoft Partner Network
 
@@ -42,7 +38,7 @@ Quando renovar durante a janela de renovação, a sua nova data de aniversário 
 
 4. Para tirar partido desta oferta, vá às **ofertas de Adesão.** Poderá ter de pagar a taxa de competência para concluir o processo, dependendo da sua aquisição de competência ou do seu estado de renovação.
 
-Para tirar partido da extensão, deve ter mudado a sua filiação do Partner Membership Center (PMC) para Partner Center para renovar a sua competência e pagar a taxa. Se não mudou a sua filiação, [saiba mais](prepare-pmc-pc-migration.md)e faça   a [transição](https://partners.microsoft.com/partnerprogram/Welcome.aspx)   hoje.  
+Para tirar partido da extensão, deve ter mudado a sua filiação do Partner Membership Center (PMC) para Partner Center para renovar a sua competência e pagar a taxa. Se ainda não mudou a sua filiação, [aprenda mais](prepare-pmc-pc-migration.md)e faça   a [transição](https://partners.microsoft.com/partnerprogram/Welcome.aspx)   hoje.  
 
 ## <a name="next-steps"></a>Passos seguintes
 

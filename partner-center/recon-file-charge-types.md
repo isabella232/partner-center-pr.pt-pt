@@ -1,25 +1,26 @@
 ---
-title: Tipos de carga de ficheiros de reconciliação
+title: Tipos de encargos de ficheiro de reconciliação
 ms.topic: article
 ms.date: 06/05/2020
 description: Descubra os tipos de encargos (tais como, baseados em licenças, baseados em uso e uma vez), créditos e descontos em ficheiros de reconciliação do Partner Center.
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f65c4a6496082934e8c38fbd924b96ef969be95b
-ms.sourcegitcommit: e7931fbe7ce16a62124e00b2802520a17d7285b8
+ms.openlocfilehash: ba42ac5beb28a3cf819c54a86385fb79853cdcd0
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/31/2020
-ms.locfileid: "92529388"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549231"
 ---
 # <a name="understand-the-different-charge-types-in-partner-center-reconciliation-files"></a>Compreenda os diferentes tipos de carga nos ficheiros de reconciliação do Partner Center
 
 **Aplica-se a**
 
-- Partner Center
-- Centro de Parceiros para Microsoft Cloud para governo dos EUA
+- Centro de Parceiros para a nuvem do Governo da Microsoft
 
 **Funções adequadas**
 
@@ -27,7 +28,7 @@ ms.locfileid: "92529388"
 - Administrador de faturação
 - Administrador global
 
-Este tópico descreve os mapeamentos entre uma secção de fatura e tipos de carga associados que podem estar no seu ficheiro de reconciliação. A sua fatura fornece um resumo das taxas. O seu ficheiro de reconciliação fornece uma desagregação detalhada das transações de item de linha, incluindo tipos de carga. Para obter mais informações sobre ficheiros de reconciliação, [consulte como utilizar ficheiros de reconciliação](use-the-reconciliation-files.md).
+Este artigo descreve os mapeamentos entre uma secção de fatura e tipos de carga associados que podem estar no seu ficheiro de reconciliação. A sua fatura fornece um resumo das taxas. O seu ficheiro de reconciliação fornece uma desagregação detalhada das transações de item de linha, incluindo tipos de carga. Para obter mais informações sobre ficheiros de reconciliação, [consulte como utilizar ficheiros de reconciliação](use-the-reconciliation-files.md).
 
 Tanto os [ficheiros de reconciliação baseados na utilização](usage-based-recon-files.md) como [os ficheiros de reconciliação baseados em licenças](license-based-recon-files.md) apenas mostram transações e encargos relacionados com o uso (unidades consumidas e encargos relacionados).
 

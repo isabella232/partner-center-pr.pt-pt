@@ -9,23 +9,24 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e680856c0bf1f1ed4e8eb5acea3833255576f5e3
-ms.sourcegitcommit: c4bae49f6c303f0b77a404a0441c2440e7cb112b
+ms.openlocfilehash: 33955d85e4b3bd713d15807911067c643d12c912
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "103582041"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549180"
 ---
 # <a name="partner-center-portal-requests-and-diagnostic-tool"></a>Pedidos de portal do Centro parceiro e ferramenta de diagnóstico
 
 **Aplica-se a**
 
-- Partner Center
-- Centro de Parceiros do Microsoft Cloud for US Government
+- Centro de Parceiros para a nuvem do Governo da Microsoft
 
 **Funções adequadas**
 
-Todos os utilizadores do Partner Center podem criar pedidos de suporte a parceiros. Os utilizadores só podem ver os pedidos de suporte que submeteram após iniciar sessão no Partner Center.
+- Todos os parceiros interessados no Partner Center
+
+Todos os utilizadores do Partner Center podem criar um pedido de suporte ao parceiro. Os utilizadores só podem ver os pedidos de suporte que submeteram após iniciar sessão no Partner Center.
 Contacte o Suporte ao Centro de Parceiros se encontrar problemas ou precisar de ajuda com erros do portal Partner Center. Envie diagnósticos para permitir que o problema seja corrigido mais rapidamente.
 
 ## <a name="report-a-problem-with-the-partner-center"></a>Reportar um problema com o Centro de Parceiros
@@ -77,7 +78,7 @@ Se ocorrer um erro durante a página do Centro de Parceiros, poderá ser solicit
 
 Pode visualizar as informações de diagnóstico e guardá-la num ficheiro que pode anexar no seu pedido de suporte. Para nos enviar a informação:
 
-3. Reveja as informações no ficheiro antes de as enviar, pois pode conter informações pessoalmente identificáveis que possa querer remover.
+3. Reveja as informações no ficheiro antes de as enviar, pois pode conter dados pessoais que possa pretender remover.
 
     >[!NOTE]
     >Em alguns navegadores, a secção **'Visualização** de página' na parte inferior da página **de pré-visualização** pode parecer vazia. Isto está bom.

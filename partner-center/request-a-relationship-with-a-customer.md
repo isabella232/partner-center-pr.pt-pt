@@ -8,22 +8,18 @@ description: Solicite uma relação com um cliente para cenários multi-parceiro
 author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
-ms.openlocfilehash: 26f39943ecc06f70b0194f1e892c4cfa218f5ee9
-ms.sourcegitcommit: e73a8a926476c47ea280735d1939b8a366982d33
+ms.openlocfilehash: 2403ec6cdb2776ab04fa76a37d690a748de38714
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92530092"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105548976"
 ---
 # <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>Como pedir uma relação de revendedor de um cliente no Centro de Parceiros
 
-**Aplica-se a**
-
-- Partner Center
-
 Se pretender gerir o serviço ou subscrição de um cliente em seu nome, o cliente deve conceder-lhe permissões de administrador para esse serviço ou subscrição e assinar o Acordo de Cliente da Microsoft.
 
-Se pretender estabelecer uma relação de revendedor com um cliente e gerir apenas as subscrições Azure que fornece, não é necessário obter permissões de administrador.
+Se quiser estabelecer uma relação de revendedor com um cliente e gerir apenas as subscrições Azure que fornece, não precisa de obter permissões de administrador.
 
 >[!NOTE] 
 >A opção de não solicitar permissões não está disponível para parceiros que operam no Microsoft Cloud para o Governo dos EUA ou Microsoft Cloud Germany. Para saber mais, consulte [clientes delegar privilégios de administração aos parceiros.](customers-revoke-admin-privileges.md)
@@ -32,9 +28,9 @@ Se pretender estabelecer uma relação de revendedor com um cliente e gerir apen
 
 Pode solicitar uma relação de revendedor com um cliente de dentro do seu país ou da sua mesma região.
 
-1. Selecione **Clientes** no menu **Partner Center** e, em seguida, selecione **Solicite uma relação de revendedor** .
+1. Selecione **Clientes** no menu **Partner Center** e, em seguida, selecione **Solicite uma relação de revendedor**.
 
-2. Para solicitar permissões de administrador deste cliente, **selecione Incluir privilégios de administração delegados para o Azure Ative Directory e Office 365** . Para estabelecer a relação sem pedir permissões de administrador, desmarque esta opção.
+2. Para solicitar permissões de administrador deste cliente, **selecione Incluir privilégios de administração delegados para o Azure Ative Directory e Office 365**. Para estabelecer a relação sem pedir permissões de administrador, desmarque esta opção.
 
 3. Na página seguinte, analise a mensagem de e-mail de rascunho. Pode abrir a mensagem de rascunho na aplicação de e-mail predefinida ou pode copiar a mensagem para a área de transferência e colar num e-mail.
 

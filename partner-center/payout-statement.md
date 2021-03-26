@@ -6,13 +6,13 @@ ms.service: marketplace
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
-ms.date: 3/2/2021
-ms.openlocfilehash: 681080b654ca1a12523a7ff63fc75a44daaab9b7
-ms.sourcegitcommit: 7ef441a0e4dbef11012212bfc087c5244a75765e
+ms.date: 3/22/2021
+ms.openlocfilehash: afe9793e3a1ef9c0e3e8ecba6d1c3419b7e16604
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "102185354"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549248"
 ---
 # <a name="payout-statements"></a>Declaração de dividendos
 
@@ -169,7 +169,7 @@ Para ver mais detalhes sobre um ganho, selecione **Baixar** no topo da página. 
 | nome participante | Nome do parceiro de ganhos | Todos |
 | partnerCountryCode | Localização/país/região do parceiro de ganhos | Todos |
 | partNumber | Estará sempre em branco. | Alguns programas de incentivo e mercados |
-| pagamentoId | Identificador único para o pagamento. Este número é geralmente visível no seu extrato bancário | Pagamentos SAP apenas |
+| pagamentoId | Identificador único para correlacionar todas as transações no relatório de transações com um pagamento específico no relatório de pagamento | Todos |
 | estatísticas de pagamentos | Estado dos pagamentos | Todos |
 | subscrição de pagamentosSdesimento | Descrição amigável do estado do pagamento | Todos |
 | productId | Identificador de produto único | mercados |
@@ -258,18 +258,18 @@ A tabela seguinte explica os diferentes estados de ganho.
 
 | Estado de ganho | Razão | A ação do parceiro é necessária? |
 | --- | --- | --- |
-| Não processado | O ganho é elegível para pagamento. Permanece neste estado por um período de arrefecimento, conforme definido no guia do programa para o programa Incentivos. | Não |
-| A seguir | Ordem de pagamento gerada até revisões internas antes do pagamento ser processado. | Não |
+| Não processado | O ganho é elegível para pagamento. Permanece neste estado por um período de arrefecimento, conforme definido no guia do programa para o programa Incentivos. | No |
+| A seguir | Ordem de pagamento gerada até revisões internas antes do pagamento ser processado. | No |
 | Fatura fiscal pendente | A sua fatura fiscal é incompleta ou inválida. | Precisa atualizar a sua fatura fiscal antes de poder ser paga |
 | Rejeitado durante a revisão | O pagamento foi rejeitado durante a revisão. | Contacte o suporte da Microsoft para obter mais detalhes |
 | Com falhas | O pagamento falhou devido a um erro no sistema da Microsoft. | Contacte o suporte da Microsoft para obter mais detalhes |
-| Em curso | O pagamento está em andamento. | Não |
-| Pagamento incorreto | A recuperação dos pagamentos está em curso. | Não |
-| Enviados | O pagamento foi enviado para o seu banco. | Não |
-| Reprocessamento | O pagamento encontrou um erro no sistema da Microsoft e está a ser reprocessado. | Não |
-| Invertido | O pagamento foi revertido pelo seu banco e será remetido no próximo ciclo de pagamentos. | Não |
+| Em curso | O pagamento está em andamento. | No |
+| Pagamento incorreto | A recuperação dos pagamentos está em curso. | No |
+| Enviados | O pagamento foi enviado para o seu banco. | No |
+| Reprocessamento | O pagamento encontrou um erro no sistema da Microsoft e está a ser reprocessado. | No |
+| Invertido | O pagamento foi revertido pelo seu banco e será remetido no próximo ciclo de pagamentos. | No |
 | Fatura fiscal rejeitada | A sua fatura fiscal foi rejeitada durante a revisão. Todos os pagamentos pendentes estarão suspensos até que a revisão da fatura fiscal esteja completa. | Contacte o suporte da Microsoft para obter mais detalhes |
-| Fatura fiscal em análise | A sua fatura fiscal está a ser revista. O seu pagamento será liberado assim que a fatura do imposto tiver sido aprovada. | Não |
+| Fatura fiscal em análise | A sua fatura fiscal está a ser revista. O seu pagamento será liberado assim que a fatura do imposto tiver sido aprovada. | No |
 | Rejeitado | O pagamento foi rejeitado pelo seu banco. | Contacte o seu banco para obter mais detalhes. |
 |
 
@@ -324,7 +324,7 @@ O resumo **dos dados relativos** às exportações também dá acesso a declara�
 
 A tabela seguinte explica cada coluna numa declaração histórica.
 
-| Nome do campo | Descrição |
+| Nome do campo | Description |
 | --- | --- |
 | Fonte de Receitas | A fonte das suas receitas com base no local onde ocorreu a transação, como a Microsoft Store, Windows Phone Store, Windows Store 8 ou publicidade |
 | ID da Encomenda | Identificador de ordem único. Este ID permite identificar transações de compra com as respetivas transações não-compra, tais como reembolsos ou reembolsos. Ambos terão a mesma identificação de encomenda. Além disso, se houver uma taxa dividida em que foram utilizados vários métodos de pagamento para uma única compra, permite-lhe ligar as transações de compra. |

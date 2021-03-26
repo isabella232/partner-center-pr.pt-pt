@@ -9,21 +9,16 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b09f661cfc091732dddb2d7cb79303af60d3919a
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: f58a7cc34b5b5b5755f652faf220d290ec2a355d
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756484"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549265"
 ---
 # <a name="get-referral-insights-in-partner-center-and-find-out-how-your-referrals-are-doing"></a>Obtenha informações de referência no Partner Center e descubra como estão as suas referências
 
-**Aplica-se a**
-
-- Oportunidades de Co-venda
-- Ofertas privadas
-
-A página **de Oportunidades de Co-venda** sob a secção **Analytics** em Referências permite-lhe ver como as suas referências estão a funcionar. Reveja estas métricas regularmente para identificar tendências ou áreas que precisam de atenção, e comece a dirigir-se para os seus objetivos de negócio.
+A página **de Oportunidades de Co-venda** sob a secção **Analytics** em Referências permite-lhe ver como estão as suas referências. Reveja estas métricas regularmente para identificar tendências ou áreas que precisam de atenção, e comece a dirigir-se para os seus objetivos de negócio.
 
 Para ver os seus dados de insights de oportunidades de Co-venda, a partir do menu Partner Center, vá a **Referrals > Analytics > Co-sell Opportunities**.
 
@@ -32,9 +27,9 @@ Para ver os seus dados de insights de oportunidades de Co-venda, a partir do men
 
 ## <a name="apply-filters"></a>Aplicar filtros
 
-Perto do topo da página **de Oportunidades de Co-venda,** pode selecionar o período de tempo para o qual pretende mostrar dados. A seleção padrão é **de 3M** (três meses), mas pode optar por mostrar dados por um período de seis meses ou um ano. Também pode selecionar **Personal** para ver dados para todas as referências num período de tempo específico.
+Perto do topo da página **de Oportunidades de Co-venda,** pode selecionar o período de tempo para o qual pretende mostrar dados. A seleção padrão é **de 3M** (três meses), mas pode optar por mostrar dados durante seis meses ou um ano. Também pode selecionar **Personal** para ver dados para todas as referências num período de tempo específico.
 
-Pode clicar no botão Filtros para abrir o painel que permite filtrar todos os dados desta página pelo nome do cliente, País, Tipo de Negócio, Direção de Negócio, Nome da Solução e Estado. Abaixo estão os detalhes destes filtros.
+Pode selecionar o botão **Filtros** para abrir o painel que permite filtrar todos os dados desta página pelo nome do cliente, País, Tipo de Negócio, Direção de Negócio, Nome da Solução e Estado. Abaixo estão os detalhes destes filtros.
 
 - **Nome do cliente**: O padrão é **Tudo,** mas pode limitar os dados a um ou mais clientes que seleciona.
 - **País**: O padrão é **Tudo,** mas pode limitar os dados a um ou mais países do cliente que seleciona.
@@ -43,11 +38,11 @@ Pode clicar no botão Filtros para abrir o painel que permite filtrar todos os d
 - **Nome da solução**: O padrão é **Tudo,** mas pode optar por limitar os dados a referências que contenham uma ou mais soluções que seleciona.
 - **Estado**: O padrão é **Tudo,** mas pode optar por limitar os dados a referências que contenham um ou mais tipos de estatuto de referência como aceites, recusados, expirados, perdidos e ganhos que seleciona.
 
-A informação em todos os gráficos listados abaixo refletirá o intervalo de datas e quaisquer filtros que tenha selecionado, exceto conforme indicado abaixo. Algumas secções também permitem aplicar filtros adicionais, como filtragem para uma solução específica.
+A informação em todos os gráficos listados abaixo refletirá o intervalo de datas e quaisquer filtros que tenha selecionado, exceto conforme indicado abaixo. Algumas secções também permitem aplicar filtros extra, como filtragem para uma solução específica.
 
 ## <a name="referrals-summary"></a>Resumo das referências
 
-Este cartão mostra uma visão geral de como as suas oportunidades de Co-venda estão a funcionar.
+Este cartão mostra uma visão geral de como as suas oportunidades de Co-venda estão a correr.
 
 O gráfico mostra o número total de Ofertas, o número que foram ganhos, o número que foram perdidos, e o volume total de negócios (em USD) para o período de tempo selecionado.
 
@@ -63,7 +58,7 @@ Esta secção mostra um indicador visual de como as suas ofertas estão a mover-
 
 ## <a name="deals-by-geography"></a>Ofertas por geografia
 
-Esta secção mostra os países/regiões de onde vieram os negócios, juntamente com detalhes para cada país/região. Há uma visão de mesa dos detalhes do negócio para cada país, juntamente com uma visão de mapa de todos os países. Pode clicar num país específico na tabela ou clicar na vista do mapa para fazer zoom para um país específico.
+Esta secção mostra os países/regiões de onde vieram os negócios, juntamente com detalhes para cada país/região. Há uma visão de mesa dos detalhes do negócio para cada país, juntamente com uma visão de mapa de todos os países. Pode selecionar um país específico na tabela ou selecionar a vista do mapa para fazer zoom para um país específico.
 
 :::image type="content" source="images/referrals/cosellanalyticsgeodistribution.png" alt-text="Imagem mostrando a distribuição geografada de referências.":::
 
@@ -94,7 +89,7 @@ As três dimensões que pode escolher para comparar dados são
 - Mercados
 - Soluções
 
-Quando o tipo de negócio é selecionado, você tem a opção de comparar o desempenho de referências em relação a oportunidades de Co-venda e ofertas privadas. Tanto para mercados como para soluções, pode escolher até três opções diferentes para comparar o seu desempenho. O primeiro gráfico, que é um gráfico de barras, terá dados apresentados com uma tendência mensal baseada no pivô principal, que é o volume ou o valor das transações ganhos. Há também um gráfico de tartes à direita do gráfico de barras, que mostra a distribuição por percentagem para os mesmos dados.
+Quando o tipo de negócio é selecionado, você pode comparar o desempenho de referências em relação a oportunidades de Co-venda e ofertas privadas. Tanto para mercados como para soluções, pode escolher até três opções diferentes para comparar o seu desempenho. O primeiro gráfico, que é um gráfico de barras, terá dados apresentados com uma tendência mensal baseada no pivô principal, que é o volume ou o valor das transações ganhos. Há também um gráfico de tartes à direita do gráfico de barras, que mostra a distribuição por percentagem para os mesmos dados.
 
 :::image type="content" source="images/referrals/cosellanalyticscompare.png" alt-text="Imagem mostrando a secção de comparação.":::
 

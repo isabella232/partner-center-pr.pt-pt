@@ -9,19 +9,18 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 30670f44ddfeb2a798b191fb646ff894434537cb
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 0cf8769bcf45ba90a714231a7c9db7660efce0b0
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756440"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549061"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>Relatar um problema de serviço em nome de um cliente - incluindo quando e como fazê-lo
 
 **Aplica-se a**
 
-- Partner Center
-- Centro de Parceiros do Microsoft Cloud for US Government
+- Centro de Parceiros para a nuvem do Governo da Microsoft
 
 **Funções adequadas**
 
@@ -104,7 +103,7 @@ Para encontrar as informações de contacto do ISV:
 
 ## <a name="faq"></a>FAQ
 
-Consulte o seguinte para perguntas frequentes sobre pedidos de serviço que pode submeter em nome de um cliente. 
+Consulte as seguintes perguntas frequentes sobre pedidos de serviço que pode submeter em nome de um cliente. 
 
 ### <a name="what-is-included-as-part-of-the-support-entitlement"></a>O que está incluído como parte do Direito de Apoio?
 
@@ -120,7 +119,7 @@ Os nossos tempos de resposta iniciais dependem da gravidade do incidente apresen
 
 Tempos iniciais de resposta para **incidentes técnicos de correção:**
 
-- Impacto Crítico (gravidade A): 2 horas (Perda significativa ou degradação dos serviços. Serviços de produção em baixa.)
+- Impacto Crítico (gravidade A): Duas horas (Perda significativa ou degradação dos serviços. Serviços de produção em baixa.)
 - Impacto Moderado (gravidade B): Quatro horas (Perda moderada ou degradação dos serviços. Serviços de produção parcialmente afetados.)
 - Impacto Mínimo (gravidade C): Oito horas (Perda mínima ou degradação dos serviços. Serviços ainda disponíveis ou serviços não produtivos afetados.)
 

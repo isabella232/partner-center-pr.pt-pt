@@ -9,42 +9,38 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 216858aff2ecbb5eb11c739db0a0a7ad6ee390f1
-ms.sourcegitcommit: 3a9318d0de7a159215cb454295125532134ff8de
+ms.openlocfilehash: b95ce4a3070414807e31a1aa12a213a332c2a1cc
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "92529680"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105548942"
 ---
 # <a name="reset-my-password"></a>Repor a minha palavra-passe
-
-**Aplica-se a**
-
-- Partner Center
  
 **Funções adequadas**
 
 - Administrador global
-- Utilizadores do Centro de Parceiros
+- Todos os parceiros interessados no Partner Center
 
 
 Se não se lembrar da palavra-passe do Partner Center, pode repor a palavra-passe.
 
 ## <a name="to-reset-your-partner-center-password"></a>Para redefinir a palavra-passe do Centro de Parceiros
 
-O seu administrador Global deve ter configurado a capacidade de redefinir a sua senha. (Se o seu administrador Global ainda não tiver configurado isto, terá de pedir-lhes para redefinir a [sua palavra-passe para si](reset-a-user-password.md).)
+Para utilizar este método, o seu administrador Global já deve ter configurado a capacidade de redefinir a sua palavra-passe. (Se o seu administrador Global não tiver feito esta funcionalidade, peça-lhes para [redefinirem a sua palavra-passe para si](reset-a-user-password.md).)
 
-1. No **ecrã 'Sign in' (Sinal)** pode, **não pode aceder à sua conta e,** em seguida, selecione **Seguinte** .
+1. No **ecrã 'Sign in' (Sinal)** pode, **não pode aceder à sua conta e,** em seguida, selecione **Seguinte**.
 
 2. Selecione **Trabalho ou conta escolar.**
 
-3. Em seguida, é-lhe pedido que introduza o seu ID do utilizador e os caracteres na imagem ou áudio. Em seguida, selecione **Seguinte** .
+3. Introduza o ID do utilizador e os caracteres na imagem ou áudio. Em seguida, selecione **Seguinte**.
 
 4. Crie a sua nova senha.
 
 ## <a name="if-your-global-admin-has-left-the-company"></a>Se o seu administrador Global deixou a empresa
 
-Se o seu administrador Global tiver deixado a sua empresa ou mudado para outra função e precisar de adicionar um novo administrador Global, tem de registar um pedido de serviço no portal da [Rede de Parceiros](https://partner.microsoft.com/commercial#/)da Microsoft . O agente de suporte pode solicitar a elevação de um utilizador à Administração Global se o seu solicitador for capaz de fornecer as informações de identidade pessoais necessárias e fornecer informações adicionais sobre a sua empresa. 
+Se o seu administrador Global tiver deixado a sua empresa ou mudado para outra função e precisar de adicionar um novo administrador Global, tem de registar um pedido de serviço no portal da [Rede de Parceiros](https://partner.microsoft.com/commercial#/)da Microsoft . O agente de suporte pode solicitar a elevação de um utilizador à Administração Global se o seu solicitador puder fornecer as informações de identidade pessoais necessárias e fornecer informações adicionais sobre a sua empresa. 
 
 ## <a name="next-steps"></a>Passos seguintes
 

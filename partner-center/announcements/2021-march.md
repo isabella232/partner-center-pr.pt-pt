@@ -8,17 +8,139 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/22/2021
-ms.openlocfilehash: a3172b78d41a966b52a824703a7f15f163467d63
-ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
+ms.date: 03/24/2021
+ms.openlocfilehash: 8b9b034a7241bba5de54b28edb64c961a05a8f64
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "104880740"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549078"
 ---
 # <a name="march-2021-announcements"></a>Anúncios de março de 2021
 
 Esta página fornece os anúncios para o Microsoft Partner Center para março de 2021.
+
+________________
+## <a name="microsoft-operations-introducing-the-product-launch-calendar"></a><a name="16"></a>Microsoft Operations: Introdução do calendário de lançamento do produto
+
+### <a name="categories"></a>Categorias
+
+- Data: 2021-03-25
+- Ofertas | Local de trabalho moderno
+
+### <a name="summary"></a>Resumo
+
+Em resposta ao feedback dos parceiros, a Microsoft Operations irá agilizar as comunicações para lançamentos de produtos.
+
+### <a name="impacted-audience"></a>Audiência impactada
+
+Parceiros do Cloud Solution Provider (CSP)
+
+### <a name="details"></a>Detalhes
+
+A Microsoft está empenhada em melhorar continuamente as experiências dos parceiros. Recebemos comentários seus de que tem recebido demasiadas comunicações da Microsoft, incluindo anúncios duplicados para lançamentos de produtos.
+
+Em resposta ao seu feedback, a Microsoft dinamizou a experiência de prontidão para lançamentos de produtos para novas ofertas existentes.
+
+Disponibilizamos-lhe agora uma única visão mensal dos lançamentos de produtos, publicada na galeria de recursos de prontidão operações. Esta [visão](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/) mensal do calendário de lançamento do produto substituirá as comunicações individuais de lançamento de produtos na galeria de recursos de prontidão de Operações e nos anúncios do Partner Center.
+
+Você também pode acessá-lo calendário de [lançamento](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/) de produtos a partir de [coleções comunitárias, vistas](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/) [de calendário](https://partner.microsoft.com/resources/assets#/?type=collection&search=Calendar&sort=updated)e [newsletters CSP.](https://partner.microsoft.com/resources/collection/csp-monthly-update#/) Iremos notificá-lo quando publicarmos o calendário de lançamento de produtos de cada mês com um anúncio na galeria de recursos de prontidão opera.
+
+Você ainda pode encontrar informações sobre ofertas novas e existentes na lista de preços pré-visualização e registos de alteração de lista de preços, bem como em blogs de produtos, guias de licenciamento e páginas de marketing de produtos.
+
+A alteração aplicar-se-á aos lançamentos para os seguintes produtos:
+
+- Dinâmica no local
+- Microsoft 365
+- Microsoft Dynamics 365
+- Windows
+- Servidor  
+- Ferramentas
+- Equipas e Telco
+
+Continuaremos a enviar anúncios específicos para lançamentos de produtos que requerem detalhes de prontidão das operações.
+
+### <a name="next-steps"></a>Passos seguintes
+
+Reveja os recursos sobre este tema e partilhe esta informação com as partes interessadas apropriadas na sua organização.
+
+### <a name="questions"></a>Perguntas?
+
+Para mais perguntas sobre estas ofertas, consulte as suas comunidades Yammer relevantes.
+
+________________
+## <a name="changes-to-csp-customer-onboarding-requirements"></a><a name="15"></a>Alterações aos requisitos de embarque do cliente CSP
+
+### <a name="categories"></a>Categorias
+
+- Data: 2021-03-25
+- Capacidades
+
+### <a name="summary"></a>Resumo
+
+Como parte do nosso compromisso de ajudar parceiros e clientes a gerir o seu negócio com base na confiança, vamos solicitar informações adicionais ao cliente, a partir de 25 de março de 2021.
+
+### <a name="impacted-audience"></a>Audiência impactada
+
+Cloud Solution Provider (CSP) parceiros de conta direta e fornecedores indiretos que têm clientes novos ou existentes nos países listados na secção seguinte
+
+### <a name="details"></a>Detalhes
+
+A Microsoft tem confiança. Estamos empenhados em fornecer um método de validação de clientes conforme, seguro e seguro para a transação de subscrições de clientes no programa CSP. No dia 25 de março de 2021, apresentaremos melhorias no Partner Center API e na interface de utilizador (UI) que afetarão os parceiros que cumprem ambos os seguintes critérios:
+
+1. O parceiro tem uma relação de faturação direta com a Microsoft (o que significa que o parceiro é ou um parceiro de conta direta ou um fornecedor indireto).
+
+2. O parceiro negoceia com clientes novos ou existentes nos seguintes países:
+
+    - Tailândia
+    - Vietname
+    - Turquia
+    - Polónia
+    - África do Sul
+    - Índia
+    - Brasil
+    - Iraque
+    - Mianmar
+    - Sudão do Sul
+    - Arábia Saudita
+    - Emirados Árabes Unidos
+    - Venezuela
+
+Os parceiros que satisfaçam os critérios terão de submeter o **ID** de registo da empresa de um cliente (também conhecido como organização do cliente **INN)** e o número de **telefone** quando estiverem a bordo de novos clientes ou modificar os dados do cliente existentes. Estes parceiros também podem introduzir um **nome do meio** opcional para o cliente.
+
+Note que quando adicionar o ID de registo da sua empresa deve usar o seu ID de imposto de negócio e não o ID pessoal do cliente.
+
+Os parceiros que fazem negócios com clientes novos ou já existentes nos seguintes países já foram a bordo com um lançamento anterior em novembro de 2020.
+
+- Arménia
+- Azerbaijão
+- Bielorrússia
+- Hungria
+- Cazaquistão
+- Quirguistão
+- Moldávia
+- Rússia
+- Tajiquistão
+- Ucrânia
+- Usbequistão
+
+Os parceiros com clientes no resto do mundo terão a capacidade, no dia 25 de março de 2021, de introduzir o ID de registo da **empresa,** **número de telefone** e nome do **meio** para os clientes como detalhes opcionais.
+
+### <a name="next-steps"></a>Passos seguintes
+
+- Reveja a documentação técnica e questione frequentemente na [coleção de parceiros dedicados](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) para obter uma orientação mais detalhada.
+
+- Prepare-se para incorporar as alterações utilizando a API do Partner Center e a experiência do utilizador web. A API/SDKs estará disponível para testes.
+
+- Certifique-se de submeter os dados adicionais ao embarcar em novos clientes ou modificar os dados do cliente existentes.
+
+- Se estiver a utilizar uma solução de fornecedor de painéis de controlo (CPV), consulte o seu CPV.
+
+### <a name="questions"></a>Perguntas?
+
+Contacte o seu consultor fiscal ou o fisco local se tiver alguma questão relacionada com o identificador legal (também chamado INN ou TIN). A Microsoft não pode fornecer orientações sobre questões fiscais.
+
+Se precisar de apoio nas suas operações com a Microsoft, [abra um pedido de serviço](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8).
 
 ________________
 ## <a name="corrections-made-to-march-1-2021-perpetual-software-price-list"></a><a name="14"></a>Correções feitas até 1 de março de 2021 lista de preços perpétuos de software
