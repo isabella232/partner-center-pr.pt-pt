@@ -9,18 +9,18 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 04d47cef596b2c0a0ae13ff3f087d4b1b5f0437c
-ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
+ms.openlocfilehash: 7645495e481010a92cc4f9cd95bf26f5e3783b70
+ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98215905"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "105633833"
 ---
 # <a name="purchase-the-azure-plan-for-customers--access-the-latest-azure-services-at-pay-as-you-go-rates"></a>Compre o plano Azure para clientes & aceder aos mais recentes serviços da Azure a preços de pagamento
 
 **Funções adequadas**
 - Administrador global
-- Administrador de utilizadores
+- Administração de gestão de utilizadores
 - Agente comercial
 
 Ao adquirir um plano Azure para os seus clientes ao abrigo do Microsoft Customer Agreement, tem acesso ao catálogo completo dos mais recentes serviços Azure a preços de pagamento. Os parceiros da CSP passarão a poder aceder a qualquer serviço Azure quando estiver em geral disponível. Um parceiro pode ter várias subscrições Azure ao abrigo de um plano Azure. 
@@ -79,7 +79,7 @@ As reservas do Azure devem ser associadas a um plano Azure ativo. Escolha o plan
 >Se o cliente ainda não tiver um plano Azure ativo, selecione Azure para adicionar um agora. Para mais instruções, leia [as reservas do Buy Azure](azure-reservations-buying.md#purchase-azure-reservations).
 
 >[!Note]
->O âmbito de uma reserva só pode ser definido para **Shared,** atualmente no Partner Center. Para selecionar um único âmbito de subscrição ou atualização de âmbito de subscrição partilhado para um único âmbito de subscrição, vá ao **portal Microsoft Azure Management** utilizando as seguintes instruções. 
+>O âmbito de uma reserva só pode ser definido para **Shared,** atualmente no Partner Center. Para selecionar um único âmbito de subscrição ou atualização de âmbito de subscrição partilhado para um único, vá ao **portal De Gestão do Microsoft Azure** utilizando as seguintes instruções. 
 
 :::image type="content" source="images/azure/addprods1.png" alt-text="Definição de reservas de âmbito compartilhado":::
 

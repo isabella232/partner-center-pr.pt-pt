@@ -1,7 +1,7 @@
 ---
 title: Use os seus ficheiros de reconciliação
 ms.topic: article
-ms.date: 03/10/2021
+ms.date: 03/26/2021
 description: Conheça os ficheiros de reconciliação no Partner Center e como interpretar as vistas detalhadas e de item de linha das taxas para um determinado ciclo de faturação.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e6b9e466402d71c988729052bd72ba2346a9d977
-ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
+ms.openlocfilehash: 4a6a1455304f12e364d71e666cbd548821f8be55
+ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "103022779"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "105633901"
 ---
 # <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>Saiba como ler os itens de linha nos ficheiros de reconciliação do Partner Center
 
@@ -55,6 +55,27 @@ Siga estes passos para corrigir quaisquer problemas de formatação nos seus fic
 ## <a name="download-reconciliation-files-programmatically"></a>Descarregue os ficheiros de reconciliação programáticamente
 
 Os ficheiros de reconciliação podem ser muito grandes e por vezes são difíceis de descarregar. Para descarregar ficheiros de reconciliação programáticamente, consulte [obter itens de linha de fatura](/partner-center/develop/get-invoiceline-items).
+
+## <a name="if-your-file-exceeds-the-row-limit-in-excel"></a>Se o seu ficheiro exceder o limite de linha no Excel
+
+Se conseguir descarregar um ficheiro de reconciliação mas não o abrir no Microsoft Excel, provavelmente significa que o ficheiro contém mais linhas do que o Excel permitirá. Se isso acontecer, pode utilizar qualquer um dos procedimentos abaixo para abrir o ficheiro.
+
+### <a name="open-a-recon-file-in-power-bi"></a>Abra um ficheiro de reconhecimento no Power BI
+
+1. Descarregue o ficheiro de reconciliação como normalmente faria.
+2. Faça o download, instale e abra uma instância do Power BI.
+3. No separador Power BI **Home,** **selecione Obter dados**.
+4. Na lista de fontes de **dados comuns,** selecione **Texto/CSV**.
+5. Quando solicitado, abra o seu ficheiro de reconhecimento.
+
+### <a name="open-a-recon-file-in-an-excel-pivot-table"></a>Abra um ficheiro de reconhecimento numa mesa de pivô do Excel
+
+1. Descarregue o ficheiro de reconciliação como normalmente faria.
+2. Abra um novo ficheiro no Microsoft Excel.
+3. No separador **Dados,** **selecione Obter dados**, selecione **'Ficheiro'** e, em seguida, selecione **Texto/CSV**.
+4. Quando solicitado, abra o seu ficheiro de reconhecimento. Os seus dados aparecerão.
+5. No menu de entrega de **carga,** selecione **Load to**, e, em seguida, **OK**.
+6. Na caixa de diálogo **de dados de importação,** selecione **O Relatório De Mesa Para** abrir o seu ficheiro.
 
 ## <a name="map-taxes-or-vat"></a>Taxas de mapa ou IVA
 

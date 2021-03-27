@@ -9,22 +9,23 @@ author: parthpandyamsft
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: be4250864bd07e555b0eb2079c28f3dfb4920805
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: b267f89ec1c7b27e87eaaf3d7b594ebbd0fd6942
+ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92529872"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "105633884"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Prepare-se para a sua mudança do Centro de Adesão de Parceiros (PMC) para o Partner Center
 
 **Funções adequadas**
+
 - Administrador global
-- Administrador de utilizadores
+- Administração de gestão de utilizadores
 - Agente comercial
 - Agente administrativo
 
-Estamos a mudar a gestão de membros do Partner Membership Center (PMC) para o centro de parceiros - o destino único para gerir a sua relação comercial com a Microsoft. Queremos que a sua mudança para o Partner Center seja o mais eficiente e fácil possível. Identificamos algumas áreas onde o Centro de Parceiros difere do PMC, e achamos que vai querer entender e preparar-se para elas antes de avançar.
+Estamos a mudar a gestão de membros do Partner Membership Center (PMC) para o Partner Center - o destino único para gerir a sua relação comercial com a Microsoft. Queremos que a sua mudança para o Partner Center seja o mais eficiente e fácil possível. Identificamos algumas áreas onde o Centro de Parceiros difere do PMC, e achamos que vai querer entender e preparar-se para elas antes de avançar.
 
 ## <a name="account-and-identity-setup"></a>Configuração de conta e identidade
 
@@ -94,7 +95,7 @@ No entanto, não necessariamente, o contacto primário tem de ser alguém que te
 
 ### <a name="can-microsoft-migrate-my-mpn-membership-for-me"></a>A Microsoft pode migrar a minha filiação mpn para mim?
 
-Não. A Microsoft não pode ajudá-lo a mover a sua conta de membro para o centro de parceiros. Terá de mover a sua conta ao inscrever-se no PMC com a sua conta de trabalho (assinar em credenciais) para iniciar o processo de migração. Depois de ter concluído os passos para mover a sua conta, pode começar a gerir a sua adesão e atribuir funções e permissões de utilizador à sua equipa para que possam aceder aos benefícios e ajudar a gerir a adesão. 
+N.º A Microsoft não pode ajudá-lo a mover a sua conta de membro para o centro de parceiros. Terá de mover a sua conta ao inscrever-se no PMC com a sua conta de trabalho (assinar em credenciais) para iniciar o processo de migração. Depois de ter concluído os passos para mover a sua conta, pode começar a gerir a sua adesão e atribuir funções e permissões de utilizador à sua equipa para que possam aceder aos benefícios e ajudar a gerir a adesão. 
 
 A Microsoft migrará automaticamente as competências, benefícios, informações de localização, informação bancária/fiscal para incentivos e associações MCP, incluindo o acesso à Universidade Parceira.
 
@@ -158,7 +159,7 @@ A sua empresa pode criar tantos perfis de negócio que precisar para representar
 
 ### <a name="how-will-referrals-be-assigned-what-changes-can-i-expect-for-example-if-i-have-a-global-company-in-one-market-and-locations-in-other-markets-how-will-referrals-be-assigned"></a>Como serão atribuídas referências, que alterações posso esperar? Por exemplo, se eu tiver uma empresa global num mercado e em locais noutros mercados, como serão atribuídas referências?
 
-As referências são atribuídas com base nos parâmetros de pesquisa que o cliente define. Independentemente de ter uma localização ou muitas, se os clientes especificarem uma localização desejada e tiver um negócio lá que satisfaça os outros parâmetros, então a referência iria para esse local.
+As referências são atribuídas com base nos parâmetros de pesquisa que o cliente define. Independentemente de ter uma localização ou muitas, se o cliente especificar uma localização desejada e tiver um negócio lá que satisfaça os outros parâmetros, então a referência iria para esse local.
 
 ### <a name="i-am-migrating-to-partner-center-from-within-russia-i-get-an-error-message-about-web-direct-how-do-i-continue-with-the-migration"></a>Estou a migrar para o Centro de Parceiros de dentro da Rússia. Recebo uma mensagem de erro sobre a Web Direct. Como continuo com a migração?
 

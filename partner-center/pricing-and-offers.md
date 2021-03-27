@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 086f5423d748ca2a84062577cd934987decc88f8
-ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
+ms.openlocfilehash: 8aeb47f6968e364eecb05efd2c0d4a1b3e1ba267
+ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "100281294"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "105633765"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Preços e ofertas para Office 365, Dynamics CRM, Enterprise Mobility Suite, Azure, e muito mais
 
@@ -22,7 +22,7 @@ ms.locfileid: "100281294"
 **Funções adequadas**
 
 - Administrador global
-- Administrador de utilizadores
+- Administração de gestão de utilizadores
 - Agente administrativo
 - Administrador sócio da MPN
 - Agente comercial
@@ -30,7 +30,7 @@ ms.locfileid: "100281294"
 
 Para ver os mais recentes programas e ofertas do Cloud Solution Provider, a partir do Portal dos **Parceiros,** vá a Venda > Preços e Ofertas . Encontrará listas de preços separadas para os diferentes tipos de produtos disponíveis. As seguintes listas de preços estão disponíveis na página **de Preços e Ofertas:**
 
-- **Os serviços baseados em licenças** incluem informações de preços para o Office 365, Enterprise Mobility and Security E3, bem como e Dynamics 365. A secção de preços baseada em licença inclui preços atuais e de pré-visualização, bem como a matriz da lista de ofertas. As listas de preços incluem o preço da lista e os preços estimados de venda a retalho (ERP) para ofertas em todas as moedas apoiadas. A matriz da lista de ofertas inclui disponibilidade de mercado e outras informações importantes sobre as ofertas. Estes ficheiros são atualizados no primeiro dia de cada mês.
+- **Os serviços baseados em licenças** incluem informações de preços para o Office 365, Enterprise Mobility e Security E3, bem como e Dynamics 365. A secção de preços baseada em licença inclui preços atuais e de pré-visualização, bem como a matriz da lista de ofertas. As listas de preços incluem o preço da lista e os preços estimados de venda a retalho (ERP) para ofertas em todas as moedas apoiadas. A matriz da lista de ofertas inclui disponibilidade de mercado e outras informações importantes sobre as ofertas. Estes ficheiros são atualizados no primeiro dia de cada mês.
 - **Os serviços baseados em uso** incluem informações de preços para o Microsoft Azure e o Visual Studio. Também pode utilizar os [Serviços Azure na Calculadora de Preços da CSP](https://azure.microsoft.com/pricing/calculator/). O download baseado em uso inclui tanto as listas de preços do CSP para todas as moedas suportadas, como os ficheiros de preços dos Serviços Partilhados em ERP. Estes ficheiros são atualizados no primeiro dia de cada mês.
 - **O Microsoft Azure Reserved Instances** inclui informações de preços para todas as moedas suportadas para Azure Reserved Instances. O download de preços também inclui o preço dos Serviços Partilhados em ERP. Estes ficheiros são atualizados no primeiro dia de cada mês.
 - **As subscrições de** software incluem preços para subscrições de software baseadas em termos para todas as moedas suportadas. O ficheiro de preços inclui todas as moedas suportadas com preço de lista e MSRP. Estes ficheiros são atualizados no primeiro dia de cada mês.
@@ -95,7 +95,7 @@ As margens dos parceiros, a diferença entre o preço da lista e os preços esti
 
 ## <a name="add-on-offer-types"></a>Tipos de oferta de add-on
 
-Os serviços baseados em licenças podem ser adquiridos como ofertas base ou addons. Apenas as ofertas base são detetáveis e purcáveis através do catálogo partner Center. Os complementos têm de ser aplicados após a compra das ofertas base. A coluna de **tipo de licença secundária** baseada na licença baseada na licença inclui informações sobre cada oferta e o seu tipo. As ofertas base têm valores **não específicos** na coluna de tipo de licença secundária da lista de preços e podem ser adquiridas no catálogo. Os valores secundários do tipo de licença de **complemento** não podem ser adquiridos no catálogo. Para comprar estes addons:
+Os serviços baseados em licenças podem ser adquiridos como ofertas base ou addons. Apenas as ofertas base são detetáveis e purcáveis através do catálogo partner Center. Deve aplicar suplementos após a compra das ofertas base. A coluna de **tipo de licença secundária** baseada na licença baseada na licença inclui informações sobre cada oferta e o seu tipo. As ofertas base têm valores **não específicos** na coluna de tipo de licença secundária da lista de preços e podem ser adquiridas no catálogo. Os valores secundários do tipo de licença de **complemento** não podem ser adquiridos no catálogo. Para comprar estes addons:
 
 1. Consulte a matriz da lista de ofertas para ver a lista de ids de oferta que precisam de ser comprados antes de poder adquirir um addon.
 2. Compre a oferta base do catálogo
@@ -143,9 +143,9 @@ Todos os preços nas tabelas de preços do centro parceiro CSP são impostos inc
 
 ### <a name="36-month-offers"></a>Ofertas de 36 meses
 
-Existem aproximadamente 50 ofertas da Dynamics que têm mandatos de três anos. Estes são identificados por **(36 mo)** no título das ofertas. Estas ofertas são muito semelhantes às ofertas a prazo anual. A única diferença é em torno do seu termo. Estas ofertas têm um prazo de três anos, o que significa que as assinaturas renovam automaticamente ao fim de três anos em vez de uma. Abaixo está um resumo de como estas ofertas funcionam:
+Existem aproximadamente 50 ofertas da Dynamics que têm mandatos de três anos. Estes são identificados por **(36 mo)** no título das ofertas. Estas ofertas são semelhantes às ofertas a prazo anual. A única diferença é em torno do seu termo. Estas ofertas têm um prazo de três anos para que as subscrições se renovem automaticamente após três anos em vez de uma. Abaixo está um resumo de como estas ofertas funcionam:
 
-- Os termos são de 36 meses, as subscrições vão renovar-se automaticamente ao fim de três anos
+- Os termos são de 36 meses, as subscrições renovam-se automaticamente ao fim de três anos
 - Os parceiros podem cancelar ou alterar o número de licenças ao longo do período da subscrição
 - Renovação anual será ao preço do tempo de compra para o prazo de três anos
 - A frequência de faturação ainda é anual ou mensal
@@ -162,8 +162,8 @@ A oferta base microsoft 365 A1 tem um prazo de seis anos.  Os addons A1 do Offic
 
 Abaixo está um resumo de como estas ofertas funcionam:
 
-- O prazo é de 72 meses ou 6 anos
-- A subscrição não é renovada e expira após 6 anos
+- O prazo é de 72 meses ou seis anos
+- A subscrição não é renovada e expira após seis anos
 - A frequência de faturação da oferta mostra-se como anual, mas o parceiro é faturado adiantado na sua primeira fatura após a aquisição da subscrição
 - As assinaturas de ofertas A1 de 72 meses são bloqueadas após a compra e não podem ser canceladas e as contagens de licença não podem ser adicionadas à subscrição após a compra inicial
 - Esta subscrição não é cancelável e não reembolsável.
