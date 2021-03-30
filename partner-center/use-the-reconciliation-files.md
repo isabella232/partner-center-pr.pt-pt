@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4a6a1455304f12e364d71e666cbd548821f8be55
-ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
+ms.openlocfilehash: aefd5258c778fd8a7b92bfe49f245bf818497fb8
+ms.sourcegitcommit: dd51744a4af3797493a5ebbfc766dab86ff00477
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "105633901"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "105730092"
 ---
 # <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>Saiba como ler os itens de linha nos ficheiros de reconciliação do Partner Center
 
@@ -77,6 +77,15 @@ Se conseguir descarregar um ficheiro de reconciliação mas não o abrir no Micr
 5. No menu de entrega de **carga,** selecione **Load to**, e, em seguida, **OK**.
 6. Na caixa de diálogo **de dados de importação,** selecione **O Relatório De Mesa Para** abrir o seu ficheiro.
 
+## <a name="negative-amount-displayed"></a>Quantidade negativa exibida
+
+Pode ver uma quantia negativa no seu ficheiro de reconciliação. Isto é provavelmente causado por uma das seguintes coisas:
+
+- Cancelou recentemente ou reduziu o seu número de licenças
+- Recebeu crédito por um contrato de licença de serviço (SLA) ou para consumo Azure
+
+Para obter mais informações sobre esta transação, reveja o seu atributo tipo de carga no seu ficheiro de reconciliação.
+
 ## <a name="map-taxes-or-vat"></a>Taxas de mapa ou IVA
 
 Para mapear impostos ou imposto sobre o valor acrescentado (IVA) na sua fatura:
@@ -88,7 +97,7 @@ Para mapear impostos ou imposto sobre o valor acrescentado (IVA) na sua fatura:
 
 Os parceiros no **modelo indireto** podem utilizar estes campos adicionais em ficheiros de reconciliação baseados em licenças e uso para itemizar os ficheiros por revendedor.
 
-| ID do MPN | Description |
+| ID do MPN | Descrição |
 | ------ | ----------- |
 | ID do MPN | O identificador da Microsoft Partner Network (MPN) do parceiro Cloud Solution Provider (CSP) (direto ou indireto). |
 | [Revendedor MPN ID](#reseller-mpn-id) | O [identificador MPN do revendedor de registos para a subscrição](#reseller-mpn-id). Este campo corresponde ao ID revendedor listado para a subscrição específica no Partner Center. Só aparece em ficheiros de reconciliação para parceiros no modelo indireto. |

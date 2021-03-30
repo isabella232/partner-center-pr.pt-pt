@@ -9,16 +9,59 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 03/24/2021
-ms.openlocfilehash: 8b9b034a7241bba5de54b28edb64c961a05a8f64
-ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
+ms.openlocfilehash: e2e40807ddeb7fc3aa0fcfb20f34eb71d0a9e118
+ms.sourcegitcommit: dd51744a4af3797493a5ebbfc766dab86ff00477
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "105549078"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "105730093"
 ---
 # <a name="march-2021-announcements"></a>Anúncios de março de 2021
 
 Esta página fornece os anúncios para o Microsoft Partner Center para março de 2021.
+
+________________
+## <a name="new-exchange-admin-center-eac-experience"></a><a name="17"></a>Experiência do Centro de Administração new exchange (EAC)
+
+### <a name="categories"></a>Categorias
+
+- Data: 2021-03-29
+- Capacidades
+
+### <a name="summary"></a>Resumo
+
+A partir de 27 de abril de 2021, o Centro de Administração exchange (EAC) lançará uma nova experiência que melhorará a eficiência do dia-a-dia para os utilizadores.
+
+### <a name="impacted-audience"></a>Audiência impactada
+
+Administradores delegados que acedem ao Exchange através do Partner Center
+
+### <a name="details"></a>Detalhes
+
+A partir de 27 de abril de 2021, os parceiros que navegarem para o Exchange através do Partner Center serão redirecionados para o novo EAC.
+
+Esta nova experiência está atualmente disponível como pré-visualização, e os administradores podem ativar esta experiência selecionando o toggle no canto superior direito dentro do clássico EAC. Também podem navegar para o novo EAC selecionando o banner "Experimente agora" que é exibido em todas as páginas.
+
+Os benefícios do novo CEA incluem:
+
+- Informações adicionadas, relatórios e mecanismos de alerta para problemas relacionados com o fluxo de correio. 
+
+- Dashboards personalizados para aumentar a produtividade.
+
+Para ajudá-lo a navegar através da nova experiência, os vídeos estão disponíveis na secção **Guia de & formação** sobre a nova experiência EAC. Estes dar-lhe-ão uma visão geral de como pode utilizar melhor o novo portal.
+
+>[!NOTE]
+>Com esta mudança, a experiência clássica da EAC não será depreciada. Será notificado com muita antecedência antes de qualquer alteração ser implementada.
+
+### <a name="next-steps"></a>Passos seguintes
+
+- Confira os [recursos sobre este tema,](https://partner.microsoft.com/resources/collection/new-exchange-admin-center-experience#/)onde pode ver imagens da nova experiência.
+
+- Partilhe esta informação com as partes interessadas apropriadas na sua organização. 
+
+### <a name="questions"></a>Perguntas?
+
+Para quaisquer questões sobre estas alterações, consulte as suas comunidades Yammer relevantes.
 
 ________________
 ## <a name="microsoft-operations-introducing-the-product-launch-calendar"></a><a name="16"></a>Microsoft Operations: Introdução do calendário de lançamento do produto
