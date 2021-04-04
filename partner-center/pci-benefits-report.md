@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 575c68a15838e67cc7123e756dc15206eb2e4d7d
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: 5b730eb9c6689c9d779a2e3f16f70fd3232601da
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "92529368"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106087013"
 ---
 # <a name="benefits-report-available-from-the-partner-center-insights-dashboard"></a>Relatório de benefícios disponível no painel Partner Center Insights
 
@@ -34,7 +34,7 @@ Pode visualizar os seguintes gráficos no relatório Benefits:
 - Resumo
 - Serviços em nuvem concedidos
 - Produtos de software
-- Assinaturas do Estúdio Visual
+- Subscrições do Visual Studio
 - Benefícios técnicos
 - Ir ao mercado
 
@@ -43,32 +43,32 @@ Pode visualizar os seguintes gráficos no relatório Benefits:
 
 ## <a name="summary"></a>Resumo
 
-A secção Resumo apresenta os benefícios concedidos em termos de software licenciado, serviços na nuvem (não-Azure), subscrições do Visual Studio, suporte técnico e certos serviços ou ofertas Go-To-Market.
+A secção Resumo apresenta os benefícios concedidos em termos de software licenciado, serviços na nuvem (não-Azure), subscrições de Estúdio Visual, suporte técnico e certos serviços ou ofertas Go-To-Market.
 
 Exemplo: Os parceiros de membro da Microsoft Partner Network (MPN) são elegíveis para suporte técnico de produtos no local e produtos na nuvem. Os parceiros que atingirem a competência silver recebem apoio técnico para 15 incidentes para produtos no local. Podem consumir este apoio conforme necessário. 
 
-:::image type="content" source="images/pci/pci-benefits-summary-2.png" alt-text="Visão geral da página de benefícios":::
+:::image type="content" source="images/pci/pci-benefits-summary-2.png" alt-text="benefícios resumo":::
 
 ## <a name="cloud-services-granted"></a>Serviços em nuvem concedidos
 
 Este gráfico apresenta a tendência mensal das licenças concedidas durante o intervalo de datas selecionados para subscrições baseadas em licenças do serviço de nuvem selecionado.
 Selecione um serviço de nuvem no separador **Serviços** para ver o gráfico para um serviço de nuvem específico. O gráfico de linha representa as licenças globais concedidas à sua empresa.
 
-:::image type="content" source="images/pci/pci-benefits-cloud-services-granted-3.png" alt-text="Visão geral da página de benefícios":::
+:::image type="content" source="images/pci/pci-benefits-cloud-services-granted-3.png" alt-text="serviços na nuvem concedidos":::
 
 ## <a name="software-products"></a>Produtos de software
 
 Este gráfico apresenta a tendência mensal das licenças concedidas durante a gama de datas selecionadas para um produto de software específico. Selecione um produto de software da lista de dropdown no topo da tabela para ver a tendência de um produto de software específico que lhe é concedido como benefícios. O gráfico de linha representa as licenças globais concedidas à sua empresa.
 
-:::image type="content" source="images/pci/pci-benefits-software-products-granted-4.png" alt-text="Visão geral da página de benefícios":::
+:::image type="content" source="images/pci/pci-benefits-software-products-granted-4.png" alt-text="produtos de software concedidos":::
 
-## <a name="visual-studio-subscriptions"></a>Assinaturas do Estúdio Visual
+## <a name="visual-studio-subscriptions"></a>Subscrições do Visual Studio
 
 Este gráfico apresenta a tendência mensal das subscrições do Visual Studio ativadas contra subscrições que foi atribuída durante a gama de datas selecionadas.
 
 Selecione um separador no topo da tabela para ver a tendência de uma subscrição específica do Visual Studio que lhe é concedida como benefícios. As colunas na tabela representam licenças consumidas para a subscrição. O gráfico de linha representa as licenças globais atribuídas para a subscrição.
 
-:::image type="content" source="images/pci/pci-benefits-visual-studio-subscriptions-5.png" alt-text="Visão geral da página de benefícios":::
+:::image type="content" source="images/pci/pci-benefits-visual-studio-subscriptions-5.png" alt-text="Assinaturas do Estúdio Visual":::
 
 ## <a name="technical-benefits"></a>Benefícios técnicos
 
@@ -76,7 +76,7 @@ Este gráfico apresenta a tendência mensal dos benefícios de apoio concedidos 
 
 Selecione um separador no topo da tabela para ver a tendência de um benefício de suporte específico que lhe é concedido. O gráfico de linha representa as horas globais de suporte atribuídas para o benefício de suporte selecionado.
 
-:::image type="content" source="images/pci/pci-benefits-technical-benefits-6.png" alt-text="Visão geral da página de benefícios":::
+:::image type="content" source="images/pci/pci-benefits-technical-benefits-6.png" alt-text="benefícios técnicos":::
 
 ## <a name="go-to-market-offers-or-services"></a>Ofertas ou serviços go-to-market
 
@@ -84,7 +84,7 @@ Este gráfico apresenta a tendência mensal das ofertas ou serviços Go-To-Marke
 
 Selecione uma oferta go-to-market ou categoria de serviço a partir da lista de dropdown no topo da tabela para ver a tendência dos serviços go-to-market selecionados concedidos à sua empresa. Colunas na tabela representam ofertas ou serviços do Go-To-Market ativados. O gráfico de linha representa as ofertas ou serviços globais da Go-To-Market concedidos à sua empresa.
 
-:::image type="content" source="images/pci/pci-benefits-go-to-market-7.png" alt-text="Visão geral da página de benefícios":::
+:::image type="content" source="images/pci/pci-benefits-go-to-market-7.png" alt-text="Ofertas go-to-market":::
 
 ## <a name="next-steps"></a>Passos seguintes
 

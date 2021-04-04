@@ -1,22 +1,22 @@
 ---
 title: Declaração de dividendos
 description: Saiba mais sobre os pedidos de pagamento e resumos, e como ver e exportar os seus dados de pagamento do Microsoft Partner Center
-ms.subservice: partnercenter-marketplace-publisher
-ms.service: marketplace
+ms.subservice: partnercenter-mpn
+ms.service: partner-dashboard
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 3/22/2021
-ms.openlocfilehash: afe9793e3a1ef9c0e3e8ecba6d1c3419b7e16604
-ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
+ms.openlocfilehash: fd0aaeb84651a84aba4748795309512295f9485a
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "105549248"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106087098"
 ---
 # <a name="payout-statements"></a>Declaração de dividendos
 
-**Funções adequadas:**
+**Funções adequadas**
 
 - Administrador de conta
 - Administrador global
@@ -69,11 +69,11 @@ Utilize a seleção da gama de datas no canto superior direito da página para f
 
 :::image type="content" source="images/payouts/search-filter.png" alt-text="O filtro de pesquisa no topo direito da página.":::
 
-Para ver mais detalhes sobre um ganho, selecione a seta para baixo no lado direito da página. Ao fazê-lo, apresentará a alavanca, o valor das receitas, o produto e o cliente. Se por alguma razão algum destes dados não estiver disponível, mas necessitar de acesso aos mesmos, contacte o suporte. Se o ganho for o resultado de um ajustamento, e não de uma transação, os campos de Produto e Cliente não serão apresentados.
+Para ver mais detalhes sobre um ganho, selecione a seta para baixo no lado direito da página. Ao fazê-lo, apresentará a alavanca, o valor das receitas, o produto e o cliente. Se por alguma razão algum destes dados não estiver disponível, mas necessitar de acesso aos mesmos, contacte o suporte. Se o ganho for o resultado de um ajuste, e não de uma transação, os campos de Produto e Cliente não serão apresentados.
 
 ### <a name="transaction-history-summary"></a>Resumo do histórico de transações
 
-Isto mostra detalhes de ganhos, incluindo a origem do ganho do produto vendido datas de ganho, estado e mês de pagamento estimado.
+Esta visão mostra detalhes de ganhos, incluindo a origem do ganho do produto vendido datas de ganho, estado e mês de pagamento estimado.
 
 :::image type="content" source="images/payouts/transaction-history.png" alt-text="Histórico de transações.":::
 
@@ -116,7 +116,7 @@ Note que o seu pagamento só é liberado no mês previsto se as regras de elegib
 - O seu perfil fiscal deve estar atualizado
 - Os seus ganhos devem cumprir ou exceder o limiar mínimo de ganho definido no seu guia de programa.
 - Pagamento em espera: Se selecionar a opção "Hold my Payment" na página de atribuição de perfis.
-- Instrumento de pagamento não disponível: O perfil de pagamento ou/e fiscal não está concluído.
+- Instrumento de pagamento não disponível: O perfil de pagamento ou/e imposto não está concluído.
 
 ### <a name="transaction-history-download"></a>Download do histórico de transações
 
@@ -220,7 +220,7 @@ A tabela que se segue lista os códigos de razão para ajustes e as suas descri�
 | Capotamento cooperativo | Ajuste que transfere os ganhos cooperativos para outro período, ou converte os ganhos cooperativos em desconto. |
 | Ajuste de Operações | Ajuste que corrige erros de cálculo do sistema da Microsoft. |
 | Ajuste de ops Microsoft calc incorreto | Ajuste que corrige erros de cálculo. |
-| Ajuste de ops Microsoft inscrição incorreta | Ajustamento para erros de cálculo relacionados com a matrícula. |
+| Ajuste de ops Microsoft inscrição incorreta | Ajustamento dos erros de cálculo relacionados com a inscrição. |
 | Mapeamento de parceiros (subscrição) MCI/CSP | Ajuste que corrige o desalinhamento da subscrição. |
 | Exceção da Política | Ajuste que substitui uma regra do programa.  |
 | Resultados do período anterior | Ajustamento dos ganhos fora do período de ganhos em curso. |

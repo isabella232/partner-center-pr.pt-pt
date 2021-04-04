@@ -1,28 +1,28 @@
 ---
 title: FAQ sobre dividendos e perfis de imposto
 description: Obtenha respostas a perguntas comuns sobre pagamentos e detalhes fiscais no Partner Center. Inclui respostas sobre o porquê dos seus ganhos serem diferentes do que esperava.
-ms.service: marketplace
-ms.subservice: partnercenter-marketplace-publisher
+ms.service: partner-dashboard
+ms.subservice: partnercenter-incentives
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 03/05/2021
-ms.openlocfilehash: 4cbbf89ef0df9c3fd1c1d4c59977a8ba34317673
-ms.sourcegitcommit: fe867be44de3479607be3309940b904d7ea9fc6e
+ms.openlocfilehash: 00cb707dd6d94cc6cbae889e2db1a700d246e2ed
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/06/2021
-ms.locfileid: "102247659"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106087047"
 ---
 # <a name="common-questions-about-payouts-and-taxes"></a>Questões comuns sobre pagamentos e impostos
 
-**Funções adequadas:**
+**Funções adequadas**
 
 - Administrador de conta
 - Administrador global
 - Administradores de incentivos
 
-Este artigo responde frequentemente a perguntas sobre pagamentos e detalhes fiscais no Partner Center.Os tópicos cobertos incluem o tempo de pagamentos, a verificação da elegibilidade dos seus ganhos e a importância de configurar corretamente os seus perfis de pagamento e impostos.
+Este artigo responde frequentemente a perguntas sobre pagamentos e detalhes fiscais no Partner Center. Os assuntos abrangidos incluem o tempo de pagamento, a verificação da elegibilidade dos seus ganhos e a importância de configurar corretamente o seu pagamento e perfis fiscais.
 
 ## <a name="profile-management"></a>Gestão de perfis
 
@@ -42,7 +42,7 @@ Pode ser que não tenhas as permissões adequadas, ou que tenhas iniciado sessã
 
 #### <a name="im-only-able-to-sign-in-with-my-onmicrosoftcom-domain-what-should-i-do"></a>Só posso assinar com o meu @onmicrosoft.com domínio. O que devo fazer?
 
-Contacte o Administrador de conta para adicionar domínios adicionais à conta AAD.
+Contacte o administrador da conta para adicionar mais domínios à conta AAD.
  
 #### <a name="my-organization-is-participating-in-multiple-programs-do-i-need-to-provide-my-payment-and-tax-profile-multiple-times"></a>A minha organização está a participar em vários programas. Preciso de fornecer o meu pagamento e o meu perfil de impostos várias vezes?
 
@@ -61,7 +61,7 @@ Se a sua empresa for convidada para vários programas, poderá utilizar a mesma 
 
 É da responsabilidade da empresa assegurar que o papel dos administradores de incentivos - que tem as permissões para editar esta informação - seja apenas dado aos colaboradores adequados.
 
-#### <a name="my-tax-profile-has-expired-how-do-i-fix-this"></a>O meu perfil de impostos expirou. Como é que eu arranjo isto?
+#### <a name="my-tax-profile-has-expired-how-do-i-fix-update-it"></a>O meu perfil de impostos expirou. Como posso corrigi-lo?
 
 Se um perfil fiscal estiver caducado ou prestes a expirar, significa que o formulário de imposto que forneceu à Microsoft precisa de ser atualizado. Utilize os seguintes passos para atualizar o seu perfil fiscal:
 
@@ -83,7 +83,7 @@ Se um perfil fiscal estiver caducado ou prestes a expirar, significa que o formu
 #### <a name="why-is-my-earnings-amount-different-than-what-i-expected"></a>Porque é que os meus ganhos são diferentes do que esperava?
 
 - Se a encomenda foi parcialmente paga pelo seu cliente, o seu valor de ganho basear-se-á no valor parcialmente pago após a dedução da taxa e do imposto adequado.
-- Verifique a responsabilidade fiscal por país. No caso de países em que o imposto seja da responsabilidade da Microsoft, a Microsoft cobra e deduz o imposto dos ganhos do publicador. O montante da transação mostrado na declaração é após o montante do imposto. Veja [Detalhes fiscais](tax-details-marketplace.md).
+- Verifique a responsabilidade fiscal por país. Nos países onde o imposto é responsável pela Microsoft, a Microsoft recolhe e deduz o imposto dos ganhos dos editores. O montante da transação mostrado na declaração é após o montante do imposto. Veja [Detalhes fiscais](tax-details-marketplace.md).
 - As ofertas da SaaS e da IaaS têm uma taxa de agência descontada de 10% em vez dos 20% padrão, deixando uma taxa de ganhos de 90%. Esta promoção está em vigor até 30 de junho de 2021.
 
 **Continuar a ler** [Acordo de Editor de Mercado Comercial](https://go.microsoft.com/fwlink/p/?LinkID=699560), Detalhes da política de [pagamento](payout-policy-details.md), limiar [de pagamento, método e prazo,](payment-thresholds-methods-timeframes.md) [Ser pago,](marketplace-get-paid.md) [Detalhes fiscais,](tax-details-marketplace.md) [declarações de pagamento](payout-statement.md)
@@ -113,7 +113,7 @@ Utilize o AssetID, o orderID e o ID do item de linha que aparece no relatório d
 
 
 #### <a name="how-do-i-set-my-account-to-not-receive-payment"></a>Como posso definir a minha conta para não receber o pagamento?
-Pode realizar pagamentos no [Perfil de Pagamento;](https://partner.microsoft.com/dashboard/commercial-marketplace/overview) basta verificar **Hold**. A Microsoft irá reter-lhe o pagamento até que liberte o porão.
+Pode realizar pagamentos no [Perfil de Pagamento.](https://partner.microsoft.com/dashboard/commercial-marketplace/overview) Para isso, verifique **Hold** e a Microsoft irá reter o pagamento até que liberte o porão.
 
 #### <a name="why-do-i-receive-in-a-different-currency-than-the-purchase-currency"></a>Porque recebo numa moeda diferente da moeda de compra?
 
@@ -121,7 +121,7 @@ A moeda de pagamento é baseada na moeda selecionada no perfil de pagamento. A m
 
 #### <a name="how-do-i-reconcile-adjustments"></a>Como faço a reconciliação de ajustes?
 
-Os ajustes de pagamento são correções de pagamento para acomodar os ajustes de compensação, como problemas do sistema. Na instrução do pagamento, ReasonCode especificará o motivo do ajuste. Estes não se destinam a reconciliar diretamente transações individuais.
+Os ajustes de pagamento são correções de pagamento para acomodar os ajustes de compensação, como problemas do sistema. Na declaração de pagamento, o ReasonCode especifica o motivo do ajuste. Estes não se destinam a reconciliar-se diretamente com transações individuais.
 
 **Continuar a ler** [Acordo de Editor de Mercado Comercial](https://go.microsoft.com/fwlink/p/?LinkID=699560), Detalhes da política de [pagamento,](payout-policy-details.md) [detalhes fiscais,](tax-details-marketplace.md) [limiar de pagamento, método e prazo](payment-thresholds-methods-timeframes.md)
 
@@ -199,7 +199,7 @@ Utilize a [API de Pagamento de Parceiros.](https://apidocs.microsoft.com/service
 
 #### <a name="how-do-i-find-the-current-agency-fee-and-the-payout-rate"></a>Como devo proceder para encontrar a tarifa da agência atual e a taxa de dividendos?
 
-- Verifique o Contrato do Editor do marketplace comercial. A tarifa da agência padrão é de 20%. As transações elegíveis Co-Sell SaaS têm uma taxa descontada de 10%. Verifique se existem anúncios de tarifas promocionais da agência.
+- Verifique o Contrato do Editor do marketplace comercial. A tarifa da agência padrão é de 20%. As transações elegíveis da SaaS têm uma taxa descontada de 10%. Verifique se existem anúncios de tarifas promocionais da agência.
 - Na sua demonstração de pagamento, a Taxa de Ganhos especifica a taxa de pagamento real para uma determinada transação.
 
 #### <a name="when-can-i-expect-a-payment-from-microsoft-once-earnings-appear-on-my-statement"></a>Quando posso esperar um pagamento da Microsoft, assim que os ganhos aparecerem na minha declaração?

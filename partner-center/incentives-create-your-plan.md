@@ -8,20 +8,16 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 9e3d2ec916a8c8a9d29b5ba82db6542d55bd84e8
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 1ad11a42a91cfacb625a05b850b0cdfee3d48d0b
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "92529731"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179263"
 ---
 # <a name="generate-a-marketing-plan-for-your-incentives-program"></a>Gere um plano de marketing para o seu programa de incentivos
 
-**Aplica-se a:**
-
-- Partner Center
-
-**Funções adequadas:**
+**Funções adequadas**
 
 - Administradores de incentivos
 - Administrador de faturação
@@ -44,21 +40,21 @@ Para obter mais informações sobre os planos para o seu programa de incentivos 
 
 2. Em **Incentivos** no painel de navegação esquerdo, selecione **Programa** e, em seguida, o seu programa. 
 
-3. Na página **do Programa,** localize o mercado apropriado para o seu plano e, em seguida, selecione **Criar o plano** . 
+3. Na página **do Programa,** localize o mercado apropriado para o seu plano e, em seguida, selecione **Criar o plano**. 
 
-4. Na página do **Novo Plano,** preencha os campos necessários. **Moeda** é o valor que quer que o plano reflita. **O e-mail do revisor** deve ser o endereço de e-mail da Microsoft do seu gestor de conta. Note que apenas um plano pode ser criado por ID do MPN, fundo, programa e período. Selecione **Guardar** .
+4. Na página do **Novo Plano,** preencha os campos necessários. **Moeda** é o valor que quer que o plano reflita. **O e-mail do revisor** deve ser o endereço de e-mail da Microsoft do seu gestor de conta. Note que apenas um plano pode ser criado por ID do MPN, fundo, programa e período. Selecione **Guardar**.
 
 5. Na página de estado do plano, reveja as informações apresentadas. Selecione **Editar** para atualizar as informações.
 
-6. Quando as informações desta página estiverem corretas, selecione **Nova campanha** .
+6. Quando as informações desta página estiverem corretas, selecione **Nova campanha**.
 
-7. Preencha os campos necessários na página de **campanha Nova** e, em seguida, selecione **Save** .
+7. Preencha os campos necessários na página de **campanha Nova** e, em seguida, selecione **Save**.
 
-8. Na página de estado, selecione **Nova atividade** . 
+8. Na página de estado, selecione **Nova atividade**. 
 
-9. Na página **Nova atividade** , preencha os campos necessários. Pode selecionar vários países. Quando tiver terminado, selecione **Guardar** . 
+9. Na página **Nova atividade**, preencha os campos necessários. Pode selecionar vários países. Quando tiver terminado, selecione **Guardar**. 
 
-10. Na página de estado, reveja novamente as informações. Uma vez submetido o plano, não poderá editá-lo. Quando terminar, selecione **Submeter** e, em seguida, **Confirmar** .
+10. Na página de estado, reveja novamente as informações. Uma vez que submete um plano, não pode editá-lo. Quando terminar, selecione **Submeter** e, em seguida, **Confirmar**.
 
 O plano foi agora submetido. A Microsoft notificará o seu administrador de Incentivos quando o plano for aprovado ou caso sejam necessárias informações adicionais. Pode acompanhar o progresso do plano na janela Estado da página de estado.
 
@@ -66,9 +62,9 @@ O plano foi agora submetido. A Microsoft notificará o seu administrador de Ince
 
 1. Inicie sessão no [dashboard do Centro de Parceiros](https://partner.microsoft.com/dashboard/).
 
-2. Na página **Incentivos** , selecione **Gestão de Planos** e, em seguida, selecione o programa desejado. Será apresentada a página de estado.
+2. Na página **Incentivos**, selecione **Gestão de Planos** e, em seguida, selecione o programa desejado. Será apresentada a página de estado.
 
-3. Na secção **Planos** , o estado de cada plano é indicado na coluna **Estado** .
+3. Na secção **Planos**, o estado de cada plano é indicado na coluna **Estado**.
 
    Seguem-se os vários estatutos possíveis para o seu plano de reclamação cooperativa.
 
@@ -90,9 +86,9 @@ Deve criar e submeter o plano até ao último dia do ano do programa. Se necess�
 
 A Microsoft paga-lhe todos os meses com base nos seus ganhos e nos limites do seu plano. Os pagamentos são feitos no dia 15 do mês seguinte.
 
-Por exemplo, se o plano for aprovado para 10 000 $ e tiver ganho 5000 $ no mês de abril, receberá 5000 $ no dia 15 de maio.
+Por exemplo, se o seu plano for aprovado por $10.000, e ganhar $5.000 no mês de abril, receberá $5.000 no dia 15 de maio.
 
-De acordo com o mesmo plano, se ganhar 15 000 $ no mês de abril, receberá 10 000 $ no dia 15 de maio, uma vez que 10 000 $ era o limite do plano. Para receber um pagamento mais alto, terá de aumentar o limite do plano para o mês seguinte.
+De acordo com o mesmo plano, se ganhar $15.000 no mês de abril, receberá $10.000 no dia 15 de maio porque $10.000 era o limite para o seu plano. Para receber um pagamento mais alto, terá de aumentar o limite do plano para o mês seguinte.
 
 ## <a name="next-steps"></a>Passos seguintes
 

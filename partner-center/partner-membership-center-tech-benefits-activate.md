@@ -9,24 +9,21 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ee7ca469619e548dc59db390566d19a1b1c8cc24
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: e769758e14f48f6f7deb9dfe3354fa377a559c87
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "92529568"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106087115"
 ---
 # <a name="activate-microsoft-partner-network-technical-benefits-outside-of-partner-center"></a>Ativar os benefícios técnicos da Rede de Parceiros da Microsoft fora do Partner Center
 
+
+**Funções adequadas**
+
+- Todos os utilizadores do Partner Center
+
 Este artigo destina-se a membros da Microsoft Partner Network (MPN) que ainda utilizam o Partner Membership Center (PMC). Estes membros precisam de ajuda para ativar certos benefícios de adesão ao MPN, tais como benefícios técnicos, fora do painel de instrumentos do Centro de [Parceiros](https://partner.microsoft.com/dashboard)atual .
-
-### <a name="applies-to"></a>Aplica-se a
-
-- Utilizadores do Centro de Adesão ao Parceiro
-
-### <a name="appropriate-roles"></a>Funções adequadas
-
-- Parceiros MPN usando Partner Membership Center (PMC)
 
 Muitos membros da Microsoft Partner Network (MPN) já [migraram do Partner Membership Center para o Partner Center](prepare-pmc-pc-migration.md) para ajudar a gerir os benefícios dos seus utilizadores, clientes e MPN.
 

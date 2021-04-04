@@ -9,36 +9,30 @@ author: vijvala
 ms.author: vijvala
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 351d0715645b6e43607279393cdc376d898a7f54
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: b7fa76999d2e071f80c0175a8dfcbc1afe527bfc
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93132983"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106087064"
 ---
 # <a name="security-requirements-for-using-partner-center-or-partner-center-apis"></a>Requisitos de segurança para a utilização de APIs do Partner Center ou do Partner Center
 
-**Aplica-se a**
+**Funções adequadas**
 
-- Todos os parceiros no programa Cloud Solution Provider
-- Todos os fornecedores de painéis de controlo
-- Todos os Conselheiros
-
-**Utilizadores apropriados**
-
-- Todos os utilizadores habilitados, incluindo utilizadores convidados
+- Todos os utilizadores do Partner Center
 
 Este artigo explica os requisitos de segurança obrigatórios para assessores, fornecedores de painéis de controlo e parceiros que participam no programa Cloud Solution Provider, bem como opções de autenticação e outras considerações de segurança. As salvaguardas de privacidade e a segurança estão entre as nossas principais prioridades. Sabemos que a melhor defesa é a prevenção e que somos tão fortes quanto o nosso elo mais fraco. É por isso que precisamos que todos os nossos ecossistemas atuem e garantam a proteção de segurança adequadas.
 
 ## <a name="mandatory-security-requirements"></a>Requisitos de segurança obrigatórios
 
-Os parceiros que não implementarem os requisitos de segurança obrigatórios não poderão negociar no programa Cloud Solution Provider ou gerir os inquilinos dos clientes alavancando os direitos de administração delegados. Além disso, os parceiros que não implementem os requisitos de segurança podem colocar a sua participação em programas em risco. Os termos associados aos requisitos de segurança do parceiro foram adicionados ao Acordo de Parceiros da Microsoft. No que diz respeito aos Consultores, os mesmos requisitos contratuais estarão em vigor.
+Os parceiros que não implementarem os requisitos de segurança obrigatórios não poderão negociar no programa Cloud Solution Provider ou gerir os inquilinos dos clientes utilizando direitos de administração delegados. Além disso, os parceiros que não implementem os requisitos de segurança podem colocar a sua participação em programas em risco. Os termos associados aos requisitos de segurança do parceiro foram adicionados ao Acordo de Parceiros da Microsoft. No que diz respeito aos Consultores, os mesmos requisitos contratuais estarão em vigor.
 
 Para protegê-lo e aos seus clientes, exigimos que os parceiros tomem as seguintes ações imediatamente:  
 
 1. **Ativar a autenticação de vários fatores (MFA) para todas as contas do utilizador no seu inquilino parceiro.** Deve impor MFA em todas as contas de utilizador no seu(s) inquilino(s) parceiro. Os utilizadores devem ser desafiados pelo MFA quando iniciarem sação nos serviços de nuvem comercial da Microsoft ou quando transacionam no programa Cloud Solution Provider através do Partner Center ou através de APIs.
 
-2. **Adotar o quadro do Modelo de Aplicação Segura** . Todos os parceiros que se integram com as APIs do Partner Center devem adotar o [quadro do Modelo de Aplicação Segura](/partner-center/develop/enable-secure-app-model) para qualquer aplicação e aplicações de modelos de utilizador.
+2. **Adotar o quadro do Modelo de Aplicação Segura**. Todos os parceiros que se integram com as APIs do Partner Center devem adotar o [quadro do Modelo de Aplicação Segura](/partner-center/develop/enable-secure-app-model) para qualquer aplicação e aplicações de modelos de utilizador.
 
     > [!IMPORTANT]
     > Recomendamos vivamente que os parceiros implementem o Modelo de Aplicação Segura para integração com uma API da Microsoft, como o Azure Resource Manager ou o Microsoft Graph, ou quando alavancam a automatização, como o PowerShell, utilizando credenciais de utilizador, para evitar qualquer perturbação quando o MFA é aplicado.
@@ -51,7 +45,7 @@ Para cumprir os requisitos de segurança do parceiro, deve implementar e aplicar
 
 - Implementar [o Azure Ative Directory (Azure AD) por defeitos de segurança](/azure/active-directory/conditional-access/concept-conditional-access-security-defaults). Veja mais na [secção Local.](#security-defaults)
 
-- Comprar Azure Ative Directory Premium para cada conta de utilizador. Para obter mais informações, consulte [Plan a Azure Multi-Factor Authentication deployment](/azure/active-directory/authentication/howto-mfa-getstarted).
+- Comprar Azure Ative Directory Premium para cada conta de utilizador. Para obter mais informações, consulte [Plan a Azure AD Multi-Factor Authentication deployment](/azure/active-directory/authentication/howto-mfa-getstarted).
 
 - Utilize uma solução de terceiros para impor o MFA para cada conta de utilizador no seu inquilino parceiro. Para garantir que a solução fornecerá a solução esperada, veja [como os requisitos de segurança serão cumpridos.](#how-the-requirements-are-enforced)
 
@@ -70,28 +64,28 @@ Uma das opções que os parceiros podem escolher para implementar os requisitos 
 
 - Para os parceiros que utilizam [acesso condicional,](/azure/active-directory/conditional-access/concept-conditional-access-policy-common) [não estarão disponíveis padrão de segurança](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults#disabling-security-defaults).
 
-- Não bloqueamos a autenticação do legado neste momento. No entanto, como a maioria dos eventos relacionados com identidades comprometidas provém de tentativas de inscrição usando a autenticação antiga, os parceiros são encorajados a afastar-se destes protocolos mais antigos.
+- Não bloqueamos a autenticação do legado neste momento. No entanto, como a maioria dos eventos relacionados com identidades comprometidas provém da tentativa de entrada em adoção, os parceiros são encorajados a afastarem-se destes protocolos mais antigos.
 
 - A conta de sincronização Azure AD Connect está excluída de incumprimentos de segurança.
 
-Para obter informações [detalhadas, leia a visão geral da Autenticação Multi-Factor Azure para a sua organização](/azure/active-directory/authentication/concept-mfa-get-started) e quais são as falhas de [segurança?](/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)
+Para obter informações [detalhadas, leia a visão geral da Autenticação Multi-Factor AD Azure para a sua organização](/azure/active-directory/authentication/concept-mfa-get-started) e quais são os [padrão de segurança?](/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)
 
 > [!NOTE]
 > O incumprimento de segurança Azure AD é a evolução das políticas de proteção de base simplificadas. Se já ativou as políticas de proteção de base, é altamente recomendável que ative [as falhas de segurança](/azure/active-directory/conditional-access/concept-conditional-access-security-defaults).
 
 ## <a name="implementation-considerations"></a>Considerações de implementação
 
-Como estes requisitos se aplicam a todas as contas de utilizador no seu inquilino parceiro, você precisa considerar várias coisas para garantir uma implementação suave. Por exemplo, identifique as contas de utilizadores em Azure AD que não possam realizar MFA, bem como aplicações e dispositivos na sua organização que não suportem a autenticação moderna.
+Como estes requisitos se aplicam a todas as contas de utilizador no seu inquilino parceiro, você precisa considerar várias coisas para garantir uma implementação suave. Por exemplo, identifique as contas de utilizadores em Azure AD que não podem realizar MFA, e aplicações e dispositivos na sua organização que não suportam a autenticação moderna.
 
-Antes de realizar qualquer ação, recomendamos que complete as seguintes validações. 
+Antes de realizar qualquer ação, recomendamos que preencha as seguintes validações. 
 
 #### <a name="do-you-have-an-application-or-device-that-does-not-support-the-use-of-modern-authentication"></a>Possui uma aplicação ou dispositivo que não suporte ao uso da autenticação moderna?
 
-Quando executa o MFA, os protocolos de autenticação legado, tais como IMAP, POP3, SMTP, etc. serão bloqueados porque não suportam MFA. Para resolver esta limitação, utilize a funcionalidade [de palavras-passe](/azure/active-directory/authentication/howto-mfa-mfasettings#app-passwords) da aplicação para garantir que a aplicação ou dispositivo continuará a autenticar. Reveja as [considerações para usar as palavras-passe da aplicação](/azure/active-directory/authentication/howto-mfa-mfasettings#considerations-about-app-passwords) para determinar se podem ser usadas no seu ambiente.
+Quando executa o MFA, a autenticação legacy usa protocolos como IMAP, POP3, SMTP e outros serão bloqueados porque não suportam MFA. Para resolver esta limitação, utilize a funcionalidade [de palavras-passe](/azure/active-directory/authentication/howto-mfa-mfasettings#app-passwords) da aplicação para garantir que a aplicação ou dispositivo continuará a autenticar. Reveja as [considerações para usar as palavras-passe da aplicação](/azure/active-directory/authentication/howto-mfa-mfasettings#considerations-about-app-passwords) para determinar se podem ser usadas no seu ambiente.
 
 #### <a name="do-you-have-office-365-users-with-licenses-associated-with-your-partner-tenant"></a>Tem utilizadores do Office 365 com licenças associadas ao seu inquilino parceiro?
 
-Antes de implementar qualquer solução, recomendamos que determine qual a versão dos utilizadores do Microsoft Office no seu inquilino parceiro. Existe a possibilidade de os seus utilizadores experimentarem problemas de conectividade com aplicações como o Outlook. Antes de impor o MFA, é importante garantir que está a utilizar o Outlook 2013 SP1, ou mais tarde, e que a sua organização tem a autenticação moderna ativada. Para mais informações, consulte [Ative a autenticação moderna em Exchange Online.](/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online) 
+Antes de implementar qualquer solução, recomendamos que determine quais versões dos utilizadores do Microsoft Office no seu inquilino parceiro estão a usar. Existe a possibilidade de os seus utilizadores experimentarem problemas de conectividade com aplicações como o Outlook. Antes de impor o MFA, é importante garantir que está a utilizar o Outlook 2013 SP1, ou mais tarde, e que a sua organização tem a autenticação moderna ativada. Para mais informações, consulte [Ative a autenticação moderna em Exchange Online.](/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online) 
 
 Para permitir a autenticação moderna para dispositivos que executam o Windows que tenham o Microsoft Office 2013 instalado, terá de criar duas chaves de registo. Consulte [a autenticação moderna do Office 2013 em dispositivos Windows](/office365/admin/security-and-compliance/enable-modern-authentication).
 
@@ -103,23 +97,23 @@ Para permitir a autenticação moderna para dispositivos que executam o Windows 
 
 - Implementar uma solução de terceiros que aplique MFA para cada conta de utilizador no inquilino parceiro que fornece a opção de verificação mais adequada.
 
-- Comprar licenças [Azure Ative Directory Premium](https://azure.microsoft.com/pricing/details/active-directory/) para os utilizadores com impacto.
+- Compre licenças [Azure Ative Directory Premium](https://azure.microsoft.com/pricing/details/active-directory/) para os utilizadores afetados.
 
 #### <a name="what-automation-or-integration-do-you-have-to-leverage-user-credentials-for-authentication"></a>Que automatização ou integração tem para alavancar as credenciais do utilizador para a autenticação?
 
-Como aplicamos o MFA a cada utilizador, incluindo contas de serviço, no seu diretório de parceiros, isso afetará qualquer automatização ou integração que aproveite as credenciais dos utilizadores para a autenticação. Por isso, é importante que identifique quais as contas que estão a ser utilizadas nestas situações. Consulte a seguinte lista de pedidos ou serviços de amostra a considerar:
+Como aplicamos o MFA a cada utilizador, incluindo contas de serviço, no seu diretório de parceiros, isso afetará qualquer automatização ou integração que utilize credenciais de utilizador para autenticação. Por isso, é importante que identifique quais as contas que estão a ser utilizadas nestas situações. Consulte a seguinte lista de pedidos ou serviços de amostra a considerar:
 
 - Painel de controlo utilizado para a prestação de recursos em nome dos seus clientes
 
 - Integração com qualquer plataforma que seja usada para faturar (no que diz respeito ao programa CSP) e apoiar os seus clientes
 
-- Scripts PowerShell que utilizam os módulos Az, AzureRM, Azure AD, MS Online, etc.
+- Scripts PowerShell que usam os módulos Az, AzureRM, Azure AD, MS Online e outros módulos
 
-A lista acima não é abrangente. Por isso, é importante que realize uma avaliação completa de qualquer aplicação ou serviço no seu ambiente que aproveite as credenciais do utilizador para a autenticação. Para fazer face à exigência de MFA, deve implementar sempre que possível a orientação no [quadro do Modelo de Aplicação Segura.](/partner-center/develop/enable-secure-app-model)
+A lista acima não é abrangente. Por isso, é importante que efetue uma avaliação completa de qualquer aplicação ou serviço no seu ambiente que utilize credenciais de utilizador para autenticação. Para fazer face à exigência de MFA, deve implementar sempre que possível a orientação no [quadro do Modelo de Aplicação Segura.](/partner-center/develop/enable-secure-app-model)
 
 ## <a name="accessing-your-environment"></a>Acedendo ao seu ambiente
 
-Para melhor entender o que ou quem autentica sem ser desafiado para MFA, recomendamos que reveja a atividade de inscrição. Através do Azure Ative Directory Premium, pode aproveitar o relatório de inscrição. Para obter mais informações sobre este tópico, consulte [relatórios de atividades de inscrição no portal Azure Ative Directory](/azure/active-directory/reports-monitoring/concept-sign-ins). Se não tiver o Azure Ative Directory Premium, ou estiver à procura de uma forma de obter esta atividade de entrada através do PowerShell, então terá de aproveitar o cmdlet [Get-PartnerUserSignActivity](/powershell/module/partnercenter/get-partnerusersigninactivity) do módulo [Partner Center PowerShell.](https://www.powershellgallery.com/packages/PartnerCenter/)
+Para melhor entender o que ou quem autentica sem ser desafiado para MFA, recomendamos que reveja a atividade de inscrição. Através do Azure Ative Directory Premium, pode utilizar o relatório de inscrição. Para obter mais informações sobre este assunto, consulte [relatórios de atividades de inscrição no portal Azure Ative Directory](/azure/active-directory/reports-monitoring/concept-sign-ins). Se não tiver o Azure Ative Directory Premium, ou se estiver à procura de uma forma de obter esta atividade de entrada através do PowerShell, então terá de utilizar o cmdlet [Get-PartnerUserSignActivity](/powershell/module/partnercenter/get-partnerusersigninactivity) do módulo [Partner Center PowerShell.](https://www.powershellgallery.com/packages/PartnerCenter/)
 
 ## <a name="how-the-requirements-are-enforced"></a>Como os requisitos são aplicados
 
@@ -127,7 +121,7 @@ Os requisitos de segurança dos parceiros são aplicados pela Azure AD e, por su
 
 Após a ativação, os utilizadores do inquilino parceiro são solicitados a completar a verificação do MFA ao realizar qualquer administração em nome das operações (AOBO), acedendo ao portal Partner Center ou chamando APIs do Partner Center. Para obter mais informações, consulte [a Autenticação De Vários Fatores (MFA) para o seu inquilino parceiro.](partner-security-requirements-mandating-mfa.md) 
 
-Os parceiros que não cumpriram os requisitos devem aplicar estas medidas o mais rapidamente possível para evitar quaisquer perturbações nas empresas. Se estiver a utilizar a autenticação multi-factor Azure ou as falhas de segurança Azure AD, não existem ações adicionais que necessite de tomar.
+Os parceiros que não cumpriram os requisitos devem aplicar estas medidas o mais rapidamente possível para evitar quaisquer perturbações nas empresas. Se estiver a utilizar o Azure Ative Directory Multi-Factor Authentication ou os padrãos de segurança Azure AD, não existem ações adicionais que necessite de tomar.
 
 Se estiver a utilizar uma solução de MFA de terceiros, existe a possibilidade de a reclamação do MFA não ser emitida. Se esta reclamação faltar, a Azure AD não poderá determinar se o pedido de autenticação foi contestado pela MFA. Para obter informações sobre como verificar a sua solução está a emitir a reclamação esperada, leia [testando os Requisitos de Segurança do Parceiro](/powershell/partnercenter/test-partner-security-requirements). 
 

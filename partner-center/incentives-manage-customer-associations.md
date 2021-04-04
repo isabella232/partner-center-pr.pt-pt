@@ -8,20 +8,16 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: 37b64d686549562a26aa818a576bad6c85f86670
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 91ff0d9b0696e1ef77cf21ce288afbc51c3fe528
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "92529712"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179484"
 ---
 # <a name="manage-incentives-customer-associations"></a>Gerir incentivos associações de clientes
 
-**Aplica-se a:**
-
-- Partner Center
-
-**Funções adequadas:**
+**Funções adequadas**
 
 - Administrador de faturação
 - Administrador global
@@ -79,15 +75,15 @@ Se passaram 30 dias e ainda quer contestar uma reclamação rejeitada, terá de 
 
 1. Inicie sessão no [dashboard do Centro de Parceiros](https://partner.microsoft.com/dashboard/).
 2. Abra a alegação que quer contestar.
-3. Na página de reclamação, selecione **Dispute** .
+3. Na página de reclamação, selecione **Dispute**.
 4. Insira uma justificação de negócio e/ou um PoE atualizado explicando por que a rejeição deve ser reconsiderada.
-5. Quando terminar de adicionar as informações, selecione **Contestar** . Os nossos revisores devem contactá-lo com resultados no prazo de cinco dias úteis.
+5. Quando terminar de adicionar as informações, selecione **Contestar**. Os nossos revisores devem contactá-lo com resultados no prazo de cinco dias úteis.
 
 ## <a name="reasons-a-cpor-association-claim-is-rejected"></a>Razões que um pedido de associação CPOR é rejeitado
 
 Há três razões primárias para que uma associação CPOR seja rejeitada.
 
-**Pedido de parceiro:** Os sócios podem pedir que a sua associação rejeição. Esta lógica é usada principalmente quando o parceiro criou uma reivindicação de associação CPOR por engano usando uma MPN incorreta, escolheu uma atividade incorreta (exemplo.... Escolheu a Associação de Receitas em vez de pré-vendas, ou já não está a trabalhar com o cliente.
+**Pedido de parceiro:** Os sócios podem pedir que a sua associação rejeição. Esta lógica é utilizada principalmente quando o parceiro criou uma reivindicação de associação CPOR por engano usando uma MPN incorreta, escolheu uma Atividade incorreta (por exemplo, escolheu a Associação de Receitas em vez de Pré-venda), ou já não está a trabalhar com o cliente.
 
 **Declínio do cliente:** Uma vez que a reivindicação da associação CPOR tenha passado pelo processo de aprovação do PoE com sucesso, o seu estado muda para Aprovado enquanto o cliente é dada a oportunidade de negar o consentimento da associação. Se o cliente negar o consentimento, a associação será rejeitada.
 
@@ -125,4 +121,4 @@ Na reivindicação da associação CPOR, no lado superior direito, existe um bot
 
 ## <a name="next-steps"></a>Passos seguintes
 
-- [Começar com incentivos](incentives-get-started-intro.md)
+- [Introdução aos incentivos](incentives-get-started-intro.md)

@@ -8,20 +8,16 @@ ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
 ms.date: 10/29/2020
-ms.openlocfilehash: 54c90cce33a1eabc87357048c348ffa2cc03de19
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: 29e67bbeca2b136146a1d9d1ee7eef4d0f9d3b0c
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93133155"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179161"
 ---
 # <a name="manage-incentives-co-op-claims"></a>Gerir pedidos de cooperação de incentivos
 
-**Aplica-se a:**
-
-- Partner Center
-
-**Funções adequadas:**
+**Funções adequadas**
 
 - Administradores de incentivos
 
@@ -69,9 +65,9 @@ Se os materiais enviados com o pedido de cooperação forem considerados insufic
 
 3. Selecione o pedido de cooperação que quer contestar. A página de reivindicação da cooperativa abre.
 
-4. Na parte inferior da página, selecione **Contestar** .
+4. Na parte inferior da página, selecione **Contestar**.
 
-A equipa de validação de pedidos de cooperação irá rever o pedido dentro do prazo de cinco dias úteis. Durante esse tempo, o estado será apresentado como **Contestado** . Podemos contactá-lo para solicitar informações adicionais. Quando a revisão for concluída, a equipa de validação atualizará o estado para **Aprovado** , **Rejeitado** ou **Necessária Ação do Parceiro** .
+A equipa de validação de pedidos de cooperação irá rever o pedido dentro do prazo de cinco dias úteis. Durante esse tempo, o estado será apresentado como **Contestado**. Podemos contactá-lo para solicitar informações adicionais. Quando a revisão for concluída, a equipa de validação atualizará o estado para **Aprovado**, **Rejeitado** ou **Necessária Ação do Parceiro**.
 
 ## <a name="next-steps"></a>Passos seguintes
 

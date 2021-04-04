@@ -9,20 +9,21 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a5aaa7c7190615d1b7497fd92e0d844cc553c491
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: c5ca9a00c5eafcbc155df20b08269cefd93c14d3
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182329"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086877"
 ---
 # <a name="partner-insights--frequently-asked-questions"></a>Insights de Parceiros – Perguntas Frequentes
 
 **Funções adequadas**
+
 - Espectador de relatório
 - Espectador de relatório executivo
 
-Isto diz respeito a quaisquer problemas conhecidos de visualização ou prestação de relatórios associados à Insights.
+Este artigo abrange questões conhecidas para visualização ou prestação de relatórios associados à Insights.
 
 Q) **Não vejo o centro de insights na minha conta do Partner Center. O que devo fazer?**
 

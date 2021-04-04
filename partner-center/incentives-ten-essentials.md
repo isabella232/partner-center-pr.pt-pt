@@ -8,19 +8,14 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/15/2020
-ms.openlocfilehash: 41ea71b2461c8497b90acc0f265c4f946faa55b7
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 6000ba464a7751a159d8a390b13d2af6ffb59894
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "92529700"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179110"
 ---
 # <a name="the-10-essentials-for-working-with-incentives"></a>Os 10 essenciais para trabalhar com incentivos
-
-**Aplica-se a**
-
-- Partner Center
-- Parceiros na Microsoft Partner Network (MPN)
 
 **Funções adequadas**
 
@@ -49,7 +44,7 @@ Quase todos os atrasos de pagamento ou outras interrupções no processo de ince
 
 ## <a name="5-review-the-incentives-faq"></a>5. Rever os incentivos FAQ
 
-Obtenha respostas para perguntas de incentivos comuns antes mesmo de as fazer. Atualizamos frequentemente os incentivos FAQ utilizando informações do Microsoft Support, bem como comunicação direta com parceiros. Pode ver as FAQ [aqui.](incentives-faq.md)
+Obtenha respostas para perguntas de incentivos comuns antes mesmo de as fazer. Atualizamos frequentemente os incentivos FAQ utilizando informações do Microsoft Support e comunicação direta com parceiros. Pode ver as FAQ [aqui.](incentives-faq.md)
 
 ## <a name="6-confirm-your-program-eligibility"></a>6. Confirme a elegibilidade do seu programa
 
@@ -73,4 +68,4 @@ Encontrará procedimentos detalhados para fazer todas as tarefas acima referidas
 
 ## <a name="next-steps"></a>Passos seguintes
 
-- [Começar com incentivos](incentives-get-started-intro.md)
+- [Introdução aos incentivos](incentives-get-started-intro.md)

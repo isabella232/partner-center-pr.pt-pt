@@ -8,16 +8,16 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: a33ff22a448f407fe0b795c43953fef7ee21e1bd
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: 5b9ff5ad5c2d20b25175830188981a18da9bc29a
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182516"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179433"
 ---
 # <a name="view-available-earned-claimed-and-remaining-co-op-funds"></a>Ver disponíveis ganhos, reclamados e restantes fundos cooperativos
 
-**Funções adequadas:**
+**Funções adequadas**
 
 - Administradores de incentivos
 - Utilizador de incentivos
@@ -36,7 +36,7 @@ Pode rastrear, monitorizar e conciliar os seus fundos de cooperação de incenti
 
 Se você acredita que existem discrepâncias nos valores apresentados no resumo, você pode baixar o relatório de transação do período anterior. Este relatório irá ajudá-lo a determinar a quantidade de fundos cooperativos obtidos para o período de utilização selecionado. Para descarregar relatórios de transações ou validar reclamações submetidas para garantir que o valor da cooperativa restante é exato, consulte o [histórico de Transações](./payout-statement.md#transaction-history).
 
-Se ainda tiver problemas em conciliar os montantes, ou se alguns fundos cooperativos não estiverem visíveis, pode abrir o bilhete de apoio. Para isso, selecione o ícone de ponto de interrogação a partir do canto superior direito da página e, em seguida, selecione **Incentivos**.
+Se ainda tiver problemas em conciliar os montantes, ou se alguns fundos cooperativos não estiverem visíveis, pode abrir um bilhete de apoio. Para isso, selecione o ícone de ponto de interrogação a partir do canto superior direito da página e, em seguida, selecione **Incentivos**.
 
 ## <a name="next-steps"></a>Passos seguintes
 

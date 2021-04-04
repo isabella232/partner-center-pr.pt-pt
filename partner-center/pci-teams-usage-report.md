@@ -8,16 +8,17 @@ description: Veja o que está a fazer bem e onde pode melhorar no que diz respei
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 345e721ebec5396a0681ec2f357b8778169c0887
-ms.sourcegitcommit: ce1331c0e600e2f73b85a90ac159a9026ab6a691
+ms.openlocfilehash: 2292e9640224a2bdf333cb8ddb0e2245f34564e9
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98147158"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086724"
 ---
 # <a name="teams-usage-report-available-from-the-partner-center-insights-dashboard"></a>Relatório de utilização das equipas disponível no painel Partner Center Insights
 
 **Funções adequadas**
+
 - Administrador global
 - Agente administrativo
 - Espectador de relatório
@@ -51,19 +52,19 @@ A secção de resumo apresenta uma visão instantânea dos principais indicadore
 
 ## <a name="conversations-trend"></a>Tendência de conversas
 
-A tendência Conversations retrata a tendência mensal das reuniões, chamadas e sistemas telefónicos das Equipas, juntamente com a duração média da reunião em minutos.
+O relatório de tendência Conversations mostra a tendência mensal das reuniões, chamadas e sistemas telefónicos das Equipas, juntamente com a duração média da reunião em minutos.
 
 :::image type="content" source="images/pci/pci-teams-usage-conversation-trends.png" alt-text="equipas use tendências de conversação":::
 
 ## <a name="teams-usage-by-workloads"></a>Utilização de equipas por cargas de trabalho
 
-O uso das Equipas por cargas de trabalho retrata a divisão mensal de utilizadores de desktop, mobile e web de Equipas divididas por cargas de trabalho.
+O relatório de utilização das Equipas por cargas de trabalho mostra a divisão mensal de utilizadores de desktop, mobile e web de Equipas divididas por cargas de trabalho.
 
 :::image type="content" source="images/pci/pci-teams-usage-workload.png" alt-text="Utilização de equipas por cargas de trabalho":::
 
 ## <a name="top-customers-by-usage"></a>Principais clientes por utilização
 
-Os principais clientes por uso retratam o uso de clientes de topo em termos de reuniões de Equipas, chamadas e sistemas telefónicos e aplicações de terceiros.
+O relatório de utilização dos principais clientes mostra o uso de clientes de topo para reuniões de equipas, chamadas e sistemas telefónicos e aplicações de terceiros.
 
 :::image type="content" source="images/pci/pci-teams-usage-top-customer.png" alt-text="Principais clientes por utilização":::
 

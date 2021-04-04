@@ -8,24 +8,20 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 971b053119a263ed5c7f8e25fb532b4137e1cb13
-ms.sourcegitcommit: 2d1f0d7bc897278ef37af6d43c1a088f5ca14807
+ms.openlocfilehash: c6ff8915384f8c7ab98fa058f2e45e3d0b4f7214
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/08/2021
-ms.locfileid: "99834888"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179518"
 ---
 # <a name="troubleshooting-missing-payments-incorrect-earnings-and-other-issues"></a>Resolução de problemas em falta de pagamentos, ganhos incorretos e outras questões
 
-**Aplica-se a:**
-
-- Partner Center
-
-**Funções adequadas:**
+**Funções adequadas**
 
 - Administradores de incentivos
 
-Este artigo irá ajudá-lo a resolver quaisquer problemas de ganhos ou pagamentos no seu programa de incentivos. Os tópicos abordados incluem o tempo de pagamento, a verificação da elegibilidade dos seus ganhos e a importância de configurar corretamente os seus perfis de pagamento e impostos.
+Este artigo irá ajudá-lo a resolver quaisquer problemas de ganhos ou pagamentos no seu programa de incentivos. Os assuntos abrangidos incluem o tempo de pagamento, a verificação da elegibilidade dos seus ganhos e a importância de configurar corretamente os seus perfis de pagamento e impostos.
 
 ## <a name="who-can-create-or-update-payout-and-tax-profiles-for-my-organization"></a>Quem pode criar ou atualizar o pagamento e os perfis fiscais para a minha organização?
 
@@ -122,7 +118,7 @@ Os ganhos são apresentados tanto na página de histórico de **Transações** c
 
 :::image type="content" source="images/incentives/paymenticon.png" alt-text="Informações sobre transações":::
 
-Os valores de ganho mensal na vista do histórico de transações podem não estar alinhados com o valor de pagamento recebido por um mês específico. Tal deve-se a recálculos e ajustamentos relativos a períodos de ganhos anteriores que são aplicados a pagamentos futuros.
+Os valores de ganho mensal na vista do histórico de transações podem não estar alinhados com o valor de pagamento recebido por um mês específico. Isto deve-se a recálculos e ajustamentos para períodos de ganhos anteriores que são aplicados a pagamentos futuros.
 
 Por exemplo, um ajustamento para janeiro de 2019 que foi processado em setembro de 2019 não se refletirá no valor dos proveitos de setembro de 2019; no entanto, quando o pagamento de setembro de 2019 for recebido, incluirá o ajustamento para janeiro de 2019 que foi aplicado em setembro.
 
@@ -141,11 +137,11 @@ Esta vista permite-lhe visualizar pagamentos para todos os programas e IDs MPN. 
 | Consulte as suas informações de pagamento por linha, incluindo valores de ganhos e pagamentos em moeda local  | Consulte o campo **Lista de Pagamentos**   |
 | Faça o download de uma carta de remessa   |  Selecione remessa **de pagamento**  |
 | Ver detalhes do nível de transação para um pagamento específico |  Selecione **Ver**  |
-| Detalhes de transações de exportação para o Excel  |  Selecione **Iniciar o download** e, em seguida, clique em **Dados de Exportação**. Note que todos os filtros selecionados serão aplicados aos dados exportados. Uma vez alterado o estado para Completed, selecione **Download** e siga as instruções para exportar o relatório de transações detalhadas. Refresque a página se o estado não for atualizado dentro de cinco minutos.  |
+| Detalhes de transações de exportação para o Excel  |  Selecione **Iniciar o download** e, em seguida, selecione **dados de exportação**. Todos os filtros selecionados serão aplicados aos dados exportados. Uma vez alterado o estado para Completed, selecione **Download** e siga as instruções para exportar o relatório de transações detalhadas. Refresque a página se o estado não for atualizado dentro de cinco minutos.  |
 
 ### <a name="missing-or-incorrect-earnings-and-payments"></a>Ganhos e pagamentos em falta ou incorretos
 
-Se não conseguir localizar um pagamento ou dados de transação, verifique se aplicou os filtros corretos. Note que uma vez que alguns nomes do programa mudaram (por exemplo, CSP 1T Direct Partner é agora CSP Direct Bill Partner), poderá ter de utilizar várias seleções.
+Se não conseguir localizar um pagamento ou dados de transação, verifique se aplicou os filtros corretos. Uma vez que alguns nomes do programa mudaram (por exemplo, CSP 1T Direct Partner é agora CSP Direct Bill Partner), poderá ter de utilizar várias seleções.
 
 Se ainda não conseguir encontrar os seus ganhos ou acreditar que os ganhos apresentados estão incorretos, contacte [o Support](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives).
 

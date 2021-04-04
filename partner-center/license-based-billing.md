@@ -1,28 +1,27 @@
 ---
-title: Faturação baseada em licenças
+title: Faturação com base em licenças
 description: Saiba como a faturação baseada em licença difere da faturação baseada no uso no Partner Center, incluindo como é faturado por licença (não por utilização da licença).
 ms.topic: article
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/18/2020
-ms.openlocfilehash: 1fd6d9e4a9115757382e79f884a14d23e4545419
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: 007a15091a018755c60c4e02c394ad31868d4233
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "92529648"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179416"
 ---
 # <a name="license-based-billing-in-partner-center"></a>Faturação baseada em licença no Partner Center
 
-**Aplica-se a**
+**Funções adequadas**
 
-- Partner Center
-- Parceiros no programa CSP
-
-**Funções apropriadas** -Administração global
-- Administrador de utilizadores
+- Administrador global
+- Administração de gestão de utilizadores
 - Administrador de faturação
 - Agente administrativo
 
