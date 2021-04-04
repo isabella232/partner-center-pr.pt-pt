@@ -8,12 +8,12 @@ ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
-ms.openlocfilehash: 74974c68c607ddcee4aff6abd53284a60653fb0b
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 66159d886914336180e8531ec07db3a9d8880a88
+ms.sourcegitcommit: 766b2bb46dffd29e532b42106359f83e51b96700
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712261"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106103779"
 ---
 # <a name="csp-one-time-purchase-reconciliation-file-fields"></a>CSP uma vez comprar campos de arquivos de reconciliação
 
@@ -48,17 +48,17 @@ Para obter mais informações sobre ficheiros de reconciliação, consulte [util
 | Moeda | A sua conta é gerada no contexto da moeda do cliente. Isto significa que se você é um parceiro que transaciona com clientes de diferentes moedas faturantes, você receberá uma fatura para cada tipo de moeda de cliente.  | *EUR* |
 | PreçoDjustmentDescription | As razões dos ajustamentos no preço unitário. Estas são as principais razões, mas não se limitam a determinar o preço unitário efetivo. | *["15,0% Parceiro ganhou crédito pelos serviços geridos"]* |
 | Nome do Editor | Editor do produto.  | *Microsoft* |
-| PublisherId | Um identificador único que o Partner Center utiliza para identificar a editora. | *NA* |
+| PublisherId | Um identificador único que o Partner Center utiliza para identificar a editora. | *ND* |
 | AssinaturaDescrição | O nome da oferta de serviço adquirida pelo cliente, conforme definido na tabela de preços. Esta coluna é um campo idêntico ao OfferName. | *Plano do Azure* |
 | SubscriptionId | Identificador exclusivo para uma subscrição na plataforma de faturação da Microsoft. Não é usado para a reconciliação. Note que este identificador não é o mesmo que o ID de subscrição na consola de administração do parceiro. | *307628f1-d9d2-f09c-ea1f-4183f0cae308* |
-| ChargeStartDate | A data em que o centro parceiro cobra pela taxa de subscrição. Se a subscrição for comprada com um prazo anual de faturação e um plano de faturação mensal, então no primeiro ficheiro de reconciliação, este é o dia em que a subscrição é comprada. Começando com o próximo ficheiro de reconciliação, será aumentado por 30 dias. | *9/1/2020* |
-| ChargeEndDate | Fim do dia das taxas para o ciclo de faturação da subscrição. Se a subscrição for comprada com um prazo anual de faturação e um plano de faturação mensal, então no primeiro ficheiro de reconciliação, este é o 30º dia após a compra da subscrição. Começando com o próximo ficheiro de reconciliação, será aumentado por 30 dias. | *30/9/2020* |
+| ChargeStartDate | A data em que o período de faturação de uma subscrição começa. | *9/1/2020* |
+| ChargeEndDate | A data de fim do período de faturação de uma subscrição. | *30/9/2020* |
 | TermAndBillingCycle | O compromisso de duração para continuar a subscrição no momento da compra. | *Dados Armazenados (GB/Mês)* |
 | EffectiveUnitPrice | O preço unitário proscedido para calcular o custo do ciclo de faturação. Descontos, ajustes nos dias de faturação e outros fatores determinam o preço unitário efetivo. Para obter mais informações, consulte [o Cálculo Efetivo do Preço Unitário](./effective-unit-price-calculation.md).  | *0.03825* |
 | UnitType | O tipo de unidade em que o contador é carregado. | *1 GB/Mês* |
 | AlternateId | A identificação alternativa do item da linha de encomenda referenciada. | *6dc5c039750a* |
 | BillableQuantity | A quantidade total a ser cobrada.  | *0.005001* |
-| BillingFrequency | O plano de faturação selecionado no momento da compra. | *NA*  |
+| BillingFrequency | O plano de faturação selecionado no momento da compra. | *ND*  |
 | PricingCurrency | A moeda na lista de preços. | *USD* |
 | PCToBCExchangeRate | A taxa de câmbio aplicava-se à moeda de fixação de preços à moeda de faturação. | *0.846202666* |
 | PCToBCExchangeRateDate | A data em que é determinada a moeda de fixação da moeda de faturação. | *30/9/2020* |

@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/08/2021
-ms.openlocfilehash: 2dd1563aab9d2505932bf35a9f1fe7ef22c1be28
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.date: 04/01/2021
+ms.openlocfilehash: 9f0292efc6646e4abd85a6fab1e53ac9e139a915
+ms.sourcegitcommit: 60bbb8f4056120264b769f94431f84d86984c2e9
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712465"
+ms.lasthandoff: 04/03/2021
+ms.locfileid: "106280841"
 ---
 # <a name="january-2021-announcements"></a>Anúncios de janeiro de 2021
 
@@ -88,29 +88,30 @@ Para quaisquer questões relacionadas com este [suporte do Centro de Parceiros](
     -    Anunciando a Fase 1 está em direto 
     -    Esclarecendo que, embora o Reino Unido não esteja incluído na UE/EFTA, eles fazem parte da [região e do mercado da Microsoft Europeia](../regional-authorization-overview.md) e serão afetados
 
-
 ________________
 ## <a name="changes-to-the-cloud-solution-provider-csp-customer-onboarding-requirements"></a><a name="14"></a> Alterações aos requisitos de embarque do fornecedor de solução cloud (CSP)
 
 ### <a name="categories"></a>Categorias
 
-- Data: 2021-01-28
+- Data: 2021-04-02
 - Segurança e Conformidade Reforçadas
-
-### <a name="impacted-audience"></a>Audiência impactada
-
-Parceiros de conta direta da CSP e fornecedores indiretos que tenham clientes novos ou existentes nos países listados na secção seguinte.
 
 ### <a name="summary"></a>Resumo
 
-Como parte do nosso compromisso de ajudar parceiros e clientes a gerir negócios com base na confiança, solicitaremos informações adicionais ao cliente, efetivo final de março de 2021.
+Como parte do nosso compromisso de ajudar parceiros e clientes a gerir o seu negócio com base na confiança, vamos solicitar informações adicionais ao cliente, a partir de 25 de março de 2021.
+
+### <a name="impacted-audience"></a>Audiência impactada
+
+Parceiros de conta direta da CSP e fornecedores indiretos que tenham clientes novos ou existentes nos países listados na secção seguinte
 
 ### <a name="details"></a>Detalhes
 
-A Microsoft tem confiança. Estamos empenhados em fornecer um método de validação de clientes conforme, seguro e seguro para a transação de subscrições de clientes no programa CSP. No final de março de 2021, apresentaremos melhorias no Partner Center API e na interface de utilizador (UI) que afetarão parceiros que satisfaçam ambos os seguintes critérios:
+A Microsoft tem confiança. Estamos empenhados em fornecer um método de validação de clientes conforme, seguro e seguro para a transação de subscrições de clientes no programa CSP. No dia 25 de março de 2021, apresentaremos melhorias no Partner Center API e na interface de utilizador (UI) que afetarão os parceiros que cumprem ambos os seguintes critérios:
 
 1. O parceiro tem uma relação de faturação direta com a Microsoft (o que significa que o parceiro é ou um parceiro de conta direta ou um fornecedor indireto).
+
 2. O parceiro negoceia com clientes novos ou existentes nos seguintes países:
+
     - Tailândia
     - Vietname
     - Turquia
@@ -125,7 +126,9 @@ A Microsoft tem confiança. Estamos empenhados em fornecer um método de valida�
     - Emirados Árabes Unidos
     - Venezuela
 
-Os parceiros que satisfaçam os critérios terão de submeter o **identificador legal** de um cliente (também conhecido como organização do cliente **INN)** e o número de **telefone** quando estiverem a bordo de novos clientes ou a modificar os dados do cliente existentes. Estes parceiros também podem introduzir um **nome do meio** opcional para o cliente.
+Os parceiros que satisfaçam os critérios terão de submeter o ID de registo da empresa de um cliente (também conhecido como organização do cliente INN) e o número de telefone quando atualizarem ou criarem uma subscrição para esse cliente. Estes parceiros também podem introduzir um nome do meio opcional para o cliente.
+
+Note que quando adicionar o ID de registo da sua empresa deve usar o seu ID de imposto de negócio e não o ID pessoal do cliente.
 
 Os parceiros que fazem negócios com clientes novos ou já existentes nos seguintes países já foram a bordo com um lançamento anterior em novembro de 2020.
 
@@ -141,20 +144,32 @@ Os parceiros que fazem negócios com clientes novos ou já existentes nos seguin
 - Ucrânia
 - Usbequistão
 
-Os parceiros com clientes no resto do mundo terão a capacidade, no final de março de 2021, de introduzir o **identificador legal**, **número de telefone** e nome do **meio** para os clientes como detalhes opcionais.
+Os parceiros com clientes no resto do mundo terão a capacidade, no final de março de 2021, de introduzir o ID de registo da empresa, número de telefone e nome do meio para os clientes como detalhes opcionais.
 
 ### <a name="next-steps"></a>Passos seguintes
 
-- Reveja a documentação técnica e as perguntas frequentes na coleção de [parceiros](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) dedicados (inscrição necessária) para uma orientação mais detalhada.
+- Reveja a documentação técnica e questione frequentemente na coleção de [parceiros](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) dedicados para obter uma orientação mais detalhada.
 - Prepare-se para incorporar as alterações utilizando a API do Partner Center e a experiência do utilizador web. A API/SDKs estará disponível para testes.
 - Certifique-se de submeter os dados adicionais ao embarcar em novos clientes ou modificar os dados do cliente existentes.
 - Se estiver a utilizar uma solução de fornecedor de painéis de controlo (CPV), consulte o seu CPV.
 
 ### <a name="questions"></a>Perguntas?
 
-Contacte o seu consultor fiscal ou o fisco local se tiver alguma questão relacionada com o identificador legal (também chamado INN ou TIN). A Microsoft não pode fornecer orientações sobre questões fiscais.
+Contacte o seu consultor fiscal ou o fisco local se tiver alguma questão relacionada com o ID de registo da empresa (também chamado INN ou TIN). A Microsoft não pode fornecer orientações sobre questões fiscais.
 
-Se precisar de apoio com as suas operações com a Microsoft, [abra um pedido](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8) de serviço (pedido de inscrição).
+Se precisar de apoio com as suas operações com a Microsoft, abra um [pedido de serviço](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8).
+
+### <a name="change-log"></a>Alterar Registo:
+
+17 de dezembro de 2020: Publicação original
+
+28 de janeiro de 2021: Republicação; sem alterações.
+
+2 de abril de 2021: As atualizações incluem:
+
+- Data de Lançamento fornecida
+- Título para Organização INN foi atualizado para ID de Registo da Empresa
+- Nota adicionada para prestar esclarecimentos para iD de registo da empresa
 
 ________________
 ## <a name="microsoft-partner-agreement-mpa--indirect-reseller-update--new-faqs"></a><a name="13"></a> Microsoft Partner Agreement (MPA) – atualização de revendedor indireto & novas FAQs 

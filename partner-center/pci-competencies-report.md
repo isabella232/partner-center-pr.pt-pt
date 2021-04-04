@@ -9,28 +9,29 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8d03533d69df4600879dbc90622b640a932ab069
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 292b5535bdcc40164e738ec967a689c51f6d8f47
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "92529580"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086265"
 ---
 # <a name="competencies-report-available-from-the-partner-center-insights-dashboard"></a>Relatório de competências disponível no painel Partner Center Insights
 
 **Funções adequadas**
+
 - Administrador global
 - Agente administrativo
 - Espectador de relatório
 - Espectador de relatório executivo
 
-As competências permitem à sua empresa demonstrar a sua capacidade técnica para fornecer soluções microsoft. As competências da Microsoft são projetadas para atender às necessidades dos seus clientes e mostrar a sua experiência a potenciais clientes. Eles vêm com uma grande quantidade de benefícios da Microsoft, tais como quantidades incluídas de consumo Azure, direitos para produtos Cloud como O365, suporte técnico, ofertas Go-to-Market, etc. Existem hoje um total de 19 competências nas seguintes categorias: **App and Infrastructure** , **Aplicações empresariais,** **Datas e IA** e local de trabalho **moderno.** As competências são escaldadas nos níveis de Prata ou Ouro, por exemplo. Há uma barra mais alta para a competência Gold e um nível mais elevado associado de recursos de marketing, ofertas e programas disponíveis.  
+As competências permitem à sua empresa demonstrar a sua capacidade técnica para fornecer soluções microsoft. As competências da Microsoft são projetadas para atender às necessidades dos seus clientes e mostrar a sua experiência a potenciais clientes. Eles vêm com uma grande quantidade de benefícios da Microsoft, tais como quantidades incluídas de consumo Azure, direitos para produtos Cloud como Office 365, suporte técnico, ofertas Go-to-Market, entre outros. Existem hoje um total de 19 competências nas seguintes categorias: **App and Infrastructure**, **Aplicações empresariais, Dados** **e IA,** e **local de trabalho moderno.** As competências são escaldadas nos níveis de Prata ou Ouro, por exemplo. Há uma barra mais alta para a competência Gold e um nível mais elevado associado de recursos de marketing, ofertas e programas disponíveis.  
 
 Ganhará mais uso do relatório de competências se aprender mais sobre o ciclo de vida da competência, a obtenção de competências e outros detalhes do relatório de competências.
 
 ## <a name="competency-life-cycle"></a>Ciclo de vida de competência
 
-Do ponto de vista do ciclo de vida, os parceiros começam por basear-se nos principais indicadores de desempenho (KPI' que são necessários para alcançar competências específicas. Assim que atingem o limiar fixado para uma determinada competência em todas as métricas necessárias, tornam-se **qualificados** para uma competência. Os parceiros podem então pagar a oferta de competência (Prata ou Ouro) para atingir a competência e tornar-se **Ativo** nessa competência. A competência O estatuto **ativo** é válido por um ano a partir da data de realização da competência (isto é chamado a data de **aniversário** para a competência). No final do ano de aniversário, os parceiros precisam de satisfazer os requisitos de competência. Se não voltarem a cumprir estes requisitos, perderão a competência. Um **Estado de risco** para uma competência previamente atingida significa que determinadas métricas-chave devem ficar abaixo do limiar nessa data de **aniversário** de competências .
+Do ponto de vista do ciclo de vida, os parceiros começam por basear-se nos principais indicadores de desempenho (KPI' que são necessários para alcançar competências específicas. Assim que atingem o limiar fixado para uma determinada competência em todas as métricas necessárias, tornam-se **qualificados** para uma competência. Os parceiros podem então pagar a oferta de competência (Prata ou Ouro) para atingir a competência e tornar-se **Ativo** nessa competência. A competência O estatuto **ativo** é válido por um ano a partir da data de realização da competência (isto é chamado a data de **aniversário** para a competência). No final do ano de aniversário, os parceiros precisam de satisfazer os requisitos de competência. Se não cumprirem estes requisitos de novo, perderão a competência. Um **Estado de risco** para uma competência previamente atingida significa que determinadas métricas-chave devem ficar abaixo do limiar nessa data de **aniversário** de competências .
 
 ## <a name="competency-attainment"></a>Realização de competências
 
@@ -73,10 +74,10 @@ Esta opinião mostra o estatuto das métricas de competência em relação aos l
 
 O relatório pode ser apoiado pelos seguintes intervalos de data:
 
-1. Visão TTM: Isto enumera o desempenho do parceiro nos últimos doze meses (TTM).
+1. Visão TTM: Isto enumera o desempenho do parceiro nos últimos 12 meses (TTM).
 2. Visão do Ano de Aniversário: Isto enumera o desempenho do parceiro da data do aniversário anterior até à data do próximo aniversário.
 
-:::image type="content" source="images/pci/pci-competencies-comp-metrics-analysis-2.png" alt-text="resumo de competências":::
+:::image type="content" source="images/pci/pci-competencies-comp-metrics-analysis-2.png" alt-text="análise métrica de competência":::
 
 > [!NOTE]
  > Nem todas as métricas estão abrangidas pela análise. Atualmente, as métricas associadas à aprendizagem e certificação não são apoiadas no relatório de Competências. As competências em Cloud Business Applications (CBA) também não são atualmente suportadas na análise métrica para o estatuto de competência **Ativa.**
@@ -85,7 +86,7 @@ O relatório pode ser apoiado pelos seguintes intervalos de data:
 
 Este ponto de vista mostra uma tabela detalhada de todas as competências que alcançou até agora, com nível de competência e fase de competência.
 
-:::image type="content" source="images/pci/pci-competencies-comp-history-3.png" alt-text="resumo de competências":::
+:::image type="content" source="images/pci/pci-competencies-comp-history-3.png" alt-text="história de competência":::
 
 ## <a name="next-steps"></a>Passos seguintes
 

@@ -1,5 +1,5 @@
 ---
-title: Gestão do não pagamento, fraude ou utilização indevida
+title: Gerir não pagamento, fraude ou uso indevido
 description: Conheça os vários riscos envolvidos em transações online e as melhores práticas para gerir e mitigar esses riscos no Partner Center.
 ms.topic: article
 ms.service: partner-dashboard
@@ -9,23 +9,23 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 07/14/2020
-ms.openlocfilehash: 43a35f91be9ce656157065a3d19b3643ddeff68a
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 75881544097abdfac8d6f96bde37e9700eb28cf7
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92529815"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132354"
 ---
 # <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>Managing non-payment, fraud, or misuse in Partner Center (Gestão de não pagamento, fraude ou utilização indevida no Centro de Parceiros)
 
 Aplica-se a:
 
-- Partner Center
-- Centro de Parceiros para Microsoft Cloud para governo dos EUA
+- Centro de Parceiros para a nuvem do Governo da Microsoft
 
 **Funções adequadas**
+
 - Administrador global
-- Administrador de utilizadores
+- Administração de gestão de utilizadores
 - Agente administrativo
 - Administrador de faturação
 

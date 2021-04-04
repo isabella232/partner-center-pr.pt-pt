@@ -9,23 +9,23 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 606806f3796796873c37f6dfcac35e5993efe575
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: f36d7c0e99600d9de63d4e6377a2b3688a043885
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92530467"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086520"
 ---
 # <a name="partner-center-for-microsoft-cloud-germany-for-partners-selling-to-customers-in-eu--efta-countries"></a>Partner Center para a Microsoft Cloud Germany para parceiros que vendem a clientes em países da UE & EFTA
 
 **Aplica-se a**
 
--  Centro de Parceiros para Microsoft Cloud Germany
+- Centro de Parceiros para Microsoft Cloud Germany
 
 **Funções adequadas**
 
 - Administrador global
-- Administrador de utilizadores
+- Administração de gestão de utilizadores
 - Agente administrativo
 - Agente comercial
 - Administrador de faturação
@@ -41,7 +41,7 @@ O Microsoft Cloud Germany fornece uma instância separada do [Microsoft Azure,](
 
 ## <a name="migrate-customers-from-microsoft-cloud-germany-to-another-european-region"></a>Migrar clientes do Microsoft Cloud Germany para outra região europeia
 
-Antes de migrar uma subscrição de clientes do Microsoft Cloud Germany para outra região europeia, deve ter uma conta CSP existente que está localizada nessa região, e está ativa. Se não tiver um, será solicitado a criar um durante a seleção de conta CSP no Partner Center. Depois de criar a nova conta, os seus clientes serão associados ao inquilino selecionado.
+Antes de migrar uma subscrição de clientes do Microsoft Cloud Germany para outra região europeia, deve ter uma conta existente no Cloud Solution Provider (CSP) que está localizada naquela região, e está ativa. Se não tiver um, será solicitado a criar um durante a seleção de conta CSP no Partner Center. Depois de criar a nova conta, os seus clientes serão associados ao inquilino selecionado.
 
 ### <a name="you-already-have-a-csp-account"></a>Já tem uma conta CSP
 
@@ -49,15 +49,15 @@ Antes de migrar uma subscrição de clientes do Microsoft Cloud Germany para out
 
 1. Navegue para a página geral da CSP a partir do menu esquerdo.
  
-1. Quando solicitado, **selecione eu já tenho um inquilino na região europeia** , e depois selecione **Next** . Será solicitado a assinar no novo inquilino. 
+1. Quando solicitado, **selecione eu já tenho um inquilino na região europeia**, e depois selecione **Next**. Será solicitado a assinar no novo inquilino. 
 
 1. Inscreva-se no inquilino como administrador global.
  
-1. Reveja as informações na página de confirmação e, em seguida, **selecione Confirmar** .
+1. Reveja as informações na página de confirmação e, em seguida, **selecione Confirmar**.
  
 6.  Se for bem sucedido, será solicitado para selecionar **Ver detalhes** ou ver o painel **de instrumentos** para obter mais informações. 
 
-    Se o sinal falhar, pode significar um dos seguintes:
+    Se a sindesiná-la falhar, pode significar uma das seguintes:
     
     • Você não é administrador global sobre o inquilino selecionado
     
@@ -72,8 +72,8 @@ Antes de migrar uma subscrição de clientes do Microsoft Cloud Germany para out
 1. Inscreva-se no CSP Microsoft Cloud Germany como administrador global.
 
 1. Navegue para a página geral da CSP no menu esquerdo.
-. 
-1. Quando solicitado, **selecione Eu não tenho um inquilino na região europeia** , e em seguida, selecione **Criar nova conta** . 
+ 
+1. Quando solicitado, **selecione Eu não tenho um inquilino na região europeia**, e em seguida, selecione **Criar nova conta**. 
  
 1. Você será levado para a página de Inscrição do Centro parceiro, onde você pode criar um novo inquilino e conta CSP em uma região europeia.
   

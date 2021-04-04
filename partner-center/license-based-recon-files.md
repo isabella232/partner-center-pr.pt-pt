@@ -1,29 +1,31 @@
 ---
-title: Ficheiros de reconciliação baseados em licenças
+title: Ficheiros de reconciliação com base em licenças
 ms.topic: article
 ms.date: 05/18/2020
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Saiba como ler ficheiros de reconciliação baseados em licenças no Partner Center. Este artigo explica o significado de cada campo no seu ficheiro de reconhecimento baseado na licença.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 86581db73f1bf2b6660af45aca4747a5db779bbe
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: bc97156d23fa4ea1082a0ad4a931ff36375897a7
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "92529376"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106178923"
 ---
 # <a name="understand-the-fields-in-partner-center-license-based-reconciliation-files"></a>Compreenda os campos em ficheiros de reconciliação baseados em licenças do Partner Center
 
 **Aplica-se a**
 
-- Partner Center
-- Centro de Parceiros para Microsoft Cloud para governo dos EUA
+- Centro de Parceiros para a nuvem do Governo da Microsoft
 
 **Funções adequadas**
+
 - Administrador global
-- Administrador de utilizadores
+- Administração de gestão de utilizadores
 - Administrador de faturação
 - Agente administrativo
 
@@ -44,12 +46,12 @@ Para conciliar as suas alterações com as ordens de um cliente, compare o **Syn
 | OfferId | Identificador de oferta única. Identificador de oferta padrão, conforme definido na tabela de preços. *Este valor não corresponde **ao ID** da Oferta da tabela de preços. Consulte **DurableOfferID** em vez disso.* | *FE616D64-E9A8-40EF-843F-152E9BB3D1* |
 | DurableOfferId | Identificador de oferta durável único, conforme definido na tabela de preços. *Este valor corresponde ao **ID** da Oferta da tabela de preços.* | *1017D7F3-6D7F-4BFA-BDD8-79BC8F104E0C* |
 | OfferName | O nome da oferta de serviço adquirida pelo cliente, conforme definido na tabela de preços. | *Microsoft Office 365 (Plano E3)* |
-| SubscriçãoStartDate | A data de início da subscrição. A hora é sempre o início do dia, 00:00. Este campo é definido para o dia seguinte à encomenda foi submetida. Utilizado em conjunto com o **SubscriptionEndDate** para determinar: se o cliente ainda se encontra no primeiro ano da subscrição, ou se a subscrição foi renovada para o ano seguinte. | *2/1/2019 0:00* |
-| SubscriçãoEndDate | A data final da assinatura. A hora é sempre o início do dia, 00:00. *Ou 12 meses mais **x** dias após a data de início* para alinhar com a data de faturação do parceiro ou *12 meses a partir da data de renovação* . Na renovação, os preços são atualizados para a lista de preços em vigor. A comunicação do cliente pode ser necessária antes da renovação automatizada. | *2/1/2019 0:00* |
+| SubscriçãoStartDate | A data de início da subscrição. A hora é sempre o início do dia, 00:00. Este campo é definido para o dia seguinte à encomenda foi submetida. Utilizado com o **SubscriptionEndDate** para determinar: se o cliente ainda se encontra no primeiro ano da subscrição, ou se a subscrição foi renovada para o ano seguinte. | *2/1/2019 0:00* |
+| SubscriçãoEndDate | A data final da assinatura. A hora é sempre o início do dia, 00:00. *Ou 12 meses mais **x** dias após a data de início* para alinhar com a data de faturação do parceiro ou *12 meses a partir da data de renovação*. Na renovação, os preços são atualizados para a lista de preços em vigor. A comunicação do cliente pode ser necessária antes da renovação automatizada. | *2/1/2019 0:00* |
 | ChargeStartDate | Início do dia das acusações. A hora é sempre o início do dia, 00:00. Usado para calcular os encargos diários *(custos pro rata)* quando um cliente muda os números da licença. | *2/1/2019 0:00* |
 | ChargeEndDate | Fim do dia das acusações. A hora é sempre o fim do dia, 23:59. Usado para calcular os encargos diários *(custos pro rata)* quando um cliente muda os números da licença. | *2/28/2019 23:59* |
 | ChargeType | O [tipo de carga](recon-file-charge-types.md) ou ajuste. | Consulte [os tipos de carga.](recon-file-charge-types.md) |
-| Preço Unitário | Preço por licença, conforme publicado na tabela de preços no momento da compra. Certifique-se de que isto corresponde às informações armazenadas no seu sistema de faturação durante a reconciliação. | *6.82* |
+| UnitPrice | Preço por licença, conforme publicado na tabela de preços no momento da compra. Certifique-se de que isto corresponde às informações armazenadas no seu sistema de faturação durante a reconciliação. | *6.82* |
 | Quantidade | Número de licenças. Certifique-se de que isto corresponde às informações armazenadas no seu sistema de faturação durante a reconciliação. | *2* |
 | Montante | Preço total para quantidade. Usado para verificar se o cálculo da quantidade corresponde à forma como calcula este valor para os seus clientes. | *13.32* |
 | TotalOtherDiscount | Montante de desconto aplicado a estes encargos. As licenças de produtos incluídas com uma competência ou MAPS, ou novas subscrições elegíveis para um incentivo, também conterão um valor de desconto nesta coluna. | *2.32* |
@@ -58,6 +60,6 @@ Para conciliar as suas alterações com as ordens de um cliente, compare o **Syn
 | TotalForCustomer | Total após impostos. Verifica se é cobrado imposto na fatura. | *11* |
 | Moeda | Tipo de moeda. Cada entidade de faturação tem apenas uma moeda. Verifique se corresponde à sua primeira fatura. Verifique novamente depois de quaisquer atualizações importantes da plataforma de faturação. | *EUR* |
 | DomainName | Nome de domínio do cliente. Este campo pode parecer em branco até ao segundo ciclo de faturação. *Não utilize este campo como um identificador único para o cliente. O cliente/parceiro pode atualizar o domínio de vaidade ou predefinição através do portal Office 365.* | *example.onmicrosoft.com* |
-| SubscriptionName | Apelido de assinatura. Se não for especificado qualquer apelido, o Partner Center utiliza o **Nome de Oferta** . | *PROJETO ONLINE* |
-| AssinaturaDescrição | O nome da oferta de serviço adquirida pelo cliente, conforme definido na tabela de preços. (Este é um campo idêntico ao **Nome Oferta** .) | *PROJETO PREMIUM ONLINE SEM CLIENTE DO PROJETO* |
+| SubscriptionName | Apelido de assinatura. Se não for especificado qualquer apelido, o Partner Center utiliza o **Nome de Oferta**. | *PROJETO ONLINE* |
+| AssinaturaDescrição | O nome da oferta de serviço adquirida pelo cliente, conforme definido na tabela de preços. (Este é um campo idêntico ao **Nome Oferta**.) | *PROJETO PREMIUM ONLINE SEM CLIENTE DO PROJETO* |
 | BillingCycleType | Frequência de faturação única.| *Mensalmente* |

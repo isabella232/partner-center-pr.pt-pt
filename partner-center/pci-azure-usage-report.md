@@ -4,27 +4,28 @@ ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Veja o que está a fazer bem e onde pode melhorar no que diz respeito ao uso de subscrições Azure que vende ou gere para os seus clientes.
+description: Veja o que está a fazer bem e onde pode melhorar o seu uso de subscrições Azure que vende ou gere para os seus clientes.
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 932fdc0efa2b28f5c57f81b33eac166dc5f4eda8
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: ef72aa2e44797c906cdd0a216cf2d8355668c0a9
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "92529592"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086214"
 ---
 # <a name="azure-usage-report-available-from-the-partner-center-insights-dashboard"></a>Relatório de utilização do Azure disponível no painel de insights do Centro de Parceiros
 
 **Funções adequadas**
+
 - Administrador global
 - Agente administrativo
 - Espectador de relatório
 - Espectador de relatório executivo
 
-O relatório Azure Usage apresenta métricas relacionadas com as subscrições Azure dos seus clientes. Isto inclui as receitas de consumo do Azure e a utilização por categorias de contadores. Pode ver as seguintes secções do relatório de utilização do Azure.
+O relatório Azure Usage apresenta métricas relacionadas com as subscrições Azure dos seus clientes. Este relatório inclui as receitas de consumo da Azure e a utilização por categorias de contadores. Pode ver as seguintes secções do relatório de utilização do Azure.
 
 - Resumo
 - Uso azul por geografia
@@ -37,9 +38,10 @@ O relatório Azure Usage apresenta métricas relacionadas com as subscrições A
 
 A secção de resumo apresenta uma visão instantânea dos principais indicadores de desempenho (KPI's) relacionados com as subscrições Azure vendidas ou geridas por si para os seus clientes.  
 
-- Assinaturas Azure: Contagem atual de subscrições de clientes Azure vendidas ou geridas por si Crescimento percentual ou declínio das subscrições Azure durante a gama de datas selecionadas.
+- Assinaturas Azure: Contagem atual de subscrições de clientes Azure vendidas ou geridas por si.
+Crescimento percentual ou declínio destas subscrições Azure durante o intervalo de datas selecionadas.
 
-O Micro chart apresenta uma tendência mensal de subscrições Azure para a sua gama de datas selecionadas
+O micro gráfico apresenta uma tendência mensal de subscrições Azure para a sua gama de datas selecionadas.
 - Subscrições Ative Azure: Contagem atual de subscrições Azure vendidas ou geridas por si que tiveram uso ativo nos últimos 30 dias.
 Crescimento percentual ou declínio destas subscrições durante o intervalo de datas selecionadas.
 
@@ -64,7 +66,7 @@ O **número de países/tabela de região** apresenta o total de países/regiões
 
 Pode pesquisar e selecionar um país na grelha para ampliar a localização no mapa. Selecione a opção **Casa** no mapa para reverter para a vista original.
 
-:::image type="content" source="images/pci/pci-azure-usage-by-geography-2.png" alt-text="Resumo de utilização do Azul":::
+:::image type="content" source="images/pci/pci-azure-usage-by-geography-2.png" alt-text="Uso azul por geografia":::
 
 ## <a name="azure-utilization"></a>Utilização do azul
 
@@ -72,7 +74,7 @@ Esta visão mostra as tendências mensais de receitas de consumo do Azure ou hor
 
 O gráfico de barras apresenta a tendência mensal de receitas/horas de utilização. O gráfico de linha apresenta a tendência de crescimento em comparação com o mês anterior para as categorias de nível/metro de serviço Azure selecionados.
 
-:::image type="content" source="images/pci/pci-azure-usage-utilization-3.png" alt-text="Resumo de utilização do Azul":::
+:::image type="content" source="images/pci/pci-azure-usage-utilization-3.png" alt-text="Utilização de utilização do Azul":::
 
 ## <a name="next-steps"></a>Passos seguintes
 

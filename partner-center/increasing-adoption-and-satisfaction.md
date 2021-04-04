@@ -9,24 +9,19 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 494c9d7ff8e726e8bd183456926761c3cebf10ee
-ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
+ms.openlocfilehash: 7a42381e6c7f3b33acae887f78fb87b5d309279e
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "94691372"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106178940"
 ---
 # <a name="use-metrics-in-partner-center-to-increase-adoption-and-satisfaction"></a>Use métricas no Partner Center para aumentar a adoção e satisfação
-
-**Aplica-se a**
-
-- Partner Center
-- Programa Fornecedor de Soluções Cloud
 
 **Funções adequadas**
 
 - Administrador global
-- Administrador de utilizadores
+- Administração de gestão de utilizadores
 - Agente administrativo
 - Agente comercial
 
@@ -61,7 +56,7 @@ Pode encontrar dados de licença e utilizador para um único cliente ou através
 
 Terminologia:
 
-- **Direito** = uma licença que o utilizador tem direito a usar (não está suspensa por fraude ou não pagamento, não foi atualizada para outra licença, não foi cancelada pelo utilizador, etc.)
+- **Direito** = uma licença que o utilizador tem direito a usar (não está suspensa por fraude ou não pagamento, não foi atualizada para outra licença, não foi cancelada pelo utilizador, ou outro problema).
 
 - **Ativo** = se o utilizador subscrito tiver utilizado o direito a uma tarefa nos últimos 28 dias de calendário.
 
@@ -69,7 +64,7 @@ Terminologia:
 
 - **% de utilização** = utilizadores ativos/utilizadores totais
 
-   Às vezes, o uso % é inflacionado, ou superior a 100%. Isto pode ocorrer por diversos motivos:
+   Às vezes, o uso % é inflacionado, ou superior a 100%. Esta questão pode acontecer por várias razões:
 
   - Se o cliente tivesse o volume de negócios dos empregados e a licença fosse transferida para um novo utilizador.
 

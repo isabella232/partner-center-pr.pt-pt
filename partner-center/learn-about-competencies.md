@@ -9,18 +9,19 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 10d2cbf848cb2c9a5d9aafb98f1ab6869f417182
-ms.sourcegitcommit: 06c272d86722a2315a65aa536fb32727aab5178d
+ms.openlocfilehash: a642c9fc8b920668bd6883c01573e5fbf5523e53
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "98912544"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106178872"
 ---
 # <a name="differentiate-your-business-by-attaining-microsoft-competencies"></a>Diferenciar o seu negócio ao alcançar competências da Microsoft
 
 **Funções adequadas**
+
 - Administrador global
-- Administrador de utilizadores
+- Administração de gestão de utilizadores
 
 Demonstre a sua experiência comprovada na entrega de soluções de qualidade numa ou mais áreas de negócio especializadas. As competências da Microsoft são projetadas para o preparar para atender às necessidades dos seus clientes e para o ajudar a atrair novos clientes que procuram fornecedores de soluções certificados pela Microsoft. Junte-se ao nível de elite dos parceiros da Microsoft e destaque-se dos seus pares.
 
@@ -59,7 +60,7 @@ Os níveis de competência em prata e ouro têm requisitos diferentes para cada 
 
 Para saber mais sobre o que é necessário para obter competências de prata e ouro, consulte [as competências da Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).
 
-## <a name="next-steps"></a>Próximos passos
+## <a name="next-steps"></a>Passos seguintes
 
 - Saiba mais sobre [os requisitos para alcançar competências em prata e ouro.](https://partner.microsoft.com/membership/competencies)
 

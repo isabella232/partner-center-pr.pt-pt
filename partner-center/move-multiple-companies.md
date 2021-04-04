@@ -9,19 +9,19 @@ author: parthpandyaMSFT
 ms.author: ParthP
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 459f347d960a06f78a30a398dc51b67f2fa7d27b
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 0787056d8d32db4a2975f7488bb65141c240ff88
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92529876"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132660"
 ---
 # <a name="moving-multiple-companies-to-partner-center-from-partner-membership-center-pmc"></a>Deslocação de várias empresas para Partner Center do Partner Membership Center (PMC)
 
 **Funções adequadas**
 
 - Administrador global
-- Administrador de utilizadores
+- Administração de gestão de utilizadores
 - Agente administrativo
 - Agente comercial
 
@@ -47,11 +47,11 @@ Depois de migrar, se descobrir que a conta errada da empresa foi designada como 
 
 Verá a sua conta existente e uma nota a dizer-lhe que os dados da sua empresa (a conta que está a iniciar a sua assinatura) serão consolidados nesta conta.
 
-:::image type="content" source="images/migration/existingaccount2.png" alt-text="Conta existente":::
+:::image type="content" source="images/migration/existingaccount2.png" alt-text="Conta no Centro de Parceiros":::
 
 Este ecrã mostra-lhe os detalhes da conta existente (Nome e endereço) que já foi criada no Partner Center juntamente com os detalhes do contacto primário.
 
-Selecione **Continuar** .
+Selecione **Continuar**.
 
 ## <a name="what-happens-during-consolidation-of-accounts"></a>O que acontece durante a consolidação das contas
 
@@ -76,11 +76,11 @@ Verifique as informações sobre a sua empresa e edite se necessário.  Estes de
 Os detalhes são baseados nas informações em PMC e serão verificados para garantir que a empresa é legítima.
 
 
-:::image type="content" source="images/migration/review.png" alt-text="Conta existente":::
+:::image type="content" source="images/migration/review.png" alt-text="Detalhes da revisão":::
 
 Se a conta que está a mover estiver no mesmo país ou região que a conta existente, pode decidir se pretende usar esse endereço ou adicionar outro. Se decidir utilizar um endereço diferente, esse endereço será verificado. Se pretender utilizar o mesmo endereço, o endereço existente e o contacto primário serão utilizados.
 
-Assim que tiver verificado/editado as informações neste ecrã, clique em Enviar e as suas contas serão consolidadas.
+Uma vez verificada/editada a informação neste ecrã, **selecione Enviar** e as suas contas serão consolidadas.
 
 ## <a name="partner-profile"></a>Perfil do parceiro
 

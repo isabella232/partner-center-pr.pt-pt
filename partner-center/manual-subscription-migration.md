@@ -9,24 +9,21 @@ author: Brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8575d87ab3c4c7970135a87b7ef7564c4fe06232
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 363c97b8c2b62e8d6b62cbe3b2807fb3c0ef3e38
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "92529280"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132745"
 ---
 # <a name="migrate-dynamics-365-and-customer-engagement-plan-from-basic-qualified-offers-to-newer-versions"></a>Migrate Dynamics 365 and Customer Engagement Plan from Basic (qualified offers) to newer versions (Migrar o Dynamics 365 e o Customer Engagement Plan da versão Básica (ofertas qualificadas) para versões mais recentes)
 
-**Aplica-se a**
-
--  Partner Center
-
 **Funções adequadas**
--   Administrador global
--   Administrador de utilizadores
--   Agente administrativo
--   Agente comercial
+
+- Administrador global
+- Administração de gestão de utilizadores
+- Agente administrativo
+- Agente comercial
 
 A partir de 1 de janeiro de 2019, os clientes com Dinâmica 365 para Vendas/Plano de Envolvimento com o Cliente a partir de assinaturas Básicas (Ofertas Qualificadas) já não podem renovar estas ofertas antigas; as subscrições existentes não renovarão automaticamente quando expirarem. Na página de pormenor da subscrição, o estado de subscrição mudará para "Expira na [data]" de "Renovações automáticas em [data]". 
 
@@ -90,26 +87,26 @@ A transferência de clientes de SKUs reformados para os mais recentes requer os 
 ## <a name="purchase-the-new-plan-for-your-customer"></a>Compre o novo plano para o seu cliente
 
 1. Selecione **Clientes** a partir da navegação esquerda e, em seguida, selecione o cliente que pretende mover-se para a nova subscrição.
-2. Selecione **Adicionar Subscrição** .
-3. Selecione a subscrição que pretende adquirir no catálogo (neste caso, uma das opções acima), introduza o número de licenças e, em seguida, **selecione Enviar por isso** . 
+2. Selecione **Adicionar Subscrição**.
+3. Selecione a subscrição que pretende adquirir no catálogo (neste caso, uma das opções acima), introduza o número de licenças e, em seguida, **selecione Enviar por isso**. 
 
 O seu cliente terá agora a subscrição antiga e a nova. O seu próximo passo é reatribuir licenças aos utilizadores do cliente.
 
 1. Selecione **clientes** a partir da navegação esquerda e, em seguida, selecione o cliente em que está a mover-se.
 2. Selecione **Utilizadores e licenças.**
-3. Para reatribuir uma licença a um utilizador, selecione o utilizador e, em seguida, **selecione Gerir licenças** . 
+3. Para reatribuir uma licença a um utilizador, selecione o utilizador e, em seguida, **selecione Gerir licenças**. 
 4. Na página **'Gerir licenças',** limpe a caixa de verificação da licença Dynamics 365 para Vendas/Cliente a partir da caixa de verificação de licença Básica (Oferta Qualificada) e selecione um novo plano de serviço para a subscrição para a qual o cliente está a mover-se. 
-5. Selecione **Submeter** . Fá-lo-ás por cada utilizador que precise da nova licença. 
+5. Selecione **Submeter**. Fá-lo-ás por cada utilizador que precise da nova licença. 
 
 Uma vez transferidas as licenças para a nova subscrição, pode cancelar a subscrição antiga. 
 
 1. Selecione **clientes** a partir da navegação esquerda e, em seguida, selecione o cliente em que está a mover-se.
-2. Na página de detalhes da subscrição, desafie a subscrição antiga para **Suspender** e selecione **Enviar** .
+2. Na página de detalhes da subscrição, desafie a subscrição antiga para **Suspender** e selecione **Enviar**.
 
 A subscrição antiga está agora suspensa e a nova subscrição está ativa. A subscrição suspensa será desavisionada automaticamente após 120 dias. O seu cliente não incorrerá em custos adicionais para a subscrição antiga.
- 
+ 
 
- 
+ 
 
 
 

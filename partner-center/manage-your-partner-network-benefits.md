@@ -9,23 +9,19 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7c42533027977853322a0bf815e3b1d387d8ad88
-ms.sourcegitcommit: 511c21ae664bd438dc9d11f880cd58400a5d9eea
+ms.openlocfilehash: 8fc5566b780c10a953cfb322ad13ce7373dc87cd
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/19/2020
-ms.locfileid: "94932849"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106133102"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits-and-offers-in-partner-center"></a>Gerencie os benefícios e ofertas de adesão da Microsoft Partner Network no Partner Center
-
-**Aplica-se a**
-
-- Partner Center
 
 **Funções adequadas**
 
 - Administrador global
-- Administrador de utilizadores
+- Administração de gestão de utilizadores
 - Agente administrativo
 - Administrador sócio da MPN
 
@@ -45,7 +41,7 @@ Os pacotes de benefícios incluem alocações de software licenciado, serviços 
 
 Para visualizar e gerir todos os seus benefícios de adesão, vá à sua página [ **Benefícios**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (iniciar sposição necessária). Em alternativa, pode inscrever-se no painel de [instrumentos](https://partner.microsoft.com/dashboard)Partner Center , selecione a opção [**Benefícios**] do menu esquerdo e, em seguida, selecione quaisquer opções de benefícios apresentadas.  
 
-Para ativar a maioria dos benefícios ou descarregar chaves de software relacionadas, etc., o Partner Center normalmente requer alguém que atribui o papel de administrador global ou de um parceiro MPN. Se não consegue ver quaisquer benefícios ou não conseguir ativar benefícios, consulte o administrador do Partner Center Global para garantir que tem as permissões certas. [Saiba mais sobre as funções do Partner Center.](permissions-overview.md)
+Para ativar a maioria dos benefícios ou descarregar chaves de software relacionadas, o Partner Center normalmente requer alguém que atribua o papel de administrador global ou de parceiro MPN. Se não consegue ver quaisquer benefícios ou não conseguir ativar benefícios, consulte o administrador do Partner Center Global para garantir que tem as permissões certas. [Saiba mais sobre as funções do Partner Center.](permissions-overview.md)
 
 ## <a name="manage-software-benefits"></a>Gerir benefícios de software
 
@@ -76,18 +72,18 @@ Existem dois tipos de subscrições baseadas em uso que pode receber, dependendo
 Pode ser a provisionado com:
 
 - $100/mês (ou equivalente em moeda local) Crédito mensal azure ou/e
-- $6000, $12000 ou/e $13000/ano (ou cada um deles equivalente em moeda local) Crédito a granel Azure
+- $6.000, $12.000 ou$13.000/ano (ou cada um deles equivalente em moeda local) Crédito a granel Azure
 
 Para ativar uma subscrição do Microsoft Azure no Partner Center, atribua acesso a um utilizador dentro da empresa (incluindo utilizadores convidados), que tem uma entrada de utilizador criada no seu Azure Ative Directory.
 Para o crédito mensal Azure de $100/mês (ou equivalente em moeda local), pode adicionar ou remover os utilizadores desta subscrição a qualquer momento. 
 
-Para o Crédito Azure Bulk (anual) a opção de remoção não está disponível no Partner Center, mas pode transferir o crédito a granel para outra pessoa durante o seu ano de inscrição. A subscrição de crédito Azure Bulk (anualmente) não pode ser combinada com outras ofertas de licenciamento, pré-pago ou crédito (ou seja, Microsoft Enterprise Agreement, Cloud Solution Partner, Azure in Open, Azure Pass, Action Pack, etc.).
+Para o Crédito Azure Bulk (anual), a opção de remoção não está disponível no Partner Center, mas pode transferir o crédito a granel para outra pessoa durante o seu ano de inscrição. A subscrição de crédito Azure Bulk (anualmente) não pode ser combinada com outras ofertas de licenciamento, pré-pago ou crédito (isto é, Microsoft Enterprise Agreement, Cloud Solution Partner, Azure in Open, Azure Pass, Action Pack, etc.).
 
 ## <a name="license-based-subscriptions"></a>Assinaturas baseadas em licenças
 
-Na secção de subscrições baseadas em licenças do separador Azure & Cloud Products, encontrará todos os produtos em nuvem que requerem uma chave de produto para ativação, tais como Microsoft O365, Microsoft Dynamics, Microsoft Intune, Azure AD basic, Power BI, etc., que lhe são oferecidos dependendo do tipo de oferta que tem ativa como parceiro MPN – MAPS, Silver ou Gold.
+A secção de subscrições baseada em licenças do separador Azure & Cloud Products lista todos os produtos em nuvem que requerem uma chave de produto para ativação, tais como Microsoft Office 365, Microsoft Dynamics, Microsoft Intune, Azure AD basic, e Power BI. O tipo de oferta que tem ativo como Parceiro MPN – MAPS, Prata ou Ouro – controla quais os produtos listados.
 
-Para ativar as subscrições baseadas na licença, clique no símbolo dropdown em conformidade com o produto de interesse e leia as instruções sobre como resgatar as teclas. Depois de ler as instruções, selecione o link que o redireciona para o portal para resgatar as teclas, bem como a chave atribuída para o seu produto.
+Para ativar as subscrições baseadas na licença, clique no símbolo dropdown em conformidade com o produto de interesse e leia as instruções sobre como resgatar as teclas. Depois de ler as instruções, selecione o link que o redireciona para o portal para resgatar as teclas e a chave atribuída para o seu produto.
 
 >[!IMPORTANT]
 >Por favor, note que uma vez que uma chave é resgatada, a mesma chave não pode ser redimida uma segunda vez, por isso certifique-se de que está claro sobre se precisa adicionar mais licenças (assentos) ou prolongar a data de fim. Se optar por adicionar mais licenças e não prolongar a data de fim, o sistema fornecer-lhe-á menos de 12 meses de subscrição ativa. Certifique-se de que está a iniciar sessão com as credenciais corretas para ativar as chaves do inquilino correto.
@@ -134,7 +130,7 @@ Para ver os seus benefícios técnicos no Partner Center, faça o seguinte:
 
    - Apenas para parceiros de competência Gold/Silver (não disponível para assinantes do Action Pack), utilize **o Signature Product Support** para produtos **Cloud**.
 
-   - Tanto para parceiros de competência Action Pack como Gold/Silver, utilize incidentes de **suporte ao Microsoft Product** para produtos recentes no local (apenas versões atuais e anteriores). **recent on-premises products**
+   - Tanto para parceiros de competência Action Pack como Gold/Silver, utilize incidentes de **suporte ao Microsoft Product** para produtos recentes no local (apenas versões atuais e anteriores). 
 
      >[!NOTE]
      > O ID de acesso e o ID do contrato são necessários para pedidos de suporte técnico para produtos no local, Azure (não-CSP) e produtos Dynamics. No futuro, para encontrar o seu ID de acesso e ID do contrato, também pode ler [Encontre os seus benefícios.](mpn-find-benefits.md#find-access-id-and-contract-id-for-technical-benefits)

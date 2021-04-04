@@ -9,18 +9,18 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a60d83a79151d90ff98ead8d5be00c259a9cf4b3
-ms.sourcegitcommit: 673c467aa8ef4e02ff24fbc3e7d4f904316141e4
+ms.openlocfilehash: 40b2867695a7692cb863a00062101c2b5521c657
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "104924272"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132405"
 ---
 # <a name="how-to-create-a-partner-logo-certified-letter-or-award-using-logo-builder"></a>Como criar um logotipo de parceiro, carta certificada ou prémio usando Logo Builder
 
 **Funções adequadas**
 
-- Todos os utilizadores do Partner Center interessados em aprender mais sobre o Logo Builder
+- Todos os parceiros interessados em aprender mais sobre o Logo Builder
 
 O valor de alcançar uma competência de prata ou ouro é a oportunidade para se diferenciar com os clientes. Um logótipo que pode utilizar nos seus materiais de vendas e marketing e o seu perfil de negócio no Partner Center para mostrar a competência ou competências que obteve está incluído nos seus benefícios de competência. 
 
@@ -28,7 +28,7 @@ Se foi aceite no programa Azure Expert MSP, recebeu um prémio de parceiro do an
 
 ## <a name="what-is-available-in-logo-builder"></a>O que está disponível no Logo Construtor
 
-O que está disponível para a sua empresa no Logo Builder está alinhado com a sua subscrição da Microsoft Partner Network (MPN). Leva até 24 horas para que uma mudança na sua filiação à MPN, como a obtenção de uma nova competência, seja refletida.  
+Os logótipos disponíveis para a sua empresa no Logo Construtor estão alinhados com a sua subscrição da Microsoft Partner Network (MPN). Leva até 24 horas para que uma mudança na sua filiação à MPN, como a obtenção de uma nova competência, seja refletida.
 
 Os ativos que pode criar no Logo Construtor incluem os seguintes:
 

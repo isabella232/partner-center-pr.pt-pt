@@ -4,22 +4,24 @@ ms.topic: article
 ms.date: 05/18/2020
 description: Compreenda os campos no seu ficheiro de fatura para a faturação do Partner Center. Incluem-se campos e definições para todos os campos de fatura e campos de carregamento único.
 author: sodeb
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3e9eb392279c0a09b5e30395b38ab7030bfa87d4
-ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
+ms.openlocfilehash: 44bda5256b14722f143a5bf937e73b2533b8c9f5
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96556298"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106178906"
 ---
 # <a name="understand-partner-center-billing-invoice-fields"></a>Compreenda os campos de faturação do Partner Center
 
 **Funções adequadas**
 
 - Administrador global
-- Administrador de utilizadores
+- Administração de gestão de utilizadores
 - Administrador de faturação
 - Agente helpdesk
 
@@ -33,7 +35,7 @@ Os seguintes campos aparecem nos seus ficheiros de fatura.
 | ----- | ---------- |
 | EUA FEIN | O seu Número de Identificação do Empregador Federal (FEIN). Este é o seu número de identificador de impostos federal dos Estados Unidos. |
 | Número de cliente | O seu número de cliente. |
-| Faturar a | O endereço para onde enviamos a sua fatura. Pode alterar o nome da empresa e/ou endereço no seu perfil de faturação do Partner Center. |
+| Faturar a | O endereço para onde enviamos a sua fatura. Pode alterar o nome e endereço da sua empresa no seu perfil de faturação do Partner Center. |
 | Encargos baseados em licença | Os encargos mensais ou anuais fixos para as suas licenças de utilização adquiridas, faturadas antes do serviço. Este número é a soma de todos os encargos na coluna **Subtotal** (coluna **T)** no seu ficheiro de reconciliação baseado na licença. |
 | Encargos baseados na utilização | O seu uso de Azure. Isto inclui novos serviços ou aplicações ativadas e utilizadas durante o período de faturação. Este número é a soma de todos os encargos na coluna **PretaxCharges** (coluna **Z)** no seu ficheiro de reconciliação baseado na utilização. |
 | Descontos | O desconto que o cliente recebe do preço normal da subscrição. Este número é apresentado como uma *quantia plana,* não como um preço por unidade ou licença. |
@@ -63,6 +65,6 @@ Os seguintes campos **aplicam-se apenas** a taxas pontuais no Partner Center:
 | Quantidade | O número de produtos (como reservas) adquiridos. |
 | Preço unitário | Preço por produto (como uma reserva). |
 | Descontos | Quaisquer descontos aplicáveis. |
-| Valor antes de impostos | Sub-total das compras antes de impostos. |
+| Valor antes de impostos | Subtotal das compras antes de impostos. |
 | Imposto sobre vendas | Montante dos impostos. |
 | Total | Montante total a ser pago. |

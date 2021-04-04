@@ -9,22 +9,19 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d441d121c28c2762d1f1c71d6f6a1e81d089f99c
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: e83c06c11638bdde508fd27904038bcb6d8c9e9c
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "92529279"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132643"
 ---
 # <a name="migrate-dynamics-365-business-edition-offers-to-newer-versions"></a>Migrate Dynamics 365 Business Edition Offers to newer versions (Migrar as Ofertas do Dynamics 365 Business Edition para versões mais recentes)
 
-**Aplica-se a**
-
-- Partner Center
-
 **Funções adequadas**
+
 - Administrador global
-- Administrador de utilizadores
+- Administração de gestão de utilizadores
 - Agente administrativo
 - Agente comercial
 
@@ -55,20 +52,20 @@ Os clientes da Dynamics 365 Business Edition podem receber preços de transiçã
 ## <a name="purchase-the-new-plan-for-your-customer"></a>Compre o novo plano para o seu cliente
 
 1. Selecione **Clientes** a partir da navegação esquerda e, em seguida, selecione o cliente que pretende mover-se para a nova subscrição.
-2. Selecione **Adicionar Subscrição** .
-3. Selecione a subscrição que pretende adquirir no catálogo (neste caso, uma das opções acima), introduza o número de licenças e, em seguida, **selecione Enviar por isso** . 
+2. Selecione **Adicionar Subscrição**.
+3. Selecione a subscrição que pretende adquirir no catálogo (neste caso, uma das opções acima), introduza o número de licenças e, em seguida, **selecione Enviar por isso**. 
 
 O seu cliente terá agora a subscrição antiga e a nova. O seu próximo passo é reatribuir licenças aos utilizadores do cliente.
 
 1. Selecione **clientes** a partir da navegação esquerda e, em seguida, selecione o cliente em que está a mover-se.
 2. Selecione **Utilizadores e licenças.**
-3. Para reatribuir uma licença a um utilizador, selecione o utilizador e, em seguida, **selecione Gerir licenças** . 
+3. Para reatribuir uma licença a um utilizador, selecione o utilizador e, em seguida, **selecione Gerir licenças**. 
 4. Na página **'Gerir licenças',** limpe a caixa de verificação da licença Dynamics 365 para Vendas/Cliente a partir da caixa de verificação de licença Básica (Oferta Qualificada) e selecione um novo plano de serviço para a subscrição para a qual o cliente está a mover-se. 
-5. Selecione **Submeter** . Fá-lo-ás por cada utilizador que precise da nova licença. 
+5. Selecione **Submeter**. Fá-lo-ás por cada utilizador que precise da nova licença. 
 
 Uma vez transferidas as licenças para a nova subscrição, pode cancelar a subscrição antiga. 
 
 1. Selecione **clientes** a partir da navegação esquerda e, em seguida, selecione o cliente em que está a mover-se.
-2. Na página de detalhes da subscrição, desafie a subscrição antiga para **Suspender** e selecione **Enviar** .
+2. Na página de detalhes da subscrição, desafie a subscrição antiga para **Suspender** e selecione **Enviar**.
 
 A subscrição antiga está agora suspensa e a nova subscrição está ativa. A subscrição suspensa será desavisionada automaticamente após 120 dias. O seu cliente não incorrerá em custos adicionais para a subscrição antiga.

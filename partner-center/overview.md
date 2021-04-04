@@ -8,18 +8,18 @@ description: Use partner Center para transar negócios com a Microsoft e os seus
 author: laurabrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: 3b5627e9ade9a1e7fd8b5576ed8fd80202b974eb
-ms.sourcegitcommit: c4bae49f6c303f0b77a404a0441c2440e7cb112b
+ms.openlocfilehash: 992e02e2ae27e4cf03071e114de22f42f11f7601
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "103582653"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132252"
 ---
 # <a name="what-is-partner-center"></a>O que é o Centro de Parceiros?
 
-##### <a name="appropriate-roles"></a>Funções adequadas
+**Funções adequadas**
 
-- Todos os Parceiros interessados no Partner Center
+- Todos os parceiros interessados no Partner Center
 
 [O Partner Center](https://partner.microsoft.com/dashboard/home) dinamiza vários processos de negócio para facilitar aos parceiros da Microsoft a gestão da sua relação com a Microsoft e os seus clientes. O Partner Center permite-lhe um fácil acesso às ferramentas necessárias para fazer o trabalho. Use o Centro de Parceiros para:
 
@@ -53,7 +53,7 @@ Construa o seu perfil de negócio para mostrar as áreas de especialização da 
 
 ## <a name="co-sell-with-microsoft-and-other-partners"></a>Co-vender com a Microsoft e outros parceiros
 
-Co-vender é o caminho para os parceiros venderem conjuntamente com a Microsoft e outros parceiros para vendas colaborativas, mais bem juntas e resultados positivos do cliente. A co-venda permite-lhe alavancar a marca global da Microsoft, as equipas de vendas, as capacidades de geração da procura e o mercado comercial para chegar a novos clientes em todo o mundo. Venda com outros parceiros e connosco. Saiba mais na [Manage co-sell opportunities.](manage-co-sell-opportunities.md)
+Co-vender é o caminho para os parceiros venderem conjuntamente com a Microsoft e outros parceiros para vendas colaborativas, mais bem juntas e resultados positivos do cliente. A co-venda permite-lhe usar a marca global da Microsoft, equipas de vendas, capacidades de geração de procura e o mercado comercial para chegar a novos clientes em todo o mundo. Venda com outros parceiros e connosco. Saiba mais na [Manage co-sell opportunities.](manage-co-sell-opportunities.md)
 
 ## <a name="manage-customer-software-needs"></a>Gerir as necessidades do software do cliente
 

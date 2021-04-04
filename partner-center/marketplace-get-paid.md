@@ -1,21 +1,22 @@
 ---
 title: Ser pago no Partner Center
 description: Saiba como receber pagamentos por ganhos como parceiro da Microsoft, como por exemplo através de ofertas de marketplace comercial, programas de incentivo e o programa Cloud Solution Provider. Inclui política de pagamento, estatuto de detenção de pagamento e declarações de pagamento.
-ms.service: marketplace
+ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 ms.topic: conceptual
 ms.date: 11/25/2020
 author: eunjkim520
 ms.author: eunjkim
-ms.openlocfilehash: fc1eea0d8a90bb2b5e11dad24a71c9c34fd1a4a0
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: 94ed17106b64b078c51de351d1e44e29d3745921
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492454"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106133085"
 ---
 # <a name="getting-paid-in-partner-center"></a>Ser pago no Partner Center
 
-**Funções adequadas:**
+**Funções adequadas**
 
 - Administrador de conta
 - Administrador global
@@ -38,7 +39,7 @@ Antes de ser pago pela primeira vez, deve configurar a sua conta de pagamento e 
 
 ### <a name="payout-hold-status"></a>Estatuto de detenção de pagamento
 
-Por padrão, enviaremos pagamentos mensalmente, conforme descrito acima. No entanto, tem a opção de colocar os seus pagamentos num programa em espera, e a Microsoft não libertará os seus pagamentos na sua conta. Se optar por colocar os seus pagamentos em espera, continuaremos a registar quaisquer ganhos na página **de Pagamentos.** No entanto, não enviaremos quaisquer pagamentos para a sua conta até que remova o porão.
+Por padrão, enviaremos pagamentos mensalmente, conforme descrito acima. No entanto, pode colocar os seus pagamentos para um programa em espera, e a Microsoft não libertará os seus pagamentos na sua conta. Se optar por colocar os seus pagamentos em espera, continuaremos a registar quaisquer ganhos na página **de Pagamentos.** No entanto, não enviaremos quaisquer pagamentos para a sua conta até que remova o porão.
 
 Para colocar os seus pagamentos em espera, selecione o ícone de engrenagem **Definições** no topo-direito e, em seguida, **as definições de Conta**. Selecione **Payout e tax** no menu esquerdo, e na secção de atribuição de pagamento e perfil **fiscal,** localize o programa para o qual você gostaria de pagamentos realizados. Selecione a caixa de verificação **Hold my Payment** para guardar pagamentos para este programa. Pode alterar o seu estado de detenção a qualquer momento, mas a sua decisão afetará o próximo pagamento mensal. Por exemplo, se quiser realizar o pagamento de abril, certifique-se de definir o seu estado de detenção de pagamento para **On** antes do final de março.
 

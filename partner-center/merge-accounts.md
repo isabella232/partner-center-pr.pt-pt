@@ -2,20 +2,22 @@
 title: Unir a sua conta de parceiro com outra conta de parceiro
 description: Saiba como fundir a sua conta de parceiro com outra conta de parceiro no Partner Center - para empresas que são parceiros ativos da Microsoft no Partner Center.
 ms.topic: article
+ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: seodec18
 ms.date: 06/12/2020
-ms.openlocfilehash: ad5cc0e9c8642ceb309cac3f5fc7c99534c3dcda
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: 90d1fe9728c43d2f34b6cfe2d9e4c9613d865aeb
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182601"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106133068"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>Unir a sua conta de parceiro com outra conta de parceiro
 
-**Funções aplicáveis**
+**Funções adequadas**
 
 - Administrador de conta
 
@@ -35,7 +37,7 @@ Duas ou mais empresas que são parceiros ativos da Microsoft e têm contas no Pa
 
 - Os papéis dos utilizadores são trazidos. Por exemplo, se um utilizador tivesse sido o administrador de incentivos para uma localização específica, continuaria a ter esse papel após a fusão e a poder ver os incentivos que viu antes da fusão.
 
-- Os inquilinos da AD Azure e as contas CSP não são fundidos e não têm qualquer impacto.
+- Os inquilinos da AD Azure e as contas CSP não são fundidos e não têm efeito.
 
 - As ofertas publicadas e os dados do pipeline associados a ambas as empresas são preservados
 
@@ -65,7 +67,7 @@ Caso decida aceitar o convite para fundir contas: · Os seus ID(s) (s) e locais 
 
   - Competência: A empresa parceira receberá um pacote de benefícios fundamentais, associados à sua maior realização, além de benefícios específicos de competência para o qual o parceiro é elegível para conta global por parceiro.
 
-- Todos os benefícios estão sujeitos ao guia de utilização da [Rede de Parceiros](https://aka.ms/partner-benefits-use-guide)da Microsoft. Por exemplo: um token O365 E3 ativado está funcional durante doze (12) meses após a ativação. Uma vez que um token tenha sido ativado para licenças de um inquilino, essas licenças não podem ser transferidas para outro inquilino.
+- Todos os benefícios estão sujeitos ao guia de utilização da [Rede de Parceiros](https://aka.ms/partner-benefits-use-guide)da Microsoft. Por exemplo: um token O365 E3 ativado está funcional durante 12 meses após a ativação. Uma vez que um token tenha sido ativado para licenças de um inquilino, essas licenças não podem ser transferidas para outro inquilino.
 
 - As associações de ID MCP para ambas as empresas serão mantidas e associadas à ID MPN da PGA.
 
@@ -77,7 +79,7 @@ Caso decida aceitar o convite para fundir contas: · Os seus ID(s) (s) e locais 
 
 - Quaisquer vouchers de garantia de software são mantidos em ambas as contas. 
 
-- Não há impacto na associação DPOR ou PAL. Quaisquer contribuições de receitas associadas começarão a fluir para a nova Conta Global de Parceiros
+- Não há efeito para a DPOR ou associação PAL. Quaisquer contribuições de receitas associadas começarão a fluir para a nova Conta Global de Parceiros
 
 ## <a name="invite-a-company-to-merge-their-partner-center-account-with-your-partner-center-account"></a>Convide uma empresa a fundir a sua conta Partner Center com a sua conta Partner Center
 
@@ -88,39 +90,39 @@ Caso decida aceitar o convite para fundir contas: · Os seus ID(s) (s) e locais 
 
 2. Selecione **Fusão de Conta**.
 
-3. Adicione o ID MPN localizado no **perfil partner** da conta que pretende convidar a fundir-se consigo. Deve usar o mpn global do parceiro deles. Não pode usar uma identificação de MPN de localização.
+3. Adicione o ID MPN localizado no **perfil partner** da conta que pretende convidar para se fundir consigo. Deve usar o mpn global do parceiro deles. Não pode usar uma identificação de MPN de localização.
 
 4. Quando seleciona **a Merge,** é enviado um convite para a empresa parceira. Quando aceitarem o seu pedido, pode iniciar a fusão da conta no Partner Center. Se a empresa rejeitar o seu pedido de fusão de contas, pode explicar por que rejeitaram o pedido. Uma lista de todas as suas combinações de conta está disponível para si ao abrigo **do histórico da Merge.**
  
 ### <a name="example-of-two-companies-merging-accounts"></a>Exemplo de duas empresas que fundem contas
 
-1. Contoso tem 
+1. Contoso, Ltd. 
 
     a. um [ID MPN global de 11111111](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) e um [IDs MPN de localização subordinada de 2222222](https://partner.microsoft.com/pcv/accountsettings/locationsprofile).
   
     b. um inquilino AD AZure = @contoso.com
  
     c. uma competência de ouro que expira 1 de outubro de 2020
-2. Fabricam tem
+2. Fabrikam, Inc.
  
     a.  um ID MPN global de 3333333 e dois IDs MPN de localização subordinada de 44444444 e 555555
 
-    b.  um inquilino AD AZure = @fabricam.com
+    b.  um inquilino AD AZure = @fabrikam.com
 
     c.  duas competências de ouro que expiram 1 de dezembro de 2020
-3.  Contoso compra Fabricam e vai [aqui](https://partner.microsoft.com/dashboard/account/merger) para iniciar um pedido de fusão.
-4.  Fabricam assina no Partner Center e vai para a mesma página que Contoso fez em passo #3, para aprovar o pedido de Contoso.
+3.  Contoso compra Fabrikam e vai [aqui](https://partner.microsoft.com/dashboard/account/merger) para iniciar um pedido de fusão.
+4.  Fabrikam assina no Partner Center e vai para a mesma página que Contoso fez em passo #3, para aprovar o pedido de Contoso.
 5.  A Contoso revê os detalhes da fusão nessa mesma página e fornece confirmação para avançar com a fusão da conta.
 6.  Após a fusão, a conta da empresa apresentará como:
 
     a.  Uma empresa chamada Contoso com um ID MPN global de 11111111 e 4 MPN de localização subordinada mpn IDs de 22222222, 33333333, 44444444 e 5555555
     
-    b.  Terá dois inquilinos da AD Azure @contoso.com @fabricam.com (+) que têm acesso à mesma conta partner Center
+    b.  Terá dois inquilinos da AD Azure @contoso.com @fabrikam.com (+) que têm acesso à mesma conta partner Center
     
     c.  Terá dois pacotes de benefícios de competência, um que expira a 1 de outubro de 2020 e outro que expira a 1 de dezembro de 2020. Poderão renovar-se como um único pacote de benefícios de competência a 1 de dezembro de 2020. Quando renovarem, a Contoso manterá as três competências, embora só possam manter um pacote de benefícios únicos.
     
-7.  Os administradores da Contoso continuarão a gerir as funções do Partner Center para @contoso.com os utilizadores. Os administradores da Fabricam continuarão a gerir as funções do Partner Center para @fabricam.com os utilizadores. Os administradores de Contoso só podem administrar os utilizadores da Fabricam se forem convidados como convidados para o inquilino de Fabricam.
-8.  Contoso poderia decidir ignorar o @fabricam.com inquilino, e reeditar os empregados da Fabricam novas @contoso.com credenciais com novas funções e permissões.
+7.  Os administradores da Contoso continuarão a gerir as funções do Partner Center para @contoso.com os utilizadores. Os administradores da Fabrikam continuarão a gerir as funções do Partner Center para @fabrikam.com os utilizadores. Os administradores de Contoso só podem administrar os utilizadores de Fabrikam se forem convidados como convidados para o inquilino de Fabrikam.
+8.  Contoso poderia decidir ignorar o @fabrikam.com inquilino, e reeditar os empregados da Fabrikam novas @contoso.com credenciais com novos papéis e permissões.
 
 ## <a name="next-steps"></a>Passos seguintes
 

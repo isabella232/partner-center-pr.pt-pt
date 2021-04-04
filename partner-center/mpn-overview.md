@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4a3b00db6b48d95da58cdc130832ba5dc1ab990f
-ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
+ms.openlocfilehash: 4e7ff0ae1f5ca99cee25e3fa8740212d0b697f70
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96556383"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132949"
 ---
 # <a name="partner-with-microsoft-and-discover-membership-benefits"></a>Parceria com a Microsoft e descubra benefícios de adesão
 
@@ -22,10 +22,10 @@ ms.locfileid: "96556383"
 
 - Administrador global
 - Administrador sócio da MPN
-- Administrador de utilizadores
+- Administração de gestão de utilizadores
 - Agente administrativo
 
-A Microsoft Partner Network (MPN) dá-lhe a mais ampla gama de produtos da indústria, bem como opções de programas para diferenciar o seu negócio, ir ao mercado e vender as suas soluções. Junte-se sem custos e, em seguida, escolha como investir na sua parceria com um pack de ação da Microsoft, kit de arranque ou competência.
+A Microsoft Partner Network (MPN) dá-lhe a mais ampla gama de produtos da indústria e opções de programas para diferenciar o seu negócio, ir ao mercado e vender as suas soluções. Junte-se sem custos e, em seguida, escolha como investir na sua parceria com um pack de ação da Microsoft, kit de arranque ou competência.
 
 Quando te juntas a um programa de parceiros da Microsoft, tornas-te parte de uma comunidade global que te liga às relações, insights, ferramentas, recursos e programas que precisas para surpreender os teus clientes e impulsionar o crescimento do negócio. À medida que alcança os seus objetivos de negócio, participe no programa ao nível que se adequa às suas necessidades únicas de acesso a mais benefícios e desenvolva a sua relação connosco e com outros parceiros da rede. 
 

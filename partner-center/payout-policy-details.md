@@ -1,22 +1,22 @@
 ---
 title: Agendamentos e processos de dividendos
 description: Conheça os pagamentos e transações, tais como horários de pagamento e processos de recuperação para o mercado comercial e outras transações.
-ms.service: marketplace
-ms.subservice: partnercenter-marketplace-publisher
+ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 ms.topic: conceptual
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 12/04/2020
-ms.openlocfilehash: 9c4ad89eb25e811c4bea11e7e7e5d3845ceafee6
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: f4d31a5cf0752d03248b0efddb98ce621f9174f9
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756845"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086180"
 ---
 # <a name="payout-schedules-and-processes"></a>Agendamentos e processos de dividendos
 
-**Funções adequadas:**
+**Funções adequadas**
 
 - Administrador de conta
 - Administrador global
@@ -33,7 +33,7 @@ Quando um cliente compra um produto do Microsoft AppSource ou do Azure Marketpla
 
 Um pagamento ocorrerá frequentemente antes de a Microsoft receber o pagamento do cliente. Consulte [o Processo de não pagamento do cliente](#process-for-customer-non-payment) abaixo para as ações que tomamos se o cliente não pagar à Microsoft, mas já emitimos um pagamento.
 
-| Evento | Descrição | Visibilidade reportando | Timing* |
+| Evento | Description | Visibilidade reportando | Timing* |
 | --- | --- | --- | --- |
 | Utilização ou mês de transação | O cliente usa ou compra um serviço. | [Painel de utilização](/azure/marketplace/partner-center-portal/usage-dashboard) ou [ordem](/azure/marketplace/partner-center-portal/orders-dashboard) | **Mês 1** |
 | Microsoft calcula valor de faturação | Determinar a utilização total, as transações totais | [Painel de utilização](/azure/marketplace/partner-center-portal/usage-dashboard) ou [ordem](/azure/marketplace/partner-center-portal/orders-dashboard) | **Mês 2** |
@@ -51,7 +51,7 @@ Um pagamento ocorrerá frequentemente antes de a Microsoft receber o pagamento d
 
 Todas as compras com cartão de crédito ou fatura mensal têm um período de detenção de 30 dias para garantir que os fundos são recolhidos junto do cliente.
 
-| Evento | Descrição | Visibilidade reportando | Timing* |
+| Evento | Description | Visibilidade reportando | Timing* |
 | --- | --- | --- | --- |
 | Utilização ou mês de transação | O cliente usa ou compra um serviço. | [Painel de utilização](/azure/marketplace/partner-center-portal/usage-dashboard) ou [ordem](/azure/marketplace/partner-center-portal/orders-dashboard) | **Mês 1** |
 | Fatura paga pelo cliente | Determine o uso total, o valor total da transação e a fatura do cliente | [Painel de utilização](/azure/marketplace/partner-center-portal/usage-dashboard) ou [ordem](/azure/marketplace/partner-center-portal/orders-dashboard) | **Mês 2** |
@@ -73,7 +73,7 @@ De acordo com o processo de pagamento aqui articulado, a Microsoft pode já ter 
 
 A Microsoft recuperará quaisquer pagamentos já pagos utilizando um dos seguintes métodos: (1) A Microsoft pode subtrair os montantes não pagos de pagamentos futuros; por exemplo, se $1.000 em pagamentos forem considerados incobráveis e anulados, os seus pagamentos futuros serão retidos até que os $1.000 sejam recuperados, ou (2) a Microsoft pode solicitar um reembolso ou editores de fatura para quaisquer valores não cobrados.
 
-Segue-se um exemplo de calendário:
+O seguinte horário é um exemplo:
 
 | Evento | Data aproximada* | Visibilidade do parceiro |
 | --- | --- | --- |
@@ -92,7 +92,7 @@ Segue-se um exemplo de calendário:
 
 ## <a name="number-of-days-for-payments-to-reach-a-payout-account"></a>Número de dias para pagamentos chegarem a uma conta de pagamento
 
-Normalmente enviamos qualquer pagamento devido num dado mês no 15º dia desse mês, mas leva tempo adicional para o pagamento chegar à sua conta. O número de dias depende do método de pagamento que utilizamos para a sua conta, conforme descrito abaixo.
+Normalmente enviamos qualquer pagamento devido num dado mês no 15º dia desse mês, mas leva outro tempo para o pagamento chegar à sua conta. O número de dias depende do método de pagamento que utilizamos para a sua conta, conforme descrito abaixo.
 
 > [!NOTE]
 > Os dias abaixo apresentados são aproximados; qualquer pagamento pode demorar mais ou menos tempo a chegar à sua conta.

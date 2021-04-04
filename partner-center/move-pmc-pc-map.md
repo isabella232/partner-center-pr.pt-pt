@@ -9,21 +9,22 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a6fc3fbfbc5ebf874460fbf2f0065150089db39d
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: dae147c45aca27657f1e88b6943279f9771313d6
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "92529276"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106133000"
 ---
 # <a name="moving-from-partner-membership-center-pmc-to-partner-center"></a>Passar do Centro de Adesão de Parceiros (PMC) para o Centro de Parceiros
 
 **Funções adequadas**
--    Administrador global
+
+- Administrador global
 
 Estamos a facilitar-lhe o negócio, introduzindo um único website (Partner Center) que serve como ponto central de envolvimento. Você encontrará tudo o que fez no Partner Membership Center (PMC) pode ser realizado a partir do seu dashboard no Partner Center. 
 
-Você também pode realizar muito mais e tudo sem sair do único site. Algumas das terminologias e características podem parecer diferentes. Para mitigar quaisquer preocupações iniciais sobre onde e quais as coisas estão, não se esqueça de fazer o passeio no site do seu painel de instrumentos.
+Você também pode realizar muito mais sem sair do único site. Algumas das terminologias e características podem parecer diferentes. Para saber onde fazer determinadas tarefas e quais as funcionalidades disponíveis, deve fazer o tour no site do seu painel de instrumentos.
 
 Esta tabela apresenta algumas das diferenças entre PMC e Partner Center.
 
@@ -43,14 +44,14 @@ Esta tabela apresenta algumas das diferenças entre PMC e Partner Center.
 
 |**PMC**   |**Partner Center**|
 |----------------------|:-----------------------------|
-|Pode utilizar a sua conta Microsoft (MSA) ou credenciais de conta pessoal joe@outlook.com|Tem de utilizar as suas credenciais de conta de trabalho, joe@joescompany.com (). Para mais informações, leia [a sua conta de trabalho da empresa e o Partner Center.](azure-active-directory-tenants-and-partner-center.md)|
+|Pode utilizar a sua conta Microsoft (MSA) ou credenciais de conta pessoal joe@outlook.com|Tem de utilizar as suas credenciais de conta de trabalho (por exemplo, joe@joescompany.com ). Para mais informações, leia [a sua conta de trabalho da empresa e o Partner Center.](azure-active-directory-tenants-and-partner-center.md)|
 
 ## <a name="user-roles"></a>Funções de utilizador
 
 |**PMC**   |**Partner Center**|
 |----------------------|:-----------------------------|
 |Muitas funções no PMC não são usadas no Partner Center|O administrador que executa a mudança para Partner Center é automaticamente atribuído às funções mpn Admin, Account Admin e Referrals Admin. Podem então atribuir outros utilizadores às funções de utilizador.|
-|Os utilizadores foram geridos ao nível da localização|Os utilizadores são geridos ao nível da empresa (PGA) e não ao nível de localização. A exceção é a administração de incentivos que funciona ao nível da localização.|
+|Os utilizadores foram geridos ao nível da localização|Os utilizadores são geridos ao nível da empresa (PGA) e não ao nível de localização. A exceção é a administração de incentivos, que funciona ao nível da localização.|
 |   |O Partner Center tem dois amplos conjuntos de funções: as funções que administram o inquilino AZURE AD, e as funções que administram o negócio da empresa. Organize os papéis da forma que faça sentido para a sua empresa. Uma pessoa pode fazer tudo ou muitas pessoas podem ser atribuídas a papéis e permissões separadas. Para mais informações, leia [Atribuir as funções e permissões dos utilizadores.](permissions-overview.md) 
 
 ## <a name="how-competencies-and-benefits-are-accounted-for"></a>Como as competências e benefícios são contabilizados
@@ -61,14 +62,14 @@ Esta tabela apresenta algumas das diferenças entre PMC e Partner Center.
 |Poderia ter kits de ferramentas de Benefícios Adicionais (ABTKs) até que foram retirados em outubro de 2018.|Sem ABTKs; um MAPS por empresa; uma competência de prata por empresa; uma competência de ouro por empresa|
 ||Desde que ainda não tenha MAPS, pode comprá-lo. A propriedade maps não está ligada a competências.  
 |Os benefícios foram acedidos no Partner Digital Download (PDD) |Todos os benefícios são acedidos no Partner Center|
-|Competências e benefícios espalhados e divididos em vários locais|As suas competências e benefícios de todas as suas localizações são consolidados ao nível da empresa (PGA) e serão mantidos até à data do seu aniversário. Nessa altura, terá de comprar ou renovar a nível da empresa. Desempenho e competências, bem como competências, são agregadas globalmente|
+|Competências e benefícios espalhados e divididos em vários locais|As suas competências e benefícios de todas as suas localizações são consolidados ao nível da empresa (PGA) e serão mantidos até à data do seu aniversário. Nessa altura, terá de comprar ou renovar a nível da empresa. Desempenho, competências e competências, são agregados globalmente|
 |As reclamações do voucher de garantia de software são feitas na ferramenta Voucher Validation and Redemption (VVR)|Agora pode aceder e gerir vouchers de formação de garantia de software (SATV) e/ou Serviços de Planeamento Implantados (DPS) dentro do Partner Center.  A ferramenta VVR legado será desativada no dia 1 de outubro de 2019.  |
 
 ## <a name="associating-mcp-ids-to-partner-center"></a>Associar iDs MCP ao Partner Center
 
 |**PMC**   |**Partner Center**   |
 |-------------------------|:-------------------|
-|Pode associar o mesmo ID MCP a várias empresas.| Apenas um ID MCP pode ser associado a uma única conta partner Center. Tens de fazer a associação manualmente. A partir do painel Partner Center, selecione o ícone da **conta** no canto direito do painel e, em seguida, selecione **O meu perfil** . Ao abrigo **da sua aprendizagem** poderá associar a sua conta Microsoft Learning e também ligar a sua conta Microsoft à Partner University.
+|Pode associar o mesmo ID MCP a várias empresas.| Apenas um ID MCP pode ser associado a uma única conta partner Center. Tens de fazer a associação manualmente. A partir do painel Partner Center, selecione o ícone da **conta** no canto direito do painel e, em seguida, selecione **O meu perfil**. Ao abrigo **da sua aprendizagem** poderá associar a sua conta Microsoft Learning e também ligar a sua conta Microsoft à Partner University.
 
 ## <a name="visual-studio-benefits-and-msa"></a>Benefícios do Estúdio Visual e MSA
 

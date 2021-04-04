@@ -9,24 +9,21 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bbd2aceac62a7e726ed81a78305ea23213c94156
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 8a9662e0ce99fc054149dfbd4149532ce336eff6
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "92529178"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132626"
 ---
 # <a name="migrate-office-365-e4-subscriptions-to-newer-office-365-versions"></a>Migrate Office 365 E4 subscriptions to newer Office 365 versions (Migrar subscrições do Office 365 E4 para versões mais recentes do Office 365)
 
-**Aplica-se a**
-
--  Partner Center
-
 **Funções adequadas**
--   Administrador global
--   Administrador de utilizadores
--   Agente administrativo
--   Agente comercial
+
+- Administrador global
+- Administração de gestão de utilizadores
+- Agente administrativo
+- Agente comercial
 
 O plano E4 da Empresa 365 está reformado, a partir de 7 de abril de 2017. As subscrições E4 existentes já não podem adquirir novas subscrições E4 após esta data, e as subscrições E4 existentes não serão renovadas automaticamente quando expirarem.
 
@@ -77,21 +74,21 @@ Siga estes passos para migrar a subscrição do Office 365 Enterprise E4 de um c
 
 ### <a name="step-1---purchase-the-new-subscription"></a>Passo 1 - Comprar a nova subscrição
 
-1. A partir do menu **Partner Center,** selecione **Clientes,** selecione o cliente que deseja mover e, em seguida, selecione **Adicionar subscrições** .
+1. A partir do menu **Partner Center,** selecione **Clientes,** selecione o cliente que deseja mover e, em seguida, selecione **Adicionar subscrições**.
 
-2. Selecione a subscrição que pretende adquirir no catálogo (neste caso, uma das opções acima), introduza o número de licenças e, em seguida, **selecione Enviar por isso** .
+2. Selecione a subscrição que pretende adquirir no catálogo (neste caso, uma das opções acima), introduza o número de licenças e, em seguida, **selecione Enviar por isso**.
 
    O seu cliente deverá agora ter subscrições antigas e novas, a antiga assinatura E4 do Office 365 e a nova subscrição 'target', por exemplo, Opção 1 - Office 365 Enterprise E5.
 
 ### <a name="step-2---reassign-the-customers-users-licenses"></a>Passo 2 - Reatribuir as licenças dos utilizadores do cliente
 
-1. A partir do menu **Partner Center,** selecione **Clientes,** selecione o cliente que deseja mover e, em seguida, selecione **Utilizadores e licenças** . A página de Utilizadores e Licenças do cliente abre.
+1. A partir do menu **Partner Center,** selecione **Clientes,** selecione o cliente que deseja mover e, em seguida, selecione **Utilizadores e licenças**. A página de Utilizadores e Licenças do cliente abre.
 
-2. Para reatribuir as licenças de utilizador, selecione o utilizador para reatribuir e, em seguida, **selecione Gerir licenças** .
+2. Para reatribuir licenças de utilizador, selecione o utilizador para reatribuir e, em seguida, **selecione Gerir licenças**.
 
 3. Na página **'Gerir licenças',** limpe a caixa de verificação **de licenças do Office 365 Enterprise E4** e selecione um novo plano de serviço para a subscrição para a qual o cliente está a mover-se.
 
-4. Selecione **Submeter** . Uma página de confirmação lista as novas atribuições de licença.
+4. Selecione **Submeter**. Uma página de confirmação lista as novas atribuições de licença.
 
 5. Continue os mesmos passos com qualquer outro cliente que necessite de reatribuição de licença.
 
@@ -101,15 +98,15 @@ Depois de transferir as licenças do utilizador para o novo serviço, pode cance
 
 1. A partir do menu **Partner Center,** selecione **Clientes.** Selecione o cliente que pretende mover e selecione a subscrição que pretende cancelar.
 
-2. Na página de detalhes da subscrição, desa estale o estado de subscrição **de Suspenso** .
+2. Na página de detalhes da subscrição, desa estale o estado de subscrição **de Suspenso**.
 
-3. Selecione **Submeter** .
+3. Selecione **Submeter**.
 
 A subscrição antiga está suspensa e a nova subscrição está ativa. A subscrição suspensa será desavisionada automaticamente após 120 dias. O cliente não incorre em custos adicionais para a subscrição antiga.
 
 
 
- 
+ 
 
 
 

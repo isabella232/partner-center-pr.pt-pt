@@ -9,23 +9,23 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 419dba1490e19c8895fce35a031c7424114e5125
-ms.sourcegitcommit: 493130f8b8e9cf9b6ad31035bb4d7f78863788ac
+ms.openlocfilehash: 76b540364b1a47de66d0343f0646ab035b8de97c
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "99474331"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132439"
 ---
 # <a name="using-the-skills-report"></a>Usando o relatório de competências
 
 **Funções adequadas**
 
-- Administrador do Parceiro MPN
+- Administrador sócio da MPN
 - Administrador global
 
 O relatório de competências permite que os parceiros da Microsoft Partner Network avaliem as competências completadas pelos utilizadores na sua empresa parceira. As competências do relatório podem incluir avaliações, certificações ou exames realizados pelos utilizadores técnicos do parceiro. 
 
-A realização deste tipo de competências por parte de uma empresa parceira é um dos requisitos para que o parceiro atinja o estatuto de prata ou ouro dentro de uma competência específica da Microsoft. As competências são utilizadas pelos parceiros para demonstrar as suas áreas de especialização técnica aos clientes atuais e novos. Também oferecem muitos benefícios aos parceiros que os alcançam. Para obter mais detalhes sobre as competências disponíveis e os seus benefícios, consulte a página Microsoft Partner Network [Competencies.](https://partner.microsoft.com/membership/competencies)
+A realização deste tipo de competências por parte de uma empresa parceira é um dos requisitos para que o parceiro atinja o estatuto de prata ou ouro dentro de uma competência específica da Microsoft. As competências são utilizadas pelos parceiros para demonstrar as suas áreas de especialização técnica aos clientes atuais e novos. Também oferecem muitos benefícios aos parceiros que os alcançam. Para obter mais informações sobre as competências disponíveis e os seus benefícios, consulte a página Microsoft Partner Network [Competencies.](https://partner.microsoft.com/membership/competencies)
 
 O administrador sócio da MPN da sua empresa ou administrador global pode querer executar as seguintes tarefas relacionadas com o relatório de competências:
 
@@ -59,9 +59,9 @@ Siga estes passos para ver os dados do relatório de competências do Centro de 
 
 1. Utilizando a conta de utilizador com a função adequada do Partner Center, inscreva-se no [painel de instrumentos](https://partner.microsoft.com/dashboard)do Centro de Parceiros .
 2. A partir do menu de navegação à esquerda, selecione **MPN** seguido **de Competências**.
-3. Localize as seguintes opções na página de competências superiores: Relatório de desempenho de  **competências** e **relatório de competências de descarregamento**. Tem a opção de visualizar dados de relatório de competências dentro da interface de utilizador do Partner Center ou como uma folha de cálculo descarregada.
+3. Localize as seguintes opções no lado superior direito da página Competências:  **Relatório de desempenho de competências** e relatório de **competências de descarregamento**. Tem a opção de visualizar dados de relatório de competências dentro da interface de utilizador do Partner Center ou como uma folha de cálculo descarregada.
    :::image type="content" source="images/competencies/mpn-skills-report-1.png" alt-text="Página de Competências do Centro parceiro com duas opções destacadas no canto superior direito." border="true":::
-   - Para uma visão fácil dos dados do relatório de competências, selecione Relatório de Desempenho da **Competência**, seguido de dados de **competências** do utilizador na parte superior esquerda da página do relatório de competências. 
+   - Para uma visão fácil dos dados do relatório de competências, selecione Relatório de Desempenho da **Competência**, seguido de **dados de competências** do utilizador no lado superior esquerdo da página do relatório da Competência. 
       :::image type="content" source="images/competencies/mpn-skills-report-2.png" alt-text="Página de relatório de competência do Centro de Parceiros com opção de dados de habilidades do utilizador no canto superior esquerdo." border="true":::
    - Para descarregar o relatório em formato folha de cálculo, selecione **Download skills report**. Assim que o ficheiro for descarregado e aberto, verá uma tabela com detalhes sobre as habilidades de cada utilizador. As colunas, **associadas ao PMC** e **associadas ao PC,** indicam se as competências do utilizador já foram ou não associadas à sua conta anterior do Partner Membership Center (PMC) e à sua conta Partner Center (PC). Se tiver utilizadores ainda a operar em PMC, consulte a secção posterior dos utilizadores de PMC.
    
@@ -94,7 +94,7 @@ Se os dados do relatório de competências não apresentarem competências para 
 
 - Pode ter fundido as suas habilidades com outro MCID que **não** está associado com a sua conta de utilizador partner Center
 
-Se o utilizador tiver contas duplicadas, as competências necessárias podem ser divididas em duas ou mais contas. Por exemplo, pode ter o MSA ligado a um MCID (como mostrado na **coluna MCID** do relatório de competências), no entanto, a certificação da transcrição da mesma MSA refere-se a outro MCID. Neste caso, é necessário fundir o MCID da transcrição no MCID já apresentado no relatório de competências. Para tal, contacte a equipa designada [de Suporte para a Formação de Certificação da Microsoft.](https://trainingsupport.microsoft.com/mcp/forum) Uma vez confirmada a fusão mcp, não terá de voltar a associar o seu MSA. Já estará associado no Partner Center. Este processo pode demorar até 24 horas para ser exibido no Centro de Parceiros.
+Se o utilizador tiver contas duplicadas, as competências necessárias podem ser divididas em duas ou mais contas. Por exemplo, pode ter o MSA ligado a um MCID (como mostrado na **coluna MCID** do relatório de competências), no entanto, a certificação da transcrição da mesma MSA refere-se a outro MCID. Neste caso, é necessário fundir o MCID da transcrição no MCID já apresentado no relatório de competências. Para tal, contacte a equipa designada [de Suporte para a Formação de Certificação da Microsoft.](https://trainingsupport.microsoft.com/mcp/forum) Uma vez confirmada a fusão mcp, não terá de reassociar o seu MSA. Já estará associado no Partner Center. Este processo pode demorar até 24 horas para ser exibido no Centro de Parceiros.
 
 ### <a name="why-do-i-see-an-error-message-when-i-try-to-download-the-skills-report"></a>Por que vejo uma mensagem de erro quando tento descarregar o relatório de habilidades?
 

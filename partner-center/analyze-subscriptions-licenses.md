@@ -8,13 +8,13 @@ ms.author: amrava
 ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.date: 07/08/2020
-ms.openlocfilehash: 45a088129d09395abf355efde08c772744b98672
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.date: 03/31/2021
+ms.openlocfilehash: 3f84026cc6402bea71837b06a5e330f2c879a06b
+ms.sourcegitcommit: 766b2bb46dffd29e532b42106359f83e51b96700
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474092"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106103796"
 ---
 # <a name="analyze-subscriptions-and-licenses-to-help-you-drive-business-decisions-and-new-goals"></a>Analise subscrições e licenças para ajudá-lo a impulsionar decisões de negócios e novos objetivos
 
@@ -28,6 +28,10 @@ ms.locfileid: "96474092"
 Os dados impulsionam as decisões empresariais. Use as métricas na página **de subscrição e análise de licença** para identificar os seus sucessos e áreas que precisam de mais atenção. Use esta informação enquanto planeia novos objetivos de negócio.
 
 **Receitas CSP TTM (USD)**: Esta métrica representa a receita faturada agregada da CSP (USD) para os doze meses (TTM) para as Contas de Localização de Parceiros e Conta Global de Parceiros (PGA) esta conta CSP está associada. Se tiver outras contas CSP com uma PGA diferente, tem de entrar em cada uma delas para ver as correspondentes receitas agregadas de TTM.  Clique no link de detalhes de descarregamento para obter uma desagregação da receita TTM (USD) por MPN ID.
+
+>[!NOTE]
+>Os preços da moeda local (Legacy Commerce FX) em Comercial são geridos dentro de +/-5% dos dólares americanos. A taxa de câmbio Legacy Commerce (FX) é diferente da faturação das taxas DEX usadas pela Azure na experiência do Comércio Moderno. As taxas fx de faturação do Comércio Moderno baseiam-se nas taxas de&L do Microsoft P (taxas Reuters FX a partir de feed do Tesouro). As tarifas da Legacy Commerce FX são confidenciais da Microsoft.
+
 
 O resto do relatório pode ser pivotado com base nos seguintes produtos:
 
@@ -82,6 +86,8 @@ Estamos a seguir as seguintes métricas:
 **Assinaturas de teste terminando em 30 dias**  
 
  - Lista de ensaios iniciados, em que a data limite é de 30 dias, e não há data de início paga associada à subscrição  
+
+
 
 ## <a name="next-steps"></a>Passos seguintes
 

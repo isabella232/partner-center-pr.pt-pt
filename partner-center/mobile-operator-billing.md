@@ -1,21 +1,21 @@
 ---
 title: Faturação do operador móvel - Microsoft Store
 description: A Microsoft Store oferece a Faturação do Operador Móvel como um método de pagamento para operadores móveis que suportam esta capacidade.
-ms.date: 05/29/2020
+ms.date: 04/01/2021
 ms.service: partner-dashboard
 ms.topic: article
 ms.author: hickeys
 author: hickeys
 keywords: janelas 10, uwp, operadores móveis, faturação móvel, faturação do operador móvel
 ms.localizationpriority: medium
-ms.openlocfilehash: 010451506df0d6115a8e1b4781e6fb40ab8853bb
-ms.sourcegitcommit: a84812b650ec8b6d0513c46c04840e4bbb0c8460
+ms.openlocfilehash: 5556da39b252f5004cd7d1828310743875a8da7f
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "92530110"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106178821"
 ---
-# <a name="mobile-operator-billing"></a>Faturação do operador móvel
+# <a name="mobile-operator-billing"></a>Faturação da operadora de rede móvel
 
 > [!NOTE]
 > Se procura apoio em relação a pagamentos, incluindo configurar contas de pagamento, pagamentos em falta, colocar pagamentos em espera, ou qualquer outra coisa, apoio de contato [aqui.](https://developer.microsoft.com/windows/support)
@@ -35,17 +35,19 @@ Os seguintes operadores móveis apoiam atualmente a Faturação do Operador Móv
 | Áustria              | A1 Telekom, Hutchison 3G Austria, T-Mobile / tele.ring  |
 | Bélgica              | Base                                          |
 | Canadá               | Telus                                                   |
-| Checa              | T-Mobile                                                |
+| Checa              | T-Mobile, Vodafone, O2                                  |
 | Dinamarca              | 3, TDC / YouSee, Telenor, Telia                         |
 | Finlândia              | DNA, Elisa                                              |
 | França               | Laranja                                                  |
 | Alemanha              | O2, Telekom Deutschland, Vodafone                       |
 | Hungria              | Telenor                                                 |
-| Itália                | Tre                                               |
+| Itália                | Tre, Wind, Vodafone                                     |
+| Coreia                | SK Telecom                                              |
 | Malásia             | Rio Digi                                                    |
-| Países Baixos          | KPN / Telfort                                           |
+| Países Baixos          | KPN / Telfort, Vodafone                                 |
 | Noruega               | Telenor / Talkmore, Telia / OneCall                     |
-| Polónia               | Laranja, Jogar                                            |
+| Polónia               | Laranja, Jogo, T-Mobile                                  |
+| Arábia Saudita         | STC                                                     |
 | Singapura            | M1 Limited                                     |
 | Eslováquia             | Telekom eslovaco                                          |
 | África do Sul         | Vodacom                                                 |
@@ -56,4 +58,4 @@ Os seguintes operadores móveis apoiam atualmente a Faturação do Operador Móv
 | Turquia               | Estação Turkcell                                                |
 | Emirados Árabes Unidos | Etisalat                                                |
 | Estados Unidos da América        | Sprint                                         |
-| Reino Unido       | 3 REINO UNIDO, EE, O2, Vodaphone                                 |
+| Reino Unido       | 3 UK, EE, O2, Vodafone                                 |

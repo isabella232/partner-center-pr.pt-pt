@@ -9,25 +9,25 @@ ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
 ms.date: 03/23/2021
-ms.openlocfilehash: ece0e5f3bedf1496a252ac8e8c1545fb22ec8108
-ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
+ms.openlocfilehash: 6ba6fce58df6ab6047a5ec6e7c46e1538b49756d
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "104880774"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106178957"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Parceiro com revendedores indiretos no programa Fornecedor de Soluções Cloud
 
 **Funções adequadas**
 
 - Administrador global
-- Administrador de utilizadores
+- Administração de gestão de utilizadores
 - Agente administrativo
 - Agente comercial
 
 Com um mercado tecnológico tão complexo e em rápida mudança, os clientes querem a vantagem competitiva que as soluções tecnológicas lhes podem dar. Neste clima, faz sentido que os parceiros invistam em compromissos parceiros para alargar as ofertas e permitir que os clientes façam ainda mais.
 
-Novos revendedores estão a entrar no mercado e a procurar formas de oferecer as suas soluções a clientes fora dos seus mercados e locais. Como fornecedor de tecnologia estabelecida, está bem posicionado para ser a rota deles para o mercado. Parceria com revendedores indiretos no programa Cloud Solution Provider (CSP) para se conectar com outros parceiros, trazer novas soluções para o mercado e antecipar a adoção dos serviços na nuvem pelos clientes.
+Novos revendedores estão a entrar no mercado e a procurar formas de oferecer as suas soluções a clientes fora dos seus mercados e locais. Como fornecedor de tecnologia estabelecida, está bem posicionado para ser a sua rota para o mercado. Parceria com revendedores indiretos no programa Cloud Solution Provider (CSP) para se conectar com outros parceiros, trazer novas soluções para o mercado e antecipar a adoção dos serviços na nuvem pelos clientes.
 
 No modelo de revendedor de fornecedores indiretos (dois níveis), é parceira de revendedores indiretos para oferecer soluções de nuvem microsoft aos clientes. Você compra produtos e subscrições diretamente da Microsoft e, em seguida, oferece estas soluções aos clientes através dos seus revendedores.
 
@@ -45,7 +45,7 @@ Para obter informações sobre o que é necessário para participar no programa 
 
 ## <a name="indirect-provider-tasks-in-the-partner-center"></a>Indirect provider tasks in the Partner Center (Tarefas do fornecedor indireto no Centro de Parceiros)
 
-Complete os seguintes passos para estabelecer e gerir a sua parceria com revendedores e clientes indiretos. Os passos dois e três são descritos mais detalhadamente abaixo.
+Complete os seguintes passos para estabelecer e gerir a sua parceria com revendedores e clientes indiretos. Os passos 2 e 3 são descritos mais detalhadamente abaixo.
 
 1. Reveja o perfil da sua empresa na [lista oficial de fornecedores indiretos da Microsoft.](https://partnercenter.microsoft.com/partner/find-a-provider)
 
@@ -111,7 +111,7 @@ Para remover a parceria com o revendedor indireto existente, siga os passos abai
 
 1. A partir do menu Partner Center no painel de instrumentos, **selecione Revendedores Indiretos**. 
 
-2. Na página de **revendedores indiretos,** selecione **Remover parceria**. Aparecerá uma mensagem pedindo confirmação selecione sim para prosseguir.
+2. Na página de **revendedores indiretos,** selecione **Remover parceria**. Aparecerá uma mensagem que pede confirmação. Para prosseguir, selecione **Sim**.
 
 :::image type="content" source="images/ip-ir-relationship.png" alt-text="Remover parceria":::
 
@@ -151,7 +151,7 @@ Quando associa um revendedor a uma nova conta de cliente, está a delegar conta 
 
 ### <a name="add-new-subscriptions-to-customer-accounts"></a>Adicionar novas subscrições às contas dos clientes
 
-Quando os clientes querem comprar novas subscrições, atualizar as existentes ou comprar licenças adicionais, eis estas alterações na conta do cliente através do portal M365. Não pode fazer isso no portal Azure.
+Quando os clientes querem comprar novas subscrições, atualizar as existentes ou comprar licenças adicionais, eis estas alterações na conta do cliente através do portal Microsoft 365. Não pode fazer isso no portal Azure.
 
 1. Selecione **Clientes** do menu **Partner Center.**
 

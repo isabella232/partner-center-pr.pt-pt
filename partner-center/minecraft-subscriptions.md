@@ -8,24 +8,21 @@ description: Venda subscrições minecraft Education Edition a clientes de educa
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
-ms.openlocfilehash: dc4fa7c3828bc6c6bc3fb711184a876c0b92b925
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 2c1c49dee1e9531a725f679b52adc18d4e5d856b
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92529882"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106133017"
 ---
 # <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>Vender Minecraft: Subscrições da Education Edition para clientes de educação
 
-**Aplica-se a**
-
--  Partner Center
-
 **Funções adequadas**
--   Administrador global
--   Administrador de utilizadores
--   Agente comercial
--   Agente administrativo
+
+- Administrador global
+- Administração de gestão de utilizadores
+- Agente comercial
+- Agente administrativo
 
 Os parceiros que trabalham com instituições de ensino podem oferecer subscrições **minecraft: Education Edition** para eles. Compra a subscrição em nome do cliente no Partner Center e, em seguida, o cliente descarrega o software da [Microsoft Store for Education](https://educationstore.microsoft.com). 
 
@@ -38,13 +35,13 @@ Os parceiros que trabalham com instituições de ensino podem oferecer subscriç
 Siga os passos abaixo para comprar subscrições **Minecraft: Education Edition** no [Partner Center](https://partnercenter.microsoft.com/pcv/dashboard/overview
 ) (sinal em requerindo):
 
-  1.  Selecione **Clientes** do menu Partner Center.
+  1.  Selecione **clientes** do menu Partner Center.
   
-  2.  Selecione o seu cliente de educação na sua lista de clientes e, em seguida, **selecione Adicionar subscrições** .
+  2.  Selecione o seu cliente de educação na sua lista de clientes e, em seguida, **selecione Adicionar subscrições**.
   
   3.  Escolha a frequência de faturação que melhor satisfaça as suas necessidades e, em seguida, **selecione Educação** na secção **Catálogo.**
 
-  4.  Selecione a subscrição Minecraft que pretende comprar em nome do seu cliente e insira o número de licenças. Selecione **Seguinte: Revisão** .
+  4.  Selecione a subscrição Minecraft que pretende comprar em nome do seu cliente e insira o número de licenças. Selecione **Seguinte: Revisão**.
 
       >[!NOTE]
       >Poderá ver e gerir estas licenças no Partner Center. O seu cucstomer irá ver e gerir estas licenças a partir do seu inventário na página de detalhes do [Minecraft: Education Edition](https://educationstore.microsoft.com/store/details/minecraft-education-edition/9nblggh4r2r6) (tem de ser inscrito na Loja de Educação para ver a página de detalhes). 

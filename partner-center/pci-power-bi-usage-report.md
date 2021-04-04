@@ -8,16 +8,17 @@ description: Veja o que está a fazer bem e onde pode melhorar no que diz respei
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 03224c029104101c2187d07bfce720294e43cf88
-ms.sourcegitcommit: ce1331c0e600e2f73b85a90ac159a9026ab6a691
+ms.openlocfilehash: e05ea33665ded2e52eae2ef8f096b30d3bfe9ee5
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98147175"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086299"
 ---
 # <a name="power-bi-usage-report-available-from-the-partner-center-insights-dashboard"></a>Relatório de utilização do Power BI disponível no painel Partner Center Insights
 
 **Funções adequadas**
+
 - Administrador global
 - Agente administrativo
 - Espectador de relatório
@@ -50,7 +51,7 @@ A secção de resumo apresenta uma visão instantânea dos principais indicadore
 
    O Micro chart apresenta uma tendência mensal de lugares ativos mensais durante o período de tempo selecionado.
 
-- Utilização ativa %: Número total de lugares ativos expressos em percentagem dos lugares disponíveis para o calendário selecionado. 
+- Utilização ativa %: Número total de lugares ativos expressos em percentagem dos lugares disponíveis para o período de tempo selecionado. 
 
    O Micro chart apresenta uma tendência mensal de percentagem de utilização ativa durante o período de tempo selecionado.
 

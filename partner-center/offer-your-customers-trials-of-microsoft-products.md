@@ -9,23 +9,20 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a51504a5e560f8a8041c448c3e5d9e7f0cfdae07
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 53f4a16ac5d0f33fd534d7fd9a13eaf5a25cf3ea
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92529808"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132337"
 ---
 # <a name="give-customers-30-day-free-trials-of-microsoft-products"></a>Dar aos clientes 30 dias de testes gratuitos de produtos microsoft
 
-**Aplica-se a**
-
-- Partner Center
-
 **Funções adequadas**
--   Administrador global 
--   Administrador de utilizadores
--   Agente comercial
+
+- Administrador global
+- Administração de gestão de utilizadores
+- Agente comercial
 
 Uma boa forma de apresentar clientes aos novos produtos da Microsoft é oferecer testes gratuitos de 30 dias. Você pode se inscrever para os testes no catálogo, assim como muitos outros serviços on-line. Todos os parceiros podem participar.
 
@@ -45,7 +42,7 @@ Atualmente, não há **testes gratuitos** para ofertas governamentais, ofertas d
 
 ## <a name="licenses-for-free-trial-offers"></a>Licenças para ofertas de teste gratuitos
 
-Todos os testes gratuitos fornecem 25 licenças. Não podes mudar este número durante o julgamento. Não pode adicionar ou remover licenças no julgamento gratuito. Após o ensaio ser convertido para uma subscrição paga, pode adicionar licenças adicionais à subscrição.
+Todos os testes gratuitos fornecem 25 licenças. Não podes mudar este número durante o julgamento. Não pode adicionar ou remover licenças no julgamento gratuito. Após o ensaio ser convertido para uma subscrição paga, pode adicionar mais licenças à subscrição.
 
 As licenças de ensaio devem ser atribuídas aos utilizadores da mesma forma que a licença de serviços pagos é atribuída.
 
@@ -54,12 +51,12 @@ As licenças de ensaio devem ser atribuídas aos utilizadores da mesma forma que
 Obtenha um teste para o seu cliente no Partner Center:
 
 1. A partir da **Venda** no Centro de Parceiros, vá ao **Catálogo.** 
-2. No catálogo, a partir da **frequência Billing,** clique **na oferta trial** . Isto permite apenas a aparecerem testes gratuitos e desativa outras ofertas que não são gratuitas. Os testes aparecerão no **separador Trials** no catálogo.
-3. Selecione o teste gratuito que pretende oferecer e, em seguida, **selecione submeter** . Todos os julgamentos são por 30 dias durante os quais não será cobrado. Também pode convertê-lo numa subscrição paga a qualquer momento durante o julgamento.
+2. No catálogo, a partir da **frequência Billing,** selecione **Trial offer**. Isto permite apenas a aparecerem testes gratuitos e desativa outras ofertas que não são gratuitas. Os testes aparecerão no **separador Trials** no catálogo.
+3. Selecione o teste gratuito que pretende oferecer e, em seguida, **selecione submeter**. Todos os julgamentos são por 30 dias durante os quais não será cobrado. Também pode convertê-lo numa subscrição paga a qualquer momento durante o julgamento.
 
 ## <a name="converting-trials-to-paid-subscriptions"></a>Conversão de ensaios para assinaturas pagas
 
-Um teste gratuito não é automaticamente convertido para uma subscrição paga. Após trinta dias, um ensaio gratuito deve ser convertido para uma subscrição paga ou [expirará](#expiring-offers). Os julgamentos gratuitos não podem ser prolongados.
+Um teste gratuito não é automaticamente convertido para uma subscrição paga. Após 30 dias, um ensaio gratuito deve ser convertido para uma subscrição paga ou [expirará](#expiring-offers). Os julgamentos gratuitos não podem ser prolongados.
 
 Terá de converter o julgamento numa subscrição paga. Pode [fazê-lo utilizando o Centro de Parceiros](#convert-trials-using-partner-center) ou [através das APIs do Partner Center](#convert-trials-using-apis).
 
@@ -72,15 +69,15 @@ Pode converter ensaios em subscrições pagas utilizando o Partner Center:
 
 1. Vá à página de subscrição do cliente e selecione o teste gratuito.
 2. Selecione **Converter o ensaio para a subscrição paga.**
-3. Introduza a quantidade de licença desejada e a frequência de faturação e selecione **Apply** .
-4. A faturação da subscrição paga começa na data de conversão e a subscrição autorenews doze meses a partir da data de conversão. 
+3. Introduza a quantidade de licença desejada e a frequência de faturação e selecione **Apply**.
+4. A faturação da subscrição paga começa na data de conversão e a subscrição renova automaticamente 12 meses a partir da data de conversão. 
 
 ### <a name="convert-trials-using-apis"></a>Converter ensaios usando APIs
 
 Poderá ser necessário alterar as suas APIs para acomodar a conversão de um teste gratuito para uma subscrição paga. Para mais informações, consulte a seguinte documentação do programador:
 
-- [Converter uma subscrição experimental para pago](/partner-center/develop/convert-a-trial-subscription-to-paid)
-- [Obtenha uma lista de ofertas de conversão de ensaios](/partner-center/develop/get-a-list-of-trial-conversion-offers)
+- [Converter uma subscrição de avaliação em paga](/partner-center/develop/convert-a-trial-subscription-to-paid)
+- [Obter uma lista de ofertas de conversão de avaliação](/partner-center/develop/get-a-list-of-trial-conversion-offers)
 
 ### <a name="trials-without-conversions"></a>Ensaios sem conversões
 
@@ -88,7 +85,7 @@ Nem todos os ensaios podem ser convertidos em subscrições pagas. Os parceiros 
 
 |**Avaliação**   |**Ofertas compatíveis de Pequenas Empresas**   |**Ofertas empresariais compatíveis**   |
 |----------------------------|:---------------------------------|:------------------------------------------|
-|Teste de Cloud Comercial (Iniciado pelo Utilizador)   |Microsoft 365 Business Basic, Microsoft 365 Business Standard, Microsoft 365 Business Premium   | F3 (anteriormente F1), Office 365 for Enterprise (E1, E3 e E5), M365 F1/F3, M365 Enterprise (E3)   |
+|Teste de Cloud Comercial (Iniciado pelo Utilizador)   |Microsoft 365 Business Basic, Microsoft 365 Business Standard, Microsoft 365 Business Premium   | F3 (anteriormente F1), Office 365 para Enterprise (E1, E3 e E5), Microsoft 365 F1/F3, Microsoft 365 Enterprise (E3)   |
 
 >[!NOTE]
 >As ofertas acima têm planos de serviço semelhantes com funcionalidades semelhantes, no entanto pode haver algumas diferenças entre as ofertas.
@@ -107,7 +104,7 @@ A faturação anual e os testes gratuitos são os mesmos nas nuvens soberanas e 
 
 Os ensaios gratuitos podem ser utilizados tanto para subscrições mensais como anuais. Pode selecionar a frequência de faturação quando converter o ensaio numa subscrição paga.
 
-A data de início da subscrição baseia-se na data de conversão. Se o teste gratuito for convertido para uma oferta paga com faturação anual, a data de renovação da subscrição será de doze meses a partir da data de conversão. Se o teste gratuito for convertido para uma oferta paga com faturação mensal, a data de renovação da subscrição será de doze meses a contar da data de faturação seguinte à data de conversão.
+A data de início da subscrição baseia-se na data de conversão. Se o teste gratuito for convertido para uma oferta paga com faturação anual, a data de renovação da subscrição será de 12 meses a contar da data de conversão. Se o teste gratuito for convertido para uma oferta paga com faturação mensal, a data de renovação da subscrição será de doze meses a contar da data de faturação seguinte à data de conversão.
 
 ### <a name="invoices"></a>Faturas
 

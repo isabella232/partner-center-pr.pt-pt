@@ -9,21 +9,14 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 84dcb87f4a5594fdcd3a7099e12331a9e4459b38
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: 94bcde2402b7276bef8eaaf84975f2a5677723fe
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "92529292"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106133119"
 ---
 # <a name="manage-different-leads-like-customer-inquiries-marketing-qualified-leads-and-sales-qualified-leads"></a>Gerir diferentes oportunidades potenciais como inquéritos ao cliente, oportunidades potenciais qualificadas para marketing e oportunidades potenciais qualificadas para vendas
-
-**Aplica-se a**
-
-- Partner Center
-- Referências
-- Provedor de solução Microsoft
-- Perfis de Negócios
 
 **Funções adequadas**
 
@@ -46,9 +39,9 @@ O pré-requisito para receber leads é [criar um perfil de negócio](create-a-ma
 
 Há três separadores de alto nível na secção de condutores. 
 
-**Lidera o marketplace** – Todas as pistas originárias de pesquisas de página de fornecedores de soluções da Microsoft, que são inquéritos ao cliente.
+**Lidera o mercado** – Estas são todas as pistas originárias de pesquisas de página de fornecedores de soluções da Microsoft, que são inquéritos ao cliente.
 
-**Leads qualificados** – Todos os leads de marketing tipo qualificado e Vendas qualificadas estão disponíveis neste separador.
+**Leads qualificados** – Estes são todos os leads de tipo Marketing qualificado e Vendas qualificadas.
 
 **Favoritos** – Quaisquer pistas que sejam marcadas como favoritas no guia do Marketplace ou no separador de pistas qualificadas serão mostradas neste separador. Pode marcar qualquer chumbo como favorito clicando no ícone do coração na vista da lista. Pode remover o chumbo dos favoritos clicando novamente no mesmo ícone.
 
@@ -62,9 +55,9 @@ Nesta fase, recebeu uma nova pista diretamente do cliente ou de um funcionário 
 
 Pode tomar duas ações nesta fase: aceitar ou recusar a remessa:
 
-- **Aceitar:** Insira um nome para o negócio, o valor estimado do negócio, e o prazo estimado de compra. Também deve fornecer informações no campo **Notas** para explicar mais sobre o que o cliente procura. Pode opcionalmente introduzir o seu ID crm aqui (apenas para referência), o id de campanha de marketing, que resultou no respetivo chumbo e adicionar contactos adicionais da sua empresa. Quando terminar, selecione **Seguinte** . Vamos passar a referência para a **fase seguinte,** o que significa que planeia envolver-se ativamente com o cliente para responder às suas necessidades. Também usaremos esta informação para ajudá-lo a encontrar ofertas semelhantes no futuro. 
+- **Aceite:** Introduza um nome para o negócio, o valor estimado da oferta e o prazo estimado de compra. Também deve fornecer informações no campo **Notas** para explicar mais sobre o que o cliente procura. Pode opcionalmente introduzir o seu ID crm aqui (apenas para referência), o ID da campanha de marketing, que resultou no respetivo chumbo e adicionar contactos adicionais da sua empresa. Quando terminar, selecione **Seguinte**. Vamos passar a referência para a **fase seguinte,** o que significa que planeia envolver-se ativamente com o cliente para responder às suas necessidades. Também usaremos esta informação para ajudá-lo a encontrar ofertas semelhantes no futuro. 
 
-- **Recusar** : Selecione a razão pela qual está a recusar o negócio e adicione quaisquer notas que queira incluir e, em seguida, selecione **Fechar** negócio. Vamos arquivá-lo como **Recusado** e notificar o cliente para escolher um parceiro diferente.
+- **Recusar**: Selecione a razão pela qual está a recusar o negócio e adicione quaisquer notas que queira incluir e, em seguida, selecione **Fechar** negócio. Vamos arquivá-lo como **Recusado** e notificar o cliente para escolher um parceiro diferente.
 
 - Se não responder dentro do tempo atribuído (atualmente 14 dias), arquivá-lo-emos como **Expirado** e notificaremos a Microsoft ou o parceiro que lhe enviou esta oportunidade.
 
@@ -73,7 +66,7 @@ Pode tomar duas ações nesta fase: aceitar ou recusar a remessa:
 
 ### <a name="accepted-stage"></a>Estágio Aceite
 
-Enquanto trabalha para fechar o negócio, se quiser alterar alguma das informações que forneceu para uma remessa aceite, **selecione Editar** . Em seguida, pode atualizar o nome do negócio, data de compra estimada, valor estimado, notas, ID CRM e/ou o id da campanha de marketing.  Também pode selecionar **Adicionar aos seus colaboradores** para fornecer o nome, número de telefone e endereços de e-mail de quaisquer pessoas adicionais que estejam a trabalhar no negócio.
+Enquanto trabalha para fechar o negócio, se quiser alterar alguma das informações que forneceu para uma remessa aceite, **selecione Editar**. Em seguida, pode atualizar o nome do negócio, data de compra estimada, valor estimado, notas, ID CRM e/ou o ID da campanha de marketing.  Também pode selecionar **Adicionar aos seus colaboradores** para fornecer o nome, número de telefone e endereços de e-mail de quaisquer pessoas adicionais que estejam a trabalhar no negócio.
 
 Quando terminar, pode tomar uma das duas ações, que estão marcando o acordo como **Won** ou **Lost** para reportar o resultado para que possamos arquivá-lo em conformidade.
 
@@ -85,15 +78,15 @@ Esta é uma fase terminal onde todas as oportunidades finalmente alcançam. Pode
 
 Aqui ficam algumas dicas para ajudá-lo a obter referências mais apropriadas:
 
-- **Escolha palavras-chave e preferências que representem a sua experiência única e modelo de negócio** no seu perfil de [negócio.](create-a-marketing-profile.md) Remova palavras-chave que gerem referências que não lhe interessam. Se não está interessado em lidar com empresas de uma certa dimensão, atualize esta preferência.
+- **Escolha palavras-chave e preferências que representem a sua experiência única e modelo de negócio no seu [perfil de negócio.](create-a-marketing-profile.md)** Remova palavras-chave que gerem referências que não lhe interessam. Se não está interessado em lidar com empresas de uma certa dimensão, atualize esta preferência.
 
-- **Reveja as suas informações de contacto no seu [perfil de negócios](create-a-marketing-profile.md) para cada local** Certifique-se de que a sua equipa recebe alertas de entrada.
+- **Reveja os seus dados de contacto no seu [perfil de negócio](create-a-marketing-profile.md) para cada local.** Certifique-se de que a sua equipa recebe alertas de entrada.
 
-- **Responda rapidamente às referências** Quando responder em tempo útil aos pedidos de entrada, aumentaremos a sua visibilidade em futuros resultados de pesquisa de clientes. Certifique-se de que a sua equipa responde rapidamente com a sua intenção.
+- **Responda rapidamente às referências.** Quando responder em tempo útil aos pedidos de entrada, aumentaremos a sua visibilidade em futuros resultados de pesquisa de clientes. Certifique-se de que a sua equipa responde rapidamente com a sua intenção.
 
-- **Seja exigente com os acordos que aceita** Monitorizamos os tipos de ofertas que aceita e recusa e utilizamos estas informações para ajudar a encontrar ofertas semelhantes. Aceitar ofertas que não sejam boas não melhorará os seus resultados de pesquisa e poderá ter impacto na qualidade dos leads que recebe.
+- **Seja exigente com os acordos que aceita.** Monitorizamos os tipos de ofertas que aceita e recusa e utilizamos estas informações para ajudar a encontrar ofertas semelhantes. Aceitar ofertas que não sejam boas não melhorará os seus resultados de pesquisa e poderá ter impacto na qualidade dos leads que recebe.
 
-- **Informe de volta os tamanhos estimados do negócio, datas de encerramento e o estado final das suas ofertas** (ganhos ou perdidos). Vamos usar esta informação para continuar a fornecer-lhe referências de qualidade.
+- **Informe de volta os tamanhos estimados do negócio, datas de encerramento e o estado final das suas ofertas (ganhos ou perdidos)**. Vamos usar esta informação para continuar a fornecer-lhe referências de qualidade.
 
 ## <a name="next-steps"></a>Passos seguintes
 

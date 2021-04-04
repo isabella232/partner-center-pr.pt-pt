@@ -9,17 +9,19 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 514c8d1e1c94c0a500384502ad57bad977dcc368
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 8e62462b6d35e8e6994e5e596ce433b37d222fc2
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712863"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132286"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Gerir a sua conta Partner Center - perfil da empresa, informações bancárias, funções, permissões e muito mais
 
-**Funções apropriadas** - administração global
-- Administrador de conta MPN
+**Funções adequadas** 
+
+- Administrador global
+- Administrador de conta
 
 A conta que cria no Partner Center quando se inscreve é o seu email de trabalho mais as informações do seu negócio. Depois de criar uma conta, terminará a configuração do perfil completo da sua empresa, incluindo detalhes de suporte, isenções de impostos de arquivo, se for caso disso, e informações de contacto primários. A conta da sua empresa também incluirá contas de utilizadores para qualquer pessoa da sua equipa que utilize o Partner Center. O trabalho que podem fazer inclui a adição ou gestão de clientes, a venda de subscrições, o trabalho com faturação e faturação, a criação de perfis de negócio, a gestão de referenciações, o trabalho com programas de incentivos, a prestação de apoio, e muito mais.
 
@@ -48,7 +50,7 @@ Quando seleciona o ícone **Definições** e abre o menu **de definições de Co
 
 :::image type="content" source="images/accountsettings/reseller.png" alt-text="Menu mostra separadores para Parceiros e Revendedores":::
 
-O separador Partner incluirá todas as informações legais de negócio, tais como nome legal registado e endereço para a sua empresa, bem como contacto primário e localizações empresariais. O separador Revendedor para parceiros que fazem negócios CSP inclui o perfil de suporte ao **Cliente.**
+O separador Partner inclui todas as informações legais de negócio, tais como nome legal registado e endereço para a sua empresa, bem como contacto primário e localizações empresariais. O separador Revendedor para parceiros que fazem negócios CSP inclui o perfil de suporte ao **Cliente.**
 
 Se a sua empresa não participar na CSP, a vista predefinida mostrará apenas o **separador Parceiro,** que incluirá o perfil de suporte ao **Cliente.**
 
@@ -60,7 +62,7 @@ Pode fazer parte de mais de uma conta. Pode verificar se faz parte de várias co
 
 Se não vir o apanhador de contas, faz parte de uma única conta. 
 
-Ao clicar neste picker, todas as contas de que faz parte aparecem como uma lista. Em seguida, pode clicar em qualquer um deles e mudar para essa conta. Tudo depois disso aparece no contexto dessa conta.  
+Ao selecionar este selecionador, todas as contas de que faz parte aparecem como uma lista. Em seguida, pode selecionar qualquer um deles e mudar para essa conta. Tudo depois disso aparece no contexto dessa conta.  
 
 No exemplo abaixo, o utilizador inscrito faz parte das três contas destacadas. O utilizador pode alternar entre eles clicando numa conta.
 
@@ -74,13 +76,13 @@ Use estas páginas para gerir áreas aprofundadas do seu negócio, incluindo o p
 
 ### <a name="legal-info"></a>Informação legal
 
-Quando se junta ao Partner Center, a sua empresa passa por um processo de verificação com a Microsoft. Pode acompanhar o estado da sua verificação na página **de informações legais.** Mostra o contacto principal (a quem a Microsoft entrará em contacto em relação a questões de parceiros) e o contacto jurídico primário (a pessoa que gere as suas informações legais e o seu estado). Todos os locais de negócios da sua empresa estão listados e podem ser adicionados aqui. 
+Quando se junta ao Partner Center, a sua empresa passa por um processo de verificação com a Microsoft. Pode acompanhar o estado da sua verificação na página **de informações legais.** Mostra o contacto principal (a quem a Microsoft entrará em contacto com questões de parceiro) e o contacto jurídico primário (a pessoa que gere as suas informações legais e o seu estado). Todos os locais de negócios da sua empresa estão listados e podem ser adicionados aqui. 
 
 ### <a name="provide-your-companys-legal-business-details"></a>Forneça detalhes legais de negócios da sua empresa
 
 Pode procurar o perfil da empresa ou introduzir informações da empresa manualmente. Se a sua empresa estiver registada na [Dun & Bradstreet,](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad)utilize o ID DUNS para consultar as informações da sua empresa. Se pretender fornecer os seus dados da sua empresa, selecione **Manual**.
 
-Se a sua empresa estiver localizada na **Arménia**, **Hungria,** **Quirguistão,** **Moldávia,** **Uzbequistão** ou **Rússia,** e introduzir o seu endereço manualmente, validaremos o seu endereço para si. Se o que inseriu, diferir do validado, sugerimos que utilize o endereço validado. A verificação garante que o endereço é preciso e pode ser enviado para.
+Se a sua empresa estiver localizada na **Arménia**, **Hungria,** **Quirguistão,** **Moldávia,** **Uzbequistão** ou **Rússia,** e introduzir o seu endereço manualmente, validaremos o seu endereço para si. Se o que insere diferir do validado, sugerimos que utilize o endereço validado. A verificação garante que o endereço é preciso e pode ser enviado para.
 
 ### <a name="primary-contact-email"></a>E-mail de contato primário
 

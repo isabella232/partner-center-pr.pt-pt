@@ -9,22 +9,16 @@ author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b6985054e927dd777d61ae30bd435ab4c6c4ea8c
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: 21e0ebd58835be34f9cc161072ff3690b30abf57
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93133120"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086367"
 ---
 # <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>Obrigando à autenticação de vários fatores (MFA) para o seu inquilino parceiro
 
-**Aplica-se a**
-
-- Todos os parceiros no programa Cloud Solution Provider
-- Todos os fornecedores de painéis de controlo
-- Todos os Conselheiros
-
-**Funções afetadas**
+**Funções adequadas**
 
 - Agente administrativo
 - Agente comercial
@@ -71,7 +65,7 @@ Para ilustrar como funciona a verificação no painel do Partner Center, conside
 
 2. Jane inicia uma nova sessão de navegador e navega para a página geral do painel do Partner Center (que não está protegida pelo MFA). Partner Center redireciona Jane para Azure AD para iniciar sação.
 
-3. Devido à configuração de MFA Azure AD existente por Contoso, a Jane é obrigada a completar a verificação de MFA. Após o sucesso do sinserção e verificação de MFA, Jane é redirecionada de volta para a página geral do painel do Partner Center.
+3. Devido à configuração de MFA Azure AD existente por Contoso, a Jane é obrigada a completar a verificação de MFA. Após a verificação de s-in e MFA com sucesso, a Jane é redirecionada de volta para a página geral do painel do Partner Center.
 
 4. Jane tenta aceder a uma das páginas protegidas pela MFA no Partner Center. Uma vez que a Jane já concluiu a verificação do MFA durante a sindução anterior, a Jane pode aceder à página protegida pelo MFA sem ser obrigada a passar novamente pela verificação do MFA.
 
@@ -81,7 +75,7 @@ Para ilustrar como funciona a verificação no painel do Partner Center, conside
 
 2. Trent inicia uma nova sessão de navegador e navega para a página geral do painel do Partner Center (que não está protegida pelo MFA). Partner Center redireciona Trent para Azure AD para iniciar sação.
 
-3. Uma vez que wingtip tem federação de identidade de configuração, Azure AD redireciona Trent para o fornecedor de identidade federado para completar a verificação de inscrição e MFA. Após o sucesso do sinal e verificação de MFA, Trent é redirecionado de volta para Azure AD e, em seguida, para a página geral do painel do Partner Center.
+3. Uma vez que wingtip tem federação de identidade de configuração, Azure AD redireciona Trent para o fornecedor de identidade federado para completar a verificação de inscrição e MFA. Após a verificação de súmis e MFA com sucesso, Trent é redirecionado de volta para Azure AD e, em seguida, para a página geral do painel do Partner Center.
 
 4. Trent tenta aceder a uma das páginas protegidas pelo MFA no Partner Center. Uma vez que o Trent já concluiu a verificação do MFA durante a entrada anterior, o Trent pode aceder à página protegida do MFA sem ser obrigado a passar novamente pela verificação do MFA.
 
@@ -91,7 +85,7 @@ Para ilustrar como funciona a verificação no painel do Partner Center, conside
 
 2. John inicia uma nova sessão de navegador e navega para a página geral do painel do Partner Center (que não está protegida pelo MFA). Partner Center redireciona John para Azure AD para iniciar sação.
 
-3. Como o Fabrikam não implementou o MFA, o John não é obrigado a completar a verificação da MFA. Após o sins de seduque com sucesso, John é redirecionado de volta para a página geral do painel do Partner Center.
+3. Como o Fabrikam não implementou o MFA, o John não é obrigado a completar a verificação da MFA. Após o sucesso do s-in, John é redirecionado de volta para a página geral do painel do Partner Center.
 
 4. John tenta aceder a uma das páginas protegidas pelo MFA no Centro de Parceiros. Uma vez que o John não concluiu a verificação do MFA, o Partner Center redireciona o John para a Azure AD para completar a verificação do MFA. Uma vez que esta é a primeira vez que João é obrigado a concluir o MFA, João também é solicitado a [inscrever-se para MFA](#mfa-registration-experience). Após o registo bem sucedido do MFA e a verificação do MFA, John pode agora aceder à página protegida pelo MFA.
 
@@ -174,7 +168,7 @@ A experiência global é semelhante ao cenário em que um inquilino de cliente f
 
 ### <a name="using-service-apis"></a>Utilização de APIs de serviço
 
-Alguns APIs de Serviços Online da Microsoft (tais como Azure Resource Manager, Azure AD Graph, Microsoft Graph, etc.) parceiros de suporte usando privilégios de admin delegados de parceiros para gerir programáticamente recursos do cliente. Para alavancar os Privilégios de Administração Delegados com estas APIs, a aplicação do parceiro deve incluir um token de acesso no cabeçalho de autorização de pedido da API, onde o token de acesso é obtido por ter uma conta de utilizador parceira para autenticar com Azure AD, com o cliente Azure AD definido como o contexto de autenticação. A aplicação do parceiro é necessária para ter um sinal de conta de utilizador parceiro no inquilino do cliente.
+Alguns APIs de Serviços Online da Microsoft (tais como Azure Resource Manager, Azure AD Graph, Microsoft Graph, etc.) parceiros de suporte usando privilégios de admin delegados de parceiros para gerir programáticamente recursos do cliente. Para utilizar os Privilégios de Administração Delegados de Parceiros com estas APIs, a aplicação do parceiro deve incluir um token de acesso no cabeçalho de autorização de pedido da API, onde o token de acesso é obtido por ter uma conta de utilizador parceira para autenticar com Azure AD, com o cliente Azure AD definido como o contexto de autenticação. A aplicação do parceiro é necessária para ter um sinal de conta de utilizador parceiro no inquilino do cliente.
 
 Quando a Azure AD receber, tal como o pedido de autenticação, o Azure AD exigirá que a conta de utilizador do parceiro complete a verificação do MFA. Se a conta de utilizador do parceiro não tiver registado anteriormente para MFA, a conta de utilizador será solicitada para completar primeiro o registo de MFA.
 
@@ -194,7 +188,7 @@ Durante a verificação do MFA, se a conta parceira não tiver registado para MF
 
 Depois de clicar em **Seguinte,** o utilizador será convidado a escolher entre uma lista de métodos de verificação.
 
-:::image type="content" source="images/MfaRegistration2.png" alt-text="Passo de registo do MFA 1":::
+:::image type="content" source="images/MfaRegistration2.png" alt-text="Passo de registo do MFA 2":::
 
 Após o registo bem sucedido, o utilizador é então obrigado a completar a verificação de MFA com base na verificação escolhida pelo utilizador.
  
@@ -216,20 +210,20 @@ Um parceiro tem alguns utilizadores nos seus inquilinos parceiros que não neces
 **Resposta:** Não. Uma vez que estas contas de utilizador não estão a utilizar privilégios de administração delegados de parceiros para gerir os recursos do cliente, não serão obrigados a inscrever-se no cliente. Não serão afetados pela Azure AD que exija a verificação do MFA durante a entrada no cliente.
 
 ##### <a name="issue-3-partner-has-not-implemented-mfa-for-user-service-accounts"></a>Edição 3: Parceiro não implementou MFA para contas de serviço de utilizador
-Um parceiro tem algumas contas de utilizador nos seus inquilinos parceiros, que estão a ser usadas por dispositivos como contas de serviço. Trata-se de contas privilegiadas baixas que não requerem acesso ao Partner Center nem aos Portais de Serviços Online da Microsoft para gerir os recursos dos clientes utilizando privilégios de administração delegados de parceiros. Esta questão é uma razão válida para exceção técnica?
+Um parceiro tem algumas contas de utilizador nos seus inquilinos parceiros, que estão a ser usadas por dispositivos como contas de serviço. Estas são contas privilegiadas baixas que não requerem acesso ao Partner Center nem portais de serviços online da Microsoft para gerir os recursos do cliente usando privilégios de administração delegados de parceiros. Esta questão é uma razão válida para exceção técnica?
 
 **Resposta:** Não. Uma vez que estas contas de utilizador não estão a utilizar privilégios de administração delegados de parceiros para gerir os recursos do cliente, não serão obrigados a inscrever-se no cliente. Não serão afetados pela Azure AD que exija a verificação do MFA durante a entrada no cliente.
 
 ##### <a name="issue-4-partner-cannot-implement-mfa-using-ms-authenticator-app"></a>Edição 4: O parceiro não pode implementar o MFA utilizando a App autenticadora MS
 Um parceiro tem uma política de "mesa limpa", que não permite que os colaboradores tragam os seus dispositivos móveis pessoais para a sua área de trabalho. Sem acesso aos seus dispositivos móveis pessoais, os colaboradores não podem instalar a App de Autenticação MS, que é a única verificação MFA suportada por padrão de segurança Azure AD. Esta questão é uma razão válida para exceção técnica?
 
-**Resposta** : Não, esta não é uma razão válida para exceção técnica. O parceiro deve considerar as seguintes alternativas, para que os seus colaboradores ainda possam completar a verificação de MFA ao aceder ao Partner Center:
+**Resposta**: Não, esta não é uma razão válida para exceção técnica. O parceiro deve considerar as seguintes alternativas, para que os seus colaboradores ainda possam completar a verificação de MFA ao aceder ao Partner Center:
 - O parceiro também pode inscrever-se em soluções Azure AD Premium ou de terceiros (compatíveis com Azure AD) que podem fornecer métodos de verificação adicionais.
 
 ##### <a name="issue-5-partner-cannot-implement-mfa-due-to-the-use-of-legacy-authentication-protocols"></a>Edição 5: O parceiro não pode implementar MFA devido à utilização de protocolos de autenticação de legados
 Um parceiro tem alguns agentes parceiros que ainda usam protocolos de autenticação legado, que não são compatíveis com MFA. Por exemplo, os utilizadores ainda estão a utilizar o Outlook 2010, que se baseia em protocolos de autenticação legado. Permitir que o MFA para estes agentes parceiros irá perturbar a utilização de protocolos de autenticação legado.
 
-**Resposta** : Não, esta não é uma razão válida para exceção técnica. Os parceiros são fortemente encorajados a afastarem-se da utilização de protocolos de autenticação legado devido a potenciais implicações de segurança, uma vez que estes protocolos não podem ser protegidos com a verificação do MFA e são muito mais suscetíveis a compromissos credenciais. Se afastarem-se da utilização de protocolos de autenticação legado não for uma opção, os parceiros devem considerar inscrever-se no Azure AD Premium, que suporta a utilização de Passwords de Aplicação. As palavras-passe de aplicação são senhas geradas pelo sistema uma única vez, e são geralmente mais fortes do que as palavras-passe geradas pelo homem. Ao utilizarem as Passwords de Aplicação, os parceiros podem implementar MFA para os seus utilizadores, ao mesmo tempo que recorrem a Passwords de Aplicação apenas para protocolos de autenticação legado.
+**Resposta**: Não, esta não é uma razão válida para exceção técnica. Os parceiros são fortemente encorajados a afastarem-se da utilização de protocolos de autenticação legado devido a potenciais implicações de segurança, uma vez que estes protocolos não podem ser protegidos com a verificação do MFA e são muito mais suscetíveis a compromissos credenciais. Se afastarem-se da utilização de protocolos de autenticação legado não for uma opção, os parceiros devem considerar inscrever-se no Azure AD Premium, que suporta a utilização de Passwords de Aplicação. As palavras-passe de aplicação são senhas geradas pelo sistema uma única vez, e são geralmente mais fortes do que as palavras-passe geradas pelo homem. Ao utilizarem as Passwords de Aplicação, os parceiros podem implementar MFA para os seus utilizadores, ao mesmo tempo que recorrem a Passwords de Aplicação apenas para protocolos de autenticação legado.
 
 Leia a publicação sobre o [Basic Auth e o Exchange Online](https://techcommunity.microsoft.com/t5/exchange-team-blog/basic-auth-and-exchange-online-february-2020-update/ba-p/1191282) para entender o mais recente plano de apoio à autenticação do legado para o Outlook e siga o blog da equipa de [Exchange](https://techcommunity.microsoft.com/t5/exchange-team-blog/bg-p/Exchange) para obter as próximas novidades. 
 
@@ -239,7 +233,7 @@ Leia a publicação sobre o [Basic Auth e o Exchange Online](https://techcommuni
 ##### <a name="issue-6-partner-has-implemented-third-party-mfa-that-isnt-recognized-by-azure-ad"></a>Edição 6: Parceiro implementou MFA de terceiros que não é reconhecido pela Azure AD
 Um parceiro implementou mFA para os seus utilizadores usando uma solução de MFA de terceiros. No entanto, o parceiro não consegue configurar corretamente a solução MFA de terceiros para transmitir à Azure AD que a verificação do MFA foi concluída durante a autenticação do utilizador. É uma razão válida para exceção técnica?
 
-**Resposta** : Sim, esta questão pode ser considerada como uma razão válida para exceção técnica. Antes de apresentar um pedido de exceção técnica, confirme com o fornecedor de soluções MFA de terceiros que a solução MFA não pode ser configurada para fluir a *reivindicação de autenticação de métodos* (com valor *múltiplo)* para Azure AD para indicar que a verificação do MFA foi concluída durante a autenticação do utilizador. Ao apresentar um pedido de exceção técnica, deve fornecer detalhes sobre a solução de MFA de terceiros utilizada, e indicar o método de integração (por exemplo, através da federação de identidade ou utilização do Controlo Personalizado Azure AD), e fornecer as seguintes informações no pedido de exceção técnica como os documentos comprovativos:
+**Resposta**: Sim, esta questão pode ser considerada como uma razão válida para exceção técnica. Antes de apresentar um pedido de exceção técnica, confirme com o fornecedor de soluções MFA de terceiros que a solução MFA não pode ser configurada para fluir a *reivindicação de autenticação de métodos* (com valor *múltiplo)* para Azure AD para indicar que a verificação do MFA foi concluída durante a autenticação do utilizador. Ao apresentar um pedido de exceção técnica, deve fornecer detalhes sobre a solução de MFA de terceiros utilizada, e indicar o método de integração (por exemplo, através da federação de identidade ou utilização do Controlo Personalizado Azure AD), e fornecer as seguintes informações no pedido de exceção técnica como os documentos comprovativos:
 
 - As configurações de MFA de terceiros.
 
@@ -253,13 +247,13 @@ Os parceiros podem solicitar uma exceção técnica para suprimir a verificaçã
 
 Para apresentar um pedido de exceção técnica:
 
-1. Inicie sessão no Partner Center como Global Admin ou Agente Administrador.
+1. Inscreva-se no Partner Center como Global Admin ou Agente Administrador.
 
-2. Crie um novo pedido de serviço de parceiro navegando para apoiar pedidos de apoio ao Parceiro de **Apoio**  >  **Partner support requests** e clicando em **Novo pedido.**
+2. Crie um novo pedido de serviço de parceiro navegando para apoiar pedidos de apoio ao Parceiro de **Apoio** e  >   selecionando **novo pedido.**
 
-3. Pesquisa de **MFA - Pedido de exceção** na caixa de pesquisa; ou selecione **CSP** a partir da categoria, em **seguida, selecione Contas, Onboarding, Acesso** a partir de Tópico, em seguida, selecione **MFA - Solicite uma exceção** a partir do tópico do sub-tópico, em seguida, selecione o **próximo passo** .
+3. Pesquisa de **MFA - Pedido de exceção** na caixa de pesquisa; ou selecione **CSP** a partir da categoria, em **seguida, selecione Contas, Onboarding, Acesso** a partir de Tópico, em seguida, selecione **MFA - Pedido** de exceção a partir do subtópico, em seguida, selecione o **próximo passo**.
 
-4. Forneça os detalhes solicitados para submeter um pedido de serviço de exceção técnica e clique em **Enviar.**
+4. Forneça os detalhes solicitados para apresentar um pedido de serviço de exceção técnica e **selecione Enviar por isso.**
 
 A Microsoft pode demorar até três dias úteis para dar uma resposta a um pedido de exceção técnica.
 
