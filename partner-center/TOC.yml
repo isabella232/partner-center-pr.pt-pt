@@ -93,6 +93,8 @@
         - name: Demonstrações para parceiros MPN
           href: mpn-demos.md
           displayName: mpn
+        - name: Política de benefícios e utilização - FAQ
+          href: benefits-faq-new.md
         - name: FAQ de Benefícios
           href: benefits-faq.md
           displayName: 'renew, license,'
