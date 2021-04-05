@@ -1,7 +1,7 @@
 ---
 title: Cálculo efetivo do preço por unidade
 ms.topic: how-to
-ms.date: 11/10/2020
+ms.date: 04/02/2021
 description: Saiba mais sobre o preço unitário eficaz e como é calculado. Este artigo também inclui um cálculo de amostra.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6ca6e9bf6a49e695314a3e33e36d2d1d5d4d2a25
-ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
+ms.openlocfilehash: a662e0b815c979b3454762c5b35eb510887c96ad
+ms.sourcegitcommit: c6c741475604b8daf386fb54bb2795a6445ac887
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96556332"
+ms.lasthandoff: 04/05/2021
+ms.locfileid: "106374403"
 ---
 # <a name="effective-unit-price-calculation-for-azure-plan-consumption"></a>Cálculo efetivo dos preços unitários para o consumo do plano Azure
 
@@ -53,7 +53,7 @@ Na tabela, aplicam-se os seguintes valores:
 - **Preço unitário efetivo** = BCU/BC
 
 >[!NOTE]
->Nota: O medidor neste exemplo não tem níveis de preços.
+>O medidor neste exemplo não tem níveis de preços. Os fatores de preço unitário efetivo em percentagens de desconto e outros ajustamentos.
 
 | Data | BCU (unidade de consumo a cobrar) | BC (Custo faturado) | Preço unitário eficaz |
 | ------ | ----------- | ----------- | ----------- |  
