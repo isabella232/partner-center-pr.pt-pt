@@ -9,19 +9,14 @@ author: amitravat
 ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 19f86ec5353abc21e14a3a8ac2ef17dd17924cfe
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 4feaa8cba8ba17f553b5e936dcf892ffbf7ccc82
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92529981"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441307"
 ---
 # <a name="give-customers-permission-in-partner-center-to-buy-their-own-products-or-services"></a>Dê permissão aos clientes no Partner Center para comprarem os seus próprios produtos ou serviços
-
-**Aplica-se a**
-
-- Partner Center
-- Parceiros no programa CSP
 
 **Funções adequadas**
 
@@ -58,7 +53,7 @@ Antes de ligar as permissões do cliente, observe estes pontos importantes:
 
 - Depois de ligar permissões para um cliente específico, **não será** notificado de quaisquer compras posteriores efetuadas pelo cliente.
 
-- As compras posteriores efetuam-se no Partner Center juntamente com quaisquer compras efetuadas por si. Pode encontrar estas compras na página de histórico da **Encomenda** do Cliente, na sua página reservas ou no Registo de **Atividades.** [**Activity Log**](activity-logs.md)
+- As compras posteriores efetuam-se no Partner Center juntamente com quaisquer compras efetuadas por si. Pode encontrar estas compras na página de histórico da **Encomenda** do Cliente, na sua página reservas ou no Registo de **Atividades.** [](activity-logs.md)
 
 >[!NOTE]
 > Para obter informações sobre os preços que o cliente pagará e como ajudar os clientes a gerir as suas compras, consulte [os clientes da Help para gerir as reservas que comprarem.](give-customers-permission.md#help-customers-manage-reservations-they-purchase)
@@ -86,7 +81,7 @@ Cada passo aparece abaixo.
 
 Antes de dar permissão aos clientes para comprarem as suas próprias reservas Azure, tem de verificar se o cliente tem uma subscrição Azure Plan ou Azure Global existente. Se o cliente não apresentar nenhuma subscrição atual do Azure no Partner Center, tem de comprar uma subscrição para eles antes de ligar as permissões do cliente.
 
-- Para ver se um cliente já tem uma subscrição Azure, inscreva-se no painel partner center e, em seguida, selecione **CSP** seguido por **Clientes** . Selecione o cliente específico da lista. Em seguida, **selecione Subscrições** e procure quaisquer subscrições baseadas em uso para O Plano Azure ou Azure Global.
+- Para ver se um cliente já tem uma subscrição Azure, inscreva-se no painel partner center e, em seguida, selecione **CSP** seguido por **Clientes**. Selecione o cliente específico da lista. Em seguida, **selecione Subscrições** e procure quaisquer subscrições baseadas em uso para O Plano Azure ou Azure Global.
 
 - Se um cliente não tiver uma subscrição Azure existente, pode comprar uma subscrição para eles. Ver [Comprar o Plano Azure](purchase-azure-plan.md).
 
@@ -119,7 +114,7 @@ Para ligar (ou desligar) permissões de clientes no Partner Center:
 
 1. Inscreva-se no painel do Centro [de Parceiros](https://partner.microsoft.com/dashboard).
 
-2. A partir do menu de navegação à esquerda, selecione **CSP,** em **seguida, Clientes** . Aparece uma lista de clientes.
+2. A partir do menu de navegação à esquerda, selecione **CSP,** em **seguida, Clientes**. Aparece uma lista de clientes.
 
 3. Selecione um nome específico do cliente.
 

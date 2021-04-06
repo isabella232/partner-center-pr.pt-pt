@@ -9,18 +9,18 @@ author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c2f8e4d3351c9905d7066534946b24bd9a8c8cd4
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 931b169b3b2794f6a83a14007a50184fa6676102
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132269"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441800"
 ---
 # <a name="multi-partner-support-for-customers-who-want-to-work-with-more-than-one-partner"></a>Apoio multi-parceiro para clientes que querem trabalhar com mais de um parceiro
 
 **Aplica-se a**
 
-- Centro de Parceiros para a nuvem do Governo da Microsoft
+- Centro de Parceiros do Microsoft Cloud for US Government
 
 **Funções adequadas**
 

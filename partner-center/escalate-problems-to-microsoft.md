@@ -1,5 +1,5 @@
 ---
-title: Agravar problemas para a Microsoft
+title: Encaminhar problemas para a Microsoft
 description: Saiba quais os problemas que os parceiros da Microsoft devem resolver para os seus clientes e quais os problemas que poderão vir a ter de agravar para a Microsoft.
 ms.topic: how-to
 ms.service: partner-dashboard
@@ -9,19 +9,18 @@ ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/18/2020
-ms.openlocfilehash: 77695d061c9ce42f32c95abfd8475064991954f9
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 4422c5b002f8233f9d6225e7d4e7a82f6e37a280
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "92529456"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441851"
 ---
 # <a name="escalate-problems-to-microsoft-and-learn-which-issues-are-more-suited-to-microsoft-escalation"></a>Aumente os problemas para a Microsoft e saiba quais os problemas mais adequados à escalada da Microsoft  
 
 **Aplica-se a**
 
-- Partner Center
-- Centro de Parceiros para Microsoft Cloud para governo dos EUA
+- Centro de Parceiros do Microsoft Cloud for US Government
 
 **Funções adequadas**
 
@@ -52,11 +51,11 @@ No entanto, existem várias categorias de problemas que terá de entregar à Mic
 
 3. Selecione **a gestão do serviço** e selecione **pedidos de Serviço.**
 
-4. Selecione **novo pedido** e, em seguida, selecione **Microsoft Office 365** .
+4. Selecione **novo pedido** e, em seguida, selecione **Microsoft Office 365**.
 
 5. É levado para o portal do Office 365 onde tem de iniciar sômposição utilizando as credenciais do Centro de Parceiros.
 
-6. Selecione **Suporte** , **Novo pedido** de serviço do menu esquerdo.
+6. Selecione **Suporte**, **Novo pedido** de serviço do menu esquerdo.
 
 7. Selecione o tópico de suporte.
 

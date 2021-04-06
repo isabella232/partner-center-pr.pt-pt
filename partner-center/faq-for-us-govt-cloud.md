@@ -8,18 +8,18 @@ author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.date: 11/20/2019
-ms.openlocfilehash: bdce3cd4b2095a0c2d87521a879a15bcbbd7d0fd
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 97e7e19f54e3dd98a37409747cfac5464080c86e
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92530041"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441477"
 ---
 # <a name="frequently-asked-questions-for-partner-center-for-microsoft-cloud-for-us-government"></a>Perguntas frequentes para Partner Center para Microsoft Cloud para governo dos EUA
 
 **Aplica-se a**
 
-- Centro de Parceiros para Microsoft Cloud para governo dos EUA
+- Centro de Parceiros do Microsoft Cloud for US Government
 
 ## <a name="general-questions"></a>Perguntas gerais
 
@@ -27,15 +27,15 @@ Use estas perguntas frequentemente feitas para saber mais sobre o programa Cloud
 
 ### <a name="what-is-microsoft-cloud-for-us-government"></a>O que é a Microsoft Cloud para o Governo dos EUA?
 
-Projetado para o governo dos EUA desde o zero, o Microsoft Cloud para o Governo permite que clientes do sector público nos Estados Unidos - de grandes agências federais a pequenos governos de cidades - selecionem de uma série de serviços de computação em nuvem. Para melhor responder às necessidades específicas dos seus clientes, a Microsoft tem feito um investimento significativo em centros de dados e dedica-se a cumprir o cumprimento das políticas, mandatos e requisitos federais e estatais dos EUA.
+Projetado para o governo dos EUA desde o zero, o Microsoft Cloud para o Governo dos EUA permite que clientes do sector público nos Estados Unidos - de grandes agências federais a pequenos governos de cidades - selecionem de uma série de serviços de computação em nuvem. Para melhor responder às necessidades específicas dos seus clientes, a Microsoft tem feito um investimento significativo em centros de dados e dedica-se a cumprir o cumprimento das políticas, mandatos e requisitos federais e estatais dos EUA.
 
 ### <a name="who-is-eligible-for-the-csp-program-for-microsoft-cloud-for-us-government"></a>Quem é elegível para o programa CSP para o Microsoft Cloud para o Governo dos EUA?
 
-Parceiros nos Estados Unidos que servem entidades federais, estaduais e locais dos EUA nas suas capacidades governamentais são elegíveis para o programa CSP para a nuvem do governo da Microsoft. A Microsoft tem um programa de validação rigoroso para determinar a elegibilidade antes que os parceiros possam aceder à nuvem do Governo da Microsoft. Para se qualificar, precisa provar que trabalha com clientes do governo. O processo de inscrição para o programa CSP na Microsoft Could para o Governo dos EUA foi aumentado para capturar dados adicionais para realizar a validação. Os tipos de prova podem incluir, mas não se limitam a, números de contratos governamentais e carta de patrocínio do seu cliente do governo.
+Parceiros nos Estados Unidos que servem entidades federais, estaduais e locais dos EUA nas suas capacidades governamentais são elegíveis para o programa CSP para o Microsoft Cloud para o Governo dos EUA. A Microsoft tem um programa de validação rigoroso para determinar a elegibilidade antes que os parceiros possam aceder ao Microsoft Cloud para o Governo dos EUA. Para se qualificar, precisa provar que trabalha com clientes do governo. O processo de inscrição para o programa CSP na Microsoft Could para o Governo dos EUA foi aumentado para capturar dados adicionais para realizar a validação. Os tipos de prova podem incluir, mas não se limitam a, números de contratos governamentais e carta de patrocínio do seu cliente do governo.
 
 ### <a name="is-customer-pricing-the-same-as-for-csp-commercial"></a>Os preços dos clientes são os mesmos que para a CSP Commercial?
 
-Não. Os preços refletirão os custos adicionais para fornecer o valor único da Microsoft Cloud para o Governo dos EUA.
+N.º Os preços refletirão os custos adicionais para fornecer o valor único da Microsoft Cloud para o Governo dos EUA.
 
 ### <a name="is-the-partner-discounting-model-the-same"></a>O modelo de desconto do parceiro é o mesmo?
 
@@ -43,13 +43,13 @@ Sim. O modelo de desconto de parceiros para o Programa CSP para o Microsoft Clou
 
 ### <a name="csp-commercial-is-an-existing-partner-program-how-is-the-csp-program-for-microsoft-government-cloud-different"></a>A CSP Commercial é um programa parceiro existente. Como é que o programa CSP para o Governo da Microsoft é diferente?
 
-O programa CSP para a nuvem do Governo da Microsoft é diferente da CSP Commercial nas seguintes áreas:
+O programa CSP para o Microsoft Cloud para o Governo dos EUA é diferente da CSP Commercial nas seguintes áreas:
 
-- Elegibilidade: O programa CSP para a nuvem do Governo da Microsoft está disponível apenas para parceiros nos Estados Unidos que servem entidades federais, estaduais e do governo local nas suas capacidades governamentais. A Microsoft tem um programa de validação para determinar a elegibilidade antes que os parceiros possam aceder à nuvem do Governo dos EUA.
+- Elegibilidade: O programa CSP para o Microsoft Cloud para o Governo dos EUA está disponível apenas para parceiros nos Estados Unidos que servem entidades federais, estaduais e do governo local dos EUA nas suas capacidades governamentais. A Microsoft tem um programa de validação para determinar a elegibilidade antes que os parceiros possam aceder à nuvem do Governo dos EUA.
 
 - Onboarding: Os parceiros precisam de embarcar no programa CSP para o Microsoft Cloud para o Governo dos EUA separadamente da CSP Commercial.
 
-- Disponibilidade do produto: Tanto o Governo Azure como os serviços baseados em licenças como o Office 365, Enterprise Mobility + Security e Dynamics 365 estão disponíveis no programa CSP para a Microsoft Government Cloud.
+- Disponibilidade do produto: Tanto o Governo Azure como os serviços baseados em licenças como o Office 365, Enterprise Mobility + Security e Dynamics 365 estão disponíveis no programa CSP para o Microsoft Cloud para o Governo dos EUA.
 
 - Contratação: O Acordo de Revenda da Microsoft Cloud (MCRA) foi atualizado para refletir termos governamentais únicos.
 
@@ -93,7 +93,7 @@ MCDA para Microsoft Cloud para governo dos EUA é diferente do MCDA padrão nas 
 
 ### <a name="what-are-the-qualifications-to-sell-microsoft-cloud-for-us-government"></a>Quais são as qualificações para vender o Microsoft Cloud para o Governo dos EUA?
 
-Os critérios de qualificação para a venda do programa CSP para a Microsoft Government Cloud são os mesmos que os critérios de qualificação para a CSP Commercial, abertos tanto a parceiros diretos como a revendedores indiretos. Não precisa de ser re-nomeado para ser um revendedor indireto para o programa CSP para a Microsoft Government Cloud se for aprovado como revendedor indireto para a CSP Commercial.
+Os critérios de qualificação para vender o programa CSP para o Microsoft Cloud para o Governo dos EUA são os mesmos que os critérios de qualificação para a CSP Commercial, abertos tanto a parceiros diretos como a revendedores indiretos. Não precisa de ser re-nomeado para ser um revendedor indireto para o programa CSP para o Microsoft Cloud para o Governo dos EUA se for aprovado como revendedor indireto para a CSP Commercial.
 
 ### <a name="i-am-an-existing-partner-what-do-i-need-to-do-to-sell-microsoft-cloud-for-us-government"></a>Sou um parceiro existente. O que preciso de fazer para vender o Microsoft Cloud para o Governo dos EUA?
 
@@ -101,11 +101,11 @@ Os parceiros terão de embarcar no programa CSP para o Microsoft Cloud para o Go
 
 ### <a name="is-there-any-difference-in-partner-incentives"></a>Há alguma diferença nos incentivos dos parceiros?
 
-Não. Os incentivos para parceiros para o programa CSP para o Microsoft Cloud para o Governo dos EUA são os mesmos que os incentivos parceiros para a CSP Commercial. Para saber mais sobre os incentivos dos parceiros, inscreva-se no [portal da Microsoft Partner Network](https://partner.microsoft.com/membership/partner-incentives).
+N.º Os incentivos para parceiros para o programa CSP para o Microsoft Cloud para o Governo dos EUA são os mesmos que os incentivos parceiros para a CSP Commercial. Para saber mais sobre os incentivos dos parceiros, inscreva-se no [portal da Microsoft Partner Network](https://partner.microsoft.com/membership/partner-incentives).
 
 ### <a name="are-there-any-changes-to-billing"></a>Há alguma alteração na faturação?
 
-Não. Os critérios e requisitos de faturação para o Programa CSP para o Microsoft Cloud para o Governo dos EUA são os mesmos que os critérios de faturação e os requisitos para a CSP Commercial. Para saber mais sobre a faturação, reveja os recursos na [Microsoft Partner Network](https://partner.microsoft.com/cloud-solution-provider/resources).
+N.º Os critérios e requisitos de faturação para o Programa CSP para o Microsoft Cloud para o Governo dos EUA são os mesmos que os critérios de faturação e os requisitos para a CSP Commercial. Para saber mais sobre a faturação, reveja os recursos na [Microsoft Partner Network](https://partner.microsoft.com/cloud-solution-provider/resources).
 
 ### <a name="for-data-hosted-in-commercial-data-centers-is-it-possible-to-change-to-microsoft-cloud-for-us-government"></a>Para os dados alojados em centros de dados comerciais, é possível alterar para o Microsoft Cloud para o Governo dos EUA?
 
@@ -135,16 +135,16 @@ As APIs e os requisitos de integração para o programa CSP para o Microsoft Clo
 > **Gestão de Conta de Utilizador**
 >- Criar contas de utilizador para um cliente
 >- Eliminar contas de utilizador para um cliente
->- Atualizar contas de utilizador para um cliente
->- Obtenha uma lista de todas as contas de utilizador para um cliente
->- Redefinir a palavra-passe do utilizador para um cliente
->- Obtenha funções de utilizador para um cliente
->- Definir as funções do utilizador para um cliente
+>- Atualizar as contas de utilizador para um cliente
+>- Obter uma lista de contas de utilizador para um cliente
+>- Repor a palavra-passe de utilizador para um cliente
+>- Obter funções de utilizador para um cliente
+>- Definir funções de utilizador para um cliente
 >- Ver utilizadores eliminados para um cliente
 >- Restaurar um utilizador eliminado para um cliente
 >
 > **Gestão de Licenças**
->- Obtenha uma lista de licenças disponíveis
+>- Obter uma lista de licenças disponíveis
 >- Atribuir licenças a um utilizador
 >-  Verifique quais as licenças atribuídas a um utilizador
 

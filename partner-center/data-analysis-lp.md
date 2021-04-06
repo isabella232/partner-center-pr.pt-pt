@@ -9,19 +9,19 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 19e7cf9442660a24d36b5f7c20fab156fdc0d59a
-ms.sourcegitcommit: bfc9e6f6476766cf10ba714f03ca2e96560003b1
+ms.openlocfilehash: 3aec8c8abe6184be48fd54e0f76bc7e0c08e4792
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/14/2020
-ms.locfileid: "94626077"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441885"
 ---
 # <a name="use-analytics-to-learn-more-about-subscription-revenue"></a>Use a análise para saber mais sobre as receitas de subscrição
 
 **Funções adequadas**
 
 - Administrador global
-- Administrador do Parceiro MPN
+- Administrador sócio da MPN
 
 O planeamento de formas de desenvolver o seu negócio CSP inclui compreender como os seus clientes utilizam os produtos da Microsoft. Tem várias opções para recolher dados no Partner Center, e pode recolher dados sobre o seu negócio e sobre se e como os seus clientes estão a usar as licenças que compraram. Se estiver no modelo direto da CSP, também tem a oportunidade de instalar e utilizar a aplicação Partner Center Analytics para o Power BI para recolher dados adicionais.
 
@@ -36,9 +36,9 @@ O planeamento de formas de desenvolver o seu negócio CSP inclui compreender com
 
 ## <a name="trailing-twelve-month-ttm-csp-revenue"></a>Receitas da CSP de Twelve-Month (TTM)
 
-A fuga de receitas de CSP de 12 meses representa a receita do programa de fornecedores de solução cloud em USD a nível de Conta Global de Parceiros. Os dados são atualizados no dia 8 de cada mês, para mostrar a receita de 12 meses até ao mês anterior. Por exemplo, no dia 9 de setembro de 2020, deverá poder ver o TTM para o período fixo de setembro de 2019 a agosto de 2020.
+A fuga de receitas de CSP de 12 meses representa a receita do programa de fornecedores de solução cloud em USD a nível de Conta Global de Parceiros. Os dados são atualizados no oitavo de cada mês, para mostrar a receita de 12 meses até ao mês anterior. Por exemplo, no dia 9 de setembro de 2020, deverá poder ver o TTM para o período fixo de setembro de 2019 a agosto de 2020.
 
-A receita apresentada no Partner Center é calculada para um intervalo de tempo fixo de doze meses, e não pode ser modificada para um prazo mais curto.
+A receita apresentada no Partner Center é calculada por um intervalo de tempo fixo de 12 meses, e não pode ser modificada para um prazo mais curto.
 
 Para ver uma repartição das receitas ao nível da conta de localização do seu parceiro:
 
@@ -51,7 +51,7 @@ Para ver uma repartição das receitas ao nível da conta de localização do se
 
 A metade inferior do ecrã apresenta um resumo das subscrições. Utilize os seguintes filtros para ver os detalhes de subscrição necessários:  
 
-1. **Duração** : Pode optar por ver o resumo da subscrição 
+1. **Duração**: Pode optar por ver o resumo da subscrição 
 
 - 30D - Últimos 30 dias
 - 3M - Últimos 3 meses

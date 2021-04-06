@@ -9,18 +9,20 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 03cd603cf65b1e999cf95fd10d76e6ccc6c403e8
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 3702ebd5a9421036a053a9a142a2f40d3e488137
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92529811"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106442004"
 ---
 # <a name="what-to-do-if-the-only-admin-for-your-mpn-program-has-left-the-company"></a>O que fazer se o único administrador do seu programa MPN tiver deixado a empresa?
 
-**Aplica-se a**
+**Funções adequadas**
 
-- Partner Center
+- Administrador sócio da MPN
+- Administrador de conta
+- Administrador global
 
 O seguinte artigo acompanha-o através de três cenários típicos sobre o que fazer se o seu administrador MPN tiver deixado a empresa.
 
@@ -28,7 +30,7 @@ O seguinte artigo acompanha-o através de três cenários típicos sobre o que f
 
 Neste caso, outra pessoa na empresa pode ser atribuída ao cargo de administradora mpn Partner. A atribuir o papel de administrador específico do MPN Partner/Administração de Contas:
 
-1. Inscreva-se na sua conta Partner Center com a sua conta de trabalho (por tom@contoso.com exemplo).
+1. Inscreva-se na sua conta Partner Center com a sua conta de trabalho (por exemplo, tom@contoso.com ).
 1. Do filtro da página **de Gestão** de Utilizadores no administrador global para ver quem são os Administradores Globais para a sua empresa. 
 1. Contacte um dos administradores globais e peça-lhes que lhe atribuam o papel específico da MPN de que necessita. 
 
@@ -55,7 +57,7 @@ Siga as medidas [de tomada de posse do administrador](/azure/active-directory/us
 Se não tem certeza se a sua empresa tem uma conta de trabalho, siga estes passos para verificar.
 
 1. Inscreva-se no [portal de administração Azure](https://ms.portal.azure.com).
-2. Selecione **O Diretório Ativo Azure** a partir do menu esquerdo e, em seguida, selecione **nomes de Domínio** .
+2. Selecione **O Diretório Ativo Azure** a partir do menu esquerdo e, em seguida, selecione **nomes de Domínio**.
 Se já tiver uma conta de trabalho, o seu nome de domínio será listado.
 
 >[!Note]

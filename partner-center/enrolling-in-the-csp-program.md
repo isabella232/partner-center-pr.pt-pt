@@ -9,18 +9,14 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9c1296c0e28412bfece328be2d8033c2d080bfdc
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 8cc74ac7549dd9c58827eac4ca7ff780062cc519
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712278"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441817"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Enroll in the Cloud Solution Provider program (Inscrever-se no programa do Fornecedor de Soluções Cloud)
-
-**Aplica-se a**
-
-- Partner Center  
 
 **Funções adequadas**
 
@@ -34,7 +30,7 @@ Para se inscrever no programa Cloud Solution Provider, primeiro precisa de um ID
 
 Para completar a aplicação CSP, você precisará do ID MPN da sua empresa, endereço de negócio completo, informações bancárias, e o e-mail de trabalho para o colaborador que atuará como administrador do Centro de Parceiros.
 
-1. Inscreva-se no Partner Center com o seu email de trabalho (ou seja, as credenciais de inquilino Azure AD).
+1. Inscreva-se no Partner Center com o seu email de trabalho (isto é, as suas credenciais de inquilino AZure AD).
 
 2. Crie o seu perfil de parceiro e associe o seu ID MPN ao seu perfil.
 Pode levar vários dias para rever e verificar a informação que forneceu. Enviaremos um e-mail quando terminarmos a nossa avaliação.
@@ -73,7 +69,7 @@ Como parceiro de conta direta, é dono da relação de ponta a ponta com o seu c
 |**ID do MPN**   |Uma adesão ativa na Microsoft Partner Network e MPN ID para a localização em que pretende vender.    |
 |**Recomendação**   |A autoridade para aceitar e assinar acordos legais em nome da sua organização.|
 |**Suporte**   |A capacidade de fornecer o primeiro nível de suporte de produto em nuvem aos seus clientes. <br>Um plano de suporte da Microsoft, ou Suporte Avançado para Parceiros (ASfP) ou Premier Support for Partners (PSfP), dependendo das suas necessidades. [Compare os planos de suporte.](https://partner.microsoft.com/support/partnersupport)<br> IMPORTANTE: Tem de passar uma verificação de crédito antes de comprar um plano de apoio. Enviaremos um e-mail quando passar o cheque de crédito. |
-|**Requisito de receita**|Deve cumprir pelo menos USD300K no programa Cloud Solution Provider receitas anuais durante os doze meses anteriores como revendedor indireto. Os parceiros podem rever os seus 12 meses de receitas no Partner Center.<br/>As vendas que compõem o seu USD300K com receitas de 12 meses estão sujeitas a revisão e verificação pela Microsoft e poderá ser-lhe pedido que forneça informações adicionais. O requisito de receitas de USD300K é calculado com base nas receitas da nuvem e excluirá software perpétuo em CSP.|
+|**Requisito de receita**|Deve cumprir pelo menos USD300K no programa Cloud Solution Provider receitas anuais durante os 12 meses anteriores como revendedor indireto. Os parceiros podem rever os seus 12 meses de receitas no Partner Center.<br/>As vendas que compõem os seus USD300K com receitas de 12 meses estão sujeitas a revisão e verificação pela Microsoft e poderá ser-lhe pedido que forneça informações adicionais. O requisito de receitas de USD300K é calculado com base nas receitas da nuvem e excluirá software perpétuo em CSP.|
 |**Contas a receber** |A infraestrutura organizacional em vigor para gerir a faturação e o provisionamento dos clientes.|
 |**Recomendação**|             |
 |**Serviço Gerido**   |Pelo menos um serviço gerido, serviço IP ou aplicação de solução de cliente. Saiba mais sobre a adição de [serviços geridos.](https://partner.microsoft.com/business-opportunities/managed-services-provider)|
