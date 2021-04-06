@@ -4,25 +4,23 @@ ms.topic: how-to
 ms.date: 07/22/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Saiba como vender subscrições dos seus clientes a produtos publicados pela Microsoft, bem como produtos SaaS publicados por ISVs de terceiros.
+description: Saiba como vender subscrições aos seus clientes por produtos publicados pela Microsoft, bem como produtos SaaS publicados por ISVs de terceiros.
 author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.openlocfilehash: 85a40974557817825d58246c2c010c7cf8a6a5e1
-ms.sourcegitcommit: f34f2f69e6df4f260479a205d94010cf47987ff2
+ms.openlocfilehash: 559d1fbd2efc1417ae89931279b9d3c9a1d67f7c
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/25/2020
-ms.locfileid: "96038885"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502940"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Create, suspend, or cancel customer subscriptions (Criar, suspender ou cancelar subscrições de clientes)
 
 **Aplica-se a**
 
-- Partner Center
 - Centro de Parceiros do Microsoft Cloud for US Government
-- Parceiros CSP
 
 **Funções adequadas**
 
@@ -32,7 +30,7 @@ ms.locfileid: "96038885"
 - Agente helpdesk
 - Agente comercial
 
-Depois de ter criado um registo do seu cliente no Partner Center, pode vendê-los subscrições a produtos do catálogo. Isto inclui produtos publicados pela Microsoft, bem como produtos de Software como um Serviço (SaaS) publicados por fornecedores de software independentes de terceiros (ISVs) para o [mercado comercial.](https://azuremarketplace.microsoft.com/marketplace)
+Depois de ter criado um registo do seu cliente no Partner Center, pode vendê-los subscrições a produtos do catálogo. Isto inclui produtos publicados pela Microsoft e software como um serviço (SaaS) produtos publicados por fornecedores de software independentes de terceiros (ISVs) para o [mercado comercial.](https://azuremarketplace.microsoft.com/marketplace)
 
 Algumas ofertas são limitadas a uma subscrição por cliente. Para ver uma lista das ofertas restritas, visite a página de Preços e Ofertas do Centro de Parceiros.
 
@@ -80,7 +78,7 @@ Algumas ofertas são limitadas a uma subscrição por cliente. Para ver uma list
    
 ## <a name="update-subscriptions-with-add-ons"></a>Atualizar subscrições com suplementos 
 
-Para comprar um suplemento, o cliente deve ter uma subscrição base ativa.  Não pode comprar suplementos através do catálogo.
+Para adquirir um addon, o cliente deve primeiro ter uma subscrição base ativa.  Não pode comprar suplementos através do catálogo.
 
 1. Inscreva-se no painel do Centro [de Parceiros](https://partner.microsoft.com/dashboard).
 
@@ -93,7 +91,7 @@ Para comprar um suplemento, o cliente deve ter uma subscrição base ativa.  Nã
 5. Atualize a quantidade de licenças para cada Add-on necessário. Em seguida, **submeta** as alterações.
 
 A capacidade de adquirir addons através do Partner Center só está disponível para faturas diretas e fornecedores indiretos.
-Apenas os complementos elegíveis são apresentados com base nos requisitos de base e na disponibilidade regional. Veja a matriz da oferta Revendedor de Soluções Cloud para obter mais informações sobre preços e ofertas.  A suspensão da subscrição base suspenderá também todos os suplementos associados.
+Apenas os complementos elegíveis são apresentados com base nos requisitos de base e na disponibilidade regional. Para obter mais informações sobre preços e ofertas, consulte a matriz de oferta de Cloud Reseller. A suspensão da subscrição base suspenderá também todos os suplementos associados.
 
 As datas de início dos suplementos alinham-se com a subscrição base e os custos são calculados a partir da Data de início dos custos e da Data de fim dos custos, com os custos numa base pro-rata na primeira fatura. Para obter informações adicionais consulte, [faturação baseada em licença.](license-based-billing.md)
 
@@ -120,7 +118,7 @@ Quando suspende uma subscrição, a data que vê abaixo do botão **Suspenso** i
 
 ### <a name="cancel-a-subscription"></a>Cancelar uma subscrição
 
-Tem a opção de cancelar subscrições SaaS baseadas em licenças de editores ISV de terceiros dentro do [mercado comercial](csp-commercial-marketplace-overview.md)partner Center . Desde que cancele dentro do período de cancelamento, receberá um reembolso total.
+Pode cancelar subscrições saaS baseadas em licenças de editores ISV de terceiros no [mercado comercial](csp-commercial-marketplace-overview.md)partner Center . Desde que cancele dentro do período de cancelamento, receberá um reembolso total.
 
 Para ofertas ISV faturadas mensalmente:
 

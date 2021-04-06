@@ -2,17 +2,19 @@
 title: Cenários comuns de faturação mensal
 ms.topic: article
 ms.date: 05/13/2020
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Cenários comuns no Partner Center quando utiliza faturação mensal - inclui a adição de novas subscrições, alteração da quantidade de licença e suspensão de subscrições.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 05c46faa3fd012677b615caa228cf4f7c6fe6c90
-ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
+ms.openlocfilehash: 4fe5c33fe549604f25500dd333d187e6b70ad73e
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "97354581"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502519"
 ---
 # <a name="sample-monthly-billing-scenarios-for-new-subscriptions-changing-license-amounts-or-suspensions"></a>Experimente cenários de faturação mensal para novas subscrições, alteração dos valores das licenças ou suspensões
 
@@ -47,7 +49,7 @@ A sua data de faturação é dia 15 de cada mês. No dia 13 de janeiro, você co
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 |1/13/2018         |2/12/2018    |Taxa de ciclo   |4.00       |1        |4.00    |
 
-No dia 1 de fevereiro aumenta a quantidade de licença de um para dois. O ficheiro de reconciliação baseado na licença de 15 de fevereiro conterá as seguintes linhas de faturação:
+No dia 1 de fevereiro, aumenta a quantidade de licença de um para dois. O ficheiro de reconciliação baseado em licenças de 15 de fevereiro conterá as seguintes linhas de faturação:
 
 |Data de início do carregamento |Data de Fim de Carga |Tipo de carga |Preço Unitário |Quantidade |Montante |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
@@ -74,7 +76,7 @@ A sua data de faturação é dia 15 de cada mês. No dia 13 de janeiro, você co
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 |1/13/2018         |2/12/2018    |Taxa de ciclo   |4.00       |1        |4.00    |
 
-No dia 1 de fevereiro suspende-se uma assinatura. O ficheiro de reconciliação baseado na licença de 15 de fevereiro conterá a seguinte linha de faturação:
+No dia 1 de fevereiro, suspende-se uma assinatura. O ficheiro de reconciliação baseado na licença de 15 de fevereiro conterá a seguinte linha de faturação:
 
 |Data de início do carregamento |Data de Fim de Carga |Tipo de carga |Preço Unitário |Quantidade |Montante |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
@@ -94,7 +96,7 @@ O ficheiro de reconciliação baseado na licença de 15 de fevereiro conterá a 
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 2/13/2018|3/12/2018|Taxa de ciclo|4.00|1|4.00
 
-No dia 1 de março suspende a subscrição. O ficheiro de reconciliação baseado na licença de 15 de março conterá a seguinte linha de faturação:
+No dia 1 de março, suspende a subscrição. O ficheiro de reconciliação baseado na licença de 15 de março conterá a seguinte linha de faturação:
 
 |Data de início do carregamento |Data de Fim de Carga |Tipo de carga |Preço Unitário |Quantidade |Montante |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |

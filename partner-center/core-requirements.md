@@ -9,18 +9,14 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: high
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 645b07fe7ccdc550cba252507962a5a82ae708af
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 47a670c97acce757270076cf0ae01067db544e2f
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "92529699"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502957"
 ---
 # <a name="core-requirements-for-the-activities-in-your-incentive-program"></a>Requisitos fundamentais para as atividades no seu programa de incentivos
-
-**Aplica-se a**
-
-- Partner Center
 
 **Funções adequadas**
 
@@ -212,4 +208,4 @@ Os quadros que se seguem descrevem os requisitos fundamentais para cada uma das 
 
 ## <a name="next-steps"></a>Passos seguintes
 
-- [Gerir reclamações cooperativas](incentives-managing-co-op-claims.md)
+- [Gerir queixas de co-op](incentives-managing-co-op-claims.md)

@@ -10,19 +10,18 @@ ms.author: billLi
 ms.localizationpriority: medium
 robots: noindex,nofollow
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0ae107c005eaf6b8ff8a6d99a91075ebc560cf81
-ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
+ms.openlocfilehash: 2171e2b10101e99bdd8d415a936ba98af65c2a1b
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "92530251"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502575"
 ---
-# <a name="instructions-for-csp-regional-authorization-tenant-consolidation"></a>Instruções para consolidação de inquilinos de autorização regional da CSP
+# <a name="instructions-for-csp-regional-authorization-tenant-consolidation"></a>Instruções para consolidação de inquilinos de autorização regional de CSP
 
 **Aplica-se a**
 
--  Partner Center
--  Centro de Parceiros para Microsoft Cloud para governo dos EUA
+- Centro de Parceiros do Microsoft Cloud for US Government
 
 **Funções adequadas**
 
@@ -46,9 +45,9 @@ Pode consolidar inquilinos para o seu negócio. Utilize estas instruções para 
 
 1. Inscreva-se no **Partner Center**  com a conta **de transição** (nova) (aquela em que está a transitar clientes).
 
-2. Selecione **Clientes** .
+2. Selecione **Clientes**.
 
-3. Clique **em Solicitar uma relação de revendedor** . É-lhe apresentada uma mensagem de correio eletrónico padrão para enviar aos seus clientes. Esta mensagem contém um URL com o iD org exclusivo da sua nova conta Partner Center.
+3. Selecione **Solicite uma relação de revendedor**. É-lhe apresentada uma mensagem de correio eletrónico padrão para enviar aos seus clientes. Esta mensagem contém um URL com o iD org exclusivo da sua nova conta Partner Center.
 
 4. **Ação do Cliente:** Certifique-se de que cada um dos clientes ativos que pretende migrar visita este URL. Ao abrir o URL, o cliente é solicitado a iniciar sedução no portal do Office 365. O cliente assina na utilização do mesmo ID Org que utiliza para aceder aos portais de administração Azure e Office 365.
 
@@ -60,17 +59,17 @@ Os clientes aparecerão na lista de clientes do parceiro depois de terem apresen
 
 1. Uma vez que o seu cliente tenha assinado o contrato, pode recriar as suas subscrições sob o seu Inquilino Centralizado.
 
-2. A partir do **Partner Center** selecione **Clientes.**
+2. A partir do **Partner Center,** selecione **Clientes.**
 
 3. Abra o nome da empresa para o cliente que pretende migrar.
 
-4. Selecione **Adicionar subscrição** .
+4. Selecione **Adicionar subscrição**.
 
 5. Adicione as assinaturas corretas e as contagens de licença do catálogo. Verifique com as informações fornecidas nas contas **de parceiros.**
 
-   :::image type="content" source="images/regionalcustomer2.png" alt-text="lista de clientes&quot;:::
+   :::image type="content" source="images/regionalcustomer2.png" alt-text="lista de clientes":::
 
-6. Clique **em Enviar.**
+6. **Selecione Enviar.**
 
    Os serviços são agora prestados ao cliente a partir da conta **de transição para** parceiro.
 
@@ -79,7 +78,7 @@ Os clientes aparecerão na lista de clientes do parceiro depois de terem apresen
 Antes de avançar para a secção seguinte, certifique-se de que todas as subscrições de clientes existentes no âmbito das contas **de** parceiros são realoadas na conta **de transição para** parceiro.
 
 > [!NOTE]
-> Os parceiros devem suspender as subscrições na conta **de &quot;Transição de** Inquilinos Parceiros&quot; no Centro de Parceiros no mesmo dia em que essas assinaturas são transitadas e criadas ao abrigo da conta **de &quot;Transição para** Inquilino Parceiro" no Centro de Parceiros para garantir que a faturação dupla não ocorre. Os pedidos de apoio serão negados para créditos devido a qualquer sobreposição na faturação que ocorra de não desativar corretamente as subscrições **de Transição** de Assinaturas.
+> Os parceiros devem suspender as subscrições na conta **de "Transição de** Inquilinos Parceiros" no Centro de Parceiros no mesmo dia em que essas assinaturas são transitadas e criadas ao abrigo da conta **de "Transição para** Inquilino Parceiro" no Centro de Parceiros para garantir que a faturação dupla não ocorre. Os pedidos de apoio serão negados para créditos devido a qualquer sobreposição na faturação que ocorra de não desativar corretamente as subscrições **de Transição** de Assinaturas.
 
 ## <a name="disabling-the-office-365-subscriptions-under-the-transitioning-from-partner-account"></a>Desativação das 365 assinaturas do Office no âmbito da conta de transição de parceiros
 
@@ -89,7 +88,7 @@ A desativação da subscrição do CSP ao abrigo das contas de parceiros em **tr
 
 2. Abra o cliente com subscrições para desativar e, em seguida, selecione a primeira oferta para desativar.
 
-3. Desfie a subscrição para **suspender** e, em seguida, clique **em submeter** .
+3. Desafie a subscrição para **suspender** e, em seguida, selecione **submeter**.
 
    >[!Note]
    >A suspensão da subscrição garante que não ocorra uma faturação dupla.
@@ -102,7 +101,7 @@ A desativação da subscrição do CSP ao abrigo das contas de parceiros em **tr
 
 ## <a name="migrating-azure-usage-based-subscriptions"></a>Subscrições baseadas em uso do Azure migratório
 
-Ao contrário das assinaturas CSP do Office 365, a Azure, as assinaturas CSP baseadas na utilização não precisam de ser migradas manualmente. O Microsoft Azure Support migrará as subscrições do Azure, bem como todos os serviços ou recursos implantados desde as contas **de revendedores de CSP** para a conta de revendedor **de transição para** CSP. Não haverá interrupção do serviço ao cliente durante esta transição.
+Ao contrário das assinaturas CSP do Office 365, a Azure, as assinaturas CSP baseadas na utilização não precisam de ser migradas manualmente. O Microsoft Azure Support migrará as subscrições do Azure e todos os serviços ou recursos implantados da **conta de revendedor de** CSP para a conta de revendedor de **transição para** CSP. Não haverá interrupção do serviço ao cliente durante esta transição.
 
 1. Certifique-se de que as contas de clientes que terão as assinaturas Azure migradas aceitaram o acordo para ser associado à nova conta **de Transição para** CSP.
 
@@ -112,7 +111,7 @@ Ao contrário das assinaturas CSP do Office 365, a Azure, as assinaturas CSP bas
 
 4. Tem de confirmar que a subscrição do Azure no âmbito da conta de **revendedor de transição de** CSP está agora marcada **suspensa** no Partner Center sob a secção de subscrições de clientes.
 
-5. Confirme que a subscrição do Azure ao abrigo da conta de **revendedor de transição para** CSP mostra agora um estado ativo no Partner Center sob a secção de subscrições do cliente. **active**
+5. Confirme que a subscrição do Azure ao abrigo da conta de **revendedor de transição para** CSP mostra agora um estado ativo no Partner Center sob a secção de subscrições do cliente. 
 
    >[!Note]
    > A desativação das subscrições ao abrigo do cliente não altera o aparecimento do cliente na lista de Clientes. Atualmente não existe opção de retirar clientes da lista. Os parceiros devem evitar adicionar subscrições a estes clientes da sua conta **de Transição de A partir** do futuro.
@@ -134,11 +133,11 @@ Ao contrário das assinaturas CSP do Office 365, a Azure, as assinaturas CSP bas
 
 Utilizando a **Função Exportação,** pode capturar as subscrições que necessita de utilizar na sua nova estrutura consolidada:
 
-1. Clique em **Clientes** no Partner Center para ver a lista de clientes. 
+1. Selecione **Clientes** no Partner Center para ver a lista de clientes. 
 
 2. Abra o nome do cliente desejado.
 
-3. Na página **de Subscrições,** clique em **Exportar Subscrições** para exportar detalhes de subscrições para um ficheiro Excel.
+3. Na página **de Subscrições,** selecione **Subscrições de Exportação** para exportar detalhes de subscrições para um ficheiro Excel.
 
 4. Utilize esta lista para recriar as subscrições no seu novo inquilino consolidado.
 

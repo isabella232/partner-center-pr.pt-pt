@@ -9,18 +9,14 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a095f35c58cb6eb0c45f888bdf379edfd3cfe379
-ms.sourcegitcommit: 109c20a2dc71bf6ab15a3a9880807ec014eb8c67
+ms.openlocfilehash: ac6169ea6680ea0b36cd5caa3f3e8276f557bea2
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "102475199"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502557"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Vender subscrições de software através do programa Cloud Solution Provider (CSP)
-
-**Aplica-se a**
-
-- Fornecedores de Soluções Cloud
 
 **Funções adequadas**
 
@@ -101,7 +97,7 @@ Depois de ter adquirido o seu software, você ou os seus clientes precisam desca
 
 2. Escolha **a versão do** produto, **idioma,** **bit**, e selecione **Obter teclas e downloads**. 
 
-3. Escolha **a Chave Get** que irá exibir o produto de 32 dígitos num diálogo pop-up que pode copiar e enviar ao cliente. 
+3. Escolha **obter** chave para exibir o produto de 32 dígitos numa caixa de diálogo pop-up que pode copiar e enviar ao cliente. 
 
 4. Escolha **baixar** para baixar as partes. 
 
@@ -145,7 +141,7 @@ Siga os passos abaixo para cancelar uma compra:
 
 1. Antes de iniciar o processo de cancelamento, certifique-se de que tem o seguinte:
 
-    - Nome do cliente, inquilino GUID ou nome de domínio
+    - Nome do cliente, inquilino GUID, ou nome de domínio
 
     - O nome do produto que quer cancelar
     

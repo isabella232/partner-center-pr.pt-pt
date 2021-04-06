@@ -2,17 +2,19 @@
 title: Faturação anual - cenários comuns
 ms.topic: article
 ms.date: 05/05/2020
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Partner Center faturação anual - quando adicionar novas subscrições, adicionar licenças antes da data de faturação, alterar a quantidade de licença ou suspender/reativar subscrições.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 086a7d359e1b903684af4ecddac37eda584e55f8
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 7494fd7cc003d1179c0ed959b21e1be2cbcc3255
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "92529263"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502485"
 ---
 # <a name="common-annual-billing-scenarios-in-partner-center"></a>Cenários comuns de faturação anual no Centro de Parceiros
 
@@ -27,7 +29,7 @@ Estes [cenários de faturação comuns](common-billing-scenarios.md) são aplic�
 
 ## <a name="new-annual-subscription"></a>Nova subscrição anual
 
-A sua data de faturação é dia 15 de cada mês. No dia 13 de janeiro você compra uma nova subscrição com uma licença por $4/mês e seleciona faturação anual. O ficheiro de reconciliação baseado na licença de 15 de janeiro conterá a seguinte linha de faturação:
+A sua data de faturação é dia 15 de cada mês. No dia 13 de janeiro, você compra uma nova subscrição com uma licença por $4/mês e seleciona faturação anual. O ficheiro de reconciliação baseado na licença de 15 de janeiro conterá a seguinte linha de faturação:
 
 |Data de início do carregamento |Data de Fim de Carga |Tipo de carga |Preço Unitário |Quantidade |Montante |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
@@ -39,7 +41,7 @@ Você compra uma nova subscrição em 2/11/17 com uma licença por $211,20/ano. 
 
 - Taxa de $211,20 para o período 2/11/17 – 2/10/18.
 
-No dia 2/12/17 compra-se uma segunda licença. A sua data de faturação é 2/14/17. Uma fatura e um ficheiro de reconciliação são gerados. O ficheiro de reconciliação conterá as seguintes linhas de faturação:
+No dia 2/12/17, compra uma segunda licença. A sua data de faturação é 2/14/17. Uma fatura e um ficheiro de reconciliação são gerados. O ficheiro de reconciliação conterá as seguintes linhas de faturação:
 
 |Data de início do carregamento  |Data de Fim de Carga  |Tipo de carga  |Preço Unitário |Quantidade | Montante |
 |      :---:   |      :---:   |      :---:   |      :---:   |:---:   |:---:   |
@@ -48,13 +50,13 @@ No dia 2/12/17 compra-se uma segunda licença. A sua data de faturação é 2/14
 No seu aniversário de subscrição, 3/11/17, o sistema de faturação da Microsoft cria as seguintes linhas de faturação para o aumento da licença em 2/12/17:
 
 - Crédito de $211,20 para o período 2/11/17 – 2/10/18.
-- $0,58 taxa procorrida por licença para 1 licença para o período 2/11/17 – 2/11/17.
-- $15,62 taxa por licença por 2 licenças para o período 2/12/17 – 3/10/2017.
-- $195,00 de taxa por licença para 2 licenças para o período 3/11/2017 – 2/10/2018.
+- $0,58 taxa procorrida por licença por uma licença para o período 2/11/17 – 2/11/17.
+- $15,62 taxa por licença para duas licenças para o período 2/12/17 – 3/10/2017.
+- $195,00 de cobrança por licença por duas licenças para o período 3/11/2017 – 2/10/2018.
 
 No dia 2/11/17, compra uma subscrição. No dia 2/12/17, adiciona-se uma licença. A sua data de faturação é 2/14/17. Em 2/11/18 a sua subscrição renova.
 
-A sua próxima data de faturação é 3/14/17, e uma fatura & ficheiro de reconciliação são gerados. O ficheiro de reconciliação conterá as seguintes linhas de faturação:
+A sua próxima data de faturação é 3/14/17, e uma fatura e arquivo de reconciliação são gerados. O ficheiro de reconciliação conterá as seguintes linhas de faturação:
 
 |Data de início do carregamento  |Data de Fim de Carga  |Tipo de carga  |Preço Unitário |Quantidade | Montante |
 |      :---:   |      :---:   |      :---:   |      :---:   |:---:   |:---:   |
@@ -67,13 +69,13 @@ Em 2/11/18 a subscrição renova por mais 12 meses de mandato.
 
 ## <a name="change-license-quantity"></a>Alterar quantidade de licenças
 
-A sua data de faturação é dia 15 de cada mês. No dia 13 de janeiro você compra uma nova subscrição com uma licença por $4/mês e seleciona faturação anual. O ficheiro de reconciliação baseado na licença de 15 de janeiro conterá a seguinte linha de faturação:
+A sua data de faturação é dia 15 de cada mês. No dia 13 de janeiro, você compra uma nova subscrição com uma licença por $4/mês e seleciona faturação anual. O ficheiro de reconciliação baseado na licença de 15 de janeiro conterá a seguinte linha de faturação:
 
 |Data de início do carregamento |Data de Fim de Carga |Tipo de carga |Preço Unitário |Quantidade |Montante |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 1/13/2018|1/12/2019|Taxas de prorate na compra|48.00|1|48.00
 
-No dia 1 de fevereiro aumenta a quantidade de licença de um para dois. O ficheiro de reconciliação baseado na licença de 15 de fevereiro conterá as seguintes linhas de faturação:
+No dia 1 de fevereiro, aumenta a quantidade de licença de um para dois. O ficheiro de reconciliação baseado em licenças de 15 de fevereiro conterá as seguintes linhas de faturação:
 
 |Data de início do carregamento |Data de Fim de Carga |Tipo de carga |Preço Unitário |Quantidade |Montante |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
@@ -95,13 +97,13 @@ Portanto, preço unitário = 44,98 (346x0.13x2)
 
 ## <a name="suspend-before-30-days"></a>Suspender antes de 30 dias
 
-A sua data de faturação é dia 15 de cada mês. No dia 13 de janeiro você compra uma nova subscrição com uma licença por $4/mês e seleciona faturação anual. O ficheiro de reconciliação baseado na licença de 15 de janeiro conterá a seguinte linha de faturação:
+A sua data de faturação é dia 15 de cada mês. No dia 13 de janeiro, você compra uma nova subscrição com uma licença por $4/mês e seleciona faturação anual. O ficheiro de reconciliação baseado na licença de 15 de janeiro conterá a seguinte linha de faturação:
 
 |Data de início do carregamento |Data de Fim de Carga |Tipo de carga |Preço Unitário |Quantidade |Montante |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 1/13/2018|1/12/2019|Taxas de prorate na compra|48.00|1|48.00
 
-No dia 1 de fevereiro suspende a sua assinatura. O ficheiro de reconciliação baseado na licença de 15 de fevereiro conterá a seguinte linha de faturação:
+No dia 1 de fevereiro, suspende a sua assinatura. O ficheiro de reconciliação baseado na licença de 15 de fevereiro conterá a seguinte linha de faturação:
 
 |Data de início do carregamento |Data de Fim de Carga |Tipo de carga |Preço Unitário |Quantidade |Montante |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
@@ -109,14 +111,14 @@ No dia 1 de fevereiro suspende a sua assinatura. O ficheiro de reconciliação b
 
 ## <a name="suspend-after-30-days"></a>Suspender após 30 dias
 
-A sua data de faturação é dia 15 de cada mês. No dia 13 de janeiro você compra uma nova subscrição com uma licença por $4/mês e seleciona faturação anual. O ficheiro de reconciliação baseado na licença de 15 de janeiro conterá a seguinte linha de faturação:
+A sua data de faturação é dia 15 de cada mês. No dia 13 de janeiro, você compra uma nova subscrição com uma licença por $4/mês e seleciona faturação anual. O ficheiro de reconciliação baseado na licença de 15 de janeiro conterá a seguinte linha de faturação:
 
 |Data de início do carregamento |Data de Fim de Carga |Tipo de carga |Preço Unitário |Quantidade |Montante |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 1/13/2018|1/12/2019|Taxas de prorate na compra|48.00|1|48.00
 
-O ficheiro de reconciliação baseado na licença de 15 de fevereiro não conterá quaisquer linhas de faturação para esta subscrição.
-No dia 1 de março suspende a sua assinatura. O ficheiro de reconciliação baseado na licença de 15 de março conterá a seguinte linha de faturação:
+O ficheiro de reconciliação baseado em licenças de 15 de fevereiro não conterá quaisquer linhas de faturação para esta subscrição.
+No dia 1 de março, suspende a sua assinatura. O ficheiro de reconciliação baseado na licença de 15 de março conterá a seguinte linha de faturação:
 
 |Data de início do carregamento |Data de Fim de Carga |Tipo de carga |Preço Unitário |Quantidade |Montante |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
@@ -132,19 +134,19 @@ Portanto, preço unitário = 41,34 (318x0.13x1). Porque este é um crédito o pr
 
 ## <a name="suspend-and-reactivate"></a>Suspender e reativar
 
-A sua data de faturação é dia 15 de cada mês. No dia 13 de janeiro você compra uma nova subscrição com uma licença por $4/mês e seleciona faturação anual. O ficheiro de reconciliação baseado na licença de 15 de janeiro conterá a seguinte linha de faturação:
+A sua data de faturação é dia 15 de cada mês. No dia 13 de janeiro, você compra uma nova subscrição com uma licença por $4/mês e seleciona faturação anual. O ficheiro de reconciliação baseado na licença de 15 de janeiro conterá a seguinte linha de faturação:
 
 |Data de início do carregamento |Data de Fim de Carga |Tipo de carga |Preço Unitário |Quantidade |Montante |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 1/13/2018|1/12/2019|Taxas de prorate na compra|48.00|1|48.00
 
-No dia 1 de fevereiro suspende a sua assinatura. O ficheiro de reconciliação baseado na licença de 15 de fevereiro conterá a seguinte linha de faturação:
+No dia 1 de fevereiro, suspende a sua assinatura. O ficheiro de reconciliação baseado na licença de 15 de fevereiro conterá a seguinte linha de faturação:
 
 |Data de início do carregamento |Data de Fim de Carga |Tipo de carga |Preço Unitário |Quantidade |Montante |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 1/13/2018|1/12/2019|Taxa de Cancelamento|-48.00|1|-48.00
 
-No dia 1 de março reativa a sua subscrição. O ficheiro de reconciliação baseado na licença de 15 de março conterá a seguinte linha de faturação:
+No dia 1 de março, reativa a sua assinatura. O ficheiro de reconciliação baseado na licença de 15 de março conterá a seguinte linha de faturação:
 
 |Data de início do carregamento |Data de Fim de Carga |Tipo de carga |Preço Unitário |Quantidade |Montante |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
