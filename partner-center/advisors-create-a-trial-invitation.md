@@ -9,19 +9,19 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: e180485a6ee769c911b3d2119869661ea118ccc1
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: 8c6f6cb5ba700618aebe773cffd566e4077a676d
+ms.sourcegitcommit: 5ef0b231023395fb4bf01cb82d0eabd83e6cdaf4
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474160"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106557720"
 ---
 # <a name="advisors-create-and-send-a-trial-invitation-for-clients-to-try-office-365"></a>Assessoria: Criar e enviar um convite experimental para os clientes experimentarem o Office 365
 
 
 **Funções adequadas**
 
-- Consultores
+- Assistente
 
 > [!NOTE]
 > Esta funcionalidade está disponível apenas para os Parceiros Microsoft que são assessores de subscrição autorizados.
@@ -44,7 +44,7 @@ Se estiver certificado para oferecer uma administração delegada, pode adiciona
     - **Assinaturas de teste**: A lista de subscrições de teste que pode escolher é determinada pela localização de utilização do país ou região do seu cliente.
     - **Administração delegada**: Esta opção só está disponível para os parceiros certificados para oferecer uma administração delegada. Escolha esta opção se quiser oferecer ao seu cliente uma administração delegada. Se o fizer, o seu cliente pode aceitar o convite para o julgamento com ou sem aceitação da administração delegada. Para obter mais informações sobre a administração delegada, consulte [a Administração Delegada da Oferta.](customers-revoke-admin-privileges.md)
 
-3. Clique em **Seguinte**.
+3. Selecione **Seguinte**.
 
 4. Na página do **seu convite de teste,** copie as informações do convite de teste e URL e, em seguida, cole-as num e-mail, documento ou numa página web para criar um convite de teste personalizado.
 

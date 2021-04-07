@@ -9,19 +9,19 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 83acde5e5cb29ea8249bfbba78a15cf3efbdf271
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: 31d8be49e0270f32c472f3fbe0a54d5ceadc9098
+ms.sourcegitcommit: 5ef0b231023395fb4bf01cb82d0eabd83e6cdaf4
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474177"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106557737"
 ---
 # <a name="advisors-build-your-client-base-with-office-365-trial-invitations-and-purchase-offers"></a>Assessoria: Construa a sua base de clientes com convites de experimentação do Office 365 e ofertas de compra
 
 
 **Funções adequadas**
 
-- Consultores
+- Assistente
 
 
 Como consultor autorizado da Microsoft, **o Partner Center** oferece-lhe a oportunidade de crescer a sua base de clientes e criar relações duradouras com os seus clientes. Com o Partner Center, pode enviar aos seus clientes convites de experimentação e ofertas de compra, e oferecer-lhes serviços de administração delegados, dependendo dos serviços que está autorizado a prestar.
@@ -45,7 +45,7 @@ Para obter mais informações sobre convites para julgamento, consulte [Criar um
 > [!NOTE]
 > Esta funcionalidade está disponível apenas para os Parceiros Microsoft que são assessores de subscrição autorizados.
 
-Depois de enviar um convite experimental aos seus clientes, acompanhe uma oferta de compra. Pode personalizar uma oferta para que inclua os serviços específicos que o seu cliente necessita, bem como o número correto de licenças de utilizador. Se estiver certificado para oferecer uma administração delegada, pode adicionar uma opção à oferta de compra que lhe permite administrar a subscrição em nome do seu cliente.
+Depois de enviar um convite experimental aos seus clientes, acompanhe uma oferta de compra. Pode personalizar uma oferta para que inclua os serviços específicos que o seu cliente necessita e o número correto de licenças de utilizador. Se estiver certificado para oferecer uma administração delegada, pode adicionar uma opção à oferta de compra que lhe permite administrar a subscrição em nome do seu cliente.
 
 Ao criar a oferta de compra, é criado um URL personalizado para si. O URL tem um código incorporado que o identifica como o conselheiro de subscrição. Você pode usar este URL para um cliente ou muitos clientes. Envie o URL ao seu cliente num e-mail ou publique-o no seu site.
 

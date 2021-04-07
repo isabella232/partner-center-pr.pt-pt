@@ -9,21 +9,21 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 61bb4bf8b340ac35c929738c43e8ef2da2e64aca
-ms.sourcegitcommit: f99424919f0d77bbe4f44293d84f9ea1e3317f13
+ms.openlocfilehash: 1f941894c8d4ac8611c4b1869bd731d6b56ec4ae
+ms.sourcegitcommit: 5ef0b231023395fb4bf01cb82d0eabd83e6cdaf4
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/21/2021
-ms.locfileid: "98658404"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106557771"
 ---
 # <a name="earn-an-advanced-specialization-to-showcase-your-validated-capabilities"></a>Ganhe uma especialização avançada para mostrar as suas capacidades validadas
 
 **Funções adequadas**
 
 - Administrador global
-- Administrador de conta MPN
+- Administrador de conta
 
-As especializações avançadas da Microsoft baseiam-se em [competências de ouro relacionadas que](learn-about-competencies.md) um parceiro pode ganhar. Ganhar competências em ouro, juntamente com as suas especializações avançadas relacionadas, permite que os parceiros possam diferenciar ainda mais as suas capacidades para com os clientes.
+As especializações avançadas da Microsoft baseiam-se nas [competências de ouro relacionadas](learn-about-competencies.md) que um parceiro pode ganhar. Ganhar competências em ouro, juntamente com as suas especializações avançadas relacionadas, permite que os parceiros possam diferenciar ainda mais as suas capacidades para com os clientes.
 
 Para obter uma especialização avançada, um parceiro tem muitas vezes de satisfazer requisitos exigentes, tais como obter referências ao cliente, submeter-se a uma auditoria de terceiros, provar a realização de um conjunto de competências relevantes, e cumprir certas, outras medidas de desempenho.
 
