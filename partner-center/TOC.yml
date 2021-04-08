@@ -390,8 +390,6 @@
     - name: Noções básicas de faturação
       href: billing-basics.md
       displayName: invoice
-    - name: Tipos de faturação no Centro de Parceiros
-      href: billing-different-types.md
     - name: Compreender a sua fatura
       href: read-your-bill.md
       displayName: invoice

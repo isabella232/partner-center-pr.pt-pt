@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8aeb47f6968e364eecb05efd2c0d4a1b3e1ba267
-ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
+ms.openlocfilehash: b960a903c2ba85963047033094636da6dc599f90
+ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "105633765"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106964430"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Preços e ofertas para Office 365, Dynamics CRM, Enterprise Mobility Suite, Azure, e muito mais
 
@@ -28,7 +28,7 @@ ms.locfileid: "105633765"
 - Agente comercial
 - Administrador de faturação
 
-Para ver os mais recentes programas e ofertas do Cloud Solution Provider, a partir do Portal dos **Parceiros,** vá a Venda > Preços e Ofertas . Encontrará listas de preços separadas para os diferentes tipos de produtos disponíveis. As seguintes listas de preços estão disponíveis na página **de Preços e Ofertas:**
+Para ver os mais recentes programas e ofertas do Cloud Solution Provider, a partir do painel de instrumentos do Portal dos **Parceiros,** vá ao Sell > Preços e Ofertas . Encontrará listas de preços separadas para os diferentes tipos de produtos disponíveis. As seguintes listas de preços estão disponíveis na página **de Preços e Ofertas:**
 
 - **Os serviços baseados em licenças** incluem informações de preços para o Office 365, Enterprise Mobility e Security E3, bem como e Dynamics 365. A secção de preços baseada em licença inclui preços atuais e de pré-visualização, bem como a matriz da lista de ofertas. As listas de preços incluem o preço da lista e os preços estimados de venda a retalho (ERP) para ofertas em todas as moedas apoiadas. A matriz da lista de ofertas inclui disponibilidade de mercado e outras informações importantes sobre as ofertas. Estes ficheiros são atualizados no primeiro dia de cada mês.
 - **Os serviços baseados em uso** incluem informações de preços para o Microsoft Azure e o Visual Studio. Também pode utilizar os [Serviços Azure na Calculadora de Preços da CSP](https://azure.microsoft.com/pricing/calculator/). O download baseado em uso inclui tanto as listas de preços do CSP para todas as moedas suportadas, como os ficheiros de preços dos Serviços Partilhados em ERP. Estes ficheiros são atualizados no primeiro dia de cada mês.
@@ -75,7 +75,7 @@ No entanto, os preços baseados na utilização do Azure não têm pré-visualiz
 |Software||Não disponível|Compare listas de preços manualmente de mês para mês|
 |Reservas|Máquinas virtuais, pré-pagas|Não disponível|Compare listas de preços manualmente de mês para mês|
 
-Os preços baseados no uso podem mudar ao longo de um mês. Para obter preços diários 'actuais' para estes recursos Azure, os parceiros precisam de ligar para a RateCard API. 
+Os preços baseados no uso podem mudar ao longo de um mês. Para obter preços diários 'atuais' para estes recursos Azure, os parceiros precisam de ligar para a RateCard API. 
 
 > [!Note] 
 > As alterações nos preços de subscrição aplicam-se apenas durante uma renovação. A taxa mensal de um parceiro é determinada pelo preço de compra, ou pelo preço no momento da criação de uma subscrição. Se um preço aumentar ou diminuir após a aquisição do prazo anual, o parceiro não é cobrado o preço alterado até à renovação - tipicamente no prazo de 12 meses.
@@ -97,7 +97,7 @@ As margens dos parceiros, a diferença entre o preço da lista e os preços esti
 
 Os serviços baseados em licenças podem ser adquiridos como ofertas base ou addons. Apenas as ofertas base são detetáveis e purcáveis através do catálogo partner Center. Deve aplicar suplementos após a compra das ofertas base. A coluna de **tipo de licença secundária** baseada na licença baseada na licença inclui informações sobre cada oferta e o seu tipo. As ofertas base têm valores **não específicos** na coluna de tipo de licença secundária da lista de preços e podem ser adquiridas no catálogo. Os valores secundários do tipo de licença de **complemento** não podem ser adquiridos no catálogo. Para comprar estes addons:
 
-1. Consulte a matriz da lista de ofertas para ver a lista de ids de oferta que precisam de ser comprados antes de poder adquirir um addon.
+1. Consulte a matriz da lista de ofertas para ver a lista de IDs de oferta que precisam de ser comprados antes de poder adquirir um addon.
 2. Compre a oferta base do catálogo
 3. Navegue para o seu cliente a partir da lista de clientes. Clique na subscrição da oferta base que acabou de adquirir. Na página de subscrição de gestão verá os complementos disponíveis que podem ser aplicados à oferta base.
 

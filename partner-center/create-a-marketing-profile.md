@@ -9,12 +9,12 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 80f7882da44c8072db1dd287f6fbee4f79341d29
-ms.sourcegitcommit: af8cfd89218f55467bd3bbd4102f7baf890e5066
+ms.openlocfilehash: db9166b0d2c4fe1c9f61921a9632c9704eaca74d
+ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "103570163"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106964397"
 ---
 # <a name="create-a-business-profile-to-get-microsoft-sales-leads-and-help-customers-find-you"></a>Crie um perfil de negócio para obter leads de vendas da Microsoft e ajude os clientes a encontrá-lo
 
@@ -84,16 +84,7 @@ Comece por adicionar as suas próprias etiquetas na secção de Conhecimento de 
 
 Outras etiquetas utilizadas em pesquisa:
 
--  **As etiquetas de competência** são uma designação ganha mostrando as capacidades da sua empresa.
--  **As etiquetas de patrocínio** são obtidas quando a Microsoft ou os seus clientes que trabalharam consigo apoiam o seu trabalho.
-
-#### <a name="allow-microsoft-to-endorse-my-areas-of-expertise"></a>Permitir que a Microsoft apoie as minhas áreas de especialização
-
-Recomendamos que deixe esta definição verificada. 
-
-Como demonstra sucesso com os clientes através do Partner Center, ou participa em outras certificações ou programas da Microsoft, adicionaremos automaticamente endossamentos para os seus produtos, serviços e indústrias específicos que contribuam para esse sucesso. Os apoios são um fator importante nos resultados da pesquisa.
-
-Se existirem produtos para os quais prefere não aparecer no seu perfil, pode desmarcar esta caixa e gerir o seu perfil manualmente. Estes endossamentos serão escondidos da vista dos seus clientes, mas pode adicioná-los de volta ao seu perfil mais tarde, a qualquer momento.
+- **As etiquetas de competência** são uma designação ganha mostrando as capacidades da sua empresa.
 
 ### <a name="customer-preferences"></a>Preferências do cliente
 
@@ -121,13 +112,12 @@ Se estiver em 5 locais de topo e precisar de alterar um, **elimine** primeiro um
 
 Depois de publicar o seu perfil, as atualizações aparecem no [Find a solution provider](https://www.microsoft.com/solution-providers/home) searchs dentro de 24 horas.
 
-## <a name="improve-the-visibility-of-your-profile"></a>Melhore a visibilidade do seu perfil 
+## <a name="improve-the-visibility-of-your-profile"></a>Melhore a visibilidade do seu perfil
 
 - **[Responda rapidamente aos pedidos.](manage-leads.md)** Quando recebe uma referência ao cliente, uma resposta mais rápida pode levar a melhores resultados nas páginas de pesquisa para futuros clientes.
 
 - **Seja seletivo com as suas etiquetas.**  É melhor ter menos tags que melhor representem as ofertas da sua empresa, soluções, propostas de valor e uma posição única onde possa demonstrar consistentemente sucesso.  Isso pagará dividendos em futuros resultados de pesquisa.
 - **Ganhe etiquetas de competência** através da Microsoft para demonstrar a sua proficiência nos nossos produtos.
-- **Ganhe etiquetas** de patrocínio de clientes que apreciam o seu trabalho.
 
 ## <a name="next-steps"></a>Passos seguintes
 

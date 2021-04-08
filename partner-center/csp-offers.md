@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e6b0de64a9ac3d86c77cc47f6b69b8a132606309
-ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
+ms.openlocfilehash: c5617bbec82bd8e4b6fbeb2e6a33608889f14502
+ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106502872"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106964345"
 ---
 # <a name="overview-of-partner-offers-in-the-cloud-solution-provider-program"></a>Descrição geral das ofertas de parceiros no programa Fornecedor de Solução Cloud
 
@@ -105,6 +105,15 @@ Para comprar produtos e serviços em nome dos seus clientes CSP, selecione os it
 
 8. Os detalhes da sua encomenda, incluindo o número da sua encomenda, são apresentados na página seguinte. Selecione **Feito** para ir à página **de histórico da encomenda.**
 
+### <a name="customer-order-history"></a>Histórico de pedidos de clientes
+
+Para ver o histórico de encomendas de um cliente:
+
+1. Inicie sessão no [dashboard](https://partner.microsoft.com/dashboard/home) do Centro de Parceiros.
+2. No menu à esquerda, escolha **Clientes.**
+3. Na página **Clientes,** encontre o cliente cujo histórico de encomendas pretende ver. Selecione a seta para baixo para expandir o registo do cliente.
+4. Escolha As ordens de **visualização** para mostrar o histórico de encomendas do cliente.
+ 
 ## <a name="rules-for-special-segments"></a>Regras para segmentos especiais
 
 Algumas ofertas baseadas em licenças só podem ser compradas sob determinadas condições. As ofertas especiais de segmento incluem ofertas de Educação, Sem Fins Lucrativos ou Nuvem Comunitária do Governo (GCC). Os detalhes sobre estas condições de compra podem ser encontrados nas regras de [compra para segmentos especiais tópicos.](get-special-pricing-for-offers.md#purchase-rules-for-special-segments)

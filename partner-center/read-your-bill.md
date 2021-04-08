@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 43c2605d750d35bc2e0095b1fed413ed91a1a28e
-ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
+ms.openlocfilehash: e93bc59d4ddb8ac2323807a716d7ba6404b00fce
+ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98215820"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106964362"
 ---
 # <a name="understand-your-bill-and-reconciliation-file---learn-how-to-find-them-in-partner-center"></a>Understand your bill and reconciliation file - saiba como encontrá-los no Partner Center
 
@@ -27,6 +27,20 @@ ms.locfileid: "98215820"
 
 
 A sua **fatura** é um **resumo de todas as tarifas do Partner Center** (em todo o programa, todos os produtos e todos os clientes). 
+
+## <a name="find-your-bill-and-reconciliation-file"></a>Encontre o seu projeto de lei e arquivo de reconciliação 
+
+Pode encontrar a sua fatura na página de Faturação do painel de instrumentos no Partner Center. Também pode encontrar o seu histórico de faturação, tendências de gastos e ficheiros de reconciliação nesta página. 
+
+1. Inscreva-se no painel do Centro [de Parceiros](https://partner.microsoft.com/dashboard/home). 
+
+2. No menu da esquerda, selecione **Billing**. 
+
+3. Na página de estado de faturação, selecione uma fatura ou um ficheiro de reconciliação para ver informações mais detalhadas. 
+
+Pode encontrar um link para a sua última fatura no topo da página no saldo da Conta a partir da data da última fatura. 
+
+Pode encontrar faturas anteriores na secção história da Faturação. Escolha o ano apropriado e, em seguida, selecione a seta de queda ao lado do período de faturação apropriado. Selecione o link ao lado de Faturas (.pdf) para fazer o download da fatura desse período. 
 
 ## <a name="invoice-types"></a>Tipos de fatura
 
@@ -52,19 +66,6 @@ Por exemplo,
 
 - O parceiro receberá outro PDF de fatura e um ficheiro de reconciliação que cobre os seus encargos por uma oferta de 145p em EUROS (ou moeda de faturação de parceiros). 
 
-## <a name="find-your-bill"></a>Encontre a sua conta 
-
-Pode encontrar a sua fatura na página de Faturação do painel de instrumentos no Partner Center. Também pode encontrar o seu histórico de faturação, tendências de gastos e ficheiros de reconciliação nesta página. 
-
-1. Inicie sessão no [dashboard](https://partner.microsoft.com/dashboard/home) do Centro de Parceiros. 
-
-2. No menu da esquerda, selecione **Billing**. 
-
-3. Na página 'Faturar', selecione a fatura que pretende transferir. 
-
-Pode encontrar um link para a sua última fatura no topo da página no saldo da Conta a partir da data da última fatura. 
-
-Pode encontrar faturas anteriores na secção história da Faturação. Escolha o ano apropriado e, em seguida, selecione a seta de queda ao lado do período de faturação apropriado. Selecione o link ao lado de Faturas (.pdf) para fazer o download da fatura desse período. 
 
 ## <a name="understanding-invoice-pdf"></a>Compreensão da fatura PDF 
 

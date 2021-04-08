@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 44f4e45b53d6da7c8ed08678f8b05719cc9c2d7a
-ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
+ms.openlocfilehash: 132a44e1e81f28dd28bdcd95cee209cb5c046ff6
+ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106502451"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106964412"
 ---
 # <a name="common-billing-scenarios-for-csp-program-partners-working-in-partner-center"></a>Cenários comuns de faturação para parceiros de programa CSP que trabalham no Partner Center
 
@@ -26,6 +26,22 @@ ms.locfileid: "106502451"
 - Agente comercial
 
 Estes artigos explicam o que deve esperar ver na sua conta depois de adicionar novas subscrições, ajustar o número de licenças a uma subscrição ou cancelar uma subscrição. Outros [tipos de faturação do Partner Center](billing-different-types.md), tais como subscrições baseadas em uso e baseadas em licenças, são faturados de forma diferente.
+
+
+## <a name="change-billing-frequency"></a>Change billing frequency (Alterar a frequência de faturação)
+
+A frequência de faturação é alterada ao nível da encomenda, e uma vez alterada a frequência, o ciclo de faturação revisto será aplicado a todas as subscrições dentro dessa ordem. 
+
+Para alterar a frequência de faturação de um serviço online para um cliente:
+
+1. [Inscreva-se no painel do Centro de Parceiros.](https://partner.microsoft.com/dashboard/home)
+2. No menu à esquerda, escolha **Clientes.**
+3. Selecione o cliente cuja frequência de faturação de subscrição pretende alterar.
+4. Na página **de Subscrições** do cliente, selecione a subscrição que pretende alterar.
+5. Na página **Detalhes,** em **frequência de Faturação,** selecione **Mensal ou** **Anual**. Você verá uma página de confirmação com informações importantes sobre a alteração da frequência de faturação, bem como uma lista das subscrições prestes a ser alteradas.
+6. Escolha **OK** para fazer a alteração (ou **cancele** para desfazê-la).
+
+## <a name="billing-scenarios"></a>Cenários de faturação
 
 | Tipo de faturação | Cenários cobertos |
 | --------------- | ----------------- |
