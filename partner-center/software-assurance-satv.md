@@ -1,28 +1,37 @@
 ---
-title: Programa de Voucher de Formação de Garantia de Software
+title: Reforma do programa de treino de software De formação voucher
 ms.topic: article
-ms.date: 12/09/2020
+ms.date: 04/07/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Saiba como se inscrever no programa de Voucher de Formação de Garantia de Software para que possa ser compensado pela entrega de formação e planeamento a clientes empresariais.
+description: O programa de treino de software Assurance Voucher está a ser reformado.
 author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 786f69858dc90a9c0993e88c4900a647a07ba81f
-ms.sourcegitcommit: 175fa04ba45a1133b77d8055a0123561bd987415
+ms.openlocfilehash: ddff97664474230224c788f732ac1f32f377abf7
+ms.sourcegitcommit: 799d4d52afc511d0e0fad0e59dbdfc60081a1aa8
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "96926612"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "107024981"
 ---
-# <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>Software Assurance Training Voucher (SATV) program in Partner Center (Programa do Voucher de Formação do Software Assurance (SATV) no Partner Center)
+# <a name="training-vouchers-program-retirement"></a>Reforma do Programa de Vouchers de Formação
 
-Cresça o seu negócio matriculando-se em programas de parceiros de Software Assurance. A Microsoft compensa os parceiros pela prestação de serviços de formação, planeamento e outros serviços a clientes empresariais que tenham Software Assurance.
+Os Vouchers de Formação estão a ser totalmente retirados dos benefícios da Software Assurance, mas os clientes podem continuar a usar os dias de voucher para a formação conduzida por instrutores enquanto os vouchers são válidos. Estas são as datas significativas que antecedem a reforma do programa: 
 
-Como parceiro de garantia de software aprovado, a Microsoft compensa-o por fornecer formação técnica a clientes empresariais em troca de vouchers que obtenham com a Software Assurance. Participar neste programa pode ajudá-lo a atrair mais clientes e tornar-se o seu parceiro de aprendizagem de confiança.
+- 1 de fevereiro de 2020: A formação Azure retirou-se do catálogo de vouchers de formação.
+- 1 de fevereiro de 2020: Os vouchers de formação já não podem ser convertidos para dias de Serviços de Planeamento.  
+- 1 de fevereiro de 2021: Os clientes já não acumulam benefícios de formação. 
+- 30 de junho de 2021: Último dia para os clientes criarem/atribuirem Vouchers de Formação. Todos os dias restantes do Voucher de Formação serão removidos a 1 de julho de 2021.
+- 1 de janeiro de 2022: Último dia para os sócios resgatar vouchers de formação. O parceiro terá 60 dias após o resgate para concluir o processo de pedido de pagamento.  
 
-## <a name="get-started"></a>Introdução
+>[!NOTE]
+>Não há alteração no ciclo de vida do voucher. Uma vez criado um voucher/atribuído, a reserva de vouchers, sessões de formação e o resgate do voucher devem ser concluídos no prazo de 180 dias antes da expiração do voucher.  Para obter mais informações sobre a aposentadoria do Voucher de Formação, consulte as PERGUNTAS Frequentes [aqui](https://partner.microsoft.com/resources/collection/software-assurance-benefit-changes#/) encontradas para obter mais informações (inscrição obrigatória).  Consulte a lista completa dos cursos de formação elegíveis para SATV no catálogo de produtos de benefícios de formação.  Por favor, dirijo quaisquer perguntas à sua equipa regional de Apoio ao [Parceiro: Apoio ao Parceiro EMEA;](mailto:savoucher@msdirectservices.com) [Suporte Geral do Parceiro](https://partner.microsoft.com/dashboard/support/servicerequests).
+
+## <a name="until-june-30-2021"></a>Até 30 de junho de 2021
+
+### <a name="get-started"></a>Introdução
 
 Se é novo nos serviços de formação de Software Assurance, siga todos os passos abaixo. Se já está ativo no programa de vouchers de treino, comece no quarto passo (4) abaixo. 
 

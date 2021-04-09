@@ -1,31 +1,43 @@
 ---
-title: Software Assurance Planning Services (Serviços de Planeamento do Software Assurance)
+title: Reforma dos Serviços de Planeamento de Garantia de Software
 ms.topic: article
-ms.date: 12/02/2020
+ms.date: 04/07/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Saiba como se inscrever e qualificar-se nos compromissos dos Microsoft Planning Services para que possa fornecer formação e outros serviços a clientes com Software Assurance.
+description: Os Serviços de Planeamento da Microsoft estão a ser reformados.
 author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4b931f616417d8781b8864d7bcb9b0d6d47560ec
-ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
+ms.openlocfilehash: cb3f6d6d4b719a8c4988ef935bde07c9660942c5
+ms.sourcegitcommit: 799d4d52afc511d0e0fad0e59dbdfc60081a1aa8
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "105028234"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "107024998"
 ---
-# <a name="software-assurance-planning-services-in-partner-center"></a>Software Assurance Planning Services in Partner Center (Serviços de Planeamento do Software Assurance no Partner Center)
+# <a name="software-assurance-planning-services-retirement"></a>Reforma dos Serviços de Planeamento de Garantia de Software
 
 **Funções adequadas**
 
 - Administrador global
 - Administrador sócio da MPN
 
-Como parceiro de Serviços de Planeamento aprovado, a Microsoft compensa-o por fornecer compromissos de planeamento pré-implementação para clientes empresariais. Participar neste programa pode ajudá-lo a atrair mais clientes, tornar-se o seu parceiro de planeamento de confiança e levar a compromissos adicionais com o cliente.
 
-## <a name="get-started"></a>Introdução
+Os Serviços de Planeamento estão a ser totalmente retirados dos benefícios da Software Assurance, mas os clientes podem continuar a trabalhar com os parceiros para usar os dias de Serviços de Planeamento para compromissos enquanto os vouchers são válidos. Estas são as datas significativas que antecedem a reforma do programa: 
+
+- 1 de fevereiro de 2020: Os serviços de planeamento foram reformados.  
+- 1 de fevereiro de 2020: Os vouchers de formação já não podem ser convertidos para dias de Serviços de Planeamento.  
+- 1 de fevereiro de 2021: Os clientes deixaram de acumular benefícios dos Serviços de Planeamento. 
+- 30 de junho de 2021: Último dia para os clientes criarem/atribuirem vouchers de Serviços de Planeamento. Todos os dias restantes dos Serviços de Planeamento serão removidos a 1 de julho de 2021.
+- 1 de janeiro de 2022: Último dia para os parceiros resgatar vouchers de Serviços de Planeamento. O parceiro terá 60 dias após o resgate para concluir o processo de pedido de pagamento.  
+
+>[!NOTE]
+>Não há alteração no ciclo de vida do voucher. Uma vez criado um voucher/atribuído, a reserva de voucher, o envolvimento do cliente e o resgate do voucher devem ser concluídos no prazo de 180 dias antes da expiração do voucher.  Para obter mais informações sobre a reforma do programa De planeamento, consulte as PERGUNTAS Frequentes [aqui](https://partner.microsoft.com/resources/collection/software-assurance-benefit-changes#/) encontradas para obter mais informações (inscrição obrigatória).  Por favor, dirijo quaisquer perguntas à sua equipa regional de Apoio ao [Parceiro: Apoio ao Parceiro EMEA;](mailto:savoucher@msdirectservices.com) [Apoio geral ao parceiro](https://partner.microsoft.com/dashboard/support/servicerequests)
+
+## <a name="until-june-30-2021"></a>Até 30 de junho de 2021
+
+### <a name="get-started"></a>Introdução
 
 Se é novo nos Serviços de Planeamento de Garantia de Software, siga todos os passos abaixo. Se já estiver ativo no programa(s) serviços de planeamento, inicie cada novo compromisso no quarto passo (4) abaixo.
 
@@ -62,8 +74,6 @@ Depois de a sua empresa cumprir os requisitos de elegibilidade, está pronto par
 
 Em primeiro lugar, certifique-se de rever todas as [políticas do programa de Serviços de Planeamento.](https://go.microsoft.com/fwlink/?linkid=2115984) Em seguida, siga as instruções no [passo 2](https://go.microsoft.com/fwlink/?linkid=2115983) do fluxo de trabalho para concluir o processo de inscrição dos Serviços de Planeamento no Centro de Parceiros.
 
->[!NOTE]
-> Terá de renovar os seus requisitos e reinscreva-se nos programas de Serviços de Planeamento todos os anos.
 
 ## <a name="create-or-update-your-companys-business-profile-new-partners"></a>Crie ou atualize o perfil de negócio da sua empresa (novos parceiros)
 
