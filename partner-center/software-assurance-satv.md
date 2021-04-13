@@ -9,12 +9,12 @@ author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: ddff97664474230224c788f732ac1f32f377abf7
-ms.sourcegitcommit: 799d4d52afc511d0e0fad0e59dbdfc60081a1aa8
+ms.openlocfilehash: b08ac8d76324270f32db481a92387b20650f42f5
+ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "107024981"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "107266491"
 ---
 # <a name="training-vouchers-program-retirement"></a>Reforma do Programa de Vouchers de Formação
 
@@ -29,7 +29,7 @@ Os Vouchers de Formação estão a ser totalmente retirados dos benefícios da S
 >[!NOTE]
 >Não há alteração no ciclo de vida do voucher. Uma vez criado um voucher/atribuído, a reserva de vouchers, sessões de formação e o resgate do voucher devem ser concluídos no prazo de 180 dias antes da expiração do voucher.  Para obter mais informações sobre a aposentadoria do Voucher de Formação, consulte as PERGUNTAS Frequentes [aqui](https://partner.microsoft.com/resources/collection/software-assurance-benefit-changes#/) encontradas para obter mais informações (inscrição obrigatória).  Consulte a lista completa dos cursos de formação elegíveis para SATV no catálogo de produtos de benefícios de formação.  Por favor, dirijo quaisquer perguntas à sua equipa regional de Apoio ao [Parceiro: Apoio ao Parceiro EMEA;](mailto:savoucher@msdirectservices.com) [Suporte Geral do Parceiro](https://partner.microsoft.com/dashboard/support/servicerequests).
 
-## <a name="until-june-30-2021"></a>Até 30 de junho de 2021
+
 
 ### <a name="get-started"></a>Introdução
 
