@@ -14,14 +14,6 @@
       displayName: mpn
     - name: Resolver problemas de configuração de conta
       href: troubleshoot-account-sign-n.md
-    - name: Mudar para o Partner Center
-      items:
-        - name: Mudar do PAC - descrição geral
-          href: pac-to-pc-overview.md
-        - name: Comparar tarefas em PAC e PC
-          href: moving-from-pac-to-pc.md
-        - name: Executar tarefas de PAC em PC
-          href: o365-partner-admin-center-to-partner-center.md
     - name: Mudanças de PMC
       items:
         - name: Preparar a migração de PMC
@@ -159,8 +151,6 @@
     - name: 'Contratos CSP, listas de preços, ofertas'
       href: csp-documents-and-learning-resources.md
       displayName: csp
-    - name: Gestão de Custos do Azure para CSPs
-      href: azure-cost-management-app-for-csp-partners.md
     - name: 'Mercados regionais de CSP, moedas'
       href: regional-authorization-overview.md
       displayName: 'regio, region, csp'
