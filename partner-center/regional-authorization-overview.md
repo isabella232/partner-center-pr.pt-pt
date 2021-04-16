@@ -1,7 +1,7 @@
 ---
 title: Mercados globais da CSP
 ms.topic: article
-ms.date: 06/05/2020
+ms.date: 04/15/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Veja os países, regiões e moedas onde pode vender ofertas de CSP, com base na localização da sua empresa.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 98ad8e3f78b8181013b21d6146744337de6976bd
-ms.sourcegitcommit: 175fa04ba45a1133b77d8055a0123561bd987415
+ms.openlocfilehash: 216103ae3e94b7ba1525f9fa1199d0bf0311fd0b
+ms.sourcegitcommit: 9f6be9bc8d9a065422d1ec8388bd770eb6cd9f33
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "96926666"
+ms.lasthandoff: 04/16/2021
+ms.locfileid: "107528607"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies-where-you-can-sell-csp-offers"></a>Cloud Solution Provider programa mercados regionais e moedas onde pode vender ofertas de CSP
 
@@ -24,10 +24,15 @@ Por exemplo, se a sua empresa estiver localizada nos Estados Unidos, pode vender
 
 Antes de poder encomendar ofertas de CSP em nome de um cliente, o cliente deve assinar o Microsoft Customer Agreement. Pode encontrar [aqui](agreements.md)o Acordo de Cliente da Microsoft aplicável para a sua região/país.
 
+## <a name="azure-plan-for-csp-region-availability"></a>Plano Azure para a disponibilidade da região da CSP  
+
+O Plano Azure para a CSP está disponível em menos regiões do que o Azure Software para a CSP.  Consulte  [o plano Azure](purchase-azure-plan.md) para ver as últimas atualizações sobre a disponibilidade regional para o Plano Azure. 
+
 >[!IMPORTANT]
 > Tem de confirmar que um cliente aceitou o Acordo de Cliente da Microsoft fornecendo informações sobre a pessoa que o assinou. Consulte [a aceitação de um cliente do Microsoft Customer Agreement](confirm-consent.md) para obter mais detalhes.
 
 Para determinar onde pode vender ofertas de CSP, encontre a localização da sua empresa numa das listas abaixo. Deve ter um ID ativo da Microsoft Partner Network (MPN) para a localização em que pretende vender.  
+
 
 ## <a name="for-unsupported-countries"></a>Para países não apoiados
 
@@ -131,7 +136,7 @@ Se a localização da sua empresa estiver na lista abaixo, pode vender ofertas d
 |  Fiji                  |   AUD    |
 |  Territórios Austrais Franceses| AUD |
 |  Guame                  |  AUD     |
-|  Ilha Heard e Ilhas McDonald| AUD |
+|  Ilhas Heard e McDonald| AUD |
 |  Quiribáti              |   AUD    |
 |  Ilhas Marshall      |   AUD    |
 |  Micronésia            |   AUD    |
@@ -165,7 +170,7 @@ Se a localização da sua empresa estiver na lista abaixo, pode vender ofertas d
 |  País/Região | Moeda |
 |  -------------- |:--------:|
 |  Canadá         |   CAD    |
-|  São Pedro e Miquelon|  CAD   |
+|  São Pedro e Miquelão|  CAD   |
 |
 
 ## <a name="europe-region-and-market"></a>Região e mercado da Europa
@@ -264,7 +269,7 @@ Se a localização da sua empresa estiver na lista abaixo, pode vender ofertas d
 |  Belize         |   USD    |
 |  Bermudas        |   USD    |
 |  Bolívia        |   USD    |
-|  Rio Bonaire        |   USD    |
+|  Bonaire        |   USD    |
 |  Ilhas Virgens Britânicas|USD|
 |  Ilhas Caimão |   USD    |
 |  Chile          |   USD    |
@@ -292,15 +297,15 @@ Se a localização da sua empresa estiver na lista abaixo, pode vender ofertas d
 |  Paraguai       |   USD    |
 |  Peru           |   USD    |
 |  Porto Rico    |   USD    |
-|  Rio Saba           |   USD    |
-|  São Barthélemy|  USD    |
+|  Saba           |   USD    |
+|  São Bartolomeu|  USD    |
 |  São Cristóvão e Neves|    |
 |  Santa Lúcia    |   USD    |
 |  São Martinho (Saint Martin)   |   USD    |
 |  São Vicente e Granadinas| USD |
-|  Sint Eustatius |   USD    |
+|  Santo Eustáquio |   USD    |
 |  São Martinho (Sint Maarten)   |   USD    |
-|  Ilhas da Geórgia do Sul e Sandwich do Sul| USD|
+|  Ilhas Geórgia do Sul e Sandwich do Sul| USD|
 |  Suriname       |   USD    |
 |  Trindade e Tobago|USD   |
 |  Ilhas Turcas e Caicos| USD|
@@ -399,5 +404,5 @@ Se a localização da sua empresa estiver na lista abaixo, pode vender ofertas d
 |  País/Região       | Moeda |
 |  -------------        |:--------:|
 |  Estados Unidos da América        |   USD    |
-|  Ilhas Menores Distantes dos EUA|   USD    |
+|  Ilhas Desondo dos EUA|   USD    |
 |

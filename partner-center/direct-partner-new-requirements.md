@@ -8,13 +8,13 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.date: 12/15/2020
-ms.openlocfilehash: ac4b6ef6a061a68ef623c7666804a4db1582785f
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.date: 04/15/2021
+ms.openlocfilehash: 2f6fd9ef3fdcc88627b2eb2d257a837d28e097ee
+ms.sourcegitcommit: 9f6be9bc8d9a065422d1ec8388bd770eb6cd9f33
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712211"
+ms.lasthandoff: 04/16/2021
+ms.locfileid: "107528593"
 ---
 # <a name="requirements-to-enroll-as-a-csp-direct-bill-partner"></a>Requisitos para se inscrever como um CSP Direct Bill Partner
 
@@ -33,7 +33,8 @@ Como parceiro de conta direta, é dono da relação de ponta a ponta com o seu c
 |**ID do MPN**   |Uma adesão ativa na Microsoft Partner Network e MPN ID para a localização em que pretende vender.   |
 |**Recomendação**   |A autoridade para aceitar e assinar acordos legais em nome da sua organização.|
 |**Suporte**   |A capacidade de fornecer o primeiro nível de suporte de produto em nuvem aos seus clientes. <br/>Um plano de suporte da Microsoft, ou Suporte Avançado para Parceiros (ASfP) ou Premier Support for Partners (PSfP), dependendo das suas necessidades. [Compare os planos de suporte.](https://partner.microsoft.com/support/partnersupport)<br/>IMPORTANTE: Tem de passar uma verificação de crédito antes de poder adquirir um plano de suporte. Enviaremos um e-mail quando passar o cheque de crédito. |
-|**Requisito de receita**|Deve cumprir pelo menos USD300K no programa Cloud Solution Provider receitas anuais durante os doze meses anteriores como revendedor indireto. Os parceiros podem rever os seus 12 meses de receitas no Partner Center.<br/>As vendas que compõem o seu USD300K com receitas de 12 meses estão sujeitas a revisão e verificação pela Microsoft e poderá ser-lhe pedido que forneça informações adicionais. O requisito de receitas de USD300K é calculado com base nas receitas da nuvem e excluirá software perpétuo em CSP.|
+|**Requisito de receita**|Deve cumprir pelo menos USD300K no programa Cloud Solution Provider receitas anuais durante os doze meses anteriores como revendedor indireto. Verifique se a sua organização está a cumprir o requisito de receita no [Partner Center Analytics.](https://partner.microsoft.com/resources/detail/new-subscription-analytics-report-on-partner-center-guide-pdf) Os parceiros podem rever os seus 12 meses de receitas no Partner Center.<br/>As vendas que compõem o seu USD300K com receitas de 12 meses estão sujeitas a revisão e verificação pela Microsoft e poderá ser-lhe pedido que forneça informações adicionais. O requisito de receitas de USD300K é calculado com base nas receitas da nuvem e excluirá software perpétuo em CSP.|
+|**Requisito da CSP**|Deve transacionar como revendedor indireto por um período mínimo de 12 meses.| 
 |**Contas a receber** |A infraestrutura organizacional em vigor para gerir a faturação e o provisionamento dos clientes.|
 |**Recomendação**|             |
 |**Serviço Gerido**   |Pelo menos um serviço gerido, serviço IP ou aplicação de solução de cliente. Saiba mais sobre a adição de [serviços geridos.](https://partner.microsoft.com/business-opportunities/managed-services-provider)|
@@ -41,9 +42,10 @@ Como parceiro de conta direta, é dono da relação de ponta a ponta com o seu c
 
 ### <a name="verify-direct-bill-eligibility"></a>Verificar elegibilidade da conta direta
 
-Depois de verificar que cumpre os requisitos mínimos para se inscrever como parceiro de conta direta, pode proceder ao [formulário de inscrição.](https://partner.microsoft.com/pcv/register/joinnow/enrollmentwelcome/Reseller/migrate?cloudInstance=Global)
+Depois de verificar que cumpre os requisitos mínimos para se inscrever como parceiro de conta direta, pode proceder ao [formulário de inscrição.](https://forms.office.com/r/0fP4fFT8n8)
 
 Depois de verificarmos que a sua empresa preenche os requisitos de elegibilidade para se inscrever como sócio de conta direta, e você completou o pedido de inscrição, vamos rever e verificar as informações de negócio que forneceu no processo de inscrição. Como parte desta revisão, vamos verificar o crédito da sua empresa. Informá-lo-emos por e-mail quando a sua empresa passar a verificação de crédito.
+
 >[!IMPORTANT]
 >Verificar o crédito da sua empresa pode levar-nos vários dias ou mais para ser concluído. Durante este tempo, é importante que não compre um plano de suporte da Microsoft. Só deve comprar um plano de suporte da Microsoft depois de o informarmos que passou a verificação de crédito.
 
