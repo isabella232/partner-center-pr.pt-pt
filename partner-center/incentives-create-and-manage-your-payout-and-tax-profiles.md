@@ -1,19 +1,19 @@
 ---
 title: Perfis fiscais e de pagamento no Centro de Parceiros
 ms.topic: how-to
-ms.date: 02/24/2021
+ms.date: 04/15/2021
 description: Crie e gere o seu perfil de pagamento e impostos para que possa ser pago pelos seus incentivos. Inclui criar, gerir e usar perfis diferentes.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 5079649746d673ea4dee40264afe4ea61671a9a2
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 4a931f1d971ea3e3bc288f70e85a6600596761cc
+ms.sourcegitcommit: 9f6be9bc8d9a065422d1ec8388bd770eb6cd9f33
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179535"
+ms.lasthandoff: 04/16/2021
+ms.locfileid: "107528553"
 ---
 # <a name="create-and-manage-incentives-payout-and-tax-profiles-in-partner-center"></a>Criar e gerir incentivos no pagamento e perfis fiscais no Partner Center
 
@@ -25,7 +25,7 @@ ms.locfileid: "106179535"
 
 Para receber o pagamento pelos seus programas de incentivos para uma determinada localização MPN, tem de completar a inscrição ao associar um perfil de pagamento e perfil fiscal válido ao programa e à localização MPN. A Microsoft utilizará este perfil de pagamento e perfil fiscal para emitir os pagamentos. Poderá ser permitida a utilização de transferências bancárias eletrónicas ou de notas de crédito para efeitos de pagamento, dependendo das regras do programa de incentivos. 
 
-## <a name="roles-currencies-and-other-microsoft-programs"></a>Funções, moedas e outros programas da Microsoft
+## <a name="roles-currencies-and-multiple-microsoft-incentive-programs"></a>Funções, moedas e vários programas de incentivo da Microsoft
 
 É importante entender a informação abaixo antes de começar com o seu pagamento e perfil fiscal.
 
@@ -50,19 +50,19 @@ Se a sua empresa estiver matriculada em vários programas de incentivo, pode uti
 As secções abaixo irão acompanhar-te através do processo de criação e gestão de perfis de pagamento e impostos no Partner Center.
 
 >[!IMPORTANT]
->Deve ser um administrador de incentivo para criar ou gerir perfis de pagamento no Partner Center. As funções de incentivo devem ser atribuídas a cada localização MPN ao abrigo de cada programa de incentivo. Para obter mais informações sobre como adicionar administradores de incentivo no Partner Center, consulte [Criar contas de utilizador](create-user-accounts-and-set-permissions.md).
+>Você deve ser um administrador de incentivo para criar ou gerir perfis de pagamento e impostos no Partner Center. As funções de incentivo devem ser atribuídas a cada localização MPN ao abrigo de cada programa de incentivo. Para obter mais informações sobre como adicionar administradores de incentivo no Partner Center, consulte [Criar contas de utilizador](create-user-accounts-and-set-permissions.md).
 
 ## <a name="access-the-payout-and-tax-section-in-partner-center"></a>Aceda à secção de pagamentos e impostos no Partner Center
 
 1. Inscreva-se no painel de [instrumentos](https://partner.microsoft.com/dashboard/) do Partner Center utilizando a sua conta Azure Ative (Azure AD) (conta da empresa) ou o endereço de e-mail apropriado se um for atribuído.
 
    - Vários domínios podem ser registados dentro de uma conta AD Azure. Contacte o seu administrador Global para determinar quais os domínios associados.
-   - Se só conseguir fazer login com o @onmicrosoft.com domínio, contacte o administrador da conta para adicionar domínios adicionais à conta Azure AD.
+   - Se só conseguir iniciar scontabilidade com o @onmicrosoft.com domínio e precisar de domínios adicionais, contacte o administrador da conta para adicionar domínios adicionais à conta Azure AD.
    - Se lhe for solicitado que selecione **conta de trabalho ou escola** ou conta **pessoal,** selecione **Trabalho ou conta escolar**.
 
 2. Selecione o ícone de engrenagem para abrir o menu **Definições** e, em seguida, selecione **as definições de Conta**.
 
-3. No menu **de definições de conta,** selecione **Payout e tax**. 
+3. No menu **de definições de conta,** selecione **Payout e tax**.
 
 ## <a name="assign-payout-and-tax-profiles-to-individual-programs"></a>Atribuir perfis de pagamento e impostos a programas individuais
 
@@ -72,7 +72,7 @@ As secções abaixo irão acompanhar-te através do processo de criação e gest
    
    Será apresentada uma lista dos seus programas. Selecione a seta ao lado de um programa para ver os detalhes do perfil. 
 
-3. No menu de entrega **do Perfil Fiscal,** selecione o perfil de imposto que deseja ou selecione a opção para criar um novo perfil. Quando selecionar a opção para criar um novo perfil, será redirecionado adequadamente.  Selecione Continue na janela pop-up. O processo de criação de um novo perfil fiscal foi apresentado abaixo.
+3. No menu de entrega **do Perfil Fiscal,** selecione o perfil de imposto que deseja ou selecione a opção para criar um novo perfil. Quando selecionar a opção para criar um novo perfil, será redirecionado adequadamente.  **Selecione Continue** na janela pop-up. O processo de criação de um novo perfil fiscal é fornecido abaixo.
 
 4. Selecione **o método de pagamento**.
 
@@ -94,17 +94,37 @@ As secções abaixo irão acompanhar-te através do processo de criação e gest
    
       Nos países que exigem explicitamente aos parceiros o pedido de aplicação de uma isenção fiscal, haverá a opção de aplicar a isenção fiscal junto ao perfil fiscal na secção de perfil fiscal do programa de incentivos e localização MPN. A verificação desta caixa aplicará benefícios de isenção fiscal à sua nota de crédito de incentivo. 
    
-      Atualmente, este método de pagamento está disponível apenas para parceiros austrália, Nova Zelândia e Canadá para o programa de incentivo ao comércio microsoft. Se você é um parceiro de conta direta ou fornecedor indireto nestes três países inscritos para o programa MCI e você não vê a nota de crédito LRD como o método de pagamento disponível, então confirme que o seu ID do inquilino está associado com a conta de localização mpn do parceiro relevante. Para mais informações sobre esta [leitura, leia como atualizar o seu perfil de organização.](update-your-partner-profile.md)
+      Atualmente, o método de pagamento LRD Credit Note está disponível apenas para parceiros austrália, Nova Zelândia e Canadá para o programa de incentivo ao comércio microsoft. Se você é um parceiro de conta direta ou fornecedor indireto nestes três países inscritos para o programa MCI e você não vê a nota de crédito LRD como o método de pagamento disponível, então confirme que o seu ID do inquilino está associado com a conta de localização mpn do parceiro relevante. Para mais informações sobre esta [leitura, leia como atualizar o seu perfil de organização.](update-your-partner-profile.md)
 
     
 5. Selecione a **Moeda**.
 
 6. Quando tiver concluído todos os campos de pagamento, **selecione Enviar por isso.**
 
+## <a name="set-up-a-default-bank-profile"></a>Configurar um perfil bancário predefinido
+
+Pode configurar perfis bancários predefinidos e atribuí-los a localizações mpn. Estes perfis predefinidos serão utilizados pela Microsoft para posteriores inscrições para essa localização MPN. 
+
+1. Inscreva-se no [painel de instrumentos Partner Center](https://partner.microsoft.com/dashboard/)e, em seguida, selecione o ícone de engrenagem para abrir o menu **Definições.**   
+
+2. Selecione **as definições de Conta,** expanda a secção **de Pagamento e Imposto** e, em seguida, selecione Payout e tax **profiles**. 
+
+3. **Selecione Gerir os perfis predefinidos** na secção perfis de **pagamento.** 
+
+4. Para criar um perfil bancário predefinido **selecione Adicione um perfil bancário predefinido**. 
+
+5. Selecione um perfil bancário da lista de perfis bancários disponíveis da sua empresa, selecione a moeda a utilizar com este perfil bancário e, em seguida, selecione a lista de localizações mpn para as quais pretende que este perfil predefinido se aplique.
+
+6. Selecione **Feito** uma vez concluídas as seleções. O botão Done não será clicável até que todos os campos necessários estejam concluídos. 
+
+>[!NOTE]
+>O mesmo banco e emparelhamento de moedas pode ser aplicado em vários locais. Se a localização MPN tiver sido atribuída uma combinação de perfil padrão e moeda uma vez, deixará de aparecer na localização para futuras atribuições de perfil predefinido. Se a seleção predefinida for eliminada, a localização MPN reaparecerá para futuras atribuições de perfil predefinido. Cada perfil bancário e combinação de moedas é adicionado como uma linha única e editável.
+
+7. Uma vez adicionadas todas as alterações necessárias, **selecione Save**.  
 
 ## <a name="create-your-bank-profile"></a>Crie o seu perfil bancário
 
-Os perfis bancários são criados a nível de organização. Isto permite que um perfil bancário seja atribuído em vários programas de ID e incentivos de MPN dentro de uma organização. Pode haver exceções na aplicação do perfil bancário a diferentes países, uma vez que podem ser aplicadas diferentes regras bancárias e fiscais.
+Os perfis bancários são criados a nível da empresa. Isto permite que um perfil bancário seja atribuído em vários programas de ID e incentivos de MPN dentro de uma empresa. Pode haver exceções na aplicação do perfil bancário a diferentes países, uma vez que podem ser aplicadas diferentes regras bancárias e fiscais.
 
 >[!NOTE]
 >Nas páginas seguintes, são necessários campos com asterisco. Se não sabe o que é um campo, selecione o ícone da informação. 
@@ -157,6 +177,20 @@ Para empresas parceiras nas Américas, se necessitar de informações sobre o pr
 8. Para guardar e continuar, **selecione Terminar**.
 
 9. **Selecione Confirme** na mensagem pop-up. Você será levado de volta para a página **de pagamento e configuração de impostos.**
+ 
+## <a name="update-expired-tax-profiles"></a>Atualizar perfis de impostos caducados
+
+1. Inscreva-se no [painel de instrumentos Partner Center](https://partner.microsoft.com/dashboard/)e, em seguida, selecione o ícone de engrenagem para abrir o menu **Definições.**
+
+1. Selecione **as definições de Conta,** expanda a secção **de Pagamento e Imposto** e, em seguida, selecione Payout e tax **profile**.
+
+1. Selecione **perfil fiscal**.
+
+1. Verifique a **data de validade** da coluna e navegue para o perfil fiscal que está caducado ou prestes a expirar.
+
+1. Selecione **Editar**.
+
+1. Na secção de formulário fiscal, atualize os formulários fiscais fornecendo os novos detalhes. 
 
 ## <a name="next-steps"></a>Passos seguintes
 
