@@ -10,17 +10,111 @@ ms.custom:
 - announcement
 - references_regions
 ms.localizationpriority: high
-ms.date: 04/08/2021
-ms.openlocfilehash: 441d41e6212399657124b6116e1f2c05ce734211
-ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
+ms.date: 04/16/2021
+ms.openlocfilehash: 68635b4c02ddbbcaa6cbf02166a7cf123aaf2c6e
+ms.sourcegitcommit: 4212cd168f3a9a73f6ed05109b0eecb96827ec04
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "107266525"
+ms.lasthandoff: 04/17/2021
+ms.locfileid: "107584183"
 ---
 # <a name="april-2021-announcements"></a>Anúncios de abril de 2021
 
 Esta página fornece os anúncios para o Microsoft Partner Center para abril de 2021.
+
+________________
+## <a name="now-live-global-promo-readiness-guide"></a><a name="6"></a>Agora ao vivo: Guia global de prontidão promocional
+
+### <a name="categories"></a>Categorias
+
+- Data: 2021-04-16
+- Capacidades
+
+### <a name="summary"></a>Resumo
+
+A Prontidão de Lançamento publicou um novo [guia global de prontidão promocional](https://partner.microsoft.com/resources/detail/operations-promo-guide-pdf) na galeria de recursos de prontidão de operações. Este guia proporciona uma visão consolidada de todas as [promoções globais ativas.](https://partner.microsoft.com/resources/collection/global-promo-readiness-guide-collection#/)
+
+### <a name="impacted-audience"></a>Audiência impactada
+
+Todos os parceiros de Licenciamento de Volume (VL), Dynamics Price List (DPL) e Cloud Solution Provider (CSP)
+
+### <a name="details"></a>Detalhes
+
+Os parceiros da Microsoft partilharam connosco a necessidade de fornecer uma visão consolidada de todas as promoções globais com detalhes de suporte. Você queria este guia consolidado para ajudá-lo a usar promoções com a confiança de que toda a informação disponível será facilmente acessível em um local central e conveniente.
+
+A partir de abril de 2021, a Microsoft atualizará este guia mensalmente, estando disponível numa coleção dedicada global promo promoinginess Guide na galeria de recursos de prontidão de operações.
+
+As ligações a este guia também serão incluídas nas seguintes coleções:
+
+- [A coleção de calendário](https://partner.microsoft.com/resources/collection/csp-announcement-calendar#/)de lançamento, que proporciona uma visão centralizada das próximas mudanças e lançamentos.
+
+- [Coleções comunitárias](https://partner.microsoft.com/resources/collection/april-2021-csp-partner-community-content#/), que contêm materiais de apoio para as nossas chamadas mensais de parceiros, destacando as próximas mudanças e temas oportunos de interesse operacional.
+
+- [Newsletters de parceiros](https://partner.microsoft.com/resources/collection/csp-monthly-update#/), tais como CSP Monthly Update
+
+Como lembrete mensal, também publicaremos um anúncio do Partner Center com cada nova edição do guia global de prontidão promocional.
+
+### <a name="next-steps"></a>Passos seguintes
+
+No início de cada mês, encontrará o mais recente [guia global de prontidão promocional](https://partner.microsoft.com/resources/detail/operations-promo-guide-pdf) na galeria de recursos de [prontidão de operações.](https://partner.microsoft.com/resources)
+
+Partilhe esta informação com os contactos adequados nas suas organizações e informe-nos de quão útil o guia é através do "Foi útil esta página?" botão no final de cada página.
+
+________________
+## <a name="april-cloud-solution-provider-csp-community-update-and-reminders"></a><a name="5"></a>Atualização e lembretes da comunidade April Cloud Solution Provider (CSP)
+
+### <a name="categories"></a>Categorias
+
+- Data: 2021-04-16
+- | comunitários Convites e lembretes
+
+### <a name="summary"></a>Resumo
+
+Os recursos comunitários da CSP estão disponíveis a pedido e atualizados mensalmente para mantê-lo informado e preparado para a mudança no programa CSP.
+
+### <a name="impacted-audience"></a>Audiência impactada
+
+Parceiros de conta direta da CSP e fornecedores indiretos
+
+### <a name="details"></a>Detalhes
+
+Este mês, os recursos incluem os seguintes tópicos-chave:
+
+- [Atualização para evolução do programa CSP e alterações do programa Open License](https://partner.microsoft.com/resources/collection/csp-open-evolution-to-a-better-experience#/)
+
+- [Alterações aos requisitos de embarque de clientes da CSP em determinadas regiões](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/)
+
+- [Novo formato para a nova fatura PDF do comércio no programa CSP](https://partner.microsoft.com/resources/collection/introducing-new-format-for-the-new-commerce-invoice-in-csp#/)
+
+Dentro da [coleção comunitária CSP,](https://partner.microsoft.com/resources/collection/april-2021-csp-partner-community-content#/)você encontrará:
+
+- A [newsletter de Atualização Mensal da CSP,](https://partner.microsoft.com/resources/detail/csp-monthly-update-april-2021-global)que agrega anúncios, atualizações, eventos e lembretes recentes num documento de fácil leitura.
+
+- O [Calendário de Anúncios da CSP,](https://partner.microsoft.com/resources/detail/csp-announcement-calendar-april-2021)que fornece uma visão de linha do tempo das próximas alterações que afetam o programa.
+
+- O novo [calendário de lançamento do produto,](https://partner.microsoft.com/resources/detail/product-launch-calendar-april-pdf)onde pode ver os próximos lançamentos e ofertas de produtos.
+
+- [A CSP lança recursos](https://partner.microsoft.com/resources/collection/april-2021-csp-launch-topics-collection#/) de atualização com conteúdo fácil de consumir em mudanças operacionais chave.
+
+- [Refreshers e lembretes](https://partner.microsoft.com/resources/detail/csp-april-2021-refreshers-and-reminders-pdf) sobre os principais tópicos da CSP que recebem interesse e consultas.
+
+#### <a name="csp-community-call-qas"></a>CSP Community Call Q&As
+
+A Chamada Comunitária Q&Como estão disponíveis para o ajudar com questões relacionadas com as próximas alterações. Registe-se agora para a CSP Community Call Q&Tal como está a decorrer em abril, maio e junho. Estes irão focar-se nos mais recentes lançamentos, atualizações importantes e lembretes.
+
+[Registe-se aqui.](https://globalpbocomm.eventbuilder.com/GlobalCSP)
+
+### <a name="next-steps"></a>Passos seguintes
+
+Reveja os recursos comunitários e registe-se para a Chamada Comunitária Q&A.
+
+Para garantir que obtém o máximo da Chamada Comunitária Q&A, reveja o conteúdo da comunidade a pedido e envie as suas perguntas até 48 horas antes da chamada.
+
+### <a name="questions"></a>Perguntas?
+
+A chamada comunitária mensal CSP Q&A é o melhor local para questões relacionadas com alterações no programa CSP. Todos os meses, reveja o material e envie as suas perguntas com antecedência para que possamos passar a sessão sobre os tópicos que são mais importantes para si.
+
+Para mais informações, contacte [o Suporte.](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp)
 
 ________________
 ## <a name="reminder-deprecation-of-get-qualification-on-may-4-2021"></a><a name="4"></a>Lembrete: Depreciação da qualificação get em 4 de maio de 2021

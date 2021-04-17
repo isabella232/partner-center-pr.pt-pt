@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/08/2021
-ms.openlocfilehash: c2941c6dcda9551a97ca903f050488ea8fe363c1
-ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
+ms.openlocfilehash: 9fd3dcb98ec0105e17fb107ba75c35916cd108db
+ms.sourcegitcommit: 4212cd168f3a9a73f6ed05109b0eecb96827ec04
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "107266457"
+ms.lasthandoff: 04/17/2021
+ms.locfileid: "107584200"
 ---
 # <a name="partner-center-announcements"></a>Anúncios do Centro de Parceiros
 
@@ -22,6 +22,8 @@ Saiba mais sobre atualizações importantes do Centro de Parceiros. Estas inform
 
 |**Categoria**|**Anúncios de abril de 2021**|**Anunciado**|
 |---------|:---------|:---------|
+|Capacidades|[Agora ao vivo: Guia global de prontidão promocional](2021-april.md#6)|16 de abril|
+|Comunidade: Convites e lembretes|[Atualização e lembretes da comunidade April Cloud Solution Provider (CSP)](2021-april.md#5)|16 de abril|
 |Capacidades|[Lembrete: Depreciação da qualificação get em 4 de maio de 2021](2021-april.md#4)|9 de abril|
 |Capacidades|[Novo formato para o novo comércio fatura PDF em CSP](2021-april.md#3)|5 de abril|
 |Capacidades|[Alterações dos requisitos de inclusão de clientes do programa Fornecedor de Soluções Cloud (CSP)](2021-april.md#2)|2 de abril|
