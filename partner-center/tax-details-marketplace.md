@@ -3,16 +3,15 @@ title: Detalhes fiscais para o mercado comercial da Microsoft
 description: Conheça as considerações fiscais para a seleção de preços, implicações no pagamento e responsabilidade fiscal pelos seus países/regiões de distribuição.
 ms.topic: conceptual
 ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
 author: mingshen-ms
 ms.author: mingshen
-ms.date: 01/29/2021
-ms.openlocfilehash: 94ba6c89eec50ed59235f79f6712a0b96c5024ab
-ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
+ms.date: 04/16/2021
+ms.openlocfilehash: fcd3905777cd69665158ebff73f115bf6dd00b9d
+ms.sourcegitcommit: 1f090ea858b25d1d0664d6e94cb4a6898e91dd85
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "104768742"
+ms.lasthandoff: 04/19/2021
+ms.locfileid: "107715923"
 ---
 # <a name="tax-details-for-commercial-marketplace-publishers"></a>Informações fiscais para publicadores do marketplace comercial
 
@@ -20,38 +19,100 @@ ms.locfileid: "104768742"
 
 - Administrador global
 
-Esta página descreve as responsabilidades fiscais e considerações fiscais para editores de marketplace comercial (Editores) e Desenvolvedores de Mercado de Consumo (Desenvolvedores) para compras finais de produtos editores/desenvolvedores de acordo com o [Microsoft Azure Marketplace Publisher Agreement](https://go.microsoft.com/fwlink/p/?LinkID=699560) e o App Developer [Agreement,](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4o4bH)respectivamente. As informações abaixo são além, e não se destinam a substituir, os termos e condições no Microsoft Publisher Agreement e no App Developer Agreement. Salvo indicação em contrário, as informações abaixo aplicam-se tanto aos Editores de Marketplace Comercial como aos Desenvolvedores de Mercado de Consumo que disponibilizam os seus produtos/ofertas para venda através do Microsoft Marketplaces. 
+Esta página define as responsabilidades fiscais e considerações fiscais para editores de marketplace comercial (Editores) e Desenvolvedores de Mercado de Consumo (Desenvolvedores) no âmbito das compras finais de produtos editores/desenvolvedores de acordo com o [Microsoft Azure Marketplace Publisher Agreement](https://go.microsoft.com/fwlink/p/?LinkID=699560) e o App Developer [Agreement,](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4o4bH)respectivamente.  As informações abaixo são além, e não se destinam a substituir, os termos e condições no Microsoft Publisher Agreement e no App Developer Agreement.  Salvo indicação em contrário, as informações abaixo aplicam-se tanto aos Editores de Marketplace Comercial como aos Desenvolvedores de Mercado de Consumo que disponibilizam os seus produtos/ofertas para venda através do Microsoft Marketplaces. 
 
 ## <a name="end-customer-taxation"></a>Fim da Tributação do Cliente
 
-Cada uma das responsabilidades da Microsoft e da Publishers/Developers para vendas, uso, bens e serviços, valor acrescentado ou impostos semelhantes, se houver, sobre vendas de clientes finais **(End Customer Taxation)** depende do país em que os Editores/Desenvolvedores optam por disponibilizar produtos/ofertas para venda a clientes finais através do Microsoft Marketplace(s). O quadro abaixo descreve as circunstâncias e a responsabilidade pela tributação do cliente final em países com vendas elegíveis através do Microsoft Marketplace(s). As informações abaixo estão sujeitas a alterações, e os Editores/Desenvolvedores são responsáveis por rever esta página para obter informações atuais e precisas.
+Cada uma das responsabilidades da Microsoft e da Publishers/Developers para vendas, uso, bens e serviços, valor acrescentado ou impostos semelhantes, se houver, sobre vendas de clientes finais **(End Customer Taxation)** depende do país em que os Editores/Desenvolvedores optam por disponibilizar produtos/ofertas para venda a clientes finais através do Microsoft Marketplace(s). O quadro abaixo define as circunstâncias e a responsabilidade pela tributação do cliente final em países com vendas elegíveis através do Microsoft Marketplace(s).  As informações abaixo estão sujeitas a alterações, e os Editores/Desenvolvedores são responsáveis por rever esta página para obter informações atuais e precisas.
 
-Nos **países geridos por editor/desenvolvedor,** a Microsoft atua como agente ou comissionário (conforme aplicável) do Editor/Desenvolvedor. Os editores/desenvolvedores reconhecem e concordam que os Editores/Desenvolvedores têm a única responsabilidade de determinar todo o cumprimento necessário e de gerir a Tributação do Cliente Final, incluindo, mas não se limitando ao registo, cálculo fiscal, cobrança fiscal, remessa de impostos, validação do estado comercial dos clientes e fornecimento de faturas fiscais aos clientes. Os editores/desenvolvedores reconhecem que, no que diz respeito a qualquer venda num País Gerido por Editores/Desenvolvedores, a Microsoft pode atualmente não ser capaz de fornecer os detalhes de transação necessários para que os Editores/Desenvolvedores forneçam aos clientes faturas fiscais. 
+Nos **países geridos pelo Publisher/Developer,** a Microsoft atua como agente ou comissionário (conforme aplicável) da Editora/Desenvolvedor. Os editores/desenvolvedores reconhecem e concordam que os Editores/Desenvolvedores têm a única responsabilidade de determinar todo o cumprimento necessário e de gerir a Tributação do Cliente Final, incluindo, mas não se limitando ao registo, cálculo fiscal, cobrança fiscal, remessa de impostos, validação do estado comercial dos clientes e fornecimento de faturas fiscais aos clientes. Os editores/desenvolvedores reconhecem que, no que diz respeito a qualquer venda num País Gerido editor/desenvolvedor, a Microsoft pode atualmente não ser capaz de fornecer os detalhes de transação necessários para que os Editores/Desenvolvedores forneçam aos clientes faturas fiscais. 
 
 Nos **países geridos pela Microsoft,** a Microsoft atua como agente do Editor/Desenvolvedor. A Microsoft assume a responsabilidade de gerir a Tributação final do cliente, incluindo o cálculo, cobrança e/ou remissão de determinados impostos. Para o Mercado Comercial, isto também pode incluir a validação do estado comercial dos clientes finais através da obtenção de números de registo fiscal ou certificados de isenção. A Microsoft gere a End Customer Taxing através de filiais locais ou afiliadas remotas que são registadas localmente. Faturas da Microsoft com o número de registo da Microsoft. A Microsoft inclui quaisquer impostos cobrados junto dos clientes finais na declaração de impostos da Microsoft.
 
-A Microsoft gere a End Customer Taxation para editores/desenvolvedores como uma conveniência. A Microsoft não garante que as ações da Microsoft satisfaçam completamente as obrigações da Publisher/Developer nos Microsoft-Managed Países. Para todos os Microsoft-Managed Países, a Microsoft recomenda vivamente que os Editores/Desenvolvedores trabalhem com os seus próprios consultores fiscais para verificar se Microsoft-Managed remessa de impostos aborda suficientemente os requisitos de conformidade da Publishers/Developers. Isto é particularmente crítico para qualquer Microsoft-Managed países de onde a Publishers/Developers vende os seus produtos/ofertas. A Microsoft atua como agente da Publisher/Developer em Microsoft-Managed Countries.
+A Microsoft não garante que as ações da Microsoft satisfaçam completamente as obrigações da Publisher/Developer nos países geridos pela Microsoft.  Para todos os países geridos pela Microsoft, a Microsoft recomenda vivamente que os Editores/Desenvolvedores trabalhem com os seus próprios consultores fiscais para verificar se a remessa de impostos gerida pela Microsoft aborda suficientemente os requisitos de conformidade da Publishers/Developers. Isto é particularmente crítico para qualquer país gerido pela Microsoft a partir dos quais editores/desenvolvedores vendem os seus produtos/ofertas.  A Microsoft atua como um agente da Publisher/Developer em países geridos pela Microsoft.
 
-Nos **países revendedores,** a Microsoft atua como revendedor, em vez de como agente da Editora/Developer, ao disponibilizar produtos/ofertas editoriais/desenvolvedores para venda a clientes finais através do Microsoft Marketplace(s). Os editores/desenvolvedores são responsáveis por vendas, uso, bens e serviços, valor acrescentado ou impostos semelhantes, se houver, sobre a venda de produtos/ofertas à Microsoft, e a Microsoft é responsável por toda a Tributação do Cliente Final sobre a revenda a clientes finais.
+Nos **países revendedores, a** Microsoft atua como revendedor, em vez de como agente da Publisher/Developer, ao disponibilizar produtos/ofertas editoriais/desenvolvedores para venda para clientes finais através do Microsoft Marketplace(s).  Os editores/desenvolvedores são responsáveis por vendas, uso, bens e serviços, valor acrescentado ou impostos semelhantes, se houver, sobre a venda de produtos/ofertas à Microsoft, e a Microsoft é responsável por toda a Tributação do Cliente Final sobre a revenda a clientes finais.
 
 
 ### <a name="publisherdeveloper-managed-countries"></a>Países geridos por editores/desenvolvedores: 
 
-:::image type="content" source="images/tax-two.png" alt-text="Países geridos por editores/desenvolvedores":::
+|   |    |    |   |
+|---------------|:------------------|:--------|:----------|
+|Ilhas Virgens dos Estados Unidos|República Democrática do Congo|Jersey|Ilha Norfolk|
+|Afeganistão|Ilhas Cook|Jordânia|Ucrânia|
+|Albânia|Costa Rica|Cazaquistão|Vanuatu|
+|Argélia|Cote d'Ivore|Quénia|Cidade do Vaticano|
+|Samoa Americana|Curaçau|Quiribáti|Venezuela|
+|Andorra|Dübouti|Koweit|Vietname|
+|Angola|Dominica|Quirguistão|Wallis & Futuna|
+|Anguila|República Dominicana|Laos|Iémen|
+|Antártica|Equador|Líbano|Zâmbia|
+|Antígua & Barbuda|Egito|Lesoto|Uruguai||Macedónia do Norte|
+|Aruba|Salvador|Libéria|
+|Azerbaijão|Guiné Equatorial|Líbia|
+|Bangladesh|Eritreia|Macau |
+|Barbados|Etiópia|Madagáscar|
+|Belize|Ilhas Falkland (Malvinas)|Maláui|
+|Benim|Ilhas Faroé|Maldivas|
+|Bermudas|Fiji|Mali|
+|Butão|Gabão|Ilhas Marshall|
+|Bolívia|Gana|Martinque|
+|Bonaire|Geórgia|Mauritânia|
+|Bósnia & Herzegovina|Gibraltar|Maurícias|
+|Botsuana|Gronelândia|Ma Ote|
+|Ilha Bouvet|Granada|Micronésia|
+|Ilhas Virgens Britânicas|Guadalupe|Moldávia
+|Brunei|Guame|Mongólia|
+|Burkina Faso|Guatemala|Montenegro|
+|Burundi|Guernesey|Montserrate|
+|Cabo Verde|Guiné|Marrocos|
+|Camboja|Guiné-Bissau|Moçambique|
+|Camarões|Guiana|Mianmar|
+|Ilhas Caimão|Haiti|Namíbia|
+|República Centro-Africana|Ilha Heard & Ilhas McDonald|Nauru|
+|Chade|Honduras|Nepal|
+|Ilha do Natal|Iraque|Nicarágua|
+|Cocos (Keeling)Ilhas|Israel|Níger|
+|Comoros|Jamaica|Nigéria|
+|Congo|Japão|Niuê|
 
-### <a name="microsoft-managed-countries"></a>Países Microsoft-Managed:
 
-:::image type="content" source="images/tax-three.png" alt-text="Países geridos pela Microsoft":::
+### <a name="microsoft-managed-countries"></a>Países geridos pela Microsoft
+
+| | |  |  |
+|---------|-----------|--------|----|
+|Arménia|Finlândia|Luxemburgo|Singapura|
+|Áustria|França|Malásia|Eslováquia|
+|Bielorrússia|Alemanha|Malta|Eslovénia|
+|Bulgária|Grécia|Mónaco|África do Sul|
+|Bélgica|Hungria|Países Baixos|Coreia do Sul|
+|Canadá|Islândia|Nova Zelândia|Espanha|
+|Chile|Índia|Noruega|Suécia|
+|Colômbia|Indonésia|Polónia|Suíça|
+|Croácia|Irlanda|Portugal|Taiwan|
+|Chipre|Itália|Roménia|Turquia|
+Checa|Letónia|Rússia|E.A.U.|
+|Dinamarca|Listenstaine|Arábia Saudita|Reino Unido|
+|Estónia|Lituânia|Sérvia|Estados Unidos, incluindo Porto Rico|
+
 
 ### <a name="end-customer-taxation-with-differences-in-marketplace"></a>Tributação de clientes finais com diferenças no mercado
 
-:::image type="content" source="images/tax-one.png" alt-text="Tributação dos clientes finais":::
+|**País**|**Mercado Comercial (Azure Marketplace & AppSource)**| **Mercado do Consumidor (Microsoft Store)**|
+|------------------|:-----------------|:---------------|
+|Brasil|Revendedor exceto: Editor gerido para compras efetuada através do cenário de compra de clientes da CSP|Desenvolvedor gerido exceto: Revendedor para compras feitas através de dispositivos em execução no Windows 10|
+|México|Microsoft gerida exceto: Revendedor para compras através de cenário de compra de clientes de acordo com a empresa|Microsoft gerido|
+|Austrália|Microsoft gerida exceto: Revendedor para compras através de cenário de compra de clientes de acordo com a empresa|Microsoft gerido|
+China|Mercado não habilitado|Revendedor ativado exceto: desenvolvedor gerido para dispositivos de comunicações móveis com windows phone 7.x e em computadores pessoais executando o Windows 8.x|
+|Barém|Editor gerido|Microsoft gerido|
+|Omã|Editor gerido|Microsoft gerido|
 
-## <a name="tax-considerations-on-payouts"></a>Considerações fiscais sobre pagamentos
 
-Nos Países Geridos por Editores/Desenvolvedores, o pagamento da Microsoft aos Editores/Desenvolvedores é a rede da taxa de loja e de quaisquer impostos aplicáveis, que podem incluir qualquer um dos seguintes: retenção na fonte e vendas, uso, bens e serviços, e valor acrescentado ou impostos semelhantes sobre a taxa da loja.
+## <a name="tax-considerations-on-payouts"></a>Considerações fiscais sobre os pagamentos
 
-Nos Microsoft-Managed países e revendedores aplicáveis, o pagamento da Microsoft aos Editores/Desenvolvedores é a rede da taxa de loja e de quaisquer impostos aplicáveis, que podem incluir qualquer um dos seguintes: Imposto final sobre o cliente, retenção na fonte e vendas, uso, bens e serviços, e valor acrescentado ou impostos semelhantes sobre a taxa de loja. Os [relatórios](payout-statement.md) que a Microsoft disponibiliza aos Editores/Desenvolvedores identificam o montante destes impostos. 
+Nos países geridos por Editores/Desenvolvedores, o pagamento da Microsoft aos Editores/Desenvolvedores é líquido da taxa de loja e de quaisquer impostos aplicáveis, que podem incluir qualquer um dos seguintes: retenção na fonte e vendas, uso, bens e serviços, valor acrescentado ou impostos semelhantes sobre a taxa da loja.
+
+Nos países e Revendedores geridos pela Microsoft, o pagamento da Microsoft aos Editores/Desenvolvedores é líquido da taxa de loja e de quaisquer impostos aplicáveis, que podem incluir qualquer um dos seguintes: End Customer Tax, retenção na fonte e vendas, uso, bens e serviços, valor acrescentado ou impostos semelhantes sobre a taxa de loja. Os [relatórios](payout-statement.md) que a Microsoft disponibiliza aos Editores/Desenvolvedores identificam o montante destes impostos. 
 
 A Microsoft cobra imposto sobre as taxas de loja nos seguintes países onde editores/desenvolvedores optam por disponibilizar produtos/ofertas para venda a clientes finais através do Microsoft Marketplace(s):
 
