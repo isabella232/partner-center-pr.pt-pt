@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 04/08/2021
-ms.openlocfilehash: 9fd3dcb98ec0105e17fb107ba75c35916cd108db
-ms.sourcegitcommit: 4212cd168f3a9a73f6ed05109b0eecb96827ec04
+ms.date: 04/19/2021
+ms.openlocfilehash: b96832fe4450cadd2da83e4cf9697f1f16bc81a3
+ms.sourcegitcommit: 8dec892d3ff82c4d4753082a603f3b7b4c13c248
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/17/2021
-ms.locfileid: "107584200"
+ms.lasthandoff: 04/19/2021
+ms.locfileid: "107728951"
 ---
 # <a name="partner-center-announcements"></a>Anúncios do Centro de Parceiros
 
@@ -22,6 +22,7 @@ Saiba mais sobre atualizações importantes do Centro de Parceiros. Estas inform
 
 |**Categoria**|**Anúncios de abril de 2021**|**Anunciado**|
 |---------|:---------|:---------|
+|Cresça o seu negócio|[Programa de Licenciamento Aberto: Revendedores de transição para o programa Cloud Solution Provider (CSP)](2021-april.md#7)|19 de abril|
 |Capacidades|[Agora ao vivo: Guia global de prontidão promocional](2021-april.md#6)|16 de abril|
 |Comunidade: Convites e lembretes|[Atualização e lembretes da comunidade April Cloud Solution Provider (CSP)](2021-april.md#5)|16 de abril|
 |Capacidades|[Lembrete: Depreciação da qualificação get em 4 de maio de 2021](2021-april.md#4)|9 de abril|

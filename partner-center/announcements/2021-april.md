@@ -10,17 +10,85 @@ ms.custom:
 - announcement
 - references_regions
 ms.localizationpriority: high
-ms.date: 04/16/2021
-ms.openlocfilehash: 68635b4c02ddbbcaa6cbf02166a7cf123aaf2c6e
-ms.sourcegitcommit: 4212cd168f3a9a73f6ed05109b0eecb96827ec04
+ms.date: 04/19/2021
+ms.openlocfilehash: 4da672da3ee96d0fb3aea7919ea85214ec8c976f
+ms.sourcegitcommit: 8dec892d3ff82c4d4753082a603f3b7b4c13c248
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/17/2021
-ms.locfileid: "107584183"
+ms.lasthandoff: 04/19/2021
+ms.locfileid: "107728934"
 ---
 # <a name="april-2021-announcements"></a>Anúncios de abril de 2021
 
 Esta página fornece os anúncios para o Microsoft Partner Center para abril de 2021.
+
+________________
+## <a name="open-licensing-program-transitioning-resellers-to-the-cloud-solution-provider-csp-program"></a><a name="7"></a>Programa de Licenciamento Aberto: Revendedores de transição para o programa Cloud Solution Provider (CSP)
+
+### <a name="categories"></a>Categorias
+
+- Data: 2021-04-19
+- Cresça o seu negócio
+
+### <a name="summary"></a>Resumo
+
+Esta comunicação detalha como se preparar para as alterações que estão para breve no programa open licensing.
+
+### <a name="impacted-audience"></a>Audiência impactada
+
+CSP e parceiros de Licença Aberta
+
+### <a name="details"></a>Detalhes
+
+Em 2020, a Microsoft [anunciou](https://blogs.partner.microsoft.com/mpn/general-availability-of-perpetual-software-licenses-in-the-cloud-solution-provider-program/) que as licenças de software perpétuos estarão amplamente disponíveis para parceiros e clientes através do programa Cloud Solution Provider (CSP). O primeiro marco foi alcançado em janeiro de 2021, quando as ofertas comerciais de software perpétuo ficaram disponíveis. O próximo marco-chave acontecerá em julho de 2021, quando as ofertas do [sector público](https://aka.ms/openlicensepublicsector) ficarem disponíveis. Também [comunicámos](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/) que a partir de 1 de janeiro de 2022, nenhuma nova compra de licença de software ou renovações de Software Assurance ou serviços online pode ser feita através do programa Open License.
+
+A transição do software perpétuo para o programa CSP na nova experiência de comércio ajudará os parceiros a expandir as oportunidades para oferecer soluções diversas e serviços geridos. Isto também vai acelerar a transição dos clientes para a nuvem.  Para ajudar a garantir uma transição suave tanto para os nossos parceiros como para os nossos clientes, fizemos estes ajustes e materiais para acelerar esta transformação digital:
+
+#### <a name="april-2021"></a>abril de 2021
+
+[Disponível:](https://partner.microsoft.com/resources/collection/reseller-open-license-to-csp-transition-materials#/)Abrir materiais de transição licença-csp para revendedores
+
+#### <a name="july-2021"></a>julho de 2021
+
+##### <a name="csp"></a>CSP
+
+- 1 de julho: Licenças de software perpétuos disponíveis para clientes do sector público
+
+- 7 de julho: Visual Studio Pro e Obter licenças de software perpétuos do Acordo de Windows genuínas disponíveis para todos os segmentos
+
+##### <a name="open-value"></a>Valor Aberto
+
+- 1 de julho: SKUs adicionais disponíveis no programa Open Value para educação e sem fins lucrativos, oferecendo ofertas semelhantes ao programa De Licença Aberta
+
+##### <a name="open-license"></a>Licença Aberta
+
+- 1 de julho: A Microsoft deixará de lançar novas ofertas no programa Open License.
+
+#### <a name="january-2022"></a>janeiro de 2022
+
+- 1 de janeiro: Não podem ser feitas novas compras ou renovações através do programa Licença Aberta
+
+### <a name="next-steps"></a>Passos seguintes
+
+#### <a name="csp-indirect-providers"></a>Fornecedores indiretos da CSP
+
+Utilize os próximos meses para ajudar os revendedores open license orientando para o programa CSP, assistindo a eventos comunitários parceiros e usando os materiais de transição Open License-to-CSP para revendedores:
+
+- [Abra materiais de transição licença-para-CSP para revendedores](https://partner.microsoft.com/resources/collection/reseller-open-license-to-csp-transition-materials#/)— Apresentação geral personalizável, modelo de e-mail, guia de revendedor indireto CSP e muito mais para ajudá-lo a conduzir a adoção para os seus revendedores em escala.
+
+- [CSP Partner Community Events](https://globalpbocomm.eventbuilder.com/GlobalCSP) organizados pela Microsoft Business Operations.  Junte-se às várias sessões para aprender básicos de CSP (CSP Fundamentals) ou ficar atualizado, e fazer perguntas sobre Software em CSP (Q&A Sessions).
+
+- (Em breve) Sessão de formação centrada no revendedor indireto da CSP, organizada pela Microsoft Business Operations.
+
+#### <a name="open-license-resellers"></a>Revendedores de Licença Aberta
+
+- Se a sua organização não estiver atualmente inscrita no programa CSP, contacte o seu distribuidor para obter informações sobre como começar. Conecte-se com um fornecedor indireto [aqui.](https://partner.microsoft.com/membership/cloud-solution-provider/find-a-provider)
+
+- Se a sua organização já está inscrita no programa CSP, saiba mais sobre software perpétuo em CSP [aqui.](https://partner.microsoft.com/resources/collection/software-in-csp)
+
+### <a name="questions"></a>Perguntas?
+
+Para mais perguntas sobre estas ofertas, consulte as suas comunidades Yammer relevantes.
 
 ________________
 ## <a name="now-live-global-promo-readiness-guide"></a><a name="6"></a>Agora ao vivo: Guia global de prontidão promocional
