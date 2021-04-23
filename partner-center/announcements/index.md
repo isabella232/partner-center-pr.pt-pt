@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 04/20/2021
-ms.openlocfilehash: 47723bd4b2deed703e224f7151a1d85a478aa8a7
-ms.sourcegitcommit: 0488a6cca02dafbfc84211643035212296df9689
+ms.date: 04/22/2021
+ms.openlocfilehash: 4e5faf1467ea12aac8f4dfaa4c35455159f64632
+ms.sourcegitcommit: 1e1aea329fdeef526e5273d2a4d8f5ec767ac49c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/21/2021
-ms.locfileid: "107823372"
+ms.lasthandoff: 04/23/2021
+ms.locfileid: "107917621"
 ---
 # <a name="partner-center-announcements"></a>Anúncios do Centro de Parceiros
 
@@ -76,7 +76,7 @@ Saiba mais sobre atualizações importantes do Centro de Parceiros. Estas inform
 |Capacidades|[Migração do DocuSign para o Adobe Sign para parceiros abrangidos por Contratos de Parceiro da Microsoft (MPAs)](2021-january.md#7)|15 de janeiro|
 |Ofertas/Mercados|[Atualização de preços comerciais para a coroa norueguesa](2021-january.md#6)|14 de janeiro|
 |Ofertas/Mercados|[Atualização de preços comerciais para a rupia indiana](2021-january.md#5)|8 de janeiro|
-|Ofertas/Mercados|[Atualizações do Plano de Chamadas e do Sistema Telefónico para 1 de fevereiro de 2021](2021-january.md#4)|8 de janeiro|
+|Ofertas/Mercados|[Atualizações do Plano de Chamada e do Sistema Telefónico para 1 de fevereiro de 2021](2021-january.md#4)|8 de janeiro|
 |Ofertas/Mercados|[Atualizações de lista de preços com base em licenças para janeiro de 2021](2021-january.md#3)|8 de janeiro|
 |Capacidades|[Descontinuação e extinção das APIs de qualificação GET e PUT existentes para o processo de validação de clientes Education até ao final de fevereiro de 2021](2021-january.md#2)|5 de janeiro|
 |Ofertas/Mercados|[Ofertas do Dynamics 365 para fevereiro de 2021](2021-january.md#1)|4 de janeiro|
