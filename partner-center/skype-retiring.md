@@ -9,14 +9,18 @@ ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 06/03/2020
-ms.openlocfilehash: 67c1689136892443937748b6cc9e31e4f0ac9983
-ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
+ms.openlocfilehash: f395987ef647fa6f7ed264c6476ddae419eabc34
+ms.sourcegitcommit: 26e6b470756aa9c1b3b0b919301b0eb38a335a52
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "105028422"
+ms.lasthandoff: 04/26/2021
+ms.locfileid: "108002863"
 ---
 # <a name="migrate-skype-for-business-online-plan-1-subscriptions-to-newer-office-365-versions"></a>Migrate Skype for Business Online Plan 1 subscriptions to newer Office 365 version (Migrar as subscrições do Skype para Empresas Online Plano 1 para a versão mais recente do Office 365)
+
+**Funções adequadas**
+
+- Agente comercial
 
 O Skype for Business Online Plan 1 será reformado, a partir de 1 de agosto de 2018. Após essa data, os clientes deixarão de poder adquirir novas subscrições do Skype para o Plano de Negócios 1, e as subscrições existentes não renovarão automaticamente quando expirarem e não fornecerão uma opção de renovação. Na página de pormenor da subscrição, o estado de subscrição do Skype for Business Online Plan 1 mudou para "Expira na [data]" de "Renovações automáticas em [data]".  
 
@@ -76,3 +80,8 @@ Depois de transferir a licença do utilizador para o novo serviço, pode cancela
 
 A subscrição antiga está suspensa e a nova subscrição está ativa. A subscrição suspensa será desavisionada automaticamente após 120 dias. O cliente não incorre em custos adicionais para a subscrição antiga.
 
+## <a name="next-steps"></a>Passos seguintes
+
+- [Assessoria: Criar e enviar um convite experimental para os clientes experimentarem o Office 365](advisors-create-a-trial-invitation.md)
+- [Assessoria: Construa a sua base de clientes com convites de experimentação do Office 365 e ofertas de compra](advisors-build-your-business.md)
+- [Assessores: Criar uma oferta de compra](advisor-create-a-purchase-offer.md)

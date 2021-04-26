@@ -9,16 +9,14 @@ author: kbangalore
 ms.author: kiranban
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cd0f1065e426a77beafe031c1e7b304fa910eeb0
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: d9366ccb7c091fded16387c963dc2f2eab4b2d88
+ms.sourcegitcommit: 26e6b470756aa9c1b3b0b919301b0eb38a335a52
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441562"
+ms.lasthandoff: 04/26/2021
+ms.locfileid: "108002829"
 ---
 # <a name="restore-a-suspended-partner-center-account---learn-why-it-happens-and-what-to-do-about-it"></a>Restaurar uma conta do Centro de Parceiros suspensa – saiba porque acontece e o que pode fazer
-
-Este artigo explica o que deve fazer se a sua conta do Centro de Parceiros estiver suspensa.
 
 **Aplica-se a**
 
@@ -28,6 +26,7 @@ Este artigo explica o que deve fazer se a sua conta do Centro de Parceiros estiv
 
 - Administrador global
 
+Este artigo explica o que deve fazer se a sua conta do Centro de Parceiros estiver suspensa.
 
 > [!IMPORTANT]  
 > Enquanto a conta do Centro de Parceiros está suspensa, pode continuar a gerir as implementações, as licenças e os serviços existentes. No entanto, não poderá autorizar ou revender novas licenças ou serviços até que a conta esteja novamente em conformidade.

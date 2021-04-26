@@ -8,15 +8,18 @@ description: Como parceiro da Microsoft, pode ter dúvidas sobre a utilização 
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
-ms.openlocfilehash: a00ae527b1ac89e14f33960517ec20f8a5bec624
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: d0b7e12c17054434e4d07c532739b0d079b49cca
+ms.sourcegitcommit: 26e6b470756aa9c1b3b0b919301b0eb38a335a52
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756808"
+ms.lasthandoff: 04/26/2021
+ms.locfileid: "108002908"
 ---
 # <a name="guide-to-licensing-resources-for-microsoft-partners"></a>Guia para licenciar recursos para parceiros da Microsoft 
 
+**Funções adequadas**
+
+- Agente de ajuda
 
 Este artigo partilha recursos que podem ajudar a responder a questões de licenciamento de parceiros.
 
@@ -94,6 +97,6 @@ Vá ao [suporte do Microsoft Partner](https://partner.microsoft.com/support/?sta
 ## <a name="next-steps"></a>Passos seguintes
 
 - [Ver mais recursos de apoio](https://partner.microsoft.com/support/?stage=1)
-- [Encontrar um parceiro](find-a-partner.md)
+- [Encontre um parceiro](find-a-partner.md)
 - [Saiba ou inscreva-se no programa MPN](https://partner.microsoft.com/membership)
 - [Saiba ou inscreva-se no programa CSP](https://partner.microsoft.com/membership/cloud-solution-provider)
