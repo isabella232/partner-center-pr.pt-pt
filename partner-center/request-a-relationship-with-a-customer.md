@@ -8,14 +8,19 @@ description: Solicite uma relação com um cliente para cenários multi-parceiro
 author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
-ms.openlocfilehash: 2403ec6cdb2776ab04fa76a37d690a748de38714
-ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
+ms.openlocfilehash: 55f86e6e48b0b897410826e22564e2d27e25258b
+ms.sourcegitcommit: efd711b0e65c55f24ce5b9636abd7b5a8cc719fe
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "105548976"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "108018140"
 ---
 # <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>Como pedir uma relação de revendedor de um cliente no Centro de Parceiros
+
+**Funções adequadas**
+
+- Agente administrativo
+- Administrador global
 
 Se pretender gerir o serviço ou subscrição de um cliente em seu nome, o cliente deve conceder-lhe permissões de administrador para esse serviço ou subscrição e assinar o Acordo de Cliente da Microsoft.
 
@@ -38,7 +43,7 @@ Pode solicitar uma relação de revendedor com um cliente de dentro do seu país
 
 4. Envie o e-mail para o seu cliente.
 
-5. Depois de o cliente aceitar o seu convite, eles aparecerão na sua página **de Clientes,** e poderá providenciar e gerir o serviço para o cliente a partir daí.
+5. Depois de o cliente aceitar o seu convite, eles aparecerão na sua página **de Clientes,** podendo providenciar e gerir o serviço para o cliente a partir daí.
 
    > [!NOTE]
    > Se o cliente ainda não tiver aceite o Acordo de Cliente da Microsoft, será solicitado que o faça quando aceitar o seu convite. O cliente precisa ser administrador global para aceitar convite.

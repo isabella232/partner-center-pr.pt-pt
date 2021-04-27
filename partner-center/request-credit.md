@@ -9,14 +9,19 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: d33188510b127873864260199ff92018e1a4d995
-ms.sourcegitcommit: 766b2bb46dffd29e532b42106359f83e51b96700
+ms.openlocfilehash: 1046d8afc8889461f75fb4c837d0e5af94c13e9f
+ms.sourcegitcommit: efd711b0e65c55f24ce5b9636abd7b5a8cc719fe
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106103830"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "108018157"
 ---
 # <a name="how-and-when-to-request-a-service-level-agreement-sla-credit-from-microsoft"></a>Como e quando solicitar um crédito de nível de serviço (SLA) da Microsoft
+
+**Funções adequadas**
+
+- Agente administrativo
+- Administrador global
 
 Pode solicitar **créditos de acordo de nível de serviço (SLA)** da Microsoft se um serviço que está a prestar aos seus clientes tiver uma paragem.
 
@@ -51,7 +56,7 @@ Antes [de submeter um pedido de crédito SLA](#submit-sla-credit-request) à Mic
 - O número e localização dos utilizadores afetados (se aplicável)
 - Descrições das suas tentativas de resolver o incidente no momento da ocorrência
 - Um e-mail do cliente afetado solicitando apoio e, posteriormente, crédito
-- O número de bilhete de suporte e detalhes do contacto do cliente no que diz respeito à resolução do impacto do serviço
+- O número de bilhete de suporte e detalhes do contacto com o cliente no que diz respeito à resolução do impacto do serviço
 
 
 #### <a name="outage-incident-identifier"></a>Identificador de incidente de interrupção

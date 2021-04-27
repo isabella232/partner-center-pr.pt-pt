@@ -9,14 +9,18 @@ author: billLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 38fe5d03784d0fcf0796545d31e8272f316d2878
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: 05ccc6016e9dcd6e7582cdd31dbc4d0054c43f8d
+ms.sourcegitcommit: efd711b0e65c55f24ce5b9636abd7b5a8cc719fe
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99623988"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "108018072"
 ---
-# <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>Capacidades de conta direta restritas e os requisitos necessários para os parceiros de conta direta da CSP  
+# <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>Capacidades de conta direta restritas e os requisitos necessários para os parceiros de conta direta da CSP
+
+**Funções adequadas**
+
+- Administrador global
 
 ## <a name="overview"></a>Descrição Geral
 
@@ -29,7 +33,7 @@ Os parceiros de conta direta devem cumprir os novos [requisitos](direct-partner-
 
 Para confirmar se o acesso do inquilino do parceiro de conta direta às capacidades de conta direta foi restringido, siga estes passos.
 
-1. Inscreva-se no painel do [Centro de Parceiros.](https://partner.microsoft.com/dashboard)
+1. Inicie sessão no [dashboard do Centro de Parceiros](https://partner.microsoft.com/dashboard).
 
 2. Ir para **as definições de Conta** Perfil  ->  **Legal**.
 
@@ -58,8 +62,8 @@ As assinaturas de faturas diretas existentes não são afetadas. Permanecem vál
 - Ajustar a contagem de licenças das assinaturas existentes baseadas em licenças
 
 - Ajuste a contagem de licenças dos addons existentes para uma subscrição. 
- 
-    >[!Note] 
+
+    >[!Note]
     >Não é possível adicionar novos addons às subscrições existentes, uma vez que é tratada como nova compra.
 
 - Implemente novos recursos Azure e gere os recursos Azure existentes sob as subscrições Azure existentes. Isto inclui recursos, que estão disponíveis através de subscrições do Azure Marketplace e do Visual Studio.
@@ -73,7 +77,7 @@ Além de novas compras, não é possível aceder às seguintes capacidades de fa
     >[!NOTE]
     >Como parte da transição de parceiro de conta direta para revendedor indireto, se já inscreveu o seu inquilino parceiro de conta direta como revendedor indireto, pode gerar convite para o cliente solicitar uma relação de revendedor indireto.
 
-- Não pode criar um novo inquilino de caixa de areia. Cada inquilino parceiro de conta direta pode criar um inquilino de caixa de areia com o propósito de integração direta da API de conta direta. Se ainda não criou um, não está autorizado a fazê-lo depois de ter sido restringido a capacidade do parceiro de conta.  
+- Não pode criar um novo inquilino de caixa de areia. Cada inquilino parceiro de conta direta pode criar um inquilino de caixa de areia para integração direta da API de conta direta. Se ainda não criou um, não está autorizado a fazê-lo depois de a capacidade do seu parceiro de conta direta ter sido restringida.  
 
 ## <a name="next-steps"></a>Passos seguintes
 

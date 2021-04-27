@@ -9,16 +9,16 @@ author: dhirajgandhi
 ms.author: dhgandhi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f536d975d3c644a7afa29a95a3cb45608f6b2c9f
-ms.sourcegitcommit: 89be77c9f35c77463d9558826293202afc6dec56
+ms.openlocfilehash: 26768bdf33c03145a893fa445eab6ebf92ca9b1c
+ms.sourcegitcommit: efd711b0e65c55f24ce5b9636abd7b5a8cc719fe
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "107315852"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "108018192"
 ---
 # <a name="reinstate-admin-privileges-for-a-customers-azure-csp-subscriptions"></a>Repor privilégios de administração para subscrições Azure CSP de um cliente  
 
-**Funções aplicáveis**
+**Funções adequadas**
 
 - Administrador global
 - Agente administrativo
@@ -35,11 +35,11 @@ Há dois níveis de privilégios administrativos para o Azure na CSP.
 
 ## <a name="reinstate-csp-partners-admin-privileges"></a>Restabelecer os privilégios de administração dos parceiros da CSP
 
-O seu cliente é capaz de recriar a atribuição de funções CSP desde que forneça ao seu cliente o ID do objeto do grupo AdminAgents. Para recuperar privilégios de administração delegados, precisa de trabalhar com o seu cliente.
+O seu cliente pode recriar a atribuição de funções CSP desde que forneça ao seu cliente o ID do objeto do grupo AdminAgents. Para recuperar privilégios de administração delegados, precisa de trabalhar com o seu cliente.
 
 1. Inscreva-se no painel partner Center e no menu Partner Center, selecione **Clientes**.
 
-2. Selecione o cliente com quem está a trabalhar e **solicite uma relação de revendedor.** Isto gera uma ligação com o cliente que tem direitos de administração de inquilinos.
+2. Selecione o cliente com quem está a trabalhar e **solicite uma relação de revendedor.** Esta ação gera uma ligação com o cliente que tem direitos de administração de inquilinos.
 
 3. Esse cliente precisa de selecionar o link e aprovar o pedido de relacionamento do revendedor.
 
@@ -79,7 +79,7 @@ O seu cliente é capaz de recriar a atribuição de funções CSP desde que forn
     ```
 
 
-Se o desejo é conceder permissão de papel ao proprietário a nível de grupo de recursos ou ao nível de recursos em vez de âmbito de subscrição, os seguintes comandos podem funcionar:
+Se pretender conceder permissão de função do proprietário a nível de grupo de recursos ou ao nível de recursos em vez de âmbito de subscrição, os seguintes comandos podem funcionar:
 
 
 ```powershell

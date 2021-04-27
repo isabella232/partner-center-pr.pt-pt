@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 80c617a97575fea3003ea8652d48396412033cc7
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: f67a3b6a403f09cb773a5ca663d6cf6db1b03e2e
+ms.sourcegitcommit: efd711b0e65c55f24ce5b9636abd7b5a8cc719fe
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441953"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "108018123"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>Relatar um problema de serviço em nome de um cliente - incluindo quando e como fazê-lo
 
@@ -24,7 +24,7 @@ ms.locfileid: "106441953"
 
 **Funções adequadas**
 
-- Fornecedor indireto
+- Administrador global
 
 Se o seu cliente estiver a ter um problema de serviço que não pode resolver, e que satisfaça os [critérios descritos em problemas de Escalate para a Microsoft,](escalate-problems-to-microsoft.md)o seu fornecedor indireto pode apresentar um bilhete de suporte para eles. Este processo também é útil para escalar questões de faturação ou litígios, e para preocupações com fraudes.
 
@@ -109,7 +109,7 @@ Consulte as seguintes perguntas frequentes sobre pedidos de serviço que pode su
 
 Os pedidos de serviço devem ser apresentados através do Partner Center. Estão disponíveis para Azure, Microsoft Office 365, Microsoft Dynamics CRM Online e Enterprise Mobility Suite. Como parceiro que participa no programa Cloud Solution Provider, pode esperar tempo de resposta prioritário aos seus principais problemas.
 
-O apoio ao seu próprio inquilino não está incluído como parte do benefício de apoio da CSP. No entanto, o Office 365, o Microsoft Dynamics CRM Online e o Enterprise Mobility Suite não cobram uma taxa de subscrição de suporte separada para parceiros ou clientes. O Azure cobra uma taxa, mas se tiver direito a Signature Cloud Support ou a outros benefícios da Microsoft Partner Network (MPN), poderá usá-las para pagar essa taxa.
+O apoio ao seu próprio inquilino não está incluído como parte do benefício de apoio da CSP. No entanto, o Office 365, o Microsoft Dynamics CRM Online e o Enterprise Mobility Suite não cobram uma taxa de subscrição de suporte separada para parceiros ou clientes. O Azure cobra uma taxa, mas se tiver direito a Signature Cloud Support ou a outros benefícios da Microsoft Partner Network (MPN), poderá utilizar estes benefícios para pagar essa taxa.
 
 Este benefício aplica-se a todos os parceiros que participam no programa Cloud Solution Provider, seja pago ou em período experimental. O suporte à gestão de faturação e subscrição também está incluído como uma componente gratuita deste pacote.
 
