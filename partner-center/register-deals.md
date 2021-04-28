@@ -9,12 +9,12 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 263211fc03d7579a229d8a6df8ed4ad7ca59ed93
-ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
+ms.openlocfilehash: 54421817782f05eec1cc57c11cd02a51664c094b
+ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "105549197"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108120754"
 ---
 # <a name="register-deals-youve-won-in-partner-center-so-you-can-get-more-opportunities-later"></a>Registar ofertas que ganhou no Partner Center para que possa ter mais oportunidades mais tarde
 
@@ -37,9 +37,9 @@ Na página **New deal,** forneça as seguintes informações.
 - **Valor da solução**: O valor total da solução cloud que será usada para o negócio. Certifique-se de incluir todos os custos associados com taxas de software e manutenção, mas não inclua itens reembolsáveis, taxas de personalização não recorrentes ou taxas de licença CSP diretamente associadas pagas pela Microsoft.
 - **Implantado em**: Selecione **Azure** ou **Other**.
 - **Onde será implementada a solução?**: Selecione o inquilino do **Cliente** ou o **inquilino do Parceiro.**
-- **Data de início do contrato**: A data em que o contrato começará.
-- **Data final do contrato**: Se o contrato terminar numa data específica, selecione **Tem uma data de fim** e forneça essa data. Caso contrário, selecione **Perpetual**.
-- **Contrato assinado data**: Data em que o contrato final foi assinado pela sua organização e pelo cliente.
+- **Data de início do contrato**: A data em que o contrato começará. Para ofertas pay-as-you-go (PAYG), utilize a data da primeira fatura.
+- **Data final do contrato**: Se o contrato terminar numa data específica, selecione **Tem uma data de fim** e forneça essa data. Se o contrato não tiver uma data de final específica, selecione **Perpetual**. Para ofertas pay-as-you-go (PAYG), utilize a data da última ou mais recente fatura.
+- **Contrato assinado data**: Data em que o contrato final foi assinado pela sua organização e pelo cliente. Para ofertas pay-as-you-go (PAYG), utilize a data da primeira fatura.
 - **Contacto de registo**: **O nome próprio**, **apelido,** **número de telefone** e **e-mail** para uma pessoa da sua organização que possamos contactar se precisarmos de mais detalhes sobre qualquer informação fornecida aqui.
 
 Quando tiver concluído todas as secções da página, **selecione Registar-se**. O registo do negócio será então transferido para a página **em curso.** A Microsoft irá então rever as informações que forneceu.

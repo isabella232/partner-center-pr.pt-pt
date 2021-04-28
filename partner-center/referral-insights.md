@@ -9,14 +9,18 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 410ee9bee307f78cc93dabbafab147bb725a8d02
-ms.sourcegitcommit: 25336c9e4ff1e76669ac71539265f79d1b2b29f5
+ms.openlocfilehash: 4a8227fecae05d3752d65651dea4cdc62c9ea672
+ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/24/2021
-ms.locfileid: "107941831"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108120856"
 ---
 # <a name="get-referral-insights-in-partner-center-and-find-out-how-your-referrals-are-doing"></a>Obtenha informações de referência no Partner Center e descubra como estão as suas referências
+
+**Funções adequadas**
+
+- Administração de referências
 
 A página **de Oportunidades de Co-venda** sob a secção **Analytics** em Referências permite-lhe ver como estão as suas referências. Reveja estas métricas regularmente para identificar tendências ou áreas que precisam de atenção, e comece a dirigir-se para os seus objetivos de negócio.
 
@@ -52,7 +56,7 @@ As métricas de variação percentual (mostradas a vermelho ou verde, com um ind
 
 ## <a name="conversion-funnel"></a>Funil de conversão
 
-Esta secção mostra um indicador visual de como as suas ofertas estão a mover-se de um estado para outro durante o seu ciclo de vida. Você pode ver todo o ciclo de vida com base no volume de negócio, bem como o valor do negócio em USD com base no pivô principal para esta secção. A primeira secção é rotulada tanto com o estado como com o tipo de negócio para lhe dar um indicador visual do volume ou valor por tipo. Há também uma secção, **referências do passado,** que é usada para indicar os acordos para os quais tomou medidas para as aceitar/declinar ou marcar como won/lost no período de tempo selecionado para o relatório. Pode aplicar filtros para ver o progresso das ofertas em várias fases do seu ciclo de vida.
+Esta secção mostra um indicador visual de como as suas ofertas estão a mover-se de um estado para outro durante o seu ciclo de vida. Você pode ver todo o ciclo de vida com base no volume de negócio e no valor do negócio em USD com base no pivô principal para esta secção. A primeira secção é rotulada tanto com o estado como com o tipo de negócio para lhe dar um indicador visual do volume ou valor por tipo. Há também uma secção, **referências do passado,** que é usada para indicar os acordos para os quais tomou medidas para as aceitar/declinar ou marcar como won/lost no período de tempo selecionado para o relatório. Pode aplicar filtros para ver o progresso das ofertas em várias fases do seu ciclo de vida.
 
 As ofertas de co-venda podem fundir-se em acordos aceites, recusados ou expirados, uma vez que os parceiros têm de aceitar ou recusar as ofertas de co-venda de entrada.
 
@@ -103,7 +107,7 @@ Quando o tipo de negócio é selecionado, você pode comparar o desempenho de re
 
 ## <a name="raw-data-table"></a>Tabela de dados brutos
 
-A tabela abaixo com todos os dados brutos relacionados com as oportunidades de Co-venda irá ajudá-lo a **exportar** rapidamente os dados para qualquer análise detalhada ou personalizada que pretenda realizar.
+O quadro abaixo, com todos os dados brutos relacionados com as oportunidades de Co-venda, irá ajudá-lo a **exportar** rapidamente os dados para qualquer análise detalhada ou personalizada que pretenda realizar.
 
 :::image type="content" source="images/referrals/cosellanalyticsrawdata.png" alt-text="Imagem mostrando a tabela de dados bruto para referências.":::
 

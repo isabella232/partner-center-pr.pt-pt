@@ -9,14 +9,18 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 391768b14473c3cbdaf5049007c36bbf28dd1167
-ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
+ms.openlocfilehash: 149897c0afa12c4c45df974dafb5c47826274174
+ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "105549214"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108120736"
 ---
 # <a name="grow-your-business-with-referrals-from-microsoft"></a>Grow your business with referrals from Microsoft (Expanda o seu negócio com referências da Microsoft)
+
+**Funções adequadas**
+
+- Administração de referências
 
 Muitos clientes procuram especialistas qualificados para ajudar a implementar a tecnologia e soluções de negócio da Microsoft. Aqui na Microsoft, recebemos frequentemente pedidos diretos de ajuda dos clientes através das nossas atividades de marketing e dos nossos agentes de vendas internos da Microsoft. Os clientes também usam a experiência de [ **fornecedor de soluções**](https://www.microsoft.com/solution-providers/search) para encontrar empresas que possam ajudá-las a satisfazer as suas necessidades de negócio. 
 

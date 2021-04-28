@@ -9,14 +9,18 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 216103ae3e94b7ba1525f9fa1199d0bf0311fd0b
-ms.sourcegitcommit: 9f6be9bc8d9a065422d1ec8388bd770eb6cd9f33
+ms.openlocfilehash: 33d4a3745c8e9de87c9d1ef4ef86dec7c79db1b0
+ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/16/2021
-ms.locfileid: "107528607"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108120771"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies-where-you-can-sell-csp-offers"></a>Cloud Solution Provider programa mercados regionais e moedas onde pode vender ofertas de CSP
+
+**Funções adequadas**
+
+- Administrador global
 
 A localização da sua empresa determina o seu mercado. O seu mercado inclui as regiões e/ou países onde pode vender ofertas de programas cloud solution provider (CSP).
 
@@ -26,7 +30,7 @@ Antes de poder encomendar ofertas de CSP em nome de um cliente, o cliente deve a
 
 ## <a name="azure-plan-for-csp-region-availability"></a>Plano Azure para a disponibilidade da região da CSP  
 
-O Plano Azure para a CSP está disponível em menos regiões do que o Azure Software para a CSP.  Consulte  [o plano Azure](purchase-azure-plan.md) para ver as últimas atualizações sobre a disponibilidade regional para o Plano Azure. 
+O Plano Azure para a CSP está disponível em menos regiões do que o Azure Software para a CSP. Para obter as últimas atualizações sobre a disponibilidade regional para o Plano Azure, consulte [o plano Azure.](purchase-azure-plan.md)
 
 >[!IMPORTANT]
 > Tem de confirmar que um cliente aceitou o Acordo de Cliente da Microsoft fornecendo informações sobre a pessoa que o assinou. Consulte [a aceitação de um cliente do Microsoft Customer Agreement](confirm-consent.md) para obter mais detalhes.
@@ -40,7 +44,7 @@ Se o seu país não for apoiado, estabeleça a relação CSP do cliente utilizan
 
 - Os parceiros de conta direta usam o seguinte url: https://portal.office.com/partner/partnersignup.aspx?type=ResellerRelationship&id=partnertenantguid&csp=1&msppid=0 . Substitua **o partnertenantguid** pelo seu ID do inquilino. 
 
-- O URL para revendedores indiretos é: https://portal.office.com/partner/partnersignup.aspx?type=IndirectResellerRelationship&id=IRtenantguid&csp=1&msppid=IRMPNID&indirectCSP=IPtenantguid . Vai substituir **o IRtenantguid** pela identificação do seu inquilino. Substitua **o IRMPNID** pelo seu ID MPN e substitua **o IPtenantguid** pelo seu id de inquilino indireto.
+- O URL para revendedores indiretos é: https://portal.office.com/partner/partnersignup.aspx?type=IndirectResellerRelationship&id=IRtenantguid&csp=1&msppid=IRMPNID&indirectCSP=IPtenantguid . Substitua **o IRtenantguid** pela identificação do seu inquilino. Substitua **o IRMPNID** pelo seu ID MPN e substitua **o IPtenantguid** pelo seu ID de inquilino indireto.
 
 ## <a name="africa-region-and-market"></a>Região e mercado de África
 

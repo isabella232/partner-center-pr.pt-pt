@@ -9,14 +9,21 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 980c086a2ab1ee0a21592ceb1e2e018c0e1159ae
-ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
+ms.openlocfilehash: a6af9c7d674d1956332a564628b6b2ea0b1796f6
+ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/04/2020
-ms.locfileid: "92529668"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108120788"
 ---
 # <a name="role-based-access-control-to-the-partner-center-insights-dashboard"></a>Controlo de acesso baseado em funções ao painel Partner Center Insights
+
+**Funções adequadas**
+
+- Administrador global
+- Agente administrativo
+- Espectador de relatório
+- Espectador de relatório executivo
 
 O dashboard Insights usa duas novas funções no Partner Center para gerir o acesso dos colaboradores aos relatórios - Visualização de Relatórios Executivos e Visualização de Relatórios.  Os utilizadores na função de Visualizador de Relatório Executivo têm acesso a todos os conjuntos de dados de reporte, enquanto os utilizadores na função 'Observador' de relatórios não terão acesso a conjuntos de dados sensíveis, tais como receitas e dados pessoais do cliente/colaborador.  
 
