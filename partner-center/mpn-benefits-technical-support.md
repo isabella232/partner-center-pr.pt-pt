@@ -9,12 +9,12 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6adf7039f6ad389f61c9cd0b5e4ad9454db06a5b
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: e8f99028fbb26003c0f18a85c5a6d7e416fecd60
+ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106133034"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108172205"
 ---
 # <a name="technical-support-benefits"></a>Benefícios técnicos de apoio
 
@@ -76,6 +76,17 @@ Qualquer conta de utilizador (AAD ou MSA) pode utilizar suporte técnico para pr
 
 Selecione [Suporte para Negócios](https://support.serviceshub.microsoft.com/supportforbusiness/create) para criar um pedido de suporte para um produto On-In.
 
+## <a name="how-many-partner-support-incidents-are-remaining"></a>Quantos incidentes de apoio ao Parceiro ainda restam
+Só é possível obter esta informação a partir do portal de suporte de apoio ao Negócios no local. Infelizmente, os portais cloud por exemplo Azure, LCS etc não mostram esta informação.
+
+Você precisa usar o Suporte para Negócios e iniciar o processo para criar um incidente de suporte no local. Não criamos um pedido de apoio porque não completamos o processo. A informação que precisamos está exposta no passo 2.
+
+Passo 1 Selecione o windows 10 e introduza informações falsas
+
+Passo 2 Adicione o contrato de apoio utilizando o ID de acesso e iD do contrato. Para suporte no local, pode ver o contrato de Apoio ao Parceiro apresentado e isso inclui a data de início, data de fim e incidentes restantes. Expandir o "Gostaria de ver planos de apoio indisponíveis?" secção para ver informações de Assinatura de Parceiro. Só verá o Apoio ao Parceiro apresentado aqui se os contratos tiverem expirado, não tiver quaisquer incidentes restantes ou selecionou um produto antigo no local (ver [aka.ms/n-1](https://aka.ms/n-1) para produtos de suporte)
+
+**Para obter informações mais [detalhadas, veja quantos incidentes de apoio ao Parceiro ainda restam?](https://support.microsoft.com/topic/how-many-partner-support-incidents-are-remaining-e8220db5-14f6-93db-4b4a-35766e11b3c3)** 
+
 ## <a name="signature-cloud-support-cloud-only"></a>Suporte de nuvem de assinatura (apenas na nuvem)
 
 Os parceiros de competências Gold ou Silver podem usar **o Signature Cloud Support** para suporte técnico em produtos na nuvem. 
@@ -85,6 +96,22 @@ Você precisará do ID de acesso e iD do contrato na primeira vez que você usar
 Os parceiros da CSP que criam pedidos Azure podem usar o plano de suporte "Cloud Solution Provider" sem adicionar um contrato de apoio.
 
 Os utilizadores com função **de Agente Administrador** podem selecionar [clientes](https://partner.microsoft.com/commerce/customers/list) sob CSP no menu de navegação à esquerda, selecionar **Gestão de Serviços** e selecionar **Novo pedido**.  Quando selecionar a carga de trabalho relevante, será aberto o portal específico para a carga de trabalho e adiciona-se um contrato de apoio e cria um pedido.
+
+## <a name="azure-portal-error-access-id-is-already-associated-"></a>Erro do portal Azure "O ID de acesso já está associado..."
+Quando utiliza o portal Azure, utiliza o Suporte para a Nuvem de Assinatura selecionando Ajuda + Suporte, Planos de Suporte e, em seguida, "Link support benefits" e introduza o ID de Acesso e ID do Contrato.
+
+> [!NOTE]
+> Se tiver o Microsoft Action Pack não obtém suporte cloud porque não inclui o Suporte à Nuvem de Assinatura - apenas o Suporte ao Produto da Microsoft (no local)
+
+Pode ver a mensagem de erro *"Este ID de acesso já está associado a uma conta. Contacte o seu Gestor técnico de conta para obter um novo ID de acesso".* **Esta mensagem de erro é inválida e deve ser ignorada!** Solicitámos que o erro fosse desativado e substituído por uma mensagem de erro de diagnóstico útil. 
+
+Verá o acima "O ID de acesso já está associado..." erro se associar um contrato de apoio a uma conta mais de uma vez quando utilizar o portal Azure. Veja os cenários abaixo:
+
+1. Se tiver benefícios técnicos de ouro ou prata e tiver adicionado previamente o contrato de apoio no local, use o portal Azure e adicione o contrato uma segunda vez à mesma conta. Só precisa de associar o contrato de apoio a uma conta uma vez e, portanto, não precisa de associar os benefícios de suporte ao Azure. Se utilizar os benefícios de suporte do Link quando o contrato já está associado à conta, verá o erro e deverá ser ignorado. Use + Novo pedido de suporte e crie um incidente de suporte normalmente e o plano de suporte será apresentado.
+
+2. Se o contrato de apoio tiver expirado ou a Assinatura 10pack (competência híbrida Dourada) ou Signature 5pack (competência híbrida prateada) não tiver incidentes restantes, o contrato de apoio será ocultado por ser inválido. Se voltar a ligar os benefícios do suporte, verá o erro porque o contrato já está associado. Tens de comprar um novo plano de apoio para obteres incidentes de apoio ao Azure. 
+
+Consulte planos de apoio a parceiros abaixo para ofertas de apoio pagos a parceiros
 
 ## <a name="partner-support-plans"></a>Planos de Apoio ao Parceiro
 

@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 62bb526d1eab17a13e70b147a318b6e6fdaa84fb
-ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
+ms.openlocfilehash: 5773432f829a701baf4b36bdbae026241d0357a2
+ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "106964447"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108172188"
 ---
 # <a name="activate-microsoft-partner-network-technical-benefits-outside-of-partner-center"></a>Ativar os benefícios técnicos da Rede de Parceiros da Microsoft fora do Partner Center
 
@@ -27,7 +27,7 @@ Este artigo destina-se a membros da Microsoft Partner Network (MPN) que ainda ut
 
 Muitos membros da Microsoft Partner Network (MPN) já [migraram do Partner Membership Center para o Partner Center](prepare-pmc-pc-migration.md) para ajudar a gerir os benefícios dos seus utilizadores, clientes e MPN.
 
-Se a sua adesão ao MPN ainda estiver no Centro de Adesão ao Parceiro (PMC), no entanto, poderá necessitar de ajuda para ativar alguns dos seus benefícios mpn.
+Se a sua adesão ao MPN ainda estiver no Centro de Adesão ao Parceiro (PMC), necessitará de ajuda para ativar alguns dos seus benefícios mpn.
 
 ## <a name="activate-technical-benefits-by-region"></a>Ativar benefícios técnicos por região
 
@@ -43,7 +43,7 @@ Se for utilizador de PMC, consulte esta tabela para obter ajuda para ativar os s
 |Austrália, Nova Zelândia e Taiwan  | [Suporte de linha de frente do parceiro](https://partner.microsoft.com/support?issueid=300-0042)  |
 |Ásia-Pacífico e Grande China  | Suporte técnico  |
 
-\***Para parceiros na Europa, Médio Oriente e África apenas:** Ao enviar e-mail para Regform, inclua: ID parceiro, endereço de e-mail associado MPN, nome, nome da empresa, telefone, cidade e país. Utilize o Regform para ajudar na criação ou ativação de contratos de suporte. Se tiver outros problemas relacionados com MPN, contacte [o Partner Frontline Support](https://partner.microsoft.com/support?issueid=300-0042).
+\***Apenas para parceiros na Europa, Médio Oriente e África (EMEA):** Ao enviar e-mail para Regform, inclua: ID parceiro, endereço de e-mail associado MPN, nome, nome da empresa, telefone, cidade e país. Utilize o Regform para ajudar na criação ou ativação de contratos de suporte. Se tiver outros problemas relacionados com MPN, contacte [o Partner Frontline Support](https://partner.microsoft.com/support?issueid=300-0042).
 
 Uma vez ativado o seu benefício, o contacto do programa associado aos principais benefícios da sua empresa receberá IDs de suporte do produto para esse benefício. Estes IDs incluirão um **ID de acesso** e **iD do contrato.** 
 

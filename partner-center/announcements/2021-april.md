@@ -10,17 +10,49 @@ ms.custom:
 - announcement
 - references_regions
 ms.localizationpriority: high
-ms.date: 04/20/2021
-ms.openlocfilehash: 57253531ddc751d8e361f230f039196acc0662a6
-ms.sourcegitcommit: 0488a6cca02dafbfc84211643035212296df9689
+ms.date: 04/27/2021
+ms.openlocfilehash: 99fcf5ae00458b890d6ed3b16849d6cb253e6cbe
+ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/21/2021
-ms.locfileid: "107823389"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108172324"
 ---
 # <a name="april-2021-announcements"></a>Anúncios de abril de 2021
 
 Esta página fornece os anúncios para o Microsoft Partner Center para abril de 2021.
+
+_______________
+## <a name="new-location-for-partner-center-api-swagger-documentation"></a><a name="9"></a>Nova localização para a documentação da API Swagger do Partner Center
+
+### <a name="categories"></a>Categorias
+
+- Data: 2021-04-26
+- Capacidades
+
+### <a name="summary"></a>Resumo
+
+Os documentos da API Swagger do Centro Parceiro foram migrados do anterior site de [documentação da Swagger](https://apidocs.microsoft.com/services/partnercenter) para um [novo site de documentação swagger.](https://docs.microsoft.com/rest/api/partner-center-rest/)
+
+### <a name="impacted-audience"></a>Audiência impactada
+
+Parceiros de conta direta e fornecedores indiretos que participam no programa Cloud Solution Provider (CSP) que estão a utilizar as APIs do Partner Center
+
+### <a name="details"></a>Detalhes
+
+A partir de 26 de abril de 2021, a documentação da API Swagger do Partner Center, incluindo o conteúdo da API de Repouso, está localizada num [novo site.](https://docs.microsoft.com/rest/api/partner-center-rest/) O antigo local ficará inacessível após várias semanas.
+
+### <a name="benefits"></a>Benefícios
+
+A documentação da API Swagger do Centro Parceiro fornecerá uma função **try it.** Para utilizar esta função, terá de ter um Token Bearer, que pode gerar seguindo os passos listados na [Autenticação do Centro de Parceiros.](https://docs.microsoft.com/partner-center/develop/partner-center-authentication#app--user-authentication)
+
+### <a name="next-steps"></a>Passos seguintes
+
+Partilhe esta informação dentro da sua organização para que a equipa adequada possa rever e atualizar os seus processos.
+
+### <a name="questions"></a>Perguntas?
+
+Para questões sobre estas ofertas, consulte as suas comunidades Yammer relevantes.
 
 ________________
 ## <a name="cloud-solution-provider-csp-software-return-period-policy-and-download-link-expiry-notice"></a><a name="8"></a>Cloud Solution Provider (CSP) software devolução de tempo e aviso de expiração do link de descarregamento

@@ -1,20 +1,25 @@
 ---
-title: Migrar subscrições do Kaizala Pro para o Microsoft365
-description: Saiba como migrar as subscrições do Kaizala Pro para as versões Microsoft365 ou Office 365. Leia este artigo para mais detalhes sobre a transição dos seus clientes.
+title: Migrar subscrições do Kaizala Pro para o Microsoft 365
+description: Saiba como migrar as subscrições do Kaizala Pro para as versões Microsoft 365 ou Office 365. Leia este artigo para mais detalhes sobre a transição dos seus clientes.
 ms.topic: article
 ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 ms.author: sukumart
 author: sukumart
 ms.date: 06/01/2020
 localization_priority: Normal
-ms.openlocfilehash: 0807931ae95b5c7d76f4ad33708cc8014412f55f
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 96d18c8f728c56b705d378ac56dcf46e777157f0
+ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92530518"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108172409"
 ---
-# <a name="migrate-kaizala-pro-standalone-subscriptions-to-microsoft365-or-office-365-versions"></a>Migrar subscrições kaizala Pro Standalone para versões Microsoft365 ou Office 365
+# <a name="migrate-kaizala-pro-standalone-subscriptions-to-microsoft-365-or-office-365-versions"></a>Migrar subscrições kaizala Pro Standalone para versões Microsoft 365 ou Office 365
+
+**Funções adequadas**
+
+- Agente comercial
 
 A partir de 1 de julho de 2020, a Microsoft está a terminar as vendas do serviço autónomo Kaizala Pro. Os clientes deixarão de poder adquirir novas subscrições kaizala Pro após esta data, e as subscrições existentes do Kaizala Pro não serão renovadas automaticamente quando expirarem.
 
@@ -61,21 +66,21 @@ C. Cancelar subscrição antiga
 
 ### <a name="a-purchase-the-new-subscription"></a>A. Comprar a nova subscrição
 
-1. Para adquirir a nova subscrição, a partir do menu **Partner Center,** selecione **Clientes,** selecione o cliente que pretende mover e, em seguida, selecione **Adicionar subscrições** .
+1. Para adquirir a nova subscrição, a partir do menu **Partner Center,** selecione **Clientes,** selecione o cliente que pretende mover e, em seguida, selecione **Adicionar subscrições**.
 
-2. Selecione a subscrição que pretende adquirir no catálogo (neste caso, uma das opções acima), introduza o número de licenças e, em seguida, **selecione Enviar por isso** .
+2. Selecione a subscrição que pretende adquirir no catálogo (neste caso, uma das opções acima), introduza o número de licenças e, em seguida, **selecione Enviar por isso**.
 
 O seu cliente deve agora ter subscrições antigas e novas, a antiga subscrição Kaizala Pro Standalone e a nova subscrição 'target', por exemplo, Opção 1 - Office 365 Enterprise F1.
 
 ### <a name="b-reassign-current-user-licenses"></a>B. Reatribuir licenças de utilizador atuais
 
-1. Para reatribuir as licenças dos utilizadores do cliente, a partir do menu **Partner Center,** selecione **Clientes,** selecione o cliente que está a mover e, em seguida, selecione **Utilizadores e licenças** . A página de Utilizadores e Licenças do cliente abre.
+1. Para reatribuir as licenças dos utilizadores do cliente, a partir do menu **Partner Center,** selecione **Clientes,** selecione o cliente que está a mover e, em seguida, selecione **Utilizadores e licenças**. A página de Utilizadores e Licenças do cliente abre.
 
-2. Para reatribuir a licença de utilizador, selecione o utilizador para reatribuir e, em seguida, **selecione Gerir licenças** .
+2. Para reatribuir a licença de utilizador, selecione o utilizador para reatribuir e, em seguida, **selecione Gerir licenças**.
 
 3. Na página **'Gerir licenças',** limpe a caixa de verificação da licença Kaizala Pro Standalone e selecione um novo plano de serviço para a subscrição para a qual o cliente está a mover-se.
 
-4.  Selecione **Submeter** . Uma página de confirmação lista as novas atribuições de licença. Continue este mesmo processo para outros utilizadores que necessitem de atribuição de licenças.
+4.  Selecione **Submeter**. Uma página de confirmação lista as novas atribuições de licença. Continue este mesmo processo para outros utilizadores que necessitem de atribuição de licenças.
 
 ### <a name="c-cancel-old-subscription"></a>C. Cancelar subscrição antiga
 
@@ -83,8 +88,8 @@ Depois de transferir a licença do utilizador para o novo serviço, pode cancela
 
 1.  A partir do menu **Partner Center,** selecione **Clientes.** Selecione o cliente cuja subscrição está a cancelar.
 
-2.  Na página de detalhes da subscrição, desa estale a subscrição **de Suspended** .
+2.  Na página de detalhes da subscrição, desa estale a subscrição **de Suspended**.
 
-3.  Selecione **Submeter** .
+3.  Selecione **Submeter**.
 
 A subscrição antiga está suspensa e a nova subscrição está ativa. A subscrição suspensa será desavisionada automaticamente após 120 dias. O cliente não incorre em custos adicionais para a subscrição antiga.

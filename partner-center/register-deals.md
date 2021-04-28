@@ -9,14 +9,18 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 54421817782f05eec1cc57c11cd02a51664c094b
-ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
+ms.openlocfilehash: 96c0b320850b4ee648e98fc5da97d9f25faaf405
+ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
 ms.translationtype: MT
 ms.contentlocale: pt-PT
 ms.lasthandoff: 04/28/2021
-ms.locfileid: "108120754"
+ms.locfileid: "108172440"
 ---
 # <a name="register-deals-youve-won-in-partner-center-so-you-can-get-more-opportunities-later"></a>Registar ofertas que ganhou no Partner Center para que possa ter mais oportunidades mais tarde
+
+**Funções adequadas**
+
+- Administração de referências
 
 Pode registar ofertas que ganhou no Partner Center, fornecendo informações adicionais sobre o contrato. Esta informação ajuda-nos a proporcionar-lhe mais oportunidades no futuro.
 
