@@ -1,7 +1,7 @@
 ---
 title: Enroll in the Cloud Solution Provider program (Inscrever-se no programa do Fornecedor de Soluções Cloud)
 ms.topic: how-to
-ms.date: 11/29/2020
+ms.date: 04/19/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como se inscrever no modelo de vendas do programa Cloud Solution Provider (CSP) que é o melhor para o seu negócio, como o revendedor indireto ou o parceiro de conta direta.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8cc74ac7549dd9c58827eac4ca7ff780062cc519
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 9307f57c0d356dbbce16de2f1566b4491867c361
+ms.sourcegitcommit: 8bd2e2f2f0f6bcd0fa202787df5b3c1f786f88f9
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441817"
+ms.lasthandoff: 04/29/2021
+ms.locfileid: "108213385"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Enroll in the Cloud Solution Provider program (Inscrever-se no programa do Fornecedor de Soluções Cloud)
 
@@ -92,6 +92,38 @@ Consulte [a Transição do Cloud Solution Provider (CSP) parceiro de conta diret
 
 A localização da sua empresa determina o seu mercado. O seu mercado inclui as regiões e/ou os países onde pode vender ofertas do CSP. Consulte [o programa Cloud Solution Provider mercados regionais e moedas](regional-authorization-overview.md) para localizações de mercado e moedas.
 Leia Os [Pré-requisitos para adicionar um novo local para uma empresa de CSP](manage-locations.md).
+
+## <a name="provide-partner-registration-id-number-for-specific-countries"></a>Fornecer número de ID de registo de parceiros para países específicos
+
+Se é um fornecedor indireto, parceiro de conta direta ou revendedor indireto e está a fazer negócios com clientes novos ou existentes nos seguintes países, tem de fornecer números de identificação de registo para o seu negócio. Se o país em que está a fazer negócios não estiver listado abaixo, o ID de registo é opcional.
+
+- Arménia 
+- Azerbaijão 
+- Bielorrússia 
+- Brasil 
+- Hungria 
+- Índia 
+- Iraque 
+- Cazaquistão 
+- Quirguistão 
+- Moldávia 
+- Mianmar 
+- Polónia 
+- Rússia 
+- Arábia Saudita 
+- África do Sul 
+- Sudão do Sul  
+- Tajiquistão 
+- Tailândia
+- Turquia 
+- Ucrânia 
+- Emirados Árabes Unidos 
+- Usbequistão 
+- Venezuela
+- Vietname 
+
+
+Para mais informações, leia [as informações do número de ID do registo](reg-number-id.md)
 
 ## <a name="next-steps"></a>Passos seguintes
 

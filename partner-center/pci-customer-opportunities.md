@@ -7,13 +7,13 @@ ms.subservice: partnercenter-csp
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.date: 09/18/2020
-ms.openlocfilehash: 2cdb63c8f7e29fc8a56e920b587e47c382c6eacb
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.date: 04/27/2021
+ms.openlocfilehash: 91f64faeec0b97be2797d489e152cb84cbb2e192
+ms.sourcegitcommit: 8bd2e2f2f0f6bcd0fa202787df5b3c1f786f88f9
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086962"
+ms.lasthandoff: 04/29/2021
+ms.locfileid: "108213467"
 ---
 # <a name="cloudascent-propensity-reports-available-from-partner-center-dashboard"></a>Relatórios de Propensity CloudAscent disponíveis no painel de instrumentos do Partner Center
 
@@ -22,20 +22,19 @@ ms.locfileid: "106086962"
 - Espectador de relatório executivo
 - Espectador de relatório
 
-O Partner Center Dashboard fornece dados de propensão transferíveis a partir do Programa CloudAscent. Os dados mostram a propensão dos clientes para a compra de produtos Microsoft.  Este artigo descreve a desagregação destes dados, como usar a pontuação, e o que significa.
+O painel Partner Center fornece dados de propensão descarregáveis do programa CloudAscent. Os dados mostram a probabilidade dos clientes comprarem produtos microsoft.  Este artigo descreve a desagregação destes dados, como usar a pontuação, e o que significa.
 
 ## <a name="summary-definitions"></a>Definições sumárias
 
 - **Clientes SMC**– Este é o número total de clientes nos downloads de propensão.  Os clientes são identificados pelo parceiro de registo.
-- **Contratos de Caducidade**– no ano fiscal em curso, estamos a fornecer o número de contratos caducados.
-- **Receitas Caducadas**– as receitas associadas aos contratos caducados.
+- **Contratos de Vencimento**– No ano fiscal em curso, estamos a fornecer o número de contratos caducados.
 - **Receitas De Caducidade Abertas**– As receitas associadas aos contratos de caducidade abertos.
 
-:::image type="content" source="images/pci/cust-oppor-1.png" alt-text="Screenshot do painel de resumo das oportunidades dos clientes.":::
+:::image type="content" source="images/pci/cust-oppor-11.png" alt-text="Screenshot do painel de resumo das oportunidades dos clientes.":::
 
 ## <a name="cloudascent-smb-segmentation"></a>Segmentação cloudAscent SMB
 
-O segmento das pequenas e médias empresas (SMB) está ainda dividido em três subsegmentos distintos.
+O segmento das pequenas e médias empresas (SMB) está dividido em três subsegmentos distintos.
 
 1. **Top Unmanaged** inclui os maiores clientes SMB com mais oportunidades para a Microsoft. Os clientes típicos das Principais Empresas não geridas partilham características semelhantes às contas geridas, com um grande número de colaboradores, grandes orçamentos de TI e gastos, e grandes quantidades de receitas potenciais para a Microsoft.
 
@@ -46,23 +45,25 @@ O segmento das pequenas e médias empresas (SMB) está ainda dividido em três s
 
 2. **O Medium Business** inclui clientes existentes e contas de perspetiva com 25 a 300 colaboradores.
 
-3. **A Small Business** inclui todos os negócios restantes com menos de 25 colaboradores.
+3. **O Small Business** inclui empresas com 10-25 colaboradores.
+
+4. **A Very Small Business** inclui empresas com 1-9 colaboradores.
 
 :::image type="content" source="images/pci/cust-oppor-2.png" alt-text="Cliente por tipo SMC.":::
 
 Os subsegmentos **top Unmanaged** e **Medium Business** representam clientes de elevado valor de vida (LTV) para a Microsoft e Microsoft Partners. Por isso, são as principais áreas de foco para impulsionar o crescimento neste segmento. Nestes dois subsegmentos, estamos mais bem posicionados para adquirir a tomada com a Microsoft 365, rentabilizar ainda mais com aplicações de linha de negócios D365/Azure (LOB) e realizar um LTV elevado para a Microsoft.
 
-Hoje temos duas áreas-chave de oportunidade – 1. o nosso cliente adiciona crescimento; 2. enquanto adquirimos bem as tomadas em nuvem que lideram com o Microsoft 365, temos uma grande oportunidade em D365 e Azure.
+Hoje temos duas áreas-chave de oportunidade – 1. o nosso cliente adiciona crescimento; 2. enquanto adquirimos bem as tomadas em nuvem que lideram com o Microsoft 365, temos uma grande oportunidade em Dynamics 365 e Azure.
 
-A imagem seguinte representa os três Subsegmentos SMB e rotas otimizadas para o mercado. A CloudAscent prioriza o perfil, pontuação e modelação de todas as contas top unmanaged e medium business.
+A imagem que se segue representa os quatro Subsegmentos SMB. A CloudAscent prioriza o perfil, pontuação e modelação de todas as contas top unmanaged e medium business.
 
-:::image type="content" source="images/pci/cust-oppor-3.png" alt-text="Screenshot dos subsegmentos SMB.":::
+:::image type="content" source="images/pci/cust-oppor-32.png" alt-text="Screenshot dos subsegmentos SMB.":::
 
 ## <a name="cloudascent-machine-learning"></a>CloudAscent Machine Learning
 
 A SMB utiliza tecnologia de machine learning para impulsionar as previsões de clientes de vendas e marketing dentro dos segmentos Top Unmanaged e Medium Business. Como são recolhidos e transformados em recomendações de propensão?
 
-- **Recolha de Dados**: Os rastreadores da Web digitalizam e recolhem milhares de milhões de sinais de clientes, pingando os domínios da empresa, e monitorizando: posts de blog, comunicados de imprensa, streams sociais e fóruns técnicos.  Além dos sinais recolhidos, as informações firmográficas são recolhidas de fontes internas e externas, tais como D&B, subscrição Interna da Microsoft e dados transacionais.
+- **Data Collection**: Web crawlers digitalizam e recolhem milhares de milhões de sinais de clientes, pingando os domínios da empresa, e monitorizando posts de blogs, comunicados de imprensa, streams sociais e fóruns técnicos.  Além dos sinais recolhidos, as informações firmográficas são recolhidas de fontes internas e externas, tais como D&B, subscrição Interna da Microsoft e dados transacionais.
 
 - **Machine Learning**: Os sinais são introduzidos no modelo de machine learning que produz um conjunto de dados estruturado de previsões de Vendas e Marketing para cada cliente por produto e cluster em nuvem.  Cada cliente é pontuado usando um modelo semelhante ao SMB de topo da Microsoft que determina o Ajuste do cliente, e algoritmos de aprendizagem automática que integram o comportamento online do cliente definem como Intenção. A pontuação é fundida em clusters que mostram a propensão de um cliente para comprar Produtos Microsoft Cloud.
 
@@ -136,4 +137,6 @@ Os modelos Whitespace são compostos por previsões para os clientes existentes 
 
 Os modelos upsell utilizam dados de transações para prever o potencial de upsell em Azure e Microsoft 365 SKUs.
 
-O EOS partilha o fim dos clientes de serviços para o Windows 7, Office 2010, SQL Server e Windows Server. Os dados do EOS são retirados da MS Sales e sobrepostos com o modelo de propensão CloudAscent, sempre que disponível. Os dados do EOS vivem nas peças de Trabalho Moderno e Azure Sales.
+Estes clientes já terão tanto o Azure como o Microsoft 365 e o modelo de upsell mostra que é provável que comprem mais do seu SKU existente.
+
+O EOS partilha o fim dos clientes de serviço (EOS) para o Win 7, Office 2010, SQL Server e Windows Server. Os dados do EOS são retirados da MS Sales e sobrepostos com o modelo de propensão CloudAscent, sempre que disponível. Os dados do EOS vivem nas peças de Trabalho Moderno e Azure Sales.
