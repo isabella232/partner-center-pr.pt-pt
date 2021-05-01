@@ -9,18 +9,20 @@ ms.localizationpriority: medium
 author: mckennaville
 ms.author: mcville
 ms.date: 07/29/2020
-ms.openlocfilehash: e792e4af2999924ba8be77ec0517ce56c1db7a27
-ms.sourcegitcommit: ed5c873d19f0464cc986fe6e852383cd4280daf6
+ms.openlocfilehash: 12afa751d2e7cb6b6ef0cd7308f09746a8a43b52
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "97893211"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284507"
 ---
 # <a name="transfer-a-customers-azure-plan-subscriptions-to-a-different-partner"></a>Transferir subscrições do plano Azure de um cliente para um parceiro diferente
 
 **Funções adequadas**
 
-- Parceiros no programa Cloud Solution Provider (CSP)
+- Administrador de conta
+- Agente comercial
+- Agente de faturação
 
 Este artigo descreve como um cliente pode mudar as suas subscrições Azure ao abrigo de um plano Azure de um Cloud Solution Provider (CSP) para outro.
 
@@ -42,7 +44,7 @@ O cliente deve estar em conversações com ambos os parceiros (atuais e futuros)
 - Os produtos de mercado de terceiros serão transferidos desde que os produtos passem no controlo de elegibilidade do Marketplace.
     - Não há descontos especiais ou restrições regionais
     - Os produtos não são baseados em subscrição
-    - O futuro parceiro deve trabalhar com a editora para se certificar de que estão na lista de autorizações para a implantação do produto
+    - O futuro parceiro deve trabalhar com a editora para garantir que estão na lista de admissões para a implementação do produto
     - Se nem todas estas condições forem satisfeitas para transferir os produtos marketplace devem ser canceladas, as assinaturas Azure transferidas e, em seguida, recomprar produtos marketplace com o novo parceiro
 
 **Pré-requisitos:**

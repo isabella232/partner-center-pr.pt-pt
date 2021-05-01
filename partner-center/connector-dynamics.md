@@ -8,16 +8,16 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.date: 03/01/2021
-ms.openlocfilehash: 2082424f8203f0d9c50726e1e5ef7b3e3c39d6c2
-ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
+ms.openlocfilehash: c399e00394208ec29dd59a41afe7cce1b1d07253
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "104768776"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284337"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm-overview"></a>Conector de co-venda para visão geral da Dynamics 365 CRM
 
-### <a name="appropriate-roles"></a>Funções adequadas
+**Funções adequadas**
 
 - Administração de referências
 - Administrador de sistema ou personalizador de sistema no CRM
@@ -110,7 +110,7 @@ Antes de instalar, configurar e personalizar a solução Power Automamate no amb
 
    :::image type="content" source="images/connection-reference-video.gif" alt-text="Screenshot que mostra a edição das ligações.":::
 
-1. Edite cada uma das ligações uma a uma selecionando o ícone da elipse. Adicione as ligações relevantes.
+1. Edite cada uma das ligações individualmente selecionando o ícone de elipse. Adicione as ligações relevantes.
 
    :::image type="content" source="images/cosellconnectors/dynamics-4.png" alt-text="Screenshot que mostra ligações listadas.":::
 

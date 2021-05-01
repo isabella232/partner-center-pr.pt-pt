@@ -9,53 +9,54 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/02/2021
-ms.openlocfilehash: 12954a5f7eafb138794de879a41026ef54c65da7
-ms.sourcegitcommit: c6c741475604b8daf386fb54bb2795a6445ac887
+ms.openlocfilehash: 17b8082b8a42050892ff434010952d5f91a39431
+ms.sourcegitcommit: 6c20c3cc4a226cada70c56df295966696affcec8
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/05/2021
-ms.locfileid: "106374396"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108328071"
 ---
 # <a name="march-2021-announcements"></a>Anúncios de março de 2021
 
 Esta página fornece os anúncios para o Microsoft Partner Center para março de 2021.
 
-________________
-## <a name="updated-csp-customer-address-validation-api-now-available-for-testing"></a><a name="18"></a>A API de validação de endereços de cliente csp atualizada já disponível para testes
+## <a name="readiness-changes-to-the-cloud-solution-provider-csp-customer-address-validation-api-going-live-in-june-testing-capability-now-available"></a><a name="18"></a>Prontidão: Alterações ao fornecedor de soluções de nuvem (CSP) validação de endereços API em direto em junho; capacidade de teste agora disponível
 
 ### <a name="categories"></a>Categorias
 
-- Data: 2021-03-31
-- Capacidades
+- Data: 2021-04-30
+- Preparação
 
 ### <a name="summary"></a>Resumo
 
-Como parte do nosso compromisso de ajudar parceiros e clientes a gerir o seu negócio com base na confiança, estaremos convidando parceiros de todo o mundo para testar as alterações à API ValidadaAddress.
+Para ajudar parceiros e clientes a gerir o seu negócio com base na confiança, vamos convidar parceiros para testar alterações na API de Endereço Validado para todos os países do mundo.
 
 ### <a name="impacted-audience"></a>Audiência impactada
 
-Todos os parceiros de conta direta da CSP e fornecedores indiretos que criam novos ou atualizaram os detalhes do endereço do cliente existentes
+Parceiros de conta direto da CSP e fornecedores indiretos que criam novos ou atualizam os dados de endereço dos clientes existentes.
 
 ### <a name="details"></a>Detalhes
 
-A Microsoft tem confiança. Estamos empenhados em fornecer um método compatível, seguro e seguro de submeter a validação do endereço do cliente para transação de subscrições de clientes no programa CSP. Hoje, 31 de março de 2021, introduzimos alterações na API ValidadaAddress que gostaríamos de convidá-lo a testar, antes de ir ao vivo com as mudanças em junho de 2021. 
+A Microsoft tem confiança. Estamos empenhados em fornecer um método compatível, seguro e seguro de validação de endereços do cliente para transação de subscrições de clientes no programa CSP. A partir de 31 de março de 2021, introduzimos alterações na API do Endereço Validado que convidamos os parceiros a testar, antes de irmos ao vivo com as mudanças em junho de 2021.
 
-Note que estas alterações afetam apenas a API validadora. CreateCustomer e UpdateBillingProfile APIs não são afetados.
+As alterações afetam apenas a API do Endereço Validado. Criar APIs de Perfil de Faturação de Clientes e Atualização não são impactados.
 
 A resposta devolverá uma das seguintes mensagens de estado:
 
-| Estado | Descrição | Número de endereços sugeridos devolvidos |
-|----------|-------------|-------------------|
-| VerificadoShippable | O endereço é verificado e pode ser enviado para. | Único |
-| Verificado | O endereço está verificado. | Único |
-| InteracçãoRequired | O endereço sugerido foi alterado significativamente e precisa de confirmação do utilizador. | Único |
-| StreetPartial | A rua dada no endereço é parcial e precisa de mais informações. | Múltiplos — máximo de três|
-| InstalaçõesPartial | As instalações dadas (número de construção, número de suite, etc.) são parciais e precisam de mais informações. | Múltiplos — máximo de três |
-| Vários | Existem vários campos que são parciais no endereço (potencialmente também incluindo o StreetPartial e o PremisesPartial). | Múltiplos — máximo de três |
-| Nenhum | O endereço está incorreto. | Nenhum |
-| Não ÉDoida | O endereço não pôde ser enviado através do processo de validação.  | Nenhum |
+| Estado     | Descrição |    Número de endereços sugeridos devolvidos |
+|-------|---------------|-------------------|
+|Envio verificado | O endereço é verificado e pode ser enviado para. | Único |
+|Verificado | O endereço está verificado. | Único |
+|Interação necessária | O endereço sugerido foi alterado significativamente e precisa de confirmação do utilizador. | Único |
+|Parcial de rua | A rua dada no endereço é parcial e precisa de mais informações. | Múltiplos — máximo de três |
+|Instalações parciais | As instalações dadas (número de edifício, número de suite, entre outras) são parciais e precisam de mais informações. | Múltiplos — máximo de três |
+|Vários | Existem vários campos que são parciais no endereço (potencialmente também incluindo a parcial da rua e as instalações parciais). | Múltiplos — máximo de três |
+|Nenhum | O endereço está incorreto. | Nenhum |
+|Não validado | O endereço não pôde ser enviado através do processo de validação. | Nenhum |
 
-Uma vez que um endereço tenha sido submetido a ser validado através da API ValidadaAddress, será devolvido o seguinte esquema de resposta:
+Os códigos postais dos EUA devolverão mais 4 dígitos + hífen - por exemplo, 12345-6789.
+
+Uma vez que um endereço é submetido para validação através da API de Endereço Validado, o seguinte esquema de resposta será devolvido:
 
 ```csharp
 
@@ -103,18 +104,18 @@ Dê uma olhada nesta resposta da amostra. Note que para os EUA, a resposta devol
 ```csharp
 
 "suggested_address": {
-    "Country": "US",
-    "region": "WA",
-    "city": "Redmond",
-    "address_line1": "1 Microsoft Way",
-    "postal_Code": "98052-8300"
+              "Country": "US",
+              "region": "WA",
+              "city": "Redmond",
+              "address_line1": "1 Microsoft Way",
+              "postal_Code": "98052-8300"
 },
 "original_address": {
-    "Country": "US",
-    "region": "WA",
-    "city": "Redmond",
-    "address_line1": "1 Micro Way",
-    "postal_Code": "98052"
+              "Country": "US",
+              "region": "WA",
+              "city": "Redmond",
+              "address_line1": "1 Micro Way",
+              "postal_Code": "98052"
 },
 "status":  "InteractionRequired",
 "validation_message": "Address field invalid for property: ‘Street’"
@@ -123,13 +124,19 @@ Dê uma olhada nesta resposta da amostra. Note que para os EUA, a resposta devol
 
 ### <a name="next-steps"></a>Passos seguintes
 
-- Partilhe o seu ID de inquilino de sandbox com o nosso especialista em assuntos (PME), Ali Khaki, a ser incluído no voo de teste, para que possa começar a preparar-se para a atualização.
+- Partilhe o seu ID do inquilino da caixa de areia com o especialista em assuntos (Ali Khaki) a ser incluído no voo de teste, para que possa começar a preparar-se para a atualização.
 
 - Se estiver a utilizar uma solução de fornecedor de painéis de controlo (CPV), consulte o seu CPV.
 
 ### <a name="questions"></a>Perguntas?
 
-Se tiver alguma dúvida ou precisar de apoio para as suas operações com a Microsoft, contacte o grupo Yammer de suporte ao seu parceiro.
+Se precisar de apoio para as suas operações com a Microsoft, contacte o grupo Yammer de suporte ao seu parceiro.
+
+### <a name="change-log"></a>Registo de alteração:
+
+- 31 de março de 2020: Publicação original
+
+- 30 de abril de 2021: Atualizações para resposta à amostra e detalhes do código postal
 
 ________________
 ## <a name="new-exchange-admin-center-eac-experience"></a><a name="17"></a>Experiência do Centro de Administração new exchange (EAC)

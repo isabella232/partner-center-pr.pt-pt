@@ -9,15 +9,18 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f423687cacb1f1b2d53750075ff7db9837e8125c
-ms.sourcegitcommit: fe867be44de3479607be3309940b904d7ea9fc6e
+ms.openlocfilehash: 515591f37cb15e8af69acf8d30affd9300429e42
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/06/2021
-ms.locfileid: "102247679"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284473"
 ---
 # <a name="read-about-taxes-and-tax-exemption-details-by-region-or-country-for-partners-in-the-csp-program"></a>Leia sobre impostos e isenções fiscais por região ou país para parceiros no programa CSP
 
+**Funções adequadas**
+
+- Administrador global
 
 O programa Cloud Solution Provider (CSP) é um canal de vendas focado na revenda de produtos por parceiros. Como resultado, a Microsoft nem sempre é obrigada a cobrar imposto sobre vendas em faturas de parceiros. As regras variam por país e/ou região. Pode rever [detalhes específicos de um país e específicos da região para isenções fiscais.](#country-and-region-tax-details)
 
@@ -38,7 +41,7 @@ Para uma isenção de PST BC, apresente uma isenção fiscal como descrito. Forn
 
 ### <a name="united-states"></a>Estados Unidos da América
 
-Espera-se que todos os revendedores nos Estados Unidos forneçam documentação de isenção de impostos sobre vendas no prazo de 30 dias após a aceitação do Acordo de Revenda da Microsoft. Cada Estado tem diferentes certificados de isenção para revenda. Por favor, trabalhe com o seu consultor fiscal para determinar o que é relevante para o seu endereço legal e estados registados.
+Espera-se que todos os revendedores nos Estados Unidos forneçam documentação de isenção de impostos sobre vendas no prazo de 30 dias após a aceitação do Acordo de Revenda da Microsoft. Cada Estado tem diferentes certificados de isenção para revenda. Trabalhe com o seu consultor fiscal para determinar o que é relevante para o seu endereço legal e estados registados.
 
 Tal pode incluir certificados de isenção de revenda que funcionam em vários estados, tais como o *Certificado de Isenção de Acordo Fiscal de* Venda e Utilização de *Simplificação* ou o Certificado uniforme de *isenção de & de utilização de vendas do MTC.*
 

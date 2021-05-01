@@ -10,17 +10,64 @@ ms.custom:
 - announcement
 - references_regions
 ms.localizationpriority: high
-ms.date: 04/27/2021
-ms.openlocfilehash: 99fcf5ae00458b890d6ed3b16849d6cb253e6cbe
-ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
+ms.date: 04/29/2021
+ms.openlocfilehash: d26d1af994ae9a3f951ee9428ee6fd092b2c91d8
+ms.sourcegitcommit: 6c20c3cc4a226cada70c56df295966696affcec8
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108172324"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108328054"
 ---
 # <a name="april-2021-announcements"></a>Anúncios de abril de 2021
 
 Esta página fornece os anúncios para o Microsoft Partner Center para abril de 2021.
+
+## <a name="readiness-updated-csp-customer-address-validation-api-going-live-in-june-testing-capability-now-available"></a><a name="10"></a>Prontidão: Validação de endereço do cliente CSP atualizada API em direto em junho; capacidade de teste agora disponível
+
+### <a name="categories"></a>Categorias
+
+- Data: 2021-04-30
+- Preparação
+
+### <a name="summary"></a>Resumo
+
+Para ajudar parceiros e clientes a gerir o seu negócio com base na confiança, vamos convidar parceiros para testar alterações na API de Endereço Validado para todos os países do mundo.
+
+### <a name="impacted-audience"></a>Audiência impactada
+
+Parceiros de conta direta da CSP e fornecedores indiretos que criam novos ou atualizaram os detalhes do endereço dos clientes existentes
+
+### <a name="details"></a>Detalhes
+
+A Microsoft tem confiança. Estamos empenhados em fornecer um método compatível, seguro e seguro de validação de endereços do cliente para transação de subscrições de clientes no programa CSP. A partir de 31 de março de 2021, introduzimos alterações à API de Endereço Validado. Convidamos parceiros a testar a API antes do go-live no final de junho de 2021. 
+
+Note que estas alterações afetam apenas a API do Endereço Validado. Criar APIs de Perfil de Faturação de Clientes e Atualização não são afetados. Embora o endereço sugerido não tenha atualmente de ser usado com a API do Cliente Criar, é altamente recomendado.
+
+A resposta devolverá uma das seguintes mensagens de estado:
+
+| Estado     | Descrição |    Número de endereços sugeridos devolvidos |
+|-------|---------------|-------------------|
+|Envio verificado | O endereço é verificado e pode ser enviado para. | Único |
+|Verificado | O endereço está verificado. | Único |
+|Interação necessária | O endereço sugerido foi alterado significativamente e precisa de confirmação do utilizador. | Único |
+|Parcial de rua | A rua dada no endereço é parcial e precisa de mais informações. | Múltiplos — máximo de três |
+|Instalações parciais | As instalações dadas (número de edifício, número de suite, entre outras) são parciais e precisam de mais informações. | Múltiplos — máximo de três |
+|Vários | Existem vários campos que são parciais no endereço (potencialmente também incluindo a parcial da rua e as instalações parciais). | Múltiplos — máximo de três |
+|Nenhum | O endereço está incorreto. | Nenhum |
+|Não validado | O endereço não pôde ser enviado através do processo de validação. | Nenhum |
+
+Os códigos postais dos EUA devolverão mais quatro dígitos + hífen, por exemplo, 12345-6789.
+
+### <a name="next-steps"></a>Passos seguintes
+
+- Reveja a documentação técnica e questione frequentemente na [coleção de parceiros dedicados](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) para obter uma orientação mais detalhada.
+- Prepare-se para incorporar as alterações utilizando a API do Partner Center e a experiência do utilizador web. 
+- Partilhe o seu ID do inquilino da caixa de areia com o especialista em assuntos (Ali Khaki) a ser incluído no voo de teste, para que possa começar a preparar-se para a atualização. 
+- Se estiver a utilizar uma solução de fornecedor de painéis de controlo (CPV), consulte o seu CPV.
+
+### <a name="questions"></a>Perguntas?
+
+Se precisar de apoio para as suas operações com a Microsoft, contacte o grupo Yammer ou abra um pedido de [serviço.](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8)
 
 _______________
 ## <a name="new-location-for-partner-center-api-swagger-documentation"></a><a name="9"></a>Nova localização para a documentação da API Swagger do Partner Center

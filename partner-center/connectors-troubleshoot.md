@@ -8,16 +8,16 @@ description: Aprenda respostas a perguntas comuns sobre a utilização de conect
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: b8977f7c602b8587a619236b37a760a55bf87e53
-ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
+ms.openlocfilehash: 939654202a370f6d9ba15d9e62a11be44884b613
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "97354547"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284218"
 ---
 # <a name="troubleshoot-co-sell-referrals-connectors"></a>Resolução de problemas co-venda de conectores de referências
 
-**Aplica-se a:**
+**Aplica-se a**
 
 - Dinâmica 365 CRM
 - Salesforce CRM
@@ -39,7 +39,7 @@ Os utilizadores que são administradores do sistema ou personalizadores de siste
 
 3. Os vendedores de parceiros precisam de papéis especiais para trabalhar no Partner Center?
  
-Os vendedores de parceiros devem ser atribuídos à função "Administração de Referências". Para obter mais informações, consulte o seguinte [visão geral das permissões)(criar-contas-contas-e-set-permissões).
+Os vendedores de parceiros devem ser atribuídos à função "Administração de Referências". Para mais informações, consulte [a visão geral das permissões.](create-user-accounts-and-set-permissions.md)
 
 4. Que campos precisam de ser criados primeiro no seu ambiente de CRM? 
 
@@ -60,7 +60,7 @@ A solução Salesforce Connector é do tipo "Dynamics Flow" que suporta a sincro
 
 1. O que deve fazer se enfrentar o seguinte erro enquanto ativa os fluxos na Plataforma De Automatização de Energia?
 
-Erro: O pedido ao Gestor de Recursos Azure falhou com erro: '{"error":{"code":"WorkflowTriggerNotFound","message":"O fluxo de trabalho 'e14d00f1-1fdf-4b1b-aaac-54a50606093d3' não foi encontrado."} 
+Erro: O pedido ao Gestor de Recursos Azure falhou com erro: '{"error":{"code":"WorkflowTriggerNotFound","message":"O fluxo de trabalho 'e14d00f1-1fdf-4b1b-aaac-54a50606093d3' não foi encontrado."}} 
 
 Siga estes passos de resolução de problemas:
 
@@ -70,7 +70,7 @@ Siga estes passos de resolução de problemas:
 
 2.  O que deve fazer se enfrentar o erro de "Iniciar in" ao adicionar um conector Partner Center na Plataforma De Automatização de Energia?
 
-:::image type="content" source="images/cosellconnectors/failure.png" alt-text="Mensagem de erro que requer o sinal":::
+:::image type="content" source="images/cosellconnectors/failure.png" alt-text="Mensagem de erro que requer inscrição":::
 
 Siga este passo de resolução de problemas:
 
@@ -131,7 +131,7 @@ E. No flow Partner Center Webhook Registration, selecione **Run**. Forneça o **
 
 ## <a name="questions-and-answers-about-runmaintenance"></a>Perguntas e respostas sobre Execução/Manutenção
 
-1. Como se resolvem problemas em caso de falhas durante a execução do fluxo power automamate?
+1. Como se consegue resolver falhas durante a execução do fluxo power automamate?
 
 Para garantir que os fluxos de automatismo de potência funcionam como espera e para resolver falhas durante a execução, consulte [falhas de fluxo de correção](/power-automate/fix-flow-failures).
 
@@ -163,7 +163,7 @@ Faça os seguintes passos:
 
 - Certifique-se de que o campo de referência da moeda está configurado no ambiente salesforce. 
 
-4. O que deve fazer se o conector ficar desligado e perder uma sincronização de referência. 
+4. O que deve fazer se o conector ficar desligado e perder uma sincronização de referência.?
 
 Seguem-se algumas das opções que pode experimentar:
 
@@ -191,7 +191,7 @@ Terá de adicionar o código de 2 letras ISO à conta do Cliente em CRM.
 
 Para criar uma referência de co-venda, precisa de uma solução pronta para co-venda da Microsoft. 
 
-8. O que deve fazer quando vê oportunidades de Co-venda criadas no Partner Center que não são sincronizadas com CRM, mesmo que não existam erros de fluxo:
+8. O que deve fazer quando vê oportunidades de Co-venda criadas no Partner Center que não estão sincronizadas com CRM, mesmo que não existam erros de fluxo?
 
 Faça o seguinte:
 
@@ -199,9 +199,9 @@ Faça o seguinte:
 
 - Se o fluxo for invocado, verifique todos os fluxos invocados e identifique o fluxo que atualizaria o CRM. Pode seguir as ações e verificar se a atualizou o CRM ou se encontrou um problema.
 
-- Check *New deal** in Partner Center para ver se é preenchido com ID CRM.
+- Consulte **o novo negócio** no Partner Center para ver se é preenchido com ID CRM.
 
-- Certifique-se de que o negócio não está fechado acidentalmente como "Won" ou "Lost" no Partner Center.
+- Certifique-se de que o negócio não está fechado acidentalmente como **Won** ou **Lost** in Partner Center.
 
 ## <a name="next-steps"></a>Passos seguintes
 

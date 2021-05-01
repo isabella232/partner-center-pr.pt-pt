@@ -8,16 +8,16 @@ description: Sincronizar as suas referências no Partner Center com o seu Salesf
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 68b8bdf7a88c1ca8d063cf3198fc49bf87552edb
-ms.sourcegitcommit: de2ac2eea26426ae8f962d29ab50b68850318ce6
+ms.openlocfilehash: 8139f89a37048b1790353e3bdd18ac1b44887219
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "97960956"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284388"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>Conector de co-venda para Salesforce CRM - visão geral
 
-### <a name="appropriate-roles"></a>Funções adequadas
+**Funções adequadas**
 
 - Administração de referências
 - Administrador de sistema ou personalizador de sistema no CRM
@@ -49,14 +49,12 @@ Para sincronizar as referências através do Partner Center e da Salesforce CRM,
     - Defina as definições conforme necessário.
 [Referência](https://help.salesforce.com/articleView?id=teamselling_enabling.htm&type=5]) 
 
-3. No Salesforce, instale campos e objetos personalizados utilizando o instalador de pacotes abaixo.
-  
-Vá [aqui](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t2w000006WIwV) para instalar o pacote em qualquer empresa.
+3. No Salesforce, instale campos e objetos personalizados utilizando o [instalador de embalagens.](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t2w000006WIwV) Utilize isto para instalar a embalagem em qualquer empresa.
 
+>[!NOTE]
+>Se estiver a instalar numa caixa de areia, deve substituir a parte inicial do URL por http://test.salesforce.com
 
-Nota: Se estiver a instalar-se numa caixa de areia, deve substituir a parte inicial do URL por http://test.salesforce.com
-
-4. Na Salesforce, adicione as Soluções Microsoft à lista relacionada com a **Oportunidade.** Uma vez adicionado, clique no ícone da **chave** inglesa e atualize propriedades
+4. Na Salesforce, adicione as Soluções Microsoft à lista relacionada com a **Oportunidade.** Uma vez adicionado, selecione o ícone da **chave** inglesa e atualize propriedades
 
 ## <a name="best-practice-test-before-you-go-live"></a>Melhores Práticas: Teste antes de ir ao vivo
 
@@ -78,7 +76,7 @@ Antes de instalar, configurar e personalizar a solução Power Automamate no amb
 
 3. Selecione **Soluções** na barra de navegação esquerda.
 
-4. Clique no link **Open AppSource** no menu superior.
+4. Selecione o link **Open AppSource** no menu superior.
 
    :::image type="content" source="images/cosellconnectors/openappsource.png" alt-text="Open AppSource":::
 
@@ -86,7 +84,7 @@ Antes de instalar, configurar e personalizar a solução Power Automamate no amb
 
    :::image type="content" source="images/salesforce/salesforce1.png" alt-text="Salesforce":::
 
-6. Clique no botão **Get it now** e, em seguida, **Continue**.
+6. Selecione o botão **Get-lo agora** e, em seguida, **Continue**.
 
 7. Isto abre a página onde pode selecionar o ambiente de CRM salesforce para instalar a aplicação.  Concorde com os termos e condições.
 
@@ -135,7 +133,7 @@ Antes de instalar, configurar e personalizar a solução Power Automamate no amb
  
 :::image type="content" source="images/cosellconnectors/salesforce14.png" alt-text="Iniciar a edição do conector":::
 
-2. Edite cada uma das Ligações uma a uma selecionando o ícone de três pontos. Adicione as ligações relevantes.
+2. Edite cada uma das Ligações individualmente selecionando o ícone de três pontos. Adicione as ligações relevantes.
 
 :::image type="content" source="images/cosellconnectors/salesforce15.png" alt-text="Editar conectores":::
 
@@ -177,7 +175,7 @@ As APIs do Partner Center Webhook permitem-lhe registar-se para eventos de alter
 
 8. Selecione agora o "Partner Center Webhook Registration (Insider Preview)" Power Automamate flow e selecione **Run**.
 
-9. Certifique-se de que a janela "Run Flow" se abre no painel direito e clique em **Continuar**.
+9. Certifique-se de que a janela "Run Flow" se abre no painel direito e selecione **Continue**.
 
 10. Introduza os seguintes detalhes:
 
@@ -209,9 +207,9 @@ Vários passos de cada um dos fluxos power automamate podem ser personalizados c
 
 2. Para personalizar mapeamentos de campo de CRM para criar eventos, selecione **Se é nova oportunidade partilhada, então**. Selecione o sub-passo **se sim** e, em seguida, expanda **criando uma nova oportunidade no CRM**. Pode editar os mapeamentos nesta secção utilizando o Guia de Mapeamento de Campo.
 
-   1. Para personalizar mapeamentos de campo CRM para eventos de atualização, clique no passo "(Scope) Sincronizar o chumbo ou a oportunidade".
+   1. Para personalizar mapeamentos de campo crm para eventos de atualização, selecione o passo "(Scope) Sincronizar o chumbo ou a oportunidade".
 
-   2. Selecione **Se é uma atualização para uma oportunidade, então**. Selecione o subpass **se sim** e, em seguida, expandir Se a diferença entre **os objetos de oportunidade no Partner Center e CRM, então**.  
+   2. Selecione **Se é uma atualização para uma oportunidade, então**. Selecione o sub-passo **se sim** e, em seguida, expandir Se a diferença entre **os objetos de oportunidade no Partner Center e CRM, então**.  
 
    3. Selecione **Se sim** seguido com **a atualização oportunidade existente**
 
@@ -306,4 +304,4 @@ Os seguintes campos personalizados devem fazer parte da secção CRM:
 
 - [Gerir oportunidades de venda conjunta](manage-co-sell-opportunities.md)
 
-- [Webhooks do Partner Center](/partner-center/develop/partner-center-webhooks)
+- [Webhooks do Centro de Parceiros](/partner-center/develop/partner-center-webhooks)

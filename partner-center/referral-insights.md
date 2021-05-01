@@ -1,7 +1,7 @@
 ---
 title: Get referral insights (Obter informações de referência)
 ms.topic: article
-ms.date: 02/26/2021
+ms.date: 04/30/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Reveja regularmente os seus dados de insights de referência no Partner Center para ver as tendências para abordar ou melhorar áreas para ajudá-lo a alcançar os seus objetivos de negócio.
@@ -9,12 +9,12 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4a8227fecae05d3752d65651dea4cdc62c9ea672
-ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
+ms.openlocfilehash: 5793e865105b59b2772fd6af5187a92115659e1d
+ms.sourcegitcommit: 6c20c3cc4a226cada70c56df295966696affcec8
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108120856"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108328088"
 ---
 # <a name="get-referral-insights-in-partner-center-and-find-out-how-your-referrals-are-doing"></a>Obtenha informações de referência no Partner Center e descubra como estão as suas referências
 
@@ -27,7 +27,7 @@ A página **de Oportunidades de Co-venda** sob a secção **Analytics** em Refer
 Para ver os seus dados de insights de oportunidades de Co-venda, a partir do menu Partner Center, vá a **Referrals > Analytics > Co-sell Opportunities**.
 
 > [!Important]
-> O filtro tipo de negócio é pré-aplicado com **tipo co-venda** selecionado para todos os dados. Retire o filtro, se quiser adamar os dados relacionados com ofertas privadas e lideradas por parceiros.
+> O filtro tipo de negócio é pré-aplicado com o tipo **co-venda** selecionado para todos os dados. Remova o filtro, se quiser analisar os dados relacionados com ofertas privadas e orientadas por parceiros.
 
 ## <a name="apply-filters"></a>Aplicar filtros
 
@@ -76,7 +76,7 @@ Esta secção mostra os países/regiões de onde vieram os negócios, juntamente
 
 ## <a name="deals-by-solutions"></a>Ofertas por soluções
 
-Este gráfico permite-lhe ver quais das suas soluções estão a conduzir mais referências e o maior valor de negócio. A mesa tem três pivôs - Co-vender, liderado por parceiros, e privado.
+Este gráfico permite-lhe ver quais das suas soluções estão a conduzir mais referências e o maior valor de negócio. A mesa tem três pivôs - Co-vender, liderado por parceiros, e Privado.
 Com base na sua seleção de pivôs, pode ver o desempenho das ofertas agregadas por solução.
 
 > [!NOTE]
@@ -94,14 +94,13 @@ Esta secção irá ajudá-lo a analisar as razões pelas quais as ofertas estão
 
 ## <a name="comparison-charts"></a>Gráficos de comparação
 
-A secção de comparação irá ajudá-lo a comparar os dados relacionados com referências com base em múltiplas dimensões tanto no volume como no valor das ofertas ganhas no pivô USD.
-As três dimensões que pode escolher para comparar dados são
+A secção de comparação irá ajudá-lo a comparar os dados relacionados com referências com base em múltiplas dimensões tanto no volume como no valor das ofertas ganhas no pivô USD. As três dimensões que pode escolher para comparar dados são:
 
 - Tipo de negócio
 - Mercados
 - Soluções
 
-Quando o tipo de negócio é selecionado, você pode comparar o desempenho de referências em relação a oportunidades de Co-venda, ofertas lideradas por parceiros e privadas. Tanto para mercados como para soluções, pode escolher até três opções diferentes para comparar o seu desempenho. O primeiro gráfico, que é um gráfico de barras, terá dados apresentados com uma tendência mensal baseada no pivô principal, que é o volume ou o valor das transações ganhos. Há também um gráfico de tartes à direita do gráfico de barras, que mostra a distribuição por percentagem para os mesmos dados.
+Quando o tipo de negócio é selecionado, você pode comparar o desempenho de referências com o respeito de oportunidades de Co-venda, ofertas lideradas por parceiros e privadas. Tanto para mercados como para soluções, pode escolher até três opções diferentes para comparar o seu desempenho. O primeiro gráfico, que é um gráfico de barras, terá dados apresentados com uma tendência mensal baseada no pivô principal, que é o volume ou o valor das transações ganhos. Há também um gráfico de tartes à direita do gráfico de barras, que mostra a distribuição por percentagem para os mesmos dados.
 
 :::image type="content" source="images/referrals/cosell-analytics-compare-v2.png" alt-text="Imagem mostrando a secção de comparação.":::
 
@@ -128,3 +127,8 @@ Pode haver várias razões pelas quais está a receber um gráfico em branco com
 
 > [!TIP]
 > Para ver como o seu perfil de negócio está a funcionar na experiência do [fornecedor de soluções,](https://www.microsoft.com/solution-providers/home) consulte a página de insights de perfil de [Negócios.](analyze-your-marketing-profile.md)
+
+## <a name="next-steps"></a>Passos seguintes
+
+- [Cresça o seu negócio com referências da Microsoft](referrals.md)
+- [Analise as suas pistas](analyze-your-marketing-profile.md)

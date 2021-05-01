@@ -9,20 +9,24 @@ author: keramp
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0696a3820a873ca213b4c2e0be847c0518095466
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: b0d8a560c048f1a1dbb783560cf419145754a6fe
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92530389"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284303"
 ---
 # <a name="view-digitally-signed-invoices"></a>Ver faturas assinadas digitalmente
 
 **Aplica-se a**
 
-- Partner Center
 - Centro Parceiro Índia
 
+**Funções adequadas**
+
+- Administrador de conta
+- Agente de faturação
+- Agente comercial
 
 Os parceiros na Índia vêem agora que a Microsoft assinou faturas digitalmente. Tem de utilizar o Adobe Acrobat Reader Document Cloud (DC) para visualizar uma assinatura.
 
@@ -32,21 +36,21 @@ Os parceiros na Índia vêem agora que a Microsoft assinou faturas digitalmente.
 1. Se criou a encomenda no Partner Center, receberá uma cópia digital de uma fatura por e-mail. Selecione a fatura, que abrirá a partir de dentro do Adobe Acrobat Reader DC.
 
 
-2. No topo da fatura deve ver **Assinado e todas as assinaturas são válidas.**
+2. No topo da fatura, deverá ver **assinado e todas as assinaturas são válidas.**
  
  :::image type="content" source="images/digitalsig/digital1.png" alt-text="A fatura da amostra com banner de notificação de assinatura válida mostrando assinatura de marca verde e frase dizendo, Assinado e todas as assinaturas são válidas.":::
 
-3. Clique na assinatura. O certificado indicando validade aparecerá.
+3. Selecione a assinatura. O certificado indicando validade aparecerá.
 
-:::image type="content" source="images/digitalsig/digital2.png" alt-text="A fatura da amostra com banner de notificação de assinatura válida mostrando assinatura de marca verde e frase dizendo, Assinado e todas as assinaturas são válidas."::: 
+:::image type="content" source="images/digitalsig/digital2.png" alt-text="Fatura assinada com campo signatário autorizado e caixa de diálogo estado de validação de assinatura com detalhes, opção Signature Properties, opção cancelar."::: 
 
 4. Selecione **Signature Properties** para ver mais detalhes sobre a validade da assinatura.
 
-:::image type="content" source="images/digitalsig/digital4.png" alt-text="A fatura da amostra com banner de notificação de assinatura válida mostrando assinatura de marca verde e frase dizendo, Assinado e todas as assinaturas são válidas."::: 
+:::image type="content" source="images/digitalsig/digital4.png" alt-text="A visualização detalhada das propriedades de assinatura mostra informações sobre quem, quando o documento foi assinado, o seu processo de validação e o certificado do signatário."::: 
 
 4. Também pode garantir que os caminhos de certificação estão corretos e que o certificado é confiável.
 
- :::image type="content" source="images/digitalsig/digital3.png" alt-text="A fatura da amostra com banner de notificação de assinatura válida mostrando assinatura de marca verde e frase dizendo, Assinado e todas as assinaturas são válidas.":::
+ :::image type="content" source="images/digitalsig/digital3.png" alt-text="A caixa de diálogo do Espectador de Certificado mostra vários separadores com mais detalhes sobre um certificado e toda a sua cadeia de emissão.":::
 
 ### <a name="additional-information-on-invoices-and-digital-signatures"></a>Informação adicional sobre faturas e assinaturas digitais
 

@@ -10,18 +10,23 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7c1bc49562e3d58d5e4010a4be7af36a99c8abe6
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: e0e97b0d5bde09e499793576f9c3dbe4a7ffd522
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92530080"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284524"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>Gestão de utilizadores e licenças no Partner Center para o Microsoft Cloud Germany
 
 **Aplica-se a**
 
--  Centro de Parceiros para Microsoft Cloud Germany
+- Centro de Parceiros para Microsoft Cloud Germany
+
+**Funções adequadas**
+
+- Administrador global
+- Administrador de conta
 
 > [!IMPORTANT]
 > Com base na evolução das necessidades dos clientes, a nossa estratégia de nuvem para a Alemanha centrar-se-á na entrega das novas regiões em nuvem na Alemanha que são consistentes com a nossa oferta global de nuvem. Com este foco, deixaremos de aceitar novos clientes ou de implementar quaisquer novos serviços a partir da microsoft Cloud Germany atualmente disponível. Os clientes existentes podem continuar a utilizar os atuais serviços em nuvem disponíveis hoje, que vamos manter com as necessárias atualizações de segurança.
@@ -41,7 +46,7 @@ Gestão de licenças | Office 365 centro de administração ou portal de licenci
 
 Se estiver inscrito no Partner Center para o Microsoft Cloud Germany, pode abrir o portal Azure para a Microsoft Cloud Germany sem ter de voltar a iniciar súb. No entanto, se precisar de iniciar seduca diretamente no portal Azure para a Microsoft Cloud Germany, vá a [https://portal.microsoftazure.de](https://portal.microsoftazure.de) . 
 
-Depois de ter assinado com sucesso o portal Azure para a Microsoft Cloud Germany, abra a sua página de visão geral do Azure Ative Directory (Azure AD) e siga as instruções nestes tópicos:
+Depois de ter assinado com sucesso o portal Azure para a Microsoft Cloud Germany, abra a sua página de visão geral do Azure Ative Directory (Azure AD) e siga as instruções destes artigos:
 
 > [!NOTE]  
 > A seleção dos links abaixo irá levá-lo a um site diferente.
