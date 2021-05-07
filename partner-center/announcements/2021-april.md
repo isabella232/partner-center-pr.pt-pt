@@ -11,12 +11,12 @@ ms.custom:
 - references_regions
 ms.localizationpriority: high
 ms.date: 04/29/2021
-ms.openlocfilehash: d26d1af994ae9a3f951ee9428ee6fd092b2c91d8
-ms.sourcegitcommit: 6c20c3cc4a226cada70c56df295966696affcec8
+ms.openlocfilehash: 798dcb1570a0f6dfc94c7b45fc3c2e152f55cbe5
+ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108328054"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "108702829"
 ---
 # <a name="april-2021-announcements"></a>Anúncios de abril de 2021
 
@@ -308,11 +308,12 @@ A chamada comunitária mensal CSP Q&A é o melhor local para questões relaciona
 Para mais informações, contacte [o Suporte.](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp)
 
 ________________
-## <a name="reminder-deprecation-of-get-qualification-on-may-4-2021"></a><a name="4"></a>Lembrete: Depreciação da qualificação get em 4 de maio de 2021
+## <a name="final-reminder-deprecation-of-get-qualification-on-may-6-2021"></a><a name="4"></a>Lembrete final: Depreciação da qualificação do GET em 6 de maio de 2021
 
 ### <a name="categories"></a>Categorias
 
-- Data: 2021-04-09
+- Data: 2021-05-04
+
 - Capacidades
 
 ### <a name="impacted-audience"></a>Audiência impactada
@@ -321,13 +322,13 @@ Parceiros que vendem ofertas académicas, sem fins lucrativos e comunidade gover
 
 ### <a name="details"></a>Detalhes
 
-Este anúncio é um seguimento das melhorias do Partner Center [lançadas em dezembro.](https://docs.microsoft.com/partner-center/announcements/2020-december#1) Como parte desse lançamento, foram implementadas novas APIs get e post qualifications e, consequentemente, a qualificação get existente será aposentada até 4 de maio de 2021. Por essa altura, terá de passar a utilizar as novas APIs do Post Partner Center nas ofertas de aquisição de Educação, e as novas qualificações GET API para adquirir ofertas pré-qualificadas sem fins lucrativos e GCC.
+Este anúncio é um seguimento das melhorias do Partner Center [lançadas em dezembro.](https://docs.microsoft.com/partner-center/announcements/2020-december#1) Como parte desse lançamento, foram implementadas novas APIs get e post qualifications e, consequentemente, **a qualificação get existente será aposentada no dia 6 de maio de 2021**. Nessa altura, terás de te ter transitado para usar as novas APIs do Post Partner Center. As novas APIs post permitir-lhe-ão adquirir ofertas de Educação, enquanto as novas APIs GET permitir-lhe-ão adquirir ofertas pré-qualificadas sem fins lucrativos e GCC.
 
 ### <a name="next-steps"></a>Passos seguintes
 
-- Atualize as novas APIs para uma transição bem sucedida e oportuna.
+- **Atualize as novas APIs** para uma transição bem sucedida e oportuna.
 
-- Reveja as novas alterações e guia do Centro de Parceiros na API nos recursos de prontidão de operações: [Melhorias do processo de validação do processo de validação do cliente do Partner Center Education](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/).
+- **Reveja as novas alterações e guia** do Centro de Parceiros na API nos recursos de prontidão de operações: [Melhorias do processo de validação do processo de validação do cliente do Partner Center Education](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/).
 
 - Partilhe esta informação com as equipas apropriadas dentro da sua organização e com os seus revendedores para ajudá-los a prepararem-se para estas mudanças.
 
@@ -337,8 +338,12 @@ Para quaisquer questões relacionadas com esta notificação, contacte [o Suport
 
 ### <a name="change-log"></a>Change log
 
-- Abril: Lembrete da próxima depreciação da qualificação GET 
+- 4 de maio de 2021: Lembrete final da próxima depreciação da qualificação do GET
+
+- 9 de abril de 2021: Lembrete da próxima depreciação da qualificação do GET 
+
 - Fevereiro: Prazos atualizados para depreciação das qualificações GET & PUT
+
 - Janeiro: Lembrete das próximas depreciações das qualificações GET & PUT
 
 ________________

@@ -9,12 +9,12 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7ab3d1ab3f29e01303a9a039b9e9b21b9cfad07f
-ms.sourcegitcommit: 2c8d1bca0737a3d73f2888dfeaf099176bf9e9ae
+ms.openlocfilehash: 4e0f8834523770e5780395e685ca4ef45f5d2535
+ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/03/2021
-ms.locfileid: "99480073"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "108702931"
 ---
 # <a name="manage-co-sell-opportunities-in-partner-center"></a>Gerir oportunidades de co-venda no Partner Center
 
@@ -175,11 +175,13 @@ Abaixo está o quadro que mostra as fases de vendas e as percentagens correspond
 
 Quando terminar, pode tomar uma das duas ações, que estão marcando o acordo como **Won** ou **Lost** para relatar o resultado.
 
+Não é necessário que a sua empresa siga as mesmas fases de vendas. É assim que o Partner Center reconhece as fases de vendas do negócio e irá mapear automaticamente as fases da sua empresa para estas fases padrão se estiver a passar estes valores usando a API. Se estiver a utilizar o Partner Center UX, as percentagens indicadas na tabela são utilizadas para marcar as fases de venda.
+
 > [!Note]
-> Não é necessário que a sua empresa siga as mesmas fases de vendas. É assim que o Partner Center reconhece as fases de vendas do negócio e irá mapear automaticamente as fases da sua empresa para estas fases padrão se estiver a passar estes valores usando a API. Se estiver a utilizar o Partner Center UX, as percentagens indicadas na tabela são utilizadas para marcar as fases de venda.
+> Para determinadas soluções elegíveis, depois de selecionar Won, ser-lhe-á pedido que forneça informações adicionais para registar o seu negócio. A Microsoft irá rever as informações que aqui fornece e poderá pedir detalhes adicionais durante o processo de revisão. Para mais informações, consulte [Registar as suas ofertas.](register-deals.md)
 
 > [!Important]
-> Para determinadas soluções elegíveis, depois de selecionar Won, ser-lhe-á pedido que forneça informações adicionais para registar o seu negócio. A Microsoft irá rever as informações que aqui fornece e poderá pedir detalhes adicionais durante o processo de revisão. Para mais informações, consulte [Registar as suas ofertas.](register-deals.md)
+> Se o negócio for elegível para o registo de negócios, certifique-se de que há uma lacuna de 72 horas entre a criação do negócio e o negócio sendo marcado como ganho. Fechar o negócio como ganho mais cedo do que isso pode resultar na rejeição dos registos de negócio.
 
 Um negócio só será elegível para registo de transações se cumprir todos os critérios abaixo.
 

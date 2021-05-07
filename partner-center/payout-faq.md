@@ -6,13 +6,13 @@ ms.subservice: partnercenter-incentives
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
-ms.date: 03/05/2021
-ms.openlocfilehash: 00cb707dd6d94cc6cbae889e2db1a700d246e2ed
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.date: 05/06/2021
+ms.openlocfilehash: 74d62a794d95cbf7a5170ddbcfe474cc61fbf9b3
+ms.sourcegitcommit: 5780fab794d7a48c64ce27eeabd7a39d56706e9c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106087047"
+ms.lasthandoff: 05/07/2021
+ms.locfileid: "109240521"
 ---
 # <a name="common-questions-about-payouts-and-taxes"></a>Questões comuns sobre pagamentos e impostos
 
@@ -84,19 +84,21 @@ Se um perfil fiscal estiver caducado ou prestes a expirar, significa que o formu
 
 - Se a encomenda foi parcialmente paga pelo seu cliente, o seu valor de ganho basear-se-á no valor parcialmente pago após a dedução da taxa e do imposto adequado.
 - Verifique a responsabilidade fiscal por país. Nos países onde o imposto é responsável pela Microsoft, a Microsoft recolhe e deduz o imposto dos ganhos dos editores. O montante da transação mostrado na declaração é após o montante do imposto. Veja [Detalhes fiscais](tax-details-marketplace.md).
-- As ofertas da SaaS e da IaaS têm uma taxa de agência descontada de 10% em vez dos 20% padrão, deixando uma taxa de ganhos de 90%. Esta promoção está em vigor até 30 de junho de 2021.
+- As ofertas da SaaS e da IaaS têm uma taxa de agência descontada de 10% em vez dos 20% padrão, deixando uma taxa de ganhos de 90%. Este é um requisito de Co-Sell IP. Esta promoção está em vigor até 30 de junho de 2021. 
 
 **Continuar a ler** [Acordo de Editor de Mercado Comercial](https://go.microsoft.com/fwlink/p/?LinkID=699560), Detalhes da política de [pagamento](payout-policy-details.md), limiar [de pagamento, método e prazo,](payment-thresholds-methods-timeframes.md) [Ser pago,](marketplace-get-paid.md) [Detalhes fiscais,](tax-details-marketplace.md) [declarações de pagamento](payout-statement.md)
 
 ## <a name="earnings-reconciliation"></a>Reconciliação dos ganhos
 
 ### <a name="how-do-i-reconcile-payout-statements-to-order-or-usage-reports-in-analytics"></a>Como devo proceder para reconciliar as declarações de dividendos para relatórios de encomendas ou de utilização nas análises?
+
 Utilize o AssetID, o orderID e o ID do item de linha que aparece no relatório do histórico de transações de pagamento com ordens analíticas e relatórios de utilização. Utilize este mapeamento:
 
 - Histórico de Transações de Dividendos.AssetID = order.OrderID
 - Histórico de Transações de Dividendos.OrderID & LineItem = Usage.UsageReferenceID [OrderID:LineItemID]
 
 ### <a name="how-do-i-know-when-to-expect-payments-for-my-customer-orders"></a>Como devo proceder para saber quando esperar pagamentos para as encomendas de clientes?
+
 - Em primeiro lugar, utilizando o seu activoID, consulte as encomendas de clientes nos [relatórios encomendas](https://partner.microsoft.com/dashboard/commercial-marketplace/analytics/order).
 - Verifique o canal de cliente para a subscrição do seu cliente no [relatório de clientes.](https://partner.microsoft.com/dashboard/commercial-marketplace/analytics/customer)
 - Para os clientes empresariais, os ganhos dos editores aparecem no comunicado 1-2 dias após a data da Encomenda de Compra.

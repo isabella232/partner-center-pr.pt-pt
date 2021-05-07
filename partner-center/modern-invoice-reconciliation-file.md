@@ -8,12 +8,12 @@ ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
-ms.openlocfilehash: 7ff320124230ec8e0b3505b1c1dbbb7c811cb67f
-ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
+ms.openlocfilehash: 559b5334eb23ad76fe8cc51fc1beeaa3a86c6fa1
+ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108120721"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "108702795"
 ---
 # <a name="csp-one-time-purchase-reconciliation-file-fields"></a>CSP uma vez comprar campos de arquivos de reconciliação
 
@@ -38,7 +38,7 @@ Para obter mais informações sobre ficheiros de reconciliação, consulte [util
 | MpnId | Identificador mpn do parceiro da CSP. Para mais informações, consulte [como itemar por parceiro.](./use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner) | *6034453* |
 | RevendedorMpnId | Identificador MPN do revendedor de registo para a subscrição. | *6048879* |
 | OrderId | Identificador único para uma encomenda na plataforma de faturação da Microsoft. Pode ser útil identificar a ordem ao contactar o suporte. Não é usado para a reconciliação. | *0ET2qaZvJGfF9wgSKnWzR5JLmhp10lOc1* |
-| OrderDate | Data em que a encomenda foi feita. | *10/3/2020* |
+| OrderDate | Data na UTC a encomenda foi feita. | *10/3/2020* |
 | ProductId | O identificador único do produto. | *DZH318Z0BNZ5* |
 | SkuId | O identificador único da SKU. | *006G* |
 | DisponibilidadeyId | O identificador único de disponibilidade. | *DZH318Z08B80* |

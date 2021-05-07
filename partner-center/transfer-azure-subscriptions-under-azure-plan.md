@@ -9,12 +9,12 @@ ms.localizationpriority: medium
 author: mckennaville
 ms.author: mcville
 ms.date: 07/29/2020
-ms.openlocfilehash: 12afa751d2e7cb6b6ef0cd7308f09746a8a43b52
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: f0abfdfd2fbb242f7cdbe0ded04d387ea712cce5
+ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284507"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "108702727"
 ---
 # <a name="transfer-a-customers-azure-plan-subscriptions-to-a-different-partner"></a>Transferir subscrições do plano Azure de um cliente para um parceiro diferente
 
@@ -44,7 +44,7 @@ O cliente deve estar em conversações com ambos os parceiros (atuais e futuros)
 - Os produtos de mercado de terceiros serão transferidos desde que os produtos passem no controlo de elegibilidade do Marketplace.
     - Não há descontos especiais ou restrições regionais
     - Os produtos não são baseados em subscrição
-    - O futuro parceiro deve trabalhar com a editora para garantir que estão na lista de admissões para a implementação do produto
+    - O futuro parceiro deve trabalhar com a editora para se certificar de que estão na lista de autorizações para a implementação do produto
     - Se nem todas estas condições forem satisfeitas para transferir os produtos marketplace devem ser canceladas, as assinaturas Azure transferidas e, em seguida, recomprar produtos marketplace com o novo parceiro
 
 **Pré-requisitos:**
@@ -130,6 +130,7 @@ Reveja e aceite o formulário de pedido de transferência do Partner Center para
 >Para Fornecedores Indiretos: Informe o seu Revendedor Indireto de que o pedido de transferência foi aceite.
 
 ### <a name="managing-your-transferred-customer-subscriptions"></a>Gerir as subscrições de clientes transferidas
+
 - O acesso a utilizadores, grupos ou principais de serviço existentes que tenham sido atribuídos através do RBAC (controlo de acesso baseado em funções) do Azure, não é afetado durante a transição. O controlo de acesso baseado em funções [(Azure RBAC)](/azure/role-based-access-control/overview) ajuda o seu cliente a gerir quem tem acesso aos recursos Azure, o que pode fazer com esses recursos e a que áreas têm acesso. Como novo parceiro, não lhe é dado qualquer acesso RBAC aos recursos do seu cliente após a transferência de subscrição. O parceiro anterior do seu cliente mantém o seu acesso AO RBAC. Trabalhe com o seu cliente para entender quem tem informações sobre as suas subscrições e como fazer quaisquer alterações desejadas.
 
 - Consequentemente, é importante que o seu cliente remova o acesso do Azure RBAC para o seu parceiro anterior e adicione acesso ao novo parceiro. Para obter mais informações sobre o seu cliente que dá novo acesso, consulte [o que é o controlo de acesso baseado em funções do Azure (Azure RBAC)?](/azure/role-based-access-control/overview) Para obter mais informações sobre o acesso do seu cliente ao RBAC do seu parceiro anterior, consulte [Remover uma atribuição de função](/azure/role-based-access-control/role-assignments-portal#remove-a-role-assignment).

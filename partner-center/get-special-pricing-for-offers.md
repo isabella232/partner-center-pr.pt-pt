@@ -2,19 +2,19 @@
 title: Vender a indústrias especializadas
 description: Conheça os preços especiais e reduzidos da Microsoft para determinados grupos de clientes, incluindo clientes de educação, clientes sem fins lucrativos e utilizadores do governo.
 ms.topic: how-to
-ms.date: 06/05/2020
+ms.date: 05/04/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2c1cb2adc28a19f265643c5e2756fbdf1195b970
-ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
+ms.openlocfilehash: bff69796cb753f93225bb44324629180d981a721
+ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "100281272"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "108702693"
 ---
 # <a name="sell-to-specialized-industries-like-education-non-profit-and-government-users"></a>Vender a indústrias especializadas como utilizadores de educação, sem fins lucrativos e governamentais
 
@@ -61,8 +61,9 @@ Assim que você e o seu cliente estiverem qualificados para um programa de ofert
 Os parceiros só poderão vender ofertas especiais aos clientes se cumprirem determinados critérios. 
 
 - As ofertas educativas só podem ser adquiridas se o Cliente for autorizado como Instituição de Ensino. Um cliente de Educação só pode receber ofertas de Educação e Comercial, mas não sem fins lucrativos nem nuvem comunitária do Governo (GCC).
-- Os parceiros só podem adquirir subscrições GCC para clientes GCC. Uma vez que um cliente tem uma subscrição GCC, os parceiros não podem comprar subscrições comerciais, educacionais ou sem fins lucrativos. 
+- Os parceiros só podem adquirir subscrições GCC para clientes GCC. Uma vez que um cliente tem uma subscrição GCC, os parceiros não podem comprar subscrições comerciais, educacionais ou sem fins lucrativos.
 - Os parceiros só podem adquirir subscrições comerciais ou sem fins lucrativos para clientes sem fins lucrativos. Os parceiros não podem comprar assinaturas de GCC nem de educação para clientes sem fins lucrativos.
+- As Entidades Estatais devem cumprir os [critérios de elegibilidade.](https://www.microsoft.com/legal/compliance/anticorruption/criteria)
 
 Regras de compra para venda de ofertas especiais aos clientes:
 
@@ -72,6 +73,9 @@ Regras de compra para venda de ofertas especiais aos clientes:
 | Sem fins lucrativos |Comercial, Sem Fins Lucrativos | Educação ou Nuvem Comunitária do Governo |
 | Education |Comercial, Educação | Nuvem Comunitária sem fins lucrativos ou do governo |
 | Nuvem Comunitária do Governo |Nuvem Comunitária do Governo | Sem fins lucrativos, Educação ou Comercial |
+| Entidade Estatal  | Comercial  | Nuvem Comunitária sem fins lucrativos, educação ou comunidade governamental  |
+| Se a Educação e a Entidade Estatal | Comercial, Educação | Nuvem Comunitária sem fins lucrativos ou do governo |
+| Se entidade estatal e nuvem comunitária do governo | Nuvem Comunitária do Governo | Sem fins lucrativos, Educação ou Comercial |
 
 ## <a name="next-steps"></a>Passos seguintes
 

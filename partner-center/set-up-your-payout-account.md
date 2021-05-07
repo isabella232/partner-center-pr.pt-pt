@@ -7,12 +7,12 @@ ms.subservice: partnercenter-mpn
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 12/10/2019
-ms.openlocfilehash: c08dfb816e08efdc194dbeff8800a2cbcec2b972
-ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
+ms.openlocfilehash: 8f680753216ea9cd515c8082495b390c7bf95a62
+ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "105028439"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "108702812"
 ---
 # <a name="set-up-your-payout-account-and-tax-forms"></a>Configurar a conta de dividendos e os formulários fiscais
 
@@ -145,7 +145,7 @@ Em países e regiões selecionados, pode criar uma conta de pagamento inserindo 
 
 Questões comuns sobre a utilização de PayPal como método de pagamento:
 
-- **Que PayPal configurações preciso de ter para receber pagamentos?** Certifique-se de que a sua conta PayPal não bloqueia os pagamentos eCheck. Esta definição é gerida na página PayPal's Payment Receiving Preferences. Consulte [a página de configuração da conta da PayPal](https://go.microsoft.com/fwlink/p/?linkid=513139) para obter mais informações.
+- **Que PayPal configurações preciso de ter para receber pagamentos?** Certifique-se de que a sua conta PayPal não bloqueia os pagamentos eCheck. Esta definição é gerida na página PayPal's Payment Receiving Preferences. Consulte [a página de configuração da conta da PayPal](https://go.microsoft.com/fwlink/?linkid=2162542) para obter mais informações.
 
 - **O meu país/região é apoiado?** Consulte [os limiares de pagamento, métodos e prazos](payment-thresholds-methods-timeframes.md) para saber onde PayPal é um método de pagamento suportado.
 

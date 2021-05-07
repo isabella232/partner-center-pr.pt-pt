@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4c311de4a504785e15cefc7a93f1ee3da396ea7d
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 117acfa8c50496ddaa75789b2bb3f55c642e4fe6
+ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441290"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "108702914"
 ---
 # <a name="understand-the-fields-in-partner-center-license-based-reconciliation-files"></a>Compreenda os campos em ficheiros de reconciliação baseados em licenças do Partner Center
 
@@ -46,8 +46,8 @@ Para conciliar as suas alterações com as ordens de um cliente, compare o **Syn
 | OfferId | Identificador de oferta única. Identificador de oferta padrão, conforme definido na tabela de preços. *Este valor não corresponde **ao ID** da Oferta da tabela de preços. Consulte **DurableOfferID** em vez disso.* | *FE616D64-E9A8-40EF-843F-152E9BB3D1* |
 | DurableOfferId | Identificador de oferta durável único, conforme definido na tabela de preços. *Este valor corresponde ao **ID** da Oferta da tabela de preços.* | *1017D7F3-6D7F-4BFA-BDD8-79BC8F104E0C* |
 | OfferName | O nome da oferta de serviço adquirida pelo cliente, conforme definido na tabela de preços. | *Microsoft Office 365 (Plano E3)* |
-| SubscriçãoStartDate | A data de início da subscrição. A hora é sempre o início do dia, 00:00. Este campo é definido para o dia seguinte à encomenda foi submetida. Utilizado com o **SubscriptionEndDate** para determinar: se o cliente ainda se encontra no primeiro ano da subscrição, ou se a subscrição foi renovada para o ano seguinte. | *2/1/2019 0:00* |
-| SubscriçãoEndDate | A data final da assinatura. A hora é sempre o início do dia, 00:00. *Ou 12 meses mais **x** dias após a data de início* para alinhar com a data de faturação do parceiro ou *12 meses a partir da data de renovação*. Na renovação, os preços são atualizados para a lista de preços em vigor. A comunicação do cliente pode ser necessária antes da renovação automatizada. | *2/1/2019 0:00* |
+| SubscriçãoStartDate | A data de início da subscrição na UTC. A hora é sempre o início do dia, 00:00. Este campo é definido para o dia seguinte à encomenda foi submetida. Utilizado com o **SubscriptionEndDate** para determinar: se o cliente ainda se encontra no primeiro ano da subscrição, ou se a subscrição foi renovada para o ano seguinte. | *2/1/2019 0:00* |
+| SubscriçãoEndDate | A data de fim da subscrição na UTC. A hora é sempre o início do dia, 00:00. *Ou 12 meses mais **x** dias após a data de início* para alinhar com a data de faturação do parceiro ou *12 meses a partir da data de renovação*. Na renovação, os preços são atualizados para a lista de preços em vigor. A comunicação do cliente pode ser necessária antes da renovação automatizada. | *2/1/2019 0:00* |
 | ChargeStartDate | Início do dia das acusações. A hora é sempre o início do dia, 00:00. Usado para calcular os encargos diários *(custos pro rata)* quando um cliente muda os números da licença. | *2/1/2019 0:00* |
 | ChargeEndDate | Fim do dia das acusações. A hora é sempre o fim do dia, 23:59. Usado para calcular os encargos diários *(custos pro rata)* quando um cliente muda os números da licença. | *2/28/2019 23:59* |
 | ChargeType | O [tipo de carga](recon-file-charge-types.md) ou ajuste. | Consulte [os tipos de carga.](recon-file-charge-types.md) |

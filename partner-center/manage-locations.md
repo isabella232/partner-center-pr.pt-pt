@@ -1,7 +1,7 @@
 ---
 title: Gerir localizações na sua conta de parceiro
 ms.topic: how-to
-ms.date: 04/05/2021
+ms.date: 05/01/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Saiba como adicionar uma nova localização e como a localização MPN ID é usada em programas de incentivo, negócios de CSP, subscrições e outras transações.
@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7ca8c866479fbe153c1e0192edd33e8258b9d6e7
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 8a2b4fa8b204b10d5d45c0e1409ab4bc463e272f
+ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441337"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "108702897"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-delete-a-location"></a>Gerencie as localizações da sua conta MPN e adicione (excluir) uma localização
 
@@ -50,7 +50,7 @@ Para adicionar uma nova conta de negócios da CSP, comece por garantir que cumpr
 
 1. Se quiser inscrever-se como parceiro direct Bill, leia [requisitos para parceiros direct Bill](direct-partner-new-requirements.md)
 
-## <a name="view-your-mpn-locations"></a>Ver as suas localizações de MPN
+## <a name="view-and-update-your-mpn-locations"></a>Ver e atualizar as suas localizações de MPN
 
 1. Inscreva-se no painel partner [Center](https://partner.microsoft.com/dashboard/home) com as suas credenciais de conta MPN. (As suas credenciais MPN podem ser diferentes das suas credenciais de CSP) 
  
@@ -100,6 +100,37 @@ Atualizar os seguintes campos:
 > [!NOTE]
 > Uma vez que uma localização é adicionada no Partner Center, não é possível removê-la. Verá **MPN** no menu esquerdo do Partner Center se tiver usado o ID MPN correto para iniciar sins.
 
+## <a name="add-the-registration-number-id"></a>Adicione o ID número de registo
+
+Se é um fornecedor indireto, parceiro de conta direta ou revendedor indireto e está a fazer negócios com clientes novos ou existentes nos seguintes países, tem de fornecer números de identificação de registo para o seu negócio. Se o país em que está a fazer negócios não estiver listado abaixo, o ID de registo é opcional.
+
+- Arménia 
+- Azerbaijão 
+- Bielorrússia 
+- Brasil 
+- Hungria 
+- Índia 
+- Iraque 
+- Cazaquistão 
+- Quirguistão 
+- Moldávia 
+- Mianmar 
+- Polónia 
+- Rússia 
+- Arábia Saudita 
+- África do Sul 
+- Sudão do Sul  
+- Tajiquistão 
+- Tailândia
+- Turquia 
+- Ucrânia 
+- Emirados Árabes Unidos 
+- Usbequistão 
+- Venezuela
+- Vietname 
+
+
+Para mais informações, leia [as informações do número de ID do registo](reg-number-id.md)
 
 ## <a name="delete-a-location"></a>Excluir uma localização
 
