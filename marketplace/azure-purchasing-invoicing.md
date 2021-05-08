@@ -5,13 +5,13 @@ ms.service: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
-ms.date: 01/18/2021
-ms.openlocfilehash: ac20b3c0603f886104499ab8de6da1d3459bbd57
-ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
+ms.date: 04/15/2021
+ms.openlocfilehash: cfe37f26ad685ca723336d8559d15d4a64048f4b
+ms.sourcegitcommit: 2ad9e61fa5b9941f927ebf44c459b6c1bd055b9d
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103412578"
+ms.lasthandoff: 05/08/2021
+ms.locfileid: "109630088"
 ---
 # <a name="azure-marketplace-purchasing"></a>Compra do Azure Marketplace
 
@@ -68,7 +68,7 @@ A compra de uma oferta através do Azure Marketplace pode falhar por diferentes 
 1. A subscrição pertence a um Acordo de Empresa (EA) e à administração da EA desativada as compras do Azure Marketplace.
 1. O administrador da EA permitiu compras apenas para ofertas gratuitas e a oferta é uma oferta paga.
 1. A oferta não se encontra no mercado.
-1. O Fornecedor Independente de Software (ISV) deixou de vender a oferta, pelo menos na sua região.
+1. O Fornecedor Independente de Software (ISV) prepreciou (anteriormente parar de vender) a oferta, pelo menos na sua região.
 1. A subscrição que está a utilizar pertence a uma conta de faturação numa região onde a oferta não está disponível.
 1. A conta de subscrição/faturação não está associada a um instrumento de pagamento válido (como um cartão de crédito válido).
 1. A subscrição pertence a um Fornecedor de Solução Cloud (CSP) e o ISV recusou-se a vender através de um CSP.

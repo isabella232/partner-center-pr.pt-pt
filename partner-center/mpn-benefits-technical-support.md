@@ -9,12 +9,12 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e8f99028fbb26003c0f18a85c5a6d7e416fecd60
-ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
+ms.openlocfilehash: 9aa451a3267cee70282aaad5e018e2f377edb82f
+ms.sourcegitcommit: 2ad9e61fa5b9941f927ebf44c459b6c1bd055b9d
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108172205"
+ms.lasthandoff: 05/08/2021
+ms.locfileid: "109630122"
 ---
 # <a name="technical-support-benefits"></a>Benefícios técnicos de apoio
 
@@ -81,9 +81,9 @@ Só é possível obter esta informação a partir do portal de suporte de apoio 
 
 Você precisa usar o Suporte para Negócios e iniciar o processo para criar um incidente de suporte no local. Não criamos um pedido de apoio porque não completamos o processo. A informação que precisamos está exposta no passo 2.
 
-Passo 1 Selecione o windows 10 e introduza informações falsas
+Passo 1 Suporte aberto [para negócios](https://support.serviceshub.microsoft.com/supportforbusiness/create) e selecione o Windows 10 e introduza informações falsas
 
-Passo 2 Adicione o contrato de apoio utilizando o ID de acesso e iD do contrato. Para suporte no local, pode ver o contrato de Apoio ao Parceiro apresentado e isso inclui a data de início, data de fim e incidentes restantes. Expandir o "Gostaria de ver planos de apoio indisponíveis?" secção para ver informações de Assinatura de Parceiro. Só verá o Apoio ao Parceiro apresentado aqui se os contratos tiverem expirado, não tiver quaisquer incidentes restantes ou selecionou um produto antigo no local (ver [aka.ms/n-1](https://aka.ms/n-1) para produtos de suporte)
+Passo 2 Se o seu contrato de apoio já estiver associado à sua conta, deverá ver os incidentes de apoio apresentados. Para o suporte no local, deve ver o contrato de Apoio ao Parceiro apresentado (a menos que já não seja válido) e isso inclui a data de início, data de fim e incidentes restantes. Se precisar de associar o seu contrato de apoio expanda "Precisa de comprar ou adicionar mais planos de suporte" e clique no botão Adicionar Contrato para introduzir o seu ID de Acesso e ID do Contrato. Expandir o "Gostaria de ver planos de apoio indisponíveis?" secção para ver informações de Assinatura de Parceiro. Só verá o Apoio ao Parceiro apresentado aqui se os contratos tiverem expirado, não tiver quaisquer incidentes restantes ou selecionou um produto antigo no local (ver [aka.ms/n-1](https://aka.ms/n-1) para produtos de suporte)
 
 **Para obter informações mais [detalhadas, veja quantos incidentes de apoio ao Parceiro ainda restam?](https://support.microsoft.com/topic/how-many-partner-support-incidents-are-remaining-e8220db5-14f6-93db-4b4a-35766e11b3c3)** 
 

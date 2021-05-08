@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 05/05/2021
-ms.openlocfilehash: 1aad6d1384e7043f13ad5f023d06f5e7fa1301e5
-ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
+ms.date: 05/07/2021
+ms.openlocfilehash: 0263522eed42dbbdd11dc43f6aed490ce61b261d
+ms.sourcegitcommit: 2ad9e61fa5b9941f927ebf44c459b6c1bd055b9d
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "108702778"
+ms.lasthandoff: 05/08/2021
+ms.locfileid: "109630139"
 ---
 # <a name="partner-center-announcements"></a>Anúncios do Centro de Parceiros
 
@@ -27,7 +27,7 @@ Saiba mais sobre atualizações importantes do Centro de Parceiros. Estas inform
 |Capacidades|[Lembrete final: Depreciação da qualificação do GET em 6 de maio de 2021](2021-may.md#4)|4 de maio|
 |Ofertas/Mercados|[Correções até 1 de maio de 2021 Lista de preços dos serviços baseados em licenças](2021-may.md#3)|4 de maio|
 |Capacidades|[Anúncio da qualificação da Entidade Estatal](2021-may.md#2)|4 de maio|
-| Ofertas/Aplicações Empresariais|[Veja os lançamentos e ofertas deste mês](2021-may.md#1)|3 de maio|
+| Ofertas/Aplicações Empresariais|[Veja os lançamentos e ofertas deste mês](2021-may.md#1)|3 de maio, atualizado 7 de maio|
 |**Categoria**|**Anúncios de abril de 2021**|**Anunciado**|
 |Preparação|[A validação de endereços do cliente CSP atualizada API vai ao vivo em junho; capacidade de teste agora disponível](2021-april.md#10)|30 de abril|
 |Capacidades|[Nova localização para a documentação da API Swagger do Partner Center](2021-april.md#9)|26 de abril|
