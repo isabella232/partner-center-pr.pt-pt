@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 05/07/2021
-ms.openlocfilehash: 0263522eed42dbbdd11dc43f6aed490ce61b261d
-ms.sourcegitcommit: 2ad9e61fa5b9941f927ebf44c459b6c1bd055b9d
+ms.openlocfilehash: ba31274fc9768f31ca2d4d930cfe1e5a11a006a0
+ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/08/2021
-ms.locfileid: "109630139"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "109686216"
 ---
 # <a name="partner-center-announcements"></a>Anúncios do Centro de Parceiros
 
@@ -22,6 +22,8 @@ Saiba mais sobre atualizações importantes do Centro de Parceiros. Estas inform
 
 |**Categoria**|**Anúncios de maio de 2021**|**Anunciado**|
 |---------|:---------|:---------|
+|Capacidades|[Programas de Incentivos de Hospedagem e Revendedor SPLA prolongados até 30 de setembro de 2021](2021-may.md#8)|7 de maio|
+|Capacidades|[A funcionalidade de perfil do banco predefinido está disponível no Partner Center para inscrição de incentivos](2021-may.md#7)|7 de maio|
 |Capacidades|[Atualização: Lançamento do produto scheduler foi adiado](2021-may.md#6)|5 de maio|
 |Capacidades|[Software perpétuo da CSP chega em breve à China](2021-may.md#5)|5 de maio|
 |Capacidades|[Lembrete final: Depreciação da qualificação do GET em 6 de maio de 2021](2021-may.md#4)|4 de maio|

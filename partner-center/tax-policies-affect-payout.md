@@ -7,19 +7,20 @@ ms.subservice: partnercenter-mpn
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 02/09/2021
-ms.openlocfilehash: 817cdb895efab553b6f0131cdcdcf9b24bc6db3e
-ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
+ms.openlocfilehash: 343db43633245030a5eba213cb5c8b79d09a7dee
+ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "104768827"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "109686318"
 ---
 # <a name="how-tax-policies-affect-payout-for-azure-marketplace"></a>Como as políticas fiscais afetam o pagamento do Azure Marketplace
 
 **Funções adequadas**
--    Administrador global
--    Administração de gestão de utilizadores
--    Agente administrativo
+
+- Administrador global
+- Administração de gestão de utilizadores
+- Agente administrativo
 
 ## <a name="introduction"></a>Introdução
 

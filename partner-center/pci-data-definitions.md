@@ -9,19 +9,19 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 427ca3b60ec527a6a371a232538647448d03b084
-ms.sourcegitcommit: 6632d7452be36010bfc8c6823efe5a5197377989
+ms.openlocfilehash: 21be5b22c453174fcb66e9409d6e26dad8e25c6b
+ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "98861398"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "109686352"
 ---
 # <a name="export--data-definitions"></a>Exportação - Definições de dados 
 
- **Funções adequadas** 
+**Funções adequadas** 
 
-- Espectador de relatório 
-- Espectador de relatório executivo 
+- Espectador de relatório
+- Espectador de relatório executivo
 
 ## <a name="introduction"></a>Introdução 
 
@@ -38,7 +38,7 @@ Os vários relatórios, que pode descarregar juntamente com as suas definições
 | PGA_MPNId | Identificador da conta global do parceiro MPN | 
 | PGA_PartnerName | Nome da conta global do parceiro | 
 | City | Localização da cidade do parceiro | 
-| Country | Localização do país do parceiro | 
+| País | Localização do país do parceiro | 
 | HierarquiaLevel | Indica se é um ID MPN global ou localização MPN ID | 
 
 ### <a name="customer-details-report"></a>**Relatório de detalhes do cliente**
@@ -51,7 +51,7 @@ Os vários relatórios, que pode descarregar juntamente com as suas definições
 | Gestão de Clientes | Segmento de cliente | 
 | Mercado de Clientes | Mercado geográfico do cliente | 
 | CustomerStatus | Estado do cliente (Ativo ou Inativo) | 
-| Product | O produto vendido ao cliente pela MPN: O365, DYNAMICS 365, Enterprise Mobility + Security, Power BI ou Microsoft Azure | 
+| Produto | O produto vendido ao cliente pela MPN: O365, DYNAMICS 365, Enterprise Mobility + Security, Power BI ou Microsoft Azure | 
 | SKU | SKU de produto | 
 | Mensal | Mês para o qual são reportadas as receitas e o uso | 
 | MPNId | Identificador da Microsoft Partner Network | 
@@ -75,7 +75,7 @@ Os vários relatórios, que pode descarregar juntamente com as suas definições
 | IndiretoProviderMPNId | Identificador do fornecedor indireto Microsoft Partner Network | 
 | Nome IndiretoProvider | Nome do fornecedor indireto | 
 | Mensal | Mês para o qual é reportada a utilização e receitas | 
-| Product | Nome do produto | 
+| Produto | Nome do produto | 
 | SubscriçãoID | Identificador da assinatura | 
 | Lugares disponíveis | Número de lugares disponíveis | 
 | Caixas designadas | Número de lugares atribuídos | 
@@ -104,7 +104,7 @@ Os vários relatórios, que pode descarregar juntamente com as suas definições
 | CustomerTpid | Identificador de pais de topo do cliente | 
 | Gestão de Clientes | Segmento de mercado do cliente | 
 | Mercado de Clientes | Mercado geográfico do cliente | 
-| Product | Produto vendido ao cliente pelo parceiro | 
+| Produto | Produto vendido ao cliente pelo parceiro | 
 | SKU | SKU do produto | 
 | MPNId | ID da Rede de Parceiros microsoft do parceiro | 
 | PartnerName | Nome do parceiro | 
@@ -304,7 +304,7 @@ Os vários relatórios, que pode descarregar juntamente com as suas definições
 | ConclusãoDate | Data de conclusão da formação | 
 | MPNId | Identificador da Microsoft Partner Network | 
 | PartnerName | Nome do parceiro | 
-| Country | Localização geográfica do país do parceiro | 
+| País | Localização geográfica do país do parceiro | 
 
 ### <a name="competency-summary-and-history-report"></a>**Resumo da competência e relatório de história**
 
@@ -349,7 +349,7 @@ Os vários relatórios, que pode descarregar juntamente com as suas definições
 | City | Localização geográfica da cidade da organização | 
 | Estado | Localização geográfica do estado da organização | 
 | Código Postal | Código postal da organização | 
-| Country | Localização geográfica do país da organização | 
+| País | Localização geográfica do país da organização | 
 | Segment | Segmento de mercado | 
 | Sub-Segmento | Subsegmento do mercado | 
 | Resumo do tipo SMC | Tipo SMC | 
@@ -405,7 +405,7 @@ Os vários relatórios, que pode descarregar juntamente com as suas definições
 | City | Localização geográfica da cidade | 
 | Estado | Localização geográfica do estado | 
 | Código Postal | Código postal da organização | 
-| Country | Localização geográfica do país | 
+| País | Localização geográfica do país | 
 | Segment | Segmento de mercado | 
 | Sub-Segmento | Subsegmento do mercado | 
 | Resumo do tipo SMC | A categorização de um cliente: As principais bases de utilizadores não geridas são clientes com mais de 300 colaboradores, as bases de computação não geridas são clientes com USD 10.000 em potencial de três anos Azure, médias empresas são clientes com 25 empregados ou mais, e as pequenas empresas são clientes com menos de 25 colaboradores. | 
@@ -462,7 +462,7 @@ Os vários relatórios, que pode descarregar juntamente com as suas definições
 | City | Localização geográfica da cidade | 
 | Estado | Localização geográfica do estado | 
 | Código Postal | Código postal da organização | 
-| Country | Localização geográfica do país | 
+| País | Localização geográfica do país | 
 | Segment | Segmento de mercado | 
 | Sub-Segmento | Subsegmento do mercado | 
 | Resumo do tipo SMC | Tipo SMC | 
@@ -528,7 +528,7 @@ Os vários relatórios, que pode descarregar juntamente com as suas definições
 | City | Localização geográfica da cidade | 
 | Estado | Localização geográfica do estado | 
 | Código Postal | Código postal da organização | 
-| Country | Localização geográfica do país | 
+| País | Localização geográfica do país | 
 | Segment | Segmento de mercado | 
 | Sub-Segmento | Subsegmento do mercado | 
 | Resumo do tipo SMC | Tipo SMC | 
@@ -553,6 +553,6 @@ Os vários relatórios, que pode descarregar juntamente com as suas definições
 | Cliente Microsoft 365 Upsell | Identifica se o cliente aparece a vender propensão para a Microsoft 365 | 
 | Nome revSumDivision | Identifica o produto que está em cima da renovação | 
 
-## <a name="next-steps"></a>Próximos passos
+## <a name="next-steps"></a>Passos seguintes
 
 Para mais informações, consulte [os relatórios do Download.](pci-download-reports.md)
