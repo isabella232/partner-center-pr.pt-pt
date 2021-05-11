@@ -11,12 +11,12 @@ ms.custom:
 - references_regions
 ms.localizationpriority: high
 ms.date: 04/08/2021
-ms.openlocfilehash: b72d736fdeafc438fbfa848c0b2b1e51ab66b261
-ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
+ms.openlocfilehash: 0b8938004bb15f1fc58a15333e97297627fa9b24
+ms.sourcegitcommit: e462f562e7f26b7d6870c22638a2a841499109d6
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "107266474"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "109740340"
 ---
 # <a name="february-2021-announcements"></a>Anúncios de fevereiro de 2021
 
@@ -36,7 +36,7 @@ Parceiros que vendem ofertas académicas, sem fins lucrativos e comunidade gover
 
 ### <a name="details"></a>Detalhes
 
-Este anúncio é um seguimento das melhorias do Partner Center [lançadas em dezembro.](https://docs.microsoft.com/partner-center/announcements/2020-december#1) Como parte desse lançamento, foram implementadas novas APIs get e post qualifications e, consequentemente, a qualificação get existente será aposentada até 4 de maio de 2021. Por essa altura, terá de passar a utilizar as novas APIs do Post Partner Center nas ofertas de aquisição de Educação, e as novas qualificações GET API para adquirir ofertas pré-qualificadas sem fins lucrativos e GCC.
+Este anúncio é um seguimento das melhorias do Partner Center [lançadas em dezembro.](2020-december.md#1) Como parte desse lançamento, foram implementadas novas APIs get e post qualifications e, consequentemente, a qualificação get existente será aposentada até 4 de maio de 2021. Por essa altura, terá de passar a utilizar as novas APIs do Post Partner Center nas ofertas de aquisição de Educação, e as novas qualificações GET API para adquirir ofertas pré-qualificadas sem fins lucrativos e GCC.
 
 ### <a name="next-steps"></a>Passos seguintes
 
@@ -320,7 +320,7 @@ O Partner Center é projetado para lidar com um grande volume de pedidos, mas se
 
 | Operação | Documentação do Centro de Parceiros |
 | ------ | ------- |
-|{baseURL}/v1/clientes/{customer_id}/subscrições  | [Assinaturas Get-all-of-a-customer-s](/partner-center/develop/get-all-of-a-customer-s-subscriptions&data) |
+|{baseURL}/v1/clientes/{customer_id}/subscrições  | [Assinaturas Get-all-of-a-customer-s](/partner-center/develop/get-all-of-a-customer-s-subscriptions) |
 |{baseURL}/v1/customers/{customer_id}/subscrições/{subscription_id}  | [Obter uma subscrição por ID](/partner-center/develop/get-a-subscription-by-id) |
 |{baseURL}/v1/clientes/{customer_id}/encomendas  | [Receba todas as encomendas de clientes](/partner-center/develop/get-all-of-a-customer-s-orders) |
 |{baseURL}/v1/customers/{customer_id}/orders/{order_id}  | [Obter encomenda por ID](/partner-center/develop/get-an-order-by-id) |

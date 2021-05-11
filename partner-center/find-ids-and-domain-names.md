@@ -9,12 +9,12 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 17b0100bf5e45e931a765a73fb98afddf6dba656
-ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
+ms.openlocfilehash: 643b1eeb96a47ee4c438f733efe3be22234d02ff
+ms.sourcegitcommit: e462f562e7f26b7d6870c22638a2a841499109d6
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108172256"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "109740289"
 ---
 # <a name="locate-important-ids-for-a-user"></a>Localizar iDs importantes para um utilizador
 
@@ -32,7 +32,7 @@ Este artigo descreve como utilizar o [portal Azure](https://portal.azure.com/) p
 
 ## <a name="find-the-microsoft-azure-ad-tenant-id-and-primary-domain-name"></a>Encontre o ID do inquilino da Microsoft Azure e o nome de domínio primário
 
-Siga estes passos para localizar o ID do inquilino Azure ou o nome de domínio primário dentro do portal Azure. (Se você quiser encontrar um ID de inquilino programáticamente, consulte [Find Inetorso ID com PowerShell ou CLI](/azure/active-directory/fundamentals/active-directory-how-to-find-tenant.md#find-tenant-id-with-powershell).)
+Siga estes passos para localizar o ID do inquilino Azure ou o nome de domínio primário dentro do portal Azure. (Se você quiser encontrar um ID de inquilino programáticamente, consulte [Find Inetorso ID com PowerShell ou CLI](/azure/active-directory/fundamentals/active-directory-how-to-find-tenant#find-tenant-id-with-powershell).)
 
 > [!NOTE]
 > A identificação do inquilino pode ser chamada de nomes diferentes em diferentes aplicações ou recursos. Por exemplo, o ID do inquilino pode ser referido como o ID do diretório, o inquilino do Azure Ative Directory (Azure AD), o Microsoft ID, ou para determinados relatórios, até mesmo o guia do *inquilino.*

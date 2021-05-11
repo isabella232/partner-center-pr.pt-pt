@@ -9,12 +9,12 @@ ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
 ms.date: 04/15/2021
-ms.openlocfilehash: 2f6fd9ef3fdcc88627b2eb2d257a837d28e097ee
-ms.sourcegitcommit: 9f6be9bc8d9a065422d1ec8388bd770eb6cd9f33
+ms.openlocfilehash: 9fd4156c25cbdbdfa86cabf9f3bb805d95481e17
+ms.sourcegitcommit: e462f562e7f26b7d6870c22638a2a841499109d6
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/16/2021
-ms.locfileid: "107528593"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "109740323"
 ---
 # <a name="requirements-to-enroll-as-a-csp-direct-bill-partner"></a>Requisitos para se inscrever como um CSP Direct Bill Partner
 
@@ -61,4 +61,4 @@ Se decidir passar de um negócio de contas diretas para um negócio de revendedo
  
 - [Informações adicionais sobre se tornar um revendedor indireto](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf)
 
-- [Novo padrão de desempenho para os requisitos dos parceiros de conta direta na CSP](https://partner.microsoft.comresources/collection/new-performance-standard-for-direct-bill-partner-requirements-in-csp#/)
+- [Novo padrão de desempenho para os requisitos dos parceiros de conta direta na CSP](https://partner.microsoft.com/resources/collection/new-performance-standard-for-direct-bill-partner-requirements-in-csp#/)

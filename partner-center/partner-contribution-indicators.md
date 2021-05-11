@@ -9,14 +9,14 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8c050a14e258675369d8ff847c806192f44c7509
-ms.sourcegitcommit: dd51744a4af3797493a5ebbfc766dab86ff00477
+ms.openlocfilehash: dcd4d322a0a62644dbceb4ba4b4910d218495121
+ms.sourcegitcommit: e462f562e7f26b7d6870c22638a2a841499109d6
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "105730268"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "109740374"
 ---
-# <a name="use-partner-contribution-indicators-to-attain-the-cloud-business-applications-competency"></a>Utilizar indicadores de contribuição de parceiros para atingir a competência de Aplicações empresariais em nuvem
+# <a name="use-partner-contribution-indicators-to-attain-the-cloud-business-applications-competency"></a>Utilizar Indicadores de Contribuição de Parceiros para obter a competência Business Applications da Cloud
 
 **Funções adequadas**
 
@@ -373,7 +373,7 @@ O crescimento mensal do utilizador ativo é um indicador de [sucesso do cliente.
 
   - Para que as Finanças e as Operações sejam elegíveis para pontos, os parceiros de mercado desenvolvidos devem ter uma linha de base de pelo menos **100 utilizadores** ativos mensais, e os parceiros de mercado em desenvolvimento devem ter uma linha de base de **50 utilizadores** ativos mensais em toda a sua base de clientes há 12 meses.
   
-  (Para mais detalhes sobre mercados desenvolvidos vs. desenvolvimento, consulte estas [definições da Microsoft Partner Network](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf.)
+  (Para obter detalhes sobre mercados desenvolvidos vs. desenvolvimento, consulte estas [definições da Microsoft Partner Network](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf).
 
 - Os parceiros estão associados aos inquilinos ao nível da subscrição. As subscrições são mapeadas para produtos de envolvimento do cliente qualificados ou para produtos de Finanças e Operações qualificados.
 
