@@ -1,7 +1,7 @@
 ---
 title: Enroll in the Cloud Solution Provider program (Inscrever-se no programa do Fornecedor de Soluções Cloud)
 ms.topic: how-to
-ms.date: 04/19/2021
+ms.date: 05/10/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como se inscrever no modelo de vendas do programa Cloud Solution Provider (CSP) que é o melhor para o seu negócio, como o revendedor indireto ou o parceiro de conta direta.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9307f57c0d356dbbce16de2f1566b4491867c361
-ms.sourcegitcommit: 8bd2e2f2f0f6bcd0fa202787df5b3c1f786f88f9
+ms.openlocfilehash: 5be78c55a10e6db1ff0ec057b2a6a06e4373f7a7
+ms.sourcegitcommit: a78e9934dd06a6f14ef00e621a82685e2a80dc83
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/29/2021
-ms.locfileid: "108213385"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "109712486"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Enroll in the Cloud Solution Provider program (Inscrever-se no programa do Fornecedor de Soluções Cloud)
 
@@ -76,7 +76,7 @@ Como parceiro de conta direta, é dono da relação de ponta a ponta com o seu c
 
 ### <a name="verify-direct-bill-eligibility"></a>Verificar elegibilidade da conta direta
 
-Depois de verificar que cumpre os requisitos mínimos para se inscrever como parceiro de conta direta, pode proceder ao [formulário de inscrição.](https://partner.microsoft.com/pcv/register/joinnow/enrollmentwelcome/Reseller/migrate?cloudInstance=Global)
+Depois de verificar que cumpre os requisitos mínimos para se inscrever como parceiro de conta direta, pode proceder ao [formulário de inscrição.](https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR39X9dQFZ3FMghsMA7GOTNJUQVRPMk9KUVJZRDA1T1pSTkRSMzIzRUlOWSQlQCN0PWcu)
 
 Depois de verificarmos que a sua empresa preenche os requisitos de elegibilidade para se inscrever como sócio de conta direta, e você completou o pedido de inscrição, vamos rever e verificar as informações de negócio que forneceu no processo de inscrição. Como parte desta revisão, vamos verificar o crédito da sua empresa. Informá-lo-emos por e-mail quando a sua empresa passar a verificação de crédito.
 >[!IMPORTANT]

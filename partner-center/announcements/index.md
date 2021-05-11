@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 05/07/2021
-ms.openlocfilehash: ba31274fc9768f31ca2d4d930cfe1e5a11a006a0
-ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
+ms.openlocfilehash: dd0823e56371347bb212122b79e31fbc124dff2e
+ms.sourcegitcommit: a78e9934dd06a6f14ef00e621a82685e2a80dc83
 ms.translationtype: MT
 ms.contentlocale: pt-PT
 ms.lasthandoff: 05/10/2021
-ms.locfileid: "109686216"
+ms.locfileid: "109712520"
 ---
 # <a name="partner-center-announcements"></a>Anúncios do Centro de Parceiros
 
@@ -22,6 +22,7 @@ Saiba mais sobre atualizações importantes do Centro de Parceiros. Estas inform
 
 |**Categoria**|**Anúncios de maio de 2021**|**Anunciado**|
 |---------|:---------|:---------|
+|Capacidades|[Analytics para co-venda liderada por parceiros](2021-may.md#9)|10 de maio|
 |Capacidades|[Programas de Incentivos de Hospedagem e Revendedor SPLA prolongados até 30 de setembro de 2021](2021-may.md#8)|7 de maio|
 |Capacidades|[A funcionalidade de perfil do banco predefinido está disponível no Partner Center para inscrição de incentivos](2021-may.md#7)|7 de maio|
 |Capacidades|[Atualização: Lançamento do produto scheduler foi adiado](2021-may.md#6)|5 de maio|

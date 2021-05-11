@@ -1,20 +1,20 @@
 ---
 title: Informação do número de registo
 ms.topic: article
-ms.date: 04/20/2021
+ms.date: 05/10/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Saiba quais são os números de identificação de inscrição e se são obrigatórios para o seu país.
 author: ParthP
 ms.author: ParthP
-ms.localizationpriority: high
+ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0a6a73a181fdb009f994bd56614ce7993b8132a8
-ms.sourcegitcommit: 2ad9e61fa5b9941f927ebf44c459b6c1bd055b9d
+ms.openlocfilehash: d84f67edd38b9e8f665a18699fb1f03c9888549d
+ms.sourcegitcommit: a78e9934dd06a6f14ef00e621a82685e2a80dc83
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/08/2021
-ms.locfileid: "109630156"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "109712503"
 ---
 # <a name="registration-id-number-information"></a>Informação do número de registo
 
@@ -22,7 +22,7 @@ ms.locfileid: "109630156"
 
 - Administrador global
  
-Se é um fornecedor indireto, parceiro de conta direta ou revendedor indireto e está a fazer negócios com clientes novos ou existentes nos seguintes países, tem de fornecer números de identificação de registo para o seu negócio. Se o país em que está a fazer negócios não estiver listado abaixo, o ID de registo é opcional.
+Se é um fornecedor indireto, parceiro de conta direta ou revendedor indireto e está a fazer negócios com clientes novos ou existentes nos seguintes países, tem de fornecer números de identificação de registo para o seu negócio. Utilizamos o ID de registo para rever os detalhes da sua conta. Se o país em que está a fazer negócios não estiver listado abaixo, o ID de registo é opcional.
 
 ## <a name="countries-where-registration-id-is-required"></a>Países onde é necessária a iD de registo
 
@@ -57,10 +57,7 @@ Se é um fornecedor indireto, parceiro de conta direta ou revendedor indireto e 
 
 ### <a name="mandatory-or-optional"></a>Obrigatório ou opcional
  
-Para os países onde o número de registo é obrigatório, o rótulo acima da caixa de texto indica que tipo de número é necessário.
-Este exemplo está a pedir o número de registo da CNPJ brasileira.
-
-:::image type="content" source="images/registration.png" alt-text="Captura de ecrã da caixa de registo":::
+Para os países onde o número de registo é obrigatório, o rótulo acima da caixa de texto indica que tipo de número é necessário em função do país, por exemplo, TIN (número de identificação fiscal) ou TRN (número de registo de tráfego).
 
 Quando o número de registo for opcional, insira o ID de registo da empresa. Não introduza uma identificação pessoal.
 
