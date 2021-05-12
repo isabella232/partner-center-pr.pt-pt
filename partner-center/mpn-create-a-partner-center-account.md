@@ -1,7 +1,7 @@
 ---
 title: Criar uma conta MPN no Partner Center
 ms.topic: article
-ms.date: 04/20/2021
+ms.date: 05/07/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Saiba como os membros da Microsoft Partner Network podem criar uma conta Partner Center para gerir os seus benefícios e competências de rede.
@@ -9,12 +9,12 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 432a71c3fa7384996e557f56070921557aaca229
-ms.sourcegitcommit: 2ad9e61fa5b9941f927ebf44c459b6c1bd055b9d
+ms.openlocfilehash: f8177222d2c39732ac36543e523f268313fb8c4e
+ms.sourcegitcommit: 837d3c5b52ab056b2b761cd85eb2426f56b62614
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/08/2021
-ms.locfileid: "109630173"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109795062"
 ---
 # <a name="create-an-mpn-account-in-partner-center-to-manage-network-benefits-and-competencies"></a>Criar uma conta MPN no Partner Center para gerir benefícios e competências de rede
 
@@ -58,11 +58,16 @@ Quando estiver pronto para criar uma conta no Partner Center, terá de ter à m�
 
 3. Forneça os detalhes legais do seu negócio da sua empresa.
 
-Pode procurar o perfil da empresa ou introduzir informações da empresa manualmente. Se a sua empresa estiver registada na [Dun & Bradstreet,](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad)utilize o ID DUNS para consultar as informações da sua empresa. Se pretender fornecer os seus dados da sua empresa, selecione **Manual**.
+    Pode procurar o perfil da empresa ou introduzir informações da empresa manualmente. Se a sua empresa estiver registada na [Dun & Bradstreet,](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad)utilize o ID DUNS para consultar as informações da sua empresa. Se pretender fornecer os seus dados da sua empresa, selecione **Manual**.
 
-Se a sua empresa estiver localizada na **Arménia**, **Hungria,** **Quirguistão,** **Moldávia,** **Uzbequistão** ou **Rússia,** e introduzir o seu endereço manualmente, validaremos o seu endereço para si. Se o que insere diferir do validado, sugerimos que utilize o endereço validado. Isto garante que os elementos do endereço são normalizados conforme definido pela autoridade postal do país, corretamente formatados e enviados.  
+    Se a sua empresa estiver localizada na **Arménia**, **Hungria,** **Quirguistão,** **Moldávia,** **Uzbequistão** ou **Rússia,** e introduzir o seu endereço manualmente, validaremos o seu endereço para si. Se o que insere diferir do validado, sugerimos que utilize o endereço validado. Isto garante que os elementos do endereço são normalizados conforme definido pela autoridade postal do país, corretamente formatados e enviados.  
 
-Depois de fornecer informações sobre a empresa, insira as informações de contacto primários. O contacto principal deve ser a pessoa na sua empresa que podemos contactar sobre a sua aplicação (este contacto pode ser você ou outra pessoa na sua empresa).
+    Depois de fornecer informações sobre a empresa, insira as informações de contacto primários. O contacto principal deve ser a pessoa na sua empresa que podemos contactar sobre a sua aplicação (este contacto pode ser você ou outra pessoa na sua empresa).
+
+4. Selecione **Matricular-se agora**.
+
+    >[!IMPORTANT]
+    >Para ajudar a garantir a segurança e privacidade da sua empresa, enviamos um e-mail para o seu contacto principal para verificar o endereço de e-mail e garantir que o endereço de e-mail pertence à sua empresa. Após o contacto principal verificar o endereço de e-mail, continuaremos a nossa revisão das informações que forneceu. A verificação geralmente leva 3-5 dias úteis. 
 
 ## <a name="registration-id-numbers-by-country"></a>Números de ID de inscrição por país
 
@@ -99,10 +104,7 @@ A tabela seguinte contém amostras dos números de registo recolhidos para cada 
 | **Vietname** | [ESTANHO](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – Número de Identificação Fiscal |
 | **Venezuela** | RIF – é um número de Imposto ("Registro de Identificación Fiscal") |
 
-4. Selecione **Matricular-se agora**.
 
->[!IMPORTANT]
->Para ajudar a garantir a segurança e privacidade da sua empresa, enviamos um e-mail para o seu contacto principal para verificar o endereço de e-mail e garantir que o endereço de e-mail pertence à sua empresa. Após o contacto principal verificar o endereço de e-mail, continuaremos a nossa revisão das informações que forneceu. A verificação geralmente leva 3-5 dias úteis. 
 
 ## <a name="how-to-view-account-details-or-view-and-download-the-mpn-agreement"></a>Como ver detalhes da conta ou visualizar e descarregar o acordo MPN
 

@@ -9,19 +9,16 @@ ms.subservice: partnercenter-csp
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 403b2704c600f21fc06576e679ff538a74ae5046
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: fc31915660b6a82954daee5fcc8fb2d5292e725c
+ms.sourcegitcommit: 837d3c5b52ab056b2b761cd85eb2426f56b62614
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712975"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109795011"
 ---
 # <a name="understand-usage-based-reconciliation-files-and-their-specific-fields-in-partner-center"></a>Compreenda os ficheiros de reconciliação baseados no uso e os seus campos específicos no Partner Center
 
-**Funções adequadas**
-
-- Administrador de conta
-- Administrador de faturação
+**Funções adequadas**: Administração de contas | Administrador de faturação
 
 Para conciliar os seus encargos com a utilização de um cliente, compare o **ResellerID,** **o ResellerName** e o **ResellerBillableAccount** do ficheiro de reconciliação com o **nome do Cliente** e **iD** de assinatura do Partner Center.
 

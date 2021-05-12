@@ -9,19 +9,16 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: aefd5258c778fd8a7b92bfe49f245bf818497fb8
-ms.sourcegitcommit: dd51744a4af3797493a5ebbfc766dab86ff00477
+ms.openlocfilehash: 755881d0bd96b9d601346ebb6271bd524c31d0a3
+ms.sourcegitcommit: 837d3c5b52ab056b2b761cd85eb2426f56b62614
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "105730092"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109794960"
 ---
 # <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>Saiba como ler os itens de linha nos ficheiros de reconciliação do Partner Center
 
-**Funções adequadas**
-
-- Administrador de faturação
-- Administrador global
+**Funções apropriadas**: Administrador de Faturação | Administração global
 
 Pode descarregar os seus ficheiros de reconciliação do Partner Center para uma visão detalhada e de item de linha de cada carga num ciclo de faturação. Os detalhes do item da linha incluem taxas para as subscrições de cada cliente, e eventos detalhados (como uma adição intercalar de licenças a uma subscrição).
 
@@ -79,12 +76,12 @@ Se conseguir descarregar um ficheiro de reconciliação mas não o abrir no Micr
 
 ## <a name="negative-amount-displayed"></a>Quantidade negativa exibida
 
-Pode ver uma quantia negativa no seu ficheiro de reconciliação. Isto é provavelmente causado por uma das seguintes coisas:
+Pode ver uma quantia negativa no seu ficheiro de reconciliação. Este problema, provavelmente, é causado por uma das razões seguintes:
 
 - Cancelou recentemente ou reduziu o seu número de licenças
 - Recebeu crédito por um contrato de licença de serviço (SLA) ou para consumo Azure
 
-Para obter mais informações sobre esta transação, reveja o seu atributo tipo de carga no seu ficheiro de reconciliação.
+Para obter mais informações sobre esta transação, veja o atributo de tipo de custo no ficheiro de reconciliação.
 
 ## <a name="map-taxes-or-vat"></a>Taxas de mapa ou IVA
 
@@ -97,7 +94,7 @@ Para mapear impostos ou imposto sobre o valor acrescentado (IVA) na sua fatura:
 
 Os parceiros no **modelo indireto** podem utilizar estes campos adicionais em ficheiros de reconciliação baseados em licenças e uso para itemizar os ficheiros por revendedor.
 
-| ID do MPN | Descrição |
+| ID do MPN | Description |
 | ------ | ----------- |
 | ID do MPN | O identificador da Microsoft Partner Network (MPN) do parceiro Cloud Solution Provider (CSP) (direto ou indireto). |
 | [Revendedor MPN ID](#reseller-mpn-id) | O [identificador MPN do revendedor de registos para a subscrição](#reseller-mpn-id). Este campo corresponde ao ID revendedor listado para a subscrição específica no Partner Center. Só aparece em ficheiros de reconciliação para parceiros no modelo indireto. |

@@ -9,19 +9,16 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 064a5ea1e712ca66504536652543c0523fc73eae
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 63aea520279dc6d126253969cb3175a253b9b3c6
+ms.sourcegitcommit: 837d3c5b52ab056b2b761cd85eb2426f56b62614
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101755730"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109795028"
 ---
 # <a name="receive-credit-on-your-partner-center-account-for-tax-withholding"></a>Receba crédito na sua conta partner center para retenção na fonte de impostos
 
-**Funções adequadas**
-
-- Administrador de conta
-- Administrador de faturação
+**Funções adequadas**: Administração de contas | Administrador de faturação
 
 ## <a name="overview"></a>Descrição Geral
 

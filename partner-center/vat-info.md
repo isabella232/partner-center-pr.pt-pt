@@ -8,18 +8,16 @@ ms.localizationpriority: medium
 ms.date: 12/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-ms.openlocfilehash: c0778ac4ba4d33dc9e60e33f4d158d264a31946e
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: bd0399f16fb2bdaf1099597cd48c89d7e9d3651d
+ms.sourcegitcommit: 837d3c5b52ab056b2b761cd85eb2426f56b62614
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712142"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109794994"
 ---
 # <a name="value-added-tax-vat-information"></a>Informação sobre o imposto sobre o valor acrescentado (IVA)
 
-**Funções adequadas**
-
-- Administrador de conta
+**Funções adequadas**: Administração de contas
 
 
 Se você é obrigado a fornecer um número de ID de IVA durante o processo de registo do Centro parceiro, aqui está algumas informações para começar.

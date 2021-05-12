@@ -10,23 +10,18 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e0e97b0d5bde09e499793576f9c3dbe4a7ffd522
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: 3889d0af73cfc683f1d45737a136a8e0c5a42656
+ms.sourcegitcommit: 837d3c5b52ab056b2b761cd85eb2426f56b62614
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284524"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109794977"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>Gestão de utilizadores e licenças no Partner Center para o Microsoft Cloud Germany
 
-**Aplica-se a**
+**Aplica-se a**: Partner Center | Centro de Parceiros para Microsoft Cloud Germany
 
-- Centro de Parceiros para Microsoft Cloud Germany
-
-**Funções adequadas**
-
-- Administrador global
-- Administrador de conta
+**Funções adequadas**: Administração global | Administrador de conta
 
 > [!IMPORTANT]
 > Com base na evolução das necessidades dos clientes, a nossa estratégia de nuvem para a Alemanha centrar-se-á na entrega das novas regiões em nuvem na Alemanha que são consistentes com a nossa oferta global de nuvem. Com este foco, deixaremos de aceitar novos clientes ou de implementar quaisquer novos serviços a partir da microsoft Cloud Germany atualmente disponível. Os clientes existentes podem continuar a utilizar os atuais serviços em nuvem disponíveis hoje, que vamos manter com as necessárias atualizações de segurança.
