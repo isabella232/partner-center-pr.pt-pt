@@ -9,18 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 515591f37cb15e8af69acf8d30affd9300429e42
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: 7e6db20296075774a6254116df898e15ecc50034
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284473"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109856037"
 ---
 # <a name="read-about-taxes-and-tax-exemption-details-by-region-or-country-for-partners-in-the-csp-program"></a>Leia sobre impostos e isenções fiscais por região ou país para parceiros no programa CSP
 
-**Funções adequadas**
-
-- Administrador global
+**Funções apropriadas**: Administração global
 
 O programa Cloud Solution Provider (CSP) é um canal de vendas focado na revenda de produtos por parceiros. Como resultado, a Microsoft nem sempre é obrigada a cobrar imposto sobre vendas em faturas de parceiros. As regras variam por país e/ou região. Pode rever [detalhes específicos de um país e específicos da região para isenções fiscais.](#country-and-region-tax-details)
 

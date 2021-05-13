@@ -9,18 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 33d4a3745c8e9de87c9d1ef4ef86dec7c79db1b0
-ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
+ms.openlocfilehash: 15203b24188bd8303f61f362ff5f0f901714a813
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108120771"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855782"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies-where-you-can-sell-csp-offers"></a>Cloud Solution Provider programa mercados regionais e moedas onde pode vender ofertas de CSP
 
-**Funções adequadas**
-
-- Administrador global
+**Funções apropriadas**: Administração global
 
 A localização da sua empresa determina o seu mercado. O seu mercado inclui as regiões e/ou países onde pode vender ofertas de programas cloud solution provider (CSP).
 

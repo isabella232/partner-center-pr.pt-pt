@@ -8,18 +8,16 @@ description: Como parceiro da Microsoft, pode ter dúvidas sobre a utilização 
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
-ms.openlocfilehash: d0b7e12c17054434e4d07c532739b0d079b49cca
-ms.sourcegitcommit: 26e6b470756aa9c1b3b0b919301b0eb38a335a52
+ms.openlocfilehash: 7343e6b234fed9107689f451d23cd3a74c0c389f
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/26/2021
-ms.locfileid: "108002908"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109856088"
 ---
 # <a name="guide-to-licensing-resources-for-microsoft-partners"></a>Guia para licenciar recursos para parceiros da Microsoft 
 
-**Funções adequadas**
-
-- Agente de ajuda
+**Funções apropriadas**: Agente de ajuda
 
 Este artigo partilha recursos que podem ajudar a responder a questões de licenciamento de parceiros.
 

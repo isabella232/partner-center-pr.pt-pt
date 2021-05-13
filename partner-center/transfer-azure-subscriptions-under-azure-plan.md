@@ -9,20 +9,16 @@ ms.localizationpriority: medium
 author: mckennaville
 ms.author: mcville
 ms.date: 07/29/2020
-ms.openlocfilehash: f0abfdfd2fbb242f7cdbe0ded04d387ea712cce5
-ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
+ms.openlocfilehash: dcacc6da51fe40c7eb05997f5409ef5fadbcf693
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "108702727"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109856054"
 ---
 # <a name="transfer-a-customers-azure-plan-subscriptions-to-a-different-partner"></a>Transferir subscrições do plano Azure de um cliente para um parceiro diferente
 
-**Funções adequadas**
-
-- Administrador de conta
-- Agente comercial
-- Agente de faturação
+**Funções adequadas**: Administração de contas | Agente comercial | Agente de faturação
 
 Este artigo descreve como um cliente pode mudar as suas subscrições Azure ao abrigo de um plano Azure de um Cloud Solution Provider (CSP) para outro.
 

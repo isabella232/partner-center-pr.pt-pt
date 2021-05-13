@@ -9,24 +9,18 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f1fb7fdcc4ec56f0d5cf0eb26b62294235a5b908
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 5a1f45de59fc9dac6a443bb8a14c3a80b36ba3f7
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441606"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855884"
 ---
 # <a name="understand-the-different-charge-types-in-partner-center-reconciliation-files"></a>Compreenda os diferentes tipos de carga nos ficheiros de reconciliação do Partner Center
 
-**Aplica-se a**
+**Aplica-se a**: Partner Center | Centro de Parceiros para Microsoft Cloud para governo dos EUA
 
-- Centro de Parceiros do Microsoft Cloud for US Government
-
-**Funções adequadas**
-
-- Agente administrativo
-- Administrador de faturação
-- Administrador global
+**Funções adequadas**: Agente administrador | Administrador de faturação | Administração global
 
 Este artigo descreve os mapeamentos entre uma secção de fatura e tipos de carga associados que podem estar no seu ficheiro de reconciliação. A sua fatura fornece um resumo das taxas. O seu ficheiro de reconciliação fornece uma desagregação detalhada das transações de item de linha, incluindo tipos de carga. Para obter mais informações sobre ficheiros de reconciliação, [consulte como utilizar ficheiros de reconciliação](use-the-reconciliation-files.md).
 

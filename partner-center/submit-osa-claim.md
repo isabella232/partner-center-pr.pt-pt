@@ -9,19 +9,17 @@ author: MalloryPrincipe
 ms.author: mallp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7a7e3ed40dcc6b1248f008201bff667a9eb9a0f8
-ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
+ms.openlocfilehash: 9526a47d0b6d734bde48f403c11fa84d734511c1
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "105028320"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109856105"
 ---
 # <a name="customer-associations-via-the-claimed-partner-of-record-cpor-model-for-microsoft-365-and-dynamics-365"></a>Associações de clientes através do modelo Claimed Partner of Record (CPOR) para Microsoft 365 e Dynamics 365
 
 
-**Funções adequadas**
-
-- Administradores de incentivos
+**Funções adequadas**: Administradores de incentivos
 
 No dia 1 de outubro de 2019, a Microsoft começou a utilizar o modelo Claiming Partner of Record (CPOR) para gerir as associações que tem com os seus clientes Microsoft 365 e Dynamics 365 no que diz respeito aos incentivos de Venda de Serviços Online (OSA) Sell, Uso de Serviços Online (OSU)-Microsoft 365 e OSU-Business Desempreição de Aplicações.
 

@@ -8,19 +8,16 @@ description: Solicite uma relação com um cliente para cenários multi-parceiro
 author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
-ms.openlocfilehash: 55f86e6e48b0b897410826e22564e2d27e25258b
-ms.sourcegitcommit: efd711b0e65c55f24ce5b9636abd7b5a8cc719fe
+ms.openlocfilehash: f8265973157540cff698790ddb2effa912abeeb7
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "108018140"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109856122"
 ---
 # <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>Como pedir uma relação de revendedor de um cliente no Centro de Parceiros
 
-**Funções adequadas**
-
-- Agente administrativo
-- Administrador global
+**Funções adequadas**: Agente administrador | Administração global
 
 Se pretender gerir o serviço ou subscrição de um cliente em seu nome, o cliente deve conceder-lhe permissões de administrador para esse serviço ou subscrição e assinar o Acordo de Cliente da Microsoft.
 
