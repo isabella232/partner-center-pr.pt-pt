@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8fc5566b780c10a953cfb322ad13ce7373dc87cd
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: f53661918508271901c6403e8270105c06d4246a
+ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106133102"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109818767"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits-and-offers-in-partner-center"></a>Gerencie os benefícios e ofertas de adesão da Microsoft Partner Network no Partner Center
 
@@ -104,11 +104,11 @@ Para ativar as subscrições baseadas na licença, clique no símbolo dropdown e
    >[!Note]
    >Os administradores de subscrição de estúdio visual podem reatribuir subscrições de um subscritor para outro se 90 dias se passaram desde o momento da atribuição original. Para obter informações adicionais, leia o [Guia de Programas de Parceiros da Microsoft.](https://aka.ms/partner-benefits-use-guide)
 
-## <a name="manage-technical-benefits"></a>Gerir benefícios técnicos
+## <a name="manage-technical-benefits---microsoft-product-support"></a>Gerir benefícios técnicos - Suporte ao Produto da Microsoft
 
-Esta secção descreve como ativar e gerir os benefícios técnicos de suporte no [painel de instrumentos](https://partner.microsoft.com/dashboard)do Centro de Parceiros . Se a sua adesão à Microsoft Partner Network ainda estiver no Partner Membership Center (PMC), no entanto, precisa de contactar outro recurso como o Partner Frontline para o ajudar a ativar os seus benefícios técnicos. Consulte [os benefícios técnicos do Ative fora do Partner Center](partner-membership-center-tech-benefits-activate.md).
+Esta secção descreve como ativar e gerir os benefícios técnicos de suporte no [painel de instrumentos](https://partner.microsoft.com/dashboard)do Centro de Parceiros . Se a sua adesão à Microsoft Partner Network ainda estiver no Partner Membership Center (PMC), no entanto, precisa de contactar outro recurso como o Partner Frontline para o ajudar a ativar os seus benefícios técnicos. Consulte [os benefícios técnicos do Ative fora do Partner Center](https://docs.microsoft.com/partner-center/partner-membership-center-tech-benefits-activate).
 
-Para ver os seus benefícios técnicos no Partner Center, faça o seguinte:
+Para ver os benefícios técnicos do seu Suporte ao Produto no Partner Center, faça o seguinte:
 
 1. Inscreva-se no painel do Centro [de Parceiros](https://partner.microsoft.com/dashboard).
 
@@ -120,7 +120,7 @@ Para ver os seus benefícios técnicos no Partner Center, faça o seguinte:
 
    - **Ativar o benefício técnico.** Depois de expandir os detalhes de um benefício, **selecione Ative**. Deixe alguns dias para processar o seu pedido de ativação.
 
-   - **Ver e partilhar suporte ao produto Acesso ID e ID do contrato.** Após o seu pedido de ativação ser processado, verá detalhes sobre **o Acesso ID** e o **ID do Contrato** da próxima vez que expandir esse benefício técnico. Você ou os utilizadores da sua empresa poderão precisar de partilhar esta informação na primeira vez que submeter um pedido de suporte para determinados tipos de produtos ou serviços.
+   - **Ver e partilhar suporte ao produto Acesso ID e ID do contrato.** Após o seu pedido de ativação ser processado, verá detalhes sobre **o Acesso ID** e o **ID do Contrato** da próxima vez que expandir esse benefício técnico. Você ou os utilizadores da sua empresa precisam de partilhar e usar esta informação na primeira vez que submete um pedido de suporte para determinados tipos de produtos ou serviços.
 
 4. Uma vez ativado, pode utilizar benefícios técnicos para diferentes tipos de suporte técnico. Para submeter pedidos de apoio técnico para os seguintes serviços, leia as instruções detalhadas na página de benefícios técnicos. Veja também os detalhes abaixo.
 
@@ -134,10 +134,23 @@ Para ver os seus benefícios técnicos no Partner Center, faça o seguinte:
 
      >[!NOTE]
      > O ID de acesso e o ID do contrato são necessários para pedidos de suporte técnico para produtos no local, Azure (não-CSP) e produtos Dynamics. No futuro, para encontrar o seu ID de acesso e ID do contrato, também pode ler [Encontre os seus benefícios.](mpn-find-benefits.md#find-access-id-and-contract-id-for-technical-benefits)
+     > 
+[Saiba mais sobre Suporte Técnico para Produtos On-in ou Cloud](https://docs.microsoft.com/partner-center/mpn-benefits-technical-support)
   
-   **Pré-venda técnica e serviços de implantação.**  Utilize este tipo de apoio para consulta ou aconselhamento sobre vendas técnicas ou implantação. Estes serviços podem ser solicitados diretamente ao [Partner Center.](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest)
+## <a name="manage-technical-benefits---partner-advisory-hours"></a>Gerir Benefícios Técnicos - Horários de Aconselhamento de Parceiros
+As Horas de Aconselhamento de Parceiros são a moeda utilizada para **os serviços técnicos de pré-venda e implantação (TPD),** simplesmente iniciar sessão para apresentar um pedido (não é necessária ativação ou atribuição de utilizadores).
 
-   - Para parceiros de competência Action Pack e Gold/Silver, utilize **pré-venda técnica e serviços de implantação** para soluções Cloud e Hybrid.
+Para ver os benefícios técnicos do seu Parceiro Advisory Hours no Partner Center, faça o seguinte:
+
+1. Inscreva-se no painel do Centro [de Parceiros](https://partner.microsoft.com/dashboard).
+
+2. Selecione **Benefícios**, em seguida, **Benefícios Técnicos** para ver as horas de aconselhamento do seu parceiro
+
+3. No canto inferior direito da página clique **[Enviar pré-venda técnica e pedido de implementação](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest)** para submeter o seu pedido.
+     >[!NOTE]
+     > Se a página de benefícios técnicos apresentar a mensagem *"Parece que ainda não tem quaisquer benefícios"* assinou usando uma conta parceira que não tem ofertas gold, silver ou Microsoft Action Pack e não é elegível para usar o serviço ou usou a conta errada para iniciar sposição.
+     > 
+[Saiba mais sobre pré-venda técnica e serviços de implantação (TPD)](https://docs.microsoft.com/partner-center/technical-benefits)
   
 ## <a name="manage-go-to-market-offers"></a>Gerir ofertas go-to-market
 

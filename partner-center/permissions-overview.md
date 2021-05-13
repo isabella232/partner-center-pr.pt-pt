@@ -9,20 +9,16 @@ author: hemas
 ms.author: hemas
 ms.localizationpriority: high
 ms.custom: SEOMAY.20, contperf-fy21q1
-ms.openlocfilehash: a6e6424dfb787bbe9510d47299f945309dd00528
-ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
+ms.openlocfilehash: b1ac34bbb92d600805465ca5f6d1b28af54cd5e1
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "105633918"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855136"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>Atribuir funções e permissões aos utilizadores de uma empresa que necessite de trabalhar no Partner Center
 
-**Funções adequadas**
-
-- Administrador global
-- Administração de gestão de utilizadores
-- Administrador sócio da MPN
+**Funções adequadas**: Administração global | Administração de administração de utilizadores | Administrador sócio da MPN
 
 Configura o seu perfil de parceiro, incluindo nome legal e morada, detalhes de apoio, isenções de impostos, informações bancárias e o contacto principal para a sua empresa. Próximo passo: Configurar os seus utilizadores com senhas e funções para que possam começar a trabalhar no Partner Center consigo.
 

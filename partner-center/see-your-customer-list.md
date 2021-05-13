@@ -9,23 +9,18 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1791d415d0004520e8c7dc950decf540c91cf003
-ms.sourcegitcommit: 26e6b470756aa9c1b3b0b919301b0eb38a335a52
+ms.openlocfilehash: 6e73aa98e0cfaf82521a5fe63e34ebf0b44363fb
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/26/2021
-ms.locfileid: "108002846"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854507"
 ---
 # <a name="manage-your-customer-list---search-update-or-export-customers-in-partner-center"></a>Gerir a sua lista de clientes - pesquisar, atualizar ou exportar clientes no Partner Center
 
-**Aplica-se a**
+**Aplica-se a**: Partner Center | Centro de Parceiros para Microsoft Cloud para governo dos EUA
 
-- Centro de Parceiros do Microsoft Cloud for US Government
-
-**Funções adequadas**
-
-- Agente administrativo
-- Administrador global
+**Funções adequadas**: Agente administrador | Administração global
 
 Os registos de clientes estão entre os seus ativos de informação mais importantes no Partner Center. Pode pesquisar a sua base de dados de contas de clientes, exportar toda a base de dados do cliente ou exportar um subconjunto para um formato de ficheiro de valor separado com o Excel (.csv). Também pode exportar as informações de subscrição de um cliente para um ficheiro .csv.
 

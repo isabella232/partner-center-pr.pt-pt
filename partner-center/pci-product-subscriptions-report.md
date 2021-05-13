@@ -9,21 +9,16 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 019e489b4738515639bf181591dfbc671e1b795d
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 89806b08485bc4bd286c2e14a19924ca0e281b6d
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086197"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854473"
 ---
 # <a name="product-subscriptions-report-available-from-the-partner-center-insights-dashboard"></a>Relatório de subscrições de produtos disponível no painel de insights do Partner Center Insights
 
-**Funções adequadas**
-
-- Administrador global
-- Agente administrativo
-- Espectador de relatório
-- Espectador de relatório executivo
+**Funções adequadas**: Administração global | Agente administrativo | Relatório | do espectador Espectador de relatório executivo
 
 O relatório de Subscrições de Produtos apresenta análises sobre subscrições em nuvem que vendeu ou que gere para os seus clientes. Este é um relatório específico do produto que inclui o desempenho de subscrições associadas a produtos na nuvem como Office 365, Azure, Dynamics, entre outros.
 

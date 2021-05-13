@@ -9,22 +9,16 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: adbe4bf9fd329f7443608dd1a1e123208212ef43
-ms.sourcegitcommit: 26095af7950817099764bf47370cb3e77e0dce7c
+ms.openlocfilehash: 584f8a7f2794cb64be49fe7f790904eff50c4c26
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "102770281"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855118"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Guia para co-venda no Partner Center (PC) para parceiros que migram do Partner Sales Connect (PSC)
 
-**Funções adequadas**
-
-- Administrador de conta
-- Administração de referências
-- Vendedor de Vendas de Parceiros (PSC)
-- Administrador de Vendas de Parceiros (PSC)
-- Gestor de negócios Partner Sales Connect (PSC)
+**Funções adequadas**: Administração de contas | Administração de referências | Vendedor de Vendas de Parceiros (PSC) | Parceiro Sales Connect (PSC) administrador | Gestor de negócios Partner Sales Connect (PSC)
 
 Este artigo fornece orientação para os parceiros que migram do Partner Sales Connect para Partner Center para que possam continuar a criar e gerir ofertas de co-venda no Partner Center.
 

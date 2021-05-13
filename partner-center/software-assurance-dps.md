@@ -9,19 +9,16 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9ab6afc85a696b3b614ea5c3b5edc644d92bfc21
-ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
+ms.openlocfilehash: 8d5154ad63066cb9d1d3eda8cf78fc059217ca99
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "107266508"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854796"
 ---
 # <a name="software-assurance-planning-services-retirement"></a>Reforma dos Serviços de Planeamento de Garantia de Software
 
-**Funções adequadas**
-
-- Administrador global
-- Administrador sócio da MPN
+**Funções adequadas**: Administração global | Administrador sócio da MPN
 
 
 Os Serviços de Planeamento estão a ser totalmente retirados dos benefícios da Software Assurance, mas os clientes podem continuar a trabalhar com os parceiros para usar os dias de Serviços de Planeamento para compromissos enquanto os vouchers são válidos. Estas são as datas significativas que antecedem a reforma do programa: 

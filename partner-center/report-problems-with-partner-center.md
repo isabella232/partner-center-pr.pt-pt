@@ -9,22 +9,18 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2b009d7131f9d6941513a04e866006d1908ba741
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 5d71d3efe10d38cfc0b5ce8dd60c3c51e2be9f1b
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441647"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855612"
 ---
 # <a name="partner-center-portal-requests-and-diagnostic-tool"></a>Pedidos de portal do Centro parceiro e ferramenta de diagnóstico
 
-**Aplica-se a**
+**Aplica-se a**: Partner Center | Centro de Parceiros para Microsoft Cloud para governo dos EUA
 
-- Centro de Parceiros do Microsoft Cloud for US Government
-
-**Funções adequadas**
-
-- Todos os parceiros interessados no Partner Center
+**Funções adequadas**: Todos os parceiros interessados no Partner Center
 
 Todos os utilizadores do Partner Center podem criar um pedido de suporte ao parceiro. Os utilizadores só podem ver os pedidos de suporte que submeteram após iniciar sessão no Partner Center.
 Contacte o Suporte ao Centro de Parceiros se encontrar problemas ou precisar de ajuda com erros do portal Partner Center. Envie diagnósticos para permitir que o problema seja corrigido mais rapidamente.

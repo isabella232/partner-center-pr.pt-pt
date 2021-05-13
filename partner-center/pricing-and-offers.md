@@ -9,24 +9,17 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b960a903c2ba85963047033094636da6dc599f90
-ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
+ms.openlocfilehash: 1cf69258b507258e1186514c54fa11ebf8a57d36
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "106964430"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854524"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Preços e ofertas para Office 365, Dynamics CRM, Enterprise Mobility Suite, Azure, e muito mais
 
 
-**Funções adequadas**
-
-- Administrador global
-- Administração de gestão de utilizadores
-- Agente administrativo
-- Administrador sócio da MPN
-- Agente comercial
-- Administrador de faturação
+**Funções adequadas**: Administração global | Administração de administração de utilizadores | Agente administrativo | | de administrador sócio da MPN Agente comercial | Administrador de faturação
 
 Para ver os mais recentes programas e ofertas do Cloud Solution Provider, a partir do painel de instrumentos do Portal dos **Parceiros,** vá ao Sell > Preços e Ofertas . Encontrará listas de preços separadas para os diferentes tipos de produtos disponíveis. As seguintes listas de preços estão disponíveis na página **de Preços e Ofertas:**
 
@@ -75,7 +68,7 @@ No entanto, os preços baseados na utilização do Azure não têm pré-visualiz
 |Software||Não disponível|Compare listas de preços manualmente de mês para mês|
 |Reservas|Máquinas virtuais, pré-pagas|Não disponível|Compare listas de preços manualmente de mês para mês|
 
-Os preços baseados no uso podem mudar ao longo de um mês. Para obter preços diários 'atuais' para estes recursos Azure, os parceiros precisam de ligar para a RateCard API. 
+Os preços baseados no uso podem mudar ao longo de um mês. Para obter preços diários 'actuais' para estes recursos Azure, os parceiros precisam de ligar para a RateCard API. 
 
 > [!Note] 
 > As alterações nos preços de subscrição aplicam-se apenas durante uma renovação. A taxa mensal de um parceiro é determinada pelo preço de compra, ou pelo preço no momento da criação de uma subscrição. Se um preço aumentar ou diminuir após a aquisição do prazo anual, o parceiro não é cobrado o preço alterado até à renovação - tipicamente no prazo de 12 meses.

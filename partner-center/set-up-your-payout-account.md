@@ -7,19 +7,16 @@ ms.subservice: partnercenter-mpn
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 12/10/2019
-ms.openlocfilehash: 8f680753216ea9cd515c8082495b390c7bf95a62
-ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
+ms.openlocfilehash: 255ae28af5b29645b06ad0ae6a1f9660ad334c3c
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "108702812"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854848"
 ---
 # <a name="set-up-your-payout-account-and-tax-forms"></a>Configurar a conta de dividendos e os formulários fiscais
 
-**Funções adequadas**
-
-- Administrador de conta
-- Administrador global
+**Funções adequadas**: Administração de contas | Administração global
 
 Para receber dinheiro das vendas de ofertas no mercado comercial, é necessário configurar a sua conta de pagamento e preencher os formulários fiscais necessários no [Partner Center.](https://partner.microsoft.com/dashboard)
 

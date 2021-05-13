@@ -9,19 +9,16 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c291a2cf859d0c21570a06fab5bc36b19eccfda2
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: f3fd7a4adfb3e88b875c8178a260c353e1414f1e
+ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101755840"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109818716"
 ---
 # <a name="update-customer-account-info-company-details-and-customer-billing-information-in-partner-center"></a>Atualizar informações de conta de clientes, detalhes da empresa e informações de faturação do cliente no Partner Center
 
-**Funções adequadas**
-
-- Administrador global
-- Agente comercial
+**Funções adequadas**: Administração global | Agente comercial
 
 No Partner Center, pode atualizar as informações de faturação de um cliente e outros detalhes da empresa. Também pode [dar ou remover a sua permissão para que um cliente compre os seus próprios produtos ou serviços.](give-customers-permission.md)
 

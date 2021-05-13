@@ -9,20 +9,16 @@ ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 11/11/2020
-ms.openlocfilehash: 756fbfda3438933b50fc51936b396291986472a7
-ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
+ms.openlocfilehash: 929907c7c6f238fb84a13622227534797f0ac949
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "105028286"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855340"
 ---
 # <a name="add-azure-partner-shared-services-so-partners-can-buy-azure-subscriptions-for-their-own-use"></a>Adicione serviços partilhados azure partner para que os parceiros possam comprar subscrições Azure para seu próprio uso
 
-**Funções adequadas**
-
-- Administrador global
-- Agente administrativo
-- Agente comercial
+**Funções adequadas**: Administração global | Agente administrativo | Agente comercial
 
 A Azure Partner Shared Services é um novo tipo de oferta para parceiros no programa CSP que permite aos parceiros adquirir subscrições Azure para seu próprio uso.Cria a oportunidade para os parceiros usarem um método uniforme para comprar, rastrear e gerir o Azure, além da capacidade de consolidar os seus acordos de licenciamento e revenda da Azure com a Microsoft. Com a Azure Partner Shared Services, os parceiros têm agora a mesma flexibilidade para usar subscrições Azure em CSP como fazem no Microsoft Enterprise Agreement e programas Web Direct, abrindo cenários como: construir ambientes de desenvolvimento e teste, implementar cargas de trabalho internas e hospedar serviços partilhados ou aplicações multi-arrendatários.  
 

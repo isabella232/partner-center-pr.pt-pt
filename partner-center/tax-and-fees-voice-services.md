@@ -7,20 +7,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 411932923e6bd35732e64521abe567f40f7499e9
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 80cb5503323f483c13c983375559baf70f9d0b6f
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441494"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854728"
 ---
 # <a name="regional-taxes-regulations-for-public-switched-telephone-network-ptsn-services"></a>Impostos regionais, regulamentos para serviços de Rede Telefónica Comutado Público (PTSN)
 
-**Funções adequadas**
-
-- Administrador global
-- Administrador de utilizadores
-- Agente administrativo
+**Funções adequadas**: Administração global | Administração de utilizadores | Agente administrativo
 
 Os serviços da Rede Telefónica Comutado Público (PSTN) em algumas jurisdições podem estar sujeitos a requisitos fiscais e regulamentares especiais que possam afetar a ordem e faturação dos parceiros. Nos Estados Unidos, incluindo Porto Rico, os serviços PSTN, que incluem Audio Conferencing, Call Plans e Créditos de Comunicação, estão sujeitos a requisitos fiscais e regulamentares especiais. Nos Estados Unidos e porto Rico, a Microsoft avalia os serviços PSTN como impostos inclusivos.  Os impostos e regulamentos exclusivos da PSTN afetarão os parceiros do Office 365 que transacionam produtos Microsoft 365 Voice.  Se um parceiro marcar o preço de um Serviço PSTN da Microsoft, poderá ser responsável pelo cálculo e remissão de impostos e taxas PSTN.
 

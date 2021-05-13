@@ -9,23 +9,18 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 48521424fd695f20192e69e11a980505873768c2
-ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
+ms.openlocfilehash: 431ac8a4dd96dc7ed768efabd62dbd4a4c2a6d90
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98215871"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854983"
 ---
 # <a name="use-promotions-to-attract-new-customers-and-pass-the-savings-on-to-them"></a>Use promoções para atrair novos clientes e passe as poupanças para eles
 
 
 
-**Funções adequadas**
-
-- Agente administrativo
-- Administrador sócio da MPN
-- Administrador de faturação
-- Agente comercial
+**Funções adequadas**: Agente administrador | | de administrador sócio da MPN Administrador de faturação | Agente comercial
 
 
 A Microsoft ocasionalmente oferece promoções em subscrições baseadas em licenças, permitindo-lhe passar as poupanças para os clientes e fazer crescer o seu negócio. 

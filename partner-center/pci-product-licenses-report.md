@@ -9,21 +9,16 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 14cd4664ecfb140b82dfd27994ff99c7a62d2261
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 15658abdbf23c1181fb411fd66673fc9699250ae
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086911"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855170"
 ---
 # <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>Relatório de licenças de produtos no painel de insights do Centro de Parceiros
 
-**Funções adequadas**
-
-- Administrador global
-- Agente administrativo
-- Espectador de relatório
-- Espectador de relatório executivo
+**Funções adequadas**: Administração global | Agente administrativo | Relatório | do espectador Espectador de relatório executivo
 
 O relatório das Licenças de Produto apresenta análises de licenças para produtos em nuvem baseados em licenças, tais como Office 365, Dynamics, Microsoft 365, Power BI, entre outros. Os analytics apresentados aqui estão associados ao uso das licenças que vendeu ou que gere para os seus clientes. Pode ver as seguintes secções do relatório 'Licenças de Produto'.
 

@@ -9,19 +9,16 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b95ce4a3070414807e31a1aa12a213a332c2a1cc
-ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
+ms.openlocfilehash: db178f668efcf519264d9ba46dbcb5277cc5b8cd
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "105548942"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855527"
 ---
 # <a name="reset-my-password"></a>Repor a minha palavra-passe
  
-**Funções adequadas**
-
-- Administrador global
-- Todos os parceiros interessados no Partner Center
+**Funções adequadas**: Administração global | Todos os parceiros interessados no Partner Center
 
 
 Se não se lembrar da palavra-passe do Partner Center, pode repor a palavra-passe.

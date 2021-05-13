@@ -9,19 +9,16 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c5ca9a00c5eafcbc155df20b08269cefd93c14d3
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 9c85ff428fd6ffb6ced38be16f4bd163c2b0b548
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086877"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855221"
 ---
 # <a name="partner-insights--frequently-asked-questions"></a>Insights de Parceiros – Perguntas Frequentes
 
-**Funções adequadas**
-
-- Espectador de relatório
-- Espectador de relatório executivo
+**Funções apropriadas**: Report viewer | Espectador de relatório executivo
 
 Este artigo abrange questões conhecidas para visualização ou prestação de relatórios associados à Insights.
 

@@ -9,23 +9,17 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b369cd263f1852c54c260fa39860e7acafae5f90
-ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
+ms.openlocfilehash: dd8a9b09d4dbd45c0d76bce1674babfd5e17cdbe
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "105633663"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854133"
 ---
 # <a name="provide-billing-support-for-your-customers-and-help-answer-their-billing-questions"></a>Fornecer suporte de faturação para os seus clientes e ajudar a responder às suas questões de faturação
 
 
-**Funções adequadas**
-
-- Administrador global
-- Administração de gestão de utilizadores
-- Agente helpdesk
-- Administrador de faturação
-- Agente comercial
+**Funções adequadas**: Administração global | Administração de administração de utilizadores | Agente helpdesk | Administrador de faturação | Agente comercial
 
 É dono da relação de faturação com os seus clientes, e é responsável por responder às questões relacionadas com a faturação que os seus clientes podem ter.
 

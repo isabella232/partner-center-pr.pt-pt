@@ -9,20 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ec74076281d4c8e65de6818281a2852df264732c
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 004044902b21c223af75414a1ec999173b481058
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441630"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854966"
 ---
 # <a name="purchase-the-azure-plan-for-customers--access-the-latest-azure-services-at-pay-as-you-go-rates"></a>Compre o plano Azure para clientes & aceder aos mais recentes serviços da Azure a preços de pagamento
 
-**Funções adequadas**
-
-- Administrador global
-- Administração de gestão de utilizadores
-- Agente comercial
+**Funções adequadas**: Administração global | Administração de administração de utilizadores | Agente comercial
 
 Ao adquirir um plano Azure para os seus clientes ao abrigo do Microsoft Customer Agreement, tem acesso ao catálogo completo dos mais recentes serviços Azure a preços de pagamento. Os parceiros da CSP passarão a poder aceder a qualquer serviço Azure quando estiver em geral disponível. Um parceiro pode ter várias subscrições Azure ao abrigo de um plano Azure. 
 

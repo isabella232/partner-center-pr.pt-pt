@@ -9,19 +9,16 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d3920cbdc52a844477aacac9c7ac2122c14edeba
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 018416585ea141d4842ec0787b59fd7e214c9999
+ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101755807"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109818631"
 ---
 # <a name="manage-unallocated-payments-on-your-partner-center-billing-page"></a>Gerir pagamentos não atribuídos na sua página de Faturação do Centro de Parceiros
 
-**Funções adequadas**
-
-- Administrador de faturação
-- Administrador de conta
+**Funções apropriadas**: Administrador de Faturação | Administrador de conta
 
 Ocasionalmente, poderá ver um pagamento não atribuído na sua página de Faturação. Um pagamento não atribuído é um pagamento que fez à Microsoft que não solicitou a uma fatura específica.
 

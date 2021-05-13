@@ -9,22 +9,18 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e863a5dbb86dae2c1cd3395589b4d4318eb0dba1
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: d9ae853b095339b54f7b4d2eb0f41fecd5f53f80
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284150"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854779"
 ---
 # <a name="support-from-microsoft"></a>Suporte da Microsoft
 
-**Aplica-se a**
+**Aplica-se a**: Partner Center | Centro de Parceiros para Microsoft Cloud para governo dos EUA
 
-- Centro de Parceiros do Microsoft Cloud for US Government
-
-**Funções adequadas**
-
-- Agente helpdesk
+**Funções apropriadas**: Agente helpdesk
 
 Se tiver problemas com um serviço Microsoft ou com o Partner Center, pode reportar o problema à Microsoft, aumentar o problema para a Microsoft para obter ajuda e acompanhar o problema até que seja resolvido.
 

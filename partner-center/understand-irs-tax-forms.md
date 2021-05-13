@@ -8,18 +8,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 ms.localizationpriority: medium
 ms.date: 09/30/2020
-ms.openlocfilehash: 38d0748548dca4f46eb60d5d36e1a55ad5fa1d67
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: d34984c3bbe8588cf2a5a40f7c50b14ba6928405
+ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284439"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109818682"
 ---
 # <a name="understand-irs-tax-forms-issued-by-microsoft"></a>Entender formulários do IRS emitidos pela Microsoft
 
-**Funções adequadas**
-
-- Administrador global
+**Funções apropriadas**: Administração global
 
 Pode receber anualmente um ou mais formulários fiscais da Microsoft. Isto depende da sua localização e do valor das vendas ou pagamentos que recebe. A Microsoft é obrigada a emitir estes formulários e a arquivá-los no Serviço de Receita Interna (IRS).
 

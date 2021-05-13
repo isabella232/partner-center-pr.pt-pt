@@ -9,18 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: eaf54898d7a130ca38e5a2aaeba279fb722c9e66
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 14e901f51841e58b28a3cbbb1b7a19ce89d7c324
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712754"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855357"
 ---
 # <a name="set-check-or-remove-monthly-azure-spending-budgets-for-customers-in-partner-center"></a>Desconfiem, verifiquem ou removam os orçamentos mensais de gastos da Azure para os clientes no Partner Center
 
-**Funções adequadas**
-
-- Agente administrativo
+**Funções adequadas**: Agente administrativo
 
 Pode [definir um orçamento mensal de gastos da Azure para os seus clientes](#set-azure-spending-budget) no Partner Center. Isto ajuda os seus clientes a gerir os seus gastos com o Azure. Esta opção permite comparar os gastos do Azure dos seus clientes com o orçamento durante o mês. Também ajuda os seus clientes a orçamentar os seus gastos com o Azure para que a sua fatura mensal não seja maior do que antecipam.
 

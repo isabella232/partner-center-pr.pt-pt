@@ -9,19 +9,16 @@ ms.topic: how-to
 ms.date: 04/12/2021
 ms.localizationpriority: medium
 ms.custom: contperf-fy21q4
-ms.openlocfilehash: 08e35e24dc94c81db56807b4211874996f0f487e
-ms.sourcegitcommit: 89be77c9f35c77463d9558826293202afc6dec56
+ms.openlocfilehash: c700176ced0710f621dbdfab65513767976aff3d
+ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "107315881"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109818614"
 ---
 # <a name="verify-or-update-your-company-profile-information"></a>Verifique ou atualize as informações do perfil da empresa 
 
-**Funções adequadas**
-
-- Administrador global
-- Administrador de conta MPN
+**Funções adequadas**: Administração global | Administrador de conta MPN
 
 A primeira vez que assinar no Partner Center como administrador global, deve confirmar que todos os detalhes da sua empresa estão corretos. Estes incluem contacto primário, nome e endereço de negócios legais e informações do programa. Se a sua empresa tiver mais de uma localização, reveja os seus dados de localização para obter uma precisão. Como administrador global, administrador de faturação ou agente administrativo, também poderá ver e atualizar a sua faturação e informação fiscal.
 

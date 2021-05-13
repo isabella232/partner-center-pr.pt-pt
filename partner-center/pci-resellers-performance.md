@@ -9,21 +9,16 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7d2331cfb1b0edf25815de0070b5668d0b91df6f
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: a2a5697f19baadb5af956a745c032ce1711574d3
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086894"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855238"
 ---
 # <a name="reseller-performance-dashboard-in-partner-center-insights"></a>Painel de desempenho revendedor em Partner Center Insights
 
-**Funções adequadas**
-
-- Administrador global
-- Agente administrativo
-- Espectador de relatório
-- Espectador de relatório executivo
+**Funções adequadas**: Administração global | Agente administrativo | Relatório | do espectador Espectador de relatório executivo
 
 O painel de desempenho do revendedor no Partner Center Insights fornece uma visão geral do desempenho de vários revendedores indiretos de um Fornecedor Indireto CSP. O dashboard fornece dados sobre os revendedores que estão ativos, quanto rendimento geram e quais os produtos que estão a impulsionar as receitas. Os Fornecedores Indiretos poderão procurar um revendedor específico pelo nome e procurar detalhes para o revendedor no painel de desempenho do revendedor.
 
