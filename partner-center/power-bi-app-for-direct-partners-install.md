@@ -10,80 +10,75 @@ author: v-sumukh
 ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ad0c2f3ee7d130c49dea6ba354e6794e29fd9e9f
-ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
+ms.openlocfilehash: 15ee391d6b748b6499700aee321ff4abd85e75d2
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "105633697"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854490"
 ---
-# <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a><span data-ttu-id="c590b-103">Install and preview the Partner Center Analytics app for Microsoft Power BI (Instalar e pré-visualizar a aplicação de Análise do Centro de Parceiros do Microsoft Power BI)</span><span class="sxs-lookup"><span data-stu-id="c590b-103">Install and preview the Partner Center Analytics app for Microsoft Power BI</span></span>
+# <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a><span data-ttu-id="9cb65-103">Install and preview the Partner Center Analytics app for Microsoft Power BI (Instalar e pré-visualizar a aplicação de Análise do Centro de Parceiros do Microsoft Power BI)</span><span class="sxs-lookup"><span data-stu-id="9cb65-103">Install and preview the Partner Center Analytics app for Microsoft Power BI</span></span>
 
 
-<span data-ttu-id="c590b-104">**Funções adequadas**</span><span class="sxs-lookup"><span data-stu-id="c590b-104">**Appropriate roles**</span></span>
+<span data-ttu-id="9cb65-104">**Funções adequadas**: Administração global | Administração de administração de utilizadores | Agente comercial | Agente administrativo</span><span class="sxs-lookup"><span data-stu-id="9cb65-104">**Appropriate roles**: Global admin | User management admin | Sales agent | Admin agent</span></span>
 
-- <span data-ttu-id="c590b-105">Administrador global</span><span class="sxs-lookup"><span data-stu-id="c590b-105">Global admin</span></span>
-- <span data-ttu-id="c590b-106">Administração de gestão de utilizadores</span><span class="sxs-lookup"><span data-stu-id="c590b-106">User management admin</span></span>
-- <span data-ttu-id="c590b-107">Agente comercial</span><span class="sxs-lookup"><span data-stu-id="c590b-107">Sales agent</span></span>
-- <span data-ttu-id="c590b-108">Agente administrativo</span><span class="sxs-lookup"><span data-stu-id="c590b-108">Admin agent</span></span>
+## <a name="before-you-begin"></a><span data-ttu-id="9cb65-105">Antes de começar</span><span class="sxs-lookup"><span data-stu-id="9cb65-105">Before you begin</span></span>
 
-## <a name="before-you-begin"></a><span data-ttu-id="c590b-109">Antes de começar</span><span class="sxs-lookup"><span data-stu-id="c590b-109">Before you begin</span></span>
+<span data-ttu-id="9cb65-106">Selecione a aplicação mais relevante para o seu negócio a partir da seguinte lista de aplicações disponíveis power bi:</span><span class="sxs-lookup"><span data-stu-id="9cb65-106">Select the application that is most relevant to your business from the following list of available Power BI apps:</span></span>
 
-<span data-ttu-id="c590b-110">Selecione a aplicação mais relevante para o seu negócio a partir da seguinte lista de aplicações disponíveis power bi:</span><span class="sxs-lookup"><span data-stu-id="c590b-110">Select the application that is most relevant to your business from the following list of available Power BI apps:</span></span>
+- [<span data-ttu-id="9cb65-107">Provedor Direto</span><span class="sxs-lookup"><span data-stu-id="9cb65-107">Direct Provider</span></span>](https://appsource.microsoft.com/product/power-bi/partnercenteranalytics.direct_provider_partner_analytics)
 
-- [<span data-ttu-id="c590b-111">Provedor Direto</span><span class="sxs-lookup"><span data-stu-id="c590b-111">Direct Provider</span></span>](https://appsource.microsoft.com/product/power-bi/partnercenteranalytics.direct_provider_partner_analytics)
+- [<span data-ttu-id="9cb65-108">Fornecedor Indireto</span><span class="sxs-lookup"><span data-stu-id="9cb65-108">Indirect Provider</span></span>](https://appsource.microsoft.com/product/power-bi/partnercenteranalytics.indirect_provider_partner_analytics)
 
-- [<span data-ttu-id="c590b-112">Fornecedor Indireto</span><span class="sxs-lookup"><span data-stu-id="c590b-112">Indirect Provider</span></span>](https://appsource.microsoft.com/product/power-bi/partnercenteranalytics.indirect_provider_partner_analytics)
+- [<span data-ttu-id="9cb65-109">Revendedor indireto</span><span class="sxs-lookup"><span data-stu-id="9cb65-109">Indirect Reseller</span></span>](https://appsource.microsoft.com/product/power-bi/partnercenteranalytics.indirect_reseller_partner_analytics)
 
-- [<span data-ttu-id="c590b-113">Revendedor indireto</span><span class="sxs-lookup"><span data-stu-id="c590b-113">Indirect Reseller</span></span>](https://appsource.microsoft.com/product/power-bi/partnercenteranalytics.indirect_reseller_partner_analytics)
+<span data-ttu-id="9cb65-110">Antes de instalar a versão de pré-visualização da aplicação Partner Center Analytics, certifique-se de que cumpre os seguintes requisitos.</span><span class="sxs-lookup"><span data-stu-id="9cb65-110">Before you install the Partner Center Analytics app preview version, be sure that you meet the following requirements.</span></span>
 
-<span data-ttu-id="c590b-114">Antes de instalar a versão de pré-visualização da aplicação Partner Center Analytics, certifique-se de que cumpre os seguintes requisitos.</span><span class="sxs-lookup"><span data-stu-id="c590b-114">Before you install the Partner Center Analytics app preview version, be sure that you meet the following requirements.</span></span>
+- <span data-ttu-id="9cb65-111">Escolha o aplicativo Power BI correto para o seu negócio.</span><span class="sxs-lookup"><span data-stu-id="9cb65-111">You pick the correct Power BI app for your business.</span></span>
 
-- <span data-ttu-id="c590b-115">Escolha o aplicativo Power BI correto para o seu negócio.</span><span class="sxs-lookup"><span data-stu-id="c590b-115">You pick the correct Power BI app for your business.</span></span>
+- <span data-ttu-id="9cb65-112">Tem uma licença power bi pro.</span><span class="sxs-lookup"><span data-stu-id="9cb65-112">You have a Power BI pro license.</span></span>
 
-- <span data-ttu-id="c590b-116">Tem uma licença power bi pro.</span><span class="sxs-lookup"><span data-stu-id="c590b-116">You have a Power BI pro license.</span></span>
+- <span data-ttu-id="9cb65-113">Você tem permissões para instalar aplicativos de modelo no seu inquilino.</span><span class="sxs-lookup"><span data-stu-id="9cb65-113">You have permissions to install template apps on your tenant.</span></span>
 
-- <span data-ttu-id="c590b-117">Você tem permissões para instalar aplicativos de modelo no seu inquilino.</span><span class="sxs-lookup"><span data-stu-id="c590b-117">You have permissions to install template apps on your tenant.</span></span>
+- <span data-ttu-id="9cb65-114">Pode inscrever-se no Power BI.</span><span class="sxs-lookup"><span data-stu-id="9cb65-114">You can sign in to Power BI.</span></span>
 
-- <span data-ttu-id="c590b-118">Pode inscrever-se no Power BI.</span><span class="sxs-lookup"><span data-stu-id="c590b-118">You can sign in to Power BI.</span></span>
+- <span data-ttu-id="9cb65-115">Pode inscrever-se como administrador global, administrador ou administrador para o [inquilino Azure Ative Directory (Azure AD) da sua empresa.](azure-active-directory-tenants-and-partner-center.md)</span><span class="sxs-lookup"><span data-stu-id="9cb65-115">You can sign in as a global admin, admin agent, or billing admin to [your company's Azure Active Directory (Azure AD) tenant](azure-active-directory-tenants-and-partner-center.md).</span></span>
 
-- <span data-ttu-id="c590b-119">Pode inscrever-se como administrador global, administrador ou administrador para o [inquilino Azure Ative Directory (Azure AD) da sua empresa.](azure-active-directory-tenants-and-partner-center.md)</span><span class="sxs-lookup"><span data-stu-id="c590b-119">You can sign in as a global admin, admin agent, or billing admin to [your company's Azure Active Directory (Azure AD) tenant](azure-active-directory-tenants-and-partner-center.md).</span></span>
+## <a name="to-install-the-app"></a><span data-ttu-id="9cb65-116">Para instalar a app</span><span class="sxs-lookup"><span data-stu-id="9cb65-116">To install the app</span></span>
 
-## <a name="to-install-the-app"></a><span data-ttu-id="c590b-120">Para instalar a app</span><span class="sxs-lookup"><span data-stu-id="c590b-120">To install the app</span></span>
+1. <span data-ttu-id="9cb65-117">Selecione o link de origem da aplicação dado (Fornecedor Direto/Fornecedor Indireto/Revendedor Indireto) na secção acima.</span><span class="sxs-lookup"><span data-stu-id="9cb65-117">Select the app source link given (Direct Provider/Indirect Provider/Indirect Reseller) in the above section.</span></span>
 
-1. <span data-ttu-id="c590b-121">Selecione o link de origem da aplicação dado (Fornecedor Direto/Fornecedor Indireto/Revendedor Indireto) na secção acima.</span><span class="sxs-lookup"><span data-stu-id="c590b-121">Select the app source link given (Direct Provider/Indirect Provider/Indirect Reseller) in the above section.</span></span>
+2. <span data-ttu-id="9cb65-118">Selecione **GET IT NOW**.</span><span class="sxs-lookup"><span data-stu-id="9cb65-118">Select **GET IT NOW**.</span></span> 
 
-2. <span data-ttu-id="c590b-122">Selecione **GET IT NOW**.</span><span class="sxs-lookup"><span data-stu-id="c590b-122">Select **GET IT NOW**.</span></span> 
+3. <span data-ttu-id="9cb65-119">Acordar termos e condições selecionando **Continuar**.</span><span class="sxs-lookup"><span data-stu-id="9cb65-119">Agree terms and conditions by selecting **Continue**.</span></span>
 
-3. <span data-ttu-id="c590b-123">Acordar termos e condições selecionando **Continuar**.</span><span class="sxs-lookup"><span data-stu-id="c590b-123">Agree terms and conditions by selecting **Continue**.</span></span>
+4. <span data-ttu-id="9cb65-120">Já tem uma conta? **selecione Iniciar S-No**.</span><span class="sxs-lookup"><span data-stu-id="9cb65-120">Under Already have an account? select **Sign In**.</span></span>
 
-4. <span data-ttu-id="c590b-124">Já tem uma conta? **selecione Iniciar S-No**.</span><span class="sxs-lookup"><span data-stu-id="c590b-124">Under Already have an account? select **Sign In**.</span></span>
+5. <span data-ttu-id="9cb65-121">Na página seguinte, insira o nome de utilizador e a palavra-passe do Power BI e, em seguida, selecione **Iniciar Sôm.**</span><span class="sxs-lookup"><span data-stu-id="9cb65-121">On the next page, enter your Power BI user name and password and then select **Sign In**.</span></span>
 
-5. <span data-ttu-id="c590b-125">Na página seguinte, insira o nome de utilizador e a palavra-passe do Power BI e, em seguida, selecione **Iniciar Sôm.**</span><span class="sxs-lookup"><span data-stu-id="c590b-125">On the next page, enter your Power BI user name and password and then select **Sign In**.</span></span>
+6. <span data-ttu-id="9cb65-122">Instale o espaço de trabalho fornecendo o nome do espaço de trabalho.</span><span class="sxs-lookup"><span data-stu-id="9cb65-122">Install the workspace by providing the workspace name.</span></span>
 
-6. <span data-ttu-id="c590b-126">Instale o espaço de trabalho fornecendo o nome do espaço de trabalho.</span><span class="sxs-lookup"><span data-stu-id="c590b-126">Install the workspace by providing the workspace name.</span></span>
+7. <span data-ttu-id="9cb65-123">Pode encontrar as aplicações de modelo instaladas na Secção de Aplicações.</span><span class="sxs-lookup"><span data-stu-id="9cb65-123">You can find the template apps installed under Apps Section.</span></span>
 
-7. <span data-ttu-id="c590b-127">Pode encontrar as aplicações de modelo instaladas na Secção de Aplicações.</span><span class="sxs-lookup"><span data-stu-id="c590b-127">You can find the template apps installed under Apps Section.</span></span>
+8. <span data-ttu-id="9cb65-124">Selecione **Apps** e escolha as aplicações instaladas.</span><span class="sxs-lookup"><span data-stu-id="9cb65-124">Select **Apps** and choose the installed apps.</span></span>
 
-8. <span data-ttu-id="c590b-128">Selecione **Apps** e escolha as aplicações instaladas.</span><span class="sxs-lookup"><span data-stu-id="c590b-128">Select **Apps** and choose the installed apps.</span></span>
+9. <span data-ttu-id="9cb65-125">Começa com o ecrã da tua nova aplicação aberta.</span><span class="sxs-lookup"><span data-stu-id="9cb65-125">Get Started with your new app screen opens.</span></span>
 
-9. <span data-ttu-id="c590b-129">Começa com o ecrã da tua nova aplicação aberta.</span><span class="sxs-lookup"><span data-stu-id="c590b-129">Get Started with your new app screen opens.</span></span>
+10. <span data-ttu-id="9cb65-126">Para ligar aos dados, selecione **Connect**.</span><span class="sxs-lookup"><span data-stu-id="9cb65-126">To connect to the data, select **Connect**.</span></span>
 
-10. <span data-ttu-id="c590b-130">Para ligar aos dados, selecione **Connect**.</span><span class="sxs-lookup"><span data-stu-id="c590b-130">To connect to the data, select **Connect**.</span></span>
-
-11. <span data-ttu-id="c590b-131">Na janela pop-up do **Connect to Partner Center Analytics,** verifique se o método de **Autenticação** está definido para **oAuth2** ou selecione **oAuth2** da lista se não for.</span><span class="sxs-lookup"><span data-stu-id="c590b-131">On the **Connect to Partner Center Analytics** pop-up window, verify that the **Authentication method** is set to **oAuth2** or select **oAuth2** from the list if it's not.</span></span> 
+11. <span data-ttu-id="9cb65-127">Na janela pop-up do **Connect to Partner Center Analytics,** verifique se o método de **Autenticação** está definido para **oAuth2** ou selecione **oAuth2** da lista se não for.</span><span class="sxs-lookup"><span data-stu-id="9cb65-127">On the **Connect to Partner Center Analytics** pop-up window, verify that the **Authentication method** is set to **oAuth2** or select **oAuth2** from the list if it's not.</span></span> 
 
 > [!NOTE]  
->  <span data-ttu-id="c590b-132">Esta janela pode demorar alguns minutos a aparecer.</span><span class="sxs-lookup"><span data-stu-id="c590b-132">This window may take a few minutes to appear.</span></span>
+>  <span data-ttu-id="9cb65-128">Esta janela pode demorar alguns minutos a aparecer.</span><span class="sxs-lookup"><span data-stu-id="9cb65-128">This window may take a few minutes to appear.</span></span>
 
-12. <span data-ttu-id="c590b-133">Na página partner **Center Analytics Connector,** inscreva-se com administração global, agente administrativo ou credenciais de administração de faturação para o inquilino Azure AD da sua empresa e, em seguida, selecione **'Iniciar s).'**</span><span class="sxs-lookup"><span data-stu-id="c590b-133">On the **Partner Center Analytics Connector** page, sign in with global admin, admin agent, or billing admin credentials for your company's Azure AD tenant, and then select **Sign In**.</span></span>
+12. <span data-ttu-id="9cb65-129">Na página partner **Center Analytics Connector,** inscreva-se com administração global, agente administrativo ou credenciais de administração de faturação para o inquilino Azure AD da sua empresa e, em seguida, selecione **'Iniciar s).'**</span><span class="sxs-lookup"><span data-stu-id="9cb65-129">On the **Partner Center Analytics Connector** page, sign in with global admin, admin agent, or billing admin credentials for your company's Azure AD tenant, and then select **Sign In**.</span></span>
  
-13. <span data-ttu-id="c590b-134">Quando solicitado para o acesso, **selecione Aceitar**.</span><span class="sxs-lookup"><span data-stu-id="c590b-134">When prompted for access, select **Accept**.</span></span> 
+13. <span data-ttu-id="9cb65-130">Quando solicitado para o acesso, **selecione Aceitar**.</span><span class="sxs-lookup"><span data-stu-id="9cb65-130">When prompted for access, select **Accept**.</span></span> 
 
-<span data-ttu-id="c590b-135">Uma vez que o serviço Partner Center Analytics esteja ligado ao Power BI, os dados começarão a ser carregados.</span><span class="sxs-lookup"><span data-stu-id="c590b-135">Once the Partner Center Analytics service is connected to Power BI, data will begin to load.</span></span> <span data-ttu-id="c590b-136">Dependendo da quantidade de dados, isto pode demorar até 10 minutos.</span><span class="sxs-lookup"><span data-stu-id="c590b-136">Depending on the amount of data, this can take up to 10 minutes.</span></span> 
+<span data-ttu-id="9cb65-131">Uma vez que o serviço Partner Center Analytics esteja ligado ao Power BI, os dados começarão a ser carregados.</span><span class="sxs-lookup"><span data-stu-id="9cb65-131">Once the Partner Center Analytics service is connected to Power BI, data will begin to load.</span></span> <span data-ttu-id="9cb65-132">Dependendo da quantidade de dados, isto pode demorar até 10 minutos.</span><span class="sxs-lookup"><span data-stu-id="9cb65-132">Depending on the amount of data, this can take up to 10 minutes.</span></span> 
 
-<span data-ttu-id="c590b-137">Depois de os dados terminarem o carregamento, pode começar a utilizar o painel de aplicações Partner Center Analytics e os relatórios no Power BI.</span><span class="sxs-lookup"><span data-stu-id="c590b-137">After the data finishes loading, you can start using the Partner Center Analytics app dashboard and reports in Power BI.</span></span>
+<span data-ttu-id="9cb65-133">Depois de os dados terminarem o carregamento, pode começar a utilizar o painel de aplicações Partner Center Analytics e os relatórios no Power BI.</span><span class="sxs-lookup"><span data-stu-id="9cb65-133">After the data finishes loading, you can start using the Partner Center Analytics app dashboard and reports in Power BI.</span></span>
 
-## <a name="next-steps"></a><span data-ttu-id="c590b-138">Passos seguintes</span><span class="sxs-lookup"><span data-stu-id="c590b-138">Next steps</span></span>
+## <a name="next-steps"></a><span data-ttu-id="9cb65-134">Passos seguintes</span><span class="sxs-lookup"><span data-stu-id="9cb65-134">Next steps</span></span>
 
-[<span data-ttu-id="c590b-139">Veja os seus dados de negócio com a aplicação Partner Center Analytics para Microsoft Power BI</span><span class="sxs-lookup"><span data-stu-id="c590b-139">View your business data with the Partner Center Analytics app for Microsoft Power BI</span></span>](power-bi-app-for-direct-partners-use.md)
+[<span data-ttu-id="9cb65-135">Veja os seus dados de negócio com a aplicação Partner Center Analytics para Microsoft Power BI</span><span class="sxs-lookup"><span data-stu-id="9cb65-135">View your business data with the Partner Center Analytics app for Microsoft Power BI</span></span>](power-bi-app-for-direct-partners-use.md)

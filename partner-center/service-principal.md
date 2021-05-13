@@ -9,40 +9,38 @@ author: dhirajgandhi
 ms.author: dhgandhi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6ef5373fd9a606cd25345cbe80a55f28fc1f753f
-ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
+ms.openlocfilehash: 7d12bb66574e6bcee60b2a1df1673dc9171fbee2
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "105028473"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854932"
 ---
-# <a name="add-an-azure-ad-application-service-principal-in-partner-center"></a><span data-ttu-id="cb9cd-104">Adicione uma aplicação AD AZure (principal serviço) no Partner Center</span><span class="sxs-lookup"><span data-stu-id="cb9cd-104">Add an Azure AD application (service principal) in Partner Center</span></span>
+# <a name="add-an-azure-ad-application-service-principal-in-partner-center"></a><span data-ttu-id="958c0-104">Adicione uma aplicação AD AZure (principal serviço) no Partner Center</span><span class="sxs-lookup"><span data-stu-id="958c0-104">Add an Azure AD application (service principal) in Partner Center</span></span>
 
-<span data-ttu-id="cb9cd-105">**Funções adequadas**</span><span class="sxs-lookup"><span data-stu-id="cb9cd-105">**Appropriate roles**</span></span>
+<span data-ttu-id="958c0-105">**Funções apropriadas**: Administração global</span><span class="sxs-lookup"><span data-stu-id="958c0-105">**Appropriate roles**: Global admin</span></span>
 
-- <span data-ttu-id="cb9cd-106">Administrador global</span><span class="sxs-lookup"><span data-stu-id="cb9cd-106">Global admin</span></span>
-
-<span data-ttu-id="cb9cd-107">No programa Mercado Comercial no Partner Center, pode agora adicionar uma aplicação AD AD (principal serviço) como utilizador na sua conta Partner Center.</span><span class="sxs-lookup"><span data-stu-id="cb9cd-107">In the Commercial Marketplace program in Partner Center, you are now able to add an Azure AD application (service principal) as a user in your Partner Center account.</span></span> <span data-ttu-id="cb9cd-108">(Conseguiu fazê-lo anteriormente no seu Portal de Parceiros cloud, ou CPP.</span><span class="sxs-lookup"><span data-stu-id="cb9cd-108">(You were able to do so previously in your Cloud Partner Portal, or CPP, account.</span></span> <span data-ttu-id="cb9cd-109">Agora que emigrou para o Partner Center, a conta do CPP é apenas de leitura.)</span><span class="sxs-lookup"><span data-stu-id="cb9cd-109">Now that you have migrated to Partner Center, the CPP account is read-only.)</span></span>
+<span data-ttu-id="958c0-106">No programa Mercado Comercial no Partner Center, pode agora adicionar uma aplicação AD AD (principal serviço) como utilizador na sua conta Partner Center.</span><span class="sxs-lookup"><span data-stu-id="958c0-106">In the Commercial Marketplace program in Partner Center, you are now able to add an Azure AD application (service principal) as a user in your Partner Center account.</span></span> <span data-ttu-id="958c0-107">(Conseguiu fazê-lo anteriormente no seu Portal de Parceiros cloud, ou CPP.</span><span class="sxs-lookup"><span data-stu-id="958c0-107">(You were able to do so previously in your Cloud Partner Portal, or CPP, account.</span></span> <span data-ttu-id="958c0-108">Agora que emigrou para o Partner Center, a conta do CPP é apenas de leitura.)</span><span class="sxs-lookup"><span data-stu-id="958c0-108">Now that you have migrated to Partner Center, the CPP account is read-only.)</span></span>
  
 >[!Note] 
-><span data-ttu-id="cb9cd-110">O diretor de serviço é sinónimo de aplicação Azure AD.</span><span class="sxs-lookup"><span data-stu-id="cb9cd-110">Service principal is synonymous with Azure AD application.</span></span>
+><span data-ttu-id="958c0-109">O diretor de serviço é sinónimo de aplicação Azure AD.</span><span class="sxs-lookup"><span data-stu-id="958c0-109">Service principal is synonymous with Azure AD application.</span></span>
 
-## <a name="add-an-azure-ad-application-service-principal"></a><span data-ttu-id="cb9cd-111">Adicione uma aplicação AD AZure (principal serviço)</span><span class="sxs-lookup"><span data-stu-id="cb9cd-111">Add an Azure AD application (service principal)</span></span>
+## <a name="add-an-azure-ad-application-service-principal"></a><span data-ttu-id="958c0-110">Adicione uma aplicação AD AZure (principal serviço)</span><span class="sxs-lookup"><span data-stu-id="958c0-110">Add an Azure AD application (service principal)</span></span>
 
-1. <span data-ttu-id="cb9cd-112">A partir do painel 'Partner Center', selecione **Definições** e, em seguida, selecione **as definições do Programador**.</span><span class="sxs-lookup"><span data-stu-id="cb9cd-112">From the Partner Center dashboard, select **Settings** and then select **Developer settings**.</span></span>
+1. <span data-ttu-id="958c0-111">A partir do painel 'Partner Center', selecione **Definições** e, em seguida, selecione **as definições do Programador**.</span><span class="sxs-lookup"><span data-stu-id="958c0-111">From the Partner Center dashboard, select **Settings** and then select **Developer settings**.</span></span>
 
-2. <span data-ttu-id="cb9cd-113">Selecione **Utilizadores** e, em seguida, **selecione Adicionar Aplicações AD Azure**.</span><span class="sxs-lookup"><span data-stu-id="cb9cd-113">Select **Users** and then select **Add Azure AD Applications**.</span></span>
+2. <span data-ttu-id="958c0-112">Selecione **Utilizadores** e, em seguida, **selecione Adicionar Aplicações AD Azure**.</span><span class="sxs-lookup"><span data-stu-id="958c0-112">Select **Users** and then select **Add Azure AD Applications**.</span></span>
 
-3. <span data-ttu-id="cb9cd-114">Selecione uma aplicação AD Azure existente ou crie uma nova.</span><span class="sxs-lookup"><span data-stu-id="cb9cd-114">Select an existing Azure AD application or create a new one.</span></span>
+3. <span data-ttu-id="958c0-113">Selecione uma aplicação AD Azure existente ou crie uma nova.</span><span class="sxs-lookup"><span data-stu-id="958c0-113">Select an existing Azure AD application or create a new one.</span></span>
 
-4. <span data-ttu-id="cb9cd-115">Se criar uma nova aplicação AD Azure, inclua as seguintes informações:</span><span class="sxs-lookup"><span data-stu-id="cb9cd-115">If you create a new Azure AD Application, include the following information:</span></span>  
+4. <span data-ttu-id="958c0-114">Se criar uma nova aplicação AD Azure, inclua as seguintes informações:</span><span class="sxs-lookup"><span data-stu-id="958c0-114">If you create a new Azure AD Application, include the following information:</span></span>  
 
-   - <span data-ttu-id="cb9cd-116">**URL de resposta**: O URL onde os utilizadores podem iniciar sação para utilizar a sua aplicação AD Azure.</span><span class="sxs-lookup"><span data-stu-id="cb9cd-116">**Reply URL**: The URL where users can sign in to use your Azure AD application.</span></span>
+   - <span data-ttu-id="958c0-115">**URL de resposta**: O URL onde os utilizadores podem iniciar sação para utilizar a sua aplicação AD Azure.</span><span class="sxs-lookup"><span data-stu-id="958c0-115">**Reply URL**: The URL where users can sign in to use your Azure AD application.</span></span>
 
-   - <span data-ttu-id="cb9cd-117">**App ID URI**: Um identificador lógico para a aplicação Azure AD que é apresentado quando envia um único pedido de inscrição para Azure AD.</span><span class="sxs-lookup"><span data-stu-id="cb9cd-117">**App ID URI**: A logical identifier for the Azure AD application that is presented when it sends a single sign-on request to Azure AD.</span></span>
+   - <span data-ttu-id="958c0-116">**App ID URI**: Um identificador lógico para a aplicação Azure AD que é apresentado quando envia um único pedido de inscrição para Azure AD.</span><span class="sxs-lookup"><span data-stu-id="958c0-116">**App ID URI**: A logical identifier for the Azure AD application that is presented when it sends a single sign-on request to Azure AD.</span></span>
 
-   - <span data-ttu-id="cb9cd-118">**Funções de segurança**: O **Gestor** de Funções (o mesmo que o papel de 'Proprietário' no CPP) e o **Desenvolvedor** (o mesmo papel de 'Contribuinte' no CPP) aplicam-se ao programa de Marketplace Comercial no Partner Center, podendo ser associados a esta Aplicação AD Azure.</span><span class="sxs-lookup"><span data-stu-id="cb9cd-118">**Security roles**: The roles **Manager** (the same as  ‘Owner’ role in CPP) and **Developer** (the same as ‘Contributor’ role in CPP) apply to the Commercial Marketplace program in Partner Center, and they can be associated with this Azure AD Application.</span></span>  
+   - <span data-ttu-id="958c0-117">**Funções de segurança**: O **Gestor** de Funções (o mesmo que o papel de 'Proprietário' no CPP) e o **Desenvolvedor** (o mesmo papel de 'Contribuinte' no CPP) aplicam-se ao programa de Marketplace Comercial no Partner Center, podendo ser associados a esta Aplicação AD Azure.</span><span class="sxs-lookup"><span data-stu-id="958c0-117">**Security roles**: The roles **Manager** (the same as  ‘Owner’ role in CPP) and **Developer** (the same as ‘Contributor’ role in CPP) apply to the Commercial Marketplace program in Partner Center, and they can be associated with this Azure AD Application.</span></span>  
 
-## <a name="next-steps"></a><span data-ttu-id="cb9cd-119">Passos seguintes</span><span class="sxs-lookup"><span data-stu-id="cb9cd-119">Next steps</span></span>
+## <a name="next-steps"></a><span data-ttu-id="958c0-118">Passos seguintes</span><span class="sxs-lookup"><span data-stu-id="958c0-118">Next steps</span></span>
 
-- [<span data-ttu-id="cb9cd-120">Visão geral do mercado comercial no Partner Center</span><span class="sxs-lookup"><span data-stu-id="cb9cd-120">Overview of the commercial marketplace in Partner Center</span></span>](csp-commercial-marketplace-overview.md)
+- [<span data-ttu-id="958c0-119">Visão geral do mercado comercial no Partner Center</span><span class="sxs-lookup"><span data-stu-id="958c0-119">Overview of the commercial marketplace in Partner Center</span></span>](csp-commercial-marketplace-overview.md)
