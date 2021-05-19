@@ -9,22 +9,16 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 022e7aabd0d850660f8236dce9a4fab9069af01b
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: ba422a2feae2affb9c2b60ad345c4d6bb0d525c7
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106087132"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110145869"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>Como o crédito de parceiro ganho é calculado e pago
 
-**Funções adequadas**
-
-- Administrador global
-- Administração de gestão de utilizadores
-- Agente administrativo
-- Administrador de faturação
-- Agente comercial
+**Funções adequadas**: Administração global | Administração de administração de utilizadores | Agente administrativo | Administrador de faturação | Agente comercial
 
 O parceiro ganhou crédito pelos serviços geridos (PEC) reconhece e recompensa parceiros que detêm o controlo operacional de TI 24x7 e a gestão de partes de, ou todo, ambiente Azure dos seus clientes. Por padrão, na CSP, aos parceiros são concedidos os direitos de acesso necessários à subscrição do cliente, permitindo-lhes realizar 24 X 7 gestão operacional e controlo dos recursos na subscrição. Outras formas de os clientes poderem ter acesso a parceiros transaccionantes são descritas na secção seguinte. O valor da fatura mensal é o líquido do sócio que ganhou crédito. Os parceiros podem ver os detalhes do PEC no seu ficheiro mensal de reconhecimento. Para formas adicionais de acesso a um cliente, leia [Gerir subscrições e recursos ao abrigo do plano Azure.](azure-plan-manage.md)
 

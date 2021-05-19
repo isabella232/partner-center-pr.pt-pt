@@ -8,20 +8,16 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: 30639725c0a852046251e83c3791f56d788931c1
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 8f1c087911e6dd7e58182c99e2b97b7a6b2246d8
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179218"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152176"
 ---
 # <a name="issues-with-claimed-partner-of-record-cpor-customer-associations"></a>Problemas com associações de clientes do Parceiro Reclamado da Record (CPOR)
 
-**Funções adequadas**
-
-- Administrador de faturação
-- Administrador global
-- Administradores de incentivos
+**Funções apropriadas**: Administrador de Faturação | Administração global | Administradores de incentivos
 
 O conteúdo abaixo irá ajudá-lo a resolver problemas que podem surgir quando trabalha com associações de clientes.
 

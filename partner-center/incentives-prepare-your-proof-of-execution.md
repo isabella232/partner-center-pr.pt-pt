@@ -8,18 +8,16 @@ ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: d0e5dca008f73a13fb25e9322c492a053037e633
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: a81962de16b56329167338012cc66e160fffafe8
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179450"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151887"
 ---
 # <a name="create-and-submit-documents-for-your-incentives-proof-of-execution-poe"></a>Criar e submeter documentos para os seus incentivos comprovativo de execução (PoE)
 
-**Funções adequadas**
-
-- Administradores de incentivos
+**Funções adequadas**: Administradores de incentivos
 
 Antes de ser pago pelos seus incentivos, deve apresentar uma prova detalhada de execução (PoE). Este artigo guia-o através do processo de criação de uma prova eficaz de execução.
 

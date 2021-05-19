@@ -9,24 +9,18 @@ author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 931b169b3b2794f6a83a14007a50184fa6676102
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: b41d3ee33b789c8f839ff1b3b5f5d8fd27c23f02
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441800"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151156"
 ---
 # <a name="multi-partner-support-for-customers-who-want-to-work-with-more-than-one-partner"></a>Apoio multi-parceiro para clientes que querem trabalhar com mais de um parceiro
 
-**Aplica-se a**
+**Aplica-se a**: Partner Center | Centro de Parceiros para Microsoft Cloud para governo dos EUA
 
-- Centro de Parceiros do Microsoft Cloud for US Government
-
-**Funções adequadas**
-
-- Administrador global
-- Administração de gestão de utilizadores
-- Agente comercial
+**Funções adequadas**: Administração global | Administração de administração de utilizadores | Agente comercial
 
 A funcionalidade multi-parceira do Partner Center suporta cenários quando um cliente quer trabalhar com mais do que um parceiro. Por exemplo, um cliente pode querer contratar um parceiro para a sua experiência no Office 365, mas contratar um parceiro diferente especializado na Microsoft Azure.
 

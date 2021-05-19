@@ -8,19 +8,16 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 08/10/2020
-ms.openlocfilehash: 1b595afdba9ab9192c859c00fc35757ea2e24244
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 53ae5c3cf47ab74ad7dc61777ce512b37f4269fa
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179128"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152040"
 ---
 # <a name="use-these-resources-to-help-you-get-started-with-incentives"></a>Use estes recursos para ajudá-lo a começar com incentivos
 
-**Funções adequadas**
-
-- Administradores de incentivos
-- Utilizador de incentivos
+**Funções adequadas**: Incentivos administrativos | Utilizador de incentivos
 
 Este artigo oferece uma introdução rápida aos programas de incentivos da Microsoft e descreve alguns recursos de incentivos para ajudá-lo a começar.
 

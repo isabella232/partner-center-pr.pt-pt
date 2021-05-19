@@ -9,18 +9,16 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8ba08d97f1d360eae5af1941ed36753addd24939
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 152daadde25a9325937797f7a3daa90dfb59a9b4
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441426"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150986"
 ---
 # <a name="add-multiple-users-to-a-customer-account-by-creating-a-csv-file"></a>Adicionar vários utilizadores a uma conta de cliente criando um ficheiro .csv
 
-**Funções adequadas**
-
-- Administrador global
+**Funções apropriadas**: Administração global
 
 Adicione vários utilizadores à conta de um cliente de uma só vez, enviando um ficheiro de dados no formato de ficheiro de valor separado em vírgula (.csv) para o Centro de Parceiros. Pode descarregar um ficheiro de dados de amostra do Centro de Parceiros e depois editá-lo para a sua utilização, ou pode criar um novo ficheiro de dados utilizando o modelo de dados definido abaixo.
 

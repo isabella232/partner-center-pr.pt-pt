@@ -8,18 +8,16 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: c6ff8915384f8c7ab98fa058f2e45e3d0b4f7214
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 7b67564fbf469ac23ad514d96c3ec7b27bb3a5e6
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179518"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151955"
 ---
 # <a name="troubleshooting-missing-payments-incorrect-earnings-and-other-issues"></a>Resolução de problemas em falta de pagamentos, ganhos incorretos e outras questões
 
-**Funções adequadas**
-
-- Administradores de incentivos
+**Funções adequadas**: Administradores de incentivos
 
 Este artigo irá ajudá-lo a resolver quaisquer problemas de ganhos ou pagamentos no seu programa de incentivos. Os assuntos abrangidos incluem o tempo de pagamento, a verificação da elegibilidade dos seus ganhos e a importância de configurar corretamente os seus perfis de pagamento e impostos.
 

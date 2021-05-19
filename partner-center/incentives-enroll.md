@@ -8,18 +8,16 @@ ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: c4e24c22790edddef02e7936eaef9ed788489a37
-ms.sourcegitcommit: 9f6be9bc8d9a065422d1ec8388bd770eb6cd9f33
+ms.openlocfilehash: 670fae58a9a0e25127eb746f38063ea300d5ee2f
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/16/2021
-ms.locfileid: "107528542"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152091"
 ---
 # <a name="enrollment-and-user-management-in-the-incentives-program"></a>Inscrição e gestão de utilizadores no programa de incentivos
 
-**Funções adequadas**
-
-- Administradores de incentivos
+**Funções adequadas**: Administradores de incentivos
 
 >[!NOTE]
 >Antes de se inscrever no programa de incentivos, deve ter concluído o Centro de Adesão de Parceiros à [migração](prepare-pmc-pc-migration.md)do Partner Center.

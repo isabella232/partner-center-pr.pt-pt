@@ -9,20 +9,16 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3572056d38966427f8970cf48268ac21a261b505
-ms.sourcegitcommit: 64243caed029ffe40e2bbc369f4ee96f4f0ca26f
+ms.openlocfilehash: 8fc82348ed59dff14b4c98272fb5b77d488ccde0
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/18/2021
-ms.locfileid: "100645899"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151496"
 ---
 # <a name="how-indirect-providers-can-help-their-indirect-resellers-accept-the-microsoft-partner-agreement-mpa"></a>Como os fornecedores indiretos podem ajudar os seus revendedores indiretos a aceitar o Acordo de Parceiros da Microsoft (MPA)
 
-**Funções adequadas**
-
-- Administrador global
-- Agente administrativo
-- Agente comercial
+**Funções adequadas**: Administração global | Agente administrativo | Agente comercial
 
 As seguintes perguntas e respostas abordam potenciais problemas e soluções para ajudar os revendedores indiretos a entender como e porquê aceitar a MPA. 
 
@@ -50,7 +46,7 @@ Isto aplica-se também aos parceiros "Advisor" que tenham vindo a transacionar n
 
 **Resposta** Precisa de pelo menos uma assinatura MPA por região de CSP contra uma identificação de MPN. Por exemplo, se tiver um ID MPN em França e tiver inscrito no programa CSP Indirect Reseller em França e aceitar a MPA, está em conformidade com toda a [região da CSP Europa](regional-authorization-overview.md#europe-region-and-market) e não tem de aceitar MPA noutros países europeus. Pode negociar com qualquer fornecedor indireto em toda a região europeia da CSP. 
 
-#### <a name="i-am-a-direct-bill-partner-in-france-and-also-transact-with-an-indirect-provider-in-italy-do-i-need-to-accept-two-mpas--one-as-direct-bill-and-one-as-indirect-reseller-"></a>Sou sócio direto em França e também transaciono com um fornecedor indireto em Itália, preciso de aceitar dois MPAs - um como fatura direta e outro como revendedor indireto ?
+#### <a name="i-am-a-direct-bill-partner-in-france-and-also-transact-with-an-indirect-provider-in-italy-do-i-need-to-accept-two-mpas-one-as-direct-bill-and-one-as-indirect-reseller-"></a>Sou um parceiro de faturação direta em França e também transaciono com um fornecedor indireto em Itália, preciso de aceitar dois PMA, um como fatura direta e outro como revendedor indireto?
 
 **Resposta**  Se já aceitou o projeto de lei direto MPA na região da CSP, não tem de aceitar o revendedor indireto CSP MPA. No entanto, tem de se certificar de que a sua conta MPN está no Partner Center e que o ID MPN partilhado com o seu fornecedor indireto está no Partner Center. 
 
@@ -167,7 +163,7 @@ Todas as três contas CSP devem ser associadas a contas de localização de ID M
 
 ## <a name="question-about-migrating-your-mpn-account-from-pmc-to-partner-center"></a>Pergunta sobre migrar a sua conta MPN de PMC para Partner Center
 
-#### <a name="i-want-to-migrate-my-mpn-account-from-partner-membership-center-to-partner-center-how-can-i-do-it-i-do-not-know-who-was-my-mpn-admin-in-pmc--how-can-i-migrate-"></a>Quero migrar a minha conta MPN do Centro de Sócios para o Centro de Parceiros. Como posso fazê-lo? Não sei quem foi o meu MPN Admin no PMC, como posso migrar? 
+#### <a name="i-want-to-migrate-my-mpn-account-from-partner-membership-center-to-partner-center-how-can-i-do-it-i-do-not-know-who-was-my-mpn-admin-in-pmc-how-can-i-migrate"></a>Quero migrar a minha conta MPN do Centro de Sócios para o Centro de Parceiros. Como posso fazê-lo? Não sei quem foi o meu mpn administrador na PMC. Como posso migrar? 
 
 **Resposta** Descarregue o guia passo a passo sobre como [migrar o MPN de PMC para PC](https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx).
 
@@ -210,7 +206,7 @@ Se não conseguir resolver o problema por conta própria, levante um bilhete de 
 
 ## <a name="questions-about-working-in-partner-center"></a>Perguntas sobre trabalhar no Partner Center
 
-#### <a name="i-dont-know-who-the-partner-center-admin-is-who-can-accept-mpa-"></a>Não sei quem é o administrador do Centro de Parceiros que pode aceitar a MPA?
+#### <a name="i-dont-know-who-the-partner-center-admin-is-who-can-accept-mpa"></a>Não sei quem é o administrador do Centro de Parceiros que pode aceitar a MPA?
 
 **Resposta** O administrador global da sua empresa deve aceitar a MPA. Para descobrir quem na sua empresa é atribuído o papel de administrador global, vá para a **gestão do Utilizador.** Na caixa de Pesquisa, escreva administração global. Os nomes das pessoas que recebem o papel de administrador global serão puxados para cima. Qualquer uma dessas pessoas pode aceitar a MPA. Se a sua empresa não tiver um administrador global, leia [o que fazer se a sua empresa precisar de um administrador global.](no-mpn-admin.md)
 

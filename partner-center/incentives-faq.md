@@ -8,19 +8,16 @@ ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 1c3cafa6b5ea280a924a0142da78483d54a18ab9
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: a917f3648447ac273fae839d32a4b4d3ce80ae35
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179501"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152023"
 ---
 # <a name="frequently-asked-questions-on-incentives"></a>Perguntas frequentes sobre Incentivos
 
-**Funções adequadas**
-
-- Administradores de incentivos
-- Utilizador de incentivos
+**Funções adequadas**: Incentivos administrativos | Utilizador de incentivos
 
 ## <a name="do-i-need-to-be-the-global-admin-to-enroll-in-incentives"></a>Preciso de ser o administrador global para me inscrever em incentivos?
 

@@ -8,19 +8,16 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 5b9ff5ad5c2d20b25175830188981a18da9bc29a
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 14706e44201159213dc8fff671a8d47c52bd89c1
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179433"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151904"
 ---
 # <a name="view-available-earned-claimed-and-remaining-co-op-funds"></a>Ver disponíveis ganhos, reclamados e restantes fundos cooperativos
 
-**Funções adequadas**
-
-- Administradores de incentivos
-- Utilizador de incentivos
+**Funções adequadas**: Incentivos administrativos | Utilizador de incentivos
 
 Pode rastrear, monitorizar e conciliar os seus fundos de cooperação de incentivo no [painel de instrumentos](https://partner.microsoft.com/dashboard/) do Partner Center (requere a inscrição). Utilize o seguinte procedimento para visualizar estes fundos.
 

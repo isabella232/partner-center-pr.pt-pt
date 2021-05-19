@@ -9,18 +9,16 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 40b2867695a7692cb863a00062101c2b5521c657
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 72be76473dcb7afd3f8d6ae60d79599b10c025fc
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132405"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152261"
 ---
 # <a name="how-to-create-a-partner-logo-certified-letter-or-award-using-logo-builder"></a>Como criar um logotipo de parceiro, carta certificada ou prémio usando Logo Builder
 
-**Funções adequadas**
-
-- Todos os parceiros interessados em aprender mais sobre o Logo Builder
+**Funções apropriadas**: Todos os parceiros interessados em aprender mais sobre o Logo Builder
 
 O valor de alcançar uma competência de prata ou ouro é a oportunidade para se diferenciar com os clientes. Um logótipo que pode utilizar nos seus materiais de vendas e marketing e o seu perfil de negócio no Partner Center para mostrar a competência ou competências que obteve está incluído nos seus benefícios de competência. 
 

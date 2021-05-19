@@ -8,18 +8,16 @@ description: Como parceiro da Microsoft, pode ter dúvidas sobre como ajudar os 
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
-ms.openlocfilehash: df7ae61a88852d6ef2e4c1cb210b689a20235d0c
-ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
+ms.openlocfilehash: be12ede0c725a859892985e4cfb9032d7fb2abe8
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108172341"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150952"
 ---
 # <a name="find-a-partner-or-solution-provider-to-answer-questions-about-programs-licensing-or-customer-deals"></a>Encontre um parceiro ou fornecedor de soluções para responder a questões sobre programas, licenciamento ou ofertas de clientes 
 
-**Funções adequadas**
-
-- Todos os parceiros da Microsoft
+**Funções apropriadas**: Todos os parceiros da Microsoft
 
 Este artigo diz aos parceiros da Microsoft como encontrar outros parceiros que os possam ajudar e os seus clientes a terem sucesso com produtos e serviços da Microsoft.
 

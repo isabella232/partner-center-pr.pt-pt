@@ -8,18 +8,16 @@ description: Use partner Center para transar negócios com a Microsoft e os seus
 author: laurabrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: 992e02e2ae27e4cf03071e114de22f42f11f7601
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 7d476404bbfdb5814f325b7fdafd34d44780fb66
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132252"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151122"
 ---
 # <a name="what-is-partner-center"></a>O que é o Centro de Parceiros?
 
-**Funções adequadas**
-
-- Todos os parceiros interessados no Partner Center
+**Funções adequadas**: Todos os parceiros interessados no Partner Center
 
 [O Partner Center](https://partner.microsoft.com/dashboard/home) dinamiza vários processos de negócio para facilitar aos parceiros da Microsoft a gestão da sua relação com a Microsoft e os seus clientes. O Partner Center permite-lhe um fácil acesso às ferramentas necessárias para fazer o trabalho. Use o Centro de Parceiros para:
 

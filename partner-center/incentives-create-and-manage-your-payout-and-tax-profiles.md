@@ -8,20 +8,16 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 4a931f1d971ea3e3bc288f70e85a6600596761cc
-ms.sourcegitcommit: 9f6be9bc8d9a065422d1ec8388bd770eb6cd9f33
+ms.openlocfilehash: b167b0e65f3339a29f0227f6135ed70931300d8e
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/16/2021
-ms.locfileid: "107528553"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152159"
 ---
 # <a name="create-and-manage-incentives-payout-and-tax-profiles-in-partner-center"></a>Criar e gerir incentivos no pagamento e perfis fiscais no Partner Center
 
-**Funções adequadas**
-
-- Administradores de incentivos
-- Administrador de conta
-- Administrador global
+**Funções adequadas**: Incentivos administrativos | Administração de contas | Administração global
 
 Para receber o pagamento pelos seus programas de incentivos para uma determinada localização MPN, tem de completar a inscrição ao associar um perfil de pagamento e perfil fiscal válido ao programa e à localização MPN. A Microsoft utilizará este perfil de pagamento e perfil fiscal para emitir os pagamentos. Poderá ser permitida a utilização de transferências bancárias eletrónicas ou de notas de crédito para efeitos de pagamento, dependendo das regras do programa de incentivos. 
 
@@ -86,7 +82,7 @@ As secções abaixo irão acompanhar-te através do processo de criação e gest
     >[!NOTE]
     >A disponibilidade do método de pagamento depende das regras do programa de incentivos.
 
-    - Se a sua localização MPN ID for paga por uma subsidiária local da Microsoft por um determinado programa de incentivos e permitir a nota de crédito LRD (distribuidor de risco limitado) como método de pagamento, então o seu perfil de pagamento será pré-povoado com o método de pagamento LRD Credit Note. Na linha de método de pagamento de nota de crédito LRD para o respetivo programa de incentivos e localização MPN ID verá **Confirmado** ou **Verificação Necessário** como o estado na secção de perfil de pagamento.
+    - Se a sua localização MPN ID for paga por uma subsidiária local da Microsoft por um determinado programa de incentivos e permitir a nota de crédito LRD (distribuidor de risco limitado) como método de pagamento, então o seu perfil de pagamento será pré-povoado com o método de pagamento LRD Credit Note. Na linha de método de pagamento de nota de crédito LRD para o respetivo programa de incentivos e localização MPN ID, verá **Confirmado** ou **Verificação Necessário** como o estado na secção de perfil de pagamento.
     
        **Selecione Verificação necessária** para confirmar e verificar os detalhes de identificação do inquilino CSP que estão associados à localização MPN e método de pagamento para receber o pagamento da nota de crédito. Na caixa de diálogo Detalhes de **Nota de Crédito,** reveja e verifique se o ID do Inquilino CSP e os dados fornecidos estão corretos. Se lhe for apresentado mais do que um ID de inquilino, selecione cuidadosamente o ID do inquilino do CSP no qual deseja receber pagamentos. Em seguida, **selecione Confirme** para reconhecer que os detalhes da sua empresa estão corretos, e que o pagamento de incentivo deve ser feito para o ID do inquilino CSP que você selecionou.
  
@@ -94,7 +90,7 @@ As secções abaixo irão acompanhar-te através do processo de criação e gest
    
       Nos países que exigem explicitamente aos parceiros o pedido de aplicação de uma isenção fiscal, haverá a opção de aplicar a isenção fiscal junto ao perfil fiscal na secção de perfil fiscal do programa de incentivos e localização MPN. A verificação desta caixa aplicará benefícios de isenção fiscal à sua nota de crédito de incentivo. 
    
-      Atualmente, o método de pagamento LRD Credit Note está disponível apenas para parceiros austrália, Nova Zelândia e Canadá para o programa de incentivo ao comércio microsoft. Se você é um parceiro de conta direta ou fornecedor indireto nestes três países inscritos para o programa MCI e você não vê a nota de crédito LRD como o método de pagamento disponível, então confirme que o seu ID do inquilino está associado com a conta de localização mpn do parceiro relevante. Para mais informações sobre esta [leitura, leia como atualizar o seu perfil de organização.](update-your-partner-profile.md)
+      Atualmente, o método de pagamento LRD Credit Note está disponível apenas para parceiros austrália, Nova Zelândia e Canadá para o programa de incentivo ao comércio microsoft. Se você é um parceiro de conta direta ou fornecedor indireto nestes três países inscritos para o programa MCI e você não vê a nota de crédito LRD como o método de pagamento disponível, então confirme que o seu ID do inquilino está associado com a conta de localização mpn do parceiro relevante. Para mais informações sobre isto, leia [como atualizar o seu perfil de organização.](update-your-partner-profile.md)
 
     
 5. Selecione a **Moeda**.
@@ -103,7 +99,7 @@ As secções abaixo irão acompanhar-te através do processo de criação e gest
 
 ## <a name="set-up-a-default-bank-profile"></a>Configurar um perfil bancário predefinido
 
-Pode configurar perfis bancários predefinidos e atribuí-los a localizações mpn. Estes perfis predefinidos serão utilizados pela Microsoft para posteriores inscrições para essa localização MPN. 
+Pode configurar perfis bancários predefinidos e atribuí-los a localizações de MPN. Estes perfis predefinidos serão utilizados pela Microsoft para posteriores inscrições para essa localização MPN. 
 
 1. Inscreva-se no [painel de instrumentos Partner Center](https://partner.microsoft.com/dashboard/)e, em seguida, selecione o ícone de engrenagem para abrir o menu **Definições.**   
 
@@ -111,7 +107,7 @@ Pode configurar perfis bancários predefinidos e atribuí-los a localizações m
 
 3. **Selecione Gerir os perfis predefinidos** na secção perfis de **pagamento.** 
 
-4. Para criar um perfil bancário predefinido **selecione Adicione um perfil bancário predefinido**. 
+4. Para criar um perfil bancário predefinido, **selecione Adicionar um perfil bancário predefinido**. 
 
 5. Selecione um perfil bancário da lista de perfis bancários disponíveis da sua empresa, selecione a moeda a utilizar com este perfil bancário e, em seguida, selecione a lista de localizações mpn para as quais pretende que este perfil predefinido se aplique.
 

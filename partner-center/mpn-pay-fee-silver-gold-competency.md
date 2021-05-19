@@ -8,19 +8,16 @@ ms.subservice: partnercenter-mpn
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: b8e7d7e7bdd5cb8bc9b90b3461528859eb801d0d
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: b6dab5fb57d26c00928441d7962511e6530fa3b1
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132490"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152329"
 ---
 # <a name="how-to-pay-the-fee-associated-with-a-silver-or-gold-competency"></a>Como pagar a taxa associada a uma competência de prata ou ouro
 
-**Funções adequadas**
-
-- Administrador sócio da MPN
-- Administrador de conta
+**Funções adequadas**: administrador de parceiros da MPN | Administrador de conta
 
 Este artigo descreve como e quando pagar a taxa associada à obtenção de uma competência de prata ou ouro da Microsoft Partner Network. O artigo também descreve como alterar o seu método de pagamento preferido, como cancelar uma encomenda, e como receber um desconto de 25% quando passar de uma competência de prata para ouro.
 

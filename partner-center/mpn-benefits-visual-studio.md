@@ -9,19 +9,16 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b64c15fd978ecf8d81d66a7814db74c6fd78824a
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 24419f07084cab4899f1dac81140b5fea5f25b6b
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101758902"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152502"
 ---
 # <a name="explore-the-visual-studio-benefits-area-in-partner-center"></a>Explore a área de benefícios do Estúdio Visual no Partner Center
 
-**Funções adequadas**
-
-- Administrador global
-- Administrador sócio da MPN
+**Funções adequadas**: Administração global | Administrador sócio da MPN
 
 ## <a name="overview"></a>Descrição Geral
 

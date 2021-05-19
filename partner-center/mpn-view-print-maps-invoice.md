@@ -9,22 +9,16 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b61fd5c3c68b3bbd9396cf55a53c22b85523d976
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: c3ea3fae2ae8052b517bfb80e16614c4708a253b
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132796"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151292"
 ---
 # <a name="invoices-and-taxes-in-the-microsoft-partner-network"></a>Faturas e impostos na Microsoft Partner Network
 
-**Funções adequadas**
-
-- Administrador global
-- Administração de gestão de utilizadores
-- Administrador sócio da MPN
-- Administrador de faturação
-- Agente administrativo
+**Funções adequadas**: Administração global | Administração de administração de utilizadores | | de administrador sócio da MPN Administrador de faturação | Agente administrativo
 
 ## <a name="view-or-download-your-mpn-membership-invoice"></a>Ver ou baixar a fatura de adesão ao MPN
 

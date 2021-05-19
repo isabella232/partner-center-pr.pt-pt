@@ -9,19 +9,16 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2ad3e686c90c286465911e8d01d12686d2c6ad15
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 7e48e137de3fc9b3084729e5095223229b87c289
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132983"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152397"
 ---
 # <a name="locate-your-microsoft-partner-network-benefits"></a>Localize os seus benefícios do Microsoft Partner Network 
 
-**Funções adequadas**
-
-- Administrador sócio da MPN
-- Administrador global
+**Funções adequadas**: administrador de parceiros da MPN | Administração global
 
 Este artigo diz aos membros da Microsoft Partner Network (MPN) como encontrar os seus benefícios MPN no painel de instrumentos do Partner Center. Estas informações incluem como encontrar os IDs específicos de suporte ao produto da sua empresa, tais como ID do Contrato e ID de acesso, associados a benefícios técnicos.
 
@@ -36,13 +33,13 @@ Como membro da Microsoft Partner Network, a sua empresa tem acesso a muitos bene
 
 2. A partir de Benefícios, pode rever, ativar, classificar ou baixar os benefícios de interesse pertencentes a uma das categorias disponíveis para si. Para tal, selecione a área de benefícios que pretende saber mais sobre:
 
-   - Produtos Azure & Cloud
-   - Produtos de software
-   - Subscrições do Visual Studio
-   - Benefícios técnicos
-   - Ir ao mercado
-   - Recompensas do mercado
-   - Construtor de logotipo
+   - [Produtos Azure & Cloud](mpn-benefits-azure-cloud.md)
+   - [Produtos de software](mpn-benefits-software.md)
+   - [Assinaturas do Estúdio Visual](mpn-benefits-visual-studio.md)
+   - Benefícios técnicos - [Benefícios técnicos de suporte (ID de acesso e ID do contrato)](mpn-benefits-technical-support.md) ou [Pré-Venda Técnica e Serviços de Implantação (TPD)](technical-benefits.md)
+   - [Ir ao mercado](mpn-learn-about-go-to-market-benefits.md)
+   - [Recompensas do mercado](marketplace-rewards.md)
+   - [Construtor de logotipo](mpn-logo-builder.md)
 
 3. Ao expandir (+) um benefício, encontrará informações adicionais para ajudá-lo a ativar o benefício específico.
 
@@ -50,30 +47,6 @@ Como membro da Microsoft Partner Network, a sua empresa tem acesso a muitos bene
 
    > [!NOTE]
    > Para ativar benefícios, deve ser-lhe atribuído o papel de administrador global ou de administrador parceiro MPN no Partner Center. Todos os outros utilizadores de uma empresa, no entanto, devem ser capazes de ver detalhes de benefícios no Partner Center, como iDs de suporte ao produto. Para obter mais informações sobre as funções do Partner Center, consulte [atribuir as funções e permissões do utilizador no Partner Center](permissions-overview.md).
-
-## <a name="find-access-id-and-contract-id-for-technical-benefits"></a>Encontre iD de acesso e ID do contrato para benefícios técnicos
-
-Depois de seguir os passos acima e ativar certos benefícios (como benefícios técnicos), outros detalhes importantes podem aparecer na página de benefícios técnicos.
-
-Para benefícios técnicos, verá iDs de suporte ao produto da Microsoft, tais como **Access ID** e **Contract ID** no Partner Center.
-
->[!NOTE]
-> Se a sua adesão à Microsoft Partner Network ainda estiver no Partner Membership Center (PMC) e ainda não tiver sido migrada para o Partner Center, terá de contactar a [Partner Frontline](partner-membership-center-tech-benefits-activate.md) para ativar benefícios técnicos ou receber o seu suporte Access ID e Contract ID.
-
- Siga estes passos para ver esta informação no Centro de Parceiros:
-
-1. Inicie sessão no [dashboard](https://partner.microsoft.com/dashboard/home) do Centro de Parceiros
-
-2. Selecione **MPN**, em **seguida, Benefícios**, seguido de **benefícios técnicos**.
-
-3. Selecione um benefício da lista. Expanda o benefício para ver mais detalhes. 
-
-   Deverá ver o **ID** do Contrato de Apoio ao Produto específico e **o ID de acesso** atribuídos a este benefício.  
-
-   :::image type="content" source="images/benefits/technical-benefits-show-contract-id-access-id.png" alt-text="Amostra Gold core benefício técnico de apoio a benefícios técnicos mostrando IDs de suporte ao produto da Microsoft como ID de contrato e ID de acesso":::
-
-   > [!NOTE]
-   > Acompanhe estas identificações de suporte. Certos sistemas podem pedir-lhes a primeira vez que você (ou um dos utilizadores da sua empresa) regista um pedido de suporte associado a um benefício técnico específico. É provável que todos os utilizadores da sua empresa utilizem o mesmo ID de acesso e ID do Contrato.
 
 ## <a name="specific-benefit-offers"></a>Ofertas específicas de benefícios
 

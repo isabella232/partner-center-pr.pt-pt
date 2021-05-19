@@ -9,18 +9,16 @@ author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f2bf6823fdd976632fb8ad9c8f11ce99835d76a5
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 174c56ce9bb5fb3d9d92c1ef18af73479619f4bb
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106087081"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110145886"
 ---
 # <a name="common-questions-about-partner-security-requirements"></a>Questões comuns sobre requisitos de segurança dos parceiros
 
-**Funções adequadas**
-
-- Todos os utilizadores do Partner Center
+**Funções apropriadas**: Todos os utilizadores do Partner Center
 
 Este artigo responde a algumas perguntas comuns sobre os requisitos de segurança dos [parceiros.](partner-security-requirements.md)
 

@@ -9,21 +9,16 @@ author: Brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 363c97b8c2b62e8d6b62cbe3b2807fb3c0ef3e38
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 5ba6992eff64031aed0dafeb5a5010983396ab63
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132745"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151649"
 ---
 # <a name="migrate-dynamics-365-and-customer-engagement-plan-from-basic-qualified-offers-to-newer-versions"></a>Migrate Dynamics 365 and Customer Engagement Plan from Basic (qualified offers) to newer versions (Migrar o Dynamics 365 e o Customer Engagement Plan da versão Básica (ofertas qualificadas) para versões mais recentes)
 
-**Funções adequadas**
-
-- Administrador global
-- Administração de gestão de utilizadores
-- Agente administrativo
-- Agente comercial
+**Funções adequadas**: Administração global | Administração de administração de utilizadores | Agente administrativo | Agente comercial
 
 A partir de 1 de janeiro de 2019, os clientes com Dinâmica 365 para Vendas/Plano de Envolvimento com o Cliente a partir de assinaturas Básicas (Ofertas Qualificadas) já não podem renovar estas ofertas antigas; as subscrições existentes não renovarão automaticamente quando expirarem. Na página de pormenor da subscrição, o estado de subscrição mudará para "Expira na [data]" de "Renovações automáticas em [data]". 
 

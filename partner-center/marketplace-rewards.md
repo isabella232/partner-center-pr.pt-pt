@@ -9,20 +9,16 @@ author: billlinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e279ad8299def820287207c36c670c6051e26f2f
-ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
+ms.openlocfilehash: 51b7bd4846826db86f5d9c6e5e087e285dd026c0
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "109686250"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151683"
 ---
 # <a name="manage-marketplace-rewards-in-partner-center--activate-marketing-sales-and-technical-benefits"></a>Gerir prémios de marketplace no Partner Center & ativar marketing, vendas e benefícios técnicos
 
-**Funções adequadas**
-
-- Administrador sócio da MPN
-- Administrador global
-- Agente administrativo
+**Funções adequadas**: administrador de parceiros da MPN | Administração global | Agente administrativo
 
 Se publicar ofertas de software para o nosso mercado comercial, o Marketplace Rewards oferece suporte direcionado para todas as suas ofertas com marketing, vendas e benefícios técnicos.
 

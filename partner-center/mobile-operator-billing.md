@@ -9,18 +9,16 @@ ms.author: hickeys
 author: hickeys
 keywords: janelas 10, uwp, operadores móveis, faturação móvel, faturação do operador móvel
 ms.localizationpriority: medium
-ms.openlocfilehash: 20ce286814682277e375894e99f947d084206246
-ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
+ms.openlocfilehash: 70d1d05911c927832ae82a402b0c17be52e39cfa
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108172392"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151547"
 ---
 # <a name="mobile-operator-billing"></a>Faturação da operadora de rede móvel
 
-**Funções adequadas**
-
-- Administrador global
+**Funções apropriadas**: Administração global
 
 > [!NOTE]
 > Se procura apoio em relação a pagamentos, incluindo configurar contas de pagamento, pagamentos em falta, colocar pagamentos em espera, ou qualquer outra coisa, apoio de contato [aqui.](https://developer.microsoft.com/windows/support)

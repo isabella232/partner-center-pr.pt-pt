@@ -9,23 +9,18 @@ ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/18/2020
-ms.openlocfilehash: 007a15091a018755c60c4e02c394ad31868d4233
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 8232ab784611a04990044049c16e84c1a47b9567
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179416"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151836"
 ---
 # <a name="license-based-billing-in-partner-center"></a>Faturação baseada em licença no Partner Center
 
-**Funções adequadas**
+**Funções adequadas**: Administração global | Administração de administração de utilizadores | Administrador de faturação | Agente administrativo
 
-- Administrador global
-- Administração de gestão de utilizadores
-- Administrador de faturação
-- Agente administrativo
-
-Ao comprar produtos ou serviços online no Partner Center que necessitem **de licenças,** é cobrado *por cada licença* que comprar. Não é *cobrado* pelo uso destas licenças. (Para obter informações sobre a faturação baseada na utilização e outros tipos de faturação, consulte [tipos de faturação no Partner Center](billing-different-types.md).)
+Ao comprar produtos ou serviços online no Partner Center que necessitem **de licenças,** é cobrado *por cada licença* que comprar. Não é *cobrado* pelo uso destas licenças. (Para obter informações sobre a faturação baseada na utilização e outros tipos de faturação, consulte [tipos de faturação no Partner Center](./billing-basics.md).)
 
 ## <a name="license-billing-frequency"></a>Frequência de faturação de licença
 
@@ -60,6 +55,6 @@ Todas as assinaturas baseadas em licença renovam automaticamente 12 meses após
 
 - [Visão geral da faturação do Partner Center](billing-basics.md)
 
-- [Tipos de faturação no Centro de Parceiros](billing-different-types.md)
+- [Tipos de faturação no Centro de Parceiros](./billing-basics.md)
 
 - [Principais artigos de faturação e impostos](billing.md)

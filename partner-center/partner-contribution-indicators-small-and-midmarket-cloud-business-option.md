@@ -9,20 +9,16 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e7fc9961c74d11e3bb36332d0cfff5ea4f9378be
-ms.sourcegitcommit: 6632d7452be36010bfc8c6823efe5a5197377989
+ms.openlocfilehash: 389a20cb8447852758c284368d52b504e8438b07
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "98861432"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110145903"
 ---
-# <a name="use-partner-contribution-indicators-to-attain-the-small-and-midmarket-cloud-solutions-competency"></a>Utilizar indicadores de contribuição de parceiros para atingir a competência das Soluções cloud de pequeno e médio mercado
+# <a name="use-partner-contribution-indicators-to-attain-the-small-and-midmarket-cloud-solutions-competency"></a>Utilizar Indicadores de Contribuição de Parceiros para obter a competência Soluções de Cloud para Pequenas e Médias Empresas
 
-**Funções adequadas**
-
-- Administrador global
-- Administrador sócio da MPN
-- Administrador de conta
+**Funções adequadas**: Administração global | | de administrador sócio da MPN Administrador de conta
 
 Este artigo descreve seis indicadores-chave de contribuição de parceiros (PCI) utilizados para avaliar os progressos de um parceiro para alcançar ou manter uma competência de Silver ou Gold Small and Midmarket Cloud Solutions através da opção Cloud Business Applications SMB.
 
@@ -306,6 +302,6 @@ Para ver a tabela indicadores de contribuição dos parceiros, siga estes passos
 
    :::image type="content" source="images/partner-contribution-indicators-small-and-midmarket-view-progress.png" alt-text="Como ler a tabela de Indicadores de Contribuição de Parceiros":::
 
-## <a name="next-steps"></a>Próximos passos
+## <a name="next-steps"></a>Passos seguintes
 
 Consulte estes [recursos informativos](https://partner.microsoft.com/training/assets/collection/cloud-business-applications-smb-option-for-smmcs-competency-attainment#/) para saber mais sobre a obtenção da competência Gold ou Silver Small and Midmarket Cloud Solutions através da opção Cloud Business Applications SMB.

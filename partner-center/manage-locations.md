@@ -9,20 +9,17 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8a2b4fa8b204b10d5d45c0e1409ab4bc463e272f
-ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
+ms.openlocfilehash: 13d6e7dc4722227035be2b24df48427f2008bb14
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "108702897"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151785"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-delete-a-location"></a>Gerencie as localizações da sua conta MPN e adicione (excluir) uma localização
 
 
-**Funções adequadas**
-
-- Administrador global
-- Administrador de conta
+**Funções adequadas**: Administração global | Administrador de conta
 
 A localização MPN ID identifica cada localização específica da sua empresa. Utiliza a localização MPN ID para se inscrever em programas de incentivo, para transacionar negócios do Cloud Solution Provider (CSP) e outras transações comerciais. O ID MPN global é utilizado para atividades não transacionais, tais como pedidos de apoio.
 
@@ -85,15 +82,15 @@ Atualizar os seguintes campos:
 
 ## <a name="add-an-mpn-location"></a>Adicione uma localização MPN
 
-1. Inscreva-se usando a conta MPN no Partner Center. (As suas credenciais MPN podem ser diferentes das suas credenciais CSP) . A conta MPN deve ter privilégios de Administração Global ou Administração de Contas. 
+1. Inscreva-se usando a conta MPN no Partner Center. (As suas credenciais MPN podem ser diferentes das suas credenciais de CSP.) A conta MPN deve ter privilégios de Administração Global ou Administração de Contas. 
 
 1. A partir do **ícone Definições,** selecione as **definições de Conta** e, em seguida, selecione o perfil da **Organização**.
 
-2. Selecione **Legal** e, em seguida, no separador **Parceiro,** selecione **localizações de Negócios** e clique em **Adicionar uma localização.**
+2. Selecione **Legal** e, em seguida, no separador **Parceiro,** selecione **localizações de Negócios** e selecione **Adicionar uma localização.**
 
 3. Forneça os dados necessários, incluindo o nome comercial, endereço e contato para a localização que pretende adicionar à sua empresa.
  
-1. Clique **em Adicionar localização**. Isto criará um novo ID MPN para o novo local que pode utilizar para transações e incentivos da CSP.
+1. Selecione **Localizar adicionar**. Isto criará um novo ID MPN para a nova localização que pode utilizar para transações e incentivos CSP.
 
 :::image type="content" source="images/legal-biz.png" alt-text="Adicione um novo negócio legal":::
 
@@ -134,21 +131,21 @@ Para mais informações, leia [as informações do número de ID do registo](reg
 
 ## <a name="delete-a-location"></a>Excluir uma localização
 
-Para eliminar uma localização da sua conta, terá de contactar o [Partner Support.](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=1af7f3a0-1757-3543-4b6a-c945c3ad187b) Certifique-se de que compreende o impacto que esta ação tem. As localizações eliminadas não podem ser recuperadas e qualquer coisa ligada a esse id MPN específico deixará de ser reconhecida ou ativa para a sua empresa.
+Para eliminar uma localização da sua conta, terá de contactar o [Partner Support.](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=1af7f3a0-1757-3543-4b6a-c945c3ad187b) Certifique-se de que compreende o impacto que esta ação tem. As localizações eliminadas não podem ser recuperadas e qualquer coisa ligada a esse ID MPN específico deixará de ser reconhecida ou ativa para a sua empresa.
 
 ## <a name="change-country-of-partner-global-account"></a>Mudar país de conta global partner 
 
-1. Inscreva-se usando a conta MPN no Partner Center. (As suas credenciais MPN podem ser diferentes das suas credenciais CSP) . A conta MPN deve ter privilégios de Administração Global ou Administração de Contas. 
+1. Inscreva-se usando a conta MPN no Partner Center. (As suas credenciais MPN podem ser diferentes das suas credenciais de CSP.) A conta MPN deve ter privilégios de Administração Global ou Administração de Contas. 
 
 2. No separador **Partner,** vá às localizações do **Negócios** e verifique a lista de locais para garantir que o local que deseja como entidade legal está listado. 
  
 1. Para adicionar uma localização, clique em **Adicionar uma localização** e, no voo para fora, forneça os detalhes necessários, incluindo o nome do negócio, endereço e contacto primário para a localização que pretende adicionar à sua empresa. 
  
-1. Selecione **Mude o seu país** junto ao **país/região** drop-down e siga os passos. 
+1. Selecione **Mude o seu país** ao lado da lista de drop-down **País/região** e siga os passos. 
 
 :::image type="content" source="images/lbp.png" alt-text="Os dados do perfil de negócio legal voam para fora":::
 
-5. Clique em **Guardar**.
+5. Selecione **Guardar**.
 
 6. O país da conta global da MPN será alterado para o novo país legal.
   

@@ -8,19 +8,16 @@ ms.subservice: partnercenter-csp
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: de833ae713fe88335103e9dbaa96153ad20ec84e
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 5043e26b578f2d2dcaa45cd86105e4c540a82ab8
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106133051"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151445"
 ---
 # <a name="use-partner-center-to-enroll-as-a-microsoft-learning-partner"></a>Use o Partner Center para se inscrever como Parceiro de Aprendizagem da Microsoft
 
-**Funções adequadas**
-
-- Administrador sócio da MPN
-- Administrador de conta
+**Funções adequadas**: administrador de parceiros da MPN | Administrador de conta
 
 Este artigo descreve as várias formas de um parceiro na Microsoft Partner Network se inscrever no programa Learning Partner.
 

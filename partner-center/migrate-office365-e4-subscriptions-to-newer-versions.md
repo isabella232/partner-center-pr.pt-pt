@@ -9,21 +9,16 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8a9662e0ce99fc054149dfbd4149532ce336eff6
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: f738ddace805838cdf202c23cca8535c11cbdf54
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132626"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151564"
 ---
 # <a name="migrate-office-365-e4-subscriptions-to-newer-office-365-versions"></a>Migrate Office 365 E4 subscriptions to newer Office 365 versions (Migrar subscrições do Office 365 E4 para versões mais recentes do Office 365)
 
-**Funções adequadas**
-
-- Administrador global
-- Administração de gestão de utilizadores
-- Agente administrativo
-- Agente comercial
+**Funções adequadas**: Administração global | Administração de administração de utilizadores | Agente administrativo | Agente comercial
 
 O plano E4 da Empresa 365 está reformado, a partir de 7 de abril de 2017. As subscrições E4 existentes já não podem adquirir novas subscrições E4 após esta data, e as subscrições E4 existentes não serão renovadas automaticamente quando expirarem.
 

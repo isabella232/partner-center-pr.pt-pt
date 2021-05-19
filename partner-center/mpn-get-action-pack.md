@@ -9,22 +9,17 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3b75bffcab2c51ac81e3c2f623ad74a9314339b9
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: dc7be1fdf92249c31e8b2c6aa6611015e8b9b42f
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132303"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152312"
 ---
 # <a name="buy-or-renew-a-microsoft-action-pack-subscription-or-silver-and-gold-competencies"></a>Comprar ou renovar uma subscrição do Microsoft Action Pack ou competências Silver e Gold
 
 
-**Funções adequadas**
-
-- Administrador global
-- Administração de gestão de utilizadores
-- Administrador sócio da MPN
-- Agente administrativo
+**Funções adequadas**: Administração global | Administração de administração de utilizadores | | de administrador sócio da MPN Agente administrativo
 
 
 A partir do [painel](https://partner.microsoft.com/dashboard)partner center, os membros da Microsoft Partner Network (MPN)) podem comprar ou renovar ofertas de benefícios, incluindo a subscrição do Microsoft Action Pack e as competências de prata e ouro.

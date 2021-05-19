@@ -9,20 +9,17 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4e0f8834523770e5780395e685ca4ef45f5d2535
-ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
+ms.openlocfilehash: 53ca3c05b2df3de1b0a2373580b28e139f297b82
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "108702931"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151768"
 ---
 # <a name="manage-co-sell-opportunities-in-partner-center"></a>Gerir oportunidades de co-venda no Partner Center
 
 
-**Funções adequadas**
-
-- Administrador sócio da MPN
-- Administração de referências
+**Funções adequadas**: administrador de parceiros da MPN | Administração de referências
 
 Aproveite as oportunidades de co-venda.  Uma oportunidade de co-venda é uma colaboração de várias partes para vender produtos que atendam a uma necessidade do cliente. Este artigo irá ajudá-lo a entender como pode usar o poder de co-venda no Partner Center para co-vender e adquirir novos clientes.
 
@@ -30,7 +27,7 @@ Aproveite as oportunidades de co-venda.  Uma oportunidade de co-venda é uma col
 
 **Oportunidade de co-venda** – É aqui que um ou mais representantes de vendas da Microsoft estão ativamente envolvidos no negócio para ajudar a resolver um problema de cliente. As oportunidades podem ter origem numa conta de clientes onde um representante de vendas da Microsoft convida o parceiro a participar numa atividade de co-venda ou de um parceiro onde precisam de mais ajuda das vendas da Microsoft para fechar o negócio.
 
-**Parceiro para Parceiro (P2P)** – É aqui que um parceiro pode convidar outros parceiros no ecossistema de Co-venda da Microsoft para colaborar. Os parceiros podem opcionalmente convidar um representante de vendas da Microsoft para ajudar a fechar o negócio. Ambos os parceiros e Microsoft podem ser convidados mesmo depois de criarem um acordo, desde que seja antes de serem concluídos. (Nota que a conclusão inclui ganhos, perdidos, declinados e expirados).
+**Parceiro para Parceiro (P2P)** – É aqui que um parceiro pode convidar outros parceiros no ecossistema de Co-venda da Microsoft para colaborar. Os parceiros podem opcionalmente convidar um representante de vendas da Microsoft para ajudar a fechar o negócio. Ambos os parceiros e Microsoft podem ser convidados mesmo depois de criarem um acordo, desde que seja antes de serem concluídos. (Nota que a conclusão inclui ganhos, perdidos, declinados e expirados.)
 
 **Negócio privado** – É quando um parceiro decide trabalhar independentemente num negócio que foi criado no Partner Center. Os parceiros podem dar visibilidade à equipa de vendas da Microsoft ou convidar os vendedores da Microsoft a procurarem ajuda ativa após a criação do negócio. Os detalhes do negócio não são partilhados com a equipa de vendas da Microsoft até que os parceiros selecionem explicitamente sim para a pergunta "Gostaria que os vendedores da Microsoft vissem este negócio?" ou solicitar a ajuda da equipa de vendas da Microsoft, escolhendo uma das opções para a pergunta "Identifique o tipo de ajuda que precisa da Microsoft?".
 

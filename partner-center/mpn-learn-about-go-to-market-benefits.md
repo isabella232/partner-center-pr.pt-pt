@@ -9,19 +9,16 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d4f06f1983ab4bf3b6f9f77d02e7ae94817feeab
-ms.sourcegitcommit: 109c20a2dc71bf6ab15a3a9880807ec014eb8c67
+ms.openlocfilehash: 1b22075c91d7a19c555223409ed9410522e010d2
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "102475267"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152244"
 ---
 # <a name="explore-your-go-to-market-with-microsoft-offers"></a>Explore as suas ofertas Go-To-Market com a Microsoft
 
-**Funções adequadas**
-
-- Administrador global
-- Administrador sócio da MPN
+**Funções adequadas**: Administração global | Administrador sócio da MPN
 
 Quando te tornas membro da Microsoft Partner Network, tens acesso a benefícios de adesão que te podem ajudar a construir e a crescer o teu negócio. Go-To-Market com recursos, ofertas e programas da Microsoft estão entre os [muitos benefícios](https://partner.microsoft.com/manage-your-partner-network-benefits) que recebe como membro da Microsoft Partner Network.
 
@@ -49,11 +46,7 @@ Ofertas adicionais da Go-To-Market disponíveis para parceiros com níveis de co
 
 - Todos os recursos padrão da MPN Go-To-Market
 - Todas as ofertas de Prata/ISV co-vendem ofertas prontas do Go-To-Market
-- Co-marcado um pager
-- Apresentação de marca co-marca
-- Estudo de caso de co-marca
-- Comunicado de imprensa com cotação executiva da Microsoft
-- Marketing social de marca co-marca
+- Caixa de ferramentas do parceiro Go-To-Market 
 
 ## <a name="view-go-to-market-membership-offers-in-partner-center"></a>Ver ofertas de adesão go-to-market no Partner Center
 

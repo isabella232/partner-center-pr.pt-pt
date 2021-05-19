@@ -1,26 +1,22 @@
 ---
 title: FAQ sobre dividendos e perfis de imposto
 description: Obtenha respostas a perguntas comuns sobre pagamentos e detalhes fiscais no Partner Center. Inclui respostas sobre o porquê dos seus ganhos serem diferentes do que esperava.
-ms.service: partner-dashboard
-ms.subservice: partnercenter-incentives
+ms.service: marketplace
+ms.subservice: partnercenter-marketplace-publisher
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 05/06/2021
-ms.openlocfilehash: 74d62a794d95cbf7a5170ddbcfe474cc61fbf9b3
-ms.sourcegitcommit: 5780fab794d7a48c64ce27eeabd7a39d56706e9c
+ms.openlocfilehash: 7f5cf168a87c25f3afe0767769ce8dcc77d07f04
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/07/2021
-ms.locfileid: "109240521"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110145835"
 ---
 # <a name="common-questions-about-payouts-and-taxes"></a>Questões comuns sobre pagamentos e impostos
 
-**Funções adequadas**
-
-- Administrador de conta
-- Administrador global
-- Administradores de incentivos
+**Funções adequadas**: Administração de contas | Administração global | Administradores de incentivos
 
 Este artigo responde frequentemente a perguntas sobre pagamentos e detalhes fiscais no Partner Center. Os assuntos abrangidos incluem o tempo de pagamento, a verificação da elegibilidade dos seus ganhos e a importância de configurar corretamente o seu pagamento e perfis fiscais.
 
@@ -86,7 +82,7 @@ Se um perfil fiscal estiver caducado ou prestes a expirar, significa que o formu
 - Verifique a responsabilidade fiscal por país. Nos países onde o imposto é responsável pela Microsoft, a Microsoft recolhe e deduz o imposto dos ganhos dos editores. O montante da transação mostrado na declaração é após o montante do imposto. Veja [Detalhes fiscais](tax-details-marketplace.md).
 - As ofertas da SaaS e da IaaS têm uma taxa de agência descontada de 10% em vez dos 20% padrão, deixando uma taxa de ganhos de 90%. Este é um requisito de Co-Sell IP. Esta promoção está em vigor até 30 de junho de 2021. 
 
-**Continuar a ler** [Acordo de Editor de Mercado Comercial](https://go.microsoft.com/fwlink/p/?LinkID=699560), Detalhes da política de [pagamento](payout-policy-details.md), limiar [de pagamento, método e prazo,](payment-thresholds-methods-timeframes.md) [Ser pago,](marketplace-get-paid.md) [Detalhes fiscais,](tax-details-marketplace.md) [declarações de pagamento](payout-statement.md)
+**Continuar a ler** [Acordo de Editor de Mercado Comercial](/legal/marketplace/msft-publisher-agreement), Detalhes da política de [pagamento](payout-policy-details.md), limiar [de pagamento, método e prazo,](payment-thresholds-methods-timeframes.md) [Ser pago,](marketplace-get-paid.md) [Detalhes fiscais,](tax-details-marketplace.md) [declarações de pagamento](payout-statement.md)
 
 ## <a name="earnings-reconciliation"></a>Reconciliação dos ganhos
 
@@ -125,7 +121,7 @@ A moeda de pagamento é baseada na moeda selecionada no perfil de pagamento. A m
 
 Os ajustes de pagamento são correções de pagamento para acomodar os ajustes de compensação, como problemas do sistema. Na declaração de pagamento, o ReasonCode especifica o motivo do ajuste. Estes não se destinam a reconciliar-se diretamente com transações individuais.
 
-**Continuar a ler** [Acordo de Editor de Mercado Comercial](https://go.microsoft.com/fwlink/p/?LinkID=699560), Detalhes da política de [pagamento,](payout-policy-details.md) [detalhes fiscais,](tax-details-marketplace.md) [limiar de pagamento, método e prazo](payment-thresholds-methods-timeframes.md)
+**Continuar a ler** [Acordo de Editor de Mercado Comercial](/legal/marketplace/msft-publisher-agreement), Detalhes da política de [pagamento,](payout-policy-details.md) [detalhes fiscais,](tax-details-marketplace.md) [limiar de pagamento, método e prazo](payment-thresholds-methods-timeframes.md)
 
 ## <a name="taxes"></a>Impostos
 
@@ -144,7 +140,7 @@ Aceda à [página Perfil](https://partner.microsoft.com/dashboard/payee/profiles
 #### <a name="how-do-i-find-withholding-tax-for-a-transaction"></a>Como fazer localizar a Retenção de imposto de uma transação?
 A retenção de imposto é aplicável a publicadores norte-americanos que preencheram um formulário W-9. A retenção de imposto é calculada com base num pagamento mensal.
 
-**Continuar a ler** [Acordo de Editor de Mercado Comercial,](https://go.microsoft.com/fwlink/p/?LinkID=699560) [Detalhes da política de pagamento](payout-policy-details.md)
+**Continuar a ler** [Acordo de Editor de Mercado Comercial,](/legal/marketplace/msft-publisher-agreement) [Detalhes da política de pagamento](payout-policy-details.md)
 
 ## <a name="payout-statement-access"></a>Acesso a declaração de pagamento
 
@@ -208,7 +204,7 @@ Utilize a [API de Pagamento de Parceiros.](https://apidocs.microsoft.com/service
 - Assim que os ganhos estiverem no estado não processado, pode verificar a data de vencimento referente ao mês em que os ganhos serão processados para pagamento. Uma vez preparado o seu pagamento, o seu estado de ganho mudará para "processado".  A Microsoft lança os pagamentos no 15º dia do mês de vencimento.
 - Para encomendas pagas com cartão de crédito, a Microsoft detém pagamentos de 30 dias até que o ganho seja amadurecido.
 
- **Continuar a ler** [Acordo de Editor de Mercado Comercial](https://go.microsoft.com/fwlink/p/?LinkID=699560), Detalhes da política de [pagamento,](payout-policy-details.md) [detalhes fiscais,](tax-details-marketplace.md) [limiar de pagamento, método e prazo](payment-thresholds-methods-timeframes.md)
+ **Continuar a ler** [Acordo de Editor de Mercado Comercial](/legal/marketplace/msft-publisher-agreement), Detalhes da política de [pagamento,](payout-policy-details.md) [detalhes fiscais,](tax-details-marketplace.md) [limiar de pagamento, método e prazo](payment-thresholds-methods-timeframes.md)
 
 ## <a name="next-steps"></a>Passos seguintes
 
