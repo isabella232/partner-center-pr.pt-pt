@@ -8,20 +8,16 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 1ad11a42a91cfacb625a05b850b0cdfee3d48d0b
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 31bed9eabcd63f80c7924b264e7abf04dab4b543
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179263"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146804"
 ---
 # <a name="generate-a-marketing-plan-for-your-incentives-program"></a>Gere um plano de marketing para o seu programa de incentivos
 
-**Funções adequadas**
-
-- Administradores de incentivos
-- Administrador de faturação
-- Administrador global
+**Funções adequadas**: Incentivos administrativos | Administrador de faturação | Administração global
 
 Um plano de reivindicações cooperativas é a série de campanhas de marketing, atividades e outros detalhes que descrevem como você vai fazer do seu programa um sucesso. Assim que criar o seu plano, irá submetê-lo à Microsoft para aprovação.
 

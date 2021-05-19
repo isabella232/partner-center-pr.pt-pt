@@ -9,18 +9,16 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6b914d6dbd69f374976584d1261382ef8fe9ded9
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: 7c18f69a62e8f8d126a0756911d2fbcdfdb85d8d
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979452"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147875"
 ---
 # <a name="overview-of-the-commercial-marketplace-in-partner-center"></a>Visão geral do mercado comercial no Partner Center
 
-**Funções adequadas**
-
-- Administrador global
+**Funções apropriadas**: Administração global
 
 Ser um parceiro no programa Cloud Solution Provider (CSP) permite-lhe agregar e vender produtos da Microsoft juntamente com soluções publicadas por fornecedores de software independentes (ISVs) de terceiros. Ser capaz de agregar soluções desta forma permite-lhe servir melhor os clientes finais e fazer crescer o seu negócio de serviços CSP.
 
@@ -83,7 +81,7 @@ Para saber onde completar uma atividade de mercado específica para ofertas ISV 
 |Para cancelar/renovar subscrições de oferta ou adicionar/remover licenças | Portal do Azure  |
 |Criar utilizadores ou gerir permissões  | Portal do Azure  |
 
-## <a name="next-steps"></a>Próximos passos
+## <a name="next-steps"></a>Passos seguintes
 
 - [Descubra ou veja ofertas de mercado comercial](csp-commercial-marketplace-discover.md)
 - [Comprar ofertas de mercado comercial](csp-commercial-marketplace-purchase.md)

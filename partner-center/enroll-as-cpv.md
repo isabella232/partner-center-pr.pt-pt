@@ -9,19 +9,17 @@ ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 01/15/2021
-ms.openlocfilehash: 5fd2267d53641fe4a0b6181217a35f0470e5bbe5
-ms.sourcegitcommit: 7681c6fc51e78cba106c46a52f6bb27e1a5c1c6b
+ms.openlocfilehash: edc0ea8f0fda58f23cbce82bc7023a3277517cc3
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "98560515"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147144"
 ---
 # <a name="enroll-as-a-control-panel-vendor-to-help-integrate-csp-partner-systems-with-partner-center-apis"></a>Inscreva-se como fornecedor de painéis de controlo para ajudar a integrar sistemas parceiros CSP com APIs do Partner Center
 
 
-**Funções adequadas**
-
-- Administrador global
+**Funções apropriadas**: Administração global
 
 Um Fornecedor de Painéis de Controlo (CPV) é um fornecedor de software independente que desenvolve aplicações para utilização pelos parceiros Cloud Solution Provider (CSP) para lhes permitir integrar os seus sistemas com APIs do Partner Center. Um fornecedor de Painel de Controlo não é um Parceiro CSP com acesso direto ao painel de instrumentos do Partner Center ou às APIs do Partner Center.
 

@@ -9,22 +9,18 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 6de0d50364930999a7d0f335016a7c5a1864d8ab
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: 407b133d37d3f1c3ca46c8a9c15b3a75e93f2922
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284354"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147450"
 ---
 # <a name="guidelines-for-successful-customer-communication-with-microsoft"></a>Diretrizes para uma comunicação bem sucedida do cliente com a Microsoft
 
-**Aplica-se a**
+**Aplica-se a**: Partner Center | Centro de Parceiros para Microsoft Cloud para governo dos EUA
 
-- Centro de Parceiros do Microsoft Cloud for US Government
-
-**Funções adequadas**
-
-- Agente helpdesk
+**Funções apropriadas**: Agente helpdesk
 
 Em geral, esperamos que todas as comunicações com o cliente venham do parceiro Cloud Solution Provider. Como é proprietária da relação de faturação do cliente, a Microsoft não enviará comunicações diretamente aos seus clientes relacionados com as suas subscrições.
 

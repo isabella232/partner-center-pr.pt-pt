@@ -9,19 +9,16 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b559c1e8493c274204f1bdd219eae8bab994953e
-ms.sourcegitcommit: d7fbaff51c7ac29fbf700d7f7fdef798fd97c6fa
+ms.openlocfilehash: 846bad6bdde080288bc7dd916e389dd86b5315f0
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "102619380"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146294"
 ---
 # <a name="mpn-benefits---software"></a>Benefícios MPN - Software
 
-**Funções adequadas**
-
-- Administrador global
-- Administrador sócio da MPN
+**Funções adequadas**: Administração global | Administrador sócio da MPN
 
 ## <a name="overview"></a>Descrição Geral
 

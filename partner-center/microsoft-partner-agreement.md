@@ -9,18 +9,16 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: a3c8b1df8b14d2a1647982ea8d6f27ca59ff6195
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: fdcd83554073a7951862787a9f29383a3752dd30
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441273"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146345"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>Conheça o Acordo de Parceiros da Microsoft (MPA) para parceiros de programas da CSP
 
-**Funções adequadas**
-
-- Administrador global
+**Funções apropriadas**: Administração global
 
 O Microsoft Partner Agreement fornece aos parceiros da Microsoft um acordo de parceiro unificado e digitalmente aceite. O Microsoft Partner Agreement contém um conjunto central de termos perpétuos que ajudam a Microsoft, parceiros e clientes a apoiar a privacidade e segurança dos dados, a promover a conformidade e a incentivar práticas comerciais sãs.
 

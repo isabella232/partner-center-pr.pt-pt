@@ -9,21 +9,16 @@ ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
 ms.date: 03/23/2021
-ms.openlocfilehash: 6ba6fce58df6ab6047a5ec6e7c46e1538b49756d
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: bd11b65fb1f11839cba50d8bc1da94668009c56c
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106178957"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146685"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Parceiro com revendedores indiretos no programa Fornecedor de Soluções Cloud
 
-**Funções adequadas**
-
-- Administrador global
-- Administração de gestão de utilizadores
-- Agente administrativo
-- Agente comercial
+**Funções adequadas**: Administração global | Administração de administração de utilizadores | Agente administrativo | Agente comercial
 
 Com um mercado tecnológico tão complexo e em rápida mudança, os clientes querem a vantagem competitiva que as soluções tecnológicas lhes podem dar. Neste clima, faz sentido que os parceiros invistam em compromissos parceiros para alargar as ofertas e permitir que os clientes façam ainda mais.
 

@@ -9,18 +9,16 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1473b3c0b90cca1152b4dab0b8efec86dbc3d22d
-ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
+ms.openlocfilehash: 84beac77d41b8c11be9ac3cad87460eec9632ac4
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108172222"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147127"
 ---
 # <a name="effective-unit-price-calculation-for-azure-plan-consumption"></a>Cálculo efetivo dos preços unitários para o consumo do plano Azure
 
-**Funções adequadas**
-
-- Administrador de faturação
+**Funções apropriadas**: Administrador de Faturação
 
 ## <a name="the-effective-unit-price"></a>O preço unitário efetivo
 

@@ -9,19 +9,16 @@ ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 05/05/2020
-ms.openlocfilehash: 6d8fca11f2db40e7f8b4ebcd4580d8f0aba115eb
-ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
+ms.openlocfilehash: efa7251bd658558efcbab562e0c7bc8a66b8bcb8
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "97354530"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148283"
 ---
 # <a name="consolidate-your-company-accounts-when-migrating-from-pmc-to-partner-center"></a>Consolidar as contas da sua empresa ao migrar de PMC para Partner Center
 
-**Funções adequadas**
-
-- Administrador sócio da MPN
-- Administrador de conta
+**Funções adequadas**: administrador de parceiros da MPN | Administrador de conta
 
 Em PMC, a sua empresa pode ter tido muitas contas e locais. Cada local tinha a sua própria conta. Quando migrar para o Partner Center, todas as contas e localizações serão consolidadas numa conta global do Partner com várias localizações. As seguintes coisas irão mover-se consigo: Os seus IDs MPN, competências, compras, recursos de marketing, programas e ofertas. Nada se perderá.
 

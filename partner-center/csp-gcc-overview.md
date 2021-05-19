@@ -9,22 +9,19 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1c6456b1fb1061f9b2f0a2b67a8d2285ea25474e
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: d88936845c8b7ae7e17840843896d87ceebb4b2f
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979435"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147807"
 ---
 # <a name="sell-office-365-government-gcc-for-csp-subscriptions-to-qualified-customers"></a>Sell Office 365 Governo GCC para assinaturas CSP a clientes qualificados
 
-**Funções adequadas**
-
-- Administrador global
-- Agente administrativo
+**Funções adequadas**: Administração global | Agente administrativo
 
 
-## <a name="overview"></a>Descrição geral
+## <a name="overview"></a>Descrição Geral
 
 Os parceiros da Microsoft no programa Cloud Solution Provider (CSP) podem vender [O Office 365 Government GCC para](https://www.microsoft.com/microsoft-365/partners/governmentforCSP) subscrições CSP a clientes qualificados. O Office 365 Government GCC for CSP é projetado para as necessidades únicas das organizações governamentais dos EUA e fornece todas as funcionalidades e capacidades dos serviços do Office 365 numa comunidade de nuvem governamental segmentada que permite que as organizações cumpram os padrões de conformidade e segurança do governo dos EUA. 
 
@@ -39,7 +36,7 @@ Depois de a sua empresa ter sido aprovada para vender o Office 365 Government GC
 - Para obter um guia passo a passo, leia [Guia para vender O CCC do Governo 365 para assinaturas CSP](https://go.microsoft.com/fwlink/?linkid=2007323).  
 
 
-## <a name="next-steps"></a>Próximos passos
+## <a name="next-steps"></a>Passos seguintes
 
 Aceder a informações sobre a [oportunidade de parceiro no Governo dos EUA](https://www.microsoft.com/microsoft-365/partners/governmentforCSP) no Microsoft 365 para o site de parceiros.
 

@@ -1,25 +1,22 @@
 ---
 title: Ser pago no Partner Center
 description: Saiba como receber pagamentos por ganhos como parceiro da Microsoft, como por exemplo através de ofertas de marketplace comercial, programas de incentivo e o programa Cloud Solution Provider. Inclui política de pagamento, estatuto de detenção de pagamento e declarações de pagamento.
-ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
+ms.service: marketplace
+ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
 ms.date: 11/25/2020
 author: eunjkim520
 ms.author: eunjkim
-ms.openlocfilehash: 94ed17106b64b078c51de351d1e44e29d3745921
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 3dc8b728ef20da77b9a6d2a925ebb0388ea53837
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106133085"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146498"
 ---
 # <a name="getting-paid-in-partner-center"></a>Ser pago no Partner Center
 
-**Funções adequadas**
-
-- Administrador de conta
-- Administrador global
+**Funções adequadas**: Administração de contas | Administração global
 
 Este artigo tem informações importantes sobre receber pagamento pelas suas ofertas, complementos e ganhos publicitários. Resume a política de pagamentos, os passos necessários antes de serem pagos, e a visão geral do pagamento.
 
@@ -27,9 +24,9 @@ Este artigo tem informações importantes sobre receber pagamento pelas suas ofe
 
 Ser pago requer que cumpra os acordos e a política de pagamentos.
 
-- [Microsoft Azure Marketplace Publisher Agreement](https://go.microsoft.com/fwlink/p/?LinkID=699560): Antes de ser pago, você deve aceitar este acordo de editor. Este acordo explica a relação entre si e a Microsoft, uma vez que diz respeito às ofertas de vendedores no mercado comercial, incluindo a taxa de loja que a Microsoft cobra por cada venda feita.
+- [Microsoft Azure Marketplace Publisher Agreement](/legal/marketplace/msft-publisher-agreement): Antes de ser pago, você deve aceitar este acordo de editor. Este acordo explica a relação entre si e a Microsoft, uma vez que diz respeito às ofertas de vendedores no mercado comercial, incluindo a taxa de loja que a Microsoft cobra por cada venda feita.
 - [A política de pagamentos](payout-policy-details.md) mostra as políticas de pagamento, incluindo o calendário de pagamentos e os métodos de pagamento. A política também explica o processo de não pagamentos de clientes.
-- [Os detalhes fiscais](tax-details-marketplace.md) explicam a consideração fiscal para a seleção de preços e responsabilidade fiscal ao abrigo do [Microsoft Publisher Agreement](https://go.microsoft.com/fwlink/p/?LinkID=699560).
+- [Os detalhes fiscais](tax-details-marketplace.md) explicam a consideração fiscal para a seleção de preços e responsabilidade fiscal ao abrigo do [Microsoft Publisher Agreement](/legal/marketplace/msft-publisher-agreement).
 - **As taxas de** loja são oficialmente definidas no Acordo de Editor. A taxa da loja é aplicada a todas as vendas de ofertas recolhidas pelo mercado comercial, incluindo addons.
 - **Os pagamentos** são efetuados mensalmente (desde que o limiar de pagamento tenha sido cumprido). Normalmente enviamos qualquer pagamento devido num dado mês até ao 15º dia desse mês. Os pagamentos geralmente demoram 3 a 10 dias úteis adicionais para chegar à sua conta de pagamento. Para mais informações, consulte [limiares de pagamento, métodos e prazos.](payment-thresholds-methods-timeframes.md)
 

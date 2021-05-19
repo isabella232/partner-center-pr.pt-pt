@@ -9,24 +9,18 @@ author: keramp
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b0d8a560c048f1a1dbb783560cf419145754a6fe
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: 4253c59a85c8353856b16f60957761f4f2245da3
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284303"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147195"
 ---
 # <a name="view-digitally-signed-invoices"></a>Ver faturas assinadas digitalmente
 
-**Aplica-se a**
+**Aplica-se a**: Partner Center | Centro Parceiro Índia
 
-- Centro Parceiro Índia
-
-**Funções adequadas**
-
-- Administrador de conta
-- Agente de faturação
-- Agente comercial
+**Funções adequadas**: Administração de contas | Agente de faturação | Agente comercial
 
 Os parceiros na Índia vêem agora que a Microsoft assinou faturas digitalmente. Tem de utilizar o Adobe Acrobat Reader Document Cloud (DC) para visualizar uma assinatura.
 

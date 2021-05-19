@@ -9,19 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 650f8085ba0e204b01f97a23640a37388ef57f17
-ms.sourcegitcommit: 109c20a2dc71bf6ab15a3a9880807ec014eb8c67
+ms.openlocfilehash: fc082f40a778d09e96f6f8cb5a563197e2de6f18
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "102475216"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147620"
 ---
 # <a name="sell-on-premises-software-through-the-cloud-solution-provider-csp-program"></a>Venda de software no local através do programa Cloud Solution Provider (CSP)
 
-**Funções adequadas**
-
-- Agente administrativo
-- Administrador global
+**Funções adequadas**: Agente administrador | Administração global
 
 O software no local em CSP suporta uma transição suave para a nuvem, introduzindo software no local num programa focado na nuvem.Esta nova oferta ajuda a trazer o parceiro de valor acrescentado para cada cenário de compra, uma vez que fornece uma única plataforma para transacionar todos os produtos da Microsoft. Como CSP, pode agora vender software no local através do Partner Center, além de Open, EA e outros programas atualmente em uso.  
  

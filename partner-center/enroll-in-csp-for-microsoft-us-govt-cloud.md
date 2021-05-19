@@ -1,5 +1,5 @@
 ---
-title: Inscreva-se no programa CSP
+title: Inscrever-se no programa CSP
 titleSuffix: Microsoft Cloud for US Government - Partner Center
 ms.topic: how-to
 ms.service: partner-dashboard
@@ -10,22 +10,18 @@ ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
 ms.date: 10/05/2020
-ms.openlocfilehash: 8fb6d3ec54b2cbcbc23a09cf122da0129afb7fbb
-ms.sourcegitcommit: 8a4a3de728532533276a88b1fd40c82b7a4ebb15
+ms.openlocfilehash: e2b206b049050efa520099d74230d8535ac93793
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "92530215"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147178"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>Inscreva-se no programa Cloud Solution Provider para o Microsoft Cloud para o Governo dos EUA
 
-**Aplica-se a**
+**Aplica-se a**: Partner Center for Microsoft Cloud for US Government
 
-- Centro de Parceiros para Microsoft Cloud para governo dos EUA
-
-**Funções adequadas**
-
-- Administrador global
+**Funções apropriadas**: Administração global
 
 Os parceiros da Microsoft podem agora vender as soluções e serviços em nuvem da Microsoft a entidades federais, estaduais, locais e tribais dos EUA através do programa Cloud Solution Provider (CSP) para o Microsoft Cloud para o Governo dos EUA.
 
@@ -86,6 +82,6 @@ O Microsoft Cloud para o Governo dos EUA fornece uma instância separada do Micr
 
 ## <a name="next-steps"></a>Passos seguintes
 
-- [Centro de Parceiros para Microsoft Cloud para governo dos EUA](partner-center-for-microsoft-us-govt-cloud.md)
+- [Centro de Parceiros do Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md)
 
 - [Gestão de utilizadores e licenças no Partner Center para Microsoft Cloud para governo dos EUA](user-management-in-partner-center-for-microsoft-us-govt-cloud.md)

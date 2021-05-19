@@ -9,19 +9,16 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 94bcde2402b7276bef8eaaf84975f2a5677723fe
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: dd34a30cf21a90ac7781ed84945a208df13b3700
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106133119"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146549"
 ---
 # <a name="manage-different-leads-like-customer-inquiries-marketing-qualified-leads-and-sales-qualified-leads"></a>Gerir diferentes oportunidades potenciais como inquéritos ao cliente, oportunidades potenciais qualificadas para marketing e oportunidades potenciais qualificadas para vendas
 
-**Funções adequadas**
-
-- Administrador sócio da MPN
-- Administração de referências
+**Funções adequadas**: administrador de parceiros da MPN | Administração de referências
 
 A Microsoft envia milhões de pistas por ano para os seus parceiros. Tem a oportunidade de receber leads da Microsoft e construir o seu negócio. Esta secção irá ajudá-lo a entender como gerir os leads que recebe da página do provedor de solução microsoft e agir sobre eles.
 

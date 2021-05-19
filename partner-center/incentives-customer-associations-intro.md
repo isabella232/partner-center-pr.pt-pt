@@ -8,19 +8,16 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: 24c439d1c90663130e1676e8ceb6d503be5ea30d
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 1895f89933668e909748178dcdaf4a54e4843096
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179195"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146787"
 ---
 # <a name="use-these-resources-to-make-customer-association-claims-for-specific-incentives-programs"></a>Utilize estes recursos para fazer reclamações de associação de clientes para programas de incentivos específicos
 
-**Funções adequadas**
-
-- Administradores de incentivos
-- Utilizador de incentivos
+**Funções adequadas**: Incentivos administrativos | Utilizador de incentivos
 
 Este artigo partilha recursos para parceiros da Microsoft que cumprem os seguintes critérios:
 

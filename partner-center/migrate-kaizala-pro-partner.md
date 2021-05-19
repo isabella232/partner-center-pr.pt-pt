@@ -8,18 +8,16 @@ ms.author: sukumart
 author: sukumart
 ms.date: 06/01/2020
 localization_priority: Normal
-ms.openlocfilehash: 96d18c8f728c56b705d378ac56dcf46e777157f0
-ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
+ms.openlocfilehash: 583e9c40bb8d161c30440f12331dc8dcbf3db417
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108172409"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146430"
 ---
 # <a name="migrate-kaizala-pro-standalone-subscriptions-to-microsoft-365-or-office-365-versions"></a>Migrar subscrições kaizala Pro Standalone para versões Microsoft 365 ou Office 365
 
-**Funções adequadas**
-
-- Agente comercial
+**Funções adequadas**: Agente de vendas
 
 A partir de 1 de julho de 2020, a Microsoft está a terminar as vendas do serviço autónomo Kaizala Pro. Os clientes deixarão de poder adquirir novas subscrições kaizala Pro após esta data, e as subscrições existentes do Kaizala Pro não serão renovadas automaticamente quando expirarem.
 

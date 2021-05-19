@@ -1,25 +1,22 @@
 ---
 title: Agendamentos e processos de dividendos
 description: Conheça os pagamentos e transações, tais como horários de pagamento e processos de recuperação para o mercado comercial e outras transações.
-ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
+ms.service: marketplace
+ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 12/04/2020
-ms.openlocfilehash: f4d31a5cf0752d03248b0efddb98ce621f9174f9
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: f2ba8132677eb0a0368021b6d7065f5202589f24
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086180"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146957"
 ---
 # <a name="payout-schedules-and-processes"></a>Agendamentos e processos de dividendos
 
-**Funções adequadas**
-
-- Administrador de conta
-- Administrador global
+**Funções adequadas**: Administração de contas | Administração global
 
 Este artigo discute a agenda de pagamentos da Microsoft, onde encontrar o estado de pagamento e o processo de não pagamento do cliente.
 
@@ -79,10 +76,10 @@ O seguinte horário é um exemplo:
 | --- | --- | --- |
 | Data de pagamento de exemplo | 10/15/2020 | Marcado como **Enviado** no Histórico de Transações e na secção de Pagamentos no Painel de Pagamentos |
 | <font color="red">Se o cliente não pagar à Microsoft</font> | 12/2/2020 – 12/5/2020 | Sem mudanças, como acima |
-| Cliente recebe primeiro e-mail de pagamento em atraso | 12/6/2020 | Nenhum |
-| Cliente recebe e-mails regulares de urgência crescente | 12/7/2020 – 1/31/2021 | Nenhum |
+| Cliente recebe primeiro e-mail de pagamento em atraso | 12/6/2020 | Nenhuma |
+| Cliente recebe e-mails regulares de urgência crescente | 12/7/2020 – 1/31/2021 | Nenhuma |
 | Editor é notificado write-off é provável | 1/7/2021 | E-mail notificação enviada ao editor que o seu cliente ainda não enviou o pagamento. O ID de transação e o valor em dólares estão incluídos. |
-| Cliente recebe aviso de rescisão | 2/1/2021 | Nenhum |
+| Cliente recebe aviso de rescisão | 2/1/2021 | Nenhuma |
 | Fim do processo de recolha / os fundos são anulados | 2/15/2021 | E-mail notificação enviada ao editor de que os fundos foram anulados. O ID de transação e o valor em dólares estão incluídos. |
 | O pagamento é deduzido | 3/1/2021 | Editor verá transação negativa em declaração de pagamento do Partner Center |
 | O pagamento é retido | 3/15/2021 | Os pagamentos futuros serão mostrados na declaração de pagamento do Partner Center. A editora não receberá o pagamento até que o saldo não seja mais negativo.  |

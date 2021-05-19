@@ -9,23 +9,18 @@ author: billLinzbach
 ms.author: billLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cf5c64893bd5a55d842b2c426d05480a5a943a36
-ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
+ms.openlocfilehash: 522237ab1a3a6814e36218ef2a57fd1bdda5437c
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106502906"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147688"
 ---
 # <a name="apply-to-sell-in-microsoft-national-clouds-as-part-of-the-csp-program"></a>Aplicar para vender nas nuvens nacionais da Microsoft como parte do programa CSP
 
-**Aplica-se a**
+**Aplica-se a**: Partner Center for Microsoft Cloud for US Government | Centro de Parceiros para Microsoft Cloud Germany
 
-- Centro de Parceiros do Microsoft Cloud for US Government
-- Centro de Parceiros para Microsoft Cloud Germany
-
-**Funções adequadas**
-
-- Administrador global
+**Funções apropriadas**: Administração global
 
 Além de vender aos clientes como parte do programa global Cloud Solution Provider, os parceiros qualificados da Microsoft também podem vender soluções em nuvem a clientes em três nuvens nacionais distintas. As nuvens nacionais são casos físicos e lógicos isolados em rede de serviços de nuvem empresarial da Microsoft, que estão confinados dentro das fronteiras geográficas de países específicos e operados por pessoal local.
 

@@ -10,23 +10,18 @@ ms.author: billLi
 ms.localizationpriority: medium
 robots: noindex,nofollow
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2171e2b10101e99bdd8d415a936ba98af65c2a1b
-ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
+ms.openlocfilehash: d2168dcd60b8675a21960918dab49b778025fa51
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106502575"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147586"
 ---
 # <a name="instructions-for-csp-regional-authorization-tenant-consolidation"></a>Instruções para consolidação de inquilinos de autorização regional de CSP
 
-**Aplica-se a**
+**Aplica-se a**: Partner Center | Centro de Parceiros para Microsoft Cloud para governo dos EUA
 
-- Centro de Parceiros do Microsoft Cloud for US Government
-
-**Funções adequadas**
-
-- Administrador global
-- Agente administrativo
+**Funções adequadas**: Administração global | Agente administrativo
 
 \[Algumas informações dizem respeito a um produto pré-lançado que pode ser substancialmente modificado antes de ser lançado comercialmente. A Microsoft não faz garantias, de forma expressa ou implícita, em relação à informação aqui apresentada.\]
 

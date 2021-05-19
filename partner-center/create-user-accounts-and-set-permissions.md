@@ -9,20 +9,16 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.date: 10/12/2020
-ms.openlocfilehash: c8fad4432f9aabba69877d80038ec9e2665c639d
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: 9621f0bc3283d7d3b08e2ebac62b4e5d8c95a4d4
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492539"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148147"
 ---
 # <a name="create-user-accounts"></a>Criar contas de utilizador  
 
-**Funções adequadas**
-
-- Administrador de conta
-- Administrador global
-- Administração de gestão de utilizadores
+**Funções adequadas**: Administração de contas | Administração global | Administração de gestão de utilizadores
 
 Crie contas de utilizador para funcionários que precisem de acesso ao Centro de Parceiros. Estas tarefas devem ser feitas pela administração de gestão de utilizadores, pela administração de contas ou pela administração global. O utilizador que executa estas tarefas também deve ser atribuído às funções de Administrador Ativo (AAD) do Administrador do Utilizador ou administrador global. Para obter mais informações sobre as funções da AAD, consulte [permissões de função de administrador no Diretório Ativo Azure](/azure/active-directory/users-groups-roles/directory-assign-admin-roles).
 

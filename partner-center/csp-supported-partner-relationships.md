@@ -1,5 +1,5 @@
 ---
-title: Relações de parceiros da CSP apoiadas
+title: Relações de parceiros CSP suportados
 ms.topic: article
 ms.date: 05/12/2020
 ms.service: partner-dashboard
@@ -9,19 +9,16 @@ author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cbba669cbccf96fe9addc6d4b7c7ac4b86c15ddf
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: b70f8f152bc3711e5a715b6a4f0316f8aaa9b903
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "92529247"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147518"
 ---
 # <a name="learn-how-partners-can-work-with-other-partners-in-the-csp-program"></a>Saiba como os parceiros podem trabalhar com outros parceiros no programa CSP
 
-**Aplica-se a**
-
-- Partner Center
-- Parceiros no programa CSP
+**Funções adequadas**: Todos os parceiros interessados em aprender mais sobre a CSP
 
 Este artigo descreve os tipos-chave de relações de parceiros no programa Microsoft Cloud Solution Provider (CSP). Também descreve vários casos de uso, benefícios e cenários de transação suportados para parceiros de programas CSP.
 

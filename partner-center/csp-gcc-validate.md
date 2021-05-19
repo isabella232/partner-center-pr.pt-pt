@@ -9,20 +9,16 @@ author: BillLinzbach
 ms.author: billLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8614b321b453d280b8af0c548ea61c049708a6db
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: 442ba27776786bbd153360d20cb93574a3d4d4ec
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979642"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147705"
 ---
 # <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria"></a>Escritório 365 Governo CCC para critérios de elegibilidade do CSP Partner e do Cliente 
 
-**Funções adequadas**
-
-- Administrador global
-- Agente administrativo
-- Agente comercial
+**Funções adequadas**: Administração global | Agente administrativo | Agente comercial
 
 >[!NOTE]
 >O processo de validação e os critérios descritos abaixo são específicos dos parceiros de conta direta. Os parceiros de conta direta incluem revendedores diretos e fornecedores indiretos.  Se for um Revendedor Indireto, trabalhe com o seu Fornecedor Indireto.
@@ -63,6 +59,6 @@ O Escritório 365 Governo GCC para parceiros e clientes da CSP será validado pa
 
 Uma entidade comercial internacional pode qualificar-se se cumprir os requisitos acima referidos e verificar a presença dos EUA (como endereço de correio, localização física, etc.).
 
-## <a name="next-steps"></a>Próximos passos
+## <a name="next-steps"></a>Passos seguintes
 
 - [Sell Office 365 Governo GCC para assinaturas CSP a clientes qualificados](csp-gcc-overview.md)

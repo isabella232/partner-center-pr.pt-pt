@@ -9,18 +9,16 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dae147c45aca27657f1e88b6943279f9771313d6
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 1729c5b6668a67e35a17c74998888324ce102c09
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106133000"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146243"
 ---
 # <a name="moving-from-partner-membership-center-pmc-to-partner-center"></a>Passar do Centro de Adesão de Parceiros (PMC) para o Centro de Parceiros
 
-**Funções adequadas**
-
-- Administrador global
+**Funções apropriadas**: Administração global
 
 Estamos a facilitar-lhe o negócio, introduzindo um único website (Partner Center) que serve como ponto central de envolvimento. Você encontrará tudo o que fez no Partner Membership Center (PMC) pode ser realizado a partir do seu dashboard no Partner Center. 
 

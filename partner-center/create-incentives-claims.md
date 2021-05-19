@@ -9,20 +9,16 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 9780aa80fdcaab6cfd240127b80155cbfb8dcd26
-ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
+ms.openlocfilehash: 185d1593808bc417fa15646955a0cce683242570
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106502923"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148164"
 ---
 # <a name="create-and-manage-an-incentives-co-op-claim"></a>Criar e gerir uma reivindicação cooperativa de incentivos
 
-**Funções adequadas**
-
-- Administrador global
-- Administradores de incentivos
-- Utilizador de incentivos
+**Funções adequadas**: Administração global | Incentivos a | Utilizador de incentivos
 
 Pode iniciar uma reclamação de incentivos a partir do Centro de Parceiros.
 

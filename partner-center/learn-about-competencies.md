@@ -9,19 +9,16 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a642c9fc8b920668bd6883c01573e5fbf5523e53
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 24dd96126ab96b3e3790e9ebc00c128cac07ad24
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106178872"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146600"
 ---
 # <a name="differentiate-your-business-by-attaining-microsoft-competencies"></a>Diferenciar o seu negócio ao alcançar competências da Microsoft
 
-**Funções adequadas**
-
-- Administrador global
-- Administração de gestão de utilizadores
+**Funções adequadas**: Administração global | Administração de gestão de utilizadores
 
 Demonstre a sua experiência comprovada na entrega de soluções de qualidade numa ou mais áreas de negócio especializadas. As competências da Microsoft são projetadas para o preparar para atender às necessidades dos seus clientes e para o ajudar a atrair novos clientes que procuram fornecedores de soluções certificados pela Microsoft. Junte-se ao nível de elite dos parceiros da Microsoft e destaque-se dos seus pares.
 

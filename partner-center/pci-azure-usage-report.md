@@ -9,21 +9,16 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ef72aa2e44797c906cdd0a216cf2d8355668c0a9
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 0d9224e9d86c540cc463538acc435f682cdc2d58
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086214"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146855"
 ---
 # <a name="azure-usage-report-available-from-the-partner-center-insights-dashboard"></a>Relatório de utilização do Azure disponível no painel de insights do Centro de Parceiros
 
-**Funções adequadas**
-
-- Administrador global
-- Agente administrativo
-- Espectador de relatório
-- Espectador de relatório executivo
+**Funções adequadas**: Administração global | Agente administrativo | Relatório | do espectador Espectador de relatório executivo
 
 O relatório Azure Usage apresenta métricas relacionadas com as subscrições Azure dos seus clientes. Este relatório inclui as receitas de consumo da Azure e a utilização por categorias de contadores. Pode ver as seguintes secções do relatório de utilização do Azure.
 

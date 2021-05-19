@@ -9,26 +9,18 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2d25fcb99695a726ab99fca4c4163e268a464526
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 0fc1176c6620300002afbc9bf218afcceb777538
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441834"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146277"
 ---
 # <a name="partner-center-for-microsoft-cloud-for-us-government-supports-partner-offers-to-government-agencies"></a>Partner Center for Microsoft Cloud for US Government apoia ofertas de parceiros a agências governamentais
 
-**Aplica-se a**
+**Aplica-se a**: Partner Center for Microsoft Cloud for US Government
 
-- Centro de Parceiros do Microsoft Cloud for US Government
-
-**Funções adequadas**
-
-- Administrador global
-- Administração de gestão de utilizadores
-- Agente administrativo
-- Agente comercial
-- Administrador de faturação
+**Funções adequadas**: Administração global | Administração de administração de utilizadores | Agente administrativo | Agente comercial | Administrador de faturação
 
 ## <a name="microsoft-cloud-for-us-government-meeting-data-protection-requirements"></a>Microsoft Cloud para governo dos EUA: cumprir os requisitos de proteção de dados
 

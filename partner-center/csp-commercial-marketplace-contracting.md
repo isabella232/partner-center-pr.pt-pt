@@ -9,20 +9,17 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4b4653e0f26bdce558dbdc70f03251e60277527f
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: 28a3b40eb3a3e037cbeb434c57a93b9a0a94e691
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979659"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148096"
 ---
 # <a name="contracts-for-csp-partners-doing-business-in-the-commercial-marketplace"></a>Contratos para parceiros da CSP que fazem negócios no mercado comercial
 
 
-**Funções adequadas**
-
-- Administrador global
-- Agente administrativo
+**Funções adequadas**: Administração global | Agente administrativo
 
 Este artigo é sobre contratos para parceiros no programa CSP que optam por adquirir ofertas de marketplace ISV ou produtos para os seus clientes no mercado comercial do Partner Center ou no portal Azure.
 
@@ -43,7 +40,7 @@ Para obter mais informações sobre os termos que regem as atividades da CSP no 
   
 A Microsoft não assume a responsabilidade legal pela prestação de serviços entre as partes transaccionantes e não fornece um mecanismo para que os parceiros transaccionantes estabeleçam termos legais através da sua plataforma de comércio. Se os parceiros transaccionantes exigirem termos legais adicionais, terão de executar um acordo diretamente.
 
-## <a name="next-steps"></a>Próximos passos
+## <a name="next-steps"></a>Passos seguintes
 
 - [Apoio a produtos de mercado comercial](csp-commercial-marketplace-support.md)
 

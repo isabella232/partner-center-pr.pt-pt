@@ -9,21 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7a42381e6c7f3b33acae887f78fb87b5d309279e
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: e8c0935ecf4cf7dba799eefbcbb74ed5e6702994
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106178940"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146668"
 ---
 # <a name="use-metrics-in-partner-center-to-increase-adoption-and-satisfaction"></a>Use métricas no Partner Center para aumentar a adoção e satisfação
 
-**Funções adequadas**
-
-- Administrador global
-- Administração de gestão de utilizadores
-- Agente administrativo
-- Agente comercial
+**Funções adequadas**: Administração global | Administração de administração de utilizadores | Agente administrativo | Agente comercial
 
 Os nossos parceiros usam muitas métricas para avaliar se o seu negócio está a crescer e onde focar o investimento. O Partner Center pode ajudar fornecendo dados sobre se e como os seus clientes estão usando as licenças que compraram. Esta informação está disponível para produtos office (incluindo OneDrive for Business, que é contado juntamente com o SharePoint).
 

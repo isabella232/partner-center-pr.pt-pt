@@ -8,19 +8,16 @@ ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
-ms.openlocfilehash: 559b5334eb23ad76fe8cc51fc1beeaa3a86c6fa1
-ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
+ms.openlocfilehash: 85946f44e1265ad5012faf9d782609904100c80e
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "108702795"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146260"
 ---
 # <a name="csp-one-time-purchase-reconciliation-file-fields"></a>CSP uma vez comprar campos de arquivos de reconciliação
 
-**Funções adequadas**
-
-- Administrador de conta
-- Agente de faturação
+**Funções adequadas**: Administração de contas | Agente de faturação
 
 ## <a name="using-the-recon-file"></a>Usando o ficheiro de reconhecimento
 O quadro abaixo apresenta descrições e valores de amostra para os campos no ficheiro de reconciliação para compras únicas da CSP.

@@ -9,20 +9,17 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 140dd5b7ad8af0f29dabd452dd59f22e3314cdd5
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: 1a758129a2610cbc42a6cc031d8527ed874d083b
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979554"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147824"
 ---
 # <a name="support-for-commercial-marketplace-products-in-the-csp-program"></a>Apoio a produtos de mercado comercial no programa CSP
 
 
-**Funções adequadas**
-
-- Administrador global
-- Agente administrativo
+**Funções adequadas**: Administração global | Agente administrativo
 
 Os parceiros do programa CSP são o primeiro ponto de contacto para questões de faturação de clientes ou gestão de subscrição relacionadas com qualquer subscrição isv de terceiros ou produto adquirido para clientes do mercado comercial.
 
@@ -48,6 +45,6 @@ A maioria dos dados de contacto do ISV aparecem na página **de detalhes** da Of
 
 Para aceder à página de detalhes da **Oferta,** consulte [as ofertas do Discover no mercado comercial.](csp-commercial-marketplace-discover.md#view-marketplace-offers-in-partner-center)
 
-## <a name="next-steps"></a>Próximos passos
+## <a name="next-steps"></a>Passos seguintes
 
 - [Conheça os contratos relacionados com produtos de mercado comercial](csp-commercial-marketplace-contracting.md)

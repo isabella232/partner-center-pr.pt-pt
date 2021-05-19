@@ -9,19 +9,16 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3aec8c8abe6184be48fd54e0f76bc7e0c08e4792
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 7dab3469b885f693ba8498e8a07eb120b8f07021
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441885"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147212"
 ---
 # <a name="use-analytics-to-learn-more-about-subscription-revenue"></a>Use a análise para saber mais sobre as receitas de subscrição
 
-**Funções adequadas**
-
-- Administrador global
-- Administrador sócio da MPN
+**Funções adequadas**: Administração global | Administrador sócio da MPN
 
 O planeamento de formas de desenvolver o seu negócio CSP inclui compreender como os seus clientes utilizam os produtos da Microsoft. Tem várias opções para recolher dados no Partner Center, e pode recolher dados sobre o seu negócio e sobre se e como os seus clientes estão a usar as licenças que compraram. Se estiver no modelo direto da CSP, também tem a oportunidade de instalar e utilizar a aplicação Partner Center Analytics para o Power BI para recolher dados adicionais.
 

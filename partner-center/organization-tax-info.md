@@ -9,22 +9,16 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: a7278e6dff35d7941fbe44b65609dc4a2443c1f3
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 1605072e35a96d8bc8ed2e9f507b38a6837fbd35
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132762"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146940"
 ---
 # <a name="add-a-vat-id-to-your-billing-profile"></a>Adicione um ID de IVA ao seu perfil de faturação
 
-**Funções adequadas**
-
-- Administrador global
-- Administração de gestão de utilizadores
-- Administrador de faturação
-- Agente administrativo
-- Agente comercial
+**Funções adequadas**: Administração global | Administração de administração de utilizadores | Administrador de faturação | Agente administrativo | Agente comercial
 
 Pode utilizar o seguinte procedimento para atualizar o seu perfil de faturação para incluir o seu ID de IVA. (Note que isso pode não ser possível no seu país ou região.)
 

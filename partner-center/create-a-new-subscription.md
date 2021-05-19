@@ -1,7 +1,7 @@
 ---
 title: Criar subscrições de clientes no Partner Center
 ms.topic: how-to
-ms.date: 07/22/2020
+ms.date: 05/17/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como vender subscrições aos seus clientes por produtos publicados pela Microsoft, bem como produtos SaaS publicados por ISVs de terceiros.
@@ -9,26 +9,18 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.openlocfilehash: 559d1fbd2efc1417ae89931279b9d3c9a1d67f7c
-ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
+ms.openlocfilehash: 3269fa994d704c0a0dae067087bad8589a7ce031
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106502940"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148207"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Create, suspend, or cancel customer subscriptions (Criar, suspender ou cancelar subscrições de clientes)
 
-**Aplica-se a**
+**Aplica-se a**: Partner Center | Centro de Parceiros para Microsoft Cloud para governo dos EUA
 
-- Centro de Parceiros do Microsoft Cloud for US Government
-
-**Funções adequadas**
-
-- Agente administrativo
-- Administrador de faturação
-- Administrador global
-- Agente helpdesk
-- Agente comercial
+**Funções adequadas**: Agente administrador | Administrador de faturação | Administração global | Agente helpdesk | Agente comercial
 
 Depois de ter criado um registo do seu cliente no Partner Center, pode vendê-los subscrições a produtos do catálogo. Isto inclui produtos publicados pela Microsoft e software como um serviço (SaaS) produtos publicados por fornecedores de software independentes de terceiros (ISVs) para o [mercado comercial.](https://azuremarketplace.microsoft.com/marketplace)
 
@@ -115,6 +107,9 @@ Quando altera o estado de uma subscrição de **Suspenso,** os utilizadores não
 5. Todos os dados serão eliminados a menos que a subscrição seja reativada no prazo de 90 dias, ou 90 dias mais o número de dias entre o momento em que a conta foi aberta e o primeiro período de faturação (máximo de 120 dias).
 
 Quando suspende uma subscrição, a data que vê abaixo do botão **Suspenso** indica quando a subscrição expirará automaticamente se não a reativar. 
+
+>[!NOTE]
+>As subscrições da CSP não têm um período de validade (como fazem as subscrições diretas da Web) durante o qual os serviços ainda funcionam, mas a subscrição não gera quaisquer encargos de faturação. As assinaturas CSP estão ativas ou suspensas (ou totalmente eliminadas).
 
 ### <a name="cancel-a-subscription"></a>Cancelar uma subscrição
 

@@ -9,25 +9,18 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 89080cb580d9b451454d108c6ef0ce0a08c1bf0c
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 9b5daf91646324a9d4ace92d25736cfd0361ad6c
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441902"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147280"
 ---
 # <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>Saiba como ler ficheiros de reconciliação de utilização diária no Partner Center
 
-**Aplica-se a**
+**Aplica-se a**: Partner Center | Centro de Parceiros para Microsoft Cloud para governo dos EUA
 
-- Centro de Parceiros do Microsoft Cloud for US Government
-
-**Funções adequadas**
-
-- Agente administrativo
-- Administrador de faturação
-- Agente comercial
-- Agente helpdesk
+**Funções adequadas**: Agente administrador | Administrador de faturação | Agente comercial | Agente helpdesk
 
 Este artigo explica como ler ficheiros de reconciliação de utilização diária.
 

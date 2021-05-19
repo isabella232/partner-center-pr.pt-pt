@@ -9,19 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ac6169ea6680ea0b36cd5caa3f3e8276f557bea2
-ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
+ms.openlocfilehash: bdf6495d86da09b7d1d167c3fa1b3b5f15a35ab6
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106502557"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147501"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Vender subscrições de software através do programa Cloud Solution Provider (CSP)
 
-**Funções adequadas**
-
-- Agente administrativo
-- Administrador global
+**Funções adequadas**: Agente administrador | Administração global
 
 Com reservas Azure e subscrições de Servidor (subscrições do Windows Server e SQL Server), os parceiros do programa CSP podem melhor responder à procura de soluções mais económicas e persistentes para o cliente. 
 

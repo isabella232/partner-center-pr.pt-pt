@@ -9,19 +9,16 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: high
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 47a670c97acce757270076cf0ae01067db544e2f
-ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
+ms.openlocfilehash: a980d35104f2fe7aad0117f3515a61ecf217a2b9
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106502957"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148300"
 ---
 # <a name="core-requirements-for-the-activities-in-your-incentive-program"></a>Requisitos fundamentais para as atividades no seu programa de incentivos
 
-**Funções adequadas**
-
-- Administradores de incentivos
-- Utilizador de incentivos
+**Funções adequadas**: Incentivos administrativos | Utilizador de incentivos
 
 Cada tipo de atividade para a qual submete uma reivindicação de incentivos tem requisitos fundamentais. Tens de demonstrar que cumpriste estes requisitos na tua prova de documentos de execução. Algumas atividades também requerem tipos e métricas de comunicações específicas.
 

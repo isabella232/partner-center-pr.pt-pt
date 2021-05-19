@@ -9,20 +9,16 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dcd4d322a0a62644dbceb4ba4b4910d218495121
-ms.sourcegitcommit: e462f562e7f26b7d6870c22638a2a841499109d6
+ms.openlocfilehash: beb7888f947e766f753906c1f6452118cc5efb99
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "109740374"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147008"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-cloud-business-applications-competency"></a>Utilizar Indicadores de Contribuição de Parceiros para obter a competência Business Applications da Cloud
 
-**Funções adequadas**
-
-- Administrador global
-- Administrador sócio da MPN
-- Administrador de conta
+**Funções adequadas**: Administração global | | de administrador sócio da MPN Administrador de conta
 
 Este artigo descreve sete indicadores-chave de contribuição de parceiros (PCI) utilizados para avaliar os progressos de um parceiro para alcançar ou manter uma competência de Aplicações empresariais silver ou gold cloud.
 

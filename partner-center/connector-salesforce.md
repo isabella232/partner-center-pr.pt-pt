@@ -8,19 +8,16 @@ description: Sincronizar as suas referências no Partner Center com o seu Salesf
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 8139f89a37048b1790353e3bdd18ac1b44887219
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: fa9b35343e1251cfce5caff107de8dff344f4e68
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284388"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148419"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>Conector de co-venda para Salesforce CRM - visão geral
 
-**Funções adequadas**
-
-- Administração de referências
-- Administrador de sistema ou personalizador de sistema no CRM
+**Funções adequadas**: Administração de referências | Administrador de sistema ou personalizador de sistema no CRM
 
 O conector partner Center co-sell permite que os seus vendedores co-vendam com a Microsoft a partir dos seus sistemas CRM. Não terão de ser treinados para usar o Partner Center para gerir os negócios de co-venda. Utilizando os conectores Co-sell, pode criar uma nova referência de Co-venda para contratar um vendedor da Microsoft, receber referências do vendedor da Microsoft, aceitar/recusar referências, modificar dados de negócios como o valor do negócio e a data de encerramento.  Também pode receber quaisquer atualizações dos vendedores da Microsoft nestas ofertas de Co-venda. Pode fazer todas as suas referências enquanto trabalha dentro do CRM à sua escolha e não no Partner Center. 
 

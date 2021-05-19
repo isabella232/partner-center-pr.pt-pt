@@ -9,19 +9,16 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f741ef4e44632e1d239285b58e99fbb38a8f37e7
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: ab30f8391df58155c8511dc628b1fefd94c8d768
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979605"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147977"
 ---
 # <a name="discover-offers-and-pricing-in-partner-center-commercial-marketplace"></a>Descubra ofertas e preços no mercado comercial partner Center
 
-**Funções adequadas**
-
-- Administrador global
-- Agente administrativo
+**Funções adequadas**: Administração global | Agente administrativo
 
 Quando os Fornecedores independentes de Software (ISV) optarem por publicar uma oferta no mercado comercial, também podem decidir se querem que a oferta seja disponibilizada no programa CSP. Se optarem por vender a oferta através do programa CSP, os parceiros da CSP deverão ver a oferta na área do Partner Center Marketplace.
 
@@ -100,6 +97,6 @@ Para saber mais sobre a experiência ISV no mercado comercial, leia os [Forneced
 
 Para obter mais informações sobre a experiência da CSP no mercado, leia a [visão geral do mercado comercial.](csp-commercial-marketplace-overview.md)
 
-## <a name="next-steps"></a>Próximos passos
+## <a name="next-steps"></a>Passos seguintes
 
 - [Comprar ofertas de mercado comercial](csp-commercial-marketplace-purchase.md)

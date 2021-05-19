@@ -8,19 +8,16 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: 3cd9ee73da3432b88c2ef3669f12451d675a319a
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: e98296aa42327a7b2ebd91b44f2e28e9010600bb
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179178"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146753"
 ---
 # <a name="use-these-resources-to-help-you-create-incentives-plans-and-proofs-of-execution"></a>Use estes recursos para ajudá-lo a criar planos de incentivos e provas de execução
 
-**Funções adequadas**
-
-- Administradores de incentivos
-- Utilizador de incentivos
+**Funções adequadas**: Incentivos administrativos | Utilizador de incentivos
 
 Este artigo descreve alguns dos documentos-chave necessários para que tenha sucesso e seja pago pelo seu trabalho num programa específico de incentivos. Estes documentos incluem:
 

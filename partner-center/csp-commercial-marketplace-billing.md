@@ -9,20 +9,17 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 10592c7f8a3b1f075bc726161603859552b29961
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: c25d4ab3077c6a0f648c767472e8b7b60ef53a9c
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979537"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148028"
 ---
 # <a name="billing-for-commercial-marketplace-products-and-subscriptions-in-partner-center"></a>Faturação para produtos e subscrições de mercado comercial no Partner Center
 
 
-**Funções adequadas**
-
-- Administrador global
-- Administrador de faturação
+**Funções adequadas**: Administração global | Administrador de faturação
 
 Como parceiro no programa CSP, pode utilizar o Partner Center para comprar produtos SaaS baseados em licenças a editores da ISV no mercado comercial. Depois de o fazer, pode aceder a uma conta para este tipo de compras. O período de faturação começa no primeiro dia do mês civil e termina no último dia do mês civil. As faturas são disponibilizadas no 8º dia do mês seguinte.
 
@@ -37,7 +34,7 @@ Os parceiros do programa CSP são faturados para soluções de mercado comercial
 
 O administrador global ou administrador de faturação da sua empresa receberá um e-mail quando uma fatura estiver pronta para ver. Para aceder à fatura mais recente e ficheiro de reconciliação para compras de produtos de mercado comercial:
 
-1. Inscreva-se no painel do Centro [de Parceiros.](https://partner.microsoft.com/dashboard/)
+1. Inicie sessão no [dashboard](https://partner.microsoft.com/dashboard/) do Centro de Parceiros.
 
 2. No menu Partner Center, selecione **Billing**. 
 
@@ -47,7 +44,7 @@ O administrador global ou administrador de faturação da sua empresa receberá 
 
     - **Separador de compras recorrentes e pontuais:** Mostra ficheiros de fatura e reconciliação para o plano Azure, reservas Azure, software e produtos de mercado comercial.
   
-3. Selecione o **separador compras recorrente e único.** Se adquiriu subscrições para um cliente numa moeda diferente, verá um separador para cada moeda. Você pode fazer algumas coisas fr:om esta página:
+3. Selecione o **separador compras recorrente e único.** Se adquiriu subscrições para um cliente numa moeda diferente, verá um separador para cada moeda. Pode fazer algumas coisas a partir desta página:
 
     - Para ver a fatura mais recente e o ficheiro de reconciliação, selecione **Fatura** ou **Arquivo de Reconciliação**. (Se assim o quisesse, também pode aceder aos dados mais recentes da fatura e do ficheiro de reconhecimento utilizando [APIs do Partner Center](/partner-center/develop/).
 
@@ -101,9 +98,9 @@ No caso de ofertas isv de teste gratuito:
 
 - Ao comprar e implantar um produto livre de testes da ISV para o seu cliente, o cliente é automaticamente inscrito no teste gratuito pela editora ISV. O período experimental gratuito termina automaticamente após o período definido pela editora ISV. Após o fim do período, o cliente será cobrado. Isto significa que o ficheiro de reconciliação pode mostrar duas linhas para um produto elegível para o ensaio: um que acompanha o período experimental e outro que acompanha a oferta paga (que apresentará um custo de $0 até ao final do período experimental). Assim que o julgamento terminar, a fila que mostra a oferta paga começará a mostrar encargos. 
 
-Para obter mais informações sobre o que cada coluna representa, consulte [utilizar os seus ficheiros de reconciliação](use-the-reconciliation-files.md). Ver também [Tipos de faturação no Centro de Parceiros](billing-different-types.md)
+Para obter mais informações sobre o que cada coluna representa, consulte [utilizar os seus ficheiros de reconciliação](use-the-reconciliation-files.md). Ver também [Tipos de faturação no Centro de Parceiros](./billing-basics.md)
 
-## <a name="next-steps"></a>Próximos passos
+## <a name="next-steps"></a>Passos seguintes
 
 - [Gerir produtos de mercado comercial para clientes](csp-commercial-marketplace-manage.md)
 - [Conheça o apoio a produtos de mercado comercial](csp-commercial-marketplace-support.md)

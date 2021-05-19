@@ -9,20 +9,17 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 841308d535d4071ee0a8eabf3e70325edea5777c
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: 3f5cf4895fa4d66c65215989d808a1dd18ef9064
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979721"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147858"
 ---
 # <a name="purchase-commercial-marketplace-products-for-your-customers-in-partner-center"></a>Compre produtos de mercado comercial para os seus clientes no Partner Center
 
 
-**Funções adequadas**
-
-- Administrador global
-- Agente administrativo
+**Funções adequadas**: Administração global | Agente administrativo
 
 Como parceiro no programa Cloud Solution Provider (CSP), pode utilizar o mercado comercial para comprar subscrições para os seus clientes a determinados produtos de Software como um Serviço (SaaS) oferecido por Fornecedores de Software Independentes (ISVs).
 
@@ -59,6 +56,6 @@ Em contraste com as subscrições saaS baseadas em licença de editores ISV de t
 
 7. Escolha uma oferta específica e, em seguida, **selecione Criar.**
 
-## <a name="next-steps"></a>Próximos passos
+## <a name="next-steps"></a>Passos seguintes
 
 - [Gerir ofertas de mercado comercial](csp-commercial-marketplace-purchase.md)

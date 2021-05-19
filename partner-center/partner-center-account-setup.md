@@ -9,19 +9,16 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b59d18a62ce6a775e97f88708467d07e9c351a66
-ms.sourcegitcommit: e462f562e7f26b7d6870c22638a2a841499109d6
+ms.openlocfilehash: 6c5acad01490ca679fa0761aa015fe0142e476bd
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "109740391"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146379"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Gerir a sua conta Partner Center - perfil da empresa, informações bancárias, funções, permissões e muito mais
 
-**Funções adequadas** 
-
-- Administrador global
-- Administrador de conta
+**Funções adequadas**: Administração global | Administrador de conta
 
 A conta que cria no Partner Center quando se inscreve é o seu email de trabalho mais as informações do seu negócio. Depois de criar uma conta, terminará a configuração do perfil completo da sua empresa, incluindo detalhes de suporte, isenções de impostos de arquivo, se for caso disso, e informações de contacto primários. A conta da sua empresa também incluirá contas de utilizadores para qualquer pessoa da sua equipa que utilize o Partner Center. O trabalho que podem fazer inclui a adição ou gestão de clientes, a venda de subscrições, o trabalho com faturação e faturação, a criação de perfis de negócio, a gestão de referenciações, o trabalho com programas de incentivos, a prestação de apoio, e muito mais.
 

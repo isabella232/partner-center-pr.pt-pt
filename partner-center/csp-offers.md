@@ -9,20 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c5617bbec82bd8e4b6fbeb2e6a33608889f14502
-ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
+ms.openlocfilehash: 57cddcaf13431b0e61ef1573a4dd54b229c7e097
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "106964345"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147637"
 ---
 # <a name="overview-of-partner-offers-in-the-cloud-solution-provider-program"></a>Descrição geral das ofertas de parceiros no programa Fornecedor de Solução Cloud
 
-**Funções adequadas**
-
-- Agente administrativo
-- Administrador global
-- Agente comercial
+**Funções adequadas**: Agente administrador | Administração global | Agente comercial
 
 Os parceiros da Microsoft no programa Cloud Solution Provider (CSP) têm um catálogo crescente de ofertas disponíveis. Pode vender toda a gama de [serviços na nuvem](https://partner.microsoft.com/cloud-solution-provider/products-and-services)da Microsoft , e várias outras ofertas que mudam frequentemente. Para ver as ofertas do CSP para o mês em curso, inscreva-se no Partner Center e depois vá para a página [**de Preços e Ofertas.**](https://partnercenter.microsoft.com/pcv/sales)  
 

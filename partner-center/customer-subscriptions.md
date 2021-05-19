@@ -9,21 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6ae63c2cacbdea7a1aa2bf08ffff8a3cde512668
-ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
+ms.openlocfilehash: 894d0152920c37c0c6d719fce562c43dbf96a6c4
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106502752"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147365"
 ---
 # <a name="how-csp-program-partners-can-sell-subscriptions-to-customers"></a>Como os parceiros de programas da CSP podem vender subscrições a clientes
 
-**Funções adequadas**
-
-- Agente administrativo
-- Administrador global
-- Agente helpdesk
-- Agente comercial
+**Funções adequadas**: Agente administrador | Administração global | Agente helpdesk | Agente comercial
 
 Como parceiro da CSP, uma das coisas centrais que faz é oferecer subscrições de produtos Microsoft aos seus clientes. No Partner Center, pode gerir todas as suas subscrições para cada cliente. Pode adicionar subscrições, adicionar licenças às subscrições existentes, até oferecer subscrições de teste a clientes que queiram testar o software. Além disso, pode ver a análise para entender como os seus clientes estão a usar o software, ajudando-o a fornecer um melhor suporte.
 

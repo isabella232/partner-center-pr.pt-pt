@@ -8,18 +8,16 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: seodec18
 ms.date: 06/12/2020
-ms.openlocfilehash: 90d1fe9728c43d2f34b6cfe2d9e4c9613d865aeb
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 8c47204d54cf05113eae73cede4afedf106ac121
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106133068"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146515"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>Unir a sua conta de parceiro com outra conta de parceiro
 
-**Funções adequadas**
-
-- Administrador de conta
+**Funções adequadas**: Administração de contas
 
 Duas ou mais empresas que são parceiros ativos da Microsoft e têm contas no Partner Center podem optar por fundir as suas contas.
 

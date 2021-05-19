@@ -9,25 +9,18 @@ ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/18/2020
-ms.openlocfilehash: 4422c5b002f8233f9d6225e7d4e7a82f6e37a280
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 9504f66a53b2dc2303303e3f82020b591ce1f94f
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441851"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146974"
 ---
 # <a name="escalate-problems-to-microsoft-and-learn-which-issues-are-more-suited-to-microsoft-escalation"></a>Aumente os problemas para a Microsoft e saiba quais os problemas mais adequados à escalada da Microsoft  
 
-**Aplica-se a**
+**Aplica-se a**: Partner Center | Centro de Parceiros para Microsoft Cloud para governo dos EUA
 
-- Centro de Parceiros do Microsoft Cloud for US Government
-
-**Funções adequadas**
-
-- Agente administrativo
-- Administrador global
-- Agente comercial
-- Agente helpdesk
+**Funções adequadas**: Agente administrador | Administração global | Agente comercial | Agente helpdesk
 
 Espera-se que resolva problemas em nome dos seus clientes. Os seus primeiros passos devem ser verificar a [saúde do serviço](check-service-health.md) para problemas existentes e documentados. Se isso não resolver a questão do cliente, então pode usar os seus privilégios de administração para resolver problemas no software, configurações e configuração.
 

@@ -8,24 +8,18 @@ description: Aprenda respostas a perguntas comuns sobre a utilização de conect
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 939654202a370f6d9ba15d9e62a11be44884b613
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: 49a2b6e5461dacbe87c34b36805a5c240c2e5fd1
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284218"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148351"
 ---
 # <a name="troubleshoot-co-sell-referrals-connectors"></a>Resolução de problemas co-venda de conectores de referências
 
-**Aplica-se a**
+**Aplica-se a**: Dinâmica 365 CRM | Salesforce CRM
 
-- Dinâmica 365 CRM
-- Salesforce CRM
-
-**Funções adequadas**
-
-- Administração de referências
-- Administrador de sistema ou personalizador de sistema no CRM
+**Funções adequadas**: Administração de referências | Administrador de sistema ou personalizador de sistema no CRM
 
  ## <a name="questions-and-answers-about-pre-requisites"></a>Perguntas e respostas sobre pré-requisitos
 

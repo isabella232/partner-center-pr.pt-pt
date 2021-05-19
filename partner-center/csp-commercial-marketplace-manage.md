@@ -9,20 +9,17 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5e6ca188aeb50cec6f847afb08be4a9d62b36984
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: e1bb2752dad5325478496c83fc368943780d8afb
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979681"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147909"
 ---
 # <a name="manage-commercial-marketplace-products-and-offers-for-your-customers"></a>Gerir produtos e ofertas de marketplace comercial para os seus clientes
 
 
-**Funções adequadas**
-
-- Administrador global
-- Agente administrativo
+**Funções adequadas**: Administração global | Agente administrativo
 
 Os parceiros do programa Cloud Solution Provider (CSP) podem usar o portal Partner Center para comprar muitas ofertas ou subscrições isv SaaS para os seus clientes no mercado comercial. Uma vez que você compra uma oferta, você tem várias maneiras de geri-la.
 
@@ -110,7 +107,7 @@ Para ofertas de mercado comercial SaaS, pode adicionar ou remover licenças de u
 
 Também pode utilizar APIs do Partner Center para realizar a gestão do ciclo de vida e gerir faturas para as suas subscrições. Para obter mais informações, consulte [Criar uma subscrição para produtos de mercado comercial.](/partner-center/develop/create-subscription-azure-marketplace-products)
 
-## <a name="next-steps"></a>Próximos passos
+## <a name="next-steps"></a>Passos seguintes
 
 - [Comprar ofertas de mercado comercial](csp-commercial-marketplace-purchase.md)
 - [Conheça a faturação no mercado comercial](csp-commercial-marketplace-billing.md)

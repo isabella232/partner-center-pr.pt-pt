@@ -9,23 +9,18 @@ author: billLinzbach
 ms.author: billli
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d40acba3e45cfa90cbf0c5ffb8cdb0d4f484421b
-ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
+ms.openlocfilehash: d7811decea89ecee8bc1db565fb9952a8d62e572
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "109686233"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147790"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Cloud Solution Provider program guide, agreements, price lists, and offers (Guia, contratos, listas de preços e ofertas do programa Fornecedor de Solução Cloud)
 
-**Aplica-se a**
+**Aplica-se a**: Partner Center | Centro de Parceiros para Microsoft Cloud para governo dos EUA
 
-- Centro de Parceiros do Microsoft Cloud for US Government
-
-**Funções adequadas**
-
-- Administrador global
-- Agente administrativo
+**Funções adequadas**: Administração global | Agente administrativo
 
 Reveja as informações neste artigo para compreender os requisitos para participar no programa Cloud Solution Provider (CSP) da Microsoft.
 
