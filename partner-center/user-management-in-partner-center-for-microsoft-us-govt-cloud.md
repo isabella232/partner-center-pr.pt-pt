@@ -10,36 +10,36 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ddbc4415dc7ccf524f5e9618b2e787bc4ddb9926
-ms.sourcegitcommit: 837d3c5b52ab056b2b761cd85eb2426f56b62614
+ms.openlocfilehash: 4951d6abde3ea445ec588458af9f33f3ccd56092
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109794943"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146838"
 ---
-# <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-for-us-government"></a><span data-ttu-id="15f24-103">Gestão de utilizadores e licenças no Partner Center para Microsoft Cloud para governo dos EUA</span><span class="sxs-lookup"><span data-stu-id="15f24-103">User and license management in Partner Center for Microsoft Cloud for US Government</span></span>
+# <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-for-us-government"></a><span data-ttu-id="f8bbf-103">Gestão de utilizadores e licenças no Partner Center para Microsoft Cloud para governo dos EUA</span><span class="sxs-lookup"><span data-stu-id="f8bbf-103">User and license management in Partner Center for Microsoft Cloud for US Government</span></span>
 
-<span data-ttu-id="15f24-104">**Aplica-se a**: Partner Center | Centro de Parceiros para Microsoft Cloud para governo dos EUA</span><span class="sxs-lookup"><span data-stu-id="15f24-104">**Applies to**: Partner Center | Partner Center for Microsoft Cloud for US Government</span></span>
+<span data-ttu-id="f8bbf-104">**Aplica-se a**: Partner Center for Microsoft Cloud for US Government</span><span class="sxs-lookup"><span data-stu-id="f8bbf-104">**Applies to**: Partner Center for Microsoft Cloud for US Government</span></span>
 
-<span data-ttu-id="15f24-105">**Funções apropriadas**: Administração global</span><span class="sxs-lookup"><span data-stu-id="15f24-105">**Appropriate roles**: Global admin</span></span>
+<span data-ttu-id="f8bbf-105">**Funções apropriadas**: Administração global</span><span class="sxs-lookup"><span data-stu-id="f8bbf-105">**Appropriate roles**: Global admin</span></span>
 
-## <a name="how-to-manage-users-in-the-azure-portal-for-microsoft-cloud-for-us-government"></a><span data-ttu-id="15f24-106">Como gerir os utilizadores no portal Azure para o Microsoft Cloud para o Governo dos EUA</span><span class="sxs-lookup"><span data-stu-id="15f24-106">How to manage users in the Azure portal for Microsoft Cloud for US Government</span></span>
+## <a name="how-to-manage-users-in-the-azure-portal-for-microsoft-cloud-for-us-government"></a><span data-ttu-id="f8bbf-106">Como gerir os utilizadores no portal Azure para o Microsoft Cloud para o Governo dos EUA</span><span class="sxs-lookup"><span data-stu-id="f8bbf-106">How to manage users in the Azure portal for Microsoft Cloud for US Government</span></span>
 
-<span data-ttu-id="15f24-107">Se estiver inscrito no Partner Center para o Microsoft Cloud para o Governo dos EUA, pode abrir o portal Azure para o Microsoft Cloud para o Governo dos EUA sem ter de voltar a assinar.</span><span class="sxs-lookup"><span data-stu-id="15f24-107">If you are signed in to Partner Center for Microsoft Cloud for US Government, you can open the Azure portal for Microsoft Cloud for US Government without having to sign in again.</span></span> <span data-ttu-id="15f24-108">No entanto, se precisar de iniciar seduca diretamente no portal Azure para o Microsoft Cloud para o Governo dos EUA, vá para ( https://portal.azure.us/) e inscreva-se em usando credenciais de administração global para o seu inquilino AZure AD para Microsoft Cloud para governo dos EUA.</span><span class="sxs-lookup"><span data-stu-id="15f24-108">However, if you need to sign in directly to the Azure portal for Microsoft Cloud for US Government, go to (https://portal.azure.us/) and sign in using global admin credentials for your Azure AD tenant for Microsoft Cloud for US Government.</span></span>
+<span data-ttu-id="f8bbf-107">Se estiver inscrito no Partner Center para o Microsoft Cloud para o Governo dos EUA, pode abrir o portal Azure para o Microsoft Cloud para o Governo dos EUA sem ter de voltar a assinar.</span><span class="sxs-lookup"><span data-stu-id="f8bbf-107">If you are signed in to Partner Center for Microsoft Cloud for US Government, you can open the Azure portal for Microsoft Cloud for US Government without having to sign in again.</span></span> <span data-ttu-id="f8bbf-108">No entanto, se precisar de iniciar seduca diretamente no portal Azure para o Microsoft Cloud para o Governo dos EUA, vá para ( https://portal.azure.us/) e inscreva-se em usando credenciais de administração global para o seu inquilino AZure AD para Microsoft Cloud para governo dos EUA.</span><span class="sxs-lookup"><span data-stu-id="f8bbf-108">However, if you need to sign in directly to the Azure portal for Microsoft Cloud for US Government, go to (https://portal.azure.us/) and sign in using global admin credentials for your Azure AD tenant for Microsoft Cloud for US Government.</span></span>
 
-<span data-ttu-id="15f24-109">Depois de ter assinado com sucesso o portal Azure para o Microsoft Cloud para o Governo dos EUA, abra a sua página de visão geral do Azure Ative Directory (Azure AD) e siga as instruções nestes artigos:</span><span class="sxs-lookup"><span data-stu-id="15f24-109">After you have signed in successfully to the Azure portal for Microsoft Cloud for US Government, open your Azure Active Directory (Azure AD) overview page and then follow the instructions in these articles:</span></span>
+<span data-ttu-id="f8bbf-109">Depois de ter assinado com sucesso o portal Azure para o Microsoft Cloud para o Governo dos EUA, abra a sua página de visão geral do Azure Ative Directory (Azure AD) e siga as instruções nestes artigos:</span><span class="sxs-lookup"><span data-stu-id="f8bbf-109">After you have signed in successfully to the Azure portal for Microsoft Cloud for US Government, open your Azure Active Directory (Azure AD) overview page and then follow the instructions in these articles:</span></span>
 
 > [!NOTE]  
-> <span data-ttu-id="15f24-110">A seleção dos links abaixo irá levá-lo a um site diferente.</span><span class="sxs-lookup"><span data-stu-id="15f24-110">Selecting the links below will take you to a different website.</span></span> 
+> <span data-ttu-id="f8bbf-110">A seleção dos links abaixo irá levá-lo a um site diferente.</span><span class="sxs-lookup"><span data-stu-id="f8bbf-110">Selecting the links below will take you to a different website.</span></span> 
 
--  [<span data-ttu-id="15f24-111">**Adicionar novos utilizadores ao Azure Ative Directory**</span><span class="sxs-lookup"><span data-stu-id="15f24-111">**Add new users to Azure Active Directory**</span></span>](/azure/active-directory/active-directory-users-create-azure-portal)
+-  [<span data-ttu-id="f8bbf-111">**Adicionar novos utilizadores ao Azure Ative Directory**</span><span class="sxs-lookup"><span data-stu-id="f8bbf-111">**Add new users to Azure Active Directory**</span></span>](/azure/active-directory/active-directory-users-create-azure-portal)
 
--  [<span data-ttu-id="15f24-112">**Atribua um utilizador a funções de administrador no Azure Active Directory**</span><span class="sxs-lookup"><span data-stu-id="15f24-112">**Assign a user to administrator roles in Azure Active Directory**</span></span>](/azure/active-directory/active-directory-users-assign-role-azure-portal)
+-  [<span data-ttu-id="f8bbf-112">**Atribua um utilizador a funções de administrador no Azure Active Directory**</span><span class="sxs-lookup"><span data-stu-id="f8bbf-112">**Assign a user to administrator roles in Azure Active Directory**</span></span>](/azure/active-directory/active-directory-users-assign-role-azure-portal)
 
--  [<span data-ttu-id="15f24-113">**Redefinir a palavra-passe para um utilizador no Azure Ative Directory**</span><span class="sxs-lookup"><span data-stu-id="15f24-113">**Reset the password for a user in Azure Active Directory**</span></span>](/azure/active-directory/active-directory-users-reset-password-azure-portal)
+-  [<span data-ttu-id="f8bbf-113">**Redefinir a palavra-passe para um utilizador no Azure Ative Directory**</span><span class="sxs-lookup"><span data-stu-id="f8bbf-113">**Reset the password for a user in Azure Active Directory**</span></span>](/azure/active-directory/active-directory-users-reset-password-azure-portal)
 
-## <a name="next-steps"></a><span data-ttu-id="15f24-114">Passos seguintes</span><span class="sxs-lookup"><span data-stu-id="15f24-114">Next steps</span></span>
+## <a name="next-steps"></a><span data-ttu-id="f8bbf-114">Passos seguintes</span><span class="sxs-lookup"><span data-stu-id="f8bbf-114">Next steps</span></span>
 
--  [<span data-ttu-id="15f24-115">**Centro de Parceiros do Microsoft Cloud for US Government**</span><span class="sxs-lookup"><span data-stu-id="15f24-115">**Partner Center for Microsoft Cloud for US Government**</span></span>](partner-center-for-microsoft-us-govt-cloud.md)
+-  [<span data-ttu-id="f8bbf-115">**Centro de Parceiros do Microsoft Cloud for US Government**</span><span class="sxs-lookup"><span data-stu-id="f8bbf-115">**Partner Center for Microsoft Cloud for US Government**</span></span>](partner-center-for-microsoft-us-govt-cloud.md)
 
--  [<span data-ttu-id="15f24-116">**Inscreva-se no programa Cloud Solution Provider para o Microsoft Cloud para o Governo dos EUA**</span><span class="sxs-lookup"><span data-stu-id="15f24-116">**Enroll in the Cloud Solution Provider program for Microsoft Cloud for US Government**</span></span>](enroll-in-csp-for-microsoft-us-govt-cloud.md)
+-  [<span data-ttu-id="f8bbf-116">**Inscreva-se no programa Cloud Solution Provider para o Microsoft Cloud para o Governo dos EUA**</span><span class="sxs-lookup"><span data-stu-id="f8bbf-116">**Enroll in the Cloud Solution Provider program for Microsoft Cloud for US Government**</span></span>](enroll-in-csp-for-microsoft-us-govt-cloud.md)
