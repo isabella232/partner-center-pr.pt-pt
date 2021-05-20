@@ -9,19 +9,17 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9f1d6e2a59bd892b7b79a1e3aa532242cdd0e302
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: 268cc9cb42bc72a444da6aec99425c2b29b71cb4
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474194"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150476"
 ---
 # <a name="upload-a-csv-file-of-users-to-a-customers-account"></a>Faça o upload de um ficheiro .csv de utilizadores para a conta de um cliente
 
 
-**Funções adequadas**
-
-- Administrador global
+**Funções apropriadas**: Administração global
 
 Adicione vários utilizadores à conta de um cliente de uma só vez, enviando um ficheiro de dados no formato de ficheiro de valor separado em vírgula (.csv) para o Centro de Parceiros. 
 
@@ -50,7 +48,7 @@ Adicione vários utilizadores à conta de um cliente de uma só vez, enviando um
     >[!IMPORTANT]
     > Certifique-se de baixar o ficheiro com as senhas temporárias agora, uma vez que não poderá fazê-lo mais tarde. Os novos utilizadores devem aceder à sua nova conta utilizando a senha temporária para as suas novas contas.
 
-11. Os novos utilizadores são automaticamente atribuídos permissões de **Can use licenças e serviços** . 
+11. Os novos utilizadores são automaticamente atribuídos permissões de **Can use licenças e serviços**. 
 
 ## <a name="next-steps"></a>Passos seguintes
 

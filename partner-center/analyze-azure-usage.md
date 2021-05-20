@@ -9,23 +9,18 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/01/2020
-ms.openlocfilehash: 0a7bc34ded62eb9e19dbbad8e214eb30534b8ea6
-ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
+ms.openlocfilehash: e2acdb777e0ef77ebf9d08eed3d3842c74af9e18
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96439114"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150238"
 ---
 # <a name="get-data-about-how-well-your-customers-and-azure-subscriptions-are-doing"></a>Obtenha dados sobre como os seus clientes e subscrições da Azure estão a correr bem
 
 
 
-**Funções adequadas**
-
-- Administrador global
-- Administração de gestão de utilizadores
-- Agente administrativo
-- Agente comercial
+**Funções adequadas**: Administração global | Administração de administração de utilizadores | Agente administrativo | Agente comercial
 
 Os dados impulsionam as decisões empresariais. Use as métricas na página de utilização do **Azure** para identificar os seus sucessos e áreas que precisam de mais atenção. Use esta informação enquanto planeia novos objetivos de negócio.
 

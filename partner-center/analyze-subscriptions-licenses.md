@@ -9,21 +9,16 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
 ms.date: 03/31/2021
-ms.openlocfilehash: 3f84026cc6402bea71837b06a5e330f2c879a06b
-ms.sourcegitcommit: 766b2bb46dffd29e532b42106359f83e51b96700
+ms.openlocfilehash: 45a0ebb70f6e139b1e130c3cfc1d24eb79b41a0d
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106103796"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150153"
 ---
 # <a name="analyze-subscriptions-and-licenses-to-help-you-drive-business-decisions-and-new-goals"></a>Analise subscrições e licenças para ajudá-lo a impulsionar decisões de negócios e novos objetivos
 
-**Funções adequadas**
-
-- Administrador global
-- Administração de gestão de utilizadores
-- Agente administrativo
-- Agente comercial
+**Funções adequadas**: Administração global | Administração de administração de utilizadores | Agente administrativo | Agente comercial
 
 Os dados impulsionam as decisões empresariais. Use as métricas na página **de subscrição e análise de licença** para identificar os seus sucessos e áreas que precisam de mais atenção. Use esta informação enquanto planeia novos objetivos de negócio.
 

@@ -8,19 +8,16 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.date: 03/01/2021
-ms.openlocfilehash: c399e00394208ec29dd59a41afe7cce1b1d07253
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: 035a819020097ddee2230b5541e1b477d4b34c14
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284337"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148470"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm-overview"></a>Conector de co-venda para visão geral da Dynamics 365 CRM
 
-**Funções adequadas**
-
-- Administração de referências
-- Administrador de sistema ou personalizador de sistema no CRM
+**Funções adequadas**: Administração de referências | Administrador de sistema ou personalizador de sistema no CRM
 
 Os conectores do Partner Center permitem que os seus vendedores co-vendam com a Microsoft a partir dos seus sistemas CRM. Não terão de ser treinados para usar o Partner Center para gerir negócios de co-venda. Utilize os conectores de co-venda para criar uma nova referência de co-venda para contratar um vendedor da Microsoft, receber referências do vendedor da Microsoft, aceitar ou recusar referências, e modificar dados de negócio como valor de negócio e data de encerramento. Também pode receber quaisquer atualizações dos vendedores da Microsoft nestas ofertas de co-venda. Pode gerir todas as suas referências no CRM à sua escolha e não no Partner Center.
 

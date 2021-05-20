@@ -134,6 +134,8 @@
     - name: Mudar fatura direta CSP para revendedor indireto
       href: transition-direct-to-indirect.md
       displayName: csp
+    - name: Os parceiros já não podem inscrever-se como Conselheiros
+      href: advisors-no-csp.md
 - name: Acordos da CSP
   href: microsoft-partner-agreement.md
   items:

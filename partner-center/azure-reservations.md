@@ -9,22 +9,16 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 08/06/2020
-ms.openlocfilehash: 9dc92685503fd4b9b05e40337f72e810c1693779
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: b97cafea9ad2f36718418c7c7cfca5f91ee8849c
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534901"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149473"
 ---
 # <a name="sell-microsoft-azure-reservations-to-customers-using-partner-center-the-azure-portal-or-apis"></a>Venda reservas do Microsoft Azure a clientes que usam Partner Center, o portal Azure ou APIs
 
-**Funções adequadas**
-
-- Agente administrativo
-- Administrador global
-- Agente helpdesk
-- Agente comercial
-- Administração de gestão de utilizadores
+**Funções adequadas**: Agente administrador | Administração global | Agente helpdesk | Agente comercial | Administração de gestão de utilizadores
 
 Como parceiro no programa Cloud Solution Provider (CSP), pode comprar, vender ou gerir reservas Azure para os clientes. Use Partner Center, o portal Azure ou a API do Centro Parceiro.
 

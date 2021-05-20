@@ -9,19 +9,16 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 20a8d701755e0211ced01aa714570e993bfe177d
-ms.sourcegitcommit: a7376c0ba8f4f3d01361bc227640311b486b3b6e
+ms.openlocfilehash: 2d3dfbb409ec8a11d4152e9c064e0ce7a05711b5
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/21/2020
-ms.locfileid: "92530734"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150000"
 ---
 # <a name="one-time-exam-requirements-exemption-for-the-application-development-competency"></a>Isenção única dos requisitos de exame para a competência de Desenvolvimento de Aplicações
 
-**Funções adequadas**
-
-- Administrador global
-- Administrador sócio da MPN
+**Funções adequadas**: Administração global | Administrador sócio da MPN
 
 Se obteve a competência isv agora reformada e um dos seguintes cenários se aplica a si, estamos a oferecer à sua empresa uma isenção única de requisitos de exame para a competência de Desenvolvimento de [Aplicações](https://partner.microsoft.com/membership/application-development-competency)em ouro ou prata. 
 
@@ -44,7 +41,7 @@ Parceiros com uma competência de Desenvolvimento de Aplicações alcançada atr
 1. A partir do menu Partner Center no seu painel de **instrumentos,** selecione Competências .
 2. Na lista de competências disponíveis, o Desenvolvimento de Aplicações está marcado **como Completo.**
 
-3. Selecione **Desenvolvimento de Aplicações** . Verá o aviso de que lhe foi dado um adiamento que isenta a sua empresa de cumprir os requisitos do exame. 
+3. Selecione **Desenvolvimento de Aplicações**. Verá o aviso de que lhe foi dado um adiamento que isenta a sua empresa de cumprir os requisitos do exame. 
 
 4. Para tirar partido desta oferta, vá às **ofertas de Adesão.** Poderá ter de pagar a taxa de competência para concluir o processo dependendo da sua competência de compra ou estatuto de renovação. 
 

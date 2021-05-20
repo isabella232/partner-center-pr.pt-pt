@@ -9,27 +9,21 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 440a03a228fb809d1ef55bcd39e1c0464b24fb54
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: 4ec987f22c2e3ee0b2860d489cdaba9d1e3ff8a2
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474126"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150272"
 ---
 # <a name="microsoft-customer-agreements-by-region-and-language"></a>Acordos de Clientes da Microsoft por região e idioma
 
-**Funções adequadas**
-
-- Administrador global
-- Administração de gestão de utilizadores
-- Agente administrativo
-- Agente comercial
-- Agente helpdesk
+**Funções adequadas**: Administração global | Administração de administração de utilizadores | Agente administrativo | Agente comercial | Agente helpdesk
 
 Antes de poder fazer um pedido em nome de um cliente, o cliente deve aceitar e assinar o Acordo de Cliente da Microsoft.
 
 >[!IMPORTANT]
-> Deve confirmar que um cliente aceitou o Acordo de Cliente da Microsoft fornecendo informações sobre a pessoa que o assinou. Consulte [a aceitação de um cliente do Microsoft Customer Agreement](confirm-consent.md) para obter mais detalhes.
+> Deve confirmar que um cliente aceitou o Acordo de Cliente da Microsoft fornecendo informações sobre a pessoa que o assinou. Consulte [a aceitação de um cliente do Microsoft Customer Agreement](./confirm-customer-agreement.md) para obter mais detalhes.
 
 Os Acordos de Cliente da Microsoft são específicos da região e estão disponíveis em vários idiomas. Encontre a localização do cliente e o idioma preferido numa das listas abaixo para descarregar o acordo correto.
 

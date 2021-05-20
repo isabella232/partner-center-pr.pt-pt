@@ -9,21 +9,16 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e317cb58e9ebf4b0efad2933f866d5db19d8dc1a
-ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
+ms.openlocfilehash: 764d5a3cb0dc6f409e5272d4119424396caff53b
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106502468"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148640"
 ---
 # <a name="common-billing-scenarios-for-license-based-saas-transactions-in-partner-center"></a>Cenários comuns de faturação para transações saaS baseadas em licenças no Partner Center
 
-**Funções adequadas**
-
-- Agente administrativo
-- Administrador de faturação
-- Agente helpdesk
-- Agente comercial
+**Funções adequadas**: Agente administrador | Administrador de faturação | Agente helpdesk | Agente comercial
 
 
 Estes [cenários de faturação comuns](common-billing-scenarios.md) são aplicáveis a software baseado em licenças como subscrições de serviço (SaaS) no Partner Center.

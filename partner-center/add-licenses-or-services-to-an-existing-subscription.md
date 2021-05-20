@@ -9,22 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7b6c5f1f6d86398ab65e60a498614bfc9f42976e
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: 366114cd78e96f95cd1ac649573a0164f6d062a9
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474228"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150527"
 ---
 # <a name="add-licenses-or-more-services-to-a-customers-subscription"></a>Adicionar licenças ou mais serviços à subscrição de um cliente
 
-**Funções adequadas**
-
-- Administrador global
-- Administração de gestão de utilizadores
-- Agente administrativo
-- Agente comercial
-- Agente helpdesk
+**Funções adequadas**: Administração global | Administração de administração de utilizadores | Agente administrativo | Agente comercial | Agente helpdesk
 
 Se o seu cliente precisar de mais licenças do que a subscrição atual fornece, ou uma versão diferente com serviços adicionais, poderá ser capaz de atualizar a subscrição. Para obter mais informações, consulte [a Switch para um plano de negócios microsoft 365 diferente.](/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)
 

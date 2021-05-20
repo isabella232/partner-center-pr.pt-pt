@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/02/2021
-ms.openlocfilehash: 3d91eb26f98005b92a48c6f242ea4439e42cde05
-ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
+ms.openlocfilehash: b503e928b1491d5c2c70ac52460080f9e1ba91b8
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "108702880"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150119"
 ---
 # <a name="march-2021-announcements"></a>Anúncios de março de 2021
 
@@ -51,8 +51,8 @@ A resposta devolverá uma das seguintes mensagens de estado:
 |Parcial de rua | A rua dada no endereço é parcial e precisa de mais informações. | Múltiplos — máximo de três |
 |Instalações parciais | As instalações dadas (número de edifício, número de suite, entre outras) são parciais e precisam de mais informações. | Múltiplos — máximo de três |
 |Vários | Existem vários campos que são parciais no endereço (potencialmente também incluindo a parcial da rua e as instalações parciais). | Múltiplos — máximo de três |
-|Nenhum | O endereço está incorreto. | Nenhum |
-|Não validado | O endereço não pôde ser enviado através do processo de validação. | Nenhum |
+|Nenhuma | O endereço está incorreto. | Nenhuma |
+|Não validado | O endereço não pôde ser enviado através do processo de validação. | Nenhuma |
 
 Os códigos postais dos EUA devolverão mais 4 dígitos + hífen - por exemplo, 12345-6789.
 
@@ -328,7 +328,7 @@ Estas alterações aplicam-se apenas ao produto acima referido. Outros produtos 
 ### <a name="next-steps-and-resources"></a>Próximos passos e recursos
 
 - Os parceiros que transacionam software perpétuo devem descarregar a mais recente lista de preços perpétuos de software.
-- Consulte os [códigos dos países](https://docs.microsoft.com/azure/marketplace/commercial-marketplace-co-sell-countries) da região para um mapeamento amigável da abreviatura de duas letras para os países.
+- Consulte os [códigos dos países](/azure/marketplace/commercial-marketplace-co-sell-countries) da região para um mapeamento amigável da abreviatura de duas letras para os países.
 ________________
 ## <a name="sdk-release-on-net-standard-v1170"></a><a name="13"></a> Lançamento SDK em .NET Standard (v1.17.0)
 
@@ -348,7 +348,7 @@ A partir de 23 de março de 2020, os Parceiros podem começar a descarregar a ve
 
 #### <a name="audit-updated-new-operation-types"></a>Auditoria Atualizada: Novos tipos de operação
 
-Adicione novos [tipos de operação](https://docs.microsoft.com/partner-center/develop/auditing-resources) para saber quando o cliente aprovou e encerrou o DAP.
+Adicione novos [tipos de operação](/partner-center/develop/auditing-resources) para saber quando o cliente aprovou e encerrou o DAP.
 
 - DapAdminRelationshipApproved
 
@@ -356,7 +356,7 @@ Adicione novos [tipos de operação](https://docs.microsoft.com/partner-center/d
 
 #### <a name="audit-updated-new-resource-and-operation-types"></a>Auditoria Atualizada: Novos tipos de recursos e de operação
 
-Adicionou novos [tipos de recursos e de operação](https://docs.microsoft.com/partner-center/develop/auditing-resources) para apoiar o cenário de função do diretório do cliente.
+Adicionou novos [tipos de recursos e de operação](/partner-center/develop/auditing-resources) para apoiar o cenário de função do diretório do cliente.
 
 - Novo tipo de recurso "CustomerDirectoryRole"
 
@@ -421,14 +421,14 @@ Fazemos parcerias com fornecedores de software independentes (ISVs) para trazer 
 - [Cloud Solution Provider recursos de incentivo de parceiro de conta direta](https://partner.microsoft.com/asset/collection/cloud-solution-provider-direct-partner-incentive-resources#/)
 - [Recursos de incentivo indiretos do Fornecedor de Soluções Cloud](https://partner.microsoft.com/asset/collection/cloud-solution-provider-indirect-provider-incentive-resources#/)
 - Reveja esta [apresentação](https://partner.microsoft.com/resources/detail/partner-center-cm-for-csp-overview-pdf) para saber mais sobre a venda das aplicações de marketplace comercial. Confira os recursos adicionais [aqui.](https://partner.microsoft.com/resources/collection/partner-center-cm-for-csp-collection#/) 
-- Explore o catálogo de marketplace comercial no [Partner Center](https://docs.microsoft.com/partner-center/csp-commercial-marketplace-discover) ou no [portal Azure](https://ms.portal.azure.com/#home)
-- Utilize [APIs](https://docs.microsoft.com/partner-center/develop/create-subscription-azure-marketplace-products#get-a-list-of-offers-for-a-market) para integrar apps no mercado da sua empresa
+- Explore o catálogo de marketplace comercial no [Partner Center](../csp-commercial-marketplace-discover.md) ou no [portal Azure](https://ms.portal.azure.com/#home)
+- Utilize [APIs](/partner-center/develop/create-subscription-azure-marketplace-products#get-a-list-of-offers-for-a-market) para integrar apps no mercado da sua empresa
 - Contacte os ISVs com os que está interessado em fazer negócios
 - Os fornecedores indiretos precisam de integrar usando APIs e guiar revendedores em que apps vender
 
 ### <a name="questions"></a>Perguntas?  
 
-Consulte [este artigo](https://docs.microsoft.com/partner-center/csp-commercial-marketplace-overview) para obter uma visão geral do mercado comercial no Partner Center.
+Consulte [este artigo](../csp-commercial-marketplace-overview.md) para obter uma visão geral do mercado comercial no Partner Center.
 
 Se precisar de assistência adicional, pode criar um pedido de apoio no Partner Center. Saiba mais em [https://aka.ms/IncentivesSupport](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=1) .
 

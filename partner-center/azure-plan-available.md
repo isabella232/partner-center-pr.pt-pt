@@ -9,23 +9,16 @@ ms.author: amrava
 ms.localizationpriority: high
 ms.date: 05/13/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2ca8df054a48217a21dbdd897bd260e7bc181e62
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: da97dded531b6792a4468d9be9b63367f818b352
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534969"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149745"
 ---
 # <a name="azure-services-available-in-the-azure-cloud-solution-provider-csp-program"></a>Serviços Azure disponíveis no programa Azure Cloud Solution Provider (CSP)
 
-**Funções adequadas**
-
-- Agente administrativo
-- Administrador de faturação
-- Administrador global
-- Agente helpdesk
-- Agente comercial
-- Administração de gestão de utilizadores
+**Funções adequadas**: Agente administrador | Administrador de faturação | Administração global | Agente helpdesk | Agente comercial | Administração de gestão de utilizadores
 
 ## <a name="available-azure-services-in-azure-csp"></a>Available Azure services in Azure CSP (Serviços do Azure disponíveis no Azure CSP)
 
@@ -103,7 +96,7 @@ A tabela que se segue apresenta uma lista regularmente atualizada dos produtos, 
 |  Recuperação de sites  |  X  |  X  |
 |  Data Lake Storage  |    |    |
 |  Managed Disks  |  X  |  X  |
-|  **Web + Móvel**  |    |    |
+|  **Web + Mobile**  |    |    |
 |  Serviço de Aplicações  |  X  |  X  |
 |  Serviço de Aplicações no Linux  |    |  X  |
 |  Gestão de API  |  X  |    |

@@ -9,20 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d5e7adaf25376edb7d10d2deff9ed4e6f52badb4
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: c3ec63109f21c67c66719b8f145336617a948199
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96473888"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149915"
 ---
 # <a name="assign-a-reseller-as-a-technical-support-contact-for-customers"></a>Atribuir um revendedor como contacto técnico de suporte para os clientes
 
-**Funções adequadas**
-
-- Agente administrativo
-- Administrador global
-- Agente helpdesk
+**Funções adequadas**: Agente administrador | Administração global | Agente helpdesk
 
 
 Quando configurar subscrições para os serviços da Microsoft para os seus clientes, poderá querer atribuir o suporte técnico destes produtos a um revendedor designado, em vez de fornecer o suporte por si mesmo.

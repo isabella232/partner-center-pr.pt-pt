@@ -9,22 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 42732a20b4901223a9376d3221579e7cd7be3297
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: d1544333cd2251dd26223bebf20ef08723e976fb
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "92529359"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148538"
 ---
 # <a name="compare-differences-between-azure-offers-in-the-csp-program"></a>Compare diferenças entre ofertas do Azure no programa CSP
 
-**Funções adequadas**
-
-- Agente administrativo
-- Administrador de faturação
-- Administrador global
-- Agente helpdesk
-- Agente comercial
+**Funções adequadas**: Agente administrador | Administrador de faturação | Administração global | Agente helpdesk | Agente comercial
 
 Este artigo descreve as principais diferenças entre as ofertas do Azure no programa Cloud Solution Provider (CSP).
 
@@ -32,7 +26,7 @@ Este artigo descreve as principais diferenças entre as ofertas do Azure no prog
 
 A tabela seguinte fornece uma visão geral das principais diferenças entre as ofertas do programa CSP que fazem parte da nova experiência de comércio da Microsoft.
 
-|**Oferta**| **Plano Azul**|**Ofertas de mercado de terceiros**|**Reservas Azure**|**Subscrições de servidores vendidas através do CSP**|**Ofertas baseadas em licença**|
+|**Oferta**| **Plano do Azure**|**Ofertas de mercado de terceiros**|**Reservas do Azure**|**Subscrições de servidores vendidas através do CSP**|**Ofertas baseadas em licença**|
 |-------------------|:------|:-----|:---------|:--------------|:---------|
 |Faturação|Mensalmente|Variável (oferta dependente)|Cliente final|Adiantando-se para o período completo ou 3 anos|Mensal ou Anual|
 |Licenciado|Cliente final|Variável (oferta dependente)|Cliente final| Cliente final|Cliente final|
@@ -51,6 +45,6 @@ A tabela seguinte fornece uma visão geral das principais diferenças entre as o
 
 - [Move to Azure plan - começa](azure-plan-get-started.md)
 
-- [Comprar o plano Azure](purchase-azure-plan.md)
+- [Comprar o plano do Azure](purchase-azure-plan.md)
 
 - [Manage subscriptions and resources under the Azure plan](azure-plan-manage.md) (Gerir subscrições e recursos ao abrigo do plano do Azure)

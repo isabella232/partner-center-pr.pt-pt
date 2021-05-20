@@ -9,19 +9,16 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/13/2020
-ms.openlocfilehash: b7158f0ba52cece8b143cbaf592f3b0c4667fe27
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: 50a527f8fd3690ff73b198e572b356706889e72b
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474058"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150187"
 ---
 # <a name="use-analytics-to-analyze-the-performance-of-your-indirect-resellers"></a>Use análises para analisar o desempenho dos seus revendedores indiretos
 
-**Funções adequadas**
-
-- Administrador global
-- Administração de gestão de utilizadores
+**Funções adequadas**: Administração global | Administração de gestão de utilizadores
 
 
 Os dados impulsionam as decisões empresariais. Use as métricas na página de análise do **Revseller** para identificar os seus sucessos, os sucessos dos seus revendedores indiretos e áreas que precisam de mais atenção. Use esta informação enquanto planeia novos objetivos de negócio.

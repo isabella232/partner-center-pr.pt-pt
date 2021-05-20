@@ -9,18 +9,16 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7d40b09ee8b452cb75be216f83ddc700596b93d7
-ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
+ms.openlocfilehash: acf7e19d98b6d3a9c48277f0b3276b26816572e8
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "97354479"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148810"
 ---
 # <a name="eligibility-requirements-for-the-solution-assessment-incentives-program"></a>Requisitos de elegibilidade para o Programa de Incentivos à Avaliação de Soluções
 
-**Funções adequadas**
-
-- Contacto primário ou administrador de programas
+**Funções apropriadas**: Contacto primário ou administrador de programas
 
 Os parceiros com estatuto ativo e inscrito no Programa de Incentivos à Avaliação de Soluções em FY20 continuarão a ser elegíveis para incentivos em FY21 se tiverem uma filiação ativa de MPN e uma competência de MPN de Prata ou Ouro ativa. As qualificações dos parceiros são revistas anualmente para a elegibilidade. Se os parceiros estabelecidos não cumprirem os requisitos de elegibilidade e participação no ano em curso, serão removidos na próxima revisão anual. Todos os novos parceiros estão a bordo através do Especialista local de Avaliação de Soluções (SAS) na sua área. O SAS identificará os parceiros a bordo com base na correspondência de competências e conhecimentos especializados na empresa parceira e nas necessidades de negócio das subsidiárias apoiadas pelo SAS.
 

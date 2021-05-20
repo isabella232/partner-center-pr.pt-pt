@@ -9,29 +9,24 @@ ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 04/05/2020
-ms.openlocfilehash: 27bdb4aab3c8092b1ffc458e4da29250e2dbf23e
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 03880b4ae9483b4b49410364eabdafdccbcabcdc
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756736"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149201"
 ---
 # <a name="overview-main-billing-and-tax-articles-in-partner-center"></a>Visão geral: Principais faturas e artigos fiscais no Partner Center
 
-**Funções adequadas**
-
-- Agente administrativo
-- Administrador de faturação
-- Administrador global
-- Agente comercial
+**Funções adequadas**: Agente administrador | Administrador de faturação | Administração global | Agente comercial
 
 Este artigo fornece links para informações sobre faturação e tópicos fiscais no Partner Center, incluindo recursos de faturação, faturas, faturas e impostos.
 
 
-| Tópico | Descrição |
+| Tópico | Description |
 | ----- | ----------- |
 | [Noções básicas de faturação](billing-basics.md) | Fundamentos da faturação do Partner Center (incluindo pagamentos, faturas e ficheiros de reconciliação). |
-| [Tipos de faturação](billing-different-types.md) | Explicação de diferentes tipos de faturação no Partner Center. |
+| [Tipos de faturação](./billing-basics.md) | Explicação de diferentes tipos de faturação no Partner Center. |
 | [Compreender a sua fatura](read-your-bill.md) | Como ler e entender a sua conta do Partner Center. |
 | [Avaliações gratuitas](offer-your-customers-trials-of-microsoft-products.md) | Como oferecer testes gratuitos aos seus clientes e como estes testes são cobrados. |
 | [Arquivo de reconciliação](use-the-reconciliation-files.md) | Como ler e usar o seu ficheiro de reconciliação para itens de linha. |

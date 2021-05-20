@@ -9,29 +9,23 @@ ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
 ms.date: 08/06/2020
-ms.openlocfilehash: 0e81a9561f3749aab281bb4ebd7cd0c38540ff31
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: cd8a78edab25b94e678aafd61ca96e61a625fb07
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534612"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149541"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>Compre reservas da Microsoft Azure em nome dos seus clientes no Partner Center
 
-**Funções adequadas**
-
-- Agente administrativo
-- Administrador global
-- Agente helpdesk
-- Agente comercial
-- Administração de gestão de utilizadores
+**Funções adequadas**: Agente administrador | Administração global | Agente helpdesk | Agente comercial | Administração de gestão de utilizadores
 
 Este artigo explica como comprar ou comprar reservas da Azure em nome dos seus clientes no Partner Center. Também identifica mercados onde as reservas do Azure não estão disponíveis.
  
 > [!NOTE]
 > Este artigo aplica-se apenas aos parceiros do programa Cloud Solution Provider (CSP). Os clientes que utilizem outros tipos de subscrições (tais como, pay-as-you-go, individual, Microsoft Customer Agreement ou Enterprise Agreement) devem, em vez disso, ler [esta documentação de reservas Azure](/azure/cost-management-billing/reservations).
 
-## <a name="before-you-begin"></a>Before you begin
+## <a name="before-you-begin"></a>Antes de começar
 
 Reveja as informações importantes abaixo antes de comprar reservas da Azure em nome dos seus clientes. (Deseja que os clientes possam comprar as suas próprias reservas Azure a partir de uma assinatura Azure anterior que adquiriu para eles? Consulte [a permissão dos clientes para comprarem as suas próprias reservas Azure](give-customers-permission.md#give-customers-permission-to-buy-their-own-azure-reservations).)
 
@@ -63,22 +57,22 @@ Reveja as informações importantes abaixo antes de comprar reservas da Azure em
 > | Ilhas Åland     | Gronelândia     | Papua-Nova Guiné     |
 > | Samoa Americana     | Granada     | Ilhas Pitcairn     |
 > | Andorra     | Guadalupe     | Reunião     |
-> | Anguila     | Guame     | Rio Saba   |
-> | Antártica     | Guernesey     | São Barthélemy   |
+> | Anguila     | Guame     | Saba   |
+> | Antártica     | Guernesey     | São Bartolomeu   |
 > | Antígua e Barbuda       | Guiné     | Santa Lúcia   |
 > | Aruba       | Guiné-Bissau     | São Martinho (Saint Martin)   |
-> | Azerbaijão       | Guiana     | São Pedro e Miquelon   |
+> | Azerbaijão       | Guiana     | São Pedro e Miquelão   |
 > | Benim     | Haiti       | São Vicente e Granadinas     |
-> | Butão     | Ilha Heard e Ilhas McDonald       | Samoa     |
-> | Rio Bonaire     | Ilha de Man     | São Marino     |
+> | Butão     | Ilhas Heard e McDonald       | Samoa     |
+> | Bonaire     | Ilha de Man     | São Marino     |
 > | Ilha Bouvet     | Jan Mayen     | São Tomé e Príncipe   |
 > | Território Britânico do Oceano Índico       | Jersey     | Seicheles   |
 > | Ilhas Virgens Britânicas     | Quiribáti       | Serra Leoa   |
-> | Burkina Faso     | Kosovo     | Sint Eustatius     |
+> | Burkina Faso     | Kosovo     | Santo Eustáquio     |
 > | Burundi     | Laos     | São Martinho (Sint Maarten)     |
 > | Camboja     | Lesoto     | Ilhas Salomão     |
 > | República Centro-Africana     | Libéria     | Somália     |
-> | Chade     | Madagáscar     | Ilhas da Geórgia do Sul e Sandwich do Sul     |
+> | Chade     | Madagáscar     | Ilhas Geórgia do Sul e Sandwich do Sul     |
 > | China     | Maláui     | Sudão do Sul     |
 > | Ilha do Natal     | Maldivas     | Santa Helena, Ascensão, Tristão da Cunha     |
 > | Ilhas dos Cocos (Keeling)     | Mali     | Suriname     |
@@ -90,7 +84,7 @@ Reveja as informações importantes abaixo antes de comprar reservas da Azure em
 > | Dominica     | Montserrate     | Tonga   |
 > | Guiné Equatorial     | Moçambique     | Ilhas Turcas e Caicos   |
 > | Eritreia     | Mianmar     | Tuvalu   |
-> | Ilhas Falkland (Malvinas)     | Nauru     | Ilhas Menores Distantes dos EUA   |
+> | Ilhas Falkland (Malvinas)     | Nauru     | Ilhas Desondo dos EUA   |
 > | Guiana Francesa     | Nova Caledónia     | Vanuatu   |
 > | Polinésia Francesa     | Níger     | Cidade do Vaticano   |
 > | Territórios Austrais Franceses     | Niuê     | Wallis e Futuna   |
@@ -98,7 +92,7 @@ Reveja as informações importantes abaixo antes de comprar reservas da Azure em
 > | Gâmbia     | Ilhas Marianas do Norte     |    |
 > | Gibraltar     | Palau       |    |
 
-## <a name="purchase-azure-reservations"></a>Comprar reservas da Azure
+## <a name="purchase-azure-reservations"></a>Comprar reservas do Azure
 
 Siga os passos abaixo para comprar reservas da Microsoft Azure em nome dos seus clientes no Partner Center. (Deseja que os clientes possam comprar as suas próprias reservas Azure a partir de uma assinatura Azure anterior que adquiriu para eles? Consulte [a permissão dos clientes para comprarem as suas próprias reservas Azure](give-customers-permission.md).)
 

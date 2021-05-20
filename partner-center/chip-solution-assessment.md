@@ -9,18 +9,16 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: df7418e48832344fd6de052a7387a2f5c8368363
-ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
+ms.openlocfilehash: 620490dfdd63b40957421e6df6432d480584658a
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "97354598"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148844"
 ---
 # <a name="find-your-solution-assessments-opportunity-status-on-chip"></a>Encontre o estado de oportunidade da sua solução avalia o chip
 
-**Funções adequadas**
-
-- Contacto primário ou administrador de programas
+**Funções apropriadas**: Contacto primário ou administrador de programas
 
 Os parceiros podem rever um estado de oportunidade de avaliação de solução no CHIP.
 

@@ -9,18 +9,16 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: ''
-ms.openlocfilehash: 521e3a3adb51f528fd7b2a35103f78b0c193f1d1
-ms.sourcegitcommit: efd37a9c5db4b87f75de1d13d75ce470b84b31f6
+ms.openlocfilehash: f54e5e91dd63e5ceeaa3c25b929823e6d731d7d0
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "99552392"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149320"
 ---
 # <a name="microsoft-partner-network-benefits-faq"></a>Microsoft Partner Network beneficia FAQ
 
-**Funções adequadas**
-
-- Administrador sócio da MPN
+**Funções adequadas**: Administrador parceiro da MPN
 
 O artigo que se segue responde a algumas das principais questões que os parceiros da Microsoft Partner Network (MPN) têm sobre os seus benefícios de adesão mpn, competências e licenças de produtos.
 

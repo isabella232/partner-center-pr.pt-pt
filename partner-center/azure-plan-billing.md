@@ -9,20 +9,16 @@ author: khpavan
 ms.author: sakhanda
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 819f90ca9a8467de4a8001a1b10f8409d3fb1b81
-ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
+ms.openlocfilehash: 757383ee264e58e7b4dc8ffefafe213cb49acb79
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "98924992"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149796"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>Nova experiência comercial no CSP – faturação do Azure 
 
-**Funções adequadas**
-
-- Agente administrativo
-- Administrador de faturação
-- Administrador global
+**Funções adequadas**: Agente administrador | Administrador de faturação | Administração global
 
 Este artigo explica como aceder e compreender a estrutura de ficheiros de fatura e reconciliação relacionada com a faturação do plano Azure. A faturação ao abrigo do plano Azure é uma experiência de faturação simplificada usando uma data de faturação única alinhada e período de faturação de um mês de calendário.
 
@@ -160,7 +156,7 @@ Uma vez que o modelo de faturação dos serviços Azure através de um plano Azu
 
 :::image type="content" source="images/azure/azurespend.png" alt-text="Despesas do Azure":::
 
-## <a name="next-steps"></a>Próximos passos
+## <a name="next-steps"></a>Passos seguintes
 
 - Veja como o parceiro obteve crédito (PEC) é calculado. Inscreva-se no [painel do](https://partner.microsoft.com/dashboard/) Partner Center e localize a lista de preços disponíveis.
 

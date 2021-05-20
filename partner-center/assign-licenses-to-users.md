@@ -9,20 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0e2bb4ceb146174da83e9c08a9ff030380298bd0
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: dc896ec3ce16ab0f05a8131de14f573ad96a8141
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756080"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149898"
 ---
 # <a name="manage-users-and-user-licenses-for-customer-accounts"></a>Gerir utilizadores e licenças de utilizador para contas de clientes 
 
-**Funções adequadas**
-
-- Administrador global
-- Administração de gestão de utilizadores
-- Agente administrativo
+**Funções adequadas**: Administração global | Administração de administração de utilizadores | Agente administrativo
 
 
 Pode criar e eliminar novos utilizadores na conta de um cliente. Também pode restaurar uma ou mais contas de utilizador que apagou anteriormente no prazo de 30 dias após a eliminação. As atribuições anteriores do utilizador também serão restauradas (assumindo que as dotações anteriores estão disponíveis).
@@ -54,7 +50,7 @@ Pode [atribuir subscrições a vários utilizadores de](bulk-license-provisionin
 
 <a href="" id="userlicensing"></a>
 
-## <a name="add-or-remove-user-licenses-for-a-customer"></a>Adicionar ou remover licenças de utilizador para um cliente
+## <a name="add-or-remove-user-licenses-for-a-customer"></a>Adicionar ou remover licenças de utilizador de um cliente
 
 As seguintes medidas aplicam-se à adição ou remoção de licenças de utilizador para produtos Microsoft. Para adicionar ou remover licenças de utilizador para subscrições SaaS baseadas em licenças no mercado comercial, consulte [Adicionar ou remover licenças para uma subscrição SaaS](csp-commercial-marketplace-manage.md#add-or-remove-licenses-for-a-saas-subscription).
 
@@ -64,9 +60,9 @@ As seguintes medidas aplicam-se à adição ou remoção de licenças de utiliza
 
 3. No menu do cliente, selecione **Utilizadores e licenças.**
 
-4. Escolha um ou mais utilizadores da lista. Se, por exemplo, o cliente acaba de adquirir novas licenças e quiser atribuí-las a pessoas que ainda não as têm, pode utilizar os utilizadores do **Filtro por...** opção para encontrar o grupo certo.
+4. Escolha um ou mais utilizadores na lista. Se, por exemplo, o cliente acaba de adquirir novas licenças e quiser atribuí-las a pessoas que ainda não as têm, pode utilizar os utilizadores do **Filtro por...** opção para encontrar o grupo certo.
 
-5. Selecione **Licenças de Gestão**. Faça as alterações e, em seguida, **Guarde**.
+5. Selecione **Gerir licenças**. Faça as alterações e, em seguida, **Guarde**.
 
 > [!NOTE]
 > Para [os produtos Azure Marketplace,](csp-commercial-marketplace-manage.md#assign-licenses-and-activate-a-subscription-on-behalf-of-a-customer)a atribuição e ativação de licenças é gerida através do Fornecedor Independente de Software (ISV) que publicou o produto.

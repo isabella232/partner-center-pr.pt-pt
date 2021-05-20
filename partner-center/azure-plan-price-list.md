@@ -9,23 +9,16 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f11031c6071dadb427d2d5b93edd90af1a844131
-ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
+ms.openlocfilehash: 6d8e73e664d400e8e6d80e529326e566c5fd88a8
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "98924954"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149575"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Lista de preços da nova experiência comercial no CSP para Azure
 
-**Funções adequadas**
-
-- Agente administrativo
-- Administrador de faturação
-- Administrador global
-- Agente helpdesk
-- Agente comercial
-- Administração de gestão de utilizadores
+**Funções adequadas**: Agente administrador | Administrador de faturação | Administração global | Agente helpdesk | Agente comercial | Administração de gestão de utilizadores
 
 A tabela de preços para a nova experiência de comércio Azure na CSP é publicada no Partner Center. A lista de preços é entregue dinamicamente num ficheiro preciso em tempo real e os preços são mostrados apenas em USD. A partir de 28 de janeiro de 2021, os parceiros da região UE/EFTA e reino unido que têm novos clientes e clientes csp existentes que compram novas ofertas de comércio pela primeira vez, cujos inquilinos foram criados antes de 11 de maio de 2020, serão cobrados para essas compras em moeda de localização parceira.  Os parceiros situados fora da região UE/EFTA e reino unido continuarão a ser faturados em moeda de localização parceira, lê-se no [plano Azure - faturação](azure-plan-billing.md).
 
@@ -115,6 +108,6 @@ Esta API também permite que os parceiros recuperem taxas de câmbio mensais por
 
 Para obter mais informações sobre os preços do plano Azure e as APIs cambiais, consulte a documentação completa da [API sobre preços](/partner/develop/pricing).
 
-## <a name="next-steps"></a>Próximos passos
+## <a name="next-steps"></a>Passos seguintes
 
 - [Manage subscriptions and resources under the Azure plan](azure-plan-manage.md) (Gerir subscrições e recursos ao abrigo do plano do Azure)

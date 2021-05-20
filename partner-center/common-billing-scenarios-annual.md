@@ -9,21 +9,16 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7494fd7cc003d1179c0ed959b21e1be2cbcc3255
-ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
+ms.openlocfilehash: a6392094e000b899e0545655ecf9ed6117535f7f
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106502485"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148708"
 ---
 # <a name="common-annual-billing-scenarios-in-partner-center"></a>Cenários comuns de faturação anual no Centro de Parceiros
 
-**Funções adequadas**
-
-- Agente administrativo
-- Administrador de faturação
-- Agente helpdesk
-- Agente comercial
+**Funções adequadas**: Agente administrador | Administrador de faturação | Agente helpdesk | Agente comercial
 
 Estes [cenários de faturação comuns](common-billing-scenarios.md) são aplicáveis se utilizar a faturação anual no Partner Center.
 

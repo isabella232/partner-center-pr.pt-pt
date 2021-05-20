@@ -9,22 +9,16 @@ author: amitravat
 ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: b2c59bc40b5092a4a2ee6e06bcb2e49a86e0201d
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: 79f66e759385f6c7c7928dba58e052ea8699cf21
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570659"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149218"
 ---
 # <a name="assign-or-revoke-licenses-at-the-same-time-to-multiple-users-in-a-customer-account"></a>Atribuir ou revogar licenças ao mesmo tempo a vários utilizadores numa conta de cliente
 
-**Funções adequadas**
-
-- Agente administrativo
-- Administrador global
-- Agente helpdesk
-- Agente comercial
-- Administração de gestão de utilizadores
+**Funções adequadas**: Agente administrador | Administração global | Agente helpdesk | Agente comercial | Administração de gestão de utilizadores
 
 Pode atribuir licenças e serviços a um utilizador, ou a vários utilizadores de uma só vez numa conta de cliente, e revogar as atribuições de licença aos utilizadores.
 

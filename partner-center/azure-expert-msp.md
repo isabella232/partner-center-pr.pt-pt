@@ -9,21 +9,16 @@ author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 364add7e25052ce97bfb26b84b26c5fcc430637d
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: 45908ef67beaf2f84ae4cddfe11bfdfe8886ab96
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534663"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149813"
 ---
 # <a name="azure-expert-managed-services-provider-program"></a>Programa Azure Expert Managed Services Provider
 
-**Funções adequadas**
-
-- Administrador de conta
-- Administrador de perfil de negócios
-- Administrador global
-- Administrador sócio da MPN
+**Funções adequadas**: Administração de contas | | de administração de perfil de negócio Administração global | Administrador sócio da MPN
 
 Se a sua empresa é uma superestrela na venda e gestão de serviços da Azure aos clientes, procure candidatar-se ao programa Azure Expert Managed Services Provider. Os parceiros Azure Expert MSP ganham um crachá exclusivo diferenciando-os de outros parceiros da Microsoft e ganham prioridade máxima no motor de referência. São priorizadas para co-vender compromissos, receber apoio no desenvolvimento de novas práticas, e podem assistir a eventos exclusivos.
 

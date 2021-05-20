@@ -9,21 +9,16 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4fe5c33fe549604f25500dd333d187e6b70ad73e
-ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
+ms.openlocfilehash: 66c9ec09f707d87248fdef31e4cf66f4ca927ce1
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106502519"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148657"
 ---
 # <a name="sample-monthly-billing-scenarios-for-new-subscriptions-changing-license-amounts-or-suspensions"></a>Experimente cenários de faturação mensal para novas subscrições, alteração dos valores das licenças ou suspensões
 
-**Funções adequadas**
-
-- Agente administrativo
-- Administrador de faturação
-- Agente helpdesk
-- Agente comercial
+**Funções adequadas**: Agente administrador | Administrador de faturação | Agente helpdesk | Agente comercial
 
 Estes [cenários de faturação comuns](common-billing-scenarios.md) são aplicáveis se utilizar a faturação mensal no Partner Center.
 

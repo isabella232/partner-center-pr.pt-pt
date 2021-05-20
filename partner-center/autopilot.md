@@ -9,21 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 12057d50e4456dd2450ff497e00c89a9afa5dc4d
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: 5294495403be729adecb5a7814ade4f9d454a0f6
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534999"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149830"
 ---
 # <a name="use-windows-autopilot-profiles-on-new-devices-to-customize-a-customers-out-of-box-experience"></a>Utilizar perfis do Windows Autopilot em novos dispositivos para personalizar a experiência inicial de um cliente
 
-**Funções adequadas**
-
-- Agente administrativo
-- Administrador global
-- Agente comercial
-- Administração de gestão de utilizadores
+**Funções adequadas**: Agente administrador | Administração global | Agente comercial | Administração de gestão de utilizadores
 
 Se gerir os dispositivos do cliente, poderá ter de personalizar a experiência fora da caixa (OOBE) para os utilizadores do cliente. Pode configurar novos dispositivos com perfis Do Windows Autopilot antes de entregar os dispositivos aos clientes e aplicar novos perfis aos dispositivos que os clientes já adquiriram. 
 
@@ -36,7 +31,7 @@ Se ainda não está familiarizado com o Autopilot, reveja as informações neste
 - [Descrição geral do Windows Autopilot](/windows/deployment/windows-10-auto-pilot)
 - [Guia de referência de implantação de piloto automático](https://assetsprod.microsoft.com/autopilot-deployment-program-reference-guide-csp.docx)  
 
-## <a name="overview"></a>Descrição geral
+## <a name="overview"></a>Descrição Geral
 
 Com a funcionalidade Piloto Automático do Windows no Partner Center, pode criar perfis personalizados para aplicar aos dispositivos do cliente. As seguintes definições de perfil estavam disponíveis no momento da publicação deste artigo:
 
@@ -145,11 +140,11 @@ Se pretender utilizar o nome OEM, número de série e combinação de modelos, e
 
 - Este tuple funciona apenas para dispositivos mais recentes (hashes 4k, por exemplo) e não é suportado para hashes de 128b (RS2 e dispositivos anteriores).
 
-- O registo de tuple é sensível a casos, pelo que os dados do ficheiro devem coincidir com os nomes do modelo e do fabricante **_exatamente_* _ como fornecido pelo fornecedor OEM (fornecedor de hardware).
+- O registo de tuple é sensível a casos, pelo que os dados do ficheiro devem corresponder aos nomes do modelo e do fabricante ***exatamente*** conforme fornecido pelo fornecedor OEM (fornecedor de hardware).
 
 Siga as instruções abaixo para adicionar dispositivos à conta de um cliente no Partner Center.
 
-1. Selecione _ *Clientes** do menu Partner Center e, em seguida, selecione o cliente cujos dispositivos pretende gerir.
+1. Selecione **clientes** do menu Partner Center e, em seguida, selecione o cliente cujos dispositivos pretende gerir.
 
 2. Na página de pormenor do cliente, selecione **Dispositivos**.
 

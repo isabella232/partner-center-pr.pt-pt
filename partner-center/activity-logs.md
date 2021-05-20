@@ -9,23 +9,16 @@ author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1eaa7fee628015eb633cac3a2796e371f6046585
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: 1bb98dd71c9e46914b90d5efbfe14404d08275f9
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474245"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150595"
 ---
 # <a name="view-or-export-customer-activity-logs-for-more-insight-into-customer-transactions"></a>Ver ou exportar registos de atividade do cliente para obter mais informações sobre as transações de clientes
 
-**Funções adequadas**
-
-- Administrador global
-- Administrador de faturação
-- Administração de gestão de utilizadores
-- Agente administrativo
-- Agente comercial
-- Agente helpdesk
+**Funções adequadas**: Administração global | Administrador de faturação | Administração de administração de utilizadores | Agente administrativo | Agente comercial | Agente helpdesk
 
 Os registos de atividade fornecem informações sobre transações e ações de gestão de parceiros para os clientes. Os registos de transações fornecem informações detalhadas sobre a transação, incluindo subscrições adquiridas. Também pode exportar registos de atividade para um formato de ficheiro de valor separado por vírgula (.csv).
 

@@ -9,21 +9,19 @@ author: vikrambmsft
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 1f8d9f04920a4f2a0fab40523c217835d9b0e4ef
-ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
+ms.openlocfilehash: 6ddb9544e0c6f6a29540fe30d03d307318ddfdf8
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "99530838"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150221"
 ---
 # <a name="analyze-your-leads---see-how-well-you-attract-target-customers-and-potential-referrals"></a>Analisar as oportunidades potenciais – veja até que ponto atrai clientes-alvo e potenciais referências
 <!-- 
 https://go.microsoft.com/fwlink/?linkid=849120
 -->
 
-**Funções adequadas**
-
-- Administração de referências
+**Funções adequadas**: Administração de referências
 
 A página **Leads** na secção **Analytics** em Referências permite-lhe ver como as suas referências estão a funcionar. Reveja estas métricas regularmente para identificar tendências ou áreas que precisam de atenção, e comece a dirigir-se para os seus objetivos de negócio.
 

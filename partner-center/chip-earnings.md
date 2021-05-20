@@ -9,18 +9,16 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 09ed80e4be53f210341279193bae71dc47f87eec
-ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
+ms.openlocfilehash: 74606a4c7f52e5aa23f7e963cab27e491c436b59
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "97354496"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149031"
 ---
 # <a name="view-earnings-using-the-chip-tool"></a>Ver ganhos utilizando a ferramenta CHIP
 
-**Funções adequadas**
-
-- Contacto primário ou administrador de programas
+**Funções apropriadas**: Contacto primário ou administrador de programas
 
 Pode aceder à sua declaração de incentivos através da ferramenta Channel Incentives Platform (CHIP).
 
@@ -36,7 +34,7 @@ Pode aceder à sua declaração de incentivos através da ferramenta Channel Inc
 
 ### <a name="explanation-of-details-tabs"></a>Explicação dos separadores de detalhes
 
-|**Separador**|**Definição**|
+|**Tecla de Tabulação**|**Definição**|
 |-------------|--------------------------|
 |DetailReport-Flatfile|Inclui detalhes para o programa de incentivos para o período de tempo selecionado, incluindo nome do cliente, acordo, detalhes da alavanca|
 |DeltaReport-pivot|Atualizações da última declaração publicada apenas para a Enterprise|

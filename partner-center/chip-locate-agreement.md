@@ -9,18 +9,16 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e433b44f158c3e4cefe22027e7f7d3b845991308
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 64dbbbae0087275fa8d0c5fd4f364079623efe63
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756112"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148997"
 ---
 # <a name="locate-the-desktop-count-and-fee-level-for-an-agreement"></a>Localizar a contagem de computadores e o nível de honorários de um contrato
 
-**Funções adequadas**
-
-- Contacto primário ou administrador de programas
+**Funções apropriadas**: Contacto primário ou administrador de programas
 
 Pode iniciar sessão na [explore.ms](https://www.explore.ms/) para rever o contrato ou descarregar um ficheiro que forneça detalhes do acordo para a contagem de desktop e nível de taxas.
 
@@ -52,7 +50,7 @@ Pode iniciar sessão na [explore.ms](https://www.explore.ms/) para rever o contr
 |  A | 0 – 2,399    |
 |  B | 2,400 – 5,999    |
 |  C | 6,000 – 14,999    |
-|  D | 15.000+   |
+|  D | 15,000+   |
 
 >[!NOTE]
 >Os níveis de Incentivo empresarial baseiam-se no ambiente de trabalho ou na contagem de utilizadores (o que for mais elevado) nas matrículas do Sector Comercial e Público (PS). Para inscrições sem ambiente de trabalho ou contagem de utilizadores associados naturais, a Microsoft aplica uma contagem de ambiente de trabalho com base na contagem de desktop ou contagem de utilizadores da EA que o acompanha. <br><br>Se não houver EA acompanhante, o Nível de Taxa baseia-se no nível de preços da inscrição. O nível de preços do negócio também pode ser visto em [www.explore.ms](https://www.explore.ms/). <br><br>Se existirem vários níveis de pool e/ou preços no EA/EAS existente, a Microsoft pagará incentivos ao nível mais elevado de preços/piscinas atribuídos, sendo o nível A o mais baixo e o nível D o mais elevado.

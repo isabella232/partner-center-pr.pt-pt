@@ -9,22 +9,16 @@ ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 08/06/2020
-ms.openlocfilehash: c377fca3e38161258c836d14202ac4db21484526
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: 1184b199d6235dd1d16fe981000bae44b797f76a
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534765"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149490"
 ---
 # <a name="manage-cancel-exchange-or-refund-microsoft-azure-reservations-for-customers"></a>Gerir, cancelar, trocar ou reembolsar reservas do Microsoft Azure para os clientes
 
-**Funções adequadas**
-
-- Agente administrativo
-- Administrador global
-- Agente helpdesk
-- Agente comercial
-- Administração de gestão de utilizadores
+**Funções adequadas**: Agente administrador | Administração global | Agente helpdesk | Agente comercial | Administração de gestão de utilizadores
 
 Este artigo explica como gerir as reservas do Azure para um cliente, incluindo como cancelar uma reserva, trocar uma reserva ou solicitar um reembolso.
 
@@ -62,10 +56,10 @@ Veja abaixo os detalhes e taxas de cancelamento.
 
 |**Data de cancelamento**<br> (dias)   |**Utilização**    |**Crédito**  |**Rescisão antecipada**<br> taxa    |**Limite máximo de reembolso** | 
 |:----------------------------------|:------------|:-----------|:--------------------------------|:--------------|
-|5 ou menos                         | Não          | 100%       | Não                              | $50.000 USD   |
-|5 ou menos                         | Sim         | Pró-classificado  | Não                              | $50.000 USD   |
-|Mais de 5                        | Não          | Pró-classificado  | 12%                             | $50.000 USD   |
-|Mais de 5                        | Sim         | Pró-classificado  | 12%                             | $50.000 USD   |
+|5 ou menos                         | No          | 100%       | No                              | $50.000 USD   |
+|5 ou menos                         | Yes         | Pró-classificado  | No                              | $50.000 USD   |
+|Mais de 5                        | No          | Pró-classificado  | 12%                             | $50.000 USD   |
+|Mais de 5                        | Yes         | Pró-classificado  | 12%                             | $50.000 USD   |
 
 ### <a name="how-exchanges-work"></a>Como funcionam as trocas 
 

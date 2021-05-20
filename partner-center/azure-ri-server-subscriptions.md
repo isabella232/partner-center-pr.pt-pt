@@ -9,23 +9,17 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1d5386dd4b2b19e641cc9d731d4a3d0f44ab5ad6
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: 79175fc7e67fdcdc3195b33859f3609c4caf942f
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182499"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149422"
 ---
 # <a name="acquire-provision--manage-azure-reserved-vm-instances-ri--server-subscriptions-for-customers"></a>Adquirir, provisão, & gerir Azure reservou vm instâncias (RI) + subscrições de servidores para clientes
 
 
-**Funções adequadas**
-
-- Agente administrativo
-- Administrador global
-- Agente helpdesk
-- Agente comercial
-- Administração de gestão de utilizadores
+**Funções adequadas**: Agente administrador | Administração global | Agente helpdesk | Agente comercial | Administração de gestão de utilizadores
 
 
 ## <a name="what-are-azure-reservations"></a>O que é o Azure Reservations?
@@ -96,7 +90,7 @@ Para entender como pode posicionar reservas do Azure com os seus clientes e leva
 
 - [Visão geral dos preços do Azure](https://azure.microsoft.com/pricing/)
 
-- [Calculadora de Preços de Azure](https://azure.microsoft.com/pricing/calculator)
+- [Calculadora de Preços do Azure](https://azure.microsoft.com/pricing/calculator)
 
 - [Reservas da unidade Azure Databricks](/azure/billing/billing-prepay-databricks-reserved-capacity)
 

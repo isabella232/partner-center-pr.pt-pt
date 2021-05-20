@@ -9,19 +9,16 @@ ms.author: v-aarzh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 03/24/2021
-ms.openlocfilehash: ebb52a3a8223d3b1101e3a8e78728fcc167e25e3
-ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
+ms.openlocfilehash: c75f129ae5a0755833462138f60901cc7ff36732
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "105633783"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148521"
 ---
 # <a name="how-to-confirm-that-your-customer-has-accepted-the-microsoft-customer-agreement-to-the-csp-program"></a>Como confirmar que o seu cliente aceitou o Acordo de Cliente da Microsoft para o programa CSP
 
-**Funções adequadas**
-
-- Agente administrativo
-- Agente comercial
+**Funções adequadas**: Agente administrador | Agente comercial
 
 
 Os clientes têm duas opções para a forma como aceitam o Acordo de Cliente da Microsoft.

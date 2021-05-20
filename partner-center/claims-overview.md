@@ -9,19 +9,16 @@ author: kaushikgMSFT
 ms.author: kaushikg
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 99098b49ded4808edfd4ee895565d1563c52675a
-ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
+ms.openlocfilehash: 5e5f8000032fa09d7752f8c6206325630b995b63
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "103022711"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148725"
 ---
 # <a name="earn-cooperative-marketing-funds"></a>Ganhe fundos de marketing cooperativo
 
-**Funções adequadas**
-
-- Administradores de incentivos
-- Utilizador de incentivos
+**Funções adequadas**: Incentivos administrativos | Utilizador de incentivos
 
 Os fundos de marketing cooperativo (cooperativa) são fundos que obtém através dos Programas de Incentivo da Microsoft, reclamando o reembolso de atividades que suportam a consciência de produtos da Microsoft. Exemplos de programas de incentivos são Cloud Solution Provider, revendedor gerido, hospedagem e Surface.
 

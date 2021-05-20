@@ -9,23 +9,18 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 132a44e1e81f28dd28bdcd95cee209cb5c046ff6
-ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
+ms.openlocfilehash: 54f3afc36e51299b6b8656eecdeff67628128580
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "106964412"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148555"
 ---
 # <a name="common-billing-scenarios-for-csp-program-partners-working-in-partner-center"></a>Cenários comuns de faturação para parceiros de programa CSP que trabalham no Partner Center
 
-**Funções adequadas**
+**Funções adequadas**: Agente administrador | Administrador de faturação | Agente helpdesk | Agente comercial
 
-- Agente administrativo
-- Administrador de faturação
-- Agente helpdesk
-- Agente comercial
-
-Estes artigos explicam o que deve esperar ver na sua conta depois de adicionar novas subscrições, ajustar o número de licenças a uma subscrição ou cancelar uma subscrição. Outros [tipos de faturação do Partner Center](billing-different-types.md), tais como subscrições baseadas em uso e baseadas em licenças, são faturados de forma diferente.
+Estes artigos explicam o que deve esperar ver na sua conta depois de adicionar novas subscrições, ajustar o número de licenças a uma subscrição ou cancelar uma subscrição. Outros [tipos de faturação do Partner Center](./billing-basics.md), tais como subscrições baseadas em uso e baseadas em licenças, são faturados de forma diferente.
 
 
 ## <a name="change-billing-frequency"></a>Change billing frequency (Alterar a frequência de faturação)

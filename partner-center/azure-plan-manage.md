@@ -9,18 +9,16 @@ author: amitravat
 ms.author: amrava
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 31e9c6862a5aa19407fa6da5e15333bb7e696720
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: 18cc5c62beaa76f6e3ade79f2f2069e0f2bd3c7e
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534935"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149609"
 ---
 # <a name="manage-subscriptions-and-resources-under-the-azure-plan"></a>Manage subscriptions and resources under the Azure plan (Gerir subscrições e recursos ao abrigo do plano do Azure)
 
-**Funções adequadas**
-
-- Agente administrativo
+**Funções adequadas**: Agente administrativo
 
 
 Este artigo explica como os parceiros da CSP podem usar diferentes opções de controlo de acesso baseado em funções (RBAC) para obter controlo operacional e gestão dos recursos Azure de um cliente. Quando transita um cliente para o plano Azure, é-lhe atribuído direitos de administração privilegiados em Azure (direitos de proprietário de subscrição através de administração em nome de) por padrão.
@@ -38,7 +36,7 @@ Este artigo explica como os parceiros da CSP podem usar diferentes opções de c
 
 A Microsoft recomenda que os utilizadores tenham as permissões mínimas necessárias para realizar o seu trabalho como prática de segurança. Consulte os recursos de Gestão de Identidade Privilegiada do [Diretório Ativo Azure.](/azure/active-directory/privileged-identity-management/pim-configure)
 
-## <a name="link-your-partner-id-mpn-idto-your-credentials-for-managing-customers-azure-resources"></a>Ligue o seu parceiro ID (MPN ID)às suas credenciais para gerir os recursos Azure do cliente
+## <a name="link-your-partner-id-mpn-id-to-your-credentials-for-managing-customers-azure-resources"></a>Ligue o seu parceiro ID (MPN ID) às suas credenciais para gerir os recursos Azure do cliente
 
 A tabela a seguir mostra os métodos utilizados para associar o seu ID ao seu parceiro com várias opções de acesso RBAC.
 

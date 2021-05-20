@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 05/07/2021
-ms.openlocfilehash: dd0823e56371347bb212122b79e31fbc124dff2e
-ms.sourcegitcommit: a78e9934dd06a6f14ef00e621a82685e2a80dc83
+ms.date: 05/14/2021
+ms.openlocfilehash: 9f3447aad20f32a236f2e52e108de50e391b8969
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "109712520"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150017"
 ---
 # <a name="partner-center-announcements"></a>Anúncios do Centro de Parceiros
 
@@ -22,6 +22,10 @@ Saiba mais sobre atualizações importantes do Centro de Parceiros. Estas inform
 
 |**Categoria**|**Anúncios de maio de 2021**|**Anunciado**|
 |---------|:---------|:---------|
+|Capacidades|[Atualizações sobre a transação de software perpétuo em CSP e alterações ao programa De Licença Aberta](2021-may.md#13)|17 de mai|
+|Capacidades|[Fase 2 em breve: UE/EFTA e Reino Unido mudam de moeda de faturação de parceiros para novas ofertas de comércio](2021-may.md#12)|17 de mai|
+|Capacidades|[Depreciação do Microsoft 365 Business Voice Getting Started Wizard (GSW)](2021-may.md#11)|14 de maio|
+|Capacidades|[Pode cloud solution provider (CSP) atualização e lembretes da comunidade](2021-may.md#10)|13 de maio|
 |Capacidades|[Analytics para co-venda liderada por parceiros](2021-may.md#9)|10 de maio|
 |Capacidades|[Programas de Incentivos de Hospedagem e Revendedor SPLA prolongados até 30 de setembro de 2021](2021-may.md#8)|7 de maio|
 |Capacidades|[A funcionalidade de perfil do banco predefinido está disponível no Partner Center para inscrição de incentivos](2021-may.md#7)|7 de maio|

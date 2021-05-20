@@ -1,7 +1,7 @@
 ---
 title: Adicionar clientes com ofertas de avaliação do Office 365
 ms.topic: article
-ms.date: 05/06/2020
+ms.date: 05/13/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como os assessores autorizados da Microsoft podem aumentar as suas subscrições do Office 365. Crie e envie convites para o julgamento do Office 365 e ofertas de compra aos clientes.
@@ -9,19 +9,17 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 31d8be49e0270f32c472f3fbe0a54d5ceadc9098
-ms.sourcegitcommit: 5ef0b231023395fb4bf01cb82d0eabd83e6cdaf4
+ms.openlocfilehash: bd7e10aaf0bf339f92fbc9dc2f73f403c81693a3
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "106557737"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150391"
 ---
 # <a name="advisors-build-your-client-base-with-office-365-trial-invitations-and-purchase-offers"></a>Assessoria: Construa a sua base de clientes com convites de experimentação do Office 365 e ofertas de compra
 
 
-**Funções adequadas**
-
-- Assistente
+**Funções adequadas**: Assessor
 
 
 Como consultor autorizado da Microsoft, **o Partner Center** oferece-lhe a oportunidade de crescer a sua base de clientes e criar relações duradouras com os seus clientes. Com o Partner Center, pode enviar aos seus clientes convites de experimentação e ofertas de compra, e oferecer-lhes serviços de administração delegados, dependendo dos serviços que está autorizado a prestar.
@@ -53,4 +51,6 @@ Se o seu cliente quiser um número diferente de licenças, envie-lhes uma nova o
 
 ## <a name="next-steps"></a>Passos seguintes
 
-Para obter mais informações sobre ofertas de compra, consulte [Criar uma oferta de compra.](advisor-create-a-purchase-offer.md)
+- [Crie uma oferta de compra.](advisor-create-a-purchase-offer.md)
+
+- [Os parceiros já não podem inscrever-se como Conselheiros](advisors-no-csp.md)

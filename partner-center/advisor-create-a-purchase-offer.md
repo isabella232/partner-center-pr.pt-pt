@@ -1,7 +1,7 @@
 ---
 title: Advisors - crie uma oferta de compra
 ms.topic: article
-ms.date: 05/17/2020
+ms.date: 05/13/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Descubra como um conselheiro de subscrição autorizado pode usar o Partner Center para criar uma oferta de compra e URL personalizado para incluir nos convites de teste do Office 365.
@@ -9,19 +9,17 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a60b75c9eee3601b488fd52fe22b4d2551b526e3
-ms.sourcegitcommit: 5ef0b231023395fb4bf01cb82d0eabd83e6cdaf4
+ms.openlocfilehash: 41337f6c760152122b050fe3b39d1545527b4a81
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "106557754"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150442"
 ---
 # <a name="advisors-create-a-purchase-offer"></a>Assessores: Criar uma oferta de compra
 
  
-**Funções adequadas**
-
-- Assistente
+**Funções adequadas**: Assessor
 
 
 > [!NOTE]
@@ -70,3 +68,4 @@ Se o seu cliente quiser um número diferente de licenças, envie-lhes uma nova o
 ## <a name="next-steps"></a>Passos seguintes
 
 - [Construa a sua base de clientes com convites de teste do Office 365 e ofertas de compra](advisors-build-your-business.md)
+- [Os parceiros já não podem inscrever-se como Conselheiros](advisors-no-csp.md)

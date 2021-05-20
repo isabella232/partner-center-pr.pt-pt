@@ -11,12 +11,12 @@ ms.custom:
 - references_regions
 ms.localizationpriority: high
 ms.date: 04/29/2021
-ms.openlocfilehash: 798dcb1570a0f6dfc94c7b45fc3c2e152f55cbe5
-ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
+ms.openlocfilehash: 13b8ec9ddd82b38a265606809b8c39c07436e548
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "108702829"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150136"
 ---
 # <a name="april-2021-announcements"></a>Anúncios de abril de 2021
 
@@ -53,8 +53,8 @@ A resposta devolverá uma das seguintes mensagens de estado:
 |Parcial de rua | A rua dada no endereço é parcial e precisa de mais informações. | Múltiplos — máximo de três |
 |Instalações parciais | As instalações dadas (número de edifício, número de suite, entre outras) são parciais e precisam de mais informações. | Múltiplos — máximo de três |
 |Vários | Existem vários campos que são parciais no endereço (potencialmente também incluindo a parcial da rua e as instalações parciais). | Múltiplos — máximo de três |
-|Nenhum | O endereço está incorreto. | Nenhum |
-|Não validado | O endereço não pôde ser enviado através do processo de validação. | Nenhum |
+|Nenhuma | O endereço está incorreto. | Nenhuma |
+|Não validado | O endereço não pôde ser enviado através do processo de validação. | Nenhuma |
 
 Os códigos postais dos EUA devolverão mais quatro dígitos + hífen, por exemplo, 12345-6789.
 
@@ -79,7 +79,7 @@ _______________
 
 ### <a name="summary"></a>Resumo
 
-Os documentos da API Swagger do Centro Parceiro foram migrados do anterior site de [documentação da Swagger](https://apidocs.microsoft.com/services/partnercenter) para um [novo site de documentação swagger.](https://docs.microsoft.com/rest/api/partner-center-rest/)
+Os documentos da API Swagger do Centro Parceiro foram migrados do anterior site de [documentação da Swagger](https://apidocs.microsoft.com/services/partnercenter) para um [novo site de documentação swagger.](/rest/api/partner-center-rest/)
 
 ### <a name="impacted-audience"></a>Audiência impactada
 
@@ -87,11 +87,11 @@ Parceiros de conta direta e fornecedores indiretos que participam no programa Cl
 
 ### <a name="details"></a>Detalhes
 
-A partir de 26 de abril de 2021, a documentação da API Swagger do Partner Center, incluindo o conteúdo da API de Repouso, está localizada num [novo site.](https://docs.microsoft.com/rest/api/partner-center-rest/) O antigo local ficará inacessível após várias semanas.
+A partir de 26 de abril de 2021, a documentação da API Swagger do Partner Center, incluindo o conteúdo da API de Repouso, está localizada num [novo site.](/rest/api/partner-center-rest/) O antigo local ficará inacessível após várias semanas.
 
 ### <a name="benefits"></a>Benefícios
 
-A documentação da API Swagger do Centro Parceiro fornecerá uma função **try it.** Para utilizar esta função, terá de ter um Token Bearer, que pode gerar seguindo os passos listados na [Autenticação do Centro de Parceiros.](https://docs.microsoft.com/partner-center/develop/partner-center-authentication#app--user-authentication)
+A documentação da API Swagger do Centro Parceiro fornecerá uma função **try it.** Para utilizar esta função, terá de ter um Token Bearer, que pode gerar seguindo os passos listados na [Autenticação do Centro de Parceiros.](/partner-center/develop/partner-center-authentication#app--user-authentication)
 
 ### <a name="next-steps"></a>Passos seguintes
 
@@ -322,7 +322,7 @@ Parceiros que vendem ofertas académicas, sem fins lucrativos e comunidade gover
 
 ### <a name="details"></a>Detalhes
 
-Este anúncio é um seguimento das melhorias do Partner Center [lançadas em dezembro.](https://docs.microsoft.com/partner-center/announcements/2020-december#1) Como parte desse lançamento, foram implementadas novas APIs get e post qualifications e, consequentemente, **a qualificação get existente será aposentada no dia 6 de maio de 2021**. Nessa altura, terás de te ter transitado para usar as novas APIs do Post Partner Center. As novas APIs post permitir-lhe-ão adquirir ofertas de Educação, enquanto as novas APIs GET permitir-lhe-ão adquirir ofertas pré-qualificadas sem fins lucrativos e GCC.
+Este anúncio é um seguimento das melhorias do Partner Center [lançadas em dezembro.](./2020-december.md#1) Como parte desse lançamento, foram implementadas novas APIs get e post qualifications e, consequentemente, **a qualificação get existente será aposentada no dia 6 de maio de 2021**. Nessa altura, terás de te ter transitado para usar as novas APIs do Post Partner Center. As novas APIs post permitir-lhe-ão adquirir ofertas de Educação, enquanto as novas APIs GET permitir-lhe-ão adquirir ofertas pré-qualificadas sem fins lucrativos e GCC.
 
 ### <a name="next-steps"></a>Passos seguintes
 
@@ -390,7 +390,7 @@ Os seguintes elementos não serão afetados:
 
 ### <a name="next-steps"></a>Passos seguintes
 
-Reveja as informações sobre este tópico na [galeria de recursos de prontidão de operações](https://partner.microsoft.com/resources/collection/introducing-new-format-for-the-new-commerce-invoice-in-csp#/) no site do parceiro da Microsoft. Para mais informações sobre faturação e tópicos fiscais, incluindo recursos de faturação, faturas, faturação de CSP e impostos, visite [a secção de Faturação](https://docs.microsoft.com/partner-center/billing) no Partner Center.
+Reveja as informações sobre este tópico na [galeria de recursos de prontidão de operações](https://partner.microsoft.com/resources/collection/introducing-new-format-for-the-new-commerce-invoice-in-csp#/) no site do parceiro da Microsoft. Para mais informações sobre faturação e tópicos fiscais, incluindo recursos de faturação, faturas, faturação de CSP e impostos, visite [a secção de Faturação](../billing.md) no Partner Center.
 
 ________________
 ## <a name="changes-to-the-cloud-solution-provider-csp-customer-onboarding-requirements"></a><a name="2"></a>Alterações aos requisitos de embarque do fornecedor de solução cloud (CSP)

@@ -9,18 +9,16 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9395a64a5bdf5aa0219bb9457d581e71bef777c2
-ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
+ms.openlocfilehash: d46b37aa903d10ec97b780eec9dde1deec623277
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "97354632"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148980"
 ---
 # <a name="solution-assessment-incentives-faq-for-the-channel-incentives-platform-chip"></a>Incentivos à avaliação da solução FAQ para a Plataforma de Incentivos ao Canal (CHIP) 
 
-**Funções adequadas**
-
-- Contacto primário ou administrador de programas
+**Funções apropriadas**: Contacto primário ou administrador de programas
 
 Encontre respostas para perguntas frequentes abaixo.
 
@@ -37,7 +35,7 @@ Contacte o seu Especialista local de Avaliação de Soluções (SAS) para inicia
 
 ## <a name="how-do-i-submit-my-bank-and-tax-details"></a>Como submeto os meus dados bancários e fiscais?
 
-Leia [a navegação do CHIP](chip-intro.md) para obter instruções passo a passo sobre como submeter o seu banco e perfis fiscais.
+Leia [a navegação no CHIP](chip-intro.md) para obter instruções passo a passo sobre como submeter o seu banco e perfis fiscais.
 
 ## <a name="my-deal-status-has-been-approved-in-chip-why-hasnt-it-been-paid-yet"></a>O meu estatuto de acordo foi aprovado no CHIP. Por que ainda não foi pago?
 
