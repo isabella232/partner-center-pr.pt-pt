@@ -1,7 +1,7 @@
 ---
 title: Criar subscrições de clientes no Partner Center
 ms.topic: how-to
-ms.date: 05/17/2021
+ms.date: 05/19/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como vender subscrições aos seus clientes por produtos publicados pela Microsoft, bem como produtos SaaS publicados por ISVs de terceiros.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.openlocfilehash: 3269fa994d704c0a0dae067087bad8589a7ce031
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 9052954c81ef55a2bfa06778ace651c9d0f9b26f
+ms.sourcegitcommit: e0444145d7720df948b9d02ae2469206db48dba5
 ms.translationtype: MT
 ms.contentlocale: pt-PT
 ms.lasthandoff: 05/19/2021
-ms.locfileid: "110148207"
+ms.locfileid: "110201413"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Create, suspend, or cancel customer subscriptions (Criar, suspender ou cancelar subscrições de clientes)
 
@@ -28,6 +28,9 @@ Algumas ofertas são limitadas a uma subscrição por cliente. Para ver uma list
 
 >[!IMPORTANT]
 > Como parceiro no programa CSP, pode adquirir assinaturas SaaS **baseadas em licenças** ou **medidos** a editores da ISV dentro do Partner Center. Isto significa que pode adquirir qualquer oferta SaaS **baseada em licença** ou **medido** que o editor ISV lhe tenha disponibilizado, incluindo [ofertas exclusivas](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) às quais tem acesso. Para comprar ou gerir outras ofertas comerciais de marketplace a partir de ISVs (tais como ofertas baseadas em uso envolvendo aplicações Azure, Contentores ou VMs), você deve ir ao [portal Azure.](https://portal.azure.com/)
+
+>[!NOTE]
+>Todas as datas e horários no Partner Center são dadas na norma de tempo coordenada (UTC) do tempo universal. Isto pode diferir até 24 horas a partir da sua hora local.
 
 ## <a name="create-a-new-subscription"></a>Criar uma nova subscrição
 

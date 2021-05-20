@@ -9,18 +9,16 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dd566a6d9ef60747eb7fd515b4d63d87d991da2a
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: 511612042f7da5e43d045d2991fa7d5251612726
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624192"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150748"
 ---
 # <a name="guide-to-migrating-from-pmc-to-partner-center"></a>Guide to migrating from PMC to Partner Center (Guia para migrar do PMC para o Centro de Parceiros)
 
-**Funções adequadas**
-
-- Administrador global
+**Funções apropriadas**: Administração global
 
 O site parceiro da Microsoft na partner.microsoft.com é uma experiência digital unificada para parceiros. A partir do site do parceiro, poderá explorar as suas oportunidades e envolver-se em experiências guiadas que ajudam a sua empresa a construir e vender as suas apps e serviços com a Microsoft. Utilizando o link dashboard que está disponível em todo o site do parceiro, os membros da Microsoft Partner Network podem iniciar sação no centro de parceiros onde gere a sua relação com a Microsoft, inscrever-se em programas e inscrever-se para ofertas.
 
@@ -57,7 +55,7 @@ Se a sua empresa não tiver um e-mail de trabalho e inquilino da AAD, podemos aj
 
 Uma vez verificadas ou atualizadas as informações, **selecione Aceite e continue**.
 Os Termos e Condições nesta página são **exatamente os mesmos** que o acordo que a sua empresa já assinou em PMC.  
-Este passo inicia a criação do seu inquilino AZure AD e fornece a sua conta de trabalho.
+Este passo inicia a criação do seu inquilino AZure AD e fornece-lhe a conta de trabalho.
 
 Selecionar **Aceitar e continuar** também faz o seguinte:
 
@@ -73,10 +71,10 @@ Quando o seu novo inquilino AZure AD for criado, pode convidar os seus colaborad
 
 :::image type="content" source="images/migration/invite.png" alt-text="Convidar funcionários":::
 
-Se assinou contrato com um inquilino da AAD, os seus empregados terão-se mudado consigo. Neste caso, atribua aos seus colaboradores funções que determinam o que podem fazer no Partner Center. 
+Se assinou contrato com um inquilino da AAD, os seus empregados terão-se mudado consigo. Neste caso, atribua aos seus colaboradores funções para gerir o que podem fazer no Partner Center. 
 
 >[!NOTE] 
->As funções no Partner Center são diferentes das funções no PMC. Para obter mais informações consulte [movendo-se de PMC para Partner Center](move-pmc-pc-map.md).
+>As funções no Partner Center são diferentes das funções no PMC. Para obter mais informações, consulte [movendo-se de PMC para Partner Center](move-pmc-pc-map.md).
 
 ## <a name="verify-your-domain-and-become-a-global-admin"></a>Verifique o seu domínio e torne-se um administrador global  
 

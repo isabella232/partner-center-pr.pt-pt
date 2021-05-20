@@ -2,17 +2,17 @@
 title: Configurar conta de pagamento & formulários fiscais - Mercado comercial da Microsoft
 description: Para receber dinheiro das vendas de ofertas no mercado comercial, aprenda a configurar a sua conta de pagamento e preencha os formulários fiscais necessários.
 ms.topic: conceptual
-ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
+ms.service: marketplace
+ms.subservice: partnercenter-marketplace-publisher
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 12/10/2019
-ms.openlocfilehash: 255ae28af5b29645b06ad0ae6a1f9660ad334c3c
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 2dbbab72ea68246bf0cb99d57a5ce3640f25c867
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854848"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152924"
 ---
 # <a name="set-up-your-payout-account-and-tax-forms"></a>Configurar a conta de dividendos e os formulários fiscais
 
@@ -42,7 +42,7 @@ Gere o seu perfil fiscal e formulários fiscais na página **de pagamento e impo
 Primeiro, terá de criar um perfil fiscal e atribuí-lo aos programas em que participa. Utilize os seguintes passos para criar ou atualizar o seu *perfil fiscal* no Partner Center. Pode completar e submeter os seus formulários fiscais eletronicamente no painel do Centro de Parceiros; na maioria dos casos, não precisa imprimir e enviar nenhum formulário.
 
 > [!IMPORTANT]
-> Diferentes países e regiões têm diferentes requisitos fiscais. O valor exato que deve pagar em impostos depende dos países e regiões onde vende a sua oferta. Consulte o [Microsoft Azure Marketplace Publisher Agreement](https://go.microsoft.com/fwlink/p/?LinkID=699560) para saber para que países/regiões a Microsoft atribui vendas e utiliza o imposto em seu nome. Noutros países/regiões, dependendo do local onde está registado, poderá ter de reencamitá-lo e utilizar o imposto para as suas vendas de oferta diretamente à autoridade tributária local. Além disso, as receitas de vendas de aplicações que recebe podem ser tributáveis como rendimento. Encorajamo-lo vivamente a contactar a autoridade relevante para o seu país ou região que melhor o ajude a determinar a informação fiscal certa para as suas atividades de mercado comercial.
+> Diferentes países e regiões têm diferentes requisitos fiscais. O valor exato que deve pagar em impostos depende dos países e regiões onde vende a sua oferta. Consulte o [Microsoft Azure Marketplace Publisher Agreement](/legal/marketplace/msft-publisher-agreement) para saber para que países/regiões a Microsoft atribui vendas e utiliza o imposto em seu nome. Noutros países/regiões, dependendo do local onde está registado, poderá ter de reencamitá-lo e utilizar o imposto para as suas vendas de oferta diretamente à autoridade tributária local. Além disso, as receitas de vendas de aplicações que recebe podem ser tributáveis como rendimento. Encorajamo-lo vivamente a contactar a autoridade relevante para o seu país ou região que melhor o ajude a determinar a informação fiscal certa para as suas atividades de mercado comercial.
 
 1. No [painel 'Centro parceiro' (Centro parceiro),](https://partner.microsoft.com/dashboard)selecione o ícone de engrenagem **Definições** no canto superior direito e, em seguida, **as definições de Conta**.
 
@@ -169,7 +169,7 @@ Uma vez que o pagamento tenha sido submetido ao seu banco, tem 30 dias para subm
 Se é um editor que vive na Rússia, poderá ter de fornecer documentação ao seu banco antes de o seu banco depositar fundos na sua conta. Quando você é elegível para ser pago, nós lhe forneceremos a seguinte documentação em uma mensagem de e-mail:
 
 - Certificado de Aceitação (AC) – contém o valor do pagamento que está a ser transferido para a sua conta.
-- [Microsoft Azure Marketplace Publisher Agreement](https://go.microsoft.com/fwlink/p/?LinkID=699560)  – uma cópia assinada do acordo de editor que precisa de ser contra-assinado.
+- [Microsoft Azure Marketplace Publisher Agreement](/legal/marketplace/msft-publisher-agreement)  – uma cópia assinada do acordo de editor que precisa de ser contra-assinado.
 
 Para garantir que o seu pagamento é bem sucedido, certifique-se de que:
 
@@ -183,7 +183,7 @@ Para garantir que o seu pagamento é bem sucedido, certifique-se de que:
 Se é um editor que vive na Ucrânia, poderá ter de fornecer documentação ao seu banco antes de o seu banco depositar fundos na sua conta. Quando você é elegível para ser pago, nós lhe forneceremos a seguinte documentação em uma mensagem de e-mail:
 
 - Certificado de Aceitação (AC) – contém o valor do pagamento que está a ser transferido para a sua conta.
-- [Microsoft Azure Marketplace Publisher Agreement](https://go.microsoft.com/fwlink/p/?LinkID=699560) – uma cópia assinada do acordo de editor que precisa de ser contra-assinado.
+- [Microsoft Azure Marketplace Publisher Agreement](/legal/marketplace/msft-publisher-agreement) – uma cópia assinada do acordo de editor que precisa de ser contra-assinado.
 - Acordo de Alteração (AA) – este documento pode ser usado pelo seu banco para ajudar a identificar os seus fundos de pagamento.
 
 A Microsoft fornece os três documentos quando o seu primeiro pagamento é tentado. Para pagamentos posteriores, só receberá o documento AC. Guarde os documentos da ADA e da AA caso necessite que receba pagamentos futuros do seu banco.

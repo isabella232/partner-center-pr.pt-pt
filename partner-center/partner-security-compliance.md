@@ -9,19 +9,16 @@ ms.author: iswillia
 ms.localizationpriority: high
 ms.topic: conceptual
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e9ff61b34a9154cf305efbb42147e99b9579a17f
-ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
+ms.openlocfilehash: c9bba02744d466741d7625b1624995084c0a3492
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "109686284"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152567"
 ---
 # <a name="security-requirements-status-report"></a>Relatório de estado dos requisitos de segurança
 
-**Funções adequadas**
-
-- Administrador do CPV
-- Administrador global
+**Funções adequadas**: Administração cpV | Administração global
 
 Este artigo explica o relatório de estado dos requisitos de segurança no Partner Center. Este relatório fornece métricas sobre o cumprimento dos requisitos de segurança do parceiro para a autenticação de [vários](partner-security-requirements.md) fatores (MFA) para os utilizadores do seu inquilino parceiro.
 

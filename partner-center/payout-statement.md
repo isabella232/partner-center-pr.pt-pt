@@ -1,25 +1,22 @@
 ---
 title: Declaração de dividendos
 description: Saiba mais sobre os pedidos de pagamento e resumos, e como ver e exportar os seus dados de pagamento do Microsoft Partner Center
-ms.subservice: partnercenter-mpn
-ms.service: partner-dashboard
+ms.subservice: partnercenter-marketplace-publisher
+ms.service: marketplace
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 3/22/2021
-ms.openlocfilehash: fd0aaeb84651a84aba4748795309512295f9485a
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 4e9ab721fe356dbcdff7316a5ed5b52c81f2d4eb
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106087098"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152601"
 ---
 # <a name="payout-statements"></a>Declaração de dividendos
 
-**Funções adequadas**
-
-- Administrador de conta
-- Administrador global
+**Funções adequadas**: Administração de contas | Administração global
 
 A **declaração do Payout** apresenta uma visão geral dos seus pagamentos a partir de ofertas vendidas através do mercado comercial. Mostra o histórico transacional dos seus ganhos, estima o seu próximo pagamento e mostra as tendências de pagamento. Também pode baixar o histórico de transações e as demonstrações de pagamento. Este artigo explica como aceder ao seu depoimento de pagamento, e às diferentes páginas de pagamento e downloads acessíveis a si no Partner Center.
 
@@ -230,7 +227,7 @@ A tabela que se segue lista os códigos de razão para ajustes e as suas descri�
 A página **pagamentos** detalha o dinheiro que ganhou com a Microsoft. Também mostra quando e quanto te pagarão.
 
 >[!Note]
-> Para ser elegível para pagamento, as suas receitas devem atingir o limiar de [pagamento](payment-thresholds-methods-timeframes.md) de $50. Para obter mais informações, consulte o [Microsoft Publisher Agreement](https://go.microsoft.com/fwlink/?LinkID=699560).
+> Para ser elegível para pagamento, as suas receitas devem atingir o limiar de [pagamento](payment-thresholds-methods-timeframes.md) de $50. Para obter mais informações, consulte o [Microsoft Publisher Agreement](/legal/marketplace/msft-publisher-agreement).
 
 :::image type="content" source="images/payouts/payments-overview.png" alt-text="Ecrã geral de pagamentos.":::
 

@@ -9,22 +9,16 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5561c2e183c1dc50b573f89769da27317c83ba00
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: dad2a3a8f60135093c632466577a3e884daea715
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086537"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152618"
 ---
 # <a name="partner-earned-credit---an-overview-of-how-it-works-in-the-new-commerce-experience-in-csp"></a>Partner earned credit - uma visão geral de como funciona na nova experiência de comércio na CSP
 
-**Funções adequadas**
-
-- Administrador global
-- Administração de gestão de utilizadores
-- Agente administrativo
-- Administrador de faturação
-- Agente comercial
+**Funções adequadas**: Administração global | Administração de administração de utilizadores | Agente administrativo | Administrador de faturação | Agente comercial
 
 O parceiro ganhou crédito na nova experiência de comércio na CSP é um modelo de negócio que realiza preços uniformes simplificados Azure em todos os veículos Go-To-Market da Microsoft, ao mesmo tempo que alimenta um ecossistema parceiro que fornece serviços geridos de valor acrescentado. O crédito ganho por parceiros também ajuda a eliminar qualquer concorrência nas margens.
 

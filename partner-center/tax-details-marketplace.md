@@ -6,18 +6,18 @@ ms.service: partner-dashboard
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 04/26/2021
-ms.openlocfilehash: f96f765596024e2df5f1c9e2418ff331dbcd51eb
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 5ba7e5a4713c3cb92e7c5b8eee8e0370c8099d14
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854813"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152754"
 ---
 # <a name="tax-details-for-commercial-marketplace-publishers"></a>Informações fiscais para publicadores do marketplace comercial
 
 **Funções apropriadas**: Administração global
 
-Esta página define as responsabilidades fiscais e considerações fiscais para editores de marketplace comercial (Editores) e Desenvolvedores de Mercado de Consumo (Desenvolvedores) no âmbito das compras finais de produtos editores/desenvolvedores de acordo com o [Microsoft Azure Marketplace Publisher Agreement](https://go.microsoft.com/fwlink/p/?LinkID=699560) e o App Developer [Agreement,](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4o4bH)respectivamente.  As informações abaixo são além, e não se destinam a substituir, os termos e condições no Microsoft Publisher Agreement e no App Developer Agreement.  Salvo indicação em contrário, as informações abaixo aplicam-se tanto aos Editores de Marketplace Comercial como aos Desenvolvedores de Mercado de Consumo que disponibilizam os seus produtos/ofertas para venda através do Microsoft Marketplaces. 
+Esta página define as responsabilidades fiscais e considerações fiscais para editores de marketplace comercial (Editores) e Desenvolvedores de Mercado de Consumo (Desenvolvedores) no âmbito das compras finais de produtos editores/desenvolvedores de acordo com o [Microsoft Azure Marketplace Publisher Agreement](/legal/marketplace/msft-publisher-agreement) e o App Developer [Agreement,](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4o4bH)respectivamente.  As informações abaixo são além, e não se destinam a substituir, os termos e condições no Microsoft Publisher Agreement e no App Developer Agreement.  Salvo indicação em contrário, as informações abaixo aplicam-se tanto aos Editores de Marketplace Comercial como aos Desenvolvedores de Mercado de Consumo que disponibilizam os seus produtos/ofertas para venda através do Microsoft Marketplaces. 
 
 ## <a name="end-customer-taxation"></a>Fim da Tributação do Cliente
 

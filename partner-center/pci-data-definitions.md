@@ -9,19 +9,16 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 21be5b22c453174fcb66e9409d6e26dad8e25c6b
-ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
+ms.openlocfilehash: 721caed2d8b0e24940e7adedeb90cc689a82d2e7
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "109686352"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152839"
 ---
 # <a name="export--data-definitions"></a>Exportação - Definições de dados 
 
-**Funções adequadas** 
-
-- Espectador de relatório
-- Espectador de relatório executivo
+**Funções apropriadas**: Report viewer | Espectador de relatório executivo
 
 ## <a name="introduction"></a>Introdução 
 

@@ -9,12 +9,12 @@ ms.topic: how-to
 ms.date: 04/12/2021
 ms.localizationpriority: medium
 ms.custom: contperf-fy21q4
-ms.openlocfilehash: c700176ced0710f621dbdfab65513767976aff3d
-ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
+ms.openlocfilehash: 46c2371e3a95b8840f14ebc5063d90bd5926fb8f
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109818614"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110153060"
 ---
 # <a name="verify-or-update-your-company-profile-information"></a>Verifique ou atualize as informações do perfil da empresa 
 
@@ -98,9 +98,8 @@ Se você é o administrador global, administrador de faturação ou agente admin
 |Endereço Bill-to|O endereço bill-to mostrado na fatura da CSP. Atualização do perfil de [Billing](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial).|
 |Contato Bill-to|Os dados de contacto de faturação (nome próprio, apelido, número primário) para a conta CSP.  Atualização do perfil de [Billing](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial).|
 |Número de PO|O número da Ordem de Compra apresentada na fatura do parceiro.  Atualização do perfil de [Billing](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial).|
-|ID do imposto da empresa|As empresas de alguns países podem fornecer o seu [número de imposto sobre o valor acrescentado (IVA) ou equivalente local.](https://docs.microsoft.com/partner-center/organization-tax-info#submit-vat-id-number) Para atualizar o seu NIF, tem de ser administrador Global, administrador de faturação ou agente de administração.|
+|ID do imposto da empresa|As empresas de alguns países podem fornecer o seu [número de imposto sobre o valor acrescentado (IVA) ou equivalente local.](./organization-tax-info.md) Para atualizar o seu NIF, tem de ser administrador Global, administrador de faturação ou agente de administração.|
 |Moeda de Faturação|A moeda de faturação da sua conta CSP é determinada pelo país legal da conta CSP.  Isto não pode ser alterado uma vez que a conta CSP é criada.|
-
 
 ## <a name="next-steps"></a>Passos seguintes
 

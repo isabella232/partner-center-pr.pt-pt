@@ -9,20 +9,16 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bff69796cb753f93225bb44324629180d981a721
-ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
+ms.openlocfilehash: 38985e48923bb0a3c6ad54eb600a44d419b5ad85
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "108702693"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150799"
 ---
 # <a name="sell-to-specialized-industries-like-education-non-profit-and-government-users"></a>Vender a indústrias especializadas como utilizadores de educação, sem fins lucrativos e governamentais
 
-**Funções adequadas**
-
-- Administrador global
-- Agente administrativo
-- Agente comercial
+**Funções adequadas**: Administração global | Agente administrativo | Agente comercial
 
 A Microsoft fornece preços especiais e reduzidos para grupos selecionados de clientes, incluindo clientes de educação, clientes sem fins lucrativos, pequenas empresas e entidades governamentais. Tanto você como o seu cliente devem ser qualificados antes de lhes oferecer preços especiais. Estas ofertas a preços especiais estão atualmente **apenas disponíveis para serviços baseados em licenças** como Microsoft 365, Dynamics, Intune etc. Não está disponível para outros tipos (subscrições de software, software perpétuo ou produtos Azure).
 
@@ -30,9 +26,9 @@ A Microsoft fornece preços especiais e reduzidos para grupos selecionados de cl
 
 |**Preços especiais**   |**Revendedor exigiu qualificações**   |**Qualificações exigidas pelo cliente**   |
 |----------------------------|:---------------------------------|:------------------------------------------|
-|Education   |Nenhum   | Deve ser um [Utilizador qualificado de Educação](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7).   |
-|Administração Pública   |Para vender o Azure, inscreva-se utilizando o [formulário de validação da nuvem do governo dos EUA](https://azuregov.microsoft.com/csp)da Microsoft. Para vender assinaturas baseadas em licenças para o governo, não há qualificação necessária.|   Nenhum|
-|Sem Fins Lucrativos  |Nenhum<br/> Deve ter um inquilino sem fins lucrativos Azure Ative Directory.<br/> Saiba mais sobre as [ofertas especiais sem fins lucrativos](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf).   |Inscreva-se através do [programa sem fins lucrativos](https://nonprofit.microsoft.com/#/register) da Microsoft para ser elegível.   |
+|Education   |Nenhuma   | Deve ser um [Utilizador qualificado de Educação](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7).   |
+|Administração Pública   |Para vender o Azure, inscreva-se utilizando o [formulário de validação da nuvem do governo dos EUA](https://azuregov.microsoft.com/csp)da Microsoft. Para vender assinaturas baseadas em licenças para o governo, não há qualificação necessária.|   Nenhuma|
+|Sem Fins Lucrativos  |Nenhuma<br/> Deve ter um inquilino sem fins lucrativos Azure Ative Directory.<br/> Saiba mais sobre as [ofertas especiais sem fins lucrativos](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf).   |Inscreva-se através do [programa sem fins lucrativos](https://nonprofit.microsoft.com/#/register) da Microsoft para ser elegível.   |
 
 ## <a name="check-your-reseller-qualifications"></a>Verifique as suas qualificações de revendedor
 

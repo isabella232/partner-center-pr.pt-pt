@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 15203b24188bd8303f61f362ff5f0f901714a813
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: c3467ec4cf056d04392d3cbe9a61c66a80fc9bdb
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855782"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110153009"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies-where-you-can-sell-csp-offers"></a>Cloud Solution Provider programa mercados regionais e moedas onde pode vender ofertas de CSP
 
@@ -31,7 +31,7 @@ Antes de poder encomendar ofertas de CSP em nome de um cliente, o cliente deve a
 O Plano Azure para a CSP está disponível em menos regiões do que o Azure Software para a CSP. Para obter as últimas atualizações sobre a disponibilidade regional para o Plano Azure, consulte [o plano Azure.](purchase-azure-plan.md)
 
 >[!IMPORTANT]
-> Tem de confirmar que um cliente aceitou o Acordo de Cliente da Microsoft fornecendo informações sobre a pessoa que o assinou. Consulte [a aceitação de um cliente do Microsoft Customer Agreement](confirm-consent.md) para obter mais detalhes.
+> Tem de confirmar que um cliente aceitou o Acordo de Cliente da Microsoft fornecendo informações sobre a pessoa que o assinou. Consulte [a aceitação de um cliente do Microsoft Customer Agreement](./confirm-customer-agreement.md) para obter mais detalhes.
 
 Para determinar onde pode vender ofertas de CSP, encontre a localização da sua empresa numa das listas abaixo. Deve ter um ID ativo da Microsoft Partner Network (MPN) para a localização em que pretende vender.  
 

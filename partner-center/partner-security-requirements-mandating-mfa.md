@@ -9,22 +9,16 @@ author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 21e0ebd58835be34f9cc161072ff3690b30abf57
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: b1b02967209ba36088b0c7bb7487428ab08b8a37
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086367"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152584"
 ---
 # <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>Obrigando à autenticação de vários fatores (MFA) para o seu inquilino parceiro
 
-**Funções adequadas**
-
-- Agente administrativo
-- Agente comercial
-- Agente helpdesk
-- Administrador de faturação
-- Administrador global
+**Funções adequadas**: Agente administrador | Agente comercial | Agente helpdesk | Administrador de faturação | Administração global
 
 Este artigo dá exemplos e orientações detalhadas para a obrigatoriedade da autenticação de vários fatores (MFA) no Partner Center. A intenção desta funcionalidade é ajudar os parceiros a garantir o seu acesso aos recursos dos clientes contra o compromisso de credenciais. Os parceiros são obrigados a impor MFA para todas as contas de utilizador no seu inquilino parceiro, incluindo utilizadores convidados. Os utilizadores serão mandatados para completar a verificação do MFA para as seguintes áreas:
 

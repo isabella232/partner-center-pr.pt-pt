@@ -9,12 +9,12 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8f8b3a086f968ed00deefa718d3abc18223ba600
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: ba2610280de4ed989ce2bd139e2021a62fbb008b
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855748"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152992"
 ---
 # <a name="register-deals-youve-won-in-partner-center-so-you-can-get-more-opportunities-later"></a>Registar ofertas que ganhou no Partner Center para que possa ter mais oportunidades mais tarde
 
@@ -39,7 +39,7 @@ Na página **New deal,** forneça as seguintes informações.
 - **Valor da solução**: O valor total da solução cloud que será usada para o negócio. Certifique-se de incluir todos os custos associados com taxas de software e manutenção, mas não inclua itens reembolsáveis, taxas de personalização não recorrentes ou taxas de licença CSP diretamente associadas pagas pela Microsoft.
 - **Implantado em**: Selecione **Azure** ou **Other**.
 - **Onde será implementada a solução?**: Selecione o inquilino do **Cliente** ou o **inquilino do Parceiro.**
-- **Data de início do contrato**: A data em que o contrato começará. Para ofertas pay-as-you-go (PAYG), utilize a data da primeira fatura.
+- **Data de início do contrato**: A data em que o contrato começará. Para ofertas pay-as-you-go (PAYG), utilize a data da primeira fatura. Por design, o Partner Center não o deixará introduzir uma data de início mais cedo do que a data de assinatura do contrato. Isto pode ter impacto em algumas ofertas, tais como implementações IP que começam antes da data de sinalização. Para introduzir estas ofertas com sucesso, utilize a data de assinatura do contrato **para os** campos de data de assinatura e início da data quando estiver a enviar. (O contrato deve indicar explicitamente a duração do negócio para que a ACV possa ser devidamente calculada.)
 - **Data final do contrato**: Se o contrato terminar numa data específica, selecione **Tem uma data de fim** e forneça essa data. Se o contrato não tiver uma data de final específica, selecione **Perpetual**. Para ofertas pay-as-you-go (PAYG), utilize a data da última ou mais recente fatura.
 - **Contrato assinado data**: Data em que o contrato final foi assinado pela sua organização e pelo cliente. Para ofertas pay-as-you-go (PAYG), utilize a data da primeira fatura.
 - **Contacto de registo**: **O nome próprio**, **apelido,** **número de telefone** e **e-mail** para uma pessoa da sua organização que possamos contactar se precisarmos de mais detalhes sobre qualquer informação fornecida aqui.

@@ -9,21 +9,16 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 292b5535bdcc40164e738ec967a689c51f6d8f47
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 2053c4b0a31232a6e2e9182a11fad2e2048d96f1
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086265"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152890"
 ---
 # <a name="competencies-report-available-from-the-partner-center-insights-dashboard"></a>Relatório de competências disponível no painel Partner Center Insights
 
-**Funções adequadas**
-
-- Administrador global
-- Agente administrativo
-- Espectador de relatório
-- Espectador de relatório executivo
+**Funções adequadas**: Administração global | Agente administrativo | Relatório | do espectador Espectador de relatório executivo
 
 As competências permitem à sua empresa demonstrar a sua capacidade técnica para fornecer soluções microsoft. As competências da Microsoft são projetadas para atender às necessidades dos seus clientes e mostrar a sua experiência a potenciais clientes. Eles vêm com uma grande quantidade de benefícios da Microsoft, tais como quantidades incluídas de consumo Azure, direitos para produtos Cloud como Office 365, suporte técnico, ofertas Go-to-Market, entre outros. Existem hoje um total de 19 competências nas seguintes categorias: **App and Infrastructure**, **Aplicações empresariais, Dados** **e IA,** e **local de trabalho moderno.** As competências são escaldadas nos níveis de Prata ou Ouro, por exemplo. Há uma barra mais alta para a competência Gold e um nível mais elevado associado de recursos de marketing, ofertas e programas disponíveis.  
 

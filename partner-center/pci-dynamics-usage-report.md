@@ -8,21 +8,16 @@ description: Veja o que está a fazer bem e onde pode melhorar no que diz respei
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 60c0eebccff963858b1af09318b5202016ea5291
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 0e2880f8548b220d708c61c08a0ea9fb37700240
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086928"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152805"
 ---
 # <a name="dynamics-usage-report-available-from-the-partner-center-insights-dashboard"></a>Relatório de utilização dinâmico disponível no painel Partner Center Insights
 
-**Funções adequadas**
-
-- Administrador global
-- Agente administrativo
-- Espectador de relatório
-- Espectador de relatório executivo
+**Funções adequadas**: Administração global | Agente administrativo | Relatório | do espectador Espectador de relatório executivo
 
 O relatório de utilização da Dynamics fornece dados de utilização para as subscrições Dynamics 365 que vendeu ou geriu para os seus clientes. Pode ver as seguintes secções do relatório de utilização da dinâmica.
 

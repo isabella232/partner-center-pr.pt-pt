@@ -9,21 +9,16 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5b730eb9c6689c9d779a2e3f16f70fd3232601da
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 488d5641422de3036cb36818c0aa21bdc81a3628
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106087013"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152550"
 ---
 # <a name="benefits-report-available-from-the-partner-center-insights-dashboard"></a>Relatório de benefícios disponível no painel Partner Center Insights
 
-**Funções adequadas**
-
-- Administrador global
-- Agente administrativo
-- Espectador de relatório
-- Espectador de relatório executivo
+**Funções adequadas**: Administração global | Agente administrativo | Relatório | do espectador Espectador de relatório executivo
 
 Como Microsoft Partner, pode aceder a uma série de benefícios que utilizam a mais recente tecnologia e inovações para ajudá-lo a melhorar as habilidades da sua equipa, melhorar a eficiência e fazer crescer o seu negócio. Os pacotes de benefícios incluem: alocações de software licenciado, serviços na nuvem, subscrições do Visual Studio e suporte. Estes pacotes também podem incluir certos recursos, ofertas e programas go-to-market. O relatório Benefits apresenta tendências dos benefícios a que acedeu e da sua utilização durante a gama de datas selecionadas.
 

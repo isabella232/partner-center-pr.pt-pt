@@ -8,19 +8,16 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.date: 04/27/2021
-ms.openlocfilehash: 91f64faeec0b97be2797d489e152cb84cbb2e192
-ms.sourcegitcommit: 8bd2e2f2f0f6bcd0fa202787df5b3c1f786f88f9
+ms.openlocfilehash: 430aea81964d1b75514b6e1377bd2ba1af41b538
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/29/2021
-ms.locfileid: "108213467"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110153043"
 ---
 # <a name="cloudascent-propensity-reports-available-from-partner-center-dashboard"></a>Relatórios de Propensity CloudAscent disponíveis no painel de instrumentos do Partner Center
 
-**Funções adequadas**
-
-- Espectador de relatório executivo
-- Espectador de relatório
+**Funções apropriadas**: | do espectador de relatório executivo Espectador de relatório
 
 O painel Partner Center fornece dados de propensão descarregáveis do programa CloudAscent. Os dados mostram a probabilidade dos clientes comprarem produtos microsoft.  Este artigo descreve a desagregação destes dados, como usar a pontuação, e o que significa.
 

@@ -9,21 +9,16 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 28343b5754546b653bd5a3e6b4a53a002b408668
-ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
+ms.openlocfilehash: 8a9207e793865bcf7fa2f205fc69b0b5def65b4d
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108120839"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152907"
 ---
 # <a name="customers-dashboard-reports-from-partner-center-insights"></a>Relatórios do painel de clientes do Partner Center Insights
 
-**Funções adequadas**
-
-- Administrador global
-- Agente administrativo
-- Espectador de relatório
-- Espectador de relatório executivo
+**Funções adequadas**: Administração global | Agente administrativo | Relatório | do espectador Espectador de relatório executivo
 
 O dashboard clientes apresenta dados dos seus clientes que adquiriram produtos na nuvem como Office, Azure, Dynamics etc. através de si ou o utilizaram para implantar e gerir estes produtos nos seus inquilinos. 
  

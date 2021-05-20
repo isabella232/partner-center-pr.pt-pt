@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 74dd5c2c9457961f07dd0dd8d5a6ead9047c5579
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 100a3d2988c19d57f7426c7212b7464d8e96dc94
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855561"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152958"
 ---
 # <a name="how-and-when-to-request-a-service-level-agreement-sla-credit-from-microsoft"></a>Como e quando solicitar um crédito de nível de serviço (SLA) da Microsoft
 
@@ -34,7 +34,7 @@ Os créditos SLA da Microsoft são determinados com base em quais os serviços f
 *O parceiro Cloud Solution Provider (CSP) deve apresentar a reclamação e todas as informações necessárias até ao final do mês civil seguinte ao mês em que ocorreu o incidente.* Por exemplo, se o incidente ocorreu no dia 15 de fevereiro, a Microsoft deve receber a reclamação e todas as informações necessárias até 31 de março. Clientes finais e revendedores indiretos não podem apresentar crédito sla; quer o prestador indireto quer o parceiro de conta direta devem apresentar reclamações em seu nome.
 
 >[!NOTE]
->Incidentes consultivos[(Como verificar a saúde do serviço Microsoft 365](https://docs.microsoft.com/microsoft-365/enterprise/view-service-health?&preserve-view=trueo365-worldwide#incidents-and-advisories)) não são elegíveis para créditos SLA.
+>Incidentes consultivos[(Como verificar a saúde do serviço Microsoft 365](/microsoft-365/enterprise/view-service-health#incidents-and-advisories)) não são elegíveis para créditos SLA.
 
 ### <a name="required-information"></a>Informação necessária
 

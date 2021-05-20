@@ -9,19 +9,16 @@ author: amitravat
 ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4feaa8cba8ba17f553b5e936dcf892ffbf7ccc82
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 9fabd6bd188c9d596128672d9fce3321db9b5432
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441307"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150765"
 ---
 # <a name="give-customers-permission-in-partner-center-to-buy-their-own-products-or-services"></a>Dê permissão aos clientes no Partner Center para comprarem os seus próprios produtos ou serviços
 
-**Funções adequadas**
-
-- Agente administrativo
-- Agente comercial
+**Funções adequadas**: Agente administrador | Agente comercial
 
 Este artigo mostra como um parceiro no programa Cloud Solution Provider (CSP) pode dar permissão ao cliente para comprar alguns dos seus próprios serviços ou recursos.
 
