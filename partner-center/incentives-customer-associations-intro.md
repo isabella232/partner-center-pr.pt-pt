@@ -7,13 +7,13 @@ ms.topic: conceptual
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.date: 09/11/2020
-ms.openlocfilehash: 1895f89933668e909748178dcdaf4a54e4843096
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.date: 05/20/2021
+ms.openlocfilehash: 9bcdd9e99f9db5271a1ca51dab01c376c938acc9
+ms.sourcegitcommit: 75b84d0918802325019577930d368bc3df193ab2
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110146787"
+ms.lasthandoff: 05/21/2021
+ms.locfileid: "110236088"
 ---
 # <a name="use-these-resources-to-make-customer-association-claims-for-specific-incentives-programs"></a>Utilize estes recursos para fazer reclamações de associação de clientes para programas de incentivos específicos
 
@@ -26,7 +26,11 @@ Este artigo partilha recursos para parceiros da Microsoft que cumprem os seguint
 - Trabalha com clientes Microsoft 365 ou Dynamics 365 e pretende fazer referência ou reivindicar parte deste trabalho nos programas de incentivo supondo-se.
 
 Se se enquadrar nos critérios, tem de utilizar o modelo De Parceiro Reivindicativo da Record (CPOR) para criar e gerir associações de clientes para estes programas de incentivos.
- 
+
+## <a name="explaining-claiming-partner-of-record-cpor-to-customers"></a>Explicando o Parceiro De Reclamação da Record (CPOR) aos clientes
+
+O CPOR permite à Microsoft identificar e reconhecer os parceiros que estão a ajudar os clientes a alcançar objetivos de negócio e a concretizar valor na nuvem. Uma vez que um parceiro associado a uma carga de trabalho ou subscrição, obterão acesso a dados de utilização e/ou de assentos vendidos. O acesso a esses dados permite aos parceiros monitorizarem o uso ativo, fornecendo aos clientes recomendações sobre como maximizar o uso. Os parceiros não terão acesso a quaisquer outros dados do cliente. Além disso, a associação CPOR ajuda a Microsoft a compreender o ecossistema dos fornecedores de serviços, e também ajuda a Microsoft a determinar como refinar as ferramentas e programas necessários para melhor suportar os nossos clientes comuns. Não é necessária nenhuma ação para o cliente. Permitimos aos clientes a oportunidade de optar por uma associação CPOR. Os clientes receberão uma notificação informando-os do pedido de associação dos parceiros. Se um cliente negar a associação a um parceiro, o parceiro não será reconhecido como o parceiro de registo.
+
 ## <a name="how-do-customer-associations-and-cpor-relate-to-incentives"></a>Como é que as associações de clientes e a CPOR se relacionam com incentivos?
 
 A Microsoft utiliza agora o modelo Claiming Partner of Record (CPOR) para gerir as associações que tem com os seus clientes Microsoft 365 e Dynamics 365.
@@ -41,7 +45,6 @@ Ao aceitar o seu pedido de associação, o cliente está a dar-lhe acesso a algu
 
 ## <a name="resources-to-help-you-create-and-manage-customer-associations"></a>Recursos para ajudá-lo a criar e gerir associações de clientes
 
-Os artigos abaixo dizem-lhe como criar, gerir e resolver problemas de associações de clientes.
 
 |  **Para fazer isto**  |  **Leia isto**  |
 |--------------|-----------|
