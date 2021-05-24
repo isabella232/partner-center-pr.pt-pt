@@ -8,19 +8,19 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 04/01/2020
-ms.openlocfilehash: cf83cd6eedf982a416f683fa1767e7afa23200c1
-ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
+ms.date: 05/21/2021
+ms.openlocfilehash: e2efd42acaf0abae8837891758c55f89a4dd7df8
+ms.sourcegitcommit: b59d886d372338eb31bbeb6a7d554ce543738bae
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96439128"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "110325484"
 ---
 # <a name="april-2020-announcements"></a>Anúncios de abril de 2020
 
 Esta página detalha os anúncios do Microsoft Partner Center para abril de 2020.
 
-Anúncios de 2020: [janeiro 2020](2020-january.md)  |  [fevereiro 2020](2020-february.md)  |  [março 2020](2020-march.md) Abril de 2020 [maio de 2020](2020-may.md)
+Anúncios de 2020: [janeiro 2020](2020-january.md)  |  [fevereiro 2020](2020-february.md)  |  [março 2020](2020-march.md) | | de abril de 2020 [maio de 2020](2020-may.md)
 
 _________________
 
@@ -35,7 +35,7 @@ _________________
 
 ### <a name="summary"></a>Resumo
 
-No dia 4 de maio de 2020 (12:01 UTC), a Microsoft introduzirá novas promoções para o Office 365 E1 e microsoft 365 Business Basic, substituindo o atual teste de 6 meses do Office 365 E1 para novos clientes.
+No dia 4 de maio de 2020 (12:01 UTC), a Microsoft introduzirá novas promoções para o Office 365 E1 e microsoft 365 Business Basic, substituindo o atual teste de seis meses do Office 365 E1 para novos clientes.
 
 ### <a name="impacted-audience"></a>Audiência impactada
 
@@ -43,12 +43,12 @@ Todos os parceiros que transacionam através do programa Cloud Solution Provider
 
 ### <a name="details"></a>Detalhes
 
-Como parte do [compromisso da Microsoft com os clientes](https://www.microsoft.com/microsoft-365/blog/2020/03/05/our-commitment-to-customers-during-covid-19/) durante estes tempos sem precedentes, foi disponibilizado um ensaio de 6 meses do Office 365 E1 para novos clientes (ver definição abaixo).
-No dia 4 de maio de 2020, a Microsoft introduzirá novas promoções de desconto para o Office 365 E1 e microsoft 365 Business Basic para oferecer estes produtos sem custos para os primeiros 6 meses da sua subscrição anual de faturação mensal, para novos clientes.
+Como parte do [compromisso da Microsoft com os clientes](https://www.microsoft.com/microsoft-365/blog/2020/03/05/our-commitment-to-customers-during-covid-19/) durante estes tempos sem precedentes, foi disponibilizado um ensaio de seis meses do Office 365 E1 para novos clientes (ver definição abaixo).
+No dia 4 de maio de 2020, a Microsoft introduzirá novas promoções de desconto para o Office 365 E1 e microsoft 365 Business Basic para oferecer estes produtos sem custos para os primeiros seis meses da sua subscrição anual de faturação mensal, para novos clientes.
 
 Estas promoções substituirão a atual oferta experimental do Office 365 E1 e diferem das seguintes formas:
 
-- Os parceiros irão transacionar anualmente o Office 365 E1 ou o Microsoft 365 Business Basic SKUs aproveitando um CSP Promo que aplica um desconto de 100% nos primeiros 6 meses, em vez de um SKU experimental único de 6 meses. [Saiba mais sobre as promoções da CSP.](../promotions.md)
+- Os parceiros irão transacionar anualmente o Office 365 E1 ou o Microsoft 365 Business Basic SKUs usando um CSP Promo que aplica um desconto de 100% nos primeiros seis meses, em vez de um SKU experimental único de seis meses. [Saiba mais sobre as promoções da CSP.](../promotions.md)
 - A encomenda será tecnicamente restrita apenas a "novos clientes", em vez do julgamento do Office 365 E1, que se restringia apenas a novos clientes através de uma política escrita. 
 - Para os clientes SMB, o Microsoft 365 Business Basic será incluído nesta promoção. Isto garante que os parceiros podem iniciar clientes com menos de 300 lugares na família de produtos certos com a Microsoft 365 para negócios.
 Os clientes atualmente licenciados com o ensaio Do Office 365 E1 (disponível até 4 de maio de 2020) permanecerão no seu plano atual – esta alteração só afeta novos clientes líquidos.
@@ -68,11 +68,11 @@ Novos clientes elegíveis para esta promoção são:
 
 ### <a name="next-steps"></a>Passos seguintes
 
-Por favor, familiarize-se com as alterações acima, a lista de preços de maio de 2020, e partilhe esta informação com todos os contactos apropriados na sua organização.
+Familiarize-se com as alterações acima referidas, a lista de preços de maio de 2020, e partilhe esta informação com todos os contactos apropriados na sua organização.
 
 ### <a name="questions"></a>Perguntas?
 
-Para mais perguntas sobre estas ofertas, verifique as comunidades Yammer relevantes e contacte o seu representante na equipa de conta da Microsoft.
+Para mais perguntas sobre estas ofertas, consulte as comunidades Yammer relevantes e contacte o seu representante na equipa de conta da Microsoft.
 
 _________________
 
@@ -134,7 +134,7 @@ No início de 2020, descobrimos um erro no preço do Valor Euro para a Microsoft
 
 Embora o preço esteja errado, fazer a correção e aumentar os preços neste momento não é apropriado dadas as circunstâncias extraordinárias. Por isso, estamos temporariamente a regressar ao nosso anterior, preço líquido mais baixo, a partir de 22 de abril de 2020. Todas as faturas refletirão imediatamente os preços mais baixos anteriores, enquanto a tabela de preços apresentará o preço mais baixo da tabela de preços de maio de 2020, num futuro previsível.
 
-Os parceiros não devem utilizar o preço M365 E3 EUR listado na tabela de preços de abril de 2020; em vez disso, consulte os preços listados na tabela de preços de março de 2020.
+Os parceiros não devem utilizar o preço M365 E3 EUR listado na tabela de preços de abril de 2020; em vez disso, refira-se ao preço listado na tabela de preços de março de 2020.
 
 Agradecemos todo o grande trabalho que a nossa comunidade parceira está a fazer neste tempo sem precedentes.
 
@@ -144,7 +144,7 @@ Partilhe esta informação com todos os contactos apropriados na sua organizaç�
 
 ### <a name="questions"></a>Perguntas?
 
-Se precisar de apoio com as suas operações com a Microsoft, contacte o Support para obter perguntas, consultas ou mais informações.
+Se precisar de apoio com as suas operações com a Microsoft, contacte o Support para perguntas, consultas ou mais informações.
 
 _________________
 
@@ -173,7 +173,7 @@ Para ajudar ainda mais a defender parceiros e clientes, **a partir de 1 de maio 
 
 ### <a name="next-steps"></a>Passos seguintes
 
-- **Se não tiver ativado os requisitos de segurança recomendados para proteger o seu inquilino e utilizadores,** por favor, faça-o imediatamente para se manter em conformidade e evitar quaisquer perturbações de negócio na gestão de clientes ou transação em CSP. Os parceiros que não implementarem os requisitos de segurança podem colocar em risco a sua participação no programa CSP.
+- **Se não ativou os requisitos de segurança recomendados para proteger o seu inquilino e utilizadores,** deve fazê-lo imediatamente para se manter em conformidade e evitar quaisquer perturbações de negócio na gestão de clientes ou transação em CSP. Os parceiros que não implementarem os requisitos de segurança podem colocar em risco a sua participação no programa CSP.
 - Os fornecedores indiretos devem implementar estes requisitos de segurança para as suas próprias empresas e trabalhar com os revendedores para garantir que implementam os requisitos, bem como usando este modelo de e-mail. Também contactamos diretamente os seus revendedores através de comunicações por e-mail.
 - Visite [a página de estado dos requisitos de segurança do Partner Center](https://partner.microsoft.com/commerce/security/compliance) para identificar o seu progresso e as principais ações a tomar. Trabalhe com o seu administrador global para verificar regularmente o progresso dos seus requisitos de segurança para cada um dos seus inquilinos.
 - Se estiver a utilizar uma solução de Fornecedor de Painéis de Controlo (CPV), consulte o seu CPV.
@@ -188,12 +188,12 @@ Reveja estes recursos para ajudá-lo a implementar os requisitos de segurança.
 - Aceda a recursos adicionais na recolha [de requisitos de segurança dos parceiros implementar.](https://partner.microsoft.com/resources/collection/partner-security-requirements#/)
 - Bookmark o [grupo comunitário de orientação de segurança do Centro de Parceiros](https://aka.ms/MPCSecurityGuidance).
 
-Para assistência adicional com questões técnicas, por favor [envie um bilhete de apoio.](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?topicid=32674991) Por favor, envie este e-mail para outros indivíduos da sua organização que possam precisar de tomar medidas para implementar estes requisitos de segurança.
+Para assistência adicional com questões técnicas, [envie um bilhete de apoio.](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?topicid=32674991) Envie este e-mail a outros indivíduos da sua organização que possam precisar de tomar medidas para implementar estes requisitos de segurança.
 
 Obrigado pela sua parceria e empenho em garantir que o nosso ecossistema funciona com confiança.
 
 >[!NOTE] 
->Se estiver a utilizar políticas de base e não tiver transitado para a política de incumprimentos de segurança ou [outras opções de implementação do MFA,](..\partner-security-requirements.md#implementing-multi-factor-authentication)por favor, faça a transição o mais rapidamente possível, referindo os [recursos-chave aqui](https://partner.microsoft.com/resources/collection/security-defaults-enable-mfa#/).
+>Se estiver a utilizar políticas de base e não tiver transitado para a política de incumprimentos de segurança ou [outras opções de implementação do MFA,](..\partner-security-requirements.md#implementing-multi-factor-authentication)transição o mais rapidamente possível, referindo os [recursos-chave aqui](https://partner.microsoft.com/resources/collection/security-defaults-enable-mfa#/).
 
 ### <a name="change-log"></a>Change log
 
@@ -236,7 +236,7 @@ Para aceder às Alterações, siga estes passos:
 - Passo 3: Selecione-o, clique em "Soluções de Revisão"
 - Passo 4: Clique na alteração de que precisa
 
-Em alternativa, inscreva-se no centro de parceiros e vá a [este URL.](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=c007d538-f817-84e3-06b5-ff4005c1a6bb)
+Em alternativa, inscreva-se no centro de parceiros e vá a [este URL.](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=0570a74b-e021-7aa6-9a81-d0fe505b8df5)
 
 ### <a name="additional-resources"></a>Recursos adicionais
 
@@ -277,7 +277,7 @@ MDATP para Servidores 350158a2-f253-4ea3-988e-eef9d1b828cf
 
 ### <a name="next-steps"></a>Passos seguintes
 
-Por favor, partilhe esta informação com os contactos apropriados na sua organização. Isto poderia ser partilhado 1:1 com os clientes quando apropriado.
+Partilhe esta informação com os contactos adequados na sua organização. Isto poderia ser partilhado 1:1 com os clientes quando apropriado.
 
 Teremos mais informação pública no final do ano para partilhar com os seus clientes.
 
@@ -288,7 +288,7 @@ Teremos mais informação pública no final do ano para partilhar com os seus cl
 
 ### <a name="questions"></a>Perguntas?
 
-Se tiver dúvidas relacionadas com as suas operações com a Microsoft, contacte [o suporte através do seu Partner Dashboard](https://partner.microsoft.com/pcv/servicerequests/create).
+Se tiver dúvidas relacionadas com as suas operações com a Microsoft, [contacte o suporte através do painel de instrumentos do seu Parceiro](https://partner.microsoft.com/pcv/servicerequests/create).
 
 ### <a name="change-log"></a>Change log
 
@@ -334,7 +334,7 @@ Certifique-se de que todos os sistemas, correspondência e documentação são a
 
 ### <a name="questions"></a>Perguntas?
 
-Entre [em contato com o Suporte](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp) para perguntas, consultas ou mais informações.
+[Contacte o Suporte](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp) para perguntas, consultas ou mais informações.
 
 _________________
 
@@ -365,7 +365,7 @@ Também estamos a planear alargar esta oferta aos clientes da Educação e do Go
 
 O ID de oferta original criado para este lançamento foi: Microsoft 365 E3 para licença sem supervisão: ec3ac2d1-dd66-475a-95c8-59c32c472778
 
-Por favor, verifique os nossos anúncios em maio e a nossa lista de preços de produção no dia 1 de maio de 2020, para encontrar o ID da oferta atualizada.
+Consulte os nossos anúncios em maio e a nossa lista de preços de produção no dia 1 de maio de 2020, para encontrar o ID da oferta atualizada.
 
 ### <a name="additional-background-on-unattended-license"></a>Fundo adicional na Licença Não Atemprea
 
@@ -375,11 +375,11 @@ Esta nova licença pode fornecer uma nova opção para trabalhar com dados e fer
 
 ### <a name="next-steps"></a>Passos seguintes
 
-Por favor, partilhe esta informação com todos os contactos apropriados na sua organização e consulte os seus anúncios no [partner.microsoft.com](https://partner.microsoft.com) para futuras atualizações.
+Partilhe esta informação com todos os contactos apropriados na sua organização e consulte os seus anúncios no [partner.microsoft.com](https://partner.microsoft.com) para futuras atualizações.
 
 ### <a name="questions"></a>Perguntas?
 
-Para mais perguntas sobre estas ofertas, contacte o seu representante na equipa de conta da Microsoft ou verifique as comunidades Yammer relevantes.
+Para mais perguntas sobre estas ofertas, contacte o seu representante na equipa de conta da Microsoft ou consulte as comunidades Yammer relevantes.
 
 _________________
 
@@ -414,8 +414,8 @@ No dia 1 de abril de 2020, a Microsoft adicionou um novo valor às ofertas de Co
 
 Consulte os seguintes IDs de oferta na lista de preços:
 
-- Microsoft 365 A5 Compliance for faculty 9f8f1756-f56f-421e-901a-e80e857cadb8
-- Microsoft 365 A5 Compliance para estudantes f0f9f37a-539f-4f44-aef6-e37070149499
+- Microsoft 365 A5 Compliance for faculty | 9f8f1756-f56f-421e-901a-e80e857cadb8
+- Microsoft 365 A5 Compliance for students | f0f9f37a-539f-4f44-aef6-e37070149499
 
 ### <a name="microsoft-365-a5-compliance-mini-suites"></a>Mini suites Microsoft 365 A5 Compliance
 
@@ -427,18 +427,18 @@ A partir de 1 de abril de 2020, os parceiros da Microsoft também podem oferecer
 
 Consulte os seguintes IDs de oferta na lista de preços:
 
-- Microsoft 365 A5 Proteção e Governação da Informação para docentes 0514821c-f7d8-41fc-8c94-59e59d3d6034
-- Microsoft 365 A5 Proteção e Governação da Informação para estudantes a91941ff-79a2-4476-a064-c5a6922e0bbd
-- Microsoft 365 A5 Insider Risk Management para docentes 2ed867d7-fd08-474f-8353-502b500d1c9b
-- Microsoft 365 A5 Insider Risk Management para estudantes 2ba72571-c0f0-4373-b999-d08cc1bb5edd
-- Microsoft 365 A5 eDiscovery e Auditoria para docentes 5d7c0030-c2e9-4a8c-bed3-5a6dbf1e4449
-- Microsoft 365 A5 eDiscovery e Auditoria para estudantes 6c6e2e9c-2156-4f7c-9c78-f94393b750fe
+- Microsoft 365 A5 Proteção e Governação de Informação para | 0514821c-f7d8-41fc-8c94-59e59d3d6034
+- Microsoft 365 A5 Proteção e Governação de Informação para estudantes | a91941ff-79a2-4476-a064-c5a6922e0bbd
+- Microsoft 365 A5 Insider Risk Management para | 2ed867d7-fd08-474f-8353-502b500d1c9b
+- Microsoft 365 A5 Insider Risk Management para estudantes | 2ba72571-c0f0-4373-b999-d08cc1bb5edd
+- Microsoft 365 A5 eDiscovery e Auditoria para | 5d7c0030-c2e9-4a8c-bed3-5a6dbf1e4449
+- Microsoft 365 A5 eDiscovery e Auditoria para estudantes | 6c6e2e9c-2156-4f7c-9c78-f94393b750fe
 
 **Pôr-do-sol 365 Avançado Compliance and Azure Information Protection (AIP) Plan 2**
 
 Além das alterações acima referidas, a Microsoft está a pôr o sol do Office 365 Advanced Compliance e a Azure Information Protection (AIP) Plan 2. A partir de 1 de abril de 2020, estas ofertas deixaram de estar disponíveis na tabela de preços para novos clientes líquidos, e a renovação automática foi desligada para os clientes existentes.
 
-Por favor, discuta as ofertas com os seus clientes para entender a melhor solução para eles, seja através das mini-suites, quer através da oferta mais ampla do Microsoft 365 A5 Compliance.
+Discuta as ofertas com os seus clientes para entender a melhor solução para eles, seja através das mini-suites, quer através da oferta mais ampla do Microsoft 365 A5 Compliance.
 
 Pode encontrar abaixo uma lista de IDs de oferta impactados:
 
@@ -453,11 +453,11 @@ Pode encontrar abaixo uma lista de IDs de oferta impactados:
 
 ### <a name="next-steps"></a>Passos seguintes
 
-Por favor, familiarize-se com a lista de preços e partilhe esta informação com todos os contactos apropriados na sua organização.
+Familiarize-se com a lista de preços e partilhe esta informação com todos os contactos apropriados na sua organização.
 
 ### <a name="questions"></a>Perguntas?
 
-Para mais perguntas sobre estas ofertas, contacte o seu representante na equipa de conta da Microsoft Se tiver algum problema com as suas operações microsoft, por favor [abra um Pedido de Serviço](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8).
+Para mais perguntas sobre estas ofertas, contacte o seu representante na equipa de conta da Microsoft Se tiver algum problema com as suas operações microsoft, [abra um Pedido de Serviço](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8).
 
 _________________
 
@@ -483,7 +483,7 @@ Pessoas e equipas em todo o mundo estão a mudar-se para arranjos de trabalho re
 
 Estamos entusiasmados por anunciar um novo Office 365 E1 Trial em CSP, criado especificamente para apoiar a resposta do parceiro às crescentes necessidades de trabalho remoto e inteligente. Esta oferta de julgamento está disponível a partir de 1 de abril de 2020 até novo aviso.
 
-O CSP Office 365 E1 Trial está agora disponível para além do atual Teste CSP das equipas da Microsoft (que não tem Bolsa e 2 GB de armazenamento). O novo teste terá funcionalidade equivalente ao teste do Office 365 E1, e irá fornecer 6 meses de uso gratuito para até 3.000 utilizadores. Disponível através da CSP, esta oferta permite aos parceiros iniciar e gerir a experiência experimental.
+O CSP Office 365 E1 Trial está agora disponível para além do atual Teste CSP das equipas da Microsoft (que não tem Bolsa e 2 GB de armazenamento). O novo teste terá funcionalidade equivalente ao teste do Office 365 E1, e irá fornecer seis meses de uso gratuito para até 3.000 utilizadores. Disponível através da CSP, esta oferta permite aos parceiros iniciar e gerir a experiência experimental.
 
 ### <a name="offer-id"></a>ID da oferta
 
@@ -503,7 +503,7 @@ Consulte regularmente o [Centro de Parceiros](https://partner.microsoft.com/reso
 
 ### <a name="questions"></a>Perguntas?
 
-Se tiver dúvidas sobre estas ofertas, consulte as suas comunidades Yammer relevantes. Para outros problemas, por favor envie um bilhete no Partner Center Support.
+Se tiver dúvidas sobre estas ofertas, consulte as suas comunidades Yammer relevantes. Para outros problemas, envie um bilhete no Partner Center Support.
 
 _________________
 
@@ -540,14 +540,14 @@ No dia 1 de abril de 2020, foram feitas as seguintes alterações aos produtos D
 - Ofertas de automação de processo robótico de primeira parte (RPA)
 - Novo produto BOT para ofertas de RPA
 
-Consulte [aqui](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)as alterações específicas no ficheiro Dynamics CSP Offer Updates-Mar 2020.
+Consulte [aqui](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)as alterações específicas no ficheiro Dynamics CSP Offer Updates-Mar 2020 .
 
 ### <a name="robotic-process-automation"></a>Automatização de processos robóticos
 
 No dia 1 de maio de 2020, a Microsoft irá expandir a disponibilidade de novas ofertas de RPA nos programas Education.
 Para saber mais sobre as alterações ao Programa de Parceiros de Educação Autorizada em CSP clique [aqui.](https://partner.microsoft.com/resources/collection/csp-aer-partner-qualification-retirement#/) Este é um link para uma coleção existente no Partner Center).
 
-Por favor, reveja o **ficheiro CSP Oferta da Dynamics anexada Updates-May 2020** [aqui](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/) na secção de descarregamento relacionado para novas informações SKU.
+Reveja o **ficheiro CSP Oferta CSP da Dynamics anexa Updates-May 2020** [aqui](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/) na secção de descarregamento relacionado para novas informações SKU.
 
 ### <a name="ecommerce-changes"></a>alterações no eCommerce
 
@@ -575,11 +575,11 @@ A partir de 1 de abril de 2020, as ofertas de eCommerce têm nome de exibição 
 
 ### <a name="next-steps"></a>Passos seguintes
 
-Por favor, partilhe esta informação com os contactos apropriados na sua organização. Para mais detalhes sobre as atualizações de licenciamento e a proposta de valor, por favor familiarize-se com o nosso conteúdo de prontidão na secção "Recursos Adicionais" e no PartnerSource.
+Partilhe esta informação com os contactos adequados na sua organização. Para mais detalhes sobre as atualizações de licenciamento e a proposta de valor, familiarize-se com o nosso conteúdo de prontidão na secção "Recursos Adicionais" e no PartnerSource.
 
 ### <a name="questions"></a>Perguntas?
 
-Para obter ajuda estritamente relacionada com as suas operações com a Microsoft, por favor [contacte para suporte](https://partner.microsoft.com/pcv/servicerequests/create).
+Para obter ajuda estritamente relacionada com as suas operações com a Microsoft, [contacte o suporte](https://partner.microsoft.com/pcv/servicerequests/create).
 
 _________________
 
@@ -599,9 +599,9 @@ _________________
 
 A [localização do recurso de prontidão de operações](https://partner.microsoft.com/resources#/) está agora em direto, fornecendo aos parceiros um local para recursos de prontidão de operações, tornando mais fácil do que nunca encontrar as últimas atualizações e recursos de prontidão operacional chave em todos os canais e programas da Microsoft. A galeria de recursos de atualizações do programa CSP e o conteúdo de prontidão da Microsoft foram transferidos para a localização do recurso de prontidão de operações e o URL que aponta para a Galeria de Recursos de Atualização do Programa CSP foi [https://partner.microsoft.com/resources#/](https://partner.microsoft.com/resources#/) atualizado para indicar a localização do recurso de prontidão de operações.
 
-Por favor, reveja as [FAQ atualizadas](https://assetsprod.microsoft.com/mpn/readiness-in-one-place-partner-login-faq.pdf) aqui para mais detalhes sobre esta nova experiência e algumas áreas que continuarão a evoluir ao longo das próximas semanas.
+Reveja aqui as [FAQ atualizadas](https://assetsprod.microsoft.com/mpn/readiness-in-one-place-partner-login-faq.pdf) para mais detalhes sobre esta nova experiência e algumas áreas que continuarão a evoluir ao longo das próximas semanas.
 
-**O seu feedback é importante para nós!** Ao utilizar o novo local de prontidão de operações, convidamo-lo a deixar feedback para que possamos continuar a melhorar a sua experiência. Pode fazê-lo usando a **página foi útil? Sim, sim. Não existe** nenhuma ferramenta de feedback disponível na parte inferior de cada página.
+**O seu feedback é importante para nós!** Ao utilizar o novo local de prontidão de operações, convidamo-lo a deixar feedback para que possamos continuar a melhorar a sua experiência. Pode fazê-lo usando a **página foi útil? Sim, | Não existe** nenhuma ferramenta de feedback disponível na parte inferior de cada página.
 
 A Microsoft está a simplificar a forma como comunicamos e fornecemos materiais de prontidão em todos os programas da Microsoft. Estamos a introduzir uma localização de recursos de prontidão de operações no site do parceiro da [https://partner.microsoft.com](https://partner.microsoft.com) Microsoft, no qual combinaremos ativos da Galeria de Recursos de Atualizações do [Programa CSP](https://partner.microsoft.com/resources#/) e do [site de prontidão](https://www.microsoftreadiness.com/)da Microsoft.
 
@@ -626,7 +626,7 @@ O que deve fazer para se preparar?
 
 ### <a name="questions"></a>Perguntas?
 
-Entre [em contato com o Suporte](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp) para perguntas, consultas ou mais informações.
+[Contacte o Suporte](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp) para perguntas, consultas ou mais informações.
 
 ### <a name="change-log"></a>Change log
 
@@ -698,11 +698,11 @@ Em alternativa, a partir de 1 de abril de 2020, pode adquirir a oferta Business 
 - **Apenas nos Estados Unidos:** Microsoft 365 Business Voice Without Calling Plan: 39d77d0f-eb8f-4ebc-b618-692e1cc59c8f
 - **Resto do mundo:** Microsoft 365 Business Voice Without Calling Plan: cc69a07c-8c51-457f-bb2a-f21a62d6bede
 
-Por favor, envolva-se com a sua subsidiária local para entender como beneficiar desta oferta.
+Envolva-se com a sua subsidiária local para entender como beneficiar desta oferta.
 
 ### <a name="additional-guidance-for-partners-in-the-united-states-and-puerto-rico"></a>Orientação adicional para parceiros nos Estados Unidos e Porto Rico
 
-Nos EUA e em Porto Rico, a Business Voice é uma oferta que inclui impostos. O preço cobrado aos Parceiros e pago pelos Parceiros à Microsoft inclui os impostos e taxas de telco dos EUA aplicáveis. Noutros mercados, os impostos serão aplicados de acordo com o processo normal de faturação. Por favor, fale com o seu advogado sobre a remessa de impostos, antes de decidir marcar a Business Voice. Se a Business Voice estiver marcada, o Parceiro precisa de uma forma de remediar os impostos sobre telco. Caso contrário, o parceiro não estaria a pagar o imposto incremental sobre a margem de aumento, resultando em violações fiscais. A Microsoft fornece incentivos csp adicionais a parceiros para o Business Voice nos EUA, para compensar a potencial falta de margem.
+Nos EUA e em Porto Rico, a Business Voice é uma oferta que inclui impostos. O preço cobrado aos Parceiros e pago pelos Parceiros à Microsoft inclui os impostos e taxas de telco dos EUA aplicáveis. Noutros mercados, os impostos serão aplicados de acordo com o processo normal de faturação. Fale com o seu advogado sobre a remessa de impostos, antes de decidir aumentar a Business Voice. Se a Business Voice estiver marcada, o Parceiro precisa de uma forma de remediar os impostos sobre telco. Caso contrário, o parceiro não estaria a pagar o imposto incremental sobre a margem de aumento, resultando em violações fiscais. A Microsoft fornece incentivos csp adicionais a parceiros para o Business Voice nos EUA, para compensar a potencial falta de margem.
 
 ### <a name="guidance-for-partners-in-australia"></a>Orientação para parceiros na Austrália
 
@@ -715,8 +715,8 @@ Com o tempo, esperamos trazer o Microsoft 365 Business Voice para todos os país
 ### <a name="next-steps"></a>Passos seguintes
 
 - Consulte a nossa galeria de parceiros para saber mais sobre a proposta de valor desta oferta, bem como para estabelecer e consolidar a sua prática microsoft Teams: [Microsoft 365 Business Voice disponibilidade em CSP](https://partner.microsoft.com/resources/collection/microsoft_365_business_voice_in_csp#/)
-- Por favor, familiarize-se com a lista de preços de pré-visualização e partilhe esta informação com todos os contactos apropriados na sua organização.
-- Por favor, envolva-se com a sua equipa local One Commercial Partner para saber mais sobre esta oferta e como ir ao mercado de forma eficaz
+- Familiarize-se com a lista de preços de pré-visualização e partilhe esta informação com todos os contactos apropriados na sua organização.
+- Envolva-se com a sua equipa local One Commercial Partner para saber mais sobre esta oferta e como ir ao mercado de forma eficaz
 
 ### <a name="questions"></a>Perguntas?
 
@@ -751,7 +751,7 @@ A partir de abril de 2020:
 - Parceiros Direct Bill e Fornecedores Indiretos que não aceitaram o Acordo de Parceiros da Microsoft não poderão estoirar novas encomendas e limitar-se-ão apenas à gestão das subscrições existentes.
 - Os Revendedores Indiretos que não aceitaram o Acordo de Parceiros da Microsoft deixarão de poder atuar como parceiros de registo em novas encomendas.
 
-**Se ainda não o fez, por favor, complete imediatamente as seguintes ações.**
+**Se ainda não o fez, complete imediatamente as seguintes ações.**
 
 ### <a name="actions-for-direct-bill-partners"></a>Ações para parceiros de conta direta:
 1. Informe as principais partes interessadas da sua organização para rever o Acordo de Parceiros da Microsoft.
