@@ -9,12 +9,12 @@ author: billLinzbach
 ms.author: billLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 522237ab1a3a6814e36218ef2a57fd1bdda5437c
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: d890a4dff5fef28fd0b698000635643f5f801998
+ms.sourcegitcommit: 7c7e2705873df2b500b8114235c8f67a22112c62
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110147688"
+ms.lasthandoff: 05/25/2021
+ms.locfileid: "110398173"
 ---
 # <a name="apply-to-sell-in-microsoft-national-clouds-as-part-of-the-csp-program"></a>Aplicar para vender nas nuvens nacionais da Microsoft como parte do programa CSP
 
@@ -36,23 +36,29 @@ A Microsoft disponibiliza estes serviços nas nuvens nacionais:
 
 Parceiros qualificados podem vender soluções de nuvem microsoft para clientes nestas nuvens nacionais:
 
--   [**Microsoft Cloud para governo dos EUA**](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud#Microsoft_Cloud_for_US) Projetado para o governo dos EUA desde o zero, o Microsoft Cloud para o Governo permite que clientes do sector público nos Estados Unidos - de grandes agências federais a pequenos governos de cidades - selecionem de uma série de serviços de computação em nuvem. Para melhor responder às necessidades específicas dos seus clientes, a Microsoft tem feito um investimento significativo em datacenters e dedica-se a cumprir o cumprimento das políticas, mandatos e requisitos federais e estatais dos EUA. 
+## <a name="microsoft-cloud-for-us-government"></a>Microsoft Cloud para governo dos EUA
 
-    Para obter informações sobre como se inscrever e vender a clientes no Microsoft Cloud para o Governo dos EUA, consulte [Partner Center for Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md).
+[**Microsoft Cloud para governo dos EUA**](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud#Microsoft_Cloud_for_US) Projetado para o governo dos EUA desde o zero, o Microsoft Cloud para o Governo permite que clientes do sector público nos Estados Unidos - de grandes agências federais a pequenos governos de cidades - selecionem de uma série de serviços de computação em nuvem. Para melhor responder às necessidades específicas dos seus clientes, a Microsoft tem feito um investimento significativo em datacenters e dedica-se a cumprir o cumprimento das políticas, mandatos e requisitos federais e estatais dos EUA. 
 
--   [**Microsoft Cloud Alemanha**](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud#Microsoft_Cloud_Germany) A Microsoft Cloud Germany oferece Azure, Office 365 e Dynamics 365 de datacenters alemães através de um modelo único. Neste modelo, o acesso aos dados dos clientes é controlado por um administrador alemão independente de dados que opera de acordo com a legislação alemã. A T-Systems International GmbH, uma subsidiária da Deutsche Telekom, atua como o administrador independente de dados da Microsoft Cloud Germany.
+Para obter informações sobre como se inscrever e vender a clientes no Microsoft Cloud para o Governo dos EUA, consulte [Partner Center for Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md).
 
-    > [!IMPORTANT]  
-    > Com base na evolução das necessidades dos clientes, a nossa estratégia de nuvem para a Alemanha centrar-se-á na entrega das novas regiões em nuvem na Alemanha que são consistentes com a nossa oferta global de nuvem. Com este foco, deixaremos de aceitar novos clientes ou de implementar quaisquer novos serviços a partir da microsoft Cloud Germany atualmente disponível. Os clientes existentes podem continuar a utilizar os atuais serviços em nuvem disponíveis hoje, que vamos manter com as necessárias atualizações de segurança.
-    >  
-    > Seguindo em frente, os novos clientes têm a opção de utilizar as regiões europeias atualmente disponíveis ou as novas regiões da Alemanha quando estiverem disponíveis. Para obter mais informações, consulte [a Microsoft para fornecer serviços na nuvem a partir de novos datacenters na Alemanha.](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/)
+## <a name="microsoft-cloud-germany"></a>Microsoft Cloud Alemanha
+
+[**Microsoft Cloud Alemanha**](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud#Microsoft_Cloud_Germany) A Microsoft Cloud Germany oferece Azure, Office 365 e Dynamics 365 de datacenters alemães através de um modelo único. Neste modelo, o acesso aos dados dos clientes é controlado por um administrador alemão independente de dados que opera de acordo com a legislação alemã. A T-Systems International GmbH, uma subsidiária da Deutsche Telekom, atua como o administrador independente de dados da Microsoft Cloud Germany.
+
+> [!IMPORTANT]  
+> Com base na evolução das necessidades dos clientes, a nossa estratégia de nuvem para a Alemanha centrar-se-á na entrega das novas regiões em nuvem na Alemanha que são consistentes com a nossa oferta global de nuvem. Com este foco, deixaremos de aceitar novos clientes ou de implementar quaisquer novos serviços a partir da microsoft Cloud Germany atualmente disponível. Os clientes existentes podem continuar a utilizar os atuais serviços em nuvem disponíveis hoje, que vamos manter com as necessárias atualizações de segurança.
+>  
+> Seguindo em frente, os novos clientes têm a opção de utilizar as regiões europeias atualmente disponíveis ou as novas regiões da Alemanha quando estiverem disponíveis. Para obter mais informações, consulte [a Microsoft para fornecer serviços na nuvem a partir de novos datacenters na Alemanha.](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/)
 
     
--   [**Azure e Office 365 operados pela 21Vianet na China**](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud#Microsoft_Cloud_for_China) A Microsoft fornece serviços em nuvem na China através de uma parceria única com a Shanghai Blue Cloud Technology Co., Ltd. (21Vianet), uma subsidiária detida a 100% pelo Beijing 21Vianet Broadband Data Center Co., Ltd. 21Vianet é o maior fornecedor de Internet neutro em transportadora de datacenter, hospedagem, rede gerida e serviços de infraestrutura de computação em nuvem na China. 
+## <a name="azure-and-office-365-operated-by-21vianet-in-china"></a>Azure e Office 365 operados pela 21Vianet na China
 
-    A Microsoft é o fornecedor de tecnologia, mas não opera o serviço; 21Vianet opera, fornece e gere a prestação de serviços na nuvem da Microsoft. Ao licenciar as tecnologias da Microsoft, a 21Vianet pode oferecer serviços Azure e Office 365 e operar datacenters Azure e Office 365 que guardam dados dentro da China continental. A 21Vianet também fornece serviços de subscrição e faturação e suporte.
+A Microsoft fornece serviços em nuvem na China através de uma parceria única com a Shanghai Blue Cloud Technology Co., Ltd. (21Vianet), uma subsidiária detida a 100% pelo Beijing 21Vianet Broadband Data Center Co., Ltd. 21Vianet é o maior fornecedor de Internet neutro em transportadora de datacenter, hospedagem, rede gerida e serviços de infraestrutura de computação em nuvem na China. 
 
-    Para obter informações sobre como se inscrever e vender a clientes na Azure e no Office 365 operado pela 21Vianet na China, consulte [o Partner Center operado pela 21Vianet](/previous-versions/windows/it-pro/windows-home-server/ff357696(v=ws.11)).
+A Microsoft é o fornecedor de tecnologia, mas não opera o serviço; 21Vianet opera, fornece e gere a prestação de serviços na nuvem da Microsoft. Ao licenciar as tecnologias da Microsoft, a 21Vianet pode oferecer serviços Azure e Office 365 e operar datacenters Azure e Office 365 que guardam dados dentro da China continental. A 21Vianet também fornece serviços de subscrição e faturação e suporte.
+
+Para obter informações sobre como se inscrever e vender a clientes na Azure e no Office 365 operado pela 21Vianet na China, consulte [o Partner Center operado pela 21Vianet](https://www.21vbluecloud.com/partner-china/welcome/).
 
 ## <a name="next-steps"></a>Passos seguintes
 
