@@ -1,18 +1,18 @@
 ---
 title: Agendamentos e processos de dividendos
-description: Conheça os pagamentos e transações, tais como horários de pagamento e processos de recuperação para o mercado comercial e outras transações.
+description: Conheça os pagamentos e transações, tais como horários de pagamento e processos de recuperação para o Azure Marketplace e outras transações.
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
 author: eunjkim520
 ms.author: eunjkim
-ms.date: 12/04/2020
-ms.openlocfilehash: f2ba8132677eb0a0368021b6d7065f5202589f24
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.date: 05/25/2021
+ms.openlocfilehash: bcecd4c31d80a4130331c652491e7951af180c67
+ms.sourcegitcommit: f1255fb65eac6ee2e0ff0cb95cc16a02dc57fc1a
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110146957"
+ms.lasthandoff: 05/27/2021
+ms.locfileid: "110582428"
 ---
 # <a name="payout-schedules-and-processes"></a>Agendamentos e processos de dividendos
 
@@ -22,9 +22,9 @@ Este artigo discute a agenda de pagamentos da Microsoft, onde encontrar o estado
 
 ## <a name="payment-schedules"></a>Horários de pagamento
 
-As seguintes secções descrevem o nosso processo de pagamentos para **o Contrato de Empresa** e transações de **cartões de crédito/fatura.**
+As seguintes secções descrevem o nosso processo de pagamentos para **o Enterprise Agreement** e o Microsoft Customer Agreement ou as transações **CSP.**
 
-### <a name="enterprise-agreement-transactions"></a>Transações do Acordo de Empresa
+### <a name="transactions-when-customer-has-an-enterprise-agreement"></a>Transações quando o cliente tem um Acordo Empresarial
 
 Quando um cliente compra um produto do Microsoft AppSource ou do Azure Marketplace utilizando o seu atual Microsoft Enterprise Agreement para transações, emitiremos pagamentos no próximo ciclo de pagamentos de 30 dias após a fatura do cliente. As transações em que um cliente utiliza um cartão de crédito têm um período de detenção de 30 dias antes do pagamento.
 
@@ -44,7 +44,7 @@ Um pagamento ocorrerá frequentemente antes de a Microsoft receber o pagamento d
 
 :::image type="content" source="images/payouts/timeline-enterprise.png" alt-text="Cronologia dos pagamentos para clientes de acordos empresariais.":::
 
-### <a name="transactions-with-credit-card-or-invoice-checkwire"></a>Transações com cartão de crédito ou fatura (cheque/fio)
+### <a name="transactions-when-customer-has-a-microsoft-customer-agreement-or-csp"></a>Transações quando o cliente tem um Microsoft Customer Agreement ou CSP
 
 Todas as compras com cartão de crédito ou fatura mensal têm um período de detenção de 30 dias para garantir que os fundos são recolhidos junto do cliente.
 
@@ -66,7 +66,7 @@ Todas as compras com cartão de crédito ou fatura mensal têm um período de de
 
 Em raras ocasiões, a Microsoft não consegue cobrar pagamentos aos clientes pelas suas compras no mercado comercial. Quando um cliente não paga à Microsoft de acordo com o seu calendário de faturação, iniciamos o processo de cobranças. Este processo demora aproximadamente quatro meses e envolve uma comunicação persistente da Microsoft. Se o pagamento não for recebido até ao final deste processo, a Microsoft anula os fundos como incobráveis.
 
-De acordo com o processo de pagamento aqui articulado, a Microsoft pode já ter pago fundos a editores (você) que são, em última análise, incobráveis. Portanto, temos um processo de conciliação destes montantes. Para garantir que tem avisado que o seu (já recebido) pagamento pode ser reconciliado, será notificado quando um cliente estiver no processo de cobranças e as compras são suscetíveis de ser amortizadas.
+De acordo com o processo de pagamento aqui articulado, a Microsoft pode já ter pago fundos a editores (você) que são, em última análise, incobráveis. Portanto, temos um processo de conciliação destes montantes.
 
 A Microsoft recuperará quaisquer pagamentos já pagos utilizando um dos seguintes métodos: (1) A Microsoft pode subtrair os montantes não pagos de pagamentos futuros; por exemplo, se $1.000 em pagamentos forem considerados incobráveis e anulados, os seus pagamentos futuros serão retidos até que os $1.000 sejam recuperados, ou (2) a Microsoft pode solicitar um reembolso ou editores de fatura para quaisquer valores não cobrados.
 
@@ -78,9 +78,9 @@ O seguinte horário é um exemplo:
 | <font color="red">Se o cliente não pagar à Microsoft</font> | 12/2/2020 – 12/5/2020 | Sem mudanças, como acima |
 | Cliente recebe primeiro e-mail de pagamento em atraso | 12/6/2020 | Nenhuma |
 | Cliente recebe e-mails regulares de urgência crescente | 12/7/2020 – 1/31/2021 | Nenhuma |
-| Editor é notificado write-off é provável | 1/7/2021 | E-mail notificação enviada ao editor que o seu cliente ainda não enviou o pagamento. O ID de transação e o valor em dólares estão incluídos. |
+| Editor é notificado write-off é provável | 1/7/2021 | - |
 | Cliente recebe aviso de rescisão | 2/1/2021 | Nenhuma |
-| Fim do processo de recolha / os fundos são anulados | 2/15/2021 | E-mail notificação enviada ao editor de que os fundos foram anulados. O ID de transação e o valor em dólares estão incluídos. |
+| Fim do processo de recolha / os fundos são anulados | 2/15/2021 | E-mail notificação enviada ao editor de que os fundos foram anulados. |
 | O pagamento é deduzido | 3/1/2021 | Editor verá transação negativa em declaração de pagamento do Partner Center |
 | O pagamento é retido | 3/15/2021 | Os pagamentos futuros serão mostrados na declaração de pagamento do Partner Center. A editora não receberá o pagamento até que o saldo não seja mais negativo.  |
 |||
