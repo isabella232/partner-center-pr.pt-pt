@@ -1,7 +1,7 @@
 ---
 title: Restabelecer privilégios de administração para a Azure CSP
 ms.topic: how-to
-ms.date: 04/08/2021
+ms.date: 05/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como ajudar os clientes a restabelecer os privilégios de administração de um parceiro para que o parceiro possa ajudar a gerir as subscrições Azure CSP de um cliente.
@@ -9,86 +9,103 @@ author: dhirajgandhi
 ms.author: dhgandhi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ad29283001ec542944da4f0cac835c6a5d339251
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: ca4c8323562e6c6f1d762465cad86e7ae113eb19
+ms.sourcegitcommit: beba696954b62ab5396a893d050d0c2c211aeafc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855425"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "110601431"
 ---
 # <a name="reinstate-admin-privileges-for-a-customers-azure-csp-subscriptions"></a>Repor privilégios de administração para subscrições Azure CSP de um cliente  
 
 **Funções adequadas**: Administração global | Agente administrativo
 
-Como parceiro da CSP, os seus clientes esperam muitas vezes que gere o seu uso Azure e os seus sistemas para eles. Fazê-lo requer que tenha privilégios administrativos. Alguns privilégios são concedidos quando a sua relação de revendedor com o cliente é estabelecida. Outros são-lhe concedidos pelo seu cliente.
+Como parceiro da CSP, os seus clientes esperam muitas vezes que gere o seu uso Azure e os seus sistemas para eles. Deve ter privilégios administrativos para o fazer. Alguns privilégios são concedidos quando a sua relação de revendedor com o cliente é estabelecida. Outros são-lhe concedidos pelo seu cliente.
 
 ## <a name="admin-privileges-for-azure-in-csp"></a>Privilégios de administração para a Azure na CSP
 
 Há dois níveis de privilégios administrativos para o Azure na CSP.
 
-**Privilégios de administração de nível** de inquilino **(privilégios de administração delegados**) - os parceiros da CSP obtêm esses privilégios ao mesmo tempo que estabelecem a relação de revendedor CSP com os clientes. Os privilégios de administração delegados dão aos parceiros da CSP acesso aos inquilinos dos seus clientes, o que lhes permite desempenhar funções administrativas como adicionar/gerir utilizadores, redefinir palavras-passe e gerir licenças de utilizador.
+- **Privilégios de administração de nível de inquilino (privilégios de administração delegados)**: Os parceiros da CSP obtêm esses privilégios ao mesmo tempo que estabelecem a relação de revendedor CSP com os clientes. Os privilégios de administração delegados dão aos parceiros da CSP acesso aos inquilinos dos seus clientes. Este acesso permite-lhes fazer funções administrativas como adicionar/gerir utilizadores, redefinir palavras-passe e gerir licenças de utilizador.
+- **Privilégios de administração de nível de subscrição**: os parceiros CSP obtêm estes privilégios ao mesmo tempo que criam subscrições Azure CSP para os seus clientes. Ter estes privilégios dá aos parceiros da CSP acesso completo a estas subscrições, o que lhes permite provisão e gestão dos recursos da Azure.
 
-**Privilégios de administração de nível de subscrição** - os parceiros da CSP obtêm estes privilégios ao mesmo tempo que criam subscrições Azure CSP para os seus clientes. Ter estes privilégios dá aos parceiros da CSP acesso completo a estas subscrições, o que lhes permite provisão e gestão dos recursos da Azure.
+## <a name="reinstate-csp-a-partners-admin-privileges"></a>Repor os privilégios de administração de um parceiro
 
-## <a name="reinstate-csp-partners-admin-privileges"></a>Restabelecer os privilégios de administração dos parceiros da CSP
+O seu cliente pode recriar a atribuição de funções CSP se fornecer `object ID` o grupo AdminAgents ao seu cliente. Para recuperar privilégios de administração delegados, precisa de trabalhar com o seu cliente através dos seguintes passos.
 
-O seu cliente pode recriar a atribuição de funções CSP desde que forneça ao seu cliente o ID do objeto do grupo AdminAgents. Para recuperar privilégios de administração delegados, precisa de trabalhar com o seu cliente.
+1. Inscreva-se no painel do Centro de Parceiros.
 
-1. Inscreva-se no painel partner Center e no menu Partner Center, selecione **Clientes**.
+2. No menu Partner Center, selecione **Clientes.**
 
-2. Selecione o cliente com quem está a trabalhar e **solicite uma relação de revendedor.** Esta ação gera uma ligação com o cliente que tem direitos de administração de inquilinos.
+3. Selecione o cliente com quem está a trabalhar e **solicite uma relação de revendedor**. Esta ação gera uma ligação com o cliente que tem direitos de administração de inquilinos.
 
-3. Esse cliente precisa de selecionar o link e aprovar o pedido de relacionamento do revendedor.
+4. O seu cliente precisa de selecionar o link e aprovar o pedido de relacionamento do revendedor.
 
    :::image type="content" source="images/azure/revoke4.png" alt-text="Exemplo de e-mail de criar relacionamento revendedor":::
 
-4. Você, o parceiro, precisa de se conectar com o inquilino parceiro para obter o Objeto ID do grupo AdminAgents.
-
+5. Você, o parceiro, precisa de se conectar com o inquilino parceiro para obter o Objeto ID do grupo AdminAgents.
   
-    ```powershell
+   ```powershell
+   Connect-AzAccount -Tenant "Partner tenant"
+   # Get Object ID of AdminAgents group
+   Get-AzADGroup -DisplayName AdminAgents
+   ```
 
-    PS C:\WINDOWS\system32> Connect-AzAccount -Tenant "Partner tenant"
-      Get Object ID of AdminAgents group
-   
+6. Em seguida, o seu cliente deve fazer os seguintes passos utilizando o PowerShell ou o Azure CLI. O seu cliente deve ter:
+
+- O papel do **proprietário** ou administrador de **acesso ao utilizador** 
+- Permissões para criar atribuições de funções ao nível da subscrição
+
+   a. Apenas para o PowerShell, o cliente deve atualizar o `Az.Resources` módulo.
+   ```powershell
+   Update-Module Az.Resources
+   ```
+
+   b. O cliente conecta-se ao inquilino onde existe a assinatura CSP.
+   ```powershell
+   Connect-AzAccount -TenantID "<Customer tenant>"
+   ```
+   ```azurecli
+   az login --tenant <Customer tenant>
+   ```
+
+   c. O cliente conecta-se à subscrição. Isto *só* é aplicável se o utilizador tiver permissões de atribuição de funções sobre várias subscrições no arrendatário.
+
+   ```powershell
+   Set-AzContext -SubscriptionID <"CSP Subscription ID">
+   ```
+   ```azurecli
+   az account set --subscription <CSP Subscription ID>
+   ```
+
+   d. Em seguida, o cliente cria a atribuição de funções.
     
+   ```powershell
+   New-AzRoleAssignment -ObjectID "<Object ID of the Admin Agents group provided by partner>" -RoleDefinitionName "Owner" -Scope "/subscriptions/'<CSP subscription ID>'"
+   ```
+   ```azurecli
+   az role assignment create --role "Owner" --assignee-object-id <Object Id of the Admin Agents group provided by partner> --scope "/subscriptions/<CSP Subscription Id>"
+   ```
 
-   S C:\WINDOWS\system32> Get-AzADGroup -DisplayName AdminAgents
-    ```
+Em vez de conceder permissões ao proprietário no âmbito de subscrição, pode conceder ao nível do grupo de recursos ou recursos. 
 
+- Ao nível do grupo de recursos
 
-5. O seu cliente que tem o papel de **proprietário ou administrador** de acesso ao utilizador e tem permissão para criar uma atribuição de funções ao nível da subscrição faz o seguinte:
+   ```powershell
+   New-AzRoleAssignment -ObjectID "<Object ID from step 3>" -RoleDefinitionName Owner -Scope "/subscriptions/'SubscriptionID of CSP subscription'/resourceGroups/'Resource group name'"
+   ```
+   ```azurecli
+   az role assignment create --role "Owner" --assignee-object-id <Object Id of the Admin Agents group provided by partner> --scope "/subscriptions/<CSP Subscription Id>//resourceGroups/<Resource group name>"
+   ```
 
+- Ao nível dos recursos
 
-    1. Liga-se ao arrendatário onde existe a assinatura CSP.
-      ```powershell
-        PS C:\WINDOWS\system32> Connect-AzAccount -TenantID "Customer tenant"
-      ```
-
-    2. Conecta-se à subscrição (só aplicável se o utilizador tiver permissões de atribuição de funções sobre várias subscrições no arrendatário).
-   
-         PS C:\WINDOWS\system32> Set-AzContext -SubscriçãoID "CSP Subscription ID"'
-
-
-    3. Cria a atribuição de funções
-    
-    ```powershell
-      PS C:\WINDOWS\system32> New-AzRoleAssignment -ObjectID "Object ID of the Admin Agents group- needs to be provided by partner" -RoleDefinitionName "Owner" -Scope "/subscriptions/CSP subscription ID"
-    ```
-
-
-Se pretender conceder permissão de função do proprietário a nível de grupo de recursos ou ao nível de recursos em vez de âmbito de subscrição, os seguintes comandos podem funcionar:
-
-
-```powershell
-Grant owner role at resource group level
-
-   New-AzRoleAssignment -ObjectID "Object ID that you got from step 3" -RoleDefinitionName Owner -Scope "/subscriptions/"SubscriptionID of CSP subscription"/resourceGroups/"Resource group name"
-
-Grant owner role at resource level
-
-   New-AzRoleAssignment -ObjectID <Object ID that you got from step 3> -RoleDefinitionName Owner -Scope "Resource URI"
-```
-
+   ```powershell
+   New-AzRoleAssignment -ObjectID "<Object ID from step 3>" -RoleDefinitionName Owner -Scope "<Resource URI>"
+   ```
+   ```azurecli
+   az role assignment create --role "Owner" --assignee-object-id <Object Id of the Admin Agents group provided by partner> --scope "<Resource URI>"
+   ```
 
 ## <a name="next-steps"></a>Passos seguintes
 
