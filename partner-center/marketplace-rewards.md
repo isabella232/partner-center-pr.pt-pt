@@ -1,7 +1,7 @@
 ---
 title: Gerir recompensas de mercado
 ms.topic: article
-ms.date: 05/18/2020
+ms.date: 05/28/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Os parceiros que publicam ofertas no mercado comercial são elegíveis para benefícios que oferecem apoio ao marketing.
@@ -9,28 +9,28 @@ author: billlinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 51b7bd4846826db86f5d9c6e5e087e285dd026c0
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 2ee643ca713da3509705560d93e15b3c7e5ab192
+ms.sourcegitcommit: 11901a72e9c9d432c324d0c5b1e0214c0eddb96f
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110151683"
+ms.lasthandoff: 05/29/2021
+ms.locfileid: "110687723"
 ---
 # <a name="manage-marketplace-rewards-in-partner-center--activate-marketing-sales-and-technical-benefits"></a>Gerir prémios de marketplace no Partner Center & ativar marketing, vendas e benefícios técnicos
 
 **Funções adequadas**: administrador de parceiros da MPN | Administração global | Agente administrativo
 
-Se publicar ofertas de software para o nosso mercado comercial, o Marketplace Rewards oferece suporte direcionado para todas as suas ofertas com marketing, vendas e benefícios técnicos.
+Se publicar ofertas de software para o nosso mercado comercial, o Marketplace Rewards oferece suporte direcionado para todas as suas ofertas com marketing, vendas e benefícios técnicos. Para mais detalhes sobre o programa e benefícios, consulte [Marketplace Rewards](https://aka.ms/marketplacerewards) (PPT).
 
 A elegibilidade do Marketplace Rewards é calculada com base em todos os perfis de editores ligados à empresa MPN DA PGA. Para verificar a sua elegibilidade para o programa Marketplace Rewards, aceda à página Partner Center [Marketplace Rewards](https://partner.microsoft.com/dashboard/mpn/program/commercialmarketplace).
 
 ## <a name="sales-and-marketing-benefits"></a>Sales and marketing benefits (Vantagens das vendas e marketing)
 
-1. A partir do [painel de instrumentos](https://partner.microsoft.com/dashboard)Partner Center, selecione o separador **de benefícios de Vendas e Marketing** na página Marketplace Rewards para ver a sua lista de benefícios. 
+1. A partir do [painel de instrumentos](https://partner.microsoft.com/dashboard)Partner Center, selecione o separador **de benefícios de Vendas e Marketing** na página Marketplace Rewards para ver a sua lista de benefícios.
 
 2. Para ativar benefícios de marketing e vendas, deve primeiro atribuir o contato de marketing da empresa. Este contacto receberá as comunicações de acompanhamento do Marketplace Rewards.
 
-3. Para adicionar ou atualizar as suas informações de contacto de marketing, vá ao topo do separador de benefícios de Vendas e Marketing na página Marketplace Rewards e, em **seguida, selecione Adicionar, atualizar ou alterar**. 
+3. Para adicionar ou atualizar as suas informações de contacto de marketing, vá ao topo do separador de benefícios de Vendas e Marketing na página Marketplace Rewards e, em **seguida, selecione Adicionar, atualizar ou alterar**.
 
    Em seguida, faça o seguinte:
 
@@ -56,7 +56,7 @@ A informação de recompensas do mercado está disponível através do inquilino
 
 1. Como administrador global ou administrador de conta, inscreva-se na PGA no Partner Center.
 
-2. Selecione **Definições** (em cima-direita), Definições de **conta,** **Inquilinos**. 
+2. Selecione **Definições** (em cima-direita), Definições de **conta,** **Inquilinos**.
 
 3. **Selecione Associar outro inquilino AZure AD** e selecione o inquilino AZure AD que pretende associar com a PGA.
 
@@ -65,4 +65,3 @@ A informação de recompensas do mercado está disponível através do inquilino
 5. Assine fora do Partner Center e, em seguida, inscreva-se usando o nome de utilizador e senha para o inquilino que acabou de associar à PGA.
 
 6. Poderá agora ver a informação do programa Commercial Rewards Marketplace no menu de navegação à esquerda.
-
