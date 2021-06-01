@@ -1,7 +1,7 @@
 ---
 title: Indicadores de contribuição dos parceiros - CBA
 ms.topic: article
-ms.date: 03/26/2021
+ms.date: 05/28/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba mais sobre sete Indicadores de Contribuição de Parceiros (PCI) que mostram aos parceiros como obter uma competência de Aplicações empresariais cloud prateadas ou douradas.
@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: beb7888f947e766f753906c1f6452118cc5efb99
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 81d93e2e8b2ed47f785ae33be14dd03c75c8a1d7
+ms.sourcegitcommit: 02a839b61265c3162e041c8894575d3b5345f020
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110147008"
+ms.lasthandoff: 06/01/2021
+ms.locfileid: "110724501"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-cloud-business-applications-competency"></a>Utilizar Indicadores de Contribuição de Parceiros para obter a competência Business Applications da Cloud
 
@@ -232,13 +232,11 @@ O ac adds de clientes líquidos é um [indicador de desempenho](partner-contribu
 
   **Para vários parceiros, mesmo cliente, subscrições diferentes:**
 
-  - Todos os parceiros associados ao cliente receberão crédito por um novo cliente adicionado no mês em que o cliente é adicionado.
-  
-  - Os parceiros subsequentes associados ao mesmo cliente através de subscrições antigas ou novas não obterão novo crédito de adicionar cliente para esse cliente.
-  
-  - Todos os parceiros associados ao cliente perderão o crédito por um novo cliente adicionar no mês em que o cliente se perder.
-  
-  - Qualquer parceiro que se associe ao mesmo cliente posteriormente, através de subscrições antigas ou novas, receberá um novo cliente adicionando crédito para esse cliente.
+- O cliente é adicionado pela primeira vez:
+    - Todos os parceiros associados ao cliente receberão crédito por um novo cliente adicionado no mês em que o cliente é adicionado.
+    - Os parceiros subsequentes associados ao mesmo cliente através de subscrições antigas ou novas não obterão novo crédito de adicionar cliente para esse cliente.
+- O cliente perde-se: Todos os parceiros associados que, nos 12 meses anteriores, receberam crédito pelo cliente add perderão esse crédito no mês em que o cliente se perder.
+- O cliente, anteriormente perdido, é adicionado de volta: Todos os parceiros associados ao cliente receberão crédito para um novo cliente adicionar no mês em que o cliente é adicionado de volta.
   
   **Quando o cliente já está a trabalhar diretamente com a Microsoft:**
 
