@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bdf6495d86da09b7d1d167c3fa1b3b5f15a35ab6
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 309a3578edcd06770c818722f2164a4d10a945da
+ms.sourcegitcommit: 32ef8d43902357a85df420b48b0ec1d63ad073e4
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110147501"
+ms.lasthandoff: 06/02/2021
+ms.locfileid: "110754482"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Vender subscrições de software através do programa Cloud Solution Provider (CSP)
 
@@ -81,7 +81,7 @@ Para comprar subscrições de software em nome de um cliente:
 
 2. No menu Partner Center, selecione **Clientes,** em seguida, escolha um cliente da lista.
 
-3. Na página de detalhes do cliente, selecione **Adicionar produtos** e, em seguida, siga as instruções no ecrã para criar e pagar a sua encomenda. Todos os preços comerciais excluem o imposto, com exceção da Austrália e do Brasil. Para a Austrália e o Brasil, o preço inclui impostos.
+3. Na página de detalhes do cliente, selecione **Adicionar produtos** e, em seguida, siga as instruções no ecrã para criar e pagar a sua encomenda. Todos os preços comerciais excluem o imposto, exceto a Austrália e o Brasil. Para a Austrália e o Brasil, o preço inclui impostos.
 
 ## <a name="activate-and-manage-software-subscriptions"></a>Activate and manage software subscriptions (Ativar e gerir subscrições de software)
 
@@ -94,13 +94,13 @@ Depois de ter adquirido o seu software, você ou os seus clientes precisam desca
 
 2. Escolha **a versão do** produto, **idioma,** **bit**, e selecione **Obter teclas e downloads**. 
 
-3. Escolha **obter** chave para exibir o produto de 32 dígitos numa caixa de diálogo pop-up que pode copiar e enviar ao cliente. 
+3. Escolha **obter** chave para exibir o produto de 32 dígitos numa caixa de diálogo pop-up, que pode copiar e enviar ao cliente. 
 
 4. Escolha **baixar** para baixar as partes. 
 
 5. Escolha **Copy Link** se quiser enviar ao cliente o link para o download de bits. 
 
-6. Também pode **cancelar** a encomenda de software e receber 100% de crédito (se for feito dentro do período de 60 dias de política de cancelamento).
+6. Também pode **cancelar** a encomenda de software e receber 100% de crédito (se for feito dentro do período de 30 dias de política de cancelamento).
 
 >[!NOTE]
 >Apenas os clientes têm acesso para ver as chaves do produto e descarregar informações no Microsoft 365 Admin Center (função global de administração necessária). Os parceiros devem usar o Partner Center para ver esta informação.
@@ -126,22 +126,20 @@ Para efeitos de auditoria ou conformidade, poderá ter de verificar uma lista de
 
 ## <a name="cancel-a-purchase"></a>Cancelar uma compra
 
-Pode cancelar uma compra de software no prazo de 60 dias a contar da data de compra. Se cancelar neste primeiro período de 60 dias, não lhe será cobrada uma taxa de rescisão antecipada. Após 60 dias, não pode mais cancelar uma compra. (Ver Nota para as principais restrições a esta regra de cancelamento. Para saber o que acontece depois de cancelar uma compra de software, consulte também Nota Importante após estes passos.) 
+Pode cancelar uma compra de software no prazo de 30 dias a contar da data de compra. Se cancelar neste primeiro período de 30 dias, não lhe será cobrada uma taxa de rescisão antecipada. Após 30 dias, não pode mais cancelar uma compra. (Ver Nota para as principais restrições a esta regra de cancelamento. Para saber o que acontece depois de cancelar uma compra de software, consulte também Nota Importante após estes passos.) 
 
 >[!NOTE]
->As seguintes medidas para cancelar uma compra aplicam-se apenas a um software que se qualifique para cancelamento dentro de uma janela de cancelamento específica, como nos primeiros 60 dias após a compra. Estes passos também não se aplicam a um plano de software SUSE Linux ou RedHat em Azure. Neste momento, não é possível cancelar ou trocar um plano de software SUSE ou RedHat. [Saiba mais](/azure/virtual-machines/linux/prepay-suse-software-charges) sobre a utilização dos planos SUSE Linux ou RedHat.
+>As seguintes medidas para cancelar uma compra aplicam-se apenas a um software que se qualifique para cancelamento dentro de uma janela de cancelamento específica, como nos primeiros 30 dias após a compra. Estes passos também não se aplicam a um plano de software SUSE Linux ou RedHat em Azure. Neste momento, não é possível cancelar ou trocar um plano de software SUSE ou RedHat. [Saiba mais](/azure/virtual-machines/linux/prepay-suse-software-charges) sobre a utilização dos planos SUSE Linux ou RedHat.
 
 Siga os passos abaixo para cancelar uma compra:
 
 >[!NOTE]
 >Deve ser um agente administrativo para cancelar uma compra. Os seguintes passos descrevem como cancelar uma compra no painel partner Center. Também pode fazê-lo utilizando a [API do Centro Parceiro.](/partner-center/develop/cancel-software-purchases)
 
-1. Antes de iniciar o processo de cancelamento, certifique-se de que tem o seguinte:
+1. Antes de iniciar o processo de cancelamento, certifique-se de que tem as seguintes informações:
 
     - Nome do cliente, inquilino GUID, ou nome de domínio
-
     - O nome do produto que quer cancelar
-    
     - O ID da Ordem
 
 2. Inscreva-se no painel do Centro [de Parceiros](https://partner.microsoft.com/dashboard).
@@ -173,7 +171,7 @@ Quando tentar cancelar uma encomenda, o Partner Center também pode dar-lhe outr
 
 Depois de cancelar uma compra:
 
-- Todas as chaves de software relacionadas e links de descarregamento serão revogadas. Isto significa que nem você nem o seu cliente podem usar as chaves de software e transferir links por mais tempo relacionados com esta compra. Você e o seu cliente são responsáveis por descontinuar o uso de todo o software cancelado. Também é responsável por desinstalar o software cancelado e remover quaisquer transferências e links de software relacionados.
+- Todas as chaves de software relacionadas e links de descarregamento serão revogadas. Esta revogação significa que você e o seu cliente já não podem usar as chaves de software e baixar links relacionados com esta compra. Você e o seu cliente são responsáveis por descontinuar o uso de todo o software cancelado. Também é responsável por desinstalar o software cancelado e remover quaisquer transferências e links de software relacionados.
 
 - O item cancelado ainda aparecerá na página de detalhes do Software do cliente, mas a chave de ativação não estará disponível.
 
@@ -189,14 +187,11 @@ Se tentou cancelar uma compra de software através do Partner Center, mas lhe fo
 
 3. Preencha os campos de Impacto e Título.
 
-4. No campo Descrição, forneça o seguinte:
+4. No campo Descrição, forneça as seguintes informações:
 
     - O cliente inquilino GUID ou nome de domínio
-    
     - ID de encomenda ou ID de subscrição
-    
     - Motivo de reembolso
-
     - Montante solicitado
 
 5. No campo Contacto, insira o seu nome, endereço de e-mail e número de telefone.
