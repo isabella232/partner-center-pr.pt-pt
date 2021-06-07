@@ -3,15 +3,15 @@ title: Políticas de reembolso para Microsoft AppSource e Azure Marketplace
 description: Saiba quais são as políticas de reembolso dos produtos vendidos no Microsoft AppSource e no Azure Marketplace
 ms.service: marketplace-customer
 ms.topic: article
-author: anbene
+author: jeweber
 ms.author: jeweber
-ms.date: 11/20/2020
-ms.openlocfilehash: 10055b164610d5a9d0eb9da5e7240164581afbee
-ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
+ms.date: 06/02/2021
+ms.openlocfilehash: 37be38030ece0b78629fe1ebbb77c41f2cbcb8fb
+ms.sourcegitcommit: 771a7fca2125a9895226a06e9f1f3988dcc561ea
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103412680"
+ms.lasthandoff: 06/04/2021
+ms.locfileid: "111446860"
 ---
 # <a name="refund-policies-for-microsoft-appsource-and-azure-marketplace"></a>Políticas de reembolso para Microsoft AppSource e Azure Marketplace
 
@@ -21,11 +21,11 @@ As compras no Microsoft AppSource ou no Azure Marketplace podem ser elegíveis p
 
 Para planos mensais, você pode ser reembolsado por completo se você cancelar a sua subscrição dentro de um dia da compra. Para os planos anuais, você pode ser reembolsado por completo se você cancelar a sua subscrição no prazo de 14 dias a partir da compra. Os reembolsos não estão disponíveis para as subscrições canceladas após os períodos de tempo acima.
 
-Se retirar os assentos da sua subscrição, pode obter um reembolso parcial com base na parte restante do período de subscrição.
+Os reembolsos não são emitidos para taxas variáveis. Por exemplo, se um SaaS oferecer contas com base no número de e-mails enviados a partir de uma plataforma de e-mail.
 
 ## <a name="office-add-ins"></a>Suplementos do Office
 
-Se comprar um add-in do Office, poderá reembolsar totalmente se cancelar a subscrição no prazo de um dia a partir da compra ou renovação.  Se cancelar a subscrição após um dia de compra, poderá receber um reembolso parcial com base na parte restante da oferta.  Se modificar a sua subscrição, poderá ser elegível para um reembolso parcial com base na parte restante do período de subscrição.
+Se comprar um add-in do Office, poderá reembolsar totalmente se cancelar a subscrição no prazo de um dia a partir da compra ou renovação. Se cancelar a subscrição após um dia de compra, poderá receber um reembolso parcial com base na parte restante da oferta. Se modificar a sua subscrição, poderá ser elegível para um reembolso parcial com base na parte restante do período de subscrição.
 
 ## <a name="azure-developer-services"></a>Serviços de desenvolvimento da Azure
 
