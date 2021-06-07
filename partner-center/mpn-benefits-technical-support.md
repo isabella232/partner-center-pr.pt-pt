@@ -1,20 +1,20 @@
 ---
 title: Benefícios MPN - Suporte Técnico para Produtos No-In-In ou Cloud
+description: Conheça os benefícios da Microsoft Partner Network (MPN) para incidentes de suporte técnico
 ms.topic: article
-ms.date: 03/04/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Conheça os benefícios da Microsoft Partner Network (MPN) para incidentes de suporte técnico
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 137c5021acf2be53fb485f922c7e06c70ea6bb63
-ms.sourcegitcommit: f1255fb65eac6ee2e0ff0cb95cc16a02dc57fc1a
+ms.date: 03/04/2021
+ms.openlocfilehash: eeeb628690848c360253d883e87f48f87ed15883
+ms.sourcegitcommit: 09799f1d13b07cd3d4c75da7e2a074644dd86977
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/27/2021
-ms.locfileid: "110582397"
+ms.lasthandoff: 06/07/2021
+ms.locfileid: "111575878"
 ---
 # <a name="technical-support-for-on-premises-or-cloud-products"></a>Suporte Técnico para instalações ou produtos cloud
 
@@ -26,13 +26,13 @@ ms.locfileid: "110582397"
 A página [benefícios técnicos](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical) mostra informações sobre 2 benefícios separados
 
 1.  **Incidentes técnicos de suporte ao produto - ver abaixo**
-2.  Pré-venda técnica e serviços de implantação (TPD) – [mais informações](https://docs.microsoft.com/partner-center/technical-benefits)
+2.  Pré-venda técnica e serviços de implantação (TPD) – [mais informações](technical-benefits.md)
 
 **Este artigo destina-se a membros da Microsoft Partner Network Partners (MPN) que precisam de saber como um incidente de suporte técnico pode ser criado usando os benefícios do MPN Partner**
 
 ## <a name="view-and-activate-your-technical-support-benefits"></a>Ver e ativar os seus benefícios de suporte técnico
 
-Primeiro precisa de ativar, depois vê o seu ID de acesso e ID do contrato, o que lhe permite associar os benefícios à sua conta. Utilize a sua conta para iniciar sessão no portal de suporte técnico relevante e criar um pedido de suporte técnico.
+Primeiro precisas de ativar. Em seguida, vê o seu ID de acesso e ID do contrato, o que lhe permite associar os benefícios à sua conta. Utilize a sua conta para iniciar sessão no portal de suporte técnico relevante e criar um pedido de suporte técnico.
 
 Para visualizar e ativar os seus benefícios técnicos no Centro de Parceiros:
 
@@ -62,10 +62,10 @@ O suporte técnico fornece resolução de problemas para um problema específico
 
 Como parte da subscrição da Microsoft Partner Network, os parceiros são elegíveis para o seguinte suporte técnico
 
-|                           Suporte Técnico                          |  Action Pack |                                      Competência de prata                                      |                                        Competência do ouro                                        |   |
-|:--------------------------------------------------------------------:|:------------:|:-------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------:|:-:|
-| Suporte ao produto da Microsoft<br>Para o recente On-In-As <br>produtos apenas | 10 Incidentes | 15 Incidentes                                                                                | 20 Incidentes                                                                                  |   |
-| Suporte à nuvem de assinatura<br>Apenas para produtos Cloud                   |              | Competências em nuvem:<br>Ilimitado<br>         <br>Outras competências:<br>5 Incidentes         | Competências em nuvem:<br>Ilimitado<br>          <br>Outras competências:<br>10 Incidentes   
+|  Suporte Técnico |  Action Pack |  Competência de prata | Competência do ouro |
+|:------------------:|:------------:|:------------------:|:---------------:|
+| Suporte ao produto da Microsoft<br>Para o recente On-In-As <br>produtos apenas | 10 Incidentes | 15 Incidentes | 20 Incidentes |
+| Suporte à nuvem de assinatura<br>Apenas para produtos Cloud | | Competências em nuvem:<br>Ilimitado<br><br>Outras competências:<br>5 Incidentes | Competências em nuvem:<br>Ilimitado<br>          <br>Outras competências:<br>10 Incidentes   | 
 
 *As competências em nuvem incluem: Competência de Segurança, Aplicações de Negócios em Nuvem, Plataforma Cloud, Produtividade em Nuvem, Gestão de Mobilidade Empresarial, Soluções cloud pequenas e médias.
 
@@ -133,4 +133,4 @@ Pode [comparar planos de apoio a parceiros](https://partner.microsoft.com/suppor
 
 *   [Gerencie os benefícios e ofertas da Rede microsoft partner](manage-your-partner-network-benefits.md)
 *   [Ativar benefícios técnicos para membros do Partner Membership Center (PMC)](partner-membership-center-tech-benefits-activate.md)
-*   [Pré-venda técnica e serviços de implantação (TPD)](https://docs.microsoft.com/partner-center/technical-benefits)
+*   [Pré-venda técnica e serviços de implantação (TPD)](technical-benefits.md)
