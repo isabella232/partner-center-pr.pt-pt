@@ -9,12 +9,12 @@ author: dhirajgandhi
 ms.author: dhgandhi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ca4c8323562e6c6f1d762465cad86e7ae113eb19
-ms.sourcegitcommit: beba696954b62ab5396a893d050d0c2c211aeafc
+ms.openlocfilehash: 90c8f413398fcb9f65f7fef402a1cdcd092abbc4
+ms.sourcegitcommit: 212471150efc8fd2c30023bc6a981a7e052e79ef
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/28/2021
-ms.locfileid: "110601431"
+ms.lasthandoff: 06/11/2021
+ms.locfileid: "112025960"
 ---
 # <a name="reinstate-admin-privileges-for-a-customers-azure-csp-subscriptions"></a>Repor privilégios de administração para subscrições Azure CSP de um cliente  
 
@@ -106,6 +106,33 @@ Em vez de conceder permissões ao proprietário no âmbito de subscrição, pode
    ```azurecli
    az role assignment create --role "Owner" --assignee-object-id <Object Id of the Admin Agents group provided by partner> --scope "<Resource URI>"
    ```
+
+Se os passos acima não funcionarem ou se tiver erros ao tentar, experimente o seguinte procedimento "catch-all" para restabelecer os direitos de administração do seu cliente.
+
+```powershell
+Install-Module -Name Az.Resources -Force -Verbose
+Import-Module -Name Az.Resources -Verbose -MinimumVersion 4.1.1
+Connect-AzAccount -Tenant <customer tenant>
+Set-AzContext -SubscriptionId <customer subscriptions>
+New-AzRoleAssignment -ObjectId <principal ID> -RoleDefinitionName "Owner" -Scope "/subscriptions/<customer subscription>" -ObjectType "ForeignGroup"
+```
+
+### <a name="troubleshooting"></a>Resolução de problemas
+
+Se o cliente não conseguir completar o passo 6 acima, faça com que o cliente experimente o seguinte comando:
+
+```powershell
+New-AzRoleAssignment -ObjectId <principal ID> -RoleDefinitionName "Owner" -Scope "/subscriptions/<costumer subscription>" -ObjectType "ForeignGroup" -Debug > newRoleAssignment.log
+```
+
+Forneça o ficheiro resultante `newRoleAssignment.log` à Microsoft para uma análise mais aprofundada.
+
+Se o procedimento "catch-all" falhar durante o `Import-Module` procedimento , experimente os seguintes passos:
+- Se a importação falhar porque o módulo está a ser utilizado, reinicie a sessão PowerShell fechando e reabrindo todas as janelas.
+- Ver versão de `Az.Resources` com `Get-Module Az.Resources -ListAvailable` .
+- Se a versão 4.1.1 não estiver na lista disponível, deve utilizar `Update-Module Az.Resources -Force` .
+- Se o erro indicar que `Az.Accounts` tem de ser uma versão específica, atualize também esse módulo, substituindo por `Az.Resources` `Az.Accounts` . Em seguida, deve reiniciar a sessão PowerShell.
+
 
 ## <a name="next-steps"></a>Passos seguintes
 
