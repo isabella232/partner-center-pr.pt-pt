@@ -8,12 +8,12 @@ ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
-ms.openlocfilehash: 85946f44e1265ad5012faf9d782609904100c80e
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 3264c793dfb2e8592cd059cd84d5bb08769abbcf
+ms.sourcegitcommit: c8d1bcf54cdcdc3f827f9210c8abddab02a686fe
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110146260"
+ms.lasthandoff: 06/14/2021
+ms.locfileid: "112073803"
 ---
 # <a name="csp-one-time-purchase-reconciliation-file-fields"></a>CSP uma vez comprar campos de arquivos de reconciliação
 
@@ -67,9 +67,19 @@ Para obter mais informações sobre ficheiros de reconciliação, consulte [util
 | Descrição do Medidor | Descrição do medidor.  | *Tabelas - Dados LRS Armazenados (GB/Mês)* |
 | ReservationOrderId | O ID da Ordem de Reserva. | *E21A6344E398FFC1C4D7...* |
 | Código CreditReason | A descrição do crédito. | *Crédito de consumo Azure* |
+| SubscriçãoStartDate | A data em que uma subscrição é comprada. | *5/1/2021* |
+| SubscriçãoEndDate | A data em que uma subscrição expira. | *4/30/2022* |
+| ReferenceID | A ligação a todas as transações que ocorrem durante as atualizações. | *025d68a6-1bd6-42ab-9636-15e8d76a30e* |
+| ProdutosQualificadores | O identificador para saber compras de Add-on ou Trial. | *["Add-on"]* |
+| PromoçãoID | O identificador usa para recolher a informação da promoção. | *78bcf906-b945-4210-8818-cfb93caf12a1* |
 
 >[!NOTE]
 >Pode conciliar o seu consumo de Azure no seu ficheiro de reconhecimento de compra única. Para isso, vá ao seu arquivo de reconhecimento de utilização diária e procure a sua SubscriçãoID. Isto mostrará todos os custos associados ao seu ID do Plano Azure. O seu Azure SubscriptionID é apresentado como o EntitlementID.
+>
+
+## <a name="how-to-connect-the-base-subscription-with-the-upgraded-subscription"></a>Como ligar a subscrição base com a subscrição atualizada?
+
+Deve utilizar o ID de subscrição do produto base para encontrar os IDs de referência correspondentes e usá-los para obter todas as transações associadas. Combinado com o ID de subscrição e iD de referência, pode ligar todas as atualizações que ocorreram num único evento.
 
 ## <a name="next-steps"></a>Passos seguintes
 

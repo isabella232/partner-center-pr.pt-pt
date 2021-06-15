@@ -9,12 +9,12 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1f575a79039ae78e64e28c680a8b533d575200bc
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: a873e6dcac03ae781b776204fb8801581fefdec5
+ms.sourcegitcommit: e90293bc643963fe9ce3f838bc8861fbd304b16d
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110146362"
+ms.lasthandoff: 06/14/2021
+ms.locfileid: "112066493"
 ---
 # <a name="explore-the-azure-and-cloud-products-benefits-area-in-partner-center"></a>Explore a área de benefícios de produtos Azure e cloud no Partner Center
 
@@ -24,7 +24,7 @@ Este artigo descreve os benefícios específicos do Azure e da nuvem disponívei
  
 ## <a name="overview"></a>Descrição Geral
 
-Como parceiro na Microsoft Partner Network, poderá ter acesso a muitos benefícios técnicos e de ir ao mercado para diferentes áreas. Se lhe foi atribuída uma das funções acima referidas no Partner Center, pode explorar muitos destes benefícios diretamente do painel do Partner Center.
+Como parceiro na Microsoft Partner Network, poderá ter acesso a muitos [benefícios técnicos e de ir ao mercado](https://assetsprod.microsoft.com/mpn-maps-software-iur-competency-license-table.docx) para diferentes áreas. Se lhe foi atribuída uma das funções acima referidas no Partner Center, pode explorar muitos destes benefícios diretamente do painel do Partner Center. 
 
 > [!NOTE]
 > Para aceder à área de Benefícios do Centro parceiro, basta inscrever-se no painel de [instrumentos](https://partner.microsoft.com/dashboard) do Centro de Parceiros e selecionar **MPN** a partir do menu de navegação à esquerda. Em seguida, selecione **Benefícios** do menu, seguido da opção ou área de benefícios específicos que deseja explorar.
@@ -92,6 +92,10 @@ Para ativar uma subscrição baseada em licença:
    - Se pretender ativar uma nova subscrição ou a subscrição existente for desativada/expirada, abra um **browser privado ou incógnito,** então copie e cole o seguinte link e siga as instruções:
 
       [https://signup.microsoft.com/productkeystart](https://signup.microsoft.com/productkeystart)
+
+> [!Note]
+> Office 365 E3, Office 365 E5, Enterprise Mobility + Security, Microsoft Intune e Windows 10 Enterprise benefits deixaram de fazer parte de pacotes de benefícios de competência. Pode ativar os benefícios do Microsoft 365 E3 ou Microsoft 365 E5 que funcionam como substitutos dos pacotes de benefícios autónomos que são descontinuados.
+Se precisar de ajuda com a instalação ou implantação de benefícios M365, utilize os seus benefícios técnicos para levantar um [bilhete de suporte técnico](mpn-benefits-technical-support.md)
       
    - Se desejar prolongar a data de fim ou adicionar mais lugares/licenças a uma cópia de subscrição existente e colar o link abaixo numa **janela de navegador privada ou incógnita** e seguir as instruções:
  
@@ -179,3 +183,5 @@ Se estiver a tentar prolongar a data de fim utilizando uma chave com mais de 3x 
 - Ler mais sobre [o Microsoft 365 Business Voice](/microsoftteams/business-voice/whats-business-voice)
   
 - Conheça a [disponibilidade do país e da região para o Business Voice](/microsoftteams/business-voice/country-region-availability)
+
+- Saiba mais [sobre a implementação do Windows 10 com o Microsoft 365](/windows/deployment/deploy-m365)
