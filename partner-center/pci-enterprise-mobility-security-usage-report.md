@@ -8,12 +8,12 @@ description: Veja o que está a fazer bem e onde pode melhorar no que diz respei
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 8b0784e2d81b4483eb374120be2411729d922a47
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: d230f8abfa01f0c00494af9f626f26fb35b80c1c
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854626"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277832"
 ---
 # <a name="enterprise-mobility--security-usage-report-available-from-the-partner-center-insights-dashboard"></a>Relatório de utilização da Enterprise Mobility + Security disponível no painel de insights do Partner Center Insights
 
@@ -46,7 +46,7 @@ A secção de resumo apresenta uma visão instantânea dos principais indicadore
 
    O Micro chart apresenta uma tendência mensal de licenças utilizadas durante o período de tempo selecionado.
 
-:::image type="content" source="images/pci/pci-ems-usage-summary.png" alt-text="Resumo de utilização em EMS":::
+:::image type="content" source="images/pci/pci-ems-usage-summary.png" alt-text="Resumo de utilização do EMS.":::
 
 ## <a name="enterprise-mobility--security-usage-by-geography"></a>Mobilidade Empresarial + Utilização de segurança por geografia
 
@@ -56,25 +56,25 @@ O **número de países/tabela de região** apresenta o total de países/regiões
 
 Pode pesquisar e selecionar um país na grelha para ampliar a localização no mapa. Selecione a opção **Casa** no mapa para reverter para a vista original.
 
-:::image type="content" source="images/pci/pci-ems-usage-geography.png" alt-text="Utilização do EMS por geografia":::
+:::image type="content" source="images/pci/pci-ems-usage-geography.png" alt-text="Uso de EMS por geografia.":::
 
 ## <a name="enterprise-mobility--security-usage-by-sku"></a>Mobilidade Empresarial + Utilização de Segurança por SKU
 
 O uso da Enterprise Mobility + Security by SKU retrata a desagregação mensal da MAU e da PAU por SKUs.
 
-:::image type="content" source="images/pci/pci-ems-usage-sku.png" alt-text="Utilização emS por SKU":::
+:::image type="content" source="images/pci/pci-ems-usage-sku.png" alt-text="Utilização emS por SKU.":::
 
 ## <a name="subscriptions-performance"></a>Desempenho das assinaturas
 
 O desempenho das subscrições retrata a desagregação da MAU e da PAU por SKUs por subscrição de cliente. Os dados para os 100 principais clientes por receita faturada são apresentados na tabela e pode pesquisar por qualquer cliente ou descarregar os dados brutos para ver detalhes para todos os clientes.
 
-:::image type="content" source="images/pci/pci-ems-usage-subscription.png" alt-text="Desempenho da subscrição EMS":::
+:::image type="content" source="images/pci/pci-ems-usage-subscription.png" alt-text="Desempenho da subscrição EMS.":::
 
 ## <a name="enterprise-mobility--security-usage-distribution"></a>Mobilidade Empresarial + Distribuição de utilização de segurança
 
 A distribuição de utilização da Enterprise Mobility + Security retrata a desagregação da PAU e das Assinaturas por SKUs.
 
-:::image type="content" source="images/pci/pci-ems-usage-distribution.png" alt-text="Distribuição de utilização em EMS":::
+:::image type="content" source="images/pci/pci-ems-usage-distribution.png" alt-text="Distribuição de utilização em EMS.":::
 
 ## <a name="next-steps"></a>Passos seguintes
 

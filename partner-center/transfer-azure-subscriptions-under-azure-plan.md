@@ -9,12 +9,12 @@ ms.localizationpriority: medium
 author: mckennaville
 ms.author: mcville
 ms.date: 07/29/2020
-ms.openlocfilehash: dcacc6da51fe40c7eb05997f5409ef5fadbcf693
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 092c76fb874eb7308bdb69503223f722657db957
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109856054"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277322"
 ---
 # <a name="transfer-a-customers-azure-plan-subscriptions-to-a-different-partner"></a>Transferir subscrições do plano Azure de um cliente para um parceiro diferente
 
@@ -69,17 +69,17 @@ O futuro parceiro da subscrição precisa de preencher um formulário de pedido 
 3.  Selecione a secção **de pedido de Transferência.**
 4.  A partir da **secção de pedido de transferência,** selecione Adicionar novo **pedido.**
 
-    :::image type="content" source="images/modernazuretransfers/Transferrequestheader.png" alt-text="Secção de transferências":::
+    :::image type="content" source="images/modernazuretransfers/Transferrequestheader.png" alt-text="Secção de transferências.":::
 
 5.  Preencha o novo formulário **de pedido de transferência.**
 
 6.  Selecione **Enviar pedido de transferência**  >  **Enviar**.
 
-    :::image type="content" source="images/modernazuretransfers/CompleteTrnasferRequestForm.png" alt-text="Formulário completo de pedido de transferência":::
+    :::image type="content" source="images/modernazuretransfers/CompleteTrnasferRequestForm.png" alt-text="Formulário completo de pedido de transferência.":::
 
 7.  Confirmação do pedido de transferência de revisão
 
-    :::image type="content" source="images/modernazuretransfers/TransferPending.png" alt-text="Revisão pendente de transferência":::
+    :::image type="content" source="images/modernazuretransfers/TransferPending.png" alt-text="Revisão pendente de transferência.":::
 
     >[!Note]
     >O futuro parceiro pode cancelar o pedido de transferência selecionando o pedido de **cancelamento** no canto superior direito apenas quando o estado do pedido de transferência estiver "pendente". Uma vez que o estado do pedido de transferência esteja "em andamento" ou "completo", os cancelamentos não serão possíveis.
@@ -88,7 +88,7 @@ O futuro parceiro da subscrição precisa de preencher um formulário de pedido 
 
 O agente administrador do cliente do atual parceiro receberá um e-mail que o seu cliente está a solicitar uma transferência das suas subscrições:
 
-:::image type="content" source="images/modernazuretransfers/SourceReviewEmail.png" alt-text="Revisão":::
+:::image type="content" source="images/modernazuretransfers/SourceReviewEmail.png" alt-text="A revisão.":::
 
 Reveja e aceite o formulário de pedido de transferência do Partner Center para completar a transferência de subscrição.
 
@@ -101,7 +101,7 @@ Reveja e aceite o formulário de pedido de transferência do Partner Center para
 3.  Selecione a secção **de pedido de Transferência.**
 4.  Expandir as informações de transferência selecionando o **ID do pedido** de transferência escolhido nos **pedidos recebidos**
 
-:::image type="content" source="images/modernazuretransfers/ReviewRequest.png" alt-text="Pedido de transferência de revisões de origem":::
+:::image type="content" source="images/modernazuretransfers/ReviewRequest.png" alt-text="Fonte revê pedido de transferência.":::
 
 5.  Reveja o pedido de transferência. Selecione as subscrições solicitadas do Azure para transferir.
 
@@ -112,7 +112,7 @@ Reveja e aceite o formulário de pedido de transferência do Partner Center para
 
 6.  Em seguida, **selecione Aceitar e transferir** para concluir o processo de transferência.
 
-:::image type="content" source="images/modernazuretransfers/SelectSubs.png" alt-text="Selecione subscrições a serem transferidas ao abrigo dos seus planos Azure":::
+:::image type="content" source="images/modernazuretransfers/SelectSubs.png" alt-text="Selecione subscrições para serem transferidas ao abrigo dos seus planos Azure.":::
 
 7.  Ver confirmação de aceitação de transferência.
 

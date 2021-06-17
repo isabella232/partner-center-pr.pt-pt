@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a2a5697f19baadb5af956a745c032ce1711574d3
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: cc0fb8a56d397cebeb5a40fa1a1c8d6eae77fe25
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855238"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277373"
 ---
 # <a name="reseller-performance-dashboard-in-partner-center-insights"></a>Painel de desempenho revendedor em Partner Center Insights
 
@@ -59,7 +59,7 @@ O Micro chart apresenta a tendência mensal de receitas durante a gama de datas 
 
 - A faturação da secção de produtos fornece um mês após mês a repartição das receitas faturadas em USD, dividida por produtos vendidos. 
 
-:::image type="content" source="images/pci/pci-res-perf-summary-1.png" alt-text="resumo de desempenho dos revendedores":::
+:::image type="content" source="images/pci/pci-res-perf-summary-1.png" alt-text="reveners resumo de desempenho.":::
 
 ## <a name="geographical-spread-of-resellers"></a>Propagação geográfica dos revendedores
 
@@ -67,7 +67,7 @@ Os **Revendedores por vista de geografia fornecem a distribuição geográfica d
 
 Pode pesquisar e selecionar um país na grelha para ampliar a localização no mapa. Pressione a opção **Home** no mapa para reverter para a vista original. Paire no mapa para ver a **Receita Faturada (USD)** por país. O campo Billed Revenue (USD) na grelha é ordenado.
 
-:::image type="content" source="images/pci/pci-res-perf-resel-by-geo-1.png" alt-text="Revendedores por geografia ":::
+:::image type="content" source="images/pci/pci-res-perf-resel-by-geo-1.png" alt-text="Revendedores por geografia.":::
 
 ## <a name="resellers-addchurns"></a>Revendedores adicionam/churns
 
@@ -77,43 +77,43 @@ Esta vista proporciona um mês após mês dividido do número de **novos revende
 - Revendedores churned: Conde de revendedores que não tiveram uma transação nos últimos seis meses excluindo o mês em curso.
 - Revendedores existentes: Contagem de revendedores que estavam a transacionar no mês anterior.
 
-:::image type="content" source="images/pci/pci-res-perf-resel-add-churn-1.png" alt-text="Revendedores adicionam/churns":::
+:::image type="content" source="images/pci/pci-res-perf-resel-add-churn-1.png" alt-text="Os revendedores adicionam/churns.":::
 
 ## <a name="resellers-revenue-trend"></a>Tendência de receitas dos revendedores 
 
 Esta visão proporciona uma tendência mensal das receitas faturadas (USD) divididas por produtos, nomeadamente O365, D365, EMS, Power BI e Azure. As métricas globais são agregadas em todos os vários produtos para cada mês. O parceiro pode procurar um revendedor específico pelo nome e procurar dados para esse revendedor específico. O campo Billed Revenue (USD) na grelha é ordenado.
 
-:::image type="content" source="images/pci/pci-res-perf-resel-rev-trend-1.png" alt-text="Tendência de receitas dos revendedores":::
+:::image type="content" source="images/pci/pci-res-perf-resel-rev-trend-1.png" alt-text="Revendedores tendência de receita.":::
 
 ## <a name="reseller-performance-by-products"></a>Desempenho do revendedor por produtos
 
 Esta visão fornece uma divisão de métricas-chave como Billed Revenue, contagem de subscrições e contagem de licenças por vários produtos num mês por mês. O gráfico de tartes à direita indica a divisão geral das métricas por vários produtos, de modo que o parceiro tenha um rápido vislumbre da separação por vários produtos que o revendedor está a vender.
 
-:::image type="content" source="images/pci/pci-res-perf-resel-perf-product-1.png" alt-text="Desempenho do revendedor por produtos":::
+:::image type="content" source="images/pci/pci-res-perf-resel-perf-product-1.png" alt-text="Revendedor desempenho por produtos.":::
 
 ## <a name="active-resellers-by-partner-locations"></a>Revendedores ativos por localizações parceiras
 
 Esta vista proporciona uma divisão de revendedores ativos por geografias parceiras. As cinco principais geografias são mostradas na lenda e as restantes são classificadas como 'Outros'.
 
-:::image type="content" source="images/pci/pci-res-perf-part-loc-1.png" alt-text="Revendedores ativos por localizações parceiras":::
+:::image type="content" source="images/pci/pci-res-perf-part-loc-1.png" alt-text="Revendedores ativos por locais de parceiros.":::
 
 ## <a name="revenue-geo-distribution-trend"></a>Tendência de distribuição de geocidugrafo de receitas
 
 Esta visão proporciona uma tendência mensal da receita faturada (USD) dividida pelas cinco principais geografias.  O resto da receita é classificado como "Outros".
 
-:::image type="content" source="images/pci/pci-res-perf-rev-geo-trend-1.png" alt-text="Tendência de distribuição de geocidugrafo de receitas":::
+:::image type="content" source="images/pci/pci-res-perf-rev-geo-trend-1.png" alt-text="Tendência de distribuição de geocidugrafo de receitas.":::
 
 ## <a name="reseller-performance-by-customer-segment"></a>Desempenho do revendedor por segmento de cliente
 
 Esta visão permite que um parceiro compreenda a tendência mensal de receitas USD, contagem de subscrições e licenças, dividida por vários segmentos de clientes. Os cinco principais segmentos de clientes são mostrados na tabela e os restantes são classificados como 'Outros'.
 
-:::image type="content" source="images/pci/pci-res-perf-resel-cust-seg-1.png" alt-text="Desempenho do revendedor por segmento de cliente":::
+:::image type="content" source="images/pci/pci-res-perf-resel-cust-seg-1.png" alt-text="Revendedor desempenho por segmento de cliente.":::
 
 ## <a name="reseller-mpa-signing-status"></a>Estatuto de assinatura mpa revendedor
 
 Esta visão fornece o estado de assinatura mpa para revendedores, juntamente com dados de meta adicionais, tais como o estado de verificação mpn, pmc para o estado de migração do PC, etc.
 
-:::image type="content" source="images/pci/pci-res-perf-mpa-stat-1.png" alt-text="Estatuto de assinatura mpa revendedor":::
+:::image type="content" source="images/pci/pci-res-perf-mpa-stat-1.png" alt-text="Revendedor mpa estado de assinatura.":::
 
 ## <a name="next-steps"></a>Passos seguintes
 

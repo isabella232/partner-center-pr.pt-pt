@@ -8,12 +8,12 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 7b67564fbf469ac23ad514d96c3ec7b27bb3a5e6
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: ad71a6e02d6472ae844c504491e5acb05d5d6426
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110151955"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277866"
 ---
 # <a name="troubleshooting-missing-payments-incorrect-earnings-and-other-issues"></a>Resolução de problemas em falta de pagamentos, ganhos incorretos e outras questões
 
@@ -114,7 +114,7 @@ Os ganhos em falta ou incorretos podem ser causados por um dos seguintes problem
 
 Os ganhos são apresentados tanto na página de histórico de **Transações** como na página **Pagamentos.** Pode aceder a ambas as páginas selecionando o ícone **Payout** na barra de navegação no Partner Center.
 
-:::image type="content" source="images/incentives/paymenticon.png" alt-text="Informações sobre transações":::
+:::image type="content" source="images/incentives/paymenticon.png" alt-text="Informação sobre transações.":::
 
 Os valores de ganho mensal na vista do histórico de transações podem não estar alinhados com o valor de pagamento recebido por um mês específico. Isto deve-se a recálculos e ajustamentos para períodos de ganhos anteriores que são aplicados a pagamentos futuros.
 

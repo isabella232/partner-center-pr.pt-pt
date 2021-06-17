@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0d9224e9d86c540cc463538acc435f682cdc2d58
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: cd302a7b4839b98cdd96fda38b381d9282b00620
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110146855"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112275996"
 ---
 # <a name="azure-usage-report-available-from-the-partner-center-insights-dashboard"></a>Relatório de utilização do Azure disponível no painel de insights do Centro de Parceiros
 
@@ -51,7 +51,7 @@ O Micro chart apresenta uma tendência mensal de ACR US$ atribuída ao longo do 
 > [!NOTE]
  > O Azure Consumed Revenue (ACR) só será visível para os utilizadores que tenham sido atribuídos o Papel de Visualizador de Relatório Executivo.
 
-:::image type="content" source="images/pci/pci-azure-usage-summary-1.png" alt-text="Resumo de utilização do Azul":::
+:::image type="content" source="images/pci/pci-azure-usage-summary-1.png" alt-text="Resumo de utilização azul.":::
 
 ## <a name="azure-usage-by-geography"></a>Uso azul por geografia
 
@@ -61,7 +61,7 @@ O **número de países/tabela de região** apresenta o total de países/regiões
 
 Pode pesquisar e selecionar um país na grelha para ampliar a localização no mapa. Selecione a opção **Casa** no mapa para reverter para a vista original.
 
-:::image type="content" source="images/pci/pci-azure-usage-by-geography-2.png" alt-text="Uso azul por geografia":::
+:::image type="content" source="images/pci/pci-azure-usage-by-geography-2.png" alt-text="Uso azul por geografia.":::
 
 ## <a name="azure-utilization"></a>Utilização do azul
 
@@ -69,7 +69,7 @@ Esta visão mostra as tendências mensais de receitas de consumo do Azure ou hor
 
 O gráfico de barras apresenta a tendência mensal de receitas/horas de utilização. O gráfico de linha apresenta a tendência de crescimento em comparação com o mês anterior para as categorias de nível/metro de serviço Azure selecionados.
 
-:::image type="content" source="images/pci/pci-azure-usage-utilization-3.png" alt-text="Utilização de utilização do Azul":::
+:::image type="content" source="images/pci/pci-azure-usage-utilization-3.png" alt-text="Utilização de utilização azul.":::
 
 ## <a name="next-steps"></a>Passos seguintes
 

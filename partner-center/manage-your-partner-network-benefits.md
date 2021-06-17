@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 874d2e564b56acd37065c863fbf945b29c44167d
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 9d5b136dd050f13a4f3fe4fbbc129000e66fe111
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110146532"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276795"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits-and-offers-in-partner-center"></a>Gerencie os benefícios e ofertas de adesão da Microsoft Partner Network no Partner Center
 
@@ -58,7 +58,7 @@ Para ativar a maioria dos benefícios ou descarregar chaves de software relacion
 
 O separador **Azure & Cloud Products** mostra as subscrições baseadas no uso (crédito Azure) e as subscrições baseadas em licença (como o Office 365) que lhe são aprovisionadas, a quantidade de licença para cada produto, o tipo de oferta que lhe proporcionou esse produto, o tipo de benefício (quer seja proveniente do núcleo, ou incremental) e a data de validade desse benefício.
 
-:::image type="content" source="images/benefits/azuretab.png" alt-text="Separador de produtos Azure e cloud":::
+:::image type="content" source="images/benefits/azuretab.png" alt-text="Separador de produtos Azure e cloud.":::
 
 ### <a name="usage-based-subscriptions---microsoft-azure-credit"></a>Subscrições baseadas em uso - Microsoft Azure Credit
 
@@ -101,36 +101,30 @@ Para ativar as subscrições baseadas na licença, clique no símbolo dropdown e
 
 ## <a name="manage-technical-benefits---microsoft-product-support"></a>Gerir benefícios técnicos - Suporte ao Produto da Microsoft
 
-Esta secção descreve como ativar e gerir os benefícios técnicos de suporte no [painel de instrumentos](https://partner.microsoft.com/dashboard)do Centro de Parceiros . Se a sua adesão à Microsoft Partner Network ainda estiver no Partner Membership Center (PMC), no entanto, precisa de contactar outro recurso como o Partner Frontline para o ajudar a ativar os seus benefícios técnicos. Consulte [os benefícios técnicos do Ative fora do Partner Center](partner-membership-center-tech-benefits-activate.md).
+Esta secção descreve como ativar e gerir os benefícios técnicos de suporte no [painel de instrumentos](https://partner.microsoft.com/dashboard)do Centro de Parceiros . 
 
 Para ver os benefícios técnicos do seu Suporte ao Produto no Partner Center, faça o seguinte:
 
 1. Inscreva-se no painel do Centro [de Parceiros](https://partner.microsoft.com/dashboard).
 
-2. Selecione **Benefícios**, em **seguida, benefícios técnicos** do menu de navegação à esquerda. A página de benefícios técnicos aparece com uma lista de benefícios técnicos de suporte disponíveis para qualquer uma das suas competências Gold, Silver ou Microsoft Action Pack.
+2. Selecione **Benefícios**, em **seguida, benefícios técnicos** do menu de navegação à esquerda. A página de benefícios técnicos mostrará as ofertas de subscrição ativas de Gold, Silver ou Microsoft Action Pack.
 
-   Se não vir estas opções ou a página de benefícios técnicos, poderá não ter as [funções corretas](permissions-overview.md) de utilizador atribuídas no Partner Center. Contacte o seu administrador Partner Center Global para obter acesso.
+3. Selecione **Ver detalhes** para ver o botão Ativar, após ativação todos os utilizadores vêem o ID de acesso e o ID do contrato.
 
-3. Expandir a lista de benefícios. Para começar a usar um benefício de suporte específico, tem de fazer o seguinte da primeira vez que o utiliza:
+   - **Ativar o benefício técnico.** Ver Detalhes e selecionar **Ative**. Se o botão Ativar estiver acinzentado, a sua conta não tem a função de segurança Global Admin ou MPN Partner Admin. Utilize [a Gestão do Utilizador](https://partner.microsoft.com/dashboard/account/v3/usermanagement#users) e o filtro para encontrar um utilizador para ativar os seus benefícios. 
 
-   - **Ativar o benefício técnico.** Depois de expandir os detalhes de um benefício, **selecione Ative**. Deixe alguns dias para processar o seu pedido de ativação.
+   - **Ver e partilhar suporte ao produto Acesso ID e ID do contrato.** Após a ativação, todos os utilizadores verão o **ID de acesso** e **o ID do contrato.** Você ou os utilizadores da sua empresa precisam de partilhar e usar esta informação na primeira vez que submete um pedido de apoio para uma conta.
 
-   - **Ver e partilhar suporte ao produto Acesso ID e ID do contrato.** Após o seu pedido de ativação ser processado, verá detalhes sobre **o Acesso ID** e o **ID do Contrato** da próxima vez que expandir esse benefício técnico. Você ou os utilizadores da sua empresa precisam de partilhar e usar esta informação na primeira vez que submete um pedido de suporte para determinados tipos de produtos ou serviços.
+4. **Suporte técnico (Break-fix).** Utilize este tipo de suporte técnico quando a funcionalidade estiver avariada ou quando algo não estiver a funcionar como esperado (por exemplo, quando recebe uma mensagem de erro). Aqui vai uma orientação:
 
-4. Uma vez ativado, pode utilizar benefícios técnicos para diferentes tipos de suporte técnico. Para submeter pedidos de apoio técnico para os seguintes serviços, leia as instruções detalhadas na página de benefícios técnicos. Veja também os detalhes abaixo.
+   - Suporte à nuvem de assinatura: Apenas para parceiros de competência Gold/Silver (não disponível para assinantes do Action Pack), utilize o Suporte de **Produto Signature** para produtos **Cloud**.
 
-   A página de benefícios técnicos do Centro Parceiro descreve este tipo de suporte técnico:
-
-   **Suporte técnico (Break-fix).** Utilize este tipo de suporte técnico quando a funcionalidade estiver avariada ou quando algo não estiver a funcionar como esperado (por exemplo, quando recebe uma mensagem de erro). Aqui vai uma orientação:
-
-   - Apenas para parceiros de competência Gold/Silver (não disponível para assinantes do Action Pack), utilize **o Signature Product Support** para produtos **Cloud**.
-
-   - Tanto para parceiros de competência Action Pack como Gold/Silver, utilize incidentes de **suporte ao Microsoft Product** para produtos recentes no local (apenas versões atuais e anteriores). 
+   - Suporte ao Produto da Microsoft: Para parceiros de competência Action Pack e Gold/Silver, utilize incidentes de **suporte ao Microsoft Product** para produtos recentes no local (apenas versões atuais e anteriores). 
 
      >[!NOTE]
-     > O ID de acesso e o ID do contrato são necessários para pedidos de suporte técnico para produtos no local, Azure (não-CSP) e produtos Dynamics. Para Learm ler mais [Benefícios técnicos de suporte](mpn-benefits-technical-support.md).
+     > O ID de acesso e o ID do contrato são necessários para pedidos de suporte técnico para produtos no local, Azure (não-CSP) e produtos Dynamics. 
 
-[Saiba mais sobre Suporte Técnico para Produtos On-in ou Cloud](mpn-benefits-technical-support.md)
+**[Saiba mais sobre Suporte Técnico para Produtos On-in ou Cloud](mpn-benefits-technical-support.md)**
 
   
 ## <a name="manage-technical-benefits---partner-advisory-hours"></a>Gerir Benefícios Técnicos - Horários de Aconselhamento de Parceiros
@@ -146,7 +140,7 @@ Para ver os benefícios técnicos do seu Parceiro Advisory Hours no Partner Cent
      >[!NOTE]
      > Se a página de benefícios técnicos apresentar a mensagem *"Parece que ainda não tem quaisquer benefícios"* assinou usando uma conta parceira que não tem ofertas gold, silver ou Microsoft Action Pack e não é elegível para usar o serviço ou usou a conta errada para iniciar sposição.
      > 
-[Saiba mais sobre pré-venda técnica e serviços de implantação (TPD)](technical-benefits.md)
+**[Saiba mais sobre pré-venda técnica e serviços de implantação (TPD)](technical-benefits.md)**
   
 ## <a name="manage-go-to-market-offers"></a>Gerir ofertas go-to-market
 

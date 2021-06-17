@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: fdcd83554073a7951862787a9f29383a3752dd30
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: fc263c617a6a26872604970a42eb100708062fed
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110146345"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276625"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>Conheça o Acordo de Parceiros da Microsoft (MPA) para parceiros de programas da CSP
 
@@ -75,12 +75,12 @@ Lembre-se de aceitar o pedido de relacionamento CSP com o seu fornecedor Indiret
 
 1. Para visualizar e descarregar o **Microsoft Partner Agreement** antes de o assinar, selecione o link Microsoft Partner Agreement, conforme mostrado abaixo.
 
-:::image type="content" source="images/agreement-three.png" alt-text="Nova localização do acordo mpa":::
+:::image type="content" source="images/agreement-three.png" alt-text="Nova localização do acordo mpa.":::
 
 >[!NOTE]
 >Se não vir o link do **Microsoft Partner Agreement,** verifique a sua função no Partner Center. Apenas os Administradores Globais no inquilino da CSP podem ver e assinar MPA no Partner Center. Para verificar a sua função, vá à **gestão do Utilizador** e verifique se a conta de inscrição está marcada **como Global Admin**. Caso contrário, esta conta não pode ser utilizada para assinar MPA. Pode pesquisar por administradores globais na sua empresa na página de gestão do Utilizador.
 
-:::image type="content" source="images/user-management-clean.png" alt-text="Como encontrar o seu papel":::
+:::image type="content" source="images/user-management-clean.png" alt-text="Como encontrar o seu papel.":::
 
 ## <a name="verify-that-you-have-signed-the-mpa"></a>Verifique se assinou a MPA
 
@@ -89,14 +89,14 @@ Para ver se assinou a MPA:
  Como administrador global da sua empresa, vá ao seu [CSP Overview](https://partner.microsoft.com/pcv/dashboard/overview) e verifique para ver o banner verde que o notifica de que aceitou a MPA.
 
  
-:::image type="content" source="images/banner-boxed.png" alt-text="Banner verde mostrando aceitação mpa":::
+:::image type="content" source="images/banner-boxed.png" alt-text="Banner verde mostrando aceitação mpa.":::
 
 >[!NOTE]
 >Só o administrador global da sua empresa pode ver e assinar a MPA. Se você não é o administrador global, você precisará pedir ao seu administrador global para verificar a MPA.
 
 Também pode ver se assinou o acordo selecionando **Contratos** a partir de definições de **Conta.**
 
-:::image type="content" source="images/agreement-new.png" alt-text="Indicação de que a MPA está assinada":::
+:::image type="content" source="images/agreement-new.png" alt-text="Indicação de que a MPA está assinada.":::
 
 
 ## <a name="download-the-step-by-step-guide-thats-right-for-where-you-are-in-the-mpa-signing-process"></a>Faça o download do guia passo a passo que é adequado para onde você está no processo de assinatura MPA

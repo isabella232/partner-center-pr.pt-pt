@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 785bed684e883c19782d820bf2644e050842b54b
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 91c182f2eb42bbe834926c7985d343524305485a
+ms.sourcegitcommit: cc9e47219f6e2cdf77118b5c8986e86ebecfe260
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110150459"
+ms.lasthandoff: 06/16/2021
+ms.locfileid: "112125927"
 ---
 # <a name="earn-an-advanced-specialization-to-showcase-your-validated-capabilities"></a>Ganhe uma especialização avançada para mostrar as suas capacidades validadas
 
@@ -50,6 +50,10 @@ As especializações avançadas **do Azure** incluem:
 - Modernização de Aplicações Web para o Microsoft Azure
 - SAP no Microsoft Azure
 - Migração do Windows Server e SQL Server para o Microsoft Azure
+- IA e Machine Learning no Microsoft Azure
+- Infraestrutura de nuvem híbrida com Microsoft Azure Stack HCI
+- Operações híbridas e gestão com o Microsoft Azure Arc
+- Solução Microsoft Azure VMware
 
 **As especializações avançadas de Aplicações Empresariais** incluem:
 
@@ -67,6 +71,8 @@ As especializações avançadas **do Azure** incluem:
 
 - Gestão de Acesso e Identidades
 - Proteção Contra Ameaças
+- Proteção e Governação da Informação
+- Segurança na Cloud
 
 > [!NOTE]
 > Para conhecer cada especialização avançada, juntamente com os seus pré-requisitos e requisitos, visite a [página de especializações Avançadas.](https://partner.microsoft.com/membership/advanced-specialization) Quando estiver pronto para se candidatar a uma especialização avançada, verifique o seu progresso ao inscrever-se no [painel de instrumentos](https://partner.microsoft.com/dashboard)do Partner Center . Para saber mais sobre o acesso a esta área do Centro de Parceiros, consulte [Candidatar-se a uma especialização avançada.](advanced-specializations-apply.md)

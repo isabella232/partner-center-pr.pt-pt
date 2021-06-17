@@ -7,12 +7,12 @@ ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 3/22/2021
-ms.openlocfilehash: 4e9ab721fe356dbcdff7316a5ed5b52c81f2d4eb
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: dc0c720544f4a8a3c95e5b91ec656e65dbce7c80
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110152601"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276115"
 ---
 # <a name="payout-statements"></a>Declaração de dividendos
 
@@ -46,7 +46,7 @@ Inscreva-se no [Partner Center](https://partner.microsoft.com/dashboard/home) e 
 - Pagamentos
 - Exportar dados
 
-:::image type="content" source="images/payouts/payout-overview.png" alt-text="Ilustra o ícone payout no canto superior direito do portal Partner Center":::
+:::image type="content" source="images/payouts/payout-overview.png" alt-text="Ilustra o ícone Payout no canto superior direito do portal Partner Center.":::
 
 Também pode utilizar a [API de Pagamento de Parceiros](https://apidocs.microsoft.com/services/partnerpayouts) para conectar e obter dados de transações e pagamentos diretamente.
 
@@ -240,7 +240,7 @@ A página **pagamentos** detalha o dinheiro que ganhou com a Microsoft. Também 
 
 A **tabela lista de pagamentos** mostra pagamentos pagos e pendentes. Você pode baixar informações sobre taxas de serviço em formato PDF e ver os detalhes de ganho para um dado pagamento.
 
-:::image type="content" source="images/payouts/list-of-payments.png" alt-text="Histórico de transações de exportação":::
+:::image type="content" source="images/payouts/list-of-payments.png" alt-text="Histórico de transações de exportação.":::
 
 - **Pago** – Todos os pagamentos enviados com sucesso. Escolha o ano no menu suspenso para filtrar os pagamentos lançados nesse ano.
 - **Pendentes** – Próximos pagamentos.

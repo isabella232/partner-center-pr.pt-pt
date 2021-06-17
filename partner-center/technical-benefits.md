@@ -8,15 +8,17 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.date: 02/24/2021
-ms.openlocfilehash: 3e3f1d576c03e437c218f7902c7770a1203eba70
-ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
+ms.date: 03/30/2021
+ms.openlocfilehash: b6de912047a327e89e2572504329e9eff23e7dbf
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "104768725"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276387"
 ---
 # <a name="explore-technical-presales-and-deployment-services-tpd"></a>Explore as Pré-vendas Técnicas e os serviços de Implantação (TPD) 
+
+**Funções adequadas**: Administrador parceiro da MPN
 
 Conheça os benefícios da Microsoft Partner Network (MPN) para os serviços técnicos de pré-venda e implantação, incluindo consultas, assistência de pré-vendas, horários de aconselhamento e muito mais.
 
@@ -40,7 +42,34 @@ Todas as soluções Cloud ou Hybrid são suportadas, para além das instalaçõe
 
 Inscreva-se em qualquer conta de utilizador associada à MPN para **[criar um pedido de Pré-Venda Técnica e Serviços de Implantação (TPD)](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical/createadvisoryhours-servicerequest)** (não é necessária ativação de benefícios técnicos).
 
-:::image type="content" source="images/technical-benefits.png" lightbox="images/technical-benefits.png" alt-text="Pré-vendas técnicas e benefícios de implantação" border="false":::
+## <a name="delivery-scenarios"></a>Cenários de entrega
+
+- **As consultas técnicas de pré-venda** são utilizadas para definir a proposta de valor, fornecer estimativas de custos, gerir objeções ao cliente, responder a mensagens concorrentes, demonstrar soluções técnicas, prova de conceitos ou planeamento e design de arquitetura que conduza a uma Declaração de Trabalho.
+
+  - *Não suportado:* Planeamento de gasodutos de vendas, preços e tabelas de preços.
+
+
+- **As consultas de implantação** são utilizadas para o planeamento e orientação de design de arquitetura, boas práticas, orientação de implantação, referências do produto e documentação.
+
+  - *Não suportado:* Suporte/resolução de problemas de break-fix, serviços no local, consultoria a longo prazo, apoio direto ao cliente ou suporte prático num ambiente de produção. 
+
+
+- **As Consultas de Marketplace** são utilizadas para como publicar a sua solução para a geração de chumbo em curso no mercado comercial da Microsoft. Para desenvolvedores, configuração de serviços, consultorias de arquitetura ou design, migração de soluções no local, revisão de códigos e assistência à publicação de aplicações.
+
+  - *Não suportado:* Depuragem de código, desenvolvimento de aplicações para além da prova de conceitos.
+
+## <a name="in-scope-products-and-services"></a>In-Scope produtos e serviços
+
+Os seguintes produtos e serviços estão em curso para pré-venda técnica e serviços de implantação:
+- **Microsoft 365**: Todos os componentes do Microsoft Office 365, tais como Microsoft Teams, Exchange Online, SharePoint Online, OneDrive, Yammer, Project Online, Skype for Business Server 2019, Enterprise Mobility + Security, Microsoft Intune, Azure Ative Directory, Azure Information Protection
+  - *Fora do âmbito: Servidores de Escritório exclusivamente no local - Exchange e SharePoint*
+- **Aplicações empresariais**: Microsoft Dynamics 365 (online), Microsoft Power Platform (Power Apps, Power Automamate, Power BI)
+  - *Fora do âmbito: Versões exclusivamente no local da Dynamics 365, GP, SL, AX, NAV*
+- **Microsoft Azure**: Todas as soluções e serviços relacionados da Microsoft Azure, tais como infraestruturas como um serviço, plataforma como um serviço, Plataforma de Dados, BI Analytics, Serviços Cognitivos, Azure Machine Learning, Azure Stack
+- **Windows Server**: Servidor do Windows suportado mainstream (conforme governado pelo ciclo de vida do **[produto)](/lifecycle/policies/fixed)**
+  - O System Center inclui produtos relacionados, como o SCCM, se estiver relacionado com cenários em nuvem ou híbridos
+- **Windows 10**: sistema operativo Windows 10, dispositivos, aplicações universais
+- **Produtos em Visualização Privada ou Pública**: A ajuda é prestada numa base de melhores esforços, para ambientes não produtivos e sem garantias sobre disponibilidade de informação ou tempo de resposta
 
 ## <a name="submit-a-technical-presales-and-deployment-services-request"></a>Apresentar um pedido de pré-venda técnica e serviços de implantação 
 
@@ -60,7 +89,11 @@ Para ver os seus benefícios técnicos no Partner Center:
 
 3. **[Selecione Enviar pré-venda técnica e pedido de implantação](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical/createadvisoryhours-servicerequest)**.
 
+:::image type="content" source="images/benefits/mpn-tpd-5.png" lightbox="images/benefits/mpn-tpd-3.png" alt-text="Pré-vendas técnicas e benefícios de implantação." :::
+
 4. Utilize **produtos de pesquisa** e introduza o produto relevante. Se obtém demasiados resultados, pode filtrar com base na área de Solução ou procurar tópicos para filtrar cada nível de taxonomia.
+
+:::image type="content" source="images/benefits/mpn-tpd-2.png" lightbox="images/benefits/mpn-tpd-2.png" alt-text="Pré-vendas técnicas e benefícios de implantação - Produtos de Pesquisa.":::
 
    > [!NOTE]
    > Se necessitar de uma Cloud Consult como parte do seu plano de suporte ASfP ou PSfP, contacte o seu gestor de conta de suporte (SAM).

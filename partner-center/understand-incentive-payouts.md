@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 798fde02b87e8f8105dad6d00c32b050fb90097e
-ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
+ms.openlocfilehash: 33ec3befdc4b2bab2f31d25d210679594debbbf1
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109818750"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277254"
 ---
 # <a name="view-your-incentives-program-details"></a>Ver os detalhes do programa de incentivos
 
@@ -59,7 +59,7 @@ Selecione o ícone de pagamento no canto superior direito do ecrã para aceder a
 - Pagamentos
 - Exportar dados
 
-:::image type="content" source="images/payouts/payout-overview.png" alt-text="Ilustra o ícone payout no canto superior direito do portal Partner Center":::
+:::image type="content" source="images/payouts/payout-overview.png" alt-text="Ilustra o ícone Payout no canto superior direito do portal Partner Center.":::
 
 Esta informação inclui o total de ganhos e pagamentos dos incentivos desde que se inscreveu nos programas de incentivos. Também estão incluídos nesta página os ganhos e os pagamentos por localização ou programa, bem como quaisquer outras ações que possa ter de realizar para se inscrever num programa numa localização específica. 
 

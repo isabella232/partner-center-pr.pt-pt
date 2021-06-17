@@ -8,12 +8,12 @@ description: Aprenda respostas a perguntas comuns sobre a utilização de conect
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 49a2b6e5461dacbe87c34b36805a5c240c2e5fd1
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: bb7a227624c548a29046b80d3bd5fa363a4aee2f
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110148351"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276939"
 ---
 # <a name="troubleshoot-co-sell-referrals-connectors"></a>Resolução de problemas co-venda de conectores de referências
 
@@ -64,7 +64,7 @@ Siga estes passos de resolução de problemas:
 
 2.  O que deve fazer se enfrentar o erro de "Iniciar in" ao adicionar um conector Partner Center na Plataforma De Automatização de Energia?
 
-:::image type="content" source="images/cosellconnectors/failure.png" alt-text="Mensagem de erro que requer inscrição":::
+:::image type="content" source="images/cosellconnectors/failure.png" alt-text="Mensagem de erro que requer sing-in.":::
 
 Siga este passo de resolução de problemas:
 
@@ -73,7 +73,7 @@ Siga este passo de resolução de problemas:
 
 3. O que deve fazer se receber o seguinte erro ao ativar o Centro de Parceiros para o fluxo de CRM na Plataforma de Automatização de Energia?
  
-:::image type="content" source="images/cosellconnectors/powererror.png" alt-text="Mensagem de erro que requer atualizações":::
+:::image type="content" source="images/cosellconnectors/powererror.png" alt-text="Mensagem de erro que requer atualizações.":::
 
 Siga estes passos de resolução de problemas:
 
@@ -88,11 +88,11 @@ Adiciona-se ligações ao fluxo enquanto o fluxo está em funcionamento e adicio
 - Selecione cada fluxo e edite-os individualmente.
 - Expandir todos os passos no fluxo 
 
-:::image type="content" source="images/cosellconnectors/flowsteps.png" alt-text="Passos que precisam de ligações":::
+:::image type="content" source="images/cosellconnectors/flowsteps.png" alt-text="Passos que precisam de ligações.":::
 
 - Selecione os passos onde vê um ícone de aviso pedindo para associar ligações e adicione ligações. 
 
-:::image type="content" source="images/cosellconnectors/editflow.png" alt-text="Editar passo a passo":::
+:::image type="content" source="images/cosellconnectors/editflow.png" alt-text="Editar fluxo passo a passo.":::
 
 
 5. O que deve fazer se os fluxos da solução de Conectores de Referências co-vender não ligarem?
@@ -109,7 +109,7 @@ A. No Power Automamate, terá de editar fluxos na seguinte ordem e atualizá-los
 
  B. Para cada um dos fluxos, selecione A opção **de utilizadores de executar apenas.** Selecione **Utilizar a ligação** em vez de **fornecido pelo utilizador apenas por execução**.  
 
-:::image type="content" source="images/cosellconnectors/runonly.png" alt-text="Para ativar um fluxo":::
+:::image type="content" source="images/cosellconnectors/runonly.png" alt-text="Para ativar um fluxo.":::
 
 
 C. Ativar estes fluxos abaixo mencionados:
@@ -133,7 +133,7 @@ Para garantir que os fluxos de automatismo de potência funcionam como espera e 
  
 Para determinar o estado da sincronização de referência, **selecione Audit**. 
 
-:::image type="content" source="images/cosellconnectors/synch.png" alt-text="Como sincronizar referências":::
+:::image type="content" source="images/cosellconnectors/synch.png" alt-text="Como sincronizar referências.":::
 
 Certifique-se de que estão reunidas as seguintes condições:
 
@@ -149,7 +149,7 @@ Faça os seguintes passos:
 
 - Os vendedores de parceiros precisam de garantir que ativaram a opção **Sync com Partner Center** na secção CRM.
 
-:::image type="content" source="images/cosellconnectors/enablesynch.png" alt-text="Certifique-se de que ativou o Synch":::
+:::image type="content" source="images/cosellconnectors/enablesynch.png" alt-text="Certifique-se de que ativou o Synch.":::
 
 - Os vendedores precisam fornecer receitas e data de encerramento na qualificação de uma liderança.
 

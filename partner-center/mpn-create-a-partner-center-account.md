@@ -9,12 +9,12 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3f5ef67372b0472212943d29dfcd4212f453a15e
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 087ac3439d1eb96321fe8d084f62fcb5fe0a0717
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110152465"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276557"
 ---
 # <a name="create-an-mpn-account-in-partner-center-to-manage-network-benefits-and-competencies"></a>Criar uma conta MPN no Partner Center para gerir benefícios e competências de rede
 
@@ -110,7 +110,7 @@ Inscreva-se no Partner Center com as suas credenciais MPN. Selecione [**o perfil
 
 Também pode ver outras informações importantes como MPN Ids, gerir localizações mpn e ver o Microsoft Partner Agreement usando os links do menu esquerdo como mostra na imagem seguinte.
 
-:::image type="content" source="images/mpn-new.png" alt-text="Perfil do parceiro":::
+:::image type="content" source="images/mpn-new.png" alt-text="Perfil de parceiro.":::
 
 
 ## <a name="next-steps"></a>Passos seguintes

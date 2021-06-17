@@ -9,12 +9,12 @@ ms.topic: how-to
 ms.date: 04/12/2021
 ms.localizationpriority: medium
 ms.custom: contperf-fy21q4
-ms.openlocfilehash: 46c2371e3a95b8840f14ebc5063d90bd5926fb8f
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: f65de1bb115ba8108720429974622bf1a6afcc7b
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110153060"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276353"
 ---
 # <a name="verify-or-update-your-company-profile-information"></a>Verifique ou atualize as informações do perfil da empresa 
 
@@ -90,7 +90,7 @@ Para atualizar o ID MPN associado à sua conta CSP:
 
 Se você é o administrador global, administrador de faturação ou agente administrativo, pode alterar o endereço que aparece na sua fatura no seu **perfil de pagamento e imposto**. No entanto, não poderá alterar o nome da empresa na fatura devido a uma limitação do sistema de faturas.
 
-:::image type="content" source="images/billing-profile.png" alt-text="Captura de ecrã da área onde a informação de faturação é adicionada":::
+:::image type="content" source="images/billing-profile.png" alt-text="Captura de ecrã da área onde a informação de faturação é adicionada.":::
 
 |**Campo**  |**Descrição**|  
 |---------------------|:------------------|

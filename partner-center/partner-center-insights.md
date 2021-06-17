@@ -9,12 +9,12 @@ ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/26/2020
-ms.openlocfilehash: 6661fb013b25e55785dac9156e5f3561f5b50c97
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 05fad9c7eecbc8b7f639faa24b654fb0474245ca
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110151020"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277628"
 ---
 # <a name="partner-center-insights---a-dashboard-that-shows-how-a-microsoft-commercial-partner-is-doing"></a>Partner Center Insights - um dashboard que mostra como um parceiro comercial da Microsoft está a fazer
 
@@ -55,7 +55,7 @@ Os seguintes relatórios estão disponíveis como parte do dashboard Insights.
 
 **Filtros de gama de datas**: Pode encontrar uma seleção de intervalo de datas no canto superior direito de cada página. A saída dos gráficos de página de visão geral pode ser personalizada selecionando uma gama de datas baseada nos últimos 3, 6 ou 12 meses, ou selecionando um intervalo de datas personalizado. A seleção do intervalo de datas padrão é de 12 meses. 
 
-:::image type="content" source="images/pci/intro1.png" alt-text="Mapa de introdução":::
+:::image type="content" source="images/pci/intro1.png" alt-text="Mapa de introdução.":::
 
 **Botão de feedback**: Cada gráfico/controlo em todos os relatórios insights é incorporado com um botão de feedback para permitir que forneça feedback de instância sobre uma função de relatório. 
 

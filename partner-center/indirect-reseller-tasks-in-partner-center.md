@@ -10,12 +10,12 @@ ms.custom: contperf-fy21q2
 author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
-ms.openlocfilehash: 236cee00ec6a28468361c4893f7888882a17f5e4
-ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
+ms.openlocfilehash: 2c869b35e85215c4f49e0494dddf316be6716638
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "104880791"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276812"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Saiba como associar-se a fornecedores indiretos no programa Cloud Solution Provider
 
@@ -95,12 +95,12 @@ A partir de outubro de 2020, todos os parceiros da Microsoft novos na CSP, vão 
 6. Depois de a Microsoft completar a verificação de inscrição que demora 3 a 5 dias úteis, assine o Acordo de Parceiro da Microsoft na [visão geral](https://partner.microsoft.com/pcv/dashboard/overview) do painel do Partner Center utilizando credenciais de administração global. Para visualizar e descarregar o **Microsoft Partner Agreement** antes de o assinar, clique no link Do Acordo de Parceiro da Microsoft, conforme mostrado abaixo.  Se a sua conta estiver presa na verificação após 5 dias úteis, leia [o processo de verificação da conta](verification-responses.md).
 
 
-:::image type="content" source="images/agreement-three.png" alt-text="Nova localização do acordo mpa":::
+:::image type="content" source="images/agreement-three.png" alt-text="Nova localização do acordo mpa.":::
 
  
 7. Confirme que assinou o Acordo de Parceiro da Microsoft na secção **de Informações** de Programa do perfil de Parceiro. Além disso, verá uma notificação de banner de confirmação na página de Visão Geral da CSP. 
 
-:::image type="content" source="images/mpagreen.png" alt-text="Bandeira verde aceite":::
+:::image type="content" source="images/mpagreen.png" alt-text="Bandeira verde aceite.":::
 
 
 8. Quando a sua conta Partner Center estiver pronta a ser utilizada, verifique se foi adicionado ao grupo de agentes administrativos. Para terminar a configuração da sua conta, incluindo a adição de outros utilizadores, tem de ter permissões de agente administrativo. Siga estes passos para visualizar ou atualizar as suas permissões:

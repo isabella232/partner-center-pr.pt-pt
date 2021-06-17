@@ -8,12 +8,12 @@ description: Veja o que está a fazer bem e onde pode melhorar no que diz respei
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 9626ceda405b54ea2043814fef3d7f5c81bc35af
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 36993633ab2e2be0a726c70bf930f842bfaf890f
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854593"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276302"
 ---
 # <a name="power-bi-usage-report-available-from-the-partner-center-insights-dashboard"></a>Relatório de utilização do Power BI disponível no painel Partner Center Insights
 
@@ -50,7 +50,7 @@ A secção de resumo apresenta uma visão instantânea dos principais indicadore
 
    O Micro chart apresenta uma tendência mensal de percentagem de utilização ativa durante o período de tempo selecionado.
 
-:::image type="content" source="images/pci/pci-pbi-usage-summary.png" alt-text="Resumo de utilização do Power BI":::
+:::image type="content" source="images/pci/pci-pbi-usage-summary.png" alt-text="Resumo de utilização do Bi de potência.":::
 
 ## <a name="power-bi-usage-by-geography"></a>Utilização do Power BI por geografia
 
@@ -60,25 +60,25 @@ O **número de países/tabela de região** apresenta o total de países/regiões
 
 Pode pesquisar e selecionar um país na grelha para ampliar a localização no mapa. Selecione a opção **Casa** no mapa para reverter para a vista original.
 
-:::image type="content" source="images/pci/pci-pbi-usage-geography.png" alt-text="Utilização do Power BI por geografia":::
+:::image type="content" source="images/pci/pci-pbi-usage-geography.png" alt-text="Utilização de Bi de potência por geografia.":::
 
 ## <a name="power-bi-usage-by-sku"></a>Utilização de Power BI por SKU
 
 O uso do Power BI pela SKU retrata a tendência mensal dos lugares disponíveis, assentos ativos e lugares atribuídos pela SKUs.
 
-:::image type="content" source="images/pci/pci-pbi-usage-sku.png" alt-text="Utilização de Power BI por SKU":::
+:::image type="content" source="images/pci/pci-pbi-usage-sku.png" alt-text="Utilização de Power BI por SKU.":::
 
 ## <a name="subscriptions-performance"></a>Desempenho das assinaturas
 
 O desempenho das Subscrições retrata a tendência mensal de utilização ativa por subscrição de clientes. Os dados para os 100 principais clientes por receita faturada são apresentados na tabela e pode pesquisar por qualquer cliente ou descarregar os dados brutos para ver detalhes de todas as subscrições.
 
-:::image type="content" source="images/pci/pci-pbi-usage-subscription.png" alt-text="Desempenho da subscrição do Power BI":::
+:::image type="content" source="images/pci/pci-pbi-usage-subscription.png" alt-text="Desempenho da subscrição do Power BI.":::
 
 ## <a name="power-bi-usage-distribution"></a>Distribuição de utilização de Power BI
 
 A distribuição de utilização power BI retrata a desagregação dos assentos disponíveis, assentos ativos e assentos atribuídos por SKUs.
 
-:::image type="content" source="images/pci/pci-pbi-usage-distribution.png" alt-text="Distribuição de utilização de Power BI":::
+:::image type="content" source="images/pci/pci-pbi-usage-distribution.png" alt-text="Distribuição de utilização de BI de potência.":::
 
 ## <a name="next-steps"></a>Passos seguintes
 

@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 15658abdbf23c1181fb411fd66673fc9699250ae
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 8ab1ec5001e3b21d9661d0db0e7b8e51f12acda2
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855170"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277475"
 ---
 # <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>Relatório de licenças de produtos no painel de insights do Centro de Parceiros
 
@@ -34,7 +34,7 @@ O relatório das Licenças de Produto apresenta análises de licenças para prod
 
 A secção de resumo fornece uma visão instantânea dos principais indicadores de desempenho (KPI's) associados às licenças de produtos em nuvem vendidas, implantadas e usadas. Isto ajuda-o a rastrear o uso ativo contra as licenças vendidas aos seus clientes.
 
-:::image type="content" source="images/pci/pci-licenses-report-summary-1.png" alt-text="resumo relatório de licença":::
+:::image type="content" source="images/pci/pci-licenses-report-summary-1.png" alt-text="resumo do relatório da licença.":::
 
 Para obter mais informações sobre cada secção do resumo, consulte abaixo:
 
@@ -61,7 +61,7 @@ A visão **de spread geográfico das Licenças** mostra a distribuição geográ
 
 Pode pesquisar e selecionar um país na grelha para ampliar a localização no mapa. Pressione a opção **Casa** no mapa para reverter para a vista predefinida. Paire no mapa para ver as licenças atuais e licenças ativas por país de cliente. Ambos os campos na grelha são ordenados.
 
-:::image type="content" source="images/pci/pci-licenses-report-geo-spread-2.png" alt-text="propagação geográfica da licença":::
+:::image type="content" source="images/pci/pci-licenses-report-geo-spread-2.png" alt-text="propagação geográfica da licença.":::
 
 ## <a name="license-adds"></a>Licença adiciona
 
@@ -71,13 +71,13 @@ Para apresentar a tendência por produto e serviço/carga de trabalho, selecione
 
 O eixo X representa meses do intervalo de datas selecionados. O eixo Y representa a contagem de licenças adicionadas. Para ampliar um período específico, utilize o slider no topo da tabela.
 
-:::image type="content" source="images/pci/pci-licenses-report-license-adds-3.png" alt-text="licença adiciona":::
+:::image type="content" source="images/pci/pci-licenses-report-license-adds-3.png" alt-text="a licença acrescenta.":::
 
 ## <a name="license-distribution"></a>Distribuição de licenças
 
 Esta vista mostra uma desagregação das suas licenças de cliente por produto e país/região do cliente. Quando selecionar um produto na Carta de Licença por gráfico de **tartes de produto,** o gráfico adjacente mostrar-lhe-á uma avaria de licença por região do cliente.
 
-:::image type="content" source="images/pci/pci-licenses-report-license-distrib-4.png" alt-text="distribuição de licenças":::
+:::image type="content" source="images/pci/pci-licenses-report-license-distrib-4.png" alt-text="distribuição de licenças.":::
 
 ## <a name="next-steps"></a>Passos seguintes
 

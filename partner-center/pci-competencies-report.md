@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2053c4b0a31232a6e2e9182a11fad2e2048d96f1
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: e480481304bda816afe0bf08c66fcb4b063f1f49
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110152890"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277543"
 ---
 # <a name="competencies-report-available-from-the-partner-center-insights-dashboard"></a>Relatório de competências disponível no painel Partner Center Insights
 
@@ -61,7 +61,7 @@ A repartição de competências iniciadas conta por nível de competência (Prat
 - Em risco (no próximo ano): Contagem de competências que estão atualmente **Ativas** mas também **em risco** de não cumprir os requisitos para o próximo ano.
 Desagregação de competências (por nível de competência, como a Prata/Ouro, com nomes de competências) que estão em risco de não se qualificarem para o próximo ano.
 
-:::image type="content" source="images/pci/pci-competencies-summary-1.png" alt-text="resumo de competências":::
+:::image type="content" source="images/pci/pci-competencies-summary-1.png" alt-text="resumo de competências.":::
 
 ### <a name="competency-metric-analysis"></a>Análise métrica de competência
 
@@ -72,7 +72,7 @@ O relatório pode ser apoiado pelos seguintes intervalos de data:
 1. Visão TTM: Isto enumera o desempenho do parceiro nos últimos 12 meses (TTM).
 2. Visão do Ano de Aniversário: Isto enumera o desempenho do parceiro da data do aniversário anterior até à data do próximo aniversário.
 
-:::image type="content" source="images/pci/pci-competencies-comp-metrics-analysis-2.png" alt-text="análise métrica de competência":::
+:::image type="content" source="images/pci/pci-competencies-comp-metrics-analysis-2.png" alt-text="análise métrica de competência.":::
 
 > [!NOTE]
  > Nem todas as métricas estão abrangidas pela análise. Atualmente, as métricas associadas à aprendizagem e certificação não são apoiadas no relatório de Competências. As competências em Cloud Business Applications (CBA) também não são atualmente suportadas na análise métrica para o estatuto de competência **Ativa.**
@@ -81,7 +81,7 @@ O relatório pode ser apoiado pelos seguintes intervalos de data:
 
 Este ponto de vista mostra uma tabela detalhada de todas as competências que alcançou até agora, com nível de competência e fase de competência.
 
-:::image type="content" source="images/pci/pci-competencies-comp-history-3.png" alt-text="história de competência":::
+:::image type="content" source="images/pci/pci-competencies-comp-history-3.png" alt-text="história de competência.":::
 
 ## <a name="next-steps"></a>Passos seguintes
 

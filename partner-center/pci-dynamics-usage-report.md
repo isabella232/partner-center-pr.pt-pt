@@ -8,12 +8,12 @@ description: Veja o que está a fazer bem e onde pode melhorar no que diz respei
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 0e2880f8548b220d708c61c08a0ea9fb37700240
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 2c0b90fdeaf8bf1715d89221959aeb49e186d150
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110152805"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277509"
 ---
 # <a name="dynamics-usage-report-available-from-the-partner-center-insights-dashboard"></a>Relatório de utilização dinâmico disponível no painel Partner Center Insights
 
@@ -50,7 +50,7 @@ A secção de resumo apresenta uma visão instantânea dos principais indicadore
 
    O Micro chart apresenta uma tendência mensal de percentagem de utilização ativa durante o período de tempo selecionado.
 
-:::image type="content" source="images/pci/pci-dynamics-usage-summary.png" alt-text="Resumo de utilização dinâmico":::
+:::image type="content" source="images/pci/pci-dynamics-usage-summary.png" alt-text="Resumo de utilização dinâmico.":::
 
 ## <a name="dynamics-usage-by-geography"></a>Utilização dinâmica por geografia
 
@@ -60,25 +60,25 @@ O **número de países/tabela de região** apresenta o total de países/regiões
 
 Pode pesquisar e selecionar um país na grelha para ampliar a localização no mapa. Selecione a opção **Casa** no mapa para reverter para a vista original.
 
-:::image type="content" source="images/pci/pci-dynamics-usage-geography.png" alt-text="Utilização dinâmica por geografia":::
+:::image type="content" source="images/pci/pci-dynamics-usage-geography.png" alt-text="Uso dinâmico por geografia.":::
 
 ## <a name="dynamics-usage-by-sku"></a>Utilização dinâmica por SKU
 
 O uso da Dynamics pela SKU retrata a tendência mensal dos lugares disponíveis, assentos ativos e lugares atribuídos pela SKUs.
 
-:::image type="content" source="images/pci/pci-dynamics-usage-sku.png" alt-text="Utilização dinâmica por SKU":::
+:::image type="content" source="images/pci/pci-dynamics-usage-sku.png" alt-text="Utilização dinâmica por SKU.":::
 
 ## <a name="subscriptions-performance"></a>Desempenho das assinaturas
 
 O desempenho das Subscrições retrata a tendência mensal de Utilização Ativa por subscrição de clientes. Os dados para os 100 principais clientes por receita faturada são apresentados na tabela e pode pesquisar por qualquer cliente ou descarregar os dados brutos para ver detalhes de todas as subscrições.
 
-:::image type="content" source="images/pci/pci-dynamics-usage-subscription.png" alt-text="Desempenho da subscrição dinâmica":::
+:::image type="content" source="images/pci/pci-dynamics-usage-subscription.png" alt-text="Desempenho de subscrição dinâmica.":::
 
 ## <a name="dynamics-usage-distribution"></a>Distribuição de utilização dinâmica
 
 A distribuição de utilização Dynamics retrata a repartição dos assentos disponíveis, assentos ativos e assentos atribuídos por SKUs.
 
-:::image type="content" source="images/pci/pci-dynamics-usage-distribution.png" alt-text="Distribuição de utilização dinâmica":::
+:::image type="content" source="images/pci/pci-dynamics-usage-distribution.png" alt-text="Distribuição de utilização dinâmica.":::
 
 ## <a name="next-steps"></a>Passos seguintes
 

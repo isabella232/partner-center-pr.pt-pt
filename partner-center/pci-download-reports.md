@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 266baf0eb3501cba984ec0fbaed4508366b92b8b
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 6124e20efe16e134c441bb1fd72f022e841083b0
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110152788"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276239"
 ---
 # <a name="download-reports"></a>Transferir relatórios
 
@@ -30,9 +30,9 @@ Uma vez gerado, o relatório estará disponível na secção **de relatórios Ge
 
 Para gerar um relatório, selecione primeiro o relatório do **relatório Select** drop-down. Em seguida, selecione a gama de datas a partir do intervalo de **gama select.** **Selecione Gerar**. O relatório será gerado em formato de valor separado por separados por separados (TSV) e estará disponível para download na secção **relatórios gerados** dentro de poucos minutos. Os relatórios gerados durante os 14 dias anteriores estarão disponíveis para download.
 
-:::image type="content" source="images/pci/create-new-report.png" alt-text="Criar novo relatório":::
+:::image type="content" source="images/pci/create-new-report.png" alt-text="Criar um novo relatório.":::
 
-:::image type="content" source="images/pci/generated-reports.png" alt-text="Relatórios gerados":::
+:::image type="content" source="images/pci/generated-reports.png" alt-text="Relatórios gerados.":::
 
 >[!NOTE] 
 >Apenas os utilizadores que são executivos relatam que os telespectadores podem descarregar relatórios. Para obter mais informações sobre o acesso baseado em funções aos relatórios do dashboard insights, consulte as [funções de PCI](pci-roles.md). 

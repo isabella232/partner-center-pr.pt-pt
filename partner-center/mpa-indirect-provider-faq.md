@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8fc82348ed59dff14b4c98272fb5b77d488ccde0
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 38e74bf7b464a138744318b0405c0ba81b2e9630
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110151496"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276659"
 ---
 # <a name="how-indirect-providers-can-help-their-indirect-resellers-accept-the-microsoft-partner-agreement-mpa"></a>Como os fornecedores indiretos podem ajudar os seus revendedores indiretos a aceitar o Acordo de Parceiros da Microsoft (MPA)
 
@@ -178,7 +178,7 @@ Em caso de problemas, levante um bilhete de [apoio](https://partner.microsoft.co
 A partir **das definições de Conta**, selecione página de perfil **legal** no **separador Parceiro.** Se vir "estado do Programa MPN" no Programa Info, o seu ID MPN está no Centro de Parceiros. Se não vir o "status do Programa MPN" no separador "Parceiro", então ou assinou com a sua conta CSP ou a sua conta MPN ainda não está no Partner Center. Pode ainda ter de migrar a sua conta MPN de PMC para PC.
 
 
-:::image type="content" source="images/legal-info-mpn.png" alt-text="Onde ver informações do programa MPN":::
+:::image type="content" source="images/legal-info-mpn.png" alt-text="Onde ver informações do programa MPN.":::
 
 ## <a name="questions-about-mpn-and-csp-account-verification"></a>Perguntas sobre verificação de contas MPN e CSP
 
@@ -195,14 +195,14 @@ Se não conseguir resolver o problema por conta própria, levante um bilhete de 
 - Para questões de verificação de negócios, crie um pedido de [apoio.](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=52ac28f3-d58f-99d9-9846-3df5a6477c54)  
 - Para questões de verificação de emprego, crie um pedido de [apoio.](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=c34a5c81-a111-476d-11a4-81c808c37a6b)
 
-:::image type="content" source="images/rejected-faq-mpa.png" alt-text="rejeitado":::
+:::image type="content" source="images/rejected-faq-mpa.png" alt-text="rejeitado.":::
 
 
 #### <a name="i-enrolled-in-mpn-program--csp-indirect-reseller-program-but-my-legal-business-profile-verification-status-seems-to-be-stuck-in-the-pending-state-what-should-i-do"></a>Inscrevi-me no programa MPN /CSP Indirect Reseller program mas o meu estado legal de verificação do perfil de negócio parece estar preso no estado pendente. O que devo fazer?
 
 **Resposta**  Se o seu perfil de negócio de revendedor indireto CSP estiver em estado **de qualificação pendente** após mais de cinco dias úteis, levante um bilhete de apoio de dentro do Partner Center clicando no [Partner Center Support](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=345795c0-26bd-dd95-d291-b78ed4a8edce).
 
-:::image type="content" source="images/pending.png" alt-text="Estado está pendente":::
+:::image type="content" source="images/pending.png" alt-text="O estado está pendente.":::
 
 ## <a name="questions-about-working-in-partner-center"></a>Perguntas sobre trabalhar no Partner Center
 
@@ -210,7 +210,7 @@ Se não conseguir resolver o problema por conta própria, levante um bilhete de 
 
 **Resposta** O administrador global da sua empresa deve aceitar a MPA. Para descobrir quem na sua empresa é atribuído o papel de administrador global, vá para a **gestão do Utilizador.** Na caixa de Pesquisa, escreva administração global. Os nomes das pessoas que recebem o papel de administrador global serão puxados para cima. Qualquer uma dessas pessoas pode aceitar a MPA. Se a sua empresa não tiver um administrador global, leia [o que fazer se a sua empresa precisar de um administrador global.](no-mpn-admin.md)
 
-:::image type="content" source="images/user-management-clean.png" alt-text="Como encontrar um administrador global":::
+:::image type="content" source="images/user-management-clean.png" alt-text="Como encontrar um administrador global.":::
 
 
 #### <a name="my-reseller-says-that-in-partner-center-they-dont-see-an-option-to-accept-the-mpa-how-can-i-best-support-them"></a>O meu revendedor diz que no Partner Center não vêem uma opção para aceitar a MPA. Como posso apoiá-los melhor?
@@ -219,7 +219,7 @@ Se não conseguir resolver o problema por conta própria, levante um bilhete de 
 
 1. Vêem a página "Visão Geral" no separador CSP do lado esquerdo? 
 
-:::image type="content" source="images/csp.png" alt-text="Onde localizar cSP no menu Partner Center":::
+:::image type="content" source="images/csp.png" alt-text="Onde localizar o CSP no menu Partner Center.":::
 
 Se não virem "Visão Geral" no menu CSP no menu Partner Center, significa que ainda não se inscreveram no programa CSP. O revendedor terá de iniciar o processo para se inscrever como Revendedor Indireto CSP, como explicou [O Trabalho com fornecedores indiretos no programa CSP](indirect-reseller-tasks-in-partner-center.md). Depois de terminarem a inscrição, poderão aceitar a MPA.
 
@@ -228,7 +228,7 @@ Se não virem "Visão Geral" no menu CSP no menu Partner Center, significa que a
 
 Se o estado for outra coisa, menos **o Ativo,** significa que a verificação do Perfil de Negócio Legal ainda está em curso ou foi rejeitada. Nessa mesma página, o revendedor deverá verificar o estado de Verificação e clicar em **Learn More para corrigir** Isto permite que o revendedor forneça a documentação necessária para proceder à verificação.
 
-:::image type="content" source="images/active-status.png" alt-text="O estado está ativo":::
+:::image type="content" source="images/active-status.png" alt-text="O estado está ativo.":::
 
 Se o seu revendedor precisar de apoio para passar a verificação do perfil de negócios legal, peça-lhes para abrir um bilhete escolhendo estas opções:
 
@@ -243,7 +243,7 @@ Se o seu revendedor precisar de apoio para passar a verificação do perfil de n
 
 2. Vá à **gestão do Utilizador** e verifique se a conta assinada é atribuída à função "Global Admin"? Se não for, não pode ser usado para aceitar MPA. Procure a administração global na caixa de pesquisa na página de gestão do Utilizador e contacte-os para aceitar MPA.
 
-:::image type="content" source="images/user-management-clean.png" alt-text="Identifique o seu papel no Partner Center":::
+:::image type="content" source="images/user-management-clean.png" alt-text="Identifique o seu papel no Partner Center.":::
 
 
 #### <a name="how-do-i-check-if-my-company-has-accepted-the-mpa"></a>Como posso verificar se a minha empresa aceitou a MPA?
@@ -251,18 +251,18 @@ Se o seu revendedor precisar de apoio para passar a verificação do perfil de n
 **Resposta** Inscreva-se no Partner Center com a conta CSP Indirect Reseller.
 Se for um agente de administração ou agente de vendas em CSP, pode ir à página Do Acordo para verificar se o Microsoft Partner Agreement está visível. 
 
-:::image type="content" source="images/agreement-new.png" alt-text="Localizar acordos em definições de Conta":::
+:::image type="content" source="images/agreement-new.png" alt-text="Localizar contratos nas definições de Conta.":::
 
 
 Se você é um administrador global, vá para a página de visão geral da CSP. Se vir o estandarte verde, está preparado para negociar com o Fornecedor Indireto naquela região da CSP. Caso contrário, verá o botão **Aceitar e Continuar** a aceitar MPA e ativar a sua conta CSP.
 
-:::image type="content" source="images/banner-boxed.png" alt-text="Banner verde":::
+:::image type="content" source="images/banner-boxed.png" alt-text="Bandeira verde.":::
 
 #### <a name="i-want-to-accept-mpa-but-i-dont-see-any-place-button-to-accept-terms-to-do-so"></a>Quero aceitar a MPA, mas não vejo lugar (botão para aceitar termos) para o fazer?
 
 **Resposta** Inscreva-se no Partner Center com as suas credenciais de revendedor indireto CSP. Aceda à página geral da CSP.  Se não vir o botão **Aceitar e continuar** e nenhum banner verde dizendo que a MPA é aceite, significa que não tem o papel certo para aceitar a MPA. Tem de contactar o seu administrador global para aceitar a MPA.
 
-:::image type="content" source="images/agreement-two.png" alt-text="Localizar os acordos":::
+:::image type="content" source="images/agreement-two.png" alt-text="Localize os acordos.":::
 
 :::image type="content" source="images/user-management-filter.png" alt-text="{alt-text}":::
 

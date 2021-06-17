@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 13d6e7dc4722227035be2b24df48427f2008bb14
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 3d30f250d6635758f3bef8e06c6f57ba0a0be744
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110151785"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276829"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-delete-a-location"></a>Gerencie as localizações da sua conta MPN e adicione (excluir) uma localização
 
@@ -30,7 +30,7 @@ A Contoso tem a sua conta global Partner (PGA) no Reino Unido. A PGA é o seu ne
 >[!NOTE]
 >Há uma relação 1-1 entre um inquilino da CSP e uma identificação de localização MPN.
 
-:::image type="content" source="images/locations/locations1.png" alt-text="Estrutura das localizações da MPN":::
+:::image type="content" source="images/locations/locations1.png" alt-text="Estrutura de localizações de MPN.":::
 
 ## <a name="prerequisites-in-order-to-add-a-new-account-for-a-csp-business"></a>Pré-requisitos para adicionar uma nova conta para uma empresa de CSP
 
@@ -92,7 +92,7 @@ Atualizar os seguintes campos:
  
 1. Selecione **Localizar adicionar**. Isto criará um novo ID MPN para a nova localização que pode utilizar para transações e incentivos CSP.
 
-:::image type="content" source="images/legal-biz.png" alt-text="Adicione um novo negócio legal":::
+:::image type="content" source="images/legal-biz.png" alt-text="Adicione um novo negócio legal.":::
 
 > [!NOTE]
 > Uma vez que uma localização é adicionada no Partner Center, não é possível removê-la. Verá **MPN** no menu esquerdo do Partner Center se tiver usado o ID MPN correto para iniciar sins.
@@ -143,7 +143,7 @@ Para eliminar uma localização da sua conta, terá de contactar o [Partner Supp
  
 1. Selecione **Mude o seu país** ao lado da lista de drop-down **País/região** e siga os passos. 
 
-:::image type="content" source="images/lbp.png" alt-text="Os dados do perfil de negócio legal voam para fora":::
+:::image type="content" source="images/lbp.png" alt-text="Os dados legais do perfil de negócio saem.":::
 
 5. Selecione **Guardar**.
 

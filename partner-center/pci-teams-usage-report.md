@@ -8,12 +8,12 @@ description: Veja o que está a fazer bem e onde pode melhorar no que diz respei
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: c4bf8a3aa0365b30d7de56cb599e3db087cb4c05
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 230419aa1142dc8c4dd58dc8effee9678527c923
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855187"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277339"
 ---
 # <a name="teams-usage-report-available-from-the-partner-center-insights-dashboard"></a>Relatório de utilização das equipas disponível no painel Partner Center Insights
 
@@ -43,25 +43,25 @@ A secção de resumo apresenta uma visão instantânea dos principais indicadore
 
 - Duração média da reunião (minutos): Duração média da reunião em minutos. 
 
-:::image type="content" source="images/pci/pci-teams-usage-summary.png" alt-text="Resumo de utilização das equipas":::
+:::image type="content" source="images/pci/pci-teams-usage-summary.png" alt-text="Resumo de utilização das equipas.":::
 
 ## <a name="conversations-trend"></a>Tendência de conversas
 
 O relatório de tendência Conversations mostra a tendência mensal das reuniões, chamadas e sistemas telefónicos das Equipas, juntamente com a duração média da reunião em minutos.
 
-:::image type="content" source="images/pci/pci-teams-usage-conversation-trends.png" alt-text="equipas use tendências de conversação":::
+:::image type="content" source="images/pci/pci-teams-usage-conversation-trends.png" alt-text="equipas usuam tendências de conversação.":::
 
 ## <a name="teams-usage-by-workloads"></a>Utilização de equipas por cargas de trabalho
 
 O relatório de utilização das Equipas por cargas de trabalho mostra a divisão mensal de utilizadores de desktop, mobile e web de Equipas divididas por cargas de trabalho.
 
-:::image type="content" source="images/pci/pci-teams-usage-workload.png" alt-text="Utilização de equipas por cargas de trabalho":::
+:::image type="content" source="images/pci/pci-teams-usage-workload.png" alt-text="As equipas são utilização por cargas de trabalho.":::
 
 ## <a name="top-customers-by-usage"></a>Principais clientes por utilização
 
 O relatório de utilização dos principais clientes mostra o uso de clientes de topo para reuniões de equipas, chamadas e sistemas telefónicos e aplicações de terceiros.
 
-:::image type="content" source="images/pci/pci-teams-usage-top-customer.png" alt-text="Principais clientes por utilização":::
+:::image type="content" source="images/pci/pci-teams-usage-top-customer.png" alt-text="Clientes de topo por uso.":::
 
 ## <a name="next-steps"></a>Passos seguintes
 

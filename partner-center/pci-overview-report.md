@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e274b0a637c7fd4944a395ba7e38154e36d2a9e3
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: aea78f2a9b60f5d8adcc7962d15749479424c9f1
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855204"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277492"
 ---
 # <a name="overview-dashboard-reports-available-in-partner-center-insights"></a>Relatórios do painel de avaliação disponíveis no Partner Center Insights
  
@@ -33,7 +33,7 @@ O dashboard Insights Overview fornece uma visão instantânea dos principais ind
 
 O Resumo inclui informações sobre clientes, Azure Consumed Revenue (ACR), subscrições vendidas, subscrições ativas e licenças implementadas. 
 
-:::image type="content" source="images/pci/summary.png" alt-text="Licenças sumárias":::
+:::image type="content" source="images/pci/summary.png" alt-text="Licenças de resumo.":::
 
 Mais informações sobre cada secção do Resumo seguem.
 
@@ -84,19 +84,19 @@ A área **de licenças implantadas** no Resumo inclui:
 
 Esta vista é uma distribuição geográfica do total de clientes, subscrições e licenças por país cliente. Selecione os diferentes separadores para ver cada uma destas insights no mapa. Pode pesquisar e selecionar um país na grelha para ampliar a localização no mapa. Reverta para a vista original premindo o botão Home no mapa. Clicar em cada separador (por exemplo, Clientes, Subscrições) mostra o valor da métrica para cada país e a percentagem de Total para o país.  
 
-:::image type="content" source="images/pci/geosummary.png" alt-text="Resumo geográfico":::
+:::image type="content" source="images/pci/geosummary.png" alt-text="Resumo geográfico.":::
 
 ## <a name="customers-growth-trend"></a>Tendência de crescimento dos clientes
 
 A tendência mensal do total de clientes conta para a gama de datas selecionadas. O eixo X representa meses da gama de datas selecionadas e o eixo Y representa a contagem total do cliente para esse mês. 
 
-:::image type="content" source="images/pci/customergrowth.png" alt-text="tendência de crescimento dos clientes":::
+:::image type="content" source="images/pci/customergrowth.png" alt-text="tendência de crescimento dos clientes.":::
 
 ## <a name="subscriptions-growth-trend"></a>Tendência de crescimento das subscrições
 
 Isto indica que a tendência das subscrições do seu cliente conta para a gama de datas selecionadas. O eixo X representa meses da gama de datas selecionadas e o eixo Y representa a contagem de subscrições do produto selecionado. Percorra o slider no topo da tabela para ampliar a tabela para um período de tempo específico. 
 
-:::image type="content" source="images/pci/subscriptiongrowth.png" alt-text="Tendência de crescimento de subscrição":::
+:::image type="content" source="images/pci/subscriptiongrowth.png" alt-text="Tendência de crescimento de subscrição.":::
 
 ## <a name="azure-consumed-revenue-growth-trend"></a>Tendência de crescimento da receita consumida do Azure
 
@@ -105,13 +105,13 @@ A tendência mensal do Azure consumiu receitas US$ atribuídas a si ao longo da 
 > [!NOTE]
 > O Azure Consumed Revenue (ACR) só será visível para os utilizadores que tenham sido atribuídos o Papel de Visualizador de Relatório Executivo. 
 
-:::image type="content" source="images/pci/azureconsumed.png" alt-text="Consumo azul":::
+:::image type="content" source="images/pci/azureconsumed.png" alt-text="Consumo azul.":::
 
 ## <a name="licenses-growth-trend"></a>Tendência de crescimento das licenças
  
 Tendência das licenças atribuídas por todos os clientes durante o intervalo de datas selecionados. O eixo X representa meses da gama de datas selecionadas e o eixo Y representa a contagem de licenças do produto selecionado. Percorra o slider no topo da tabela para ampliar a tabela para um período de tempo específico.  
 
-:::image type="content" source="images/pci/licensesgrowth.png" alt-text="licenças":::
+:::image type="content" source="images/pci/licensesgrowth.png" alt-text="licenças.":::
 
 ## <a name="next-steps"></a>Passos seguintes
 

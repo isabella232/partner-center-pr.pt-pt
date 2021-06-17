@@ -9,12 +9,12 @@ author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b1b02967209ba36088b0c7bb7487428ab08b8a37
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 9fe1d894ec933072a64f2abdfbb795b6ef046168
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110152584"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276013"
 ---
 # <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>Obrigando à autenticação de vários fatores (MFA) para o seu inquilino parceiro
 
@@ -178,11 +178,11 @@ Todas as aplicações de parceiros que são integradas com estas APIs utilizando
 
 Durante a verificação do MFA, se a conta parceira não tiver registado para MFA antes, a Azure AD solicitará ao utilizador que complete primeiro o registo de MFA:
 
-:::image type="content" source="images/MfaRegistration1.png" alt-text="Passo de registo do MFA 1":::
+:::image type="content" source="images/MfaRegistration1.png" alt-text="Passo de registo do MFA 1.":::
 
 Depois de clicar em **Seguinte,** o utilizador será convidado a escolher entre uma lista de métodos de verificação.
 
-:::image type="content" source="images/MfaRegistration2.png" alt-text="Passo de registo do MFA 2":::
+:::image type="content" source="images/MfaRegistration2.png" alt-text="Passo de registo do MFA 2.":::
 
 Após o registo bem sucedido, o utilizador é então obrigado a completar a verificação de MFA com base na verificação escolhida pelo utilizador.
  

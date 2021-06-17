@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7e48e137de3fc9b3084729e5095223229b87c289
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 85a6a43a1e28a7a6917361dc1fc74cc3d5e8d502
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110152397"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276574"
 ---
 # <a name="locate-your-microsoft-partner-network-benefits"></a>Localize os seus benefícios do Microsoft Partner Network 
 
@@ -35,7 +35,7 @@ Como membro da Microsoft Partner Network, a sua empresa tem acesso a muitos bene
 
    - [Produtos Azure & Cloud](mpn-benefits-azure-cloud.md)
    - [Produtos de software](mpn-benefits-software.md)
-   - [Assinaturas do Estúdio Visual](mpn-benefits-visual-studio.md)
+   - [Subscrições do Visual Studio](mpn-benefits-visual-studio.md)
    - Benefícios técnicos - [Benefícios técnicos de suporte (ID de acesso e ID do contrato)](mpn-benefits-technical-support.md) ou [Pré-Venda Técnica e Serviços de Implantação (TPD)](technical-benefits.md)
    - [Ir ao mercado](mpn-learn-about-go-to-market-benefits.md)
    - [Recompensas do mercado](marketplace-rewards.md)
@@ -43,7 +43,7 @@ Como membro da Microsoft Partner Network, a sua empresa tem acesso a muitos bene
 
 3. Ao expandir (+) um benefício, encontrará informações adicionais para ajudá-lo a ativar o benefício específico.
 
-   :::image type="content" source="images/benefits/expandbenefits.png" alt-text="Benefícios alargados":::
+   :::image type="content" source="images/benefits/expandbenefits.png" alt-text="Benefícios expandidos.":::
 
    > [!NOTE]
    > Para ativar benefícios, deve ser-lhe atribuído o papel de administrador global ou de administrador parceiro MPN no Partner Center. Todos os outros utilizadores de uma empresa, no entanto, devem ser capazes de ver detalhes de benefícios no Partner Center, como iDs de suporte ao produto. Para obter mais informações sobre as funções do Partner Center, consulte [atribuir as funções e permissões do utilizador no Partner Center](permissions-overview.md).

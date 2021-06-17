@@ -9,12 +9,12 @@ author: amitravat
 ms.author: amrava
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 18cc5c62beaa76f6e3ade79f2f2069e0f2bd3c7e
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: a885d8bbbd7541e199365a7c732aba0b67128053
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110149609"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277152"
 ---
 # <a name="manage-subscriptions-and-resources-under-the-azure-plan"></a>Manage subscriptions and resources under the Azure plan (Gerir subscrições e recursos ao abrigo do plano do Azure)
 
@@ -59,11 +59,11 @@ Necessita de acesso administrativo para gerir os serviços do seu cliente e rece
 
 1. Criar alerta.
 
-   :::image type="content" source="images/azure/azurealert1.png" alt-text="alerta azul":::
+   :::image type="content" source="images/azure/azurealert1.png" alt-text="alerta azul.":::
 
 2. Selecione o tipo de ação que deseja que o alerta tome. Por exemplo, se especificar que deseja um e-mail, receberá um e-mail notificando-o caso de ocorrer alguma eliminação de funções.
 
-   :::image type="content" source="images/azure/azureconfigurealert2.png" alt-text="alerta de configuração":::
+   :::image type="content" source="images/azure/azureconfigurealert2.png" alt-text="alerta de configuração.":::
 
 ### <a name="aobo-removal"></a>Remoção do AOBO
 

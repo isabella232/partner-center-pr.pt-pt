@@ -9,12 +9,12 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e3beb1d051d2407229deebbb94b938a8f8b7218e
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 6af4f5f82c145aa932c03a176dbf8592d095a930
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854558"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276285"
 ---
 # <a name="trainings-dashboard"></a>Painel de treinos
 
@@ -34,7 +34,7 @@ O dashboard Trainings fornece informações sobre as certificações, avaliaçõ
 
 A secção de resumo apresenta uma visão instantânea numérica de vários indicadores de desempenho relacionados com os seus treinos. Os vários indicadores de desempenho são Indivíduos Certificados, Certificações, Indivíduos com Credenciais de Exame, Credenciais de Exame, Indivíduos com Credenciais de Avaliação e Credenciais de Avaliação. Os dados desta secção atualizam-se com base na gama de datas selecionadas, que pode ser de três meses (3M), seis meses (6M) e 12 meses (1Y) ou uma gama de dados personalizada (Custom). 
 
-:::image type="content" source="images/pci/td-summary.png" alt-text="Resumo":::
+:::image type="content" source="images/pci/td-summary.png" alt-text="Resumo.":::
 
 - **Indivíduos com certificações:** representa o número de indivíduos distintos com certificações na sua empresa.
 - **Contagem de certificações**: representa o número total de certificações tomadas por indivíduos na sua empresa.
@@ -47,13 +47,13 @@ A secção de resumo apresenta uma visão instantânea numérica de vários indi
 
 O desempenho da formação apresenta a contagem mensal de indivíduos e as formações completadas por indivíduos da sua empresa. É dividido por certificações, avaliações e exames sob a forma de um gráfico para a gama de datas selecionadas. O eixo X representa os meses para o intervalo de datas selecionado. O eixo Y representa a contagem distinta de indivíduos e o número de treinos realizados, para o tipo de formação selecionado. Selecione os respetivos separadores acima da tabela para ver a avaria por tipo de treino. Os dados do gráfico podem ser descarregados através do ícone de descarregamento em formato .tsv para a gama de datas selecionadas.
 
-:::image type="content" source="images/pci/td-training-performance.png" alt-text="Performance de Formação":::
+:::image type="content" source="images/pci/td-training-performance.png" alt-text="Performance de treino.":::
 
 ## <a name="individuals-performance"></a>Desempenho dos indivíduos
 
 A secção de desempenho dos Indivíduos apresenta os detalhes da formação realizada por indivíduos na sua empresa, para a gama de datas selecionadas. Pesse e selecione o nome de um indivíduo no painel esquerdo da secção. Os detalhes da formação para o indivíduo selecionado são apresentados no painel direito da secção.
 
-:::image type="content" source="images/pci/td-indiviual-performance.png" alt-text="Desempenho Indiviual":::
+:::image type="content" source="images/pci/td-indiviual-performance.png" alt-text="Performance indiviual.":::
 
 >[!NOTE] 
 > A secção de desempenho individual está disponível apenas para utilizadores que sejam espectadores de relatórios executivos. 

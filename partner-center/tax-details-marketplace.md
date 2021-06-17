@@ -6,12 +6,12 @@ ms.service: partner-dashboard
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 04/26/2021
-ms.openlocfilehash: 5ba7e5a4713c3cb92e7c5b8eee8e0370c8099d14
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 06abd261e4d71b2e5e37eb2d77c1e62794c99a95
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110152754"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277764"
 ---
 # <a name="tax-details-for-commercial-marketplace-publishers"></a>Informações fiscais para publicadores do marketplace comercial
 
@@ -132,29 +132,29 @@ A Microsoft cobra imposto sobre as taxas de loja nos seguintes países onde edit
 
 - Cenário dois: Cliente numa oferta de compras por país gerida pela Microsoft (país editor irrelevante)
 
-  :::image type="content" source="images/tax/scenario-two.png" alt-text="Gráfico que mostra a tributação no país gerido pela Microsoft":::
+  :::image type="content" source="images/tax/scenario-two.png" alt-text="Gráfico que mostra a tributação no país gerido pela Microsoft.":::
 
 - Cenário três: Editora estrangeira faz uma venda transfronteiriça a um cliente registado ue-IVA localizado num país gerido pela Microsoft
 
-  :::image type="content" source="images/tax/scenario-three.png" alt-text="Gráfico que mostra como a UE-IVA afeta o imposto"::: 
+  :::image type="content" source="images/tax/scenario-three.png" alt-text="Gráfico que mostra como a UE-IVA afeta os impostos."::: 
 
 - Cenário quatro: Editora estrangeira faz uma venda doméstica a um Cliente localizado num país gerido pela Microsoft ou uma venda não doméstica a um cliente na Suíça
 
-  :::image type="content" source="images/tax/scenario-four.png" alt-text="Gráfico mostrando como o IVA é tratado":::
+  :::image type="content" source="images/tax/scenario-four.png" alt-text="Gráfico que mostra como o IVA é tratado.":::
 
 - Cenário cinco: Cliente numa oferta de compras de país gerido pela Microsoft onde há imposto sobre a Taxa de Serviço da Loja
 
-  :::image type="content" source="images/tax/scenario-five.png" alt-text="Gráfico mostrando como a taxa de serviço da Loja afeta o imposto":::
+  :::image type="content" source="images/tax/scenario-five.png" alt-text="Gráfico mostrando como a taxa de serviço da Loja afeta o imposto.":::
 
 ### <a name="withholding-tax"></a>Retenção na fonte
 
 - Cenário um: Editor estrangeiro (sem benefícios fiscais aplicáveis no perfil fiscal) faz venda a clientes dos EUA. 
 
-  :::image type="content" source="images/tax/withholding-one.png" alt-text="Gráfico mostrando retenção na fonte fiscal sem tratado fiscal":::
+  :::image type="content" source="images/tax/withholding-one.png" alt-text="Gráfico mostrando retenção na fonte sem tratado fiscal.":::
 
 - Cenário dois: Editor estrangeiro (com benefícios fiscais aplicáveis no perfil fiscal a taxa de zero por cento) com um tratado faz a venda a clientes dos EUA. 
 
-  :::image type="content" source="images/tax/withholding-two.png" alt-text="Gráfico mostrando retenção na fonte com tratado fiscal":::
+  :::image type="content" source="images/tax/withholding-two.png" alt-text="Gráfico mostrando retenção na fonte com tratado fiscal.":::
 
 ## <a name="next-steps"></a>Passos seguintes
 

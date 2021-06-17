@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7dab3469b885f693ba8498e8a07eb120b8f07021
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 1693545449abf33bc7a4f5216b7d6ef0d5713829
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110147212"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276863"
 ---
 # <a name="use-analytics-to-learn-more-about-subscription-revenue"></a>Use a análise para saber mais sobre as receitas de subscrição
 
@@ -29,7 +29,7 @@ O planeamento de formas de desenvolver o seu negócio CSP inclui compreender com
 
 1. As receitas de 12 meses do CSP serão exibidas no topo da página
 
-:::image type="content" source="images/analytics/subscription1.png" alt-text="Ecrã de assinatura":::
+:::image type="content" source="images/analytics/subscription1.png" alt-text="Ecrã de assinatura.":::
 
 ## <a name="trailing-twelve-month-ttm-csp-revenue"></a>Receitas da CSP de Twelve-Month (TTM)
 

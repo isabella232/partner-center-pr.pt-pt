@@ -9,12 +9,12 @@ author: khpavan
 ms.author: sakhanda
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5ab086a4d15d16f094e33d19b81f1c93711916dc
-ms.sourcegitcommit: e0444145d7720df948b9d02ae2469206db48dba5
+ms.openlocfilehash: 725050d370d1266205f979aa6317768d05ae5c4c
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110201430"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277186"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>Nova experiência comercial no CSP – faturação do Azure 
 
@@ -48,7 +48,7 @@ Para aceder à fatura e ao ficheiro de reconciliação:
 
 3. Selecione o separador para o **Recorrente** e **uma vez** e a moeda em que está interessado.
 
-   :::image type="content" source="images/azure/billing3.png" alt-text="faturação":::
+   :::image type="content" source="images/azure/billing3.png" alt-text="faturação.":::
 
 4. Selecione o ficheiro **Fatura** ou **Reconciliação.**  
 
@@ -102,7 +102,7 @@ Para aceder à fatura e ao ficheiro de reconciliação:
 
 5. Reveja o ficheiro de reconhecimento de fatura e o ficheiro de utilização nominal diário para obter detalhes adicionais de faturação.
 
-   :::image type="content" source="images/azure/invoice1.png" alt-text="fatura":::
+   :::image type="content" source="images/azure/invoice1.png" alt-text="fatura.":::
 
 ## <a name="read-the-invoice-reconciliation-file"></a>Leia o ficheiro de reconciliação da fatura
 
@@ -133,7 +133,7 @@ Para aceder à fatura e ao ficheiro de reconciliação:
 
   - O medidor qualificado para **Partner ganhou crédito por serviços geridos** de 7/8 - 7/31 (note que o preço unitário efetivo é o preço de venda a retalho menos parceiro ganho crédito).
 
-   :::image type="content" source="images/azure/pecfinal.png" alt-text="recon2":::
+   :::image type="content" source="images/azure/pecfinal.png" alt-text="recon2.":::
 
 ## <a name="invoice-in-customer-currency"></a>Fatura em moeda de cliente
 
@@ -157,7 +157,7 @@ A experiência de gastos azure existente é atualizada para apoiar a nova fatura
 
 Uma vez que o modelo de faturação dos serviços Azure através de um plano Azure é o consumo pós-pagamento, para evitar uma fatura maior do que o previsto, os parceiros podem aplicar um orçamento mensal e acompanhar a percentagem de utilização. Um orçamento pode ser aplicado a um cliente ou a vários clientes de uma só vez. 
 
-:::image type="content" source="images/azure/azurespend.png" alt-text="Despesas do Azure":::
+:::image type="content" source="images/azure/azurespend.png" alt-text="Gastos azure.":::
 
 ## <a name="next-steps"></a>Passos seguintes
 

@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 63aea520279dc6d126253969cb3175a253b9b3c6
-ms.sourcegitcommit: 837d3c5b52ab056b2b761cd85eb2426f56b62614
+ms.openlocfilehash: 8674dfa337f0620b6c916f685fced9882134032a
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109795028"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276370"
 ---
 # <a name="receive-credit-on-your-partner-center-account-for-tax-withholding"></a>Receba crédito na sua conta partner center para retenção na fonte de impostos
 
@@ -39,18 +39,18 @@ Siga estas medidas para submeter uma nova retenção na fonte fiscal:
 
 3. Clique **em Enviar novo** ao lado da fatura para a fatura para a quais pretende submeter um apuramento. O novo link de submissão irá levá-lo à página **de pedido de retenção na fonte de imposto.**
 
-   :::image type="content" source="images/wht1.png" alt-text="Apresentar nova retenção na fonte de imposto para uma fatura":::
+   :::image type="content" source="images/wht1.png" alt-text="Submeter nova retenção na fonte de imposto para uma fatura.":::
 
 4. Reveja os dados da fatura para garantir que está a enviar o pedido para a fatura correta.
 
-   :::image type="content" source="images/wht2.png" alt-text="Detalhes completos da retenção na fonte de impostos para uma fatura":::
+   :::image type="content" source="images/wht2.png" alt-text="Detalhes completos da retenção na fonte de impostos para uma fatura.":::
 
 5. Introduza o "Total de Retenção na Fonte" em **detalhes de retenção na fonte fiscal**. O "Total de Retenção" é o valor que espera ser creditado.
 
 6. **Anexar** um certificado fiscal. Terá de incluir uma **cópia digital** do seu certificado de **retenção** na fonte no seu pedido de retenção na fonte fiscal. Recebeu este certificado da sua agência tributária local quando paga os seus impostos à sua autoridade tributária local. O valor do imposto sobre a fatura no certificado de retenção na fonte deve corresponder ao valor total do seu pedido de retenção na fonte.
 
    > [!IMPORTANT]
-   > O valor total que o parceiro fornece deve corresponder à rubrica da fatura do certificado fiscal anexo. Os ficheiros de certificados fiscais anexados devem estar num dos seguintes formatos de ficheiro: . APENAS PDF ou Imagem (. JPEG, . PNG e . GIF). Além disso, os nomes dos ficheiros não devem conter espaços ou caracteres especiais. Os tamanhos dos ficheiros não podem exceder 1 MB.
+   > O valor total que o parceiro fornece deve corresponder à rubrica da fatura do certificado fiscal anexo. Os ficheiros de certificados fiscais anexados devem estar num dos seguintes formatos de ficheiro: .PDF ou Imagem apenas (. JPEG, .PNG e .GIF). Além disso, os nomes dos ficheiros não devem conter espaços ou caracteres especiais. Os tamanhos dos ficheiros não podem exceder 1 MB.
 
 7. **Submeta** o pedido de retenção na fonte.
 

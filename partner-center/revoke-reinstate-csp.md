@@ -9,12 +9,12 @@ author: dhirajgandhi
 ms.author: dhgandhi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 90c8f413398fcb9f65f7fef402a1cdcd092abbc4
-ms.sourcegitcommit: 212471150efc8fd2c30023bc6a981a7e052e79ef
+ms.openlocfilehash: 81df7578f7f15def64a3c20b15f95f3b89a28d1c
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/11/2021
-ms.locfileid: "112025960"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277781"
 ---
 # <a name="reinstate-admin-privileges-for-a-customers-azure-csp-subscriptions"></a>Repor privilégios de administração para subscrições Azure CSP de um cliente  
 
@@ -41,7 +41,7 @@ O seu cliente pode recriar a atribuição de funções CSP se fornecer `object I
 
 4. O seu cliente precisa de selecionar o link e aprovar o pedido de relacionamento do revendedor.
 
-   :::image type="content" source="images/azure/revoke4.png" alt-text="Exemplo de e-mail de criar relacionamento revendedor":::
+   :::image type="content" source="images/azure/revoke4.png" alt-text="Exemplo de e-mail de criar relacionamento revendedor.":::
 
 5. Você, o parceiro, precisa de se conectar com o inquilino parceiro para obter o Objeto ID do grupo AdminAgents.
   

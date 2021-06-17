@@ -8,12 +8,12 @@ description: Veja o que está a fazer bem e onde pode melhorar no que diz respei
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 685dce8d521bc27b9b91efd5206e9da0d7e45f34
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: e1b60c96bad5d3bf514bdfb36d36a733364e6c92
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854609"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277815"
 ---
 # <a name="office-365-usage-report-available-from-the-partner-center-insights-dashboard"></a>Relatório de utilização do Office 365 disponível no painel de insights do Centro de Parceiros
 
@@ -46,7 +46,7 @@ A secção de resumo apresenta uma visão instantânea dos principais indicadore
 
    O Micro chart apresenta uma tendência mensal de utilizadores ativos mensais durante o período de tempo selecionado.
 
-:::image type="content" source="images/pci/pci-o365-usage-summary.png" alt-text="Resumo de utilização do Office 365":::
+:::image type="content" source="images/pci/pci-o365-usage-summary.png" alt-text="Resumo de utilização do Office 365.":::
 
 ## <a name="office-365-usage-by-geography"></a>Utilização do Office 365 por geografia
 
@@ -57,25 +57,25 @@ O **número de países/tabela de região** apresenta o total de países/regiões
 Pode pesquisar e selecionar um país na grelha para ampliar a localização no mapa. Selecione a opção **Casa** no mapa para reverter para a vista original.
 
 
-:::image type="content" source="images/pci/pci-o365-usage-geography.png" alt-text="Utilização do Office 365 por geografia":::
+:::image type="content" source="images/pci/pci-o365-usage-geography.png" alt-text="Escritório 365 uso por geografia.":::
 
 ## <a name="office-365-usage-by-workload"></a>Utilização do Office 365 por carga de trabalho
 
 O uso do Office 365 por carga de trabalho retrata a desagregação da MAU e da PAU por cargas de trabalho.
 
-:::image type="content" source="images/pci/pci-o365-usage-workload.png" alt-text="Utilização do Office 365 por carga de trabalho":::
+:::image type="content" source="images/pci/pci-o365-usage-workload.png" alt-text="Utilização do Escritório 365 por carga de trabalho.":::
 
 ## <a name="subscriptions-performance"></a>Desempenho das assinaturas
 
 O desempenho das Subscrições retrata a Desagregação da MAU e pau por cargas de trabalho por cliente. Os dados para os 100 principais clientes por receita faturada são apresentados na tabela e pode pesquisar por qualquer cliente ou descarregar os dados brutos para ver detalhes para todos os clientes.
 
-:::image type="content" source="images/pci/pci-o365-usage-subscription.png" alt-text="Desempenho da subscrição do Office 365":::
+:::image type="content" source="images/pci/pci-o365-usage-subscription.png" alt-text="Desempenho de subscrição do Office 365.":::
 
 ## <a name="office-365-usage-distribution"></a>Distribuição de utilização do Office 365
 
 A distribuição de utilização do Office 365 retrata a Desagregação da PAU e das Assinaturas por SKUs.
 
-:::image type="content" source="images/pci/pci-o365-usage-distribution.png" alt-text="Distribuição de utilização do Office 365":::
+:::image type="content" source="images/pci/pci-o365-usage-distribution.png" alt-text="Distribuição de utilização do Office 365.":::
 
 ## <a name="next-steps"></a>Passos seguintes
 

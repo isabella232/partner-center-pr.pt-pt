@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 81d93e2e8b2ed47f785ae33be14dd03c75c8a1d7
-ms.sourcegitcommit: 02a839b61265c3162e041c8894575d3b5345f020
+ms.openlocfilehash: eb81cf9caaaf9d5c64168b39e52ad010c50630cd
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/01/2021
-ms.locfileid: "110724501"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276030"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-cloud-business-applications-competency"></a>Utilizar Indicadores de Contribuição de Parceiros para obter a competência Business Applications da Cloud
 
@@ -385,7 +385,7 @@ Para ver os gráficos e progressos dos indicadores de contribuição dos seus pa
 
    Deve ver o painel de indicadores de contribuição do parceiro com gráficos associados.
 
-   :::image type="content" source="images/pci/howto.png" alt-text="Como ler o gráfico":::
+   :::image type="content" source="images/pci/howto.png" alt-text="Como ler a ficha.":::
 
    > [!NOTE]
    > Se não vir estas opções, tente selecionar **MPN** do menu, seguido de **Indicadores de Contribuição de Parceiros**. Se ainda não conseguir encontrar estas opções, poderá não ter a função de utilizador adequada atribuída no Partner Center. Contacte o seu administrador partner Center Global ou o administrador do parceiro MPN para obter ajuda.

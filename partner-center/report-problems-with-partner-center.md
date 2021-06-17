@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5d71d3efe10d38cfc0b5ce8dd60c3c51e2be9f1b
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 07ff4df4b6d91b84af40e9b2b32d991f4ad09062
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855612"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277798"
 ---
 # <a name="partner-center-portal-requests-and-diagnostic-tool"></a>Pedidos de portal do Centro parceiro e ferramenta de diagnóstico
 
@@ -43,23 +43,23 @@ Contacte o Suporte ao Centro de Parceiros se encontrar problemas ou precisar de 
 
 Se o seu problema requer uma conversa com o seu advogado de apoio, pode agendar a marcação a partir dos detalhes do seu bilhete.
 
-:::image type="content" source="images/support/ticket.png" alt-text="Agende uma nomeação de apoio":::
+:::image type="content" source="images/support/ticket.png" alt-text="Agende uma consulta de apoio.":::
 
 1.  Na página de detalhes do bilhete no Partner Center, selecione uma data e hora disponíveis no calendário do advogado de apoio. Só verá datas e horários disponíveis no seu fuso horário local.
 
-:::image type="content" source="images/support/ticket2.png" alt-text="Marcação de horários":::
+:::image type="content" source="images/support/ticket2.png" alt-text="Marcação.":::
 
 2. O Partner Center verifica o calendário do advogado de apoio para disponibilidade.
 
 1. Quando marca uma marcação, o Partner Center envia-lhe um convite de calendário com informações sobre como o advogado de apoio irá contactá-lo, para que possa acompanhar esta nomeação no seu próprio calendário de trabalho.  Enquanto esta capacidade ainda estiver em Pré-visualização, o e-mail e o convite do calendário serão em inglês, mas o advogado poderá apoiá-lo no idioma que selecionou ao criar o seu bilhete.
 
-:::image type="content" source="images/support/ticket3.png" alt-text="Data e hora":::
+:::image type="content" source="images/support/ticket3.png" alt-text="Data e hora.":::
 
 ## <a name="hours-of-operation"></a>Horas de funcionamento
 
 **Apoio a parceiros**
 
-:::image type="content" source="images/support/hoop.png" alt-text="Horário de funcionamento de apoio":::
+:::image type="content" source="images/support/hoop.png" alt-text="Horas de apoio de funcionamento.":::
 
 ## <a name="send-diagnostics"></a>Enviar diagnósticos
 

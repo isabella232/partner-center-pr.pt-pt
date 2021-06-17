@@ -9,12 +9,12 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6c5acad01490ca679fa0761aa015fe0142e476bd
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 19b9378e3e2de0742ea6bc7d6fb96cf58bd5c3de
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110146379"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277713"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Gerir a sua conta Partner Center - perfil da empresa, informações bancárias, funções, permissões e muito mais
 
@@ -31,7 +31,7 @@ Ver artigos [Convide os colaboradores a juntarem-se ao Partner Center](guide-to-
 
 Todos os parceiros comerciais e desenvolvedores acedem à **gestão de conta** no Partner Center, assinando no painel de [instrumentos](https://partner.microsoft.com/dashboard) partner Center e selecionando **Definições** (o ícone de engrenagem) no canto superior direito do ecrã e, em seguida, **definições** de Conta . Já não tem de escolher entre as definições de Partner e Developer. Todos os perfis e configurações estão agora combinados.
 
-:::image type="content" source="images/accountsettings/opening.png" alt-text="ícone de definições":::
+:::image type="content" source="images/accountsettings/opening.png" alt-text="ícone de definições.":::
 
 Isto mostra a página de definições de conta.
 
@@ -45,7 +45,7 @@ Quer seja um parceiro ou um desenvolvedor, use o seu ID MPN para coisas como reg
 
 Quando seleciona o ícone **Definições** e abre o menu **de definições de Conta,** a vista padrão, se a sua empresa fizer parte do programa Cloud Solution Provider, é **informação legal** que mostra dois separadores, **Parceiro** e **Revendedor**. Cada aba inclui aspetos do seu negócio.
 
-:::image type="content" source="images/accountsettings/reseller.png" alt-text="Menu mostra separadores para Parceiros e Revendedores":::
+:::image type="content" source="images/accountsettings/reseller.png" alt-text="O menu mostra separadores para Parceiros e Revendedores.":::
 
 O separador Partner inclui todas as informações legais de negócio, tais como nome legal registado e endereço para a sua empresa, bem como contacto primário e localizações empresariais. O separador Revendedor para parceiros que fazem negócios CSP inclui o perfil de suporte ao **Cliente.**
 
@@ -55,7 +55,7 @@ Se a sua empresa não participar na CSP, a vista predefinida mostrará apenas o 
 
 Pode fazer parte de mais de uma conta. Pode verificar se faz parte de várias contas pela presença do "apanhador de contas" no menu de navegação à esquerda.
 
-:::image type="content" source="images/accountsettings/picker-one.png" alt-text="Identifique o apanhador de contas":::
+:::image type="content" source="images/accountsettings/picker-one.png" alt-text="Identifique o apanhador de contas.":::
 
 Se não vir o apanhador de contas, faz parte de uma única conta. 
 
@@ -63,7 +63,7 @@ Ao selecionar este selecionador, todas as contas de que faz parte aparecem como 
 
 No exemplo abaixo, o utilizador inscrito faz parte das três contas destacadas. O utilizador pode alternar entre eles clicando numa conta.
 
-:::image type="content" source="images/accountsettings/picker-two.png" alt-text="As contas em que faz parte":::
+:::image type="content" source="images/accountsettings/picker-two.png" alt-text="As contas de que faz parte.":::
 
 ## <a name="organization-profile"></a>Perfil da organização
 

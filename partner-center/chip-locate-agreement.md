@@ -9,12 +9,12 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 64dbbbae0087275fa8d0c5fd4f364079623efe63
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 288e4ebb224d3ff1b0d4050691b733e678ec29a3
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110148997"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276947"
 ---
 # <a name="locate-the-desktop-count-and-fee-level-for-an-agreement"></a>Localizar a contagem de computadores e o nível de honorários de um contrato
 
@@ -65,13 +65,13 @@ Depois de procurar o número do contrato em explore.ms utilizando os passos acim
 
 2. Na página Resumo do Pagamento do **Parceiro,** selecione o mês de reporte que pretende visualizar e, em seguida, selecione **Detalhes** de Cálculo a partir do dropdown em **Exportação para Excel**:
 
-:::image type="content" source="images/chip/chiplocate.png" alt-text="Localizar detalhes do programa":::
+:::image type="content" source="images/chip/chiplocate.png" alt-text="Localize os detalhes do programa.":::
 
 3. A exportação começará e poderá abrir o ficheiro ou guardar/guardar quanto a um destino.
 
 4. Quando o relatório estiver aberto, navegue para o **separador DetailsReport-FlatFile** no fundo da esquerda:
 
-:::image type="content" source="images/chip/flatfile.png" alt-text="Download de ficheiros planos":::
+:::image type="content" source="images/chip/flatfile.png" alt-text="Download de ficheiros planos.":::
 
 Agora pode pesquisar o número do contrato que procura na coluna J. e encontrará a contagem de ambiente de trabalho atribuída na coluna R, marcada Agreement_DesktopCount. Também pode confirmar o Nível de Taxa para este acordo na coluna 'AI' etiquetada Tier.
 

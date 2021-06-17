@@ -9,12 +9,12 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1b1b89841faf77a78c8cc268357daaaf95307223
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 9d0cff4883e084ccc0acb37d8c3119d91e3f5530
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855408"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276455"
 ---
 # <a name="how-to-sell-offers-to-education-customers-and-how-to-create-an-education-customer-in-partner-center"></a>Como vender ofertas a clientes de educação e como criar um cliente de educação no Partner Center
 
@@ -39,11 +39,11 @@ Este artigo explica como criar um cliente de educação no Partner Center e vend
 
 3. Quando terminar, selecione **'Reveja'.**
 
-   :::image type="content" source="images/eduaccountinfo.png" alt-text="Conta de cliente de educação":::
+   :::image type="content" source="images/eduaccountinfo.png" alt-text="Conta de cliente de educação.":::
 
 4. Após confirmar **o Review,** receberá um estado **InReview** se as informações submetidas forem válidas. 
 
-    :::image type="content" source="images/edu/create-review.png" alt-text="Conta de cliente de educação em revisão"lightbox="images/edu/create-review-expanded.png":::
+    :::image type="content" source="images/edu/create-review.png" alt-text="Conta de cliente de educação em revisão."lightbox="images/edu/create-review-expanded.png":::
 
 ### <a name="confirm-your-education-customers-verification-status"></a>Confirme o estado de verificação do seu cliente de educação
 
@@ -52,19 +52,19 @@ Exemplos de estado:
 
 - Se o cliente passou a verificação: Educação
 
-   :::image type="content" source="images/edupassedvetting.png" alt-text="A verificação da educação foi bem sucedida":::
+   :::image type="content" source="images/edupassedvetting.png" alt-text="A verificação da educação foi um sucesso.":::
 
 - Se o cliente não passou a verificação: Não é um cliente de educação
 
-   :::image type="content" source="images/edu/fail-reason.png" alt-text="A verificação da educação não foi bem sucedida" lightbox="images/edu/fail-reason-expanded.png":::
+   :::image type="content" source="images/edu/fail-reason.png" alt-text="A verificação da educação não foi bem sucedida." lightbox="images/edu/fail-reason-expanded.png":::
 
 - Se o cliente não foi marcado como um cliente de Educação: Nenhum
 
-   :::image type="content" source="images/edu/account-one.png" alt-text="cliente de educação não é marcado como tal" lightbox="images/edu/account-one-expanded.png":::
+   :::image type="content" source="images/edu/account-one.png" alt-text="o cliente da educação não é marcado como tal." lightbox="images/edu/account-one-expanded.png":::
 
 - Se o cliente estiver em revisão como cliente da Educação: Em revisão
 
-    :::image type="content" source="images/edu/in-review.png" alt-text="cliente de educação está em revisão" lightbox="images/edu/in-review-expanded.png":::
+    :::image type="content" source="images/edu/in-review.png" alt-text="o cliente da educação está em revisão." lightbox="images/edu/in-review-expanded.png":::
 
 ## <a name="correct-the-customer-account-info-and-resubmit-for-verification"></a>Corrija a informação da conta do cliente e reenvia para verificação
 

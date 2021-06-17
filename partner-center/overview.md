@@ -8,12 +8,12 @@ description: Use partner Center para transar negócios com a Microsoft e os seus
 author: laurabrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: 7d476404bbfdb5814f325b7fdafd34d44780fb66
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: dc34044753b540545086113e356e194c3c99138a
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110151122"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277662"
 ---
 # <a name="what-is-partner-center"></a>O que é o Centro de Parceiros?
 
@@ -31,7 +31,7 @@ ms.locfileid: "110151122"
 - Contactar o suporte
 - Publicar ou explorar ofertas no mercado comercial da [Microsoft,](/azure/marketplace)um catálogo de milhares de serviços e aplicações transacionáveis voltadas para o cliente, construídos e entregues pelos nossos parceiros independentes de fornecedores de software (ISV).
 
-:::image type="content" source="images/home.png" alt-text="Visão geral do Centro de Parceiros":::
+:::image type="content" source="images/home.png" alt-text="Visão geral do Centro de Parceiros.":::
 
 ## <a name="manage-your-account"></a>Gerir a sua conta
 
@@ -68,7 +68,7 @@ Aceda a vários tipos diferentes de relatórios de dados do painel de instrument
 - Indicadores de Contribuição de Parceiros (PCI) mostram impacto dos parceiros em sete medidas-chave de sucesso do cliente
 - Os relatórios de dados da Partner Insights identificam onde as suas vendas são elevadas, ajudam-no a descobrir quais os clientes que implementaram as suas subscrições ou precisam de apoio, e mostram o quão bem os seus produtos estão a vender.
 
-:::image type="content" source="images/pci/pci-licenses-report-license-adds-3.png" alt-text="Determine onde estão as suas licenças":::
+:::image type="content" source="images/pci/pci-licenses-report-license-adds-3.png" alt-text="Determine onde estão as suas licenças.":::
 
 ## <a name="next-steps"></a>Passos seguintes
 

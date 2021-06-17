@@ -9,12 +9,12 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6d8e73e664d400e8e6d80e529326e566c5fd88a8
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 1bc7973c3970d7c7258ab8645c72570b09d698e1
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110149575"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277119"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Lista de preços da nova experiência comercial no CSP para Azure
 
@@ -35,7 +35,7 @@ A tabela de preços para a nova experiência de comércio Azure na CSP é public
 
 4. Ao lado **do Preço para data**, selecione a data desejada, por exemplo, **Corrente**.
 
-   :::image type="content" source="images/azure/pricingnew.png" alt-text="país específico":::
+   :::image type="content" source="images/azure/pricingnew.png" alt-text="país específico.":::
 
 >[!NOTE] 
 >Pode exportar duas listas de preços diferentes - preços do plano Azure e preços de terceiros do Marketplace.

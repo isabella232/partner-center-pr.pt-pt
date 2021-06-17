@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 44574f49d49a8300c65432463de16841af483ca4
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 6c617d3bde3bbfe17896631b3c761c01fe2f299a
+ms.sourcegitcommit: cc9e47219f6e2cdf77118b5c8986e86ebecfe260
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110150510"
+ms.lasthandoff: 06/16/2021
+ms.locfileid: "112125978"
 ---
 # <a name="use-partner-center-to-apply-for-advanced-specializations-and-check-their-status"></a>Use o Partner Center para solicitar especializações avançadas e verificar o seu estado
 
@@ -64,6 +64,10 @@ Especializações avançadas que requerem uma auditoria com um auditor de tercei
 - Microsoft Windows Virtual Desktop
 - Modernização de Aplicações Web para o Microsoft Azure
 - Migração do Windows Server e SQL Server para o Microsoft Azure
+- IA e Machine Learning no Microsoft Azure
+- Infraestrutura de nuvem híbrida com Microsoft Azure Stack HCI
+- Operações híbridas e gestão com o Microsoft Azure Arc
+- Solução Microsoft Azure VMware
 
 As especializações avançadas que requerem referências ao cliente incluem:
 
@@ -74,6 +78,13 @@ As especializações avançadas que requerem referências ao cliente incluem:
 - Implementação do Teamwork
 - Gestão de Acesso e Identidades
 - Proteção Contra Ameaças
+- Proteção e Governação da Informação
+- Segurança na Cloud
+
+Especializações avançadas que não requerem uma auditoria ou referência ao cliente incluem:
+
+- Desenvolvimento de Aplicações de Código Baixo
+- Gestão de Empresas Pequenas e Médias
 
 As seguintes secções descrevem como agendar uma auditoria ou fornecer referências ao cliente no Partner Center.
 
@@ -113,6 +124,75 @@ Em seguida, siga estes passos para fornecer referências ao cliente no Partner C
    :::image type="content" source="images/advancedspecializations/as-2.png" alt-text="Experimente a página de pré-requisitos de especializações avançadas que requer referências ao cliente.":::
 
 4. Até conhecer todos os pré-requisitos apresentados nesta página e fornecer referências ao cliente, o seu estado permanecerá **não iniciado**. Uma vez cumpridos todos os pré-requisitos, o seu estado mudará para **Ative**.
+
+## <a name="how-azure-consumption-revenue-acr-is-calculated-for-each-advanced-specialization"></a>Como a Azure Consumption Revenue (ACR) é calculada para cada especialização avançada:
+
+- Associações parceiro-cliente incluídas: [Parceiro Digital da](https://support.microsoft.com/topic/link-a-partner-id-for-azure-performance-pal-or-dpor-a8eed43b-82a8-f017-3b1a-f9c8aa385d32) Associação Record a um cliente, ou parceiro de conta direta CSP ou revendedor indireto CSP para uma associação de clientes ou Partner [Admin Link (PAL)](/azure/cost-management-billing/manage/link-partner-id) a um cliente.
+- O ACR de subscrições com tipos de ofertas Os programas Trial, Benefits, Support e Internal não são contabilizados para a especialização avançada.
+
+**Campos de receitas do consumo Azure**
+
+| Nome do Campo | Descrição do campo |
+|-------------|----------------------|
+| Nível de Serviço 1 | Nível mais alto em que os Serviços Azure estão agregados (ver: https://azure.microsoft.com/services/) . |
+| Nível de Serviço 2 | Segundo nível mais alto serviços Azure (por exemplo: https://azure.microsoft.com/pricing/) |
+| Nível de Serviço 3 | Terceiro nível mais alto serviços Azure (por exemplo: https://azure.microsoft.com/pricing/details/virtual-machines/linux/) |
+| Nível de Serviço 4 | Quarto Nível Mais Alto Serviços Azure (por exemplo: https://azure.microsoft.com/pricing/details/virtual-machines/linux/) |
+| Grupo de Serviço 2 | Agrupamento de serviços da Azure de acordo com uma categoria de serviço |
+| Grupo de Serviço 3 | Agrupamento de serviços da Azure de acordo com uma subcategoria de serviço |
+| Influenciador de Serviço | Agrupamento de serviços da Azure mapeados para uma atividade específica de consumo |
+| Compute OS | Sistema Operativo Compute |
+| Compute Core Software | Compute Core Software |
+
+**Filtros de receitas de consumo Azure para especialização avançada**
+
+- Migração do Data Warehouse para o Microsoft Azure
+    - SQL DW ACR : Nível de serviço 1 = Bases de Dados e Nível de Serviço 2 = SqL Data Warehouse
+- Kubernetes no Microsoft Azure
+    - Serviço Azure Kubernetes (AKS) ACR : Influencer de serviço = AKS , AKS-Engine
+- Desktop Virtual do Microsoft Windows
+    - Windows Virtual Desktop ACR : Influencer de serviço = NATIVE WVD
+- Modernização de Aplicações Web para o Microsoft Azure
+    - Azure App Service ACR : Nível de serviço 1 = Computação e Nível de Serviço 2 = Serviço de Aplicações Azure
+- Analytics no Microsoft Azure
+    - Azure Synapse Analytics ACR : Grupo de Serviço 3 = SQL DW
+    - Data Lake ACR : Grupo de serviço 3 = Lago de Dados Azure
+    - Databricks ACR: Grupo de serviço3 = Databricks, Databricks VM
+    - Azure Data Factory ACR: Grupo de serviço3 = Fábrica de Dados  
+- Infraestrutura de nuvem híbrida com Microsoft Azure Stack HCI
+    - Azure Stack HCI ACR : Nível de serviço 2 = Azure Stack HCI
+- Solução Microsoft Azure VMware
+    - Azure VMware Solutions (AVS) ACR : Nível de serviço 4 = Solução VMware Azure, Solução VMware Azure vMware by CloudSimple, Azure VMware Solution by Virtustream, Specialized Compute Azure VMware Solution
+- Operações híbridas e gestão com o Microsoft Azure Arc 
+    - Servidor ativado por arco ACR: Nível de serviço 4 = Política de Azure
+    - Kubernetes ACR ativado pelo arco: Nível de serviço 4 = Arco Azure
+- IA e Machine Learning no Microsoft Azure
+    - AI ACR: Grupo de Serviço 2 = AI
+
+
+- Migração do Windows Server e SQL Server para o Microsoft Azure
+    - Janelas ACR: 
+        - Tipo de ajuste de ACR = N/A, Compute Core SW = Núcleo,
+        - Compute OS = WINDOWS THEN Compute OS Attribute = WINDOWS, UNKNOWN ou Compute OS = LINUX THEN Compute OS Attribute = WINDOWS-AHUB
+        - Nível de Serviço 2= Serviços em Nuvem, Instâncias de Contentores, Registo de Contentores, Computação Especializada, Máquinas Virtuais, Licenças de Máquinas Virtuais
+    - SQL Database (DB) ACR: Grupo de serviço 3 = SQLDB
+    - SQL Managed Instance (MI) ACR: Grupo de Serviço 3 = SQL DB MI
+    - SQL VM ACR: Grupo de Serviço 3 = SQL em IaaS, SQL em IaaS VM
+- Migração de bases de dados linux e Open-Source para o Microsoft Azure
+    - Máquinas Virtuais Linux (VM)ACR:
+        - Opção 1:
+            - Tipo de ajuste ACR= N/A, Nível de Serviço 2 = Máquinas Virtuais, Compute OS= Linux, Atributo Compute OS = Não Janelas, DESCONHECIDOS, Janelas
+            - Nível de Serviço 4= Todos os serviços em nuvem série MS, Série MS máquinas virtuais, máquinas virtuais MS Series Windows, Máquinas Virtuais Série MSv2, Máquinas Virtuais MSv2 Series Windows, MS Series Apresentado dedicado, Anfitrião Dedicado série MSv2
+        - Opção 2: só requerem filtros no Nível de Serviço 4, outros campos como Compute OS/Compute OS Atributos não são necessários
+            - Nível de serviço 4 = Red Hat Enterprise Linux, Red Hat Enterprise Linux com HA, SUSE Linux Enterprise Server Basic, SUSE Linux Enterprise Server for HPC Priority, SUSE Linux Enterprise Server for HPC Standard, SUSE Linux Enterprise Server Priority, SUSE Linux Enterprise Server Standard
+    - Base de Dados Azure (DB) para MariaDB ACR: Nível de serviço 1 = Bases de Dados e Nível de Serviço 2 = Base de Dados Azure para MariaDB
+    - Azure DB para MySql ACR: Nível de serviço 1 = Bases de Dados e Nível de Serviço 2 = Base de Dados Azure para MySQL e MySQL Database on Azure
+    - Azure DB para Postgre SQL ACR: Nível de serviço 1 = Bases de Dados e Nível de Serviço 2 = Pós-SQL
+    - Azure COSMOS DB ACR: Nível de serviço 1 = Bases de Dados e Nível de Serviço 2 = CosmosDB
+- Proteção Contra Ameaças
+    - Azure Sentinel ACR: Nível de serviço 4 = Sentinela
+- Segurança na Cloud
+    - Ambiente Híbrido XDR e Segurança de Rede ACR: Nível de serviço 4 = Azure Defender para SQL, Azure Defender para registos de contentores, Azure Defender para Kubernetes, Azure Defender para Armazenamento, Gateway de Aplicação de Aplicação NAF NIS, Azure Ative Directory B2C, Azure Ative Directory Domain Services, Azure Ative Directory Para Identidades Externas, Azure Bastion, Azure Protection, Azure Protection, Adure , Azure Firewall Manager, Azure Front Door Service, Azure Defender for IoT, Azure Dedicated HSM, Key Vault, Network Watcher, Azure Defender for App Service, Azure Defender para servidores, Sentinel
 
 ## <a name="next-steps"></a>Passos seguintes
 
