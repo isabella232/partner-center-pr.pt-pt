@@ -9,16 +9,16 @@ ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 03/30/2021
-ms.openlocfilehash: b6de912047a327e89e2572504329e9eff23e7dbf
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: fb991e8e5792e2be2087e05cc371b064ea11d02e
+ms.sourcegitcommit: 0410e2a3f91b7e6b592cc47e7af1dfbe468c7881
 ms.translationtype: MT
 ms.contentlocale: pt-PT
 ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276387"
+ms.locfileid: "112318100"
 ---
 # <a name="explore-technical-presales-and-deployment-services-tpd"></a>Explore as Pré-vendas Técnicas e os serviços de Implantação (TPD) 
 
-**Funções adequadas**: Administrador parceiro da MPN
+**Funções apropriadas**: Qualquer conta de utilizador MPN desde que a organização tenha uma competência ativa ou Microsoft Action Pack.
 
 Conheça os benefícios da Microsoft Partner Network (MPN) para os serviços técnicos de pré-venda e implantação, incluindo consultas, assistência de pré-vendas, horários de aconselhamento e muito mais.
 
@@ -44,14 +44,14 @@ Inscreva-se em qualquer conta de utilizador associada à MPN para **[criar um pe
 
 ## <a name="delivery-scenarios"></a>Cenários de entrega
 
-- **As consultas técnicas de pré-venda** são utilizadas para definir a proposta de valor, fornecer estimativas de custos, gerir objeções ao cliente, responder a mensagens concorrentes, demonstrar soluções técnicas, prova de conceitos ou planeamento e design de arquitetura que conduza a uma Declaração de Trabalho.
+- **As consultas técnicas de pré-venda** são utilizadas para definir a proposta de valor, fornecer estimativas de custos, licenciamento técnico, gerir objeções de clientes, responder a mensagens concorrentes, demonstrar soluções técnicas, prova de conceitos ou planeamento e design de arquitetura que conduzam a uma Declaração de Trabalho.
 
-  - *Não suportado:* Planeamento de gasodutos de vendas, preços e tabelas de preços.
+  - *Não suportado:* Planeamento de gasodutos de vendas, fim das discussões com clientes, preços de licenciamento e listas de preços.
 
 
 - **As consultas de implantação** são utilizadas para o planeamento e orientação de design de arquitetura, boas práticas, orientação de implantação, referências do produto e documentação.
 
-  - *Não suportado:* Suporte/resolução de problemas de break-fix, serviços no local, consultoria a longo prazo, apoio direto ao cliente ou suporte prático num ambiente de produção. 
+  - *Não suportado:* Suporte/resolução de problemas de break-fix, hotfixes, serviços no local, consultoria de longo prazo (menos de 25 horas por compromisso), diretamente para o apoio ao cliente ou suporte prático num ambiente de produção. 
 
 
 - **As Consultas de Marketplace** são utilizadas para como publicar a sua solução para a geração de chumbo em curso no mercado comercial da Microsoft. Para desenvolvedores, configuração de serviços, consultorias de arquitetura ou design, migração de soluções no local, revisão de códigos e assistência à publicação de aplicações.
@@ -66,7 +66,7 @@ Os seguintes produtos e serviços estão em curso para pré-venda técnica e ser
 - **Aplicações empresariais**: Microsoft Dynamics 365 (online), Microsoft Power Platform (Power Apps, Power Automamate, Power BI)
   - *Fora do âmbito: Versões exclusivamente no local da Dynamics 365, GP, SL, AX, NAV*
 - **Microsoft Azure**: Todas as soluções e serviços relacionados da Microsoft Azure, tais como infraestruturas como um serviço, plataforma como um serviço, Plataforma de Dados, BI Analytics, Serviços Cognitivos, Azure Machine Learning, Azure Stack
-- **Windows Server**: Servidor do Windows suportado mainstream (conforme governado pelo ciclo de vida do **[produto)](/lifecycle/policies/fixed)**
+- **Servidor Windows e SQL Server**: Suporte mainstream, tal como regido pelo ciclo de vida do **[produto)](/lifecycle/policies/fixed)**
   - O System Center inclui produtos relacionados, como o SCCM, se estiver relacionado com cenários em nuvem ou híbridos
 - **Windows 10**: sistema operativo Windows 10, dispositivos, aplicações universais
 - **Produtos em Visualização Privada ou Pública**: A ajuda é prestada numa base de melhores esforços, para ambientes não produtivos e sem garantias sobre disponibilidade de informação ou tempo de resposta
@@ -106,5 +106,6 @@ Para ver os seus benefícios técnicos no Partner Center:
 6. A página de confirmação mostra o número de pedido de suporte e descrição. Também receberá um e-mail de confirmação do Partner Center com o número do caso.
 
 ## <a name="next-steps"></a>Passos seguintes
+[Suporte Técnico para instalações ou produtos cloud](/mpn-benefits-technical-support.md)
 
 [Gerencie os benefícios e ofertas da Rede microsoft partner](manage-your-partner-network-benefits.md)

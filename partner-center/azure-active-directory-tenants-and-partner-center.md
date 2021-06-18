@@ -8,13 +8,13 @@ author: vinayks
 ms.author: vinayks
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
-ms.date: 11/25/2019
-ms.openlocfilehash: a06a38ef9d96b4c2a1e95328d510eb2fd71ff0e3
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.date: 6/17/2021
+ms.openlocfilehash: 69aa45de55a4356eaab1bcd4cd309feb14de9f6e
+ms.sourcegitcommit: 0410e2a3f91b7e6b592cc47e7af1dfbe468c7881
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110149847"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112318066"
 ---
 # <a name="create-a-work-account-that-links-your-company-to-your-partner-center-account"></a>Crie uma conta de trabalho que ligue a sua empresa à sua conta Partner Center
 
@@ -31,7 +31,7 @@ A sua conta de trabalho ou e-mail de trabalho é o endereço de e-mail fornecido
 Se tiver mais do que um endereço de e-mail válido, use o que está associado à sua Sede corporativa em vez do departamento regional, por exemplo, use o seu `contoso.com` e-mail em vez do `contoso.uk` endereço.
 
 > [!NOTE]  
-> Antes de decidir utilizar uma conta de trabalho existente, pense em quantos utilizadores na conta precisarão de trabalhar no Partner Center. Se tiver utilizadores na conta que não precisarão de trabalhar no Partner Center, considere criar uma nova conta apenas para os utilizadores que terão de trabalhar no Centro de Parceiros.
+> Antes de utilizar uma conta de trabalho existente, pense em quantos utilizadores na conta de trabalho precisarão para aceder ao Partner Center. Se tiver utilizadores na conta de trabalho que não precisarão de acesso ao Partner Center, considere criar uma nova conta apenas para os utilizadores que precisarão de acesso ao Partner Center.
 
 ## <a name="not-sure-if-your-company-already-has-a-work-account"></a>Não tem certeza se a sua empresa já tem uma conta de trabalho?
 
@@ -39,7 +39,7 @@ Se não tem certeza se a sua empresa tem uma conta de trabalho, siga estes passo
 
 1. Inicie sessão no [portal do Azure](https://portal.azure.com).
 
-2. Selecione Azure Ative Directory no menu e, em seguida, selecione Nomes de Domínio.
+2. Selecione O Diretório Ativo Azure a partir do menu de navegação e selecione **Nomes de Domínio Personalizados**.
 
 3. Se já tiver uma conta de trabalho, o seu nome de domínio será listado.
 
