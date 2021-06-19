@@ -7,13 +7,13 @@ ms.subservice: partnercenter-csp
 author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
-ms.date: 11/20/2019
-ms.openlocfilehash: e2bff940dc2d145a783dddad3a71aba14e1ba25a
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.date: 6/17/2021
+ms.openlocfilehash: a10235d002007c8b2dfd3ab460ccb67fd5384cc3
+ms.sourcegitcommit: 8511fec63961d8c77a4d1eea3e3f1d37cdea46c6
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110150969"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "112373380"
 ---
 # <a name="frequently-asked-questions-for-partner-center-for-microsoft-cloud-for-us-government"></a>Perguntas frequentes para Partner Center para Microsoft Cloud para governo dos EUA
 
@@ -53,7 +53,7 @@ O programa CSP para o Microsoft Cloud para o Governo dos EUA é diferente da CSP
 
 - Contratação: O Acordo de Revenda da Microsoft Cloud (MCRA) foi atualizado para refletir termos governamentais únicos.
 
-- Funcionalidade do Partner Center: Certas funcionalidades do Partner Center não serão ativadas para o programa CSP para o Microsoft Cloud para o Governo dos EUA cumprir os requisitos regulamentares e de conformidade. Os parceiros podem utilizar o Azure Ative Directory (Azure AD) ou [a Graph API](/partner-center/develop/developing-for-partner-center-for-microsoft-national-cloud#partner_center_msftcloudUS) para executar tarefas relacionadas com a gestão do utilizador e do grupo. A funcionalidade de pedido relationship para suportar cenários multicanal e multi-parceiros estará disponível após o lançamento quando os serviços baseados em licença estiverem disponíveis em CSP para o Microsoft Cloud para o Governo dos EUA.
+- Funcionalidade do Partner Center: Certas funcionalidades do Partner Center não serão ativadas para o programa CSP para o Microsoft Cloud para o Governo dos EUA cumprir os requisitos regulamentares e de conformidade. Em vez disso, os parceiros podem utilizar o Azure Ative Directory (Azure AD) ou [a Graph API](/partner-center/develop/developing-for-partner-center-for-microsoft-national-cloud#partner_center_msftcloudUS) para executar tarefas relacionadas com a gestão do utilizador e do grupo. A funcionalidade de pedido de Relacionamento automatizado deverá ser disponibilizada até outubro de 2021.
 
 ### <a name="i-am-not-a-csp-partner-yet-where-can-i-find-more-information-on-how-to-become-a-csp-partner"></a>Ainda não sou sócio da CSP. Onde posso encontrar mais informações sobre como me tornar um parceiro da CSP?
 
