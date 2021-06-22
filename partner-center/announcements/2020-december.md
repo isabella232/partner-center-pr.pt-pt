@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 04/01/2021
-ms.openlocfilehash: 9d34a8e7674d178dc3217e36cee25b2d9ad6c36a
-ms.sourcegitcommit: e462f562e7f26b7d6870c22638a2a841499109d6
+ms.date: 06/18/2021
+ms.openlocfilehash: 101d67e42970e0aab4b2ea8bf0bc230cf57109d1
+ms.sourcegitcommit: b7203f1393c3d8f8db4683acdebd09a89e086c3c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "109740357"
+ms.lasthandoff: 06/21/2021
+ms.locfileid: "112424997"
 ---
 # <a name="december-2020-announcements"></a>Anúncios de dezembro de 2020
 
@@ -113,7 +113,7 @@ Perceba que todos os outros ficheiros da lista de preços estão agendados para 
 
 ### <a name="next-steps"></a>Passos seguintes
 
-Em resumo, os ficheiros de preços abaixo estarão disponíveis como de costume no dia 31 de dezembro de 2020 por aproximadamente 6PM PST:
+Em resumo, os ficheiros de preços abaixo estarão disponíveis como de costume no dia 31 de dezembro de 2020, aproximadamente às 18:00 PST:
 
 - Ficheiros de lista de preços baseados em licença e matriz de lista de ofertas
 - Ficheiros de preços baseados em uso, mas apenas com atualizações até 21 de dezembro de 2020
@@ -368,7 +368,7 @@ A oferta promocional da Power Apps Promo inicialmente prevista para 1 de dezembr
 - A oferta estará disponível para compra até 30 de junho de 2021.
 - A oferta é um prazo de 12 meses a um preço reduzido, como outras ofertas da CSP.
 - Esta oferta não será nova e expirará no final do prazo de 12 meses. Inicialmente, a nova propriedade será definida para **True,** mas esta será alterada para que a oferta expire no final do prazo de 12 meses da oferta.
-- Os parceiros terão de adquirir a oferta a preços não promocionais (id oferta: 5e1087b6-246b-4503-b88a-b60bdf0b3840) antes do prazo de 12 meses se quiserem continuar a utilizar os serviços prestados pela oferta inicial.
+- Os parceiros terão de adquirir a oferta a preços não promocionais (oferta ID: 5e1087b6-246b-4503-b88a-b60bdf0b3840) antes do prazo de 12 meses se quiserem continuar a utilizar os serviços prestados pela oferta inicial.
 
 **Detalhes dos preços**
 
@@ -393,12 +393,11 @@ Os detalhes da oferta abaixo para esta oferta estarão na matriz da lista de ofe
 - Contagem de assentos min: 200
 - Contagem de assentos max: 10000000
 - Limite de oferta: Nenhum
-- Países Permitidos: Ilhas Permuais dos EUA, Inglês (Territórios do Sul francês), Ilha Bouvet, Território Britânico do Oceano Índico, Iémen, Ilhas Heard e Mc Donald, Wallis e Futuna, Vanuatu, Antártica, Tuvalu, Somália, Tokelau, Serra Leoa, Suazilândia, Santa Helena, Ascensão, Tristan da Cunha, Sã£o TomÃ© e Právio, Ilhas Pitcairn, Palau, Ilhas Salomão, Nauru, Niue, Ilha Norfolk, Mauritânia, Ilhas Marianas do Norte, Leso , Ilhas Cook, Eritreia, Ilha de Natal, Burkina Faso, República Centro-Africana, Kosovo, Ilhas Cocos (Keeling), Svalbard e jan Mayen, Ã... Ilhas terrestres, Sudão do Sul, Geórgia do Sul e Ilhas Sandwich do Sul, Samoa, Saint Barthã©lemy, Ilhas Virgens Britânicas, Saint Pierre e Miquelon, Chade, Níger, Montserrat, Guiana, Haiti, Gâmbia, Guam, Guiné, Gabão, Granada, Gibraltar, Guernsey, Libéria, Micronésia, Ilhas Falkland, Dominica, Djibuti, Congo , Congo (RDC), Zimbabwe, Samoa Americana, Zâmbia, África do Sul, Mayotte, Vietname, São Vicente e Granadina, , Ucrânia, Uganda, Uzbequistão, Estados Unidos, Uruguai, Tanzânia, Taiwan, Trinidad e Tobago, Turquia, Tunísia, Tonga, Timor-Leste, Turquemenistão, Tajiquistão, Tailândia, Togo, El Salvador, Sint Maarten, Ilhas Turcas e Caicos, Suriname, Singapura, Eslovénia, São Marino, Senegal, Eslováquia, Suécia, Seychelles, Arábia Saudita, Sérvia, Ruanda, Rússia, Roménia, RÃ©Instrução, Qatar, Paraguai, Portugal, Filipinas, Território Palestiniano, Ocupado, Polónia, Porto Rico, Paquistão, , Nova Zelândia, Omã, Nepal, Países Baixos, Noruega, Nigéria, Nicarágua, Nova Caledónia, Namíbia, Moçambique, Malásia, México, Martinica, Maláui, Maldivas, Maurícia, Malta, Myanmar, RAE de Macau, Mongólia, Mali, Madagáscar, Ilhas Marshall, Macedónia, FYRO, Montenegro, São Martinho, Marrocos, Mónaco, Moldávia, Letónia, Líbia, Luxemburgo, Líbano, Santa Lúcia, Lituânia, Sri Lanka, Ilhas Caimão, Cazaquistão, Kuwait, , Jamaica, Jersey, Itália, Islândia, Iraque, Irlanda, Índia, Indonésia, Ilhas de Man, Honduras, Israel, Hungria, Hong Kong SAR, Croácia, Guatemala, Grécia, Guadalupe, Guiana Francesa, Gronelândia, Gana, Ilhas Faroé, Reino Unido, Geórgia, França, Fiji, Etiópia, Finlândia ™, Espanha, Egito, Estónia, Equador, República Dominicana, Argélia, Alemanha, Dinamarca, Chipre, República Checa, Curaéis, , Belize, Bielorrússia, Botsuana, Butão, Bahamas, Bonaire, Sint Eustatius e Saba, Brasil, Benin, Brunei, Bermudas, Bolívia, Bélgica, Bulgária, Bahrein, Burundi, Bósnia e Herzegovina, Bangladesh, Barbados, Azerbaijão, Aruba, Austrália, Argentina, Áustria, Angola, Arménia, Afeganistão, Albânia, Anguilla, Andorra, Emirados Árabes Unidos,
+- Países Permitidos: Ilhas Permuíduas dos EUA, Inglês (Territórios do Sul francês), Ilha Bouvet, Território britânico do Oceano Índico, Iémen, Ilhas Heard e Mc Donald, Wallis e Futuna, Vanuatu, Antártica, Tuvalu, Somália, Tokelau, Serra Leoa, Suazilândia, Santa Helena, Ascensão, Tristão da Cunha, SÃ£o TomÃ© e Prápia, Ilhas Pitcairn, Palau, Ilhas Salomão, , Lesoto, Kiribati, Guiné Equatorial, Guiné-Bissau, Ilhas Cook, Eritreia, Ilha de Natal, Burkina Faso, República Centro-Africana, Kosovo, Ilhas Cocos (Keeling), Svalbard e jan Mayen, Ã... ilhas terrestres, Sudão do Sul, Geórgia do Sul e Ilhas Sandwich do Sul, Samoa, Saint Barthã©lemy, Ilhas Virgens Britânicas, Saint Pierre e Miquelon, Chade, Níger, Montserrat, Guiana, Haiti, Gâmbia, Guam, Guiné, Gabão, Granada, Gibraltar, Guernsey, Libéria, Micronésia, Ilhas Falkland, Dominica, Djibuti, Congo (DRC), , Ilhas Virgens Americanas, Venezuela, Santa Sé (Cidade do Vaticano), Ucrânia, Uganda, Uzbequistão, Estados Unidos, Uruguai, Tanzânia, Taiwan, Trinidad e Tobago, Turquia, Tunísia, Tonga, Timor-Leste, Turquemenistão, Tajiquistão, Tailândia, Togo, El Salvador, Ilhas Sint Maarten, Turcas e Caicos, Suriname, Singapura, Eslovénia, San Marino, Senegal, Eslováquia, Suécia, Seychelles, Arábia© Saudita, , Território Palestiniano, Ocupado, Polónia, Porto Rico, Paquistão, Peru, Panamá, Papua Nova Guiné, Polinésia Francesa, Nova Zelândia, Omã, Nepal, Países Baixos, Noruega, Nigéria, Nicarágua, Nova Caledónia, Namíbia, Moçambique, Malásia, México, Martinica, Malawi, Maldivas, Maurícia, Malta, Sar, Mongólia, Mali, Madagáscar, Ilhas Marshall, Macedónia, FYRO, Montenegro, Saint Martin, Sri Lanka, Ilhas Caimão, Liechtenstein, Laos, Cazaquistão, Kuwait, Coreia, Comores, Camboja, São Cristóvão e Nevis, Quénia, Quirguistão, Japão, Jordânia, Jamaica, Jersey, Itália, Islândia, Iraque, Irlanda, Índia, Indonésia, Ilha de Man, Honduras, Israel, Hungria, Hong Kong SAR, Croácia, Guatemala, Grécia, Guadalupe, Guiana Francesa, Gronelândia, Gana, Ilhas Faro, , Equador, República Dominicana, Argélia, Alemanha, Dinamarca, Chipre, República Checa, Curatei, Cabo Verde, Costa Rica, Chile, Camarões, Colômbia, CÃ'te dâ€™Ivoire, Canadá, Suíça, Belize, Bielorrússia, Botsuana, Butão, Bahamas, Bonaire, Sint Eustatius e Saba, Brasil, Benin, Brunei, Bermudas, Bolívia, Bélgica, Bulgária, Bahrein, , Albânia, Anguilla, Andorra, Emirados Árabes Unidos, Antígua e Barbuda
 
 ### <a name="next-steps"></a>Passos Seguintes
 
-- A oferta promocional estará disponível na lista oficial de preços base de licença do CSP partner center de 1 de janeiro de 2021 e matriz de lista de ofertas. 
-- As perguntas sobre esta promoção podem ser publicadas no anúncio da comunidade da [Microsoft.](https://www.microsoftpartnercommunity.com/t5/Pricing-Licensing-Incentives/Announcing-a-new-Power-Apps-promotional-offer-to-accelerate-FY21/m-p/32540)
+- A oferta promocional estará disponível no dia 1 de janeiro de 2021, lista oficial de preços base de licença do CSP e matriz de lista de ofertas.
 
 ______________
 
