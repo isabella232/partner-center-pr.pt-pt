@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 806ddcd6e55a72ac2e1d15bdbec7c27c604917dc
-ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
+ms.openlocfilehash: 4835a620cd414370525a5c441e0db5a7de1bfed1
+ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109818699"
+ms.lasthandoff: 06/22/2021
+ms.locfileid: "112431515"
 ---
 # <a name="upgrade-some-education-customers-from-windows-10-home-to-windows-10-education"></a>Atualizar alguns clientes da Educação do Windows 10 Home para o Windows 10 Education
 
@@ -22,13 +22,13 @@ ms.locfileid: "109818699"
 
 ## <a name="overview"></a>Descrição Geral
 
-A partir de 1 de novembro de 2020, os CSPs que adquiriram as subscrições Microsoft 365 A3 ou A5 ou Windows 10 Enterprise A3 ou A5 podem ajudar os seus clientes de Educação a atualizarem-se do Windows 10 Home para o Windows 10 Education, que é projetado tanto para a sala de aula como para a aprendizagem remota.
+A partir de 1 de novembro de 2020, os Fornecedores de Serviços cloud (CSPs) que adquiriram as subscrições Microsoft 365 A3 ou A5 ou Windows 10 Enterprise A3 ou A5 podem ajudar os seus clientes de Educação a atualizar do Windows 10 Home para o Windows 10 Education, que é projetado tanto para a sala de aula como para a aprendizagem remota.
 
-A partir de 1 de novembro de 2020, o Windows 10 Home será um sistema operativo e qualitatório para clientes de Educação licenciados através do Microsoft Cloud Agreement (através de CSP). Esta elegibilidade, que até agora só estava disponível em programas de educação de Licenciamento de Volume (VL), foi ativada através do suporte ao portal de administração microsoft 365. 
+A partir de 1 de novembro de 2020, o Windows 10 Home será um sistema operativo e qualitatório para clientes da Educação licenciados através do Microsoft Cloud Agreement (através do programa CSP). Esta elegibilidade, que até agora só estava disponível em programas de educação de Licenciamento de Volume (VL), foi ativada através do suporte ao portal de administração microsoft 365. 
 
 ## <a name="how-the-upgrade-process-works"></a>Como funciona o processo de atualização
 
-A CSP Partners pode ajudar os seus clientes a fazer upgrade, apresentando um pedido de apoio em seu nome. O Microsoft Support irá rever o pedido para garantir que o cliente se qualifica; uma vez aprovado o pedido, o suporte fornecerá a chave de Educação Pro do Windows 10 ao parceiro que o pode dar ao cliente.
+Os parceiros da CSP podem ajudar os seus clientes a fazer upgrade, apresentando um pedido de apoio em seu nome. O Microsoft Support irá rever o pedido para garantir que o cliente se qualifica; uma vez aprovado o pedido, o suporte fornecerá a chave de Educação Pro do Windows 10 ao parceiro que o pode dar ao cliente.
 
 Quando o cliente instalar a chave e o dispositivo é associado ao domínio do inquilino através do Azure Ative Directory (AAD), o dispositivo será automaticamente atualizado para o Windows 10 Education (subscrição).   
 

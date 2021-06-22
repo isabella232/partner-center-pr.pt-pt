@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8486e16d9979a1c1482577248334c1854b116273
-ms.sourcegitcommit: 75b84d0918802325019577930d368bc3df193ab2
+ms.openlocfilehash: baf13c0953350d27a53ec18cb2338469c6d54770
+ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/21/2021
-ms.locfileid: "110236105"
+ms.lasthandoff: 06/22/2021
+ms.locfileid: "112431490"
 ---
 # <a name="verify-your-account-information-when-you-enroll-in-a-new-partner-center-program"></a>Verifique as informações da sua conta quando se inscrever num novo programa do Partner Center
 
@@ -27,8 +27,8 @@ Quando se inscreve num novo programa no Partner Center, a Microsoft verifica a s
 
 Se for o contacto principal (administrador global ou administrador de conta), recomendamos que vá ao seu Perfil de Parceiro para monitorizar o estado de verificação e acompanhar o progresso.
 
-- Para o programa MPN, aceda a [informações legais.](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile)
-- Para o programa CSP, aceda a [Informações Legais.](https://partner.microsoft.com/pcv/accountsettings/partnerprofile)
+- Para o programa Microsoft Partner Network (MPN), aceda a [informações legais](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile).
+- Para o programa Cloud Solution Provider (CSP), aceda a [Informações Legais.](https://partner.microsoft.com/pcv/accountsettings/partnerprofile)
 
 
 ## <a name="what-is-verified-and-how-to-respond"></a>O que é verificado e como responder
@@ -51,4 +51,4 @@ Depois de iniciar sessão no seu perfil, se vir **ações pendentes,** complete 
 - Para o programa MPN, aceda à página [de informações legais.](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile)  
 - Para o programa CSP, aceda à página [de informações do Jurídico.](https://partner.microsoft.com/pcv/accountsettings/partnerprofile)
 
-Se precisar de assistência para completar estes passos no Partner Center, pode contactar a equipa de apoio ao parceiro abrindo um bilhete na secção de Apoio ao Centro de Parceiros. Para isso, vá à [Ajuda e apoie.](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=21655de7-7dbb-4927-33a2-f60f45feadf3)
+Se precisar de assistência para completar estes passos no Partner Center, pode contactar a equipa de apoio ao parceiro abrindo um bilhete na secção de Apoio ao Centro de Parceiros. Para abrir um bilhete, vá à [Ajuda e apoie.](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=21655de7-7dbb-4927-33a2-f60f45feadf3)

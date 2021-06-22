@@ -8,23 +8,23 @@ ms.localizationpriority: medium
 ms.date: 12/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-ms.openlocfilehash: bd0399f16fb2bdaf1099597cd48c89d7e9d3651d
-ms.sourcegitcommit: 837d3c5b52ab056b2b761cd85eb2426f56b62614
+ms.openlocfilehash: bcdb6b4da0911eb9b6600218f926517d9ef1728e
+ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109794994"
+ms.lasthandoff: 06/22/2021
+ms.locfileid: "112431684"
 ---
 # <a name="value-added-tax-vat-information"></a>Informação sobre o imposto sobre o valor acrescentado (IVA)
 
 **Funções adequadas**: Administração de contas
 
 
-Se você é obrigado a fornecer um número de ID de IVA durante o processo de registo do Centro parceiro, aqui está algumas informações para começar.
+Se você é obrigado a fornecer um número de ID de imposto sobre o valor acrescentado (IVA) durante o processo de registo do Centro parceiro, aqui está algumas informações para começar.
 
 ## <a name="understanding-vat-numbers"></a>Compreender os números do IVA
 
-Um número de imposto sobre o valor acrescentado (IVA) é um identificador utilizado para países ou regiões da União Europeia. Para mais informações, consulte o site oficial [vies](http://ec.europa.eu/taxation_customs/vies/vieshome.do)da União Europeia.
+Um número de IVA é um identificador utilizado para países ou regiões da União Europeia. Para mais informações, consulte o site oficial do Sistema de Intercâmbio de [Informações sobre IVA (VIES)](http://ec.europa.eu/taxation_customs/vies/vieshome.do)da União Europeia.
 
 ## <a name="location-specific-vat-information"></a>Informações específicas do IVA específicas da localização
 

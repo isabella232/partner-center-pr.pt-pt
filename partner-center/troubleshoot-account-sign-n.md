@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a5e8a292ad8593dc0b94179d5f0ee418344ef9af
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 4fc1a43b4d525d9221ac7e4db56f5f278404e3f5
+ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854694"
+ms.lasthandoff: 06/22/2021
+ms.locfileid: "112431758"
 ---
 # <a name="troubleshoot-account-setup-or-mpn-renewal-issues"></a>Configuração de conta de resolução de problemas ou problemas de renovação de MPN
 
@@ -24,16 +24,16 @@ Aqui ficam algumas sugestões para resolver problemas comuns que surgem ao confi
 
 ## <a name="what-happens-if-you-are-migrating-from-partner-membership-center-and-you-cant-edit-any-company-information-fields"></a>O que acontece se estiver a migrar do Centro de Membros de Parceiros e não puder editar quaisquer campos de informação da empresa
 
-Nos casos em que a sua empresa já tenha presença no Partner Center (por exemplo, uma conta CSP) – será mostrado um ecrã apenas de leitura. Este ecrã apresentará todas as informações sobre a sua empresa tal como existe no Partner Center.
+Nos casos em que a sua empresa já tenha presença no Partner Center (por exemplo, uma conta Cloud Solution Provider (CSP) – será mostrado um ecrã apenas de leitura. Este ecrã apresentará todas as informações sobre a sua empresa tal como existe no Partner Center.
 
 Não podes alterar os detalhes deste ecrã. Isto é por design e não por um erro.
 
-Selecione **Aceitar** e **Continuar** a prosseguir.
+Para prosseguir, **selecione Aceitar** e, em seguida, selecione **Continue**.
 
 
 ### <a name="if-the-it-department-has-turned-off-sign-up-for-partner-center"></a>Se o departamento de TI tiver desligado **inscreva-se no Partner Center**
 
-Você vê esta mensagem porque os utilizadores virais são desativado, ou porque a Inscrição Viral é desativada no inquilino AZure AD. O administrador Global para a sua conta Azure AD pode permitir as funcionalidades necessárias executando o seguinte comando PowerShell:
+Você vê esta mensagem porque os utilizadores virais são desativado, ou porque a Inscrição Viral é desativada no inquilino do Azure Ative Directory (AD). O administrador Global para a sua conta Azure AD pode permitir as funcionalidades necessárias executando o seguinte comando PowerShell:
 
 **Set-MsolCompanySettings -AllowEmailVerifiedUsers $true -AllowAdHocSubscriptions $true**
 
@@ -41,7 +41,7 @@ Para mais informações, leia [o Self-service inscreva-se.](/azure/active-direct
 
 ## <a name="you-forgot-your-password"></a>Esqueceu-se da sua senha.
 
-Se esqueceu a sua palavra-passe, selecione o link Não Pode aceder à **sua conta?** Esta opção permite-lhe redefinir a sua palavra-passe ou pedir ao seu administrador Global para lhe atribuir novas credenciais.
+Se esqueceu a sua palavra-passe, na página de iniciar scontabilidade, selecione **Não pode aceder à sua conta?** Esta opção permite-lhe redefinir a sua palavra-passe ou pedir ao seu administrador Global para lhe atribuir novas credenciais.
 
 ## <a name="on-the-tell-us-about-your-company-screen-you-receive-a-something-went-wrong-error"></a>No ecrã "Fale-nos da sua empresa", recebe um erro de "Algo correu mal"
 
@@ -59,7 +59,7 @@ Terá de cancelar a encomenda original e recomprar utilizando o método de pagam
 
 Para cancelar uma encomenda:
 
-1. **Selecione o separador Ofertas** de Adesão no Painel de Instrumentos.
+1. No painel Partner Center, selecione o **separador Ofertas de Adesão.**
 
 2. Selecione **cancelar pedido**
 

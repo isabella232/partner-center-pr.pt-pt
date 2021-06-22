@@ -6,12 +6,12 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 01/18/2021
-ms.openlocfilehash: f747c11ef4bfc9abe1035ffb3f059da59b6572ac
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 11145280aad1ecd9777ec2fb7540e7d6479acfae
+ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276506"
+ms.lasthandoff: 06/22/2021
+ms.locfileid: "112431552"
 ---
 # <a name="azure-marketplace-purchasing"></a>Compra do Azure Marketplace
 
@@ -30,6 +30,9 @@ Depois de encontrar a aplicação de software certa, concluir a compra é simple
 Antes de concluir uma compra, certifique-se de que o utilizador tem a configuração correta no inquilino Azure. Isto ajudará a prevenir erros durante a compra.
 
 Na experiência Azure Marketplace no portal Azure, encontre a aplicação que pretende comprar e selecione **Criar** ou **Configurar + subscrever.** Será solicitado a completar algumas informações antes de poder usar a sua nova solução.
+
+> [!CAUTION]
+> A aprovação no Mercado Privado não indica a aquisição de uma solução.
 
 :::image type="content" source="media/overview/offer-create-screen.png" alt-text="O botão Criar oferta.":::
 

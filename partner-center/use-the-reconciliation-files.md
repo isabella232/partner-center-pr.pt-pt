@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 755881d0bd96b9d601346ebb6271bd524c31d0a3
-ms.sourcegitcommit: 837d3c5b52ab056b2b761cd85eb2426f56b62614
+ms.openlocfilehash: 1a7d5f3169c4b338a07475a7e246e87841b8dcfb
+ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109794960"
+ms.lasthandoff: 06/22/2021
+ms.locfileid: "112431560"
 ---
 # <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>Saiba como ler os itens de linha nos ficheiros de reconciliação do Partner Center
 
@@ -41,7 +41,7 @@ Ocasionalmente, um ficheiro de reconciliação pode conter problemas de formata�
 
 Siga estes passos para corrigir quaisquer problemas de formatação nos seus ficheiros de reconciliação:
 
-1. Abra o ficheiro de reconciliação (em .csv formato) no Microsoft Excel.
+1. Abra o ficheiro de reconciliação (em formato .csv) no Microsoft Excel.
 2. Selecione a primeira coluna do ficheiro.
 3. Abra o **texto de conversão para o assistente de colunas**. Na fita, selecione **Dados** e, em seguida, selecione **Texto para Colunas**.
 4. No assistente, selecione **O tipo de ficheiro delimitado**. Em seguida, selecione **Seguinte**.
@@ -60,7 +60,7 @@ Se conseguir descarregar um ficheiro de reconciliação mas não o abrir no Micr
 ### <a name="open-a-recon-file-in-power-bi"></a>Abra um ficheiro de reconhecimento no Power BI
 
 1. Descarregue o ficheiro de reconciliação como normalmente faria.
-2. Faça o download, instale e abra uma instância do Power BI.
+2. Faça o download, instale e abra uma instância do Microsoft Power BI.
 3. No separador Power BI **Home,** **selecione Obter dados**.
 4. Na lista de fontes de **dados comuns,** selecione **Texto/CSV**.
 5. Quando solicitado, abra o seu ficheiro de reconhecimento.
@@ -71,7 +71,7 @@ Se conseguir descarregar um ficheiro de reconciliação mas não o abrir no Micr
 2. Abra um novo ficheiro no Microsoft Excel.
 3. No separador **Dados,** **selecione Obter dados**, selecione **'Ficheiro'** e, em seguida, selecione **Texto/CSV**.
 4. Quando solicitado, abra o seu ficheiro de reconhecimento. Os seus dados aparecerão.
-5. No menu de entrega de **carga,** selecione **Load to**, e, em seguida, **OK**.
+5. No menu de entrega de **carga,** selecione **Carregar para**, e, em seguida, selecione **OK**.
 6. Na caixa de diálogo **de dados de importação,** selecione **O Relatório De Mesa Para** abrir o seu ficheiro.
 
 ## <a name="negative-amount-displayed"></a>Quantidade negativa exibida

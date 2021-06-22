@@ -9,12 +9,12 @@ ms.subservice: partnercenter-csp
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fc31915660b6a82954daee5fcc8fb2d5292e725c
-ms.sourcegitcommit: 837d3c5b52ab056b2b761cd85eb2426f56b62614
+ms.openlocfilehash: 6c486d4866b0a2a912801d2648a1822418687078
+ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109795011"
+ms.lasthandoff: 06/22/2021
+ms.locfileid: "112431703"
 ---
 # <a name="understand-usage-based-reconciliation-files-and-their-specific-fields-in-partner-center"></a>Compreenda os ficheiros de reconciliação baseados no uso e os seus campos específicos no Partner Center
 
@@ -31,8 +31,8 @@ Os seguintes campos explicam quais os serviços utilizados e a taxa.
 | PartnerId | Identificador de parceiro, em formato GUID. | *DA41BC5F-C52D-4464-8A8D-8C8DCC43503B* |
 | PartnerName | Nome do parceiro. | *Contoso, Ltd.* |
 | PartnerBillableAccountId | Identificador de conta de parceiro. | *1010578050* |
-| Nome da Empresa de Clientes | Nome da organização do cliente, conforme relatado no Partner Center. *Muito importante para conciliar a fatura com a informação do seu sistema.* | *Cliente de teste* |
-| MpnId | Identificador mpn do parceiro da CSP. | *4390934* |
+| Nome da Empresa de Clientes | Nome da organização do cliente, conforme relatado no Partner Center. *Isto é muito importante para conciliar a fatura com a informação do seu sistema.* | *Cliente de teste* |
+| MpnId | Identificador da Microsoft Partner Network (MPN) do parceiro Cloud Solution Provider (CSP). | *4390934* |
 | RevendedorMpnId | Identificador MPN do revendedor de registo para a subscrição.  |
 | FaturaNumber | Número de fatura onde aparece a transação especificada. | *D020001IVK* |
 | ChargeStartDate | Data de início do ciclo de faturação, exceto quando apresentar datas de dados de utilização latente previamente não cobrados (do ciclo de fatura anterior). A hora é sempre o início do dia, 00:00. | *2/1/2019 0:00* |

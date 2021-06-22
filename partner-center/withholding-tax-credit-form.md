@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8674dfa337f0620b6c916f685fced9882134032a
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 05bf6e09c5dc5982c3faa3e426f7b99acfc09949
+ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276370"
+ms.lasthandoff: 06/22/2021
+ms.locfileid: "112431728"
 ---
 # <a name="receive-credit-on-your-partner-center-account-for-tax-withholding"></a>Receba crédito na sua conta partner center para retenção na fonte de impostos
 
@@ -22,7 +22,7 @@ ms.locfileid: "112276370"
 
 ## <a name="overview"></a>Descrição Geral
 
-Os parceiros da CSP em alguns países recebem valores de fatura que incluem impostos. Alguns destes parceiros pagam à autoridade fiscal local em vez da Microsoft. Se pagar à sua autoridade tributária local, tem de apresentar um pedido de retenção na fonte, incluindo o seu certificado fiscal para limpar o valor tributado das faturas anteriores. Estes valores apurados refletem-se na última coluna **de pagamento** na página **de Faturação** no Partner Center.
+Os parceiros do Cloud Solution Provider (CSP) em alguns países recebem valores de fatura que incluem impostos. Alguns destes parceiros pagam à autoridade fiscal local em vez da Microsoft. Se pagar à sua autoridade tributária local, tem de apresentar um pedido de retenção na fonte, incluindo o seu certificado fiscal para limpar o valor tributado das faturas anteriores. Estes valores apurados refletem-se na última coluna **de pagamento** na página **de Faturação** no Partner Center.
 
 Os parceiros costumavam apresentar pedidos de retenção na fonte através da criação de pedidos de serviço (bilhetes de apoio a parceiros) no Partner Center. Este processo mudou em janeiro de 2020. Agora, os parceiros da CSP devem apresentar pedidos de retenção na fonte de imposto na página de **Faturação** em vez de criarem Pedidos de Apoio.
 
@@ -37,7 +37,7 @@ Siga estas medidas para submeter uma nova retenção na fonte fiscal:
 
 2. No menu da esquerda, escolha **Billing** e vá para **a história do Billing.**
 
-3. Clique **em Enviar novo** ao lado da fatura para a fatura para a quais pretende submeter um apuramento. O novo link de submissão irá levá-lo à página **de pedido de retenção na fonte de imposto.**
+3. **Selecione Enviar novo** junto à fatura para a quais pretende submeter um apuramento. O novo link de submissão irá levá-lo à página **de pedido de retenção na fonte de imposto.**
 
    :::image type="content" source="images/wht1.png" alt-text="Submeter nova retenção na fonte de imposto para uma fatura.":::
 
@@ -68,7 +68,7 @@ A equipa de revisão pode exigir que faça correções e reenvia um pedido antes
 
 3. No histórico de **Faturação** da página **billing,** encontre o pedido de retenção na fonte de impostos. Os pedidos que necessitem da sua atenção terão um estatuto de "ação de parceiro pendente".
 
-4. Clique na retenção na fonte de imposto e no estado que o leva à página do pedido.
+4. Selecione o ID do pedido de retenção na fonte de imposto e o estado que o leva à página do pedido.
 
 5. Selecione **Update and resubmit under** **Status**.
 
@@ -105,7 +105,7 @@ Os sócios que apresentem pedidos de retenção na fonte alemã devem lembrar-se
 
 ### <a name="questions-and-assistance-for-tax-withholding-requests"></a>Perguntas e assistência aos pedidos de retenção na fonte
 
-Os parceiros devem utilizar o novo processo acima detalhado para apresentar novos pedidos e deixar de utilizar o pedido de apoio para novos pedidos de retenção na fonte. Os parceiros com questões adicionais sobre pedidos de retenção na fonte podem [apresentar pedidos de apoio.](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=9227afa6-babf-3917-acee-67db7860f5ed) Os pedidos de apoio destinam-se a ajudar os parceiros para os pedidos existentes, pelo que terão de ter o seu **ID de pedido** para apresentar um novo bilhete. Se os parceiros não puderem apresentar um pedido utilizando o novo processo, devem inserir algum número (todos 1' no formulário de pedido de apoio. 
+Os parceiros devem utilizar o novo processo acima detalhado para apresentar novos pedidos e deixar de utilizar o pedido de apoio para novos pedidos de retenção na fonte. Os parceiros com mais questões sobre pedidos de retenção na fonte podem [apresentar pedidos de apoio.](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=9227afa6-babf-3917-acee-67db7860f5ed) Os pedidos de apoio destinam-se a ajudar os parceiros para os pedidos existentes, pelo que terão de ter o seu **ID de pedido** para apresentar um novo bilhete. Se os parceiros não puderem apresentar um pedido utilizando o novo processo, devem inserir algum número (todos 1' no formulário de pedido de apoio. 
 
    > [!IMPORTANT]
    > Os parceiros não precisam de contactar o suporte se o seu estado de pedido estiver **concluído.** Este estado aparece no histórico de **Faturação** ao lado da fatura para a submissão. **Os** últimos montantes de pagamento junto à fatura devem refletir o valor da retenção na fonte no prazo de dez dias após a marcação do pedido como **Concluído**.

@@ -6,12 +6,12 @@ ms.topic: how-to
 author: msjogarrig
 ms.author: jogarrig
 ms.date: 02/24/2021
-ms.openlocfilehash: 8cfe0e95d1655530c9bc9d24b1efe85e6432236b
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 9da9eb4944508e815d1664fb44b13bce52f37150
+ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712771"
+ms.lasthandoff: 06/22/2021
+ms.locfileid: "112431677"
 ---
 # <a name="create-and-manage-private-azure-marketplace-in-the-azure-portal"></a>Criar e gerir o Private Azure Marketplace no portal Azure
 
@@ -291,6 +291,9 @@ Pode solicitar a adição de uma oferta pública ou plano que não esteja atualm
 
 > [!NOTE]
 > Uma vez apresentado, o formulário de pedido de aprovação será enviado ao [Centro de Notificação](#private-azure-marketplace-notification-center) do Administrador do Mercado para rever o pedido e tomar medidas.
+
+> [!CAUTION]
+> A aprovação no Mercado Privado não indica a aquisição de uma solução.
 
 ## <a name="frequently-asked-questions-faqs"></a>Perguntas frequentes (Perguntas Frequentes)
 

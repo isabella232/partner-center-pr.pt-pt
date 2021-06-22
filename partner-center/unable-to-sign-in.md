@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f4af8c48e2bbe65f58549b542447c80b699332be
-ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
+ms.openlocfilehash: 2b67201355e748f9280d28413a8737a9b07db5c6
+ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109818801"
+ms.lasthandoff: 06/22/2021
+ms.locfileid: "112431505"
 ---
 # <a name="troubleshoot-sign-in-issues-for-partner-center"></a>Problemas de resolução de problemas para o Partner Center
 
@@ -26,7 +26,7 @@ Este artigo contém soluções para problemas comuns de inscrição para o Partn
 
 Se esqueceu a sua palavra-passe e não pode entrar no Partner Center, contacte o Support. Encontre o contacto adequado no [Support for Business Products.](/microsoft-365/admin/contact-support-for-business-products)
 
-Se é um parceiro mpn, peça ao seu administrador Global para criar uma nova senha para si. Se é um revendedor indireto da CSP, peça ao seu fornecedor Indireto para criar um novo administrador Global para si no seu inquilino AZure AD ou crie uma nova senha para si usando os seus privilégios de administração delegados.
+Se for um parceiro da Microsoft Partner Network (MPN), peça ao seu administrador Global para criar uma nova palavra-passe para si. Se é um revendedor indireto cloud Solution Provider (CSP), peça ao seu fornecedor Indireto que crie um novo administrador Global para si no seu inquilino Azure Ative Directory (AD) ou crie uma nova senha para si utilizando os seus privilégios de administração delegados.
 
 Para saber mais sobre como pode redefinir a sua palavra-passe e recuperar o acesso à sua conta de trabalho, leia [Redefinir o seu trabalho ou a palavra-passe da escola utilizando informações de segurança.](/azure/active-directory/user-help/active-directory-passwords-update-your-own-password#how-to-change-your-password)
 
