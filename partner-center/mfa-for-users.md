@@ -9,12 +9,12 @@ author: vijvala
 ms.author: vijvala
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 37373c032dc34315c0e3274987805d7518d0b595
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 9cdb83c8b58b75606275c9773cba79eba75d5d0d
+ms.sourcegitcommit: 7cc83714e17337b472727819243f98c84ae181ba
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276608"
+ms.lasthandoff: 06/22/2021
+ms.locfileid: "112450812"
 ---
 # <a name="set-up-your-users-with-multi-factor-authentication"></a>Configurar os seus utilizadores com a autenticação multifator
 
@@ -34,7 +34,7 @@ Deve ser o administrador global da sua empresa para completar esta tarefa.
 
 Isto permitirá o MFA para este utilizador. Ativado significa que o utilizador será solicitado a configurar a sua verificação de MFA quando iniciar o seu seru. Posteriormente, ao iniciar o sôm, será-lhes solicitado que lhes forneçam um código que lhes seja enviado através de e-mail ou mensagem de texto (dependendo do que configurarem).  
 
-:::image type="content" source="images/MFA/securityverification.png" alt-text="Especificar como verificar.":::
+:::image type="content" source="images/multi-factor-authentication/security-verification.png" alt-text="Especificar como verificar.":::
 
 >[!NOTE]
 >Pode **impor aos** seus utilizadores a utilização de MFA utilizando os mesmos passos acima e selecionando **Enforce**. Para saber mais, leia [Ativar a autenticação multi-factor Azure por utilizador para garantir eventos de entrada.](/azure/active-directory/authentication/howto-mfa-userstates) 
