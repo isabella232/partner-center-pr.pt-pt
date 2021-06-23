@@ -7,12 +7,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 80cb5503323f483c13c983375559baf70f9d0b6f
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 85eefb49cf62c4bcfa5533683abd8ddb0e854463
+ms.sourcegitcommit: 09eabb559aae25518caf3f2a59ef16a3e123c207
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854728"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112490075"
 ---
 # <a name="regional-taxes-regulations-for-public-switched-telephone-network-ptsn-services"></a>Impostos regionais, regulamentos para serviços de Rede Telefónica Comutado Público (PTSN)
 
@@ -26,7 +26,7 @@ Envolva o seu conselho fiscal e jurídico para compreender a responsabilidade da
 
 ## <a name="invoice-presentation-and-partner-reconciliation-file"></a>Arquivo de apresentação de fatura e reconciliação de parceiros
 
-As faturas de CSP e os ficheiros de reconciliação da CSP nos Estados Unidos, Porto Rico e Canadá, que incluem o Skype para os serviços de pstn empresarial e microsoft 365 Voice, fornecerão itens de linha separados para os componentes PSTN e não PSTN.
+As faturas do Cloud Solution Provider (CSP) e os ficheiros de reconciliação CSP nos Estados Unidos, Porto Rico e Canadá, que incluem o Skype para serviços de PSTN e Microsoft 365 Voice, fornecerão itens de linha separados para os componentes PSTN e não PSTN.
 
 Além disso, as faturas CSP apresentarão a seguinte nota de rodapé:
 
@@ -45,7 +45,7 @@ O Office 365 Enterprise E5 apresenta no ficheiro de reconciliação dois itens d
 
 **Exemplo de reconciliação de parceiros #2**
 
-O Microsoft 365 Business Voice disponível no Canadá tem componentes tributáveis PSTN adicionais que são consolidados na Fatura CSP (semelhante ao Office 365 E5, são apresentados dois itens de linha, um para componentes PSTN e outro para componentes não PSTN).  O ficheiro de reconciliação CSP para o Microsoft 365 Business Voice apresentará individualmente todos os componentes tributáveis pstn (os componentes PSTN individuais não serão consolidados em . Ferramenta CSV ou API).  A soma dos dados da encomenda e dos montantes cobrados para os clientes encontrados no ficheiro de reconciliação corresponderá à Fatura CSP.
+O Microsoft 365 Business Voice disponível no Canadá tem componentes tributáveis PSTN adicionais que são consolidados na Fatura CSP (semelhante ao Office 365 E5, são apresentados dois itens de linha, um para componentes PSTN e outro para componentes não PSTN).  O ficheiro de reconciliação CSP para o Microsoft 365 Business Voice apresentará individualmente todos os componentes tributáveis pstn (os componentes PSTN individuais não serão consolidados na ferramenta .CSV ou API).  A soma dos dados da encomenda e dos montantes cobrados para os clientes encontrados no ficheiro de reconciliação corresponderá à Fatura CSP.
 
 ## <a name="additional-resources"></a>Recursos Adicionais
 Para mais detalhes, visite o site [da Microsoft 365 para Parceiros.](https://www.microsoft.com/microsoft-365/partners/)

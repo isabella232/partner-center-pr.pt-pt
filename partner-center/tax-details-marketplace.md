@@ -6,12 +6,12 @@ ms.service: partner-dashboard
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 04/26/2021
-ms.openlocfilehash: 06abd261e4d71b2e5e37eb2d77c1e62794c99a95
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 673620843ea8d469f1a665982f2a120b4b1e2d7e
+ms.sourcegitcommit: 09eabb559aae25518caf3f2a59ef16a3e123c207
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277764"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112490024"
 ---
 # <a name="tax-details-for-commercial-marketplace-publishers"></a>Informações fiscais para publicadores do marketplace comercial
 
@@ -54,7 +54,7 @@ Nos **países revendedores, a** Microsoft atua como revendedor, em vez de como a
 |Benim|Ilhas Faroé|Maldivas|
 |Bermudas|Fiji|Mali|
 |Butão|Gabão|Ilhas Marshall|
-|Bolívia|Gana|Martinque|
+|Bolívia|Gana|Martinica|
 |Bonaire|Geórgia|Mauritânia|
 |Bósnia & Herzegovina|Gibraltar|Maurícias|
 |Botsuana|Gronelândia|Ma Ote|
@@ -98,7 +98,7 @@ Checa|Letónia|Rússia|E.A.U.|
 
 |**País**|**Mercado Comercial (Azure Marketplace & AppSource)**| **Mercado do Consumidor (Microsoft Store)**|
 |------------------|:-----------------|:---------------|
-|Brasil|Revendedor exceto: Editor gerido para compras efetuada através do cenário de compra de clientes da CSP|Desenvolvedor gerido exceto: Revendedor para compras feitas através de dispositivos em execução no Windows 10|
+|Brasil|Revendedor exceto: Editor gerido para compras efetuadas através do cenário de compra de clientes cloud Solution Provider (CSP)|Desenvolvedor gerido exceto: Revendedor para compras feitas através de dispositivos em execução no Windows 10|
 |México|Microsoft gerida exceto: Revendedor para compras através de cenário de compra de clientes de acordo com a empresa|Microsoft gerido|
 |Austrália|Microsoft gerida exceto: Revendedor para compras através de cenário de compra de clientes de acordo com a empresa|Microsoft gerido|
 China|Mercado não habilitado|Revendedor ativado exceto: desenvolvedor gerido para dispositivos de comunicações móveis com windows phone 7.x e em computadores pessoais executando o Windows 8.x|
@@ -126,15 +126,15 @@ A Microsoft cobra imposto sobre as taxas de loja nos seguintes países onde edit
 
 ### <a name="end-customer-taxation"></a>Tributação dos clientes finais
 
-- Cenário um: Cliente numa oferta de compras de país gerido pela Editora
+- Cenário um: Cliente num país gerido pela Editora compra uma oferta
 
   :::image type="content" source="images/tax/scenario-one.png" alt-text="Gráfico mostrando como o editor paga.":::
 
-- Cenário dois: Cliente numa oferta de compras por país gerida pela Microsoft (país editor irrelevante)
+- Cenário dois: Cliente num país gerido pela Microsoft compra uma oferta (país editor irrelevante)
 
   :::image type="content" source="images/tax/scenario-two.png" alt-text="Gráfico que mostra a tributação no país gerido pela Microsoft.":::
 
-- Cenário três: Editora estrangeira faz uma venda transfronteiriça a um cliente registado ue-IVA localizado num país gerido pela Microsoft
+- Cenário três: Editora estrangeira faz uma venda transfronteiriça a um imposto sobre o valor acrescentado da UE (IVA) Cliente Registado localizado num país gerido pela Microsoft
 
   :::image type="content" source="images/tax/scenario-three.png" alt-text="Gráfico que mostra como a UE-IVA afeta os impostos."::: 
 
@@ -142,17 +142,17 @@ A Microsoft cobra imposto sobre as taxas de loja nos seguintes países onde edit
 
   :::image type="content" source="images/tax/scenario-four.png" alt-text="Gráfico que mostra como o IVA é tratado.":::
 
-- Cenário cinco: Cliente numa oferta de compras de país gerido pela Microsoft onde há imposto sobre a Taxa de Serviço da Loja
+- Cenário cinco: Cliente num país gerido pela Microsoft compra uma oferta onde há imposto sobre a Taxa de Serviço da Loja
 
   :::image type="content" source="images/tax/scenario-five.png" alt-text="Gráfico mostrando como a taxa de serviço da Loja afeta o imposto.":::
 
 ### <a name="withholding-tax"></a>Retenção na fonte
 
-- Cenário um: Editor estrangeiro (sem benefícios fiscais aplicáveis no perfil fiscal) faz venda a clientes dos EUA. 
+- Cenário um: Editor estrangeiro (sem benefícios fiscais aplicáveis no perfil fiscal) faz uma venda a clientes dos EUA. 
 
   :::image type="content" source="images/tax/withholding-one.png" alt-text="Gráfico mostrando retenção na fonte sem tratado fiscal.":::
 
-- Cenário dois: Editor estrangeiro (com benefícios fiscais aplicáveis no perfil fiscal a taxa de zero por cento) com um tratado faz a venda a clientes dos EUA. 
+- Cenário dois: Editor estrangeiro (com benefícios fiscais aplicáveis no perfil fiscal a taxa de zero por cento) com um tratado faz uma venda a clientes dos EUA. 
 
   :::image type="content" source="images/tax/withholding-two.png" alt-text="Gráfico mostrando retenção na fonte com tratado fiscal.":::
 

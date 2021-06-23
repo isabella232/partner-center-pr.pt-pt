@@ -9,12 +9,12 @@ author: MalloryPrincipe
 ms.author: mallp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9526a47d0b6d734bde48f403c11fa84d734511c1
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 196009d9271324377be02d0b2d12ba8a4d7a993c
+ms.sourcegitcommit: 09eabb559aae25518caf3f2a59ef16a3e123c207
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109856105"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112489956"
 ---
 # <a name="customer-associations-via-the-claimed-partner-of-record-cpor-model-for-microsoft-365-and-dynamics-365"></a>Associações de clientes através do modelo Claimed Partner of Record (CPOR) para Microsoft 365 e Dynamics 365
 
@@ -24,15 +24,15 @@ ms.locfileid: "109856105"
 No dia 1 de outubro de 2019, a Microsoft começou a utilizar o modelo Claiming Partner of Record (CPOR) para gerir as associações que tem com os seus clientes Microsoft 365 e Dynamics 365 no que diz respeito aos incentivos de Venda de Serviços Online (OSA) Sell, Uso de Serviços Online (OSU)-Microsoft 365 e OSU-Business Desempreição de Aplicações.
 
 >[!Important]
-> As reclamações da Associação de Clientes (CPOR) aplicam-se apenas aos programas de incentivo de venda de serviços online (OSA) de venda, utilização de serviços online (OSU)-Microsoft 365 e OSU-Business Programas de incentivo à aplicação. Se estiver a apresentar uma reclamação cooperativa para outro programa como Cloud Solution Provider, Managed Reseller, Hosting ou Surface, consulte o processo de reclamações de Co-op aqui descrito. <br><br>Quando submete a sua reclamação, a Microsoft valida-a. Podemos pedir-lhe mais informações neste momento. Também notificaremos o cliente do seu pedido de associação. Os clientes têm cinco dias úteis para optar. Se eles não optarem, a sua associação com este inquilino específico e carga de trabalho será oficial. Neste momento terá acesso aos dados de utilização do cliente. 
+> As reclamações da Associação de Clientes (CPOR) aplicam-se apenas aos programas de incentivo de venda de serviços online (OSA) de venda, utilização de serviços online (OSU)-Microsoft 365 e OSU-Business Programas de incentivo à aplicação. Se estiver a apresentar uma reclamação cooperativa para outro programa como Cloud Solution Provider (CSP), Managed Reseller, Hosting ou Surface, consulte o processo de reclamações de Co-op aqui descrito. <br><br>Quando submete a sua reclamação, a Microsoft valida-a. Podemos pedir-lhe mais informações neste momento. Também notificaremos o cliente do seu pedido de associação. Os clientes têm cinco dias úteis para optar. Se eles não optarem, a sua associação com este inquilino específico e carga de trabalho será oficial. Neste momento terá acesso aos dados de utilização do cliente. 
 
 Necessitará das seguintes informações para completar uma reclamação:
 
-- O **ID mpn** para a sua entidade que faz a reclamação
+- O **ID MPN** (Microsoft Partner Network ID) para a sua entidade que faz a reclamação
 
-- Nome de **domínio** do cliente [Encontre isto](find-ids-and-domain-names.md)
+- Nome de **domínio** do cliente (para mais informações, consulte [Encontrar ID do inquilino, nome de domínio, ID do objeto de utilizador)](find-ids-and-domain-names.md)
 
-- ID do **Diretório** do Cliente ou **ID do Inquilino** [Encontre isto](find-ids-and-domain-names.md)
+- ID do **Diretório** do Cliente ou **ID do Inquilino** (para mais informações, consulte Encontrar [ID do inquilino, nome de domínio, ID do objeto de utilizador)](find-ids-and-domain-names.md)
 
 - A **área de Solução**, como aplicações empresariais ou Microsoft 365
 
@@ -54,7 +54,7 @@ Necessitará das seguintes informações para completar uma reclamação:
 
 Deve também compreender os seguintes pontos:
 
-- Se tiver clientes Microsoft 365 existentes, terá de voltar a associar-se àqueles que pretende continuar a ganhar incentivos da OSU utilizando este processo.
+- Se tiver clientes Microsoft 365 existentes, terá de se associar àqueles que pretende continuar a ganhar incentivos da OSU utilizando este processo.
 
 - Se tiver associações existentes com clientes Dynamics 365 ou Power BI, estas associações permanecerão válidas, até ao termo das suas subscrições.
 
@@ -88,7 +88,7 @@ Deve também compreender os seguintes pontos:
    >[!NOTE]
    >Se o seu produto for Dynamics 365, e o produto que escolher tiver várias subscrições para este cliente em particular, também terá de introduzir o ID de subscrição.
 
-10. Forneça o seu comprovativo de execução (PoE). Pode arrastá-la para a caixa, navegar para a sua própria documentação de suporte ou utilizar um modelo ao selecionar **Transferir modelo**. 
+10. Forneça o seu PoE. Pode arrastá-la para a caixa, navegar para a sua própria documentação de suporte ou utilizar um modelo ao selecionar **Transferir modelo**. 
 
 11. Adicione e guarde comentários se quiser e, em seguida, selecione **Submeter pedido**. Enviaremos um e-mail ao cliente a pedir a aprovação da associação de clientes.
 

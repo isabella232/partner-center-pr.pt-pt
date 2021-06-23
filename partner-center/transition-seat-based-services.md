@@ -9,20 +9,20 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b1d5f415680cad8466da631a68fb6249a5298a2d
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 2cfea9bc672ff12868a7944cf81601e5292dae80
+ms.sourcegitcommit: 09eabb559aae25518caf3f2a59ef16a3e123c207
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855986"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112489905"
 ---
-# <a name="move-license-based-customers-from-other-channels--partners-to-the-cloud-solution-provider-program"></a>Mover clientes baseados em licenças de outros canais & parceiros para o programa Cloud Solution Provider
+# <a name="move-license-based-customers-from-other-channels--partners-to-the-cloud-solution-provider-csp-program"></a>Mover clientes baseados em licenças de outros canais & parceiros para o programa Cloud Solution Provider (CSP)
 
 **Funções adequadas**: Administração de contas | Agente comercial | Agente de faturação
 
 Se o seu cliente quiser contratar vários parceiros, transferir as suas subscrições para outro parceiro ou gerir as suas subscrições adquiridas noutro local, pode movê-las manualmente. Também pode mover clientes para o Partner Center a partir de outro canal.
 
-## <a name="move-your-customers-license-based-subscriptions-to-the-cloud-solution-provider-program-csp"></a>Mover as subscrições baseadas em licença do seu cliente para o Programa de Provedor de Solução Cloud (CSP)
+## <a name="move-your-customers-license-based-subscriptions-to-the-csp-program"></a>Mova as assinaturas baseadas em licença do seu cliente para o Programa CSP
 
 1. Selecione **Clientes** no menu Partner Center e, em seguida, **selecione Solicite uma relação de revendedor**. Para fornecer suporte para contas multicanal, faz a mesma coisa.
 

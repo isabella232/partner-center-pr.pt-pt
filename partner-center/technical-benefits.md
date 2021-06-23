@@ -9,22 +9,22 @@ ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 03/30/2021
-ms.openlocfilehash: fb991e8e5792e2be2087e05cc371b064ea11d02e
-ms.sourcegitcommit: 0410e2a3f91b7e6b592cc47e7af1dfbe468c7881
+ms.openlocfilehash: bf29df94a7a59e5a022c7c6407da27b7202547db
+ms.sourcegitcommit: 09eabb559aae25518caf3f2a59ef16a3e123c207
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112318100"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112490007"
 ---
 # <a name="explore-technical-presales-and-deployment-services-tpd"></a>Explore as Pré-vendas Técnicas e os serviços de Implantação (TPD) 
 
 **Funções apropriadas**: Qualquer conta de utilizador MPN desde que a organização tenha uma competência ativa ou Microsoft Action Pack.
 
-Conheça os benefícios da Microsoft Partner Network (MPN) para os serviços técnicos de pré-venda e implantação, incluindo consultas, assistência de pré-vendas, horários de aconselhamento e muito mais.
+Conheça os benefícios da Microsoft Partner Network (MPN) para os serviços técnicos de pré-venda e implantação (TPD), incluindo consultas, assistência de pré-vendas, horários de aconselhamento e muito mais.
 
 ## <a name="develop-your-technical-know-how"></a>Desenvolva o seu know-how técnico
 
-Utilize pré-vendas técnicas e serviços de implantação (TPD) para consultas personalizadas remotas para construir as suas capacidades técnicas mais rapidamente para aumentar as vendas, implementar de forma mais eficaz e acelerar o desenvolvimento de aplicações. [Saiba mais](https://aka.ms/TPD).
+Utilize o TPD para consultas personalizadas remotas para construir as suas capacidades técnicas mais rapidamente para aumentar as vendas, implementar de forma mais eficaz e acelerar o desenvolvimento de aplicações. [Saiba mais](https://aka.ms/TPD).
 
 Todas as soluções Cloud ou Hybrid são suportadas, para além das instalações do Windows 10, Windows Server e Microsoft SQL Server. 
 
@@ -38,7 +38,7 @@ Todas as soluções Cloud ou Hybrid são suportadas, para além das instalaçõe
 |:-----------------:|:------------------------:|:----------------------:|
 |        Gold       |            50            |        Ilimitado       |
 |       Silver      |            20            |        Ilimitado       |
-| Pacote de Ação (MAPS) |             5            | Deduz horas de aconselhamento |
+| Pacote de ação (MAPS) |             5            | Deduz horas de aconselhamento |
 
 Inscreva-se em qualquer conta de utilizador associada à MPN para **[criar um pedido de Pré-Venda Técnica e Serviços de Implantação (TPD)](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical/createadvisoryhours-servicerequest)** (não é necessária ativação de benefícios técnicos).
 
@@ -60,27 +60,27 @@ Inscreva-se em qualquer conta de utilizador associada à MPN para **[criar um pe
 
 ## <a name="in-scope-products-and-services"></a>In-Scope produtos e serviços
 
-Os seguintes produtos e serviços estão em curso para pré-venda técnica e serviços de implantação:
+Os seguintes produtos e serviços estão em aplicação para a TPD:
 - **Microsoft 365**: Todos os componentes do Microsoft Office 365, tais como Microsoft Teams, Exchange Online, SharePoint Online, OneDrive, Yammer, Project Online, Skype for Business Server 2019, Enterprise Mobility + Security, Microsoft Intune, Azure Ative Directory, Azure Information Protection
   - *Fora do âmbito: Servidores de Escritório exclusivamente no local - Exchange e SharePoint*
 - **Aplicações empresariais**: Microsoft Dynamics 365 (online), Microsoft Power Platform (Power Apps, Power Automamate, Power BI)
   - *Fora do âmbito: Versões exclusivamente no local da Dynamics 365, GP, SL, AX, NAV*
 - **Microsoft Azure**: Todas as soluções e serviços relacionados da Microsoft Azure, tais como infraestruturas como um serviço, plataforma como um serviço, Plataforma de Dados, BI Analytics, Serviços Cognitivos, Azure Machine Learning, Azure Stack
 - **Servidor Windows e SQL Server**: Suporte mainstream, tal como regido pelo ciclo de vida do **[produto)](/lifecycle/policies/fixed)**
-  - O System Center inclui produtos relacionados, como o SCCM, se estiver relacionado com cenários em nuvem ou híbridos
+  - O System Center inclui produtos relacionados, como o System Center Configuration Manager (SCCM), se estiver relacionado com cenários em nuvem ou híbridos
 - **Windows 10**: sistema operativo Windows 10, dispositivos, aplicações universais
 - **Produtos em Visualização Privada ou Pública**: A ajuda é prestada numa base de melhores esforços, para ambientes não produtivos e sem garantias sobre disponibilidade de informação ou tempo de resposta
 
 ## <a name="submit-a-technical-presales-and-deployment-services-request"></a>Apresentar um pedido de pré-venda técnica e serviços de implantação 
 
-Os seus benefícios técnicos de pré-venda e serviços de implantação (TPD) são automaticamente ativados e disponíveis para todos os utilizadores associados à MPN. 
+Os seus benefícios TPD são automaticamente ativados e disponíveis para todos os utilizadores associados à MPN. 
 
 Para ver os seus benefícios técnicos no Partner Center:
 
 1. Inscreva-se com a sua conta associada à MPN no [painel de instrumentos](https://partner.microsoft.com/dashboard)do Centro de Parceiros . 
 
    > [!NOTE]
-   > Se a sua conta estiver apenas associada à CSP e não estiver associada à MPN, verá uma mensagem de erro "Não está autorizado para esta ação". Deve ter uma conta associada à MPN.
+   > Se a sua conta estiver apenas associada ao programa Cloud Solution Provider (CSP) e não estiver associada à MPN, verá uma mensagem de erro "Não está autorizado para esta ação". Deve ter uma conta associada à MPN.
 
 2. Expandir **benefícios** no menu de navegação à esquerda, selecione **benefícios técnicos**. A página de benefícios técnicos aparece com uma lista de benefícios técnicos de suporte disponíveis para as suas ofertas de subscrição Gold, Silver ou Microsoft Action Pack. 
 
@@ -96,9 +96,9 @@ Para ver os seus benefícios técnicos no Partner Center:
 :::image type="content" source="images/benefits/mpn-tpd-2.png" lightbox="images/benefits/mpn-tpd-2.png" alt-text="Pré-vendas técnicas e benefícios de implantação - Produtos de Pesquisa.":::
 
    > [!NOTE]
-   > Se necessitar de uma Cloud Consult como parte do seu plano de suporte ASfP ou PSfP, contacte o seu gestor de conta de suporte (SAM).
+   > Se necessitar de uma Cloud Consult como parte do seu plano de suporte [de Apoio Avançado a Parceiros (ASfP)](https://partner.microsoft.com/support/advanced-cloud-support) ou Premier Support for Partners [(PSfP),](https://partner.microsoft.com/support/microsoft-services-premier-support) contacte o seu gestor de conta de suporte (SAM).
 
-5. **Preencha o formulário e submeta- se.** Certifique-se de que inclui o código de marcação internacional completo com o seu número de telefone. Para países que cobrem vários fusos horários, por exemplo, EUA, Rússia, indicam o seu fuso horário e horários de trabalho preferidos.
+5. Preencha o formulário e submeta- se. Certifique-se de que inclui o código de marcação internacional completo com o seu número de telefone. Para países que cobrem vários fusos horários, por exemplo, EUA, Rússia, indicam o seu fuso horário e horários de trabalho preferidos.
 
    > [!IMPORTANT]
    > Certifique-se de selecionar o país (ou região) e a língua relevantes porque estes determinam onde o seu pedido é encaminhado.

@@ -9,16 +9,16 @@ author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: b08ac8d76324270f32db481a92387b20650f42f5
-ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
+ms.openlocfilehash: a8c465b38d8613a107d1900f220c4885fc9655e1
+ms.sourcegitcommit: 09eabb559aae25518caf3f2a59ef16a3e123c207
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "107266491"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112490092"
 ---
 # <a name="training-vouchers-program-retirement"></a>Reforma do Programa de Vouchers de Formação
 
-Os Vouchers de Formação estão a ser totalmente retirados dos benefícios da Software Assurance, mas os clientes podem continuar a usar os dias de voucher para a formação conduzida por instrutores enquanto os vouchers são válidos. Estas são as datas significativas que antecedem a reforma do programa: 
+Os Vouchers de Formação de Garantia de Software (SATVs) estão a ser totalmente retirados dos benefícios da Garantia de Software, mas os clientes podem continuar a usar os dias de voucher para a formação conduzida por instrutores enquanto os vouchers são válidos. Estas são as datas significativas que antecedem a reforma do programa: 
 
 - 1 de fevereiro de 2020: A formação Azure retirou-se do catálogo de vouchers de formação.
 - 1 de fevereiro de 2020: Os vouchers de formação já não podem ser convertidos para dias de Serviços de Planeamento.  
@@ -27,7 +27,7 @@ Os Vouchers de Formação estão a ser totalmente retirados dos benefícios da S
 - 1 de janeiro de 2022: Último dia para os sócios resgatar vouchers de formação. O parceiro terá 60 dias após o resgate para concluir o processo de pedido de pagamento.  
 
 >[!NOTE]
->Não há alteração no ciclo de vida do voucher. Uma vez criado um voucher/atribuído, a reserva de vouchers, sessões de formação e o resgate do voucher devem ser concluídos no prazo de 180 dias antes da expiração do voucher.  Para obter mais informações sobre a aposentadoria do Voucher de Formação, consulte as PERGUNTAS Frequentes [aqui](https://partner.microsoft.com/resources/collection/software-assurance-benefit-changes#/) encontradas para obter mais informações (inscrição obrigatória).  Consulte a lista completa dos cursos de formação elegíveis para SATV no catálogo de produtos de benefícios de formação.  Por favor, dirijo quaisquer perguntas à sua equipa regional de Apoio ao [Parceiro: Apoio ao Parceiro EMEA;](mailto:savoucher@msdirectservices.com) [Suporte Geral do Parceiro](https://partner.microsoft.com/dashboard/support/servicerequests).
+>Não há alteração no ciclo de vida do voucher. Uma vez criado um voucher/atribuído, a reserva de vouchers, sessões de formação e o resgate do voucher devem ser concluídos no prazo de 180 dias antes da expiração do voucher.  Para obter mais informações sobre a aposentadoria do Voucher de Formação, consulte as PERGUNTAS Frequentes [aqui](https://partner.microsoft.com/resources/collection/software-assurance-benefit-changes#/) encontradas (inscrição obrigatória).  Consulte a lista completa dos cursos de formação elegíveis para SATV no catálogo de produtos de benefícios de formação. Por favor, dirijo quaisquer perguntas à sua equipa regional de Apoio ao [Parceiro: Apoio ao Parceiro EMEA;](mailto:savoucher@msdirectservices.com) [Suporte Geral do Parceiro](https://partner.microsoft.com/dashboard/support/servicerequests).
 
 
 
@@ -48,13 +48,13 @@ Este artigo explica como completar cada passo.
 
 ## <a name="confirm-program-eligibility"></a>Confirmar a elegibilidade do programa
 
-Para se poder inscrever no programa SATV, tem de preencher os requisitos da opção Aprendizagem do Microsoft Partner Network, que substitui a competência do Microsoft Learning. Aprenda a começar na [opção Aprender.](https://partner.microsoft.com/membership/learning-partners)
+Antes de se inscrever no programa SATV, tem primeiro de preencher os requisitos para a opção de aprendizagem da Microsoft Partner Network (MPN), que substitui a competência microsoft Learning. Aprenda a começar na [opção Aprender.](https://partner.microsoft.com/membership/learning-partners)
 
 Pode verificar a elegibilidade da sua empresa, incluindo os requisitos de competência e avaliação aplicáveis no Partner Center. Siga as instruções no [passo 1](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) do fluxo de trabalho do SATV para obter mais detalhes e capturas de ecrã.
 
 ## <a name="enroll-in-the-training-program"></a>Inscreva-se no programa de formação
 
-Depois de a sua empresa cumprir os requisitos de elegibilidade, está pronto para assinar o contrato do programa de formação de software Assurance Voucher e inscrever-se. Certifique-se de rever todas as [políticas do programa SATV,](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP)em seguida, siga as instruções no [passo 2](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) do fluxo de trabalho para concluir o processo de inscrição satv no Partner Center.
+Depois de a sua empresa cumprir os requisitos de elegibilidade, está pronto para assinar o contrato do programa SATV e inscrever-se. Certifique-se de rever todas as [políticas do programa SATV,](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP)em seguida, siga as instruções no [passo 2](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) do fluxo de trabalho para concluir o processo de inscrição satv no Partner Center.
 
 
 ## <a name="confirm-course-eligibility"></a>Confirmar a elegibilidade do curso
@@ -70,7 +70,7 @@ Agora pode reservar e resgatar vouchers e começar a treinar os seus clientes. O
 
 ## <a name="deliver-training-and-activate-product"></a>Entregar o produto de formação e ativação
 
-Uma vez reservado um voucher, poderá entregar o treino ao seu cliente. Consulte o [passo 6](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) do fluxo de trabalho para orientações de envolvimento de formação e instruções para a ativação e compra de Microsoft Official Courseware (MOC), exames e vouchers de certificados do Microsoft Course (LaaS) para cursos MOOC.
+Uma vez reservado um voucher, poderá entregar o treino ao seu cliente. Consulte o [passo 6](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) do fluxo de trabalho para orientações de envolvimento de formação e instruções para a ativação e compra de cursos oficiais da Microsoft (MOC), exames e vouchers de certificados do Microsoft Course Certificate (LaaS) para cursos online abertos maciços (MOOC).
 
 ## <a name="redeem-voucher"></a>Voucher redentor
 
@@ -81,7 +81,7 @@ Uma vez que você completa um treino, você deve resgatar o voucher. Siga as ins
 
 Os pagamentos são tratados através da Ferramenta de Pagamento Online Do Voucher de Garantia de Software (SAVB). Siga as instruções no [passo 8](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) do fluxo de trabalho para enviar uma fatura à Microsoft através do SAVB. 
 
-Para obter informações adicionais leia as [faq](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3kz5o) e reveja [as políticas do programa SATV](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP).
+Para obter informações adicionais, leia as [FAQ](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3kz5o) e reveja [as políticas do programa SATV.](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP)
 
 Veja também:
 

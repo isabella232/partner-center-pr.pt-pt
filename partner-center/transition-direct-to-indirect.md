@@ -4,17 +4,17 @@ ms.topic: how-to
 ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Saiba como um parceiro de programa CSP pode usar o Partner Center para transitar de parceiro de conta direta para revendedor indireto.
+description: Saiba como um parceiro de programa Cloud Solution Provider (CSP) pode usar o Partner Center para transitar de parceiro de conta direta para revendedor indireto.
 author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e57c4a5d0a02079e887b38fa9754d276062d20cc
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 205451a1c42c6538936df49ba8a4314372a94082
+ms.sourcegitcommit: 09eabb559aae25518caf3f2a59ef16a3e123c207
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276421"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112490058"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Transição do parceiro de faturação direta do Fornecedor de Soluções Cloud para o revendedor indireto do CSP
 
@@ -22,13 +22,13 @@ ms.locfileid: "112276421"
 
 >[!Note]
 >Este artigo destina-se a parceiros de conta direta que tenham decidido transitar para revendedores indiretos. No entanto, mesmo que ainda não tenha tido uma decisão explícita de se inscrever como revendedor indireto, os parceiros de conta direto que não satisfaçam os novos requisitos para o programa de [parceiros](direct-partner-new-requirements.md) de conta direta CSP serão informados pela Microsoft quando as suas [capacidades de conta direta forem restringidas.](restricted-direct-bill-capabilities.md)
-<br>A partir de janeiro de 2021, será adicionado um novo requisito de receita. Os parceiros inscritos como parceiro de conta direta terão de ter transacionado pelo menos USD$300K em receitas do programa Cloud Solution Provider a um nível de Conta Global de Parceiros nos 12 meses anteriores.
+<br>A partir de janeiro de 2021, será adicionado um novo requisito de receita. Os parceiros inscritos como parceiro de conta direta terão de ter transacionado pelo menos USD$300K em receitas do programa CSP a um nível de Conta Global de Parceiros nos 12 meses anteriores.
 
 Poderá inscrever-se no programa de revenda indireto utilizando o seu inquilino de fatura direta existente.
 
 ## <a name="get-started"></a>Introdução
 
-1. Certifique-se de que o perfil do seu parceiro no Partner Center e no MPN ID estão em vigor.
+1. Certifique-se de que o perfil do seu parceiro no Partner Center e no Microsoft Partner Network (MPN) estão em vigor.
 
 2. Inscreva-se no Partner Center como administrador global para o inquilino de conta direta que está a transitar para o revendedor indireto.
 
@@ -38,7 +38,7 @@ Poderá inscrever-se no programa de revenda indireto utilizando o seu inquilino 
 
    :::image type="content" source="images/direct/direct2a.png" alt-text="Inscreva-se agora.":::
 
-4. Selecione Matricular-se agora. O seu negócio de revendedor indireto usará o mesmo inquilino da AAD que usa para o seu negócio direto.
+4. Selecione Matricular-se agora. O seu negócio de revendedor indireto utilizará o mesmo inquilino do Microsoft Azure Ative Directory (Azure AD) que utiliza para o seu negócio direto.
 
     > [!NOTE]
     > Inicialmente, esta nova capacidade de transição estará disponível para parceiros com datas de aniversário de setembro a dezembro. Se não tiver uma data de aniversário entre setembro e dezembro, não verá a capacidade neste momento. Os parceiros com datas de aniversário após dezembro de 2018 serão notificados mais tarde assim que a funcionalidade estiver ativada para os parceiros.
@@ -167,17 +167,17 @@ Pode utilizar a funcionalidade de extensão de relacionamento do revendedor para
 
 Para utilizar esta funcionalidade num inquilino de cliente existente:
 
-1. Faça login no Partner Center como **agente administrativo.**
+1. Inscreva-se no Partner Center como **Agente Administrativo.**
 
-2. Na **página Clientes,** selecione um cliente existente e clique no seu ícone **de links Rápidos** para expandir a visão sumária do cliente.
+2. Na **página Clientes,** selecione um cliente existente e selecione o seu ícone **de links Rápidos** para expandir a visão sumária do cliente.
 
-3. **No(s) fornecedor(s) indireto,** clique **em Transferir clientes num fornecedor indireto**.
+3. **No(s) fornecedor indireto,** selecione **Cliente de transferência num fornecedor indireto**.
 
     :::image type="content" source="images/direct/direct5-1.png" alt-text="Transfira o cliente para um fornecedor indireto.":::
 
 4. No diálogo pop-up, selecione o **Fornecedor Indireto** que pretende ter uma relação de revendedor com o cliente.
 
-5. Clique **em Guardar e continuar.**
+5. Selecione **Guardar e continuar**.
 
 6. Verifique se o fornecedor indireto selecionado aparece no **ou nos fornecedores indiretos.**
 
@@ -231,7 +231,7 @@ De acordo com o modelo indireto da CSP, os revendedores indiretos não têm rela
 
 ### <a name="how-to-transition-to-indirect-reseller-status"></a>Como transitar para o estatuto de revendedor indireto
 
-A funcionalidade é um processo de 4 etapas, onde:
+A funcionalidade é um processo em quatro etapas, onde:
 
 - O parceiro de transição cria um pedido de transferência de assinatura. O pedido contém uma ou mais subscrições existentes associadas ao mesmo cliente e é endereçado a um fornecedor indireto.
 
@@ -258,17 +258,17 @@ A funcionalidade é um processo de 4 etapas, onde:
 
 Para criar um pedido de transferência como parceiro de transição:
 
-1. Faça login no Partner Center como **agente administrativo.**
+1. Inscreva-se no Partner Center como **Agente Administrativo.**
 
-2. Na página **Clientes,** selecione o cliente pretendido e clique no ícone links Rápidos para expandir a visão sumária do cliente.
+2. Na página **Clientes,** selecione o cliente pretendido e selecione o ícone de links Rápidos para expandir a visão sumária do cliente.
 
 3. Ao abrigo **do ou dos fornecedores indiretos,** confirme que o fornecedor indireto pretendido está listado.
 
-4. Clique **em Ver Assinaturas**.
+4. Selecione **Ver Subscrições**.
 
 5. Na página **subscrições,** procure **a Transferência de Assinaturas.**
 
-6. Em **Transferência de Assinatura**, clique em Solicitar transferência de **subscrição.**
+6. Sob **Transferência de Assinatura**, selecione Transferência de **subscrição de pedido.**
 
     :::image type="content" source="images/direct/direct8.png" alt-text="Solicite transferência de assinatura.":::
 
@@ -276,7 +276,7 @@ Para criar um pedido de transferência como parceiro de transição:
 
     :::image type="content" source="images/direct/direct9.png" alt-text="Criar pedido de transferência.":::
 
-8. Clique em **Criar**.
+8. Selecione **Criar**.
 
 9. Um pedido de transferência de assinatura ativo será apresentado no âmbito **da Transferência de Assinaturas.**
 
@@ -288,21 +288,21 @@ Para criar um pedido de transferência como parceiro de transição:
 
 Rever e aceitar um pedido de transferência como fornecedor indireto:
 
-1. Inicie sessão no Partner Center como **Agente** Administrativo ou Agente **de Vendas.**
+1. Inscreva-se no Partner Center como **Agente** Administrativo ou **Agente comercial.**
 
-2. Na página **Clientes,** selecione o cliente pretendido e clique no ícone de links Rápidos para expandir a visão sumária do cliente.
+2. Na página **Clientes,** selecione o cliente pretendido e selecione o ícone de links Rápidos para expandir a visão sumária do cliente.
 
 3. **No(s) Revendedor indireto,** confirme que o parceiro de transição está listado.
 
-4. Clique **em Ver Assinaturas**.
+4. Selecione **Ver Subscrições**.
 
 5. Na página **subscrições,** procure **a Transferência de Assinaturas.**
 
     :::image type="content" source="images/direct/direct11.png" alt-text="Ver pedido de transferência.":::
 
-6. No Âmbito **da Transferência de Assinaturas,** clique no pedido de transferência a rever.
+6. No âmbito **da Transferência de Assinaturas,** selecione o pedido de transferência para rever.
 
-7. Clique **em Aceitar** (ou **Rejeitar)** conforme apropriado.
+7. Selecione **Aceitar** (ou **Rejeitar)** conforme apropriado.
 
     :::image type="content" source="images/direct/direct12.png" alt-text="Aceite o pedido de transferência.":::
 
@@ -320,9 +320,9 @@ O parceiro de transição deve fazer o seguinte:
 
 1. Inscreva-se no Partner Center como **Agente Administrativo** ou **Agente comercial.**
 
-2. Na página **Clientes,** selecione o cliente pretendido e clique no ícone **links Rápidos** para expandir a visão sumária do cliente.
+2. Na página **Clientes,** selecione o cliente pretendido e selecione o ícone **de links Rápidos** para expandir a visão sumária do cliente.
 
-3. Clique **em Ver Assinaturas**.
+3. Selecione **Ver Subscrições**.
 
 4. Na página **subscrições,** procure **a Transferência de Assinaturas.**
 

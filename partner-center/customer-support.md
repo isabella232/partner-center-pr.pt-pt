@@ -9,12 +9,12 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
 ms.date: 01/22/2021
-ms.openlocfilehash: 81a8d656c876d39ca6389fedeec3a154dd778ce1
-ms.sourcegitcommit: 7cc83714e17337b472727819243f98c84ae181ba
+ms.openlocfilehash: 83006da3a25285105d6fc073a203bedb19e681fe
+ms.sourcegitcommit: 09eabb559aae25518caf3f2a59ef16a3e123c207
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/22/2021
-ms.locfileid: "112450752"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112489888"
 ---
 # <a name="providing-different-types-of-support-to-your-customers"></a>Disponibilizar diferentes tipos de suporte aos clientes
 
@@ -36,7 +36,7 @@ Os clientes da CSP não podem criar bilhetes de apoio. Precisam contactá-lo par
 
   - [Premier Support for Partners (PSfP)](https://partner.microsoft.com/support/microsoft-services-premier-support) (base de taxas, utilização para todos os produtos)
 
-  - [Suporte Avançado para Parceiros (ASfP](https://partner.microsoft.com/support/advanced-cloud-support) (base de taxas, utilização apenas para produtos em nuvem)
+  - [Suporte Avançado para Parceiros (ASfP)](https://partner.microsoft.com/support/advanced-cloud-support) (base de taxas, utilização apenas para produtos em nuvem)
 
   - [Suporte cloud de assinatura](manage-your-partner-network-benefits.md) (incluído com benefícios MPN para competências Gold ou Silver, uso apenas para produtos na nuvem. Ver [Benefícios Técnicos)](mpn-benefits-technical-support.md)
 

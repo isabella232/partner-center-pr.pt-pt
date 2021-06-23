@@ -9,18 +9,18 @@ author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 212eef8294b7d293a9bc9f55b56498e12e3f402a
-ms.sourcegitcommit: 9292a85c4c142109e46462ee4088bd95efb62456
+ms.openlocfilehash: cccb1701e196781b2e002ef6bb37f0e47521b2b5
+ms.sourcegitcommit: 09eabb559aae25518caf3f2a59ef16a3e123c207
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/21/2020
-ms.locfileid: "92529527"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112489939"
 ---
 # <a name="participate-in-software-assurance-programs-including-training-vouchers-and-planning-services"></a>Participe em programas de Garantia de Software, incluindo vouchers de formação e serviços de planeamento
 
 A participação em programas de Garantia de Software, incluindo Vouchers de Formação de Garantia de Software (SATV) e Serviços de Planeamento, proporciona-lhe a oportunidade de fazer crescer o seu negócio com clientes empresariais da Microsoft. 
 
-- Como parceiro de Software Assurance Training Vouchers, a Microsoft irá compensá-lo para fornecer formação técnica e de sala de aula liderada por instrutores desenvolvida por especialistas da Microsoft. 
+- Como parceiro SATV, a Microsoft irá compensá-lo para fornecer formação técnica e de sala de aula liderada por instrutores desenvolvida por especialistas da Microsoft. 
 
 - Como parceiro de Serviços de Planeamento, a Microsoft irá compensá-lo para liderar compromissos de planeamento de implementação pré-definidos. 
 

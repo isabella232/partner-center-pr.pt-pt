@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7e6db20296075774a6254116df898e15ecc50034
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 93d2f4c2a1fb1f4c6de1cb8759cab0df85c3ceea
+ms.sourcegitcommit: 09eabb559aae25518caf3f2a59ef16a3e123c207
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109856037"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112489922"
 ---
 # <a name="read-about-taxes-and-tax-exemption-details-by-region-or-country-for-partners-in-the-csp-program"></a>Leia sobre impostos e isenções fiscais por região ou país para parceiros no programa CSP
 
@@ -33,9 +33,9 @@ Se estiver noutro país ou região que cobra impostos, consulte [a informação 
 
 ### <a name="canada"></a>Canadá
 
-A maioria dos revendedores não estão isentos de GST/HST/QST. Consulte o seu consultor fiscal para determinar se está qualificado para isenção e que documentação deve fornecer à Microsoft.
+A maioria dos revendedores não estão isentos do imposto sobre bens e serviços (GST)/imposto harmonizado sobre as vendas (HST)/Quebec tax sales (QST). Consulte o seu consultor fiscal para determinar se está qualificado para isenção e que documentação deve fornecer à Microsoft.
 
-Para uma isenção de PST BC, apresente uma isenção fiscal como descrito. Forneça o seu BC PST#, ou um *Certificado de Isenção Geral* concluído e assinado.
+Para uma isenção do imposto provincial de vendas (PST) do BC, apresente uma isenção fiscal conforme descrito. Forneça o seu BC PST#, ou um *Certificado de Isenção Geral* concluído e assinado.
 
 ### <a name="united-states"></a>Estados Unidos da América
 
