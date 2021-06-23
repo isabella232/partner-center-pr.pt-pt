@@ -9,18 +9,18 @@ author: dhirajgandhi
 ms.author: dhgandhi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7d12bb66574e6bcee60b2a1df1673dc9171fbee2
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 3698032a632384e8416664c9564819d7c4da9c38
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854932"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551559"
 ---
 # <a name="add-an-azure-ad-application-service-principal-in-partner-center"></a>Adicione uma aplicação AD AZure (principal serviço) no Partner Center
 
 **Funções apropriadas**: Administração global
 
-No programa Mercado Comercial no Partner Center, pode agora adicionar uma aplicação AD AD (principal serviço) como utilizador na sua conta Partner Center. (Conseguiu fazê-lo anteriormente no seu Portal de Parceiros cloud, ou CPP. Agora que emigrou para o Partner Center, a conta do CPP é apenas de leitura.)
+No programa Commercial Marketplace no Partner Center, pode agora adicionar uma aplicação microsoft Azure Ative Directory (Azure AD) como utilizador na sua conta Partner Center. (Conseguiu fazê-lo anteriormente na sua conta Cloud Partner Portal (CPP). Agora que emigrou para o Partner Center, a conta do CPP é apenas de leitura.)
  
 >[!Note] 
 >O diretor de serviço é sinónimo de aplicação Azure AD.

@@ -9,12 +9,12 @@ author: khpavan
 ms.author: sakhanda
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 725050d370d1266205f979aa6317768d05ae5c4c
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: c7c06f5ed7b147625afb5020f63ead411ef58fa8
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277186"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551525"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>Nova experiência comercial no CSP – faturação do Azure 
 
@@ -139,7 +139,9 @@ Para aceder à fatura e ao ficheiro de reconciliação:
 
 Os serviços Azure através de um plano Azure serão avaliados em USD e faturados na moeda atribuída pelo país cliente. Se a moeda de faturação não for USD, então a taxa cambial (FX) utilizada será mostrada na última página da fatura. As tarifas FX são determinadas mensalmente e aplicadas à seguinte fatura. Para obter uma lista completa de moedas de país, por favor, veja o [novo comércio oferece disponibilidade do país e matriz de moeda de cliente.](https://go.microsoft.com/fwlink/?linkid=2112354)
 
-A Microsoft segue a Bolsa de Valores de Londres para conversão. Usamos a taxa de câmbio, que é igual à taxa de câmbio capturada no último segundo do último dia útil do mês na Bolsa de Valores de Londres. As tarifas de FX serão atualizadas e disponíveis na véspera do primeiro dia do mês para o qual se candidatam.
+A Microsoft aplica uma taxa de câmbio pré-determinada para basear os preços de USD para chegar aos custos totais incorridos pelos serviços Azure comprados ou consumidos todos os meses. A taxa de câmbio mensal é a taxa média publicada pela Thomson Reuters (tipicamente) dois dias úteis antes do final do mês anterior às 16:00 GMT. 
+
+**Por exemplo,** A taxa de câmbio de dezembro da Microsoft seria a taxa média da Thomson Reuters em 29 de novembro ou por volta de 29 de novembro para uma determinada moeda. Essa taxa será aplicada a todas as compras nessa moeda de 1 de dezembro a 31 de dezembro. 
 
 ## <a name="azure-reservations"></a>Reservas do Azure
 

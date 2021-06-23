@@ -4,23 +4,23 @@ ms.topic: how-to
 ms.date: 05/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Saiba como ajudar os clientes a restabelecer os privilégios de administração de um parceiro para que o parceiro possa ajudar a gerir as subscrições Azure CSP de um cliente.
+description: Saiba como ajudar os clientes a restabelecer os privilégios de administração de um parceiro para que o parceiro possa ajudar a gerir as subscrições do Azure Cloud Solution Provider (CSP) de um cliente.
 author: dhirajgandhi
 ms.author: dhgandhi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 81df7578f7f15def64a3c20b15f95f3b89a28d1c
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 5d784aef33cce2a722583a77e73c35d5fc8136b1
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277781"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551593"
 ---
 # <a name="reinstate-admin-privileges-for-a-customers-azure-csp-subscriptions"></a>Repor privilégios de administração para subscrições Azure CSP de um cliente  
 
 **Funções adequadas**: Administração global | Agente administrativo
 
-Como parceiro da CSP, os seus clientes esperam muitas vezes que gere o seu uso Azure e os seus sistemas para eles. Deve ter privilégios administrativos para o fazer. Alguns privilégios são concedidos quando a sua relação de revendedor com o cliente é estabelecida. Outros são-lhe concedidos pelo seu cliente.
+Como parceiro cloud solution provider (CSP), os seus clientes esperam muitas vezes que gere o seu uso Azure e os seus sistemas para eles. Deve ter privilégios administrativos para o fazer. Alguns privilégios são concedidos quando a sua relação de revendedor com o cliente é estabelecida. Outros são-lhe concedidos pelo seu cliente.
 
 ## <a name="admin-privileges-for-azure-in-csp"></a>Privilégios de administração para a Azure na CSP
 

@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 72e5c797f292329e779924177b0500e80754e3df
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 2b88e3ceee001a79b80a38408e6bb6b1f1940a07
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855680"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551678"
 ---
 # <a name="renew-your-mpn-offers-for-competencies-and-advanced-specializations-during-the-renewal-window"></a>Renove as suas ofertas de MPN para competências e especializações avançadas durante a janela de renovação
 
@@ -22,7 +22,7 @@ ms.locfileid: "109855680"
 
 ## <a name="responding-to-covid-19-microsoft-partner-network-update"></a>Respondendo ao COVID-19: Atualização da Microsoft Partner Network
 
-A Microsoft está a oferecer uma extensão de competências (com exceção da competência cloud business applications) e uma extensão avançada de especialização para parceiros com datas de aniversário (AD) entre 1 de janeiro de 2021 e 30 de junho de 2021. Para mais informações, consulte [o blog do parceiro post.](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/)
+A Microsoft está a oferecer uma extensão de competências (com exceção da competência cloud business applications) e uma extensão avançada de especialização para parceiros com datas de aniversário entre 1 de janeiro de 2021 e 30 de junho de 2021. Para mais informações, consulte [o blog do parceiro post.](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/)
 
 ## <a name="renewal-reminders"></a>Lembretes de renovação
 
@@ -40,7 +40,7 @@ Quando renovar durante a janela de renovação, a sua nova data de aniversário 
 
 4. Para tirar partido desta oferta, vá às **ofertas de Adesão.** Poderá ter de pagar a taxa de competência para concluir o processo, dependendo da sua aquisição de competência ou do seu estado de renovação.
 
-Para tirar partido da extensão, deve ter mudado a sua filiação do Partner Membership Center (PMC) para Partner Center para renovar a sua competência e pagar a taxa. Se ainda não mudou a sua filiação, [aprenda mais](prepare-pmc-pc-migration.md)e faça   a [transição](https://partners.microsoft.com/partnerprogram/Welcome.aspx)   hoje.  
+Para tirar partido da extensão, deve ter mudado a sua filiação do Partner Membership Center (PMC) para Partner Center para renovar a sua competência e pagar a taxa. Se ainda não mudou a sua filiação, [aprenda mais](partner-membership-center-retirement-faq.md)e faça   a [transição](https://partners.microsoft.com/partnerprogram/Welcome.aspx)   hoje.  
 
 ## <a name="next-steps"></a>Passos seguintes
 

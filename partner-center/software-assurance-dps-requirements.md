@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 844a795330a0c10ef51f6b47ce15afa37d3d71f5
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 7a4ee8fcb0fe216961dc2e599dc36f2957612b03
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855255"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551576"
 ---
 # <a name="view-eligibility-requirements-for-planning-services-engagements"></a>Ver requisitos de elegibilidade para compromissos de Serviços de Planeamento
 
@@ -27,7 +27,7 @@ Este artigo ajuda-o a conhecer os requisitos de elegibilidade que precisa de sat
 
 ## <a name="learn-more-about-each-engagement"></a>Saiba mais sobre cada noivado
 
-Cada compromisso dos Serviços de Planeamento tem os seus próprios requisitos de elegibilidade específicos e as suas próprias durações máximas permitidas.
+Cada compromisso dos Serviços de Planeamento tem os seus próprios requisitos de elegibilidade, específicos e os seus próprios prazos máximos permitidos.
 
 Para saber mais sobre estes requisitos de competência específicos de noivado, consulte a tabela seguinte.
 
@@ -39,7 +39,7 @@ Para saber mais sobre estes requisitos de competência específicos de noivado, 
 | Upgrade microsoft Dynamics 365 para envolvimento com o cliente  | Aplicações de negócios de nuvem prateada ou dourada ou gestão de relacionamento com clientes em nuvem  | [Compromissos dos Serviços de Planeamento de Implantação dinâmica (DYDPS)](https://go.microsoft.com/fwlink/?linkid=2116073)
 | Migrar para a Microsoft Dynamics 365 para o envolvimento do cliente  | Aplicações de negócios de nuvem prateada ou dourada ou gestão de relacionamento com clientes em nuvem  | [Compromissos dos Serviços de Planeamento de Implantação dinâmica (DYDPS)](https://go.microsoft.com/fwlink/?linkid=2116073)
 | Atualização da Microsoft Dynamics 365 para Finanças e Operações  | Gold Enterprise Resource Planning (ERP)  | [Compromissos dos Serviços de Planeamento de Implantação dinâmica (DYDPS)](https://go.microsoft.com/fwlink/?linkid=2116073)  |
-| Modernizar a plataforma do servidor do Windows | Centro de Dados prateado ou dourado | [Compromissos de Serviços privados de Cloud, Gestão e Planeamento de Virtualização (PVDPS)](https://go.microsoft.com/fwlink/?linkid=2115982) |
+| Modernizar a plataforma do servidor do Windows | Centro de Dados prateado ou dourado | [Compromissos de Serviços de Planeamento de Nuvem Privada, Gestão e Virtualização (PVDPS)](https://go.microsoft.com/fwlink/?linkid=2115982) |
 | Planeamento de Implementação de SharePoint  | Colaboração e Conteúdo de Prata ou Ouro  | [Compromissos dos Serviços de Planeamento de Implementação de SharePoint (SDPS)](https://go.microsoft.com/fwlink/?linkid=2116074)  |
 | Planeamento de Soluções de Projeto e Gestão de Portfólios (PPM)  | Projeto prata ou ouro e gestão de portfólio (PPM)  | [Compromissos dos Serviços de Planeamento de Implementação de SharePoint (SDPS)](https://go.microsoft.com/fwlink/?linkid=2116074)  |
 | Planeamento de Implantação de Intercâmbio  | Mensagens de prata ou ouro  | [Compromissos do Skype para serviços de planeamento de implantação de empresas e de câmbio (S-EDPS)](https://go.microsoft.com/fwlink/?linkid=2116075)  |

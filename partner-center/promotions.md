@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 431ac8a4dd96dc7ed768efabd62dbd4a4c2a6d90
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 5cb494f3e32201c20184d8de551e15cc8fc28d9b
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854983"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551328"
 ---
 # <a name="use-promotions-to-attract-new-customers-and-pass-the-savings-on-to-them"></a>Use promoções para atrair novos clientes e passe as poupanças para eles
 
@@ -35,7 +35,7 @@ Aproveite um momento para rever estes importantes factos sobre promoções:
 
 - Se uma subscrição for elegível para múltiplas promoções, a promoção com a maior percentagem de desconto é aplicada automaticamente.
 
-- Os cancelamentos de subscrições a preços de promoção seguem o mesmo processo e política que as subscrições a preços regulares.
+- Cancelamentos de subscrições a preços de promoção seguem o mesmo processo e política que as subscrições regularmente a preços.
 
 ## <a name="see-available-promotions"></a>Ver promoções disponíveis
 

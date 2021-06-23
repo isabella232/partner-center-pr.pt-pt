@@ -9,12 +9,12 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: deb9a0af8c0b398d3bb9761a3aa1e7db382d1093
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: bd68d6f446666022647f20e78e1aa6472364c426
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855833"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551168"
 ---
 # <a name="registration-id-number-information"></a>Informação do número de registo
 
@@ -26,7 +26,7 @@ Se é um fornecedor indireto, parceiro de conta direta ou revendedor indireto, e
 
 | **País ou região** | **Detalhes** |
 |:--|:--|
-| **Arménia** | INN – Número de identificação fiscal<br>Número do IVA – Também conhecido como Número de Registo do IVA. Este valor é o número único que identifica um pessoa tributável (empresa) ou entidade jurídica não tributável que esteja registada para o IVA.<br>Número de serviço público |
+| **Arménia** | INN – Número de identificação fiscal<br>Número do Imposto sobre o Valor Acrescentado (IVA) – Também conhecido como Número de Registo do IVA. Este valor é o número único que identifica um pessoa tributável (empresa) ou entidade jurídica não tributável que esteja registada para o IVA.<br>Número de serviço público |
 | **Azerbaijão**  | [ESTANHO](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Azerbaijan-TIN.pdf) – Número de Identificação Fiscal<br>INN – Número de identificação fiscal |
 | **Bielorrússia**  | UNP – Este valor é um número de nove dígitos (numérico para organizações, alfanumérico para indivíduos) que contém um identificador de região, um serial por região e um dígito de verificação. |
 |**Brasil** | [CNPJ](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Brazil-TIN.pdf) – (Cadastro Nacional da Pessoa Jurídica, ou Registo Nacional de Entidades Jurídicas). Este valor é um número de identificação emitido a empresas brasileiras pelo Departamento de Receita Federal do Brasil  |

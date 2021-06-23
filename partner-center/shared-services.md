@@ -9,18 +9,18 @@ ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 11/11/2020
-ms.openlocfilehash: ffec50d53b50bdb6aa2690f1dfcc1bc7312cc3cb
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 40ba485cecce394dc81632d01f8774859690c522
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277305"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551610"
 ---
 # <a name="add-azure-partner-shared-services-so-partners-can-buy-azure-subscriptions-for-their-own-use"></a>Adicione serviços partilhados azure partner para que os parceiros possam comprar subscrições Azure para seu próprio uso
 
 **Funções adequadas**: Administração global | Agente administrativo | Agente comercial
 
-A Azure Partner Shared Services é um novo tipo de oferta para parceiros no programa CSP que permite aos parceiros adquirir subscrições Azure para seu próprio uso.Cria a oportunidade para os parceiros usarem um método uniforme para comprar, rastrear e gerir o Azure, além da capacidade de consolidar os seus acordos de licenciamento e revenda da Azure com a Microsoft. Com a Azure Partner Shared Services, os parceiros têm agora a mesma flexibilidade para usar subscrições Azure em CSP como fazem no Microsoft Enterprise Agreement e programas Web Direct, abrindo cenários como: construir ambientes de desenvolvimento e teste, implementar cargas de trabalho internas e hospedar serviços partilhados ou aplicações multi-arrendatários.  
+AZure Partner Shared Services (APSS) é um novo tipo de oferta para parceiros no programa Cloud Solution Provider (CSP), permitindo aos parceiros adquirirem subscrições Azure para uso próprio.Cria a oportunidade para os parceiros usarem um método uniforme para comprar, rastrear e gerir o Azure, além da capacidade de consolidar os seus acordos de licenciamento e revenda da Azure com a Microsoft. Com a APSS, os parceiros têm agora a mesma flexibilidade para usar subscrições Azure em CSP como fazem no Microsoft Enterprise Agreement e programas Web Direct, abrindo cenários como: construir ambientes de desenvolvimento e teste, implementar cargas de trabalho internas e hospedar serviços partilhados ou aplicações multi-arrendadas.  
 
 ## <a name="create-the-shared-services-tenant"></a>Crie o inquilino de serviços partilhados
 
@@ -28,7 +28,7 @@ A Azure Partner Shared Services é um novo tipo de oferta para parceiros no prog
 
    :::image type="content" source="images/sharedservices2.png" alt-text="Definições de conta > Serviços Partilhados":::
 
-2. Se ainda não tem um inquilino de serviços partilhados, clique em **Criar serviços partilhados.**
+2. Se ainda não tem um inquilino de serviços partilhados, selecione **Criar serviços partilhados.**
 
    :::image type="content" source="images/sharedservices3.png" alt-text="Criar serviços partilhados.":::
 
@@ -54,16 +54,16 @@ Encontrará o consumo do Azure na sua fatura CSP e no ficheiro de reconciliaçã
 
 ## <a name="azure-partner-shared-services-pricing"></a>Preços dos Serviços Partilhados Azure Partner
 
-Para ver o novo ficheiro de preços dos Serviços Partilhados do Azure Partner, vá à **Venda**  >  **de Preços e Ofertas** e selecione a lista de preços do mês em curso. Nas próximas semanas, será também lançado um cartão de tarifa específico api.
+Para ver o novo arquivo de preços da APSS, vá a **Vender**  >  **Preços e ofertas** e selecione a lista de preços do mês atual. Nas próximas semanas, será também lançado um cartão de tarifa específico api.
 
 ## <a name="marketplace-offers-and-azure-partner-shared-services"></a>Ofertas de Marketplace e Serviços Partilhados parceiros Azure
 
-A partir de 1 de março de 2019, a Azure Partner Shared Services (APSS) já não suporta ofertas do Marketplace.
+A partir de 1 de março de 2019, a APSS já não suporta ofertas do Marketplace.
 
 |**Apoio ao mercado**   |**APSS apoiado antes de 1 de março de 2019**|**Depois de 1 de março de 2019**|
 |---------------------------|:----------------------------|:-------------------|
-|Traga a sua própria licença (BYOL) e serviços gratuitos   | Yes   | No|
-|Outras ofertas de mercado de terceiros   | No   |No|
+|Traga a sua própria licença (BYOL) e serviços gratuitos   | Sim   | Não|
+|Outras ofertas de mercado de terceiros   | Não   |Não|
 
 Os parceiros que tenham BYOL ou serviços gratuitos implantados através da APSS não serão afetados; no entanto, após 1 de março de 2019 não poderão adquirir novos serviços BYOL ou gratuitos.
 

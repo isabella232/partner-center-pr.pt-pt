@@ -9,18 +9,18 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 24eba2969552b0403de9828e86d4fc73abfec585
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: ab23e04afd3ffd5c287cc057aa51e872ab725f4d
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276268"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551185"
 ---
 # <a name="purchase-the-azure-plan-for-customers--access-the-latest-azure-services-at-pay-as-you-go-rates"></a>Compre o plano Azure para clientes & aceder aos mais recentes serviços da Azure a preços de pagamento
 
 **Funções adequadas**: Administração global | Administração de administração de utilizadores | Agente comercial
 
-Ao adquirir um plano Azure para os seus clientes ao abrigo do Microsoft Customer Agreement, tem acesso ao catálogo completo dos mais recentes serviços Azure a preços de pagamento. Os parceiros da CSP passarão a poder aceder a qualquer serviço Azure quando estiver em geral disponível. Um parceiro pode ter várias subscrições Azure ao abrigo de um plano Azure. 
+Ao adquirir um plano Azure para os seus clientes ao abrigo do Microsoft Customer Agreement, tem acesso ao catálogo completo dos mais recentes serviços Azure a preços de pagamento. Os parceiros cloud Solution Provider (CSP) passarão a poder aceder a qualquer serviço Azure quando estiver em geral disponível. Um parceiro pode ter várias subscrições Azure ao abrigo de um plano Azure. 
 
 ## <a name="countryregion-availability"></a>Disponibilidade país/região
 
@@ -31,7 +31,7 @@ A nova experiência de comércio na CSP para a Azure está atualmente prevista p
 A forma como compra o plano Azure é semelhante à compra de qualquer outra subscrição. A diferença fundamental é que antes de fazer o seu pedido precisa confirmar que o seu cliente assinou o Microsoft Customer Agreement.
 
 1. Selecione **Segmento Comercial** e **digite Microsoft Azure** 
-2. Sob plano Azure **selecione Adicionar ao carrinho**
+2. Sob o plano Azure, **selecione Adicionar ao carrinho**
 
 :::image type="content" source="images/azure/Azurepurchase1.png" alt-text="Compra.":::
 
@@ -95,7 +95,7 @@ A partir da página **de Subscrições,** na secção baseada em uso, expanda o 
 
 ## <a name="add-subscriptions-and-configure-resources"></a>Adicionar subscrições e configurar recursos
 
-Irá adicionar subscrições e configurar recursos para o seu cliente no portal Azure. Também é capaz de separar o ambiente do seu cliente por carga de trabalho ou projeto. É possível gerir subscrições através [do Azure Lighthouse,](https://azure.microsoft.com/services/azure-lighthouse/) bem como do portal Azure. 
+Irá adicionar subscrições e configurar recursos para o seu cliente no portal Azure. Também é capaz de separar o ambiente do seu cliente por carga de trabalho ou projeto. É possível gerir subscrições através [do Farol Azure](https://azure.microsoft.com/services/azure-lighthouse/) e do portal Azure. 
 
 Para gerir os recursos e subscrições do seu cliente, precisa de **privilégios de Administração em nome dos** privilégios (AOBO). Para obter informações sobre a gestão do seu acesso, leia [Gerir subscrições e recursos ao abrigo do plano Azure](azure-plan-manage.md)
 

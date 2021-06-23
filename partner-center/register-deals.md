@@ -9,12 +9,12 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 17133ec7c37d65dde5e01bd0fc90b161a44051fd
-ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
+ms.openlocfilehash: 4709236b8887bc262cac3bf36b5dd7fcf3c17c92
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/22/2021
-ms.locfileid: "112431585"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551151"
 ---
 # <a name="register-deals-youve-won-in-partner-center-so-you-can-get-more-opportunities-later"></a>Registar ofertas que ganhou no Partner Center para que possa ter mais oportunidades mais tarde
 
@@ -28,25 +28,25 @@ Também pode registar novos negócios que ganhou que usam uma das suas soluçõe
 
 ## <a name="register-a-new-deal"></a>Registar um novo acordo
 
-Para registar um novo **negócio de co-venda IP,** vá à respetiva oportunidade de co-venda e clique no botão **de negócio Register** na secção "progresso do negócio da sua empresa".
+Para registar um novo **negócio de co-venda IP,** vá à respetiva oportunidade de co-venda e selecione **Negócio do Registo** na secção "progresso do negócio da sua empresa".
 
 Na página do **projeto de negócio,** forneça as seguintes informações.
 
 - **Estado da transação no mercado**: Verifique a caixa para criar o registo de um negócio que será transacionado no Mercado Azure.
 - **Data de transação no mercado**: Se a caixa relacionada com o estado de transação do Marketplace for verificada, este campo está disponível e deve ser configurado. O valor é uma data de transação passada, ou uma data futura estimada de transação.
 - **Valor total do contrato**: O valor total esperado para o noivado. Isto deve incluir todas as taxas de software e serviço, mas não custos de hardware. Certifique-se de selecionar a moeda apropriada.
-- **Valor da solução**: O valor total da solução cloud que será usada para o negócio. Certifique-se de incluir todos os custos associados com taxas de software e manutenção, mas não inclua itens reembolsáveis, taxas de personalização não recorrentes ou taxas de licença CSP diretamente associadas pagas pela Microsoft.
+- **Valor da solução**: O valor total da solução cloud que será usada para o negócio. Certifique-se de incluir todos os custos associados às taxas de software e manutenção, mas não inclua itens reembolsáveis, taxas de personalização não recorrentes ou taxas de licença associadas diretamente ao Cloud Solution Provider (CSP) pagas pela Microsoft.
 - **Implantado em**: Selecione **Azure** ou **Other**.
 - **Onde será implementada a solução?**: Selecione o inquilino do **Cliente** ou o **inquilino do Parceiro.**
 - **Contrato assinado data**: Data em que o contrato final foi assinado pela sua organização e pelo cliente. Para ofertas pay-as-you-go (PAYG), utilize a data da primeira fatura.
-- **Data de início do contrato**: A data em que o contrato começará. Para ofertas pay-as-you-go (PAYG), utilize a data da primeira fatura. Por design, o Partner Center não o deixará introduzir uma data de início mais cedo do que a data de assinatura do contrato. Isto pode ter impacto em algumas ofertas, tais como implementações IP que começam antes da data de sinalização. Para introduzir estas ofertas com sucesso, utilize a data de assinatura do contrato **para os** campos de data de assinatura e início da data quando estiver a enviar. (O contrato deve indicar explicitamente a duração do negócio para que a ACV possa ser devidamente calculada.)
-- **Data de fim do contrato**: Se o contrato terminar numa data específica, forneça essa data. Para ofertas pay-as-you-go (PAYG), utilize a data da última ou mais recente fatura.
+- **Data de início do contrato**: A data em que o contrato começará. Para ofertas PAYG, utilize a data da primeira fatura. Por design, o Partner Center não o deixará introduzir uma data de início mais cedo do que a data de assinatura do contrato. Isto pode ter impacto em algumas ofertas, tais como implementações IP que começam antes da data de sinalização. Para introduzir estas ofertas com sucesso, utilize a data de assinatura do contrato **para os** campos de data de assinatura e início da data quando estiver a enviar. (O contrato deve indicar explicitamente a duração do negócio para que a ACV possa ser devidamente calculada.)
+- **Data de fim do contrato**: Se o contrato terminar numa data específica, forneça essa data. Para ofertas PAYG, utilize a data da última ou mais recente fatura.
 - **Tipo de contrato**: Não aplicável a acordos de co-venda IP.
 - **Contacto de registo**: **O nome próprio**, **apelido,** **número de telefone** e **e-mail** para uma pessoa da sua organização que possamos contactar se precisarmos de mais detalhes sobre qualquer informação fornecida aqui.
 
 Quando tiver concluído todas as secções da página, **selecione Registar-se**. O registo do negócio será então transferido para o estatuto **de Submetido.** A Microsoft irá então rever as  informações que forneceu após a revisão do negócio. Pode utilizar os filtros para visualizar as ofertas com base no seu estado.
 
-Para registar um **negócio isv connect** fechado, clique em **+Report fechado ISV Connect**
+Para registar um **acordo fechado isv connect**, selecione **+Report closed ISV Connect deal**
 
 Na página **New deal,** forneça as seguintes informações.
 
@@ -57,9 +57,9 @@ Na página **New deal,** forneça as seguintes informações.
 - **Valor da solução**: O valor total da solução cloud que será usada para o negócio. Certifique-se de incluir todos os custos associados com taxas de software e manutenção, mas não inclua itens reembolsáveis, taxas de personalização não recorrentes ou taxas de licença CSP diretamente associadas pagas pela Microsoft.
 - **Implantado em**: Selecione **Azure** ou **Other**.
 - **Onde será implementada a solução?**: Selecione o inquilino do **Cliente** ou o **inquilino do Parceiro.**
-- **Data de início do contrato**: A data em que o contrato começará. Para ofertas pay-as-you-go (PAYG), utilize a data da primeira fatura. Por design, o Partner Center não o deixará introduzir uma data de início mais cedo do que a data de assinatura do contrato. Isto pode ter impacto em algumas ofertas, tais como implementações IP que começam antes da data de sinalização. Para introduzir estas ofertas com sucesso, utilize a data de assinatura do contrato **para os** campos de data de assinatura e início da data quando estiver a enviar. (O contrato deve indicar explicitamente a duração do negócio para que a ACV possa ser devidamente calculada.)
+- **Data de início do contrato**: A data em que o contrato começará. Para ofertas PAYG, utilize a data da primeira fatura. Por design, o Partner Center não o deixará introduzir uma data de início mais cedo do que a data de assinatura do contrato. Isto pode ter impacto em algumas ofertas, tais como implementações IP que começam antes da data de sinalização. Para introduzir estas ofertas com sucesso, utilize a data de assinatura do contrato **para os** campos de data de assinatura e início da data quando estiver a enviar. (O contrato deve indicar explicitamente a duração do negócio para que a ACV possa ser devidamente calculada.)
 - **Data final do contrato**: Se o contrato terminar numa data específica, selecione **Tem uma data de fim** e forneça essa data. Se o contrato não tiver uma data de final específica, selecione **Perpetual**. Para ofertas pay-as-you-go (PAYG), utilize a data da última ou mais recente fatura.
-- **Contrato assinado data**: Data em que o contrato final foi assinado pela sua organização e pelo cliente. Para ofertas pay-as-you-go (PAYG), utilize a data da primeira fatura.
+- **Contrato assinado data**: Data em que o contrato final foi assinado pela sua organização e pelo cliente. Para ofertas PAYG, utilize a data da primeira fatura.
 - **Contacto de registo**: **O nome próprio**, **apelido,** **número de telefone** e **e-mail** para uma pessoa da sua organização que possamos contactar se precisarmos de mais detalhes sobre qualquer informação fornecida aqui.
 
 Quando tiver concluído todas as secções da página, **selecione Registar-se**. O registo do negócio será então transferido para a página **em curso.** A Microsoft irá então rever as informações que forneceu.

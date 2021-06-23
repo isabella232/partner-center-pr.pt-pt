@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 10/09/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Saiba mais sobre os requisitos dos parceiros de conta direta da CSP e o que fazer para evitar que as capacidades sejam restringidas. Descubra se as suas capacidades foram restritas.
+description: Saiba mais sobre os requisitos dos parceiros de conta diretas do Cloud Solution Provider (CSP) e o que fazer para evitar que as capacidades sejam restringidas. Descubra se as suas capacidades foram restritas.
 author: billLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b3b1f3e1593f7e35bd3b9ed6c56ea28683bff95a
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: e5bc33101809a805ba591be5a9b51d8dfff2397b
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855493"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551423"
 ---
 # <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>Capacidades de conta direta restritas e os requisitos necessários para os parceiros de conta direta da CSP
 
@@ -22,7 +22,7 @@ ms.locfileid: "109855493"
 
 ## <a name="overview"></a>Descrição Geral
 
-Os parceiros de conta direta devem cumprir os novos [requisitos](direct-partner-new-requirements.md) para permanecer no programa de parceiros de conta direta da CSP. Caso contrário, o seu acesso às capacidades de faturação direta acabará por ser restringido e poderá continuar a executar tarefas específicas, como fazer novas compras para os seus clientes.
+Os parceiros de conta direta devem cumprir os novos [requisitos](direct-partner-new-requirements.md) para permanecer no programa de parceiros de conta direta cloud Solution Provider (CSP). Caso contrário, o seu acesso às capacidades de faturação direta acabará por ser restringido e poderá continuar a executar tarefas específicas, como fazer novas compras para os seus clientes.
 
 > [!Note]
 > Os parceiros de conta direto que não satisfaçam os novos requisitos para o programa de parceiros de conta direta CSP serão informados pela Microsoft quando as suas capacidades de conta diretas serão restringidas. Isto aplica-se a todos os parceiros de conta direta, quer tenham optado pela [transição de parceiro de conta direta para revendedores indiretos](transition-direct-to-indirect.md) ou não.  
@@ -33,7 +33,7 @@ Para confirmar se o acesso do inquilino do parceiro de conta direta às capacida
 
 1. Inicie sessão no [dashboard do Centro de Parceiros](https://partner.microsoft.com/dashboard).
 
-2. Ir para **as definições de Conta** Perfil  ->  **Legal**.
+2. Ir para **as definições de Conta** Perfil  >  **Legal**.
 
 3. Informações **do Programa**, procure **o estado do Microsoft Cloud Solution Provider**.
 
@@ -53,7 +53,7 @@ Se as suas capacidades de conta direta tiverem sido restritas, já não pode faz
 
 Também não é possível utilizar a [oferta de serviços partilhados do parceiro Azure](shared-services.md) ao abrigo do programa CSP para comprar novas subscrições Azure para seu próprio uso.
 
-As assinaturas de faturas diretas existentes não são afetadas. Permanecem válidos e são renovados automaticamente. Continuará a ser cobrado diretamente pela Microsoft até que sejam cancelados. Ainda pode gerir as subscrições existentes das seguintes formas:
+As assinaturas de faturas diretas existentes não são afetadas. Permanecem válidos e autoestradas. Continuará a ser cobrado diretamente pela Microsoft até que sejam cancelados. Ainda pode gerir as subscrições existentes das seguintes formas:
 
 - Suspender as assinaturas existentes
 

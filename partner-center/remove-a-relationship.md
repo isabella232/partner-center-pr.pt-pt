@@ -9,12 +9,12 @@ author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 735a8b2c2436df61216ceb476be4a55b18785325
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 83259f2f895be9ef34c55db5613ccfe6891a4424
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855697"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551474"
 ---
 # <a name="how-to-remove-a-reseller-relationship-with-a-customer-in-partner-center"></a>Como remover uma relação de revendedor com um cliente no Centro de Parceiros
 
@@ -33,7 +33,7 @@ Remover uma relação tem as seguintes consequências:
 
 ## <a name="how-to-remove-a-relationship"></a>Como remover uma relação
 
-Para remover a relação, terá de cancelar as reservas do Azure RI, cancelar as compras de software e suspender as restantes subscrições ativas primeiro.
+Para remover a relação, terá de cancelar as reservas de instância reservada (RI) do Azure, cancelar as compras de software e suspender as restantes subscrições ativas primeiro.
 
 1. **Suspender quaisquer subscrições ativas.**
 

@@ -9,19 +9,19 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8d5154ad63066cb9d1d3eda8cf78fc059217ca99
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 791443cbcc4d8ee055ae9e4961d5e5329399e436
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854796"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551508"
 ---
 # <a name="software-assurance-planning-services-retirement"></a>Reforma dos Serviços de Planeamento de Garantia de Software
 
 **Funções adequadas**: Administração global | Administrador sócio da MPN
 
 
-Os Serviços de Planeamento estão a ser totalmente retirados dos benefícios da Software Assurance, mas os clientes podem continuar a trabalhar com os parceiros para usar os dias de Serviços de Planeamento para compromissos enquanto os vouchers são válidos. Estas são as datas significativas que antecedem a reforma do programa: 
+O benefício dos Serviços de Planeamento está a ser totalmente retirado dos benefícios da Software Assurance, mas os clientes podem continuar a trabalhar com os parceiros para usar os dias de Serviços de Planeamento para compromissos enquanto os vouchers são válidos. Estas são as datas significativas que antecedem a reforma do programa: 
 
 - 1 de fevereiro de 2020: Os serviços de planeamento foram reformados.  
 - 1 de fevereiro de 2020: Os vouchers de formação já não podem ser convertidos para dias de Serviços de Planeamento.  
@@ -30,7 +30,7 @@ Os Serviços de Planeamento estão a ser totalmente retirados dos benefícios da
 - 1 de janeiro de 2022: Último dia para os parceiros resgatar vouchers de Serviços de Planeamento. O parceiro terá 60 dias após o resgate para concluir o processo de pedido de pagamento.  
 
 >[!NOTE]
->Não há alteração no ciclo de vida do voucher. Uma vez criado um voucher/atribuído, a reserva de voucher, o envolvimento do cliente e o resgate do voucher devem ser concluídos no prazo de 180 dias antes da expiração do voucher.  Para obter mais informações sobre a reforma do programa De planeamento, consulte as PERGUNTAS Frequentes [aqui](https://partner.microsoft.com/resources/collection/software-assurance-benefit-changes#/) encontradas para obter mais informações (inscrição obrigatória).  Por favor, dirijo quaisquer perguntas à sua equipa regional de Apoio ao [Parceiro: Apoio ao Parceiro EMEA;](mailto:savoucher@msdirectservices.com) [Apoio geral ao parceiro](https://partner.microsoft.com/dashboard/support/servicerequests)
+>Não há alteração no ciclo de vida do voucher. Uma vez criado um voucher/atribuído, a reserva de voucher, o envolvimento do cliente e o resgate do voucher devem ser concluídos no prazo de 180 dias antes da expiração do voucher.  Para obter mais informações sobre a reforma do programa De planeamento, consulte as PERGUNTAS Frequentes no site de alterações do [Software Assurance Benefit (SAB)](https://partner.microsoft.com/resources/collection/software-assurance-benefit-changes#/) (inscrição necessária).  Por favor, dirijo quaisquer perguntas à sua equipa regional de Apoio ao [Parceiro: Apoio ao Parceiro EMEA;](mailto:savoucher@msdirectservices.com) [Apoio geral ao parceiro](https://partner.microsoft.com/dashboard/support/servicerequests)
 
 
 ### <a name="get-started"></a>Introdução
@@ -55,7 +55,7 @@ Antes de empresas e consultores parceiros poderem inscrever-se numa das ofertas 
 **Requisitos de competência.** Os requisitos de competência são específicos para o noivado a ser entregue. Por exemplo, a sua empresa pode estar inscrita na oferta de Desktop Deployment Planning Services (DDPS). No entanto, só poderá realizar um compromisso específico dentro da oferta do DDPS se a sua empresa também detém uma competência qualificada para esse compromisso específico.
 
 >[!NOTE]
-> Para saber mais sobre os requisitos de elegibilidade para compromissos específicos, [consulte os requisitos de elegibilidade para compromissos de Serviços de Planeamento.](software-assurance-dps-requirements.md)
+> Para saber mais sobre os requisitos de elegibilidade para compromissos específicos, consulte [os requisitos de elegibilidade para compromissos de Serviços de Planeamento.](software-assurance-dps-requirements.md)
 
 Para ajudar a verificar a elegibilidade da sua empresa para se inscrever num compromisso específico dos Serviços de Planeamento:
 
@@ -82,25 +82,25 @@ Antes de iniciar um compromisso com os Serviços de Planeamento, o seu cliente d
 1. Os clientes devem primeiro ativar o seu benefício dos Serviços de Planeamento.
 2. Os clientes devem então criar um voucher de Serviços de Planeamento e atribuí-lo a um gestor de projeto na sua empresa.
 
-Para instruções detalhadas, o cliente deve tomar para criar o voucher e atribuí-lo a si, consulte o [passo 4](https://go.microsoft.com/fwlink/?linkid=2115983) do fluxo de trabalho. Para uma visão geral da experiência do cliente, consulte o [Guia de Garantia de Software VLSC](https://download.microsoft.com/download/A/7/D/A7D04694-1B1E-4B18-918F-0EDCD43BA2E5/VLSC-Software-Assurance-Guide_en-US.pdf).
+Para instruções detalhadas, o cliente deve tomar para criar o voucher e atribuí-lo a si, consulte o [passo 4](https://go.microsoft.com/fwlink/?linkid=2115983) do fluxo de trabalho. Para uma visão geral da experiência do cliente, consulte o [Centro de Garantia de Software do Centro de Licenciamento de Volume (VLSC).](https://download.microsoft.com/download/A/7/D/A7D04694-1B1E-4B18-918F-0EDCD43BA2E5/VLSC-Software-Assurance-Guide_en-US.pdf)
 
 ## <a name="validate-and-reserve-voucher-existing-partners"></a>Validar e reservar voucher (parceiros existentes)
 
 Depois de um cliente atribuir um voucher à sua empresa no [Centro de Serviço de Licenciamento de Volume (VLSC),](https://www.microsoft.com/Licensing/servicecenter/default.aspx)o cliente recebe um e-mail que inclui o ID do voucher. O cliente precisa de lhe enviar este e-mail para que tenha a informação necessária para reservar o voucher.
 
-Quando tiver os detalhes do voucher, pode reservar o voucher e agendar o compromisso de planeamento. Consulte o [passo 5](https://go.microsoft.com/fwlink/?linkid=2115983) do fluxo de trabalho para obter orientações detalhadas sobre como fazê-lo dentro do painel de instrumentos do Centro de Parceiros.
+Quando tiver os detalhes do voucher, pode reservar o voucher e agendar o compromisso de planeamento. Para passos detalhados, consulte [o passo 5](https://go.microsoft.com/fwlink/?linkid=2115983) do fluxo de trabalho.
 
 ## <a name="complete-engagement-and-provide-deliverables-to-your-customer-existing-partners"></a>Total noivado e disponibiliza entregas ao seu cliente (parceiros existentes)
 
-Para ser elegível para realizar um compromisso dos Serviços de Planeamento, o consultor deve ter concluído uma ou mais das avaliações técnicas ou exames necessários para a competência qualificada do noivado. (Para saber mais sobre as avaliações ou exames necessários, [consulte os requisitos de elegibilidade para os compromissos dos Serviços de Planeamento](software-assurance-dps-requirements.md).)
+Para ser elegível para realizar um compromisso dos Serviços de Planeamento, o consultor deve ter concluído uma ou mais das avaliações técnicas ou exames necessários para a competência qualificada do noivado. (Para saber mais sobre as avaliações ou exames necessários, consulte os [requisitos de elegibilidade para os compromissos dos Serviços de Planeamento](software-assurance-dps-requirements.md).)
 
 Depois de a sua empresa ter concluído o noivado e fornecido o (s) entrega final e concluído ao cliente, é necessário preencher e submeter o relatório de conclusão online.
 
-Consulte o [passo 6](https://go.microsoft.com/fwlink/?linkid=2115983) do fluxo de trabalho para obter orientações detalhadas.
+Para obter orientações detalhadas, consulte [o passo 6](https://go.microsoft.com/fwlink/?linkid=2115983) do fluxo de trabalho.
 
 ## <a name="redeem-voucher"></a>Voucher redentor
 
-Antes de poder faturar a Microsoft pelo noivado entregue, tem primeiro de resgatar o seu voucher. Consulte o [passo 7](https://go.microsoft.com/fwlink/?linkid=2115983) do fluxo de trabalho para obter orientações detalhadas.
+Antes de poder faturar a Microsoft pelo noivado entregue, tem primeiro de resgatar o seu voucher. Para passos detalhados, consulte [o passo 7](https://go.microsoft.com/fwlink/?linkid=2115983) do fluxo de trabalho.
 
 ## <a name="request-payment-from-microsoft-existing-partners"></a>Pedido de pagamento da Microsoft (parceiros existentes)
 

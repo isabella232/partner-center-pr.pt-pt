@@ -1,5 +1,5 @@
 ---
-title: Solicitar uma relação com um cliente
+title: Solicitar uma relação de revendedor com um cliente
 ms.topic: how-to
 ms.date: 06/17/2020
 ms.service: partner-dashboard
@@ -8,12 +8,12 @@ description: Solicite uma relação com um cliente para cenários multi-parceiro
 author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
-ms.openlocfilehash: f8265973157540cff698790ddb2effa912abeeb7
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 83f615e69a9285365e68305fa909104e0da52992
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109856122"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551644"
 ---
 # <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>Como pedir uma relação de revendedor de um cliente no Centro de Parceiros
 
@@ -52,7 +52,7 @@ Pode solicitar uma relação de revendedor com um cliente de dentro do seu país
 
 ## <a name="changes-to-the-customer-invitation-experience"></a>Alterações à experiência do convite ao cliente
 
-A experiência do cliente para aceitar um convite de relacionamento revendedor de um parceiro Cloud Solution Provider é hospedada por diferentes portais virados para o cliente. A localização do portal depende se um cliente está numa nuvem pública da Microsoft ou numa nuvem nacional:
+A experiência do cliente para aceitar um convite de relacionamento revendedor de um parceiro cloud solution provider (CSP) é hospedada por diferentes portais virados para o cliente. A localização do portal depende se um cliente está numa nuvem pública da Microsoft ou numa nuvem nacional:
 
 |Tipos de clientes em nuvem  | Onde é que um cliente aceita um convite de relacionamento de revendedor? |
 |---------|---------

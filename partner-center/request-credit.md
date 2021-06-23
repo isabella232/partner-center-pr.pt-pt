@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 100a3d2988c19d57f7426c7212b7464d8e96dc94
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 4a8e785de051aa6f722a1bfddc4ad83d6502bbb3
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110152958"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551661"
 ---
 # <a name="how-and-when-to-request-a-service-level-agreement-sla-credit-from-microsoft"></a>Como e quando solicitar um crédito de nível de serviço (SLA) da Microsoft
 
@@ -26,12 +26,12 @@ Pode solicitar **créditos de acordo de nível de serviço (SLA)** da Microsoft 
 
 Os créditos SLA da Microsoft são determinados com base em quais os serviços foram impactados. Por exemplo, se o seu cliente tiver uma suite Office 365 mas apenas tiver uma paragem do SharePoint, o crédito SLA é aprovado apenas para o SharePoint e não para todo o plano do cliente.
 
-*Os créditos são avaliados de forma pró-avaliação com base no serviço afetado e na duração da paralisação.* Para ver os tipos de cenários que se qualificam para créditos SLA, consulte o [documento SLA Consolidado de Serviços Online.](http://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=37) Esta informação aplica-se também aos serviços vendidos através do programa Cloud Solution Provider.
+*Os créditos são avaliados de forma pró-avaliação com base no serviço afetado e na duração da paralisação.* Para ver os tipos de cenários que se qualificam para créditos SLA, consulte o [documento SLA Consolidado de Serviços Online.](http://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=37) Esta informação aplica-se também aos serviços vendidos através do programa Cloud Solution Provider (CSP).
 
 
 ## <a name="request-an-sla-credit"></a>Solicite um crédito SLA
 
-*O parceiro Cloud Solution Provider (CSP) deve apresentar a reclamação e todas as informações necessárias até ao final do mês civil seguinte ao mês em que ocorreu o incidente.* Por exemplo, se o incidente ocorreu no dia 15 de fevereiro, a Microsoft deve receber a reclamação e todas as informações necessárias até 31 de março. Clientes finais e revendedores indiretos não podem apresentar crédito sla; quer o prestador indireto quer o parceiro de conta direta devem apresentar reclamações em seu nome.
+*O sócio da CSP deve apresentar o pedido e todas as informações necessárias até ao final do mês civil seguinte ao mês em que ocorreu o incidente.* Por exemplo, se o incidente ocorreu no dia 15 de fevereiro, a Microsoft deve receber a reclamação e todas as informações necessárias até 31 de março. Clientes finais e revendedores indiretos não podem apresentar crédito sla; quer o prestador indireto quer o parceiro de conta direta devem apresentar reclamações em seu nome.
 
 >[!NOTE]
 >Incidentes consultivos[(Como verificar a saúde do serviço Microsoft 365](/microsoft-365/enterprise/view-service-health#incidents-and-advisories)) não são elegíveis para créditos SLA.

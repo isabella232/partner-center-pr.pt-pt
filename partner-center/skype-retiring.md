@@ -1,5 +1,5 @@
 ---
-title: Migrar alguns Skype para subscrições de negócios
+title: Migrar Skype para subscrições de negócios
 description: Saiba como e quando migrar determinados clientes com o Skype expirado para o Plano De Negócios 1 para as novas versões do Office 365.
 ms.topic: article
 ms.service: partner-dashboard
@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 06/03/2020
-ms.openlocfilehash: 0e8289ad06dbc8a95f5cff22ca386176d6ba65ab
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: a8de5b824a24b07607b5365848ec1027ca0d08e8
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854830"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551542"
 ---
 # <a name="migrate-skype-for-business-online-plan-1-subscriptions-to-newer-office-365-versions"></a>Migrate Skype for Business Online Plan 1 subscriptions to newer Office 365 version (Migrar as subscrições do Skype para Empresas Online Plano 1 para a versão mais recente do Office 365)
 
@@ -27,7 +27,7 @@ Para garantir a continuidade dos clientes, deve transitar os clientes com subscr
 >[!NOTE]
 >Tanto o Skype para o Plano Online 1 comercial como o governo SKUs estão reformados.
 
-Se utilizar a API (CREST ou Partner Center), encontre subscrições caducadas avaliando a data final da subscrição juntamente com a renovação automática = Propriedade falsa. As subscrições do Skype for Business Online Plan 1 serão definidas para renovação automática=Falsa a 1 de setembro de 2018. Pode mover os clientes para um novo plano a qualquer momento. 
+Se utilizar a API (quer O Comércio REST (CREST) quer o Partner Center), encontre subscrições caducadas avaliando a data final da subscrição juntamente com a renovação automática = Propriedade falsa. As subscrições do Skype for Business Online Plan 1 serão definidas para renovação automática=Falsa a 1 de setembro de 2018. Pode mover os clientes para um novo plano a qualquer momento. 
 
 ## <a name="skype-for-business-online-plan-1-replacement-plans"></a>Plano Skype para Plano Empresarial 1 planos de substituição
 
@@ -39,10 +39,10 @@ Com os novos planos, os seus clientes podem tirar partido das funcionalidades e 
 
 |**Funcionalidade**    |**Opção 1**   |**Opção 2**   |**Opção 3**   |
 |:-----------------|:-----------------|:-------------|:------------|
-|Obtenha todas as funcionalidades incluídas no Skype para o Plano Online de Negócios 1|Yes   |Yes   |Yes   |
-|IM e presença |Yes   |Yes   |Yes   |
-|Peer-to-peer Audio e Vídeo sobre IP|Yes   |Yes   |Yes   
-|Junte-se às reuniões como utilizador autenticado| Yes   |Yes   |Yes   |
+|Obtenha todas as funcionalidades incluídas no Skype para o Plano Online de Negócios 1|Sim   |Sim   |Sim   |
+|IM e presença |Sim   |Sim   |Sim   |
+|Peer-to-peer Audio e Vídeo sobre IP|Sim   |Sim   |Sim   
+|Junte-se às reuniões como utilizador autenticado| Sim   |Sim   |Sim   |
 
 ## <a name="transition-customers-to-new-product-plans"></a>Transição de clientes para novos planos de produtos
 

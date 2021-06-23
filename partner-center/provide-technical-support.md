@@ -9,19 +9,19 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f25dda14ff056918ef29ab5cfeaa72894b4d4fea
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 5ea1fcd80f6ada97e5c0b840f11e0eb7668ee265
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855000"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551236"
 ---
 # <a name="provide-technical-support-to-help-customers-configure-manage-and-use-their-subscriptions"></a>Fornecer suporte técnico para ajudar os clientes a configurar, gerir e utilizar as suas subscrições
 
 
 **Funções adequadas**: Administração global | Administração de administração de utilizadores | Agente helpdesk | Agente administrativo
 
-Como parceiro cloud solution provider, tem privilégios de administração delegados que lhe dão acesso aos ambientes dos seus clientes. Estes privilégios proporcionam-lhe a capacidade de suporte direto, configuração e gestão das subscrições dos seus clientes.
+Como parceiro cloud solution provider (CSP), tem Privilégios de Administração Delegados que lhe dão acesso aos ambientes dos seus clientes. Estes privilégios proporcionam-lhe a capacidade de suporte direto, configuração e gestão das subscrições dos seus clientes.
 
 No Partner Center, pode:
 
