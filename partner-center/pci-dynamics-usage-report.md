@@ -8,18 +8,18 @@ description: Veja o que está a fazer bem e onde pode melhorar no que diz respei
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 2c0b90fdeaf8bf1715d89221959aeb49e186d150
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 76a589037817707378e39f4301313eee7284422a
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277509"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565462"
 ---
 # <a name="dynamics-usage-report-available-from-the-partner-center-insights-dashboard"></a>Relatório de utilização dinâmico disponível no painel Partner Center Insights
 
 **Funções adequadas**: Administração global | Agente administrativo | Relatório | do espectador Espectador de relatório executivo
 
-O relatório de utilização da Dynamics fornece dados de utilização para as subscrições Dynamics 365 que vendeu ou geriu para os seus clientes. Pode ver as seguintes secções do relatório de utilização da dinâmica.
+O relatório de utilização da Dynamics fornece dados de utilização para as subscrições Microsoft Dynamics 365 que vendeu ou geriu para os seus clientes. Pode ver as seguintes secções do relatório de utilização da dinâmica.
 
 - Resumo
 - Utilização dinâmica por geografia
@@ -28,7 +28,7 @@ O relatório de utilização da Dynamics fornece dados de utilização para as s
 - Distribuição de utilização dinâmica
 
  > [!NOTE]
- > Este relatório está disponível no painel insights. Para visualizar este relatório, deve ser-lhe atribuída uma função específica no Partner Center, como Global Admin, Account Admin, Report Viewer ou Executive Report Viewer. Para mais informações, consulte o Administrador Global da sua empresa. Os tipos específicos de dados deste relatório também podem estar disponíveis apenas para utilizadores com privilégios de Visualização de Relatórios Executivos.
+ > Este relatório está disponível no painel insights. Para visualizar este relatório, deve ser-lhe atribuído um papel específico no Partner Center, como administração global, administração de contas, espectador de relatório ou visualizador de relatórios executivos. Para mais informações, consulte a administração Global da sua empresa. Os tipos específicos de dados deste relatório também podem estar disponíveis apenas para utilizadores com privilégios de visualização de relatório executivo.
 
 ## <a name="summary"></a>Resumo
 

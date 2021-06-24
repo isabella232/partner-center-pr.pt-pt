@@ -4,18 +4,18 @@ ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Saiba como ver os dados do seu negócio utilizando a app Partner Center Analytics para Power BI (para parceiros diretos em CSP).
+description: Saiba como ver os dados do seu negócio utilizando a app Partner Center Analytics para Power BI (para parceiros diretos no programa Cloud Solution Provider (CSP).
 fwlink: https://go.microsoft.com/fwlink/?linkid=852581
 author: v-sumukh
 ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 96fe57f6e89928a69051c2e201c444882500b844
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 95eb018a3284d2de98c0ce6a9cd0ce6299d5571a
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855034"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112564986"
 ---
 # <a name="view-your-business-data-with-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Veja os seus dados de negócio com a aplicação Partner Center Analytics para Microsoft Power BI
 
@@ -25,7 +25,7 @@ ms.locfileid: "109855034"
 
 ## <a name="view-your-business-data"></a>Ver os seus dados de negócio
 
-Obtenha uma representação visual dos seus dados de negócio com a aplicação Partner Center Analytics para Power BI, incluindo:
+Obtenha uma representação visual dos seus dados de negócio com a aplicação Partner Center Analytics para o Microsoft Power BI, incluindo:
 
 - Crescimento da sua base de clientes, subscrições e licenças
 
@@ -39,7 +39,7 @@ Obtenha uma representação visual dos seus dados de negócio com a aplicação 
 
 ### <a name="about-the-partner-center-analytics-app-preview-release"></a>Sobre o lançamento da pré-visualização da aplicação Partner Center Analytics
 
-- Esta aplicação destina-se apenas a parceiros diretos no programa Cloud Solution Provider. Outros parceiros na CSP (revendedores indiretos, por exemplo) não poderão assinar.
+- Esta aplicação destina-se apenas a parceiros diretos no programa Cloud Solution Provider (CSP). Outros parceiros na CSP (revendedores indiretos, por exemplo) não poderão assinar.
 
 - Quaisquer custos estimados são dados de faturação/fatura prévia, e não são juridicamente vinculativos. Os custos estimados devem ser utilizados apenas para informações sobre dados.
 
@@ -51,7 +51,7 @@ Obtenha uma representação visual dos seus dados de negócio com a aplicação 
 
 ### <a name="business-insights-report"></a>Relatório de Insights de Negócios
 
-- **Inquilinos do cliente**: Número de inquilinos distintos da AZure AD de clientes que adquiriram assinaturas
+- Inquilinos do cliente : Número de **inquilinos distintos** do Azure Ative Directory (Azure AD) de clientes que adquiriram assinaturas
 
 - **Novo (últimos 30 dias)**: Novos clientes que compram pelo menos uma subscrição nos últimos 30 dias
 

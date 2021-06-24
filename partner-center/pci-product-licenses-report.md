@@ -9,18 +9,18 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8ab1ec5001e3b21d9661d0db0e7b8e51f12acda2
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: e5500e975f5fa8baea91a0db55896426983d19a8
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277475"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565360"
 ---
 # <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>Relatório de licenças de produtos no painel de insights do Centro de Parceiros
 
 **Funções adequadas**: Administração global | Agente administrativo | Relatório | do espectador Espectador de relatório executivo
 
-O relatório das Licenças de Produto apresenta análises de licenças para produtos em nuvem baseados em licenças, tais como Office 365, Dynamics, Microsoft 365, Power BI, entre outros. Os analytics apresentados aqui estão associados ao uso das licenças que vendeu ou que gere para os seus clientes. Pode ver as seguintes secções do relatório 'Licenças de Produto'.
+O relatório das Licenças de Produto apresenta análises de licenças para produtos em nuvem baseados em licenças, tais como Office 365, Dynamics, Microsoft 365, Microsoft Power BI, entre outros. Os analytics apresentados aqui estão associados ao uso das licenças que vendeu ou que gere para os seus clientes. Pode ver as seguintes secções do relatório 'Licenças de Produto'.
 
 - Resumo
 - Propagação geográfica das licenças
@@ -28,7 +28,7 @@ O relatório das Licenças de Produto apresenta análises de licenças para prod
 - Distribuição de licenças por locais parceiros, canal de vendas, SKUs, tipo de anexação de parceiros, segmento
 
  > [!NOTE]
- > Este relatório está disponível no painel insights. Para visualizar este relatório, deve ser-lhe atribuída uma função específica no Partner Center, como Global Admin, Account Admin, Report Viewer ou Executive Report Viewer. Para mais informações, consulte o Administrador Global da sua empresa. Os tipos específicos de dados deste relatório também podem estar disponíveis apenas para utilizadores com privilégios de Visualização de Relatórios Executivos.
+ > Este relatório está disponível no painel insights. Para visualizar este relatório, deve ser-lhe atribuído um papel específico no Partner Center, como administração global, administração de contas, espectador de relatório ou visualizador de relatórios executivos. Para mais informações, consulte a administração Global da sua empresa. Os tipos específicos de dados deste relatório também podem estar disponíveis apenas para utilizadores com privilégios de relatório executivo.
 
 ## <a name="summary"></a>Resumo
 
@@ -39,7 +39,7 @@ A secção de resumo fornece uma visão instantânea dos principais indicadores 
 Para obter mais informações sobre cada secção do resumo, consulte abaixo:
 
 - Licenças: 
-  - Contagem atual de todas as licenças vendidas ou geridas por si para produtos em nuvem baseados em licenças, tais como Office 365, Dynamics, Microsoft 365, Power BI, entre outros.
+  - Contagem atual de todas as licenças vendidas ou geridas por si para produtos em nuvem baseados em licenças, tais como Office 365, Dynamics, Microsoft 365, Microsoft Power BI, entre outros.
   - Crescimento percentual ou declínio destas licenças ao longo da gama de datas selecionadas.
   - Micro gráfico de tendência de licença: O micro gráfico apresenta a tendência mensal das contagens de licença durante a gama de datas selecionadas
 
@@ -67,7 +67,7 @@ Pode pesquisar e selecionar um país na grelha para ampliar a localização no m
 
 Esta vista mostra a tendência das licenças adicionadas durante o intervalo de datas selecionados. 
 
-Para apresentar a tendência por produto e serviço/carga de trabalho, selecione um Produto no topo do ecrã e um serviço/carga de trabalho da lista de dropdown SKUs.
+Para apresentar a tendência por produto e serviço/carga de trabalho, selecione um Produto no topo do ecrã e um serviço/carga de trabalho da lista de dropdown **SKUs.**
 
 O eixo X representa meses do intervalo de datas selecionados. O eixo Y representa a contagem de licenças adicionadas. Para ampliar um período específico, utilize o slider no topo da tabela.
 

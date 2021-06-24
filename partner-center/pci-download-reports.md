@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6124e20efe16e134c441bb1fd72f022e841083b0
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: bf9d158ce2d1e25923d94e5f9c80e408fef29aa4
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276239"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565479"
 ---
 # <a name="download-reports"></a>Transferir relatórios
 
@@ -43,19 +43,19 @@ Os seguintes relatórios estão disponíveis para download:
 
 **O perfil** do parceiro fornece os detalhes relacionados com o parceiro. Detalhes como Partner ID, Partner name, Partner city e Partner country estão disponíveis no relatório. Não será aplicável qualquer agregação ou recuo para este relatório.
 
-**Os detalhes do cliente** fornecem os detalhes dos clientes de que um Parceiro está associado. Também fornece métricas-chave como licenças vendidas, ACR agregado e assim por diante. O relatório é agregado mensalmente.
+**Os detalhes do cliente** fornecem os detalhes dos clientes de que um Parceiro está associado. Também fornece métricas-chave como licenças vendidas, Azure agregado consumiu receitas (ACR) e assim por diante. O relatório é agregado mensalmente.
 
 **Os detalhes das subscrições** fornecem os detalhes das subscrições vendidas ou geridas pelo Parceiro juntamente com a informação do cliente. O relatório é agregado mensalmente.
 
 **O uso do Azure** fornece os detalhes de utilização do Azure. Estes detalhes são para as subscrições Azure vendidas ou geridas pelo Parceiro. Os detalhes de utilização são divididos por categoria de medidor e outras dimensões-chave. O relatório é agregado mensalmente.
 
-**Office365 - O Uso da Licença** fornece os detalhes de utilização das licenças O365 vendidas ou geridas pelo Parceiro. Também fornece informações ao cliente e métricas-chave, tais como Utilizadores Ativos Mensais (MAU), direitos qualificados e assim por diante. O relatório será agregado mensalmente.
+**Office 365 - O Uso da Licença** fornece os detalhes de utilização das licenças do Office 365 vendidas ou geridas pelo Parceiro. Também fornece informações ao cliente e métricas-chave, tais como Utilizadores Ativos Mensais (MAU), direitos qualificados e assim por diante. O relatório será agregado mensalmente.
 
-**Mobilidade Empresarial – O Uso de Licenças**  fornece os detalhes de utilização das licenças de Mobilidade Empresarial vendidas ou geridas pelo Parceiro. Também fornece informações ao cliente e métricas-chave, tais como Utilizadores Ativos Mensais (MAU), direitos qualificados e assim por diante. O relatório é agregado mensalmente.
+**Mobilidade Empresarial – O Uso de Licenças**  fornece os detalhes de utilização das licenças de Mobilidade Empresarial vendidas ou geridas pelo Parceiro. Também fornece informações ao cliente e métricas-chave, tais como MAU, direitos qualificados e assim por diante. O relatório é agregado mensalmente.
 
-**Dinâmica 365 – O Uso da Licença** fornece os detalhes de utilização das licenças D365 vendidas ou geridas pelo Parceiro. Também fornece informações ao cliente e métricas-chave, tais como Utilizadores Ativos Mensais (MAU), direitos qualificados e assim por diante. O relatório é agregado mensalmente.
+**Dinâmica 365 – O Uso da Licença** fornece os detalhes de utilização das licenças D365 vendidas ou geridas pelo Parceiro. Também fornece informações ao cliente e métricas-chave, tais como MAU, direitos qualificados e assim por diante. O relatório é agregado mensalmente.
 
-**Power BI - License Usage** fornece os detalhes de utilização das licenças Power BI vendidas ou geridas pelo Parceiro. Também fornece informações ao cliente e métricas-chave, tais como Utilizadores Ativos Mensais (MAU), direitos qualificados e assim por diante. O relatório é agregado mensalmente.
+**Power BI - License Usage** fornece os detalhes de utilização das licenças Power BI vendidas ou geridas pelo Parceiro. Também fornece informações ao cliente e métricas-chave, tais como MAU, direitos qualificados e assim por diante. O relatório é agregado mensalmente.
 
 **As formações** fornecem os detalhes como exames, certificações, avaliações, pistas, cursos concluídos ou ocupados por colaboradores do parceiro.
 
@@ -63,5 +63,5 @@ Os seguintes relatórios estão disponíveis para download:
 
 **Competências – Resumo e história** fornecem detalhes de todas as competências que estão ativas, em curso ou em risco para este Parceiro. Inclui também a história de todas as competências alcançadas pelo parceiro.
 
-**Competências – Os detalhes de desempenho** fornecem detalhes sobre como o parceiro está a fazer no que diz respeito aos KPI's para alcançar um determinado conjunto de competências.
+**Competências – Os detalhes do desempenho** fornecem detalhes sobre como o parceiro está a fazer no que diz respeito aos principais indicadores de desempenho (KPI's) para alcançar um determinado conjunto de competências.
 

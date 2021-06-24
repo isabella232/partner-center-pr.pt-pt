@@ -8,12 +8,12 @@ description: Veja o que está a fazer bem e onde pode melhorar no que diz respei
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: e1b60c96bad5d3bf514bdfb36d36a733364e6c92
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 43ac7763b32eed5c63fd3766262ad1649ae81e11
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277815"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565377"
 ---
 # <a name="office-365-usage-report-available-from-the-partner-center-insights-dashboard"></a>Relatório de utilização do Office 365 disponível no painel de insights do Centro de Parceiros
 
@@ -28,7 +28,7 @@ O relatório de utilização do Office 365 fornece dados de utilização para as
 - Distribuição de utilização do Office 365
 
  > [!NOTE]
- > Este relatório está disponível no painel insights. Para visualizar este relatório, deve ser-lhe atribuída uma função específica no Partner Center, como Global Admin, Account Admin, Report Viewer ou Executive Report Viewer. Para mais informações, consulte o Administrador Global da sua empresa. Os tipos específicos de dados deste relatório também podem estar disponíveis apenas para utilizadores com privilégios de Visualização de Relatórios Executivos.
+ > Este relatório está disponível no painel insights. Para visualizar este relatório, deve ser-lhe atribuído um papel específico no Partner Center, como administração global, administração de contas, espectador de relatório ou visualizador de relatórios executivos. Para mais informações, consulte a administração Global da sua empresa. Os tipos específicos de dados deste relatório também podem estar disponíveis apenas para utilizadores com privilégios de visualização de relatório executivo.
 
 ## <a name="summary"></a>Resumo
 

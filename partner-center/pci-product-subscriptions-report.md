@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bf2663122ca95e8d610c8be792a26682ae1718bf
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: cd226122f8e69e0667006f274d2ef080bbe47b9b
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276319"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565428"
 ---
 # <a name="product-subscriptions-report-available-from-the-partner-center-insights-dashboard"></a>Relatório de subscrições de produtos disponível no painel de insights do Partner Center Insights
 
@@ -32,7 +32,7 @@ Pode ver as seguintes secções do relatório de Subscrições de Produtos.
 - Tendência dos produtos
 
  > [!NOTE]
- > Este relatório está disponível no painel insights. Para visualizar este relatório, deve ser-lhe atribuída uma função específica no Partner Center, como Global Admin, Account Admin, Report Viewer ou Executive Report Viewer. Para mais informações, consulte o Administrador Global da sua empresa. Os tipos específicos de dados deste relatório também podem estar disponíveis apenas para utilizadores com privilégios de Visualização de Relatórios Executivos.
+ > Este relatório está disponível no painel insights. Para visualizar este relatório, deve ser-lhe atribuído um papel específico no Partner Center, como administração global, administração de contas, espectador de relatório ou visualizador de relatórios executivos. Para mais informações, consulte a administração Global da sua empresa. Os tipos específicos de dados deste relatório também podem estar disponíveis apenas para utilizadores com privilégios de visualização de relatório executivo.
 
 ## <a name="summary"></a>Resumo
 
@@ -48,7 +48,7 @@ Para obter mais informações sobre cada secção do resumo, consulte abaixo:
   - O Micro chart apresenta uma tendência mensal de contagem de assinaturas durante a sua gama de datas selecionadas.
 
 - Assinaturas ativas:
-  - Contagem atual de subscrições de produtos em nuvem com utilização ativa medida com base na telemetria do produto. Isto exclui todas as subscrições de ensaio no caso das assinaturas Azure.
+  - Contagem atual de subscrições de produtos em nuvem com utilização ativa medida com base na telemetria do produto. Isto exclui todas as subscrições de teste para subscrições Azure.
   - Crescimento percentual ou declínio de subscrições ativas durante o período de tempo selecionado.
   - O Micro chart apresenta uma tendência mensal de subscrições ativas durante a sua gama de datas selecionadas.
 
@@ -84,7 +84,7 @@ O gráfico de colunas empilhado apresenta uma desagregação de novas subscriç�
 
 ## <a name="subscription-distribution"></a>Distribuição de assinaturas
 
-Esta visão apresenta uma desagregação das suas subscrições atuais pelas suas localizações MPN, segmentos de clientes, canal de vendas/modelo de preços Azure, e o tipo de atribuição (por exemplo, DPOR, DAP, entre outros). Selecione os respetivos separadores para ver a avaria por estas categorias. Para construir o gráfico de tortas com uma desagregação de categorias específicas de itens, selecione as categorias de itens na legenda.
+Esta visão apresenta uma desagregação das suas subscrições atuais pelas localizações da Microsoft Partner Network (MPN), segmentos de clientes, modelo de preços de canal de vendas/Azure e o tipo de atribuição. Selecione os respetivos separadores para ver a avaria por estas categorias. Para construir o gráfico de tortas com uma desagregação de categorias específicas de itens, selecione as categorias de itens na legenda.
 
 :::image type="content" source="images/pci/pci-sub-report-distribution-4.png" alt-text="distribuição de assinaturas.":::
 
@@ -96,7 +96,7 @@ Esta vista mostra a distribuição das suas subscrições atuais do cliente por 
 
 ## <a name="products-trend"></a>Tendência dos produtos
 
-Esta vista mostra um gráfico de barras e dois gráficos de tortas. O gráfico de barras apresenta uma tendência mensal de subscrições discriminadas por produtos comerciais, tais como Azure, Office, Dynamics, etc.
+Esta vista mostra um gráfico de barras e dois gráficos de tortas. O gráfico de barras apresenta uma tendência mensal de subscrições discriminadas por produtos comerciais, tais como Azure, Office e Dynamics.
 
 Os dois gráficos de tartes mostram uma desagregação das subscrições atuais do cliente. O primeiro gráfico de tartes decompõe as subscrições por produtos. O segundo gráfico de tartes decompõe as subscrições por SKUs ou planos. Quando selecionar um produto na tabela de **tartes Products,** o gráfico de tartes adjacente mostrar-lhe-á uma repartição das subscrições desse produto por SKUs.
 

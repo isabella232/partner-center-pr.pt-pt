@@ -9,27 +9,27 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1cf69258b507258e1186514c54fa11ebf8a57d36
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: d9eac83c2b2ef2d83b7b9aaec0c6dce7e24ee8b7
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854524"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565049"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Preços e ofertas para Office 365, Dynamics CRM, Enterprise Mobility Suite, Azure, e muito mais
 
 
 **Funções adequadas**: Administração global | Administração de administração de utilizadores | Agente administrativo | | de administrador sócio da MPN Agente comercial | Administrador de faturação
 
-Para ver os mais recentes programas e ofertas do Cloud Solution Provider, a partir do painel de instrumentos do Portal dos **Parceiros,** vá ao Sell > Preços e Ofertas . Encontrará listas de preços separadas para os diferentes tipos de produtos disponíveis. As seguintes listas de preços estão disponíveis na página **de Preços e Ofertas:**
+Para ver os mais recentes programas e ofertas do Cloud Solution Provider (CSP), a partir do painel de instrumentos do Portal dos **Parceiros,** vá ao Sell > Preços e Ofertas . Encontrará listas de preços separadas para os diferentes tipos de produtos disponíveis. As seguintes listas de preços estão disponíveis na página **de Preços e Ofertas:**
 
-- **Os serviços baseados em licenças** incluem informações de preços para o Office 365, Enterprise Mobility e Security E3, bem como e Dynamics 365. A secção de preços baseada em licença inclui preços atuais e de pré-visualização, bem como a matriz da lista de ofertas. As listas de preços incluem o preço da lista e os preços estimados de venda a retalho (ERP) para ofertas em todas as moedas apoiadas. A matriz da lista de ofertas inclui disponibilidade de mercado e outras informações importantes sobre as ofertas. Estes ficheiros são atualizados no primeiro dia de cada mês.
-- **Os serviços baseados em uso** incluem informações de preços para o Microsoft Azure e o Visual Studio. Também pode utilizar os [Serviços Azure na Calculadora de Preços da CSP](https://azure.microsoft.com/pricing/calculator/). O download baseado em uso inclui tanto as listas de preços do CSP para todas as moedas suportadas, como os ficheiros de preços dos Serviços Partilhados em ERP. Estes ficheiros são atualizados no primeiro dia de cada mês.
+- **Os serviços baseados em licenças** incluem informações de preços para o Office 365, Enterprise Mobility e Security E3 e Dynamics 365. A secção de preços baseada em licença inclui preços atuais e de pré-visualização e a matriz da lista de ofertas. As listas de preços incluem o preço da lista e os preços estimados de venda a retalho (ERP) para ofertas em todas as moedas apoiadas. A matriz da lista de ofertas inclui disponibilidade de mercado e outras informações importantes sobre as ofertas. Estes ficheiros são atualizados no primeiro dia de cada mês.
+- **Os serviços baseados em uso** incluem informações de preços para o Microsoft Azure e o Visual Studio. Também pode utilizar os [Serviços Azure na Calculadora de Preços da CSP](https://azure.microsoft.com/pricing/calculator/). O download baseado em uso inclui tanto as listas de preços do CSP para todas as moedas suportadas como os ficheiros de preços dos Serviços Partilhados em ERP. Estes ficheiros são atualizados no primeiro dia de cada mês.
 - **O Microsoft Azure Reserved Instances** inclui informações de preços para todas as moedas suportadas para Azure Reserved Instances. O download de preços também inclui o preço dos Serviços Partilhados em ERP. Estes ficheiros são atualizados no primeiro dia de cada mês.
-- **As subscrições de** software incluem preços para subscrições de software baseadas em termos para todas as moedas suportadas. O ficheiro de preços inclui todas as moedas suportadas com preço de lista e MSRP. Estes ficheiros são atualizados no primeiro dia de cada mês.
-- **Os preços do plano Azure** incluem informações sobre preços para os serviços de consumo do plano Azure, bem como os preços de reserva do plano Azure. Os preços são preços diretos ou ERP e podem ser recuperados para qualquer mercado apoiado. Os dados nestes ficheiros são atualizados todos os dias.
+- **As subscrições de** software incluem preços para subscrições de software baseadas em termos para todas as moedas suportadas. O ficheiro de preços inclui todas as moedas suportadas com preço de lista e o preço de venda sugerido pelo fabricante (MSRP). Estes ficheiros são atualizados no primeiro dia de cada mês.
+- **Os preços do plano Azure** incluem informações sobre preços para os serviços de consumo do plano Azure e preços de reserva do plano Azure. Os preços são preços diretos ou ERP e podem ser recuperados para qualquer mercado apoiado. Os dados nestes ficheiros são atualizados todos os dias.
 - **As taxas de câmbio** são utilizadas para calcular a faturação cobrada entre USD e a moeda local dos parceiros. As tarifas são atualizadas no primeiro dia de cada mês e mantêm-se verdadeiras para o mês em que as tarifas são disponibilizadas. Estes ficheiros são atualizados no primeiro dia de cada mês.
-- **O marketplace** inclui preços para soluções ISV do mercado comercial da Microsoft. Os preços são recuperados por mercado. Os dados nestes ficheiros são atualizados todos os dias.
+- **O marketplace** inclui preços para soluções independentes de fornecedor de software (ISV) do mercado comercial da Microsoft. Os preços são recuperados por mercado. Os dados nestes ficheiros são atualizados todos os dias.
 
 > [!Note] 
 > Apenas os parceiros CSP com a capacidade de transacionar podem visualizar e baixar listas de preços. Os revendedores indiretos devem [contactar o seu fornecedor CSP]( https://partner.microsoft.com/cloud-solution-provider/find-a-provider) para solicitar detalhes sobre preços
@@ -92,7 +92,7 @@ Os serviços baseados em licenças podem ser adquiridos como ofertas base ou add
 
 1. Consulte a matriz da lista de ofertas para ver a lista de IDs de oferta que precisam de ser comprados antes de poder adquirir um addon.
 2. Compre a oferta base do catálogo
-3. Navegue para o seu cliente a partir da lista de clientes. Clique na subscrição da oferta base que acabou de adquirir. Na página de subscrição de gestão verá os complementos disponíveis que podem ser aplicados à oferta base.
+3. Navegue para o seu cliente a partir da lista de clientes. Selecione a subscrição para a oferta base que acabou de adquirir. Na página de subscrição de gestão, verá os complementos disponíveis que podem ser aplicados à oferta base.
 
 > [!Note] 
 > Algumas ofertas base têm valores do **tipo Unit** de **licenças de add-on.** Para uma oferta base isto significa simplesmente que não atribui licenças de utilizador após a compra. Se a oferta puder ser adquirida no catálogo, é uma **oferta base** independentemente do tipo de unidade na interface do utilizador.
@@ -172,7 +172,7 @@ A maioria das listas de preços incluem um preço de lista, o preço que o parce
 |Serviços baseados em licenças  |Listado como ERP nas listas de preços baseadas em licenças  |
 |Serviços baseados em uso Azure  |Pode ser encontrado nas listas de preços equivalentes dos Serviços Partilhados  |
 |Reservas do Azure  |Pode ser encontrado nas listas de preços equivalentes dos Serviços Partilhados  |
-|Utilização do plano Azure  |Os preços são retalhistas não descontados nas tabelas de preços  |
+|Utilização do plano Azure  |Os preços são retalhistas, sem desconto nas tabelas de preços  |
 |Reservas do plano Azure  |Referência Azure reservas listas de preços de serviços partilhados  |
 |Subscrições de software  |Listado como MSRP nas listas de preços de subscrições de software  |
 |Marketplace  |Listado como MSRP nas listas de preços do Marketplace  |

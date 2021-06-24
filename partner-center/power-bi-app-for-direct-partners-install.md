@@ -10,12 +10,12 @@ author: v-sumukh
 ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 15ee391d6b748b6499700aee321ff4abd85e75d2
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: ff95f989ac847bd2c17558d062c86a52110b2ddf
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854490"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565050"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Install and preview the Partner Center Analytics app for Microsoft Power BI (Instalar e pré-visualizar a aplicação de Análise do Centro de Parceiros do Microsoft Power BI)
 
@@ -24,7 +24,7 @@ ms.locfileid: "109854490"
 
 ## <a name="before-you-begin"></a>Antes de começar
 
-Selecione a aplicação mais relevante para o seu negócio a partir da seguinte lista de aplicações disponíveis power bi:
+Selecione a aplicação mais relevante para o seu negócio a partir da seguinte lista de aplicações disponíveis do Microsoft Power BI:
 
 - [Provedor Direto](https://appsource.microsoft.com/product/power-bi/partnercenteranalytics.direct_provider_partner_analytics)
 

@@ -9,12 +9,12 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6af4f5f82c145aa932c03a176dbf8592d095a930
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 37a4f6cdce2b77f194fc91e0490e1c87ee137b43
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276285"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565105"
 ---
 # <a name="trainings-dashboard"></a>Painel de treinos
 
@@ -28,7 +28,7 @@ O dashboard Trainings fornece informações sobre as certificações, avaliaçõ
 - Detalhes da atividade
 
 >[!NOTE] 
->Este relatório está disponível no centro insights no Partner Center. Para visualizar este relatório, deve ser-lhe atribuído o papel de Observador de Relatórios ou Visualizador de Relatórios Executivos. Poucas secções deste relatório só serão visíveis para os utilizadores que são telespectadores do Relatório Executivo. Para obter mais informações sobre o controlo de acesso aos relatórios insights, consulte [as funções de PCI](pci-roles.md).
+>Este relatório está disponível no centro insights no Partner Center. Para visualizar este relatório, deve ser-lhe atribuído o papel de observador de relatórios ou espectador de relatório executivo. Poucas secções deste relatório só serão visíveis para os utilizadores que são telespectadores do Relatório Executivo. Para obter mais informações sobre o controlo de acesso aos relatórios insights, consulte [as funções de PCI](pci-roles.md).
 
 ## <a name="summary"></a>Resumo
 

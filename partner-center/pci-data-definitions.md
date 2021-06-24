@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 721caed2d8b0e24940e7adedeb90cc689a82d2e7
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 23ca20fbb2febfd4b1ea92f72fbfda5ac83d7eb6
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110152839"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565513"
 ---
 # <a name="export--data-definitions"></a>Exportação - Definições de dados 
 
@@ -30,7 +30,7 @@ Os vários relatórios, que pode descarregar juntamente com as suas definições
 
 | Nome da coluna | Descrição dos dados | 
 | :--------- | :--------- | 
-| MPNId | Identificador da Microsoft Partner Network (MPN) | 
+| MPNId | Microsoft Partner Network (MPN) ID| 
 | PartnerName | Nome do parceiro | 
 | PGA_MPNId | Identificador da conta global do parceiro MPN | 
 | PGA_PartnerName | Nome da conta global do parceiro | 
@@ -48,7 +48,7 @@ Os vários relatórios, que pode descarregar juntamente com as suas definições
 | Gestão de Clientes | Segmento de cliente | 
 | Mercado de Clientes | Mercado geográfico do cliente | 
 | CustomerStatus | Estado do cliente (Ativo ou Inativo) | 
-| Produto | O produto vendido ao cliente pela MPN: O365, DYNAMICS 365, Enterprise Mobility + Security, Power BI ou Microsoft Azure | 
+| Produto | O produto vendido ao cliente pela MPN: Office 365, Dynamics 365, Enterprise Mobility and Security, Power BI ou Microsoft Azure | 
 | SKU | SKU de produto | 
 | Mensal | Mês para o qual são reportadas as receitas e o uso | 
 | MPNId | Identificador da Microsoft Partner Network | 
@@ -62,7 +62,7 @@ Os vários relatórios, que pode descarregar juntamente com as suas definições
 ### <a name="reseller-performance-report"></a>**Relatório de desempenho do revendedor**
 
 > [!Note]
-> As receitas e os dados ACR estão disponíveis apenas para utilizadores que sejam espectadores de relatórios executivos.
+> Receitas e dados de receitas consumidas (ACR) estão disponíveis apenas para utilizadores que são espectadores de relatório executivo.
 
 | Nome da coluna | Descrição dos dados | 
 | :--------- | :--------- | 
@@ -95,7 +95,7 @@ Os vários relatórios, que pode descarregar juntamente com as suas definições
 | SubscriçãoEndDate | Data de fim da subscrição | 
 | Estado de Subscrição | Estado da subscrição (Ativo ou Churned) | 
 | Mensal | Mês para o qual são reportadas as receitas e o uso | 
-| IsautoRenew | Indica se a subscrição é de novo (Sim ou Não) | 
+| IsautoRenew | Indica se a subscrição é auto-automática (Sim ou Não) | 
 | CustomerName | Nome do cliente | 
 | CustomerTenantId | GUIA do cliente | 
 | CustomerTpid | Identificador de pais de topo do cliente | 
@@ -107,7 +107,7 @@ Os vários relatórios, que pode descarregar juntamente com as suas definições
 | PartnerName | Nome do parceiro | 
 | PartnerLocation | Localização geográfica do parceiro | 
 | PartnerAttributionType | Tipo de atribuição para a subscrição | 
-| SalesChannel | Canal das vendas - Direto, CSP (Cloud Solution Provider), e assim por diante | 
+| SalesChannel | Canal das vendas - Direct, Cloud Solution Provider (CSP), e assim por diante | 
 | Lugares disponíveis | Assento disponível atual | 
 | RevenueUSD | Receitas em dólares americanos | 
 | ID de inscrição | ID de inscrição da assinatura | 
@@ -387,7 +387,7 @@ Os vários relatórios, que pode descarregar juntamente com as suas definições
 
 | Nome da coluna | Descrição dos dados | 
 | :--------- | :--------- | 
-| ID do MPN | ID da rede de parceiros da Microsoft | 
+| ID do MPN | Microsoft Partner Network (MPN) ID | 
 | Nome do parceiro | Nome do parceiro | 
 | ID de Cliente | Número do identificador do cliente | 
 | Número duns | O Dun & número de Bradstreet do cliente que está a ser marcado por propensão | 
@@ -444,7 +444,7 @@ Os vários relatórios, que pode descarregar juntamente com as suas definições
 
 | Nome da coluna | Descrição dos dados | 
 | :--------- | :--------- | 
-| ID do MPN | ID da rede de parceiros da Microsoft | 
+| ID do MPN | Microsoft Partner Network (MPN) ID | 
 | Nome do parceiro | Nome do parceiro | 
 | ID de Cliente | Número do identificador do cliente | 
 | Número duns | O Dun & número de Bradstreet do cliente que está a ser marcado por propensão | 

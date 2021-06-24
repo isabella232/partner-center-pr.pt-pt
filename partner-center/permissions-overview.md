@@ -9,12 +9,12 @@ author: hemas
 ms.author: hemas
 ms.localizationpriority: high
 ms.custom: SEOMAY.20, contperf-fy21q1
-ms.openlocfilehash: b1ac34bbb92d600805465ca5f6d1b28af54cd5e1
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 582fdc98617be7d82c0bc61a0bf46ceb662954d3
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855136"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565088"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>Atribuir funções e permissões aos utilizadores de uma empresa que necessite de trabalhar no Partner Center
 
@@ -24,10 +24,10 @@ Configura o seu perfil de parceiro, incluindo nome legal e morada, detalhes de a
 
 ## <a name="set-up-your-employees-to-work-in-partner-center"></a>Configurar os seus colaboradores para trabalhar no Partner Center
 
-Você determina os tipos de acesso que os seus utilizadores têm para Partner Center pelas funções e permissões que lhes dá. As funções estão relacionadas com o(s) programa(s) em que o seu negócio está envolvido. Por exemplo, se o seu negócio for um negócio cloud solution provider (CSP), você não só terá as funções padrão de gestão de inquilinos do Azure Ative Directory, como administração global, mas precisará de papéis específicos para o programa CSP. Cada programa tem papéis específicos.
+Você determina os tipos de acesso que os seus utilizadores têm para Partner Center pelas funções e permissões que lhes dá. As funções estão relacionadas com o(s) programa(s) em que o seu negócio está envolvido. Por exemplo, se o seu negócio for um negócio cloud solution provider (CSP), você não só terá as funções padrão de gestão de inquilinos Azure Ative(Azure AD), como administração global, mas precisará de papéis específicos do programa CSP. Cada programa tem papéis específicos.
 
 >[!Note]
-> As funções de inquilino do Azure Ative Directory incluem funções de administrador global, administração de utilizadores e CSP. As funções não-Azure-Active-Directory são as funções que não gerem o arrendatário, e incluem a administração mpn, administração de perfil de negócios, administração de encaminhamento, administração de incentivos e utilizador de incentivos. 
+> As funções de inquilino da AZure AD incluem funções de administrador global, administração de utilizadores e CSP. As funções não-Azure-AD são as funções que não gerem o inquilino, e incluem a administração de parceiros MPN (Microsoft Partner Network), administração de perfil de negócios, administração de encaminhamento, administração de incentivos e utilizador de incentivos. 
 
 ### <a name="manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles"></a>Gerir transações comerciais em Partner Center (funções Azure AD e CSP)
 
@@ -81,14 +81,14 @@ Você determina os tipos de acesso que os seus utilizadores têm para Partner Ce
 
 ### <a name="control-panel-vendor-cpv-csp-role-and-non-azure-ad-role"></a>Fornecedor de painel de controlo (CPV). (papel da CSP e papel de AD não-Azure)
 
-Os CPVs desenvolvem aplicativos para utilização pelos parceiros Cloud Solution Provider (CSP) para lhes permitir integrar os seus sistemas com APIs do Partner Center. 
+Os CPVs desenvolvem aplicações para utilização por parceiros CSP para lhes permitir integrar os seus sistemas com APIs do Partner Center. 
 
 |**Role**   |**O que pode fazer**|**Saiba mais**|
 |------------------------------|:----------------------------|----|
-|Administrador global| Ver e gerir o seu perfil de CPV|[Inscreva-se como fornecedor de painéis de controlo para ajudar a integrar sistemas parceiros CSP com APIs do Partner Center](enroll-as-cpv.md)
+|Administrador global| Ver e gerir o seu perfil de Fornecedor de Painéis de Controlo (CPV)|[Inscreva-se como fornecedor de painéis de controlo para ajudar a integrar sistemas parceiros CSP com APIs do Partner Center](enroll-as-cpv.md)
 ||Ver e gerir qualquer um dos seus utilizadores que necessite de acesso às capacidades do CPV|
 
-### <a name="guest-user-must-be-added-to-the-azure-active-directory-tenant"></a>Utilizador convidado (deve ser adicionado ao inquilino do Azure Ative Directory)
+### <a name="guest-user-must-be-added-to-the-azure-ad-tenant"></a>Utilizador convidado (deve ser adicionado ao inquilino AZure AD)
 
 |**Utilizador convidado**   | **Funções**|
 |---------------------------|:--------------------|
@@ -99,7 +99,7 @@ Os CPVs desenvolvem aplicativos para utilização pelos parceiros Cloud Solution
 
 ## <a name="manage-mpn-membership-and-your-company"></a>Gerir a adesão à MPN e à sua empresa 
 
-Estas funções não são funções do Azure Ative Directory. Estas funções gerem o negócio da empresa e não o inquilino.
+Estes papéis não são papéis de AD Azure. Estas funções gerem o negócio da empresa e não o inquilino.
 
 |**Role** | **O que pode fazer**|**Saiba mais**|
 |----------------------------|:----------------------------|-----|
@@ -118,7 +118,7 @@ Estas funções não são funções do Azure Ative Directory. Estas funções ge
 ||* Ver bilhetes de apoio a parceiros que criar
 |Administrador de conta| Adicionar localizações|[Gerir localizações](manage-locations.md)
 || Gerir perfis relacionados com as contas para as contas para as contas para as que é administrador 
-||* Atribuir funções para utilizadores em inquilinos a funções não-Azure-Active-Directory 
+||* Atribuir funções para utilizadores em arrendatários a funções não-Azure-AD 
 ||* Inscrever localizações em programas
 ||* Crie bilhetes de apoio para o Centro de Parceiros
 ||* Ver bilhetes de apoio a parceiros que criar

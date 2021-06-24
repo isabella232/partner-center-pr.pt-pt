@@ -8,12 +8,12 @@ description: Veja o que está a fazer bem e onde pode melhorar no que diz respei
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 230419aa1142dc8c4dd58dc8effee9678527c923
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 4148848984a541eca4eee9e71785660aa6402bc7
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277339"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565020"
 ---
 # <a name="teams-usage-report-available-from-the-partner-center-insights-dashboard"></a>Relatório de utilização das equipas disponível no painel Partner Center Insights
 
@@ -27,7 +27,7 @@ O relatório teams Use apresenta métricas relacionadas com as cargas de trabalh
 - Principais clientes por utilização
 
  > [!NOTE]
- > Este relatório está disponível no painel insights. Para visualizar este relatório, deve ser-lhe atribuída uma função específica no Partner Center, como Global Admin, Account Admin, Report Viewer ou Executive Report Viewer. Para mais informações, consulte o Administrador Global da sua empresa. Os tipos específicos de dados deste relatório também podem estar disponíveis apenas para utilizadores com privilégios de Visualização de Relatórios Executivos.
+ > Este relatório está disponível no painel insights. Para visualizar este relatório, deve ser-lhe atribuído um papel específico no Partner Center, como administração global, administração de contas, espectador de relatório ou visualizador de relatórios executivos. Para mais informações, consulte a administração Global da sua empresa. Os tipos específicos de dados deste relatório também podem estar disponíveis apenas para utilizadores com privilégios de visualização de relatório executivo.
 
 ## <a name="summary"></a>Resumo
 

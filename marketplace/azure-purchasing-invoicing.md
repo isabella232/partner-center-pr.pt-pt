@@ -5,13 +5,13 @@ ms.service: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
-ms.date: 01/18/2021
-ms.openlocfilehash: 11145280aad1ecd9777ec2fb7540e7d6479acfae
-ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
+ms.date: 06/22/2021
+ms.openlocfilehash: 0e79674825f8ab28fa4b0e68dd01c9c1b7e8c27a
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/22/2021
-ms.locfileid: "112431552"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565190"
 ---
 # <a name="azure-marketplace-purchasing"></a>Compra do Azure Marketplace
 
@@ -77,6 +77,8 @@ A compra de uma oferta através do Azure Marketplace pode falhar por diferentes 
 1. A subscrição pertence a um Fornecedor de Solução Cloud (CSP) e o ISV recusou-se a vender através de um CSP.
 1. O Private Marketplace está habilitado para a subscrição e a oferta não está na lista de ofertas permitidas.
 1. A oferta é Privada/Pré-visualização para clientes específicos e a subscrição não está na lista de clientes autorizados.
+
+As ofertas de mercado de compra podem falhar se entrar em conflito com a Política Azure definida pelo administrador da Azure na sua organização. Por exemplo, não pode comprar o Microsoft.SaaS se não estiver na lista **permitida** da sua organização. Para mais informações, consulte [a documentação da Política Azure.](/azure/governance/policy/)
 
 ## <a name="next-steps"></a>Passos seguintes
 

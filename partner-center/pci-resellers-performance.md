@@ -4,23 +4,23 @@ ms.topic: article
 ms.date: 09/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: O painel de desempenho do revendedor no Partner Center Insights fornece uma visão geral do desempenho de vários revendedores indiretos de um Fornecedor Indireto CSP.
+description: O painel de desempenho do revendedor no Partner Center Insights fornece uma visão geral do desempenho de vários revendedores indiretos de um Fornecedor Indireto cloud Solution Provider (CSP).
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cc0fb8a56d397cebeb5a40fa1a1c8d6eae77fe25
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 65fddcc47105cf329bb8f5d3e1aa342deee556b4
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277373"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565173"
 ---
 # <a name="reseller-performance-dashboard-in-partner-center-insights"></a>Painel de desempenho revendedor em Partner Center Insights
 
 **Funções adequadas**: Administração global | Agente administrativo | Relatório | do espectador Espectador de relatório executivo
 
-O painel de desempenho do revendedor no Partner Center Insights fornece uma visão geral do desempenho de vários revendedores indiretos de um Fornecedor Indireto CSP. O dashboard fornece dados sobre os revendedores que estão ativos, quanto rendimento geram e quais os produtos que estão a impulsionar as receitas. Os Fornecedores Indiretos poderão procurar um revendedor específico pelo nome e procurar detalhes para o revendedor no painel de desempenho do revendedor.
+O painel de desempenho do revendedor no Partner Center Insights fornece uma visão geral do desempenho de vários revendedores indiretos de um Fornecedor Indireto cloud Solution Provider (CSP). O dashboard fornece dados sobre os revendedores que estão ativos, quanto rendimento geram e quais os produtos que estão a impulsionar as receitas. Os Fornecedores Indiretos poderão procurar um revendedor específico pelo nome e procurar detalhes para o revendedor no painel de desempenho do revendedor.
 
 Pode ver as seguintes secções do painel de desempenho do Revendedor.
 
@@ -32,10 +32,10 @@ Pode ver as seguintes secções do painel de desempenho do Revendedor.
 - Revendedores ativos por localizações parceiras
 - Tendência de distribuição de geocidugrafo de receitas
 - Desempenho do revendedor por segmento de cliente
-- Estatuto de assinatura mpa revendedor
+- Revendedor Microsoft Partner Agreement (MPA)
 
  > [!NOTE]
- > Este relatório está disponível no painel insights. Para visualizar este relatório, deve ser-lhe atribuída uma função específica no Partner Center, como Global Admin, Account Admin, Report Viewer ou Executive Report Viewer. Para mais informações, consulte o Administrador Global da sua empresa. Os tipos específicos de dados deste relatório também podem estar disponíveis apenas para utilizadores com privilégios de Visualização de Relatórios Executivos.
+ > Este relatório está disponível no painel insights. Para visualizar este relatório, deve ser-lhe atribuído um papel específico no Partner Center, como administração global, administração de contas, espectador de relatório ou visualizador de relatórios executivos. Para mais informações, consulte a administração Global da sua empresa. Os tipos específicos de dados deste relatório também podem estar disponíveis apenas para utilizadores com privilégios de visualização de relatório executivo.
 
 ## <a name="summary"></a>Resumo
 
@@ -81,7 +81,7 @@ Esta vista proporciona um mês após mês dividido do número de **novos revende
 
 ## <a name="resellers-revenue-trend"></a>Tendência de receitas dos revendedores 
 
-Esta visão proporciona uma tendência mensal das receitas faturadas (USD) divididas por produtos, nomeadamente O365, D365, EMS, Power BI e Azure. As métricas globais são agregadas em todos os vários produtos para cada mês. O parceiro pode procurar um revendedor específico pelo nome e procurar dados para esse revendedor específico. O campo Billed Revenue (USD) na grelha é ordenado.
+Esta visão proporciona uma tendência mensal das receitas faturadas (USD) divididas por produtos nomeadamente Office 365, Dynamics 365, Enterprise Mobility and Security (EMS), Microsoft Power BI e Azure. As métricas globais são agregadas em todos os vários produtos para cada mês. O parceiro pode procurar um revendedor específico pelo nome e procurar dados para esse revendedor específico. O campo Billed Revenue (USD) na grelha é ordenado.
 
 :::image type="content" source="images/pci/pci-res-perf-resel-rev-trend-1.png" alt-text="Revendedores tendência de receita.":::
 
@@ -111,7 +111,7 @@ Esta visão permite que um parceiro compreenda a tendência mensal de receitas U
 
 ## <a name="reseller-mpa-signing-status"></a>Estatuto de assinatura mpa revendedor
 
-Esta visão fornece o estado de assinatura mpa para revendedores, juntamente com dados de meta adicionais, tais como o estado de verificação mpn, pmc para o estado de migração do PC, etc.
+Esta visão fornece o estado de assinatura mpa para revendedores, juntamente com dados de meta adicionais, tais como o estado de verificação da Microsoft Partner Network (MPN) e o Centro de Adesão de Parceiros (PMC) ao estado de migração do Partner Center.
 
 :::image type="content" source="images/pci/pci-res-perf-mpa-stat-1.png" alt-text="Revendedor mpa estado de assinatura.":::
 

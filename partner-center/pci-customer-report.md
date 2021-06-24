@@ -9,18 +9,18 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8a9207e793865bcf7fa2f205fc69b0b5def65b4d
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: f1ec30db0d568c7477b6fba9639e6481ffecaaf5
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110152907"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565530"
 ---
 # <a name="customers-dashboard-reports-from-partner-center-insights"></a>Relatórios do painel de clientes do Partner Center Insights
 
 **Funções adequadas**: Administração global | Agente administrativo | Relatório | do espectador Espectador de relatório executivo
 
-O dashboard clientes apresenta dados dos seus clientes que adquiriram produtos na nuvem como Office, Azure, Dynamics etc. através de si ou o utilizaram para implantar e gerir estes produtos nos seus inquilinos. 
+O dashboard cliente apresenta dados dos seus clientes que adquiriram produtos na nuvem como Office, Azure e Dynamics. através de você ou usou-o para implantar e gerir estes produtos em seus inquilinos. 
  
 O painel de instrumentos clientes tem as seguintes secções: 
 
@@ -34,13 +34,13 @@ O painel de instrumentos clientes tem as seguintes secções:
 
 ## <a name="summary"></a>Resumo
 
-A secção de resumo apresenta uma visão instantânea de vários KPI's relacionados com os seus clientes, tais como clientes, clientes ativos, subscrições, clientes adicionados, clientes agitados e clientes por cada produto. Os filtros de nível de página são aplicáveis para cada secção.
+A secção de resumo apresenta uma visão instantânea de vários indicadores-chave de desempenho (KPI's) relacionados com os seus clientes, tais como clientes, clientes ativos, subscrições, clientes adicionados, clientes agitados e clientes por cada produto. Os filtros de nível de página são aplicáveis para cada secção.
 
 :::image type="content" source="images/pci/customerproduct.png" alt-text="Screenshot do dashboard Resumo dos Clientes mostra gráficos de barras e números de clientes ativos, recentemente adicionados, perdidos/churned, ou por produto específico.":::
 
 ### <a name="customers"></a>Clientes
 
-- A contagem atual de todos os clientes a sua organização está associada através de diferentes tipos de atribuição em todos os produtos em nuvem, tais como Office, Azure, Dynamics etc. Um cliente é contado se tiver pelo menos uma subscrição com estatuto Ativo.  
+- A contagem atual de todos os clientes a sua organização está associada através de diferentes tipos de atribuição em todos os produtos em nuvem, tais como Office, Azure e Dynamics. Um cliente é contado se tiver pelo menos uma subscrição com estatuto Ativo.  
 - Declínio % dos clientes durante a gama de datas selecionadas 
 - Micro gráfico apresenta mês ao longo do mês tendência de clientes contarem ao longo da gama de datas selecionadas
 
@@ -63,7 +63,7 @@ A secção de resumo apresenta uma visão instantânea de vários KPI's relacion
  
 ### <a name="customers-by-products"></a>Clientes por produtos
 
-- Contagem atual de clientes distribuídos pelos vários produtos Cloud como O365, Azure, Dynamics etc.  
+- Contagem atual de clientes distribuídos pelos vários produtos Cloud, tais como Office 365, Azure e Dynamics.  
 
 ## <a name="geographical-spread-of-your-customers"></a>Propagação geográfica dos seus clientes
 
@@ -79,7 +79,7 @@ Tendência dos clientes com desagregação em nova, existente, e agitada para a 
 
 ## <a name="customer-distribution"></a>Distribuição de clientes
 
-Repartição dos seus clientes atuais pelas localizações da MPN, segmentos de clientes, canal de vendas/modelo de preços Azure e o tipo de atribuição (por exemplo, DPOR, DAP). Selecione os respetivos separadores acima do gráfico para ver a avaria por estas categorias. Pode reconstruir o gráfico selecionando/dessselendo dimensões específicas selecionando os itens lendários. 
+Desagregação dos seus clientes atuais pelas localizações da Microsoft Partner Network (MPN), segmentos de clientes, canal de vendas/modelo de preços Azure e o tipo de atribuição. Selecione os respetivos separadores acima do gráfico para ver a avaria por estas categorias. Pode reconstruir o gráfico selecionando/dessselendo dimensões específicas selecionando os itens lendários. 
 
 ## <a name="customers-by-products"></a>Clientes por produtos
 
