@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0fc1176c6620300002afbc9bf218afcceb777538
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 6b571ed5ff3eac0947b3c8d619c2605f0ac86f50
+ms.sourcegitcommit: d96ad93449da4c914becfffab167cdc1aa165ada
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110146277"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "112915648"
 ---
 # <a name="partner-center-for-microsoft-cloud-for-us-government-supports-partner-offers-to-government-agencies"></a>Partner Center for Microsoft Cloud for US Government apoia ofertas de parceiros a agências governamentais
 
@@ -60,4 +60,4 @@ Para obter informações sobre a gestão de utilizadores e licenças, consulte [
 
 Para obter informações sobre a inscrição em CSP para a Microsoft Government Cloud, consulte [a inscrição em CSP para o Microsoft Cloud para o Governo dos EUA.](enroll-in-csp-for-microsoft-us-govt-cloud.md)
 
-Para uma FAQ, consulte [perguntas frequentes sobre o Programa CSP para o Microsoft Cloud para o Governo dos EUA.](faq-for-us-govt-cloud.md)
+Para uma FAQ, consulte [perguntas frequentes sobre o Programa CSP para o Microsoft Cloud para o Governo dos EUA.](faq-for-us-govt-cloud.yml)
