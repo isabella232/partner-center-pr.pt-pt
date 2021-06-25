@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 05/21/2021
-ms.openlocfilehash: e2efd42acaf0abae8837891758c55f89a4dd7df8
-ms.sourcegitcommit: b59d886d372338eb31bbeb6a7d554ce543738bae
+ms.openlocfilehash: fedc0b348d2e5e7e9e1ea90b43e8c510fb2b5376
+ms.sourcegitcommit: d96ad93449da4c914becfffab167cdc1aa165ada
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "110325484"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "112915614"
 ---
 # <a name="april-2020-announcements"></a>Anúncios de abril de 2020
 
@@ -183,7 +183,7 @@ Para ajudar ainda mais a defender parceiros e clientes, **a partir de 1 de maio 
 Reveja estes recursos para ajudá-lo a implementar os requisitos de segurança.
 
 - Consulte o [guia passo a passo](../partner-security-requirements.md) para implementar os requisitos de segurança dos parceiros.
-- Consulte as perguntas e respostas [frequentes](../partner-security-requirements-faq.md) sobre os requisitos de segurança dos parceiros.
+- Consulte as perguntas e respostas [frequentes](../partner-security-requirements-faq.yml) sobre os requisitos de segurança dos parceiros.
 - Consulte o [guia de verificação do estado de segurança.](../partner-security-compliance.md)
 - Aceda a recursos adicionais na recolha [de requisitos de segurança dos parceiros implementar.](https://partner.microsoft.com/resources/collection/partner-security-requirements#/)
 - Bookmark o [grupo comunitário de orientação de segurança do Centro de Parceiros](https://aka.ms/MPCSecurityGuidance).

@@ -9,12 +9,12 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 38985e48923bb0a3c6ad54eb600a44d419b5ad85
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: e715ec2c787ea3df623256904f8af1e7d8f4e9c8
+ms.sourcegitcommit: d96ad93449da4c914becfffab167cdc1aa165ada
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110150799"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "112915580"
 ---
 # <a name="sell-to-specialized-industries-like-education-non-profit-and-government-users"></a>Vender a indústrias especializadas como utilizadores de educação, sem fins lucrativos e governamentais
 
@@ -27,7 +27,8 @@ A Microsoft fornece preços especiais e reduzidos para grupos selecionados de cl
 |**Preços especiais**   |**Revendedor exigiu qualificações**   |**Qualificações exigidas pelo cliente**   |
 |----------------------------|:---------------------------------|:------------------------------------------|
 |Education   |Nenhuma   | Deve ser um [Utilizador qualificado de Educação](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7).   |
-|Administração Pública   |Para vender o Azure, inscreva-se utilizando o [formulário de validação da nuvem do governo dos EUA](https://azuregov.microsoft.com/csp)da Microsoft. Para vender assinaturas baseadas em licenças para o governo, não há qualificação necessária.|   Nenhuma|
+| Governo Federal dos EUA   |Para vender o Azure, inscreva-se utilizando o [formulário de validação da nuvem do governo dos EUA](https://azuregov.microsoft.com/csp)da Microsoft. Para vender assinaturas baseadas em licenças para o governo, não há qualificação necessária.|   Nenhuma|
+| Todas as outras entidades governamentais | Nenhuma<br />Os parceiros devem providenciar usando ofertas "corporativas". | Nenhuma
 |Sem Fins Lucrativos  |Nenhuma<br/> Deve ter um inquilino sem fins lucrativos Azure Ative Directory.<br/> Saiba mais sobre as [ofertas especiais sem fins lucrativos](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf).   |Inscreva-se através do [programa sem fins lucrativos](https://nonprofit.microsoft.com/#/register) da Microsoft para ser elegível.   |
 
 ## <a name="check-your-reseller-qualifications"></a>Verifique as suas qualificações de revendedor
@@ -76,5 +77,4 @@ Regras de compra para venda de ofertas especiais aos clientes:
 ## <a name="next-steps"></a>Passos seguintes
 
 - [Vender Minecraft: Subscrições da Education Edition para clientes de educação](minecraft-subscriptions.md)
-
 - [Centro de Parceiros do Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md)
