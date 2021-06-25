@@ -9,18 +9,18 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/02/2021
-ms.openlocfilehash: b503e928b1491d5c2c70ac52460080f9e1ba91b8
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 52db2c8ee7652633ee5d73a534e8c73daead867e
+ms.sourcegitcommit: cce4d53127fa33e6c2bbf158dda6edd41b82441d
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110150119"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "112896820"
 ---
 # <a name="march-2021-announcements"></a>Anúncios de março de 2021
 
 Esta página fornece os anúncios para o Microsoft Partner Center para março de 2021.
 
-## <a name="readiness-changes-to-the-cloud-solution-provider-csp-customer-address-validation-api-going-live-in-june-testing-capability-now-available"></a><a name="18"></a>Prontidão: Alterações ao fornecedor de soluções de nuvem (CSP) validação de endereços API em direto em junho; capacidade de teste agora disponível
+## <a name="readiness-changes-to-the-cloud-solution-provider-csp-customer-address-validation-api-going-live-in-june-testing-capability-now-available"></a><a name="19"></a>Prontidão: Alterações ao fornecedor de soluções de nuvem (CSP) validação de endereços API em direto em junho; capacidade de teste agora disponível
 
 ### <a name="categories"></a>Categorias
 
@@ -139,7 +139,7 @@ Se precisar de apoio para as suas operações com a Microsoft, contacte o grupo 
 - 30 de abril de 2021: Atualizações para resposta à amostra e detalhes do código postal
 
 ________________
-## <a name="new-exchange-admin-center-eac-experience"></a><a name="17"></a>Experiência do Centro de Administração new exchange (EAC)
+## <a name="new-exchange-admin-center-eac-experience"></a><a name="18"></a>Experiência do Centro de Administração new exchange (EAC)
 
 ### <a name="categories"></a>Categorias
 
@@ -182,7 +182,7 @@ Para ajudá-lo a navegar através da nova experiência, os vídeos estão dispon
 Para quaisquer questões sobre estas alterações, consulte as suas comunidades Yammer relevantes.
 
 ________________
-## <a name="microsoft-operations-introducing-the-product-launch-calendar"></a><a name="16"></a>Microsoft Operations: Introdução do calendário de lançamento do produto
+## <a name="microsoft-operations-introducing-the-product-launch-calendar"></a><a name="17"></a>Microsoft Operations: Introdução do calendário de lançamento do produto
 
 ### <a name="categories"></a>Categorias
 
@@ -230,7 +230,7 @@ Reveja os recursos sobre este tema e partilhe esta informação com as partes in
 Para mais perguntas sobre estas ofertas, consulte as suas comunidades Yammer relevantes.
 
 ________________
-## <a name="changes-to-csp-customer-onboarding-requirements"></a><a name="15"></a>Alterações aos requisitos de embarque do cliente CSP
+## <a name="changes-to-csp-customer-onboarding-requirements"></a><a name="16"></a>Alterações aos requisitos de embarque do cliente CSP
 
 ### <a name="categories"></a>Categorias
 
@@ -304,7 +304,7 @@ Contacte o seu consultor fiscal ou o fisco local se tiver alguma questão relaci
 Se precisar de apoio nas suas operações com a Microsoft, [abra um pedido de serviço](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8).
 
 ________________
-## <a name="corrections-made-to-march-1-2021-perpetual-software-price-list"></a><a name="14"></a>Correções feitas até 1 de março de 2021 lista de preços perpétuos de software
+## <a name="corrections-made-to-march-1-2021-perpetual-software-price-list"></a><a name="15"></a>Correções feitas até 1 de março de 2021 lista de preços perpétuos de software
 
 ### <a name="categories"></a>Categorias
 
@@ -321,7 +321,7 @@ A lista de preços do software perpétuo publicada a 1 de março de 2021 incluí
 
 - ID do produto: DF77X4D43RKT 
 - Nome do produto: Windows 10 Home to Pro Upgrade para o Microsoft 365 Business
-- Mercados removidos ou não apoiados: AE, AF, AL, AM, AO, BA, BB, BD, BH, BM, BN, BO, BR, BS, BW, BY, BZ, CI, CL, CM, CO, CR, CW, CW, DO, DZ, EC, EG, ET, FJ, FO, GE, GH, GT, HN, IL, IN, IQ, JM, JO, KE, KG, KN, KW, KY, KZ, LB, LK, LY, MA, MC, MD, ME, MN, MN, , NI, NP, OM, PA, PE, PH, PK, PR, PY, QA, RS, RU, RW, SG, SN, SV, TH, TJ, TM, TN, TT, TZ, UA, UG, UY, UZ, VE, VN, YE, ZM, ZW
+- Mercados removidos ou não apoiados: AE, AF, AL, AM, AO, BA, BB, BD, BH, BM, BN, BO, BR, BS, BW, BY, BZ, CI, CL, CM, CO, CR, CW, DO, DZ, EC, EG, ET, FJ, FO, GE, GH, GT, HN, IL, IN, IQ, JM, JO, KE, KG, KN, KW, KY, KZ, LB, LK, LY, MA, M, M, MD, MED, , MN, MO, MU, NA, NG, NI, NP, OM, PA, PE, PH, PK, PR, PY, QA, RS, RU, RW, SG, SN, SV, TH, TJ, TM, TN, TT, TZ, UA, UG, UY, UZ, VE, VN, YE, ZM, ZW
 
 Estas alterações aplicam-se apenas ao produto acima referido. Outros produtos não tinham correções. 
 
@@ -330,7 +330,7 @@ Estas alterações aplicam-se apenas ao produto acima referido. Outros produtos 
 - Os parceiros que transacionam software perpétuo devem descarregar a mais recente lista de preços perpétuos de software.
 - Consulte os [códigos dos países](/azure/marketplace/commercial-marketplace-co-sell-countries) da região para um mapeamento amigável da abreviatura de duas letras para os países.
 ________________
-## <a name="sdk-release-on-net-standard-v1170"></a><a name="13"></a> Lançamento SDK em .NET Standard (v1.17.0)
+## <a name="sdk-release-on-net-standard-v1170"></a><a name="14"></a> Lançamento SDK em .NET Standard (v1.17.0)
 
 ### <a name="categories"></a>Categorias
 
@@ -392,7 +392,7 @@ As seguintes alterações são introduzidas como parte do Novo Comércio, e est�
 - Faça o download e reveja as amostras do [GitHub](https://github.com/Microsoft/Partner-Center-DotNet-Samples)
 
 ________________
-## <a name="csp-commercial-marketplace-offer-and-fy21-csp-incentives-for-eligible-offers"></a><a name="12"></a>Oferta de mercado comercial da CSP e incentivos ao CDS para ofertas elegíveis
+## <a name="csp-commercial-marketplace-offer-and-fy21-csp-incentives-for-eligible-offers"></a><a name="13"></a>Oferta de mercado comercial da CSP e incentivos ao CDS para ofertas elegíveis
 
 ### <a name="categories"></a>Categorias
 
@@ -433,7 +433,7 @@ Consulte [este artigo](../csp-commercial-marketplace-overview.md) para obter uma
 Se precisar de assistência adicional, pode criar um pedido de apoio no Partner Center. Saiba mais em [https://aka.ms/IncentivesSupport](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=1) .
 
 ________________
-## <a name="power-bi-premium-offer-naming-and-prerequisite-update"></a><a name="11"></a>Power BI Premium oferece nomeação e atualização pré-requisito
+## <a name="power-bi-premium-offer-naming-and-prerequisite-update"></a><a name="12"></a>Power BI Premium oferece nomeação e atualização pré-requisito
 
 ### <a name="categories"></a>Categorias
 
@@ -490,7 +490,7 @@ Reveja os recursos sobre este tema e partilhe esta informação com as partes in
 
 Para quaisquer questões sobre estas ofertas, consulte as suas comunidades Yammer relevantes. 
 
-## <a name="march-price-updates-for-microsoft-365-f3"></a><a name="10"></a> Atualizações de preços de março para o Microsoft 365 F3
+## <a name="march-price-updates-for-microsoft-365-f3"></a><a name="11"></a> Atualizações de preços de março para o Microsoft 365 F3
 
 ### <a name="categories"></a>Categorias
 
@@ -527,7 +527,7 @@ Para mais perguntas, verifique as suas comunidades CSP Yammer relevantes.
 
 ________________
 
-## <a name="update-a-legal-company-name-through-partner-center"></a><a name="9"></a> Atualize um nome legal da empresa através do Partner Center
+## <a name="update-a-legal-company-name-through-partner-center"></a><a name="10"></a> Atualize um nome legal da empresa através do Partner Center
 
 ### <a name="categories"></a>Categorias
 
@@ -560,7 +560,7 @@ Partilhe esta informação dentro da sua organização para que a equipa adequad
 Para mais perguntas, verifique as suas comunidades CSP Yammer relevantes.
 
 ________________
-## <a name="update-to-cloud-solution-provider-csp-program-evolution-and-open-license-program-changes"></a><a name="8"></a> Atualização para a evolução do programa do Fornecedor de Soluções de Nuvem (CSP) e alterações do programa Open License
+## <a name="update-to-cloud-solution-provider-csp-program-evolution-and-open-license-program-changes"></a><a name="9"></a> Atualização para a evolução do programa do Fornecedor de Soluções de Nuvem (CSP) e alterações do programa Open License
 
 ### <a name="categories"></a>Categorias
 
@@ -598,7 +598,7 @@ Para obter detalhes completos sobre a evolução do programa CSP e alterações 
 Para mais perguntas, verifique as suas comunidades CSP Yammer relevantes.
 
 _______________
-## <a name="update-to-a-previous-announcement-premium-assessments-an-add-on-to-compliance-manager"></a><a name="7"></a>Atualização para um anúncio anterior: Avaliações Premium, um add-on ao Compliance Manager
+## <a name="update-to-a-previous-announcement-premium-assessments-an-add-on-to-compliance-manager"></a><a name="8"></a>Atualização para um anúncio anterior: Avaliações Premium, um add-on ao Compliance Manager
 
 ### <a name="categories"></a>Categorias
 
@@ -634,7 +634,7 @@ Reveja os recursos sobre este tema e partilhe esta informação com as partes in
 Para questões sobre estas ofertas, consulte as suas comunidades Yammer relevantes.
 
 ________________
-## <a name="migrate-your-solutions-from-one-commercial-partner-ocp-go-to-market-gtm-to-the-microsoft-commercial-marketplace"></a><a name="6"></a> Migrar as suas soluções de One Commercial Partner (OCP) go-to market (GTM) para o mercado comercial da Microsoft
+## <a name="migrate-your-solutions-from-one-commercial-partner-ocp-go-to-market-gtm-to-the-microsoft-commercial-marketplace"></a><a name="7"></a> Migrar as suas soluções de One Commercial Partner (OCP) go-to market (GTM) para o mercado comercial da Microsoft
 
 ### <a name="categories"></a>Categorias
 
@@ -653,7 +653,7 @@ Organizações co-vendem com soluções no OCP GTM
 
 Em dezembro de 2020, iniciámos a nossa viagem desde a ferramenta Microsoft OCP GTM até ao mercado comercial da Microsoft no Partner Center. Esta transição expande as capacidades do mercado comercial onde pode mostrar as suas soluções a milhões de clientes, partilhar oportunidades bidirecionalmente com outros vendedores da Microsoft e parceiros e vender soluções inovadoras em conjunto.
 
-O próximo marco na transição terá lugar no dia 29 de março de 2021. É aí que começará a experimentar capacidades limitadas de OCP GTM, com alguns campos a tornarem-se apenas para ler. Se está atualmente a co-vender com soluções no OCP GTM, encorajamo-lo a migrar as suas soluções para o mercado comercial para tirar partido das suas capacidades e simplificar a sua experiência de publicação. 
+O próximo marco na transição terá lugar no dia 29 de março de 2021. É aí que começará a experimentar capacidades limitadas de OCP GTM, com alguns campos a tornarem-se apenas para ler. Se está atualmente a co-vender com soluções no OCP GTM, encorajamo-lo a migrar as suas soluções para o mercado comercial para tirar partido das suas capacidades e simplificar a sua experiência de publicação.
 
 Mudar-se para o mercado comercial faz do Partner Center o principal destino da experiência de co-venda. É onde pode continuar a crescer o seu negócio ligando as suas soluções aos nossos clientes partilhados através dos mesmos canais e experiências no produto que usamos para produtos da Microsoft. [Saiba mais sobre o mercado comercial.](https://blogs.partner.microsoft.com/mpn/getting-started-with-the-microsoft-commercial-marketplace/)
 
@@ -666,6 +666,36 @@ Mudar-se para o mercado comercial faz do Partner Center o principal destino da e
 ### <a name="questions"></a>Perguntas?
 
 [Contacte o Suporte](https://partner.microsoft.com/support/?stage=1) se tiver alguma dúvida ou precisar de mais informações.
+
+________________
+## <a name="programmatic-access-to-commercial-marketplace-analytics"></a><a name="6"></a>Acesso programático à análise do mercado comercial
+
+### <a name="categories"></a>Categorias
+
+- Data: 2021-03-10
+- Capacidades
+
+### <a name="summary"></a>Resumo
+
+Os parceiros podem agora aceder programáticamente a relatórios de análise para monitorizar as vendas, avaliar o desempenho e otimizar ofertas no mercado comercial.
+
+### <a name="impacted-audience"></a>Audiência impactada
+
+Parceiros com ofertas no mercado comercial.
+
+### <a name="details"></a>Detalhes
+
+A API para aceder a relatórios de marketplace comercial permite-lhe agendar relatórios personalizados dos seus dados de análise assíncronos.
+
+A capacidade permite-lhe definir consultas e modelos de reporte com base nas suas necessidades, definir um horário e obter relatórios atempadamente e de confiança em intervalos programados.
+
+### <a name="next-steps"></a>Passos seguintes
+
+Para saber mais, consulte [Começar com acesso programático à análise.](/azure/marketplace/analytics-get-started)
+
+### <a name="questions"></a>Perguntas?
+
+Contacte [o Suporte](https://go.microsoft.com/fwlink/?linkid=2165533) se tiver mais perguntas.
 
 ________________
 ## <a name="expanding-the-new-commerce-experience-in-the-cloud-solution-provider-csp-program-for-azure-to-russia"></a><a name="5"></a>Expandir a nova experiência de comércio no programa Cloud Solution Provider (CSP) para o Azure à Rússia
