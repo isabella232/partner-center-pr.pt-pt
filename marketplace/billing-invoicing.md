@@ -5,13 +5,13 @@ ms.service: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
-ms.date: 11/20/2020
-ms.openlocfilehash: d45d301abfea03e06a8fc67e759012d4275d7dec
-ms.sourcegitcommit: 8511fec63961d8c77a4d1eea3e3f1d37cdea46c6
+ms.date: 05/04/2021
+ms.openlocfilehash: 6fdbbf9ad2b31e2b61eec20193717f60dd8e199a
+ms.sourcegitcommit: b6959846c30d062d05028c9b4ba14c07e903e61a
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/19/2021
-ms.locfileid: "112373461"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "112970196"
 ---
 # <a name="azure-marketplace-billing-and-invoicing"></a>Faturação e faturação do Azure Marketplace
 
@@ -49,7 +49,7 @@ Será cobrado pelas suas compras recorrentes no período em que a adquiriu. Este
 > O período de serviço é o período pelo qual pagou para utilizar o serviço. Será automaticamente renovado no período de serviço e no período de serviço, a menos que cancele previamente.
 
 > [!NOTE]
-> Ajustamo-nos ao último dia do mês de faturação se a data do mês de renovação não puder igualar a data do mês de compra. Ou seja, se se subscrever em 1/31, a data de fim da faturação para fevereiro seria 2/27, com o novo prazo de faturação a começar em 2/28 (2/28, e 2/29 se começar em um ano bissexto).
+> Ajustamos o prazo de faturação (ou o último dia do mês de faturação) se a data do mês de renovação não puder igualar a data do mês de compra. Ou seja, se se subscrever em 1/31, a data de fim da faturação seria ajustada para 2/27, com a data de renovação a ser 2/28 (2/28, e 2/29, respectivamente, se começar em um ano bissexto).
 
 ## <a name="invoices"></a>Faturas
 
