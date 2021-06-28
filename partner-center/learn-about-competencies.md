@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 24dd96126ab96b3e3790e9ebc00c128cac07ad24
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 74144defb1b5b5bfd0cf67c98e4b9401f22ea93d
+ms.sourcegitcommit: 41e34d6c97a45e6f0b76d76a797398cd06665634
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110146600"
+ms.lasthandoff: 06/28/2021
+ms.locfileid: "112989347"
 ---
 # <a name="differentiate-your-business-by-attaining-microsoft-competencies"></a>Diferenciar o seu negócio ao alcançar competências da Microsoft
 
@@ -71,4 +71,4 @@ Para saber mais sobre o que é necessário para obter competências de prata e o
 
 - Consulte um [relatório de competências](pci-competencies-report.md) do Partner Center Insights que mostra o estado atual das suas competências.
 
-- Obtenha respostas para [perguntas frequentes](competencies-faq.md) sobre competências.
+- Obtenha respostas para [perguntas frequentes](competencies-faq.yml) sobre competências.
