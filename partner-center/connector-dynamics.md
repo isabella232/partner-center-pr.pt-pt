@@ -8,12 +8,12 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.date: 03/01/2021
-ms.openlocfilehash: e656f728789bf5b13dd09732b0b2f5ef30de760a
-ms.sourcegitcommit: b7203f1393c3d8f8db4683acdebd09a89e086c3c
+ms.openlocfilehash: 87083c8124762f0952b0c98cbc209164151dcb0c
+ms.sourcegitcommit: 6a6e8f9af0a58b32770c7fce9f567dd4795b9797
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/21/2021
-ms.locfileid: "112425115"
+ms.lasthandoff: 06/29/2021
+ms.locfileid: "113029197"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm-overview"></a>Conector de co-venda para visão geral da Dynamics 365 CRM
 
@@ -46,7 +46,7 @@ Antes de instalar a solução, certifique-se de que cumpre os seguintes requisit
 
 1. Selecione o link **Open AppSource** no menu superior.
 
-   :::image type="content" source="images/cosellconnectors/openappsource.png" alt-text="Screenshot que mostra Open AppSource.":::
+   :::image type="content" source="images/cosellconnectors/open-appsource.png" alt-text="Screenshot que mostra Open AppSource.":::
 
 1. Procure por **Conectores de Referências do Centro de Parceiros para Dinâmica 365** no ecrã pop-up.  
 
@@ -189,7 +189,7 @@ Para atualizar um valor variável ambiental:
 
 1. Atualizar **Valor Corrente** (não atualizar Valor **Padrão)** utilizando a opção De Novo **Valor** e fornecendo o valor. O valor deve corresponder ao tipo de dados da variável. Por exemplo, o tipo de dados Sim ou Não aceitará o valor Sim ou Não.
 
-   :::image type="content" source="images/environment-variables-video.gif" alt-text="Screenshot que mostra atualização variáveis ambientais.":::
+   :::image type="content" source="images/cosellconnectors/environment-variables-video.gif" alt-text="Screenshot que mostra atualização variáveis ambientais.":::
 
 ## <a name="end-to-end-bidirectional-co-sell-referral-synchronization"></a>Sincronização bidirecional de ponta a ponta
 
