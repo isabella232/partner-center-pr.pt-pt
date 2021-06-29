@@ -9,14 +9,16 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: de0f13bab73eebde3c1cf12db586d07c47b277f6
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 74595843e4aaf2fe0e92fb92d417343dd7e4b81d
+ms.sourcegitcommit: 3ac88f7925bfe1df90e267ee5c1ee4d752ac92d4
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110149626"
+ms.lasthandoff: 06/29/2021
+ms.locfileid: "113013306"
 ---
 # <a name="introduction-azure-plan-lets-partners-buy-azure-at-pay-as-you-go-rates-for-customers"></a>Introdução: Plano Azure permite aos parceiros comprar Azure a preços de pagamento para clientes
+
+**Aplica-se a**: Centro de Parceiros
 
 **Funções adequadas**: Agente administrador | Agente comercial | Administração global
 

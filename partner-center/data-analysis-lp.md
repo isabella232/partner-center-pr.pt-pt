@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1693545449abf33bc7a4f5216b7d6ef0d5713829
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: ae31e7d917e96763e107212a78f28bfa10acf2f4
+ms.sourcegitcommit: 3ac88f7925bfe1df90e267ee5c1ee4d752ac92d4
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276863"
+ms.lasthandoff: 06/29/2021
+ms.locfileid: "113013323"
 ---
 # <a name="use-analytics-to-learn-more-about-subscription-revenue"></a>Use a análise para saber mais sobre as receitas de subscrição
 
@@ -33,7 +33,7 @@ O planeamento de formas de desenvolver o seu negócio CSP inclui compreender com
 
 ## <a name="trailing-twelve-month-ttm-csp-revenue"></a>Receitas da CSP de Twelve-Month (TTM)
 
-A fuga de receitas de CSP de 12 meses representa a receita do programa de fornecedores de solução cloud em USD a nível de Conta Global de Parceiros. Os dados são atualizados no oitavo de cada mês, para mostrar a receita de 12 meses até ao mês anterior. Por exemplo, no dia 9 de setembro de 2020, deverá poder ver o TTM para o período fixo de setembro de 2019 a agosto de 2020.
+A fuga de receitas de CSP de 12 meses representa a receita do programa de fornecedores de solução cloud em USD a nível de Conta Global de Parceiros. Os dados são atualizados no oitavo de cada mês, para mostrar a receita de 12 meses até ao mês anterior. Por exemplo, no dia 9 de setembro de 2020, deverá poder ver o TTM para o período fixo de setembro de 2019 a agosto de 2020. As subscrições de software estão excluídas. As Receitas TTM refletirão apenas as receitas elegíveis para as quais as faturas já foram pagas. 
 
 A receita apresentada no Partner Center é calculada por um intervalo de tempo fixo de 12 meses, e não pode ser modificada para um prazo mais curto.
 

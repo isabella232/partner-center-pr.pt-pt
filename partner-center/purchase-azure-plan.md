@@ -9,14 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ab23e04afd3ffd5c287cc057aa51e872ab725f4d
-ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
+ms.openlocfilehash: e0a5626c4c1efd5eb07a8e948694b84d48b66f3b
+ms.sourcegitcommit: 3ac88f7925bfe1df90e267ee5c1ee4d752ac92d4
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "112551185"
+ms.lasthandoff: 06/29/2021
+ms.locfileid: "113013340"
 ---
 # <a name="purchase-the-azure-plan-for-customers--access-the-latest-azure-services-at-pay-as-you-go-rates"></a>Compre o plano Azure para clientes & aceder aos mais recentes serviços da Azure a preços de pagamento
+
+**Aplica-se a**: Centro de Parceiros 
 
 **Funções adequadas**: Administração global | Administração de administração de utilizadores | Agente comercial
 
