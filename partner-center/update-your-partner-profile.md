@@ -9,18 +9,21 @@ ms.topic: how-to
 ms.date: 04/12/2021
 ms.localizationpriority: medium
 ms.custom: contperf-fy21q4
-ms.openlocfilehash: 49f5e30df241c8a29c3282c1958b39ebd9add36e
-ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
+ms.openlocfilehash: 9f9a055ce3bfbff568287267b74b04e8f9d03ad1
+ms.sourcegitcommit: 8235c89e789cdb5115fc1c19151fa8e97c743fe5
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/22/2021
-ms.locfileid: "112431730"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "113080627"
 ---
 # <a name="verify-or-update-your-company-profile-information"></a>Verifique ou atualize as informações do perfil da empresa 
 
 **Funções adequadas**: Administração global | Administrador de conta MPN
 
-A primeira vez que assinar no Partner Center como administrador global, deverá confirmar que todos os detalhes da sua empresa estão corretos. Estes incluem contacto primário, nome e endereço de negócios legais e informações do programa. Se a sua empresa tiver mais de uma localização, reveja os seus dados de localização para obter uma precisão. Como administrador global, administrador billing ou agente de administração, também poderá ver e atualizar a sua faturação e informações fiscais.
+A primeira vez que assinar no Partner Center como administrador global, deverá confirmar que todos os detalhes da sua empresa estão corretos. Estes incluem contacto primário, nome e endereço de negócios legais e informações do programa. Se a sua empresa tiver mais de uma localização, reveja os seus dados de localização para obter uma precisão. Como administrador global, administrador de faturação ou agente de administração, também poderá ver e atualizar a sua faturação e informações fiscais.
+
+> [!NOTE]
+> Deve ser o administrador global para atualizar o seu endereço de faturação.
 
 O seu perfil de parceiro consiste na informação de negócios legal, nome de contacto primário e e-mail, nos programas em que a sua empresa participa e, se relevante, das suas outras empresas que estão agora fundidas no âmbito do seu negócio legal. Certifique-se de que o nome e endereço da Empresa no seu perfil de negócio legal estão isentos de erros ortográficos e abreviaturas, e corresponda exatamente aos seus registos formais de registo comercial da empresa. Se estiver a operar como proprietário único, tem de usar o nome da sua empresa como nome legal.
 
@@ -88,18 +91,18 @@ Para atualizar o ID MPN associado à sua conta CSP:
 
 ## <a name="update-your-csp-legal-billing-address"></a>Atualize o seu endereço de faturação legal CSP
 
-Se você é o administrador global, administrador de faturação ou agente administrativo, pode alterar o endereço que aparece na sua fatura no seu **perfil de pagamento e imposto**. No entanto, não poderá alterar o nome da empresa na fatura devido a uma limitação do sistema de faturas.
+Se for o administrador global, pode alterar o endereço que aparece na sua fatura no seu **perfil de Pagamento e Impostos.** Atualmente, não é possível alterar o nome da empresa na sua fatura devido a uma limitação com o sistema de faturas.
 
 :::image type="content" source="images/billing-profile.png" alt-text="Captura de ecrã da área onde a informação de faturação é adicionada.":::
 
 |**Campo**  |**Descrição**|  
 |---------------------|:------------------|
-|Nome da Empresa Bill-to|O nome da empresa que aparece na Bill-To informação na sua fatura CSP.  Isto não é editável no Centro parceiro.  Para atualizar, crie um bilhete de apoio.|
+|Nome da Empresa Bill-to|O nome da empresa que aparece na Bill-To informação na sua fatura CSP.  Esta informação não é editável no Centro Parceiro.  Para atualizar, crie um bilhete de apoio.|
 |Endereço Bill-to|O endereço bill-to mostrado na fatura da CSP. Pode ser atualizado a partir do [perfil de Billing.](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial)|
 |Contato Bill-to|Os dados de contacto de faturação (nome próprio, apelido, número primário) para a conta CSP.  Pode ser atualizado a partir do [perfil de Billing.](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial)|
 |Número de PO|O número da Ordem de Compra apresentada na fatura do parceiro. Pode ser atualizado a partir do [perfil de Billing.](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial)|
 |ID do imposto da empresa|As empresas de alguns países podem fornecer o seu [número de imposto sobre o valor acrescentado (IVA) ou equivalente local.](./organization-tax-info.md) Para atualizar o seu NIF, tem de ser administrador Global, administrador de faturação ou agente de administração.|
-|Moeda de Faturação|A moeda de faturação da sua conta CSP é determinada pelo país legal da conta CSP.  Isto não pode ser alterado uma vez que a conta CSP é criada.|
+|Moeda de Faturação|A moeda de faturação da sua conta CSP é determinada pelo país legal da conta CSP.  Esta informação não pode ser alterada uma vez que a conta CSP é criada.|
 
 ## <a name="next-steps"></a>Passos seguintes
 

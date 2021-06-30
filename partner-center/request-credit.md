@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 4a8e785de051aa6f722a1bfddc4ad83d6502bbb3
-ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
+ms.openlocfilehash: f521e55869d60987fb46cd5d570bf206939e0782
+ms.sourcegitcommit: 8235c89e789cdb5115fc1c19151fa8e97c743fe5
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "112551661"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "113080644"
 ---
 # <a name="how-and-when-to-request-a-service-level-agreement-sla-credit-from-microsoft"></a>Como e quando solicitar um crédito de nível de serviço (SLA) da Microsoft
 
@@ -33,8 +33,8 @@ Os créditos SLA da Microsoft são determinados com base em quais os serviços f
 
 *O sócio da CSP deve apresentar o pedido e todas as informações necessárias até ao final do mês civil seguinte ao mês em que ocorreu o incidente.* Por exemplo, se o incidente ocorreu no dia 15 de fevereiro, a Microsoft deve receber a reclamação e todas as informações necessárias até 31 de março. Clientes finais e revendedores indiretos não podem apresentar crédito sla; quer o prestador indireto quer o parceiro de conta direta devem apresentar reclamações em seu nome.
 
->[!NOTE]
->Incidentes consultivos[(Como verificar a saúde do serviço Microsoft 365](/microsoft-365/enterprise/view-service-health#incidents-and-advisories)) não são elegíveis para créditos SLA.
+> [!NOTE]
+> Incidentes consultivos não são elegíveis para créditos SLA. Um incidente publicado no Service Health Dashboard indica que um inquilino *pode* ser impactado e representa a melhor informação que a Microsoft tem no momento da publicação. Os dados da página de saúde representam a disponibilidade geral de um serviço. O impacto, a mitigação e a resolução do serviço individual podem variar. Pode rever a análise final do Incident Post e Post Incident Review para obter mais detalhes. Veja [como verificar a saúde do serviço Microsoft 365](/microsoft-365/enterprise/view-service-health#incidents-and-advisories) para obter mais informações.
 
 ### <a name="required-information"></a>Informação necessária
 
