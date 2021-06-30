@@ -9,12 +9,12 @@ ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 06/17/2021
-ms.openlocfilehash: 0052f4dd352789245eadf157823119cd5f05f2a8
-ms.sourcegitcommit: 8511fec63961d8c77a4d1eea3e3f1d37cdea46c6
+ms.openlocfilehash: 7cdb5e04482f32d1b57346c86fa9db218cb11452
+ms.sourcegitcommit: 5d5747d245bdd967fd82df4bcc0a1f8a30a55cea
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/19/2021
-ms.locfileid: "112373311"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "113105044"
 ---
 # <a name="technical-support-for-on-premises-or-cloud-products"></a>Suporte Técnico para instalações ou produtos cloud
 
@@ -52,7 +52,7 @@ Como visualizar ou ativar os seus benefícios técnicos no Centro de Parceiros:
    > [!NOTE]
    > Se a sua conta estiver apenas associada à CSP e não estiver associada à MPN, verá uma mensagem de erro "Não está autorizado para esta ação". Deve ter uma conta associada à MPN.
 
-2. Expandir **benefícios** no menu de navegação à esquerda, selecione **benefícios técnicos**. A página de benefícios técnicos mostrará as ofertas de subscrição ativas de Gold, Silver ou Microsoft Action Pack.
+2. Expandir **benefícios** no menu de navegação à esquerda, selecione [**benefícios técnicos**](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical). A página de benefícios técnicos mostrará as ofertas de subscrição ativas de Gold, Silver ou Microsoft Action Pack.
 
    :::image type="content" source="images/mpn-benefits-technical-support/technical-benefits-1.png" lightbox="images/mpn-benefits-technical-support/technical-benefits-1.png" alt-text="Benefícios Técnicos, em seguida, expandir Benefícios" :::
 
