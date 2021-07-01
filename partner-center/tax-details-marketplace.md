@@ -3,15 +3,15 @@ title: Detalhes fiscais para o mercado comercial da Microsoft
 description: Conheça as considerações fiscais para a seleção de preços, implicações no pagamento e responsabilidade fiscal pelos seus países/regiões de distribuição.
 ms.topic: conceptual
 ms.service: partner-dashboard
-author: mingshen-ms
-ms.author: mingshen
-ms.date: 04/26/2021
-ms.openlocfilehash: 673620843ea8d469f1a665982f2a120b4b1e2d7e
-ms.sourcegitcommit: 09eabb559aae25518caf3f2a59ef16a3e123c207
+author: jasongroce
+ms.author: davjan
+ms.date: 06/29/2021
+ms.openlocfilehash: 66f60f88c1e7aa0d6af49f90a2def165f6eb39b5
+ms.sourcegitcommit: c7ab71d9e7fdbf6141c24f535b0144cfcb0403ea
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "112490024"
+ms.lasthandoff: 07/01/2021
+ms.locfileid: "113129113"
 ---
 # <a name="tax-details-for-commercial-marketplace-publishers"></a>Informações fiscais para publicadores do marketplace comercial
 
@@ -34,64 +34,63 @@ Nos **países revendedores, a** Microsoft atua como revendedor, em vez de como a
 
 ### <a name="publisherdeveloper-managed-countries"></a>Países geridos por editores/desenvolvedores: 
 
-| Países | Países (continuado) | Países (continuado) | Países (continuado) |
-|---------------|:------------------|:--------|:----------|
-|Ilhas Virgens dos Estados Unidos|República Democrática do Congo|Jersey|Ilha Norfolk|
-|Afeganistão|Ilhas Cook|Jordânia|Macedónia do Norte|
-|Albânia|Costa Rica|Cazaquistão|Ucrânia|
-|Argélia|Cote d'Ivore|Quénia|Vanuatu|
-|Samoa Americana|Curaçau|Quiribáti|Cidade do Vaticano|
-|Andorra|Dübouti|Koweit|Venezuela|
-|Angola|Dominica|Quirguistão|Vietname|
-|Anguila|República Dominicana|Laos|Wallis & Futuna|
-|Antártica|Equador|Líbano|Iémen|
-|Antígua & Barbuda|Egito|Lesoto|Zâmbia|
-|Aruba|Salvador|Libéria|Uruguai|
-|Azerbaijão|Guiné Equatorial|Líbia|
-|Bangladesh|Eritreia|Macau |
-|Barbados|Etiópia|Madagáscar|
-|Belize|Ilhas Falkland (Malvinas)|Maláui|
-|Benim|Ilhas Faroé|Maldivas|
-|Bermudas|Fiji|Mali|
-|Butão|Gabão|Ilhas Marshall|
-|Bolívia|Gana|Martinica|
-|Bonaire|Geórgia|Mauritânia|
-|Bósnia & Herzegovina|Gibraltar|Maurícias|
-|Botsuana|Gronelândia|Ma Ote|
-|Ilha Bouvet|Granada|Micronésia|
-|Ilhas Virgens Britânicas|Guadalupe|Moldávia
-|Brunei|Guame|Mongólia|
-|Burkina Faso|Guatemala|Montenegro|
-|Burundi|Guernesey|Montserrate|
-|Cabo Verde|Guiné|Marrocos|
-|Camboja|Guiné-Bissau|Moçambique|
-|Camarões|Guiana|Mianmar|
-|Ilhas Caimão|Haiti|Namíbia|
-|República Centro-Africana|Ilha Heard & Ilhas McDonald|Nauru|
-|Chade|Honduras|Nepal|
-|Ilha do Natal|Iraque|Nicarágua|
-|Ilhas dos Cocos (Keeling)|Israel|Níger|
-|Comoros|Jamaica|Nigéria|
-|Congo|Japão|Niuê|
-
+| Países                | Países (continuado)             | Países (continuado) | Países (continuado) |
+|--------------------------|-----------------------------------|-----------------------|-----------------------|
+| Afeganistão              | Congo                             | Jamaica               | Niuê                  |
+| Albânia                  | República Democrática do Congo                       | Japão                 | Ilha Norfolk        |
+| Argélia                  | Ilhas Cook                      | Jersey                | Macedónia do Norte       |
+| Samoa Americana           | Costa Rica                        | Jordânia                | Paquistão              |
+| Andorra                  | Cote d'Ivore                      | Cazaquistão            | Autoridade Palestiniana |
+| Angola                   | Curaçau                           | Quénia                 | Panamá                |
+| Anguila                 | Dübouti                           | Quiribáti              | Paraguai              |
+| Antártica               | Dominica                          | Koweit                | Peru                  |
+| Argentina                | República Dominicana                | Quirguistão            | Filipinas           |
+| Antígua & Barbuda        | Equador                           | Laos                  | São Cristóvão e Neves |
+| Aruba                    | Egito                             | Líbano               | Senegal               |
+| Azerbaijão               | Salvador                       | Lesoto               | Sri Lanca             |
+| Bangladesh               | Guiné Equatorial                 | Libéria               | Tajiquistão             |
+| Barbados                 | Eritreia                           | Líbia                 | Tanzânia              |
+| Belize                   | Etiópia                          | Macau                 | Tailândia              |
+| Benim                    | Ilhas Falkland (Malvinas)                  | Madagáscar            | Trindade e Tobago   |
+| Bermudas                  | Ilhas Faroé                     | Maláui                | Tunísia               |
+| Butão                   | Fiji                              | Maldivas              | Turquemenistão          |
+| Bolívia                  | Gabão                             | Mali                  | Uganda                |
+| Bonaire                  | Gana                             | Ilhas Marshall      | Ucrânia               |
+| Bósnia e Herzegovina   | Geórgia                           | Martinica            | Uruguai               |
+| Botsuana                 | Gibraltar                         | Mauritânia            | Ilhas Virgens dos Estados Unidos     |
+| Ilha Bouvet            | Gronelândia                         | Maurícias             | Usbequistão            |
+| Ilhas Virgens Britânicas   | Granada                           | Ma Ote                | Vanuatu               |
+| Brunei                   | Guadalupe                        | Micronésia            | Cidade do Vaticano          |
+| Bulgária                 | Guame                              | Moldávia               | Venezuela             |
+| Burkina Faso             | Guatemala                         | Mongólia              | Vietname               |
+| Burundi                  | Guernesey                          | Montenegro            | Wallis e Futuna     |
+| Cabo Verde               | Guiné                            | Montserrate            | Iémen                 |
+| Camboja                 | Guiné-Bissau                     | Marrocos               | Zâmbia                |
+| Camarões                 | Guiana                            | Moçambique            | Zimbabué              |
+| Ilhas Caimão           | Haiti                             | Mianmar               |                       |
+| República Centro-Africana | Ilhas Heard e McDonald | Namíbia               |                       |
+| Chade                     | Honduras                          | Nauru                 |                       |
+| Ilha do Natal         | R.A.E. de Hong Kong                     | Nepal                 |                       |
+| Ilhas dos Cocos (Keeling)  | Iraque                              | Nicarágua             |                       |
+| Comoros                  | Israel                            | Níger                 |                       |
 
 ### <a name="microsoft-managed-countries"></a>Países geridos pela Microsoft
 
-| Países | Países (continuado) | Países (continuado) | Países (continuado) |
-|---------|-----------|--------|----|
-|Arménia|Finlândia|Luxemburgo|Singapura|
-|Áustria|França|Malásia|Eslováquia|
-|Bielorrússia|Alemanha|Malta|Eslovénia|
-|Bulgária|Grécia|Mónaco|África do Sul|
-|Bélgica|Hungria|Países Baixos|Coreia do Sul|
-|Canadá|Islândia|Nova Zelândia|Espanha|
-|Chile|Índia|Noruega|Suécia|
-|Colômbia|Indonésia|Polónia|Suíça|
-|Croácia|Irlanda|Portugal|Taiwan|
-|Chipre|Itália|Roménia|Turquia|
-Checa|Letónia|Rússia|E.A.U.|
-|Dinamarca|Listenstaine|Arábia Saudita|Reino Unido|
-|Estónia|Lituânia|Sérvia|Estados Unidos, incluindo Porto Rico|
+| Países                | Países (continuado)             | Países (continuado) | Países (continuado)               |
+|--------------------------|-----------------------------------|-----------------------|-------------------------------------|
+| Arménia                  | Finlândia                           | Luxemburgo            | Singapura                           |
+| Áustria                  | França                            | Malásia              | Eslováquia                            |
+| Bielorrússia                  | Alemanha                           | Malta                 | Eslovénia                            |
+| Bulgária                 | Grécia                            | Mónaco                | África do Sul                        |
+| Bélgica                  | Hungria                           | Países Baixos           | Coreia do Sul                         |
+| Canadá                   | Islândia                           | Nova Zelândia           | Espanha                               |
+| Chile                    | Índia                             | Noruega                | Suécia                              |
+| Colômbia                 | Indonésia                         | Polónia                | Suíça                         |
+| Croácia                  | Irlanda                           | Portugal              | Taiwan                              |
+| Chipre                   | Itália                             | Roménia               | Turquia                              |
+| Checa                  | Letónia                            | Rússia                | Emirados Árabes Unidos                |
+| Dinamarca                  | Listenstaine                     | Arábia Saudita          | Reino Unido                      |
+| Estónia                  | Lituânia                         | Sérvia                | Estados Unidos, incluindo Porto Rico |
 
 
 ### <a name="end-customer-taxation-with-differences-in-marketplace"></a>Tributação de clientes finais com diferenças no mercado
@@ -100,10 +99,11 @@ Checa|Letónia|Rússia|E.A.U.|
 |------------------|:-----------------|:---------------|
 |Brasil|Revendedor exceto: Editor gerido para compras efetuadas através do cenário de compra de clientes cloud Solution Provider (CSP)|Desenvolvedor gerido exceto: Revendedor para compras feitas através de dispositivos em execução no Windows 10|
 |México|Microsoft gerida exceto: Revendedor para compras através de cenário de compra de clientes de acordo com a empresa|Microsoft gerido|
-|Austrália|Microsoft gerida exceto: Revendedor para compras através de cenário de compra de clientes de acordo com a empresa|Microsoft gerido|
+|Austrália|Microsoft gerida exceto: Publisher Managed for purchases through enterprise agreement customer purchase scenario|Microsoft gerido|
 China|Mercado não habilitado|Revendedor ativado exceto: desenvolvedor gerido para dispositivos de comunicações móveis com windows phone 7.x e em computadores pessoais executando o Windows 8.x|
-|Barém|Editor gerido|Microsoft gerido|
-|Omã|Editor gerido|Microsoft gerido|
+| Barém | Editor gerido | Microsoft gerido                      |
+| Omã | Editor gerido | Microsoft gerido                         |
+| Nigéria | Editor gerido | Microsoft gerido                      |
 
 
 ## <a name="tax-considerations-on-payouts"></a>Considerações fiscais sobre os pagamentos
