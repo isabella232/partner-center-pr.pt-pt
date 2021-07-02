@@ -7,17 +7,32 @@ ms.reviewer: dannyevers
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: how-to
-ms.date: 06/04/2021
-ms.openlocfilehash: 8dba9f95607a4172e6d5d0bc2ec148a25b599cd1
-ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
+ms.date: 06/29/2021
+ms.openlocfilehash: a124e4c5bb31a1fbb744bf2c5e1ea65a356bdd54
+ms.sourcegitcommit: 1d09ccaaa54f167b0c63e99761172ebe84e89f2e
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/22/2021
-ms.locfileid: "112431451"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "113221445"
 ---
 # <a name="purchase-a-saas-offer-in-azure-portal"></a>Comprar uma oferta SaaS no portal Azure
 
 Este artigo explica as diferentes opções e requisitos para pesquisar, tentar e comprar uma oferta de software-as-a-service (SaaS) a partir do portal Azure.
+
+## <a name="create-a-saas-subscription"></a>Criar uma subscrição SaaS
+
+Para adquirir uma subscrição SaaS, precisa de uma conta de utilizador Azure com acesso a uma subscrição Azure apropriada. Esta subscrição será usada para faturação, bem como para compartimentalização dos seus recursos de nuvem adquiridos. Para saber mais sobre as subscrições do Azure, consulte [Criar uma subscrição adicional do Azure.](/azure/cost-management-billing/manage/create-subscription)
+
+No portal Azure, selecione a oferta desejada do SaaS na secção **Marketplace.**
+
+Uma subscrição de Software-as-a-Service oferece o direito de usar um serviço por um determinado período de tempo através de uma subscrição online em vez de instalação local em computadores individuais. Uma subscrição é um acordo para usar uma ou mais plataformas ou serviços em nuvem, para os quais os encargos se acumulam com base numa taxa de licença por utilizador ou no consumo de recursos baseados na nuvem. Uma organização pode ter várias subscrições de SaaS.
+
+As restrições às subscrições do SaaS incluem:
+
+- Sem assinaturas de estudantes.
+- Não Visual Studio subscrição da Enterprise.
+- Sem subscrições de crédito grátis.
+- Para ofertas pagas, é necessário um instrumento de pagamento.
 
 ## <a name="saas-offers-discovery-in-azure-portal"></a>SaaS oferece descoberta no portal Azure
 
@@ -36,7 +51,7 @@ A vista filtrada mostra cada oferta SaaS disponível representada por um título
 
 - Visão geral – detalhes sobre o serviço, marketing e materiais de aprendizagem
 - Planos + Preços – cada oferta incluirá pelo menos um plano com diferentes termos e preços de faturação
-- Informações de utilização + Suporte – inclui ID de editor, ID de oferta e ID do plano
+- Informações de utilização + Suporte – inclui ID Publisher, ID de oferta e ID do plano
 - Avaliação e Avaliações da oferta específica do SaaS
 
 ## <a name="available-billing-models-plansskus-for-saas-offers"></a>Modelos de faturação disponíveis (planos/SKUs) para ofertas saas
