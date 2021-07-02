@@ -9,12 +9,12 @@ ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 06/17/2021
-ms.openlocfilehash: 7cdb5e04482f32d1b57346c86fa9db218cb11452
-ms.sourcegitcommit: 5d5747d245bdd967fd82df4bcc0a1f8a30a55cea
+ms.openlocfilehash: fae1f29f2fdc804764a29f81f2cddb7353dbf7f7
+ms.sourcegitcommit: c4601069340445135b551fa96bee6d9923d8aa97
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "113105044"
+ms.lasthandoff: 07/01/2021
+ms.locfileid: "113173660"
 ---
 # <a name="technical-support-for-on-premises-or-cloud-products"></a>Suporte Técnico para instalações ou produtos cloud
 
@@ -54,20 +54,20 @@ Como visualizar ou ativar os seus benefícios técnicos no Centro de Parceiros:
 
 2. Expandir **benefícios** no menu de navegação à esquerda, selecione [**benefícios técnicos**](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical). A página de benefícios técnicos mostrará as ofertas de subscrição ativas de Gold, Silver ou Microsoft Action Pack.
 
-   :::image type="content" source="images/mpn-benefits-technical-support/technical-benefits-1.png" lightbox="images/mpn-benefits-technical-support/technical-benefits-1.png" alt-text="Benefícios Técnicos, em seguida, expandir Benefícios" :::
+   :::image type="content" source="images/mpn-benefits-technical-support/technical-benefits-1.png" lightbox="images/mpn-benefits-technical-support/technical-benefits-1.png" alt-text="Os Benefícios Técnicos expandem então os Benefícios." :::
 
    > [!NOTE]
    > Se não tiver ofertas de adesão ativa, verá a mensagem "Parece que ainda não tem quaisquer benefícios". Se a sua empresa tem ofertas de adesão ativas, mas não pode vê-las, assinou usando a conta errada. Para verificar a sua conta, selecione o ícone **Conta** no direito superior da página e selecione **Iniciar sômed com outra conta** (se necessário).
 
 3. Para utilizar o Suporte ao Produto do Microsoft ou o Suporte ao Produto De Assinatura, tem de ativar o benefício. Para ativar o benefício, selecione o botão **Ativar.** A conta de utilizador utilizada para a ativação requer as funções de Administrador Global ou MPN Partner.
 
-   :::image type="content" source="images/mpn-benefits-technical-support/technical-benefits-2.png" lightbox="images/mpn-benefits-technical-support/technical-benefits-2.png" alt-text="Selecione Benefícios Técnicos Ativar" :::
+   :::image type="content" source="images/mpn-benefits-technical-support/technical-benefits-2.png" lightbox="images/mpn-benefits-technical-support/technical-benefits-2.png" alt-text="Selecione Benefícios Técnicos Ativar." :::
 
 4. O ID de acesso e o ID do contrato serão apresentados a todos os utilizadores após uma ativação bem sucedida. Pode utilizar o Suporte ao Produto do Microsoft e o Suporte ao Produto De Assinatura (membros Gold e Silver) quando forem apresentados o ID de acesso e o ID do contrato.
 
    Se o botão Ativar estiver acinzentado, a sua conta não tem a função de administrador global ou mpn Partner Admin. Utilize  [a Gestão do Utilizador](https://partner.microsoft.com/dashboard/account/v3/usermanagement#users) e filtre na Administração Global ou na MPN Partner Admin para encontrar um utilizador para ativar os seus benefícios.
 
-   :::image type="content" source="images/mpn-benefits-technical-support/technical-benefits-3.png" lightbox="images/mpn-benefits-technical-support/technical-benefits-3.png" alt-text="Benefícios Técnicos Ativados mostram ID de acesso e ID do contrato" :::
+   :::image type="content" source="images/mpn-benefits-technical-support/technical-benefits-3.png" lightbox="images/mpn-benefits-technical-support/technical-benefits-3.png" alt-text="Os benefícios técnicos ativados mostram iD de acesso e ID do contrato." :::
 
    > [!NOTE]
    > Vai precisar do ID de acesso e iD do contrato na primeira vez que utilizar o Suporte do Produto do Microsoft ou o Suporte do Produto De Assinatura para cada conta. Uma vez associados os benefícios à sua conta, não precisa de voltar a utilizar o ID de Acesso e o ID do Contrato.  
@@ -86,7 +86,7 @@ Como parte da subscrição da Microsoft Partner Network, os parceiros são eleg�
 | Suporte ao produto da Microsoft<br>Para o recente On-In-As <br>produtos apenas | 10 Incidentes | 15 Incidentes | 20 Incidentes |
 | Suporte à nuvem de assinatura<br>Apenas para produtos Cloud | | Competências em nuvem:<br>Ilimitado<br><br>Outras competências:<br>5 Incidentes | Competências em nuvem:<br>Ilimitado<br>          <br>Outras competências:<br>10 Incidentes   | 
 
-As competências em nuvem incluem: Competência de Segurança, Aplicações de Negócios em Nuvem, Plataforma Cloud, Produtividade em Nuvem, Gestão de Mobilidade Empresarial, Soluções cloud pequenas e médias.
+As competências em nuvem incluem: Competência de Segurança, Cloud Business Applications, Cloud Platform, Cloud Productivity, Enterprise Mobility Management, Small and Midmarket Cloud Solutions.
 
 ## <a name="microsoft-product-support-on-premises"></a>Suporte ao Produto da Microsoft (no local)
 
@@ -121,7 +121,7 @@ Você precisará do ID de acesso e ID do contrato na primeira vez que você usar
 > [!NOTE]  
 > Ao utilizar o portal Azure. Se o seu contrato de suporte já estiver associado à conta, verá uma mensagem de erro "O ID de acesso já está associado..." quando adicionar o ID de acesso e iD do contrato. ver abaixo
 
-Os parceiros da CSP que criam pedidos Azure podem usar o plano de suporte "Cloud Solution Provider" sem adicionar um contrato de apoio.
+Os parceiros da CSP que criam pedidos da Azure podem utilizar o plano de apoio "Fornecedor de Soluções em Nuvem" sem adicionar um contrato de apoio.
 
 Os utilizadores com função **de Agente Administrador** podem selecionar [clientes](https://partner.microsoft.com/commerce/customers/list) sob CSP no menu de navegação à esquerda, selecionar **Gestão de Serviços** e selecionar **Novo pedido**.  Quando selecionar a carga de trabalho relevante, será aberto o portal específico para a carga de trabalho e adiciona-se um contrato de apoio e cria um pedido.
 
