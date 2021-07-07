@@ -5,21 +5,21 @@ ms.date: 12/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Use partner Center para transar negócios com a Microsoft e os seus clientes
-author: laurabrenner
-ms.author: labrenne
+author: jasongroce
+ms.author: jasongroce
 ms.localizationpriority: high
-ms.openlocfilehash: dc34044753b540545086113e356e194c3c99138a
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: cd9400915861667378ccf5545a6a8827a699d465
+ms.sourcegitcommit: a84c83bbd95156344b3d9b2778973f47a9f83141
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277662"
+ms.lasthandoff: 07/07/2021
+ms.locfileid: "113353725"
 ---
 # <a name="what-is-partner-center"></a>O que é o Centro de Parceiros?
 
 **Funções adequadas**: Todos os parceiros interessados no Partner Center
 
-[O Partner Center](https://partner.microsoft.com/dashboard/home) dinamiza vários processos de negócio para facilitar aos parceiros da Microsoft a gestão da sua relação com a Microsoft e os seus clientes. O Partner Center permite-lhe um fácil acesso às ferramentas necessárias para fazer o trabalho. Use o Centro de Parceiros para:
+[O Partner Center](https://partner.microsoft.com/dashboard/home) dinamiza vários processos de negócio para facilitar aos parceiros da Microsoft a gestão da sua relação com a Microsoft e os seus clientes. O Partner Center dá-lhe acesso às ferramentas necessárias para fazer o trabalho. Use o Centro de Parceiros para:
 
 - Gerir a sua conta microsoft e utilizadores
 - Envolver-se com os clientes
@@ -35,11 +35,11 @@ ms.locfileid: "112277662"
 
 ## <a name="manage-your-account"></a>Gerir a sua conta
 
-Quer seja um parceiro no programa Cloud Solution Provider ou um parceiro de desenvolvimento que vende as suas apps, gere a sua conta Partner Center a partir de uma localização de definições de conta: o [dashboard](https://partner.microsoft.com/dashboard/home)partner Center . A partir daí, pode modificar informações legais, detalhes fiscais, inquilinos, localizações empresariais, utilizadores e permissões, e programas específicos em que a sua empresa está matriculada.
+Quer seja um parceiro no programa Fornecedor de Soluções em Nuvem ou um parceiro de desenvolvimento que vende as suas apps, gere a sua conta Partner Center a partir de uma localização de definições de conta: o [dashboard](https://partner.microsoft.com/dashboard/home)partner Center . A partir daí, pode modificar informações legais, detalhes fiscais, inquilinos, localizações empresariais, utilizadores e permissões, e programas específicos em que a sua empresa está matriculada.
 
 O que você pode ver e gerir no Partner Center depende do seu papel e permissões. Saiba mais em [Papéis e permissões.](permissions-overview.md)
 
-:::image type="content" source="images/accountsettings/account-settings-new.png" alt-text="Menu de definições.":::
+:::image type="content" source="images/accountsettings/account-settings-new.png" alt-text="Definições menu.":::
 
 ## <a name="membership-programs"></a>Programas de adesão
 
@@ -59,14 +59,14 @@ Como parceiro de confiança, desempenha um papel crítico em todas as fases do c
 
 ## <a name="maintain-a-secure-environment"></a>Manter um ambiente seguro
 
-Com o Azure Ative Directory como elemento principal da sua conta Partner Center, certifique-se de que a sua equipa utiliza [a autenticação multi-factor](partner-security-requirements-mandating-mfa.md) para manter os dados seguros. As salvaguardas de privacidade e a segurança estão entre as nossas principais prioridades.
+Com Azure Ative Directory como elemento principal da sua conta Partner Center, certifique-se de que a sua equipa utiliza [a autenticação de vários fatores](partner-security-requirements-mandating-mfa.md) para manter os dados seguros. As salvaguardas de privacidade e a segurança estão entre as nossas principais prioridades.
 
 ## <a name="data-and-analytics"></a>Dados e análises
 
 Aceda a vários tipos diferentes de relatórios de dados do painel de instrumentos do Partner Center:
 
 - Indicadores de Contribuição de Parceiros (PCI) mostram impacto dos parceiros em sete medidas-chave de sucesso do cliente
-- Os relatórios de dados da Partner Insights identificam onde as suas vendas são elevadas, ajudam-no a descobrir quais os clientes que implementaram as suas subscrições ou precisam de apoio, e mostram o quão bem os seus produtos estão a vender.
+- Os relatórios de dados Informações identifiquem onde as suas vendas são elevadas, ajudam-no a descobrir quais os clientes que implementaram as suas subscrições ou precisam de apoio, e mostram o quão bem os seus produtos estão a vender.
 
 :::image type="content" source="images/pci/pci-licenses-report-license-adds-3.png" alt-text="Determine onde estão as suas licenças.":::
 

@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/30/2021
-ms.openlocfilehash: a6f249a83abb7dfb7a1e516864696e1bfcc6a853
-ms.sourcegitcommit: 1d09ccaaa54f167b0c63e99761172ebe84e89f2e
+ms.openlocfilehash: a3d7bc5cbcd8809fd1682265891a617966e6e953
+ms.sourcegitcommit: b0d1413ffa2099ddf11d013d41378afa50953f32
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "113221462"
+ms.lasthandoff: 07/05/2021
+ms.locfileid: "113297657"
 ---
 # <a name="partner-center-announcements"></a>Anúncios do Centro de Parceiros
 
@@ -22,6 +22,7 @@ Saiba mais sobre atualizações importantes do Centro de Parceiros. Estas inform
 
 |**Categoria**|**Anúncios de julho de 2021**|**Anunciado**|
 |---------|:---------|:---------|
+|Capacidades|[Windows 7 Atualizações de Segurança Alargadas (ESU) Ano 2 (2021) problema chave do produto resolvido](2021-july.md#3)|2 de julho |
 |Capacidades|[Veja os lançamentos e ofertas deste mês](2021-july.md#2)|1 de julho|
 |Capacidades|[Dinâmica 365 Promoção da Migração em Nuvem e reforma de ofertas com desconto](2021-july.md#1)|1 de julho|
 |**Categoria**|**Anúncios de junho de 2021**|**Anunciado**|

@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6fdc5687379d7bca08802f2301fdb8587f38da20
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 44a5d2a6b845168cf73dbabfea05c218e9357091
+ms.sourcegitcommit: b0d1413ffa2099ddf11d013d41378afa50953f32
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277645"
+ms.lasthandoff: 07/05/2021
+ms.locfileid: "113297640"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-small-and-midmarket-cloud-solutions-competency"></a>Utilizar Indicadores de Contribuição de Parceiros para obter a competência Soluções de Cloud para Pequenas e Médias Empresas
 
@@ -23,7 +23,7 @@ ms.locfileid: "112277645"
 Este artigo descreve seis indicadores-chave de contribuição de parceiros (PCI) utilizados para avaliar os progressos de um parceiro para alcançar ou manter uma competência de Silver ou Gold Small and Midmarket Cloud Solutions através da opção Cloud Business Applications SMB.
 
 > [!NOTE]
-> Saiba como os parceiros usam um conjunto diferente de métricas do Indicador de Contribuição de Parceiros para atingir a competência silver ou gold cloud business applications. Para obter mais informações, consulte [Use Indicadores de Contribuição de Parceiros para a competência de Aplicações empresariais em nuvem](partner-contribution-indicators.md). Também pode [ler mais](https://partner.microsoft.com/membership/competencies) sobre as diferentes competências disponíveis e as suas necessidades.
+> Saiba como os parceiros usam um conjunto diferente de métricas do Indicador de Contribuição de Parceiros para atingir a competência de Business Applications de prata ou nuvem dourada. Para obter mais informações, consulte [use indicadores de contribuição de parceiros para a competência cloud Business Applications](partner-contribution-indicators.md). Também pode [ler mais](https://partner.microsoft.com/membership/competencies) sobre as diferentes competências disponíveis e as suas necessidades.
 
 Este artigo inclui informações sobre:
 
@@ -37,7 +37,7 @@ Este artigo inclui informações sobre:
 
 ## <a name="overview-of-partner-contribution-indicators-for-this-competency"></a>Visão geral dos Indicadores de Contribuição de Parceiros para esta competência
 
-Os Indicadores de Contribuição de Parceiros fornecem uma medida holística do impacto de um parceiro na condução de resultados bem sucedidos do cliente e, portanto, uma maior diferenciação no mercado quando um parceiro atinge ou mantém a competência small and midmarket Cloud Solutions através da opção Cloud Business Applications SMB.
+Os Indicadores de Contribuição de Parceiros fornecem uma medida holística do impacto de um parceiro na condução de resultados bem sucedidos do cliente e, portanto, uma maior diferenciação no mercado quando um parceiro atinge ou mantém a competência das Soluções cloud small e midmarket através da opção Cloud Business Applications SMB.
 
 Com o PCI, os parceiros recebem crédito por medidas-chave de sucesso do cliente, tais como implementações bem-sucedidas e uso crescente. São recompensados por continuarem a investir e a ampliar as suas capacidades técnicas.
 
@@ -122,11 +122,11 @@ Certos Indicadores de Contribuição de Parceiros só lhe permitem receber créd
 - Crescimento mensal do utilizador ativo
 
 Só pode receber crédito por estas métricas de PCI para um determinado cliente se tiver uma das seguintes associações parceiro-cliente:
-- Você é um Cloud Solution Provider (CSP) para uma subscrição paga pertencente ao inquilino desse cliente
+- Você é um Fornecedor de Soluções em Nuvem (CSP) para uma subscrição paga pertencente ao inquilino do cliente
 - Você é o Parceiro Reivindicante da Record (CPOR) por uma subscrição paga pertencente ao inquilino desse cliente
 - Você é um Parceiro Digital da Record (DPOR) para uma subscrição paga pertencente ao inquilino desse cliente
 
-Um parceiro torna-se o CPOR se tiver estabelecido associação com um cliente ao nível da subscrição através do incentivo Dynamics 365 [Online Services Advisor](https://support.microsoft.com/help/4501560/online-services-advisor-osa-sell-incentives-faq) (OSA) ou do incentivo Dynamics 365 Online Services [Usage](https://support.microsoft.com/help/4489988/online-services-usage-osu-incentives-faq) (OSU).
+Um parceiro torna-se o CPOR se tiver estabelecido associação com um cliente ao nível da subscrição através do incentivo Dynamics 365 Online Services Advisor (OSA) ou do incentivo Dynamics 365 Online Services Usage (OSU).
 
 Um parceiro torna-se o DPOR se tiver estabelecido associação com um cliente ao nível de subscrição dentro do produto.
 
@@ -154,11 +154,11 @@ As novas receitas líquidas são um [indicador de desempenho.](partner-contribut
 - As novas receitas líquidas são resumidas num período de 12 meses com um rendimento máximo possível de 10 pontos.
 - Os pontos para as novas receitas líquidas são calculados como faturações menos créditos e agregados ao longo de 12 meses.
 - As novas receitas líquidas são calculadas com base em qualquer combinação dos seguintes produtos elegíveis:
-  - Dinâmica 365 Produtos elegíveis para o envolvimento do cliente incluem: Vendas, Marketing, Atendimento ao Cliente, Serviço de Campo, Servidor de Projeto, Plano 1, Automação, Marketing, Vendas de Relacionamento microsoft
-  - Os produtos elegíveis para as Finanças e Operações incluem: Dynamics 365 Business Central, Capacity and Storage, Finance and Operations (incluindo proteção contra fraudes, operações, retalho, RH, plano 2), realidade mista, Membro da Equipa
+  - Dinâmica 365 Produtos elegíveis para o envolvimento do cliente incluem: Vendas, Marketing, Atendimento ao Cliente, Serviço de Campo, Project servidor, Plano 1, Automação, Marketing, Vendas de Relacionamento microsoft
+  - Os produtos elegíveis para as Finanças e Operações incluem: Dynamics 365 Business Central, Capacity and Armazenamento, Finanças e Operações (incluindo proteção contra fraudes, operações, retalho, RH, plano 2), realidade mista, Membro da Equipa
   
-- Os canais de vendas incluem Enterprise Agreement (EA), Cloud Solution Provider (CSP) e Web Direct.
-- Para o Contrato de Empresa apenas: Esta receita inclui receitas do primeiro ano do contrato. As receitas recorrentes do segundo e terceiro anos não estão incluídas.
+- Os canais de vendas incluem Contrato Enterprise (EA), Fornecedor de Soluções em Nuvem (CSP) e Web Direct.
+- Para Contrato Enterprise receitas apenas: Esta receita inclui receitas do primeiro ano do acordo. As receitas recorrentes do segundo e terceiro anos não estão incluídas.
 
 ### <a name="definitions-for-pci-metric-2---net-customer-adds"></a>Definições para #2 métrica de PCI - Cliente líquido adiciona
 
@@ -178,7 +178,7 @@ O ac adds de clientes líquidos é um [indicador de desempenho](partner-contribu
 
 - Os pontos máximos e parciais podem ser obtidos para adição líquida de clientes.
 
-- Os canais de vendas incluem Enterprise Agreement (EA), Cloud Solution Provider (CSP) e Web Direct.
+- Os canais de vendas incluem Contrato Enterprise (EA), Fornecedor de Soluções em Nuvem (CSP) e Web Direct.
 
 - Para vários parceiros/mesmo cliente ou cliente que trabalhe diretamente com a Microsoft: Existem diferentes cálculos de **adicionações** de clientes e **clientes perdidos** para casos em que vários parceiros estão associados ao mesmo cliente através de diferentes subscrições ou para casos em que o cliente pode já estar a trabalhar diretamente com a Microsoft. Estes cálculos aparecem abaixo.
 
@@ -261,8 +261,8 @@ As novas implementações são um indicador de [sucesso do cliente.](partner-con
 - Os utilizadores ativos mensais são calculados no final de cada mês.
 
 - Os parceiros estão associados aos inquilinos ao nível da subscrição. As assinaturas são mapeadas para os seguintes produtos elegíveis:
-  - Dinâmica 365 Produtos elegíveis para o envolvimento do cliente incluem: Vendas, Marketing, Atendimento ao Cliente, Serviço de Campo, Servidor de Projeto, Plano 1, Automação, Marketing, Vendas de Relacionamento microsoft
-  - Os produtos elegíveis para as Finanças e operações incluem: Business Central, Capacity and Storage, Finance and Operations (incluindo proteção contra fraudes, operações, retalho, RH, plano 2), realidade mista, Membro da Equipa
+  - Dinâmica 365 Produtos elegíveis para o envolvimento do cliente incluem: Vendas, Marketing, Atendimento ao Cliente, Serviço de Campo, Project servidor, Plano 1, Automação, Marketing, Vendas de Relacionamento microsoft
+  - Os produtos elegíveis para as Finanças e operações incluem: Business Central, Capacity and Armazenamento, Finance and Operations (incluindo proteção contra fraudes, operações, retalho, RH, plano 2), realidade mista, Membro da Equipa
 
 - Todos os parceiros associados a qualquer subscrição paga sob um inquilino receberão crédito por todas as instâncias de produção sob esse inquilino. 
 
@@ -274,7 +274,7 @@ O crescimento mensal do utilizador ativo é um indicador de [sucesso do cliente.
 
 - Os utilizadores ativos mensais são contados ao nível do arrendatário e resumidos apenas em todas as assinaturas pagas sob o arrendatário.
 
-- O indicador mensal de crescimento do utilizador ativo compara o mês em curso com uma linha de base de há 12 meses. Estão disponíveis 25 pontos máximos para se candidatar à obtenção da competência Gold ou Silver Small and Midmarket Cloud Solutions através da opção Cloud Business Applications SMB.
+- O indicador mensal de crescimento do utilizador ativo compara o mês em curso com uma linha de base de há 12 meses. Estão disponíveis 25 pontos máximos para se candidatar à obtenção da competência Gold ou Silver Small e Midmarket Cloud Solutions através da opção Cloud Business Applications SMB.
 
 - Os utilizadores ativos mensais são calculados no final de cada mês.
 
