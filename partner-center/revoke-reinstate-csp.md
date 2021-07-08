@@ -4,23 +4,23 @@ ms.topic: how-to
 ms.date: 05/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Saiba como ajudar os clientes a restabelecer os privilégios de administração de um parceiro para que o parceiro possa ajudar a gerir as subscrições do Azure Cloud Solution Provider (CSP) de um cliente.
+description: Saiba como ajudar os clientes a restabelecer os privilégios de administração de um parceiro para que o parceiro possa ajudar a gerir as subscrições Azure Fornecedor de Soluções em Nuvem (CSP) de um cliente.
 author: dhirajgandhi
 ms.author: dhgandhi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5d784aef33cce2a722583a77e73c35d5fc8136b1
-ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
+ms.openlocfilehash: 196b38d30942278beb00096529f5965db7dfb96c
+ms.sourcegitcommit: b55f63a029d88c73cd5190bbac2df1b5990e6e44
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "112551593"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "113510181"
 ---
 # <a name="reinstate-admin-privileges-for-a-customers-azure-csp-subscriptions"></a>Repor privilégios de administração para subscrições Azure CSP de um cliente  
 
 **Funções adequadas**: Administração global | Agente administrativo
 
-Como parceiro cloud solution provider (CSP), os seus clientes esperam muitas vezes que gere o seu uso Azure e os seus sistemas para eles. Deve ter privilégios administrativos para o fazer. Alguns privilégios são concedidos quando a sua relação de revendedor com o cliente é estabelecida. Outros são-lhe concedidos pelo seu cliente.
+Como parceiro Fornecedor de Soluções em Nuvem (CSP), os seus clientes esperam muitas vezes que gere o seu uso Azure e os seus sistemas para eles. Deve ter privilégios administrativos para o fazer. Alguns privilégios são concedidos quando a sua relação de revendedor com o cliente é estabelecida. Outros são-lhe concedidos pelo seu cliente.
 
 ## <a name="admin-privileges-for-azure-in-csp"></a>Privilégios de administração para a Azure na CSP
 
@@ -94,6 +94,7 @@ Em vez de conceder permissões ao proprietário no âmbito de subscrição, pode
    ```powershell
    New-AzRoleAssignment -ObjectID "<Object ID from step 3>" -RoleDefinitionName Owner -Scope "/subscriptions/'SubscriptionID of CSP subscription'/resourceGroups/'Resource group name'"
    ```
+
    ```azurecli
    az role assignment create --role "Owner" --assignee-object-id <Object Id of the Admin Agents group provided by partner> --scope "/subscriptions/<CSP Subscription Id>//resourceGroups/<Resource group name>"
    ```
@@ -103,6 +104,7 @@ Em vez de conceder permissões ao proprietário no âmbito de subscrição, pode
    ```powershell
    New-AzRoleAssignment -ObjectID "<Object ID from step 3>" -RoleDefinitionName Owner -Scope "<Resource URI>"
    ```
+
    ```azurecli
    az role assignment create --role "Owner" --assignee-object-id <Object Id of the Admin Agents group provided by partner> --scope "<Resource URI>"
    ```

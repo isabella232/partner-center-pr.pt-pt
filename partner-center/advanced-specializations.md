@@ -1,7 +1,7 @@
 ---
 title: Conheça as especializações avançadas
 ms.topic: article
-ms.date: 01/21/2021
+ms.date: 07/07/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Fortaleça o seu perfil de negócio no diretório de parceiros da Microsoft. Conheça as especializações avançadas que pode alcançar juntamente com as suas competências existentes em Ouro e Prata.
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 91c182f2eb42bbe834926c7985d343524305485a
-ms.sourcegitcommit: cc9e47219f6e2cdf77118b5c8986e86ebecfe260
+ms.openlocfilehash: 779e6d344d9fc75a45a4d89a65ebff3ace8ce8cb
+ms.sourcegitcommit: 312f3800d0a0464af9df4d7ffb0d9faec273fd74
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/16/2021
-ms.locfileid: "112125927"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "113489814"
 ---
 # <a name="earn-an-advanced-specialization-to-showcase-your-validated-capabilities"></a>Ganhe uma especialização avançada para mostrar as suas capacidades validadas
 
@@ -42,20 +42,23 @@ Cada especialização avançada corresponde a uma área de solução:
 
 As especializações avançadas **do Azure** incluem:
 
-- Analytics no Microsoft Azure
+- Análise na Microsoft Azure
 - Migração do Data Warehouse para o Microsoft Azure
 - Kubernetes no Microsoft Azure
-- Base de dados Linux e Open Source migram para o Microsoft Azure
+- Migração de bases de dados Linux e Open Source para Microsoft Azure
 - Microsoft Windows Virtual Desktop
 - Modernização de Aplicações Web para o Microsoft Azure
 - SAP no Microsoft Azure
 - Migração do Windows Server e SQL Server para o Microsoft Azure
-- IA e Machine Learning no Microsoft Azure
+- IA e Machine Learning em Microsoft Azure
 - Infraestrutura de nuvem híbrida com Microsoft Azure Stack HCI
-- Operações híbridas e gestão com o Microsoft Azure Arc
-- Solução Microsoft Azure VMware
+- Operações e Gestão Híbridas com Microsoft Azure Arc
+- Microsoft Azure Solução VMware
+- DevOps com GitHub na Microsoft Azure
+- Serviços de Networking em Microsoft Azure
 
-**As especializações avançadas de Aplicações Empresariais** incluem:
+
+**Business Applications** especializações avançadas incluem:
 
 - Desenvolvimento de Aplicações de Código Baixo
 - Gestão de Empresas Pequenas e Médias
