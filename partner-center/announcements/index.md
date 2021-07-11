@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 07/07/2021
-ms.openlocfilehash: 9600d477d20ad3bd1000a2137e486e0418be55f7
-ms.sourcegitcommit: 57442bbbef15a70bd9a042642140cbf2c8608b09
+ms.date: 07/09/2021
+ms.openlocfilehash: 664e8d1353a022e73a5d2f68d11dea4d7cfd438f
+ms.sourcegitcommit: e2256e60cd2d4d41b3653655e3b1931292234283
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/09/2021
-ms.locfileid: "113519462"
+ms.lasthandoff: 07/11/2021
+ms.locfileid: "113599776"
 ---
 # <a name="partner-center-announcements"></a>Anúncios do Centro de Parceiros
 
@@ -22,6 +22,7 @@ Saiba mais sobre atualizações importantes do Centro de Parceiros. Estas inform
 
 |**Categoria**|**Anúncios de julho de 2021**|**Anunciado**|
 |---------|:---------|:---------|
+|Capacidades|[Mantenha as certificações microsoft ativas com a ajuda do Partner Center](2021-july.md#6)| 9 de julho |
 |Capacidades|[Lançamento SDK em .NET Standard (v2.0.1)](2021-july.md#5)| 7 de julho |
 |Capacidades|[Anúncio de Transparência de Desconto do Cliente](2021-july.md#4)| 7 de julho |
 |Capacidades|[Windows 7 Atualizações de Segurança Alargadas (ESU) Ano 2 (2021) problema chave do produto resolvido](2021-july.md#3)|2 de julho |

@@ -7,12 +7,12 @@ ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 3/22/2021
-ms.openlocfilehash: dc0c720544f4a8a3c95e5b91ec656e65dbce7c80
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 4dac00e420b8787d2c8f67072a45bc29cbe7a645
+ms.sourcegitcommit: e2256e60cd2d4d41b3653655e3b1931292234283
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276115"
+ms.lasthandoff: 07/11/2021
+ms.locfileid: "113599794"
 ---
 # <a name="payout-statements"></a>Declaração de dividendos
 
@@ -48,7 +48,7 @@ Inscreva-se no [Partner Center](https://partner.microsoft.com/dashboard/home) e 
 
 :::image type="content" source="images/payouts/payout-overview.png" alt-text="Ilustra o ícone Payout no canto superior direito do portal Partner Center.":::
 
-Também pode utilizar a [API de Pagamento de Parceiros](https://apidocs.microsoft.com/services/partnerpayouts) para conectar e obter dados de transações e pagamentos diretamente.
+Também pode utilizar a [API de Pagamento de Parceiros](/rest/api/partner-center/partner-payouts) para conectar e obter dados de transações e pagamentos diretamente. Saiba mais na [Manage payouts usando a API do Serviço de Pagamento.](/partner-center/develop/manage-payouts)
 
 
 ## <a name="transaction-history"></a>Histórico de transações
@@ -142,11 +142,11 @@ Para ver mais detalhes sobre um ganho, selecione **Baixar** no topo da página. 
 | earningAmountInLastPaymentCurrency | Valor da obtenção na última moeda de pagamento (o campo estará vazio se não tiverem sido pagos pagamentos prévios) |  |
 | earningAmountUSD | Valor de Ganho em USD | Todos |
 | ganhandoDate | Data do ganho | Todos |
-| earningExchangeRate | Taxa de câmbio utilizada para mostrar o montante correspondente de USD | Todos |
+| earningExchangeRate | taxa Exchange usada para mostrar o valor correspondente de USD | Todos |
 | earningId | Identificador único para cada ganho | Todos |
 | ganhoSArtra | Taxa de incentivos aplicada no valor da transação para gerar um ganho | Todos |
 | tipo de ganhos | Indica se é taxa, desconto, cooperativa, venda, e assim por diante | Todos |
-| exchangeRateDate | Data de câmbio utilizada para calcular O Resultado Amount USD | Todos |
+| exchangeRateDate | Exchange data da taxa utilizada para calcular o EarningAmount USD | Todos |
 | externoReferênciaId | Identificador único para o programa | Programas direct Pay (incentivos e mercados) |
 | externoReferenceIdLabel | Rótulo de identificador único | Programas direct Pay (incentivos e mercados) |
 | instantâneoRebateAmount |  |  |
@@ -200,7 +200,7 @@ Para ver mais detalhes sobre um ganho, selecione **Baixar** no topo da página. 
 | transacçãoCountryCode | Código país/região em que a transação aconteceu |  |
 | transacçõesAcorrency | Moeda em que ocorreu a transação original do cliente (esta não é moeda de localização de parceiros) | Todos |
 | transacçõesDate | Data da transação. Útil para programas onde muitas transações contribuem para um ganho | Todos |
-| transacçãoExchangeRate | Data de câmbio utilizada para mostrar o valor correspondente da transação USD | Todos |
+| transacçãoExchangeRate | data de taxa Exchange utilizada para mostrar o valor correspondente da transação USD | Todos |
 | transactionId | Identificador único para a transação | Todos |
 | transactionPaymentMethod | Instrumento de pagamento do cliente utilizado para a transação, como cartão, faturação de porta-transporte móvel ou PayPal | mercados |
 | tipo de transação | Tipo de transação, tais como compra, reembolso, reversão ou cobrança | mercados |
@@ -227,7 +227,7 @@ A tabela que se segue lista os códigos de razão para ajustes e as suas descri�
 A página **pagamentos** detalha o dinheiro que ganhou com a Microsoft. Também mostra quando e quanto te pagarão.
 
 >[!Note]
-> Para ser elegível para pagamento, as suas receitas devem atingir o limiar de [pagamento](payment-thresholds-methods-timeframes.md) de $50. Para obter mais informações, consulte o [Microsoft Publisher Agreement](/legal/marketplace/msft-publisher-agreement).
+> Para ser elegível para pagamento, as suas receitas devem atingir o limiar de [pagamento](payment-thresholds-methods-timeframes.md) de $50. Para mais informações, consulte o [Acordo Microsoft Publisher.](/legal/marketplace/msft-publisher-agreement)
 
 :::image type="content" source="images/payouts/payments-overview.png" alt-text="Ecrã geral de pagamentos.":::
 
@@ -323,7 +323,7 @@ A tabela seguinte explica cada coluna numa declaração histórica.
 
 | Nome do campo | Description |
 | --- | --- |
-| Fonte de Receitas | A fonte das suas receitas com base no local onde ocorreu a transação, como a Microsoft Store, Windows Phone Store, Windows Store 8 ou publicidade |
+| Fonte de Receitas | A fonte da sua receita com base no local onde ocorreu a transação, como Microsoft Store, Windows Phone Store, Windows Store 8 ou publicidade |
 | ID da Encomenda | Identificador de ordem único. Este ID permite identificar transações de compra com as respetivas transações não-compra, tais como reembolsos ou reembolsos. Ambos terão a mesma identificação de encomenda. Além disso, se houver uma taxa dividida em que foram utilizados vários métodos de pagamento para uma única compra, permite-lhe ligar as transações de compra. |
 | ID de Transação | Identificador de transações único. |
 | Data de Data de Transação | A data e a hora da transação ocorreu (UTC). |
@@ -332,7 +332,7 @@ A tabela seguinte explica cada coluna numa declaração histórica.
 | Nome do produto principal | Nome do produto-mãe. Se não houver um produto-mãe para a transação, então o nome do produto principal = nome do produto. |
 | Nome do Produto | Nome do produto |
 | Tipo de Produto | Tipo de produto, como App, Add-on ou Game |
-| Quantidade | Quando a Fonte de Receita é a Microsoft Store para Negócios, a Quantidade representa o número de licenças adquiridas. Para todas as outras Fontes de Receita, a Quantidade será sempre 1. Mesmo quando uma única transação é dividida em dois itens de linha porque foram utilizados dois métodos de pagamento diferentes, cada item de linha mostrará uma quantidade de 1. |
+| Quantidade | Quando a Fonte de Receita é Microsoft Store para Empresas, a Quantidade representa o número de licenças adquiridas. Para todas as outras Fontes de Receita, a Quantidade será sempre 1. Mesmo quando uma única transação é dividida em dois itens de linha porque foram utilizados dois métodos de pagamento diferentes, cada item de linha mostrará uma quantidade de 1. |
 | Tipo de Transação | Tipo de transação, tais como compra, reembolso, reversão ou cobrança |
 | Método de Pagamento | Instrumento de pagamento do cliente utilizado para a transação, como cartão, faturação de porta-transporte móvel ou PayPal |
 | País / Região | País/região onde ocorreu a transação |
