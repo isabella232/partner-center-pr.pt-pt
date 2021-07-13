@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 07/09/2021
-ms.openlocfilehash: 664e8d1353a022e73a5d2f68d11dea4d7cfd438f
-ms.sourcegitcommit: e2256e60cd2d4d41b3653655e3b1931292234283
+ms.openlocfilehash: 81b687e6c1f5fe1f35fc12f7dbb53e76416b5005
+ms.sourcegitcommit: 285c0007cb2c2e26ff6a3d2fd6bf91edc82a3946
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/11/2021
-ms.locfileid: "113599776"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "113648370"
 ---
 # <a name="partner-center-announcements"></a>Anúncios do Centro de Parceiros
 
@@ -22,6 +22,8 @@ Saiba mais sobre atualizações importantes do Centro de Parceiros. Estas inform
 
 |**Categoria**|**Anúncios de julho de 2021**|**Anunciado**|
 |---------|:---------|:---------|
+|Preparação|[Alterações à Fornecedor de Soluções em Nuvem (CSP) validação de endereço de cliente API para entrar em direto no dia 13 de julho de 2021](2021-july.md#8)| 12 de julho |
+|Capacidades|[Atualização e lembretes da comunidade Fornecedor de Soluções em Nuvem de julho (CSP)](2021-july.md#7)| 12 de julho |
 |Capacidades|[Mantenha as certificações microsoft ativas com a ajuda do Partner Center](2021-july.md#6)| 9 de julho |
 |Capacidades|[Lançamento SDK em .NET Standard (v2.0.1)](2021-july.md#5)| 7 de julho |
 |Capacidades|[Anúncio de Transparência de Desconto do Cliente](2021-july.md#4)| 7 de julho |
