@@ -1,0 +1,229 @@
+### YamlMime:FAQ
+metadata:
+  title: FAQ sobre dividendos e perfis de imposto
+  description: Obtenha respostas a perguntas comuns sobre pagamentos e detalhes fiscais no Partner Center. Inclui respostas sobre o porquê dos seus ganhos serem diferentes do que esperava.
+  ms.service: marketplace
+  ms.subservice: partnercenter-marketplace-publisher
+  ms.topic: article
+  author: eunjkim520
+  ms.author: eunjkim
+  ms.date: 05/06/2021
+  ms.openlocfilehash: 30524899a85cff7439268d569e93810034109474
+  ms.sourcegitcommit: a09a5f893e876de23a8aa5c0d637e50c5be84941
+  ms.translationtype: MT
+  ms.contentlocale: pt-PT
+  ms.lasthandoff: 07/13/2021
+  ms.locfileid: "113686498"
+title: Questões comuns sobre pagamentos e impostos
+summary: >
+  **Funções adequadas**: Administração de contas | Administração global | Administradores de incentivos
+
+
+  Este artigo responde frequentemente a perguntas sobre pagamentos e detalhes fiscais no Partner Center. Os assuntos abrangidos incluem o tempo de pagamento, a verificação da elegibilidade dos seus ganhos e a importância de configurar corretamente o seu pagamento e perfis fiscais.
+sections:
+- name: Gestão de perfis
+  questions:
+  - question: >
+      Por que preciso fornecer ou atualizar os meus dados de pagamento e/ou impostos?
+    answer: >
+      Todos os parceiros que se inscrevam num novo programa devem fornecer pagamentos válidos e detalhes fiscais para completar a sua inscrição e receber pagamentos. Uma inscrição só é considerada completa depois de a Microsoft ter validado o seu pagamento e perfil fiscal.
+
+
+      Também poderá ter de atualizar as suas informações se as regras para o seu programa mudarem ou se os aspetos do seu perfil expirarem ou ficarem desatualizados. Se isso acontecer, a sua página de Visão Geral mostrará o estado de **Ação necessário – Atualizar o perfil bancário e/ou fiscal**.
+  - question: >
+      Como encontro, configuração ou atualização de pagamentos e detalhes fiscais?
+    answer: >
+      Para obter informações detalhadas sobre como atualizar os dados de pagamento e impostos no Partner Center, consulte [Configurar a sua conta de pagamento e formulários fiscais.](set-up-your-payout-account.md)
+  - question: >
+      Por que não vejo as minhas inscrições quando vou atribuir o meu perfil de pagamento e perfil fiscal?
+    answer: >
+      Pode ser que não tenhas as permissões adequadas, ou que tenhas iniciado sessão com uma conta que não tenha essas permissões. Por exemplo, apenas os administradores de incentivo para a sua localização MPN podem criar ou gerir perfis de pagamento e impostos. Contacte o administrador da sua organização para gerir permissões bancárias e fiscais.
+  - question: >
+      Só posso assinar com o meu @onmicrosoft.com domínio. O que devo fazer?
+    answer: >
+      Contacte o administrador da conta para adicionar mais domínios à conta AAD.
+  - question: >
+      A minha organização está a participar em vários programas. Preciso de fornecer o meu pagamento e o meu perfil de impostos várias vezes?
+    answer: >
+      Depende das necessidades da sua organização. Os perfis de pagamento são criados a nível de organização, o que permite que o mesmo perfil bancário seja atribuído em vários IDs e programas de MPN dentro de uma organização. Na maioria dos casos, pode reutilizar um perfil existente ou criar um novo.
+
+
+      Pode haver exceções, no entanto, ao aplicar o perfil bancário a diferentes países ou regiões, pois poderão aplicar-se regras bancárias ou fiscais locais.
+
+
+      Os perfis fiscais criados para uma localização MPN são reutilizados e automaticamente povoados quando a mesma localização MPN participa em outro programa. Mas pode haver exceções. Por exemplo, as regras de pagamento de um novo programa de incentivos podem exigir detalhes adicionais para o perfil fiscal.
+  - question: >
+      Posso usar os mesmos dados bancários e fiscais para todos os programas de incentivo na Microsoft?
+    answer: >
+      Se a sua empresa for convidada para vários programas, poderá utilizar a mesma conta de pagamento para todos os seus programas, ou pode optar por ter diferentes contas de pagamento para os diferentes programas.
+  - question: >
+      Como é que a Microsoft garante que a informação bancária é, de facto, a da empresa e não uma conta bancária pessoal para um funcionário?
+    answer: >
+      É da responsabilidade da empresa assegurar que o papel dos administradores de incentivos - que tem as permissões para editar esta informação - seja apenas dado aos colaboradores adequados.
+  - question: >
+      O meu perfil de impostos expirou. Como posso corrigi-lo?
+    answer: >
+      Se um perfil fiscal estiver caducado ou prestes a expirar, significa que o formulário de imposto que forneceu à Microsoft precisa de ser atualizado. Utilize os seguintes passos para atualizar o seu perfil fiscal:
+
+
+      1. Inscreva-se no [painel partner center](https://partner.microsoft.com/dashboard/home)e, em seguida, selecione o ícone de engrenagem para abrir o menu **Definições.**
+
+      2. Selecione **as definições de Conta,** expanda a secção **de Pagamento e Imposto** e, em seguida, selecione Payout e **tax** profile.
+
+      3. Selecione perfil **de imposto**
+
+      4. Verifique a **data de validade** da coluna e navegue para o perfil fiscal que está caducado ou prestes a expirar.
+
+      5. **Selecione Editar** para lançar o processo de edição de perfil fiscal.
+
+      6. Na secção de formulários fiscais, forneça os detalhes atualizados.
+- name: Ganhos incorretos ou em falta
+  questions:
+  - question: >
+      Porque é que os meus ganhos estão em falta?
+    answer: >
+      - A encomenda do cliente talvez ainda não seja elegível para pagamento. Para pedidos de clientes não empresariais, a Microsoft tem de receber o pagamento do cliente antes de os ganhos do publicador ficarem elegíveis. Para encomendas de clientes empresariais, os seus ganhos estarão disponíveis 1-2 dias após a data da Nota de encomenda. Verifique o estado da Encomenda em [Relatórios de encomendas](https://partner.microsoft.com/dashboard/commercial-marketplace/analytics/order).
+
+      - Os ganhos de transações antes de julho de 2019 podem não ser mostrados no relatório do histórico de transações. Verifique as Declarações do Histórico em [Transferência de Pagamento](https://partner.microsoft.com/dashboard/payouts/reports/incentiveexport).
+
+      - Verifique o [prazo do ciclo de pagamento](payment-thresholds-methods-timeframes.md) e compreenda quando os seus ganhos devem aparecer na declaração de pagamento.
+  - question: >
+      Porque é que os meus ganhos são diferentes do que esperava?
+    answer: "- Se a encomenda foi parcialmente paga pelo seu cliente, o seu valor de ganho basear-se-á no valor parcialmente pago após a dedução da taxa e do imposto adequado.\n- Verifique a responsabilidade fiscal por país. Nos países onde o imposto é responsável pela Microsoft, a Microsoft recolhe e deduz o imposto dos ganhos dos editores. O montante da transação mostrado na declaração é após o montante do imposto. Veja [Detalhes fiscais](tax-details-marketplace.md).\n- As ofertas da SaaS e da IaaS têm uma taxa de agência descontada de 10% em vez dos 20% padrão, deixando uma taxa de ganhos de 90%. Este é um requisito de Co-Sell IP. Esta promoção está em vigor até 30 de junho de 2021. \n\n**Continuar a ler** [Acordo de Publisher de Mercado Comercial](/legal/marketplace/msft-publisher-agreement), [Detalhes da política de pagamento](payout-policy-details.md), limiar de [pagamento, método e prazo,](payment-thresholds-methods-timeframes.md) [Ser pago,](marketplace-get-paid.md) [Detalhes fiscais,](tax-details-marketplace.md) [declarações de pagamento](payout-statement.md)\n"
+- name: Reconciliação dos ganhos
+  questions:
+  - question: >
+      Como devo proceder para reconciliar as declarações de dividendos para relatórios de encomendas ou de utilização nas análises?
+    answer: >
+      Utilize o AssetID, o orderID e o ID do item de linha que aparece no relatório do histórico de transações de pagamento com ordens analíticas e relatórios de utilização. Utilize este mapeamento:
+
+
+      - Histórico de Transações de Dividendos.AssetID = order.OrderID
+
+      - Histórico de Transações de Dividendos.OrderID & LineItem = Usage.UsageReferenceID [OrderID:LineItemID]
+  - question: >
+      Como devo proceder para saber quando esperar pagamentos para as encomendas de clientes?
+    answer: >
+      - Em primeiro lugar, utilizando o seu activoID, consulte as encomendas de clientes nos [relatórios encomendas](https://partner.microsoft.com/dashboard/commercial-marketplace/analytics/order).
+
+      - Verifique o canal de cliente para a subscrição do seu cliente no [relatório de clientes.](https://partner.microsoft.com/dashboard/commercial-marketplace/analytics/customer)
+
+      - Para os clientes empresariais, os ganhos dos editores aparecem no comunicado 1-2 dias após a data da Encomenda de Compra.
+
+      - Para clientes não empresariais, os ganhos dos editores aparecem no comunicado 1-2 dias após o pagamento do cliente.
+
+
+      **Continuar a ler** [Declarações de pagamento](payout-statement.md), Dashboard de encomendas em análise de mercado [comercial](/azure/marketplace/partner-center-portal/orders-dashboard)
+- name: Pagamentos e ajustamentos
+  questions:
+  - question: >
+      Porque é que o meu pagamento está em falta?
+    answer: >
+      - Certifique-se de que o seu estado de pagamento e o estado do perfil do imposto são apresentados como *válidos* na [página geral.](https://partner.microsoft.com/dashboard/commercial-marketplace/overview)
+
+      - Pode não ter cumprido o limiar mínimo para um pagamento. Os ganhos têm ser de, pelo menos, 50 USD para receber um pagamento.
+  - question: >
+      Como posso definir a minha conta para não receber o pagamento?
+    answer: >
+      Pode realizar pagamentos no [Perfil de Pagamento.](https://partner.microsoft.com/dashboard/commercial-marketplace/overview) Para isso, verifique **Hold** e a Microsoft irá reter o pagamento até que liberte o porão.
+  - question: >
+      Porque recebo numa moeda diferente da moeda de compra?
+    answer: >
+      A moeda de pagamento é baseada na moeda selecionada no perfil de pagamento. A moeda de compra é baseada na moeda paga pelo cliente.
+  - question: >
+      Como faço a reconciliação de ajustes?
+    answer: >
+      Os ajustes de pagamento são correções de pagamento para acomodar os ajustes de compensação, como problemas do sistema. Na declaração de pagamento, o ReasonCode especifica o motivo do ajuste. Estes não se destinam a reconciliar-se diretamente com transações individuais.
+
+
+      **Continuar a ler** [Acordo de Publisher de Mercado Comercial](/legal/marketplace/msft-publisher-agreement), [Detalhes da política de pagamento,](payout-policy-details.md) [detalhes fiscais,](tax-details-marketplace.md) [limiar de pagamento, método e prazo](payment-thresholds-methods-timeframes.md)
+- name: Impostos
+  questions:
+  - question: >
+      Como identificamos a responsabilidade da Cobrança de Impostos entre a Microsoft ou o Publicador na declaração de pagamento?
+    answer: >
+      Na transferência do histórico de transações, localize a coluna Modelo de imposto. Deste modo, mostra Gerido pela MS ou Gerido pelo ISV. Veja as regras de impostos específicas do país e implicações de pagamento em [Detalhes do imposto](tax-details-marketplace.md).
+  - question: >
+      Como transfiro formulários do Imposto da Tarifa de Serviço?
+    answer: >
+      Aceda à página **Pagamentos** e, em seguida, à secção **Lista de Pagamentos**. Uma ligação para o formulário do imposto da Tarifa de Serviço é apresentado para um pagamento que tem o Imposto da Tarifa de Serviço.
+  - question: >
+      Onde encontro os formulários de imposto de fim de ano?
+    answer: >
+      Aceda à [página Perfil](https://partner.microsoft.com/dashboard/payee/profiles/partner/manage) para ver os seus formulários de imposto de fim de ano.
+  - question: >
+      Como fazer localizar a Retenção de imposto de uma transação?
+    answer: >
+      A retenção de imposto é aplicável a publicadores norte-americanos que preencheram um formulário W-9. A retenção de imposto é calculada com base num pagamento mensal.
+
+
+      **Continuar a ler** [Acordo de Publisher de Mercado Comercial,](/legal/marketplace/msft-publisher-agreement) [Detalhes da política de pagamento](payout-policy-details.md)
+- name: Acesso a declaração de pagamento
+  questions:
+  - question: >
+      Como devo proceder para aceder a uma declaração de pagamento?
+    answer: "1. Verifique as funções. Tem de ter a função de *contribuidor financeiro* ou de *proprietário da conta* para aceder à declaração de pagamento.\n2. Na navegação superior direita, selecione o ícone **Payout** para ver a sua declaração de pagamento. Escolha entre **Histórico de Transações,** **Pagamento** e **Download.**\n\n**Continuar a ler** [Funções e permissões de pagamento,](payout-statement.md#roles-and-permissions) [declarações de pagamento](payout-statement.md) \n"
+- name: Relatório de declaração de pagamento
+  questions:
+  - question: >
+      O que significa cada campo na transferência da transação?
+    answer: >
+      Consulte [as declarações de Payout](payout-statement.md) para obter uma lista detalhada dos atributos e dos seus significados.
+  - question: >
+      Qual é o estado dos ganhos?
+    answer: >
+      Isto mostra os seus ganhos como não processados, processados ou enviados.
+
+
+      - **Não processados** – os ganhos estão em período de caução até à data de vencimento.
+
+      - **Processado** – Os ganhos amadureceram e estão preparados para um pagamento mensal. Os pagamentos são liberados até dia 15 de cada mês.
+
+      - **Enviado** – O pagamento foi liberado com sucesso para o seu banco com base no seu perfil de pagamento.
+  - question: >
+      Como transfiro formulários do Imposto da Tarifa de Serviço?
+    answer: >
+      Aceda à página **Pagamentos** e, em seguida, à secção **Lista de Pagamentos**. Uma ligação para o formulário do imposto da Tarifa de Serviço é apresentado para um pagamento que tem o Imposto da Tarifa de Serviço.
+  - question: >
+      Como faço o download de um formulário de retenção na fonte em PDF?
+    answer: >
+      Aceda à página **Pagamentos** e, em seguida, à secção **Lista de Pagamentos**. Uma ligação para um formulário de imposto retido é apresentado junto a um pagamento. Um formulário de retenção na fonte aplica-se apenas a programas de incentivo selecionados, e não a um pagamento de mercado comercial.
+  - question: >
+      Onde encontro os formulários de imposto de fim de ano?
+    answer: >
+      Aceda à [página Perfil](https://partner.microsoft.com/dashboard/payee/profiles/partner/manage) para ver os seus formulários de imposto de fim de ano.
+
+
+      **Continuar a ler** [Declarações de pagamento,](payout-statement.md) [download do histórico de transações](payout-statement.md#transaction-history-download)
+- name: Declarações históricas
+  questions:
+  - question: >
+      Como vejo informação histórica?
+    answer: >
+      A declaração do histórico mostrará o instantâneo dos dados de pagamento a partir de outubro de 2019. Infelizmente, a informação sobre o pagamento aqui não se atualiza. Para receber as últimas informações, envie um bilhete de apoio para os dados mais recentes.
+
+
+      **Continuar a ler** [Declarações de pagamento,](payout-statement.md) [download do histórico de transações](payout-statement.md#transaction-history-download)
+- name: Pagamento exportar API
+  questions:
+  - question: >
+      Como transfiro dados de pagamento?
+    answer: >
+      Utilize a [API de Pagamento de Parceiros.](https://apidocs.microsoft.com/services/partnerpayouts)
+- name: Políticas de pagamento de mercado comercial
+  questions:
+  - question: >
+      Como devo proceder para encontrar a tarifa da agência atual e a taxa de dividendos?
+    answer: >
+      - Verifique o Contrato do Editor do marketplace comercial. A tarifa da agência padrão é de 20%. As transações elegíveis da SaaS têm uma taxa descontada de 10%. Verifique se existem anúncios de tarifas promocionais da agência.
+
+      - Na sua demonstração de pagamento, a Taxa de Ganhos especifica a taxa de pagamento real para uma determinada transação.
+  - question: >
+      Quando posso esperar um pagamento da Microsoft, assim que os ganhos aparecerem na minha declaração?
+    answer: >
+      - Assim que os ganhos estiverem no estado não processado, pode verificar a data de vencimento referente ao mês em que os ganhos serão processados para pagamento. Uma vez preparado o seu pagamento, o seu estado de ganho mudará para "processado".  A Microsoft lança os pagamentos no 15º dia do mês de vencimento.
+
+      - Para encomendas pagas com cartão de crédito, a Microsoft detém pagamentos de 30 dias até que o ganho seja amadurecido.
+
+       **Continuar a ler** [Acordo de Publisher de Mercado Comercial](/legal/marketplace/msft-publisher-agreement), [Detalhes da política de pagamento,](payout-policy-details.md) [detalhes fiscais,](tax-details-marketplace.md) [limiar de pagamento, método e prazo](payment-thresholds-methods-timeframes.md)
+additionalContent: "\n## <a name=\"next-steps\"></a>Passos seguintes\n\n- [Receber o pagamento](marketplace-get-paid.md)\n- [Configurar a conta de dividendos e os formulários fiscais](set-up-your-payout-account.md)"
