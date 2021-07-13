@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 07/09/2021
-ms.openlocfilehash: 81b687e6c1f5fe1f35fc12f7dbb53e76416b5005
-ms.sourcegitcommit: 285c0007cb2c2e26ff6a3d2fd6bf91edc82a3946
+ms.openlocfilehash: d44ea9cd6c39954a1299344634d22fd1d31ec773
+ms.sourcegitcommit: a09a5f893e876de23a8aa5c0d637e50c5be84941
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "113648370"
+ms.lasthandoff: 07/13/2021
+ms.locfileid: "113684275"
 ---
 # <a name="partner-center-announcements"></a>Anúncios do Centro de Parceiros
 
@@ -22,6 +22,7 @@ Saiba mais sobre atualizações importantes do Centro de Parceiros. Estas inform
 
 |**Categoria**|**Anúncios de julho de 2021**|**Anunciado**|
 |---------|:---------|:---------|
+|Capacidades|[Software na Microsoft China Corporation Limited (MCCL) Fornecedor de Soluções em Nuvem (CSP) e mudança de licença aberta](2021-july.md#9)| 13 de julho |
 |Preparação|[Alterações à Fornecedor de Soluções em Nuvem (CSP) validação de endereço de cliente API para entrar em direto no dia 13 de julho de 2021](2021-july.md#8)| 12 de julho |
 |Capacidades|[Atualização e lembretes da comunidade Fornecedor de Soluções em Nuvem de julho (CSP)](2021-july.md#7)| 12 de julho |
 |Capacidades|[Mantenha as certificações microsoft ativas com a ajuda do Partner Center](2021-july.md#6)| 9 de julho |

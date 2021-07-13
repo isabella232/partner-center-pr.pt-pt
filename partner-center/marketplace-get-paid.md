@@ -1,18 +1,18 @@
 ---
 title: Ser pago no Partner Center
-description: Saiba como receber pagamentos por ganhos como parceiro da Microsoft, como por exemplo através de ofertas de marketplace comercial, programas de incentivo e o programa Cloud Solution Provider. Inclui política de pagamento, estatuto de detenção de pagamento e declarações de pagamento.
+description: Saiba como receber pagamentos por ganhos como parceiro da Microsoft, como por exemplo através de ofertas de marketplace comercial, programas de incentivo e o programa Fornecedor de Soluções em Nuvem. Inclui política de pagamento, estatuto de detenção de pagamento e declarações de pagamento.
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
 ms.date: 11/25/2020
 author: eunjkim520
 ms.author: eunjkim
-ms.openlocfilehash: 3dc8b728ef20da77b9a6d2a925ebb0388ea53837
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: cc01a1aada6c6665d3fd8f6efc6e5ef873736bdc
+ms.sourcegitcommit: a09a5f893e876de23a8aa5c0d637e50c5be84941
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110146498"
+ms.lasthandoff: 07/13/2021
+ms.locfileid: "113684394"
 ---
 # <a name="getting-paid-in-partner-center"></a>Ser pago no Partner Center
 
@@ -24,10 +24,10 @@ Este artigo tem informações importantes sobre receber pagamento pelas suas ofe
 
 Ser pago requer que cumpra os acordos e a política de pagamentos.
 
-- [Microsoft Azure Marketplace Publisher Agreement](/legal/marketplace/msft-publisher-agreement): Antes de ser pago, você deve aceitar este acordo de editor. Este acordo explica a relação entre si e a Microsoft, uma vez que diz respeito às ofertas de vendedores no mercado comercial, incluindo a taxa de loja que a Microsoft cobra por cada venda feita.
+- [Microsoft Azure Acordo de Publisher do Mercado:](/legal/marketplace/msft-publisher-agreement)Antes de ser pago, tem de aceitar este acordo de editor. Este acordo explica a relação entre si e a Microsoft, uma vez que diz respeito às ofertas de vendedores no mercado comercial, incluindo a taxa de loja que a Microsoft cobra por cada venda feita.
 - [A política de pagamentos](payout-policy-details.md) mostra as políticas de pagamento, incluindo o calendário de pagamentos e os métodos de pagamento. A política também explica o processo de não pagamentos de clientes.
-- [Os detalhes fiscais](tax-details-marketplace.md) explicam a consideração fiscal para a seleção de preços e responsabilidade fiscal ao abrigo do [Microsoft Publisher Agreement](/legal/marketplace/msft-publisher-agreement).
-- **As taxas de** loja são oficialmente definidas no Acordo de Editor. A taxa da loja é aplicada a todas as vendas de ofertas recolhidas pelo mercado comercial, incluindo addons.
+- [Os detalhes fiscais](tax-details-marketplace.md) explicam a consideração fiscal para a seleção de preços e responsabilidade fiscal ao abrigo do [Acordo de Publisher microsoft](/legal/marketplace/msft-publisher-agreement).
+- **As taxas de** loja são oficialmente definidas no Acordo de Publisher. A taxa da loja é aplicada a todas as vendas de ofertas recolhidas pelo mercado comercial, incluindo addons.
 - **Os pagamentos** são efetuados mensalmente (desde que o limiar de pagamento tenha sido cumprido). Normalmente enviamos qualquer pagamento devido num dado mês até ao 15º dia desse mês. Os pagamentos geralmente demoram 3 a 10 dias úteis adicionais para chegar à sua conta de pagamento. Para mais informações, consulte [limiares de pagamento, métodos e prazos.](payment-thresholds-methods-timeframes.md)
 
 ## <a name="prerequisite-steps-before-getting-paid"></a>Passos pré-requisitos antes de ser pago
@@ -38,12 +38,12 @@ Antes de ser pago pela primeira vez, deve configurar a sua conta de pagamento e 
 
 Por padrão, enviaremos pagamentos mensalmente, conforme descrito acima. No entanto, pode colocar os seus pagamentos para um programa em espera, e a Microsoft não libertará os seus pagamentos na sua conta. Se optar por colocar os seus pagamentos em espera, continuaremos a registar quaisquer ganhos na página **de Pagamentos.** No entanto, não enviaremos quaisquer pagamentos para a sua conta até que remova o porão.
 
-Para colocar os seus pagamentos em espera, selecione o ícone de engrenagem **Definições** no topo-direito e, em seguida, **as definições de Conta**. Selecione **Payout e tax** no menu esquerdo, e na secção de atribuição de pagamento e perfil **fiscal,** localize o programa para o qual você gostaria de pagamentos realizados. Selecione a caixa de verificação **Hold my Payment** para guardar pagamentos para este programa. Pode alterar o seu estado de detenção a qualquer momento, mas a sua decisão afetará o próximo pagamento mensal. Por exemplo, se quiser realizar o pagamento de abril, certifique-se de definir o seu estado de detenção de pagamento para **On** antes do final de março.
+Para colocar os seus pagamentos em espera, selecione o ícone de engrenagem **Definições** no topo direito e, em seguida, **as definições de Conta**. Selecione **Payout e tax** no menu esquerdo, e na secção de atribuição de pagamento e perfil **fiscal,** localize o programa para o qual você gostaria de pagamentos realizados. Selecione a caixa de verificação **Hold my Payment** para guardar pagamentos para este programa. Pode alterar o seu estado de detenção a qualquer momento, mas a sua decisão afetará o próximo pagamento mensal. Por exemplo, se quiser realizar o pagamento de abril, certifique-se de definir o seu estado de detenção de pagamento para **On** antes do final de março.
 
 Uma vez definido o seu estado de detenção de pagamento para **On,** todos os pagamentos para este programa estarão em espera até que você limpe a caixa de verificação para **Off**. Quando o fizer, será incluído durante o próximo ciclo mensal de pagamento (desde que o limiar de pagamento tenha sido cumprido). Se já teve os seus pagamentos em espera, mas gostaria de ter um pagamento gerado em junho, então limpe a caixa de verificação para **off** antes do final de maio.
 
 >[!Note]
-> O seu estado de detenção de Payout aplica-se individualmente a cada programa (Microsoft Store, publicidade, Azure Marketplace, e assim por diante). Se desejar realizar pagamentos para todos os seus programas, guarde o pagamento em cada programa individualmente.
+> O seu estatuto de detenção de Payout aplica-se individualmente a cada programa (Microsoft Store, publicidade, Azure Marketplace, e assim por diante). Se desejar realizar pagamentos para todos os seus programas, guarde o pagamento em cada programa individualmente.
 
 ## <a name="payout-statements"></a>Declaração de dividendos
 
@@ -52,4 +52,4 @@ O depoimento do pagamento mostra os seus ganhos com as vendas das suas ofertas e
 ## <a name="next-steps"></a>Passos seguintes
 
 - [API de Pagamentos de Parceiros](https://apidocs.microsoft.com/services/partnerpayouts)
-- [FAQ sobre dividendos](payout-faq.md)
+- [FAQ sobre dividendos](payout-faq.yml)

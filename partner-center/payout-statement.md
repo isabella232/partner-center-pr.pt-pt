@@ -7,12 +7,12 @@ ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 3/22/2021
-ms.openlocfilehash: 4dac00e420b8787d2c8f67072a45bc29cbe7a645
-ms.sourcegitcommit: e2256e60cd2d4d41b3653655e3b1931292234283
+ms.openlocfilehash: b905d422b10e0b82225966fa5379283ea0b83a69
+ms.sourcegitcommit: a09a5f893e876de23a8aa5c0d637e50c5be84941
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/11/2021
-ms.locfileid: "113599794"
+ms.lasthandoff: 07/13/2021
+ms.locfileid: "113684020"
 ---
 # <a name="payout-statements"></a>Declaração de dividendos
 
@@ -83,7 +83,7 @@ Esta visão mostra detalhes de ganhos, incluindo a origem do ganho do produto ve
     - **Enviados** – Os ganhos foram pagos.
 - **Mês estimado de pagamento** – O mês em que os ganhos deverão ser pagos. Consulte a [secção seguinte](#estimated-payment-month) para mais informações.
 
-As transações de ganhos são mostradas assim que a transação satisfaz a elegibilidade do pagamento. Para entender por que pode ter ganhos em falta ou inesperados, consulte [questões comuns sobre pagamentos de mercado comercial.](payout-faq.md#why-are-my-earnings-missing)
+As transações de ganhos são mostradas assim que a transação satisfaz a elegibilidade do pagamento. Para entender por que pode ter ganhos em falta ou inesperados, consulte [questões comuns sobre pagamentos de mercado comercial.](payout-faq.yml#why-are-my-earnings-missing-)
 
 #### <a name="estimated-payment-month"></a>Mês estimado de pagamento
 
@@ -247,7 +247,7 @@ A **tabela lista de pagamentos** mostra pagamentos pagos e pendentes. Você pode
 - **Imposto sobre a taxa de serviço (formulário PDF)** – Disponível para os pagamentos sujeitos ao imposto sobre a taxa de serviço. Os impostos sobre a taxa de serviço são indicados em **Outros impostos.**
 - **Ver** – Redirecionamentos para o histórico de transações com uma lista de ganhos incluídos no pagamento.
 
-Para entender por que pode ter ganhos em falta ou inesperados, consulte [questões comuns sobre pagamentos de mercado comercial.](payout-faq.md#why-are-my-earnings-missing)
+Para entender por que pode ter ganhos em falta ou inesperados, consulte [questões comuns sobre pagamentos de mercado comercial.](payout-faq.yml#why-are-my-earnings-missing-)
 
 ### <a name="payment-status"></a>Estado dos pagamentos
 
@@ -321,7 +321,7 @@ O resumo **dos dados relativos** às exportações também dá acesso a declara�
 
 A tabela seguinte explica cada coluna numa declaração histórica.
 
-| Nome do campo | Description |
+| Nome do campo | Descrição |
 | --- | --- |
 | Fonte de Receitas | A fonte da sua receita com base no local onde ocorreu a transação, como Microsoft Store, Windows Phone Store, Windows Store 8 ou publicidade |
 | ID da Encomenda | Identificador de ordem único. Este ID permite identificar transações de compra com as respetivas transações não-compra, tais como reembolsos ou reembolsos. Ambos terão a mesma identificação de encomenda. Além disso, se houver uma taxa dividida em que foram utilizados vários métodos de pagamento para uma única compra, permite-lhe ligar as transações de compra. |

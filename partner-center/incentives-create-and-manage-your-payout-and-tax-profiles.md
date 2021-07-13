@@ -8,12 +8,12 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: b167b0e65f3339a29f0227f6135ed70931300d8e
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: a6d578c2ad09e1f8bb03f520d659f1a9b1e199a9
+ms.sourcegitcommit: a09a5f893e876de23a8aa5c0d637e50c5be84941
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110152159"
+ms.lasthandoff: 07/13/2021
+ms.locfileid: "113684258"
 ---
 # <a name="create-and-manage-incentives-payout-and-tax-profiles-in-partner-center"></a>Criar e gerir incentivos no pagamento e perfis fiscais no Partner Center
 
@@ -29,7 +29,7 @@ Para receber o pagamento pelos seus programas de incentivos para uma determinada
 
 Você deve ser um Incentivo Admin para inserir informação bancária e fiscal para pagamentos de incentivos. Se for um ADMINISTRADOR MPN/Conta, pode atribuir-se a si próprio e/ou a um colega para ser o Administrador de Incentivos.
 
-Se precisar de solicitar permissões de Administração de Incentivos, contacte o seu MPN Admin ou a Global Admin. Pode descobrir quem na sua empresa tem estas funções ao inscrever-se no [painel de instrumentos](https://partner.microsoft.com/dashboard/)do Partner Center. A partir do ícone **Definições** no topo direito, selecione **Gestão do Utilizador** e, em seguida, filtre no Administrador Global.
+Se precisar de solicitar permissões de Administração de Incentivos, contacte o seu MPN Admin ou a Global Admin. Pode descobrir quem na sua empresa tem estas funções ao inscrever-se no [painel de instrumentos](https://partner.microsoft.com/dashboard/)do Partner Center. A partir do ícone **Definições** no topo direito, selecione **Gestão do Utilizador** e, em seguida, filtre no Global Admin.
 
 Incentivos Os utilizadores podem ver os ganhos de incentivo e os detalhes e relatórios de pagamento, mas não podem editar detalhes bancários e fiscais.
 
@@ -50,7 +50,7 @@ As secções abaixo irão acompanhar-te através do processo de criação e gest
 
 ## <a name="access-the-payout-and-tax-section-in-partner-center"></a>Aceda à secção de pagamentos e impostos no Partner Center
 
-1. Inscreva-se no painel de [instrumentos](https://partner.microsoft.com/dashboard/) do Partner Center utilizando a sua conta Azure Ative (Azure AD) (conta da empresa) ou o endereço de e-mail apropriado se um for atribuído.
+1. Inscreva-se no painel de [instrumentos](https://partner.microsoft.com/dashboard/) do Partner Center utilizando a sua conta de Azure Ative Directory (Azure AD) (conta da empresa) ou o endereço de e-mail apropriado se um for atribuído.
 
    - Vários domínios podem ser registados dentro de uma conta AD Azure. Contacte o seu administrador Global para determinar quais os domínios associados.
    - Se só conseguir iniciar scontabilidade com o @onmicrosoft.com domínio e precisar de domínios adicionais, contacte o administrador da conta para adicionar domínios adicionais à conta Azure AD.
@@ -62,7 +62,7 @@ As secções abaixo irão acompanhar-te através do processo de criação e gest
 
 ## <a name="assign-payout-and-tax-profiles-to-individual-programs"></a>Atribuir perfis de pagamento e impostos a programas individuais
 
-1. Inscreva-se no [painel de instrumentos Partner Center](https://partner.microsoft.com/dashboard/)e, em seguida, selecione o ícone de engrenagem para abrir o menu **Definições.** 
+1. Inscreva-se no [painel partner center](https://partner.microsoft.com/dashboard/)e, em seguida, selecione o ícone de engrenagem para abrir o menu **Definições.** 
 
 2. Selecione **as definições de Conta,** expanda a **secção de Pagamento e Imposto**, e, em seguida, selecione Payout e tax profile **assignment**. 
    
@@ -99,9 +99,9 @@ As secções abaixo irão acompanhar-te através do processo de criação e gest
 
 ## <a name="set-up-a-default-bank-profile"></a>Configurar um perfil bancário predefinido
 
-Pode configurar perfis bancários predefinidos e atribuí-los a localizações de MPN. Estes perfis predefinidos serão utilizados pela Microsoft para posteriores inscrições para essa localização MPN. 
+Pode configurar perfis bancários predefinidos e atribuí-los a localizações do MPN. Estes perfis predefinidos serão utilizados pela Microsoft para posteriores inscrições para essa localização do MPN. 
 
-1. Inscreva-se no [painel de instrumentos Partner Center](https://partner.microsoft.com/dashboard/)e, em seguida, selecione o ícone de engrenagem para abrir o menu **Definições.**   
+1. Inscreva-se no [painel partner center](https://partner.microsoft.com/dashboard/)e, em seguida, selecione o ícone de engrenagem para abrir o menu **Definições.**   
 
 2. Selecione **as definições de Conta,** expanda a secção **de Pagamento e Imposto** e, em seguida, selecione Payout e tax **profiles**. 
 
@@ -176,7 +176,7 @@ Para empresas parceiras nas Américas, se necessitar de informações sobre o pr
  
 ## <a name="update-expired-tax-profiles"></a>Atualizar perfis de impostos caducados
 
-1. Inscreva-se no [painel de instrumentos Partner Center](https://partner.microsoft.com/dashboard/)e, em seguida, selecione o ícone de engrenagem para abrir o menu **Definições.**
+1. Inscreva-se no [painel partner center](https://partner.microsoft.com/dashboard/)e, em seguida, selecione o ícone de engrenagem para abrir o menu **Definições.**
 
 1. Selecione **as definições de Conta,** expanda a secção **de Pagamento e Imposto** e, em seguida, selecione Payout e tax **profile**.
 
@@ -190,4 +190,4 @@ Para empresas parceiras nas Américas, se necessitar de informações sobre o pr
 
 ## <a name="next-steps"></a>Passos seguintes
 
-- [Questões comuns sobre pagamentos e impostos](payout-faq.md)
+- [Questões comuns sobre pagamentos e impostos](payout-faq.yml)
