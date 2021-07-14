@@ -273,7 +273,7 @@
     - name: Introdução aos incentivos
       items:
         - name: FAQ sobre incentivos
-          href: incentives-faq.md
+          href: incentives-faq.yml
           displayName: mpn
         - name: Introdução aos incentivos
           href: incentives-get-started-intro.md

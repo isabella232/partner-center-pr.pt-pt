@@ -8,12 +8,12 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/15/2020
-ms.openlocfilehash: 5aead530797d8d122ea871a693c774439b412171
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 32b7575e0110eba8c04e971845f54ca71bfb45c5
+ms.sourcegitcommit: d1deaeb1703cf2c25119037c5fb624c44fca74b4
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110146719"
+ms.lasthandoff: 07/14/2021
+ms.locfileid: "113753362"
 ---
 # <a name="the-10-essentials-for-working-with-incentives"></a>Os 10 essenciais para trabalhar com incentivos
 
@@ -37,11 +37,11 @@ Quase todos os atrasos de pagamento ou outras interrupções no processo de ince
 
 ## <a name="4-learn-about-roles-and-permissions"></a>4. Conheça as funções e permissões
 
-É importante ter uma compreensão sólida dos papéis e permissões envolvidos com o programa de incentivos. Assim que fizeres isto, podes decidir que papéis devem ser atribuídos às pessoas da tua empresa. Para saber mais, veja [quais as funções de utilizador disponíveis?](incentives-faq.md#what-user-roles-are-available)
+É importante ter uma compreensão sólida dos papéis e permissões envolvidos com o programa de incentivos. Assim que fizeres isto, podes decidir que papéis devem ser atribuídos às pessoas da tua empresa. Para saber mais, veja [quais as funções de utilizador disponíveis?](incentives-faq.yml#what-user-roles-are-available-)
 
 ## <a name="5-review-the-incentives-faq"></a>5. Rever os incentivos FAQ
 
-Obtenha respostas para perguntas de incentivos comuns antes mesmo de as fazer. Atualizamos frequentemente os incentivos FAQ utilizando informações do Microsoft Support e comunicação direta com parceiros. Pode ver as FAQ [aqui.](incentives-faq.md)
+Obtenha respostas para perguntas de incentivos comuns antes mesmo de as fazer. Atualizamos frequentemente os incentivos FAQ utilizando informações do Microsoft Support e comunicação direta com parceiros. Pode ver as FAQ [aqui.](incentives-faq.yml)
 
 ## <a name="6-confirm-your-program-eligibility"></a>6. Confirme a elegibilidade do seu programa
 
