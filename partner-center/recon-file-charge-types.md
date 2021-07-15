@@ -9,16 +9,16 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5a1f45de59fc9dac6a443bb8a14c3a80b36ba3f7
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 10438ba30c6eb5ba5b1daef1ad16521f1f8e77c6
+ms.sourcegitcommit: 70b8ebbe0d431c7a13529f9eabd1b24f40108a46
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855884"
+ms.lasthandoff: 07/14/2021
+ms.locfileid: "113989779"
 ---
 # <a name="understand-the-different-charge-types-in-partner-center-reconciliation-files"></a>Compreenda os diferentes tipos de carga nos ficheiros de reconciliação do Partner Center
 
-**Aplica-se a**: Partner Center | Centro de Parceiros para Microsoft Cloud para governo dos EUA
+**Aplica-se a**: Partner Center | Centro de Parceiros para Microsoft Cloud for US Government
 
 **Funções adequadas**: Agente administrador | Administrador de faturação | Administração global
 
@@ -31,7 +31,7 @@ Tanto os [ficheiros de reconciliação baseados na utilização](usage-based-rec
 
 ## <a name="map-charge-types-to-invoice-charges"></a>Tipos de carga de mapa para cobrar faturas
 
-Para cruzar os valores de carga entre a sua fatura e o ficheiro de reconciliação, utilize as opções de filtro no Microsoft Excel. Filtrar por tipos de carga no seu ficheiro de reconciliação para mapear os encargos da fatura para um conjunto de avarias de carga no ficheiro de reconciliação.
+Para cruzar os valores de taxa entre a sua fatura e o ficheiro de reconciliação, utilize as opções do filtro em Microsoft Excel. Filtrar por tipos de carga no seu ficheiro de reconciliação para mapear os encargos da fatura para um conjunto de avarias de carga no ficheiro de reconciliação.
 
 ## <a name="license-based-charges"></a>Encargos baseados em licença
 
@@ -58,11 +58,13 @@ Para mapear estes encargos únicos para a sua fatura, em suma a coluna **Valor**
 
 | Descrição da carga (coluna ChargeType no ficheiro de reconciliação) | Explicação de cobrança |
 | ------------------------------------------------------------- | ------------------ |
-| Novo | Usado quando uma nova compra é criada. |
+| novo | Usado quando uma nova compra é criada. |
+| renew | Usado quando uma subscrição é renovada após o fim do termo. |
 | adicionarQuantity | Utilizado tanto no reembolso da compra original como na nova quantidade após um aumento. |
 | removerQuantidade | Utilizado tanto no reembolso da compra original como na nova quantidade após uma diminuição. |
-| Cancelar | Usado quando uma subscrição é cancelada. |
-| Converter | Usado quando uma licença é atualizada, mas o número de licenças permanece inalterado. |
+| cancelImmediate | Usado quando uma subscrição é cancelada. |
+| converter | Usado quando uma licença é atualizada. |
+| créditoCredit | Utilizados quando os créditos (por exemplo, Azure, SLA, etc.) são concedidos contra uma transação. |
 
 ## <a name="usage-charges"></a>Custos de utilização
 

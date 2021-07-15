@@ -4,15 +4,15 @@ description: Saiba como receber pagamentos por ganhos como parceiro da Microsoft
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
-ms.date: 11/25/2020
+ms.date: 07/12/2021
 author: eunjkim520
 ms.author: eunjkim
-ms.openlocfilehash: cc01a1aada6c6665d3fd8f6efc6e5ef873736bdc
-ms.sourcegitcommit: a09a5f893e876de23a8aa5c0d637e50c5be84941
+ms.openlocfilehash: 99cc0172f9cb1e09bdc77bbd9187ad2452c19c61
+ms.sourcegitcommit: 207c86406e56346d01d85ce50ea494c0c293519a
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/13/2021
-ms.locfileid: "113684394"
+ms.lasthandoff: 07/14/2021
+ms.locfileid: "113798141"
 ---
 # <a name="getting-paid-in-partner-center"></a>Ser pago no Partner Center
 
@@ -27,7 +27,7 @@ Ser pago requer que cumpra os acordos e a política de pagamentos.
 - [Microsoft Azure Acordo de Publisher do Mercado:](/legal/marketplace/msft-publisher-agreement)Antes de ser pago, tem de aceitar este acordo de editor. Este acordo explica a relação entre si e a Microsoft, uma vez que diz respeito às ofertas de vendedores no mercado comercial, incluindo a taxa de loja que a Microsoft cobra por cada venda feita.
 - [A política de pagamentos](payout-policy-details.md) mostra as políticas de pagamento, incluindo o calendário de pagamentos e os métodos de pagamento. A política também explica o processo de não pagamentos de clientes.
 - [Os detalhes fiscais](tax-details-marketplace.md) explicam a consideração fiscal para a seleção de preços e responsabilidade fiscal ao abrigo do [Acordo de Publisher microsoft](/legal/marketplace/msft-publisher-agreement).
-- **As taxas de** loja são oficialmente definidas no Acordo de Publisher. A taxa da loja é aplicada a todas as vendas de ofertas recolhidas pelo mercado comercial, incluindo addons.
+- **As taxas de** loja são oficialmente fornecidas nas [Taxas de Mercado Comercial.](/azure/marketplace/marketplace-commercial-transaction-capabilities-and-considerations)
 - **Os pagamentos** são efetuados mensalmente (desde que o limiar de pagamento tenha sido cumprido). Normalmente enviamos qualquer pagamento devido num dado mês até ao 15º dia desse mês. Os pagamentos geralmente demoram 3 a 10 dias úteis adicionais para chegar à sua conta de pagamento. Para mais informações, consulte [limiares de pagamento, métodos e prazos.](payment-thresholds-methods-timeframes.md)
 
 ## <a name="prerequisite-steps-before-getting-paid"></a>Passos pré-requisitos antes de ser pago
