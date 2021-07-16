@@ -3,18 +3,18 @@ metadata:
   title: Competências - perguntas frequentes
   ms.topic: article
   ms.date: 11/23/2020
-  description: Respostas sobre competências de ouro ou prata mpn, validade de benefícios, renovação ou ativação de licenças para Azure, cloud, Visual Studio, benefícios técnicos e de suporte.
+  description: Respostas sobre competências de ouro ou prata mpn, validade de benefícios, renovação ou ativação de licenças para Azure, cloud, Visual Studio, benefícios técnicos, de suporte.
   ms.service: partner-dashboard
   ms.subservice: partnercenter-mpn
   author: keramp88
   ms.author: keramp
   ms.localizationpriority: medium
-  ms.openlocfilehash: 18db609908e924ba2d968b0fec977163be88d9bc
-  ms.sourcegitcommit: 41e34d6c97a45e6f0b76d76a797398cd06665634
+  ms.openlocfilehash: 72a71aa5202738b6912d1c54330bb674b2f2e8ae
+  ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
   ms.translationtype: MT
   ms.contentlocale: pt-PT
-  ms.lasthandoff: 06/28/2021
-  ms.locfileid: "112989867"
+  ms.lasthandoff: 07/16/2021
+  ms.locfileid: "114373946"
 title: Competências - perguntas frequentes
 summary: >
   **Funções adequadas**: Administrador parceiro da MPN
@@ -55,23 +55,23 @@ sections:
       1. Para o topo da página Competências, localize e selecione a opção **de relatório de competências de descarregamento.**
 
 
-      Outros relatórios sobre as habilidades da sua organização também estão disponíveis na área de Partner Center Insights no Partner [Center.](partner-center-insights.md) Para visualizar estes relatórios, poderá ter de ser atribuído um papel específico de Insights do Observador de **Relatórios** ou do Visualizador de **Relatórios Executivos.** Poderá ter de pedir ao seu administrador parceiro mpn para lhe dar acesso a uma destas funções.
+      Outros relatórios sobre as habilidades da sua organização também estão disponíveis na área de [Informações do Partner Center](partner-center-insights.md) no Partner Center. Para visualizar estes relatórios, poderá ser-lhe atribuído um papel Informações específico do Observador de **Relatórios** ou do Visualizador de **Relatórios Executivos**. Poderá ter de pedir ao seu administrador parceiro mpn para lhe dar acesso a uma destas funções.
 
 
-      Veja os relatórios insights da seguinte forma:
+      Veja os relatórios Informações da seguinte forma:
 
 
       1. Inscreva-se no painel do Centro [de Parceiros](https://partner.microsoft.com/dashboard).
 
 
-      1. Selecione **Insights** do menu Partner Center, seguido de **habilidades da Organização.** Um menu menor aparece.
+      1. Selecione **Informações** do menu Partner Center, seguido de **competências da Organização.** Um menu menor aparece.
 
 
       1. Selecione **Training** ou **Microsoft Learn** a partir do menu.
 
-         - Selecione **Training** para ver um resumo das certificações, avaliações e exames da sua organização num determinado prazo. Para mais informações sobre este relatório, consulte [a Formação.](pci-training-dashboard.md)
+         - Selecione **Training** para ver um resumo das certificações, avaliações e exames da sua organização num determinado prazo. Para mais informações sobre este relatório, consulte [a Formação.](insights-training-dashboard.md)
 
-         - Selecione **o Microsoft Learn** para ver um resumo dos módulos e caminhos de aprendizagem completos da sua organização ao longo de um período de tempo específico. Para obter mais informações sobre este relatório, consulte [o relatório de análise da Microsoft Learn](ms-learn-analytics.md).
+         - Selecione **o Microsoft Learn** para ver um resumo dos módulos e caminhos Aprendizagem concluídos da sua organização ao longo de um período de tempo específico. Para obter mais informações sobre este relatório, consulte [o relatório de análise da Microsoft Learn](ms-learn-analytics.md).
   - question: >
       Quanto tempo demora a ver as últimas avaliações dos utilizadores no Relatório de Competências do Utilizador do Centro de Parceiros?
     answer: >
@@ -113,5 +113,5 @@ sections:
 
       >
 
-      > Apenas os dados dos últimos 12 meses serão considerados para o cálculo do desempenho, habilidade ou outros requisitos relacionados com uma competência. Para saber mais sobre cálculos de desempenho para competências como a competência cloud business applications, consulte [Indicadores de Contribuição de Parceiros](partner-contribution-indicators.md).
-additionalContent: "\n## <a name=\"next-steps\"></a>Passos seguintes\n   - Conheça as [competências da MPN](learn-about-competencies.md)\n   - Saiba mais sobre [relatórios do Partner Center Insights](partner-center-insights.md)"
+      > Apenas os dados dos últimos 12 meses serão considerados para o cálculo do desempenho, habilidade ou outros requisitos relacionados com uma competência. Para saber mais sobre cálculos de desempenho para competências como a Competência Cloud Business Applications, consulte [Indicadores de Contribuição de Parceiros](partner-contribution-indicators.md).
+additionalContent: "\n## <a name=\"next-steps\"></a>Passos seguintes\n   - Conheça as [competências da MPN](learn-about-competencies.md)\n   - Conheça os [relatórios do Partner Center Informações](partner-center-insights.md)"
