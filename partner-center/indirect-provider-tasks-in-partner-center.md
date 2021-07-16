@@ -9,12 +9,12 @@ ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
 ms.date: 03/23/2021
-ms.openlocfilehash: ec673f7dcf620f055be58dc3a333575addcd6cd1
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: d72b7de4d1411b602e8a4c9ab69da5e643d3a560
+ms.sourcegitcommit: 9667763ae6eb405314dbb96bd4fa484ec964ab58
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277849"
+ms.lasthandoff: 07/15/2021
+ms.locfileid: "114224705"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Parceiro com revendedores indiretos no programa Fornecedor de Soluções Cloud
 
@@ -22,13 +22,13 @@ ms.locfileid: "112277849"
 
 Com um mercado tecnológico tão complexo e em rápida mudança, os clientes querem a vantagem competitiva que as soluções tecnológicas lhes podem dar. Neste clima, faz sentido que os parceiros invistam em compromissos parceiros para alargar as ofertas e permitir que os clientes façam ainda mais.
 
-Novos revendedores estão a entrar no mercado e a procurar formas de oferecer as suas soluções a clientes fora dos seus mercados e locais. Como fornecedor de tecnologia estabelecida, está bem posicionado para ser a sua rota para o mercado. Parceria com revendedores indiretos no programa Cloud Solution Provider (CSP) para se conectar com outros parceiros, trazer novas soluções para o mercado e antecipar a adoção dos serviços na nuvem pelos clientes.
+Novos revendedores estão a entrar no mercado e a procurar formas de oferecer as suas soluções a clientes fora dos seus mercados e locais. Como fornecedor de tecnologia estabelecida, está bem posicionado para ser a sua rota para o mercado. Parceria com revendedores indiretos no programa Fornecedor de Soluções em Nuvem (CSP) para se conectar com outros parceiros, trazer novas soluções para o mercado e antecipar a adoção dos serviços na nuvem pelos clientes.
 
 No modelo de revendedor de fornecedores indiretos (dois níveis), é parceira de revendedores indiretos para oferecer soluções de nuvem microsoft aos clientes. Você compra produtos e subscrições diretamente da Microsoft e, em seguida, oferece estas soluções aos clientes através dos seus revendedores.
 
 Como fornecedor indireto, utiliza o Centro de Parceiros para:
 
-- Conecte-se com revendedores indiretos que podem ajudar a expandir o seu alcance e base de clientes
+- Ligação com revendedores indiretos que podem ajudar a expandir o seu alcance e base de clientes
 
 - Estabeleça parcerias com revendedores indiretos que permitam que ambos sirvam clientes comuns
 
@@ -46,7 +46,7 @@ Complete os seguintes passos para estabelecer e gerir a sua parceria com revende
 
    - Para fazer alterações ao perfil de fornecedor indireto da sua empresa, contacte o representante da Microsoft.
 
-2. Conecte-se com revendedores indiretos
+2. Ligação com revendedores indiretos
 
    - Antes de poder interagir e transagir com revendedores, tem de estabelecer parcerias com eles no Centro de Parceiros.
 
@@ -61,7 +61,7 @@ Depois de completar estes passos, pode gerir as suas parcerias de revendedores n
 > [!IMPORTANT]
 > Antes de começar a trabalhar com revendedores, eles devem ser inscritos como revendedores indiretos no programa CSP e ter contas partner Center. Aponte os seus revendedores para [Partner com fornecedores indiretos em CSP](https://msdn.microsoft.com/partner-center/indirect-reseller-tasks-in-partner-center.md) para obter informações sobre a inscrição na CSP.
 
-## <a name="connect-with-indirect-resellers"></a>Conecte-se com revendedores indiretos
+## <a name="connect-with-indirect-resellers"></a>Ligação com revendedores indiretos
 
 Para interagir e transagir com revendedores indiretos no Centro de Parceiros, tem de estabelecer uma parceria com eles. Ter uma parceria com um revendedor indireto permite que você e o revendedor sirvam ambos clientes comuns.
 
@@ -96,7 +96,7 @@ Para as subscrições existentes, se decidir trabalhar com um revendedor indiret
 | **Para realizar isto** | **Faça isto** | **Onde** |
 |   ------------------   |   -------   |   -----   |
 | Capacitar o revendedor a gerir a conta de um cliente e ter permissões de administrador para gerir as suas subscrições | Associar um revendedor a uma conta de cliente ao adicionar um novo cliente | Na página do **novo cliente** |
-| Permitir ao revendedor gerir a conta de um cliente Azure|Associar um revendedor a uma conta de cliente da Azure ao adicionar um novo cliente|No portal de **serviçoS Azure**, selecione [Definições de Utilizador](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings) para dar permissão de proprietário de **inquilino** reencameiro indireto|
+| Permitir ao revendedor gerir a conta de um cliente Azure|Associar um revendedor a uma conta de cliente da Azure ao adicionar um novo cliente|No portal de **serviçoS Azure**, selecione [User Definições](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings) para dar permissão ao **inquilino** reencameiro indireto|
 | Dê ao revendedor crédito por incentivos | Associar o revendedor à subscrição (nova ou existente) | Na nova página **de subscrição** |
 | Delegar apoio ao cliente para subscrições específicas do revendedor | Selecione o revendedor na lista **de contactos de suporte designado** | Na página de pormenor da subscrição: Selecione o cliente da página **dos seus Clientes** e, em seguida, selecione a subscrição a partir da página de **Subscrições** do cliente |
 
@@ -166,7 +166,7 @@ Quando os clientes querem comprar novas subscrições, atualizar as existentes o
 
 Encontre respostas às suas perguntas sobre o Acordo de Parceiros da Microsoft
 
-- [Como os fornecedores indiretos podem ajudar os seus revendedores a adotar o Acordo de Parceiros da Microsoft - FAQ](mpa-indirect-provider-faq.md)
+- [Como os fornecedores indiretos podem ajudar os seus revendedores a adotar o Acordo de Parceiros da Microsoft - FAQ](mpa-indirect-provider-faq.yml)
 
 Para obter mais informações sobre a gestão de contas e subscrições de clientes, consulte:
 

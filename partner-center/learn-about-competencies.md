@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 74144defb1b5b5bfd0cf67c98e4b9401f22ea93d
-ms.sourcegitcommit: 41e34d6c97a45e6f0b76d76a797398cd06665634
+ms.openlocfilehash: ff9be32e88c839186ede4cc081aabf75a822a23d
+ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/28/2021
-ms.locfileid: "112989347"
+ms.lasthandoff: 07/16/2021
+ms.locfileid: "114373711"
 ---
 # <a name="differentiate-your-business-by-attaining-microsoft-competencies"></a>Diferenciar o seu negócio ao alcançar competências da Microsoft
 
@@ -49,9 +49,9 @@ Para adquirir competência de adesão à prata ou ao ouro, é-lhe pedido que dem
 |**Área**            |**Competência**                    |
 |--------------------|--------------------------------|
 |Aplicações e Infraestruturas| - Desenvolvimento de Aplicações<br/> - Integração de Aplicativos<br/> - Plataforma Cloud<br/> - DevOps<br/> - Datacenter |
-|Aplicações Empresariais | - Aplicações de negócios em nuvem</br> - Planeamento de Recursos Empresariais (ERP)</br> - Projeto e Portfólio |
+|Aplicações Empresariais | - Business Applications de nuvens</br> - Planeamento de Recursos Empresariais (ERP)</br> - Project e Portfólio |
 |Dados e IA| - Análise de Dados<br/> - Plataforma de Dados |
-|Local de trabalho moderno e segurança | - Colaboração e Conteúdo<br/> - Comunicações<br/> - Produtividade da Nuvem<br/> - Gestão da Mobilidade Empresarial (EMM)<br/> - Mensagens<br/> - Segurança<br/> - Soluções cloud pequenas e médias<br/> - Janelas e Dispositivos |
+|Local de trabalho moderno e segurança | - Colaboração e Conteúdo<br/> - Comunicações<br/> - Produtividade da Nuvem<br/> - Gestão da Mobilidade Empresarial (EMM)<br/> - Mensagens<br/> - Segurança<br/> - Soluções cloud pequenas e médias<br/> - Windows e Dispositivos |
 
 Os níveis de competência em prata e ouro têm requisitos diferentes para cada uma das áreas. Dentro de cada área estão as aulas e os exames que os colaboradores da sua empresa podem fazer para atingir o nível de competência que deseja. 
 
@@ -69,6 +69,6 @@ Para saber mais sobre o que é necessário para obter competências de prata e o
 
 - Saiba como pagar a [taxa](mpn-pay-fee-silver-gold-competency.md) associada a uma adesão de prata ou ouro.
 
-- Consulte um [relatório de competências](pci-competencies-report.md) do Partner Center Insights que mostra o estado atual das suas competências.
+- Consulte um relatório de [competências](insights-competencies-report.md) do Partner Center Informações que mostra o estado atual das suas competências.
 
 - Obtenha respostas para [perguntas frequentes](competencies-faq.yml) sobre competências.

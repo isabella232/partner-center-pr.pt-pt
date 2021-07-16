@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e5d73582d3cfe0aa19483526d9b77e55a4c7e0a0
-ms.sourcegitcommit: 70b8ebbe0d431c7a13529f9eabd1b24f40108a46
+ms.openlocfilehash: d9f9ce631fe667030638e1a9167809e3dae69830
+ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/14/2021
-ms.locfileid: "113989762"
+ms.lasthandoff: 07/16/2021
+ms.locfileid: "114373868"
 ---
 # <a name="use-microsoft-learn-analytics-reports"></a>Utilize relatórios de análise do Microsoft Learn
 
@@ -140,4 +140,4 @@ Para obter os detalhes de um aprendiz usando o ID do objeto do utilizador:
 Para mais relatórios, consulte [o Partner Center Informações](partner-center-insights.md).
 
 >[!NOTE] 
-> Pode descarregar os dados brutos que alimentam este relatório a partir da secção Relatórios de Descarregamento no painel de Informações. [Saiba mais](pci-download-reports.md) 
+> Pode descarregar os dados brutos que alimentam este relatório a partir da secção Relatórios de Descarregamento no painel de Informações. [Saiba mais](insights-download-reports.md) 

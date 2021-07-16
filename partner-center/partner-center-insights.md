@@ -1,5 +1,5 @@
 ---
-title: Insights do Centro Parceiro
+title: Centro de Parceiros Informações
 description: Explore este painel de relatórios unificado do Partner Center. Veja como está em KPI's para vendas e implementação, desenvolvimento de clientes, e muito mais.
 ms.topic: article
 ms.service: partner-dashboard
@@ -9,24 +9,24 @@ ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/26/2020
-ms.openlocfilehash: 05fad9c7eecbc8b7f639faa24b654fb0474245ca
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: a16cca546142d3a8091643607534697e0403fff9
+ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277628"
+ms.lasthandoff: 07/16/2021
+ms.locfileid: "114373748"
 ---
-# <a name="partner-center-insights---a-dashboard-that-shows-how-a-microsoft-commercial-partner-is-doing"></a>Partner Center Insights - um dashboard que mostra como um parceiro comercial da Microsoft está a fazer
+# <a name="partner-center-insights---a-dashboard-that-shows-how-a-microsoft-commercial-partner-is-doing"></a>Partner Center Informações - um dashboard que mostra como um parceiro comercial da Microsoft está a fazer
 
 **Funções adequadas**: Administração global | Administração de contas | | do espectador de relatório executivo Espectador de relatório
 
 ## <a name="introduction"></a>Introdução
 
-O dashboard Insights é um painel de reporte unificado no Partner Center para parceiros comerciais da Microsoft que estão inscritos no programa Microsoft Partner Network (MPN). O dashboard Insights fornece uma visão de 360 graus dos seus principais indicadores de desempenho (KPI) em todos os produtos cloud tais como Office, Azure, Dynamics e modelos de licenciamento como CSP e EA. Expõe um rico conjunto de relatórios KPI que podem ajudá-lo a tomar decisões orientadas por dados para a sua organização. 
+O dashboard Informações é um painel de reporte unificado no Partner Center para parceiros comerciais da Microsoft que estão inscritos no programa Microsoft Partner Network (MPN). O dashboard Informações fornece uma visão de 360 graus dos seus principais indicadores de desempenho (KPI) em todos os produtos Cloud, tais como Office, Azure, Dynamics e modelos de licenciamento como CSP e EA. Expõe um rico conjunto de relatórios KPI que podem ajudá-lo a tomar decisões orientadas por dados para a sua organização. 
 
-## <a name="role-based-access-control-to-the-insights-dashboard"></a>Controlo de acesso baseado em funções ao dashboard Insights
+## <a name="role-based-access-control-to-the-insights-dashboard"></a>Controlo de acesso baseado em funções ao painel de Informações
 
-Existem duas novas funções no Partner Center projetadas especificamente para o acesso a Insights: **Report Viewer** e Executive **Report Viewer**. Os utilizadores na função de Visualizador de Relatório Executivo têm acesso a todos os conjuntos de dados de reporte, enquanto os utilizadores na função 'Observador' de relatórios não terão acesso a conjuntos de dados sensíveis, tais como receitas e dados pessoais do cliente/colaborador. 
+Existem duas novas funções no Partner Center projetadas especificamente para o acesso a Informações: **Report Viewer** e **Executive Report Viewer**. Os utilizadores na função de Visualizador de Relatório Executivo têm acesso a todos os conjuntos de dados de reporte, enquanto os utilizadores na função 'Observador' de relatórios não terão acesso a conjuntos de dados sensíveis, tais como receitas e dados pessoais do cliente/colaborador. 
 
 O administrador Global ou o administrador da Conta podem atribuir aos utilizadores estas funções e são atribuídos quer para toda a empresa, quer para uma localização MPN específica.  
 
@@ -35,7 +35,7 @@ O administrador Global ou o administrador da Conta podem atribuir aos utilizador
 
 ## <a name="reports-available"></a>Relatórios disponíveis
 
-Os seguintes relatórios estão disponíveis como parte do dashboard Insights.
+Os seguintes relatórios estão disponíveis como parte do painel de Informações.
 
 **Visão geral**: O relatório geral apresenta uma visão instantânea de vários KPI's de interesse para si, tais como contagem de clientes, contagem de subscrições ativas, receitas de consumo azure, licenças ativas, etc.
 
@@ -51,16 +51,16 @@ Os seguintes relatórios estão disponíveis como parte do dashboard Insights.
 
 **Benefícios**: O relatório Benefits apresenta análises sobre os benefícios dos parceiros que obteve vs consumidos.
 
-## <a name="navigating-the-insights-reports"></a>Navegando nos relatórios insights
+## <a name="navigating-the-insights-reports"></a>Navegando nos relatórios de Informações
 
 **Filtros de gama de datas**: Pode encontrar uma seleção de intervalo de datas no canto superior direito de cada página. A saída dos gráficos de página de visão geral pode ser personalizada selecionando uma gama de datas baseada nos últimos 3, 6 ou 12 meses, ou selecionando um intervalo de datas personalizado. A seleção do intervalo de datas padrão é de 12 meses. 
 
-:::image type="content" source="images/pci/intro1.png" alt-text="Mapa de introdução.":::
+:::image type="content" source="images/insights/introduction.png" alt-text="Mapa de introdução.":::
 
-**Botão de feedback**: Cada gráfico/controlo em todos os relatórios insights é incorporado com um botão de feedback para permitir que forneça feedback de instância sobre uma função de relatório. 
+**Botão de feedback**: Cada gráfico/controlo em todos os relatórios Informações é incorporado com um botão de feedback para permitir que forneça feedback de instância sobre uma função de relatório. 
 
  
-**Filtros de nível de página**: Com exceção dos relatórios de visão geral, benefícios e competências, todos os relatórios do Insights permitem aplicar filtros de nível de página. 
+**Filtros de nível de página**: Com exceção dos relatórios de visão geral, benefícios e competências, todos os relatórios Informações permitem aplicar filtros de nível de página. 
 
 - Os filtros selecionados serão aplicáveis a todos os gráficos e métricas de uma página, incluindo a secção de resumo. Um item de filtro estará disponível se tiver algum dado dentro desses critérios de filtragem. 
 
@@ -68,7 +68,7 @@ Os seguintes relatórios estão disponíveis como parte do dashboard Insights.
 
 - Os filtros selecionados serão apresentados no topo da página. 
 
-:::image type="content" source="images/pci/filters.png" alt-text="Screenshot parcial mostra barra de filtros aplicada com seleções de filtros para Produtos, Mercados de Clientes, Atribuições de Parceiros e Canais de Vendas.":::
+:::image type="content" source="images/insights/filters.png" alt-text="Screenshot parcial mostra barra de filtros aplicada com seleções de filtros para Produtos, Mercados de Clientes, Atribuições de Parceiros e Canais de Vendas.":::
 
 ### <a name="filters-definitions"></a>Definições de filtros:
 
@@ -81,16 +81,16 @@ Os seguintes relatórios estão disponíveis como parte do dashboard Insights.
 
 ## <a name="read-about-each-of-the-dashboards-and-reports"></a>Leia sobre cada um dos dashboards e relatórios:
 
-- [Insights do Centro de Parceiros - Painel de visão geral](pci-overview-report.md)
+- [Partner Center Informações - Painel de visão geral](insights-overview-report.md)
 
-- [Partner Center Insights - Painel de clientes](pci-customer-report.md)
+- [Centro de Parceiros Informações - Painel de clientes](insights-customer-report.md)
 
-- [Partner Center Insights - Relatório de subscrições](pci-product-subscriptions-report.md)
+- [Partner Center Informações - Relatório de assinaturas](insights-product-subscriptions-report.md)
 
-- [Partner Center Insights - Relatório de Licenças](pci-product-licenses-report.md)
+- [Partner Center Informações - Relatório de Licenças](insights-product-licenses-report.md)
 
-- [Partner Center Insights - Relatório de utilização do Azure](pci-azure-usage-report.md)
+- [Partner Center Informações - Relatório de utilização do Azure](insights-azure-usage-report.md)
 
-- [Partner Center Insights - Relatório de Competências](pci-competencies-report.md)
+- [Partner Center Informações - Relatório de Competências](insights-competencies-report.md)
 
-- [Insights do Centro de Parceiros - Relatório de Benefícios](pci-benefits-report.md)
+- [Partner Center Informações - Relatório de benefícios](insights-benefits-report.md)

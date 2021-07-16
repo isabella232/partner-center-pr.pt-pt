@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 07/02/2021
-ms.openlocfilehash: d0cf7815a38f5f98349cc67aecd2567cef906d43
-ms.sourcegitcommit: b0d1413ffa2099ddf11d013d41378afa50953f32
+ms.openlocfilehash: 06593db6a55299170c696e3179b5ad1a666aacc7
+ms.sourcegitcommit: 9667763ae6eb405314dbb96bd4fa484ec964ab58
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/05/2021
-ms.locfileid: "113297691"
+ms.lasthandoff: 07/15/2021
+ms.locfileid: "114224688"
 ---
 # <a name="january-2021-announcements"></a>Anúncios de janeiro de 2021
 
@@ -185,13 +185,13 @@ Todos os revendedores indiretos & fornecedores indiretos que transfiram através
 
 ### <a name="details"></a>Detalhes
 
-A implementação do Acordo de Parceiros da Microsoft (MPA) para revendedores indiretos está atualmente em curso. Para continuar a apoiar fornecedores e revendedores, ouvimos o seu feedback e agora consolidámos consultas comuns sobre como aceitar a MPA numa nova [página de Perguntas Frequentes](../mpa-indirect-provider-faq.md).
+A implementação do Acordo de Parceiros da Microsoft (MPA) para revendedores indiretos está atualmente em curso. Para continuar a apoiar fornecedores e revendedores, ouvimos o seu feedback e agora consolidámos consultas comuns sobre como aceitar a MPA numa nova [página de Perguntas Frequentes](../mpa-indirect-provider-faq.yml).
 
 ### <a name="next-steps"></a>Passos seguintes
 
-**Revendedores indiretos:** Se não aceitou a MPA, reveja as [FAQs de MPA](../mpa-indirect-provider-faq.md) e siga as orientações passo a passo disponíveis [para](../microsoft-partner-agreement.md) aceitar a MPA.
+**Revendedores indiretos:** Se não aceitou a MPA, reveja as [FAQs de MPA](../mpa-indirect-provider-faq.yml) e siga as orientações passo a passo disponíveis [para](../microsoft-partner-agreement.md) aceitar a MPA.
 
-**Fornecedores indiretos:** Envolva-se com os seus revendedores indiretos e apoie-os utilizando as [FAQs mpa](../mpa-indirect-provider-faq.md) e a orientação passo a passo disponível [aqui](../microsoft-partner-agreement.md).
+**Fornecedores indiretos:** Envolva-se com os seus revendedores indiretos e apoie-os utilizando as [FAQs mpa](../mpa-indirect-provider-faq.yml) e a orientação passo a passo disponível [aqui](../microsoft-partner-agreement.md).
 
 ### <a name="questions"></a>Perguntas?
 

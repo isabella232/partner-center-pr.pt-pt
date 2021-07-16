@@ -8,12 +8,12 @@ description: Use partner Center para transar negócios com a Microsoft e os seus
 author: jasongroce
 ms.author: jasongroce
 ms.localizationpriority: high
-ms.openlocfilehash: cd9400915861667378ccf5545a6a8827a699d465
-ms.sourcegitcommit: a84c83bbd95156344b3d9b2778973f47a9f83141
+ms.openlocfilehash: 75655317683b50f95cddbf1dc0ce8a1753906d5e
+ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/07/2021
-ms.locfileid: "113353725"
+ms.lasthandoff: 07/16/2021
+ms.locfileid: "114373697"
 ---
 # <a name="what-is-partner-center"></a>O que é o Centro de Parceiros?
 
@@ -68,7 +68,7 @@ Aceda a vários tipos diferentes de relatórios de dados do painel de instrument
 - Indicadores de Contribuição de Parceiros (PCI) mostram impacto dos parceiros em sete medidas-chave de sucesso do cliente
 - Os relatórios de dados Informações identifiquem onde as suas vendas são elevadas, ajudam-no a descobrir quais os clientes que implementaram as suas subscrições ou precisam de apoio, e mostram o quão bem os seus produtos estão a vender.
 
-:::image type="content" source="images/pci/pci-licenses-report-license-adds-3.png" alt-text="Determine onde estão as suas licenças.":::
+:::image type="content" source="images/insights/licenses-report-license-adds.png" alt-text="Determine onde estão as suas licenças.":::
 
 ## <a name="next-steps"></a>Passos seguintes
 

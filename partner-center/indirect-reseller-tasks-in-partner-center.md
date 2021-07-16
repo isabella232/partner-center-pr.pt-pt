@@ -9,20 +9,20 @@ ms.localizationpriority: high
 author: vinayks
 ms.author: vinayks
 ms.date: 01/27/2021
-ms.openlocfilehash: f460ab4a692c9e8b515e361f3a18c4c240177b62
-ms.sourcegitcommit: 7cc83714e17337b472727819243f98c84ae181ba
+ms.openlocfilehash: f17384d128cfad041e5dcfdc68f04df48228be94
+ms.sourcegitcommit: 9667763ae6eb405314dbb96bd4fa484ec964ab58
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/22/2021
-ms.locfileid: "112450846"
+ms.lasthandoff: 07/15/2021
+ms.locfileid: "114224671"
 ---
-# <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Saiba como associar-se a fornecedores indiretos no programa Cloud Solution Provider
+# <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Saiba como associar-se a fornecedores indiretos no programa Fornecedor de Soluções em Nuvem
 
 **Funções adequadas**
 
 - Administrador global
 
-A procura crescente de soluções e serviços baseados na nuvem proporciona muitas oportunidades para os parceiros da Microsoft de todos os tamanhos construirem negócios rentáveis de soluções de nuvem. Os parceiros que estão prontos para entrar no mercado, mas que não querem ter de gerir vários fornecedores, ou que podem não ter uma infraestrutura de gestão de relacionamento com o cliente de ponta a ponta, podem inscrever-se no programa Cloud Solution Provider (CSP) da Microsoft como revendedores indiretos.
+A procura crescente de soluções e serviços baseados na nuvem proporciona muitas oportunidades para os parceiros da Microsoft de todos os tamanhos construirem negócios rentáveis de soluções de nuvem. Os parceiros que estão prontos a entrar no mercado, mas que não querem ter de gerir vários fornecedores, ou que podem não ter uma infraestrutura de gestão de relacionamento com o cliente de ponta a ponta, podem inscrever-se no programa Fornecedor de Soluções em Nuvem (CSP) da Microsoft como revendedores indiretos.
 
 Como revendedor indireto em CSP, trabalha com fornecedores indiretos (também conhecidos como distribuidores) que têm uma relação direta com a Microsoft e podem fornecer-lhe apoio ao cliente e faturação. Trabalhar com fornecedores indiretos significa que não tens de começar o teu próprio. Em vez disso, pode trabalhar com um fornecedor de tecnologia experiente para ajudar a garantir o seu sucesso. No modelo de revendedor de fornecedores (dois níveis), o fornecedor compra soluções e serviços em nuvem à Microsoft. Em seguida, revende-os aos clientes.
 
@@ -47,7 +47,7 @@ A partir de outubro de 2020, todos os parceiros da Microsoft novos na CSP, vão 
 
 - **Credenciais de administrador global para a sua conta de trabalho**
 
-   Terá de fornecer o nome de utilizador e a palavra-passe que utiliza para iniciar sôm no Office 365, Microsoft Azure ou microsoft Dynamics CRM. Se não tiver uma conta de trabalho, pode criar uma durante o processo de inscrição. Se não sabe se já tem uma conta de trabalho, consulte [as contas de trabalho e o Centro de Parceiros.](azure-active-directory-tenants-and-partner-center.md)
+   Terá de fornecer o nome de utilizador e a palavra-passe que utiliza para iniciar sôms em Office 365, Microsoft Azure ou Microsoft Dynamics CRM. Se não tiver uma conta de trabalho, pode criar uma durante o processo de inscrição. Se não sabe se já tem uma conta de trabalho, consulte [as contas de trabalho e o Centro de Parceiros.](azure-active-directory-tenants-and-partner-center.md)
 
 - **O nome de utilizador e a palavra-passe que utiliza para iniciar sôm no site do Centro de Membros do Parceiro**
 
@@ -65,11 +65,11 @@ A partir de outubro de 2020, todos os parceiros da Microsoft novos na CSP, vão 
 
 2. Reveja a **página Welcome** para ter a certeza de que tem as informações necessárias para se inscrever e, em seguida, selecione **Next**.
 
-3. Iniciar sação utilizando a sua conta de trabalho - o nome de utilizador e a palavra-passe que utiliza para iniciar seduções como administrador global do Office 365, Microsoft Azure ou Microsoft Dynamics CRM. Se não tiver uma conta de trabalho, selecione **Criar uma** para configurar uma agora. Depois de criar a sua conta de trabalho, inscreva-se na utilização das credenciais de administração global para a sua nova conta.
+3. Inscreva-se na sua conta de trabalho - o nome de utilizador e a palavra-passe que utiliza para iniciar sômsin como administrador global para Office 365, Microsoft Azure ou Microsoft Dynamics CRM. Se não tiver uma conta de trabalho, selecione **Criar uma** para configurar uma agora. Depois de criar a sua conta de trabalho, inscreva-se na utilização das credenciais de administração global para a sua nova conta.
 
 4. Forneça ou atualize o perfil de negócio legal da sua empresa, informações de contacto primários e informações de apoio ao cliente. (Para encontrar as informações legais sobre o seu negócio, selecione **perfil da Organização** e, em seguida, selecione **Informações Legais**.) Selecione **Matricular-se agora**.
 
-   O contacto principal é a pessoa na sua empresa que podemos contactar sobre a sua aplicação. Pode ser você ou outra pessoa na sua companhia. Nota: Não aceitamos endereços de e-mail de serviços de e-mail baseados na Web, como o Gmail, Yahoo! Mail, iCloud Mail, AOL Mail ou Outlook Mail.
+   O contacto principal é a pessoa na sua empresa que podemos contactar sobre a sua aplicação. Pode ser você ou outra pessoa na sua companhia. Nota: Não aceitamos endereços de e-mail de serviços de e-mail baseados na Web, como o Gmail, Yahoo! Correio, iCloud Mail, AOL Mail ou Outlook Mail.
 
    > [!IMPORTANT]  
    > Para ajudar a garantir a segurança e privacidade da sua empresa, enviaremos um e-mail para o seu contacto principal para verificar se (1) ele ou ela se inscreveu para uma conta partner Center, e (2) que este endereço de e-mail pertence à sua empresa. Após o contacto principal verificar o seu endereço de e-mail, continuaremos a nossa revisão da informação que forneceu. Enviaremos por e-mail atualizações do estado de inscrição para o contacto primário.
@@ -78,7 +78,7 @@ A partir de outubro de 2020, todos os parceiros da Microsoft novos na CSP, vão 
   
    1. Inscreva-se no Partner Center com as suas credenciais de conta "MPN" (as suas credenciais MPN podem ser diferentes das suas credenciais CSP).
 
-   2. Ir para **Configurações**  ->  **Configurações Configurações**  ->  **Identificação de Perfil da Organização**  ->  .
+   2. Vá a **Definições**  ->  **Account Definições** Organization  ->  **Profile**  ->  **Identifiers**.
 
    3. Encontre o ID MPN com o tipo "Localização" que corresponda ao país desta conta CSP.
 
@@ -99,7 +99,7 @@ A partir de outubro de 2020, todos os parceiros da Microsoft novos na CSP, vão 
 
 8. Quando a sua conta Partner Center estiver pronta a ser utilizada, verifique se foi adicionado ao grupo de agentes administrativos. Para terminar a configuração da sua conta, incluindo a adição de outros utilizadores, tem de ter permissões de agente administrativo. Siga estes passos para visualizar ou atualizar as suas permissões:
 
-   1. A partir do painel 'Centro parceiro', selecione o ícone **Definições** e, em seguida, nas **definições de Conta**, selecione **a gestão do Utilizador**.
+   1. A partir do painel Partner Center, selecione o ícone **Definições** e, em seguida, nas **definições de Conta**, selecione a **gestão do Utilizador**.
 
    2. Selecione o seu nome na lista de utilizadores. Em seguida, selecione **o agente de administração** se ainda não estiver selecionado. Selecione **Atualizar**.
 
@@ -118,7 +118,7 @@ Se um fornecedor indireto quiser ligar-se consigo no Centro de Parceiros, inicia
 3. Para confirmar a parceria com o fornecedor, verifique a caixa e, em seguida, **selecione Authorize indiret provider**. O fornecedor está agora listado na sua página **de fornecedores Indiretos** e a sua empresa está agora listada na página de **revendedores Indiretos** do fornecedor.
 
    > [!NOTE]  
-   > Quando estabelece uma parceria com um fornecedor indireto, está a autorizar-nos a submeter encomendas e adicionar subscrições em nome dos seus clientes, e está a conceder-lhes acesso ao administrador da conta de trabalho da sua empresa. Após a sua parceria com o fornecedor ter sido estabelecida, pode remover o acesso do administrador do prestador à sua conta de trabalho no portal Do Office 365.
+   > Quando estabelece uma parceria com um fornecedor indireto, está a autorizar-nos a submeter encomendas e adicionar subscrições em nome dos seus clientes, e está a conceder-lhes acesso ao administrador da conta de trabalho da sua empresa. Após a sua parceria com o fornecedor ter sido estabelecida, pode remover o acesso do administrador do fornecedor à sua conta de trabalho no portal Office 365.
 
 4. Selecione **fornecedores indiretos** do menu **Partner Center** para ver uma lista dos fornecedores com quem tem uma parceria.
 
@@ -131,11 +131,11 @@ Se um fornecedor indireto quiser ligar-se consigo no Centro de Parceiros, inicia
 
 ## <a name="your-csp-country-and-the-csp-regions-where-you-do-business"></a>O seu país CSP e as regiões da CSP onde faz negócios
 
-A sua localização de negócio legal como revendedor indireto CSP determina os fornecedores indiretos com quem pode trabalhar, bem como as regiões onde pode fazer negócios com CSP. Saiba mais ao ler [cloud Solution Provider programa mercados regionais e moedas onde pode vender ofertas de CSP.](regional-authorization-overview.md)
+A sua localização de negócio legal como revendedor indireto CSP determina os fornecedores indiretos com quem pode trabalhar, bem como as regiões onde pode fazer negócios com CSP. Saiba mais ao ler [Fornecedor de Soluções em Nuvem programa mercados regionais e moedas onde pode vender ofertas de CSP.](regional-authorization-overview.md)
 
 ## <a name="next-steps"></a>Passos seguintes
 
-- [Como os fornecedores indiretos podem ajudar os seus revendedores a adotar o Acordo de Parceiros da Microsoft - FAQ](mpa-indirect-provider-faq.md)
+- [Como os fornecedores indiretos podem ajudar os seus revendedores a adotar o Acordo de Parceiros da Microsoft - FAQ](mpa-indirect-provider-faq.yml)
 
 - [Contrato de Parceiro da Microsoft](microsoft-partner-agreement.md)
 

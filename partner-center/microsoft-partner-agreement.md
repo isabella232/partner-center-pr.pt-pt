@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: fc263c617a6a26872604970a42eb100708062fed
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 31c09817530e78620663f3b625db0e55f8924b91
+ms.sourcegitcommit: 9667763ae6eb405314dbb96bd4fa484ec964ab58
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276625"
+ms.lasthandoff: 07/15/2021
+ms.locfileid: "114224739"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>Conheça o Acordo de Parceiros da Microsoft (MPA) para parceiros de programas da CSP
 
@@ -22,7 +22,7 @@ ms.locfileid: "112276625"
 
 O Microsoft Partner Agreement fornece aos parceiros da Microsoft um acordo de parceiro unificado e digitalmente aceite. O Microsoft Partner Agreement contém um conjunto central de termos perpétuos que ajudam a Microsoft, parceiros e clientes a apoiar a privacidade e segurança dos dados, a promover a conformidade e a incentivar práticas comerciais sãs.
 
-Todos os parceiros do programa Cloud Solution Provider (incluindo fornecedores indiretos, revendedores indiretos e parceiros de conta direta) podem assinar o MPA online no Partner Center. A conta direta e os parceiros de fornecedores indiretos que operam na Microsoft Cloud para o Governo dos EUA também podem assinar a MPA a partir do Partner Center.
+Todos os Fornecedor de Soluções em Nuvem parceiros do programa (incluindo fornecedores indiretos, revendedores indiretos e parceiros de contas diretas) podem assinar o MPA online no Partner Center. A fatura direta e os parceiros de prestadores indiretos que operam no Microsoft Cloud for US Government também podem assinar a MPA a partir do Centro de Parceiros.
 
 Para continuar a participar no programa CSP, tem de assinar o Acordo de Parceiro da Microsoft antes de 31 de janeiro de 2020. O Partner Center irá lembrá-lo que agora pode assinar facilmente o contrato a partir do Centro de Parceiros.
 
@@ -37,7 +37,7 @@ Para continuar a participar no programa CSP, tem de assinar o Acordo de Parceiro
 
 1. Inscreva-se no Partner Center com as suas credenciais de conta MPN.
  
-1. A partir **de Definições** selecione [Perfil de Parceiro](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile).
+1. A partir **de Definições** selecione Perfil [de Parceiro](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile).
 
 1. Consulte a secção **de informações** do Programa. Se o estado do Programa MPN for **Ativo,** então é um parceiro mpn ativo no Partner Center.
  
@@ -70,8 +70,8 @@ Lembre-se de aceitar o pedido de relacionamento CSP com o seu fornecedor Indiret
 
 ## <a name="sign-the-mpa"></a>Assine a MPA
 
-1. Inscreva-se no Partner Center com a sua conta CSP Indirect Reseller. Deve ser o administrador global.
-1. Aceda à página geral da **[CSP.](https://partner.microsoft.com/pcv/dashboard/overview)**  Se não vir nem **aceitar e continuar** ou o banner verde dizendo que a MPA está assinada, não tem o papel certo para assinar MPA. Contacte o seu Administrador Global para assinar a MPA.
+1. Inscreva-se no Centro de Parceiros com a sua conta CSP Indirect Reseller. Tem de ser o Administrador global.
+1. Aceda à página geral da **[CSP.](https://partner.microsoft.com/pcv/dashboard/overview)**  Se não vir nem **aceitar e continuar** ou o banner verde dizendo que a MPA está assinada, não tem o papel certo para assinar MPA. Contacte o Administrador Global para assinar o MPA.
 
 1. Para visualizar e descarregar o **Microsoft Partner Agreement** antes de o assinar, selecione o link Microsoft Partner Agreement, conforme mostrado abaixo.
 
@@ -109,6 +109,6 @@ Também pode ver se assinou o acordo selecionando **Contratos** a partir de defi
  
 ## <a name="next-steps"></a>Passos seguintes
 
-- [Como os fornecedores indiretos podem ajudar os seus revendedores a adotar o Acordo de Parceiros da Microsoft - FAQ](mpa-indirect-provider-faq.md)
+- [Como os fornecedores indiretos podem ajudar os seus revendedores a adotar o Acordo de Parceiros da Microsoft - FAQ](mpa-indirect-provider-faq.yml)
 
 - [Enroll in the Cloud Solution Provider program](indirect-reseller-tasks-in-partner-center.md) (Inscrever-se no programa do Fornecedor de Soluções Cloud)
