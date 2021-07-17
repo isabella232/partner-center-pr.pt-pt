@@ -647,90 +647,48 @@
           href: partner-center-insights.md
           displayName: data
         - name: Acesso baseado em funções de Informações
-          href: insights-roles.md
+          href: pci-roles.md
         - name: Relatórios de Informações
           items:
             - name: Descrição geral
-              href: insights-overview-report.md
+              href: pci-overview-report.md
             - name: Customer
-              href: insights-customer-report.md
+              href: pci-customer-report.md
             - name: Desempenho de revendedor
-              href: insights-resellers-performance.md
+              href: pci-resellers-performance.md
               displayName: 'indirect, reseller'
             - name: Subscrições de produtos
-              href: insights-product-subscriptions-report.md
+              href: pci-product-subscriptions-report.md
             - name: Utilização do Azure
-              href: insights-azure-usage-report.md
+              href: pci-azure-usage-report.md
             - name: Utilização do Teams
-              href: insights-teams-usage-report.md
+              href: pci-teams-usage-report.md
             - name: Utilização do Office 365
-              href: insights-office-365-usage-report.md
+              href: pci-office-365-usage-report.md
             - name: Utilização do Dynamics
-              href: insights-dynamics-usage-report.md
+              href: pci-dynamics-usage-report.md
             - name: Utilização do Enterprise Mobility + Security
-              href: insights-enterprise-mobility-security-usage-report.md
+              href: pci-enterprise-mobility-security-usage-report.md
             - name: Utilização do Power BI
-              href: insights-power-bi-usage-report.md
+              href: pci-power-bi-usage-report.md
             - name: Formação
-              href: insights-training-dashboard.md
+              href: pci-training-dashboard.md
             - name: Análise do Microsoft Learn
               href: ms-learn-analytics.md
             - name: Competências
-              href: insights-competencies-report.md
+              href: pci-competencies-report.md
             - name: Benefícios
-              href: insights-benefits-report.md
+              href: pci-benefits-report.md
             - name: Propensão CloudAscent
-              href: insights-customer-opportunities.md
+              href: pci-customer-opportunities.md
             - name: Licenças de produtos
-              href: insights-product-licenses-report.md
+              href: pci-product-licenses-report.md
         - name: FAQ sobre o Insights
-          href: insights-known-issues.md
+          href: pci-known-issues.md
         - name: Transferir relatórios de Informações
-          href: insights-download-reports.md
-        - name: Acesso programático à análise
-          items:
-            - name: Introdução
-              href: insights-programmatic-get-started.md
-            - name: Pré-requisitos para acesso programático
-              href: insights-programmatic-prerequisites.md
-            - name: Paradigma de acesso programático
-              href: insights-programmatic-access-paradigm.md
-            - name: Faça a sua primeira chamada programática de API
-              href: insights-programmatic-first-api-call.md
-            - name: Lista de consultas de sistema
-              href: insights-programmatic-system-queries.md
-            - name: Consultas de exemplo
-              href: insights-programmatic-sample-queries.md
-            - name: Especificação de consulta personalizada
-              href: insights-programmatic-custom-query.md
-            - name: Aplicação de exemplo
-              href: insights-programmatic-sample-application.md
-            - name: Perguntas mais frequentes
-              href: insights-programmatic-faq.md
-            - name: Referências de API
-              items:
-                - name: APIs disponíveis
-                  href: insights-programmatic-analytics-available-api.md
-                - name: Obtenha todos os conjuntos de dados
-                  href: insights-programmatic-analytics-api-get-dataset.md
-                - name: Obtenha consultas de relatório
-                  href: insights-programmatic-analytics-api-get-report-queries.md
-                - name: Eliminar consultas de relatório
-                  href: insights-programmatic-analytics-api-delete-report-queries.md
-                - name: Experimente consultas de relatório
-                  href: insights-programmatic-analytics-api-try-report-queries.md
-                - name: Obtenha relatório
-                  href: insights-programmatic-analytics-api-get-report.md
-                - name: Relatório de atualização
-                  href: insights-programmatic-analytics-api-update-report.md
-                - name: Eliminar relatório
-                  href: insights-programmatic-analytics-api-delete-report.md
-                - name: Pausa relatório execuções
-                  href: insights-programmatic-analytics-api-pause-report-executions.md
-                - name: Retomar execuções de relatório
-                  href: insights-programmatic-analytics-api-resume-report-executions.md
+          href: pci-download-reports.md
         - name: Definições de dados do Insights
-          href: insights-data-definitions.md
+          href: pci-data-definitions.md
     - name: Indicadores de Contributo do Parceiro
       items:
         - name: Para competências de Aplicações Empresariais na Cloud
