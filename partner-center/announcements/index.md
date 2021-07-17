@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 07/09/2021
-ms.openlocfilehash: d44ea9cd6c39954a1299344634d22fd1d31ec773
-ms.sourcegitcommit: a09a5f893e876de23a8aa5c0d637e50c5be84941
+ms.openlocfilehash: 12684ee4949102ebbae5ce3e98ea38decfd34bb7
+ms.sourcegitcommit: b347181a7dd577395b47ef2c0fc680e9cfb3711f
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/13/2021
-ms.locfileid: "113684275"
+ms.lasthandoff: 07/17/2021
+ms.locfileid: "114394286"
 ---
 # <a name="partner-center-announcements"></a>Anúncios do Centro de Parceiros
 
@@ -22,6 +22,7 @@ Saiba mais sobre atualizações importantes do Centro de Parceiros. Estas inform
 
 |**Categoria**|**Anúncios de julho de 2021**|**Anunciado**|
 |---------|:---------|:---------|
+|Ofertas/Mercados|[Correções à lista de preços dos serviços baseados em licenças de agosto para a Mobilidade Empresarial & Segurança (EMS) E3](2021-july.md#10)| 16 de julho |
 |Capacidades|[Software na Microsoft China Corporation Limited (MCCL) Fornecedor de Soluções em Nuvem (CSP) e mudança de licença aberta](2021-july.md#9)| 13 de julho |
 |Preparação|[Alterações à Fornecedor de Soluções em Nuvem (CSP) validação de endereço de cliente API para entrar em direto no dia 13 de julho de 2021](2021-july.md#8)| 12 de julho |
 |Capacidades|[Atualização e lembretes da comunidade Fornecedor de Soluções em Nuvem de julho (CSP)](2021-july.md#7)| 12 de julho |
@@ -95,7 +96,7 @@ Saiba mais sobre atualizações importantes do Centro de Parceiros. Estas inform
 |Capacidades|[Alterações no Fornecedor de Soluções em Nuvem cliente de bordo](2021-february.md#10)|25 de fevereiro|
 |Capacidades|[Agora live: DocuSign migração para Adobe Sign para parceiros ao abrigo de Acordos de Parceiros microsoft (MPAs)](2021-february.md#9)|16 de fevereiro|
 |Cresça o seu negócio|[Lembrete: apresentação da limitação de APIs para parceiros que utilizam APIs do Centro de Parceiros](2021-february.md#8)|16 de fevereiro|
-|Capacidades|[Apresentando tópicos do Microsoft Viva](2021-february.md#7)|12 de fevereiro|
+|Capacidades|[Apresentando Tópicos Microsoft Viva](2021-february.md#7)|12 de fevereiro|
 |Ofertas/Mercados|[Microsoft 365 E3 alterações nos preços em março de 2021](2021-february.md#6)|11 de fevereiro|
 |Ofertas/Mercados|[Lista de preços de pré-visualização baseada em licença atualizada para coroa norueguesa](2021-february.md#5)|10 de fevereiro|
 |Capacidades|[Premium avaliações, um add-on para Compliance Manager, está chegando em 1 de março de 2021](2021-february.md#4)|5 de fevereiro|
