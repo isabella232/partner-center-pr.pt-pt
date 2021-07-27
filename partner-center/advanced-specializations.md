@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 023cb8967e4acf4b5dd84460dcbfd8d815a95795
-ms.sourcegitcommit: 4de6c593139c48c79d2abe2df8365c89acf7e32d
+ms.openlocfilehash: d0077df2e05c6b28564e255f84c9ef62fce69f47
+ms.sourcegitcommit: 75bb0a3d7bbcc048e850da040d1a4489a4af3332
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/24/2021
-ms.locfileid: "114661632"
+ms.lasthandoff: 07/23/2021
+ms.locfileid: "114612809"
 ---
 # <a name="earn-an-advanced-specialization-to-showcase-your-validated-capabilities"></a>Ganhe uma especialização avançada para mostrar as suas capacidades validadas
 
@@ -42,6 +42,7 @@ Cada especialização avançada corresponde a uma área de solução:
 
 As especializações avançadas **do Azure** incluem:
 
+- Solução VMware no Azure
 - Análise na Microsoft Azure
 - Migração do Data Warehouse para o Microsoft Azure
 - Kubernetes no Microsoft Azure

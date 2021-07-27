@@ -260,6 +260,8 @@
               href: connectors-troubleshoot.md
         - name: Venda conjunta - Migração de PSC para PC
           href: psc-to-pc.md
+        - name: IOT PSC para a migração para PC
+          href: partner-sales-connect-to-partner-center-iot.md
           displayName: mpn
     - name: Registar as suas ofertas
       href: register-deals.md

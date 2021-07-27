@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 07/21/2021
-ms.openlocfilehash: 37ac3f22cc1ed63701faa6fdc5ea3d76c43cb15f
-ms.sourcegitcommit: d133c8b923b90ac5518cb989c0ce4dd69713abf4
+ms.date: 07/23/2021
+ms.openlocfilehash: c01f5f219f46df3a945b48510b329259fc731020
+ms.sourcegitcommit: 4de6c593139c48c79d2abe2df8365c89acf7e32d
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "114433559"
+ms.lasthandoff: 07/24/2021
+ms.locfileid: "114661649"
 ---
 # <a name="partner-center-announcements"></a>Anúncios do Centro de Parceiros
 
@@ -22,6 +22,7 @@ Saiba mais sobre atualizações importantes do Centro de Parceiros. Estas inform
 
 |**Categoria**|**Anúncios de julho de 2021**|**Anunciado**|
 |---------|:---------|:---------|
+|Capacidades|[Nova experiência de comércio em CSP para a Azure expandindo-se para Nuvem da Comunidade Governamental (GCC)](2021-july.md#16)| 26 de julho |
 |Capacidades|[Reforço da ferramenta para transferência de assinaturas Azure entre parceiros no programa Fornecedor de Soluções em Nuvem (CSP)](2021-july.md#15)| 21 de julho |
 |Capacidades|[Alterações ao Azure oferecem disponibilidade relacionada com a nova experiência de comércio na CSP para a Azure](2021-july.md#14)| 21 de julho |
 |Modern Workplace|[Apresentamos Windows 365: Windows híbridos para um mundo híbrido](2021-july.md#13)| 20 de julho |
