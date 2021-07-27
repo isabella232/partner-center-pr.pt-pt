@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 779e6d344d9fc75a45a4d89a65ebff3ace8ce8cb
-ms.sourcegitcommit: 312f3800d0a0464af9df4d7ffb0d9faec273fd74
+ms.openlocfilehash: 023cb8967e4acf4b5dd84460dcbfd8d815a95795
+ms.sourcegitcommit: 4de6c593139c48c79d2abe2df8365c89acf7e32d
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "113489814"
+ms.lasthandoff: 07/24/2021
+ms.locfileid: "114661632"
 ---
 # <a name="earn-an-advanced-specialization-to-showcase-your-validated-capabilities"></a>Ganhe uma especialização avançada para mostrar as suas capacidades validadas
 

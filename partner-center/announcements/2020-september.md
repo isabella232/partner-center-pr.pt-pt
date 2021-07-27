@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 03/08/2021
-ms.openlocfilehash: 506afac0d5efd11d85429a3289b22ca35c83af9f
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: c2e53e7944ee574539b4ed45a3c30ee843dc0112
+ms.sourcegitcommit: d133c8b923b90ac5518cb989c0ce4dd69713abf4
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114373951"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "114434086"
 ---
 # <a name="september-2020-announcements"></a>Anúncios de setembro de 2020
 
@@ -277,7 +277,7 @@ Partner Center Informações em breve substituirá a ferramenta de reporte **MyI
 
 ### <a name="what-is-insights"></a>O que é Informações?
 
-O dashboard Informações no Partner Center dá-lhe uma visão unificada de 360 graus dos principais indicadores de desempenho (KPI' da sua organização parceira em produtos cloud como Office 365, Azure, Dynamics 365 e modelos de licenciamento como Fornecedor de Soluções em Nuvem (CSP) e Contrato Enterprise (EA). As novas capacidades estão continuamente a ser adicionadas, e todos os relatórios apoiam a exportação de [dados brutos,](../insights-download-reports.md)permitindo-lhe realizar análises de dados ad-hoc com base nas necessidades do seu negócio. Duas funções de reporte do Partner Center, [Executive Report Viewer e Report Viewer,](../pci-roles.md)permitem-lhe gerir melhor o acesso e o uso de Informações dentro da sua organização.
+O dashboard Informações no Partner Center dá-lhe uma visão unificada de 360 graus dos principais indicadores de desempenho (KPI' da sua organização parceira em produtos cloud como Office 365, Azure, Dynamics 365 e modelos de licenciamento como Fornecedor de Soluções em Nuvem (CSP) e Contrato Enterprise (EA). As novas capacidades estão continuamente a ser adicionadas, e todos os relatórios apoiam a exportação de [dados brutos,](../insights-download-reports.md)permitindo-lhe realizar análises de dados ad-hoc com base nas necessidades do seu negócio. Duas funções de reporte do Partner Center, [Executive Report Viewer e Report Viewer,](../insights-roles.md)permitem-lhe gerir melhor o acesso e o uso de Informações dentro da sua organização.
 
 Relatórios recentemente adicionados:
 

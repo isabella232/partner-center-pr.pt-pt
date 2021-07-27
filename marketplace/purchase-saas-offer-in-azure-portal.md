@@ -8,12 +8,12 @@ ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: how-to
 ms.date: 06/29/2021
-ms.openlocfilehash: a124e4c5bb31a1fbb744bf2c5e1ea65a356bdd54
-ms.sourcegitcommit: 1d09ccaaa54f167b0c63e99761172ebe84e89f2e
+ms.openlocfilehash: a42269dfac07ccc49f72dce7a6e8259ade3d546e
+ms.sourcegitcommit: d133c8b923b90ac5518cb989c0ce4dd69713abf4
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "113221445"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "114433797"
 ---
 # <a name="purchase-a-saas-offer-in-azure-portal"></a>Comprar uma oferta SaaS no portal Azure
 
@@ -45,7 +45,7 @@ Na página inicial, sob os **serviços Azure** selecione **+ Criar um recurso** 
 - Reduza os resultados às ofertas do SaaS utilizando o filtro **'Tipo oferta'** e, em seguida, selecione **SaaS**.
 - Use a barra de pesquisa global na área de navegação superior, para encontrar uma oferta específica de SaaS.
 
-Encontre uma [oferta Private SaaS](/marketplace/private-offers) selecionando o banner no topo da página inicial do **Marketplace.** Nem todas as ofertas, ou planos estão disponíveis em todas as geografias e algumas podem aparecer apenas para certos inquilinos.
+Encontre uma [oferta Private SaaS](./private-offers.md) selecionando o banner no topo da página inicial do **Marketplace.** Nem todas as ofertas, ou planos estão disponíveis em todas as geografias e algumas podem aparecer apenas para certos inquilinos.
 
 A vista filtrada mostra cada oferta SaaS disponível representada por um título. Selecione um para ver a página de detalhes do produto. Que inclui as seguintes secções:
 
@@ -129,5 +129,5 @@ Mensagens de erro que poderá encontrar durante o processo:
 
 ## <a name="next-steps"></a>Passos seguintes
 
-- Se já comprou uma oferta no mercado, vá a [Billing e Facturaing](/marketplace/billing-invoicing)
-- Você também pode saber mais sobre as opções [de planos privados.](/marketplace/private-offers)
+- Se já comprou uma oferta no mercado, vá a [Billing e Facturaing](./billing-invoicing.md)
+- Você também pode saber mais sobre as opções [de planos privados.](./private-offers.md)

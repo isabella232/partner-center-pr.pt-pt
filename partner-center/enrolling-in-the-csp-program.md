@@ -1,20 +1,20 @@
 ---
 title: Enroll in the Cloud Solution Provider program (Inscrever-se no programa do Fornecedor de Soluções Cloud)
 ms.topic: how-to
-ms.date: 05/10/2021
+ms.date: 07/19/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Saiba como se inscrever no modelo de vendas do programa Cloud Solution Provider (CSP) que é o melhor para o seu negócio, como o revendedor indireto ou o parceiro de conta direta.
+description: Saiba como se inscrever no modelo de vendas do programa Fornecedor de Soluções em Nuvem (CSP) que é o melhor para o seu negócio, como o revendedor indireto ou o parceiro de conta direta.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0e5128b8b97a22c9bcbab669d10df47fe921782a
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 6d2bf3f99687830392d939be99ad34999abc1903
+ms.sourcegitcommit: d133c8b923b90ac5518cb989c0ce4dd69713abf4
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110147025"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "114433916"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Enroll in the Cloud Solution Provider program (Inscrever-se no programa do Fornecedor de Soluções Cloud)
 
@@ -22,18 +22,21 @@ ms.locfileid: "110147025"
 
 ## <a name="get-started"></a>Introdução
 
-A procura crescente de soluções e serviços baseados na nuvem proporciona muitas oportunidades para os parceiros da Microsoft de todos os tamanhos construirem negócios rentáveis de soluções de nuvem. Os parceiros que estão prontos para entrar no mercado, mas que não querem ter de gerir vários fornecedores, ou que podem não ter uma infraestrutura de gestão de relacionamento com o cliente de ponta a ponta, podem inscrever-se no programa Cloud Solution Provider (CSP) da Microsoft como revendedores indiretos.
+A procura crescente de soluções e serviços baseados na nuvem proporciona muitas oportunidades para os parceiros da Microsoft de todos os tamanhos construirem negócios rentáveis de soluções de nuvem. Os parceiros que estão prontos a entrar no mercado, mas que não querem ter de gerir vários fornecedores, ou que podem não ter uma infraestrutura de gestão de relacionamento com o cliente de ponta a ponta, podem inscrever-se no programa Fornecedor de Soluções em Nuvem (CSP) da Microsoft como revendedores indiretos.
 
-Para se inscrever no programa Cloud Solution Provider, primeiro precisa de um ID MPN. Ainda não tem uma? Junte-se [aqui.](https://partner.microsoft.com/)
+Para se inscrever no programa Fornecedor de Soluções em Nuvem, primeiro precisa de um ID MPN. Ainda não tem uma? Junte-se [aqui.](https://partner.microsoft.com/)
 
 Para completar a aplicação CSP, você precisará do ID MPN da sua empresa, endereço de negócio completo, informações bancárias, e o e-mail de trabalho para o colaborador que atuará como administrador do Centro de Parceiros.
 
 1. Inscreva-se no Partner Center com o seu email de trabalho (isto é, as suas credenciais de inquilino AZure AD).
 
-2. Crie o seu perfil de parceiro e associe o seu ID MPN ao seu perfil.
-Pode levar vários dias para rever e verificar a informação que forneceu. Enviaremos um e-mail quando terminarmos a nossa avaliação.
+2. Crie o seu perfil de parceiro. Pode procurar o perfil da empresa ou introduzir informações da empresa manualmente. Se a sua empresa estiver registada na [Dun & Bradstreet,](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad)utilize o ID DUNS para consultar as informações da sua empresa. Se quiser fornecer os seus dados da sua empresa,  **selecione Enter manualmente**.
 
-3. Depois de verificarmos as suas informações, aceite o acordo de termos de revendedor indireto da Microsoft.
+    Para alguns países, quando introduzir o seu endereço manualmente, validaremos o seu endereço para si. Se o endereço que insere diferir do validado, sugerimos que utilize o endereço validado. Isto garante que os elementos do endereço são normalizados conforme definido pela autoridade postal do país, corretamente formatados e enviados.
+
+3. Associe o seu ID MPN ao seu perfil. Durante a verificação, podemos pedir-lhe documentos adicionais ou para completar um questionário. Pode levar vários dias para rever e verificar a informação que forneceu. Enviaremos um e-mail quando terminarmos a nossa avaliação.
+
+4. Depois de verificarmos as suas informações, aceite o acordo de termos de revendedor indireto da Microsoft.
 
 > [!IMPORTANT]  
 > Um parceiro no programa CSP não pode revender serviços online a outro parceiro no programa CSP atualmente. Esta restrição aplica-se apenas ao arrendatário utilizado para a realização de transações de CSP. Os parceiros da CSP que utilizem um inquilino não CSP para o seu uso corporativo podem adquirir serviços online a outro parceiro da CSP. A Microsoft revê continuamente as políticas e capacidades de todos os programas. Quaisquer novidades sobre lançamentos de funcionalidades ou alterações de política serão anunciadas através dos canais de comunicações habituais, incluindo [anúncios do Partner Center](announcements/index.md).
@@ -58,7 +61,7 @@ Para obter mais informações sobre o que é necessário para participar no prog
 
 ## <a name="enroll-as-a-direct-bill-partner"></a>Inscreva-se como parceiro de conta direta
 
-Como parceiro de conta direta, é dono da relação de ponta a ponta com o seu cliente e com a Microsoft. Atualizámos os requisitos de inscrição para os sócios diretos a partir de 27 de outubro de 2020. Estes requisitos irão ajudá-lo a acelerar o crescimento do seu negócio com o modelo de programa right Cloud Solution Provider e fortalecer as suas relações com os serviços de valor acrescentado e suporte.  
+Como parceiro de conta direta, é dono da relação de ponta a ponta com o seu cliente e com a Microsoft. Atualizámos os requisitos de inscrição para os sócios diretos a partir de 27 de outubro de 2020. Estes requisitos irão ajudá-lo a acelerar o crescimento do seu negócio com o modelo de programa Fornecedor de Soluções em Nuvem certo e fortalecer as suas relações com os serviços de valor acrescentado e suporte.  
 
 ### <a name="minimum-requirements"></a>Requisitos mínimos
 
@@ -67,7 +70,7 @@ Como parceiro de conta direta, é dono da relação de ponta a ponta com o seu c
 |**ID do MPN**   |Uma adesão ativa na Microsoft Partner Network e MPN ID para a localização em que pretende vender.    |
 |**Recomendação**   |A autoridade para aceitar e assinar acordos legais em nome da sua organização.|
 |**Suporte**   |A capacidade de fornecer o primeiro nível de suporte de produto em nuvem aos seus clientes. <br>Um plano de suporte da Microsoft, ou Suporte Avançado para Parceiros (ASfP) ou Premier Support for Partners (PSfP), dependendo das suas necessidades. [Compare os planos de suporte.](https://partner.microsoft.com/support/partnersupport)<br> IMPORTANTE: Tem de passar uma verificação de crédito antes de comprar um plano de apoio. Enviaremos um e-mail quando passar o cheque de crédito. |
-|**Requisito de receita**|Deve cumprir pelo menos USD300K no programa Cloud Solution Provider receitas anuais durante os 12 meses anteriores como revendedor indireto. Os parceiros podem rever os seus 12 meses de receitas no Partner Center.<br/>As vendas que compõem os seus USD300K com receitas de 12 meses estão sujeitas a revisão e verificação pela Microsoft e poderá ser-lhe pedido que forneça informações adicionais. O requisito de receitas de USD300K é calculado com base nas receitas da nuvem e excluirá software perpétuo em CSP.|
+|**Requisito de receita**|Deve cumprir pelo menos USD300K em Fornecedor de Soluções em Nuvem receitas anuais do programa durante os 12 meses anteriores como revendedor indireto. Os parceiros podem rever os seus 12 meses de receitas no Partner Center.<br/>As vendas que compõem os seus USD300K com receitas de 12 meses estão sujeitas a revisão e verificação pela Microsoft e poderá ser-lhe pedido que forneça informações adicionais. O requisito de receitas de USD300K é calculado com base nas receitas da nuvem e excluirá software perpétuo em CSP.|
 |**Contas a receber** |A infraestrutura organizacional em vigor para gerir a faturação e o provisionamento dos clientes.|
 |**Recomendação**|             |
 |**Serviço Gerido**   |Pelo menos um serviço gerido, serviço IP ou aplicação de solução de cliente. Saiba mais sobre a adição de [serviços geridos.](https://partner.microsoft.com/business-opportunities/managed-services-provider)|
@@ -84,11 +87,11 @@ Depois de verificarmos que a sua empresa preenche os requisitos de elegibilidade
 
 À medida que o programa CSP continua a evoluir e a crescer, talvez prefira participar nele como revendedor indireto em vez de um parceiro de conta direta. Pode transitar o seu inquilino de conta direta para o modelo de revendedor indireto no Partner Center.
 
-Consulte [a Transição do Cloud Solution Provider (CSP) parceiro de conta direta para o revendedor indireto CSP](transition-direct-to-indirect.md) para obter informações sobre a transição de um parceiro de conta direta para um revendedor indireto.
+Consulte [a Transição de Fornecedor de Soluções em Nuvem (CSP) parceiro de conta direta para o revendedor indireto CSP](transition-direct-to-indirect.md) para obter informações sobre a transição de um parceiro de conta direta para um revendedor indireto.
 
 ## <a name="csp-regional-markets-and-currencies"></a>Mercados e moedas regionais da CSP
 
-A localização da sua empresa determina o seu mercado. O seu mercado inclui as regiões e/ou os países onde pode vender ofertas do CSP. Consulte [o programa Cloud Solution Provider mercados regionais e moedas](regional-authorization-overview.md) para localizações de mercado e moedas.
+A localização da sua empresa determina o seu mercado. O seu mercado inclui as regiões e/ou os países onde pode vender ofertas do CSP. Consulte [Fornecedor de Soluções em Nuvem programa mercados regionais e moedas](regional-authorization-overview.md) para localizações de mercado e moedas.
 Leia Os [Pré-requisitos para adicionar um novo local para uma empresa de CSP](manage-locations.md).
 
 ## <a name="provide-partner-registration-id-number-for-specific-countries"></a>Fornecer número de ID de registo de parceiros para países específicos

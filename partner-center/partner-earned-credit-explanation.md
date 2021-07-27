@@ -1,7 +1,7 @@
 ---
 title: Parceiro ganhou crédito por serviços geridos
 ms.topic: article
-ms.date: 12/16/2020
+ms.date: 07/22/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Saiba como o parceiro da Microsoft ganhou crédito (PEC) por serviços geridos é calculado e pago e como garantir que é elegível.
@@ -9,74 +9,100 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ba422a2feae2affb9c2b60ad345c4d6bb0d525c7
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: b6574f7eaec230c9808564bedda4a5d3809b8aa4
+ms.sourcegitcommit: d133c8b923b90ac5518cb989c0ce4dd69713abf4
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110145869"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "114434154"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>Como o crédito de parceiro ganho é calculado e pago
 
 **Funções adequadas**: Administração global | Administração de administração de utilizadores | Agente administrativo | Administrador de faturação | Agente comercial
 
-O parceiro ganhou crédito pelos serviços geridos (PEC) reconhece e recompensa parceiros que detêm o controlo operacional de TI 24x7 e a gestão de partes de, ou todo, ambiente Azure dos seus clientes. Por padrão, na CSP, aos parceiros são concedidos os direitos de acesso necessários à subscrição do cliente, permitindo-lhes realizar 24 X 7 gestão operacional e controlo dos recursos na subscrição. Outras formas de os clientes poderem ter acesso a parceiros transaccionantes são descritas na secção seguinte. O valor da fatura mensal é o líquido do sócio que ganhou crédito. Os parceiros podem ver os detalhes do PEC no seu ficheiro mensal de reconhecimento. Para formas adicionais de acesso a um cliente, leia [Gerir subscrições e recursos ao abrigo do plano Azure.](azure-plan-manage.md)
+O parceiro ganhou crédito (PEC) por serviços geridos reconhece e recompensa parceiros que detêm controlo operacional de TI e gestão de algum ou todo o ambiente Azure de um cliente. 
 
-Leia Também [os privilégios de administração da Reinstate para as assinaturas Azure CSP](revoke-reinstate-csp.md)
+Por padrão, como parceiro da CSP, é-lhe concedido o direito de acesso necessário à subscrição do seu cliente, permitindo-lhe realizar gestão operacional e controlo dos recursos na subscrição. Outras formas de os clientes poderem ter acesso a parceiros transaccionantes são descritas na secção seguinte.
+
+O valor da fatura mensal é o líquido do sócio que ganhou crédito. Pode ver detalhes do PEC no seu ficheiro mensal de reconhecimento. Para obter formas adicionais de acesso ao parceiro de transação, consulte os seguintes artigos:
+
+- [Manage subscriptions and resources under the Azure plan](azure-plan-manage.md) (Gerir subscrições e recursos ao abrigo do plano do Azure)
+- [Reinstate admin privileges for Azure CSP subscriptions](/revoke-reinstate-csp.md) (Restabelecer os privilégios de administrador para as subscrições do Azure CSP)
 
 ## <a name="eligibility"></a>Elegibilidade
 
-Para receber o parceiro auferido crédito (PEC), aplicam-se os seguintes requisitos: 
+Para receber o Crédito Adquirido do Parceiro (PEC), aplicam-se os seguintes requisitos:
 
-- Você deve ter um acordo mPN ativo e papel válido de controlo de acesso baseado em funções (RBAC) para receber crédito ganho pelos ativos Azure que você gere.
-
-- Deve ter controlo operacional 24x7 e gestão dos recursos Azure do cliente em CSP. Isto significa que deve ter privilégios administrativos na subscrição Azure do cliente, grupo de recursos Azure, recurso Azure. No caso dos fornecedores indiretos e dos seus revendedores indiretos, o fornecedor indireto será elegível para o PEC se o fornecedor indireto ou o revendedor indireto tiverem esse controlo operacional. Para saber mais sobre isto, consulte [os privilégios de administração da Reinstate para as assinaturas Azure CSP](./revoke-reinstate-csp.md).
-
-- Além dos requisitos acima referidos, o PEC só é aplicável aos serviços listados no preço de consumo do plano Azure, que pode exportar a partir da página de preços do [plano Azure.](https://partner.microsoft.com/commerce/sales)
-
-- A PEC **não** se aplica aos seguintes serviços:
+- Você deve ter um acordo mpn ativo e papel válido de controlo de [acesso](azure-roles-perms-pec.md) baseado em [funções (RBAC).](/azure/role-based-access-control/overview)
+- Você deve ter Admin em nome de privilégios [(AOBO)](https://channel9.msdn.com/Series/cspdev/Module-11-Admin-On-Behalf-Of-AOBO) na subscrição Azure do cliente, grupo de recursos Azure, ou recurso Azure, ou um [papel de RBAC](azure-roles-perms-pec.md)válido .
+- No caso dos fornecedores indiretos e dos seus revendedores indiretos, um fornecedor indireto é elegível para o PEC se o fornecedor indireto ou o revendedor indireto tiver privilégios AOBO ou uma função de RBAC elegível. Para obter mais informações, consulte [os privilégios de administração da Reinstate para as assinaturas Azure CSP](revoke-reinstate-csp.md).
+- O mpn ID sócio deve pertencer ao mesmo v-org que o comprador MPN ID ou o Sócio da Record (POR) MPN ID. Para obter mais informações, veja [Ligar o seu ID de parceiro para controlar o impacto nos recursos delegados](/azure/lighthouse/how-to/partner-earned-credit).
+- O PEC é obtido a nível de recursos Azure, grupo de recursos ou subscrição. Se um parceiro tiver acesso válido a nível de subscrição ou grupo de recursos, cada recurso que se ause até à entidade superior ganhará PEC.
+- A PEC não se aplica aos seguintes serviços:
     - Reservas do Plano Azure
     - Produtos de terceiros identificados como terceiros na coluna Tags do preço de consumo do plano Azure
     - Produtos na tabela de preços do Mercado
     - [Máquinas virtuais Azure Spot](https://partner.microsoft.com/resources/collection/azure-spot-in-csp#/)
 
-- O PEC é ganho até ao nível de recursos Azure. Se tiver acesso válido a nível de subscrição ou grupo de recursos, cada recurso que se ause até à entidade superior ganhará PEC.
+Além dos requisitos acima referidos, o PEC só é aplicável aos serviços enumerados no plano Azure de preços de consumo. Pode ver e exportar isso a partir da página de preços do [plano Azure.](https://partner.microsoft.com/commerce/sales)
 
-- Os detalhes sobre o PEC também estão disponíveis na página [de gestão do Custo Azure.](/azure/cost-management-billing/costs/get-started-partners)
+Para obter mais informações sobre o PEC, consulte a página [de gestão do Custo Azure.](/azure/cost-management-billing/costs/get-started-partners)
 
-### <a name="calculation"></a>Cálculo
+Para obter mais informações sobre a elegibilidade, consulte [as funções e permissões necessárias para ganhar crédito a parceiro.](azure-roles-perms-pec.md)
 
-O PEC é calculado diariamente e pode ser visto no ficheiro de utilização diária e no ficheiro mensal de reconhecimento de fatura. Um parceiro (fornecedor indireto ou revendedor indireto) deve ter acesso durante todo o dia (24x7) para garantir que obtém PEC. O PEC é calculado diariamente com base nos ativos geridos da Azure. Os parceiros que mantêm o acesso privilegiado persistente ao longo do mês (período de acesso) e para todos os recursos elegíveis (âmbito de acesso) ganharão o PEC completo. A redução do âmbito e do alcance resultará numa taxa de PEC mais baixa para o mês. O ficheiro de utilização avaliado diariamente mostra diariamente um ativo Azure, quer o PEC seja aplicado ou não. Os parceiros também podem inscrever-se em alertas para monitorizar as alterações ao acesso privilegiado persistente.
+## <a name="calculation"></a>Cálculo
 
-## <a name="azure-cost-management"></a>Gestão de Custos do Azure
+O PEC é calculado diariamente. É pago por cada dia que tiver acesso elegível em cada subscrição. Embora os detalhes do PEC não apareçam na sua fatura mensal, os ganhos do PEC são contabilizados na linha de encargos líquidos ajustados dentro da fatura. Pode encontrar mais detalhes do PEC no [ficheiro de utilização diária](daily-rated-usage-recon-files.md) e no ficheiro mensal de reconhecimento de fatura.
 
-A Azure Cost Management (ACM) utilizando a Análise de Custos permite-lhe, como parceiro, visualizar os custos que receberam o benefício da PEC.  
+A tabela abaixo descreve os elementos PEC encontrados no ficheiro mensal de reconhecimento de fatura. Todos os valores estão em USD, como mostrado na coluna AI, PricingCurrency.
 
-1. No [portal Azure,](https://portal.azure.com)inscreva-se no seu inquilino parceiro e selecione **Cost Management + Billing**.
+| Coluna  | Descrição  |
+| --------  | -------  |
+| Coluna C  | CustomerName  |
+| Coluna P | UnitPrice |
+| Anúncio de coluna | EffectiveUnitPrice. Este é o preço após a aplicação do PEC e os requisitos foram cumpridos. Quando o PEC é aplicado, verá que o EffectiveUnitPrice na coluna AD é uma percentagem inferior à UnitPrice na coluna P.   |
+| Coluna V  | PreçoDjustmentDescription. Isto ficará em branco se não forem cumpridos quaisquer requisitos para o PEC ou se tiver o PEC % que será aplicado à UnitPrice. No entanto, pode ser elegível para créditos adicionais. Em caso afirmativo, estarão listados nesta coluna. Exemplo: 100% Desconto de Nível 1.   |
 
-2. Selecione **gestão de custos**
+Para monitorizar o acesso ao PEC:
 
-3. Selecione **análise de custos**
+- **O ficheiro de utilização nominal diária** mostra onde o PEC é aplicado (ou não) diariamente
 
-   A visão de Análise de Custos apresentará os custos da sua conta de faturação, para todos os serviços comprados e consumidos aos preços que paga à Microsoft.
+- [**Alertas do monitor Azure**](azure-plan-manage.md) monitorizam alterações ao acesso privilegiado persistente.
 
-4. Selecione **PartnerEarnedCreditApplied** na lista de drop-down em um gráfico de pivô para ver os custos que têm PEC aplicado. Quando a propriedade **PartnerEarnedCreditApplied** é Verdadeira, o custo associado tem o benefício do parceiro que ganhou crédito. 
+## <a name="partner-earned-credit-api"></a>Parceiro ganhou crédito API
 
-   Quando a propriedade PartnerEarnedCreditApplied é falsa, o custo associado não cumpriu a elegibilidade exigida para o crédito ou o serviço adquirido não é elegível para o parceiro obtido crédito.
+Uma API PEC está disponível como parte do instrumento de ferramentas Azure API. Para obter informações sobre As APIs powerShell e CLI, consulte [Link a Azure account to a partner ID](/azure/cost-management-billing/manage/link-partner-id).
 
-   >[!NOTE] 
-   >Normalmente, o uso dos serviços demora 8-24 horas a aparecer na **Gestão de Custos** e os créditos PEC aparecerão dentro de 48 horas a partir do momento de acesso na Azure Cost Management.
+## <a name="azure-cost-management-and-pec"></a>Azure Cost Management e PEC
 
-5. Também pode agrupar e filtrar a propriedade **PartnerEarnedCreditApplied** utilizando as funcionalidades de filtro **do Grupo por e Adicionar** para perfurar custos que têm PEC e os custos que não têm PEC aplicados.
+A Azure Cost Management (ACM) utilizando a Análise de Custos permite-lhe, como parceiro, visualizar os custos que receberam o benefício da PEC. Para uma apresentação detalhada sobre a ACM, consulte a chamada de Destaque para o [CSP de maio de 2021.](https://commercial_licensing.eventbuilder.com/2021MayCSPSpotlight)
+
+## <a name="use-acm-to-view-your-partner-earned-credit"></a>Use a ACM para ver o seu parceiro ganhou crédito
+
+1. No [portal Azure,](https://portal.azure.com/)inscreva-se no seu inquilino parceiro e selecione **Cost Management + Billing**.
+2. Selecione **gestão de custos**.
+3. Selecione **Análise de Custos**.
+A visão de Análise de Custos apresentará os custos da sua conta de faturação, para todos os serviços comprados e consumidos aos preços que paga à Microsoft.
+4. Na lista de drop-down do gráfico de pivô, selecione PartnerEarnedCreditApplied. 
+
+    Se este valor for **Verdadeiro,** o custo associado tem o benefício do parceiro a ganhar crédito.
+
+    Se este valor for **Falso,** o custo associado não satisfez a elegibilidade exigida para o crédito, ou o serviço adquirido não é elegível para o parceiro auferido.
+
+>[!NOTE]
+>Normalmente, o uso dos serviços demora 8-24 horas a aparecer na Gestão de Custos, e os créditos PEC aparecerão dentro de 48 horas a partir do momento de acesso na Azure Cost Management.
+
+Também pode agrupar e filtrar a propriedade **PartnerEarnedCreditApplied** utilizando as funcionalidades de filtro **Do Grupo por** e **Adicionar.** Estes permitem perfurar custos que têm PEC e os custos que não têm PEC aplicados.
+
+## <a name="how-is-pec-paid"></a>Como é pago o PEC?
+Os ganhos do PEC são contabilizados na linha de encargos líquidos ajustada dentro da fatura. Consulte o ficheiro de reconciliação mensal da fatura e o ficheiro de utilização diária do Azure para obter detalhes de ajuste.
 
 ## <a name="next-steps"></a>Passos seguintes
 
-- [Parceiro ganhou crédito - visão geral](partner-earned-credit.md)
-
-- Exemplos detalhados de cálculos de crédito obtidos pelo parceiro estão localizados na tabela de preços que pode chegar através do painel de instrumentos do Partner Center (sinal em requerido).
-
-- [Move to Azure plan - começa](azure-plan-get-started.md)
-
+- [Tabela de preços para a nova experiência de comércio para a Azure na CSP](azure-plan-price-list.md)
 - [Manage subscriptions and resources under the Azure plan](azure-plan-manage.md) (Gerir subscrições e recursos ao abrigo do plano do Azure)
-
-- [Revogar ou restabelecer privilégios de administração para assinaturas Azure CSP](revoke-reinstate-csp.md)
+- [Nova experiência comercial no CSP – faturação do Azure](azure-plan-billing.md)
+- [Reinstate admin privileges for Azure CSP subscriptions](revoke-reinstate-csp.md) (Restabelecer os privilégios de administrador para as subscrições do Azure CSP)
+- [Parceiro ganhou crédito - visão geral](partner-earned-credit.md)
+- [Funções, permissões para parceiro ganhou crédito](azure-roles-perms-pec.md)
+- [Compreensão do parceiro Crédito Adquirido (guia)](https://partner.microsoft.com/resources/detail/understanding-partner-earned-credit-pdf) (inscrição obrigatória)

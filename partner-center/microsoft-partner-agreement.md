@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 31c09817530e78620663f3b625db0e55f8924b91
-ms.sourcegitcommit: 9667763ae6eb405314dbb96bd4fa484ec964ab58
+ms.openlocfilehash: 965d655d6216cf2d50315c73afb87ff01d511238
+ms.sourcegitcommit: d133c8b923b90ac5518cb989c0ce4dd69713abf4
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/15/2021
-ms.locfileid: "114224739"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "114433882"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>Conheça o Acordo de Parceiros da Microsoft (MPA) para parceiros de programas da CSP
 
@@ -31,7 +31,7 @@ Para continuar a participar no programa CSP, tem de assinar o Acordo de Parceiro
 
 ## <a name="verify-your-mpn-id-is-active-and-migrated-to-partner-center"></a>Verifique se o seu ID MPN está ativo e migrado para o Partner Center
 
-1. Se não emigrou a sua conta MPN do Partner Membership Center (PMC) para Partner Center, então precisa de migrar a [sua conta MPN para Partner Center](move-pmc-pc-map.md). Irá completar o resto dos passos após a conclusão da migração. 
+1. Se não emigrou a sua conta MPN do Partner Membership Center (PMC) para Partner Center, então precisa de migrar a [sua conta MPN para Partner Center](./partner-membership-center-retirement-faq.md). Irá completar o resto dos passos após a conclusão da migração. 
 
 1. Se não possuir um ID ou conta MPN, deverá aderir primeiro ao programa Microsoft Partner Network. [Saiba como aderir à MPN.](mpn-create-a-partner-center-account.md)
 

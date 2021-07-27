@@ -9,14 +9,14 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fc082f40a778d09e96f6f8cb5a563197e2de6f18
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: e304f1f852437412ebf6be161a663fcabe02f027
+ms.sourcegitcommit: d133c8b923b90ac5518cb989c0ce4dd69713abf4
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110147620"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "114433967"
 ---
-# <a name="sell-on-premises-software-through-the-cloud-solution-provider-csp-program"></a>Venda de software no local através do programa Cloud Solution Provider (CSP)
+# <a name="sell-on-premises-software-through-the-cloud-solution-provider-csp-program"></a>Venda de software no local através do programa Fornecedor de Soluções em Nuvem (CSP)
 
 **Funções adequadas**: Agente administrador | Administração global
 
@@ -28,12 +28,15 @@ Ao mesmo tempo que garantimos o melhor valor geral do cliente com opções de li
 
 Para comprar subscrições de software em nome de um cliente, vá à página de detalhes do cliente, selecione Produtos Add e, em seguida, siga as instruções no ecrã para criar e pagar a sua encomenda.
 
+> [!NOTE]
+> Para mais informações, consulte este [guia para encomendar e realizar através do Partner Center.](https://partner.microsoft.com/resources/detail/guide-to-ordering-and-fulfillment-through-partner-center-pdf)
+
 ## <a name="activate-and-manage-software-subscriptions"></a>Activate and manage software subscriptions (Ativar e gerir subscrições de software)
 
-Depois de ter adquirido o seu software, você ou os seus clientes precisam descarregá-lo (parceiros usando Partner Center; clientes que usam o Microsoft 365 Admin Center). Utilize o seguinte procedimento para o fazer. É importante compreender os riscos associados à cópia de links e ao descarregamento de software. Para obter mais informações, consulte **o Use Partner Center para obter transferências de software de clientes e chaves de licença** no Guia de Operações do Centro Parceiro de Novos [Comércio.](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf)
+Depois de ter adquirido o seu software, você ou os seus clientes precisam descarregá-lo (parceiros usando Partner Center; clientes que usam o Centro de Administração Microsoft 365). Utilize o seguinte procedimento para o fazer. É importante compreender os riscos associados à cópia de links e ao descarregamento de software. Para obter mais informações, consulte **o Use Partner Center para obter transferências de software de clientes e chaves de licença** no Guia de Operações do Centro Parceiro de Novos [Comércio.](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf)
 
->[!NOTE]
->Você deve ser um agente de administração no Partner Center para obter o link para chaves e downloads.
+> [!NOTE]
+> Você deve ser um agente de administração no Partner Center para obter o link para chaves e downloads.
 
 1. Aceda à página de detalhes do seu cliente e, em seguida, selecione **Software**. Verá uma lista de todo o software que comprou em nome do cliente.
 
@@ -47,15 +50,15 @@ Depois de ter adquirido o seu software, você ou os seus clientes precisam desca
 
 6. Também pode **cancelar** a encomenda de software e receber 100% de crédito (se for feito dentro do período de 60 dias de política de cancelamento).
 
->[!NOTE]
->Apenas os clientes têm acesso para ver as chaves do produto e descarregar informações no Microsoft 365 Admin Center (função global de administração necessária). Os parceiros devem usar o Partner Center para ver esta informação.
+> [!NOTE]
+> Apenas os clientes têm acesso para ver as chaves do produto e descarregar informações no Administração Microsoft 365 Center (função Global Admin necessária). Os parceiros devem usar o Partner Center para ver esta informação.
 
 ## <a name="cancel-a-purchase"></a>Cancelar uma compra
 
 Utilize o seguinte procedimento para cancelar uma compra. Uma vez que o cancelamento esteja concluído, a chave de software será revogada.
 
->[!NOTE]
->Deve ser um agente administrativo para cancelar uma compra. 
+> [!NOTE]
+> Deve ser um agente administrativo para cancelar uma compra. 
 
 1.  Antes de iniciar o processo, certifique-se de que tem o seguinte: 
     - O cliente inquilino GUID ou nome de domínio

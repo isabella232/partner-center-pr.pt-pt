@@ -4,28 +4,30 @@ ms.topic: article
 ms.date: 01/07/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Consulte as listas de preços atuais para serviços baseados em licenças como o Office 365, Microsoft Dynamics CRM e Enterprise Mobility Suite, e serviços baseados em uso como o Azure.
+description: Consulte as listas de preços atuais para serviços baseados em licenças como Office 365, Microsoft Dynamics CRM e Suíte de Mobilidade Empresarial, e serviços baseados em uso como o Azure.
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d9eac83c2b2ef2d83b7b9aaec0c6dce7e24ee8b7
-ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
+ms.openlocfilehash: 0d4d6ee9d3352a7af2894e33411b7e2b69c360a8
+ms.sourcegitcommit: d133c8b923b90ac5518cb989c0ce4dd69713abf4
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/24/2021
-ms.locfileid: "112565049"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "114434120"
 ---
-# <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Preços e ofertas para Office 365, Dynamics CRM, Enterprise Mobility Suite, Azure, e muito mais
+# <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Preços e ofertas para Office 365, Dynamics CRM, Suite de Mobilidade Empresarial, Azure, e muito mais
 
 
 **Funções adequadas**: Administração global | Administração de administração de utilizadores | Agente administrativo | | de administrador sócio da MPN Agente comercial | Administrador de faturação
 
-Para ver os mais recentes programas e ofertas do Cloud Solution Provider (CSP), a partir do painel de instrumentos do Portal dos **Parceiros,** vá ao Sell > Preços e Ofertas . Encontrará listas de preços separadas para os diferentes tipos de produtos disponíveis. As seguintes listas de preços estão disponíveis na página **de Preços e Ofertas:**
+Para ver os mais recentes programas e ofertas de Fornecedor de Soluções em Nuvem (CSP), a partir do painel de instrumentos do Portal dos **Parceiros,** vá ao Sell > Preços e Ofertas . Encontrará listas de preços separadas para os diferentes tipos de produtos disponíveis. As seguintes listas de preços estão disponíveis na página **de Preços e Ofertas:**
 
-- **Os serviços baseados em licenças** incluem informações de preços para o Office 365, Enterprise Mobility e Security E3 e Dynamics 365. A secção de preços baseada em licença inclui preços atuais e de pré-visualização e a matriz da lista de ofertas. As listas de preços incluem o preço da lista e os preços estimados de venda a retalho (ERP) para ofertas em todas as moedas apoiadas. A matriz da lista de ofertas inclui disponibilidade de mercado e outras informações importantes sobre as ofertas. Estes ficheiros são atualizados no primeiro dia de cada mês.
-- **Os serviços baseados em uso** incluem informações de preços para o Microsoft Azure e o Visual Studio. Também pode utilizar os [Serviços Azure na Calculadora de Preços da CSP](https://azure.microsoft.com/pricing/calculator/). O download baseado em uso inclui tanto as listas de preços do CSP para todas as moedas suportadas como os ficheiros de preços dos Serviços Partilhados em ERP. Estes ficheiros são atualizados no primeiro dia de cada mês.
-- **O Microsoft Azure Reserved Instances** inclui informações de preços para todas as moedas suportadas para Azure Reserved Instances. O download de preços também inclui o preço dos Serviços Partilhados em ERP. Estes ficheiros são atualizados no primeiro dia de cada mês.
+- **Os serviços baseados em licenças** incluem informações sobre preços para Office 365, Mobilidade Empresarial e Segurança E3, e Dynamics 365. A secção de preços baseada em licença inclui preços atuais e de pré-visualização e a matriz da lista de ofertas. As listas de preços incluem o preço da lista e os preços estimados de venda a retalho (ERP) para ofertas em todas as moedas apoiadas. A matriz da lista de ofertas inclui disponibilidade de mercado e outras informações importantes sobre as ofertas. Estes ficheiros são atualizados no primeiro dia de cada mês.
+   > [!NOTE]
+   > Os preços da lista e do ERP são para a frequência de faturação mensal. Para a frequência anual de faturação, multiplique o preço mensal em 12.
+- **Os serviços baseados em utilização** incluem informações sobre preços para Microsoft Azure e Visual Studio. Também pode utilizar os [Serviços Azure na Calculadora de Preços da CSP](https://azure.microsoft.com/pricing/calculator/). O download baseado em uso inclui tanto as listas de preços do CSP para todas as moedas suportadas como os ficheiros de preços dos Serviços Partilhados em ERP. Estes ficheiros são atualizados no primeiro dia de cada mês.
+- **Microsoft Azure Instâncias Reservadas** inclui informações sobre preços para todas as moedas suportadas para instâncias reservadas do Azure. O download de preços também inclui o preço dos Serviços Partilhados em ERP. Estes ficheiros são atualizados no primeiro dia de cada mês.
 - **As subscrições de** software incluem preços para subscrições de software baseadas em termos para todas as moedas suportadas. O ficheiro de preços inclui todas as moedas suportadas com preço de lista e o preço de venda sugerido pelo fabricante (MSRP). Estes ficheiros são atualizados no primeiro dia de cada mês.
 - **Os preços do plano Azure** incluem informações sobre preços para os serviços de consumo do plano Azure e preços de reserva do plano Azure. Os preços são preços diretos ou ERP e podem ser recuperados para qualquer mercado apoiado. Os dados nestes ficheiros são atualizados todos os dias.
 - **As taxas de câmbio** são utilizadas para calcular a faturação cobrada entre USD e a moeda local dos parceiros. As tarifas são atualizadas no primeiro dia de cada mês e mantêm-se verdadeiras para o mês em que as tarifas são disponibilizadas. Estes ficheiros são atualizados no primeiro dia de cada mês.
@@ -81,7 +83,7 @@ A CSP oferece alguns serviços a segmentos de mercado especiais, por exemplo, ed
 |-------------------|-----------------------|----------------------------|-----------------------------|
 |Education|Cliente|Não, a qualificação do cliente será realizada pela Microsoft |Apenas com base em licenças|
 |Sem fins lucrativos|Cliente|Não, o cliente qualifica-se fora do Partner Center|Apenas com base em licenças|
-|GCC (Government Community Cloud)|Parceiro e cliente|Uma vez ativado o GCC, o parceiro pode criar clientes GCC| Apenas com base em licenças|
+|GCC (Government Community Cloud)|Parceiro e cliente|Uma vez ativado GCC, o parceiro pode criar clientes GCC| Apenas com base em licenças|
 |Azure Government|Parceiro|Uma vez qualificado, o parceiro opera num inquilino da CSP específico do Governo Azure|Recursos do Azure|
 
 As margens dos parceiros, a diferença entre o preço da lista e os preços estimados de venda a retalho, podem variar de segmento para segmento. Normalmente, a educação e a sem fins lucrativos tendem a ter margens mais baixas ou sem margem para os parceiros da CSP. Consulte a lista de preços baseada na licença para obter valores exatos. 
@@ -145,13 +147,13 @@ Existem aproximadamente 50 ofertas da Dynamics que têm mandatos de três anos. 
 
 ### <a name="72-month-offers"></a>Ofertas de 72 meses
 
-A oferta base microsoft 365 A1 tem um prazo de seis anos.  Os addons A1 do Office 365 estão disponíveis após a compra desta oferta base. 
+Microsoft 365 A1 oferta base tem um mandato de seis anos.  Os Office 365 A1 addons estão disponíveis após a compra desta oferta base. 
 
 |**Nome da oferta**   |**ID da oferta**   |**Tipo**|
 |-------------------|-----------------------|----------------------------|
 |Microsoft 365 A1|778a4dce-0014-4d53-8647-314ef2b091d2|Oferta base|
-|Escritório 365 A1 para docentes (para Dispositivo)|0757d14e-7c57-456f-8dab-47d164f2ff1f|Add-on|
-|Escritório 365 A1 para estudantes (para Dispositivo)|bae285a9-d56b-4384-b02f-38adc61a6f12|Add-on|
+|Office 365 A1 para o corpo docente (para dispositivo)|0757d14e-7c57-456f-8dab-47d164f2ff1f|Add-on|
+|Office 365 A1 para estudantes (para dispositivo)|bae285a9-d56b-4384-b02f-38adc61a6f12|Add-on|
 
 Abaixo está um resumo de como estas ofertas funcionam:
 

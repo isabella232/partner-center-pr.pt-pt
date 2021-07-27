@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c77f5eb97771c4768f76b8d35c0d4493c5070ff2
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: 9e7783462f005e63e4311ff6cf37c0d3c05aa45c
+ms.sourcegitcommit: d133c8b923b90ac5518cb989c0ce4dd69713abf4
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114377252"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "114433576"
 ---
 # <a name="export--data-definitions"></a>Exportação - Definições de dados 
 
@@ -42,22 +42,31 @@ Os vários relatórios, que pode descarregar juntamente com as suas definições
 
 | Nome da coluna | Descrição dos dados | 
 | :--------- | :--------- | 
-| CustomerName | Nome do cliente | 
-| CustomerTenantId | Identificador do inquilino do cliente | 
-| CustomerTpid | Identificador do principal cliente do progenitor | 
-| Gestão de Clientes | Segmento de cliente | 
-| Mercado de Clientes | Mercado geográfico do cliente | 
-| CustomerStatus | Estado do cliente (Ativo ou Inativo) | 
-| Produto | O produto vendido ao cliente pela MPN: Office 365, Dynamics 365, Enterprise Mobility and Security, Power BI ou Microsoft Azure | 
-| SKU | SKU de produto | 
-| Mensal | Mês para o qual são reportadas as receitas e o uso | 
-| MPNId | Identificador da Microsoft Partner Network | 
-| PartnerName | Nome do parceiro | 
-| PartnerLocation | Localização geográfica do parceiro | 
-| PartnerAttributionType | Tipo de atribuição do parceiro | 
-| SalesChannel | Canal de vendas | 
-| Lugares disponíveis | Lugares disponíveis | 
-| RevenueUSD | Receitas em dólares americanos | 
+| PGAMpnId| Identificador da conta global do parceiro MPN|
+| CustomerName| Nome do cliente|
+| CustomerTenantId| Identificador do inquilino do cliente|
+| CustomerTpid| Identificador do principal cliente do progenitor|
+| DunsNumber|   Identificador global do sistema de números universais de dados do cliente|
+| Gestão de Clientes | Segmento de cliente|
+| TopSegment    | Classificação de segmento de nível superior do cliente|
+| Mercado de Clientes|   Mercado geográfico do cliente|  
+| CustomerStatus    | Estado do Cliente (Ativo ou Inativo)| 
+| Nome do ClienteTenantName|   Nome do inquilino do cliente|
+| CustomerTenantCountry|    País de inquilino de cliente|
+| Nome do TenantDomain| Nome de domínio do inquilino do cliente|
+| Produto|  O produto vendido ao cliente pela MPN: O365, Dynamics 365, Enterprise Mobility + Security, Power BI ou Microsoft Azure.|
+| CruProductName|   Nome detalhado do produto vendido ao cliente|
+| SKU|  SKU de produto|
+| Mensal|    Mês para o qual são reportadas as receitas e o uso|
+| MPNId|    Identificador da Microsoft Partner Network (MPN)|
+| PartnerName|  Nome do parceiro|
+| PartnerLocation|  Localização geográfica do parceiro|
+| PartnerAttributionType|   Tipo de atribuição do parceiro| 
+| SalesChannel| Canal de Vendas|
+| IsDuplicateRowForPGA| Para várias atribuições de parceiros sob uma única PGA, este valor será definido para 0 para apenas um MPNId. Se o valor for definido para 1, então indica uma linha duplicada|
+| Lugares disponíveis|   Lugares disponíveis|
+| BilledRevenueusd| Receitas faturadas em dólar dos EUA|
+| AzureConsumedRevenueUSD|  Receita consumida do Azure em USD|
 
 ### <a name="reseller-performance-report"></a>**Relatório de desempenho do revendedor**
 
@@ -66,6 +75,7 @@ Os vários relatórios, que pode descarregar juntamente com as suas definições
 
 | Nome da coluna | Descrição dos dados | 
 | :--------- | :--------- | 
+| PGAMpnId | Identificador da conta global do parceiro MPN |
 | RevendedorMPNid | Reconvendar o identificador da Rede de Parceiros da Microsoft | 
 | ResellerName | Nome do revendedor | 
 | RevendedorMarket | País de mercado revendedor | 
@@ -90,57 +100,89 @@ Os vários relatórios, que pode descarregar juntamente com as suas definições
 
 | Nome da coluna | Descrição dos dados | 
 | :--------- | :--------- | 
-| SubscriptionId | GUID da subscrição | 
-| SubscriçãoStartDate | Data de início da subscrição | 
-| SubscriçãoEndDate | Data de fim da subscrição | 
-| Estado de Subscrição | Estado da subscrição (Ativo ou Churned) | 
-| Mensal | Mês para o qual são reportadas as receitas e o uso | 
-| IsautoRenew | Indica se a subscrição é auto-automática (Sim ou Não) | 
-| CustomerName | Nome do cliente | 
-| CustomerTenantId | GUIA do cliente | 
-| CustomerTpid | Identificador de pais de topo do cliente | 
-| Gestão de Clientes | Segmento de mercado do cliente | 
-| Mercado de Clientes | Mercado geográfico do cliente | 
-| Produto | Produto vendido ao cliente pelo parceiro | 
-| SKU | SKU do produto | 
-| MPNId | ID da Rede de Parceiros microsoft do parceiro | 
-| PartnerName | Nome do parceiro | 
-| PartnerLocation | Localização geográfica do parceiro | 
-| PartnerAttributionType | Tipo de atribuição para a subscrição | 
-| SalesChannel | Canal das vendas - Direto, Fornecedor de Soluções em Nuvem (CSP), e assim por diante | 
-| Lugares disponíveis | Assento disponível atual | 
-| RevenueUSD | Receitas em dólares americanos | 
-| ID de inscrição | ID de inscrição da assinatura | 
+|PGAMpnId| Identificador da conta global do parceiro MPN |
+|SubscriptionId | GUID da subscrição|
+|SubscriçãoStartDate | Data de início da subscrição|
+|SubscriçãoEndDate | Data de fim da subscrição|
+|Estado de Subscrição | Estado da subscrição (Ativo ou Churned)|
+|Mensal | Mês para o qual são reportadas as receitas e o uso|
+|IsautoRenew | Indica se a subscrição é autorrenovação (Sim ou Não)|
+|CustomerName | Nome do cliente|
+|CustomerTenantId | GUIA do cliente|
+|CustomerTpid | Identificador de pais de topo do cliente|
+|DunsNumber| Identificador global do sistema de números universais de dados do cliente|
+|Gestão de Clientes | Segmento de mercado do cliente|
+|TopSegment| Classificação de segmento de nível superior do cliente|
+|Mercado de Clientes | Mercado geográfico do cliente|
+|Nome de Produto de Reporte| Nome do produto granular|
+|Produto | Produto vendido ao cliente pelo parceiro|
+|CruProductName| Nome detalhado do produto vendido ao cliente|
+|ProdutoPartNumber| Número parcial do produto|
+|SKU | SKU do produto|
+|Nome revSumDivision| Nome da hierarquia do produto de reporte de receitas|
+|Área de Soluções| Classificação da aplicação de negócios do produto|
+|MPNId | Microsoft Partner Network Id do parceiro|
+|PartnerName | Nome do parceiro|
+|PartnerLocation | Localização geográfica do parceiro|
+|PartnerAttributionType | Tipo de atribuição para a subscrição|
+|SalesChannel | Canal das vendas - Direto, CSP (Fornecedor de Soluções em Nuvem), e assim por diante|
+|PreçosLevel| Ponto de preço da venda|
+|Número de inscrições| Número de inscrição da subscrição|
+|IsDuplicateRowForPGA| Para várias atribuições de parceiros sob uma única PGA, este valor será definido para 0 para apenas um MPNId. Se o valor for definido para 1, então indica uma linha duplicada|
+|SubscriçãoStartMonth| Início do mês da subscrição|
+|RevendedorID| ID do revendedor|
+|ResellerName| Nome do revendedor|
+|DisponívelSeatsEOP| Total de lugares disponíveis até final do período|
+|Lugares disponíveis | Diferença de lugares disponível Mês no mês|
+|BilledRevenueusd | Receitas em USD|
+|AzureConsumedRevenueUSD| Receita consumida do Azure em USD|
 
 ### <a name="azure-usage-report"></a>**Relatório de utilização do Azure**
 
 | Nome da coluna | Descrição dos dados | 
 | :--------- | :--------- | 
-| SubscriptionId | GUID da subscrição | 
-| SubscriçãoStartDate | A data do início da subscrição | 
-| SubscriçãoEndDate | A data do fim da subscrição | 
-| Estado de Subscrição | Estado atual da subscrição (Aberto, Fechado, Ativo ou Em Período de Graça) | 
-| Mensal | Data agregada por mês | 
-| ServiceName | Nome do serviço Azure | 
-| MeterCategory | Nome da categoria de contador | 
-| Unidades de utilização | O número de unidades que são utilizadas durante o ciclo de faturação | 
-| CustomerName | Nome do cliente | 
-| CustomerTenantId | ID do inquilino do cliente | 
-| CustomerTpid | ID do pai de topo do cliente | 
-| Gestão de Clientes | Segmento do cliente | 
-| Mercado de Clientes | Mercado geográfico do cliente | 
-| MPNId | ID da Rede de Parceiros microsoft do cliente | 
-| PartnerName | Nome do parceiro | 
-| PartnerLocation | Localização geográfica do país do parceiro | 
-| PartnerAttributionType | Tipo de atribuição do parceiro | 
-| SalesChannel | Canal das vendas (Direto/CSP, Indirect/CSP, Direto, e assim por diante) | 
-| ACR_USD | Azure consumiu receitas (ACR) em dólares dos EUA | 
-| ID de inscrição | ID de inscrição da assinatura Azure | 
+|PGAMpnId| Identificador da conta global do parceiro MPN|
+|SubscriptionId| GUID da subscrição|
+|SubscriçãoStartDate| A data do início da subscrição|
+|SubscriçãoEndDate| A data do fim da subscrição|
+|Primeiro-ministro| Data em que os serviços da Azure foram usados primeiro|
+|Estado de Subscrição| Estado atual da subscrição (Aberto, Fechado Ativo ou Em Período de Graça)|
+|Mensal| Data agregada por mês|
+|ServiçoLevel1| Nível de Serviço 1 – Corresponde ao Pilar de Serviço, como contentores, bases de dados, networking, etc.|
+|ServiçoLevel2| Nível de Serviço 2 – Corresponde à carga de trabalho do Pilar de Serviço|
+|ServiçoLevel3| Nome de serviço usado por Azure.Microsoft.Com para enquanto lista as ofertas da Azure|
+|ServiçoLevel4| Agrupamentos lógicos de diferenciações de características de alto nível dentro do serviço. Tais como máquinas virtuais de propósito geral, máquinas virtuais otimizadas de memória, Base de Dados SQL única, Base de Dados SQL elástica, etc. |
+|Grupo de Serviços2| Áreas de Prestação de Contas de Receitas de Campo (FRA) tais como AI, App Dev, IoT, etc. |
+|Grupo de Serviço3| Detalhes adicionais para fra como IoT Hub, Mapas para IoT FRA|
+|ServiçoInfluencer| Serviços PaaS que impulsionam o consumo de infra-recursos, tais como Service Fabric, Azure Databricks, AKS, etc.|
+|ComputeOS| Sistema Operativo para o Compute|
+|ComputeCoreSoftware| Compute Core Software|
+|Unidades de utilização| O número de unidades que são utilizadas durante o ciclo de faturação|
+|UtilizaçãoQuantidade| Quantidade de utilização de recursos|
+|CustomerName| Nome do cliente|
+|CustomerTenantId| Id do cliente do inquilino|
+|CustomerTpid| Id parental top cliente|
+|Gestão de Clientes| Segmento do cliente|
+|Mercado de Clientes| Mercado geográfico do cliente|
+|MPNId| Microsoft Partner Network id do cliente|
+|PartnerName| Nome do parceiro|
+|PartnerLocation| Localização geográfica do país do parceiro|
+|PartnerAttributionType| Tipo de atribuição do parceiro|
+|SalesChannel| Canal das vendas (Direto/CSP, Indirect/CSP, Direto e assim por diante)  |
+|Número de inscrições| Número de inscrição da subscrição |
+|IsACRDuplicateAtPGALevel| Para várias atribuições de parceiros sob uma única PGA, este valor será definido para 0 para apenas um MPNId. Se o valor for definido para 1, então indica uma linha duplicada|
+|RevendedorID| ID do revendedor|
+|ResellerName| Nome do revendedor|
+|AdminType| Quando o Tipo de Atribuição de Parceiros é "Partner Admin Link (PAL)" Esta coluna indica a função atribuída na subscrição do cliente.|
+|Tipo de Associação| Tipo de Associação|
+|MensalmenteSubscrevimentoLevelACR| Nível de subscrição mensal ACR|
+|ACR_USD| Azure consumiu receitas (ACR) em dólares dos EUA|
 
 ### <a name="office-365-license-usage-report"></a>**relatório de utilização da licença Office 365**
 
 | Nome da coluna | Descrição dos dados | 
 | :--------- | :--------- | 
+| PGAMpnId | Identificador da conta global do parceiro MPN | 
 | CustomerTenantId | ID do inquilino do cliente | 
 | CustomerTpid | ID do pai de topo do cliente | 
 | Nome da carga de trabalho | Skype para Empresas, Teams, Exchange Online | 
@@ -154,29 +196,52 @@ Os vários relatórios, que pode descarregar juntamente com as suas definições
 | PartnerName | Nome do parceiro | 
 | PartnerLocation | Localização geográfica do parceiro | 
 | PartnerAttributionType | Tipo de atribuição do parceiro | 
+| IsDuplicateRowForPGA | Para várias atribuições de parceiros sob uma única PGA, este valor será definido para 0 para apenas um MPNId. Se o valor for definido para 1, então indica uma linha duplicada|
 
 ### <a name="enterprise-mobility-license-usage-report"></a>**Relatório de utilização da licença de mobilidade empresarial**
 
 | Nome da coluna | Descrição dos dados | 
 | :--------- | :--------- | 
-| CustomerTenantId | ID do inquilino do cliente | 
-| CustomerTpid | ID do pai de topo do cliente | 
-| Nome da carga de trabalho | Nome da carga de trabalho Enterprise Mobility + Security (EMS) | 
-| Mensal | Mês para o qual o uso é reportado | 
-| Unidades Pagas | Número de unidades disponíveis pagas | 
-| MensaisActiveUsers | Número de utilizadores ativos mensais | 
-| CustomerName | Nome do cliente | 
-| Mercado de Clientes | Localização geográfica do mercado do cliente | 
-| Gestão de Clientes | Segmento de cliente | 
-| MPNId | Identificador da Microsoft Partner Network | 
-| PartnerName | Nome do parceiro | 
-| PartnerLocation | Localização geográfica do parceiro | 
-| PartnerAttributionType | Tipo de atribuição do parceiro | 
+| PGAMpnId| Identificador da conta global do parceiro MPN| 
+| SubscriptionId | GUIA da Assinatura| 
+| SubscriçãoStartDate | A data do início da subscrição| 
+| SubscriçãoEndDate | A data em que a subscrição termina| 
+| Subscrição Estatísticas| Estado atual da subscrição (Período Aberto, Fechado, Ativo ou Em Período de Graça)| 
+| Mensal | Data agregada por mês| 
+| SKU| SKU de produto| 
+| SKUId| SKU Id do produto| 
+| FreeVsPaidSKU| Indica SKU gratuito ou pago| 
+| SalesModel| Canal de vendas utilizado para a venda da subscrição| 
+| Modelo de Vendas Detalhadas| Modelo de vendas detalhado para a subscrição| 
+| CustomerName| Nome do cliente| 
+| CustomerTenantId | Id do cliente do inquilino| 
+| CustomerTpid | Id parental top cliente| 
+| Gestão de Clientes | Segmento de cliente| 
+| Mercado de Clientes | Localização geográfica do país do mercado do cliente| 
+| MPNId | ID da rede de parceiros da Microsoft| 
+| PartnerName | Nome do parceiro| 
+| PartnerLocation | Localização geográfica do parceiro| 
+| PartnerAttributionType | Tipo de parceiro de atribuição| 
+| PartnerHierarquia| Hierarquia de parceiros (Organização Virtual ou HeadQuarters ou Localização)| 
+| Unidades Pagas | Número de unidades disponíveis pagas| 
+| MensaisActiveUsers | Número de utilizadores ativos mensais| 
+| AATPActiveUsage| Utilização ativa da Azure Advanced Threat Protection (AATP)| 
+| MCASActiveUsage| Utilização ativa do MCAS| 
+| AADPPaidAvailableUnits| Número de unidades disponíveis pagas para Azure Ative Directory Premium (AADP)| 
+| IntunePaidAvailableUnits| Número de unidades disponíveis pagas para o Intune| 
+| AzipPaidAvailableUnits| Número de unidades disponíveis pagas para a Azip| 
+| AADPMonthlyActiveUsers| Número de utilizadores ativos mensais para Azure Ative Directory Premium (AADP)| 
+| IntuneMonthlyActiveUsers| Número de utilizadores ativos mensais para o Intune| 
+| AzipMonthlyActiveUsers| Número de utilizadores ativos mensais para a Azip| 
+| MDM| MDM| 
+| MAM| MAM| 
+| SSPR| SSPR| 
 
 ### <a name="dynamics-365-license-usage-report"></a>**Relatório de utilização da licença Dynamics 365**
 
 | Nome da coluna | Descrição dos dados | 
 | :--------- | :--------- | 
+| PGAMpnId | Identificador da conta global do parceiro MPN | 
 | SubscriptionId | GUID da subscrição | 
 | SubscriçãoStartDate | Data de início da subscrição | 
 | SubscriçãoEndDate | Data de fim da subscrição | 
@@ -198,16 +263,17 @@ Os vários relatórios, que pode descarregar juntamente com as suas definições
 | PartnerName | Nome do parceiro | 
 | PartnerLocation | Localização geográfica do país do parceiro | 
 | PartnerAttachType | Tipo de atribuição para a subscrição | 
-| Lugares disponíveis | Assento disponível atual | 
-| Caixas designadas | Assento designado atual | 
-| ActiveSeats | Assentos ativos atuais | 
-| ImplantaçãoOpportunidade | Oportunidade de implementação atual | 
-| ActiveUsagePercent | Percentagem de utilização ativa atual | 
+| Lugares disponíveis |  Lugares disponíveis pagos atuais|
+| Caixas designadas |   Lugares atuais atribuídos|
+| ActiveSeats | Assentos ativos atuais|
+| ImplantaçãoOpportunidade |   Oportunidade de implantação é o número de lugares que não são atribuídos|
+| ActiveUsagePercent |  Utilização ativa atual em percentagem dos lugares disponíveis |
 
 ### <a name="power-bi-license-usage-report"></a>**relatório de utilização da licença Power BI**
 
 | Nome da coluna | Descrição dos dados | 
 | :--------- | :--------- | 
+| PGAMpnId | Identificador da conta global do parceiro MPN | 
 | SubscriptionId | GUID da subscrição | 
 | SubscriçãoStartDate | Data de início da subscrição | 
 | SubscriçãoEndDate | Data de fim da subscrição | 
@@ -227,19 +293,21 @@ Os vários relatórios, que pode descarregar juntamente com as suas definições
 | PartnerName | Nome do parceiro | 
 | PartnerLocation | Localização geográfica do país do parceiro | 
 | PartnerAttachType | Tipo de atribuição para a subscrição | 
-| Lugares disponíveis | Lugares disponíveis atuais | 
-| Caixas designadas | Lugares atuais atribuídos | 
-| ActiveSeats | Assentos ativos atuais | 
-| ImplantaçãoOpportunidade | Oportunidade de implementação atual | 
-| ActiveUsagePercent | Percentagem de utilização ativa atual | 
+| PartnerHierarquia |    Hierarquia de parceiros (Organização Virtual ou HeadQuarters ou Localização)|
+| Lugares disponíveis |  Lugares disponíveis pagos atuais|
+| Caixas designadas |   Lugares atuais atribuídos|
+| ActiveSeats | Assentos ativos atuais|
+| ImplantaçãoOpportunidade |   Oportunidade de implantação é o número de lugares que não são atribuídos|
+| ActiveUsagePercent |  Utilização ativa atual em percentagem dos lugares disponíveis|
 
 ### <a name="teams-meetings-and-calls-report"></a>**Teams reuniões e chamadas**
 
 | Nome da coluna | Descrição dos dados | 
 | :--------- | :--------- | 
+| PGAMpnId | Identificador da conta global do parceiro MPN | 
 | CustomerTenantId | ID do inquilino do cliente | 
-| CustomerTpid | Identificador do principal cliente do progenitor | 
-| Mensal | Mês para o qual o uso é reportado | 
+| CustomerId | Identificador do principal cliente do progenitor | 
+| DateKey | Data para a qual a utilização é reportada
 | Subtrabalho | Subtrabalho para o qual é reportada a utilização (reuniões, chamadas ou sistemas telefónicos) | 
 | Contagem de reuniões | Número de reuniões | 
 | Duração da reunião | Duração total da reunião em horas | 
@@ -248,30 +316,34 @@ Os vários relatórios, que pode descarregar juntamente com as suas definições
 
 | Nome da coluna | Descrição dos dados | 
 | :--------- | :--------- | 
-| CustomerTenantId | ID do inquilino do cliente | 
-| CustomerTpid | Identificador do principal cliente do progenitor | 
-| Mensal | Mês para o qual o uso é reportado | 
-| Subtrabalho | Subtrabalho para o qual é reportada a utilização (reuniões, chamadas ou sistemas telefónicos) | 
-| Utilizadores de desktop | Número de utilizadores que usam Teams no ambiente de trabalho | 
-| Utilizadores Móveis | Número de utilizadores que usam Teams no telemóvel | 
-| Utilizadores da Web | Número de utilizadores que usam Teams na web | 
-| AllUpParticipants | Número de utilizadores únicos de Teams para o mês | 
+| PGAMpnId |    Identificador da conta global do parceiro MPN |
+| CustomerTenantId |    Id do inquilino do cliente|
+| CustomerId |  Identificador do principal cliente do progenitor|
+| MonthKey |    Mês para o qual o uso é reportado|
+| SubTrabalho | Subtrabalho para o qual é reportada a utilização (Reuniões, chamadas ou sistemas telefónicos)|
+| DesktopUsers |    Número de utilizadores que usam Teams no ambiente de trabalho|
+| MobileUsers | Número de utilizadores que usam Teams no telemóvel|
+| WebUsers |    Número de utilizadores que usam Teams na web|
+| AllUpParticipants |   Número de utilizadores únicos de Teams para o mês|
 
 ### <a name="teams-usage-3p-apps-report"></a>**relatório de aplicações 3P de uso Teams**
 
 | Nome da coluna | Descrição dos dados | 
 | :--------- | :--------- | 
-| CustomerTenantId | ID do inquilino do cliente | 
-| CustomerTpid | ID do pai de topo do cliente | 
-| Mensal | Mês para o qual o uso é reportado | 
-| Nome da aplicação 3P | Nome da app Teams | 
-| Contagem de utilizadores | Número de utilizadores para a app | 
-
+| PGAMpnId  | Identificador da conta global do parceiro MPN |
+| CustomerTenantId |    Id do inquilino do cliente |
+| CustomerId |  Id parental top cliente |
+| CustomerName |    Nome do cliente |
+| CustomerCountry | País de clientes |
+| DateKey | Data para a qual a utilização é reportada |
+| AppName | Nome da app Teams |
+| Contagem de utilizadores |   Número de utilizadores para a app |
 
 ### <a name="training-details-report"></a>**Relatório de detalhes da formação**
 
 | Nome da coluna | Descrição dos dados | 
 | :--------- | :--------- | 
+| PGAMpnId  | Identificador da conta global do parceiro MPN |
 | TrainingActivityId | Identificador da formação | 
 | TrainingTitle | Título da formação | 
 | Célula de Formação | Tipo de formação (certificação ou exame) | 
@@ -280,6 +352,8 @@ Os vários relatórios, que pode descarregar juntamente com as suas definições
 | E-mail | ID de e-mail pessoal do cliente | 
 | CorpEmail | Office e-mail ID do cliente | 
 | Curso de FormaçãoDate | Data de conclusão da formação | 
+| ExpiraçãoDate |  Data de validade da Certificação|
+| ActivaçãoStatus |    Estado da Certificação|
 | Mensal | Mês para o qual os dados são reportados | 
 | ICMCP | Indica se o utilizador é um Microsoft Certified Professional (MCP) | 
 | MCPID | ID MCP do utilizador | 
@@ -292,6 +366,7 @@ Os vários relatórios, que pode descarregar juntamente com as suas definições
 
 | Nome da coluna | Descrição dos dados | 
 | :--------- | :--------- | 
+| PGAMpnId  | Identificador da conta global do parceiro MPN |
 | Nome de Utilizador | Nome do utilizador | 
 | IDUtilizador | GUIA do utilizador | 
 | Nome de formação | Nome do treino | 

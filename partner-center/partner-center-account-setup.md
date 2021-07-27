@@ -9,12 +9,12 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 19b9378e3e2de0742ea6bc7d6fb96cf58bd5c3de
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: d7f37e6ea8873071d432d376a3e03f7830217690
+ms.sourcegitcommit: d133c8b923b90ac5518cb989c0ce4dd69713abf4
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277713"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "114434171"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Gerir a sua conta Partner Center - perfil da empresa, informações bancárias, funções, permissões e muito mais
 
@@ -22,20 +22,20 @@ ms.locfileid: "112277713"
 
 A conta que cria no Partner Center quando se inscreve é o seu email de trabalho mais as informações do seu negócio. Depois de criar uma conta, terminará a configuração do perfil completo da sua empresa, incluindo detalhes de suporte, isenções de impostos de arquivo, se for caso disso, e informações de contacto primários. A conta da sua empresa também incluirá contas de utilizadores para qualquer pessoa da sua equipa que utilize o Partner Center. O trabalho que podem fazer inclui a adição ou gestão de clientes, a venda de subscrições, o trabalho com faturação e faturação, a criação de perfis de negócio, a gestão de referenciações, o trabalho com programas de incentivos, a prestação de apoio, e muito mais.
 
-Ver artigos [Convide os colaboradores a juntarem-se ao Partner Center](guide-to-migration.md) e adicione um novo [utilizador.](create-user-accounts-and-set-permissions.md)
+Ver artigos [Convide os colaboradores a juntarem-se ao Partner Center](./partner-membership-center-retirement-faq.md) e adicione um novo [utilizador.](create-user-accounts-and-set-permissions.md)
 
 >[!NOTE]
->O menu de definições de definições de conta será alterado dependendo dos programas em que está inscrito. Por exemplo, se for um parceiro no programa Cloud Solution Provider (CSP), poderá gerir os seus serviços Azure Shared a partir das definições de **Conta.**
+>O menu de definições de definições de conta será alterado dependendo dos programas em que está inscrito. Por exemplo, se for um parceiro no programa Fornecedor de Soluções em Nuvem (CSP), poderá gerir os seus serviços Azure Shared a partir das definições de **Conta.**
 
 ## <a name="account-management"></a>Gestão de contas
 
-Todos os parceiros comerciais e desenvolvedores acedem à **gestão de conta** no Partner Center, assinando no painel de [instrumentos](https://partner.microsoft.com/dashboard) partner Center e selecionando **Definições** (o ícone de engrenagem) no canto superior direito do ecrã e, em seguida, **definições** de Conta . Já não tem de escolher entre as definições de Partner e Developer. Todos os perfis e configurações estão agora combinados.
+Todos os parceiros comerciais e desenvolvedores acedem à **gestão de conta** no Partner Center, assinando no [painel](https://partner.microsoft.com/dashboard) partner Center e selecionando **Definições** (o ícone de engrenagem) no canto superior direito do ecrã e, em seguida, **definições** de Conta . Já não tem de escolher entre as definições de Partner e Developer. Todos os perfis e configurações estão agora combinados.
 
 :::image type="content" source="images/accountsettings/opening.png" alt-text="ícone de definições.":::
 
 Isto mostra a página de definições de conta.
 
-:::image type="content" source="images/accountsettings/account-settings-sv.png" alt-text="Menu de definições.":::
+:::image type="content" source="images/accountsettings/account-settings-sv.png" alt-text="Definições menu.":::
 
 ### <a name="locate-your-mpn-id"></a>Localize o seu ID MPN
 
@@ -43,7 +43,7 @@ Quer seja um parceiro ou um desenvolvedor, use o seu ID MPN para coisas como reg
 
 ## <a name="account-settings---partners-resellers"></a>Definições de conta - parceiros, revendedores
 
-Quando seleciona o ícone **Definições** e abre o menu **de definições de Conta,** a vista padrão, se a sua empresa fizer parte do programa Cloud Solution Provider, é **informação legal** que mostra dois separadores, **Parceiro** e **Revendedor**. Cada aba inclui aspetos do seu negócio.
+Quando seleciona o ícone **Definições** e abre o menu **de definições de Conta,** a vista padrão, se a sua empresa fizer parte do programa Fornecedor de Soluções em Nuvem, é **informação legal** que mostra dois separadores, **Parceiro** e **Revendedor**. Cada aba inclui aspetos do seu negócio.
 
 :::image type="content" source="images/accountsettings/reseller.png" alt-text="O menu mostra separadores para Parceiros e Revendedores.":::
 
@@ -93,7 +93,7 @@ Esta página contém todas as informações sobre os seus inquilinos AZure AD, t
 
 ### <a name="identifiers"></a>Identificadores
 
-Esta página contém as identidades do Partner Center para a sua empresa: IDs MPN, IDs de editor, IDs editoriais do Windows, e muito mais.  Cada área pode ser expandida e editada de modo a que, por exemplo, o contacto primário para o seu negócio editorial seja facilmente localizado.
+Esta página contém as identidades do Partner Center para a sua empresa: IDs MPN, IDs de editor, IDs Windows editor, e muito mais.  Cada área pode ser expandida e editada de modo a que, por exemplo, o contacto primário para o seu negócio editorial seja facilmente localizado.
 
 ### <a name="company-profile"></a>Perfil da empresa
 
@@ -120,7 +120,7 @@ Para atualizar o seu e-mail preferido para receber notificações do Partner Cen
 
 ### <a name="find-your-user-role"></a>Encontre a sua função de utilizador
 
-1. Vá a **Definições** e selecione **O meu perfil**.
+1. Vá a **Definições** e selecione **O meu perfil.**
 
 1. Na página **Detalhes,** verá as suas informações pessoais no que diz respeito ao seu trabalho e aos seus dados de aprendizagem, exames e certificações.
 
@@ -149,7 +149,7 @@ Para saber mais sobre a inscrição em determinados programas do Partner Center,
 - [Programa de Marketplace Comercial](/azure/marketplace/partner-center-portal/create-account)
 - [Benefícios de adesão à Microsoft Partner Network](mpn-overview.md)
 - [Programa CSP](./enrolling-in-the-csp-program.md)
-- [Loja de Escritórios](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/office)
+- [Office Loja](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/office)
 
 Para saber mais sobre a inscrição nos programas do Partner Center, consulte também [os recursos de rede partner.](https://partner.microsoft.com/)
 

@@ -8,19 +8,19 @@ ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 670fae58a9a0e25127eb746f38063ea300d5ee2f
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: f3be1b1d267321a4229ba3ea56aa950e14538289
+ms.sourcegitcommit: d133c8b923b90ac5518cb989c0ce4dd69713abf4
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110152091"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "114433950"
 ---
 # <a name="enrollment-and-user-management-in-the-incentives-program"></a>Inscrição e gestão de utilizadores no programa de incentivos
 
 **Funções adequadas**: Administradores de incentivos
 
 >[!NOTE]
->Antes de se inscrever no programa de incentivos, deve ter concluído o Centro de Adesão de Parceiros à [migração](prepare-pmc-pc-migration.md)do Partner Center.
+>Antes de se inscrever no programa de incentivos, deve ter concluído o Centro de Adesão de Parceiros à [migração](./partner-membership-center-retirement-faq.md)do Partner Center.
 
 O processo de inscrição consiste em duas etapas.
 
@@ -37,7 +37,7 @@ Para se inscrever num programa de incentivos do Partner Center, o administrador 
 
 ## <a name="enrollment-process"></a>Processo de Inscrição
 
-Assim que a sua organização for elegível para incentivos, a Microsoft enviará um convite ao administrador de incentivo do MPNLocationID elegível para iniciar o processo de inscrição. Este e-mail será enviado do **Microsoft Partner Center,** e terá o convite de **inscrição de incentivo para parceiros sujeitos.** Abra o convite e **selecione Get Start**.
+Assim que a sua organização for elegível para incentivos, a Microsoft enviará um convite ao administrador de incentivo do MPNLocationID elegível para iniciar o processo de inscrição. Este e-mail será enviado do **Microsoft Partner Center,** e terá o convite de **inscrição de incentivo para parceiros sujeitos.** Abra o convite e selecione **Introdução**.
 
 Você também verá um convite na página inicial do Partner Center. Assim que selecionares essa mensagem, não poderás voltar a vê-la. No entanto, o Administrador de Incentivos ainda pode concluir o processo assinando no painel de [instrumentos](https://partner.microsoft.com/dashboard/) do Centro parceiro e selecionando **a Visão Geral** em **Incentivos** no navegador esquerdo. **Selecione Inscrever-se** e, em seguida, completar o pagamento e o perfil de impostos para o programa.
 

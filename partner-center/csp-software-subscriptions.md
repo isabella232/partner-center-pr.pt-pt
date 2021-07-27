@@ -9,22 +9,22 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 309a3578edcd06770c818722f2164a4d10a945da
-ms.sourcegitcommit: 32ef8d43902357a85df420b48b0ec1d63ad073e4
+ms.openlocfilehash: 5793ae33420a131362e6d81cc69817beef3cc158
+ms.sourcegitcommit: d133c8b923b90ac5518cb989c0ce4dd69713abf4
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/02/2021
-ms.locfileid: "110754482"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "114433933"
 ---
-# <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Vender subscrições de software através do programa Cloud Solution Provider (CSP)
+# <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Vender subscrições de software através do programa Fornecedor de Soluções em Nuvem (CSP)
 
 **Funções adequadas**: Agente administrador | Administração global
 
-Com reservas Azure e subscrições de Servidor (subscrições do Windows Server e SQL Server), os parceiros do programa CSP podem melhor responder à procura de soluções mais económicas e persistentes para o cliente. 
+Com reservas Azure e subscrições de Servidor (subscrições Windows Servidor e SQL Server), os parceiros do programa CSP podem melhor responder à procura de soluções mais económicas e rápidas para suportar cargas de trabalho em nuvem altamente previsíveis e persistentes. 
 
 Agora pode adquirir, provisões e gerir reservas e subscrições do Azure em nome de clientes comerciais através do Partner Center e do portal Azure, tirando partido do Benefício Híbrido Azure.
 
-O Azure Hybrid Benefit ajuda-o a obter mais valor das suas licenças do Windows Server e a economizar até 40% em máquinas virtuais. Pode utilizar o benefício com licenças de datacenter do Windows Server e standard edition cobertas com a Software Assurance. Dependendo da edição, pode converter ou reutilizar as suas licenças para executar máquinas virtuais do Windows Server em Azure e pagar uma taxa de computação base mais baixa (taxas de máquina virtual Linux, por exemplo).
+O Azure Hybrid Benefit ajuda-o a obter mais valor das licenças do seu Windows Server e a economizar até 40% em máquinas virtuais. Pode utilizar o benefício com Windows licenças de datacenter do servidor e licenças standard de edição cobertas com a Garantia de Software. Dependendo da edição, pode converter ou reutilizar as suas licenças para executar Windows máquinas virtuais do Servidor em Azure e pagar uma taxa de computação base mais baixa (taxas de máquina virtual Linux, por exemplo).
 
 ## <a name="azure-reservations-unavailable-markets"></a>Azure reserva mercados indisponíveis
 
@@ -85,7 +85,7 @@ Para comprar subscrições de software em nome de um cliente:
 
 ## <a name="activate-and-manage-software-subscriptions"></a>Activate and manage software subscriptions (Ativar e gerir subscrições de software)
 
-Depois de ter adquirido o seu software, você ou os seus clientes precisam descarregá-lo (parceiros usando Partner Center; clientes que usam o Microsoft 365 Admin Center). Utilize o seguinte procedimento para o fazer. É importante compreender os riscos associados à cópia de links e ao descarregamento de software. Para obter mais informações, consulte **o Use Partner Center para obter transferências de software de clientes e chaves de licença** no Guia de Operações do Centro Parceiro de Novos [Comércio.](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf)
+Depois de ter adquirido o seu software, você ou os seus clientes precisam descarregá-lo (parceiros usando Partner Center; clientes que usam o Centro de Administração Microsoft 365). Utilize o seguinte procedimento para o fazer. É importante compreender os riscos associados à cópia de links e ao descarregamento de software. Para obter mais informações, consulte **o Use Partner Center para obter transferências de software de clientes e chaves de licença** no Guia de Operações do Centro Parceiro de Novos [Comércio.](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf)
 
 >[!NOTE]
 >Você deve ser um agente de administração no Partner Center para obter o link para chaves e downloads.
@@ -103,11 +103,11 @@ Depois de ter adquirido o seu software, você ou os seus clientes precisam desca
 6. Também pode **cancelar** a encomenda de software e receber 100% de crédito (se for feito dentro do período de 30 dias de política de cancelamento).
 
 >[!NOTE]
->Apenas os clientes têm acesso para ver as chaves do produto e descarregar informações no Microsoft 365 Admin Center (função global de administração necessária). Os parceiros devem usar o Partner Center para ver esta informação.
+>Apenas os clientes têm acesso para ver as chaves do produto e descarregar informações no Administração Microsoft 365 Center (função Global Admin necessária). Os parceiros devem usar o Partner Center para ver esta informação.
 
-## <a name="server-subscription-download-and-license-keys-available-through-microsoft-365-admin-center-for-customers"></a>Chaves de descarregamento e licença de subscrição do servidor disponíveis através do Microsoft 365 Admin Center para clientes 
+## <a name="server-subscription-download-and-license-keys-available-through-microsoft-365-admin-center-for-customers"></a>Servidor de subscrição de transferência e chaves de licença disponíveis através do Administração Microsoft 365 Center para clientes 
 
-Os seus clientes poderão obter chaves de licença de subscrição de servidor CSP e downloads a partir do Microsoft 365 Admin Center. Para ver as chaves e transferências de licença de subscrição do servidor CSP, o cliente deve ir ao Microsoft 365 Admin Center > **Billing > O separador software > os seus produtos.** Para obter mais detalhes, consulte [o Separador de Software em Faturação](/microsoft-365/admin/whats-new-in-preview#billing--subscriptions).  
+Os seus clientes poderão obter chaves de licença de subscrição de servidor CSP e downloads a partir do Administração Microsoft 365 Center. Para ver as chaves e transferências de licença de subscrição do servidor CSP, o cliente deve ir ao Administração Microsoft 365 Center > **Billing > O separador software >** produtos. Para obter mais detalhes, consulte [o Separador de Software em Faturação](/microsoft-365/admin/whats-new-in-preview#billing--subscriptions).  
 
 ## <a name="view-activity-for-software-key-access-and-software-downloads"></a>Ver atividade para acesso a chaves de software e downloads de software
 
@@ -202,6 +202,6 @@ Se tentou cancelar uma compra de software através do Partner Center, mas lhe fo
 
 ## <a name="next-steps"></a>Passos seguintes
 
+- [Guia para encomendar e cumprir através do Centro de Parceiros](https://partner.microsoft.com/resources/detail/guide-to-ordering-and-fulfillment-through-partner-center-pdf)
 - [Use Partner Center para vender subscrições de clientes a produtos de mercado comercial](sell-marketplace-products.md)
- 
 - [Atribuir assinaturas Azure a clientes no Partner Center](assign-azure-subscriptions.md)

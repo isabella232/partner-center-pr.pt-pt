@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6edd8d18610947f61f88af8c3e3563508244586e
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 1ed25c3f1c9e5f8cec5384762fa9bdf5d09e5b76
+ms.sourcegitcommit: d133c8b923b90ac5518cb989c0ce4dd69713abf4
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110152227"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "114433647"
 ---
 # <a name="partner-with-microsoft-and-discover-membership-benefits"></a>Parceria com a Microsoft e descubra benefícios de adesão
 
@@ -39,7 +39,7 @@ Reveja os recursos abaixo para saber mais sobre o Action Pack:
 - [Obtenha o Pacote de Ação](mpn-get-action-pack.md)
   
     >[!IMPORTANT]
-    >Gere a subscrição do Action Pack no Partner Center. Se a sua empresa ainda não se mudou para o Partner Center a partir do Partner Membership Center, leia [Prepare-se para a sua mudança para o Partner Center](prepare-pmc-pc-migration.md)  
+    >Gere a subscrição do Action Pack no Partner Center. Se a sua empresa ainda não se mudou para o Partner Center a partir do Partner Membership Center, leia [Prepare-se para a sua mudança para o Partner Center](./partner-membership-center-retirement-faq.md)  
 
 - [Renew your MPN offers](renew-mpn-offers.md) (Renovar as ofertas da MPN)
 

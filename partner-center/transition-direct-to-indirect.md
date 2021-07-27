@@ -1,27 +1,27 @@
 ---
 title: Mude o parceiro de conta direta para o revendedor indireto
 ms.topic: how-to
-ms.date: 06/05/2020
+ms.date: 07/21/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Saiba como um parceiro de programa Cloud Solution Provider (CSP) pode usar o Partner Center para transitar de parceiro de conta direta para revendedor indireto.
+description: Saiba como um parceiro de programa Fornecedor de Soluções em Nuvem (CSP) pode usar o Partner Center para transitar de parceiro de conta direta para revendedor indireto.
 author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 205451a1c42c6538936df49ba8a4314372a94082
-ms.sourcegitcommit: 09eabb559aae25518caf3f2a59ef16a3e123c207
+ms.openlocfilehash: 3caec7f715d817de73e245086f7f53b8b59f22ac
+ms.sourcegitcommit: d133c8b923b90ac5518cb989c0ce4dd69713abf4
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "112490058"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "114433814"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Transição do parceiro de faturação direta do Fornecedor de Soluções Cloud para o revendedor indireto do CSP
 
 **Funções apropriadas**: Administração global
 
->[!Note]
->Este artigo destina-se a parceiros de conta direta que tenham decidido transitar para revendedores indiretos. No entanto, mesmo que ainda não tenha tido uma decisão explícita de se inscrever como revendedor indireto, os parceiros de conta direto que não satisfaçam os novos requisitos para o programa de [parceiros](direct-partner-new-requirements.md) de conta direta CSP serão informados pela Microsoft quando as suas [capacidades de conta direta forem restringidas.](restricted-direct-bill-capabilities.md)
+> [!NOTE]
+> Este artigo destina-se a parceiros de conta direta que tenham decidido transitar para revendedores indiretos. No entanto, mesmo que ainda não tenha tido uma decisão explícita de se inscrever como revendedor indireto, os parceiros de conta direto que não satisfaçam os novos requisitos para o programa de [parceiros](direct-partner-new-requirements.md) de conta direta CSP serão informados pela Microsoft quando as suas [capacidades de conta direta forem restringidas.](restricted-direct-bill-capabilities.md)
 <br>A partir de janeiro de 2021, será adicionado um novo requisito de receita. Os parceiros inscritos como parceiro de conta direta terão de ter transacionado pelo menos USD$300K em receitas do programa CSP a um nível de Conta Global de Parceiros nos 12 meses anteriores.
 
 Poderá inscrever-se no programa de revenda indireto utilizando o seu inquilino de fatura direta existente.
@@ -38,7 +38,7 @@ Poderá inscrever-se no programa de revenda indireto utilizando o seu inquilino 
 
    :::image type="content" source="images/direct/direct2a.png" alt-text="Inscreva-se agora.":::
 
-4. Selecione Matricular-se agora. O seu negócio de revendedor indireto utilizará o mesmo inquilino do Microsoft Azure Ative Directory (Azure AD) que utiliza para o seu negócio direto.
+4. Selecione Matricular-se agora. O seu negócio de revendedor indireto utilizará o mesmo inquilino Microsoft Azure Ative Directory (Azure AD) que utiliza para o seu negócio direto.
 
     > [!NOTE]
     > Inicialmente, esta nova capacidade de transição estará disponível para parceiros com datas de aniversário de setembro a dezembro. Se não tiver uma data de aniversário entre setembro e dezembro, não verá a capacidade neste momento. Os parceiros com datas de aniversário após dezembro de 2018 serão notificados mais tarde assim que a funcionalidade estiver ativada para os parceiros.
@@ -46,7 +46,7 @@ Poderá inscrever-se no programa de revenda indireto utilizando o seu inquilino 
 5. Quando a sua inscrição for aprovada, inscreva-se novamente no Partner Center.
 
     > [!NOTE]
-    > Embora a aprovação seja geralmente imediata, pode levar até cinco dias úteis. Uma vez aprovado, receberá uma notificação para o endereço de e-mail que especificou no contacto primário no formulário de inscrição. Também pode verificar o estado de inscrição nas  >  **definições de definições de definições**  >  **de perfil do parceiro** > informações do Programa.
+    > Embora a aprovação seja geralmente imediata, pode levar até cinco dias úteis. Uma vez aprovado, receberá uma notificação para o endereço de e-mail que especificou no contacto primário no formulário de inscrição. Também pode verificar o estado de inscrição Definições  >  **informações do** Programa >  >  **do Perfil** de Parceiro Definições.
 
 6. Na sua página **de visão geral,** verá o acordo de revendedor indireto. Selecione **Aceitar e continuar.** Esta ação permite as capacidades de revendedor indiretos.
 
@@ -160,7 +160,7 @@ Pode utilizar a funcionalidade de extensão de relacionamento do revendedor para
 
 - O seu fornecedor indireto não será [dotando de privilégios administrativos delegados](customers-revoke-admin-privileges.md) ao cliente. Se o seu fornecedor indireto necessitar de privilégios de administração delegados, deve enviar um convite de revendedor indireto ao cliente.
 
-- Uma vez estabelecida a relação de revendedor, o fornecedor indireto aparecerá como parceiro CSP para o cliente na página De Relações com Parceiros no [Microsoft 365 Admin Center](https://admin.microsoft.com/AdminPortal/Home#/partners) e [Microsoft Store for Business](/microsoft-store/work-with-partner-microsoft-store-business).
+- Uma vez estabelecida a relação de revendedor, o fornecedor indireto aparecerá como parceiro CSP para o cliente na página Relações com parceiros no [Administração Microsoft 365 Center](https://admin.microsoft.com/AdminPortal/Home#/partners) e [Microsoft Store para Empresas](/microsoft-store/work-with-partner-microsoft-store-business).
 
     > [!IMPORTANT]
     > Para evitar confusões e mal-entendidos, é contratualmente obrigado pelo seu acordo de parceiro a informar e obter o consentimento do cliente de conta direta antes de utilizar a funcionalidade de extensão de relacionamento para estabelecer uma relação de revenda entre um cliente de conta direta existente e um fornecedor indireto.
@@ -209,7 +209,7 @@ O Microsoft Cloud Agreement é válido até 31 de janeiro de 2020. Após essa da
 
    Por favor, trabalhe com o Fornecedor Indireto para que o cliente [aceite o Acordo de Cliente da Microsoft.](confirm-customer-agreement.md)
 
-- **O Cliente aceitou o Microsoft Customer Agreement consigo através do Microsoft 365 Admin Center**
+- **O Cliente aceitou o Acordo de Cliente da Microsoft consigo através do Administração Microsoft 365 Center**
 
    A aceitação será mantida assim que a relação do revendedor for estabelecida com o Fornecedor Indireto. Não há nada que precises de fazer.
 
@@ -332,7 +332,7 @@ O parceiro de transição deve fazer o seguinte:
 
    1. Se se trata de uma subscrição do Azure (MS-AZR-0145P), deixará de ser listada.
 
-   2. Se se trata de uma subscrição baseada em licença (Office 365, Dynamics, Intune), será listada com o estado como **Suspenso.**
+   2. Se se trata de uma subscrição baseada em licenças (Office 365, Dynamics, Intune), será listada com o estado como **Suspenso**.
 
    :::image type="content" source="images/direct/direct13.png" alt-text="Assinatura suspensa.":::
 
@@ -348,6 +348,9 @@ O parceiro de transição deve fazer o seguinte:
 
 - **Nem todas as compras podem ser transferidas usando transferência de assinatura auto-servida.** Atualmente, só é possível transferir subscrições O365 e subscrições Azure PAYG (MS-AZR-0145P) utilizando esta funcionalidade. Outras compras, incluindo planos Azure, Azure Reserved Instances, Subscrições baseadas em prazos e subscrições SaaS para o Azure Marketplace não são suportadas. Verá uma razão pela qual uma subscrição não pode ser transferida na página de pedido de transferência de envio. Para transferir estas subscrições, terá de [cancelar a subscrição existente](create-a-new-subscription.md#suspend-or-cancel-a-subscription) e adquirir uma nova oferta para o cliente através do Fornecedor Indireto.
 
+   > [!NOTE]
+   > As alterações à [oferta do Azure na CSP](./announcements/2021-july.md) relacionadas com a nova experiência de comércio não terão impacto neste cenário de transição. Pode transferir continuamente as assinaturas Azure PAYG[(MS-AZR-0145P)](https://go.microsoft.com/fwlink/p/?linkid=2164140)para o Fornecedor Indireto.
+
 - **Não é possível testar utilizando o ambiente da caixa de areia.**
 
 ## <a name="enroll-for-indirect-reseller-incentives"></a>Inscreva-se para incentivos indiretos do revendedor
@@ -360,4 +363,4 @@ Você também é elegível para se inscrever para programas de incentivo de cont
 
 - [Informações adicionais sobre se tornar um revendedor indireto](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf)
 - [CSP parceiro direto novos requisitos](direct-partner-new-requirements.md)
-- [Capacidades de conta direta restritas](restricted-direct-bill-capabilities.md)
+- [Capacidades de faturação direta restringidas](restricted-direct-bill-capabilities.md)
