@@ -9,12 +9,12 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b1bb86a493ce81cb02b14c9555f82767d10f841c
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 0790bfa717840f5cd60b99ef4f50cf3c242149b0
+ms.sourcegitcommit: e4aed966f3f843e938a1e584eeeae0a0ca386bd7
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855953"
+ms.lasthandoff: 07/28/2021
+ms.locfileid: "114749144"
 ---
 # <a name="get-referral-insights-in-partner-center-and-find-out-how-your-referrals-are-doing"></a>Obtenha informações de referência no Partner Center e descubra como estão as suas referências
 
@@ -25,7 +25,7 @@ A página **de Oportunidades de Co-venda** sob a secção **Analytics** em Refer
 Para ver os seus dados de insights de oportunidades de Co-venda, a partir do menu Partner Center, vá a **Referrals > Analytics > Co-sell Opportunities**.
 
 > [!Important]
-> O filtro tipo de negócio é pré-aplicado com o tipo **co-venda** selecionado para todos os dados. Remova o filtro, se quiser analisar os dados relacionados com ofertas privadas e orientadas por parceiros.
+> O filtro tipo de negócio é pré-aplicado com o tipo **co-venda** e **liderado por parceiros** selecionado para todos os dados. Remova o filtro, se quiser analisar os dados para todo ou tipo específico de ofertas.
 
 ## <a name="apply-filters"></a>Aplicar filtros
 
@@ -35,7 +35,7 @@ Pode selecionar o botão **Filtros** para abrir o painel que permite filtrar tod
 
 - **Nome do cliente**: O padrão é **Tudo,** mas pode limitar os dados a um ou mais clientes que seleciona.
 - **País**: O padrão é **Tudo,** mas pode limitar os dados a um ou mais países do cliente que seleciona.
-- **Tipo de negócio**: O padrão é **Co-vender** mas pode selecionar All ou limitar os dados a ofertas privadas ou lideradas por parceiros com base na sua seleção.
+- **Tipo de negócio**: O padrão é **Co-vender** e **liderado por Parceiros,** mas pode selecionar All ou limitar os dados a ofertas privadas ou lideradas por parceiros com base na sua seleção.
 - **Direção de negócio** O padrão é **Tudo,** mas pode optar por limitar os dados a referências **de entrada** (que recebeu) ou referências **de saída** (as que enviou).
 - **Nome da solução**: O padrão é **Tudo,** mas pode optar por limitar os dados a referências que contenham uma ou mais soluções que seleciona.
 - **Estado**: O padrão é **Tudo,** mas pode optar por limitar os dados a referências que contenham um ou mais tipos de estado de referência como criados, aceites, recusados, expirados, perdidos e ganhos que seleciona.
@@ -102,11 +102,15 @@ Quando o tipo de negócio é selecionado, você pode comparar o desempenho de re
 
 :::image type="content" source="images/referrals/cosell-analytics-compare-v2.png" alt-text="Imagem mostrando a secção de comparação.":::
 
-## <a name="raw-data-table"></a>Tabela de dados brutos
+## <a name="export"></a>Exportar
 
-O quadro abaixo, com todos os dados brutos relacionados com as oportunidades de Co-venda, irá ajudá-lo a **exportar** rapidamente os dados para qualquer análise detalhada ou personalizada que pretenda realizar.
+Pode exportar os dados de registo de referência e de transações. As seguintes informações descrevem a funcionalidade de exportação.
 
-:::image type="content" source="images/referrals/cosellanalyticsrawdata.png" alt-text="Imagem mostrando a tabela de dados bruto para referências.":::
+- Pode exportar um **máximo de 5000 registos** clicando no botão **de exportação.** Os registos serão classificados em ordem descendente com base na data de criação de encaminhamento.
+- A função de exportação tem em conta a linha do tempo e os filtros que foram aplicados.
+- O parceiro pode optar por descarregar o relatório em formato CSV (valor separado em vírgula) ou TSV (valor separado por separados por separados por separados por separados.
+- Pode levar alguns minutos para baixar os registos.
+- Tem de esperar que o download esteja concluído. Navegar fora cancelará a exportação.
 
 ## <a name="no-data"></a>Sem dados
 
@@ -121,7 +125,7 @@ Pode haver várias razões pelas quais está a receber um gráfico em branco com
 :::image type="content" source="images/referrals/nodata.png" alt-text="Imagem não mostrando visualização de dados para referências.":::
 
 > [!NOTE]
-> A página **Informações de referências** mostra apenas dados de referências gerados no Centro de Parceiros. Não mostra dados para referências geradas através [do Partner Sales Connect](psc-to-pc.md) ou de quaisquer outros mecanismos.
+> A página **Informações de referências** mostra apenas dados de referências gerados no Centro de Parceiros. Não mostra dados para referências geradas através de Ligação de [Vendas de Parceiros](psc-to-pc.md) ou quaisquer outros mecanismos.
 
 > [!TIP]
 > Para ver como o seu perfil de negócio está a funcionar na experiência do [fornecedor de soluções,](https://www.microsoft.com/solution-providers/home) consulte a página de insights de perfil de [Negócios.](analyze-your-marketing-profile.md)
