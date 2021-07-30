@@ -3,18 +3,18 @@ title: Edição Empresarial Migrate Dynamics 365
 ms.topic: article
 ms.date: 05/18/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-pricing
 description: Saiba como migrar as ofertas qualificadas dynamics 365 Business Edition para versões mais recentes antes de expirarem.
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8232ab165ea68ebefdfbb30f3ac52c907e1b7278
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 2e8eca0a645656388516c4c25f0091713424caf0
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110151530"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114838296"
 ---
 # <a name="migrate-dynamics-365-business-edition-offers-to-newer-versions"></a>Migrate Dynamics 365 Business Edition Offers to newer versions (Migrar as Ofertas do Dynamics 365 Business Edition para versões mais recentes)
 
@@ -33,7 +33,7 @@ Se utilizar a API (CREST ou Partner Center), pode encontrar subscrições caduca
 
 ## <a name="dynamics-business-central---the-dynamics-365-business-edition-new-offers"></a>Dynamics Business Central - as novas ofertas da Dynamics 365 Business Edition
 
-Com as novas ofertas da Dynamics Business Central, os seus clientes podem ligar as suas finanças, vendas, serviços e operações para agilizar processos de negócio, melhorar as interações dos clientes e tomar melhores decisões. A Dynamics 365 Business Central é baseada na nuvem e está disponível apenas através de parceiros de programas Cloud Solution Provider (CSP).
+Com as novas ofertas da Dynamics Business Central, os seus clientes podem ligar as suas finanças, vendas, serviços e operações para agilizar processos de negócio, melhorar as interações dos clientes e tomar melhores decisões. A Dynamics 365 Business Central é baseada na nuvem e está disponível apenas através de parceiros de programa Fornecedor de Soluções em Nuvem (CSP).
 Os clientes da Dynamics 365 Business Edition podem receber preços de transição descontados para as novas ofertas da Business Central até 30 de junho de 2020.
 
 ## <a name="transition-customers-to-new-product-plans"></a>Transição de clientes para novos planos de produtos

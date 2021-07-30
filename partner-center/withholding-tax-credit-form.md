@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 06/05/2020
 description: Receba crédito na sua conta partner center para retenção na fonte de impostos. A informação inclui medidas para submeter um pedido de retenção na fonte fiscal.
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-billing
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 05bf6e09c5dc5982c3faa3e426f7b99acfc09949
-ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
+ms.openlocfilehash: a033b474a472a1737a2d6d171ee98c1c1bdf1317
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/22/2021
-ms.locfileid: "112431728"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114844757"
 ---
 # <a name="receive-credit-on-your-partner-center-account-for-tax-withholding"></a>Receba crédito na sua conta partner center para retenção na fonte de impostos
 
@@ -22,7 +22,7 @@ ms.locfileid: "112431728"
 
 ## <a name="overview"></a>Descrição Geral
 
-Os parceiros do Cloud Solution Provider (CSP) em alguns países recebem valores de fatura que incluem impostos. Alguns destes parceiros pagam à autoridade fiscal local em vez da Microsoft. Se pagar à sua autoridade tributária local, tem de apresentar um pedido de retenção na fonte, incluindo o seu certificado fiscal para limpar o valor tributado das faturas anteriores. Estes valores apurados refletem-se na última coluna **de pagamento** na página **de Faturação** no Partner Center.
+Fornecedor de Soluções em Nuvem parceiros (CSP) em alguns países recebem valores de fatura que incluem impostos. Alguns destes parceiros pagam à autoridade fiscal local em vez da Microsoft. Se pagar à sua autoridade tributária local, tem de apresentar um pedido de retenção na fonte, incluindo o seu certificado fiscal para limpar o valor tributado das faturas anteriores. Estes valores apurados refletem-se na última coluna **de pagamento** na página **de Faturação** no Partner Center.
 
 Os parceiros costumavam apresentar pedidos de retenção na fonte através da criação de pedidos de serviço (bilhetes de apoio a parceiros) no Partner Center. Este processo mudou em janeiro de 2020. Agora, os parceiros da CSP devem apresentar pedidos de retenção na fonte de imposto na página de **Faturação** em vez de criarem Pedidos de Apoio.
 

@@ -3,35 +3,35 @@ title: Acordos de CSP, listas de preços e ofertas
 ms.topic: article
 ms.date: 05/15/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
-description: Encontre links para guias de programas cloud Solution Provider, acordos de parceiros, acordos de clientes, listas de preços e ofertas.
+ms.subservice: partnercenter-enroll
+description: Encontre links para Fornecedor de Soluções em Nuvem guias de programas, acordos de parceiros, acordos de clientes, listas de preços e ofertas.
 author: billLinzbach
 ms.author: billli
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d7811decea89ecee8bc1db565fb9952a8d62e572
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: eea3a3232996a86520627f58a0897bd2cc815e93
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110147790"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114837650"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Cloud Solution Provider program guide, agreements, price lists, and offers (Guia, contratos, listas de preços e ofertas do programa Fornecedor de Solução Cloud)
 
-**Aplica-se a**: Partner Center | Centro de Parceiros para Microsoft Cloud para governo dos EUA
+**Aplica-se a**: Partner Center | Centro de Parceiros para Microsoft Cloud for US Government
 
 **Funções adequadas**: Administração global | Agente administrativo
 
-Reveja as informações neste artigo para compreender os requisitos para participar no programa Cloud Solution Provider (CSP) da Microsoft.
+Reveja as informações neste artigo para entender os requisitos para participar no programa de Fornecedor de Soluções em Nuvem da Microsoft (CSP).
 
 ## <a name="cloud-solution-provider-program-guide"></a>Guia do programa de Fornecedor de Solução Cloud
 
-Rever os requisitos para se tornar um parceiro no programa Cloud Solution Provider.
+Rever os requisitos para se tornar um parceiro no programa Fornecedor de Soluções em Nuvem.
 
-[Guia de programas para parceiros cloud Solution Provider](https://go.microsoft.com/fwlink/p/?LinkId=617100)
+[Guia de programas para parceiros Fornecedor de Soluções em Nuvem](https://go.microsoft.com/fwlink/p/?LinkId=617100)
 
 >[!Note]
->Se necessitar de uma carta de negócios que confirme ou ateste o seu estatuto de parceiro da Microsoft aprovado no programa Cloud Solution Provider, [contacte o suporte](https://partner.microsoft.com/pcv/servicerequests/create) para solicitar um.
+>Se necessitar de uma carta de negócios que confirme ou ateste o seu estatuto de parceiro da Microsoft aprovado no programa Fornecedor de Soluções em Nuvem, [contacte o suporte](https://partner.microsoft.com/pcv/servicerequests/create) para solicitar um.
 
 ### <a name="additional-offer-terms-to-the-microsoft-partner-agreement"></a>Termos de oferta adicionais ao Acordo de Parceiros da Microsoft
 
@@ -60,11 +60,11 @@ Se fizer negócios na Alemanha, poderá ter de fornecer esta alteração de sigi
 
 Baixe detalhes de preços para compras baseadas em licenças, baseadas em uso e compras únicas a partir da página **de preços e ofertas,** disponíveis no menu partner **Center.**
 
-A lista de preços baseada em licenças é atualizada mensalmente e a Microsoft lança novos preços 30 dias antes de produzir efeitos. Exemplos de serviços baseados em licenças incluem Office 365, Enterprise Mobility Suite e Microsoft Dynamics CRM. 
+A lista de preços baseada em licenças é atualizada mensalmente e a Microsoft lança novos preços 30 dias antes de produzir efeitos. Exemplos de serviços baseados em licenças incluem Office 365, Suíte de Mobilidade Empresarial e Microsoft Dynamics CRM. 
 
-Os preços baseados na utilização são dinâmicos e mudam frequentemente. Exemplos de serviços baseados em uso incluem o Microsoft Azure.
+Os preços baseados na utilização são dinâmicos e mudam frequentemente. Exemplos de serviços baseados no uso incluem Microsoft Azure.
 
-Os preços de compra únicos também são dinâmicos. Exemplos de compras únicas incluem reservas do Microsoft Azure e subscrições correspondentes ao Windows Server e software SQL.
+Os preços de compra únicos também são dinâmicos. Exemplos de compras únicas incluem reservas Microsoft Azure e subscrições correspondentes para Windows Servidor e software SQL.
 
 Para obter informações sobre ofertas de preços sobre ofertas do Azure Marketplace, vá ao **Marketplace** no menu de navegação do Partner Center. Selecione um produto para ver informações sobre o editor, SKUs e preços. Os preços destes produtos Azure Marketplace podem mudar frequentemente. Para obter informações de preços atuais para todos os produtos marketplace, selecione **a lista de preços de exportação** para gerar uma folha de cálculo com todos os dados de preços. Esta informação é atualizada diariamente, para que possa verificar as vezes que quiser.
 

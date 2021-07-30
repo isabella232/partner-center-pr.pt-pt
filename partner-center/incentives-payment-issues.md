@@ -8,12 +8,12 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: ad71a6e02d6472ae844c504491e5acb05d5d6426
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 7e3f3e206c851fbcc68ecd47f6027a2d5856478e
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277866"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114844780"
 ---
 # <a name="troubleshooting-missing-payments-incorrect-earnings-and-other-issues"></a>Resolução de problemas em falta de pagamentos, ganhos incorretos e outras questões
 
@@ -21,7 +21,7 @@ ms.locfileid: "112277866"
 
 Este artigo irá ajudá-lo a resolver quaisquer problemas de ganhos ou pagamentos no seu programa de incentivos. Os assuntos abrangidos incluem o tempo de pagamento, a verificação da elegibilidade dos seus ganhos e a importância de configurar corretamente os seus perfis de pagamento e impostos.
 
-## <a name="who-can-create-or-update-payout-and-tax-profiles-for-my-organization"></a>Quem pode criar ou atualizar o pagamento e os perfis fiscais para a minha organização?
+## <a name="who-can-create-or-update-payout-and-tax-profiles-for-my-organization"></a>Quem pode criar ou atualizar pagamentos e perfis fiscais para a minha organização?
 
 Os utilizadores que tenham o papel de administrador de incentivo no Partner Center para o programa de incentivos relevante e a localização mpn podem atualizar e ver o pagamento e os perfis fiscais para a organização.
 
@@ -135,7 +135,7 @@ Esta vista permite-lhe visualizar pagamentos para todos os programas e IDs MPN. 
 | Consulte as suas informações de pagamento por linha, incluindo valores de ganhos e pagamentos em moeda local  | Consulte o campo **Lista de Pagamentos**   |
 | Faça o download de uma carta de remessa   |  Selecione remessa **de pagamento**  |
 | Ver detalhes do nível de transação para um pagamento específico |  Selecione **Ver**  |
-| Detalhes de transações de exportação para o Excel  |  Selecione **Iniciar o download** e, em seguida, selecione **dados de exportação**. Todos os filtros selecionados serão aplicados aos dados exportados. Uma vez alterado o estado para Completed, selecione **Download** e siga as instruções para exportar o relatório de transações detalhadas. Refresque a página se o estado não for atualizado dentro de cinco minutos.  |
+| Dados de transações de exportação para Excel  |  Selecione **Iniciar o download** e, em seguida, selecione **dados de exportação**. Todos os filtros selecionados serão aplicados aos dados exportados. Uma vez alterado o estado para Completed, selecione **Download** e siga as instruções para exportar o relatório de transações detalhadas. Refresque a página se o estado não for atualizado dentro de cinco minutos.  |
 
 ### <a name="missing-or-incorrect-earnings-and-payments"></a>Ganhos e pagamentos em falta ou incorretos
 

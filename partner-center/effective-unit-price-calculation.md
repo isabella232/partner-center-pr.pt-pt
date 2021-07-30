@@ -4,17 +4,17 @@ ms.topic: how-to
 ms.date: 04/02/2021
 description: Saiba mais sobre o preço unitário eficaz e como é calculado. Este artigo também inclui um cálculo de amostra.
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-billing
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 84beac77d41b8c11be9ac3cad87460eec9632ac4
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 4148e9be6ab5bd3e5a146c0ed5479d8ad9723204
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110147127"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114837327"
 ---
 # <a name="effective-unit-price-calculation-for-azure-plan-consumption"></a>Cálculo efetivo dos preços unitários para o consumo do plano Azure
 
@@ -61,7 +61,7 @@ Na tabela, aplicam-se os seguintes valores:
 
 | Data | BCU (unidade de consumo a cobrar) | BC (Custo faturado) | Preço unitário eficaz |
 | ------ | ----------- | ----------- | ----------- |  
-| 3-Ago | 29 | 21.39 | 0.737586206896552 |
+| 3-ago | 29 | 21.39 | 0.737586206896552 |
 | 10 ago | 210.950039 | 155.63 | 0.737757626107858 |
 | 25 ago | 555.950039 | 410.17 | 0.737782122900436 |
 

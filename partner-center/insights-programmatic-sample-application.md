@@ -3,17 +3,17 @@ title: Aplicação da amostra
 ms.topic: article
 ms.date: 07/14/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 description: Utilize a aplicação da amostra para construir a sua própria aplicação para aceder programaticamente aos dados de insights dos parceiros.
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 6f334b9047c38e8b7763a4ba96d21d987c252682
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: cb2bc8be9ea49c0d75da4d78961865331ed908c9
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114376944"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114845045"
 ---
 # <a name="sample-application"></a>Aplicação da amostra
 

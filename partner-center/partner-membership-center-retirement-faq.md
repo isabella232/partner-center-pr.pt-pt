@@ -3,17 +3,17 @@ title: Parceiro Centro de adesão aposentadoria FAQ
 ms.topic: article
 ms.date: 06/15/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-membership
 description: Obtenha respostas a perguntas sobre a aposentação do Centro de Adesão de Parceiros (PMC) e a mudança para o Centro de Parceiros.
 author: jasongroce
 ms.author: misherma
 ms.localizationpriority: high
-ms.openlocfilehash: 2aea685cf2bd468fcfa4e3b7530672ad1cc474eb
-ms.sourcegitcommit: cc9e47219f6e2cdf77118b5c8986e86ebecfe260
+ms.openlocfilehash: 9f46389ac0c1174690090d571305d6163cabb09e
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/16/2021
-ms.locfileid: "112126771"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114837310"
 ---
 # <a name="partner-membership-center-retirement-faq"></a>Parceiro Centro de adesão aposentadoria FAQ
 **Funções adequadas**: Administração global | Administração de gestão de utilizadores
@@ -28,11 +28,11 @@ Inscreva-se na [Microsoft Partner Network](https://partner.microsoft.com/dashboa
 #### <a name="i-have-been-working-in-partner-membership-center-why-is-it-no-longer-available"></a>Tenho trabalhado no Centro de Sócios. Por que já não está disponível?
 A transição da Microsoft de ferramentas antigas para o ecossistema de parceiros modernos está quase completa. As funções de adesão apoiadas pelo PMC foram totalmente transitadas para o Partner Center.
 
-#### <a name="my-company-is-a-cloud-solution-provider-how-do-we-get-an-mpn-id-and-accept-the-microsoft-partner-agreement"></a>A minha empresa é fornecedora de soluções cloud. Como obtemos um ID MPN e aceitamos o Acordo de Parceiros da Microsoft?
+#### <a name="my-company-is-a-cloud-solution-provider-how-do-we-get-an-mpn-id-and-accept-the-microsoft-partner-agreement"></a>A minha empresa é uma Fornecedor de Soluções em Nuvem. Como obtemos um ID MPN e aceitamos o Acordo de Parceiros da Microsoft?
 Inscreva-se na [Microsoft Partner Network](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/partnership)e, em seguida, certifique-se de que o seu novo ID da Microsoft Partner Network (MPN) está associado à sua conta [CSP](update-your-partner-profile.md#update-your-mpn-id-associated-with-your-csp-account). Depois disso, complete o processo de assinatura do [Acordo de Parceiro da Microsoft](microsoft-partner-agreement.md).
 
 #### <a name="my-company-is-blocked-from-signing-the-microsoft-partner-agreement-mpa-and-i-am-unable-to-migrate-my-mpn-membership-from-pmc-to-partner-center-what-should-i-do"></a>A minha empresa está impedida de assinar o Microsoft Partner Agreement (MPA), e não posso migrar a minha filiação mpn de PMC para Partner Center. O que devo fazer?
-Consulte a pergunta "A minha empresa é um Fornecedor de Soluções Cloud" acima.
+Consulte a pergunta "A minha empresa é um Fornecedor de Soluções em Nuvem" acima.
 
 #### <a name="can-i-enroll-into-microsoft-partner-network-with-my-company-email-id"></a>Posso inscrever-me na Microsoft Partner Network com o meu ID de e-mail da empresa?
 Sim, os IDs de e-mail da empresa são suportados, mas os IDs de e-mail pessoais não são suportados. Mais informações sobre [as inscrições](mpn-create-a-partner-center-account.md) também estão disponíveis. 

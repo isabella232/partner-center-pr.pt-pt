@@ -3,18 +3,18 @@ title: Restabelecer privilégios de administração para a Azure CSP
 ms.topic: how-to
 ms.date: 05/27/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-customers
 description: Saiba como ajudar os clientes a restabelecer os privilégios de administração de um parceiro para que o parceiro possa ajudar a gerir as subscrições Azure Fornecedor de Soluções em Nuvem (CSP) de um cliente.
 author: dhirajgandhi
 ms.author: dhgandhi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 196b38d30942278beb00096529f5965db7dfb96c
-ms.sourcegitcommit: b55f63a029d88c73cd5190bbac2df1b5990e6e44
+ms.openlocfilehash: 0a3af74158b36442118d41662744fc921277963c
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "113510181"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114845334"
 ---
 # <a name="reinstate-admin-privileges-for-a-customers-azure-csp-subscriptions"></a>Repor privilégios de administração para subscrições Azure CSP de um cliente  
 

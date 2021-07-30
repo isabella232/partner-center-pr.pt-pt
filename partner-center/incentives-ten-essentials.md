@@ -8,12 +8,12 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/15/2020
-ms.openlocfilehash: 32b7575e0110eba8c04e971845f54ca71bfb45c5
-ms.sourcegitcommit: d1deaeb1703cf2c25119037c5fb624c44fca74b4
+ms.openlocfilehash: 9e90a90a25c1d8ad5ef71535d3b89e558352f328
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/14/2021
-ms.locfileid: "113753362"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114837293"
 ---
 # <a name="the-10-essentials-for-working-with-incentives"></a>Os 10 essenciais para trabalhar com incentivos
 

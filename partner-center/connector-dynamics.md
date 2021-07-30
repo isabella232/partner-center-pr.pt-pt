@@ -3,17 +3,17 @@ title: O conector de co-venda para Dynamics 365 CRM Partner Center
 description: Sincronizar referências no Partner Center com o seu conector de co-venda para Dynamics 365 CRM. Em seguida, pode co-vender com a Microsoft a partir do seu sistema CRM.
 ms.topic: how-to
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-referrals
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.date: 03/01/2021
-ms.openlocfilehash: 2e5f434ef76e4018e04421371935357abc296d0b
-ms.sourcegitcommit: f269c41e01c36eb526ed9f551fb4f79e903e9212
+ms.openlocfilehash: 798a8a7d26480e8a1fc23bca3af45bd6a0e44778
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/26/2021
-ms.locfileid: "114702129"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114838126"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm-overview"></a>Conector de co-venda para visão geral da Dynamics 365 CRM
 

@@ -3,18 +3,18 @@ title: Elegibilidade para compromissos de serviços de planeamento
 ms.topic: article
 ms.date: 09/01/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
+ms.subservice: partnercenter-benefits
 description: Saiba mais sobre os requisitos de elegibilidade para cada compromisso de Software Assurance Planning Services que uma empresa pode querer oferecer aos clientes empresariais.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7a4ee8fcb0fe216961dc2e599dc36f2957612b03
-ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
+ms.openlocfilehash: c67344cb4341320271dd96d40135ad0223baad28
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "112551576"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114844450"
 ---
 # <a name="view-eligibility-requirements-for-planning-services-engagements"></a>Ver requisitos de elegibilidade para compromissos de Serviços de Planeamento
 
@@ -33,18 +33,18 @@ Para saber mais sobre estes requisitos de competência específicos de noivado, 
 
 | Nome do noivado | Competências necessárias para este noivado | Para saber mais, consulte a ficha técnica desta oferta |
 |:--- |:--- |:--- |
-| Windows e Office Deployment Planning  | Janelas e dispositivos prateados ou dourados  |  [Compromissos dos Serviços de Planeamento de Implantação de Ambiente de Trabalho (DDPS)](https://go.microsoft.com/fwlink/?linkid=2116072)
-| Planeamento de Implantação de Produtividade Móvel  | Gestão da Mobilidade Empresarial prata ou dourada OU janelas e dispositivos  | [Compromissos dos Serviços de Planeamento de Implantação de Ambiente de Trabalho (DDPS)](https://go.microsoft.com/fwlink/?linkid=2116072) |  
+| Planeamento de Implantação Windows e Office  | Windows e dispositivos de prata ou ouro  |  [Compromissos dos Serviços de Planeamento de Implantação de Ambiente de Trabalho (DDPS)](https://go.microsoft.com/fwlink/?linkid=2116072)
+| Planeamento de Implantação de Produtividade Móvel  | Gestão da Mobilidade Empresarial prata ou dourada ou Windows e dispositivos  | [Compromissos dos Serviços de Planeamento de Implantação de Ambiente de Trabalho (DDPS)](https://go.microsoft.com/fwlink/?linkid=2116072) |  
 | Prova moderna de segurança da empresa de TI de conceito |  Gestão da Mobilidade Empresarial de Prata ou Ouro  | [Compromissos dos Serviços de Planeamento de Implantação de Ambiente de Trabalho (DDPS)](https://go.microsoft.com/fwlink/?linkid=2116072) |  
-| Upgrade microsoft Dynamics 365 para envolvimento com o cliente  | Aplicações de negócios de nuvem prateada ou dourada ou gestão de relacionamento com clientes em nuvem  | [Compromissos dos Serviços de Planeamento de Implantação dinâmica (DYDPS)](https://go.microsoft.com/fwlink/?linkid=2116073)
-| Migrar para a Microsoft Dynamics 365 para o envolvimento do cliente  | Aplicações de negócios de nuvem prateada ou dourada ou gestão de relacionamento com clientes em nuvem  | [Compromissos dos Serviços de Planeamento de Implantação dinâmica (DYDPS)](https://go.microsoft.com/fwlink/?linkid=2116073)
+| Upgrade microsoft Dynamics 365 para envolvimento com o cliente  | Prata ou nuvem dourada Business Applications ou gestão da relação do cliente em nuvem  | [Compromissos dos Serviços de Planeamento de Implantação dinâmica (DYDPS)](https://go.microsoft.com/fwlink/?linkid=2116073)
+| Migrar para a Microsoft Dynamics 365 para o envolvimento do cliente  | Prata ou nuvem dourada Business Applications ou gestão da relação do cliente em nuvem  | [Compromissos dos Serviços de Planeamento de Implantação dinâmica (DYDPS)](https://go.microsoft.com/fwlink/?linkid=2116073)
 | Atualização da Microsoft Dynamics 365 para Finanças e Operações  | Gold Enterprise Resource Planning (ERP)  | [Compromissos dos Serviços de Planeamento de Implantação dinâmica (DYDPS)](https://go.microsoft.com/fwlink/?linkid=2116073)  |
-| Modernizar a plataforma do servidor do Windows | Centro de Dados prateado ou dourado | [Compromissos de Serviços de Planeamento de Nuvem Privada, Gestão e Virtualização (PVDPS)](https://go.microsoft.com/fwlink/?linkid=2115982) |
-| Planeamento de Implementação de SharePoint  | Colaboração e Conteúdo de Prata ou Ouro  | [Compromissos dos Serviços de Planeamento de Implementação de SharePoint (SDPS)](https://go.microsoft.com/fwlink/?linkid=2116074)  |
-| Planeamento de Soluções de Projeto e Gestão de Portfólios (PPM)  | Projeto prata ou ouro e gestão de portfólio (PPM)  | [Compromissos dos Serviços de Planeamento de Implementação de SharePoint (SDPS)](https://go.microsoft.com/fwlink/?linkid=2116074)  |
-| Planeamento de Implantação de Intercâmbio  | Mensagens de prata ou ouro  | [Compromissos do Skype para serviços de planeamento de implantação de empresas e de câmbio (S-EDPS)](https://go.microsoft.com/fwlink/?linkid=2116075)  |
-Skype para planeamento de implementação de negócios  | Comunicações prata ou dourada  | [Compromissos do Skype para serviços de planeamento de implantação de empresas e de câmbio (S-EDPS)](https://go.microsoft.com/fwlink/?linkid=2116075)  |
-| Modernização da Propriedade de Dados  | Gold Data Analytics OU Data Platform  | [Compromissos dos Serviços de Planeamento de Implementação de Servidores SQL (SSDPS)](https://go.microsoft.com/fwlink/?linkid=2116076)  |
+| Modernizar a sua plataforma de servidor de Windows | Centro de Dados prateado ou dourado | [Compromissos de Serviços de Planeamento de Nuvem Privada, Gestão e Virtualização (PVDPS)](https://go.microsoft.com/fwlink/?linkid=2115982) |
+| Planeamento de Implementação de SharePoint  | Colaboração e Conteúdo de Prata ou Ouro  | [Serviços de Planeamento de Implementação do SharePoint (SPIS) noivados](https://go.microsoft.com/fwlink/?linkid=2116074)  |
+| Planeamento de Soluções Project e Gestão de Portfólio (PPM)  | Prata ou Ouro Project e Gestão de Carteiras (PPM)  | [Serviços de Planeamento de Implementação do SharePoint (SPIS) noivados](https://go.microsoft.com/fwlink/?linkid=2116074)  |
+| Exchange Planeamento de Implantação  | Mensagens de prata ou ouro  | [Skype para Empresas e Exchange serviços de planeamento de implantação (S-EDPS)](https://go.microsoft.com/fwlink/?linkid=2116075)  |
+Skype para Empresas Planeamento de Implantação  | Comunicações prata ou dourada  | [Skype para Empresas e Exchange serviços de planeamento de implantação (S-EDPS)](https://go.microsoft.com/fwlink/?linkid=2116075)  |
+| Modernização da Propriedade de Dados  | Gold Data Analytics OU Data Platform  | [SQL Server Compromissos dos Serviços de Planeamento de Implantação (SSDPS)](https://go.microsoft.com/fwlink/?linkid=2116076)  |
 
 ## <a name="next-steps"></a>Passos seguintes
 

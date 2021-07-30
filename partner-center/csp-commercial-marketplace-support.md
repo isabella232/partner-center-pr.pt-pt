@@ -3,18 +3,18 @@ title: Apoio a produtos de mercado comercial
 ms.topic: article
 ms.date: 05/05/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-pricing
 description: Saiba mais sobre o suporte a produtos ISV de terceiros ou subscrições no mercado comercial do programa CSP.
 author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1a758129a2610cbc42a6cc031d8527ed874d083b
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 3eae845acde320f46565fb9e6358956c4840f80a
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110147824"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114837685"
 ---
 # <a name="support-for-commercial-marketplace-products-in-the-csp-program"></a>Apoio a produtos de mercado comercial no programa CSP
 

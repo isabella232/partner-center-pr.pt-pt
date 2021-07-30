@@ -3,17 +3,17 @@ title: Encontre um parceiro da Microsoft
 ms.topic: article
 ms.date: 08/25/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-referrals
 description: Como parceiro da Microsoft, pode ter dúvidas sobre como ajudar os seus clientes ou programas específicos. Encontre outros parceiros que possam ajudar.
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
-ms.openlocfilehash: be12ede0c725a859892985e4cfb9032d7fb2abe8
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 1a5da21326ae789e4b6f570c14f9a52e0348bb64
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110150952"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114845300"
 ---
 # <a name="find-a-partner-or-solution-provider-to-answer-questions-about-programs-licensing-or-customer-deals"></a>Encontre um parceiro ou fornecedor de soluções para responder a questões sobre programas, licenciamento ou ofertas de clientes 
 
@@ -25,7 +25,7 @@ Este artigo diz aos parceiros da Microsoft como encontrar outros parceiros que o
 
 Existem muitos tipos de parceiros ou distribuidores no ecossistema parceiro da Microsoft. Alguns dos abrangidos por este artigo incluem:
 
-- Fornecedor de soluções cloud (CSP) programa revendedores indiretos e seus fornecedores indiretos
+- Fornecedor de Soluções em Nuvem (CSP) programa revendedores indiretos e seus fornecedores indiretos
 - Distribuidores de programas de licenciamento de volume
 - Distribuidores OEM
 

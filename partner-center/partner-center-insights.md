@@ -3,18 +3,18 @@ title: Centro de Parceiros Informações
 description: Explore este painel de relatórios unificado do Partner Center. Veja como está em KPI's para vendas e implementação, desenvolvimento de clientes, e muito mais.
 ms.topic: article
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/26/2020
-ms.openlocfilehash: a16cca546142d3a8091643607534697e0403fff9
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: 2061286ecb048647d666438a34b4759175b7deb4
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114373748"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114844620"
 ---
 # <a name="partner-center-insights---a-dashboard-that-shows-how-a-microsoft-commercial-partner-is-doing"></a>Partner Center Informações - um dashboard que mostra como um parceiro comercial da Microsoft está a fazer
 

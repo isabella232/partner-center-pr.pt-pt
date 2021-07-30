@@ -3,18 +3,18 @@ title: Criar um logotipo de parceiro, carta certificada ou prêmio - Logo Constr
 ms.topic: how-to
 ms.date: 05/25/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
+ms.subservice: partnercenter-benefits
 description: Se a sua empresa tiver uma competência em ouro ou prata, pode gerar um logótipo personalizado para a sua empresa, ou solicitar uma carta de verificação certificada personalizada utilizando a ferramenta Logo Builder no Partner Center.
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b3618cd02372c56b9f5381f8bdc8a6b3e6f24784
-ms.sourcegitcommit: fcf7a0d4f8e43de775894255f0ef9225838957a5
+ms.openlocfilehash: 967e5e3278e63f9797b28d4c8a856e087755c1e4
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/25/2021
-ms.locfileid: "110440424"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114845028"
 ---
 # <a name="create-a-partner-logo-certified-letter-or-award-logo"></a>Crie um logotipo de parceiro, letra certificada ou logotipo de prêmio
 

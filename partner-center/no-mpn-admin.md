@@ -3,18 +3,18 @@ title: O que fazer se o único administrador do seu programa MPN tiver deixado a
 ms.topic: how-to
 ms.date: 09/08/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-enroll
 description: Saiba o que fazer para encontrar um novo administrador mpn ou obter ajuda da administração Global da sua empresa. Além disso, aprenda a adicionar um novo administrador partner center global.
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 21042169a33d9a413f17f951c4daad0c5fc86a17
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 339f677dc095a32e5cf7e52902b23716a1343561
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277679"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114845385"
 ---
 # <a name="what-to-do-if-the-only-admin-for-your-mpn-program-has-left-the-company"></a>O que fazer se o único administrador do seu programa MPN tiver deixado a empresa?
 
@@ -46,15 +46,15 @@ Se for à página **de Gestão** de Utilizadores e filtrar a administração Glo
 
 ## <a name="scenario-3-mpn-partner-adminaccount-adminglobal-admin-has-left-the-company-and-there-are-no-other-users-who-can-access-the-companys-azure-ad-this-is-a-complete-loss-of-access"></a>Cenário 3: Mpn Partner admin/Account admin/Global admin deixou a empresa e não há outros utilizadores que possam aceder ao Azure AD da empresa. Isto é uma completa perda de acesso.
 
-Siga as medidas [de tomada de posse do administrador](/azure/active-directory/users-groups-roles/domains-admin-takeover#internal-admin-takeover) para assumir um diretório não gerido como administrador do Azure Ative Directory.
+Siga as medidas [de tomada de posse do administrador](/azure/active-directory/users-groups-roles/domains-admin-takeover#internal-admin-takeover) para assumir um diretório não gerido como administrador Azure Ative Directory.
 
 ## <a name="not-sure-if-your-company-already-has-a-work-account"></a>Não tem certeza se a sua empresa já tem uma conta de trabalho?
 
 Se não tem certeza se a sua empresa tem uma conta de trabalho, siga estes passos para verificar.
 
 1. Inscreva-se no [portal de administração Azure](https://ms.portal.azure.com).
-2. Selecione **O Diretório Ativo Azure** a partir do menu esquerdo e, em seguida, selecione **nomes de Domínio**.
+2. Selecione **Azure Ative Directory** do menu esquerdo e, em seguida, selecione **nomes de Domínio**.
 Se já tiver uma conta de trabalho, o seu nome de domínio será listado.
 
 >[!Note]
->Se tem uma subscrição ativa do Microsoft Azure ou do Office 365, já tem uma conta de trabalho e o seu sinal em credenciais deve ser o mesmo que os utilizados para aceder a esses serviços.
+>Se tem uma subscrição ativa de Microsoft Azure ou Office 365, já tem uma conta de trabalho e o seu sinal em credenciais deve ser o mesmo que os utilizados para aceder a esses serviços.

@@ -3,24 +3,24 @@ title: Visão geral - mercado CSP
 ms.topic: article
 ms.date: 05/05/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-pricing
 description: Saiba como vender subscrições de clientes a Software como um Serviço (SaaS) oferece a fornecedores de software independentes (ISVs) no mercado.
 author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7c18f69a62e8f8d126a0756911d2fbcdfdb85d8d
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: a899226e60e575d6c8aee003130b5390af023394
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110147875"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114837718"
 ---
 # <a name="overview-of-the-commercial-marketplace-in-partner-center"></a>Visão geral do mercado comercial no Partner Center
 
 **Funções apropriadas**: Administração global
 
-Ser um parceiro no programa Cloud Solution Provider (CSP) permite-lhe agregar e vender produtos da Microsoft juntamente com soluções publicadas por fornecedores de software independentes (ISVs) de terceiros. Ser capaz de agregar soluções desta forma permite-lhe servir melhor os clientes finais e fazer crescer o seu negócio de serviços CSP.
+Ser um parceiro no programa Fornecedor de Soluções em Nuvem (CSP) permite-lhe agregar e vender produtos da Microsoft juntamente com soluções publicadas por fornecedores de software independentes (ISVs) de terceiros. Ser capaz de agregar soluções desta forma permite-lhe servir melhor os clientes finais e fazer crescer o seu negócio de serviços CSP.
 
 Como parceiro no programa CSP, pode utilizar o Partner Center para comprar muitas soluções ISV do mercado comercial da Microsoft. Isto dá a si e aos seus clientes várias vantagens fundamentais:
 

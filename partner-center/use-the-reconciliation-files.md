@@ -1,20 +1,20 @@
 ---
-title: Use os seus ficheiros de reconciliação
+title: Utilizar os ficheiros de reconciliação
 ms.topic: article
 ms.date: 03/26/2021
 description: Conheça os ficheiros de reconciliação no Partner Center e como interpretar as vistas detalhadas e de item de linha das taxas para um determinado ciclo de faturação.
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-billing
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1a7d5f3169c4b338a07475a7e246e87841b8dcfb
-ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
+ms.openlocfilehash: e5fae4c9b9b40c8a71b56c46d0d1be629f832842
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/22/2021
-ms.locfileid: "112431560"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114844738"
 ---
 # <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>Saiba como ler os itens de linha nos ficheiros de reconciliação do Partner Center
 
@@ -41,7 +41,7 @@ Ocasionalmente, um ficheiro de reconciliação pode conter problemas de formata�
 
 Siga estes passos para corrigir quaisquer problemas de formatação nos seus ficheiros de reconciliação:
 
-1. Abra o ficheiro de reconciliação (em formato .csv) no Microsoft Excel.
+1. Abra o ficheiro de reconciliação (em formato .csv) em Microsoft Excel.
 2. Selecione a primeira coluna do ficheiro.
 3. Abra o **texto de conversão para o assistente de colunas**. Na fita, selecione **Dados** e, em seguida, selecione **Texto para Colunas**.
 4. No assistente, selecione **O tipo de ficheiro delimitado**. Em seguida, selecione **Seguinte**.
@@ -53,11 +53,11 @@ Siga estes passos para corrigir quaisquer problemas de formatação nos seus fic
 
 Os ficheiros de reconciliação podem ser muito grandes e por vezes são difíceis de descarregar. Para descarregar ficheiros de reconciliação programáticamente, consulte [obter itens de linha de fatura](/partner-center/develop/get-invoiceline-items).
 
-## <a name="if-your-file-exceeds-the-row-limit-in-excel"></a>Se o seu ficheiro exceder o limite de linha no Excel
+## <a name="if-your-file-exceeds-the-row-limit-in-excel"></a>Se o seu ficheiro exceder o limite de linha em Excel
 
-Se conseguir descarregar um ficheiro de reconciliação mas não o abrir no Microsoft Excel, provavelmente significa que o ficheiro contém mais linhas do que o Excel permitirá. Se isso acontecer, pode utilizar qualquer um dos procedimentos abaixo para abrir o ficheiro.
+Se conseguir descarregar um ficheiro de reconciliação mas não o abrir em Microsoft Excel, provavelmente significa que o ficheiro contém mais linhas do que Excel permitirá. Se isso acontecer, pode utilizar qualquer um dos procedimentos abaixo para abrir o ficheiro.
 
-### <a name="open-a-recon-file-in-power-bi"></a>Abra um ficheiro de reconhecimento no Power BI
+### <a name="open-a-recon-file-in-power-bi"></a>Abra um ficheiro de reconhecimento em Power BI
 
 1. Descarregue o ficheiro de reconciliação como normalmente faria.
 2. Faça o download, instale e abra uma instância do Microsoft Power BI.
@@ -65,10 +65,10 @@ Se conseguir descarregar um ficheiro de reconciliação mas não o abrir no Micr
 4. Na lista de fontes de **dados comuns,** selecione **Texto/CSV**.
 5. Quando solicitado, abra o seu ficheiro de reconhecimento.
 
-### <a name="open-a-recon-file-in-an-excel-pivot-table"></a>Abra um ficheiro de reconhecimento numa mesa de pivô do Excel
+### <a name="open-a-recon-file-in-an-excel-pivot-table"></a>Abra um arquivo de reconhecimento numa mesa de pivô Excel
 
 1. Descarregue o ficheiro de reconciliação como normalmente faria.
-2. Abra um novo ficheiro no Microsoft Excel.
+2. Abra um novo arquivo em Microsoft Excel.
 3. No separador **Dados,** **selecione Obter dados**, selecione **'Ficheiro'** e, em seguida, selecione **Texto/CSV**.
 4. Quando solicitado, abra o seu ficheiro de reconhecimento. Os seus dados aparecerão.
 5. No menu de entrega de **carga,** selecione **Carregar para**, e, em seguida, selecione **OK**.
@@ -94,9 +94,9 @@ Para mapear impostos ou imposto sobre o valor acrescentado (IVA) na sua fatura:
 
 Os parceiros no **modelo indireto** podem utilizar estes campos adicionais em ficheiros de reconciliação baseados em licenças e uso para itemizar os ficheiros por revendedor.
 
-| ID do MPN | Description |
+| ID do MPN | Descrição |
 | ------ | ----------- |
-| ID do MPN | O identificador da Microsoft Partner Network (MPN) do parceiro Cloud Solution Provider (CSP) (direto ou indireto). |
+| ID do MPN | O identificador da Microsoft Partner Network (MPN) do parceiro Fornecedor de Soluções em Nuvem (CSP) (direto ou indireto). |
 | [Revendedor MPN ID](#reseller-mpn-id) | O [identificador MPN do revendedor de registos para a subscrição](#reseller-mpn-id). Este campo corresponde ao ID revendedor listado para a subscrição específica no Partner Center. Só aparece em ficheiros de reconciliação para parceiros no modelo indireto. |
 
 ### <a name="reseller-mpn-id"></a>Revendedor MPN ID

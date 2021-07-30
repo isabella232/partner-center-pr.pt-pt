@@ -3,24 +3,24 @@ title: Criar contas de utilizador e atribuir funções
 description: Todos os empregados devem ter uma função antes de poderem aceder ao Partner Center. Saiba como criar contas de utilizador, atribuir funções e definir permissões.
 ms.topic: how-to
 ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
+ms.subservice: partnercenter-enroll
 ms.custom: contperf-fy21q2
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.date: 10/12/2020
-ms.openlocfilehash: 9621f0bc3283d7d3b08e2ebac62b4e5d8c95a4d4
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 940ad64dff2285ffc302902a4e3b6c21ef29395c
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110148147"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114837990"
 ---
 # <a name="create-user-accounts"></a>Criar contas de utilizador  
 
 **Funções adequadas**: Administração de contas | Administração global | Administração de gestão de utilizadores
 
-Crie contas de utilizador para funcionários que precisem de acesso ao Centro de Parceiros. Estas tarefas devem ser feitas pela administração de gestão de utilizadores, pela administração de contas ou pela administração global. O utilizador que executa estas tarefas também deve ser atribuído às funções de Administrador Ativo (AAD) do Administrador do Utilizador ou administrador global. Para obter mais informações sobre as funções da AAD, consulte [permissões de função de administrador no Diretório Ativo Azure](/azure/active-directory/users-groups-roles/directory-assign-admin-roles).
+Crie contas de utilizador para funcionários que precisem de acesso ao Centro de Parceiros. Estas tarefas devem ser feitas pela administração de gestão de utilizadores, pela administração de contas ou pela administração global. O utilizador que executa estas tarefas também deve ser atribuído às funções de Azure Ative Directory (AAD) do administrador do Utilizador ou do administrador global. Para obter mais informações sobre as funções da AAD, consulte [as permissões de função do Administrador em Azure Ative Directory](/azure/active-directory/users-groups-roles/directory-assign-admin-roles).
 
 ## <a name="add-a-new-user"></a>Adicionar um novo utilizador
 
@@ -41,7 +41,7 @@ O utilizador terá de iniciar sôms no Centro de Parceiros com o seu nome de uti
 
 ## <a name="assign-user-roles"></a>Atribuir funções de utilizador
 
-Para trabalhar no Centro de Parceiros, tem de ter um papel atribuído.  Atualmente, as funções incluem funções de inquilino do Azure Ative Directory, funções de Cloud Solution Provider (CSP) e funções de empresa não-AAD. Uma empresa individual pode ter necessidade de todos estes papéis.
+Para trabalhar no Centro de Parceiros, tem de ter um papel atribuído.  Atualmente, as funções incluem papéis de inquilino Azure Ative Directory, funções de Fornecedor de Soluções em Nuvem (CSP) e funções de empresa não-AAD. Uma empresa individual pode ter necessidade de todos estes papéis.
 
 >[!Important]
 >Os indivíduos devem estar listados no seu inquilino para aceder ao Partner Center. As atribuições de funções proporcionam acesso adicional.

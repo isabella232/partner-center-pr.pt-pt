@@ -3,18 +3,18 @@ title: Repor a minha palavra-passe
 ms.topic: how-to
 ms.date: 06/05/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-enroll
 description: Saiba como redefinir a palavra-passe do Partner Center ou obter ajuda da administração Global da sua empresa. Além disso, aprenda a adicionar um novo administrador partner center global.
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: db178f668efcf519264d9ba46dbcb5277cc5b8cd
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: c26c33947e35e83f643c6ef1c6ddf74dab460f6d
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855527"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114844467"
 ---
 # <a name="reset-my-password"></a>Repor a minha palavra-passe
  

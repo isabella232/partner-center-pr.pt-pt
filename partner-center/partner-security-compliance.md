@@ -2,19 +2,19 @@
 title: Relatório de estado dos requisitos de segurança
 ms.date: 10/30/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-enroll
 description: Saiba como verificar os seus requisitos de segurança, cumprindo o relatório de estado dos requisitos de segurança e o relatório MFA do Partner Center
 author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.topic: conceptual
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a429706848a469aace2704d4eaf3d57898ae578f
-ms.sourcegitcommit: d96ad93449da4c914becfffab167cdc1aa165ada
+ms.openlocfilehash: db558062f5dab2a3f9ffbe99f7122a436f89d21f
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "112915631"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114844552"
 ---
 # <a name="security-requirements-status-report"></a>Relatório de estado dos requisitos de segurança
 
@@ -22,10 +22,10 @@ ms.locfileid: "112915631"
 
 Este artigo explica o relatório de estado dos requisitos de segurança no Partner Center. Este relatório fornece métricas sobre o cumprimento dos requisitos de segurança do parceiro para a autenticação de [vários](partner-security-requirements.md) fatores (MFA) para os utilizadores do seu inquilino parceiro.
 
-Para aceder a este relatório no [Partner Center,](https://partner.microsoft.com/dashboard)aceda ao estado dos **requisitos** de segurança das definições de  >  **definições** de  >  **definições**. O relatório é atualizado diariamente e reflete os dados de inscrição dos últimos sete dias.
+Para aceder a este relatório no [Partner Center,](https://partner.microsoft.com/dashboard)vá a **Definições**  >  **Defina o** estado  >  **dos requisitos de segurança**. O relatório é atualizado diariamente e reflete os dados de inscrição dos últimos sete dias.
 
 >[!NOTE]
->O relatório de estado dos requisitos de segurança é suportado apenas no Partner Center. Não está disponível na Microsoft Cloud para o Governo dos EUA ou microsoft Cloud Germany. Recomendamos vivamente que todos os parceiros que transacionem através de uma nuvem soberana (Governo dos EUA e Alemanha) adotem imediatamente estes novos requisitos de segurança. No entanto, estes parceiros não são atualmente obrigados a satisfazer os novos requisitos de segurança. A Microsoft fornecerá detalhes adicionais sobre a aplicação destes requisitos de segurança para nuvens soberanas no futuro.
+>O relatório de estado dos requisitos de segurança é suportado apenas no Partner Center. Não está disponível no Microsoft Cloud for US Government ou Microsoft Cloud Germany. Recomendamos vivamente que todos os parceiros que transacionem através de uma nuvem soberana (Governo dos EUA e Alemanha) adotem imediatamente estes novos requisitos de segurança. No entanto, estes parceiros não são atualmente obrigados a satisfazer os novos requisitos de segurança. A Microsoft fornecerá detalhes adicionais sobre a aplicação destes requisitos de segurança para nuvens soberanas no futuro.
 
 ## <a name="security-status-metrics"></a>Métricas de estado de segurança
 
@@ -106,7 +106,7 @@ Se estiver a utilizar uma solução de MFA de terceiros, identifique como a est�
 
 ### <a name="identify-which-users-have-signed-in-to-partner-center-without-mfa"></a>Identifique quais os utilizadores que se inscreveram no Partner Center sem MFA
 
-Pode ser útil identificar quais os utilizadores que estão a iniciar sessão no Partner Center sem verificação de MFA e verifico-los contra a sua implementação atual de MFA. Pode utilizar [o relatório de inscrição do Azure AD](/azure/active-directory/reports-monitoring/concept-sign-ins) para saber se um utilizador completou ou não a verificação de MFA. A azure AD relatório de login está atualmente disponível apenas para parceiros que tenham subscrito a Azure AD Premium ou qualquer SKU O365, que inclui Azure AD Premium (por exemplo, EMS).
+Pode ser útil identificar quais os utilizadores que estão a iniciar sessão no Partner Center sem verificação de MFA e verifico-los contra a sua implementação atual de MFA. Pode utilizar [o relatório de inscrição do Azure AD](/azure/active-directory/reports-monitoring/concept-sign-ins) para saber se um utilizador completou ou não a verificação de MFA. A azure AD relatório de entrada só está disponível atualmente para parceiros que tenham subscrito Azure AD Premium ou qualquer SKU O365, que inclui Azure AD Premium (por exemplo, EMS).
 
 ## <a name="next-steps"></a>Passos seguintes
 

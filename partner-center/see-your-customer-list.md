@@ -3,26 +3,26 @@ title: Gerir a sua lista de clientes
 ms.topic: how-to
 ms.date: 06/03/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-customers
 description: Os registos de clientes estão entre os ativos de informação mais importantes. Saiba como ver, pesquisar, atualizar, & informações de exportação na sua lista de clientes do Partner Center.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6e73aa98e0cfaf82521a5fe63e34ebf0b44363fb
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: df0f72deb14eac6d75f8579f7099ab3c6b6a2905
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854507"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114837276"
 ---
 # <a name="manage-your-customer-list---search-update-or-export-customers-in-partner-center"></a>Gerir a sua lista de clientes - pesquisar, atualizar ou exportar clientes no Partner Center
 
-**Aplica-se a**: Partner Center | Centro de Parceiros para Microsoft Cloud para governo dos EUA
+**Aplica-se a**: Partner Center | Centro de Parceiros para Microsoft Cloud for US Government
 
 **Funções adequadas**: Agente administrador | Administração global
 
-Os registos de clientes estão entre os seus ativos de informação mais importantes no Partner Center. Pode pesquisar a sua base de dados de contas de clientes, exportar toda a base de dados do cliente ou exportar um subconjunto para um formato de ficheiro de valor separado com o Excel (.csv). Também pode exportar as informações de subscrição de um cliente para um ficheiro .csv.
+Os registos de clientes estão entre os seus ativos de informação mais importantes no Partner Center. Pode pesquisar a sua base de dados de contas de clientes, exportar toda a base de dados do cliente ou exportar um subconjunto para um formato de ficheiro de valor separado de vírgula (.csv) compatível com Excel. Também pode exportar as informações de subscrição de um cliente para um ficheiro .csv.
 
 Os registos de atividade também fornecem dados exportáveis sobre transações e ações de gestão para os clientes. Para obter mais informações, consulte [os registos de atividade do cliente.](activity-logs.md)
 

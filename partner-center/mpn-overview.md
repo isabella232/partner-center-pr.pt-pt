@@ -3,18 +3,18 @@ title: Benefícios de adesão à Microsoft Partner Network
 ms.topic: article
 ms.date: 10/15/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
+ms.subservice: partnercenter-membership
 description: Conheça os benefícios da Microsoft Partner Network (MPN), como o Microsoft Action Pack, competências ou opções de programa para ir ao mercado e vender as suas soluções.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1ed25c3f1c9e5f8cec5384762fa9bdf5d09e5b76
-ms.sourcegitcommit: d133c8b923b90ac5518cb989c0ce4dd69713abf4
+ms.openlocfilehash: bd5acdd94272d9c022eb0e3a034325b2dc1d9f12
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "114433647"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114845436"
 ---
 # <a name="partner-with-microsoft-and-discover-membership-benefits"></a>Parceria com a Microsoft e descubra benefícios de adesão
 

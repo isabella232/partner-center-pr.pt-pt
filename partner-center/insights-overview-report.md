@@ -3,18 +3,18 @@ title: Painel de visão geral do Centro de Parceiros Informações
 ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 description: Veja uma imagem de como está a fazer com vendas e implementação, crescimento de clientes e crescimento de receitas com licenças, subscrições e consumo de Azure.
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 46a750749aeb6835c132b971b74bb9f066dc13cc
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: 5c063788b11dfb2507ff88a1774a94f21f6ebca5
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114377091"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114845232"
 ---
 # <a name="overview-dashboard-reports-available-in-partner-center-insights"></a>Relatórios do painel de avaliação disponíveis no Partner Center Informações
  

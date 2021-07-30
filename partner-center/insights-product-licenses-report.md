@@ -3,18 +3,18 @@ title: Partner Center Informações - licenças de produtos
 ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 description: Consulte este relatório de licença de produto e aprenda a melhorar com os produtos de nuvem licenciados que vende ou gere para os seus clientes.
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bb98f8ca54636c55f6ca4d654478a94f340edd89
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: 5287e056e2ac2e8a0238ac7f86cca0fe58b92238
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114377052"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114845198"
 ---
 # <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>Relatório de licenças de produtos no centro de parceiros Informações dashboard
 

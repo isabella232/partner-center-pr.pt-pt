@@ -3,18 +3,18 @@ title: Sell software subscriptions through CSP (Vender subscrições de software
 ms.topic: how-to
 ms.date: 03/08/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-pricing
 description: Saiba como os parceiros no programa CSP podem usar o Partner Center para comprar, gerir, vender e cancelar instâncias reservadas do Azure e subscrições do Servidor para os clientes.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5793ae33420a131362e6d81cc69817beef3cc158
-ms.sourcegitcommit: d133c8b923b90ac5518cb989c0ce4dd69713abf4
+ms.openlocfilehash: 162de08f0114d24cc72d21387ca004e7901c15a2
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "114433933"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114844722"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Vender subscrições de software através do programa Fornecedor de Soluções em Nuvem (CSP)
 

@@ -3,25 +3,25 @@ title: Gerir ofertas de produtos de mercado &
 ms.topic: how-to
 ms.date: 07/02/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-pricing
 description: Utilizando o Partner Center, saiba como os Fornecedores de Soluções Cloud podem gerir ofertas ISV de terceiros compradas para clientes do mercado comercial.
 author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e1bb2752dad5325478496c83fc368943780d8afb
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: fb6b64ef6117f0e26f0fd41d215816c38d5b7b80
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110147909"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114837735"
 ---
 # <a name="manage-commercial-marketplace-products-and-offers-for-your-customers"></a>Gerir produtos e ofertas de marketplace comercial para os seus clientes
 
 
 **Funções adequadas**: Administração global | Agente administrativo
 
-Os parceiros do programa Cloud Solution Provider (CSP) podem usar o portal Partner Center para comprar muitas ofertas ou subscrições isv SaaS para os seus clientes no mercado comercial. Uma vez que você compra uma oferta, você tem várias maneiras de geri-la.
+Os parceiros do programa Fornecedor de Soluções em Nuvem (CSP) podem usar o portal Partner Center para comprar muitas ofertas ou subscrições isv SaaS para os seus clientes no mercado comercial. Uma vez que você compra uma oferta, você tem várias maneiras de geri-la.
 
 ## <a name="view-or-edit-a-subscription"></a>Ver ou editar uma subscrição
 

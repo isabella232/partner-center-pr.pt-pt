@@ -3,17 +3,17 @@ title: Resolução de problemas co-venda de conectores de referências
 ms.topic: how-to
 ms.date: 09/21/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-referrals
 description: Aprenda respostas a perguntas comuns sobre a utilização de conectores co-venda. Leia este FAQ sobre como resolver problemas co-vender conectores.
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: bb7a227624c548a29046b80d3bd5fa363a4aee2f
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 5143d8e779332fd7df1ebeb3b5175658a0190f4b
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276939"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114838058"
 ---
 # <a name="troubleshoot-co-sell-referrals-connectors"></a>Resolução de problemas co-venda de conectores de referências
 
@@ -39,11 +39,11 @@ Os vendedores de parceiros devem ser atribuídos à função "Administração de
 
 • Certifique-se de que a sua moeda é adequada à sua localização e que se encontra no seu ambiente crm com precisão. • A sua equipa de vendas deve estar listada no seu ambiente de CRM como utilizadores de CRM.
 
-5. Que pré-requisitos são necessários para a criação de ambiente power automamate?
+5. Que pré-requisitos são necessários para Power Automate criação ambiental?
 
-Para utilizar o ambiente Power Automamate, precisa:
+Para utilizar o ambiente Power Automate, precisa:
 
-- É necessária uma licença Power Automamate.
+- É necessária uma licença de Power Automate.
 - É necessário um armazenamento mínimo de 1-GB.
 
 6.  Precisa de uma subscrição Dynamics 365 para utilizar a solução De Conectores Salesforce?
@@ -52,7 +52,7 @@ A solução Salesforce Connector é do tipo "Dynamics Flow" que suporta a sincro
 
 ## <a name="questions-and-answers-about-configuration"></a>Perguntas e respostas sobre configuração
 
-1. O que deve fazer se enfrentar o seguinte erro enquanto ativa os fluxos na Plataforma De Automatização de Energia?
+1. O que deve fazer se enfrentar o seguinte erro ao ativar fluxos na Plataforma Power Automate?
 
 Erro: O pedido ao Gestor de Recursos Azure falhou com erro: '{"error":{"code":"WorkflowTriggerNotFound","message":"O fluxo de trabalho 'e14d00f1-1fdf-4b1b-aaac-54a50606093d3' não foi encontrado."}} 
 
@@ -62,7 +62,7 @@ Siga estes passos de resolução de problemas:
 - Desligue o fluxo da criança e vá para fora 
 - Elimine a solução e, em seguida, volte a instalar a solução. 
 
-2.  O que deve fazer se enfrentar o erro de "Iniciar in" ao adicionar um conector Partner Center na Plataforma De Automatização de Energia?
+2.  O que deve fazer se enfrentar o erro de "Iniciar sê-lo" ao mesmo tempo que adiciona um conector Partner Center na Plataforma Power Automate?
 
 :::image type="content" source="images/cosellconnectors/failure.png" alt-text="Mensagem de erro que requer sing-in.":::
 
@@ -71,7 +71,7 @@ Siga este passo de resolução de problemas:
 - Utilize as credenciais do Partner Center para iniciar uma vez no ambiente de fluxo (flow.microsoft.com).
 
 
-3. O que deve fazer se receber o seguinte erro ao ativar o Centro de Parceiros para o fluxo de CRM na Plataforma de Automatização de Energia?
+3. O que deve fazer se receber o seguinte erro ao ativar o Centro de Parceiros para o fluxo de CRM na Plataforma Power Automate?
  
 :::image type="content" source="images/cosellconnectors/powererror.png" alt-text="Mensagem de erro que requer atualizações.":::
 
@@ -97,7 +97,7 @@ Adiciona-se ligações ao fluxo enquanto o fluxo está em funcionamento e adicio
 
 5. O que deve fazer se os fluxos da solução de Conectores de Referências co-vender não ligarem?
 
-A. No Power Automamate, terá de editar fluxos na seguinte ordem e atualizá-los para utilizar as ligações corretas:
+A. Em Power Automate, terá de editar fluxos na seguinte ordem e atualizá-los para utilizar as ligações corretas:
 
 - Registo Webhook do Partner Center (Visualização privilegiada)
 - Criar Co-venda Referral - Salesforce to Partner Center (Visualização insider)
@@ -125,9 +125,9 @@ E. No flow Partner Center Webhook Registration, selecione **Run**. Forneça o **
 
 ## <a name="questions-and-answers-about-runmaintenance"></a>Perguntas e respostas sobre Execução/Manutenção
 
-1. Como se consegue resolver falhas durante a execução do fluxo power automamate?
+1. Como se consegue resolver falhas durante Power Automate execução do fluxo?
 
-Para garantir que os fluxos de automatismo de potência funcionam como espera e para resolver falhas durante a execução, consulte [falhas de fluxo de correção](/power-automate/fix-flow-failures).
+Para garantir que os fluxos de Power Automate funcionam como espera e para resolver falhas durante a execução, consulte [falhas de fluxo de correção](/power-automate/fix-flow-failures).
 
 2. O que deve fazer se vir referências que não são sincronizadas corretamente no Centro de Parceiros ou no ambiente de CRM?
  
@@ -175,7 +175,7 @@ Certifique-se de que existem as funções apropriadas
  
 - Função de administrador de sistema ou personalizador de sistema na sua instância crm
 
-- Certifique-se de que o utilizador da conta de fluxo Power Automamate entra https://flow.microsoft.com em, pelo menos, uma vez antes
+- Certifique-se de que o Power Automate fluxo de entrada do utilizador em https://flow.microsoft.com pelo menos uma vez antes
 
 6. Se vir que **o código do país da conta do cliente** está em falta enquanto cria uma oportunidade de Co-venda, o que deve fazer?
 

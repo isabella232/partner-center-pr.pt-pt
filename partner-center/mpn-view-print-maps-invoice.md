@@ -3,18 +3,18 @@ title: Faturas da Microsoft Partner Network & impostos
 ms.topic: article
 ms.date: 05/18/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
+ms.subservice: partnercenter-membership
 description: Saiba como visualizar ou baixar a sua fatura de membro mpn, como solicitar isenção de impostos e como enviar à Microsoft o seu número de ID de IVA.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c3ea3fae2ae8052b517bfb80e16614c4708a253b
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: f5448932c9016f346f18882ad0070108f684e941
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110151292"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114838143"
 ---
 # <a name="invoices-and-taxes-in-the-microsoft-partner-network"></a>Faturas e impostos na Microsoft Partner Network
 

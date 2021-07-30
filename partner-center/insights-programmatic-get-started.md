@@ -3,17 +3,17 @@ title: Começar - acesso programático a dados de análise
 ms.topic: article
 ms.date: 07/14/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 description: Saiba como utilizar a API para aceder a dados de análise de insights de parceiros.
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 54cd1809b4b2e6ca2a1dbdf6a53bc6ba132d0b9a
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: 4e8b70b027995ddf7ccf9de2da9eb9be764dced8
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114377162"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114845130"
 ---
 # <a name="get-started-with-programmatic-access-to-analytics-data"></a>Introdução ao acesso programático aos dados de análise
 

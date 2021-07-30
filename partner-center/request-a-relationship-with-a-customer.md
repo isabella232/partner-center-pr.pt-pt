@@ -3,17 +3,17 @@ title: Solicitar uma relação de revendedor com um cliente
 ms.topic: how-to
 ms.date: 06/17/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-customers
 description: Solicite uma relação com um cliente para cenários multi-parceiros, multicanais ou se os privilégios de administração delegados para um cliente precisam de ser restaurados.
 author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
-ms.openlocfilehash: 83f615e69a9285365e68305fa909104e0da52992
-ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
+ms.openlocfilehash: 5b80cc15ade94a9003ec1b21293d86c3b5ac8ace
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "112551644"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114844484"
 ---
 # <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>Como pedir uma relação de revendedor de um cliente no Centro de Parceiros
 
@@ -24,7 +24,7 @@ Se pretender gerir o serviço ou subscrição de um cliente em seu nome, o clien
 Se quiser estabelecer uma relação de revendedor com um cliente e gerir apenas as subscrições Azure que fornece, não precisa de obter permissões de administrador.
 
 >[!NOTE] 
->A opção de não solicitar permissões não está disponível para parceiros que operam no Microsoft Cloud para o Governo dos EUA ou Microsoft Cloud Germany. Para saber mais, consulte [clientes delegar privilégios de administração aos parceiros.](customers-revoke-admin-privileges.md)
+>A opção de não solicitar permissões não está disponível para parceiros que operam em Microsoft Cloud for US Government ou Microsoft Cloud Germany. Para saber mais, consulte [clientes delegar privilégios de administração aos parceiros.](customers-revoke-admin-privileges.md)
 
 ## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Convide um cliente a estabelecer uma relação de revendedor consigo
 
@@ -32,7 +32,7 @@ Pode solicitar uma relação de revendedor com um cliente de dentro do seu país
 
 1. Selecione **Clientes** no menu **Partner Center** e, em seguida, selecione **Solicite uma relação de revendedor**.
 
-2. Para solicitar permissões de administrador deste cliente, **selecione Incluir privilégios de administração delegados para o Azure Ative Directory e Office 365**. Para estabelecer a relação sem pedir permissões de administrador, desmarque esta opção.
+2. Para solicitar permissões de administrador deste cliente, **selecione Incluir privilégios de administração delegados para Azure Ative Directory e Office 365**. Para estabelecer a relação sem pedir permissões de administrador, desmarque esta opção.
 
 3. Na página seguinte, analise a mensagem de e-mail de rascunho. Pode abrir a mensagem de rascunho na aplicação de e-mail predefinida ou pode copiar a mensagem para a área de transferência e colar num e-mail.
 
@@ -52,13 +52,13 @@ Pode solicitar uma relação de revendedor com um cliente de dentro do seu país
 
 ## <a name="changes-to-the-customer-invitation-experience"></a>Alterações à experiência do convite ao cliente
 
-A experiência do cliente para aceitar um convite de relacionamento revendedor de um parceiro cloud solution provider (CSP) é hospedada por diferentes portais virados para o cliente. A localização do portal depende se um cliente está numa nuvem pública da Microsoft ou numa nuvem nacional:
+A experiência do cliente para aceitar um convite de relacionamento revendedor de um parceiro de Fornecedor de Soluções em Nuvem (CSP) é hospedada por diferentes portais virados para o cliente. A localização do portal depende se um cliente está numa nuvem pública da Microsoft ou numa nuvem nacional:
 
 |Tipos de clientes em nuvem  | Onde é que um cliente aceita um convite de relacionamento de revendedor? |
 |---------|---------
-| Clientes na Nuvem Pública | Microsoft 365 Admin Center |
-| Clientes no Partner Center para a Microsoft Cloud Germany | Portal de Administração do Microsoft Office |
-| Clientes no Partner Center para Microsoft Cloud para governo dos EUA | Portal de Administração do Microsoft Office |
+| Clientes na Nuvem Pública | Administração Microsoft 365 Centro |
+| Clientes no Partner Center para a Microsoft Cloud Germany | Microsoft Office Portal de Administração |
+| Clientes no Partner Center for Microsoft Cloud for US Government | Microsoft Office Portal de Administração |
 |
 
 ## <a name="next-steps"></a>Passos seguintes

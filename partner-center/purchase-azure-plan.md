@@ -3,18 +3,18 @@ title: Comprar o plano do Azure
 ms.topic: how-to
 ms.date: 07/21/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-pricing
 description: Utilizando o plano Azure, aprenda a comprar subscrições Azure individuais ou múltiplas, reservas Azure, para configurar recursos e para visualizar ou adicionar subscrições.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8a85fafab9ec815c0d593580837a8d5fd415c2bc
-ms.sourcegitcommit: d133c8b923b90ac5518cb989c0ce4dd69713abf4
+ms.openlocfilehash: 792ac90b1c8cad0929ea163a2b4f606ac9a1d3ce
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "114433722"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114844518"
 ---
 # <a name="purchase-the-azure-plan-for-customers-and-access-the-latest-azure-services"></a>Compre o plano Azure para clientes e aceda aos mais recentes serviços da Azure
 

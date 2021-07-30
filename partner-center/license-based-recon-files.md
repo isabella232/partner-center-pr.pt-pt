@@ -3,22 +3,22 @@ title: Ficheiros de reconciliação com base em licenças
 ms.topic: article
 ms.date: 05/18/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-billing
 description: Saiba como ler ficheiros de reconciliação baseados em licenças no Partner Center. Este artigo explica o significado de cada campo no seu ficheiro de reconhecimento baseado na licença.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 041f0fadfea107027ae1d9796d235700e66e6834
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 7ebbd34e8de8db845b06b8d75bc17e88612e8477
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110146583"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114837361"
 ---
 # <a name="understand-the-fields-in-partner-center-license-based-reconciliation-files"></a>Compreenda os campos em ficheiros de reconciliação baseados em licenças do Partner Center
 
-**Aplica-se a**: Partner Center | Centro de Parceiros para Microsoft Cloud para governo dos EUA
+**Aplica-se a**: Partner Center | Centro de Parceiros para Microsoft Cloud for US Government
 
 **Funções adequadas**: Administração global | Administração de administração de utilizadores | Administrador de faturação | Agente administrativo
 

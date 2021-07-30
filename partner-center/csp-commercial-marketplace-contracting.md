@@ -3,18 +3,18 @@ title: Contratos da CSP para o mercado comercial
 ms.topic: article
 ms.date: 07/02/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-pricing
 description: Conheça os termos, condições e contratos para subscrições de produtos ISV de terceiros adquiridos por parceiros da CSP no mercado comercial.
 author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 28a3b40eb3a3e037cbeb434c57a93b9a0a94e691
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 4304d57e122adcfbb36cf32a302d316174b26d90
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110148096"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114837769"
 ---
 # <a name="contracts-for-csp-partners-doing-business-in-the-commercial-marketplace"></a>Contratos para parceiros da CSP que fazem negócios no mercado comercial
 

@@ -4,17 +4,17 @@ ms.topic: how-to
 ms.date: 05/11/2021
 description: Saiba mais sobre o seu limite de crédito e como é calculado. Inclui FAQ.
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-billing
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: da3fc23a51cc70eec91a304f14189eb191c71339
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 32dc94a4bd85160a02a4be880469f713d98449ba
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110148113"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114837973"
 ---
 # <a name="credit-limit-enforcement-cle"></a>Execução do limite de crédito (CLE)
 
@@ -24,7 +24,7 @@ ms.locfileid: "110148113"
 
 O seu limite de crédito é o valor máximo (em dólares dos EUA) que você, como parceiro, pode gastar para comprar produtos ou subscrições no Partner Center. Se exceder o seu limite de crédito, não poderá fazer novas compras até que o pagamento seja feito. As suas subscrições existentes continuarão ininterruptas.
 
-Os limites de crédito aplicam-se às ofertas em plano Azure, reservas Azure, Software, Marketplace, Azure 145 P, Office e Dynamics. Os limites de crédito não se aplicam às renovações e ao consumo em curso.
+Os limites de crédito aplicam-se às ofertas em plano Azure, reservas Azure, Software, Marketplace, Azure 145 P, Office e Produtos Dynamics. Os limites de crédito não se aplicam às renovações e ao consumo em curso.
 
 Atribuímos o seu limite de crédito ao nível do inquilino durante o seu período de embarque. Baseámo-lo nas suas receitas previstas, na compra de proezas e no histórico de pagamentos. Em seguida, usamos a seguinte fórmula para calcular o seu saldo disponível:
 

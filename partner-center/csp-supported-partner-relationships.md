@@ -3,24 +3,24 @@ title: Relações de parceiros CSP suportados
 ms.topic: article
 ms.date: 05/12/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-enroll
 description: Conheça diferentes relações de parceiros e cenários de transações suportados para parceiros no programa CSP.
 author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b70f8f152bc3711e5a715b6a4f0316f8aaa9b903
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 4f5a7e63a4e4ae79d85f07f07f0951d32535d815
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110147518"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114845317"
 ---
 # <a name="learn-how-partners-can-work-with-other-partners-in-the-csp-program"></a>Saiba como os parceiros podem trabalhar com outros parceiros no programa CSP
 
 **Funções adequadas**: Todos os parceiros interessados em aprender mais sobre a CSP
 
-Este artigo descreve os tipos-chave de relações de parceiros no programa Microsoft Cloud Solution Provider (CSP). Também descreve vários casos de uso, benefícios e cenários de transação suportados para parceiros de programas CSP.
+Este artigo descreve os tipos-chave de relações com parceiros no programa Fornecedor de Soluções em Nuvem da Microsoft (CSP). Também descreve vários casos de uso, benefícios e cenários de transação suportados para parceiros de programas CSP.
 
 Ser sócio no programa CSP permite-lhe ir além da revenda de licenças para que possa estar mais envolvido no negócio dos seus clientes. O programa CSP coloca os parceiros no centro da relação com o cliente. Isto leva a um envolvimento mais profundo com os seus clientes, uma visão privilegiada para o negócio de um cliente, e a oportunidade de descobrir novas oportunidades de vendas. Pode até ajudá-lo a acelerar a transformação digital do seu cliente.
 
@@ -42,7 +42,7 @@ Como parceiro no programa CSP, pode decidir como quer interagir com a Microsoft 
 
 ## <a name="csp-program-requirements-signing-the-microsoft-partner-agreement-mpa"></a>Requisitos do programa CSP: Assinatura do Acordo de Parceiro da Microsoft (MPA)
 
-Como parte das melhorias contínuas do programa Cloud Solution Provider, atualizámos os acordos existentes para parceiros que queiram aderir ao programa CSP.
+Como parte das melhorias contínuas do programa Fornecedor de Soluções em Nuvem, atualizámos os acordos existentes para parceiros que queiram aderir ao programa CSP.
 
 O **Microsoft Partner Agreement (MPA)** oferece aos parceiros um acordo digital simplificado que suporta novos cenários de negócio, uma necessidade reduzida de múltiplos contratos de parceiros e um cumprimento mais fácil dos requisitos legais globais.
 
@@ -54,7 +54,7 @@ Um revendedor indireto precisa de assinar o MPA antes que o revendedor possa par
 - Antes que um fornecedor indireto possa associar o ID mpn do revendedor indireto a uma nova subscrição CSP
 - Antes que um fornecedor indireto possa transacionar novos negócios com aquele revendedor
 
-De facto, os revendedores indiretos precisam de fazer três coisas antes de poderem transacionar novos negócios no programa Cloud Solution Provider:
+Na verdade, os revendedores indiretos precisam de fazer três coisas antes de poderem negociar novos negócios no programa Fornecedor de Soluções em Nuvem:
 
 - A bordo no Centro de Parceiros
 - Inscreva-se como revendedor indireto
@@ -85,7 +85,7 @@ O cliente pode contratar vários parceiros para gerir as suas subscrições. Par
 
 O parceiro pode comprar como cliente de um revendedor indireto ou de um parceiro de conta direta. Para tal, no entanto, devem utilizar um inquilino diferente daquele utilizado para a CSP.
 
-Neste caso, os serviços comprados pelo parceiro devem ser prestados a um inquilino designado como tipo cliente (um inquilino apenas para uso interno). Estes serviços **não podem** ser prestados ao inquilino CSP do parceiro existente (o inquilino utilizado pelo parceiro no programa Cloud Solution Provider).</br>
+Neste caso, os serviços comprados pelo parceiro devem ser prestados a um inquilino designado como tipo cliente (um inquilino apenas para uso interno). Tais serviços **não podem** ser prestados ao inquilino CSP do parceiro existente (o inquilino utilizado pelo parceiro no programa Fornecedor de Soluções em Nuvem).</br>
 
 **Cenário da amostra 5:** E se um parceiro no programa CSP quiser vender para si mesmo como cliente final?
 
@@ -108,7 +108,7 @@ Neste caso, o revendedor indireto pode utilizar uma das seguintes opções:
 
 **Cenário da amostra 7:** E se um revendedor indireto quiser vender a um cliente que esteja numa região diferente?
 
-Um parceiro no programa CSP só pode vender a clientes da mesma região. Para obter mais informações, consulte [o programa Cloud Solution Provider para os mercados regionais e as moedas.](regional-authorization-overview.md)
+Um parceiro no programa CSP só pode vender a clientes da mesma região. Para mais informações, consulte [Fornecedor de Soluções em Nuvem programa mercados regionais e moedas.](regional-authorization-overview.md)
 
 **Cenário da amostra 8:** E se um prestador indireto quiser estabelecer uma relação com um revendedor indireto numa região diferente?
 

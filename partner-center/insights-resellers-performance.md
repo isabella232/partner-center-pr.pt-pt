@@ -3,18 +3,18 @@ title: Painel de desempenho do Partner Center Informações Revendedores
 ms.topic: article
 ms.date: 09/01/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 description: O painel de desempenho do revendedor no Partner Center Informações fornece uma visão geral do desempenho de vários revendedores indiretos de um fornecedor indireto de Fornecedor de Soluções em Nuvem (CSP).
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c8fc28730fecdd97928159cef3f0c48a6eeda1f5
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: 796af99cc405a72bebcd467b242dafb83ac756e5
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114376909"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114844705"
 ---
 # <a name="reseller-performance-dashboard-in-partner-center-insights"></a>Painel de desempenho revendedor no Partner Center Informações
 

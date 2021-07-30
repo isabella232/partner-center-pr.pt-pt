@@ -3,18 +3,18 @@ title: Faturação de produtos de mercado comercial
 ms.topic: article
 ms.date: 05/12/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-billing
 description: Saiba como funciona a faturação para produtos ISV SaaS ou subscrições compradas para clientes do mercado comercial dentro do Partner Center.
 author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c25d4ab3077c6a0f648c767472e8b7b60ef53a9c
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 102f13530ece08cd813412a44897ece0186e7cbb
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110148028"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114837956"
 ---
 # <a name="billing-for-commercial-marketplace-products-and-subscriptions-in-partner-center"></a>Faturação para produtos e subscrições de mercado comercial no Partner Center
 
@@ -40,7 +40,7 @@ O administrador global ou administrador de faturação da sua empresa receberá 
 
     Verá dois separadores no topo da página de Faturação: **Compras recorrentes** e **recorrentes e únicas.** Cada separador permite-lhe aceder a ficheiros de fatura e reconciliação (recon) para diferentes produtos de mercado:
 
-    - **Separador recorrente:** Mostra ficheiros de fatura e reconciliação para subscrições relacionadas com o Office 365, Microsoft 365, Dynamics 365, Azure Ative Directory, Power BI Pro e Microsoft Azure.
+    - **Separador recorrente:** Apresenta ficheiros de fatura e reconciliação para subscrições relacionadas com Office 365, Microsoft 365, Dynamics 365, Azure Ative Directory, Power BI Pro e Microsoft Azure.
 
     - **Separador de compras recorrentes e pontuais:** Mostra ficheiros de fatura e reconciliação para o plano Azure, reservas Azure, software e produtos de mercado comercial.
   
@@ -74,7 +74,7 @@ Exemplos destas compras podem incluir software SUSE Linux (uma subscrição de s
 >[!NOTE]
 > Para obter mais informações sobre como ler ficheiros de fatura e reconhecimento, consulte também [a visão geral do Billing](billing.md).
 
-### <a name="tips-on-reading-your-invoice"></a>Dicas para ler a sua fatura
+### <a name="tips-on-reading-your-invoice"></a>Sugestões na leitura da sua fatura
 
 Ao comprar um produto SaaS baseado em licença a um editor ISV de terceiros, só verá os custos da taxa de licença na sua fatura. Isto é verdade mesmo quando o produto SaaS da ISV utiliza (ou consome) recursos de infraestrutura Azure subjacentes. Isto porque os custos de utilização da infraestrutura Azure do seu cliente para um produto SaaS da ISV são faturados diretamente para o ISV. (Os ISVs verão os encargos associados de consumo da Azure no seu próprio ficheiro de reconciliação de faturas de utilização diária.)
 
@@ -82,11 +82,11 @@ A sua fatura conterá várias páginas:
 
 - **Página 1 da fatura:** Contém uma visão geral resumo dos detalhes de faturação do parceiro do programa CSP. Isto inclui um resumo dos encargos para o período de faturação, um número de faturação, condições de pagamento (Net 60 dias) e métodos de pagamento de faturação para pagar por fio ou por cheque.
 
-- **Página 2 (e quaisquer páginas subsequentes) da fatura:** Detalhes encargos tanto para compras de primeira parte da Microsoft como para compras isv de terceiros (baseada em licenças) no mercado comercial. Pode identificar compras baseadas em licenças ISV pela linha **Publisher** por baixo de cada nome de produto. O ficheiro de reconciliação associado oferece mais detalhes de faturação para taxas específicas de fatura.
+- **Página 2 (e quaisquer páginas subsequentes) da fatura:** Detalhes encargos tanto para compras de primeira parte da Microsoft como para compras isv de terceiros (baseada em licenças) no mercado comercial. Pode identificar as compras baseadas em licenças ISV pela linha **Publisher** por baixo de cada nome do produto. O ficheiro de reconciliação associado oferece mais detalhes de faturação para taxas específicas de fatura.
 
 - **Página final da fatura:** Se foi cobrado por produtos de mercado baseados em licença a partir de um ISV, esta página final apresentará mais detalhes sobre o nome e endereço da editora ISV.
 
-### <a name="tips-on-reading-your-reconciliation-file"></a>Dicas para ler o seu ficheiro de reconciliação
+### <a name="tips-on-reading-your-reconciliation-file"></a>Sugestões na leitura do seu ficheiro de reconciliação
 
 O ficheiro de reconciliação **de compras recorrentes e únicas** contém várias colunas com detalhes adicionais que mapeiam os encargos na sua fatura. A coluna **PublisherName** mostra se a compra é da Microsoft ou de um editor ISV de terceiros.
 

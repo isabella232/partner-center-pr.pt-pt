@@ -3,18 +3,18 @@ title: Obter leads de vendas - crie um perfil de negócio
 ms.topic: article
 ms.date: 03/09/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-referrals
 description: Saiba como obter pistas de vendas da Microsoft. Uma das chaves é criar um perfil de negócio no Partner Center que permita que os clientes o encontrem mais facilmente.
 author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f66a5c32f145be5a80de838dae2cd1926e6aebce
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 51d55e14a00e17ed277bdc61aeb0ef64fbcbeac0
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110148214"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114838007"
 ---
 # <a name="create-a-business-profile-to-get-microsoft-sales-leads-and-help-customers-find-you"></a>Crie um perfil de negócio para obter leads de vendas da Microsoft e ajude os clientes a encontrá-lo
 
@@ -49,7 +49,7 @@ Apresente a sua empresa, adicionando um logotipo e uma breve descrição, e um l
 
 O logótipo pode ser um ficheiro GIF, JPG ou PNG, com uma largura máxima de 300 pixels. Recomendamos a utilização de relações de aspeto quadrados ou longos. Os rácios de aspeto alto não são recomendados.
 
-A sua descrição pode chegar aos 2500 caracteres. Dicas para uma grande descrição: 
+A sua descrição pode chegar aos 2500 caracteres. Sugestões para uma grande descrição: 
 
 -  **Seja breve,** lidere com o que é importante na primeira frase ou duas. Esta deve ser a manchete que chama a atenção dos clientes. Na experiência de pesquisa de parceiros, mostramos a primeira linha ou duas na pré-visualização dos resultados de pesquisa.
 -  **Concentre-se nas experiências da sua empresa com ofertas específicas da Microsoft.** Os clientes que procuram referências estão geralmente à procura de parceiros com experiência específica da Microsoft.

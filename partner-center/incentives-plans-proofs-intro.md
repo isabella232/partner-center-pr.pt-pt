@@ -8,12 +8,12 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: e98296aa42327a7b2ebd91b44f2e28e9010600bb
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: d315ac84f73676f8ef21d3fc5a1cded80fb32e4d
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110146753"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114845266"
 ---
 # <a name="use-these-resources-to-help-you-create-incentives-plans-and-proofs-of-execution"></a>Use estes recursos para ajudá-lo a criar planos de incentivos e provas de execução
 
@@ -40,7 +40,7 @@ Saiba mais sobre [a preparação de provas de execução.](incentives-prepare-yo
 
 Os seguintes recursos explicam como organizar, criar e editar estes documentos de incentivos chave. Também descrevem o que fazer se a Microsoft aprovar a sua reclamação ou se alguma reclamação for rejeitada.
 
-|  **Para fazer isto**  |  **Leia isto**  |
+|  **Para efetuar isto**  |  **Leia isto**  |
 |--------------|-----------|
 | Saiba como criar um plano de reivindicações cooperativa de incentivos | [Criar o plano](incentives-create-your-plan.md)  |
 Saiba como criar uma prova de execução | [Preparar a prova de execução](incentives-prepare-your-proof-of-execution.md)  |

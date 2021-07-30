@@ -3,22 +3,22 @@ title: Criar subscrições de clientes no Partner Center
 ms.topic: how-to
 ms.date: 05/19/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-customers
 description: Saiba como vender subscrições aos seus clientes por produtos publicados pela Microsoft, bem como produtos SaaS publicados por ISVs de terceiros.
 author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.openlocfilehash: 9052954c81ef55a2bfa06778ace651c9d0f9b26f
-ms.sourcegitcommit: e0444145d7720df948b9d02ae2469206db48dba5
+ms.openlocfilehash: 199e3dc42a0aa46c3e743e9e6fcb0ed585cd0303
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110201413"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114838024"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Create, suspend, or cancel customer subscriptions (Criar, suspender ou cancelar subscrições de clientes)
 
-**Aplica-se a**: Partner Center | Centro de Parceiros para Microsoft Cloud para governo dos EUA
+**Aplica-se a**: Partner Center | Centro de Parceiros para Microsoft Cloud for US Government
 
 **Funções adequadas**: Agente administrador | Administrador de faturação | Administração global | Agente helpdesk | Agente comercial
 
@@ -41,7 +41,7 @@ Algumas ofertas são limitadas a uma subscrição por cliente. Para ver uma list
 3. Selecione **Adicionar subscrição**. O separador **Serviços Online** mostrará todas as ofertas disponíveis do Marketplace SaaS.
 
 4. Para ver apenas certos tipos de subscrições, faça seleções nos filtros disponíveis:
-   - **Editor**: Escolha a **Microsoft** para ver apenas ofertas da Microsoft, ou **Partner** para ver produtos de mercado comercial publicados por ISVs.
+   - **Publisher**: Escolha a **Microsoft** para ver apenas ofertas da Microsoft, ou **Partner** para ver produtos de marketplace comercial publicados pelos ISVs.
    - **Tipo de faturação**: Selecione o tipo de faturação de subscrição que pretende utilizar: **Licença** ou **Utilização**. Consulte [a faturação baseada em licença](license-based-billing.md) para obter informações que o ajudarão a decidir entre a frequência de faturação mensal e anual.
    - **Categoria**: Escolha **Empresa,** **Pequenas empresas,** ou **Trial.** Para obter informações sobre subscrições de teste, consulte [Oferecer aos seus clientes testes de produtos microsoft.](offer-your-customers-trials-of-microsoft-products.md)
 

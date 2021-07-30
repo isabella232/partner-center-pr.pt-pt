@@ -3,18 +3,18 @@ title: Adicione um ID de IVA para impostos empresariais
 ms.topic: article
 ms.date: 12/04/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-billing
 description: Os impostos aplicáveis às compras do Centro de Parceiros são determinados pelo endereço da sua empresa. As empresas de alguns países podem fornecer o seu número de IVA ou equivalente local.
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 1605072e35a96d8bc8ed2e9f507b38a6837fbd35
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: d0ff46b09d2d9008302825daeb07b5ffa05a5650
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110146940"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114838041"
 ---
 # <a name="add-a-vat-id-to-your-billing-profile"></a>Adicione um ID de IVA ao seu perfil de faturação
 

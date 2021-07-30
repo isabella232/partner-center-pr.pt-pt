@@ -3,18 +3,18 @@ title: Remova a relação do revendedor com um cliente
 ms.topic: how-to
 ms.date: 06/05/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-customers
 description: Descubra como os parceiros diretos da Microsoft podem remover os clientes da sua lista, remover privilégios de administração delegados e parar de apoiar ou comprar para um cliente.
 author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 83259f2f895be9ef34c55db5613ccfe6891a4424
-ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
+ms.openlocfilehash: 355f4917098ae6f6e383bf1a889197a725777311
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "112551474"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114844972"
 ---
 # <a name="how-to-remove-a-reseller-relationship-with-a-customer-in-partner-center"></a>Como remover uma relação de revendedor com um cliente no Centro de Parceiros
 

@@ -3,18 +3,18 @@ title: Criar uma conta MPN no Partner Center
 ms.topic: article
 ms.date: 05/07/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
+ms.subservice: partnercenter-enroll
 description: Saiba como os membros da Microsoft Partner Network podem criar uma conta Partner Center para gerir os seus benefícios e competências de rede.
 author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7ee6f0cb6019dc68e4303a95bfa4f89727338b64
-ms.sourcegitcommit: a84c83bbd95156344b3d9b2778973f47a9f83141
+ms.openlocfilehash: 6f73d510b5426f50aa595ff59813583befb8eab4
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/07/2021
-ms.locfileid: "113353742"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114837378"
 ---
 # <a name="create-an-mpn-account-in-partner-center-to-manage-network-benefits-and-competencies"></a>Criar uma conta MPN no Partner Center para gerir benefícios e competências de rede
 
@@ -37,7 +37,7 @@ Quando estiver pronto para criar uma conta no Partner Center, terá de ter à m�
 - Para obter informações sobre o processo de verificação, consulte [a verificação da conta.](verification-responses.md)
 
 > [!NOTE]
-> Se tinha uma conta no Centro de Adesão de Sócios (PMC), era o Centro de Parceiros migrado. Clique para obter mais informações sobre [a aposentadoria do Centro de Adesão ao Parceiro.](partner-membership-center-retirement-faq.md)
+> Se tinha uma conta no Centro de Adesão de Sócios (PMC), foi migrada para o Partner Center. Clique para obter mais informações sobre [a aposentadoria do Centro de Adesão ao Parceiro.](partner-membership-center-retirement-faq.md)
 
 ## <a name="get-started"></a>Introdução
 

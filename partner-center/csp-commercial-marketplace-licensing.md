@@ -3,18 +3,18 @@ title: Gerir licenciamento em ofertas de marketplace
 ms.topic: how-to
 ms.date: 04/29/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-pricing
 description: Saiba como configurar e gerir o licenciamento para as suas ofertas de mercado comercial ISV.
 author: petand123
 ms.author: v-petand
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c128b99b034564bcaa100ca975253f8b1bad7a42
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 73a02a0a6cad28939d21800c726811c8969ce9a2
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110147960"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114837700"
 ---
 # <a name="manage-licensing-in-marketplace-offers"></a>Gerir licenciamento em ofertas de marketplace
 
@@ -42,8 +42,8 @@ Antes de iniciar este processo, deve familiarizar-se com o básico do mercado co
 Nos procedimentos abaixo, você será solicitado para introduzir um ID de oferta. Dedem um pouco para chegar a um ID de oferta adequado, tendo em conta os seguintes pontos:
 
 - Este ID é visível para os clientes no endereço web para a oferta de mercado e modelos de Gestor de Recursos Azure, se aplicável.
-- O ID da oferta combinado com o ID da Editora deve ter menos de 40 caracteres de comprimento.
-- Utilize apenas letras minúsculas e números. O ID da Oferta pode incluir hífens e sublinhados, mas sem espaços. Por exemplo, se o seu ID de editor estiver `testpublisherid` e `test-offer-1` introduzir, o endereço web da oferta será `https://appsource.microsoft.com/product/dynamics-365/testpublisherid.test-offer-1` .
+- O ID da oferta combinado com o ID Publisher deve ter menos de 40 caracteres de comprimento.
+- Utilize apenas letras minúsculas e números. O ID da Oferta pode incluir hífens e sublinhados, mas sem espaços. Por exemplo, se o seu ID Publisher estiver `testpublisherid` e `test-offer-1` introduzir, o endereço web da oferta será `https://appsource.microsoft.com/product/dynamics-365/testpublisherid.test-offer-1` .
 - Este ID não pode ser alterado depois de selecionar **Criar**.
 
 ### <a name="determine-your-offer-alias"></a>Determine o seu pseudónimo oferta
@@ -114,7 +114,7 @@ A oferta será ao vivo em 4-6 horas.
 
     - **Para ofertas habilitados a licenças com opção de instalação gratuita**: Se a sua oferta não necessitar de uma verificação de licença, os utilizadores administrativos verão um botão **Get It Now** para além do Contact **Me**. Os utilizadores que pretendam experimentar a sua opção de instalação gratuita devem clicar em **Get It Now**, o que os levará a instalar a oferta no Power Platform Admin Center. Os utilizadores ainda podem utilizar **o Contato Me** se tiverem alguma dúvida, ou se quiserem fazer upgrade para um plano pago.
 
-## <a name="register-isv-connect-deal-in-deal-registration"></a>Registre o negócio ISV Connect no Registo de Negócios
+## <a name="register-isv-connect-deal-in-deal-registration"></a>Registrar isv Ligação negócio no Registo de Negócios
 
 Antes de poder atribuir licenças a um cliente, cada venda tem de ser registada no Partner Center. Para isso, consulte [registar as suas ofertas.](register-deals.md)
 

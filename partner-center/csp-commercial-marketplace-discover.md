@@ -3,18 +3,18 @@ title: Descubra ofertas - mercado comercial
 ms.topic: how-to
 ms.date: 05/05/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-pricing
 description: Saiba como os parceiros da CSP podem usar o Partner Center para visualizar ou pesquisar no mercado ofertas ou preços de Fornecedores de Software Independentes (ISVs).
 author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ab30f8391df58155c8511dc628b1fefd94c8d768
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: bd1f9d0a881021fc97bbf94eb190acb6e6e69f14
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110147977"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114837752"
 ---
 # <a name="discover-offers-and-pricing-in-partner-center-commercial-marketplace"></a>Descubra ofertas e preços no mercado comercial partner Center
 

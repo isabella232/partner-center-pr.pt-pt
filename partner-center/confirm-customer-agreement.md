@@ -1,20 +1,20 @@
 ---
 title: Como confirmar que o seu cliente aceitou o Acordo de Cliente da Microsoft para o programa CSP
-description: Os parceiros do Cloud Solution Provider (CSP) precisam confirmar a aceitação do cliente do Microsoft Customer Agreement antes de encomendar os serviços da Microsoft aos clientes.
+description: Fornecedor de Soluções em Nuvem parceiros (CSP) precisam confirmar a aceitação do cliente do Acordo de Cliente da Microsoft antes de encomendar serviços Microsoft para os clientes.
 ms.topic: how-to
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-customers
 author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 03/24/2021
-ms.openlocfilehash: 9deebf3d9aab2d4dc7953da67a7eb17078b3d30c
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 054920e490b84420a99938f7b28046e9999ddde4
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277016"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114837395"
 ---
 # <a name="how-to-confirm-that-your-customer-has-accepted-the-microsoft-customer-agreement-to-the-csp-program"></a>Como confirmar que o seu cliente aceitou o Acordo de Cliente da Microsoft para o programa CSP
 
@@ -25,7 +25,7 @@ Os clientes têm duas opções para a forma como aceitam o Acordo de Cliente da 
 
 **Opção 1**: Atestado parceiro de aceitação do cliente - O Parceiro pode confirmar a aceitação do cliente utilizando o Partner Center API/SDK ou através do painel partner Center.
 
-**Opção 2**: Aceitação direta do cliente - O parceiro pode convidar o cliente através de um URL para rever e aceitar o acordo no Microsoft 365 Admin Center.
+**Opção 2**: Aceitação direta do cliente - O parceiro pode convidar o cliente através de um URL para rever e aceitar o acordo no Centro de Administração Microsoft 365.
 
 ## <a name="access-microsoft-customer-agreement-template"></a>Aceder ao modelo de Acordo de Cliente da Microsoft
 
@@ -63,7 +63,7 @@ Deve ser um agente administrativo ou agente comercial para fazer isto:
 
 3. Ao abrigo **do Microsoft Customer Agreement**, selecione **Update**.
 
-4. Introduza o **Nome Próprio**, **Apelido,** **endereço de e-mail** e número de **telefone** (opcional) da pessoa que aceitou o acordo. Nos termos **da data de aceitação** do Acordo, insira a data adequada. Não pode marcar isto para uma data futura.
+4. Introduza o **Nome Próprio**, **Apelido,** **endereço de e-mail** e **Telefone número** (opcional) da pessoa que aceitou o acordo. Nos termos **da data de aceitação** do Acordo, insira a data adequada. Não pode marcar isto para uma data futura.
 
 5. **Selecione Save** e continue.
 
@@ -91,9 +91,9 @@ Pode utilizar a API/SDK do Partner Center para confirmar a aceitação do client
 
 - [Obtenha um link de descarregamento para o modelo do Contrato de Cliente da Microsoft](/partner-center/develop/download-customer-agreement-template)
 
-## <a name="option-2-customer-acceptance-in-microsoft-365-admin-center"></a>Opção 2: Aceitação do cliente no Microsoft 365 Admin Center
+## <a name="option-2-customer-acceptance-in-microsoft-365-admin-center"></a>Opção 2: Aceitação do cliente no Administração Microsoft 365 Center
 
-Os parceiros podem convidar clientes novos e existentes, através de um URL, a rever e aceitar o acordo dentro do Microsoft 365 Admin Center. As próximas secções mostram-lhe como:
+Os parceiros podem convidar clientes novos e existentes, através de um URL, a rever e aceitar o acordo dentro do Administração Microsoft 365 Center. As próximas secções mostram-lhe como:
 
 - Crie um novo cliente e convide o cliente a rever e aceitar o acordo.
 
@@ -106,13 +106,13 @@ Os parceiros podem convidar clientes novos e existentes, através de um URL, a r
 
 ## <a name="create-a-new-customer-and-invite-the-customer-to-review-and-accept-the-agreement"></a>Crie um novo cliente e convide o cliente a rever e aceitar o acordo
 
-Use os seguintes passos para criar um novo cliente no Partner Center e, em seguida, convidá-los a rever e aceitar o Acordo de Cliente da Microsoft dentro do Microsoft 365 Admin Center.
+Use os seguintes passos para criar um novo cliente no Partner Center e, em seguida, convidá-los a rever e aceitar o Acordo de Cliente da Microsoft dentro Administração Microsoft 365 Center.
 
 1. A partir do separador **Clientes** dentro do Partner Center, **selecione Adicionar cliente.**
 
 2. Informação **em Conta**, introduza informações sobre o novo cliente em todas as áreas requeridas, incluindo o nome da empresa do cliente e o contacto primário.
 
-3. De acordo com **o Cliente,** será solicitado ao Cliente que **aceite o Acordo de Cliente da Microsoft no Microsoft 365 Admin Center**. Preencha todos os outros campos necessários na página.
+3. De acordo com **o Cliente,** o Cliente selecionado **será solicitado a aceitar o Acordo de Cliente da Microsoft no Administração Microsoft 365 Center**. Preencha todos os outros campos necessários na página.
 
 4. Selecione **Seguinte: Reveja** então continue os passos para criar o inquilino do cliente. 
 
@@ -123,7 +123,7 @@ Use os seguintes passos para criar um novo cliente no Partner Center e, em segui
 
 5. Quando chegar ao ecrã **de Confirmação** no novo fluxo de trabalho do cliente, guarde as credenciais do cliente. Terá de dar estas credenciais ao seu cliente mais tarde.
 
-6. Fora do Partner Center, crie e envie um e-mail que convida o cliente a aceitar o Acordo de Cliente da Microsoft no Microsoft 365 Admin Center. Certifique-se de incluir estes itens no e-mail:
+6. Fora do Partner Center, crie e envie um e-mail que convida o cliente a aceitar o Acordo de Cliente da Microsoft no Administração Microsoft 365 Center. Certifique-se de incluir estes itens no e-mail:
 
    - Um link para este [URL](https://admin.microsoft.com/AdminPortal/Home?ref=/BillingAccounts/agreement) (Inscrição obrigatória)
 
@@ -131,7 +131,7 @@ Use os seguintes passos para criar um novo cliente no Partner Center e, em segui
 
 7. O cliente receberá então o convite de e-mail do parceiro e selecionará o [URL](https://admin.microsoft.com/AdminPortal/Home?ref=/BillingAccounts/agreement).
 
-8. O cliente assina no Microsoft 365 Admin Center utilizando as credenciais de cliente que forneceu.
+8. O cliente assina no Administração Microsoft 365 Center utilizando as credenciais de cliente que forneceu.
 
 9. O cliente verifica a caixa para aceitar o acordo de Cliente da Microsoft.
 
@@ -141,7 +141,7 @@ Utilize os seguintes passos para convidar um novo cliente a rever e aceitar a re
 
 1. A partir do separador **Clientes** dentro do Partner Center, selecione Solicite um link **de relacionamento revendedor.** 
 
-2. Será gerado um modelo de e-mail automático, incluindo texto e um URL parametrizado que direciona o cliente para o Microsoft 365 Admin Center.
+2. Será gerado um modelo de e-mail automático, incluindo texto e um URL parametrizado que direciona o cliente para o Centro de Administração Microsoft 365.
 
 3. Pode personalizar o modelo de e-mail gerado automaticamente e, em seguida, selecionar **Copy para clipboard** ou **Abrir no e-mail**.
 
@@ -151,7 +151,7 @@ Utilize os seguintes passos para convidar um novo cliente a rever e aceitar a re
 
 5. O cliente recebe convite via e-mail e clica no URL parametrizado. 
 
-6. O cliente utiliza credenciais que fornece dentro de e-mail para assinar no Microsoft 365 Admin Center.
+6. O cliente utiliza credenciais que fornece dentro de e-mail para iniciar sinse no Administração Microsoft 365 Center.
 
 7. O cliente verifica a caixa para aceitar a relação de **revendedor** e **o Acordo de Cliente da Microsoft.** 
 
@@ -168,7 +168,7 @@ Utilize os seguintes passos para convidar um cliente existente a rever e aceitar
 
 2. O seu cliente recebe o convite por e-mail e clica no [URL](https://admin.microsoft.com/AdminPortal/Home?ref=/BillingAccounts/agreement). 
 
-3. O cliente introduz as suas credenciais no Microsoft 365 Admin Center.
+3. O cliente introduz as suas credenciais no Administração Microsoft 365 Center.
 
 4. O seu cliente verifica a caixa para aceitar o Acordo de Cliente da Microsoft. 
 
@@ -181,17 +181,17 @@ Utilize os seguintes passos para convidar um cliente existente a rever e aceitar
 
 ## <a name="two-scenarios-where-you-need-to-attest-on-behalf-of-your-customer"></a>Dois cenários em que precisa de atestar em nome do seu cliente
 
-Existem dois cenários em que os clientes podem não ser capazes de aceitar diretamente o Acordo de Cliente da Microsoft dentro do Microsoft 365 Admin Center.
+Existem dois cenários em que os clientes podem não ser capazes de aceitar diretamente o Acordo de Cliente da Microsoft dentro do Administração Microsoft 365 Center.
 
 **Cenário 1**: Um cliente existente adquiriu qualquer um dos seguintes através de uma relação de parceiro existente: ofertas, subscrições de software ou software, Instâncias Reservadas ou Plano Azure. O cliente está agora a tentar fazer qualquer nova compra (excluindo a renovação automática). Quando esse cliente clicar no URL, receberão a mensagem "Por favor contacte o seu Parceiro para confirmar a sua aceitação do Acordo de Cliente da Microsoft."  
 
 **Para resolver:** Tem de atestar em nome do cliente.
 
-:::image type="content" source="images/mca/accept-scenario-1.png" alt-text="Screenshot da página do Microsoft 365 Admin Center pedindo-lhe que contacte o seu parceiro para confirmar a aceitação do Acordo de Cliente da Microsoft.":::
+:::image type="content" source="images/mca/accept-scenario-1.png" alt-text="Screenshot da página Administração Microsoft 365 Center pedindo-lhe para contactar o seu parceiro para confirmar a aceitação do Acordo de Cliente da Microsoft.":::
 
 **Cenário 2**: Um cliente existente adquiriu qualquer uma das seguintes ofertas, subscrições de software e software, Instâncias Reservadas e Plano Azure. O cliente está agora a tentar fazer qualquer nova compra com um novo parceiro.
 
-Quando o cliente clicar no URL para o Microsoft 365 Admin Center para aceitar a nova relação de parceiro e o acordo, eles receberão a mensagem "Por favor contacte o seu Parceiro para confirmar a sua aceitação do Acordo de Cliente da Microsoft."  
+Quando o cliente clicar no URL para Administração Microsoft 365 Center para aceitar a nova relação de parceiro e o acordo, eles receberão a mensagem "Por favor contacte o seu Parceiro para confirmar a sua aceitação do Acordo de Cliente da Microsoft."  
 
 **Para resolver:** Tem de atestar em nome do cliente.  
 
@@ -199,7 +199,7 @@ Quando o cliente clicar no URL para o Microsoft 365 Admin Center para aceitar a 
 
 Se tentar criar uma nova encomenda para um cliente existente que não tenha confirmado antes, receberá um pedido para completar a confirmação. Utilize o seguinte procedimento para o fazer.
 
-1. Introduza o **Nome Próprio**, **Apelido,** **endereço de e-mail** e número de **telefone** (opcional) do utilizador que aceitou o acordo.
+1. Introduza o **Nome Próprio**, **Apelido,** **endereço de e-mail** e **Telefone número** (opcional) do utilizador que aceitou o acordo.
 
 2. Nos termos **da data de aceitação** do Acordo, insira a data adequada. Não pode marcar isto para uma data futura.
 
@@ -207,5 +207,5 @@ Se tentar criar uma nova encomenda para um cliente existente que não tenha conf
 
 ## <a name="next-steps"></a>Passos seguintes
 
-- [Verifique ou atualize as informações do perfil da empresa](update-your-partner-profile.md)
+- [Verificar ou atualizar as informações do perfil da empresa](update-your-partner-profile.md)
 - [Contratos de Cliente Microsoft (por região, idioma)](Agreements.md)
