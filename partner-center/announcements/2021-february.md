@@ -3,7 +3,7 @@ title: Anúncios de fevereiro de 2021
 description: Anúncios de fevereiro de 2021 para o Microsoft Partner Center, incluindo novas capacidades, promoções, ofertas, mercados ou alterações às ofertas existentes.
 ms.topic: article
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-action-center
 author: brentserbus
 ms.author: brserbus
 ms.custom:
@@ -11,12 +11,12 @@ ms.custom:
 - references_regions
 ms.localizationpriority: high
 ms.date: 04/08/2021
-ms.openlocfilehash: 0b8938004bb15f1fc58a15333e97297627fa9b24
-ms.sourcegitcommit: e462f562e7f26b7d6870c22638a2a841499109d6
+ms.openlocfilehash: 9926c29b6b111120218df38b323c6859dc59d772
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "109740340"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114838727"
 ---
 # <a name="february-2021-announcements"></a>Anúncios de fevereiro de 2021
 
@@ -32,7 +32,7 @@ ________________
 
 ### <a name="impacted-audience"></a>Audiência impactada
 
-Parceiros que vendem ofertas académicas, sem fins lucrativos e comunidade governamental (GCC) através do programa Cloud Solution Provider utilizando a API do Partner Center
+Parceiros que vendem ofertas académicas, sem fins lucrativos e Nuvem da Comunidade Governamental (GCC) através do programa Fornecedor de Soluções em Nuvem utilizando a API do Partner Center
 
 ### <a name="details"></a>Detalhes
 
@@ -75,7 +75,7 @@ Os parceiros de co-venda podem agora exportar e importar oportunidades em escala
 
 ### <a name="details"></a>Detalhes
 
-Os parceiros de co-venda podem agora exportar e importar oportunidades em escala usando o novo recurso de operações a granel do Partner Center CSV. Isto unificará a sua experiência de partilha de referências e garantirá a continuidade do negócio ao mudar-se do Partner Sales Connect. É também uma alternativa ao investimento na API do Centro Parceiro.
+Os parceiros de co-venda podem agora exportar e importar oportunidades em escala usando o novo recurso de operações a granel do Partner Center CSV. Isto unificará a sua experiência de partilha de referências e garantirá a continuidade do negócio ao mudar-se da Ligação de Vendas de Parceiros. É também uma alternativa ao investimento na API do Centro Parceiro.
 
 Consulte o artigo mencionado na secção seguinte para mais detalhes. 
 
@@ -88,7 +88,7 @@ Saiba mais sobre a capacidade de operações a granel, lendo [operações a gran
 Contacte [o Suporte](https://partner.microsoft.com/support/?stage=1) se tiver mais perguntas.
 
 ________________
-## <a name="migrate-your-deals-from-partner-sales-connect-psc-using-the-new-deal-migration-feature"></a><a name="12"></a>Migrar as suas ofertas a partir do Partner Sales Connect (PSC) utilizando a funcionalidade de migração do novo negócio
+## <a name="migrate-your-deals-from-partner-sales-connect-psc-using-the-new-deal-migration-feature"></a><a name="12"></a>Migrar as suas ofertas a partir de Partner Sales Ligação (PSC) usando o novo recurso de migração de acordos
 
 ### <a name="categories"></a>Categorias
 
@@ -101,7 +101,7 @@ Parceiros com negócios no PSC
 
 ### <a name="summary"></a>Resumo
 
-Os parceiros com ofertas no Partner Sales Connect (PSC) podem tirar partido da nova experiência de co-venda dentro do Partner Center, migrando as suas ofertas de co-venda utilizando o recurso de migração do negócio.
+Os parceiros com negócios na Partner Sales Ligação (PSC) podem tirar partido da nova experiência de co-venda dentro do Partner Center, migrando as suas ofertas de co-venda utilizando o recurso de migração de negócios.
 
 ### <a name="details"></a>Detalhes
 
@@ -111,7 +111,7 @@ Consulte o artigo mencionado na secção seguinte para mais detalhes.
 
 ### <a name="next-steps"></a>Passos seguintes
 
-Saiba mais sobre a funcionalidade de migração de negócios, revendo a secção de migração de **acordos de PSC** no [Guia para co-vender no Partner Center (PC) para parceiros que migram do Partner Sales Connect (PSC)](../psc-to-pc.md).
+Saiba mais sobre a funcionalidade de migração de negócios, revendo a secção de migração de **acordos de PSC** no [Guia para co-venda no Partner Center (PC) para parceiros que migram de Parceiros Sales Ligação (PSC)](../psc-to-pc.md).
 
 ### <a name="questions"></a>Perguntas?
 
@@ -150,7 +150,7 @@ Saiba mais ao ver o nosso guia para [gerir oportunidades de co-venda no Partner 
 Contacte [o Suporte](https://partner.microsoft.com/support/?stage=1) se tiver mais perguntas.
 
 ________________
-## <a name="changes-to-the-cloud-solution-provider-csp-customer-onboarding-requirements"></a><a name="10"></a> Alterações aos requisitos de embarque do fornecedor de solução cloud (CSP)
+## <a name="changes-to-the-cloud-solution-provider-csp-customer-onboarding-requirements"></a><a name="10"></a>Alterações aos requisitos de embarque do cliente Fornecedor de Soluções em Nuvem (CSP)
 
 ### <a name="categories"></a>Categorias
 
@@ -249,7 +249,7 @@ A Microsoft irá transitar todo o processamento de assinaturas electrónicas do 
 
 ### <a name="impacted-audience"></a>Audiência impactada
 
-Parceiros de Cloud Solution Provider (CSP) existentes no âmbito da MPA.
+Parceiros de Fornecedor de Soluções em Nuvem diretos e indiretos existentes (CSP) no âmbito da MPA.
 
 ### <a name="details"></a>Detalhes
 
@@ -303,7 +303,7 @@ A Microsoft estará a implementar o estrangulamento da API para permitir um dese
 
 ### <a name="impacted-audience"></a>Audiência impactada
 
-Todos os parceiros que transacionam através do programa Cloud Solution Provider (CSP)  
+Todos os parceiros que transfiram através do programa Fornecedor de Soluções em Nuvem (CSP)  
 
 ### <a name="details"></a>Detalhes
 
@@ -341,7 +341,7 @@ Reveja os [recursos](/partner-center/develop/api-throttling-guidance)   para
 
 _______________
 
-## <a name="introducing-microsoft-viva-topics"></a><a name="7"></a>Apresentando tópicos do Microsoft Viva
+## <a name="introducing-microsoft-viva-topics"></a><a name="7"></a>Apresentando Tópicos Microsoft Viva
 
 ### <a name="categories"></a>Categorias
 
@@ -350,16 +350,16 @@ _______________
 
 ### <a name="affected-audience"></a>Público afetado
 
-Todos os parceiros que transacionam através do programa Cloud Solution Provider (CSP)
+Todos os parceiros que transfiram através do programa Fornecedor de Soluções em Nuvem (CSP)
 
 ### <a name="details"></a>Detalhes
 
-O Microsoft Viva Topics aplica inteligência artificial (IA) para identificar conhecimentos e conhecimentos de toda a sua organização e curá-lo em tópicos partilhados como produtos, clientes ou projetos. Com cartões tópicos imersivos e páginas de tópicos, o conhecimento encontra-o no contexto das suas equipas, projetos e documentos. A IA e os humanos trabalham em conjunto para melhorar o conhecimento e superá-lo nas aplicações que usa todos os dias. 
+Tópicos Microsoft Viva aplica inteligência artificial (IA) para identificar conhecimentos e conhecimentos de toda a sua organização e curá-lo em tópicos partilhados como produtos, clientes ou projetos. Com cartões tópicos imersivos e páginas de tópicos, o conhecimento encontra-o no contexto das suas equipas, projetos e documentos. A IA e os humanos trabalham em conjunto para melhorar o conhecimento e superá-lo nas aplicações que usa todos os dias. 
 
 Os utilizadores devem ser licenciados com um dos seguintes para serem elegíveis para Temas Viva:   
 - Microsoft 365 F1, F3, E3, A3, E5 ou A5 
-- Escritório 365 F3, E1, A1, E3, A3, E5 ou A5 
-- Microsoft 365 Business Basic, Standard ou Premium 
+- Office 365 F3, E1, A1, E3, A3, E5 ou A5 
+- Microsoft 365 Empresas Basic, Standard ou Premium 
 - SharePoint K, Plano 1 ou Plano2 
 
 **Oferecer detalhes**
@@ -379,7 +379,7 @@ Estas ofertas terão "Experiências De Tópico" nos nomes das suas ofertas nas l
 
 _______________
 
-## <a name="microsoft-365-e3-price-changes-coming-for-march-2021"></a><a name="6"></a>Microsoft 365 E3 alterações nos preços a chegar para março de 2021
+## <a name="microsoft-365-e3-price-changes-coming-for-march-2021"></a><a name="6"></a>Microsoft 365 E3 alterações nos preços em março de 2021
 
 ### <a name="categories"></a>Categorias
 
@@ -388,15 +388,15 @@ _______________
 
 ### <a name="affected-audience"></a>Público afetado
 
-Todos os parceiros que transfiram através do programa Cloud Solution Provider (CSP) em EUR, AUD, GBP e JPY.
+Todos os parceiros que transfiram através do programa Fornecedor de Soluções em Nuvem (CSP) em EUR, AUD, GBP e JPY.
 
 ### <a name="details"></a>Detalhes
 
-A lista de preços de pré-visualização baseada em licenças para março de 2021 foi atualizada para incluir as alterações de preços para o Microsoft 365 E3. A oferta impactada e as moedas estão listadas abaixo. 
+A lista de preços de pré-visualização baseada em licenças para março de 2021 foi atualizada para incluir as alterações de preços para Microsoft 365 E3. A oferta impactada e as moedas estão listadas abaixo. 
  
-Nome da oferta: Microsoft 365 E3 Offer ID: 2b3b8d2d-10aa-4be4-b5fd-7f2feb0c3091 Material ID: AAA-35638
+Nome da oferta: Microsoft 365 E3 Oferta ID: 2b3b8d2d-10aa-4be4-b5fd-7f2feb0c3091 ID de material: AAA-35638
 
-Estas atualizações de preços microsoft 365 E3 estão limitadas apenas a estas moedas: JPY (Iene Japonês), GBP (Grande Libra Britânica), EUR (União Europeia), AUD (Dólar Australiano). Existem outras alterações de preços no ficheiro de março e os parceiros devem obter a última pré-visualização para ver as outras alterações esperadas.
+Estas atualizações de preços Microsoft 365 E3 limitam-se apenas a estas moedas: JPY (Iene Japonês), GBP (Grande Libra Britânica), EUR (União Europeia), AUD (Dólar Australiano). Existem outras alterações de preços no ficheiro de março e os parceiros devem obter a última pré-visualização para ver as outras alterações esperadas.
 
 ### <a name="next-steps"></a>Passos seguintes
 
@@ -413,7 +413,7 @@ _______________
 
 ### <a name="affected-audience"></a>Público afetado
 
-Todos os parceiros que transacionam através do programa Cloud Solution Provider (CSP)
+Todos os parceiros que transfiram através do programa Fornecedor de Soluções em Nuvem (CSP)
 
 ### <a name="summary"></a>Resumo
 
@@ -429,7 +429,7 @@ Os parceiros devem descarregar o ficheiro de pré-visualização da lista de pre
 
 _______________
 
-## <a name="premium-assessments-an-add-on-to-compliance-manager-is-coming-on-march-1-2021"></a><a name="4"></a>Avaliações premium, um complemento ao Compliance Manager, chega a 1 de março de 2021
+## <a name="premium-assessments-an-add-on-to-compliance-manager-is-coming-on-march-1-2021"></a><a name="4"></a>Premium avaliações, um add-on para Compliance Manager, está chegando em 1 de março de 2021
 
 ### <a name="categories"></a>Categorias
 
@@ -438,15 +438,15 @@ _______________
 
 ### <a name="affected-audience"></a>Público afetado
 
-Todos os parceiros que transacionam através do programa Cloud Solution Provider (CSP)
+Todos os parceiros que transfiram através do programa Fornecedor de Soluções em Nuvem (CSP)
 
 ### <a name="summary"></a>Resumo
 
-As avaliações premium serão incluídas na pré-visualização da tabela de preços em fevereiro e estarão disponíveis a partir de 1 de março de 2021.
+Premium avaliações serão incluídas na pré-visualização da tabela de preços em fevereiro e estarão disponíveis a partir de 1 de março de 2021.
 
 ### <a name="details"></a>Detalhes
 
-As avaliações premium são um complemento opcional ao Compliance Manager e podem ajudar os clientes a cumprir os requisitos nacionais, regionais e específicos do setor que regem a recolha e utilização de dados. As avaliações premium são reservadas aos clientes do Office 365 E5, A5 e G5 e Microsoft 365 E5, A5 e G5.
+Premium avaliações são um complemento opcional ao Compliance Manager e podem ajudar os clientes a cumprir os requisitos nacionais, regionais e específicos do setor que regem a recolha e utilização de dados. Premium avaliações são reservadas para clientes Office 365 E5, A5 e G5, e Microsoft 365 E5, A5 e G5.
 
 |**Nome da oferta**|**ID da oferta**|**Material ID**|
 |------------------|:--------------------|:------------------|
@@ -459,7 +459,7 @@ As avaliações premium são um complemento opcional ao Compliance Manager e pod
 
 Reveja os seguintes recursos para este tópico e partilhe a informação com as partes interessadas apropriadas na sua organização.   
 
-- [Segurança e conformidade microsoft 365 E5](https://www.microsoft.com/licensing/product-licensing/microsoft-365-enterprise?rtc=1&activetab=m365-enterprise:primaryr5)
+- [Microsoft 365 E5 segurança e conformidade](https://www.microsoft.com/licensing/product-licensing/microsoft-365-enterprise?rtc=1&activetab=m365-enterprise:primaryr5)
 - [Construir e gerir avaliações no Microsoft Compliance Manager](/microsoft-365/compliance/compliance-manager-assessments?preserve-view=true&view=o365-worldwide)
 
 _________________________________________________________
@@ -477,7 +477,7 @@ Todos os parceiros
 
 ### <a name="details"></a>Detalhes
 
-A Microsoft está a oferecer uma extensão de competências (com exceção da competência cloud business applications) e uma extensão avançada de especialização para parceiros com datas de aniversário (AD) entre 1 de janeiro de 2021 e 30 de junho de 2021. Reveja o [nosso blog de parceiros para](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/) obter mais informações.
+A Microsoft está a oferecer uma extensão de competências (com exceção da competência cloud Business Applications) e uma extensão avançada de especialização para parceiros com datas de aniversário (AD) entre 1 de janeiro de 2021 e 30 de junho de 2021. Reveja o [nosso blog de parceiros para](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/) obter mais informações.
 ________________
 ## <a name="new-updates-to-the-referrals-module-in-partner-center"></a><a name="2"></a> Novas atualizações para o módulo de referências no Partner Center
 
@@ -504,7 +504,7 @@ Eis as novidades no módulo de referências do Centro de Parceiros:
 
 - [Expandir permissões de encaminhamento](../permissions-overview.md#manage-referrals): Atribuir permissões de encaminhamento dos utilizadores com base na sua vontade de ter - permissões de administração (acesso a todas as oportunidades de co-venda) ou permissões de utilizador (acesso às oportunidades específicas de co-venda do utilizador).
 
-- [Vendas de parceiros Conecte a migração do utilizador](../psc-to-pc.md#user-migration): Mapear as permissões de utilizador existentes no Partner Center Referral e encaminhar as permissões do utilizador e, em seguida, aplicar em massa as novas permissões aos utilizadores. [Reveja a documentação de permissões de encaminhamento](../permissions-overview.md#manage-referrals) para saber mais sobre a gestão de referências.  
+- [Parceria Vendas Ligação migração de utilizadores](../psc-to-pc.md#user-migration): Mapear as vendas de parceiros existentes Ligação permissões de utilizador para as permissões de administração e encaminhamento do centro de referência correspondentes, e, em seguida, aplicar em massa as novas permissões aos utilizadores. [Reveja a documentação de permissões de encaminhamento](../permissions-overview.md#manage-referrals) para saber mais sobre a gestão de referências.  
 
 #### <a name="partners-with-co-sell-ready-offers"></a>Parceiros com ofertas De Co-sell Ready
 
@@ -530,7 +530,7 @@ ________________
 
 ### <a name="impacted-audience"></a>Audiência impactada
 
-Parceiros que vendem ofertas académicas, sem fins lucrativos e GCC através do programa Cloud Solution Provider utilizando a API do Partner Center
+Parceiros que vendem ofertas académicas, sem fins lucrativos e GCC através do programa Fornecedor de Soluções em Nuvem utilizando a API do Partner Center
 
 ### <a name="details"></a>Detalhes
 

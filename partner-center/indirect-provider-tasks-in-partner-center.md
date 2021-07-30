@@ -3,18 +3,18 @@ title: Parceiro com revendedores indiretos em CSP
 description: Como fornecedor ou distribuidor indireto, aprenda a expandir-se através da parceria com revendedores indiretos. Isto inclui tarefas que pode executar no Partner Center.
 ms.topic: how-to
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-customers
 author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
 ms.date: 03/23/2021
-ms.openlocfilehash: d72b7de4d1411b602e8a4c9ab69da5e643d3a560
-ms.sourcegitcommit: 9667763ae6eb405314dbb96bd4fa484ec964ab58
+ms.openlocfilehash: c773d21f5e19bdb9712ed7a5d62061187d83281f
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/15/2021
-ms.locfileid: "114224705"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114839775"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Parceiro com revendedores indiretos no programa Fornecedor de Soluções Cloud
 

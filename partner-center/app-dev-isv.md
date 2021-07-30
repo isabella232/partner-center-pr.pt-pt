@@ -3,18 +3,18 @@ title: Isenção de exame de competência de desenvolvimento de candidaturas
 ms.topic: article
 ms.date: 05/01/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-membership
 description: Para os parceiros com uma competência isv prévia, aprenda a obter uma isenção única de requisitos de exame para a competência de Desenvolvimento de Aplicações
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2d3dfbb409ec8a11d4152e9c064e0ce7a05711b5
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 71121a7493da8dee18fc65a90a4a70cc32d712c9
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110150000"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114838653"
 ---
 # <a name="one-time-exam-requirements-exemption-for-the-application-development-competency"></a>Isenção única dos requisitos de exame para a competência de Desenvolvimento de Aplicações
 

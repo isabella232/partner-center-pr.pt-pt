@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 03/31/2021
 description: Conheça os benefícios, restrições e procedimentos para solicitar um crédito de acordo de nível de serviço (SLA) da Microsoft se os seus clientes experimentarem uma falha de serviço.
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-billing
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 3a0bb85143efe3d4135b56985b9a04e2dbe5e4cc
-ms.sourcegitcommit: 57442bbbef15a70bd9a042642140cbf2c8608b09
+ms.openlocfilehash: d98130f22fee81a50b40b8ae08a3fcf909201389
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/09/2021
-ms.locfileid: "113519446"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114839690"
 ---
 # <a name="how-and-when-to-request-a-service-level-agreement-sla-credit-from-microsoft"></a>Como e quando solicitar um crédito de nível de serviço (SLA) da Microsoft
 

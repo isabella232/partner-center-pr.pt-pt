@@ -3,18 +3,18 @@ title: Advisors - crie uma oferta de compra
 ms.topic: article
 ms.date: 05/13/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
-description: Descubra como um conselheiro de subscrição autorizado pode usar o Partner Center para criar uma oferta de compra e URL personalizado para incluir nos convites de teste do Office 365.
+ms.subservice: partnercenter-pricing
+description: Descubra como um conselheiro de subscrição autorizado pode usar o Partner Center para criar uma oferta de compra e URL personalizado para incluir em Office 365 convites de teste.
 author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 41337f6c760152122b050fe3b39d1545527b4a81
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: ab85a6cb11a49f48362299c27bd110ec0cf54cb5
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110150442"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114839367"
 ---
 # <a name="advisors-create-a-purchase-offer"></a>Assessores: Criar uma oferta de compra
 
@@ -25,7 +25,7 @@ ms.locfileid: "110150442"
 > [!NOTE]
 > Esta funcionalidade está disponível apenas para parceiros da Microsoft que sejam assessores de subscrição autorizados.
 
-Depois de ter enviado um convite de julgamento para o Office 365 a um cliente, pode acompanhar criando e enviando uma oferta de compra personalizada para se adequar às necessidades do seu cliente. Se estiver certificado para oferecer uma administração delegada, pode adicionar uma opção à oferta de compra que lhe permite administrar a conta em nome do seu cliente.
+Depois de ter enviado um convite de teste para Office 365 a um cliente, pode acompanhar criando e enviando uma oferta de compra personalizada para se adequar às necessidades do seu cliente. Se estiver certificado para oferecer uma administração delegada, pode adicionar uma opção à oferta de compra que lhe permite administrar a conta em nome do seu cliente.
 
 Ao criar a oferta de compra, o assistente **de oferta de compra Create** cria um URL personalizado para si. O URL tem um código incorporado que o identifica como o conselheiro de subscrição. Você pode usar este URL para um ou muitos clientes. Envie o URL ao seu cliente num e-mail. Ou pode publicar o URL no seu site. Se o seu cliente aceitar a oferta, está associado à compra do seu cliente.
 
@@ -67,5 +67,5 @@ Se o seu cliente quiser um número diferente de licenças, envie-lhes uma nova o
 
 ## <a name="next-steps"></a>Passos seguintes
 
-- [Construa a sua base de clientes com convites de teste do Office 365 e ofertas de compra](advisors-build-your-business.md)
-- [Os parceiros já não podem inscrever-se como Conselheiros](advisors-no-csp.md)
+- [Construa a sua base de clientes com Office 365 convites de teste e ofertas de compra](advisors-build-your-business.md)
+- [Os parceiros já não podem inscrever-se como Assistentes](advisors-no-csp.md)

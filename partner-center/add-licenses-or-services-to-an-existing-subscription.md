@@ -3,36 +3,36 @@ title: Atualizar uma subscrição de cliente
 ms.topic: article
 ms.date: 05/07/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-pricing
 description: Saiba como atualizar ou modificar a subscrição de um cliente. Adicione mais licenças ou mude para uma versão diferente com mais serviços.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 366114cd78e96f95cd1ac649573a0164f6d062a9
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 123a7dd8bc730ffae06532746cf45849f4ff002f
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110150527"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114839401"
 ---
 # <a name="add-licenses-or-more-services-to-a-customers-subscription"></a>Adicionar licenças ou mais serviços à subscrição de um cliente
 
 **Funções adequadas**: Administração global | Administração de administração de utilizadores | Agente administrativo | Agente comercial | Agente helpdesk
 
-Se o seu cliente precisar de mais licenças do que a subscrição atual fornece, ou uma versão diferente com serviços adicionais, poderá ser capaz de atualizar a subscrição. Para obter mais informações, consulte [a Switch para um plano de negócios microsoft 365 diferente.](/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)
+Se o seu cliente precisar de mais licenças do que a subscrição atual fornece, ou uma versão diferente com serviços adicionais, poderá ser capaz de atualizar a subscrição. Para obter mais informações, consulte [a Switch para um plano de Microsoft 365 Apps para Pequenas e Médias Empresas diferente.](/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)
 
 ## <a name="upgrades-supported-in-the-csp-program"></a>Atualizações suportadas no programa CSP <a id="upgradesubscription"></a>
 
-As seguintes atualizações são suportadas no programa Cloud Solution Provider:
+As seguintes atualizações são suportadas no programa Fornecedor de Soluções em Nuvem:
 
 | Oferta | Possíveis atualizações|
 |---:|:---|
-| Microsoft 365 Apps para negócios   | - Microsoft 365 Business Premium <br/>  - Microsoft 365 Apps para empresa <br/> - Escritório 365 Enterprise E3 <br/> - Escritório 365 Enterprise E5 <br/> |
-| Microsoft 365 Business Standard    | - Escritório 365 Enterprise E3 <br/> - Escritório 365 Enterprise E5 <br/> |
-| Microsoft 365 Business Basic | - Microsoft 365 Business Standard <br/> - Escritório 365 Enterprise E1 <br/> - Escritório 365 Enterprise E3<br/> - Escritório 365 Enterprise E5 <br/> |
+| Microsoft 365 Apps para Pequenas e Médias Empresas   | Microsoft 365 Empresas Premium <br/>  - Microsoft 365 Apps para Grandes Empresas <br/> - Office 365 Enterprise E3 <br/> - Office 365 Enterprise E5 <br/> |
+| Microsoft 365 Empresas    | - Office 365 Enterprise E3 <br/> - Office 365 Enterprise E5 <br/> |
+| Microsoft 365 Empresas Basic | Microsoft 365 Empresas <br/> - Office 365 Enterprise E1 <br/> - Office 365 Enterprise E3<br/> - Office 365 Enterprise E5 <br/> |
 
-Microsoft 365 Apps for business India and Microsoft 365 Business Basic India podem ser atualizados para Microsoft 365 Business Standard India, e não para Microsoft 365 Business Standard.
+Microsoft 365 Apps para Pequenas e Médias Empresas Índia e Microsoft 365 Empresas Basic Índia podem ser atualizados para Microsoft 365 Empresas Índia, não para Microsoft 365 Empresas.
 
 
 ## <a name="conditions"></a>Condições
@@ -59,7 +59,7 @@ Para obter mais informações sobre o impacto na faturação, consulte como canc
 
 3. Selecione a nova oferta e, em seguida, escolha **Enviar por isso.**
 
-4. Pode haver trabalho adicional para a transição de algumas contas de utilizador para determinados serviços. Em caso afirmativo, o Centro de Parceiros fornece uma lista de contas e serviços que foram afetados. Para obter ajuda, consulte o artigo base de conhecimento [Problemas na reatribuição de licenças enquanto muda de planos no Office 365](/microsoft-365/commerce/subscriptions/switch-to-a-different-plan).
+4. Pode haver trabalho adicional para a transição de algumas contas de utilizador para determinados serviços. Em caso afirmativo, o Centro de Parceiros fornece uma lista de contas e serviços que foram afetados. Para obter ajuda, consulte o artigo base de conhecimento [Problemas na reatribuição de licenças enquanto muda de planos em Office 365](/microsoft-365/commerce/subscriptions/switch-to-a-different-plan).
 
 
 ## <a name="next-steps"></a>Passos seguintes

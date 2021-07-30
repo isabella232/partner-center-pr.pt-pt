@@ -3,17 +3,17 @@ title: Relatório de utilização de equipas de centros de parceiros
 ms.topic: article
 ms.date: 01/11/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 description: Veja o que está a fazer bem e onde pode melhorar no que diz respeito ao uso de Teams subscrições que vende ou gere para os seus clientes.
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 236cc9d8d2252f5c1b05f8654ec5c81828dc63fe
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: 390c81496c16afb20ede58420c1201b24349708e
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114376872"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114846167"
 ---
 # <a name="teams-usage-report-available-from-the-partner-center-insights-dashboard"></a>Teams relatório de utilização disponível no painel de instrumentos do Partner Center Informações
 

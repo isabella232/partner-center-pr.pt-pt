@@ -4,16 +4,16 @@ ms.topic: conceptual
 ms.date: 01/29/2021
 description: Saiba mais sobre todos os itens do seu ficheiro de reconciliação de compra única no Partner Center, incluindo valores de amostra.
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-billing
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
-ms.openlocfilehash: 3264c793dfb2e8592cd059cd84d5bb08769abbcf
-ms.sourcegitcommit: c8d1bcf54cdcdc3f827f9210c8abddab02a686fe
+ms.openlocfilehash: 828e1e380db5d8240d00450b53b0906410a3ac16
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/14/2021
-ms.locfileid: "112073803"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114846065"
 ---
 # <a name="csp-one-time-purchase-reconciliation-file-fields"></a>CSP uma vez comprar campos de arquivos de reconciliação
 
@@ -49,7 +49,7 @@ Para obter mais informações sobre ficheiros de reconciliação, consulte [util
 | Total | O montante total é igual ao subtotal mais o valor do imposto. | *0* |
 | Moeda | A sua conta é gerada no contexto da moeda do cliente. Isto significa que se você é um parceiro que transaciona com clientes de diferentes moedas faturantes, você receberá uma fatura para cada tipo de moeda de cliente.  | *EUR* |
 | PreçoDjustmentDescription | As razões dos ajustamentos no preço unitário. Estas são as principais razões, mas não se limitam a determinar o preço unitário efetivo. | *["15,0% Parceiro ganhou crédito pelos serviços geridos"]* |
-| Nome do Editor | Editor do produto.  | *Microsoft* |
+| Nome do Editor | Publisher do produto.  | *Microsoft* |
 | PublisherId | Um identificador único que o Partner Center utiliza para identificar a editora. | *ND* |
 | AssinaturaDescrição | O nome da oferta de serviço adquirida pelo cliente, conforme definido na tabela de preços. Esta coluna é um campo idêntico ao OfferName. | *Plano do Azure* |
 | SubscriptionId | Identificador exclusivo para uma subscrição na plataforma de faturação da Microsoft. Não é usado para a reconciliação. Note que este identificador não é o mesmo que o ID de subscrição na consola de administração do parceiro. | *307628f1-d9d2-f09c-ea1f-4183f0cae308* |

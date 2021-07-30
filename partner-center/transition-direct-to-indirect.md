@@ -3,18 +3,18 @@ title: Mude o parceiro de conta direta para o revendedor indireto
 ms.topic: how-to
 ms.date: 07/21/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-enroll
 description: Saiba como um parceiro de programa Fornecedor de Soluções em Nuvem (CSP) pode usar o Partner Center para transitar de parceiro de conta direta para revendedor indireto.
 author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3caec7f715d817de73e245086f7f53b8b59f22ac
-ms.sourcegitcommit: d133c8b923b90ac5518cb989c0ce4dd69713abf4
+ms.openlocfilehash: 4b531a8cda5cfda48391ec6be5c944a6869f0ec1
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "114433814"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114839792"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Transição do parceiro de faturação direta do Fornecedor de Soluções Cloud para o revendedor indireto do CSP
 

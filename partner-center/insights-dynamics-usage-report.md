@@ -3,17 +3,17 @@ title: Relatório de utilização da dinâmica de insights do centro do parceiro
 ms.topic: article
 ms.date: 01/11/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 description: Veja o que está a fazer bem e onde pode melhorar no que diz respeito ao uso de subscrições Dynamics que vende ou gere para os seus clientes.
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 99536a8a80f11a8aa31c83349686b90b6eca7a28
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: ecc4edbd509557da1314eb7e54fcc013e41682a7
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114377223"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114838313"
 ---
 # <a name="dynamics-usage-report-available-from-the-partner-center-insights-dashboard"></a>Relatório de utilização dinâmico disponível no Painel de Informações do Centro de Parceiros
 

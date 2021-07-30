@@ -3,18 +3,18 @@ title: Conheça as especializações avançadas
 ms.topic: article
 ms.date: 07/07/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
+ms.subservice: partnercenter-membership
 description: Fortaleça o seu perfil de negócio no diretório de parceiros da Microsoft. Conheça as especializações avançadas que pode alcançar juntamente com as suas competências existentes em Ouro e Prata.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d0077df2e05c6b28564e255f84c9ef62fce69f47
-ms.sourcegitcommit: 75bb0a3d7bbcc048e850da040d1a4489a4af3332
+ms.openlocfilehash: 3ed73b67b38eba1793e79908223810cda25b2201
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/23/2021
-ms.locfileid: "114612809"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114839418"
 ---
 # <a name="earn-an-advanced-specialization-to-showcase-your-validated-capabilities"></a>Ganhe uma especialização avançada para mostrar as suas capacidades validadas
 
@@ -42,7 +42,6 @@ Cada especialização avançada corresponde a uma área de solução:
 
 As especializações avançadas **do Azure** incluem:
 
-- Solução VMware no Azure
 - Análise na Microsoft Azure
 - Migração do Data Warehouse para o Microsoft Azure
 - Kubernetes no Microsoft Azure

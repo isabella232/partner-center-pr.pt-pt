@@ -3,18 +3,18 @@ title: Anúncios de dezembro de 2020
 description: Anúncios de dezembro de 2020 para o Microsoft Partner Center, incluindo novas capacidades, promoções, ofertas, mercados ou alterações às ofertas existentes.
 ms.topic: article
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-action-center
 author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/18/2021
-ms.openlocfilehash: 101d67e42970e0aab4b2ea8bf0bc230cf57109d1
-ms.sourcegitcommit: b7203f1393c3d8f8db4683acdebd09a89e086c3c
+ms.openlocfilehash: c57e6cae405ec31d5393a098bd6925a523f23ec3
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/21/2021
-ms.locfileid: "112424997"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114839010"
 ---
 # <a name="december-2020-announcements"></a>Anúncios de dezembro de 2020
 
@@ -37,7 +37,7 @@ Os fundos de cooperação não reutilizados para o período de utilização fy21
 
 ### <a name="impacted-audience"></a>Audiência impactada
 
-Parceiros que participam no Cloud Solution Provider (CSP) parceiro de conta direta, fornecedor indireto e programas de incentivos de revendedores indiretos
+Parceiros participantes no Fornecedor de Soluções em Nuvem (CSP) parceiro de conta direta, fornecedor indireto e programas de incentivos de revendedores indiretos
 
 ### <a name="details"></a>Detalhes
 
@@ -73,7 +73,7 @@ A Microsoft vai transitar todo o processamento de assinaturas eletrónicas do Do
 
 ### <a name="impacted-audience"></a>Audiência impactada
 
-O Cloud Solution Provider (CSP) parceiros com acordos de parceiros da Microsoft (MPAs)
+Fornecedor de Soluções em Nuvem (CSP) parceiros com acordos de parceiros da Microsoft (MPAs)
 
 ### <a name="details"></a>Detalhes
 
@@ -100,7 +100,7 @@ ______________
 
 ### <a name="impacted-audience"></a>Audiência impactada
 
-Fatura direta e fornecedores indiretos que participam no programa Cloud Solution Provider (CSP).
+Fatura direta e fornecedores indiretos que participam no programa Fornecedor de Soluções em Nuvem (CSP).
 
 ### <a name="details"></a>Detalhes
 
@@ -132,7 +132,7 @@ O catálogo partner Center será atualizado com atualizações de janeiro de 202
  
 ______________
 
-## <a name="microsoft-365-apps-and-services-support-of-internet-explorer-11-and-microsoft-edge-legacy-announcement"></a><a name="10"></a>Microsoft 365 apps e suporte de serviços do Internet Explorer 11 e anúncio legado microsoft Edge
+## <a name="microsoft-365-apps-and-services-support-of-internet-explorer-11-and-microsoft-edge-legacy-announcement"></a><a name="10"></a>Microsoft 365 de aplicações e serviços de apoio ao Internet Explorer 11 e Microsoft Edge anúncio de legado
 
 ### <a name="categories"></a>Categorias
 
@@ -145,15 +145,15 @@ Administradores de TI, decisores de TI, chefes de informação e utilizadores fi
 
 ### <a name="details"></a>Detalhes
 
-Os subscritores da Microsoft 365, tanto em contextos de consumo como comerciais, serão bem servidos com esta mudança através de um acesso web mais rápido e responsivo a mais conjuntos de funcionalidades em conjuntos de ferramentas do dia-a-dia como Outlook, Teams, SharePoint e muito mais.
+Microsoft 365 assinantes, tanto em contextos de consumo como comerciais, serão bem servidos com esta mudança através de um acesso web mais rápido e responsivo a mais conjuntos de funcionalidades em conjuntos de ferramentas do dia-a-dia como Outlook, Teams, SharePoint e muito mais.
 
-O novo Microsoft Edge é a nossa melhor expressão de um navegador moderno, e estamos entusiasmados para que os clientes o experimentem. Agora que enviamos o novo Microsoft Edge e atualizámos a maioria dos nossos clientes do Windows 10 para o novo navegador, estamos a terminar o suporte para a aplicação de desktop do Microsoft Edge.
+O novo Microsoft Edge é a nossa melhor expressão de um navegador moderno, e estamos animados para que os clientes o experimentem. Agora que enviamos o novo Microsoft Edge e atualizámos a maioria dos nossos clientes Windows 10 para o novo navegador, estamos a terminar o suporte para a Microsoft Edge aplicação de ambiente de trabalho.
 
 **Impacto da mudança**
 
-- A partir **de 30 de novembro de 2020,** os clientes deixarão de poder ligar-se à aplicação web microsoft Teams no Internet Explorer 11. A Microsoft acredita que os clientes irão tirar o máximo partido do Microsoft 365 e a melhor expressão de um navegador moderno ao utilizar o [novo Microsoft Edge.](https://www.microsoft.com/edge/business?form=MO12H3&OCID=MO12H3)
-- Depois **de 9 de março de 2021**, as aplicações e sites criados para o legado do Microsoft Edge continuarão a funcionar no novo Microsoft Edge, mas se surgir um problema de compatibilidade, existe a promessa da [App Assure](/fasttrack/products-and-capabilities#app-assure) de fornecer suporte.
-- Depois de **17 de agosto de 2021,** os clientes terão uma experiência degradada ou não poderão ligar-se às aplicações e serviços da Microsoft 365 no Internet Explorer 11. A Microsoft acredita que os clientes irão tirar o máximo partido do Microsoft 365 e a melhor expressão de um navegador moderno ao utilizar o [novo Microsoft Edge.](https://www.microsoft.com/edge/business?form=MO12H3&OCID=MO12H3)
+- A partir **de 30 de novembro de 2020,** os clientes já não conseguem ligar-se à aplicação web Microsoft Teams no Internet Explorer 11. A Microsoft acredita que os clientes vão tirar o máximo partido das Microsoft 365 e a melhor expressão de um navegador moderno ao utilizar o [novo Microsoft Edge.](https://www.microsoft.com/edge/business?form=MO12H3&OCID=MO12H3)
+- Depois **de 9 de março de 2021**, as apps e sites criados para Microsoft Edge legado continuarão a funcionar no novo Microsoft Edge, mas se surgir um problema de compatibilidade, existe a [App Assure que promete](/fasttrack/products-and-capabilities#app-assure) fornecer suporte.
+- Depois de **17 de agosto de 2021,** os clientes terão uma experiência degradada ou não poderão ligar-se a aplicações e serviços Microsoft 365 no Internet Explorer 11. A Microsoft acredita que os clientes vão tirar o máximo partido das Microsoft 365 e a melhor expressão de um navegador moderno ao utilizar o [novo Microsoft Edge.](https://www.microsoft.com/edge/business?form=MO12H3&OCID=MO12H3)
 
 ### <a name="next-steps"></a>Passos seguintes
 
@@ -180,7 +180,7 @@ Todos os parceiros da CSP
 
 ### <a name="details"></a>Detalhes
 
-Hoje, à medida que continuamos a dar prioridade à [nuvem,](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/)estamos a dar conhecimento de futuras mudanças para clientes do setor público (governo, educação e sem fins lucrativos) que compram através do programa Licença Aberta, bem como alterações relacionadas com o programa Cloud Solution Provider.
+Hoje, à medida que continuamos a dar prioridade à [nuvem,](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/)estamos a dar conhecimento de futuras mudanças para clientes do setor público (governo, educação e sem fins lucrativos) que compram através do programa Licença Aberta, bem como alterações relacionadas com o programa Fornecedor de Soluções em Nuvem.
 
 ### <a name="next-steps"></a>Passos seguintes
 
@@ -188,7 +188,7 @@ O anúncio completo só está disponível para parceiros da Microsoft. [Inscreva
 
 ______________
 
-## <a name="changes-to-the-cloud-solution-provider-csp-customer-onboarding-requirements"></a><a name="8"></a>Alterações aos requisitos de embarque do fornecedor de solução cloud (CSP)
+## <a name="changes-to-the-cloud-solution-provider-csp-customer-onboarding-requirements"></a><a name="8"></a>Alterações aos requisitos de embarque do cliente Fornecedor de Soluções em Nuvem (CSP)
 ### <a name="categories"></a>Categorias
 
 - Data: 2021-04-02
@@ -269,7 +269,7 @@ Atualizações de 2 de abril:
 
 ______________
 
-## <a name="reminder-perpetual-software-in-the-cloud-solution-provider-csp-program-broadly-available-from-january-2021"></a><a name="7"></a>Lembrete: Software perpétuo no programa Cloud Solution Provider (CSP) amplamente disponível a partir de janeiro de 2021
+## <a name="reminder-perpetual-software-in-the-cloud-solution-provider-csp-program-broadly-available-from-january-2021"></a><a name="7"></a>Lembrete: Software perpétuo no programa Fornecedor de Soluções em Nuvem (CSP) amplamente disponível a partir de janeiro de 2021
 
 ### <a name="categories"></a>Categorias
 
@@ -295,7 +295,7 @@ O seguinte também acontecerá na mesma data:
 
 - A lista de preços perpétuos de software perpétuo da CSP será republica no Partner Center. Você vai encontrá-lo na secção de **Software** da página [de Venda > Preços & Ofertas,](https://partnercenter.microsoft.com/pcv/sales) que contém produtos e geografias adicionais. Veja os detalhes completos [aqui](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf).
 
-- O software do Partner Center e a capacidade de cumprimento da chave de licença serão retirados - veja [o anúncio](./2020-september.md#17) - e os parceiros apontarão os clientes para usar o Microsoft 365 Admin Center exclusivamente para este fim. Isto garantirá a experiência mais segura e eficiente para os clientes. Saiba mais sobre o software do Microsoft 365 Admin Center, analisando a [visão geral,](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3) [tarefas comuns](/microsoft-365/admin/admin-overview/about-the-admin-center?preserve-view=true&view=o365-worldwide)e [capacidades de cumprimento das chaves da licença.](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf)
+- O software do Partner Center e a capacidade de cumprimento da chave de licença serão retirados - ver [anúncio](./2020-september.md#17) - e os parceiros apontarão os clientes para usar o Centro de Administração Microsoft 365 exclusivamente para o efeito. Isto garantirá a experiência mais segura e eficiente para os clientes. Saiba mais sobre o software Administração Microsoft 365 Center, analisando a [visão geral,](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3) [tarefas comuns](/microsoft-365/admin/admin-overview/about-the-admin-center?preserve-view=true&view=o365-worldwide)e [capacidades de cumprimento das chaves da licença.](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf)
 
 ### <a name="perpetual-software-in-csp"></a>Software perpétuo em CSP
 
@@ -307,11 +307,11 @@ Reveja os seguintes recursos e partilhe-os com os contactos relevantes na sua or
 
 - [CSP Produtos e geografias de software perpétuos](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf) a serem adicionados em 19 de janeiro de 2021
 
-- Visão [geral](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3)do Microsoft 365 Admin Center , [tarefas comuns](/microsoft-365/admin/admin-overview/about-the-admin-center?preserve-view=true&view=o365-worldwide)e [capacidades de cumprimento das chaves da licença](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf)
+- Administração Microsoft 365 Visão [geral do centro,](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3) [tarefas comuns](/microsoft-365/admin/admin-overview/about-the-admin-center?preserve-view=true&view=o365-worldwide)e [capacidades de cumprimento das chaves da licença](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf)
 
-- [Expandir oportunidades para parceiros no programa Cloud Solution Provider](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/) (anúncio de parceiro)
+- [Expandir oportunidades para parceiros no programa Fornecedor de Soluções em Nuvem](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/) (anúncio de parceiros)
 
-- [Software perpétuo nos](https://partner.microsoft.com/resources/collection/software-in-csp#/) materiais de prontidão do programa Cloud Solution Provider, incluindo uma apresentação geral, orientação de licenciamento, FAQ parceiro, webinars operacionais e técnicos (SDK/API) e muitos recursos mais úteis. Use este [mapa de prontidão](https://partner.microsoft.com/resources/detail/software-in-csp-readiness-map-pdf) para localizar rapidamente as informações certas para o seu papel.
+- [Software perpétuo nos Fornecedor de Soluções em Nuvem](https://partner.microsoft.com/resources/collection/software-in-csp#/) materiais de prontidão do programa, incluindo uma apresentação geral, orientação de licenciamento, FAQ parceiro, webinars operacionais e técnicos (SDK/API) e muitos recursos mais úteis. Use este [mapa de prontidão](https://partner.microsoft.com/resources/detail/software-in-csp-readiness-map-pdf) para localizar rapidamente as informações certas para o seu papel.
 
 ### <a name="questions"></a>Perguntas?
 
@@ -334,7 +334,7 @@ ______________
  
 ### <a name="impacted-audience"></a>Audiência impactada
 
-Fatura direta, fornecedores indiretos e parceiros multi-camadas que participam no programa Cloud Solution Provider (CSP).
+Conta direta, fornecedores indiretos e parceiros multi-camadas que participam no programa Fornecedor de Soluções em Nuvem (CSP).
 
 ### <a name="details"></a>Detalhes
 
@@ -348,7 +348,7 @@ Nenhuma ação necessária. Isto é só para informação.
 
 ______________
 
-## <a name="power-apps-promo-offer-now-available"></a><a name="5"></a>Oferta promocional das Power Apps já disponível
+## <a name="power-apps-promo-offer-now-available"></a><a name="5"></a>Power Apps oferta promocional já disponível
 
 ### <a name="categories"></a>Categorias
 
@@ -357,11 +357,11 @@ ______________
 
 ### <a name="impacted-audience"></a>Audiência impactada
 
-Todos os parceiros que transacionam através do programa Cloud Solution Provider (CSP)
+Todos os parceiros que transfiram através do programa Fornecedor de Soluções em Nuvem (CSP)
 
 ### <a name="details"></a>Detalhes
 
-A oferta promocional da Power Apps Promo inicialmente prevista para 1 de dezembro de 2020 foi ligeiramente adiada. A oferta deverá estar disponível a 16 de dezembro de 2020. Esta oferta está disponível a um preço reduzido e tem outra diferença notável das ofertas típicas no Partner Center.
+Power Apps A oferta promocional inicialmente prevista para 1 de dezembro de 2020 foi ligeiramente adiada. A oferta deverá estar disponível a 16 de dezembro de 2020. Esta oferta está disponível a um preço reduzido e tem outra diferença notável das ofertas típicas no Partner Center.
  
 **Oferecer detalhes**
 
@@ -374,7 +374,7 @@ A oferta promocional da Power Apps Promo inicialmente prevista para 1 de dezembr
 
 Os detalhes de preços da oferta abaixo para esta oferta estarão na lista de preços de janeiro de 2021.
 
-- Nome do display da oferta: Power Apps por promoção de plano de aplicação (200 lugares min)
+- Nome do display da oferta: Power Apps por promoção de plano de aplicações (200 lugares min)
 - ID da oferta: 988b7b06-e034-4b3e-89ea-51198cb2723e
 - Tipo de Contrato de Licença: Corporativo
 - Unidade de Compra: 1 Mês(s)
@@ -414,7 +414,7 @@ Parceiros Direct Bill e Fornecedores Indiretos que participam no programa CSP qu
 
 ### <a name="details"></a>Detalhes
 
-A partir de 08 de dezembro de 2020, os Parceiros podem começar a descarregar a versão do [MicrosoftPartnerCenter.NETSDK (NuGet Gallery | Microsoft.Store.PartnerCenter 1.16.3)](https://www.nuget.org/packages/Microsoft.Store.PartnerCenter/1.16.3), juntamente com [amostras atualizadas](https://github.com/Microsoft/Partner-Center-DotNet-Samples)do Centro De Parceiros Públicos SDK GitHub . Esta versão inclui atualizações aos seguintes métodos:
+A partir de 08 de dezembro de 2020, os Parceiros podem começar a descarregar a versão do [MicrosoftPartnerCenter.NETSDK (NuGet Gallery | Microsoft.Store.PartnerCenter 1.16.3)](https://www.nuget.org/packages/Microsoft.Store.PartnerCenter/1.16.3), juntamente com [amostras](https://github.com/Microsoft/Partner-Center-DotNet-Samples)atualizadas do Centro De Parceiros SDK GitHub . Esta versão inclui atualizações aos seguintes métodos:
  
 **SelfServePolicies - nova funcionalidade adicionada**
 
@@ -435,7 +435,7 @@ A partir de 08 de dezembro de 2020, os Parceiros podem começar a descarregar a 
 ### <a name="next-steps"></a>Passos Seguintes
 
 - Descarregue a versão mais recente [do MicrosoftPartnerCenter.NETSDK (NuGet Gallery | Microsoft.Store.PartnerCenter 1.16.3)](https://www.nuget.org/packages/Microsoft.Store.PartnerCenter/1.16.3)
-- Faça o download e reveja as amostras do [GitHub](https://github.com/Microsoft/Partner-Center-DotNet-Samples)
+- Baixar e rever as [amostras de GitHub](https://github.com/Microsoft/Partner-Center-DotNet-Samples)
 
 ______________
 
@@ -452,7 +452,7 @@ A lista de preços baseada em licenças de dezembro de 2020 e a matriz da lista 
 
 ### <a name="impacted-audience"></a>Audiência Impactada 
 
-Todos os parceiros que transacionam através do programa Cloud Solution Provider (CSP)
+Todos os parceiros que transfiram através do programa Fornecedor de Soluções em Nuvem (CSP)
 
 ### <a name="details"></a>Detalhes
 
@@ -498,7 +498,7 @@ Verifique as notas de lançamento muitas vezes à medida que outros problemas fo
 
 ______________
 
-## <a name="an-update-of-the-us-microsoft-365-business-voice-with-calling-plan-offer-is-coming-soon"></a><a name="2"></a>Uma atualização da oferta de Business Voice 365 da Microsoft 365 com o Plano de Chamada dos EUA está para breve
+## <a name="an-update-of-the-us-microsoft-365-business-voice-with-calling-plan-offer-is-coming-soon"></a><a name="2"></a>Uma atualização da oferta de Microsoft 365 Voz Para Empresas dos EUA com a oferta do Plano de Chamada está para breve
 
 ### <a name="categories"></a>Categorias
 
@@ -507,11 +507,11 @@ ______________
 
 ### <a name="summary"></a>Resumo 
 
-A 1 de janeiro de 2021, a Microsoft começará a transitar parceiros e clientes dos EUA para uma nova oferta microsoft 365 Business Voice com Call Plan. Não é necessária qualquer ação de parceiro.
+A 1 de janeiro de 2021, a Microsoft começará a transitar parceiros e clientes dos EUA para um novo Microsoft 365 Voz Para Empresas com a oferta de Call Plan. Não é necessária qualquer ação de parceiro.
 
 ### <a name="impacted-audience"></a>Audiência Impactada 
 
-Todos os parceiros que transacionam através do programa Cloud Solution Provider (CSP)
+Todos os parceiros que transfiram através do programa Fornecedor de Soluções em Nuvem (CSP)
 
 ### <a name="details"></a>Detalhes
 
@@ -526,13 +526,13 @@ Os clientes existentes serão automaticamente transitados para a nova oferta ap�
  
    |**Nome da oferta**|**ID da oferta**|**Material ID**|
    |-------------------|:------|:------|
-   |Microsoft 365 Business Voice (EUA)|86713ec1-ad33-42cf-a1ce-8397d4d875fe|PZW-00023|
+   |Microsoft 365 Voz Para Empresas (EUA)|86713ec1-ad33-42cf-a1ce-8397d4d875fe|PZW-00023|
    
 **Detalhes de oferta antiga
 
    |**Nome da oferta**|**ID da oferta**|**Material ID**|
    |-------------------|:------|:------|
-   |Microsoft 365 Business Voice (EUA)|9f9f2c7b-c961-402b-9421-8e3c9207eeb3|PZW-00009|
+   |Microsoft 365 Voz Para Empresas (EUA)|9f9f2c7b-c961-402b-9421-8e3c9207eeb3|PZW-00009|
 
 ### <a name="next-steps"></a>Passos seguintes
 
@@ -549,11 +549,11 @@ ______________
 
 ### <a name="impacted-audience"></a>Audiência Impactada 
 
-Parceiros que vendem ofertas académicas através do programa Cloud Solution Provider
+Parceiros que vendem ofertas académicas através do programa Fornecedor de Soluções em Nuvem
 
 ### <a name="summary"></a>Resumo 
 
-A Microsoft tem confiança. Estamos empenhados em fornecer um método de validação de clientes conforme, seguro e seguro para a transação de ofertas académicas no programa Cloud Solution Provider. Como parte deste compromisso, estamos a introduzir API do Partner Center e melhorias na interface do utilizador que irão adicionar clareza e visibilidade ao processo de verificação do cliente, bem como a capacidade de inserir dados mais precisos, o que irá impulsionar um melhor sucesso na verificação do cliente. 
+A Microsoft tem confiança. Estamos empenhados em fornecer um método de validação de clientes conforme, seguro e seguro para a transação de ofertas académicas no programa Fornecedor de Soluções em Nuvem. Como parte deste compromisso, estamos a introduzir API do Partner Center e melhorias na interface do utilizador que irão adicionar clareza e visibilidade ao processo de verificação do cliente, bem como a capacidade de inserir dados mais precisos, o que irá impulsionar um melhor sucesso na verificação do cliente. 
 
 **Melhorias do Partner Center** 
 

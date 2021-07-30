@@ -1,26 +1,26 @@
 ---
-title: Obtenha insights com registos de atividade do cliente
+title: Obter informações com registos de atividades de clientes
 ms.topic: how-to
 ms.date: 05/13/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-customers
 description: Saiba como visualizar e exportar registos de atividades para obter informações sobre transações de conta de clientes e outras atividades de gestão de parceiros relacionadas com o cliente.
 author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1bb98dd71c9e46914b90d5efbfe14404d08275f9
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: e21db0b6d054c62cec0378a3b93201dea072128f
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110150595"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114839520"
 ---
 # <a name="view-or-export-customer-activity-logs-for-more-insight-into-customer-transactions"></a>Ver ou exportar registos de atividade do cliente para obter mais informações sobre as transações de clientes
 
 **Funções adequadas**: Administração global | Administrador de faturação | Administração de administração de utilizadores | Agente administrativo | Agente comercial | Agente helpdesk
 
-Os registos de atividade fornecem informações sobre transações e ações de gestão de parceiros para os clientes. Os registos de transações fornecem informações detalhadas sobre a transação, incluindo subscrições adquiridas. Também pode exportar registos de atividade para um formato de ficheiro de valor separado por vírgula (.csv).
+Os registos de atividade fornecem informações sobre transações e ações de gestão de parceiros para os clientes. Os registos de transações fornecem informações detalhadas sobre a transação, incluindo subscrições adquiridas. Também pode exportar registos de atividades para um formato de ficheiro de valor separado de vírgula (.csv compatíveis com a Excel).
 
 Os registos de atividades fornecem registos de ações do Parceiro nas contas dos clientes e transações de produtos. Também pode exportar registos de atividades para um ficheiro .csv.
 

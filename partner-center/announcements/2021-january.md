@@ -3,18 +3,18 @@ title: Anúncios de janeiro de 2021
 description: Anúncios de janeiro de 2021 para o Microsoft Partner Center, incluindo novas capacidades, promoções, ofertas, mercados ou alterações às ofertas existentes.
 ms.topic: article
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-action-center
 author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 07/02/2021
-ms.openlocfilehash: 06593db6a55299170c696e3179b5ad1a666aacc7
-ms.sourcegitcommit: 9667763ae6eb405314dbb96bd4fa484ec964ab58
+ms.openlocfilehash: 4a59d3cdddd01dcd6fac105cbbb69c079bbd389d
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/15/2021
-ms.locfileid: "114224688"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114838737"
 ---
 # <a name="january-2021-announcements"></a>Anúncios de janeiro de 2021
 

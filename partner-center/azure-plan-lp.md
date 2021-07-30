@@ -3,18 +3,18 @@ title: Plano Azure - Compre Azure a preços de pagamento
 ms.topic: article
 ms.date: 07/10/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-pricing
 description: Conheça a experiência de comércio do plano Azure para comprar serviços Azure a preços de pagamento para os clientes. Saiba mais sobre novos requisitos de segurança também.
 author: rbars
 ms.author: rbars
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 74595843e4aaf2fe0e92fb92d417343dd7e4b81d
-ms.sourcegitcommit: 3ac88f7925bfe1df90e267ee5c1ee4d752ac92d4
+ms.openlocfilehash: c7653a885c6ae57194e3bcc519ce6fb645fc457a
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/29/2021
-ms.locfileid: "113013306"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114838381"
 ---
 # <a name="introduction-azure-plan-lets-partners-buy-azure-at-pay-as-you-go-rates-for-customers"></a>Introdução: Plano Azure permite aos parceiros comprar Azure a preços de pagamento para clientes
 
@@ -31,12 +31,12 @@ Transição dos seus clientes das suas ofertas CSP Azure existentes para serviç
 - O parceiro e o cliente final devem ter uma relação de revendedor estabelecida através do Partner Center, e o cliente deve ter assinado o Acordo de Cliente da Microsoft.
 
 >[!Note]
->A partir de 1 de fevereiro de 2020, o atual Microsoft Cloud Agreement será removido do programa CSP. A partir desse momento, será necessária a confirmação do parceiro (atestado) da aceitação do cliente para o novo Acordo de Cliente da Microsoft para todas as outras ofertas, incluindo a Microsoft 365, Dynamics 365 e o Azure existente. Os parceiros da CSP não poderão fazer uma nova encomenda para o cliente sem aestestação do Acordo de Cliente da Microsoft. Para mais detalhes, leia [Confirme a aceitação do cliente do Contrato de Cliente da Microsoft.](confirm-customer-agreement.md)
+>A partir de 1 de fevereiro de 2020, o atual Microsoft Cloud Agreement será removido do programa CSP. A partir desse momento, será necessária a confirmação do parceiro (atestado) da aceitação do cliente para o novo Acordo de Cliente da Microsoft para todas as outras ofertas, incluindo Microsoft 365, Dynamics 365 e Azure existente. Os parceiros da CSP não poderão fazer uma nova encomenda para o cliente sem aestestação do Acordo de Cliente da Microsoft. Para mais detalhes, leia [Confirme a aceitação do cliente do Contrato de Cliente da Microsoft.](confirm-customer-agreement.md)
 
 
 ## <a name="next-steps"></a>Passos seguintes
 
-|**Para fazer isto**   |**Leia isto**   |
+|**Para efetuar isto**   |**Leia isto**   |
 |------------------|---------------------|
 |Comece a mudar-se para o plano Azure|[Move to Azure plan - começa](azure-plan-get-started.md)
 |Transição dos seus clientes de PAYG para plano Azure|[Transition your customer to Azure plan](azure-plan-transition.md) (Fazer a transição dos clientes para o plano do Azure)|

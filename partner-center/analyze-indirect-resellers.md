@@ -2,19 +2,19 @@
 title: Analise o desempenho dos revendedores indiretos
 description: Use análises para saber como estão os seus revendedores indiretos, tanto os seus sucessos como áreas que podem necessitar de mais atenção.
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 author: shganesh
 ms.author: shganesh
 ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/13/2020
-ms.openlocfilehash: 50a527f8fd3690ff73b198e572b356706889e72b
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: a7d04e437a2546c887b40f37a7381605535e8ca9
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110150187"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114839095"
 ---
 # <a name="use-analytics-to-analyze-the-performance-of-your-indirect-resellers"></a>Use análises para analisar o desempenho dos seus revendedores indiretos
 
@@ -24,7 +24,7 @@ ms.locfileid: "110150187"
 Os dados impulsionam as decisões empresariais. Use as métricas na página de análise do **Revseller** para identificar os seus sucessos, os sucessos dos seus revendedores indiretos e áreas que precisam de mais atenção. Use esta informação enquanto planeia novos objetivos de negócio.
 
 > [!NOTE]
-> A análise do revendedor indireto só está disponível para fornecedores indiretos no programa Cloud Solution Provider.
+> A análise do revendedor indireto só está disponível para fornecedores indiretos no programa Fornecedor de Soluções em Nuvem.
 
 ## <a name="types-of-reseller-analytics-metrics-you-can-view"></a>Tipos de métricas de análise de revendedores que pode ver
 
@@ -45,8 +45,8 @@ Estamos a seguir as seguintes métricas:
 **Produtos de topo por contagem de assinaturas**  
  - **Dinâmica 365**: Dinâmica 365 produtos classificados por subscrições vendidas  
  - **EMS**: Número de subscrições de Serviços de Gestão Empresarial vendidas  
- - **Microsoft 365**: Número de subscrições da Microsoft 365 vendidas  
- - **Escritório 365**: Escritório 365 produtos classificados por assinaturas vendidas  
+ - **Microsoft 365**: Número de assinaturas Microsoft 365 vendidas  
+ - **Office 365**: Office 365 produtos classificados por subscrições vendidas  
 
 **Novas subscrições**  
  - O número de novas subscrições adicionadas por data  

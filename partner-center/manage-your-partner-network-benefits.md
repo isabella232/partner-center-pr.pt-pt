@@ -3,18 +3,18 @@ title: Gerir os benefícios da Rede de Parceiros da Microsoft
 ms.topic: how-to
 ms.date: 10/21/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
+ms.subservice: partnercenter-benefits
 description: Junte-se à Microsoft Partner Network (MPN) e use partner Center para gerir os benefícios de adesão e ofertas que podem ajudar a crescer o seu negócio.
 author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9d5b136dd050f13a4f3fe4fbbc129000e66fe111
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: cd57b7b1f5e9d90d37b6e97ba269fe0f37f2a79d
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276795"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114845555"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits-and-offers-in-partner-center"></a>Gerencie os benefícios e ofertas de adesão da Microsoft Partner Network no Partner Center
 
@@ -32,7 +32,7 @@ Depois de comprar um pacote de benefícios de adesão, terá de obter chaves de 
 >[!IMPORTANT]
 >Embora não tenha de ser um administrador global na sua organização para comprar benefícios, precisa de ser o administrador global para atribuir benefícios aos colaboradores. Se necessário, pode tornar-se administrador global seguindo as instruções na sua página [ **Benefícios**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (sinal em requerindo). A sua empresa pode já ter um administrador global, por isso não se esqueça de consultar a sua equipa.
 
-Os pacotes de benefícios incluem alocações de software licenciado, serviços na nuvem, subscrições do Visual Studio e suporte técnico. Os pacotes de benefícios também podem incluir certos recursos go-to-market, ofertas e programas relacionados com o mercado. Pode obter detalhes de subscrição do Action Pack no site [da Microsoft Partner Network.](https://partner.microsoft.com/membership/internal-use-software)  
+Os pacotes de benefícios incluem alocações de software licenciado, serviços na nuvem, subscrições Visual Studio e suporte técnico. Os pacotes de benefícios também podem incluir certos recursos go-to-market, ofertas e programas relacionados com o mercado. Pode obter detalhes de subscrição do Action Pack no site [da Microsoft Partner Network.](https://partner.microsoft.com/membership/internal-use-software)  
 
 Para visualizar e gerir todos os seus benefícios de adesão, vá à sua página [ **Benefícios**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (iniciar sposição necessária). Em alternativa, pode inscrever-se no painel de [instrumentos](https://partner.microsoft.com/dashboard)Partner Center , selecione a opção [**Benefícios**] do menu esquerdo e, em seguida, selecione quaisquer opções de benefícios apresentadas.  
 
@@ -56,7 +56,7 @@ Para ativar a maioria dos benefícios ou descarregar chaves de software relacion
 
 ## <a name="azure-and-cloud-products"></a>Azure e produtos em nuvem
 
-O separador **Azure & Cloud Products** mostra as subscrições baseadas no uso (crédito Azure) e as subscrições baseadas em licença (como o Office 365) que lhe são aprovisionadas, a quantidade de licença para cada produto, o tipo de oferta que lhe proporcionou esse produto, o tipo de benefício (quer seja proveniente do núcleo, ou incremental) e a data de validade desse benefício.
+O separador **Azure & Cloud Products** mostra as subscrições baseadas no uso (crédito Azure) e as subscrições baseadas em licença (como Office 365) que lhe são aprovisionadas, a quantidade de licença para cada produto, o tipo de oferta que lhe proporcionou esse produto, o tipo de benefício (quer seja proveniente do núcleo, ou incremental) e a data de validade desse benefício.
 
 :::image type="content" source="images/benefits/azuretab.png" alt-text="Separador de produtos Azure e cloud.":::
 
@@ -69,27 +69,27 @@ Pode ser a provisionado com:
 - $100/mês (ou equivalente em moeda local) Crédito mensal azure ou/e
 - $6.000, $12.000 ou$13.000/ano (ou cada um deles equivalente em moeda local) Crédito a granel Azure
 
-Para ativar uma subscrição do Microsoft Azure no Partner Center, atribua acesso a um utilizador dentro da empresa (incluindo utilizadores convidados), que tem uma entrada de utilizador criada no seu Azure Ative Directory.
+Para ativar uma subscrição Microsoft Azure no Partner Center, atribua acesso a um utilizador dentro da empresa (incluindo utilizadores convidados), que tem uma entrada de utilizador criada no seu Azure Ative Directory.
 Para o crédito mensal Azure de $100/mês (ou equivalente em moeda local), pode adicionar ou remover os utilizadores desta subscrição a qualquer momento. 
 
-Para o Crédito Azure Bulk (anual), a opção de remoção não está disponível no Partner Center, mas pode transferir o crédito a granel para outra pessoa durante o seu ano de inscrição. A subscrição de crédito Azure Bulk (anualmente) não pode ser combinada com outras ofertas de licenciamento, pré-pago ou crédito (isto é, Microsoft Enterprise Agreement, Cloud Solution Partner, Azure in Open, Azure Pass, Action Pack, etc.).
+Para o Crédito Azure Bulk (anual), a opção de remoção não está disponível no Partner Center, mas pode transferir o crédito a granel para outra pessoa durante o seu ano de inscrição. A subscrição de crédito Azure Bulk (anualmente) não pode ser combinada com outras ofertas de licenciamento, pré-pago ou crédito (isto é, Microsoft Contrato Enterprise, Cloud Solution Partner, Azure in Open, Azure Pass, Action Pack, etc.).
 
 ## <a name="license-based-subscriptions"></a>Assinaturas baseadas em licenças
 
-A secção de subscrições baseada em licenças do separador Azure & Cloud Products lista todos os produtos em nuvem que requerem uma chave de produto para ativação, tais como Microsoft Office 365, Microsoft Dynamics, Microsoft Intune, Azure AD basic, e Power BI. O tipo de oferta que tem ativo como Parceiro MPN – MAPS, Prata ou Ouro – controla quais os produtos listados.
+A secção de subscrições baseada em licenças do separador Azure & Cloud Products lista todos os produtos em nuvem que requerem uma chave de produto para ativação, tais como Microsoft Office 365, Microsoft Dynamics, Microsoft Intune, Azure AD básico e Power BI. O tipo de oferta que tem ativo como Parceiro MPN – MAPS, Prata ou Ouro – controla quais os produtos listados.
 
 Para ativar as subscrições baseadas na licença, clique no símbolo dropdown em conformidade com o produto de interesse e leia as instruções sobre como resgatar as teclas. Depois de ler as instruções, selecione o link que o redireciona para o portal para resgatar as teclas e a chave atribuída para o seu produto.
 
 >[!IMPORTANT]
 >Por favor, note que uma vez que uma chave é resgatada, a mesma chave não pode ser redimida uma segunda vez, por isso certifique-se de que está claro sobre se precisa adicionar mais licenças (assentos) ou prolongar a data de fim. Se optar por adicionar mais licenças e não prolongar a data de fim, o sistema fornecer-lhe-á menos de 12 meses de subscrição ativa. Certifique-se de que está a iniciar sessão com as credenciais corretas para ativar as chaves do inquilino correto.
 
-## <a name="manage-visual-studio-subscriptions"></a>Gerir subscrições do Estúdio Visual
+## <a name="manage-visual-studio-subscriptions"></a>Gerir subscrições de Visual Studio
 
-1. Selecione **subscrições do Visual Studio** para ver a sua lista de subscrições do Visual Studio.
+1. Selecione **Visual Studio subscrições** para ver a sua lista de subscrições Visual Studio.
 
 2. Encontre a subscrição que pretende começar a usar e, em seguida, selecione a seta para baixo na extrema direita da linha para expandir os detalhes da subscrição.
 
-3. Para ativar uma subscrição do Visual Studio, selecione um utilizador da lista e, em seguida, **selecione Atribuir utilizador**.
+3. Para ativar uma subscrição Visual Studio, selecione um utilizador da lista e, em seguida, **selecione Atribuir utilizador**.
 
    > [!IMPORTANT]  
    > Se o utilizador que pretende atribuir não estiver na lista, pode [adicionar novos utilizadores](create-user-accounts-and-set-permissions.md) nas **definições de Conta**.

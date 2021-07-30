@@ -3,18 +3,18 @@ title: Analise as suas pistas
 ms.topic: article
 ms.date: 06/15/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-referrals
 description: Saiba como usar a página de insights de pista para ver se está a captar a atenção dos seus clientes-alvo e a gerar referências.
 author: vikrambmsft
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 6ddb9544e0c6f6a29540fe30d03d307318ddfdf8
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 55e502895b63e1c1a7e41f3d316355bedd7f7001
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110150221"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114839112"
 ---
 # <a name="analyze-your-leads---see-how-well-you-attract-target-customers-and-potential-referrals"></a>Analisar as oportunidades potenciais – veja até que ponto atrai clientes-alvo e potenciais referências
 <!-- 

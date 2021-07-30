@@ -3,18 +3,18 @@ title: Oferecer aos clientes testes de produtos da Microsoft
 ms.topic: article
 ms.date: 05/04/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-pricing
 description: Deixe os clientes experimentarem os produtos de subscrição da Microsoft durante 30 dias. Inscreva-se para estes testes gratuitos no catálogo, tal como muitos outros serviços online.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1d6fda82464b9abc30714798a2ee3999d8f93db5
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 393bd70096ba3cd7d1c9889d5b521cc94a389d90
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110151139"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114845980"
 ---
 # <a name="give-customers-30-day-free-trials-of-microsoft-products"></a>Dar aos clientes 30 dias de testes gratuitos de produtos microsoft
 
@@ -26,7 +26,7 @@ Uma boa forma de apresentar clientes aos novos produtos da Microsoft é oferecer
 
 Pode encontrar todas as suas ofertas de teste pendentes na página **do Cliente.** Esta página lista todas as subscrições, incluindo testes gratuitos e subscrições pagas. (Esta funcionalidade não está atualmente disponível na China.)
 
-Cada cliente tem direito a um teste gratuito por cada oferta disponível. Por exemplo, podem obter um teste gratuito para o Microsoft 365 Business Standard e um teste gratuito para o Office 365 E3. No entanto, se o cliente já é dono da oferta, não pode usar um teste gratuito para essa oferta.
+Cada cliente tem direito a um teste gratuito por cada oferta disponível. Por exemplo, podem obter um julgamento gratuito por Microsoft 365 Empresas e um julgamento gratuito para Office 365 E3. No entanto, se o cliente já é dono da oferta, não pode usar um teste gratuito para essa oferta.
 
 ### <a name="available-products"></a>Produtos disponíveis
 
@@ -57,7 +57,7 @@ Um teste gratuito não é automaticamente convertido para uma subscrição paga.
 Terá de converter o julgamento numa subscrição paga. Pode [fazê-lo utilizando o Centro de Parceiros](#convert-trials-using-partner-center) ou [através das APIs do Partner Center](#convert-trials-using-apis).
 
 > [!NOTE]
-> Os ensaios gratuitos para o programa Cloud Solution Provider (CSP) não podem ser convertidos para outro inquilino do programa (como EA, Open ou MOSP).
+> Os ensaios gratuitos para o programa Fornecedor de Soluções em Nuvem (CSP) não podem ser convertidos para outro inquilino do programa (como EA, Open ou MOSP).
 
 ### <a name="convert-trials-using-partner-center"></a>Converter ensaios usando Partner Center
 
@@ -81,7 +81,7 @@ Nem todos os ensaios podem ser convertidos em subscrições pagas. Os parceiros 
 
 |**Avaliação**   |**Ofertas compatíveis de Pequenas Empresas**   |**Ofertas empresariais compatíveis**   |
 |----------------------------|:---------------------------------|:------------------------------------------|
-|Teste de Cloud Comercial (Iniciado pelo Utilizador)   |Microsoft 365 Business Basic, Microsoft 365 Business Standard, Microsoft 365 Business Premium   | F3 (anteriormente F1), Office 365 para Enterprise (E1, E3 e E5), Microsoft 365 F1/F3, Microsoft 365 Enterprise (E3)   |
+|Microsoft Teams Ensaio de Nuvem Comercial (Iniciado pelo Utilizador)   |Microsoft 365 Empresas Basic, Microsoft 365 Empresas, Microsoft 365 Empresas Premium   | F3 (anteriormente F1), Office 365 para a Enterprise (E1, E3 e E5), Microsoft 365 F1/F3, Microsoft 365 Enterprise (E3)   |
 
 >[!NOTE]
 >As ofertas acima têm planos de serviço semelhantes com funcionalidades semelhantes, no entanto pode haver algumas diferenças entre as ofertas.

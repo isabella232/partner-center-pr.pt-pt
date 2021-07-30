@@ -3,18 +3,18 @@ title: Anúncios de novembro de 2020
 description: Anúncios de novembro de 2020 para o Microsoft Partner Center, incluindo novas capacidades, promoções, ofertas, mercados ou alterações às ofertas existentes.
 ms.topic: article
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-action-center
 author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: a4a8d79c1a5b22eb0c053d8cfb0d5d7ec2aae44b
-ms.sourcegitcommit: 09799f1d13b07cd3d4c75da7e2a074644dd86977
+ms.openlocfilehash: aba4c07762dc533362e51bd5b67b225cbf702397
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/07/2021
-ms.locfileid: "111575840"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114838789"
 ---
 # <a name="november-2020-announcements"></a>Anúncios de novembro de 2020
 
@@ -32,7 +32,7 @@ ______________
 
 ### <a name="summary"></a>Resumo
 
-A Microsoft está a introduzir a capacidade de os parceiros no programa Cloud Solution Provider comprarem ofertas saaS com faturação medido no Partner Center. 
+A Microsoft está a introduzir a capacidade de os parceiros no programa Fornecedor de Soluções em Nuvem comprarem ofertas saaS com faturação medido no Partner Center. 
 
 ### <a name="impacted-audience"></a>Audiência impactada
 
@@ -40,7 +40,7 @@ Todos os parceiros
 
 ### <a name="details"></a>Detalhes
 
-A Microsoft está a introduzir a capacidade de os parceiros no programa Cloud Solution Provider, incluindo fornecedores indiretos e parceiros de contas diretas, adquirirem ofertas saaS com [faturação medido](/azure/marketplace/partner-center-portal/saas-metered-billing)   no Partner Center. Hoje, os parceiros do programa Cloud Solution Provider podem visualizar e [comprar ofertas saaS com faturação medido através do portal Azure.](../csp-commercial-marketplace-purchase.md)Esta nova experiência permitirá aos parceiros adquirir estas ofertas através do CSP Marketplace no Partner Center e da API, tal como acontece com outros tipos de oferta SaaS. 
+A Microsoft está a introduzir a capacidade de os parceiros no programa Fornecedor de Soluções em Nuvem, incluindo fornecedores indiretos e parceiros de contas diretas, comprarem ofertas saaS com [faturação medido](/azure/marketplace/partner-center-portal/saas-metered-billing)   no Partner Center. Hoje, os parceiros do programa Fornecedor de Soluções em Nuvem podem ver e [comprar ofertas do SaaS com faturação medido através do portal Azure.](../csp-commercial-marketplace-purchase.md)Esta nova experiência permitirá aos parceiros adquirir estas ofertas através do CSP Marketplace no Partner Center e da API, tal como acontece com outros tipos de oferta SaaS. 
 
 ### <a name="next-steps"></a>Passos seguintes
 
@@ -57,7 +57,7 @@ ______________
 
 ### <a name="summary"></a>Resumo
 
-A partir de 18 de novembro, o Partner Center vai começar a desenvolver a nova experiência de gestão de conta que irá melhorar a experiência do utilizador para os parceiros. Os parceiros poderão agora gerir a sua conta para todos os programas a partir de Definições -> As definições de Conta.
+A partir de 18 de novembro, o Partner Center vai começar a desenvolver a nova experiência de gestão de conta que irá melhorar a experiência do utilizador para os parceiros. Os parceiros poderão agora gerir a sua conta para todos os programas a partir de definições de Definições -> Conta.
 
 ### <a name="impacted-audience"></a>Audiência impactada
 
@@ -65,7 +65,7 @@ Todos os parceiros
 
 ### <a name="details"></a>Detalhes
 
-A principal mudança na gestão de conta é a integração da visão de definições de parceiros anteriormente **separados** para parceiros inscritos em programas comerciais (Microsoft Partner Network, Cloud Solution Provider, Referrals, etc.) e **a visualização de definições de desenvolvedores** para parceiros inscritos em programas de Desenvolvimento (Commercial Marketplace, Windows & Xbox, etc.) numa visão de **definições** de conta unificada.
+A principal mudança na gestão de conta é a integração da visão de **definições** de parceiros anteriormente separados para parceiros matriculados em programas comerciais (Microsoft Partner Network, Fornecedor de Soluções em Nuvem, Referrals, etc.) e visão **de definições de desenvolvedores** para parceiros inscritos em programas de Desenvolvimento (Commercial Marketplace, Windows & Xbox, etc.) numa visão de **definições** de conta unificada.
 
 ### <a name="entry-point"></a>Ponto de entrada
 
@@ -85,26 +85,26 @@ Partilhe esta informação com todos os contactos adequados na sua empresa.
 
 ______________
 
-## <a name="office-365-e1-for-mid-market-promo-latam-apac-and-india"></a><a name="12"></a>Escritório 365 E1 para promo de mercado médio (LATAM, APAC e Índia)
+## <a name="office-365-e1-for-mid-market-promo-latam-apac-and-india"></a><a name="12"></a>Office 365 E1 para promos de mercado médio (LATAM, APAC e Índia)
 
 ### <a name="categories"></a>Categorias
 - Data 2020-11-18
 - Ofertas/Mercados
 
 ### <a name="summary"></a>Resumo
-Estamos a introduzir um novo Office 365 E1 Promo para o mercado intermédio, restrito aos mercados emergentes da LATAM, Índia e APAC (excluindo mercados desenvolvidos dentro da APAC).
+Estamos a introduzir um novo Office 365 E1 Promo para o mercado intermédio, restrito aos mercados emergentes da LATAM, Índia e APAC (excluindo os mercados desenvolvidos dentro da APAC).
 
 ### <a name="impacted-audience"></a>Audiência Impactada
-Todos os parceiros que transacionam através do programa Cloud Solution Provider (CSP) nos mercados participantes acima mencionados.
+Todos os parceiros que transfiram através do programa Fornecedor de Soluções em Nuvem (CSP) nos mercados participantes acima mencionados.
 
 ### <a name="details"></a>Detalhes
-O Promo consiste em 30% de desconto no Office 365 E1 para CSP. Será lançado a 1 de dezembro de 2020 e estará disponível por 6 meses, até 31 de maio de 2021. Este Promo só está disponível para clientes que são novos na nuvem MW e têm até 500 lugares. Por favor, note que este é restrito aos mercados emergentes da LATAM, Índia e APAC, de forma a permitir a transição para a nuvem. 
+O Promo consiste em 30% de desconto em Office 365 E1 para CSP. Será lançado a 1 de dezembro de 2020 e estará disponível por 6 meses, até 31 de maio de 2021. Este Promo só está disponível para clientes que são novos na nuvem MW e têm até 500 lugares. Por favor, note que este é restrito aos mercados emergentes da LATAM, Índia e APAC, de forma a permitir a transição para a nuvem. 
 
 #### <a name="offer-details"></a>Oferecer detalhes
 
    |**Nome da oferta**|**ID da oferta**|
    |-------------------|:------|
-   |Escritório 365 E1 para promo de mercado médio|d20fdad5-f524-45e4-97b1-59a94c21778f|
+   |Office 365 E1 para promo de mercado médio|d20fdad5-f524-45e4-97b1-59a94c21778f|
 
 ### <a name="next-steps"></a>Passos seguintes
 Isto estará disponível no dia 1 de dezembro - entretanto, por favor, partilhe esta informação com todos os contactos apropriados dentro da sua organização (nas regiões participantes). Comece a envolver-se com clientes que ainda não estão na nuvem nas regiões participantes. 
@@ -123,7 +123,7 @@ ______________
 
 ### <a name="impacted-audience"></a>Audiência impactada
 
-Parceiros de conta direta ou fornecedores indiretos que participam no programa Cloud Solution Provider (CSP) que têm clientes novos ou existentes nos seguintes países:
+Parceiros de conta direta ou fornecedores indiretos que participam no programa Fornecedor de Soluções em Nuvem (CSP) que têm clientes novos ou existentes nos seguintes países:
 
 - Arménia (AM)
 - Azerbaijão (AZ)
@@ -168,7 +168,7 @@ A página conta de cliente do Centro parceiro foi atualizada da seguinte forma:
 
 2. **Nome do meio.** Este campo é opcional para todos os clientes. Se souber o nome do meio ou a inicial do cliente, o parceiro pode inseri-lo aqui.
 
-3. **Número de telefone.** Este campo era anteriormente opcional, mas agora é necessário para os clientes em países específicos.  
+3. **Telefone O número.** Este campo era anteriormente opcional, mas agora é necessário para os clientes em países específicos.  
 
 Os requisitos de campo **da Organização INN** (Identificador Legal) específicos do país aparecem abaixo.
 
@@ -243,11 +243,11 @@ public class Address
 
 ### <a name="impacted-audience"></a>Audiência Impactada  
 
-Parceiros que transacionam através do programa Cloud Solution Provider na região UE/EFTA 
+Parceiros que transacionam através do programa Fornecedor de Soluções em Nuvem na região UE/EFTA 
 
 ### <a name="summary"></a>Resumo 
 
-Na região da União Europeia (UE)/Associação Europeia de Comércio Livre (EFTA), todas as novas ofertas de comércio no programa Cloud Solution Provider utilizarão o local de faturação de parceiros em vez da localização da faturação dos clientes. Isto significa que os parceiros serão faturados pela Microsoft com base na sua moeda de localização, e não na moeda de localização dos seus clientes. Isto será feito em duas fases: 
+Na região da União Europeia (UE)/Associação Europeia de Comércio Livre (EFTA), todas as novas ofertas de comércio no programa Fornecedor de Soluções em Nuvem utilizarão o local de faturação dos parceiros em vez da localização da faturação dos clientes. Isto significa que os parceiros serão faturados pela Microsoft com base na sua moeda de localização, e não na moeda de localização dos seus clientes. Isto será feito em duas fases: 
 
 - **Fase 1: Novos clientes que compram uma nova oferta de comércio na CSP**
 
@@ -259,7 +259,7 @@ Após a Fase 1 e durante o ano civil de 2021, a Microsoft irá transitar a fatur
 
 >[Nota] Esta alteração só terá impacto na moeda de faturação dos parceiros e não nos preços das novas ofertas de comércio na CSP. 
 
-As novas ofertas de comércio em campo para esta mudança são: subscrições Azure que fazem parte de um plano Azure, reservas Azure, subscrições de servidores, software perpétuo e compras de marketplace comercial da Microsoft no programa Cloud Solution Provider.
+As novas ofertas de comércio em campo para esta mudança são: subscrições Azure que fazem parte de um plano Azure, reservas Azure, subscrições de servidores, software perpétuo e compras de marketplace comercial da Microsoft no programa Fornecedor de Soluções em Nuvem.
 
 ### <a name="partner-benefits"></a>Benefícios do parceiro  
 
@@ -292,7 +292,7 @@ A Microsoft está a introduzir o acelerador de API a parceiros que chamam APIs d
 
 ### <a name="impacted-audience"></a>Audiência impactada
 
-Parceiros transagindo através do programa Cloud Solution Provider
+Parceiros que transfiram através do programa Fornecedor de Soluções em Nuvem
 
 ### <a name="details"></a>Detalhes
 
@@ -346,7 +346,7 @@ ______________
 - Nem todos os parceiros incluíam o pedido de parâmetros dentro da sua implementação. A Microsoft devolveu o MCA aos sócios.
 - O parceiro reenviaria o pedido de assinatura ao cliente e reenviaria o MCA para a Microsoft. 
 - A duplicação afetou a capacidade da Microsoft de prestar serviço aos parceiros.
-- Em setembro de 2020 enviámos uma notificação aos parceiros, via Yammer em vários fóruns, solicitando que os parceiros corrigissem o parâmetro. A Microsoft já não podia aceitar os duplicados e receberia 409 erros.
+- Em setembro de 2020 enviámos uma notificação aos parceiros, através de Yammer em vários fóruns, solicitando que os parceiros corrigissem o parâmetro. A Microsoft já não podia aceitar os duplicados e receberia 409 erros.
 
 >[Nota] Esta não foi uma mudança de contrato/API para parceiros.
 
@@ -360,7 +360,7 @@ ______________
 
 ### <a name="next-steps-for-partners"></a>Próximos passos para parceiros
 
-- Reveja estas novas alterações no Centro de Parceiros UI e API. Quando tentar criar uma subscrição de cliente ou atualizar uma subscrição existente para um cliente num desses países, consulte as informações da conta do cliente para se certificar de que adicionou dados aos dois novos campos necessários para esse cliente: Organização INN (Identificador Legal) e Número de Telefone. Pode atualizar esta informação através do painel partner [center](https://partner.microsoft.com/dashboard) ou através de [APIs](/partner-center/develop/create-a-customer#company-profile)do Partner Center .
+- Reveja estas novas alterações no Centro de Parceiros UI e API. Quando tentar criar uma subscrição de cliente ou atualizar uma subscrição existente para um cliente num desses países, consulte as informações da conta do cliente para se certificar de que adicionou dados aos dois novos campos necessários para esse cliente: Organization INN (Legal Identifier) e Telefone Number. Pode atualizar esta informação através do painel partner [center](https://partner.microsoft.com/dashboard) ou através de [APIs](/partner-center/develop/create-a-customer#company-profile)do Partner Center .
 
 - Partilhe esta informação com as equipas apropriadas dentro da sua organização para ajudá-las a prepararem-se para estas mudanças.
 
@@ -375,7 +375,7 @@ ______________
 
 ### <a name="impacted-audience"></a>Audiência impactada
 
-Parceiros que vendem ofertas académicas através do programa Cloud Solution Provider (CSP).
+Parceiros que vendem ofertas académicas através do programa Fornecedor de Soluções em Nuvem (CSP).
 
 ### <a name="summary"></a>Resumo
 
@@ -444,7 +444,7 @@ Partilhe esta informação com todos os contactos apropriados na sua organizaç�
 
 ________________
 
-## <a name="microsoft-teams-rooms-premium-sku-launch"></a><a name="5"></a>Lançamento do Microsoft Teams Rooms Premium SKU
+## <a name="microsoft-teams-rooms-premium-sku-launch"></a><a name="5"></a>Salas Microsoft Teams Premium lançamento do SKU
 
 ### <a name="categories"></a>Categorias
 
@@ -453,60 +453,60 @@ ________________
 
 ### <a name="summary"></a>Resumo
 
-Microsoft Teams Quartos Premium SKU para equipas da Microsoft através do programa Cloud Solution Provider (CSP) já está disponível.
+Salas Microsoft Teams Premium SKU para Microsoft Teams através do programa Fornecedor de Soluções em Nuvem (CSP) já está disponível.
 
 ### <a name="impacted-audience"></a>Audiência impactada
 
-Todos os parceiros que transacionam através do programa Cloud Solution Provider (CSP)
+Todos os parceiros que transfiram através do programa Fornecedor de Soluções em Nuvem (CSP)
 
 ### <a name="details"></a>Detalhes
 
-O novo Microsoft Teams Rooms Premium SKU para o Microsoft Teams Rooms está agora disponível para os seus clientes que adquirem CSP através de si a USD50 por dispositivo por mês. O Microsoft Teams Rooms Premium SKU é uma alternativa ao Microsoft Teams Rooms Standard SKU (anteriormente chamado Licença de Sala de Reuniões). Este SKU inclui tudo na oferta padrão, como as licenças necessárias para as Equipas Microsoft, Skype para Business Online e gestão Intune. A oferta também permite o Sistema telefónico — necessário para a integração da Rede Telefónica Comutada Pública (PSTN) — e a Conferência de Áudio, sempre que disponível. 
+O novo Salas Microsoft Teams Premium SKU para Salas Microsoft Teams está agora disponível para os seus clientes que adquirem CSP através de si a USD50 por dispositivo por mês. O Salas Microsoft Teams Premium SKU é uma alternativa à Salas Microsoft Teams Standard SKU (anteriormente denominada Licença de Sala de reuniões). Este SKU inclui tudo na oferta padrão, como as licenças necessárias para Microsoft Teams, Skype para Empresas Online e gestão Intune. A oferta também permite Sistema Telefónico — necessário para a integração da Rede Telefónica Comutada Pública (PSTN) — e a Conferência de Áudio, sempre que disponível. 
 
-Com a oferta premium, os clientes têm acesso aos recém-lançados Serviços Geridos microsoft Teams Rooms, onde os especialistas lidam com a gestão e operações das salas de reuniões em nome do cliente. Este serviço de gestão e monitorização de TI baseado na nuvem mantém os dispositivos microsoft Teams Rooms e os seus periféricos atualizados e seguros. Também são monitorizados e geridos proativamente, mantendo um ambiente otimizado para uma grande experiência no quarto.
+Com a oferta premium, os clientes têm acesso aos recém-lançados serviços Salas Microsoft Teams Geridos, onde os especialistas lidam com a gestão e operações das salas de reuniões em nome do cliente. Este serviço de gestão e monitorização de TI baseado na nuvem mantém Salas Microsoft Teams dispositivos e periféricos atualizados e seguros. Também são monitorizados e geridos proativamente, mantendo um ambiente otimizado para uma grande experiência no quarto.
 
 #### <a name="released-at-launch"></a>Lançado no lançamento
 
-   |****|**Microsoft Teams Rooms Dispositivo Standard USD15 por mês**|**Microsoft Teams Rooms Dispositivo Premium USD50 por mês**|
+   |****|**Salas Microsoft Teams Dispositivo standard USD15 por mês**|**Salas Microsoft Teams Premium dispositivo USD50 por mês**|
    |-------------------|:------|:------|
-   |Skype para Empresas|Yes| |
-   |Microsoft Stream|Yes|Yes|
-   |Sistema telefónico|Yes|Yes|
-   |Conferência sonora|Yes|Yes|
-   |Microsoft Intune|Yes|Yes|
-   | |Microsoft Teams Rooms Standard USD15 por dispositivo por mês|Microsoft Teams Rooms Premium USD50 por dispositivo por mês|
-   |Microsoft Teams Rooms Managed Services| |Yes|
-   |Disponibilidade mundial|Yes|Em mercados selecionados|
+   |Skype para Empresas|Sim| |
+   |Microsoft Stream|Sim|Sim|
+   |Sistema Telefónico|Sim|Sim|
+   |Conferência sonora|Sim|Sim|
+   |Microsoft Intune|Sim|Sim|
+   | |Salas Microsoft Teams USD15 padrão por dispositivo por mês|Salas Microsoft Teams Premium USD50 por dispositivo por mês|
+   |Salas Microsoft Teams Serviços Geridos| |Sim|
+   |Disponibilidade mundial|Sim|Em mercados selecionados|
 
-#### <a name="microsoft-teams-rooms-managed-services"></a>Microsoft Teams Rooms Managed Services
+#### <a name="microsoft-teams-rooms-managed-services"></a>Salas Microsoft Teams Serviços Geridos
 
 - Gestão proativa: gestão 24x7x365 dos seus sistemas de quartos, incluindo patching, gestão de configuração, e muito mais.
 - Monitorização em tempo real e análise de causas de raiz: Monitorização e deteção com resposta orquestrada de gestão de incidentes impulsionada pela Microsoft em coordenação com o cliente, quando necessário. A aplicação móvel permite-lhe manter-se alerta on-the-go.
-- Atualizações geridas: Gestão e entrega de aplicações, atualizações do Windows KB e firmware.
+- Atualizações geridas: Gestão e entrega de aplicações, Windows KB e atualizações de firmware.
 - Proteção contra ameaças de segurança: Proteção contra ameaças de segurança através da Proteção avançada de ameaças do Microsoft Defender.
 - Suporte ao cliente: suporte de bilhete 24x7x365 através do nosso centro de operações de serviço dedicado com remediação assistida de incidentes para casos não automatizados. Controlo de acesso baseado em funções granular.
-- Insights e recomendações: Insights agregados entre os clientes e relatórios sobre saúde da sala, inventário, uso, reuniões online e tendências de incidentes.
+- Informações e recomendações: Insights agregados entre os clientes e relatórios sobre saúde da sala, inventário, uso, reuniões online e tendências de incidentes.
 
 #### <a name="offer-details"></a>Oferecer detalhes
 
    |**Nome da oferta**|**ID da oferta**|**Material ID**|
    |-------------------|:------|:------|
-   |Salas de Equipas Premium|5db9aa31-f039-4740-b122-a33514e4c492|6XB-00007|
-   |Salas de Equipas Premium (EUA e CAN)|03070f91-cc77-4c2e-b269-4a214b3698ab|6XB-00008|
-   |Salas de equipas Premium para docentes|d0c9a9a9-c9b6-41d7-9148-b60115c36c95|6Y5-00005|
+   |Salas Teams Premium|5db9aa31-f039-4740-b122-a33514e4c492|6XB-00007|
+   |Salas Teams Premium (EUA e CAN)|03070f91-cc77-4c2e-b269-4a214b3698ab|6XB-00008|
+   |Salas Teams Premium para o corpo docente|d0c9a9a9-c9b6-41d7-9148-b60115c36c95|6Y5-00005|
 
 ### <a name="next-steps"></a>Passos seguintes
 
 - Familiarize-se com a nova oferta e a sua disponibilidade geográfica, visite as [perguntas mais frequentes (FAQ)]().
 - Familiarize-se com a nova oferta e a sua disponibilidade geográfica. 
 - Saiba mais sobre o Microsoft Rooms e ofertas relacionadas no [Microsoft Team Rooms](https://rooms.microsoft.com/).
-- Utilize o [Guia de Parceiros de Equipas](https://aka.ms/teamscallingmeetingsguide) para desenvolver a sua prática com salas de reuniões de equipas e crie uma oferta De Co-venda Ready.
-- Reveja as [FAQ das Salas microsoft teams](https://aka.ms/PartnerMTRFAQ) para saber mais sobre a solução e serviços do produto. 
+- Utilize o [Guia de Parceiros Teams](https://aka.ms/teamscallingmeetingsguide) para desenvolver a sua prática com Teams Salas de Reuniões e crie uma oferta De Co-venda Ready.
+- Reveja a [Salas Microsoft Teams FAQ](https://aka.ms/PartnerMTRFAQ) para saber mais sobre a solução e serviços do produto. 
 - Partilhe esta informação com todos os contactos apropriados na sua organização e compreenda as oportunidades de venda e venda cruzada.
 
 ________________
 
-## <a name="new-microsoft-teams-advanced-communications-skus-for-government-community-cloud-gcc-coming-soon"></a><a name="4"></a>Novas Equipas da Microsoft Advanced Communications SKUs para a Government Community Cloud (GCC) em breve
+## <a name="new-microsoft-teams-advanced-communications-skus-for-government-community-cloud-gcc-coming-soon"></a><a name="4"></a>Novos Microsoft Teams SKUs de Comunicações Avançadas para Nuvem da Comunidade Governamental (GCC) em breve
 
 ### <a name="categories"></a>Categorias
 
@@ -515,39 +515,39 @@ ________________
 
 ### <a name="summary"></a>Resumo
 
-O novo add-on de Comunicações Avançadas SKU para equipas da Microsoft no GCC estará disponível a partir de 1 de dezembro de 2020.
+O novo addon Advanced Communications SKU para Microsoft Teams em GCC estará disponível a partir de 1 de dezembro de 2020.
 
 ### <a name="impacted-audience"></a>Audiência impactada
 
-Todos os parceiros que transacionam através do programa Cloud Solution Provider (CSP)
+Todos os parceiros que transfiram através do programa Fornecedor de Soluções em Nuvem (CSP)
 
 ### <a name="details"></a>Detalhes
 
-O novo addon Advanced Communications para equipas da Microsoft em GCC está agora disponível em USD12 por utilizador por mês. Os SKUs adicionais podem ser adquiridos em cima de qualquer outra suite Microsoft 365 que contenha Microsoft Teams. A Advanced Communications fornece um novo conjunto de capacidades para grandes reuniões, políticas de comunicação, integrações e ferramentas avançadas para a gestão de TI. 
+O novo complemento de Comunicações Avançadas para Microsoft Teams em GCC está agora disponível a USD12 por utilizador por mês. Os SKUs adicionais podem ser adquiridos em cima de qualquer outra suíte Microsoft 365 que contenha Microsoft Teams. A Advanced Communications fornece um novo conjunto de capacidades para grandes reuniões, políticas de comunicação, integrações e ferramentas avançadas para a gestão de TI. 
 
 #### <a name="offer-details"></a>Oferecer detalhes
 
    |**Nome da oferta**|**ID da oferta**|**Material ID**|
    |-------------------|:------|:------|
-   |Comunicações Avançadas para OGM|56fe76f5-f4ba-4fac-9561-d0daf59b01a1|7FB-00003|
+   |Comunicações Avançadas para GCC|56fe76f5-f4ba-4fac-9561-d0daf59b01a1|7FB-00003|
 
 #### <a name="frequently-asked-questions"></a>Perguntas mais frequentes 
 
-**O que é Comunicação Avançada?** Este novo addon Microsoft Teams permite que os clientes melhorem ainda mais a sua experiência de comunicação. Pode ser adquirido em cima de qualquer Microsoft 365 SKU a que estejam subscritos.
+**O que é Comunicação Avançada?** Este novo complemento de Microsoft Teams permite aos clientes melhorar ainda mais a sua experiência de comunicação. Pode ser adquirido em cima de qualquer Microsoft 365 SKU a que sejam subscritos.
 
 **Quanto custa?** O ERP comercial é DE USD12 por utilizador por mês.
 
-**Que clientes podem comprar o addon?** Os clientes da GCC podem comprar o addon.
+**Que clientes podem comprar o addon?** GCC clientes podem comprar o addon.
 
-**Como pode ser comprado?** O addon pode ser adquirido através de Enterprise Agreement, Enterprise Agreement Subscription, Inscrição para Soluções de Educação, CSP ou Web Direct.
+**Como pode ser comprado?** O addon pode ser adquirido através de Contrato Enterprise, subscrição Contrato Enterprise, Inscrição para Soluções de Educação, CSP ou Web Direct.
 
 **Onde pode ser vendido?** Pode ser vendido nos mercados americanos.
 
-**Quais são os pré-requisitos?** Qualquer suíte Microsoft 365 ou Office 365 que inclua Microsoft Teams pode ter este addon.
+**Quais são os pré-requisitos?** Qualquer Microsoft 365 ou Office 365 suíte que inclua Microsoft Teams pode ter este addon.
 
 ### <a name="next-steps"></a>Passos seguintes
 
-Partilhe esta informação com os contactos relevantes na sua organização e compreenda as oportunidades de venda e venda cruzada. Reveja a secção de recursos do [Guia de Parceiros de Equipas.](https://aka.ms/teamscallingmeetingsguide)
+Partilhe esta informação com os contactos relevantes na sua organização e compreenda as oportunidades de venda e venda cruzada. Reveja a secção de recursos do [Guia de Parceiros Teams](https://aka.ms/teamscallingmeetingsguide).
 
 ________________
 
@@ -566,24 +566,24 @@ Fornecedores diretos, fornecedores indiretos e revendedores indiretos
 
 #### <a name="new-offers"></a>Novas ofertas
 
-Em 1 de novembro de 2020, a Microsoft lançou ofertas de Operações de Projeto Dynamics 365 e removeu a Dynamics 365 Project Service Automation (PSA) para clientes comerciais. Esta comunicação fornece informações adicionais sobre o mapeamento de direitos de dupla utilização a partir deste lançamento e novas ofertas incorporadas pelo fornecedor de software independente (ISV).
+Em 1 de novembro de 2020, a Microsoft lançou ofertas dynamics 365 Project Operations e removeu a Dynamics 365 Project Service Automation (PSA) para clientes comerciais. Esta comunicação fornece informações adicionais sobre o mapeamento de direitos de dupla utilização a partir deste lançamento e novas ofertas incorporadas pelo fornecedor de software independente (ISV).
 
-#### <a name="project-operations-isv-embed-offers"></a>Ofertas isv embed de operações de projeto
+#### <a name="project-operations-isv-embed-offers"></a>Project Ofertas isv embed operações
 
-Em 1 de novembro de 2020, a Microsoft lançou três ofertas adicionais de 36 meses da ISV Embed para os clientes Dynamics 365 para project operations to Cloud Solution Provider (CSP). Consulte o separador Operações de Projeto no [documento Dynamics CSP Offers-November 2020 Excel](https://partner.microsoft.com/resources/detail/dynamics-csp-offers-november-xls) para os detalhes do SKU.
+Em 1 de novembro de 2020, a Microsoft lançou três ofertas adicionais de 36 meses da ISV Embed para a Dynamics 365 para Project Operações a Fornecedor de Soluções em Nuvem clientes (CSP). Consulte o separador operações de Project no [Offers-November Excel de 2020](https://partner.microsoft.com/resources/detail/dynamics-csp-offers-november-xls) para os detalhes do SKU.
 
-#### <a name="project-operations-dual-use-rights-mapping"></a>Mapeamento de direitos de dupla utilização de operações de projeto
+#### <a name="project-operations-dual-use-rights-mapping"></a>Project Mapeamento de direitos de dupla utilização de operações
 
-Pode encontrar informações sobre os direitos de dupla utilização da Dynamics 365 no local de mapeamento das ofertas do Project Operations na tabela seguinte:
+Pode encontrar informações sobre os direitos de dupla utilização da Dynamics 365 no local de mapeamento das ofertas de operações de Project no quadro seguinte:
 
    |**Oferta de operações D365**|**Mapeamento de direitos de dupla utilização D365 no local**|
    |-------------------|:------|
    |Oferta de operações D365|Mapeamento de direitos de dupla utilização D365 no local|
-   |Operações do Projeto D365|D365 para Operações, on-prem (AX Server) utilizando o Dyn365 Project Operations SKU (109108477)|
-   |D365 Project Operations Attach|D365 para Operações, on-prem (AX Server) utilizando o Dyn365 Project Operations SKU (109108477)|
-   |D365 Finanças com Operações de Projeto|D365 para Operações, on-prem (AX Server) utilizando o Dyn365 Project Operations SKU (109108477)|
-   |D365 Finanças Anexam com Operações de Projeto|D365 para Operações, on-prem (AX Server) utilizando o Dyn365 Project Operations SKU (109108477)|
-   |D365 Operações Unificadas – Atividade com Operações de Projeto|D365 para Operações, on-prem (AX Server) utilizando o Dyn365 Project Operations SKU (109108477)|
+   |Operações Project D365|D365 para Operações, on-prem (AX Server) utilizando o SKU de Operações de Project Dyn365 (109108477)|
+   |D365 Project Operações Attach|D365 para Operações, on-prem (AX Server) utilizando o SKU de Operações de Project Dyn365 (109108477)|
+   |Finanças D365 com Operações Project|D365 para Operações, on-prem (AX Server) utilizando o SKU de Operações de Project Dyn365 (109108477)|
+   |D365 Finanças Anexam com operações Project|D365 para Operações, on-prem (AX Server) utilizando o SKU de Operações de Project Dyn365 (109108477)|
+   |D365 Operações Unificadas – Atividade com Operações Project|D365 para Operações, on-prem (AX Server) utilizando o SKU de Operações de Project Dyn365 (109108477)|
 
 #### <a name="previously-announced"></a>Previamente anunciado
 
@@ -591,7 +591,7 @@ A 1 de novembro de 2020, a Microsoft lançou as seguintes novas e atualizadas of
 
 - Dinâmica 365 Voz do Cliente USL 
 
-Reveja o separador Operações de Projeto no [documento Dynamics CSP Offers-November 2020 Excel](https://partner.microsoft.com/resources/detail/dynamics-csp-offers-november-2020-xls) para os detalhes do ID da oferta.
+Reveja o separador operações de Project no [Offers-November de Excel de 2020](https://partner.microsoft.com/resources/detail/dynamics-csp-offers-november-2020-xls) para os detalhes do ID da oferta.
 
 Pode encontrar mais recursos na página inicial do Microsoft Dynamics 365 Customer Voice.
 
@@ -601,7 +601,7 @@ Partilhe esta informação com as pessoas relevantes da sua organização.
 
 ________________
 
-## <a name="introducing-microsoft-365-business-voice-for-nonprofit-organizations"></a><a name="2"></a>Apresentamos o Microsoft 365 Business Voice para organizações sem fins lucrativos
+## <a name="introducing-microsoft-365-business-voice-for-nonprofit-organizations"></a><a name="2"></a>Introdução de Microsoft 365 Voz Para Empresas para organizações sem fins lucrativos
 
 ### <a name="categories"></a>Categorias
 
@@ -610,7 +610,7 @@ ________________
 
 ### <a name="summary"></a>Resumo
 
-A 1 de novembro de 2020, a Microsoft apresentou novos SKUs para o Microsoft 365 Business Voice para organizações sem fins lucrativos.
+A 1 de novembro de 2020, a Microsoft apresentou novos SKUs para Microsoft 365 Voz Para Empresas para organizações sem fins lucrativos.
 
 ### <a name="impacted-audience"></a>Audiência impactada
 
@@ -620,24 +620,24 @@ Fornecedores diretos, fornecedores indiretos e revendedores indiretos
 
 A 1 de novembro de 2020, a Microsoft apresentou novos SKUs para Business Voice. A suite completa está disponível no Canadá, Reino Unido e Estados Unidos. Business Voice sem Plano de Chamada estará disponível em todos os outros mercados. 
 
-O Microsoft 365 Business Voice é um sistema telefónico baseado na nuvem para pequenas e médias empresas, que são integradas no Office 365. Adicionar Business Voice a uma subscrição do Office 365 do cliente oferece uma solução de comunicação e colaboração tudo-em-um com chamadas, chat e reuniões numa única aplicação, Microsoft Teams.
+Microsoft 365 Voz Para Empresas é um sistema telefónico baseado em nuvem para pequenas e médias empresas, que são integradas em Office 365. Adicionar a Business Voice à subscrição de Office 365 de um cliente oferece uma solução de comunicação e colaboração tudo-em-um com chamadas, conversas e reuniões numa única aplicação, Microsoft Teams.
 
 Consulte a tabela de preços para obter detalhes sobre os preços.
 
-O Microsoft 365 Business Voice pode ser adicionado às seguintes subscrições para até 300 utilizadores:
+Microsoft 365 Voz Para Empresas podem ser adicionados às seguintes subscrições para até 300 utilizadores:
 
-- Escritório 365: Business Essentials, Business Premium, A1, E1, A3 e E3
+- Office 365: Business Essentials, Business Premium, A1, E1, A3 e E3
 - Microsoft 365: Negócios, A3 e E3
 
 
 ### <a name="next-steps"></a>Passos seguintes
 
 - Familiarize-se e partilhe a informação na lista de preços de pré-visualização com todos os contactos apropriados na sua organização. 
-- Reveja todos os materiais de prontidão na galeria de recursos cloud Solution Provider: [Introdução do Microsoft 365 Business Voice para pequenas e médias empresas](https://partner.microsoft.com/resources/collection/m365-voice-smb#/). 
+- Reveja todos os materiais de prontidão na galeria de recursos Fornecedor de Soluções em Nuvem Program Updates: [Introdução Microsoft 365 Voz Para Empresas para pequenas e médias empresas](https://partner.microsoft.com/resources/collection/m365-voice-smb#/). 
 
 ________________
 
-## <a name="cloud-solution-provider-csp-promo-for-microsoft-365-business-voice-is-now-available"></a><a name="1"></a>Cloud Solution Provider (CSP) promo para Microsoft 365 Business Voice já está disponível
+## <a name="cloud-solution-provider-csp-promo-for-microsoft-365-business-voice-is-now-available"></a><a name="1"></a>Fornecedor de Soluções em Nuvem (CSP) promo para Microsoft 365 Voz Para Empresas já está disponível
 
 ### <a name="categories"></a>Categorias
 
@@ -646,7 +646,7 @@ ________________
 
 ### <a name="summary"></a>Resumo
 
-Preços de desconto disponíveis para subscrições novas e renovações do Microsoft 365 Business Voice com o Call Plan e microsoft 365 Business Voice sem o Plano de Chamada.
+Preços de desconto disponíveis para subscrições novas e renovações de Microsoft 365 Voz Para Empresas com Plano de Chamada e Microsoft 365 Voz Para Empresas sem Plano de Chamada.
 
 ### <a name="impacted-audience"></a>Audiência impactada
 
@@ -654,19 +654,19 @@ Todos os parceiros que transfiram através do programa CSP
 
 ### <a name="details"></a>Detalhes
 
-A partir de 1 de novembro de 2020 a 30 de abril de 2021, as novas e renovações de subscrições do Microsoft 365 Business Voice com o Call Plan e do Microsoft 365 Business Voice sem o Call Plan estão sujeitas a preços de desconto. O Microsoft 365 Business Voice com o Call Plan está sujeito a um desconto de 25% durante 12 meses, e o Microsoft 365 Business Voice sem o Call Plan está sujeito a um desconto de 33% durante 12 meses. 
+A partir de 1 de novembro de 2020 a 30 de abril de 2021, as novas e renovações de Microsoft 365 Voz Para Empresas com o Plano de Chamada e Microsoft 365 Voz Para Empresas sem Plano de Chamada estão sujeitas a preços de desconto. Microsoft 365 Voz Para Empresas com o Plano de Chamada está sujeito a um desconto de 25% durante 12 meses, e Microsoft 365 Voz Para Empresas sem o Plano de Chamada está sujeito a um desconto de 33% durante 12 meses. 
 
 #### <a name="offer-details"></a>Oferecer detalhes
 
    |**Nome da oferta**|**ID da oferta**|**Material ID**|
    |-------------------|:------|:------|
-   |Microsoft 365 Business Voice Adoption Promo|e7d1d0fa-b769-45c7-aaea-c3e6f7402691|PZX-00006|
-   |Microsoft 365 Business Voice Adoption Promo|ef3ff6bb-a288-4a56-9204-97b37ff9a0b8|PZW-00019|
-   |Microsoft 365 Business Voice (EUA) Promo de adoção|4244aed3-90ae-4754-8dc8-37f2e8d84e85|PZW-00020|
-   |Microsoft 365 Business Voice (sem plano de chamada) Promo de adoção|b71df433-6fd9-4549-886d-577f7aa06070|PZY-00019|
-   |Microsoft 365 Business Voice (sem plano de chamada) Promo de adoção|4ba4d580-4902-42b0-8411-a27358dd5405|PZY-00016|
-   |Microsoft 365 Business Voice (sem plano de chamada) Promo de adoção|bbfd896b-e3d4-45ba-9319-14104d400069|PZY-00018|
-   |Microsoft 365 Business Voice (sem plano de chamada) para promo de adoção dos EUA|9b05d0b7-cfb4-42f1-9cc3-f698dba2838e|PZY-00017|
+   |Microsoft 365 Voz Para Empresas Promo de Adoção|e7d1d0fa-b769-45c7-aaea-c3e6f7402691|PZX-00006|
+   |Microsoft 365 Voz Para Empresas Promo de Adoção|ef3ff6bb-a288-4a56-9204-97b37ff9a0b8|PZW-00019|
+   |Promo de adoção Microsoft 365 Voz Para Empresas (EUA)|4244aed3-90ae-4754-8dc8-37f2e8d84e85|PZW-00020|
+   |Microsoft 365 Voz Para Empresas (sem plano de chamadas) Promo de Adoção|b71df433-6fd9-4549-886d-577f7aa06070|PZY-00019|
+   |Microsoft 365 Voz Para Empresas (sem plano de chamadas) Promo de Adoção|4ba4d580-4902-42b0-8411-a27358dd5405|PZY-00016|
+   |Microsoft 365 Voz Para Empresas (sem plano de chamadas) Promo de Adoção|bbfd896b-e3d4-45ba-9319-14104d400069|PZY-00018|
+   |Microsoft 365 Voz Para Empresas (sem plano de chamada) para promo de adoção dos EUA|9b05d0b7-cfb4-42f1-9cc3-f698dba2838e|PZY-00017|
 
 Estas promoções afetam os seguintes clientes:
 
@@ -675,13 +675,13 @@ Estas promoções afetam os seguintes clientes:
 
 #### <a name="additional-resources"></a>Recursos adicionais
 
-- Visite a página de [parceiros do Microsoft 365 Business Voice](https://www.microsoft.com/microsoft-365/partners/businessvoice) para saber mais sobre o Business Voice. 
+- Visite a [página de parceiros Microsoft 365 Voz Para Empresas](https://www.microsoft.com/microsoft-365/partners/businessvoice) para saber mais sobre o Business Voice. 
 - Saiba mais sobre esta promoção nas [FAQ de Parceiros relacionados.](https://www.microsoft.com/microsoft-365/partners/resources/faq-business-voice-audio-conferencing-promo)
 
 ### <a name="next-steps"></a>Passos seguintes
 
 - Familiarize-se com estas reuniões e chame oportunidades promocionais e partilhe esta informação com todos os contactos apropriados na sua organização.
-- Incorpore estas promoções nos seus movimentos de vendas Microsoft 365.
-- Impulsionar a consciencialização dos clientes sobre o valor de adicionar Business Voice às Equipas. 
+- Incorpore estas promoções nos seus Microsoft 365 moções de venda.
+- Impulsionar a consciencialização dos clientes sobre o valor de adicionar a Business Voice à Teams. 
 
 ________________

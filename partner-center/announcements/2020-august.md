@@ -3,24 +3,24 @@ title: Anúncios de agosto de 2020
 description: Anúncios de agosto de 2020 para o Microsoft Partner Center, como novas capacidades, promoções, ofertas, mercados ou alterações às ofertas existentes.
 ms.topic: article
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-action-center
 author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 08/14/2020
-ms.openlocfilehash: f3503e4edf9b5e9081eb53b80a32f451db861a70
-ms.sourcegitcommit: 7e32544cf91f932cbeb053c9de506ba9ee773fe2
+ms.openlocfilehash: c163258d59c0e0640c8d8f3a0469a94d45582d1d
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "94947686"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114839044"
 ---
 # <a name="august-2020-announcements"></a>Anúncios de agosto de 2020
 
 Esta página detalha os anúncios do Microsoft Partner Center para agosto de 2020.
 
-Anúncios de 2020: [janeiro](2020-january.md)  |  [fevereiro](2020-february.md)  |  [March](2020-march.md)  |  [abril abril](2020-april.md)  |  [junho](2020-may.md)  |  [June](2020-june.md)  |  [julho](2020-july.md) / Agosto
+Anúncios de 2020: [janeiro](2020-january.md)  |  [De fevereiro](2020-february.md)  |  [abril](2020-march.md)  |  [](2020-april.md)  |  [maio](2020-may.md)  |  [junho](2020-june.md)  |  [julho](2020-july.md) | Agosto
 
 ________________
 
@@ -33,11 +33,11 @@ ________________
 
 ### <a name="impacted-audience"></a>Audiência impactada
 
-Parceiros que vendem ofertas académicas através do Programa Cloud Solution Provider (CSP) 
+Parceiros que vendem ofertas académicas através do Programa Fornecedor de Soluções em Nuvem (CSP) 
 
 ### <a name="summary"></a>Resumo
 
-A Microsoft funciona com confiança e estamos empenhados em fornecer um método de validação de clientes conforme, seguro e seguro para a transação de ofertas académicas no programa Cloud Solution Provider. Como parte deste compromisso, estamos a introduzir a API do Partner Center e melhorias na interface de utilizador no segundo trimestre deste ano fiscal (FY21 Q2) que irão adicionar clareza e visibilidade no processo de verificação de clientes, bem como a capacidade de inserir dados mais precisos que irão impulsionar um melhor sucesso na verificação do cliente. 
+A Microsoft tem confiança e estamos empenhados em fornecer um método de validação de clientes conforme, seguro e seguro para a transação de ofertas académicas no programa Fornecedor de Soluções em Nuvem. Como parte deste compromisso, estamos a introduzir a API do Partner Center e melhorias na interface de utilizador no segundo trimestre deste ano fiscal (FY21 Q2) que irão adicionar clareza e visibilidade no processo de verificação de clientes, bem como a capacidade de inserir dados mais precisos que irão impulsionar um melhor sucesso na verificação do cliente. 
 
 #### <a name="partner-center-enhancements"></a>Melhorias do Partner Center
 
@@ -63,7 +63,7 @@ A Microsoft reserva-se o direito de rever o estado de qualquer cliente ou client
 
 ________________
 
-## <a name="updates-to-the-microsoft-365-voice-promotion"></a><a name="7"></a>Atualizações para a Promoção de Voz Microsoft 365 
+## <a name="updates-to-the-microsoft-365-voice-promotion"></a><a name="7"></a>Atualizações para a promoção de voz Microsoft 365 
 
 ### <a name="categories"></a>Categorias
 
@@ -72,7 +72,7 @@ ________________
 
 ### <a name="details"></a>Detalhes
 
-Fizemos algumas atualizações para a anunciada Promoção de Voz de Negócios da Microsoft 365. Pode obter os detalhes visitando a galeria de [recursos do Partner Center.](https://partner.microsoft.com/resources/detail/announcement-microsoft-365-business-voice-promotion-deactivation-pdf) 
+Fizemos algumas atualizações para a promoção Microsoft 365 Voz Para Empresas anunciada anteriormente. Pode obter os detalhes visitando a galeria de [recursos do Partner Center.](https://partner.microsoft.com/resources/detail/announcement-microsoft-365-business-voice-promotion-deactivation-pdf) 
 
 ________________
 
@@ -89,11 +89,11 @@ Parceiros Direct Bill e Fornecedores Indiretos que participam no programa CSP qu
 
 ### <a name="summary"></a>Resumo
 
-A partir de 21 de julho de 2020, os Parceiros podem começar a descarregar a versão do **.NET Standard SDK Microsoft Partner Center** .NET SDK v1.16.1, juntamente com **amostras atualizadas do Centro de Parceiros Públicos SDK GitHub.**
+A partir de 21 de julho de 2020, os Parceiros podem começar a descarregar a versão do **.NET Standard SDK Microsoft Partner Center** .NET SDK v1.16.1, juntamente com amostras de GitHub do **Centro De Parceiros Públicos SDK** atualizados .
 
 ### <a name="details"></a>Detalhes
 
-Os parceiros Direct Bill e Os Fornecedores Indiretos que participam no programa CSP são elegíveis para descarregar a versão mais recente do SDK padrão .NET. Estas alterações tornarão o SDK compatível com a aplicação existente utilizando o Quadro .NET 4.6.1 e superior. A Norma .NET suporta .NET Core 2.0 e superior.
+Os parceiros Direct Bill e Os Fornecedores Indiretos que participam no programa CSP são elegíveis para descarregar a versão mais recente do SDK padrão .NET. Estas alterações tornarão o SDK compatível com a aplicação existente utilizando o .NET Framework 4.6.1 e superior. A Norma .NET suporta .NET Core 2.0 e superior.
 
 Tem havido uma enorme procura por parte de parceiros que solicitam a SDK em .NET Standard. A versão atual da SDK obriga os parceiros a utilizar aplicações escritas no ASP.NET Framework, que é lenta e dispendiosa comparada com aplicações de núcleo .NET. Assim, a migração para a norma .NET pode ajudar a resolver os problemas com desempenho ou compatibilidade com .NET Core.
  
@@ -101,7 +101,7 @@ Tem havido uma enorme procura por parte de parceiros que solicitam a SDK em .NET
 - Não há mais lançamentos da Microsoft para .NET Framework 4.8, uma vez que é o último da sua linha.
 - Limita o desenvolvimento futuro, uma vez que a maioria das bibliotecas será lançada para a norma .NET Core ou .NET, que pode não suportar a versão-quadro atual.
 - .NET Core é favorável à utilização com recipientes devido à sua natureza leve.
-- O tempo de execução do servidor de alto desempenho para o Windows Server e o Linux faz do .NET Core uma estrutura web de desempenho superior.
+- O tempo de execução do servidor de alto desempenho para Windows Server e Linux faz do .NET Core uma estrutura web de desempenho superior.
 
 ### <a name="next-steps"></a>Passos Seguintes
 
@@ -125,27 +125,27 @@ Parceiros que vendem serviços online a clientes comerciais
 
 ### <a name="details"></a>Detalhes
 
-Partilhámos [no ano passado](https://partner.microsoft.com/resources/detail/power-apps-power-automate-self-service-pdf) que a Microsoft está a permitir que indivíduos e equipas adquirem serviços selecionados diretamente. Hoje anunciamos que as capacidades de compra de self-service estão para breve para os produtos Microsoft Project e Microsoft Visio. A partir de 15 de setembro de 2020, os indivíduos em todo o mundo poderão adquirir subscrições para os seguintes produtos através do self-service:
+Partilhámos [no ano passado](https://partner.microsoft.com/resources/detail/power-apps-power-automate-self-service-pdf) que a Microsoft está a permitir que indivíduos e equipas adquirem serviços selecionados diretamente. Hoje anunciamos que as capacidades de compra de self-service estão para breve para Microsoft Project e produtos microsoft Visio. A partir de 15 de setembro de 2020, os indivíduos em todo o mundo poderão adquirir subscrições para os seguintes produtos através do self-service:
 
-- [Plano Visio 1](https://products.office.com/visio/visio-plan-1?activetab=pivot:overviewtab) e [Plano Visio 2](https://www.microsoft.com/microsoft-365/visio/visio-plan-2?rtc=2&SilentAuth=1&activetab=pivot:overviewtab)
-- [Plano de Projeto 1](https://www.microsoft.com/microsoft-365/project/project-plan-1?rtc=1&activetab=pivot:overviewtab) e [Plano de Projeto 3](https://www.microsoft.com/microsoft-365/project/project-plan-3?rtc=1&activetab=pivot:overviewtab)
+- [Visio (Plano 1)](https://products.office.com/visio/visio-plan-1?activetab=pivot:overviewtab) e [Visio (Plano 2)](https://www.microsoft.com/microsoft-365/visio/visio-plan-2?rtc=2&SilentAuth=1&activetab=pivot:overviewtab)
+- [Project (Plano 1)](https://www.microsoft.com/microsoft-365/project/project-plan-1?rtc=1&activetab=pivot:overviewtab) e [Project (Plano 3)](https://www.microsoft.com/microsoft-365/project/project-plan-3?rtc=1&activetab=pivot:overviewtab)
 
 **Nota:** As capacidades de compra de self-service não estão disponíveis na Índia, nem para clientes elegíveis para ofertas governamentais ou educativas.
 
 #### <a name="partner-benefits"></a>Benefícios do parceiro
 
-Poderá oferecer os seus serviços a indivíduos e equipas sem precisar de passar pelo processo centralizado de aquisição de TI para obter licenças necessárias. Os seus serviços podem abranger o Project e o Visio, com base em cenários de integração com a Microsoft 365 e a Power Platform. 
+Poderá oferecer os seus serviços a indivíduos e equipas sem precisar de passar pelo processo centralizado de aquisição de TI para obter licenças necessárias. Os seus serviços podem abranger Project e Visio, com base em cenários de integração com Microsoft 365 e Power Platform. 
 
-Saiba mais sobre oportunidades de parceiros com soluções Visio e Power Platform na sessão Microsoft Inspire [Reconstruir e reimaginar negócios com a Microsoft Visio e a Power Platform.](https://www.microsoft.com/microsoft-365/partners/videos/inspire-visio-power-platform) Para mais informações, visite o [guia de administração de autosserviço.](/microsoft-365/commerce/subscriptions/manage-self-service-purchases-admins)
+Saiba mais sobre oportunidades de parceiros com soluções Visio e Power Platform na sessão Microsoft Inspire [Reconstruir e reimaginar negócios com a Microsoft Visio e Power Platform.](https://www.microsoft.com/microsoft-365/partners/videos/inspire-visio-power-platform) Para mais informações, visite o [guia de administração de autosserviço.](/microsoft-365/commerce/subscriptions/manage-self-service-purchases-admins)
 
 #### <a name="additional-resources"></a>Recursos adicionais
 
 - Reveja todos os recursos de prontidão na galeria de recursos de prontidão de operações: [Capacidade de compra de autosserviço do cliente.](https://partner.microsoft.com/resources/collection/customer-self-serve-purchase#/)
-- Os clientes podem tentar antes de comprar com ensaios Visio e Project, disponíveis agora para [Visio Plan 1 e Visio Plan 2](https://partner.microsoft.com/resources/collection/visio-availability-announcing-trial-offers#/), e [Plano de Projeto 1](https://www.microsoft.com/microsoft-365/project/compare-microsoft-project-management-software).
+- Os clientes podem tentar antes de comprar com Visio e Project testes, disponíveis agora para [Visio (Plano 1) e Visio (Plano 2)](https://partner.microsoft.com/resources/collection/visio-availability-announcing-trial-offers#/), e [Project (Plano 1)](https://www.microsoft.com/microsoft-365/project/compare-microsoft-project-management-software).
 
 ________________
 
-## <a name="new-microsoft-teams-advanced-communications-skus-are-now-available"></a><a name="4"></a>Novos SKUs de Comunicações Avançadas da Microsoft estão agora disponíveis
+## <a name="new-microsoft-teams-advanced-communications-skus-are-now-available"></a><a name="4"></a>Novos SKUs de Comunicações Avançadas Microsoft Teams já estão disponíveis
 ### <a name="categories"></a>Categorias
 
 - Data: 2020-08-04
@@ -153,15 +153,15 @@ ________________
 
 ### <a name="summary"></a>Resumo
 
-O novo complemento de Comunicações Avançadas SKUs para equipas da Microsoft ficou disponível a 1 de agosto de 2020.
+O novo complemento de Comunicações Avançadas para Microsoft Teams ficou disponível a 1 de agosto de 2020.
 
 ### <a name="impacted-audience"></a>Audiência impactada
 
-Todos os parceiros que transacionam através do programa Cloud Solution Provider (CSP)
+Todos os parceiros que transfiram através do programa Fornecedor de Soluções em Nuvem (CSP)
 
 ### <a name="details"></a>Detalhes
 
-O novo addon Advanced Communications para o Microsoft Teams está agora disponível por $12 por utilizador/mês. Os SKUs adicionais podem ser adquiridos em cima de qualquer outra suite Microsoft 365 que contenha Microsoft Teams. A Advanced Communications fornece um novo conjunto de capacidades para grandes reuniões, políticas de comunicação e integrações, além de ferramentas avançadas para a gestão de TI. 
+O novo complemento de Comunicações Avançadas para Microsoft Teams está agora disponível por 12 dólares por utilizador/mês. Os SKUs adicionais podem ser adquiridos em cima de qualquer outra suíte Microsoft 365 que contenha Microsoft Teams. A Advanced Communications fornece um novo conjunto de capacidades para grandes reuniões, políticas de comunicação e integrações, além de ferramentas avançadas para a gestão de TI. 
 
 #### <a name="advanced-communications-features"></a>Recursos de Comunicações Avançadas
 
@@ -169,7 +169,7 @@ Lançado no lançamento
 - Limites de eventos ao vivo para 20 K participantes (50 simultâneos, 16 horas)
 
 Lançado mais tarde no CY2020
-- Reunião de equipas interativas de 1.000 pessoas 
+- Reunião de Teams interativa de 1.000 pessoas 
 - Encontros interativos para 1.000 participantes com a capacidade de permitir até 20.000 numa experiência de encontro "apenas para ver". 
 - Lobby de reunião de marca personalizada
 - Serão adicionadas ao SKU, ao longo do ano civil, personalizações adicionais e melhorias nas comunicações
@@ -184,16 +184,16 @@ Lançado mais tarde no CY2020
 
 #### <a name="frequently-asked-questions"></a>Perguntas mais frequentes
 
-- **O que é Comunicação Avançada?** Este novo addon Microsoft Teams permite que os clientes melhorem ainda mais a sua experiência de comunicação. Pode ser adquirido em cima de qualquer Microsoft 365 SKU a que estejam subscritos.
+- **O que é Comunicação Avançada?** Este novo complemento de Microsoft Teams permite aos clientes melhorar ainda mais a sua experiência de comunicação. Pode ser adquirido em cima de qualquer Microsoft 365 SKU a que estejam subscritos.
 - **Quanto custa?** O ERP comercial custa USD $12 por utilizador/mês. 
 - **Que clientes podem comprar o addon?** Sector Público Comercial, Mundial Comercial, Educação e Sem Fins Lucrativos.
 - **Como pode ser comprado?** O addon pode ser adquirido através de EA/EAS, EES, CSP ou Web Direct.
 - **Onde pode ser vendido?** Pode ser vendido em todos os mercados atuais.
-- **Quais são os pré-requisitos?** Qualquer suite Microsoft 365/Office 365 que inclua Equipas Microsoft.
+- **Quais são os pré-requisitos?** Qualquer suíte Microsoft 365/Office 365 que inclua Microsoft Teams.
 
 ### <a name="next-steps"></a>Passos Seguintes
 
-- Partilhe esta informação com os contactos relevantes na sua organização e compreenda as oportunidades de venda e venda cruzada. Reveja a secção de recursos do [Guia de Parceiros de Equipas.](https://aka.ms/teamscallingmeetingsguide)
+- Partilhe esta informação com os contactos relevantes na sua organização e compreenda as oportunidades de venda e venda cruzada. Reveja a secção de recursos do [Guia de Parceiros Teams](https://aka.ms/teamscallingmeetingsguide).
 
 ________________
 
@@ -209,7 +209,7 @@ Todos os parceiros participantes no programa CSP
 
 ### <a name="details"></a>Detalhes
 
-Microsoft Defender Advanced Threat Protection (ATP) for Servers for Education available in Cloud Solution Provider (CSP) program on September 1, 2020.
+Microsoft Defender Advanced Threat Protection (ATP) for Servers for Education disponível no programa Fornecedor de Soluções em Nuvem (CSP) a 1 de setembro de 2020.
 
 #### <a name="product-details"></a>Detalhes do produto
 
@@ -223,7 +223,7 @@ Microsoft Defender Advanced Threat Protection (ATP) for Servers for Education av
 
 ________________
 
-## <a name="new-dynamics-365-sales-premium-bundle-offer"></a><a name="2"></a>Oferta de pacote New Dynamics 365 Sales Premium
+## <a name="new-dynamics-365-sales-premium-bundle-offer"></a><a name="2"></a>Oferta de pacote de Premium de vendas new Dynamics 365
 ### <a name="categories"></a>Categorias
 
 - Data: 2020-08-03
@@ -235,13 +235,13 @@ Parceiros que transacionam a Microsoft Dynamics 365
 
 ### <a name="summary"></a>Resumo
 
-Em 1 de agosto de 2020, a Microsoft lançou uma nova oferta de pacotes Dynamics 365 Sales Premium para clientes comerciais em todos os programas, e países e regiões.
+Em 1 de agosto de 2020, a Microsoft lançou uma nova oferta de pacote de vendas dynamics 365 Premium para clientes comerciais em todos os programas, e países e regiões.
 
 ### <a name="details"></a>Detalhes
 
-A partir de 1 de agosto de 2020, a Microsoft lançou uma nova oferta de pacotes Dynamics 365 Sales Premium para clientes em todos os programas, e países e regiões onde a Dynamics 365 Enterprise e a Dynamics 365 Sales Insights já estão disponíveis.
+A partir de 1 de agosto de 2020, a Microsoft lançou uma nova oferta de pacote de vendas dynamics 365 Premium para clientes em todos os programas, e países e regiões onde a Dynamics 365 Enterprise e a Dynamics 365 Sales Informações já estão disponíveis.
 
-Reveja o [documento Dynamics CSP Offers-August Excel 2020](https://partner.microsoft.com/resources/collection/microsoft-dynamics-365-power-platform-offers-products-fraud-protection-vl-csp-collection#/) para mais detalhes sobre estas ofertas. 
+Reveja o [documento de Excel da Dynamics CSP Offers-August 2020](https://partner.microsoft.com/resources/collection/microsoft-dynamics-365-power-platform-offers-products-fraud-protection-vl-csp-collection#/) para mais detalhes sobre estas ofertas. 
 
 #### <a name="additional-resources"></a>Recursos adicionais
 
@@ -254,7 +254,7 @@ Partilhe esta informação com os contactos adequados na sua organização e fam
 
 ________________
 
-## <a name="announcing-the-availability-of-visio-plan-1-and-plan-2-trial-offers"></a><a name="1"></a>Anunciando a disponibilidade do Plano Visio 1 e do Plano 2 Ofertas experimentais 
+## <a name="announcing-the-availability-of-visio-plan-1-and-plan-2-trial-offers"></a><a name="1"></a>Anunciando a disponibilidade de ofertas de Visio (Plano 1) e Plano 2 
 
 ### <a name="categories"></a>Categorias
 
@@ -263,39 +263,39 @@ ________________
 
 ### <a name="impacted-audience"></a>Audiência impactada
 
-Todos os parceiros que participam no programa Cloud Solution Provider (CSP)
+Todos os parceiros que participam no programa Fornecedor de Soluções em Nuvem (CSP)
 
 ### <a name="summary"></a>Resumo
 
-A Microsoft está a introduzir ofertas de teste para o Visio Plan 1 e o Plan 2 a partir de 1 de agosto de 2020. 
+A Microsoft está a introduzir ofertas de testes para Visio (Plano 1) e Plano 2 a partir de 1 de agosto de 2020. 
 
 ### <a name="details"></a>Detalhes
 
-O Microsoft Visio permite que os utilizadores criem diagramas profissionais sem esforço, colaborem de forma mais eficiente, conectem-se a dados em tempo real e automatizem fluxos de trabalho. As ofertas de teste para o Plano 1 e Plano 2 estarão disponíveis a partir de 1 de agosto de 2020.
+O Microsoft Visio permite que os utilizadores criem diagramas profissionais sem esforço, colaborem de forma mais eficiente, conectem-se a dados em tempo real e automatizam fluxos de trabalho. As ofertas de ensaio para Visio (Plano 1) e Plano 2 estarão disponíveis a partir de 1 de agosto de 2020.
 
-O Microsoft Visio pode ser utilizado em várias indústrias e funções com integração nas soluções Microsoft 365, Microsoft Teams e Power Platform. Dê aos seus clientes as ferramentas necessárias para gerirem os seus negócios.
+A Microsoft Visio pode ser usada em várias indústrias e funções com integração em soluções Microsoft 365, Microsoft Teams e Power Platform. Dê aos seus clientes as ferramentas necessárias para gerirem os seus negócios.
 
 #### <a name="what-are-the-partner-benefits"></a>Quais são os benefícios do parceiro?
 
 Microsoft Visio é um produto que o ajudará:
 
 - Use o modelo de gráfico organizacional e cenários de integração com Excel e Power BI para construir uma estrutura organizacional sustentável
-- Planeie um regresso seguro ao local de trabalho com plantas visio para incorporar orientações de distanciamento social
-- Adaptar modelos de negócio: A análise de negócios está no cerne da proposta de valor visio. Adaptar os modelos de negócio à nova forma de trabalhar mapeando e redesenhar processos de negócio críticos com Visio e obter informações oportunas com diagramas de Power BI e Visio incorporados nessa aplicação. 
+- Planeie um regresso seguro ao local de trabalho com Visio plantas para incorporar orientações de distanciamento social
+- Adaptar modelos de negócio: A análise de negócios está no centro da proposta de valor Visio. Adaptar os modelos de negócio à nova forma de trabalhar mapeando e redesenhar processos de negócio críticos com Visio e obter informações oportunas de dados com Power BI e diagramas de Visio incorporados nessa aplicação. 
 - Foco na redução de valor e custos: Identifique e automatize processos repetitivos e ajude os seus clientes a desenvolver cargas de trabalho de self-service para funções funcionais comuns como gestão de TI, Recursos Humanos, entre outros.
 
-Estamos oferecendo um teste gratuito de 30 dias para Visio Plan 1 e Visio Plan 2 para ajudar os seus clientes a experimentar estes benefícios. Os parceiros podem encontrar testes na lista de preços mensais na página de preços e ofertas no Partner Center. As ofertas de ensaio terão "TRIAL" listadas na coluna De Tipo de Licença Secundária da lista de preços.
+Estamos oferecendo um teste gratuito de 30 dias para Visio (Plano 1) e Visio (Plano 2) para ajudar os seus clientes a experimentar estes benefícios. Os parceiros podem encontrar testes na lista de preços mensais na página de preços e ofertas no Partner Center. As ofertas de ensaio terão "TRIAL" listadas na coluna De Tipo de Licença Secundária da lista de preços.
 
 #### <a name="offer-details"></a>Oferecer detalhes
 
    |**Nome da oferta**|**ID da oferta**|
    |-------------------|:------|
-   |Julgamento do Plano 1 do Visio|7b6bb5a6-15c9-4ede-8eba-e2dfe2118b69|
-   |Julgamento do Plano Visio 2|20f1b560-c19a-4fc7-abc0-d8a797c06338|
+   |Visio (Plano 1) Julgamento|7b6bb5a6-15c9-4ede-8eba-e2dfe2118b69|
+   |Visio (Plano 2) Julgamento|20f1b560-c19a-4fc7-abc0-d8a797c06338|
 
 ### <a name="next-steps"></a>Passos Seguintes
 
-- Saiba mais sobre o Plano 1 e Plano 2 na Galeria de Recursos de [Operações](https://partner.microsoft.com/resources/collection/visio-availability-announcing-trial-offers#/) 
+- Saiba mais sobre Visio (Plano 1) e Plano 2 na [Galeria de Recursos de Operações](https://partner.microsoft.com/resources/collection/visio-availability-announcing-trial-offers#/) 
 - Recomendamos também a visualização da sessão Inspire sobre [ajudar os clientes a recuperar e reimaginar negócios com a Microsoft Visio e a Power Platform.](https://www.microsoft.com/microsoft-365/partners/videos/inspire-visio-power-platform)
 
 ________________

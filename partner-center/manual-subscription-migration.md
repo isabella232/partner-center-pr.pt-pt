@@ -3,18 +3,18 @@ title: Migrar Dinâmicas 365 subscrições
 ms.topic: article
 ms.date: 05/18/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-pricing
 description: Saiba como migrar de subscrições básicas e qualificadas da Dynamics 365 para uma nova subscrição antes de expirarem as subscrições existentes.
 author: Brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5ba6992eff64031aed0dafeb5a5010983396ab63
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 3315fe6428613c882bc654d03ce74a57303fba88
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110151649"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114839719"
 ---
 # <a name="migrate-dynamics-365-and-customer-engagement-plan-from-basic-qualified-offers-to-newer-versions"></a>Migrate Dynamics 365 and Customer Engagement Plan from Basic (qualified offers) to newer versions (Migrar o Dynamics 365 e o Customer Engagement Plan da versão Básica (ofertas qualificadas) para versões mais recentes)
 
@@ -28,30 +28,30 @@ Se utilizar a API (CREST ou Partner Center), pode encontrar subscrições caduca
 
 ### <a name="the-dynamics-365-offers-being-retired"></a>A Dynamics 365 oferece a reforma
 
-- Dinâmica 365 para Venda Enterprise Edition CRMOL Basic (Oferta Qualificada)
-- Dinâmica 365 para Venda Enterprise Edition CRMOL Basic (Oferta Qualificada) para Faculdade
-- Dinâmica 365 para Sales Enterprise Edition CRMOL Basic (Oferta Qualificada) para Estudantes
-- Dinâmica 365 para Venda Enterprise Edition (Preço do Governo) CRMOL Basic (Oferta Qualificada)
-- Dinâmica 365 para Venda Enterprise Edition Da SA para CRM Basic (Oferta Qualificada)
-- Dinâmica 365 para Venda Enterprise Edition From SA for CRM Basic (Oferta Qualificada) para Faculdade
-- Dinâmica 365 para Venda Enterprise Edition From SA for CRM Basic (Oferta Qualificada) para Estudantes
-- Dinâmica 365 para Venda Enterprise Edition (Preço do Governo) A partir de SA para CRM Basic (Oferta Qualificada)
-- Dinâmica 365 para Venda Enterprise Edition Add-On para CRM Basic (Oferta Qualificada)
-- Dinâmica 365 para Venda Enterprise Edition Add-On para CRM Basic (Oferta Qualificada) para Faculdade
-- Dinâmica 365 para Venda Enterprise Edition Add-On para CRM Basic (Oferta Qualificada) para Estudantes
-- Dinâmica 365 para Venda Enterprise Edition (Preço do Governo) Add-On para CRM Basic (Oferta Qualificada)
-- Dinâmica 365 Plano de Envolvimento com o Cliente Enterprise Edition CRMOL Basic (Oferta Qualificada)
-- Dinâmica 365 Plano de Envolvimento com o Cliente Enterprise Edition (Preço do Governo) CRMOL Basic (Oferta Qualificada)
-- Dinâmica 365 Plano de Envolvimento com o Cliente Enterprise Edition CRMOL Basic (Oferta Qualificada) para Estudantes
-- Dinâmica 365 Plano de Envolvimento com o Cliente Enterprise Edition CRMOL Basic (Oferta Qualificada) para Faculdade
-- Dinâmica 365 Plano de Envolvimento com o Cliente Edição Empresarial da SA para CRM Basic (Oferta Qualificada)
-- Dinâmica 365 Plano de Envolvimento com o Cliente Enterprise Edition (Preço do Governo) A partir de SA para CRM Basic (Oferta Qualificada)
-- Dinâmica 365 Plano de Envolvimento com o Cliente Edição Empresarial da SA para CRM Basic (Oferta Qualificada) para Estudantes
-- Dinâmica 365 Plano de Envolvimento com o Cliente Edição Empresarial da SA para CRM Basic (Oferta Qualificada) para Faculdade
-- Dinâmica 365 Plano de Envolvimento com o Cliente Enterprise Edition Add-On para CRM Basic (Oferta Qualificada)
-- Dinâmica 365 Plano de Envolvimento com o Cliente Enterprise Edition (Preço do Governo) Add-On para CRM Basic (Oferta Qualificada)
-- Dinâmica 365 Plano de Envolvimento com o Cliente Enterprise Edition Add-On para CRM Basic (Oferta Qualificada) para Estudantes
-- Dinâmica 365 Plano de Envolvimento com o Cliente Enterprise Edition Add-On para CRM Basic (Oferta Qualificada) para Faculdade
+- Dinâmica 365 para Vendas Enterprise Edition CRMOL Basic (Oferta Qualificada)
+- Dinâmica 365 para Vendas Enterprise Edition CRMOL Basic (Oferta Qualificada) para Faculdade
+- Dinâmica 365 para Vendas Enterprise Edition CRMOL Basic (Oferta Qualificada) para Estudantes
+- Dinâmica 365 para vendas Enterprise Edition (Preço do Governo) CRMOL Basic (Oferta Qualificada)
+- Dinâmica 365 para vendas Enterprise Edition DA SA para CRM Basic (Oferta Qualificada)
+- Dinâmica 365 para vendas Enterprise Edition da SA para CRM Basic (Oferta Qualificada) para Faculdade
+- Dinâmica 365 para vendas Enterprise Edition da SA para CRM Basic (Oferta Qualificada) para Estudantes
+- Dinâmica 365 para vendas Enterprise Edition (Preço do Governo) A partir de SA para CRM Basic (Oferta Qualificada)
+- Dinâmica 365 para vendas Enterprise Edition Add-On para CRM Basic (Oferta Qualificada)
+- Dinâmica 365 para vendas Enterprise Edition Add-On para CRM Basic (Oferta Qualificada) para Faculdade
+- Dinâmica 365 para vendas Enterprise Edition Add-On para CRM Basic (Oferta Qualificada) para Estudantes
+- Dinâmica 365 para Enterprise Edition de Vendas (Preço do Governo) Add-On para CRM Basic (Oferta Qualificada)
+- Dinâmica 365 Plano de Envolvimento do Cliente Enterprise Edition CRMOL Basic (Oferta Qualificada)
+- Dinâmica 365 Plano de Envolvimento do Cliente Enterprise Edition (Preço do Governo) CRMOL Basic (Oferta Qualificada)
+- Dinâmica 365 Plano de Envolvimento do Cliente Enterprise Edition CRMOL Basic (Oferta Qualificada) para Estudantes
+- Dinâmica 365 Plano de Envolvimento do Cliente Enterprise Edition CRMOL Basic (Oferta Qualificada) para Faculdade
+- Dinâmica 365 Plano de Envolvimento do Cliente Enterprise Edition da SA para CRM Basic (Oferta Qualificada)
+- Dinâmica 365 Plano de Envolvimento do Cliente Enterprise Edition (Preço do Governo) A partir de SA para CRM Basic (Oferta Qualificada)
+- Dinâmica 365 Plano de Envolvimento do Cliente Enterprise Edition da SA para CRM Basic (Oferta Qualificada) para Estudantes
+- Dinâmica 365 Plano de Envolvimento do Cliente Enterprise Edition da SA para CRM Basic (Oferta Qualificada) para Faculdade
+- Dinâmica 365 Plano de Envolvimento do Cliente Enterprise Edition Add-On para CRM Basic (Oferta Qualificada)
+- Dinâmica 365 Plano de Envolvimento do Cliente Enterprise Edition (Preço do Governo) Add-On para CRM Basic (Oferta Qualificada)
+- Dinâmica 365 Plano de Envolvimento do Cliente Enterprise Edition Add-On para CRM Basic (Oferta Qualificada) para Estudantes
+- Dinâmica 365 Plano de Envolvimento do Cliente Enterprise Edition Add-On para CRM Basic (Oferta Qualificada) para Faculdade
 
 
 

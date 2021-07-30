@@ -1,7 +1,7 @@
 ---
 title: Verifique o perfil da empresa
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-enroll
 description: Saiba como verificar os detalhes da sua empresa, como contacto primário, endereço e informações do programa. Também pode atualizar os seus endereços legais e de faturação.
 author: parthpandyaMSFT
 ms.author: parthp
@@ -9,14 +9,14 @@ ms.topic: how-to
 ms.date: 04/12/2021
 ms.localizationpriority: medium
 ms.custom: contperf-fy21q4
-ms.openlocfilehash: 9f9a055ce3bfbff568287267b74b04e8f9d03ad1
-ms.sourcegitcommit: 8235c89e789cdb5115fc1c19151fa8e97c743fe5
+ms.openlocfilehash: 5b45b6705effae073fd7c41397b0fa020b830cf7
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "113080627"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114845844"
 ---
-# <a name="verify-or-update-your-company-profile-information"></a>Verifique ou atualize as informações do perfil da empresa 
+# <a name="verify-or-update-your-company-profile-information"></a>Verificar ou atualizar as informações do perfil da empresa 
 
 **Funções adequadas**: Administração global | Administrador de conta MPN
 
@@ -44,12 +44,12 @@ Atualize o nome ou endereço da sua empresa legal no Partner Center.
 
 >[!Important]
 >- Para as contas da Microsoft Partner Network (MPN), tanto o administrador global como o administrador de conta podem atualizar o nome da empresa legal.
->- Para as contas de revendedor indiretos Cloud Solution Provider (CSP), apenas o administrador Global pode atualizar o nome da empresa legal. 
+>- Para Fornecedor de Soluções em Nuvem (CSP) Contas de revendedor indiretos, apenas o administrador Global pode atualizar o nome da empresa legal. 
 >- Os sócios de contas diretas e os fornecedores indiretos não podem alterar o nome legal da sua empresa se o estado de verificação da conta for **autorizado.** Se precisar de alterar o nome, tem de criar um [bilhete De Apoio.](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772)
 
 
 
-1. No Partner Center, selecione **Definições**, selecione **definições de Conta** e, em seguida, selecione **o perfil da Organização**.
+1. No Partner Center, selecione **Definições**, selecione **as definições de Conta** e, em seguida, selecione o perfil da **Organização**.
 
 2. Selecione **Legal** e, em seguida, selecione o perfil de negócio legal (Parceiro ou Revendedor) que pretende atualizar.
 
@@ -63,7 +63,7 @@ Atualize o nome ou endereço da sua empresa legal no Partner Center.
 >Se é sócio da CSP, não pode mudar o país associado à sua morada legal. O seu país de endereço legal está ligado ao seu inquilino e serviços, bem como à moeda com que negoceia. Para saber mais sobre as atualizações do país da MPN, leia  [as atualizações do país da MPN](manage-locations.md#change-country-of-partner-global-account).
 
 
-### <a name="who-can-update-legal-business-name-and-when"></a>Quem pode atualizar o nome legal do negócio e quando
+### <a name="who-can-update-legal-business-name-and-when"></a>Quem pode atualizar nome de negócios legais e quando
 
 |**Programa**|**Quem pode atualizar o nome da empresa**|**Quando (estado) pode ser atualizado**|**Permitido**|
 |---------------------|:-------------------------------|:------------|:-----------------|
@@ -82,7 +82,7 @@ Para então fazer estas atualizações, você precisa ser o administrador global
 
 Para atualizar o ID MPN associado à sua conta CSP:
 
-1. Inscreva-se no [painel de instrumentos](https://partner.microsoft.com/dashboard/home) do Partner Center como administrador global com as suas credenciais de conta CSP e, em seguida, selecione **Definições**. (As suas credenciais MPN e CSP podem ser diferentes.)
+1. Inscreva-se no [painel de instrumentos](https://partner.microsoft.com/dashboard/home) do Partner Center como administrador global com as suas credenciais de conta CSP e, em seguida, selecione **Definições**. (As credenciais do MPN e CSP podem ser diferentes.)
  
 1. Selecione **identificadores** a partir das **definições** de Conta .
 

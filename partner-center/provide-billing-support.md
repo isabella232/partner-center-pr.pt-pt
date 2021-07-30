@@ -3,18 +3,18 @@ title: Dar suporte de faturação aos clientes
 ms.topic: article
 ms.date: 06/05/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
-description: Conheça o suporte de faturação do cliente necessário aos parceiros do programa Cloud Solution Provider (CSP). Este suporte inclui a detenção da relação de faturação do cliente e a resposta a questões de faturação.
+ms.subservice: partnercenter-billing
+description: Conheça o suporte de faturação do cliente necessário dos parceiros de programa Fornecedor de Soluções em Nuvem (CSP). Este suporte inclui a detenção da relação de faturação do cliente e a resposta a questões de faturação.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ab9ac3c7ba8e718c3b154e81649965457a4cf7ff
-ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
+ms.openlocfilehash: 40bf13a114eeb2eaaaf8fcae76d52de13d206d9d
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "112551329"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114845946"
 ---
 # <a name="provide-billing-support-for-your-customers-and-help-answer-their-billing-questions"></a>Fornecer suporte de faturação para os seus clientes e ajudar a responder às suas questões de faturação
 
@@ -31,7 +31,7 @@ ms.locfileid: "112551329"
 
 ## <a name="microsoft-partner-support-guidance"></a>Orientação de suporte de parceiro da Microsoft
 
-Os parceiros que transacionam no modelo Cloud Solution Provider (CSP) são o conselheiro de confiança dos seus clientes e são donos da relação de ponta a ponta, incluindo suporte quando o seu cliente tem uma questão ou problema. Através de pontos de toque de suporte os parceiros podem aprender mais sobre o cliente, e o seu negócio, para identificar novos serviços e soluções que impulsionam o valor.
+Os parceiros que transacionam no modelo Fornecedor de Soluções em Nuvem (CSP) são o conselheiro de confiança dos seus clientes e possuem a relação de ponta a ponta, incluindo suporte quando o seu cliente tem uma questão ou problema. Através de pontos de toque de suporte os parceiros podem aprender mais sobre o cliente, e o seu negócio, para identificar novos serviços e soluções que impulsionam o valor.
 
 Para cumprir o requisito de suporte, o parceiro pode revender o suporte de outra entidade, pode subcontratar a totalidade ou parte da sua estrutura de suporte e/ou pode criar uma estrutura para fornecer suporte diretamente.  O parceiro pode cobrar a totalidade ou parte do apoio prestado aos clientes. O parceiro deve articular aos seus clientes o suporte que irá fornecer, as horas de serviço e o método de contacto, e o preço (se cobrar por suporte). 
 
@@ -56,7 +56,7 @@ Cada serviço online tem requisitos específicos e detalhados para fornecer fatu
 
 - [Assinaturas Azure vendidas através da CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
 
-- [Escritório 365 assinaturas vendidas através da CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
+- [Office 365 subscrições vendidas através da CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
  
 ## <a name="next-steps"></a>Passos seguintes
 

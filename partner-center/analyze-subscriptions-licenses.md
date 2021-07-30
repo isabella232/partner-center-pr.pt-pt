@@ -2,19 +2,19 @@
 title: Analisar subscrições e licenças
 description: Saiba como usar as métricas na página de subscrição e análise de licenças para identificar os seus sucessos e áreas que precisam de mais atenção.
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 author: amitravat
 ms.author: amrava
 ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
 ms.date: 03/31/2021
-ms.openlocfilehash: 45a0ebb70f6e139b1e130c3cfc1d24eb79b41a0d
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 393f0ee6c49cbbdf814a823f732bb4b92d4deb2e
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110150153"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114839078"
 ---
 # <a name="analyze-subscriptions-and-licenses-to-help-you-drive-business-decisions-and-new-goals"></a>Analise subscrições e licenças para ajudá-lo a impulsionar decisões de negócios e novos objetivos
 
@@ -32,8 +32,8 @@ O resto do relatório pode ser pivotado com base nos seguintes produtos:
 
  - **Dinâmica 365**: Dinâmica 365 dados  
  - **EMS**: Dados dos Serviços de Gestão empresarial  
- - **Microsoft 365**: Dados da Microsoft 365  
- - **Escritório 365**: Dados do Office 365  
+ - **Microsoft 365:** dados Microsoft 365  
+ - **Office 365:** dados Office 365  
 
 
 ## <a name="types-of-subscription-and-license-metrics-you-can-view"></a>Tipos de métricas de subscrição e licença que pode ver

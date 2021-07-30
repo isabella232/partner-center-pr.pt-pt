@@ -1,31 +1,31 @@
 ---
-title: Vender reservas microsoft Azure
-description: Como Cloud Solution Provider, pode comprar, vender ou gerir reservas da Azure para os clientes. Use Partner Center, o portal Azure ou a API do Centro Parceiro.
+title: Venda de clientes Microsoft Azure reservas
+description: Como Fornecedor de Soluções em Nuvem, pode comprar, vender ou gerir reservas da Azure para os clientes. Use Partner Center, o portal Azure ou a API do Centro Parceiro.
 ms.topic: article
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-pricing
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 08/06/2020
-ms.openlocfilehash: b97cafea9ad2f36718418c7c7cfca5f91ee8849c
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 10a9789d10d03a1a6ddd0aa2cd5ccc0e320b9c07
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110149473"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114838330"
 ---
-# <a name="sell-microsoft-azure-reservations-to-customers-using-partner-center-the-azure-portal-or-apis"></a>Venda reservas do Microsoft Azure a clientes que usam Partner Center, o portal Azure ou APIs
+# <a name="sell-microsoft-azure-reservations-to-customers-using-partner-center-the-azure-portal-or-apis"></a>Venda Microsoft Azure reservas a clientes que usam Partner Center, o portal Azure ou APIs
 
 **Funções adequadas**: Agente administrador | Administração global | Agente helpdesk | Agente comercial | Administração de gestão de utilizadores
 
-Como parceiro no programa Cloud Solution Provider (CSP), pode comprar, vender ou gerir reservas Azure para os clientes. Use Partner Center, o portal Azure ou a API do Centro Parceiro.
+Como parceiro no programa Fornecedor de Soluções em Nuvem (CSP), pode comprar, vender ou gerir reservas Azure para os clientes. Use Partner Center, o portal Azure ou a API do Centro Parceiro.
 
 > [!NOTE]
-> Este artigo aplica-se apenas aos sócios da CSP. Os clientes que utilizem outros tipos de subscrições (tais como, pay-as-you-go, individual, Microsoft Customer Agreement ou Enterprise Agreement) devem, em vez disso, ler [esta documentação de reservas Azure](/azure/cost-management-billing/reservations).
+> Este artigo aplica-se apenas aos sócios da CSP. Os clientes que utilizem outros tipos de subscrições (como, por exemplo, pay-as-you-go, individual, Microsoft Customer Agreement ou Contrato Enterprise subscrições) devem, em vez disso, ler [esta documentação de reservas Azure](/azure/cost-management-billing/reservations).
 
-Os parceiros do programa CSP podem oferecer reservas aos seus clientes Microsoft Azure. Os clientes podem obter poupanças significativas quando reservam antecipadamente. As reservas Azure oferecem aos clientes simplicidade e flexibilidade das seguintes formas:
+Os parceiros do programa CSP podem oferecer aos seus clientes reservas Microsoft Azure. Os clientes podem obter poupanças significativas quando reservam antecipadamente. As reservas Azure oferecem aos clientes simplicidade e flexibilidade das seguintes formas:
 
 - Termos de reserva de um ou três anos
 - Fácil de começar; configuração concluída em segundos
@@ -37,7 +37,7 @@ As reservas da Azure podem apelar aos clientes das seguintes formas:
 - As reservas podem oferecer poupanças significativas em relação aos preços de pay-as-you-go (PAYG)
 - Melhor orçamentação e previsão com pagamento antecipado para prazos de um ano ou três anos
 - Capacidade de computação prioritária na região de Azure mais próxima dos seus escritórios
-- As reservas do Azure fornecem as bases para soluções de infraestrutura final quando combinadas com software como o Microsoft Windows Server e a Azure SQL Database
+- As reservas do Azure fornecem as bases para soluções de infraestrutura final quando combinadas com software como o Microsoft Windows Server e Base de Dados SQL do Azure
 
 >[!NOTE]
 > Você pode comprar, vender e gerir reservas Azure tanto no Centro de Parceiros como no portal Azure, e usando a API do Partner Center. Também pode dar permissão aos seus clientes para comprarem as suas próprias reservas Azure a partir de uma subscrição da Azure que adquiriu para eles. Siga os links abaixo para saber como.

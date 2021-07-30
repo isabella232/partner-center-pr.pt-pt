@@ -3,18 +3,18 @@ title: Configurar os seus utilizadores com a autenticação multifator
 ms.topic: how-to
 ms.date: 12/15/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
+ms.subservice: partnercenter-enroll
 description: Saiba como configurar os seus colaboradores com a MFA
 author: vijvala
 ms.author: vijvala
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9cdb83c8b58b75606275c9773cba79eba75d5d0d
-ms.sourcegitcommit: 7cc83714e17337b472727819243f98c84ae181ba
+ms.openlocfilehash: ee457193a23de0601b60b2291cdee985aceaaeb8
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/22/2021
-ms.locfileid: "112450812"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114846116"
 ---
 # <a name="set-up-your-users-with-multi-factor-authentication"></a>Configurar os seus utilizadores com a autenticação multifator
 
@@ -39,7 +39,7 @@ Isto permitirá o MFA para este utilizador. Ativado significa que o utilizador s
 >[!NOTE]
 >Pode **impor aos** seus utilizadores a utilização de MFA utilizando os mesmos passos acima e selecionando **Enforce**. Para saber mais, leia [Ativar a autenticação multi-factor Azure por utilizador para garantir eventos de entrada.](/azure/active-directory/authentication/howto-mfa-userstates) 
 
-Todos os utilizadores começam **desativados.** Quando inscreve os utilizadores na autenticação multi-factor do Diretório Ativo Azure por utilizador, o estado muda para **Enabled**. Quando os utilizadores ativados iniciaram o seu registo e completam o processo de registo, as alterações de estado para **Aplicadas**. 
+Todos os utilizadores começam **desativados.** Quando inscreve os utilizadores na autenticação multi-factor Azure Ative Directory por utilizador, o seu estado muda para **Enabled**. Quando os utilizadores ativados iniciaram o seu registo e completam o processo de registo, as alterações de estado para **Aplicadas**. 
 
 ## <a name="next-steps"></a>Passos seguintes
 

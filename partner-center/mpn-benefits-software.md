@@ -3,18 +3,18 @@ title: Benefícios MPN - Software
 ms.topic: article
 ms.date: 03/05/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
+ms.subservice: partnercenter-benefits
 description: Conheça os produtos de software on-premidos oferecidos como benefícios da Microsoft Partner Network (MPN)
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 846bad6bdde080288bc7dd916e389dd86b5315f0
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 7544a090b447af37f06ddf31606794a00f357b05
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110146294"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114845997"
 ---
 # <a name="mpn-benefits---software"></a>Benefícios MPN - Software
 
@@ -30,7 +30,7 @@ Selecione o produto de interesse do software e encontre as instruções específ
 
 Se um produto necessitar de uma chave de produto para a instalação, será solicitado que introduza uma chave do produto durante o processo de instalação. Você pode obter a partir do mesmo painel no Partner Center onde você escolheu a versão do software que você quer baixar.
 
-A ativação do produto é necessária para o **Windows Server** e **sistemas operativos** do cliente e **todas as aplicações do cliente do Microsoft Office.** Nem todos os produtos requerem ativação do produto.
+A ativação do produto é necessária para Windows **sistemas operativos** **do Servidor** e clientes e **todas as aplicações Microsoft Office clientes**. Nem todos os produtos requerem ativação do produto.
 
 :::image type="content" source="images/benefits/mpn-software-benefits-1.png" alt-text="Benefícios do produto de software disponíveis no MPN." border="false":::
 
@@ -46,7 +46,7 @@ O número de ativações contadas contra uma chave do produto baseia-se em cená
 
 ## <a name="troubleshooting-scenarios"></a>Cenários de resolução de problemas
 
-- **Mensagem "Não há mais detalhes disponíveis" exibida para os benefícios cals (Licença de acesso ao cliente do Windows Server)**
+- **"Não há mais detalhes disponíveis" para os benefícios cals (Windows Servidor De Acesso ao Cliente)**
 
     Os CALs não são um produto transferível. A ativação dos CALs é gerida no próprio produto Server.
 

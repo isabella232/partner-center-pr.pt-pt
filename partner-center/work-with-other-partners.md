@@ -3,24 +3,24 @@ title: Trabalhar com outros parceiros
 ms.topic: article
 ms.date: 11/29/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
-description: Saiba como os fornecedores indiretos se associam a revendedores indiretos no programa Cloud Solution Provider (CSP) e determine qual o papel certo para si.
+ms.subservice: partnercenter-customers
+description: Saiba como os fornecedores indiretos se associam a revendedores indiretos no programa Fornecedor de Soluções em Nuvem (CSP) e determine qual o papel certo para si.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d8370b213a3d0fd96a4d2ef457de1140ee4549f6
-ms.sourcegitcommit: 837d3c5b52ab056b2b761cd85eb2426f56b62614
+ms.openlocfilehash: 93ebd29529812535d2847485d2c9fe751fa5a9f8
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109794892"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114845673"
 ---
 # <a name="different-ways-you-can-work-with-other-partners-in-partner-center"></a>Diferentes formas de trabalhar com outros parceiros no Partner Center
 
 **Funções adequadas**: Administração de contas
 
-O programa Cloud Solution Provider (CSP) da Microsoft oferece oportunidades para os parceiros trabalharem em conjunto desta forma.
+O programa Fornecedor de Soluções em Nuvem da Microsoft (CSP) oferece oportunidades para os parceiros trabalharem em conjunto desta forma.
 
 ## <a name="indirect-provider-indirect-reseller-model"></a>Modelo de revendedor indireto fornecedor-indireto
 
@@ -42,7 +42,7 @@ Não tem a certeza se deve inscrever-se na CSP como revendedor indireto ou como 
 
 ## <a name="multi-partner-support"></a>Suporte de vários parceiros
 
-A funcionalidade multi-parceira do Partner Center suporta cenários quando um cliente precisa de trabalhar com mais do que um parceiro. Por exemplo, podem querer contratar um parceiro pela sua experiência no Office 365, mas também contratar um parceiro diferente especializado na Microsoft Azure. Consulte [o suporte de vários parceiros](multipartner.md) para obter mais informações.
+A funcionalidade multi-parceira do Partner Center suporta cenários quando um cliente precisa de trabalhar com mais do que um parceiro. Por exemplo, podem querer contratar um parceiro pela sua experiência em Office 365, mas também contratar um parceiro diferente especializado em Microsoft Azure. Consulte [o suporte de vários parceiros](multipartner.md) para obter mais informações.
 
 O suporte multi-parceiro também está disponível nas ofertas nacionais de cloud da Microsoft.
 

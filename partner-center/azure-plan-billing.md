@@ -3,18 +3,18 @@ title: Faturação do plano Azure - fatura & arquivos de reconhecimento
 ms.topic: article
 ms.date: 05/19/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-billing
 description: Saiba como aceder e compreender a estrutura de ficheiros de fatura e reconciliação relacionada com a faturação do plano Azure.
 author: khpavan
 ms.author: sakhanda
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c7c06f5ed7b147625afb5020f63ead411ef58fa8
-ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
+ms.openlocfilehash: 08b5dc73868b061b7941e6862439e226c6bb9a7a
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "112551525"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114838432"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>Nova experiência comercial no CSP – faturação do Azure 
 
@@ -80,11 +80,11 @@ Para aceder à fatura e ao ficheiro de reconciliação:
     - Grupo de Recursos 2
         - Máquina virtual (recurso)
             - Medidor de computador
-        - Disco gerido por SSD premium (recurso)
-            - Contador de capacidade de armazenamento
-            - Contador de operações de armazenamento
+        - Premium Disco gerido por SSD (recurso)
+            - contador de capacidade Armazenamento
+            - contador de operações Armazenamento
 
-- Assinatura B -ResourceGroup 1 - Azure SQL (recurso) - Medidor DTU - VPN Gateway (recurso) - Medidor de gateway VPN
+- Assinatura B -Grupo de Recursos 1 - Azure SQL (recurso) - Medidor DTU - VPN Gateway (recurso) - Medidor de gateway VPN
 
     - Grupo de Recursos 2
         - Interface de rede virtual (recurso)

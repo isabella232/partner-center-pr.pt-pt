@@ -3,24 +3,24 @@ title: Anúncios de fevereiro de 2020
 description: Anúncios de fevereiro de 2020 para o Microsoft Partner Center, como novas capacidades, promoções, ofertas, mercados ou alterações às ofertas existentes.
 ms.topic: article
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-action-center
 author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/01/2020
-ms.openlocfilehash: 7e608752b76c940e83434d7ec7daf3e4058512bd
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: 59884a0bcf25af224bb37035625a608737118ec7
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93132849"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114838993"
 ---
 # <a name="february-2020-announcements"></a>Anúncios de fevereiro de 2020
 
 Esta página detalha os anúncios para o Microsoft Partner Center CSP para fevereiro de 2020.
 
-Anúncios de 2020: [janeiro de 2020](2020-january.md) Fevereiro de 2020 [março de 2020](2020-march.md)  |  [abril de 2020](2020-april.md)  |  [maio de 2020](2020-may.md)
+Anúncios para 2020: [janeiro de 2020](2020-january.md) | | de fevereiro de 2020 [março de 2020](2020-march.md)  |  [abril de 2020](2020-april.md)  |  [maio de 2020](2020-may.md)
 
 _________________
 
@@ -68,12 +68,12 @@ _________________
 
 ### <a name="summary"></a>Resumo:
 
-Os parceiros podem agora convidar os clientes novos e já existentes a rever e aceitar o Acordo de Cliente da Microsoft diretamente num portal autenticado da Microsoft (Microsoft 365 Admin Center).
+Os parceiros podem agora convidar os clientes novos e já existentes a rever e aceitar o Acordo de Cliente da Microsoft diretamente num portal autenticado da Microsoft (Administração Microsoft 365 Center).
 
 Esta nova capacidade significa que [os parceiros têm agora duas opções](../confirm-customer-agreement.md) ao apresentar o Acordo de Cliente da Microsoft aos seus clientes:
 
 - **Opção 1:** Os parceiros podem apresentar o novo Acordo de Clientes da Microsoft aos clientes da mesma forma que fizeram anteriormente para o Microsoft Cloud Agreement. Depois de um cliente ter revisto e aceite o acordo, os parceiros devem atestar a aceitação do cliente com a Microsoft. O Partner Center Dashboard, Partner Center API e .NET SDK foram atualizados para apoiar um parceiro que confirma a aceitação do Cliente do Microsoft Customer Agreement desta forma.
-- **Opção 2 (Nova funcionalidade):** Os parceiros podem convidar os clientes para um portal autenticado da Microsoft (Microsoft 365 Admin Center) para visualizar e assinar o acordo. Esta opção permite uma gestão simplificada do acordo, uma implementação mais rápida e menos trabalho para os parceiros, uma vez que o cliente aceita diretamente no Microsoft 365 Admin Center, confirma a aprovação dos termos.
+- **Opção 2 (Nova funcionalidade):** Os parceiros podem convidar os clientes para um portal autenticado da Microsoft (Administração Microsoft 365 Center) para visualizar e assinar o acordo. Esta opção permite uma gestão simplificada do acordo, uma implementação mais rápida e menos trabalho para os parceiros, uma vez que o cliente aceita diretamente dentro do Centro Administração Microsoft 365, confirma aprovação de termos.
 
 Os parceiros podem saber se os clientes aceitaram o novo acordo utilizando novas funcionalidades disponíveis no Partner Center Dashboard ou através [desta nova API.](/partner-center/develop/get-direct-sign-status-of-customer-agreement)
 
@@ -84,7 +84,7 @@ A partir de 1 de fevereiro de 2020, a confirmação de um parceiro da aceitaçã
 
 ### <a name="next-steps"></a>Passos seguintes:
 
-- Se um cliente não aceitar o Acordo de Cliente da Microsoft, é obrigatório a partir de 1 de fevereiro de 2020, para novas encomendas. Os parceiros devem atestar. Opção 1: que os clientes tenham aceitado o acordo, ou Opção 2: convidar os clientes a aceitar o acordo diretamente através do Microsoft 365 Admin Center.
+- Se um cliente não aceitar o Acordo de Cliente da Microsoft, é obrigatório a partir de 1 de fevereiro de 2020, para novas encomendas. Os parceiros devem atestar. Opção 1: que os clientes tenham aceitado o acordo, ou Opção 2: convidar os clientes a aceitar o acordo diretamente através do Administração Microsoft 365 Center.
 - Os parceiros que utilizam APIs para o atestado do Microsoft Cloud Agreement existente precisam de rever a sua implementação existente com a API atualizada.
 - Treine os seus agentes e revendedores sobre os termos do novo acordo, e na apresentação do novo acordo e validando a aceitação do cliente.
 
@@ -128,19 +128,19 @@ Abaixo estão as questões conhecidas na lista de preços de fevereiro e matriz 
 
 A seguinte oferta não está disponível e será removida das futuras listas de preços:
 
-Oferta: Microsoft 365 Phone System - Virtual User Trial Offer ID:  `b9a1d576-43fd-464b-8ad9-4b1eafc5db77`
+Oferta: Microsoft 365 Sistema Telefónico - ID de oferta de teste de utilizador virtual:`b9a1d576-43fd-464b-8ad9-4b1eafc5db77`
 
 Estas ofertas estão disponíveis, mas não na matriz da lista de ofertas. Consulte a matriz da lista de ofertas anteriores a partir de janeiro de 2020 para obter detalhes da matriz de oferta.
 
-Oferta: Suporte Direto Pro para Dinâmicas 365 Oferta Unificada Oferta ID: `09dc6202-bfbb-44fb-9c87-b12c90084010`
+Oferta: Pro Suporte Direto para Dinâmica 365 Oferta de Operações Unificadas ID:`09dc6202-bfbb-44fb-9c87-b12c90084010`
 
-Oferta: Apoio Direto Pro para Dinâmicas 365 Operações Unificadas para ID oferta de faculdade: `c3b23a21-76e2-46e7-ae4f-60e1bdb96bea`
+Oferta: Pro Apoio Direto para a Dinâmica 365 Operações Unificadas para o ID da Oferta do Corpo docente:`c3b23a21-76e2-46e7-ae4f-60e1bdb96bea`
 
-Oferta: Apoio Direto Pro para Dinâmicas 365 Operações Unificadas para Estudantes Oferta ID: `1835808d-06a2-42c5-9f09-82c2e7ed5c72`
+Oferta: Pro Suporte Direto para Dinâmicas 365 Operações Unificadas para Estudantes Oferta ID:`1835808d-06a2-42c5-9f09-82c2e7ed5c72`
 
 Estas ofertas não estavam na Tabela de Preços, mas deveriam estar. Consulte a lista de preços de 19 de dezembro, uma vez que os preços não mudaram para esta oferta.
 
-Oferta: Microsoft 365 A1 Offer ID: `778a4dce-0014-4d53-8647-314ef2b091d2`
+Oferta: ID de oferta Microsoft 365 A1:`778a4dce-0014-4d53-8647-314ef2b091d2`
 
 Oferta: Dynamics 365 Remote Assist Attach Trial Offer ID: `7ce81df9-f10c-49a3-843d-e9de6fdc779f`
 
@@ -169,9 +169,9 @@ _________________
 
 ### <a name="summary"></a>Resumo:
 
-Esta importante atualização relativa aos [requisitos obrigatórios de segurança](https://blogs.partner.microsoft.com/mpn/safeguard-business-security-best-practices/)do parceiro. A partir **de 29 de fevereiro de 2020,** as [políticas de "linha de base" do](/azure/active-directory/fundamentals/whats-new#replacement-of-baseline-policies-with-security-defaults) Azure Ative Directory (Azure AD) serão removidas e substituídas por "incumprimentos de segurança", um conjunto mais abrangente de políticas de proteção para si e para os seus clientes. As falhas de segurança no Azure AD podem ajudar a proteger a sua organização com definições de segurança pré-configuradas para ataques comuns.
+Esta importante atualização relativa aos [requisitos obrigatórios de segurança](https://blogs.partner.microsoft.com/mpn/safeguard-business-security-best-practices/)do parceiro. A partir **de 29 de fevereiro de 2020,** [as políticas de "linha de base" Azure Ative Directory](/azure/active-directory/fundamentals/whats-new#replacement-of-baseline-policies-with-security-defaults) (Azure AD) serão removidas e substituídas por "incumprimentos de segurança", um conjunto mais abrangente de políticas de proteção para si e para os seus clientes. As falhas de segurança no Azure AD podem ajudar a proteger a sua organização com definições de segurança pré-configuradas para ataques comuns.
 
-O nosso sistema indica que a sua organização utiliza atualmente políticas de base, mas ainda não transitou para incumprimentos de segurança. **Se não transitar para incumprimentos de segurança antes de 29 de fevereiro, perderá a autenticação de vários fatores (MFA) ativada com políticas de base para os inquilinos do seu parceiro. Ativar as falhas de segurança o mais rapidamente possível para evitar perturbações no negócio** .
+O nosso sistema indica que a sua organização utiliza atualmente políticas de base, mas ainda não transitou para incumprimentos de segurança. **Se não transitar para incumprimentos de segurança antes de 29 de fevereiro, perderá a autenticação de vários fatores (MFA) ativada com políticas de base para os inquilinos do seu parceiro. Ativar as falhas de segurança o mais rapidamente possível para evitar perturbações no negócio**.
 
 ### <a name="key-considerations"></a>Considerações principais
 
@@ -180,7 +180,7 @@ A política de incumprimentos de segurança é uma das [opções](../partner-sec
 - Para os parceiros que estão a utilizar [o acesso condicional,](/azure/active-directory/conditional-access/concept-conditional-access-policy-common)não estarão disponíveis falhas de segurança.
 - Os incumprimentos de segurança aplicam todas as políticas ao mesmo tempo, incluindo a MFA necessária para a política de administração, a política de proteção do utilizador final e a necessidade de MFA para a gestão de serviços.
 - O bloqueio da autenticação do legado não será aplicado aos parceiros neste momento. No entanto, uma vez que a maioria dos eventos relacionados com identidades comprometidas provêm de tentativas de inscrição usando a autenticação antiga, os parceiros são encorajados a afastarem-se destes protocolos mais antigos.
-- Os incumprimentos de segurança excluem automaticamente a conta Azure AD Connect Sync.
+- Os incumprimentos de segurança excluem automaticamente a conta Azure AD Ligação Sync.
 - Os incumprimentos de segurança são a substituição geral da disponibilidade das políticas de [base de pré-visualização](/azure/active-directory/conditional-access/concept-baseline-protection). Uma vez que um parceiro permita os incumprimentos de segurança, eles deixarão de ser capazes de ativar políticas de base.
 
 ### <a name="next-steps-and-resources-for-security-defaults"></a>Próximos passos e recursos para incumprimentos de segurança
@@ -224,7 +224,7 @@ A Microsoft introduziu ofertas de Audio Conferencing a clientes multinacionais c
 
 ### <a name="impacted-audience"></a>Audiência impactada:
 
- O Cloud Solution Provider (CSP) associa-se a clientes que usam Audio Conferencing que podem ter utilizadores na Índia.
+ Fornecedor de Soluções em Nuvem (CSP) associa-se a clientes que usam Audio Conferencing que podem ter utilizadores na Índia.
 
 ### <a name="details"></a>Detalhes
  A Microsoft introduziu uma nova oferta de Audio Conferencing para empresas multinacionais com utilizadores sediados na Índia.
@@ -347,9 +347,9 @@ _________________
 
 ### <a name="summary"></a>Resumo:
 
-O novo [Acordo de Cliente da Microsoft](https://www.microsoft.com/licensing/docs/customeragreement) no programa Cloud Solution Provider (CSP) entrou disponível em outubro de 2019, substituindo o atual Microsoft Cloud Agreement. O novo contrato de cliente simplificado proporciona condições de compra consistentes para os clientes – independentemente da forma como os clientes optam por comprar.
+O novo [Programa microsoft Customer Agreement](https://www.microsoft.com/licensing/docs/customeragreement) no Fornecedor de Soluções em Nuvem (CSP) entrou disponível a partir de outubro de 2019, substituindo o atual Microsoft Cloud Agreement. O novo contrato de cliente simplificado proporciona condições de compra consistentes para os clientes – independentemente da forma como os clientes optam por comprar.
 
-**A partir de 1 de fevereiro de 2020, a fatura direta e os fornecedores indiretos da CSP são obrigados a confirmar a aceitação pelo cliente do Acordo de Cliente da Microsoft para quaisquer ofertas de CSP ao abrigo da Microsoft Public Cloud** . Sem confirmar a aceitação do cliente para o novo acordo, os parceiros não poderão fazer uma nova compra para o cliente, incluindo a alteração de lugares e a renovação das compras existentes a partir dessa data (a renovação automática não será impactada).
+**A partir de 1 de fevereiro de 2020, a fatura direta e os fornecedores indiretos da CSP são obrigados a confirmar a aceitação pelo cliente do Acordo de Cliente da Microsoft para quaisquer ofertas de CSP ao abrigo da Microsoft Public Cloud**. Sem confirmar a aceitação do cliente para o novo acordo, os parceiros não poderão fazer uma nova compra para o cliente, incluindo a alteração de lugares e a renovação das compras existentes a partir dessa data (a renovação automática não será impactada).
 
 Os parceiros podem apresentar o novo acordo aos clientes da mesma forma que fizeram para o atual Microsoft Cloud Agreement. Após uma avaliação do cliente e aceita o acordo, os parceiros devem confirmar a aceitação do cliente no Partner Center. A interface de utilizador web do Partner Center, API e .NET SDK foram atualizadas para apoiar o novo acordo.
 
@@ -362,7 +362,7 @@ Para mais informações, reveja os recursos sobre o Acordo de Cliente da Microso
 - Prepare os agentes e os revendedores quanto aos [novos termos do contrato](https://www.microsoft.com/licensing/docs/customeragreement), ao novo contrato e à validação da aceitação do cliente.
 
 >[!NOTE] 
->A aceitação do cliente do Microsoft Customer Agreement também é necessária para a compra através da [nova experiência de comércio em CSP para a Azure](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/) que foi lançada em novembro de 2019. No 1º trimestre de 2020, os parceiros no CSP também começarão a ver a opção adicional no Partner Center que permitirá aos parceiros convidar os clientes para um portal microsoft autenticado (Microsoft 365 Admin Center) e fazer com que os clientes vejam e assinem diretamente o Acordo de Clientes da Microsoft.
+>A aceitação do cliente do Microsoft Customer Agreement também é necessária para a compra através da [nova experiência de comércio em CSP para a Azure](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/) que foi lançada em novembro de 2019. No 1º trimestre de 2020, os parceiros da CSP também começarão a ver a opção adicional no Partner Center que permitirá aos parceiros convidar os clientes para um portal microsoft autenticado (Administração Microsoft 365 Center) e fazer com que os clientes vejam e assinem diretamente o Acordo de Cliente da Microsoft.
 
 ### <a name="change-log"></a>Alterar Registo:
 
@@ -385,7 +385,7 @@ A Microsoft lançou produtos adicionais Dynamics 365 a 1 de fevereiro de 2020.
 
 ### <a name="impacted-audience"></a>Audiência impactada:
 
-- Parceiros que oferecem Dinâmicas 365 através do programa Cloud Solution Provider (CSP) em todo o mundo (a menos que aconselhado de forma diferente)
+- Parceiros que oferecem Dynamics 365 através do programa Fornecedor de Soluções em Nuvem (CSP) em todo o mundo (a menos que aconselhado de forma diferente)
 
 ### <a name="details"></a>Detalhes
 
@@ -410,7 +410,7 @@ mudança de nome de eCommerce
 
 - A oferta de retalho Dynamics 365 foi alterada para o Comércio Dynamics 365.
 
-Atualização da licença de Insights do Cliente. Os seguintes SKUs tiveram o tipo de licenciamento alterado de AddOn para NON:
+Informações do Cliente atualização da licença. Os seguintes SKUs tiveram o tipo de licenciamento alterado de AddOn para NON:
 
 - Dyn365ECstmrInsights ShrdSvr ALNG SubsVL MVL
 - Dyn365ECstmrInsightsEDU ShrdSvr ALNG SubsVL MVL
@@ -428,7 +428,7 @@ Em 1 de fevereiro de 2020, a Microsoft mudou os nomes de algumas famílias de pr
 - [Home page do Dynamics 365](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
 - [Página inicial do Guia de Aplicações de Realidade Mista](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
 - [Página inicial da Fraude de Aplicações Biz](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
-- [Atualizações de PowerApps e Licenciamento de Fluxo FY20](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
+- [Atualizações de licenciamento de PowerApps e Flow FY20](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
 - [Licenciamento Microsoft Dynamics 365](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
 
 ### <a name="next-steps"></a>Passos seguintes

@@ -3,18 +3,18 @@ title: Enroll in the Cloud Solution Provider program (Inscrever-se no programa d
 ms.topic: how-to
 ms.date: 07/19/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-enroll
 description: Saiba como se inscrever no modelo de vendas do programa Fornecedor de Soluções em Nuvem (CSP) que é o melhor para o seu negócio, como o revendedor indireto ou o parceiro de conta direta.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6d2bf3f99687830392d939be99ad34999abc1903
-ms.sourcegitcommit: d133c8b923b90ac5518cb989c0ce4dd69713abf4
+ms.openlocfilehash: 2d265dfb2db76b89f589cc4b9cd1edfd5105c52e
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "114433916"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114845776"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Enroll in the Cloud Solution Provider program (Inscrever-se no programa do Fornecedor de Soluções Cloud)
 

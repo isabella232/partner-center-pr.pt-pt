@@ -5,15 +5,15 @@ ms.topic: article
 author: mingshen-ms
 ms.author: mingshen
 ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
+ms.subservice: partnercenter-payouts
 ms.localizationpriority: medium
 ms.date: 09/30/2020
-ms.openlocfilehash: d34984c3bbe8588cf2a5a40f7c50b14ba6928405
-ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
+ms.openlocfilehash: cc32ed034f14603c92086d03dd9d43ee7c79b66e
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109818682"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114845878"
 ---
 # <a name="understand-irs-tax-forms-issued-by-microsoft"></a>Entender formulários do IRS emitidos pela Microsoft
 
@@ -25,10 +25,10 @@ Este artigo explica mais sobre estes formulários, incluindo quem os receberá e
 
 ## <a name="types-of-tax-forms"></a>Tipos de formulários fiscais
 
-| Formulário de imposto sobre o IRS | Description | Disponibilidade |
+| Formulário de imposto sobre o IRS | Descrição | Disponibilidade |
 |--------------|-------------|--------------|
-|1099-MISC, 1099-K | Relacionado com a atividade de vendas e/ou pagamentos feitos a si para participação nos mercados da Microsoft | Os formulários impressos serão registados em ou antes **de 31 de janeiro,** e .pdf cópias estarão disponíveis no [Partner Center](https://partner.microsoft.com/dashboard) (nas **definições de Conta de Centro de Parceiros** em **Pagamento e > fiscal e perfis fiscais)** ao mesmo tempo |
-|1042-S | Relacionado com pagamentos que lhe são feitos que estão sujeitos a retenção na fonte dos Estados Unidos | Os formulários impressos serão registados em ou antes **de 15 de março**, e .pdf cópias estarão disponíveis no Partner Center (em **Definições de Desenvolvedores de Centros de Parceiros** em **Pagamento e > de impostos e perfis fiscais)** ao mesmo tempo  |
+|1099-MISC, 1099-K | Relacionado com a atividade de vendas e/ou pagamentos feitos a si para participação nos mercados da Microsoft | Os formulários impressos serão registados em ou antes **de 31 de janeiro**, e .pdf cópias estarão disponíveis no Partner [Center](https://partner.microsoft.com/dashboard) (nas **definições de Conta de Centro parceiro** ao abrigo do Payout e > de impostos Payout e **perfis fiscais)** ao mesmo tempo |
+|1042-S | Relacionado com pagamentos que lhe são feitos que estão sujeitos a retenção na fonte dos Estados Unidos | Os formulários impressos serão registados em ou antes **de 15 de março**, e .pdf cópias estarão disponíveis no Partner Center developer **Definições** ao abrigo do Payout e > de pagamento e **perfis fiscais)** ao mesmo tempo  |
 
 > [!NOTE]
 > O endereço que utilizamos nos formulários de irs de IRS provém do endereço do seu perfil fiscal quando [configura a sua conta de pagamento e formulários fiscais.](set-up-your-payout-account.md) Se o seu endereço tiver mudado, certifique-se de atualizar o endereço no seu **perfil de Imposto**.
@@ -39,14 +39,14 @@ Os formulários fiscais serão enviados a partir dos seguintes endereços:
 
 | Grupo Empresarial         | Entidade Jurídica          | Endereço                                          |
 |------------------------|-----------------------|--------------------------------------------------|
-| Janelas, Escritório, Azure | Microsoft Corporation | One Microsoft Way<br>Redmond, WA 98052 EUA       |
+| Windows, Office, Azure | Microsoft Corporation | One Microsoft Way<br>Redmond, WA 98052 EUA       |
 | Publicidade            | Microsoft Online Inc. | 6880 Sierra Center Parkway<br>Reno, NV 98511 EUA |
 
 **Cidadãos não americanos:**
 
 | Grupo Empresarial         | Entidade Jurídica          | Endereço                                          |
 |------------------------|-----------------------|--------------------------------------------------|
-| Janelas, Escritório, Azure | Microsoft Ireland Operations Limited (O pagamento é feito pela Microsoft Corporation via Microsoft Ireland agindo como intermediário qualificado para a Microsoft Corporation) | Um Lugar microsoft<br>Parque Empresarial de South County<br>Leopardstown, Dublin 18, D18 P521, Irlanda|
+| Windows, Office, Azure | Microsoft Ireland Operations Limited (O pagamento é feito pela Microsoft Corporation via Microsoft Ireland agindo como intermediário qualificado para a Microsoft Corporation) | Um Lugar microsoft<br>Parque Empresarial de South County<br>Leopardstown, Dublin 18, D18 P521, Irlanda|
 | Publicidade          | Microsoft Ireland Operations Limited (O pagamento é feito pela Microsoft Online Inc. via Microsoft Ireland agindo como agente de pagamento para o Microsoft Online Inc.) | Um Lugar microsoft<br>Parque Comercial south county&<br>Leopardstown, Dublin 18, D18 P521, Irlanda |
 | Publicidade            | Microsoft Online Inc. | 6880 Sierra Center Parkway<br>Reno, NV 98511 EUA |
 
@@ -57,12 +57,12 @@ Os formulários fiscais serão enviados a partir dos seguintes endereços:
 
 | Se sou um programador dos Estados Unidos a vender aplicativos pagos e...   | Devo receber este formulário: |
 |------------------------|-----------------------|
-| Tive **mais de 200 vendas** de aplicações com um total de compras destas vendas **superior $ $20.000 USD** no ano fiscal aplicável (**sem** contar com as vendas feitas no Brasil e na China através da Microsoft Store no Windows 10.)| **1099-K:**<br/>Filer: Microsoft Corporation<br/>EIN: \* \* \* \* \* 4442<br/><br/>**Importante:** O formulário 1099-K contém valores brutos de **compra,** não pagamentos feitos a si.| 
-| Recebi **pelo menos 10 dólares em pagamentos** (i) vendas de aplicações feitas no Brasil e na China através da Microsoft Store no Windows 10 ou (ii) vendas no Minecraft Marketplace.<br/><br/>**OR**<br/><br/>Recebi pelo menos 600 dólares em pagamentos não relacionados com as vendas de aplicações da Microsoft no ano fiscal aplicável (por exemplo, pagamentos de incentivos ou pagamentos de um concurso ou promoção)| **1099-MISC:**<br/>Pagador: Microsoft Corporation<br/>EIN: \* \* \* \* \* 4442<br/><br/>**Importante:** Algumas entidades empresariais não receberão formulários 1099-MISC, independentemente dos montantes de pagamento recebidos da Microsoft.  Consulte o seu profissional fiscal para mais informações.| 
-| Nenhum dos acima se aplicam.| Nenhum |
+| Tive **mais de 200 vendas** de aplicações com um valor total de compra destas vendas **superior $ $20.000 USD** no ano fiscal aplicável (**sem** contar com as vendas feitas no Brasil e na China através do Microsoft Store no Windows 10.)| **1099-K:**<br/>Filer: Microsoft Corporation<br/>EIN: \* \* \* \* \* 4442<br/><br/>**Importante:** O formulário 1099-K contém valores brutos de **compra,** não pagamentos feitos a si.| 
+| Recebi **pelo menos 10 dólares em pagamentos** (i) vendas de aplicações efetuárias feitas no Brasil e na China através das vendas Microsoft Store no Windows 10 ou (ii) no mercado Minecraft.<br/><br/>**OR**<br/><br/>Recebi pelo menos 600 dólares em pagamentos não relacionados com as vendas de aplicações da Microsoft no ano fiscal aplicável (por exemplo, pagamentos de incentivos ou pagamentos de um concurso ou promoção)| **1099-MISC:**<br/>Pagador: Microsoft Corporation<br/>EIN: \* \* \* \* \* 4442<br/><br/>**Importante:** Algumas entidades empresariais não receberão formulários 1099-MISC, independentemente dos montantes de pagamento recebidos da Microsoft.  Consulte o seu profissional fiscal para mais informações.| 
+| Nenhum dos acima se aplicam.| Nenhuma |
 | <br/><br/>**Se eu for um programador dos Estados Unidos a vender anúncios em apps e...** |<br/><br/>**Devo receber este formulário:** |
 |Recebi **pelo menos 600 dólares em pagamentos** de anúncios em aplicações no ano fiscal aplicável. | **1099-MISC:**<br/>Pagador: Microsoft Online Inc<br/>EIN: \* \* \* \* \* 0505<br/><br/>**Importante:** Algumas entidades empresariais não receberão formulários 1099-MISC, independentemente dos montantes de pagamento recebidos da Microsoft.  Consulte o seu profissional fiscal para obter mais informações. |
-| Recebi **menos de $600 em pagamentos** de anúncios em aplicações no ano fiscal aplicável. | Nenhum |
+| Recebi **menos de $600 em pagamentos** de anúncios em aplicações no ano fiscal aplicável. | Nenhuma |
 
 
 ## <a name="for-developers-located-outside-of-the-united-states"></a>Para desenvolvedores localizados fora dos Estados Unidos

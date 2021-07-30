@@ -3,17 +3,17 @@ title: Unir a sua conta de parceiro com outra conta de parceiro
 description: Saiba como fundir a sua conta de parceiro com outra conta de parceiro no Partner Center - para empresas que são parceiros ativos da Microsoft no Partner Center.
 ms.topic: article
 ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
+ms.subservice: partnercenter-enroll
 author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: seodec18
 ms.date: 06/12/2020
-ms.openlocfilehash: bcef4c771d748b0e2fbeae8cf1daaf41d7f53b43
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: f7019f6288b5705430ef3c4f24a1cab3dbd05957
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276642"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114846133"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>Unir a sua conta de parceiro com outra conta de parceiro
 
@@ -84,7 +84,7 @@ Caso decida aceitar o convite para fundir contas: · Os seus ID(s) (s) e locais 
 >[!Note]
 >Para realizar a fusão da conta, tem de ser o administrador da **Conta** da sua empresa.
 
-1. Selecione **Definições** do painel partner center. 
+1. Selecione **Definições** no painel de instrumentos do Centro parceiro. 
 
 2. Selecione **Fusão de Conta**.
 
@@ -96,14 +96,14 @@ Caso decida aceitar o convite para fundir contas: · Os seus ID(s) (s) e locais 
 
 1. Contoso, Ltd. 
 
-    a. um [ID MPN global de 11111111](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) e um [IDs MPN de localização subordinada de 2222222](https://partner.microsoft.com/pcv/accountsettings/locationsprofile).
+    a. um [ID MPN global de 1111111](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) e um [ID de MPN de localização](https://partner.microsoft.com/pcv/accountsettings/locationsprofile)subordinada de 2222222 .
   
     b. um inquilino AD AZure = @contoso.com
  
     c. uma competência de ouro que expira 1 de outubro de 2020
 2. Fabrikam, Inc.
  
-    a.  um ID MPN global de 3333333 e dois IDs MPN de localização subordinada de 44444444 e 555555
+    a.  um ID MPN global de 3333333 e dois IDs MPN de localização subordinada de 4444444 e 5555555
 
     b.  um inquilino AD AZure = @fabrikam.com
 
@@ -113,7 +113,7 @@ Caso decida aceitar o convite para fundir contas: · Os seus ID(s) (s) e locais 
 5.  A Contoso revê os detalhes da fusão nessa mesma página e fornece confirmação para avançar com a fusão da conta.
 6.  Após a fusão, a conta da empresa apresentará como:
 
-    a.  Uma empresa chamada Contoso com um ID MPN global de 11111111 e 4 MPN de localização subordinada mpn IDs de 22222222, 33333333, 44444444 e 5555555
+    a.  Uma empresa chamada Contoso com um ID MPN global de 1111111 e 4 MPN IDs de localização subordinada de 2222222, 3333333, 4444444 e 5555555
     
     b.  Terá dois inquilinos da AD Azure @contoso.com @fabrikam.com (+) que têm acesso à mesma conta partner Center
     

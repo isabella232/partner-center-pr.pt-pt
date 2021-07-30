@@ -3,17 +3,17 @@ title: Experimente consultas de relatório API
 ms.topic: reference
 ms.date: 07/14/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 description: Utilize esta API para testar a sua consulta e validar os resultados em insights do Partner Center.
 author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: 13ad6fe385a4d31390b6806d863da3f647105b2c
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: c83b56b7d52e0b9feb598597b4a8e1fdaec98a3b
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114377181"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114845606"
 ---
 # <a name="try-report-queries-api"></a>Experimente consultas de relatório API
 

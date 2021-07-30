@@ -3,18 +3,18 @@ title: Gerir utilizadores para contas de clientes
 ms.topic: how-to
 ms.date: 02/25/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-customers
 description: Gerir os utilizadores para os seus clientes no Partner Center - criar contas de utilizador, adicionar ou remover licenças de utilizador, redefinir palavras-passe e eliminar ou restaurar as contas do utilizador.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dc896ec3ce16ab0f05a8131de14f573ad96a8141
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 1c346e5e680fdd0b0b82715160b238e1e6b6a9a9
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110149898"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114838636"
 ---
 # <a name="manage-users-and-user-licenses-for-customer-accounts"></a>Gerir utilizadores e licenças de utilizador para contas de clientes 
 
@@ -28,7 +28,7 @@ Ao comprar novas subscrições para um cliente, o cliente deve dar-lhe uma lista
 >[!NOTE]
 >A secção de **Utilizadores e licenças** do separador **Cliente** mostra todos os utilizadores criados no inquilino de um cliente específico, incluindo utilizadores que tenham licenças compradas a outro parceiro CSP ou a partir de outro canal de compra.
 
-Pode [atribuir subscrições a vários utilizadores de](bulk-license-provisioning-for-multiple-users.md) uma só vez importando os nomes utilizando um [ficheiro de folha de cálculo compatível com Excel .csv](adding-multiple-users-to-a-customer-account.md).
+Pode [atribuir subscrições a vários utilizadores de](bulk-license-provisioning-for-multiple-users.md) uma só vez importando os nomes utilizando um [ficheiro de folha de cálculo .csv compatível com Excel.](adding-multiple-users-to-a-customer-account.md)
 
 <a href="" id="createuseraccounts"></a>
 
@@ -46,7 +46,7 @@ Pode [atribuir subscrições a vários utilizadores de](bulk-license-provisionin
 
 6. Se estiver a adicionar vários utilizadores um de cada **vez, utilize outro utilizador**.
 
-7. Também pode adicionar vários utilizadores de uma só vez [importando um ficheiro de folha de cálculo compatível com Excel .csv](adding-multiple-users-to-a-customer-account.md). Pode esperar até terminar com todo o conjunto antes de enviar e-mails ou imprimir os nomes e senhas do ecrã de confirmação.
+7. Também pode adicionar vários utilizadores de uma só vez [importando um ficheiro de folha de cálculo .csv compatível com Excel.](adding-multiple-users-to-a-customer-account.md) Pode esperar até terminar com todo o conjunto antes de enviar e-mails ou imprimir os nomes e senhas do ecrã de confirmação.
 
 <a href="" id="userlicensing"></a>
 

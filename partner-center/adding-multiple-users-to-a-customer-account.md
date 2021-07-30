@@ -3,18 +3,18 @@ title: Adicionar vários utilizadores para uma conta de cliente
 ms.topic: how-to
 ms.date: 08/01/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-customers
 description: Para adicionar vários utilizadores à conta de um cliente, faça o upload de um ficheiro de dados para o Partner Center utilizando o formato de ficheiro separado em vírgula (.csv).
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 268cc9cb42bc72a444da6aec99425c2b29b71cb4
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 907d1267164df267acab08675b4b9388fbf14474
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110150476"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114839435"
 ---
 # <a name="upload-a-csv-file-of-users-to-a-customers-account"></a>Faça o upload de um ficheiro .csv de utilizadores para a conta de um cliente
 

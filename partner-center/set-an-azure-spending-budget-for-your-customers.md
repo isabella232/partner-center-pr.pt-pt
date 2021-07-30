@@ -4,17 +4,17 @@ ms.topic: how-to
 ms.date: 03/17/2021
 description: Saiba como definir ou remover orçamentos mensais de gastos do Azure para os seus clientes, bem como ver os dados de gastos do Azure e definir notificações relacionadas com o orçamento.
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-billing
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 14e901f51841e58b28a3cbbb1b7a19ce89d7c324
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: a2085713f1fef474dd26cb66a30a37f701789859
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855357"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114845895"
 ---
 # <a name="set-check-or-remove-monthly-azure-spending-budgets-for-customers-in-partner-center"></a>Desconfiem, verifiquem ou removam os orçamentos mensais de gastos da Azure para os clientes no Partner Center
 
@@ -49,7 +49,7 @@ Pode *definir um orçamento mensal de gastos da Azure* para vários clientes no 
 
 2. No menu à esquerda em **CSP,** escolha os gastos do **Azure**.
 
-3. Na página de gastos do **Azure,** em **Clientes com subscrições Microsoft Azure,** selecione os clientes(s) para os quais pretende definir um orçamento.
+3. Na página de gastos do **Azure,** em **Clientes com Microsoft Azure subscrições,** selecione os clientes(s) para os quais pretende definir um orçamento.
 
 4. Introduza um valor para **o orçamento mensal.**
 
@@ -77,7 +77,7 @@ Pode *remover um orçamento mensal de gastos da Azure* para o seu cliente(s) no 
 
 2. No menu à esquerda em **CSP,** escolha os gastos do **Azure**.
 
-3. Na página de gastos do **Azure,** em **Clientes com subscrições Microsoft Azure,** selecione os clientes(s) cujo orçamento pretende remover.
+3. Na página de gastos do **Azure,** em **Clientes com Microsoft Azure subscrições,** selecione os clientes(s) cujo orçamento pretende remover.
 
 4. Escolha **Remover orçamento**.
 
@@ -89,7 +89,7 @@ Pode *acompanhar os gastos atuais do Azure e os orçamentos mensais dos seus cli
 
 2. No menu à esquerda em **CSP,** escolha os gastos do **Azure**.
 
-3. Na página de gastos do **Azure,** em **Clientes com subscrições microsoft Azure,** pode ver uma visão geral dos orçamentos mensais dos clientes, estimativas de gastos correntes e percentagem de orçamento utilizado.
+3. Na página de gastos do **Azure,** em **Clientes com subscrições Microsoft Azure,** pode ver uma visão geral dos orçamentos mensais dos clientes, as estimativas correntes de gastos e a percentagem do orçamento utilizado.
 
 ## <a name="notifications-for-budget-limits"></a>Notificações para limites orçamentais
 
@@ -97,7 +97,7 @@ Pode *ligar notificações por e-mail* para quando os gastos mensais do seu clie
 
 1. Inicie sessão no Centro de Parceiros.
 
-2. Ir para **Definições**.
+2. Vai para **Definições.**
 
 3. Selecione **as minhas preferências**.
 

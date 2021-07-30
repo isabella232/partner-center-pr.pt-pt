@@ -5,16 +5,16 @@ ms.date: 06/08/2020
 description: Saiba mais sobre todos os itens do seu ficheiro de reconciliação baseado no uso no Partner Center. Inclui alguns exemplos.
 author: sodeb
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-billing
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6c486d4866b0a2a912801d2648a1822418687078
-ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
+ms.openlocfilehash: 3048bad7912f101e1c332e54eff981473f0f31d7
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/22/2021
-ms.locfileid: "112431703"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114839656"
 ---
 # <a name="understand-usage-based-reconciliation-files-and-their-specific-fields-in-partner-center"></a>Compreenda os ficheiros de reconciliação baseados no uso e os seus campos específicos no Partner Center
 
@@ -32,7 +32,7 @@ Os seguintes campos explicam quais os serviços utilizados e a taxa.
 | PartnerName | Nome do parceiro. | *Contoso, Ltd.* |
 | PartnerBillableAccountId | Identificador de conta de parceiro. | *1010578050* |
 | Nome da Empresa de Clientes | Nome da organização do cliente, conforme relatado no Partner Center. *Isto é muito importante para conciliar a fatura com a informação do seu sistema.* | *Cliente de teste* |
-| MpnId | Identificador da Microsoft Partner Network (MPN) do parceiro Cloud Solution Provider (CSP). | *4390934* |
+| MpnId | Identificador da Microsoft Partner Network (MPN) do parceiro Fornecedor de Soluções em Nuvem (CSP). | *4390934* |
 | RevendedorMpnId | Identificador MPN do revendedor de registo para a subscrição.  |
 | FaturaNumber | Número de fatura onde aparece a transação especificada. | *D020001IVK* |
 | ChargeStartDate | Data de início do ciclo de faturação, exceto quando apresentar datas de dados de utilização latente previamente não cobrados (do ciclo de fatura anterior). A hora é sempre o início do dia, 00:00. | *2/1/2019 0:00* |
@@ -42,7 +42,7 @@ Os seguintes campos explicam quais os serviços utilizados e a taxa.
 | AssinaturaDescrição | Linha de negócios da oferta de serviços. | *Microsoft Azure* |
 | OrderID | Identificador único para uma encomenda na plataforma de faturação da Microsoft. Pode ser útil identificar a subscrição ao contactar o suporte. Não é usado para a reconciliação. | *566890604832738111* |
 | ServiceName | O nome do serviço Azure em questão. | *MÁQUINAS VIRTUAIS* |
-| ServiceType | O tipo específico de serviço Azure. | *Service Bus – Individual or Pack*, BASE de *dados SQL Azure – Business or Web Edition* |
+| ServiceType | O tipo específico de serviço Azure. | *Service Bus – Individual ou Pack*, SQL Azure base de *dados – Business or Web Edition* |
 | ResourceGuid | Identificador exclusivo específico para todos os dados de serviço e estrutura de preços. | *DA41BC5F-C52D-4464-8A8D-8C8DCC43503B* |
 | ResourceName | O nome do recurso Azure. | *Transferência de dados em (GB)*, *Transferência de Dados (GB)* |
 | Region | A região à qual se aplica o uso. Principalmente usado para atribuir taxas a transferências de dados, porque as taxas variam por região. | *Ásia Pacífico*, *Europa*, *América Latina,* *América do Norte* |
@@ -66,10 +66,10 @@ Os seguintes campos explicam quais os serviços utilizados e a taxa.
 | Contabillável do Cliente | Identificador de conta único na plataforma de faturação da Microsoft. | *1280018095* |
 | UsageDate | Data de implantação de serviço. | *2/1/2019 0:00* |
 | Região Medido | Identifica a localização de um centro de dados na região (para serviços onde este valor é aplicável e povoado). | *Leste asiático*, *Sudeste Asiático*, *Norte da Europa*, Europa *Ocidental*, Norte *Central EUA*, Centro Sul *dos EUA* |
-| Serviço Medido | Identifica o uso do serviço Azure individual quando não está especificamente identificado na coluna **ServiceName.** Por exemplo, as transferências de dados são reportadas como *Microsoft Azure - Todos os Serviços* na coluna **ServiceName.** | *AccessControl*, *CDN*, *Compute,* *Database*, *ServiceBus,* *Storage* |
+| Serviço Medido | Identifica o uso do serviço Azure individual quando não está especificamente identificado na coluna **ServiceName.** Por exemplo, as transferências de dados são reportadas como *Microsoft Azure - Todos os Serviços* na coluna **ServiceName.** | *AccessControl*, *CDN*, *Computação,* *Base de Dados,* *ServiceBus,* *Armazenamento* |
 | MedidoServiceType | Subposição para o campo **MeteredService** que fornece esclarecimentos adicionais sobre a utilização do serviço Azure. | *EXTERNA* |
 | Project | Nome definido pelo cliente para a sua instância de serviço. | *ORDDC52E52FDEF405786F0642D0108BE4* |
-| ServiceInfo | O número de ligações Azure Service Bus que foram a provisionadas e utilizadas num determinado dia. | *1.000000 Ligações / 30 dias* (se tivesse uma ligação individualmente a provisionada durante um mês de 30 dias), *25 Ligações / 30 Dias – Usado: 1.000000* (se tivesse um pacote de 25 ligações de Service Bus provisidas e utilizasse 1 durante esse dia) |
+| ServiceInfo | O número de ligações Azure Service Bus que foram a provisionadas e utilizadas num determinado dia. | *1.000000 Ligações / 30 dias* (se tivesse uma ligação individualmente a provisionada durante um mês de 30 dias), *25 Ligações / 30 Dias – Usado: 1.000000* (se tivesse um pacote de 25 ligações Service Bus a provisionadas e utilizou 1 durante esse dia) |
 
 ## <a name="next-steps"></a>Passos seguintes
 

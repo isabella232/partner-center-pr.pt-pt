@@ -1,35 +1,35 @@
 ---
-title: Pedidos de portal do Centro parceiro e ferramenta de diagnóstico
+title: Recolha de diagnósticos e problemas de reporte no Partner Center
 ms.topic: how-to
 ms.date: 11/19/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
+ms.subservice: partnercenter-support
 description: Saiba como reportar problemas com o Partner Center e como recolher informações de diagnóstico para a equipa de Apoio ao Parceiro.
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 07ff4df4b6d91b84af40e9b2b32d991f4ad09062
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 3e8f48476a6136889be8bb5c9f7a12ed8c42dc94
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277798"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114845963"
 ---
-# <a name="partner-center-portal-requests-and-diagnostic-tool"></a>Pedidos de portal do Centro parceiro e ferramenta de diagnóstico
+# <a name="collecting-diagnostics-and-reporting-problems-in-partner-center"></a>Recolha de diagnósticos e problemas de reporte no Partner Center
 
-**Aplica-se a**: Partner Center | Centro de Parceiros para Microsoft Cloud para governo dos EUA
+**Aplica-se a**: Partner Center | Centro de Parceiros para Microsoft Cloud for US Government
 
 **Funções adequadas**: Todos os parceiros interessados no Partner Center
 
 Todos os utilizadores do Partner Center podem criar um pedido de suporte ao parceiro. Os utilizadores só podem ver os pedidos de suporte que submeteram após iniciar sessão no Partner Center.
-Contacte o Suporte ao Centro de Parceiros se encontrar problemas ou precisar de ajuda com erros do portal Partner Center. Envie diagnósticos para permitir que o problema seja corrigido mais rapidamente.
+Contacte o Suporte ao Centro de Parceiros se encontrar problemas ou precisar de ajuda com erros do portal Partner Center. Envie diagnósticos para permitir que o problema seja corrigido mais rapidamente. 
 
 ## <a name="report-a-problem-with-the-partner-center"></a>Reportar um problema com o Centro de Parceiros
 
 1. A partir do painel **de instrumentos do Centro de Parceiros,** selecione **Suporte** e, em seguida, selecione **pedidos de suporte do Parceiro**.
 
-2. Selecione **Novo pedido** e, em seguida, procure o tipo de problema que melhor descreve o seu problema. Selecione o tipo de problema e **as soluções de Revisão**.
+2. Selecione **[Novo pedido](https://partner.microsoft.com/dashboard/support/servicerequests/create)** e, em seguida, procure o tipo de problema que melhor descreve o seu problema. Selecione o tipo de problema e **as soluções de Revisão**.
 
 3. Reveja a página **de soluções Recomendadas** para ver etapas ou documentos relacionados que possam ajudá-lo a resolver o seu problema.
 
@@ -41,25 +41,35 @@ Contacte o Suporte ao Centro de Parceiros se encontrar problemas ou precisar de 
 
 **Atualmente em pré-visualização*
 
-Se o seu problema requer uma conversa com o seu advogado de apoio, pode agendar a marcação a partir dos detalhes do seu bilhete.
+O agendamento de marcação permite-lhe marcar uma consulta com o advogado designado para o seu caso.  Durante a pré-visualização, as nomeações são limitadas a um subconjunto de tipos de problemas e equipas de apoio.  
+
+   > [!NOTE]
+   > A marcação de uma consulta de apoio não está imediatamente disponível após a criação de casos. Só pode marcar uma consulta de apoio após a atribuição do seu pedido a um proprietário.   
+
+1. No painel **de instrumentos do Centro parceiro,** selecione **[Suporte](https://partner.microsoft.com/dashboard/support/servicerequests)**. 
+
+2. Clique no seu pedido aberto para ver os detalhes do bilhete, a partir de **Agendar uma marcação de apoio (Pré-visualização)** selecione uma data e hora disponíveis. Os horários disponíveis baseiam-se na disponibilidade do calendário do advogado de apoio e são apresentados no seu fuso horário local.
 
 :::image type="content" source="images/support/ticket.png" alt-text="Agende uma consulta de apoio.":::
 
-1.  Na página de detalhes do bilhete no Partner Center, selecione uma data e hora disponíveis no calendário do advogado de apoio. Só verá datas e horários disponíveis no seu fuso horário local.
+3. Selecione **Marque esta marcação** para marcar a sua consulta com um advogado.
 
 :::image type="content" source="images/support/ticket2.png" alt-text="Marcação.":::
 
-2. O Partner Center verifica o calendário do advogado de apoio para disponibilidade.
-
-1. Quando marca uma marcação, o Partner Center envia-lhe um convite de calendário com informações sobre como o advogado de apoio irá contactá-lo, para que possa acompanhar esta nomeação no seu próprio calendário de trabalho.  Enquanto esta capacidade ainda estiver em Pré-visualização, o e-mail e o convite do calendário serão em inglês, mas o advogado poderá apoiá-lo no idioma que selecionou ao criar o seu bilhete.
+4. Após a marcação da marcação, o Partner Center irá mostrar-lhe a data e a hora na página de detalhes do bilhete.
 
 :::image type="content" source="images/support/ticket3.png" alt-text="Data e hora.":::
 
-## <a name="hours-of-operation"></a>Horas de funcionamento
+5.  Receberá um e-mail das Nomeações do Centro de Parceiros. Abra o anexo de ficheiro .ics para adicionar a marcação ao seu calendário. Também pode ser enviado e-mails de lembrete. 
 
-**Apoio a parceiros**
+6.  Para alterar a sua nomeação, volte à página de detalhes do bilhete no Centro de Parceiros e **selecione Reagendar esta nomeação** ou **cancelar esta nomeação**. 
 
-:::image type="content" source="images/support/hoop.png" alt-text="Horas de apoio de funcionamento.":::
+   > [!NOTE]
+   > A caixa de correio do Centro de Nomeações do Centro de Parceiros não é monitorizada. Só é usado para enviar os convites para a reunião.   
+   
+Enquanto a Agenda uma nomeação de apoio está em Pré-visualização:
+- Os e-mails de confirmação e lembrete da reunião podem mostrar a hora de marcação num fuso horário diferente do da sua hora local.  No entanto, o ficheiro .ics anexado irá adicionar a marcação ao seu calendário na hora local correta. 
+- Existe atualmente uma limitação no idioma da reunião de confirmação e e-mails de lembrete.  Estes e-mails podem estar em inglês e não em língua selecionada.  No entanto, ainda receberá suporte no seu idioma selecionado.
 
 ## <a name="send-diagnostics"></a>Enviar diagnósticos
 
@@ -76,7 +86,7 @@ Pode visualizar as informações de diagnóstico e guardá-la num ficheiro que p
 
 3. Reveja as informações no ficheiro antes de as enviar, pois pode conter dados pessoais que possa pretender remover.
 
-    >[!NOTE]
+   > [!NOTE]
     >Em alguns navegadores, a secção **'Visualização** de página' na parte inferior da página **de pré-visualização** pode parecer vazia. Isto está bom.
 
 4. Siga as instruções no ecrã para guardar o ficheiro.
@@ -84,6 +94,13 @@ Pode visualizar as informações de diagnóstico e guardá-la num ficheiro que p
 5. Anexe o ficheiro ao seu pedido de apoio.
 
 O Apoio ao Parceiro pode pedir-lhe para executar esta ferramenta várias vezes para que possam obter as informações mais atualizadas.
+
+## <a name="hours-of-operation"></a>Horas de funcionamento
+
+**Apoio a parceiros**
+
+:::image type="content" source="images/support/hoop.png" alt-text="Horas de apoio de funcionamento.":::
+
 
 ## <a name="next-steps"></a>Passos seguintes
 
