@@ -3,18 +3,18 @@ title: Obtenha privilégios administrativos de um cliente
 ms.topic: how-to
 ms.date: 12/02/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-customers
 description: Obtenha as permissões necessárias para gerir o serviço ou subscrição de um cliente em seu nome. Saiba como as permissões são concedidas, revogadas e geridas.
 author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
-ms.openlocfilehash: 779e76d6bb3e8df679a5ca6fa8ce441e42529161
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: fafd9e2c13abb1f4b9b12e5839662b27c4852452
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110147297"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114842104"
 ---
 # <a name="obtain-permissions-to-manage-a-customers-service-or-subscription"></a>Obter permissões para gerir o serviço ou subscrição de um cliente
 
@@ -42,17 +42,17 @@ Para gerir o serviço ou subscrição de um cliente em seu nome, o cliente deve 
 >[!IMPORTANT]  
 >Os clientes podem reatribuir ou remover permissões de administrador no portal de administração de um serviço. No entanto, precisa de informar o cliente de que remover as permissões do administrador significa que deixará de poder abrir um pedido de serviço à Microsoft em seu nome. Não poderá abrir este tipo de pedidos de serviço em nome do cliente até renegociar o seu acordo com o cliente.
 
-Os seus clientes podem descobrir qual dos seus parceiros tem privilégios administrativos para o seu inquilino dentro do portal de administração do Office 365. Para efetuar este procedimento:
+Os seus clientes podem descobrir qual dos seus parceiros tem privilégios administrativos para o seu inquilino dentro do portal de administração Office 365. Para efetuar este procedimento:
 
-1. O cliente precisa de se inscrever no portal de administração do Office 365 como administrador global.
+1. O cliente precisa de se inscrever no portal de administração Office 365 como administrador global.
 
-2. Selecione **Definições**  >  **Relacionamentos de parceiros**.
+2. Selecione   >  **Definições relacionamentos com parceiros**.
 
 3. Na página de **relações com** parceiros, o cliente verá uma lista dos parceiros com quem trabalham e daqueles a quem foi concedido privilégios de administração delegados ao seu inquilino.
 
 ## <a name="customers-can-manage-a-partners-delegated-admin-privileges"></a>Os clientes podem gerir os privilégios de administração delegados de um parceiro 
 
-O seu cliente pode decidir remover os seus privilégios de administração delegados do seu inquilino, mas manter a relação consigo para efeitos de subscrição e renovação de licença. Os clientes gerem direitos e permissões nas suas contas office 365 na página de **relações de Parceiro** no Centro de Administração do Office 365. Nesta página, os clientes podem:
+O seu cliente pode decidir remover os seus privilégios de administração delegados do seu inquilino, mas manter a relação consigo para efeitos de subscrição e renovação de licença. Os clientes gerem direitos e permissões nas suas contas de Office 365 na página de **relações** com parceiros no centro de administração Office 365. Nesta página, os clientes podem:
 
 - Veja com que parceiros têm uma relação e com que parceiros delegaram privilégios de administração
 
@@ -65,7 +65,7 @@ Para remover os privilégios de administração delegados de um parceiro:
 3. No painel de confirmação, selecione **Remover**.
 
 >[!IMPORTANT]  
->As atribuições de papel da AD Azure ao parceiro estão implícitas. Se tentar listar os membros das funções AD Azure utilizando o Portal AD/PowerShell/Graph do Azure, o parceiro não será devolvido. Para saber se os parceiros são atribuídos às funções de Azure AD, deve consultar a página de relações de Parceiro no Portal de Administração do Office 365 para saber se o privilégio de administração delegado foi ou não concedido ao parceiro.
+>As atribuições de papel da AD Azure ao parceiro estão implícitas. Se tentar listar os membros das funções AZure AD utilizando o Portal AD/PowerShell/Graph, o parceiro não será devolvido. Para saber se os parceiros estão atribuídos às funções de Azure AD, deve consultar a página de relações de Parceiro no Portal Administração do Office 365 para saber se o privilégio de administração delegado foi ou não concedido ao parceiro.
 
 ## <a name="delegated-admin-privileges-in-azure-ad"></a>Privilégios de administração delegados em Azure AD 
 
@@ -87,7 +87,7 @@ Cada subscrição da Azure tem o seu próprio conjunto de funções de gestão d
 
 - Quando o parceiro CSP prevê uma nova subscrição Azure para o cliente, o grupo de Agentes Admin sob o inquilino parceiro CSP é automaticamente atribuído Papel de Proprietário sob a subscrição. Com base nesta atribuição de funções, os membros do grupo podem aceder e gerir recursos sob a subscrição.
 
-- Quando um cliente remove os privilégios de administração delegados de um parceiro que utiliza o Portal do Office 365, o parceiro ainda pode gerir a subscrição Azure do cliente, desde que o parceiro ainda esteja atribuído a uma ou mais funções sob a subscrição. Para impedir que o parceiro gere a subscrição do Azure, o cliente deve remover a atribuição de funções.
+- Quando um cliente remove os privilégios de administração delegados de um parceiro que utiliza Office 365 Portal, o parceiro ainda pode gerir a subscrição Azure do cliente desde que o parceiro ainda esteja atribuído a uma ou mais funções sob a subscrição. Para impedir que o parceiro gere a subscrição do Azure, o cliente deve remover a atribuição de funções.
 
 ## <a name="windows-autopilot"></a>Windows Autopilot
 
@@ -97,9 +97,9 @@ A partir do Partner Center, os parceiros da CSP podem gerir perfis autopilotos p
 
 - Pode gerir os dispositivos de cliente que você ou outro parceiro adicionou. 
 
-- Não é possível gerir dispositivos que o seu cliente adicionou através da Microsoft Store for Business, Microsoft Store for Education ou Microsoft Intune Portal.
+- Não é possível gerir dispositivos que o seu cliente adicionou através do portal Microsoft Store para Empresas, Microsoft Store para Educação ou Microsoft Intune.
 
-Para obter mais informações sobre o Autopilot, consulte [a configuração do dispositivo Simplificar com o Windows Autopilot](autopilot.md).
+Para obter mais informações sobre o Autopilot, consulte [a configuração do dispositivo Simplificar com Windows Autopilot](autopilot.md).
 
 >[!IMPORTANT]  
 >A atual experiência de gestão do Autopilot no Partner Center pode continuar a mudar. No momento da publicação deste artigo, estão a ser consideradas as seguintes alterações:

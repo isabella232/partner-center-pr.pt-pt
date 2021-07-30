@@ -4,17 +4,17 @@ description: Aprenda a criar um cliente de educação e venda-lhes ofertas no Pa
 ms.topic: how-to
 ms.date: 12/17/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-pricing
 author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9d0cff4883e084ccc0acb37d8c3119d91e3f5530
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 2d9924b8d361be4237c613467a1d36db29cf7d9e
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276455"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114842954"
 ---
 # <a name="how-to-sell-offers-to-education-customers-and-how-to-create-an-education-customer-in-partner-center"></a>Como vender ofertas a clientes de educação e como criar um cliente de educação no Partner Center
 
@@ -22,7 +22,7 @@ ms.locfileid: "112276455"
 
 ## <a name="create-an-education-customer"></a>Create an education customer (Criar um cliente do Education)
 
-Este artigo explica como criar um cliente de educação no Partner Center e vender-lhes produtos de educação. Abrange igualmente a forma de visualizar o estado de verificação e de reenviar o pedido de verificação, se necessário. Atualmente, as ofertas de educação só estão **disponíveis para serviços baseados em licenças** como o Microsoft 365, Dynamics, Intune, etc. Não está disponível para outros tipos (subscrições de software, software perpétuo ou produtos Azure).
+Este artigo explica como criar um cliente de educação no Partner Center e vender-lhes produtos de educação. Abrange igualmente a forma de visualizar o estado de verificação e de reenviar o pedido de verificação, se necessário. Atualmente, as ofertas de educação só estão **disponíveis para serviços baseados em licenças,** tais como Microsoft 365, Dynamics, Intune, etc. Não está disponível para outros tipos (subscrições de software, software perpétuo ou produtos Azure).
 
 > [!IMPORTANT]
 > A Microsoft verifica cada inquilino de clientes de educação recém-criado para garantir que estão qualificados para ofertas de educação.  Certifique-se de que introduz as informações necessárias da forma mais precisa e completa possível para evitar atrasos no processo de verificação.
@@ -72,15 +72,15 @@ Se o seu cliente falhar na verificação inicial, pode agora corrigir informaç�
 
 ### <a name="correct-the-customer-account-information"></a>Corrigir as informações da conta do cliente
 
-Deve ter privilégios de administração global para atualizar a informação do cliente. Atualize a informação no portal do Office 365 porque estes dados não podem ser atualizados a partir do portal Partner Center.
+Deve ter privilégios de administração global para atualizar a informação do cliente. Atualiza a informação no portal Office 365 porque estes dados não podem ser atualizados a partir do portal Partner Center.
 
 1. Na página **Conta,** verá informações indicando que a qualificação do cliente é considerada como "Não um cliente de educação".
 
 2. Refresque o seu navegador para redefinir a página. Haverá um botão **de atualização** e **o estado das qualificações especiais** está definido para **Nenhum**.
 
-3. Selecione **Atualizar**. Na página gestão de **serviços,** selecione **Office 365**.
+3. Selecione **Atualizar**. Na página **Gestão** de Serviços, selecione **Office 365**.
 
-4. Você será redirecionado para o centro de administração do Office 365 em um novo separador do seu navegador. Pode ser solicitado que assine com as suas credenciais.
+4. Você será redirecionado para o centro de administração Office 365 em um novo separador do seu navegador. Pode ser solicitado que assine com as suas credenciais.
 
 5. Selecione **Definições**.
 
@@ -100,4 +100,4 @@ Deve ter privilégios de administração global para atualizar a informação do
 
 - [Adicionar um novo cliente](add-a-new-customer.md)
 
-- [Vender Minecraft: Subscrições da Education Edition para clientes de educação](minecraft-subscriptions.md)
+- [Venda Minecraft: Education Edition assinaturas a clientes de educação](minecraft-subscriptions.md)

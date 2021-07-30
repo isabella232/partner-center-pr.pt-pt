@@ -3,18 +3,18 @@ title: Verifique a saúde do serviço para um cliente
 ms.topic: how-to
 ms.date: 05/05/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-support
 description: Aprenda a usar o Partner Center para verificar a saúde do serviço para um cliente quando este se desmente com um problema com um serviço.
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: db5856914ab988a8fc3beefeb5c425846383a921
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: d8d9bc05d2fe5ca87c5fa9f13371305a48fb6a52
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110149133"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114842716"
 ---
 # <a name="check-service-health-for-a-customer-reporting-a-potential-service-problem-or-outage"></a>Verifique a saúde do serviço para um cliente que reporte um potencial problema de serviço ou paralisação
 
@@ -31,13 +31,13 @@ Este artigo explica como usar o Partner Center para verificar a saúde do servi�
 >[!NOTE] 
 > As ligações de saúde de serviço nas páginas **de gestão** do Serviço levarão o parceiro ao centro de administração M365 ou ao portal Azure como **administrador delegado.** Assim que o parceiro chegar a qualquer destino, o parceiro pode navegar para as páginas de saúde do serviço em qualquer um dos portais para mais detalhes sobre a paralisação.
  
-Durante uma paragem de serviço, a Microsoft fornece atualizações regulares enquanto trabalhamos para resolver o problema. Estas notificações também são apresentadas no portal Microsoft Azure ou no Microsoft 365 admin Center.
+Durante uma paragem de serviço, a Microsoft fornece atualizações regulares enquanto trabalhamos para resolver o problema. Estas notificações também são apresentadas no portal Microsoft Azure ou no Centro de Administração Microsoft 365.
 
 ## <a name="next-steps"></a>Passos seguintes 
 
 - Se o problema persistir após o fim da paralisação do serviço, apresente um pedido de serviço. Consulte [os problemas do Relatório em nome de um cliente](report-problems-on-behalf-of-a-customer.md).
 
-- A Microsoft 365 e o Microsoft Azure fornecem apis cada um [que os parceiros podem usar para recuperar a saúde do serviço em tempo real,](get-automated-service-notifications-with-our-apis.md)comunicações do centro de mensagens e eventos de manutenção planeados.
+- Microsoft 365 e Microsoft Azure cada um fornece [APIs que os parceiros podem usar para recuperar a saúde do serviço em tempo real,](get-automated-service-notifications-with-our-apis.md)comunicações do centro de mensagens e eventos de manutenção planeados.
 
  
 

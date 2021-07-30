@@ -3,18 +3,18 @@ title: Renew your MPN offers (Renovar as ofertas da MPN)
 ms.topic: article
 ms.date: 02/04/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
+ms.subservice: partnercenter-benefits
 description: Renovar as ofertas da Microsoft Partner Network (MPN) para competências e especializações avançadas - a janela de renovação começa o aniversário da data de compra mais um dia.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2b88e3ceee001a79b80a38408e6bb6b1f1940a07
-ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
+ms.openlocfilehash: f6c710675f659d25d42a1e858cee0d76952f1cf6
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "112551678"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114843039"
 ---
 # <a name="renew-your-mpn-offers-for-competencies-and-advanced-specializations-during-the-renewal-window"></a>Renove as suas ofertas de MPN para competências e especializações avançadas durante a janela de renovação
 
@@ -22,7 +22,7 @@ ms.locfileid: "112551678"
 
 ## <a name="responding-to-covid-19-microsoft-partner-network-update"></a>Respondendo ao COVID-19: Atualização da Microsoft Partner Network
 
-A Microsoft está a oferecer uma extensão de competências (com exceção da competência cloud business applications) e uma extensão avançada de especialização para parceiros com datas de aniversário entre 1 de janeiro de 2021 e 30 de junho de 2021. Para mais informações, consulte [o blog do parceiro post.](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/)
+A Microsoft está a oferecer uma extensão de competências (com exceção da competência cloud Business Applications) e uma extensão avançada de especialização para parceiros com datas de aniversário entre 1 de janeiro de 2021 e 30 de junho de 2021. Para mais informações, consulte [o blog do parceiro post.](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/)
 
 ## <a name="renewal-reminders"></a>Lembretes de renovação
 

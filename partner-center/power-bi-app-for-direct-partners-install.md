@@ -1,21 +1,21 @@
 ---
-title: Instalar Partner Center Analytics para Power BI
+title: Instale partner center analytics para Power BI
 ms.topic: article
 ms.date: 07/10/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
-description: Siga os passos deste artigo para instalar e pré-visualizar a app Partner Center Analytics para Power BI (para parceiros diretos em CSP).
+ms.subservice: partnercenter-pricing
+description: Siga os passos deste artigo para instalar e pré-visualizar o aplicação Análise do Centro de Parceiros para Power BI (para parceiros diretos na CSP).
 fwlink: https://go.microsoft.com/fwlink/?linkid=852583
 author: v-sumukh
 ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ff95f989ac847bd2c17558d062c86a52110b2ddf
-ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
+ms.openlocfilehash: a07742a55df088842f6bac1a1cbdd65bf0db8282
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/24/2021
-ms.locfileid: "112565050"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114842662"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Install and preview the Partner Center Analytics app for Microsoft Power BI (Instalar e pré-visualizar a aplicação de Análise do Centro de Parceiros do Microsoft Power BI)
 
@@ -24,7 +24,7 @@ ms.locfileid: "112565050"
 
 ## <a name="before-you-begin"></a>Antes de começar
 
-Selecione a aplicação mais relevante para o seu negócio a partir da seguinte lista de aplicações disponíveis do Microsoft Power BI:
+Selecione a aplicação mais relevante para o seu negócio a partir da seguinte lista de aplicações disponíveis Power BI Microsoft:
 
 - [Provedor Direto](https://appsource.microsoft.com/product/power-bi/partnercenteranalytics.direct_provider_partner_analytics)
 
@@ -36,11 +36,11 @@ Antes de instalar a versão de pré-visualização da aplicação Partner Center
 
 - Escolha o aplicativo Power BI correto para o seu negócio.
 
-- Tem uma licença power bi pro.
+- Tem uma Power BI licença profissional.
 
 - Você tem permissões para instalar aplicativos de modelo no seu inquilino.
 
-- Pode inscrever-se no Power BI.
+- Pode entrar na Power BI.
 
 - Pode inscrever-se como administrador global, administrador ou administrador para o [inquilino Azure Ative Directory (Azure AD) da sua empresa.](azure-active-directory-tenants-and-partner-center.md)
 
@@ -54,7 +54,7 @@ Antes de instalar a versão de pré-visualização da aplicação Partner Center
 
 4. Já tem uma conta? **selecione Iniciar S-No**.
 
-5. Na página seguinte, insira o nome de utilizador e a palavra-passe do Power BI e, em seguida, selecione **Iniciar Sôm.**
+5. Na página seguinte, insira o nome de utilizador e a palavra-passe Power BI e, em seguida, selecione **Iniciar Sôm.**
 
 6. Instale o espaço de trabalho fornecendo o nome do espaço de trabalho.
 
@@ -62,11 +62,11 @@ Antes de instalar a versão de pré-visualização da aplicação Partner Center
 
 8. Selecione **Apps** e escolha as aplicações instaladas.
 
-9. Começa com o ecrã da tua nova aplicação aberta.
+9. Introdução com o seu novo ecrã de aplicações abre.
 
-10. Para ligar aos dados, selecione **Connect**.
+10. Para ligar aos dados, selecione **Ligação**.
 
-11. Na janela pop-up do **Connect to Partner Center Analytics,** verifique se o método de **Autenticação** está definido para **oAuth2** ou selecione **oAuth2** da lista se não for. 
+11. Na Ligação para a janela pop-up **Partner Center Analytics,** verifique se o método de **Autenticação** está definido para **oAuth2** ou selecione **oAuth2** da lista se não for. 
 
 > [!NOTE]  
 >  Esta janela pode demorar alguns minutos a aparecer.
@@ -75,10 +75,10 @@ Antes de instalar a versão de pré-visualização da aplicação Partner Center
  
 13. Quando solicitado para o acesso, **selecione Aceitar**. 
 
-Uma vez que o serviço Partner Center Analytics esteja ligado ao Power BI, os dados começarão a ser carregados. Dependendo da quantidade de dados, isto pode demorar até 10 minutos. 
+Uma vez que o serviço Partner Center Analytics esteja ligado a Power BI, os dados começarão a ser carregados. Dependendo da quantidade de dados, isto pode demorar até 10 minutos. 
 
-Depois de os dados terminarem o carregamento, pode começar a utilizar o painel de aplicações Partner Center Analytics e os relatórios no Power BI.
+Depois de os dados terminarem o carregamento, pode começar a utilizar o painel de aplicações Partner Center Analytics e os relatórios em Power BI.
 
 ## <a name="next-steps"></a>Passos seguintes
 
-[Veja os seus dados de negócio com a aplicação Partner Center Analytics para Microsoft Power BI](power-bi-app-for-direct-partners-use.md)
+[Veja os seus dados de negócio com a aplicação Partner Center Analytics para o Microsoft Power BI](power-bi-app-for-direct-partners-use.md)

@@ -3,24 +3,24 @@ title: Use analítica para insights de subscrição
 ms.topic: article
 ms.date: 11/13/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 description: Saiba como usar a análise no Partner Center para entender melhor o seu negócio e como os seus clientes usam as licenças que adquiriu.
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ae31e7d917e96763e107212a78f28bfa10acf2f4
-ms.sourcegitcommit: 3ac88f7925bfe1df90e267ee5c1ee4d752ac92d4
+ms.openlocfilehash: e94a57b6e93c86a24458862a3dd4a6ccc0b14885
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/29/2021
-ms.locfileid: "113013323"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114842121"
 ---
 # <a name="use-analytics-to-learn-more-about-subscription-revenue"></a>Use a análise para saber mais sobre as receitas de subscrição
 
 **Funções adequadas**: Administração global | Administrador sócio da MPN
 
-O planeamento de formas de desenvolver o seu negócio CSP inclui compreender como os seus clientes utilizam os produtos da Microsoft. Tem várias opções para recolher dados no Partner Center, e pode recolher dados sobre o seu negócio e sobre se e como os seus clientes estão a usar as licenças que compraram. Se estiver no modelo direto da CSP, também tem a oportunidade de instalar e utilizar a aplicação Partner Center Analytics para o Power BI para recolher dados adicionais.
+O planeamento de formas de desenvolver o seu negócio CSP inclui compreender como os seus clientes utilizam os produtos da Microsoft. Tem várias opções para recolher dados no Partner Center, e pode recolher dados sobre o seu negócio e sobre se e como os seus clientes estão a usar as licenças que compraram. Se estiver no modelo direto da CSP, também tem a oportunidade de instalar e utilizar o aplicação Análise do Centro de Parceiros para Power BI para recolher dados adicionais.
 
 ## <a name="access-to-the-subscription-analytics"></a>Acesso à Subscrição Analytics
 
@@ -33,7 +33,7 @@ O planeamento de formas de desenvolver o seu negócio CSP inclui compreender com
 
 ## <a name="trailing-twelve-month-ttm-csp-revenue"></a>Receitas da CSP de Twelve-Month (TTM)
 
-A fuga de receitas de CSP de 12 meses representa a receita do programa de fornecedores de solução cloud em USD a nível de Conta Global de Parceiros. Os dados são atualizados no oitavo de cada mês, para mostrar a receita de 12 meses até ao mês anterior. Por exemplo, no dia 9 de setembro de 2020, deverá poder ver o TTM para o período fixo de setembro de 2019 a agosto de 2020. As subscrições de software estão excluídas. As Receitas TTM refletirão apenas as receitas elegíveis para as quais as faturas já foram pagas. 
+A fuga de receitas de CSP de 12 meses representa a perda Fornecedor de Soluções em Nuvem receitas do programa em USD a nível de Conta Global de Parceiros. Os dados são atualizados no oitavo de cada mês, para mostrar a receita de 12 meses até ao mês anterior. Por exemplo, no dia 9 de setembro de 2020, deverá poder ver o TTM para o período fixo de setembro de 2019 a agosto de 2020. As subscrições de software estão excluídas. As Receitas TTM refletirão apenas as receitas elegíveis para as quais as faturas já foram pagas. 
 
 A receita apresentada no Partner Center é calculada por um intervalo de tempo fixo de 12 meses, e não pode ser modificada para um prazo mais curto.
 
@@ -70,7 +70,7 @@ A aplicação destes filtros não afetará a métrica das receitas da TTM no top
 
 - [Analise como os seus clientes estão a usar as licenças que compraram](increasing-adoption-and-satisfaction.md)  
 - [Ver registos de atividade de clientes](activity-logs.md)
-- [Aplicativo Partner Center Analytics para Power BI](power-bi-app-for-direct-partners.md)
+- [aplicação Análise do Centro de Parceiros para Power BI](power-bi-app-for-direct-partners.md)
 
 
 

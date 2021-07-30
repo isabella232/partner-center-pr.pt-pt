@@ -3,18 +3,18 @@ title: Atribuir funções & permissões aos utilizadores
 ms.topic: article
 ms.date: 10/30/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-enroll
 description: Saiba quais as funções mais bem possíveis para os utilizadores da sua empresa que gerem transações comerciais, referências, incentivos ou membros mpn no Partner Center.
 author: hemas
 ms.author: hemas
 ms.localizationpriority: high
 ms.custom: SEOMAY.20, contperf-fy21q1
-ms.openlocfilehash: a9cca322d7a37dce099c5bec44530b2006da7758
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: 07bfa5fc59f7f3b29abbc3902f2cb2dd98738c28
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114373662"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114843073"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>Atribuir funções e permissões aos utilizadores de uma empresa que necessite de trabalhar no Partner Center
 

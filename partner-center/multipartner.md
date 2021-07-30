@@ -3,26 +3,26 @@ title: Suporte de vários parceiros
 ms.topic: article
 ms.date: 11/29/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
-description: Um cliente pode querer trabalhar com vários parceiros no programa Cloud Solution Provider especializado em diferentes serviços.
+ms.subservice: partnercenter-customers
+description: Um cliente pode querer trabalhar com vários parceiros no programa Fornecedor de Soluções em Nuvem especializado em diferentes serviços.
 author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b41d3ee33b789c8f839ff1b3b5f5d8fd27c23f02
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: a5d7e17e79ba97edfece5eda990349aa949909cd
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110151156"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114843090"
 ---
 # <a name="multi-partner-support-for-customers-who-want-to-work-with-more-than-one-partner"></a>Apoio multi-parceiro para clientes que querem trabalhar com mais de um parceiro
 
-**Aplica-se a**: Partner Center | Centro de Parceiros para Microsoft Cloud para governo dos EUA
+**Aplica-se a**: Partner Center | Centro de Parceiros para Microsoft Cloud for US Government
 
 **Funções adequadas**: Administração global | Administração de administração de utilizadores | Agente comercial
 
-A funcionalidade multi-parceira do Partner Center suporta cenários quando um cliente quer trabalhar com mais do que um parceiro. Por exemplo, um cliente pode querer contratar um parceiro para a sua experiência no Office 365, mas contratar um parceiro diferente especializado na Microsoft Azure.
+A funcionalidade multi-parceira do Partner Center suporta cenários quando um cliente quer trabalhar com mais do que um parceiro. Por exemplo, um cliente pode querer contratar um parceiro pela sua experiência em Office 365, mas contratar um parceiro diferente especializado em Microsoft Azure.
 
 Um inquilino da Azure CSP pode incluir uma subscrição adicional da Azure de um parceiro CSP diferente.
 

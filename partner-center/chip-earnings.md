@@ -9,12 +9,12 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 74606a4c7f52e5aa23f7e963cab27e491c436b59
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: a8703d9a8c482ac3fba5497780b2f5163bf86061
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110149031"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114842660"
 ---
 # <a name="view-earnings-using-the-chip-tool"></a>Ver ganhos utilizando a ferramenta CHIP
 

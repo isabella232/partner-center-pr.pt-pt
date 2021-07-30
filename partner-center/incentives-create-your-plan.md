@@ -8,12 +8,12 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 31bed9eabcd63f80c7924b264e7abf04dab4b543
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 387be6313a1e775963c86714a6c5c825a2ca8169
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110146804"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114842338"
 ---
 # <a name="generate-a-marketing-plan-for-your-incentives-program"></a>Gere um plano de marketing para o seu programa de incentivos
 

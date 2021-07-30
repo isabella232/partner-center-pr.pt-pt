@@ -3,28 +3,28 @@ title: Adicionar serviços partilhados a parceiro Azure
 description: Use os Serviços Partilhados Azure Partner para comprar subscrições Azure para seu próprio uso, e para ter um método uniforme para comprar, rastrear e gerir a Azure.
 ms.topic: article
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-pricing
 author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 11/11/2020
-ms.openlocfilehash: 40ba485cecce394dc81632d01f8774859690c522
-ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
+ms.openlocfilehash: 35c5d378f66071f3c97abdf74eec27e78a8ac778
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "112551610"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114842053"
 ---
 # <a name="add-azure-partner-shared-services-so-partners-can-buy-azure-subscriptions-for-their-own-use"></a>Adicione serviços partilhados azure partner para que os parceiros possam comprar subscrições Azure para seu próprio uso
 
 **Funções adequadas**: Administração global | Agente administrativo | Agente comercial
 
-AZure Partner Shared Services (APSS) é um novo tipo de oferta para parceiros no programa Cloud Solution Provider (CSP), permitindo aos parceiros adquirirem subscrições Azure para uso próprio.Cria a oportunidade para os parceiros usarem um método uniforme para comprar, rastrear e gerir o Azure, além da capacidade de consolidar os seus acordos de licenciamento e revenda da Azure com a Microsoft. Com a APSS, os parceiros têm agora a mesma flexibilidade para usar subscrições Azure em CSP como fazem no Microsoft Enterprise Agreement e programas Web Direct, abrindo cenários como: construir ambientes de desenvolvimento e teste, implementar cargas de trabalho internas e hospedar serviços partilhados ou aplicações multi-arrendadas.  
+A Azure Partner Shared Services (APSS) é um novo tipo de oferta para parceiros no programa Fornecedor de Soluções em Nuvem (CSP), permitindo aos parceiros adquirir subscrições Azure para seu próprio uso.Cria a oportunidade para os parceiros usarem um método uniforme para comprar, rastrear e gerir o Azure, além da capacidade de consolidar os seus acordos de licenciamento e revenda da Azure com a Microsoft. Com a APSS, os parceiros têm agora a mesma flexibilidade para usar subscrições Azure em CSP como fazem nos programas Microsoft Contrato Enterprise e Web Direct, abrindo cenários como: construir ambientes de desenvolvimento e teste, implementar cargas de trabalho internas e hospedar serviços partilhados ou aplicações multi-arrendatários.  
 
 ## <a name="create-the-shared-services-tenant"></a>Crie o inquilino de serviços partilhados
 
-1. Ir para **Definições**  >  **definições de conta Serviços**  >  **partilhados**.
+1. Ir para **Definições**  >  **Configurações de Conta Serviços**  >  **partilhados**.
 
    :::image type="content" source="images/sharedservices2.png" alt-text="Definições de conta > Serviços Partilhados":::
 
@@ -44,13 +44,13 @@ AZure Partner Shared Services (APSS) é um novo tipo de oferta para parceiros no
 
 - A oferta Azure - Serviços Internos/Partilhados só pode ser aplicada ao arrendatário de serviços partilhados.
 
-- A utilização primária para a subscrição Azure - Serviços Internos/Partilhados é para que possa utilizar o Azure para os seus próprios fins de desenvolvimento. O inquilino partilhado que utiliza para oferecer esta oferta não pode ser usado para outros serviços, como licenças Office 365 ou Dynamics.
+- A utilização primária para a subscrição Azure - Serviços Internos/Partilhados é para que possa utilizar o Azure para os seus próprios fins de desenvolvimento. O inquilino partilhado que utiliza para oferecer esta oferta não pode ser usado para outros serviços, como licenças Office 365 ou Dinâmica.
 
 - Pode cancelar a subscrição como qualquer outra subscrição. Ir às **definições**  >  **Ver todas as definições**  >  **Serviços partilhados**. Selecione a subscrição Azure - Serviços Internos/Partilhados e cancele-a.
 
 ## <a name="accessing-azure-partner-shared-services-consumption-details"></a>Aceder aos detalhes do consumo de serviços partilhados do Azure Partner
 
-Encontrará o consumo do Azure na sua fatura CSP e no ficheiro de reconciliação. Será incluído como parte do item da linha Microsoft Azure na fatura. A informação detalhada sobre o consumo estará disponível no ficheiro de reconciliação registado contra o inquilino que foi criado para esta oferta.
+Encontrará o consumo do Azure na sua fatura CSP e no ficheiro de reconciliação. Será incluído como parte de Microsoft Azure item de linha na fatura. A informação detalhada sobre o consumo estará disponível no ficheiro de reconciliação registado contra o inquilino que foi criado para esta oferta.
 
 ## <a name="azure-partner-shared-services-pricing"></a>Preços dos Serviços Partilhados Azure Partner
 

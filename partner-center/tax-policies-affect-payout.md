@@ -3,16 +3,16 @@ title: Como as políticas fiscais afetam o pagamento do Azure Marketplace
 description: Saiba como as políticas fiscais afetam o pagamento do Azure Marketplace.
 ms.topic: conceptual
 ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
+ms.subservice: partnercenter-payouts
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 02/09/2021
-ms.openlocfilehash: 32c5cda9558aaaeddaf194eb8258ba732e2ac698
-ms.sourcegitcommit: 09eabb559aae25518caf3f2a59ef16a3e123c207
+ms.openlocfilehash: 6a069db0334b13309e39e08bcc7b70f22eaa5c69
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "112489973"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114842818"
 ---
 # <a name="how-tax-policies-affect-payout-for-azure-marketplace"></a>Como as políticas fiscais afetam o pagamento do Azure Marketplace
 
@@ -27,7 +27,7 @@ Para melhor compreender os seguintes cenários, consulte a tabela [de detalhes f
 > [!NOTE]
 > Todos os exemplos de valores de venda e percentagens fiscais neste tópico são apenas para fins ilustrativos, não números exatos.
 
-## <a name="publisher-transacts-in-microsoft-managed-tax-country"></a>Transts editoriais no País Fiscal gerido pela Microsoft
+## <a name="publisher-transacts-in-microsoft-managed-tax-country"></a>Publisher Transações no País Fiscal gerido pela Microsoft
 
 **Cenário A** – Transações que ocorrem entre um editor e um cliente num [país fiscal gerido pela Microsoft.](tax-details-marketplace.md#microsoft-managed-countries) Estas transações terão o imposto aplicável adicionado no momento da venda e a Microsoft envia esse imposto para o país aplicável. Nenhum imposto é retido do pagamento e os cálculos de pagamento são exclusivos dos impostos.
 
@@ -35,13 +35,13 @@ Consulte [o Cenário D](#foreign-publisher-transacts-with-us-customer) para tran
 
 :::image type="content" source="images/tax-policies/payout-scenario-a.png" alt-text="Mostra fluxo de trabalho para o cenário de processo de pagamento A.":::
 
-## <a name="publisher-transacts-in-microsoft-managed-tax-country-where-marketplace-fee-is-taxable-service"></a>Transts editoriais no País Fiscal gerido pela Microsoft onde a Taxa de Mercado é serviço tributável
+## <a name="publisher-transacts-in-microsoft-managed-tax-country-where-marketplace-fee-is-taxable-service"></a>Publisher Transações no País Fiscal gerido pela Microsoft onde a Taxa de Mercado é Serviço Tributável
 
 **Cenário B** – Transações que ocorrem entre um editor com sede nos EUA (conforme definido pela sua Informação de Perfil Fiscal do Partner Center) a um cliente num país fiscal gerido pela Microsoft onde o país impõe um imposto sobre a Taxa de Mercado (um serviço tributável). Neste cenário, o imposto sobre a taxa de serviço da loja é subtraído do pagamento da editora.
 
 :::image type="content" source="images/tax-policies/payout-scenario-b.png" alt-text="Mostra fluxo de trabalho para o cenário de processo de pagamento B.":::
 
-## <a name="publisher-transacts-in-publisher-managed-tax-country"></a>Publisher Transacts em País Fiscal gerido por editores
+## <a name="publisher-transacts-in-publisher-managed-tax-country"></a>Publisher Transações no país fiscal gerido pelo Publisher
 
 **Cenário C** – Transações que ocorrem entre um editor e um cliente num país fiscal gerido por editores que não impõe uma retenção na fonte aos clientes. Os clientes não pagam imposto no ponto de venda e é obrigação da editora pagar todos os impostos aplicáveis.
 
@@ -49,7 +49,7 @@ Para obter mais informações sobre preços específicos de cada país (por exem
 
 :::image type="content" source="images/tax-policies/payout-scenario-c.png" alt-text="Mostra fluxo de trabalho para o cenário do processo de pagamento C.":::
 
-## <a name="foreign-publisher-transacts-with-us-customer"></a>Transtas de Editores Estrangeiros com Cliente dos EUA
+## <a name="foreign-publisher-transacts-with-us-customer"></a>Transações de Publisher Estrangeiras com Cliente dos EUA
 
 **Cenário D** – Todos os editores estrangeiros (conforme definido pela sua Informação de Perfil Fiscal do Partner Center) em países sem tratado dos EUA (ver [Cenário E)](#foreign-publisher-with-a-treaty-transacts-with-us-customer)fazendo uma venda a um cliente com sede nos EUA (conforme definido pelo endereço da sua conta de cliente). O governo dos EUA exige que a Microsoft retenha o imposto em nome da editora. O imposto retido do pagamento ao editor é calculado com base no preço da oferta.
 
@@ -75,5 +75,5 @@ Para obter mais informações sobre preços específicos de cada país (por exem
 
 ## <a name="next-steps"></a>Passos seguintes
 
-- [Editor FAQ](/azure/marketplace/marketplace-faq-publisher-guide)
+- [Publisher Perguntas Frequentes](/azure/marketplace/marketplace-faq-publisher-guide)
 - [Instruções para criar perfis de pagamento e impostos](./set-up-your-payout-account.md?context=%2fazure%2fmarketplace%2fcontext%2fcontext#create-a-payment-profile)

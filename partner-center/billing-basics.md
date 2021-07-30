@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 01/28/2021
 description: Aprenda informações básicas de faturação e fatura para parceiros CSP no Partner Center. Inclui como cobrar aos clientes e como encontrar e ler a sua fatura.
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-billing
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7fe03aa2b1d30c1146b8a14b6659c82cdcc52d9d
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 7400aaa2208fa35ccc4efa439cd8d7ee597733b9
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110149235"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114842750"
 ---
 # <a name="billing-overview-for-csp-program-partners-working-in-partner-center"></a>Descrição geral da faturação para parceiros do programa CSP que trabalham no Centro de Parceiros 
 
@@ -61,7 +61,7 @@ Para a faturação única e recorrente, o período de faturação está alinhado
 
 As listas de preços são atualizadas mensalmente. As listas de preços de pré-visualização estão disponíveis com um (1) mês de antecedência.
 
-Para ver os mais recentes programas e ofertas do Cloud Solution Provider, a partir do painel de instrumentos do Portal dos **Parceiros,** vá ao Sell > Preços e Ofertas . Encontrará listas de preços separadas para os diferentes tipos de produtos disponíveis. As seguintes listas de preços estão disponíveis na página **de Preços e Ofertas:**
+Para ver os mais recentes programas e ofertas de Fornecedor de Soluções em Nuvem, a partir do painel de instrumentos do Portal dos **Parceiros,** vá ao Sell > Preços e Ofertas . Encontrará listas de preços separadas para os diferentes tipos de produtos disponíveis. As seguintes listas de preços estão disponíveis na página **de Preços e Ofertas:**
 
 Os preços **baseados na licença** são garantidos para o prazo da subscrição, geralmente 12 meses a partir da data de compra. 
 
@@ -110,7 +110,7 @@ As taxas de serviço medidos podem ser alteradas dentro do ciclo da fatura.
 
 - É cobrado com antecedência para o próximo período de faturação de serviços baseados em licenças, com base no número de licenças no final do período de faturação anterior. 
 
-- Você é cobrado/creditado em atraso para quaisquer alterações no número de licenças (cálculo pró-rata com base em dias de licença). O cálculo pró-rata utiliza a seguinte fórmula: 
+- Você é cobrado/creditado em atraso para quaisquer alterações no número de licenças (cálculo pró-rata com base em dias de licença). Pro-rata utiliza a seguinte fórmula: 
 
   - [ROUND((ROUND(Preço unitário * Quantidade / Número de dias no mês pró-nominal, 2) * Número de dias pró-avaliados) / Quantidade, 2) * Quantidade] 
 

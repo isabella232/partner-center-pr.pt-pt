@@ -3,24 +3,24 @@ title: Mercados globais da CSP
 ms.topic: article
 ms.date: 04/15/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-enroll
 description: Veja os países, regiões e moedas onde pode vender ofertas de CSP, com base na localização da sua empresa.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c3467ec4cf056d04392d3cbe9a61c66a80fc9bdb
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: b05fb7880f43867c151bd62bd1d94c2f19add3a5
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110153009"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114842082"
 ---
-# <a name="cloud-solution-provider-program-regional-markets-and-currencies-where-you-can-sell-csp-offers"></a>Cloud Solution Provider programa mercados regionais e moedas onde pode vender ofertas de CSP
+# <a name="cloud-solution-provider-program-regional-markets-and-currencies-where-you-can-sell-csp-offers"></a>Fornecedor de Soluções em Nuvem programa mercados regionais e moedas onde pode vender ofertas de CSP
 
 **Funções apropriadas**: Administração global
 
-A localização da sua empresa determina o seu mercado. O seu mercado inclui as regiões e/ou países onde pode vender ofertas de programas cloud solution provider (CSP).
+A localização da sua empresa determina o seu mercado. O seu mercado inclui as regiões e/ou países onde pode vender Fornecedor de Soluções em Nuvem (CSP) oferece.
 
 Por exemplo, se a sua empresa estiver localizada nos Estados Unidos, pode vender ofertas de CSP a clientes nos EUA e nas Ilhas Desatadas dos EUA. Se a sua empresa estiver localizada no Brasil, pode vender ofertas de CSP apenas no Brasil. Se a sua empresa estiver localizada na região africana, pode vender ofertas de CSP a clientes de todos os 18 países da região africana.
 
@@ -38,7 +38,7 @@ Para determinar onde pode vender ofertas de CSP, encontre a localização da sua
 
 ## <a name="for-unsupported-countries"></a>Para países não apoiados
 
-Se o seu país não for apoiado, estabeleça a relação CSP do cliente utilizando o URL de administração do Office. 
+Se o seu país não for apoiado, estabeleça a relação CSP do cliente utilizando o URL de administração Office. 
 
 - Os parceiros de conta direta usam o seguinte url: https://portal.office.com/partner/partnersignup.aspx?type=ResellerRelationship&id=partnertenantguid&csp=1&msppid=0 . Substitua **o partnertenantguid** pelo seu ID do inquilino. 
 

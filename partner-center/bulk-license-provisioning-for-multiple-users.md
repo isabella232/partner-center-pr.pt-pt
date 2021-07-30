@@ -3,18 +3,18 @@ title: Assign or revoke licenses to multiple users (Atribuir ou revogar licença
 ms.topic: how-to
 ms.date: 07/02/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-customers
 description: Saiba como utilizar uma conta de cliente para atribuir ou revogar licenças e serviços a um utilizador ou a vários utilizadores ao mesmo tempo.
 author: amitravat
 ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 79f66e759385f6c7c7928dba58e052ea8699cf21
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 256e93499a3a9b2786d8d1a309077b645aecd81c
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110149218"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114842376"
 ---
 # <a name="assign-or-revoke-licenses-at-the-same-time-to-multiple-users-in-a-customer-account"></a>Atribuir ou revogar licenças ao mesmo tempo a vários utilizadores numa conta de cliente
 
@@ -56,7 +56,7 @@ O Partner Center rastreia e mostra todos os direitos de licença do cliente.
 
 6. Sob **licenças de atribuição e revogação,** selecione as licenças de produto para os novos utilizadores. 
 
-   Por exemplo, se nenhum dos utilizadores selecionados tiver licenças do Office 365 Enterprise e quiser adicioná-las, selecione a caixa de verificação. Precisa de licenças suficientes para cada produto selecionado.
+   Por exemplo, se nenhum dos utilizadores selecionados tiver licenças Office 365 Enterprise e quiser adicioná-las, selecione a caixa de verificação. Precisa de licenças suficientes para cada produto selecionado.
 
 7. Selecione mais de um produto para os utilizadores selecionando a caixa de verificação de cada produto.
     -   Selecione **Os planos de serviço** para qualquer produto, para visualizar e selecionar os planos de serviço de que os utilizadores precisam.
@@ -82,7 +82,7 @@ O Partner Center rastreia e mostra todos os direitos de licença do cliente.
 
 6. Sob **licenças de atribuição e revogação, limpe** as caixas de verificação dos produtos atribuídos aos utilizadores.
 
-   Por exemplo, se todos os utilizadores selecionados tiverem licenças do Office 365 Enterprise e quiser revogar as licenças, selecione a caixa de verificação para limpá-la.
+   Por exemplo, se todos os utilizadores selecionados tiverem licenças Office 365 Enterprise e quiser revogar as licenças, selecione a caixa de verificação para a limpar.
 
 7. Selecione **Guardar**.
 

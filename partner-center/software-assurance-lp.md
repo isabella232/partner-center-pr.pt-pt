@@ -3,18 +3,18 @@ title: Programas de garantia de software
 ms.topic: article
 ms.date: 08/19/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
+ms.subservice: partnercenter-benefits
 description: Inscreva-se num programa de Software Assurance para construir negócios e seja compensado por fornecer formação e planeamento a clientes empresariais.
 author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cccb1701e196781b2e002ef6bb37f0e47521b2b5
-ms.sourcegitcommit: 09eabb559aae25518caf3f2a59ef16a3e123c207
+ms.openlocfilehash: 2a2e09710d67e6ed86523b6207e882f34c32810e
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "112489939"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114842461"
 ---
 # <a name="participate-in-software-assurance-programs-including-training-vouchers-and-planning-services"></a>Participe em programas de Garantia de Software, incluindo vouchers de formação e serviços de planeamento
 

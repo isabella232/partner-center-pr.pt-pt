@@ -1,26 +1,26 @@
 ---
-title: Visão geral do programa do Provedor de Solução de Nuvem
+title: Visão geral do programa Fornecedor de Soluções em Nuvem
 ms.topic: article
 ms.date: 10/29/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
-description: Saiba mais sobre os benefícios e diferentes modelos do programa Cloud Solution Provider (CSP) para ajudar o seu negócio a crescer com novos clientes e novas experiências.
+ms.subservice: partnercenter-enroll
+description: Saiba mais sobre os benefícios e diferentes modelos do programa Fornecedor de Soluções em Nuvem (CSP) para ajudar o seu negócio a crescer com novos clientes e novas experiências.
 author: billlinzbach
 ms.author: billLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8afa7b060d2d78c7f2dfaee7007bb13756917d13
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 61117b77efdb447abad482654afc7220aa2bcce6
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110147569"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114842337"
 ---
 # <a name="cloud-solution-provider-program"></a>Programa Fornecedor de Soluções Cloud 
 
 **Funções adequadas**: Todos os parceiros interessados em aprender mais sobre a CSP
 
-Este artigo apresenta uma visão geral do programa Cloud Solution Provider (CSP) e explica os diferentes modelos operacionais e os seus requisitos, bem como outros detalhes sobre a venda através deste programa.  O programa CSP ajuda-o a envolver-se mais nos negócios dos seus clientes, para além da revenda de licenças, e pode incluir os seguintes benefícios: 
+Este artigo apresenta uma visão geral do programa Fornecedor de Soluções em Nuvem (CSP) e explica os diferentes modelos operacionais e seus requisitos, bem como outros detalhes sobre a venda através deste programa.  O programa CSP ajuda-o a envolver-se mais nos negócios dos seus clientes, para além da revenda de licenças, e pode incluir os seguintes benefícios: 
 
 - Compromissos mais profundos com o cliente: Reunir-se regularmente com os seus clientes significa que desenvolverá uma melhor compreensão dos seus negócios e necessidades.
 - Aumento dos lucros: Oferecer serviços de apoio e faturação acrescidos, quer por conta própria, quer através de um prestador indireto, abre novos fluxos de receitas.  
@@ -31,14 +31,14 @@ Este artigo apresenta uma visão geral do programa Cloud Solution Provider (CSP)
 
 ### <a name="indirect-model"></a>Modelo indireto
 
-A Microsoft ajuda todos os parceiros que participam no programa Cloud Solution Provider a encontrar o melhor modelo para o seu negócio crescer. A Microsoft construiu uma rede global de fornecedores indiretos qualificados que ajudam os parceiros a crescer o seu negócio em nuvem com sucesso no programa Cloud Solution Provider. Ao juntar-se como revendedor indireto, pode acelerar o seu acesso ao mercado com uma complexidade operacional minimizada. 
+A Microsoft ajuda todos os parceiros que participam no programa Fornecedor de Soluções em Nuvem encontrar o melhor modelo para o seu negócio crescer. A Microsoft construiu uma rede global de fornecedores indiretos qualificados que ajudam os parceiros a crescer o seu negócio na nuvem com sucesso no programa Fornecedor de Soluções em Nuvem. Ao juntar-se como revendedor indireto, pode acelerar o seu acesso ao mercado com uma complexidade operacional minimizada. 
 
 Como revendedor indireto, pode trabalhar com fornecedores indiretos que podem fornecer as ferramentas e recursos para ajudá-lo a gerir a sua relação com o cliente. Com o modelo indireto, pode adquirir a um fornecedor indireto que possa colaborar consigo para apoio ao cliente e faturação.
 O que vai precisar: 
 
 - Uma adesão ativa na Microsoft Partner Network e MPN ID para a localização em que pretende vender.
 - A capacidade de assinar acordos legais em nome da sua organização
-- Uma relação com um [fornecedor oficial da Microsoft indireto](https://partnercenter.microsoft.com/partner/find-a-provider) no programa Cloud Solution Provider
+- Uma relação com um [fornecedor oficial da Microsoft indireto](https://partnercenter.microsoft.com/partner/find-a-provider) no programa Fornecedor de Soluções em Nuvem
 
 ### <a name="direct-bill-model"></a>Modelo de conta direta
 
@@ -46,10 +46,10 @@ No modelo de conta direta, os parceiros compram produtos e subscrições da Micr
 
 #### <a name="requirements"></a>Requisitos
 
-Reveja os requisitos e recomendações de inscrição de conta direta atualizados abaixo para avaliar como pode construir e expandir um negócio mais rentável com o modelo certo no programa Cloud Solution Provider:  
+Reveja os requisitos e recomendações de inscrição de conta direta atualizados abaixo para avaliar como pode construir e expandir um negócio mais rentável com o modelo certo no programa Fornecedor de Soluções em Nuvem:  
 
 - **Suporte:** Expanda as suas capacidades de suporte comprando suporte de nuvem um-a-um, priorizado com um pacote de Suporte Avançado para Parceiros da Microsoft. Ou, escolha um pacote microsoft Premier Support for Partners para aceder ao catálogo completo de serviços proactivos, suporte elevado de break/correção 24/7 e gestão técnica de conta através da nuvem, híbrido e no local. Reveja o Acordo de Parceiro da Microsoft para compreender melhor a sua obrigação de suporte
-- **Requisito de desempenho:** Certifique-se de que tem pelo menos USD300K no programa Cloud Solution Provider receitas anuais durante os doze meses anteriores como revendedor indireto. Os parceiros podem rever as suas receitas de 12 meses no Partner Center. As vendas que compõem o seu USD300K com receitas de 12 meses estão sujeitas a revisão e verificação pela Microsoft e poderá ser-lhe pedido que forneça informações adicionais. O requisito de receitas de USD300K é calculado com base nas receitas da nuvem e excluirá software perpétuo em CSP.
+- **Requisito de desempenho:** Certifique-se de que tem pelo menos 300mil dólares em Fornecedor de Soluções em Nuvem receitas anuais do programa durante os doze meses anteriores como revendedor indireto. Os parceiros podem rever as suas receitas de 12 meses no Partner Center. As vendas que compõem o seu USD300K com receitas de 12 meses estão sujeitas a revisão e verificação pela Microsoft e poderá ser-lhe pedido que forneça informações adicionais. O requisito de receitas de USD300K é calculado com base nas receitas da nuvem e excluirá software perpétuo em CSP.
 - Cumprir as capacidades mínimas de infraestrutura, tais como faturação e provisionamento
 - Uma adesão ativa na Microsoft Partner Network e MPN ID para a localização em que pretende vender.
 
@@ -59,7 +59,7 @@ Reveja os requisitos e recomendações de inscrição de conta direta atualizado
 
 ## <a name="where-can-i-sell-through-the-csp-program"></a>Onde posso vender através do programa CSP?
 
-A localização da sua empresa determina o seu mercado. O seu mercado inclui as regiões e/ou os países onde pode vender ofertas do CSP. Consulte [o programa Cloud Solution Provider mercados regionais e moedas](regional-authorization-overview.md) para a lista completa de mercados e moedas CSP.
+A localização da sua empresa determina o seu mercado. O seu mercado inclui as regiões e/ou os países onde pode vender ofertas do CSP. Consulte [Fornecedor de Soluções em Nuvem programa mercados regionais e moedas](regional-authorization-overview.md) para a lista completa de mercados e moedas da CSP.
 
 Antes de poder encomendar ofertas de CSP em nome de um cliente, o cliente deve assinar o Microsoft Customer Agreement. Pode encontrar [aqui](agreements.md)o Acordo de Cliente da Microsoft aplicável para a localização do seu cliente.  
 
@@ -74,4 +74,4 @@ Pode vender toda a gama de [serviços na nuvem](https://partner.microsoft.com/cl
 - [Aplicar para vender em nuvens nacionais da Microsoft](csp-national-clouds-overview.md)
 - [Acordos de Clientes da Microsoft por região e idioma](agreements.md)
 - [Parceiro com revendedores indiretos no programa Fornecedor de Soluções Cloud](indirect-provider-tasks-in-partner-center.md)
-- [Parceiro com fornecedores indiretos no programa Cloud Solution Provider](indirect-reseller-tasks-in-partner-center.md)
+- [Parceria com fornecedores indiretos no programa Fornecedor de Soluções em Nuvem](indirect-reseller-tasks-in-partner-center.md)

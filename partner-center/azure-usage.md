@@ -3,18 +3,18 @@ title: Dimensionamento da VM do Azure para a máxima utilização de reserva
 description: Aprenda a dimensionar uma máquina virtual (VM) às necessidades de computação dos seus clientes quando comprar Microsoft Azure reservas para eles.
 ms.topic: how-to
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-pricing
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
 ms.date: 08/06/2020
-ms.openlocfilehash: 650618de7460f4667c60ac58cbe6716530db7f16
-ms.sourcegitcommit: b55f63a029d88c73cd5190bbac2df1b5990e6e44
+ms.openlocfilehash: dc9b9100e01191c24c03c76e9a9ff5a6ffe335d1
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "113510198"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114842189"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>Dimensionamento da VM do Microsoft Azure para a máxima utilização de reserva
 

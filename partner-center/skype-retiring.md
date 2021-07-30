@@ -1,45 +1,45 @@
 ---
-title: Migrar Skype para subscrições de negócios
-description: Saiba como e quando migrar determinados clientes com o Skype expirado para o Plano De Negócios 1 para as novas versões do Office 365.
+title: Migrar Skype para Empresas subscrições
+description: Saiba como e quando migrar determinados clientes com Skype para Empresas subscrições do Plano Online 1 para novas versões Office 365.
 ms.topic: article
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-pricing
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 06/03/2020
-ms.openlocfilehash: a8de5b824a24b07607b5365848ec1027ca0d08e8
-ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
+ms.openlocfilehash: 58908e966eb80d219afa0cbc8c043932f5aef1a1
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "112551542"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114842512"
 ---
 # <a name="migrate-skype-for-business-online-plan-1-subscriptions-to-newer-office-365-versions"></a>Migrate Skype for Business Online Plan 1 subscriptions to newer Office 365 version (Migrar as subscrições do Skype para Empresas Online Plano 1 para a versão mais recente do Office 365)
 
 **Funções adequadas**: Agente de vendas
 
-O Skype for Business Online Plan 1 será reformado, a partir de 1 de agosto de 2018. Após essa data, os clientes deixarão de poder adquirir novas subscrições do Skype para o Plano de Negócios 1, e as subscrições existentes não renovarão automaticamente quando expirarem e não fornecerão uma opção de renovação. Na página de pormenor da subscrição, o estado de subscrição do Skype for Business Online Plan 1 mudou para "Expira na [data]" de "Renovações automáticas em [data]".  
+O Plano Skype para Empresas Online 1 será retirado, a partir de 1 de agosto de 2018. Após essa data, os clientes deixarão de poder adquirir novas subscrições do Plano 1 Skype para Empresas, e as subscrições existentes não renovarão automaticamente quando expirarem e não fornecerão uma opção de renovação. Na página de pormenor da subscrição, o Skype para Empresas Estado de subscrição do Plano Online 1 mudou para "Expira na [data]" de "Renovações automáticas em [data]".  
 
-Para garantir a continuidade dos clientes, deve transitar os clientes com subscrições do Skype expirando para o Plano Online 1 para uma opção SKU suportada, listada abaixo. Recomendamos que os clientes mudem os clientes para novas subscrições antes da data de fim anual da subscrição para evitar eventuais interrupções de serviço para os clientes. 
+Para garantir a continuidade dos clientes, deve transitar os clientes com Skype para Empresas subscrições do Plano Online 1 para uma opção SKU suportada, listada abaixo. Recomendamos que os clientes mudem os clientes para novas subscrições antes da data de fim anual da subscrição para evitar eventuais interrupções de serviço para os clientes. 
 
 >[!NOTE]
->Tanto o Skype para o Plano Online 1 comercial como o governo SKUs estão reformados.
+>Tanto Skype para Empresas o Plano Online 1 comerciais e o governo SKUs estão reformados.
 
-Se utilizar a API (quer O Comércio REST (CREST) quer o Partner Center), encontre subscrições caducadas avaliando a data final da subscrição juntamente com a renovação automática = Propriedade falsa. As subscrições do Skype for Business Online Plan 1 serão definidas para renovação automática=Falsa a 1 de setembro de 2018. Pode mover os clientes para um novo plano a qualquer momento. 
+Se utilizar a API (quer O Comércio REST (CREST) quer o Partner Center), encontre subscrições caducadas avaliando a data final da subscrição juntamente com a renovação automática = Propriedade falsa. As subscrições do Plano Skype para Empresas 1 serão definidas para renovação automática=Falsa no dia 1 de setembro de 2018. Pode mover os clientes para um novo plano a qualquer momento. 
 
-## <a name="skype-for-business-online-plan-1-replacement-plans"></a>Plano Skype para Plano Empresarial 1 planos de substituição
+## <a name="skype-for-business-online-plan-1-replacement-plans"></a>Skype para Empresas Plano Online 1 planos de substituição
 
-Com os novos planos, os seus clientes podem tirar partido das funcionalidades e funcionalidades mais recentes no Office 365. Os detalhes dos preços encontram-se na lista de preços e a matriz da lista de ofertas no Partner Center. 
+Com os novos planos, os seus clientes podem tirar partido de funcionalidades e funcionalidades mais recentes em Office 365. Os detalhes dos preços encontram-se na lista de preços e a matriz da lista de ofertas no Partner Center. 
 
-- Opção 1: Escritório 365 Empresa F1
+- Opção 1: Office 365 Enterprise F1
 - Opção 2: Microsoft 365 Enterprise F1
-- Opção 3: Outros planos do Office 365
+- Opção 3: Outros planos de Office 365
 
-|**Funcionalidade**    |**Opção 1**   |**Opção 2**   |**Opção 3**   |
+|**Funcionalidade**    |**Opção 1**   |**Opção 2**   |**Opção 3**   |
 |:-----------------|:-----------------|:-------------|:------------|
-|Obtenha todas as funcionalidades incluídas no Skype para o Plano Online de Negócios 1|Sim   |Sim   |Sim   |
+|Obtenha todas as funcionalidades incluídas no Skype para Empresas Plano Online 1|Sim   |Sim   |Sim   |
 |IM e presença |Sim   |Sim   |Sim   |
 |Peer-to-peer Audio e Vídeo sobre IP|Sim   |Sim   |Sim   
 |Junte-se às reuniões como utilizador autenticado| Sim   |Sim   |Sim   |
@@ -58,13 +58,13 @@ A Microsoft oferece continuamente novos produtos e serviços aos nossos parceiro
 
 2. Selecione a subscrição que pretende adquirir no catálogo (neste caso, uma das opções acima), introduza o número de licenças e, em seguida, **selecione Enviar por isso**. 
 
-O seu cliente deve agora ter subscrições antigas e novas, a antiga subscrição do Skype para o Plano Online 1 e a nova subscrição 'target', por exemplo, Opção 1 - Office 365 Enterprise F1.
+O seu cliente deve agora ter subscrições antigas e novas, a subscrição do antigo plano Skype para Empresas online 1 e a nova subscrição 'target', por exemplo, Opção 1 - Office 365 Enterprise F1.
 
 3. Para reatribuir as licenças dos utilizadores do cliente, a partir do menu **Partner Center,** selecione **Clientes,** selecione o cliente que está a mover e, em seguida, selecione **Utilizadores e licenças**. A página de Utilizadores e Licenças do cliente abre.
 
 4. Para reatribuir a licença de utilizador, selecione o utilizador para reatribuir e, em seguida, **selecione Gerir licenças.**
 
-5. Na página **'Gerir licenças',** limpe a caixa de verificação da licença Skype for Business Online Plan 1 e selecione um novo plano de serviço para a subscrição para a qual o cliente está a mover-se.
+5. Na página **'Gerir licenças',** limpe a caixa de verificação de licenças Skype para Empresas Plano Online 1 e selecione um novo plano de serviço para a subscrição para a qual o cliente está a mover-se.
 
 6. Selecione **Submeter**. Uma página de confirmação lista as novas atribuições de licença. Continue este mesmo processo para outros utilizadores que necessitem de atribuição de licenças.
 
@@ -80,6 +80,6 @@ A subscrição antiga está suspensa e a nova subscrição está ativa. A subscr
 
 ## <a name="next-steps"></a>Passos seguintes
 
-- [Assessoria: Criar e enviar um convite experimental para os clientes experimentarem o Office 365](advisors-create-a-trial-invitation.md)
-- [Assessoria: Construa a sua base de clientes com convites de experimentação do Office 365 e ofertas de compra](advisors-build-your-business.md)
+- [Assessores: Criar e enviar um convite experimental para os clientes tentarem Office 365](advisors-create-a-trial-invitation.md)
+- [Assistentes: Criar a base de clientes com ofertas de compra e convites para avaliação do Office 365](advisors-build-your-business.md)
 - [Assessores: Criar uma oferta de compra](advisor-create-a-purchase-offer.md)

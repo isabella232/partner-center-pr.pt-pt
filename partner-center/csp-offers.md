@@ -3,26 +3,26 @@ title: Ofertas de parceiros no programa CSP
 ms.topic: article
 ms.date: 06/05/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-pricing
 description: Como parceiro de programas da CSP, conheça o catálogo crescente de serviços na nuvem da Microsoft e ofereça que pode vender aos clientes.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 57cddcaf13431b0e61ef1573a4dd54b229c7e097
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: e5d82e43b63c2803b0f494a2f773e32ec135bdfd
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110147637"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114843192"
 ---
 # <a name="overview-of-partner-offers-in-the-cloud-solution-provider-program"></a>Descrição geral das ofertas de parceiros no programa Fornecedor de Solução Cloud
 
 **Funções adequadas**: Agente administrador | Administração global | Agente comercial
 
-Os parceiros da Microsoft no programa Cloud Solution Provider (CSP) têm um catálogo crescente de ofertas disponíveis. Pode vender toda a gama de [serviços na nuvem](https://partner.microsoft.com/cloud-solution-provider/products-and-services)da Microsoft , e várias outras ofertas que mudam frequentemente. Para ver as ofertas do CSP para o mês em curso, inscreva-se no Partner Center e depois vá para a página [**de Preços e Ofertas.**](https://partnercenter.microsoft.com/pcv/sales)  
+Os parceiros da Microsoft no programa Fornecedor de Soluções em Nuvem (CSP) têm um catálogo crescente de ofertas disponíveis. Pode vender toda a gama de [serviços na nuvem](https://partner.microsoft.com/cloud-solution-provider/products-and-services)da Microsoft , e várias outras ofertas que mudam frequentemente. Para ver as ofertas do CSP para o mês em curso, inscreva-se no Partner Center e depois vá para a página [**de Preços e Ofertas.**](https://partnercenter.microsoft.com/pcv/sales)  
 
-Ainda não está inscrito no programa Cloud Solution Provider? Visite [o Cloud Solution Provider](https://partner.microsoft.com/cloud-solution-provider) para obter mais detalhes sobre como se inscrever. 
+Ainda não está inscrito no programa Fornecedor de Soluções em Nuvem? Visite [Fornecedor de Soluções em Nuvem](https://partner.microsoft.com/cloud-solution-provider) para mais detalhes sobre como se inscrever. 
 
 >[!NOTE]
 >A partir de 31 de janeiro de 2020, todos os clientes terão de ter assinado o Microsoft Customer Agreement. Isto inclui os seus clientes existentes e novos. Para saber mais, leia [Confirme a aceitação do cliente do Acordo de Cliente da Microsoft](confirm-customer-agreement.md)
@@ -35,11 +35,11 @@ Atualmente, pode vender os seguintes tipos de produtos e serviços aos seus clie
 
    Os clientes podem reservar espaço com antecedência em máquinas virtuais Azure para um prazo de 1 ou 3 anos.
 
-   Para obter mais informações, consulte [As Instâncias VM Reservadas do Microsoft Azure.](azure-reservations.md)
+   Para mais informações, consulte [Microsoft Azure De Venda de VM.](azure-reservations.md)
 
 ### <a name="software"></a>Software
 
-   Os clientes podem comprar subscrições de software (para o Windows Server e SQL Server, para um prazo de 1 ou 3 anos, para executar em instâncias VM reservadas ao Azure).
+   Os clientes podem comprar subscrições de software (para Windows Server e SQL Server, para um prazo de 1 ou 3 anos, para executar em instâncias VM reservadas da Azure).
 
    Para obter mais informações, consulte [vender subscrições de software através de CSP](csp-software-subscriptions.md).  
 
@@ -51,7 +51,7 @@ Atualmente, pode vender os seguintes tipos de produtos e serviços aos seus clie
 
 ### <a name="software-as-a-service-saas-and-other-azure-marketplace-products"></a>Software como serviço (SaaS) e outros produtos [Azure Marketplace](https://azuremarketplace.microsoft.com/marketplace)
 
-   Pode vender subscrições de produtos SaaS de Fornecedores de Software Independentes (ISVs). Para ver apenas as ofertas do SaaS nos **serviços Online,** utilize os filtros para definir **a Editora** para **Partner.** Isto mostrará todas as ofertas da SaaS que podem ser compradas para esse cliente.
+   Pode vender subscrições de produtos SaaS de Fornecedores de Software Independentes (ISVs). Para ver apenas as ofertas do SaaS nos **serviços Online,** utilize os filtros para definir **Publisher** ao **Partner.** Isto mostrará todas as ofertas da SaaS que podem ser compradas para esse cliente.
 
    Também pode encontrar informações sobre estes produtos na página **do Marketplace.**
 
@@ -70,7 +70,7 @@ Categorias de **produtos**  -  **Azure, serviços online, Software** Selecione o
 
 **Segmento** - Identifica o tipo geral de negócio, por exemplo, comercial ou governamental, a que pretende vender
 
-**Editor** - Selecione quais tipos de produtos que deseja ver - aplicações criadas pela Microsoft ou por editores de terceiros
+**Publisher** - Selecione quais tipos de produtos que pretende ver - aplicações criadas pela Microsoft ou por editoras de terceiros
 
 **Tipo de faturação** - Identifica se o produto é faturado para o número de licenças ou para uso
 
@@ -83,7 +83,7 @@ Categorias de **produtos**  -  **Azure, serviços online, Software** Selecione o
 Para comprar produtos e serviços em nome dos seus clientes CSP, selecione os itens que o cliente deseja, adicione-os ao seu carrinho, o que cria uma encomenda e, em seguida, reveja e envie a encomenda. O processo geral é descrito abaixo. (Para obter mais informações sobre encomendas para um tipo de produto específico, consulte os links acima.)
 
 >[!NOTE]
->Uma oferta CSP precisa estar disponível tanto no seu país inquilino como no país inquilino do seu cliente. Por exemplo, se o seu inquilino estiver localizado na Eslováquia e o inquilino do cliente estiver na Alemanha, não poderá vender o Dynamics 365 Business Central Premium a esse cliente, porque esta oferta não está disponível na Eslováquia.
+>Uma oferta CSP precisa estar disponível tanto no seu país inquilino como no país inquilino do seu cliente. Por exemplo, se o seu inquilino estiver localizado na Eslováquia e o inquilino do cliente estiver na Alemanha, não poderá vender a Dynamics 365 Business Central Premium a esse cliente, porque esta oferta não está disponível na Eslováquia.
 
 1. Selecione **clientes** do menu Partner Center e, em seguida, localize o cliente que quer comprar de si. 
 
@@ -112,14 +112,14 @@ Para ver o histórico de encomendas de um cliente:
  
 ## <a name="rules-for-special-segments"></a>Regras para segmentos especiais
 
-Algumas ofertas baseadas em licenças só podem ser compradas sob determinadas condições. As ofertas especiais de segmento incluem ofertas de Educação, Sem Fins Lucrativos ou Nuvem Comunitária do Governo (GCC). Os detalhes sobre estas condições de compra podem ser encontrados nas regras de [compra para segmentos especiais tópicos.](get-special-pricing-for-offers.md#purchase-rules-for-special-segments)
+Algumas ofertas baseadas em licenças só podem ser compradas sob determinadas condições. As ofertas especiais de segmento incluem ofertas de Educação, Sem Fins Lucrativos ou Nuvem da Comunidade Governamental (GCC). Os detalhes sobre estas condições de compra podem ser encontrados nas regras de [compra para segmentos especiais tópicos.](get-special-pricing-for-offers.md#purchase-rules-for-special-segments)
 
-## <a name="troubleshooting-catalog-purchases"></a>Compras de catálogos de resolução de problemas
+## <a name="troubleshooting-catalog-purchases"></a>Resolver problemas de compras no catálogo
 
 Pode não encontrar a oferta que procura no catálogo por diferentes motivos. Abaixo estão as coisas para verificar se você não pode encontrar a oferta que você espera.
 
-- **Verifique se o seu cliente está qualificado**. Muitas ofertas requerem qualificações especiais para serem vendidas aos clientes. Estes segmentos especiais incluem Educação, Sem Fins Lucrativos e Nuvem Comunitária do Governo (CCG). Antes de registar um problema, verifique primeiro se as qualificações do cliente estão definidas em conformidade. Pode verificar isto selecionando o cliente na lista de clientes e visualizando a conta. A conta terá uma Qualificação Especial definida, se aplicável. Se estiver a tentar comprar ofertas de Educação para um cliente que não esteja qualificado, não verá essas ofertas no catálogo. Para obter mais informações sobre a qualificação dos seus clientes, consulte a [documentação de segmentos especiais.](get-special-pricing-for-offers.md)
-- **Decida se está a tentar comprar um Suplemento ou uma oferta Base**. Muitos dos serviços baseados em licenças, como o Microsoft 365 e o Dynamics 365, permitem tanto as compras de catálogo das ofertas base como os Add-ons. Apenas as ofertas base podem ser compradas no catálogo. Para adquirir Add-ons, certifique-se de que compra primeiro a oferta Base no catálogo e, em seguida, selecione o cliente da lista de clientes e, em seguida, selecione a subscrição para a oferta base. Pode aplicar Suplementos à oferta base nesta página de gestão de subscrições. 
+- **Verifique se o seu cliente está qualificado**. Muitas ofertas requerem qualificações especiais para serem vendidas aos clientes. Estes segmentos especiais incluem Educação, Sem Fins Lucrativos e Nuvem da Comunidade Governamental (GCC). Antes de registar um problema, verifique primeiro se as qualificações do cliente estão definidas em conformidade. Pode verificar isto selecionando o cliente na lista de clientes e visualizando a conta. A conta terá uma Qualificação Especial definida, se aplicável. Se estiver a tentar comprar ofertas de Educação para um cliente que não esteja qualificado, não verá essas ofertas no catálogo. Para obter mais informações sobre a qualificação dos seus clientes, consulte a [documentação de segmentos especiais.](get-special-pricing-for-offers.md)
+- **Decida se está a tentar comprar um Suplemento ou uma oferta Base**. Muitos dos serviços baseados em licenças, como Microsoft 365 e Dynamics 365, permitem tanto as compras de catálogo das ofertas base como os Add-ons. Apenas as ofertas base podem ser compradas no catálogo. Para adquirir Add-ons, certifique-se de que compra primeiro a oferta Base no catálogo e, em seguida, selecione o cliente da lista de clientes e, em seguida, selecione a subscrição para a oferta base. Pode aplicar Suplementos à oferta base nesta página de gestão de subscrições. 
 - **Verifique se os produtos estão disponíveis no seu mercado**. Muitos produtos e serviços estão configurados para serem vendidos apenas a clientes em países específicos. Pode encontrar a lista de países suportados nos diferentes ficheiros da lista de preços. Os países suportados para a compra de serviços baseados em licenças encontram-se na Matriz da Lista de Ofertas na página de preços e ofertas.
 - **Verifique se as ofertas estão disponíveis na lista de preços**. A lista de ofertas disponíveis pode mudar de mês para mês. Se não conseguir encontrar uma oferta no catálogo, verifique se está disponível nas listas de preços atuais na página **de Preços e Ofertas de Venda >.**
 

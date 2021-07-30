@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 06/05/2020
 description: Conheça a sua fatura & ficheiros de reconciliação. A sua conta mostra as tarifas do Partner Center em todo o programa, produtos e clientes para esse período mensal.
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-billing
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bbdf85d20e15841189191d6b415b54c26378850e
-ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
+ms.openlocfilehash: 839f6f76e7efde4f0ad51375ceb5801f925c2510
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "112551202"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114842172"
 ---
 # <a name="understand-your-bill-and-reconciliation-file---learn-how-to-find-them-in-partner-center"></a>Understand your bill and reconciliation file - saiba como encontrá-los no Partner Center
 
@@ -40,13 +40,13 @@ Pode encontrar faturas anteriores na secção história da Faturação. Escolha 
 
 ## <a name="invoice-types"></a>Tipos de fatura
 
-A Microsoft emitirá uma fatura para quaisquer encargos baseados em licenças (como o Office 365) e encargos baseados na utilização (como o Azure) e uma fatura separada para encargos pontuais (como o plano Azure RI, Marketplace ou Azure).
+A Microsoft emitirá uma fatura para quaisquer encargos baseados em licenças (como Office 365) e encargos baseados em uso (como a Azure) e uma fatura separada para encargos pontuais (como O plano Azure RI, Marketplace ou Azure).
 
 Por exemplo,  
 
-**Cenário 1 [Moeda Única]**: Parceiro tem compras para oferta de 145P e licenças office 365,  
+**Cenário 1 [Moeda Única]**: Parceiro tem compras para oferta de 145P e licenças de Office 365,  
 
-- O parceiro receberá um PDF de fatura e dois ficheiros de reconciliação que cobrem as taxas tanto para o Office 365 como para o Azure (145p).  
+- O parceiro receberá um PDF de fatura e dois ficheiros de reconciliação que cobrem as acusações tanto para Office 365 como para a Azure (145p).  
 
 **Cenário 2 [Moeda Única]**: O parceiro tem compras para o plano Azure RI, Marketplace e/ou Azure, juntamente com compras de 145p.
 
@@ -65,7 +65,7 @@ Por exemplo,
 
 ## <a name="understanding-invoice-pdf"></a>Compreensão da fatura PDF 
 
-**Faturas de Utilização e taxas baseadas em licenças**: As faturas para os encargos de serviços como o Office 365 e a Azure estarão disponíveis no prazo de dois (2) dias a contar da data de faturação selecionada [UTC].  
+**Faturas de Utilização e taxas baseadas em licenças**: As faturas para os encargos de serviços como Office 365 e Azure estarão disponíveis no prazo de dois (2) dias a contar da data de faturação selecionada [UTC].  
 
 **Faturas para taxas únicas e recorrentes**: Faturas de encargos para serviços como Azure RI, plano Azure, Marketplace estarão disponíveis o mais tardar no oitavo de cada mês.  
 

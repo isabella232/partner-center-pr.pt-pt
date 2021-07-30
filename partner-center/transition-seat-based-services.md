@@ -1,22 +1,22 @@
 ---
 title: Mover clientes baseados em licenças para o programa CSP
-description: Saiba como mover clientes baseados em licenças de outros canais ou outro parceiro para o programa Cloud Solution Provider (CSP) no Partner Center.
+description: Saiba como mover clientes baseados em licenças de outros canais ou outro parceiro para o programa Fornecedor de Soluções em Nuvem (CSP) no Partner Center.
 ms.topic: how-to
 ms.date: 06/30/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-customers
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2cfea9bc672ff12868a7944cf81601e5292dae80
-ms.sourcegitcommit: 09eabb559aae25518caf3f2a59ef16a3e123c207
+ms.openlocfilehash: 810c01c16bd6a2f9c6fa863289e1b788a057b627
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "112489905"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114842421"
 ---
-# <a name="move-license-based-customers-from-other-channels--partners-to-the-cloud-solution-provider-csp-program"></a>Mover clientes baseados em licenças de outros canais & parceiros para o programa Cloud Solution Provider (CSP)
+# <a name="move-license-based-customers-from-other-channels--partners-to-the-cloud-solution-provider-csp-program"></a>Mover clientes baseados em licenças de outros canais & parceiros para o programa Fornecedor de Soluções em Nuvem (CSP)
 
 **Funções adequadas**: Administração de contas | Agente comercial | Agente de faturação
 
@@ -26,7 +26,7 @@ Se o seu cliente quiser contratar vários parceiros, transferir as suas subscri�
 
 1. Selecione **Clientes** no menu Partner Center e, em seguida, **selecione Solicite uma relação de revendedor**. Para fornecer suporte para contas multicanal, faz a mesma coisa.
 
-2. Assim que o cliente aceitar o seu convite, poderá providenciar as assinaturas e licenças desejadas para o cliente (por exemplo, a mesma oferta do Office 365 que o cliente adquiriu anteriormente).
+2. Assim que o cliente aceitar o seu convite, poderá providenciar as subscrições e licenças desejadas para o cliente (por exemplo, as mesmas Office 365 oferta que o cliente adquiriu anteriormente).
 
 3. O cliente pode permitir que as subscrições originais expirem ou cancelem-nas. No entanto, uma vez que não há reembolsos em subscrições canceladas, é melhor esperar até que as subscrições estejam perto das datas de validade naturais.
 

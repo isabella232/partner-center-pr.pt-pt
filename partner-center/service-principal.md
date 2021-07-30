@@ -3,31 +3,31 @@ title: Diretor de serviço AZure AD
 ms.topic: how-to
 ms.date: 06/03/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-enroll
 description: Descubra como adicionar um diretor de serviço ao seu inquilino AZure AD. Fazê-lo significa adicionar uma aplicação AD Azure (principal serviço) no Partner Center.
 author: dhirajgandhi
 ms.author: dhgandhi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3698032a632384e8416664c9564819d7c4da9c38
-ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
+ms.openlocfilehash: a7851d270ad51a5a06ebc7d7725a2ae5c803419b
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "112551559"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114842835"
 ---
 # <a name="add-an-azure-ad-application-service-principal-in-partner-center"></a>Adicione uma aplicação AD AZure (principal serviço) no Partner Center
 
 **Funções apropriadas**: Administração global
 
-No programa Commercial Marketplace no Partner Center, pode agora adicionar uma aplicação microsoft Azure Ative Directory (Azure AD) como utilizador na sua conta Partner Center. (Conseguiu fazê-lo anteriormente na sua conta Cloud Partner Portal (CPP). Agora que emigrou para o Partner Center, a conta do CPP é apenas de leitura.)
+No programa Mercado Comercial no Partner Center, pode agora adicionar uma aplicação de Microsoft Azure Ative Directory (Azure AD) (principal serviço) como utilizador na sua conta Partner Center. (Conseguiu fazê-lo anteriormente na sua conta Cloud Partner Portal (CPP). Agora que emigrou para o Partner Center, a conta do CPP é apenas de leitura.)
  
 >[!Note] 
 >O diretor de serviço é sinónimo de aplicação Azure AD.
 
 ## <a name="add-an-azure-ad-application-service-principal"></a>Adicione uma aplicação AD AZure (principal serviço)
 
-1. A partir do painel 'Partner Center', selecione **Definições** e, em seguida, selecione **as definições do Programador**.
+1. A partir do painel Partner Center, selecione **Definições** e, em seguida, selecione **as definições de Desenvolvedor**.
 
 2. Selecione **Utilizadores** e, em seguida, **selecione Adicionar Aplicações AD Azure**.
 
