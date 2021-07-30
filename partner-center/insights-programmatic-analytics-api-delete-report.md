@@ -3,17 +3,17 @@ title: Eliminar relatório API - dados de Informações
 ms.topic: reference
 ms.date: 07/14/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 description: Utilize esta API para eliminar qualquer relatório nos insights do Partner Center.
 author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: e060104f8f09f69c213ab1b22d4be08d58babced
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: a8a94fc1a6e69bab0a7671bd27949e271a77dbbe
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114377216"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114840064"
 ---
 # <a name="delete-report-api"></a>Apagar relatório API
 

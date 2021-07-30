@@ -3,27 +3,27 @@ title: Atribuir contactos de suporte para clientes
 ms.topic: how-to
 ms.date: 05/04/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
-description: Saiba como atribuir um revendedor como um contacto técnico de suporte para clientes que tenham subscrições dos serviços da Microsoft.
+ms.subservice: partnercenter-customers
+description: Saiba como atribuir um revendedor como contacto técnico de suporte para clientes que tenham subscrições para serviços Microsoft.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c3ec63109f21c67c66719b8f145336617a948199
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 358bce2c23d05d5523a5bd7a7032916d00340daf
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110149915"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114841713"
 ---
 # <a name="assign-a-reseller-as-a-technical-support-contact-for-customers"></a>Atribuir um revendedor como contacto técnico de suporte para os clientes
 
 **Funções adequadas**: Agente administrador | Administração global | Agente helpdesk
 
 
-Quando configurar subscrições para os serviços da Microsoft para os seus clientes, poderá querer atribuir o suporte técnico destes produtos a um revendedor designado, em vez de fornecer o suporte por si mesmo.
+Ao configurar subscrições para serviços Microsoft para os seus clientes, poderá querer atribuir o suporte técnico destes produtos a um revendedor designado, em vez de fornecer o suporte por si mesmo.
 
-Depois de configurar contactos de suporte, os clientes podem ver as informações do seu contacto de suporte atribuído nas páginas de suporte do produto. Por exemplo, quando os clientes do Office 365 precisam de apoio, podem entrar na página Office.com, iniciar sessão com as suas credenciais de administração, selecionar o azulejo **de Administração** e, na secção **De Apoio,** ver as informações de contacto de suporte atribuídas.
+Depois de configurar contactos de suporte, os clientes podem ver as informações do seu contacto de suporte atribuído nas páginas de suporte do produto. Por exemplo, quando Office 365 clientes precisam de apoio, podem entrar na página Office.com, iniciar sessão com as suas credenciais de administração, selecionar o azulejo **Admin** e, na secção **De Suporte,** ver as informações de contacto de suporte atribuídas.
 
 Isto pode ser usado para [cenários multi-parceiros](multipartner.md) e [multicanal.](multichannel.md) 
 
@@ -32,7 +32,7 @@ Isto pode ser usado para [cenários multi-parceiros](multipartner.md) e [multica
 
 1. Comece por [solicitar uma relação](request-a-relationship-with-a-customer.md) com o seu revendedor de produtos designado. Negociar com eles um acordo de apoio para o apoio técnico.
 
-2. A partir do menu **Partner Center,** selecione **Clientes,** em seguida, selecione um cliente e, em seguida, selecione uma subscrição, por exemplo, Office 365 Business Standard.
+2. A partir do menu **Partner Center,** selecione **Clientes,** em seguida, selecione um cliente e, em seguida, selecione uma subscrição, por exemplo, Office 365 Empresas Standard.
 
 3. No  **contacto de suporte designado,** selecione o revendedor de produto designado e, em seguida, clique em **Enviar**. 
 

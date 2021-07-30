@@ -3,18 +3,18 @@ title: Common billing scenarios (Cenários de faturação comuns)
 ms.topic: article
 ms.date: 05/06/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-billing
 description: Explore a faturação quando adicionar novas subscrições, ajuste a quantidade de licença ou cancele uma subscrição. Veja como as assinaturas baseadas em uso e baseadas em licenças diferem.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 54f3afc36e51299b6b8656eecdeff67628128580
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 8ad05edf9c1d67a5e373fde26bf10a4f6ad50cd6
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110148555"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114840336"
 ---
 # <a name="common-billing-scenarios-for-csp-program-partners-working-in-partner-center"></a>Cenários comuns de faturação para parceiros de programa CSP que trabalham no Partner Center
 

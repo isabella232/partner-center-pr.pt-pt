@@ -3,22 +3,22 @@ title: Restore a suspended Partner Center account (Restaurar uma conta do Centro
 ms.topic: article
 ms.date: 06/03/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-enroll
 description: Saiba como restaurar uma conta suspensa do Partner Center, por que a suspensão da conta do Parceiro acontece e como pode usar a sua conta durante a suspensão.
 author: kbangalore
 ms.author: kiranban
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: da1b93e757ad923f8a1c11e21ed2b957ecf1ad11
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 2132320d47a29806f338a7d3986626fefd22ee01
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854762"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114841135"
 ---
 # <a name="restore-a-suspended-partner-center-account---learn-why-it-happens-and-what-to-do-about-it"></a>Restaurar uma conta do Centro de Parceiros suspensa – saiba porque acontece e o que pode fazer
 
-**Aplica-se a**: Partner Center | Centro de Parceiros para Microsoft Cloud para governo dos EUA
+**Aplica-se a**: Partner Center | Centro de Parceiros para Microsoft Cloud for US Government
 
 **Funções apropriadas**: Administração global
 

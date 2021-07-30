@@ -9,25 +9,25 @@ author: kaushikgMSFT
 ms.author: kaushikg
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 5e5f8000032fa09d7752f8c6206325630b995b63
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 180756cb5c658b5ed16119e03bfe9e1271b68599
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110148725"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114840353"
 ---
 # <a name="earn-cooperative-marketing-funds"></a>Ganhe fundos de marketing cooperativo
 
 **Funções adequadas**: Incentivos administrativos | Utilizador de incentivos
 
-Os fundos de marketing cooperativo (cooperativa) são fundos que obtém através dos Programas de Incentivo da Microsoft, reclamando o reembolso de atividades que suportam a consciência de produtos da Microsoft. Exemplos de programas de incentivos são Cloud Solution Provider, revendedor gerido, hospedagem e Surface.
+Os fundos de marketing cooperativo (cooperativa) são fundos que obtém através dos Programas de Incentivo da Microsoft, reclamando o reembolso de atividades que suportam a consciência de produtos da Microsoft. Exemplos de programas de incentivos são Fornecedor de Soluções em Nuvem, revendedor gerido, hospedagem e Surface.
 
 Os fundos cooperativos permitem-lhe realizar atividades de marketing que aumentarão a consciencialização da marca e impulsionarão o crescimento do pipeline de vendas. Você pode investir fundos cooperativos em atividades para facilitar a prontidão, desenvolver especializações, ou alcançar certificações microsoft – atividades que fomentam práticas de solução focadas e Centros de Excelência.
 
 Pode saber mais na página [De Recursos de Fundos cooperativos.](https://partner.microsoft.com/asset/collection/co-op-funds-resources#/)
 
 >[!Important]
->As alegações de cooperação não se aplicam aos programas de incentivo de venda de serviços online (OSA) Sell, Online Services Usage (OSU)-Microsoft 365 e OSU-Business Application incentive. Para apresentar uma reclamação para um destes programas, consulte [Criar uma associearation ao cliente utilizando o modelo CPOR](submit-osa-claim.md).
+>As alegações de cooperação não se aplicam aos programas de incentivos de venda de serviços online (OSA) de venda, utilização de serviços online (OSU)-Microsoft 365 e OSU-Business Desempresa. Para apresentar uma reclamação para um destes programas, consulte [Criar uma associearation ao cliente utilizando o modelo CPOR](submit-osa-claim.md).
 
 ## <a name="how-co-op-funds-are-calculated"></a>Como os fundos de cooperação são calculados
 

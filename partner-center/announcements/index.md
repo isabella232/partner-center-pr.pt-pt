@@ -3,18 +3,18 @@ title: Anúncios do Centro de Parceiros
 description: 'Anúncios do Centro de Parceiros: Mantenha-se a par dos novos desenvolvimentos e alterações ao Centro de Parceiros, programas de parceiros e ofertas de produtos.'
 ms.topic: reference
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-action-center
 author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 07/23/2021
-ms.openlocfilehash: c01f5f219f46df3a945b48510b329259fc731020
-ms.sourcegitcommit: 4de6c593139c48c79d2abe2df8365c89acf7e32d
+ms.openlocfilehash: e77499aaf0b871080733303d3589bb6d1a0c20ad
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/24/2021
-ms.locfileid: "114661649"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114841747"
 ---
 # <a name="partner-center-announcements"></a>Anúncios do Centro de Parceiros
 

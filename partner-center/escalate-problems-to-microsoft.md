@@ -3,22 +3,22 @@ title: Encaminhar problemas para a Microsoft
 description: Saiba quais os problemas que os parceiros da Microsoft devem resolver para os seus clientes e quais os problemas que poderão vir a ter de agravar para a Microsoft.
 ms.topic: how-to
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-support
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/18/2020
-ms.openlocfilehash: 9504f66a53b2dc2303303e3f82020b591ce1f94f
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 276747cffb3007e5403cb8238b0540fe191e34cb
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110146974"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114840625"
 ---
 # <a name="escalate-problems-to-microsoft-and-learn-which-issues-are-more-suited-to-microsoft-escalation"></a>Aumente os problemas para a Microsoft e saiba quais os problemas mais adequados à escalada da Microsoft  
 
-**Aplica-se a**: Partner Center | Centro de Parceiros para Microsoft Cloud para governo dos EUA
+**Aplica-se a**: Partner Center | Centro de Parceiros para Microsoft Cloud for US Government
 
 **Funções adequadas**: Agente administrador | Administração global | Agente comercial | Agente helpdesk
 
@@ -44,9 +44,9 @@ No entanto, existem várias categorias de problemas que terá de entregar à Mic
 
 3. Selecione **a gestão do serviço** e selecione **pedidos de Serviço.**
 
-4. Selecione **novo pedido** e, em seguida, selecione **Microsoft Office 365**.
+4. Selecione **Novo pedido** e, em seguida, selecione **Microsoft Office 365**.
 
-5. É levado para o portal do Office 365 onde tem de iniciar sômposição utilizando as credenciais do Centro de Parceiros.
+5. É levado para o portal Office 365 onde precisa de iniciar sômposição usando as credenciais do Centro de Parceiros.
 
 6. Selecione **Suporte**, **Novo pedido** de serviço do menu esquerdo.
 

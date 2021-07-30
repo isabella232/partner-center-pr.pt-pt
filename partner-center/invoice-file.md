@@ -5,16 +5,16 @@ ms.date: 05/18/2020
 description: Compreenda os campos no seu ficheiro de fatura para a faturação do Partner Center. Incluem-se campos e definições para todos os campos de fatura e campos de carregamento único.
 author: sodeb
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-billing
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5cb60c775bd8de38b8d7ca69c4dd97cf11b919fd
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: c741caa6993a5da415d3a94d541bf10c21470889
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110146617"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114840081"
 ---
 # <a name="understand-partner-center-billing-invoice-fields"></a>Compreenda os campos de faturação do Partner Center
 
@@ -56,7 +56,7 @@ Os seguintes campos **aplicam-se apenas** a taxas pontuais no Partner Center:
 | Campo | Definição |
 | ----- | ---------- |
 | Date | Data de compra. |
-| Description | Nome do produto. |
+| Descrição | Nome do produto. |
 | Quantidade | O número de produtos (como reservas) adquiridos. |
 | Preço unitário | Preço por produto (como uma reserva). |
 | Descontos | Quaisquer descontos aplicáveis. |

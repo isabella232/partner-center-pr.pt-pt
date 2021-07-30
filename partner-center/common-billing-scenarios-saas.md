@@ -3,18 +3,18 @@ title: Faturação - transações saaS baseadas em licenças
 ms.topic: article
 ms.date: 05/05/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-billing
 description: Conheça os cenários comuns de faturação no Partner Center para transações baseadas em licenças, software-as-a-service (SaaS).
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 764d5a3cb0dc6f409e5272d4119424396caff53b
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 9568a014de926682dd89dd9d06d1c6ca5b98ac71
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110148640"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114840727"
 ---
 # <a name="common-billing-scenarios-for-license-based-saas-transactions-in-partner-center"></a>Cenários comuns de faturação para transações saaS baseadas em licenças no Partner Center
 

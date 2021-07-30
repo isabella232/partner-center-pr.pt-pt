@@ -3,18 +3,18 @@ title: Ligar-se aos seus clientes
 description: Se for um revendedor indireto no programa CSP, este artigo irá ajudá-lo a conectar-se com os seus novos e já existentes clientes.
 ms.topic: how-to
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-customers
 ms.custom: contperf-fy21q2
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.date: 10/12/2020
-ms.openlocfilehash: 6fe2eb7af3fbfa826496c1de409675cd84d92ef5
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 9d9798bdbf83bbe7d812f5bbf83b81fb8fcde373
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110148436"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114840285"
 ---
 # <a name="connect-with-customers"></a>Ligar-se a clientes
 
@@ -24,9 +24,9 @@ ms.locfileid: "110148436"
 
 Para negociar com os clientes no Partner Center, os seus clientes devem ter contas partner Center e tem de estabelecer relações de revendedor com eles. Para permitir que o seu fornecedor indireto adquire subscrições e serviços em nome dos seus clientes, o fornecedor também deve ter relações de revendedor com os seus clientes.
 
-## <a name="connect-with-existing-customers"></a>Conecte-se com os clientes existentes
+## <a name="connect-with-existing-customers"></a>Ligação com clientes existentes
 
-Assim que se inscrever como revendedor indireto, verá os mesmos clientes no Centro de Parceiros com os quais já faz negócios noutros portais. Esses outros portais incluem o Centro de Administração do Office 365 ou o portal Azure. Para ver a sua lista de **clientes,** selecione Clientes no menu **Partner Center.**
+Assim que se inscrever como revendedor indireto, verá os mesmos clientes no Centro de Parceiros com os quais já faz negócios noutros portais. Tais outros portais incluem Office 365 centro de administração ou o portal Azure. Para ver a sua lista de **clientes,** selecione Clientes no menu **Partner Center.**
 
 Quando se conecta com um fornecedor indireto, não ganha automaticamente clientes do fornecedor indireto. Da mesma forma, os clientes com quem trabalha, quer por conta própria, quer através do seu fornecedor indireto, mas não através do Centro de Parceiros, não aparecerão automaticamente na sua lista de clientes quando se inscrever no Centro de Parceiros. Terá de estabelecer uma relação de revendedor com os clientes para transacionar no Partner Center.  Para tal, envie-lhes um convite para se conectarem consigo no Centro de Parceiros, conforme descrito abaixo.
 
@@ -44,7 +44,7 @@ Quando se conecta com um fornecedor indireto, não ganha automaticamente cliente
 
 5. Para gerir a conta, serviços, utilizadores e licenças do cliente, expanda o registo do cliente selecionando a seta para baixo perto do seu nome.
 
-## <a name="connect-with-new-customers"></a>Conecte-se com novos clientes
+## <a name="connect-with-new-customers"></a>Ligação com novos clientes
 
 Quando atrair novos clientes, terá de se conectar com eles no Centro de Parceiros. Pode obter novos clientes através de vários canais, incluindo:
 

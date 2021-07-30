@@ -3,18 +3,18 @@ title: Use promoções para atrair clientes
 ms.topic: article
 ms.date: 06/05/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
-description: Descubra como os parceiros da Microsoft no programa Cloud Solution Provider podem comprar subscrições a preços de promoção e passar poupanças para os seus clientes.
+ms.subservice: partnercenter-pricing
+description: Descubra como os parceiros da Microsoft no programa Fornecedor de Soluções em Nuvem podem comprar subscrições a preços de promoção e passar poupanças para os seus clientes.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5cb494f3e32201c20184d8de551e15cc8fc28d9b
-ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
+ms.openlocfilehash: 335c0806d9504263dcfa506721b4217cf8b78db6
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "112551328"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114841034"
 ---
 # <a name="use-promotions-to-attract-new-customers-and-pass-the-savings-on-to-them"></a>Use promoções para atrair novos clientes e passe as poupanças para eles
 
@@ -25,7 +25,7 @@ ms.locfileid: "112551328"
 
 A Microsoft ocasionalmente oferece promoções em subscrições baseadas em licenças, permitindo-lhe passar as poupanças para os clientes e fazer crescer o seu negócio. 
 
-A Microsoft oferece dois tipos de promoções: as que estão disponíveis para todos os parceiros elegíveis no programa Cloud Solution Provider (CSP) e as disponíveis apenas para parceiros numa determinada região geográfica.
+A Microsoft oferece dois tipos de promoções: as disponíveis para todos os parceiros elegíveis no programa Fornecedor de Soluções em Nuvem (CSP) e as disponíveis apenas para parceiros numa determinada região geográfica.
 
 Os preços de promoção são automaticamente aplicados ao seu preço líquido quando compra novas subscrições ao preço de promoção. Além disso, quaisquer licenças que adicione a uma subscrição comprada com preços de promoção são adicionadas ao preço de promoção. 
 

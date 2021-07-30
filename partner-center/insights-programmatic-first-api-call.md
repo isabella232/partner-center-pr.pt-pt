@@ -3,17 +3,17 @@ title: Faça a sua primeira chamada de API para aceder a dados de análise de in
 description: Exemplos para aprender a usar a API para aceder a dados de análise de insights de parceiros.
 ms.topic: article
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.date: 07/14/2021
-ms.openlocfilehash: d2252ccfb601ae22ce106d87fb06b67bf0927df5
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: 9aac83645051f3e8f32945ae908ba1fe47c08d13
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114376956"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114840030"
 ---
 # <a name="make-your-first-api-call-to-access-partner-insights-analytics-data"></a>Faça a sua primeira chamada de API para aceder a dados de análise de insights de parceiros
 

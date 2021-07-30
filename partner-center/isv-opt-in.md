@@ -3,18 +3,18 @@ title: Ofertas exclusivas do marketplace a partir de ISVs
 ms.topic: article
 ms.date: 05/18/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-pricing
 description: Saiba como os Fornecedores independentes de Software (ISVs) tornam certas ofertas exclusivas e apenas disponíveis para parceiros CSP específicos.
 author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 35a4e08ade5c5dcfb796535ed117e3bf1f33cabd
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 7d7abd8e2eea2d22178194832ff8ec0370ab05eb
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110151802"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114840047"
 ---
 # <a name="marketplace-exclusive-offers-from-independent-software-vendors"></a>Ofertas exclusivas do marketplace de Fabricantes Independentes de Software
 

@@ -3,18 +3,18 @@ title: Encontre iD do inquilino, nome de domínio, identificação de objeto de 
 ms.topic: how-to
 ms.date: 11/06/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-enroll
 description: Saiba como encontrar IDs no portal Azure - iD de inquilino Azure, nome de domínio ou ID de objeto de utilizador específico. Algumas tarefas precisam desta informação.
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 5da41cdbfa7aa1780b31e170a2398e8e7c65df27
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 2c313896419053627dd646783a1df2f1bf53753a
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110150867"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114840540"
 ---
 # <a name="locate-important-ids-for-a-user"></a>Localizar iDs importantes para um utilizador
 
@@ -22,18 +22,18 @@ ms.locfileid: "110150867"
 
 Este artigo descreve como utilizar o [portal Azure](https://portal.azure.com/) para localizar as seguintes informações para um utilizador:
 
-- O ID do inquilino do Microsoft Azure Ative (Azure AD) da organização ou empresa do utilizador
+- O Microsoft Azure Ative Directory (Azure AD) ID do inquilino da organização ou empresa do utilizador
 
 - O nome de domínio primário da organização ou empresa associada ao inquilino AZURE AD
 
 - O ID do objeto do utilizador
 
-## <a name="find-the-microsoft-azure-ad-tenant-id-and-primary-domain-name"></a>Encontre o ID do inquilino da Microsoft Azure e o nome de domínio primário
+## <a name="find-the-microsoft-azure-ad-tenant-id-and-primary-domain-name"></a>Encontre o ID do inquilino Microsoft Azure AD e o nome de domínio primário
 
 Siga estes passos para localizar o ID do inquilino Azure ou o nome de domínio primário dentro do portal Azure. (Se você quiser encontrar um ID de inquilino programáticamente, consulte [Find Inetorso ID com PowerShell ou CLI](/azure/active-directory/fundamentals/active-directory-how-to-find-tenant#find-tenant-id-with-powershell).)
 
 > [!NOTE]
-> A identificação do inquilino pode ser chamada de nomes diferentes em diferentes aplicações ou recursos. Por exemplo, o ID do inquilino pode ser referido como o ID do diretório, o inquilino do Azure Ative Directory (Azure AD), o Microsoft ID, ou para determinados relatórios, até mesmo o guia do *inquilino.*
+> A identificação do inquilino pode ser chamada de nomes diferentes em diferentes aplicações ou recursos. Por exemplo, o ID do inquilino pode ser referido como o ID do diretório, o inquilino Azure Ative Directory (Azure AD), Microsoft ID, ou para certos relatórios, até mesmo o guia do *inquilino.*
 
 1. Inicie sessão no [portal do Azure](https://portal.azure.com/).
 
@@ -41,7 +41,7 @@ Siga estes passos para localizar o ID do inquilino Azure ou o nome de domínio p
 
    :::image type="content" source="images/id/1-find-id-azure-portal-home-screen.png" alt-text="Mostra o portal Azure selecionando a opção Azure Ative Directory a partir do menu.":::
 
-3. Aparece uma página **geral** do Diretório Ativo Azure. Para encontrar o ID do inquilino Azure ou o nome de domínio primário, procure o campo **de identificação** do inquilino e o campo **de domínio primário.** Estes campos aparecem na secção de informação do Inquilino.
+3. Aparece uma página **geral Azure Ative Directory.** Para encontrar o ID do inquilino Azure ou o nome de domínio primário, procure o campo **de identificação** do inquilino e o campo **de domínio primário.** Estes campos aparecem na secção de informação do Inquilino.
 
    :::image type="content" source="images/id/2-find-id-azure-portal-azure-ad-overview-tenant-id-partial-screen.png" alt-text="Mostra página geral com dois campos destacados, ID do inquilino e nome de domínio primário.":::
 
@@ -61,7 +61,7 @@ Encontrar o nome de domínio e a identificação do inquilino pode nem sempre se
 
 3. Localizar a secção **'Gerir'** no menu e, em seguida, selecionar **Utilizadores**.
 
-      :::image type="content" source="images/id/4-find-id-azure-portal-aad-manage-users-option.png" alt-text="Mostra menu Azure Ative Directory com opção de utilizadores em destaque.":::
+      :::image type="content" source="images/id/4-find-id-azure-portal-aad-manage-users-option.png" alt-text="Mostra Azure Ative Directory menu com destaque, opção utilizadores.":::
 
 4. Na página Utilizadores, digite o nome do utilizador na caixa de pesquisa.
 
@@ -78,6 +78,6 @@ Encontrar o nome de domínio e a identificação do inquilino pode nem sempre se
 ## <a name="next-steps"></a>Passos seguintes
 
 - [Encontre o seu ID de inquilino programáticamente com PowerShell ou CLI](/azure/active-directory/fundamentals/active-directory-how-to-find-tenant)
-- [Saiba mais sobre os perfis de utilizador no Azure Ative Directory](/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)
+- [Saiba mais sobre os perfis de utilizador em Azure Ative Directory](/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)
 - [Saiba como os parceiros podem ver ou exportar detalhes do cliente no Partner Center](see-your-customer-list.md)
 

@@ -3,7 +3,7 @@ title: Anúncios de abril de 2021
 description: Anúncios de abril de 2021 para o Microsoft Partner Center, incluindo novas capacidades, promoções, ofertas, mercados ou alterações às ofertas existentes.
 ms.topic: article
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-action-center
 author: brentserbus
 ms.author: brserbus
 ms.custom:
@@ -11,12 +11,12 @@ ms.custom:
 - references_regions
 ms.localizationpriority: high
 ms.date: 04/29/2021
-ms.openlocfilehash: 13b8ec9ddd82b38a265606809b8c39c07436e548
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 31f6fadc0eb25b899bc2dee3a0475daf17c54c2c
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110150136"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114841764"
 ---
 # <a name="april-2021-announcements"></a>Anúncios de abril de 2021
 
@@ -67,7 +67,7 @@ Os códigos postais dos EUA devolverão mais quatro dígitos + hífen, por exemp
 
 ### <a name="questions"></a>Perguntas?
 
-Se precisar de apoio para as suas operações com a Microsoft, contacte o grupo Yammer ou abra um pedido de [serviço.](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8)
+Se precisar de apoio para as suas operações com a Microsoft, contacte o suporte do seu parceiro Yammer grupo ou abra um pedido de [serviço.](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8)
 
 _______________
 ## <a name="new-location-for-partner-center-api-swagger-documentation"></a><a name="9"></a>Nova localização para a documentação da API Swagger do Partner Center
@@ -83,7 +83,7 @@ Os documentos da API Swagger do Centro Parceiro foram migrados do anterior site 
 
 ### <a name="impacted-audience"></a>Audiência impactada
 
-Parceiros de conta direta e fornecedores indiretos que participam no programa Cloud Solution Provider (CSP) que estão a utilizar as APIs do Partner Center
+Parceiros de conta direta e Fornecedores Indiretos que participam no programa Fornecedor de Soluções em Nuvem (CSP) que estão a utilizar as APIs do Partner Center
 
 ### <a name="details"></a>Detalhes
 
@@ -102,7 +102,7 @@ Partilhe esta informação dentro da sua organização para que a equipa adequad
 Para questões sobre estas ofertas, consulte as suas comunidades Yammer relevantes.
 
 ________________
-## <a name="cloud-solution-provider-csp-software-return-period-policy-and-download-link-expiry-notice"></a><a name="8"></a>Cloud Solution Provider (CSP) software devolução de tempo e aviso de expiração do link de descarregamento
+## <a name="cloud-solution-provider-csp-software-return-period-policy-and-download-link-expiry-notice"></a><a name="8"></a>Fornecedor de Soluções em Nuvem (CSP) política de devolução de software e aviso de expiração do link de descarregamento
 
 ### <a name="categories"></a>Categorias
 
@@ -146,7 +146,7 @@ Reveja o período de devolução do [CSP e o link de descarregamento expirando f
 Para questões sobre estas ofertas, consulte as suas comunidades Yammer relevantes.
 
 ________________
-## <a name="open-licensing-program-transitioning-resellers-to-the-cloud-solution-provider-csp-program"></a><a name="7"></a>Programa de Licenciamento Aberto: Revendedores de transição para o programa Cloud Solution Provider (CSP)
+## <a name="open-licensing-program-transitioning-resellers-to-the-cloud-solution-provider-csp-program"></a><a name="7"></a>Programa de Licenciamento Aberto: Revendedores de transição para o programa Fornecedor de Soluções em Nuvem (CSP)
 
 ### <a name="categories"></a>Categorias
 
@@ -163,7 +163,7 @@ CSP e parceiros de Licença Aberta
 
 ### <a name="details"></a>Detalhes
 
-Em 2020, a Microsoft [anunciou](https://blogs.partner.microsoft.com/mpn/general-availability-of-perpetual-software-licenses-in-the-cloud-solution-provider-program/) que as licenças de software perpétuos estarão amplamente disponíveis para parceiros e clientes através do programa Cloud Solution Provider (CSP). O primeiro marco foi alcançado em janeiro de 2021, quando as ofertas comerciais de software perpétuo ficaram disponíveis. O próximo marco-chave acontecerá em julho de 2021, quando as ofertas do [sector público](https://aka.ms/openlicensepublicsector) ficarem disponíveis. Também [comunicámos](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/) que a partir de 1 de janeiro de 2022, nenhuma nova compra de licença de software ou renovações de Software Assurance ou serviços online pode ser feita através do programa Open License.
+Em 2020, a Microsoft [anunciou](https://blogs.partner.microsoft.com/mpn/general-availability-of-perpetual-software-licenses-in-the-cloud-solution-provider-program/) que as licenças de software perpétuos estarão amplamente disponíveis para parceiros e clientes através do programa Fornecedor de Soluções em Nuvem (CSP). O primeiro marco foi alcançado em janeiro de 2021, quando as ofertas comerciais de software perpétuo ficaram disponíveis. O próximo marco-chave acontecerá em julho de 2021, quando as ofertas do [sector público](https://aka.ms/openlicensepublicsector) ficarem disponíveis. Também [comunicámos](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/) que a partir de 1 de janeiro de 2022, nenhuma nova compra de licença de software ou renovações de Software Assurance ou serviços online pode ser feita através do programa Open License.
 
 A transição do software perpétuo para o programa CSP na nova experiência de comércio ajudará os parceiros a expandir as oportunidades para oferecer soluções diversas e serviços geridos. Isto também vai acelerar a transição dos clientes para a nuvem.  Para ajudar a garantir uma transição suave tanto para os nossos parceiros como para os nossos clientes, fizemos estes ajustes e materiais para acelerar esta transformação digital:
 
@@ -177,7 +177,7 @@ A transição do software perpétuo para o programa CSP na nova experiência de 
 
 - 1 de julho: Licenças de software perpétuos disponíveis para clientes do sector público
 
-- 7 de julho: Visual Studio Pro e Obter licenças de software perpétuos do Acordo de Windows genuínas disponíveis para todos os segmentos
+- 7 de julho: Visual Studio Pro e Get Genuine Windows Agreement licenças de software perpétuos disponíveis para todos os segmentos
 
 ##### <a name="open-value"></a>Valor Aberto
 
@@ -205,7 +205,7 @@ Utilize os próximos meses para ajudar os revendedores open license orientando p
 
 #### <a name="open-license-resellers"></a>Revendedores de Licença Aberta
 
-- Se a sua organização não estiver atualmente inscrita no programa CSP, contacte o seu distribuidor para obter informações sobre como começar. Conecte-se com um fornecedor indireto [aqui.](https://partner.microsoft.com/membership/cloud-solution-provider/find-a-provider)
+- Se a sua organização não estiver atualmente inscrita no programa CSP, contacte o seu distribuidor para obter informações sobre como começar. Ligação com um fornecedor indireto [aqui.](https://partner.microsoft.com/membership/cloud-solution-provider/find-a-provider)
 
 - Se a sua organização já está inscrita no programa CSP, saiba mais sobre software perpétuo em CSP [aqui.](https://partner.microsoft.com/resources/collection/software-in-csp)
 
@@ -227,7 +227,7 @@ A Prontidão de Lançamento publicou um novo [guia global de prontidão promocio
 
 ### <a name="impacted-audience"></a>Audiência impactada
 
-Todos os parceiros de Licenciamento de Volume (VL), Dynamics Price List (DPL) e Cloud Solution Provider (CSP)
+Todos os parceiros de licenciamento de volume (VL), Dynamics Price List (DPL) e Fornecedor de Soluções em Nuvem (CSP)
 
 ### <a name="details"></a>Detalhes
 
@@ -252,7 +252,7 @@ No início de cada mês, encontrará o mais recente [guia global de prontidão p
 Partilhe esta informação com os contactos adequados nas suas organizações e informe-nos de quão útil o guia é através do "Foi útil esta página?" botão no final de cada página.
 
 ________________
-## <a name="april-cloud-solution-provider-csp-community-update-and-reminders"></a><a name="5"></a>Atualização e lembretes da comunidade April Cloud Solution Provider (CSP)
+## <a name="april-cloud-solution-provider-csp-community-update-and-reminders"></a><a name="5"></a>Atualização e lembretes da comunidade Fornecedor de Soluções em Nuvem de abril (CSP)
 
 ### <a name="categories"></a>Categorias
 
@@ -318,7 +318,7 @@ ________________
 
 ### <a name="impacted-audience"></a>Audiência impactada
 
-Parceiros que vendem ofertas académicas, sem fins lucrativos e comunidade governamental (GCC) através do programa Cloud Solution Provider utilizando a API do Partner Center
+Parceiros que vendem ofertas académicas, sem fins lucrativos e Nuvem da Comunidade Governamental (GCC) através do programa Fornecedor de Soluções em Nuvem utilizando a API do Partner Center
 
 ### <a name="details"></a>Detalhes
 
@@ -356,7 +356,7 @@ ________________
 
 ### <a name="summary"></a>Resumo
 
-A Microsoft está a introduzir um novo formato para a nova fatura PDF do comércio no programa Cloud Solution Provider (CSP) para apresentar detalhes de faturação por detalhes do produto em vez da descrição do SKU.
+A Microsoft está a introduzir um novo formato para a nova fatura PDF do comércio no programa Fornecedor de Soluções em Nuvem (CSP) para apresentar detalhes de faturação por detalhes do produto em vez da descrição do SKU.
 
 ### <a name="impacted-audience"></a>Audiência impactada
 
@@ -366,7 +366,7 @@ Parceiros transacionando através do programa CSP
 
 A partir de maio de 2021, a Microsoft está a introduzir um novo formato para a nova fatura PDF do comércio no programa CSP para apresentar detalhes de faturação por detalhes do produto em vez da descrição do SKU. Com esta nova atualização, vamos agregar os itens de linha por tipo de produto enquanto exibimos todos os produtos numa linha individual.
 
-Os parceiros vão notar esta alteração que entra em vigor na sua fatura de maio para o período de faturação entre 1 de abril de 2021 e 30 de abril de 2021. As ofertas afetadas são a Microsoft Azure Reserved Instance, as subscrições Azure (plano Azure) e o Marketplace.
+Os parceiros vão notar esta alteração que entra em vigor na sua fatura de maio para o período de faturação entre 1 de abril de 2021 e 30 de abril de 2021. As ofertas afetadas são Microsoft Azure As assinaturas Reserved Instance, Azure (plano Azure) e Marketplace.
 
 Quaisquer pedidos de crédito-rebill feitos após a atualização do formato da fatura serão gerados no novo formato.
 
@@ -393,7 +393,7 @@ Os seguintes elementos não serão afetados:
 Reveja as informações sobre este tópico na [galeria de recursos de prontidão de operações](https://partner.microsoft.com/resources/collection/introducing-new-format-for-the-new-commerce-invoice-in-csp#/) no site do parceiro da Microsoft. Para mais informações sobre faturação e tópicos fiscais, incluindo recursos de faturação, faturas, faturação de CSP e impostos, visite [a secção de Faturação](../billing.md) no Partner Center.
 
 ________________
-## <a name="changes-to-the-cloud-solution-provider-csp-customer-onboarding-requirements"></a><a name="2"></a>Alterações aos requisitos de embarque do fornecedor de solução cloud (CSP)
+## <a name="changes-to-the-cloud-solution-provider-csp-customer-onboarding-requirements"></a><a name="2"></a>Alterações aos requisitos de embarque do cliente Fornecedor de Soluções em Nuvem (CSP)
 
 ### <a name="categories"></a>Categorias
 
@@ -476,7 +476,7 @@ O calendário de lançamento do produto de abril de 2021 já foi publicado.
 
 ### <a name="impacted-audience"></a>Audiência impactada
 
-Todos os parceiros que transacionam através do programa Cloud Solution Provider (CSP)
+Todos os parceiros que transfiram através do programa Fornecedor de Soluções em Nuvem (CSP)
 
 ### <a name="details"></a>Detalhes
 

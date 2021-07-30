@@ -4,23 +4,23 @@ description: Saiba como os parceiros de programas da CSP podem permitir que os c
 ms.topic: how-to
 ms.date: 05/18/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-customers
 author: amitravat
 ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9fabd6bd188c9d596128672d9fce3321db9b5432
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: aced617bbe46465d9a82478a41b2f1c4a05309be
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110150765"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114841424"
 ---
 # <a name="give-customers-permission-in-partner-center-to-buy-their-own-products-or-services"></a>Dê permissão aos clientes no Partner Center para comprarem os seus próprios produtos ou serviços
 
 **Funções adequadas**: Agente administrador | Agente comercial
 
-Este artigo mostra como um parceiro no programa Cloud Solution Provider (CSP) pode dar permissão ao cliente para comprar alguns dos seus próprios serviços ou recursos.
+Este artigo mostra como um parceiro no programa Fornecedor de Soluções em Nuvem (CSP) pode dar permissão a um cliente para comprar alguns dos seus próprios serviços ou recursos.
 
 Os parceiros do programa CSP usam frequentemente o Partner Center e o seu mercado comercial para comprar soluções e serviços para os seus clientes. Os parceiros permitem então que alguns clientes prestem estes serviços diretamente a partir do portal Azure.
 

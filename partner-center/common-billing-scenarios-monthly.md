@@ -3,18 +3,18 @@ title: Cenários comuns de faturação mensal
 ms.topic: article
 ms.date: 05/13/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-billing
 description: Cenários comuns no Partner Center quando utiliza faturação mensal - inclui a adição de novas subscrições, alteração da quantidade de licença e suspensão de subscrições.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 66c9ec09f707d87248fdef31e4cf66f4ca927ce1
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: dad132f9ad749076dc52a45f1ce77f23839e8671
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110148657"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114840710"
 ---
 # <a name="sample-monthly-billing-scenarios-for-new-subscriptions-changing-license-amounts-or-suspensions"></a>Experimente cenários de faturação mensal para novas subscrições, alteração dos valores das licenças ou suspensões
 

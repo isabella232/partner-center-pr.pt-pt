@@ -3,18 +3,18 @@ title: Benefícios Azure e Cloud - MPN
 ms.topic: article
 ms.date: 01/28/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
+ms.subservice: partnercenter-benefits
 description: Conheça os benefícios da Microsoft Partner Network (MPN) para os produtos Azure e Cloud, incluindo como ativar subscrições.
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a873e6dcac03ae781b776204fb8801581fefdec5
-ms.sourcegitcommit: e90293bc643963fe9ce3f838bc8861fbd304b16d
+ms.openlocfilehash: cd9d14fd6f7cc9f0376b550e4d87aa5de499312f
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/14/2021
-ms.locfileid: "112066493"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114841169"
 ---
 # <a name="explore-the-azure-and-cloud-products-benefits-area-in-partner-center"></a>Explore a área de benefícios de produtos Azure e cloud no Partner Center
 
@@ -44,10 +44,10 @@ Esta página mostra os seguintes detalhes:
 ## <a name="usage-based-vs-license-based-subscriptions"></a>Assinaturas baseadas em utilização vs. licença
 
 A página **de produtos em nuvem Azure &** lista dois tipos de benefícios de subscrição que lhe são oferecidos:
-- Subscrições baseadas em utilização (Microsoft Azure Credit) 
-- Assinaturas baseadas em licenças (como o Office 365)
+- Assinaturas baseadas em utilização (Microsoft Azure Crédito) 
+- Assinaturas baseadas em licenças (como Office 365)
 
-### <a name="usage-based-subscriptions-with-two-types-of-microsoft-azure-credit"></a>Subscrições baseadas em uso com dois tipos de crédito Microsoft Azure
+### <a name="usage-based-subscriptions-with-two-types-of-microsoft-azure-credit"></a>Assinaturas baseadas em uso com dois tipos de crédito Microsoft Azure
 
 Existem dois tipos de subscrições baseadas em uso que pode receber, dependendo das ofertas ativas disponíveis para a sua subscrição da Microsoft Partner Network. Tais ofertas ativas podem incluir o Microsoft Action Pack, uma competência de prata ou uma competência em ouro. 
 
@@ -57,7 +57,7 @@ Os dois tipos de subscrições baseadas em uso que podem ser a provisionadas par
 *e/ou*
 - **Provisão para crédito a granel (anualmente) azure:** Isto pode parecer algo como $6.000/ano, $12.000/ano, e/ou $13.000/ano (ou cada um deles equivalente em moeda local)
 
-Para ativar uma subscrição do Microsoft Azure no Partner Center, é necessário atribuir acesso a um utilizador dentro da empresa (ou a um utilizador convidado). O utilizador já deve ter uma entrada de utilizador criada no seu inquilino Azure Ative Directory. Então, siga estes passos:
+Para ativar uma subscrição Microsoft Azure no Partner Center, é necessário atribuir acesso a um utilizador dentro da empresa (ou a um utilizador convidado). O utilizador já deve ter uma entrada de utilizador criada no seu Azure Ative Directory inquilino. Então, siga estes passos:
 
 1. Assim que tiver a certeza de que o utilizador tem uma entrada de utilizador no seu inquilino AZure AD, inscreva-se no [painel de instrumentos](https://partner.microsoft.com/dashboard)do Partner Center .
 
@@ -71,11 +71,11 @@ Para ativar uma subscrição do Microsoft Azure no Partner Center, é necessári
 
 - Quando atribuir um crédito mensal Azure de algo como $100 por mês (ou equivalente em moeda local), note que pode adicionar ou remover utilizadores desta subscrição a qualquer momento.
 
-- Quando atribuir o crédito a granel (anual) Azure, note que a opção **Remover** não está disponível no Partner Center. Em vez disso, tem de transferir o crédito a granel para outra pessoa durante o seu ano de matrícula. A subscrição de crédito a granel (anual) também não pode ser combinada com outras ofertas de licenciamento, pré-pago ou crédito (por exemplo, Microsoft Enterprise Agreement, Cloud Solution Provider, Azure in Open, Azure Pass, Microsoft Action Pack, etc.).
+- Quando atribuir o crédito a granel (anual) Azure, note que a opção **Remover** não está disponível no Partner Center. Em vez disso, tem de transferir o crédito a granel para outra pessoa durante o seu ano de matrícula. A subscrição de crédito a granel (anual) também não pode ser combinada com outras ofertas de licenciamento, pré-pago ou crédito (por exemplo, Microsoft Contrato Enterprise, Fornecedor de Soluções em Nuvem, Azure in Open, Azure Pass, Microsoft Action Pack, etc.).
 
 ### <a name="license-based-subscriptions"></a>Assinaturas baseadas em licenças
 
-Na secção de subscrições baseadas em licenças da página de produtos Azure e Cloud, encontrará todos os produtos em nuvem que requerem uma chave de produto para ativação, tais como Microsoft O365, Microsoft Dynamics, Microsoft Intune, Azure AD básico, Power BI, etc. Estes produtos são oferecidos com base no tipo de oferta ativa disponível para si como parceiro na Microsoft Partner Network. Tais ofertas podem incluir Microsoft Action Pack, membro de competência de prata ou adesão à competência em ouro.
+Na secção de subscrições baseadas em licenças da página de produtos Azure e Cloud, encontrará todos os produtos em nuvem que requerem uma chave de produto para ativação, como o Microsoft O365, Microsoft Dynamics, Microsoft Intune, Azure AD básico, Power BI, etc. Estes produtos são oferecidos com base no tipo de oferta ativa disponível para si como parceiro na Microsoft Partner Network. Tais ofertas podem incluir Microsoft Action Pack, membro de competência de prata ou adesão à competência em ouro.
 
 Para ativar uma subscrição baseada em licença: 
 
@@ -94,7 +94,7 @@ Para ativar uma subscrição baseada em licença:
       [https://signup.microsoft.com/productkeystart](https://signup.microsoft.com/productkeystart)
 
 > [!Note]
-> Office 365 E3, Office 365 E5, Enterprise Mobility + Security, Microsoft Intune e Windows 10 Enterprise benefits deixaram de fazer parte de pacotes de benefícios de competência. Pode ativar os benefícios do Microsoft 365 E3 ou Microsoft 365 E5 que funcionam como substitutos dos pacotes de benefícios autónomos que são descontinuados.
+> Office 365 E3, Office 365 E5, Enterprise Mobility + Security, Microsoft Intune e Windows 10 Enterprise benefícios deixaram de fazer parte dos pacotes de benefícios de competência. Pode ativar benefícios Microsoft 365 E3 ou Microsoft 365 E5 que atuam como substitutos dos pacotes de benefícios autónomos que são descontinuados.
 Se precisar de ajuda com a instalação ou implantação de benefícios M365, utilize os seus benefícios técnicos para levantar um [bilhete de suporte técnico](mpn-benefits-technical-support.md)
       
    - Se desejar prolongar a data de fim ou adicionar mais lugares/licenças a uma cópia de subscrição existente e colar o link abaixo numa **janela de navegador privada ou incógnita** e seguir as instruções:
@@ -106,7 +106,7 @@ Se precisar de ajuda com a instalação ou implantação de benefícios M365, ut
 >
 > - Confirme se precisa ou não de adicionar mais licenças (lugares), quantas e se deve ou não prolongar a data de fim. Se optar por adicionar mais licenças (lugares) e **não** prolongar a data de fim, o sistema fornecer-lhe-á menos de 12 meses de subscrição ativa. 
 >
-> - Certifique-se de que está assinado com as credenciais corretas e que está a ativar as chaves no inquilino correto do Azure Ative Directory (AAD). Faça sempre o sômb.
+> - Certifique-se de que está assinado com as credenciais corretas e que está a ativar as chaves no inquilino Azure Ative Directory correto (AAD). Faça sempre o sômb.
 >
 > - A data de validade do benefício mostrada no Microsoft Partner Center indica a última data para exercer os direitos de utilização desse benefício. Esta data pode diferir da data de final de subscrição listada no portal M365 Admin Center. Isto pode dever-se a vários fatores, tais como data de ativação de benefícios, número de licenças associadas à chave, e as licenças adicionadas ou estendidas no portal Admin.
 
@@ -118,7 +118,7 @@ Siga estes passos para adicionar mais licenças ou prolongar a data limite para 
 
    [https://admin.microsoft.com/AdminPortal/Home#/subscriptions](https://admin.microsoft.com/AdminPortal/Home#/subscriptions)
 
-1. Ao iniciar sessão no **seu portal de administração M365,** certifique-se de que está a iniciar sessão com o inquilino correto do Azure Ative Directory. Em seguida, selecione a subscrição em nuvem específica da lista e faça uma das seguintes (para renovar a subscrição ou adicionar mais licenças):
+1. Ao iniciar sessão no **seu portal de administração M365,** certifique-se de que está a iniciar sessão com o inquilino Azure Ative Directory correto. Em seguida, selecione a subscrição em nuvem específica da lista e faça uma das seguintes (para renovar a subscrição ou adicionar mais licenças):
 
    - Para renovar a subscrição existente, selecione a opção **De extensão da data de fim** na área de Licença. O alargamento da data de fim aumentará a duração da subscrição, mantendo o número de licenças/assentos iguais. 
 
@@ -144,7 +144,7 @@ Siga estes passos se estiver a ativar uma subscrição pela primeira vez. També
 1. Copie e cole o link abaixo numa **janela de navegador privada ou incógnita.**
    
    [https://signup.microsoft.com/productkeystart](https://signup.microsoft.com/productkeystart)
-1. Certifique-se de que assinou a conta correta do inquilino do Azure Ative Directory. Assim que assinar, verifique os detalhes do inquilino.
+1. Certifique-se de que assinou na conta correta Azure Ative Directory inquilino. Assim que assinar, verifique os detalhes do inquilino.
 
    :::image type="content" source="images/benefits/mpn-benefits-azure-cloud-5.png" alt-text="Página de produtos Azure e cloud mostrando onde adicionar chave." border="false":::
 
@@ -178,10 +178,10 @@ Se estiver a tentar prolongar a data de fim utilizando uma chave com mais de 3x 
 
 ## <a name="next-steps"></a>Passos seguintes
 
-- Saiba [como migrar do Office 365 E3 para o Microsoft 365 Business Premium](/microsoft-365/business/migrate-from-e3)
+- Saiba [como migrar de Office 365 E3 para Microsoft 365 Empresas Premium](/microsoft-365/business/migrate-from-e3)
    
-- Ler mais sobre [o Microsoft 365 Business Voice](/microsoftteams/business-voice/whats-business-voice)
+- Ler mais sobre [Microsoft 365 Voz Para Empresas](/microsoftteams/business-voice/whats-business-voice)
   
 - Conheça a [disponibilidade do país e da região para o Business Voice](/microsoftteams/business-voice/country-region-availability)
 
-- Saiba mais [sobre a implementação do Windows 10 com o Microsoft 365](/windows/deployment/deploy-m365)
+- Saiba como [implementar Windows 10 com Microsoft 365](/windows/deployment/deploy-m365)

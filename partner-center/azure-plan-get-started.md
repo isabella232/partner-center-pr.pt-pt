@@ -3,18 +3,18 @@ title: Comece a sua mudança para o plano Azure
 description: Saiba o que você e os seus clientes precisam de saber sobre a utilização do plano de pagamento da Azure, incluindo os primeiros passos, precauções de segurança e como começar.
 ms.topic: article
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-pricing
 author: amitravat
 ms.author: amrava
 ms.custom: SEOAPR.20
 ms.localizationpriority: High
 ms.date: 12/02/2019
-ms.openlocfilehash: 58feabdefb02660559c69f61190070310768b947
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 40bf84ed47c946b84f511693d9f8351b3ffa5a95
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110149660"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114841662"
 ---
 # <a name="begin-using-pay-as-you-go-rates-with-the-azure-plan"></a>Comece a usar as taxas de pagamento com o plano Azure
 
@@ -33,27 +33,27 @@ Desde 1 de outubro de 2019, está disponível o Microsoft Customer Agreement, um
 
 Os parceiros que pretendam negociar ao abrigo do novo plano Azure e fazer uma nova encomenda devem confirmar a aceitação do Cliente da Microsoft utilizando o painel de instrumentos do Partner Center e a API em produção.
 
-A partir de 1 de fevereiro de 2020, o atual Microsoft Cloud Agreement é removido do programa CSP. A partir desse momento, será necessária a confirmação do parceiro (atestado) da aceitação do cliente para o novo Acordo de Cliente da Microsoft para todas as outras ofertas, incluindo a Microsoft 365, Dynamics 365 e a Azure existente. Os parceiros da CSP não poderão fazer uma nova encomenda para o cliente sem aestestação do Acordo de Cliente da Microsoft.
+A partir de 1 de fevereiro de 2020, o atual Microsoft Cloud Agreement é removido do programa CSP. A partir desse momento, será necessária a confirmação do parceiro (atestado) da aceitação do cliente para o novo Acordo de Cliente da Microsoft para todas as outras ofertas, incluindo Microsoft 365, Dynamics 365 e Azure existente. Os parceiros da CSP não poderão fazer uma nova encomenda para o cliente sem aestestação do Acordo de Cliente da Microsoft.
 
 Para mais detalhes, leia [Confirme a aceitação do cliente do Acordo de Cliente da Microsoft](confirm-customer-agreement.md)
 
 ## <a name="security-and-access-control-practices"></a>Práticas de segurança e controlo de acessos
 
-Para ajudar a salvaguardar parceiros e clientes, estamos a introduzir um conjunto de requisitos de segurança obrigatórios para assessores, fornecedores de painéis de controlo e parceiros que participam no programa Cloud Solution Provider.
+Para ajudar a salvaguardar parceiros e clientes, estamos a introduzir um conjunto de requisitos de segurança obrigatórios para assessores, fornecedores de painéis de controlo e parceiros que participam no programa Fornecedor de Soluções em Nuvem.
 
-Os parceiros que não implementarem os requisitos de segurança obrigatórios não poderão negociar no programa Cloud Solution Provider ou gerir os inquilinos dos clientes que usufrem direitos de administração de delegados, uma vez que estes requisitos sejam cumpridos. Estamos em fase de estabelecer uma data de execução técnica para os requisitos e notificaremos os parceiros da data com informações detalhadas.
+Os parceiros que não implementarem os requisitos de segurança obrigatórios não poderão negociar no programa de Fornecedor de Soluções em Nuvem ou gerir os inquilinos dos clientes aproveitando os direitos de administração dos delegados, uma vez que estes requisitos são cumpridos. Estamos em fase de estabelecer uma data de execução técnica para os requisitos e notificaremos os parceiros da data com informações detalhadas.
 
 ## <a name="actions-to-take-to-implement-mfa"></a>Ações a tomar para implementar o MFA
 
 Dada a natureza altamente privilegiada de ser um parceiro, precisamos garantir que cada utilizador tem um desafio MFA para cada autenticação. Isto pode ser realizado através de uma das seguintes formas:
 
-- Implementação do Azure AD Premium e garantir que a autenticação de vários fatores (MFA) é aplicada a cada utilizador
+- Implementação Azure AD Premium e garantir que a autenticação de vários fatores (MFA) é aplicada a cada utilizador
 - Implementação dos [incumprimentos de segurança Azure AD](/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)
 - Implementar uma solução de terceiros e garantir que o MFA é aplicado a cada utilizador
 
 A partir de 1 de agosto de 2019, todos os parceiros são obrigados a impor a autenticação de vários fatores para todos os utilizadores, incluindo contas de serviço, no seu inquilino parceiro. Informações detalhadas sobre estes requisitos de segurança podem ser encontradas nos [requisitos de segurança do Parceiro.](partner-security-requirements.md)
 
-A Microsoft recomenda que os parceiros utilizem o RBAC de forma diligente, seguindo as melhores práticas habilitados através dos recursos de Gestão de Identidade Privilegiada do [Azure Ative Directory.](/azure/active-directory/privileged-identity-management/pim-configure)
+A Microsoft recomenda que os parceiros utilizem o RBAC de forma diligente, seguindo as melhores práticas ativadas através [de recursos Azure Ative Directory Privileged Identity Management.](/azure/active-directory/privileged-identity-management/pim-configure)
 
 ## <a name="read-more-about-the-azure-plan"></a>Leia mais sobre o plano Azure
 

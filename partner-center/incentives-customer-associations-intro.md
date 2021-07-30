@@ -8,12 +8,12 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 05/20/2021
-ms.openlocfilehash: 9bcdd9e99f9db5271a1ca51dab01c376c938acc9
-ms.sourcegitcommit: 75b84d0918802325019577930d368bc3df193ab2
+ms.openlocfilehash: b540f3f667095704bddd78873faac94246fbf59a
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/21/2021
-ms.locfileid: "110236088"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114840404"
 ---
 # <a name="use-these-resources-to-make-customer-association-claims-for-specific-incentives-programs"></a>Utilize estes recursos para fazer reclamações de associação de clientes para programas de incentivos específicos
 
@@ -21,9 +21,9 @@ ms.locfileid: "110236088"
 
 Este artigo partilha recursos para parceiros da Microsoft que cumprem os seguintes critérios:
 
-- Faz parte dos seguintes programas de incentivos da Microsoft: Online Services Advisory (OSA) Sell, Online Services Usage (OSU)-Microsoft 365 e OSU-Business Os incentivos à aplicação.
+- Faz parte dos seguintes programas de incentivos da Microsoft: Consultoria de Serviços Online (OSA) Venda, Utilização de Serviços Online (OSU)-Microsoft 365 e incentivos OSU-Business aplicação.
 
-- Trabalha com clientes Microsoft 365 ou Dynamics 365 e pretende fazer referência ou reivindicar parte deste trabalho nos programas de incentivo supondo-se.
+- Trabalha com clientes Microsoft 365 ou Dynamics 365 e quer fazer referência ou reivindicar parte deste trabalho nos programas de incentivo supondo-se.
 
 Se se enquadrar nos critérios, tem de utilizar o modelo De Parceiro Reivindicativo da Record (CPOR) para criar e gerir associações de clientes para estes programas de incentivos.
 
@@ -35,7 +35,7 @@ O CPOR permite à Microsoft identificar e reconhecer os parceiros que estão a a
 
 A Microsoft utiliza agora o modelo Claiming Partner of Record (CPOR) para gerir as associações que tem com os seus clientes Microsoft 365 e Dynamics 365.
 
-Este modelo aplica-se ao seu trabalho com os clientes nos seguintes programas de incentivos: Consultoria de Serviços Online (OSA) Venda, Utilização de Serviços Online (OSU)-Microsoft 365 e OSU-Business incentivos à aplicação.
+Este modelo aplica-se ao seu trabalho com os clientes nos seguintes programas de incentivos: Consultoria de Serviços Online (OSA) Venda, Utilização de Serviços Online (OSU)-Microsoft 365 e incentivos OSU-Business Aplicação.
 
 A Microsoft valida todas as reclamações de incentivos.
 
@@ -46,7 +46,7 @@ Ao aceitar o seu pedido de associação, o cliente está a dar-lhe acesso a algu
 ## <a name="resources-to-help-you-create-and-manage-customer-associations"></a>Recursos para ajudá-lo a criar e gerir associações de clientes
 
 
-|  **Para fazer isto**  |  **Leia isto**  |
+|  **Para efetuar isto**  |  **Leia isto**  |
 |--------------|-----------|
 | Saiba como criar uma associação de clientes  | [Criar uma associação de clientes utilizando o modelo CPOR](submit-osa-claim.md)  |
 |Compreender como gerir as suas associações de clientes  | [Gerir as associações de clientes](incentives-manage-customer-associations.md)  |

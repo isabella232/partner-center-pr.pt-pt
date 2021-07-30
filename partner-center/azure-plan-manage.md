@@ -3,18 +3,18 @@ title: Plano Azure - Gerir subscrições & recursos
 ms.topic: article
 ms.date: 05/06/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-pricing
 description: Saiba como os parceiros podem usar diferentes opções de controlo de acesso baseado em funções (RBAC) para obter controlo operacional e gestão dos recursos Azure de um cliente.
 author: amitravat
 ms.author: amrava
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a885d8bbbd7541e199365a7c732aba0b67128053
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: ce0eaa6a4ec04dc514b241b7f90bf32dd3106e41
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277152"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114841492"
 ---
 # <a name="manage-subscriptions-and-resources-under-the-azure-plan"></a>Manage subscriptions and resources under the Azure plan (Gerir subscrições e recursos ao abrigo do plano do Azure)
 
@@ -30,11 +30,11 @@ Este artigo explica como os parceiros da CSP podem usar diferentes opções de c
 
 - **Administrador em Nome de (AOBO)** - Com [a AOBO,](https://channel9.msdn.com/Series/cspdev/Module-11-Admin-On-Behalf-Of-AOBO)qualquer utilizador com o papel de Agente Administrador no inquilino parceiro terá acesso ao proprietário do RBAC às subscrições Azure que cria através do programa CSP.
 
-- **Farol Azure**: A AOBO não permite a flexibilidade para criar grupos distintos que trabalham com diferentes clientes, ou para permitir diferentes funções para grupos ou utilizadores. Utilizando o Farol Azure, pode atribuir diferentes grupos a diferentes clientes ou funções. Uma vez que os utilizadores terão o nível de acesso adequado através da gestão de recursos delegados do Azure, pode reduzir o número de utilizadores que têm a função de Agente Administrador (e assim ter acesso total ao AOBO). Isto ajuda a melhorar a segurança limitando o acesso desnecessário aos recursos dos seus clientes. Também lhe dá mais flexibilidade para gerir vários clientes em escala. Para mais informações, leia [o Farol Azure e o programa Cloud Solution Provider](/azure/lighthouse/concepts/cloud-solution-provider).
+- **Farol Azure**: A AOBO não permite a flexibilidade para criar grupos distintos que trabalham com diferentes clientes, ou para permitir diferentes funções para grupos ou utilizadores. Utilizando o Farol Azure, pode atribuir diferentes grupos a diferentes clientes ou funções. Uma vez que os utilizadores terão o nível de acesso adequado através da gestão de recursos delegados do Azure, pode reduzir o número de utilizadores que têm a função de Agente Administrador (e assim ter acesso total ao AOBO). Isto ajuda a melhorar a segurança limitando o acesso desnecessário aos recursos dos seus clientes. Também lhe dá mais flexibilidade para gerir vários clientes em escala. Para mais informações, leia [o Farol de Azure e o programa Fornecedor de Soluções em Nuvem.](/azure/lighthouse/concepts/cloud-solution-provider)
 
 - **Diretório ou Utilizadores convidados ou [principais de serviço :](/azure/active-directory/develop/app-objects-and-service-principals)** Pode delegar o acesso granular às subscrições do CSP adicionando utilizadores no diretório de clientes ou adicionando utilizadores convidados e atribuindo funções específicas de RBAC.
 
-A Microsoft recomenda que os utilizadores tenham as permissões mínimas necessárias para realizar o seu trabalho como prática de segurança. Consulte os recursos de Gestão de Identidade Privilegiada do [Diretório Ativo Azure.](/azure/active-directory/privileged-identity-management/pim-configure)
+A Microsoft recomenda que os utilizadores tenham as permissões mínimas necessárias para realizar o seu trabalho como prática de segurança. Consulte [Azure Ative Directory Privileged Identity Management recursos.](/azure/active-directory/privileged-identity-management/pim-configure)
 
 ## <a name="link-your-partner-id-mpn-id-to-your-credentials-for-managing-customers-azure-resources"></a>Ligue o seu parceiro ID (MPN ID) às suas credenciais para gerir os recursos Azure do cliente
 

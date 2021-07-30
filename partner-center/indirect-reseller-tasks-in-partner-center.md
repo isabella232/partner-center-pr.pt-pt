@@ -3,18 +3,18 @@ title: Trabalhar com fornecedores indiretos no programa CSP
 description: Saiba como os revendedores indiretos podem trabalhar com fornecedores indiretos (ou distribuidores) da Microsoft para obter ajuda com o apoio ao cliente e faturação.
 ms.topic: how-to
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-enroll
 ms.custom: contperf-fy21q2
 ms.localizationpriority: high
 author: vinayks
 ms.author: vinayks
 ms.date: 01/27/2021
-ms.openlocfilehash: f17384d128cfad041e5dcfdc68f04df48228be94
-ms.sourcegitcommit: 9667763ae6eb405314dbb96bd4fa484ec964ab58
+ms.openlocfilehash: ab99fc400f7392d43785457f817e0469f7f2c077
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/15/2021
-ms.locfileid: "114224671"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114840149"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Saiba como associar-se a fornecedores indiretos no programa Fornecedor de Soluções em Nuvem
 

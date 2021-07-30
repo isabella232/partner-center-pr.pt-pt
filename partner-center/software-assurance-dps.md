@@ -3,18 +3,18 @@ title: Reforma dos Serviços de Planeamento de Garantia de Software
 ms.topic: article
 ms.date: 04/07/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
+ms.subservice: partnercenter-benefits
 description: Os Serviços de Planeamento da Microsoft estão a ser reformados.
 author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 791443cbcc4d8ee055ae9e4961d5e5329399e436
-ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
+ms.openlocfilehash: 880a2db785f9e8f14093dd3bf1abae2a9c580ff0
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "112551508"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114840982"
 ---
 # <a name="software-assurance-planning-services-retirement"></a>Reforma dos Serviços de Planeamento de Garantia de Software
 

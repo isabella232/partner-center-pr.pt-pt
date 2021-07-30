@@ -3,18 +3,18 @@ title: Capacidade de assinaturas digitais
 ms.topic: how-to
 ms.date: 07/21/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-billing
 description: Saiba como os parceiros do Partner Center na Índia podem ver faturas assinadas digitalmente e receber cópias digitais de faturas para encomendas criadas no Partner Center.
 author: keramp
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4253c59a85c8353856b16f60957761f4f2245da3
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: c9a910468c9f743cac848cbd9392f3ff64827cec
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110147195"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114840659"
 ---
 # <a name="view-digitally-signed-invoices"></a>Ver faturas assinadas digitalmente
 

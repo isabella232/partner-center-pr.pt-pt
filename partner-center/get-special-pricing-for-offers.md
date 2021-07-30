@@ -4,17 +4,17 @@ description: Conheça os preços especiais e reduzidos da Microsoft para determi
 ms.topic: how-to
 ms.date: 05/04/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-pricing
 author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e715ec2c787ea3df623256904f8af1e7d8f4e9c8
-ms.sourcegitcommit: d96ad93449da4c914becfffab167cdc1aa165ada
+ms.openlocfilehash: d875a5a511851168ed6aa7e58b81057513b413ab
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "112915580"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114840455"
 ---
 # <a name="sell-to-specialized-industries-like-education-non-profit-and-government-users"></a>Vender a indústrias especializadas como utilizadores de educação, sem fins lucrativos e governamentais
 
@@ -59,22 +59,22 @@ Os parceiros só poderão vender ofertas especiais aos clientes se cumprirem det
 
 - As ofertas educativas só podem ser adquiridas se o Cliente for autorizado como Instituição de Ensino. Um cliente de Educação só pode receber ofertas de Educação e Comercial, mas não sem fins lucrativos nem nuvem comunitária do Governo (GCC).
 - Os parceiros só podem adquirir subscrições GCC para clientes GCC. Uma vez que um cliente tem uma subscrição GCC, os parceiros não podem comprar subscrições comerciais, educacionais ou sem fins lucrativos.
-- Os parceiros só podem adquirir subscrições comerciais ou sem fins lucrativos para clientes sem fins lucrativos. Os parceiros não podem comprar assinaturas de GCC nem de educação para clientes sem fins lucrativos.
+- Os parceiros só podem adquirir subscrições comerciais ou sem fins lucrativos para clientes sem fins lucrativos. Os parceiros não podem comprar GCC nem subscrições de educação para clientes sem fins lucrativos.
 - As Entidades Estatais devem cumprir os [critérios de elegibilidade.](https://www.microsoft.com/legal/compliance/anticorruption/criteria)
 
 Regras de compra para venda de ofertas especiais aos clientes:
 
 |**Tipo de cliente**   |**Pode ser vendido**   |**Não pode ser vendido**   |
 |:----------------------------|:---------------------------------|:------------------------------------------|
-| Comercial |Comercial | Nuvem Comunitária sem fins lucrativos, educação ou comunidade governamental |
-| Sem fins lucrativos |Comercial, Sem Fins Lucrativos | Educação ou Nuvem Comunitária do Governo |
-| Education |Comercial, Educação | Nuvem Comunitária sem fins lucrativos ou do governo |
-| Nuvem Comunitária do Governo |Nuvem Comunitária do Governo | Sem fins lucrativos, Educação ou Comercial |
-| Entidade Estatal  | Comercial  | Nuvem Comunitária sem fins lucrativos, educação ou comunidade governamental  |
-| Se a Educação e a Entidade Estatal | Comercial, Educação | Nuvem Comunitária sem fins lucrativos ou do governo |
-| Se entidade estatal e nuvem comunitária do governo | Nuvem Comunitária do Governo | Sem fins lucrativos, Educação ou Comercial |
+| Comercial |Comercial | Sem fins lucrativos, Educação ou Nuvem da Comunidade Governamental |
+| Sem fins lucrativos |Comercial, Sem Fins Lucrativos | Educação ou Nuvem da Comunidade Governamental |
+| Education |Comercial, Educação | Sem fins lucrativos ou Nuvem da Comunidade Governamental |
+| Nuvem da Comunidade Governamental |Nuvem da Comunidade Governamental | Sem fins lucrativos, Educação ou Comercial |
+| Entidade Estatal  | Comercial  | Sem fins lucrativos, Educação ou Nuvem da Comunidade Governamental  |
+| Se a Educação e a Entidade Estatal | Comercial, Educação | Sem fins lucrativos ou Nuvem da Comunidade Governamental |
+| Se entidade estatal e Nuvem da Comunidade Governamental | Nuvem da Comunidade Governamental | Sem fins lucrativos, Educação ou Comercial |
 
 ## <a name="next-steps"></a>Passos seguintes
 
-- [Vender Minecraft: Subscrições da Education Edition para clientes de educação](minecraft-subscriptions.md)
+- [Venda Minecraft: Education Edition assinaturas a clientes de educação](minecraft-subscriptions.md)
 - [Centro de Parceiros do Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md)

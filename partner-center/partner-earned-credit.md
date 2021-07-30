@@ -3,18 +3,18 @@ title: Parceiro ganhou crédito - visão geral
 ms.topic: article
 ms.date: 05/26/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-pricing
 description: Saiba como o crédito ganho por parceiros (PEC) oferece preços uniformes simplificados E serviços geridos de valor acrescentado, ajudando a eliminar a concorrência nas margens.
 author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dad2a3a8f60135093c632466577a3e884daea715
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: f41fa2ccaf99f4ca46e283a4abb0975fb5195eef
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110152618"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114841339"
 ---
 # <a name="partner-earned-credit---an-overview-of-how-it-works-in-the-new-commerce-experience-in-csp"></a>Partner earned credit - uma visão geral de como funciona na nova experiência de comércio na CSP
 

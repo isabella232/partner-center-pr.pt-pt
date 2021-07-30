@@ -3,18 +3,18 @@ title: Encontre o papel que lhe foi atribuído
 description: Saiba onde ir no Partner Center para encontrar o papel que lhe foi atribuído, as suas permissões e o seu administrador global.
 ms.topic: how-to
 ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
+ms.subservice: partnercenter-enroll
 ms.custom: contperf-fy21q2
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.date: 10/12/2020
-ms.openlocfilehash: 10cb5971584378691e9cbe50029926944e023b51
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: ea42372fe9a39dc0a58c83957d2bccb0405bd54e
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110150833"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114840686"
 ---
 # <a name="find-your-role-your-permissions-and-your-global-admin"></a>Encontre o seu papel, as suas permissões e o seu administrador global
 
@@ -49,9 +49,9 @@ Para encontrar um administrador global que possa fazer alterações de funções
 
 ## <a name="get-a-new-global-admin-assigned-to-your-company"></a>Obtenha um novo administrador global atribuído à sua empresa
 
-Se o seu administrador global deixar a empresa, alguém terá de preencher este papel. Envie um bilhete para a equipa do Azure ou do Office 365. Para obter informações sobre como fazê-lo, selecione uma das opções abaixo.
+Se o seu administrador global deixar a empresa, alguém terá de preencher este papel. Envie um bilhete para a equipa do Azure ou Office 365. Para obter informações sobre como fazê-lo, selecione uma das opções abaixo.
 
 [Novo administrador global para a Azure](https://support.microsoft.com/help/4505981/what-to-do-if-the-only-admin-for-your-mpn-program-has-left-the-company)
 
-[Novo administrador global para o Office 365](https://admin.microsoft.com/)
+[Novo administrador global para Office 365](https://admin.microsoft.com/)
 

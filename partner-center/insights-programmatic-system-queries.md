@@ -3,17 +3,17 @@ title: Lista de consultas do sistema para acesso programático de insights de pa
 description: Saiba mais sobre as consultas do sistema que pode utilizar para aceder aos dados de análise de insights do parceiro.
 ms.topic: reference
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.date: 07/14/2021
-ms.openlocfilehash: 4b0bd5411d02463b015cf812cde78e34ef853814
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: 9f82907d24a1693097d8c9cfc42094be067639b1
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114376920"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114840013"
 ---
 # <a name="list-of-system-queries-for-partner-insights-programmatic-access"></a>Lista de consultas do sistema para acesso programático de insights de parceiros
 

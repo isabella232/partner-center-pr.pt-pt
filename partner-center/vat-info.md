@@ -7,13 +7,13 @@ ms.author: mingshen
 ms.localizationpriority: medium
 ms.date: 12/04/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
-ms.openlocfilehash: bcdb6b4da0911eb9b6600218f926517d9ef1728e
-ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
+ms.subservice: partnercenter-enroll
+ms.openlocfilehash: af342ef92613adbeb7ac37e0dd5e813949e67e03
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/22/2021
-ms.locfileid: "112431684"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114840761"
 ---
 # <a name="value-added-tax-vat-information"></a>Informação sobre o imposto sobre o valor acrescentado (IVA)
 
@@ -24,7 +24,7 @@ Se você é obrigado a fornecer um número de ID de imposto sobre o valor acresc
 
 ## <a name="understanding-vat-numbers"></a>Compreender os números do IVA
 
-Um número de IVA é um identificador utilizado para países ou regiões da União Europeia. Para mais informações, consulte o site oficial do Sistema de Intercâmbio de [Informações sobre IVA (VIES)](http://ec.europa.eu/taxation_customs/vies/vieshome.do)da União Europeia.
+Um número de IVA é um identificador utilizado para países ou regiões da União Europeia. Para mais informações, consulte o site oficial do [Sistema de Informação Exchange de Informação sobre IVA (VIES)](http://ec.europa.eu/taxation_customs/vies/vieshome.do)da União Europeia.
 
 ## <a name="location-specific-vat-information"></a>Informações específicas do IVA específicas da localização
 
@@ -54,8 +54,8 @@ Note que a Microsoft não fornece conselhos fiscais, e a tabela a seguir é forn
 |Bélgica  |- Formato número de IVA: 10 dígitos<br/>- Código país/região: BE<br/>- Exemplo: 1234567890<br/>- Notas: 9 dígitos antes de 1 de janeiro de 2007. |
 | Bulgária  |- Formato número de IVA: 9 ou 10 dígitos<br/>- Código país/região: BG<br/>- Exemplo: 123456789 ou 0123456789 |
 | Croácia |- Formato número de IVA: 2 letras e 11 dígitos<br/>- Código país/região: RH<br/>- Exemplo: HR12345678901<br/>- Notas: Os primeiros caracteres serão sempre 'HR'. |
-|Chipre |- Formato número de IVA: 2 letras e 8 dígitos e 1 letra<br/>- Código país/região: CY<br/>- Exemplo: 12345678, 123456789, ou 0123456789 |
-|Checa |- Formato número de IVA: 8, 9 ou 10 dígitos<br/>- Código país/região: CZ<br/>- Exemplo: 12345678, 123456789, ou 0123456789 |
+|Chipre |- Formato número de IVA: 2 letras e 8 dígitos e 1 letra<br/>- Código país/região: CY<br/>- Exemplo: 12345678, 123456789 ou 0123456789 |
+|Checa |- Formato número de IVA: 8, 9 ou 10 dígitos<br/>- Código país/região: CZ<br/>- Exemplo: 12345678, 123456789 ou 0123456789 |
 | Dinamarca |- Formato número de IVA: 8 dígitos<br/>- Código país/região: DK<br/>- Exemplo: 12345678<br/> |
 |Estónia |- Formato número de IVA: 9 dígitos<br/>- Código país/região: EE<br/>- Exemplo: 123456789<br/> |
 |Finlândia |- Formato do Número do IVA: dígitos<br/>- Código país/região: FI<br/>- Exemplo: 12345678 |

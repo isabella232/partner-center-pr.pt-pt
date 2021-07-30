@@ -3,18 +3,18 @@ title: Preços e ofertas
 ms.topic: article
 ms.date: 01/07/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-pricing
 description: Consulte as listas de preços atuais para serviços baseados em licenças como Office 365, Microsoft Dynamics CRM e Suíte de Mobilidade Empresarial, e serviços baseados em uso como o Azure.
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0d4d6ee9d3352a7af2894e33411b7e2b69c360a8
-ms.sourcegitcommit: d133c8b923b90ac5518cb989c0ce4dd69713abf4
+ms.openlocfilehash: 87f3f287c02b6dfe4af3f70a0985e8290e76a4e3
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "114434120"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114841084"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Preços e ofertas para Office 365, Dynamics CRM, Suite de Mobilidade Empresarial, Azure, e muito mais
 

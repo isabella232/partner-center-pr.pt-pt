@@ -2,19 +2,19 @@
 title: Mover clientes das ofertas atuais da Azure para o plano Azure
 ms.topic: how-to
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-pricing
 description: Saiba como os parceiros da CSP podem usar o Partner Center para transferir os clientes das ofertas csp azure existentes para os serviços Azure ao abrigo do plano Azure.
 author: mowree
 ms.author: mowrim
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 06/16/2020
-ms.openlocfilehash: 770df3cff40b8cc51eab16fb95d0bd43967a5a69
-ms.sourcegitcommit: 3ac88f7925bfe1df90e267ee5c1ee4d752ac92d4
+ms.openlocfilehash: eb9d88935bdc339c01ac47153c3d4a23047dc406
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/29/2021
-ms.locfileid: "113013272"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114841509"
 ---
 # <a name="transition-customers-to-azure-plan-from-existing-csp-azure-offers"></a>Transição de clientes para plano Azure a partir de ofertas CSP Azure existentes
 
@@ -24,7 +24,7 @@ ms.locfileid: "113013272"
 
 Este artigo explica como os parceiros da CSP podem usar o Partner Center para transferir os clientes das ofertas csp azure existentes para os serviços da Azure ao abrigo do plano Azure. Os fornecedores indiretos e os parceiros de conta direto podem transitar para a nova experiência de comércio disponível no Microsoft Cloud Service Provider Program (CSP) para o Azure. (Os revendedores indiretos terão de trabalhar através dos seus fornecedores indiretos.) Os clientes terão uma forma simplificada de comprar serviços na nuvem, seja comprando de parceiros, de vendedores da Microsoft, ou diretamente na web.
 
-A capacidade de transição destina-se apenas aos clientes que transitam para a nova experiência de comércio para o Azure e que assinaram o Acordo de Cliente da Microsoft. Não é para outras ofertas em CSP como o Office 365 ou Dynamics 365.
+A capacidade de transição destina-se apenas aos clientes que transitam para a nova experiência de comércio para o Azure e que assinaram o Acordo de Cliente da Microsoft. Não é para outras ofertas em CSP como Office 365 ou Dynamics 365.
 
 ## <a name="transition-existing-csp-offers-to-an-azure-plan"></a>Transição cSP existente oferece a um plano Azure
 
@@ -50,7 +50,7 @@ Pode transitar um cliente das suas ofertas CSP Azure existentes para os serviço
    - Um plano por cliente em cenários CSP diretos  
    - Um plano por revendedor  
 
-   Por exemplo, um parceiro comprou duas ofertas da Microsoft Azure e incluiu dois POR distintos na compra. Neste caso, o fluxo de trabalho de transição comprará dois planos Azure (um por revendedor) e mapeará automaticamente as respetivas assinaturas Azure ao abrigo dos planos Azure.  
+   Por exemplo, um parceiro comprou duas ofertas Microsoft Azure e incluiu dois POR distintos na compra. Neste caso, o fluxo de trabalho de transição comprará dois planos Azure (um por revendedor) e mapeará automaticamente as respetivas assinaturas Azure ao abrigo dos planos Azure.  
 
    **Mapeamento Azure subscrição do plano Azure**
 
@@ -86,7 +86,7 @@ Para transitar os Acordos Empresariais diretos para as inscrições de CSP e Ser
 
 ### <a name="audit-log"></a>Registo de auditoria
 
-Para conciliar a faturação, veja o seu histórico de subscrições "Microsoft Azure" (0145P) na página **de Subscrições.**
+Para conciliar a faturação, veja o seu histórico de subscrições de "Microsoft Azure" (0145P) na página **de Subscrições.**
 
 A subscrição "Microsoft Azure" (0145P) é composta por duas partes:
 
@@ -96,7 +96,7 @@ A subscrição "Microsoft Azure" (0145P) é composta por duas partes:
 Quando a transição estiver concluída, a subscrição do Azure é movida ao abrigo do novo plano Azure e a subscrição do comércio é suspensa de modo a que não seja reportada mais nenhuma utilização.  
 
 >[!NOTE]
->Quando a subscrição do Microsoft Azure (0145P) é adquirida em CSP, tanto a subscrição de comércio como a subscrição Azure (direito) têm o mesmo valor. Só no caso de faturação de alterações de propriedade ou transferências os valores diferem.
+>Quando Microsoft Azure subscrição (0145P) é adquirida em CSP, tanto a subscrição do comércio como a subscrição Azure (direito) têm o mesmo valor. Só no caso de faturação de alterações de propriedade ou transferências os valores diferem.
 
 ### <a name="transition-issues"></a>Questões de transição
 

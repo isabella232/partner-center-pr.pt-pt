@@ -8,12 +8,12 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 08/10/2020
-ms.openlocfilehash: 53ae5c3cf47ab74ad7dc61777ce512b37f4269fa
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 67c09a71b0e5e6774a6306a6af1b0eee6705083e
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110152040"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114840370"
 ---
 # <a name="use-these-resources-to-help-you-get-started-with-incentives"></a>Use estes recursos para ajudá-lo a começar com incentivos
 
@@ -34,7 +34,7 @@ Se é novo em incentivos e quer saber mais sobre os programas de incentivos disp
 
 Antes de poder ser pago pelo seu trabalho num programa de incentivos, precisa de dar detalhes específicos à Microsoft sobre o seu programa, elegibilidade de ganhos, perfis bancários e fiscais, e muito mais. Os seguintes recursos podem ajudar.
 
-|  **Para fazer isto**  |  **Leia isto**  |
+|  **Para efetuar isto**  |  **Leia isto**  |
 |--------------|-----------|
 | Saiba mais sobre a inscrição no programa de incentivos | [Inscreva-se no programa de incentivos](incentives-enroll.md)  |
 | Saiba se o seu trabalho de incentivo satisfaz os requisitos de elegibilidade para um programa específico de incentivos | [Determinar a elegibilidade do programa](incentives-determined-your-program-eligibility.md)  |

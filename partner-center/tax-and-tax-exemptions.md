@@ -4,23 +4,23 @@ ms.topic: article
 ms.date: 03/05/2021
 description: Para os parceiros do programa CSP, conheça as responsabilidades fiscais por região, como apresentar isenções fiscais para as vendas de CSP e como obter apoio para questões fiscais.
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-billing
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 93d2f4c2a1fb1f4c6de1cb8759cab0df85c3ceea
-ms.sourcegitcommit: 09eabb559aae25518caf3f2a59ef16a3e123c207
+ms.openlocfilehash: be90285d3bb531125f552cdce8e3dbfda39301fe
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "112489922"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114841118"
 ---
 # <a name="read-about-taxes-and-tax-exemption-details-by-region-or-country-for-partners-in-the-csp-program"></a>Leia sobre impostos e isenções fiscais por região ou país para parceiros no programa CSP
 
 **Funções apropriadas**: Administração global
 
-O programa Cloud Solution Provider (CSP) é um canal de vendas focado na revenda de produtos por parceiros. Como resultado, a Microsoft nem sempre é obrigada a cobrar imposto sobre vendas em faturas de parceiros. As regras variam por país e/ou região. Pode rever [detalhes específicos de um país e específicos da região para isenções fiscais.](#country-and-region-tax-details)
+O programa Fornecedor de Soluções em Nuvem (CSP) é um canal de vendas focado na revenda de produtos. Como resultado, a Microsoft nem sempre é obrigada a cobrar imposto sobre vendas em faturas de parceiros. As regras variam por país e/ou região. Pode rever [detalhes específicos de um país e específicos da região para isenções fiscais.](#country-and-region-tax-details)
 
 Trabalhe com o seu consultor fiscal para [apresentar isenções fiscais](#file-a-tax-exemption) com base na sua localização e na localização dos seus clientes.
 

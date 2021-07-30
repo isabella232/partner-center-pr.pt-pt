@@ -2,19 +2,19 @@
 title: Ligue a sua conta de trabalho ao Centro de Parceiros
 ms.topic: article
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-enroll
 description: Crie uma conta de trabalho que ligue a sua empresa à sua conta Partner Center. Isto permite que os colaboradores da sua empresa acedam ao Partner Center.
 author: vinayks
 ms.author: vinayks
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
 ms.date: 6/17/2021
-ms.openlocfilehash: 69aa45de55a4356eaab1bcd4cd309feb14de9f6e
-ms.sourcegitcommit: 0410e2a3f91b7e6b592cc47e7af1dfbe468c7881
+ms.openlocfilehash: 04624db5201b3a0e57b74b43678f6f2cd134c5c9
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112318066"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114841696"
 ---
 # <a name="create-a-work-account-that-links-your-company-to-your-partner-center-account"></a>Crie uma conta de trabalho que ligue a sua empresa à sua conta Partner Center
 
@@ -35,11 +35,11 @@ Se tiver mais do que um endereço de e-mail válido, use o que está associado �
 
 ## <a name="not-sure-if-your-company-already-has-a-work-account"></a>Não tem certeza se a sua empresa já tem uma conta de trabalho?
 
-Se não tem certeza se a sua empresa tem uma conta de trabalho, siga estes passos para verificar. Se tiver uma subscrição ativa do Microsoft Azure ou do Office 365, já tem uma conta de trabalho.
+Se não tem certeza se a sua empresa tem uma conta de trabalho, siga estes passos para verificar. Se tiver uma subscrição ativa de Microsoft Azure ou Office 365, já tem uma conta de trabalho.
 
 1. Inicie sessão no [portal do Azure](https://portal.azure.com).
 
-2. Selecione O Diretório Ativo Azure a partir do menu de navegação e selecione **Nomes de Domínio Personalizados**.
+2. Selecione Azure Ative Directory no menu de navegação e selecione **Nomes de Domínio Personalizados**.
 
 3. Se já tiver uma conta de trabalho, o seu nome de domínio será listado.
 
@@ -55,13 +55,13 @@ O diagrama abaixo fornece passos para vários cenários típicos:
 
 Para obter mais informações sobre a adição de domínios em AD AZure, consulte [Adicionar ou associar um domínio em Azure AD](/azure/active-directory/active-directory-add-domain)
 
-## <a name="about-microsoft-azure"></a>Sobre a Microsoft Azure
+## <a name="about-microsoft-azure"></a>Cerca de Microsoft Azure
 
-O Microsoft Azure é uma plataforma pública de nuvem que as empresas podem usar para construir, implementar e gerir aplicações através de uma rede global de datacenters geridos pela Microsoft. As empresas usam o Azure para construir uma infraestrutura de TI virtual com funções virtuais, ou serviços, em vez de máquinas físicas.
+Microsoft Azure é uma plataforma pública de nuvem que as empresas podem usar para construir, implementar e gerir aplicações através de uma rede global de datacenters geridos pela Microsoft. As empresas usam o Azure para construir uma infraestrutura de TI virtual com funções virtuais, ou serviços, em vez de máquinas físicas.
 
 Ao comprar uma subscrição da Azure, está essencialmente a alugar um espaço dedicado e seguro na nuvem pública do Azure, não muito diferente de alugar um andar num edifício de escritórios para alojar o negócio físico da sua empresa. Para o dono do prédio de escritórios, a sua empresa é inquilina.
 
-Uma conta de trabalho Azure é uma representação virtual dedicada e isolada da sua empresa na nuvem pública Azure, criada para si quando subscreve um serviço de cloud da Microsoft como Azure, Microsoft Intune ou Office 365.
+Uma conta de trabalho Azure é uma representação virtual dedicada e isolada da sua empresa na nuvem pública Azure, criada para si quando subscreve um serviço de cloud da Microsoft como a Azure, Microsoft Intune ou Office 365.
 
 A sua conta de trabalho acolhe os seus utilizadores AZure AD e as informações sobre eles - as suas palavras-passe, dados de perfil, permissões, e assim por diante. A conta de trabalho contém também grupos, aplicações e outras informações relativas a uma empresa e à sua segurança.
 

@@ -3,25 +3,25 @@ title: Dar apoio técnico aos clientes
 ms.topic: article
 ms.date: 06/05/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-incentives
-description: Conheça os tipos de suporte técnico que os parceiros do programa Cloud Solution Provider podem oferecer aos seus clientes.
+ms.subservice: partnercenter-support
+description: Conheça os tipos de suporte técnico Fornecedor de Soluções em Nuvem parceiros de programas podem oferecer aos seus clientes.
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5ea1fcd80f6ada97e5c0b840f11e0eb7668ee265
-ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
+ms.openlocfilehash: d8e4781ffa64269056c684d9ab10a29ff97dacde
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "112551236"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114841061"
 ---
 # <a name="provide-technical-support-to-help-customers-configure-manage-and-use-their-subscriptions"></a>Fornecer suporte técnico para ajudar os clientes a configurar, gerir e utilizar as suas subscrições
 
 
 **Funções adequadas**: Administração global | Administração de administração de utilizadores | Agente helpdesk | Agente administrativo
 
-Como parceiro cloud solution provider (CSP), tem Privilégios de Administração Delegados que lhe dão acesso aos ambientes dos seus clientes. Estes privilégios proporcionam-lhe a capacidade de suporte direto, configuração e gestão das subscrições dos seus clientes.
+Como parceiro Fornecedor de Soluções em Nuvem (CSP), tem Privilégios De Administração Delegados que lhe dão acesso aos ambientes dos seus clientes. Estes privilégios proporcionam-lhe a capacidade de suporte direto, configuração e gestão das subscrições dos seus clientes.
 
 No Partner Center, pode:
 
@@ -60,7 +60,7 @@ Cada serviço online tem requisitos específicos e detalhados para fornecer fatu
 
 - [Assinaturas Azure vendidas através da CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
 
-- [Escritório 365 assinaturas vendidas através da CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
+- [Office 365 subscrições vendidas através da CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
 
 ## <a name="next-steps"></a>Passos seguintes
 

@@ -1,20 +1,20 @@
 ---
-title: Faturação do operador móvel - Microsoft Store
-description: A Microsoft Store oferece a Faturação do Operador Móvel como um método de pagamento para operadores móveis que suportam esta capacidade.
+title: Faturação da operadora móvel - Microsoft Store
+description: O Microsoft Store oferece a Faturação do Operador Móvel como um método de pagamento para os operadores móveis que suportam esta capacidade.
 ms.date: 04/01/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-payouts
 ms.topic: article
 ms.author: hickeys
 author: hickeys
 keywords: janelas 10, uwp, operadores móveis, faturação móvel, faturação do operador móvel
 ms.localizationpriority: medium
-ms.openlocfilehash: 70d1d05911c927832ae82a402b0c17be52e39cfa
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: b14d92038570756de594f013c4eb2c2e4615c64e
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110151547"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114839974"
 ---
 # <a name="mobile-operator-billing"></a>Faturação da operadora de rede móvel
 
@@ -23,7 +23,7 @@ ms.locfileid: "110151547"
 > [!NOTE]
 > Se procura apoio em relação a pagamentos, incluindo configurar contas de pagamento, pagamentos em falta, colocar pagamentos em espera, ou qualquer outra coisa, apoio de contato [aqui.](https://developer.microsoft.com/windows/support)
 
-A Microsoft Store oferece faturação do operador móvel como método de pagamento para dispositivos que executam as consolas Windows 10, telemóveis com windows 10 Mobile e consolas Xbox One. Se o operador móvel de um cliente suportar esta capacidade, o cliente pode adicionar a faturação da operadora móvel como método de pagamento e usá-lo para fazer compras da Loja usando a sua conta móvel.
+O Microsoft Store oferece faturação da operadora móvel como um método de pagamento para dispositivos em execução Windows 10, telefones em execução Windows 10 Mobile e consolas de Xbox One. Se o operador móvel de um cliente suportar esta capacidade, o cliente pode adicionar a faturação da operadora móvel como método de pagamento e usá-lo para fazer compras da Loja usando a sua conta móvel.
 
 > [!TIP]
 > Se a operadora móvel de um cliente oferecer faturação da operadora móvel, mas o cliente não conseguir encontrar esta opção no seu dispositivo, reveja estes [passos](https://support.microsoft.com/instantanswers/b25d6dd6-fb8b-3710-1e13-4d30eb01b51f).
@@ -63,4 +63,4 @@ Os seguintes operadores móveis suportam atualmente a faturação da operadora m
 | Turquia               | Estação Turkcell                                                |
 | Emirados Árabes Unidos | Etisalat                                                |
 | Estados Unidos da América        | Sprint                                         |
-| Reino Unido       | 3 UK, EE, O2, Vodafone                                 |
+| Reino Unido       | 3 REINO UNIDO, EE, O2, Vodafone                                 |

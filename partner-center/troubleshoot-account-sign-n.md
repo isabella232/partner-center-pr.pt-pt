@@ -3,18 +3,18 @@ title: Resolução de problemas configurando a sua conta Partner Center ou probl
 ms.topic: how-to
 ms.date: 08/18/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
+ms.subservice: partnercenter-enroll
 description: Problemas de resolução de problemas ao tentar matricular-se no Partner Center. Respostas abordam desafios com métodos de pagamento, esquecendo palavras-passe, e muito mais.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4fc1a43b4d525d9221ac7e4db56f5f278404e3f5
-ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
+ms.openlocfilehash: 0d35930082b6bbbbceee26af83b563d70b638cef
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/22/2021
-ms.locfileid: "112431758"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114840795"
 ---
 # <a name="troubleshoot-account-setup-or-mpn-renewal-issues"></a>Configuração de conta de resolução de problemas ou problemas de renovação de MPN
 
@@ -24,7 +24,7 @@ Aqui ficam algumas sugestões para resolver problemas comuns que surgem ao confi
 
 ## <a name="what-happens-if-you-are-migrating-from-partner-membership-center-and-you-cant-edit-any-company-information-fields"></a>O que acontece se estiver a migrar do Centro de Membros de Parceiros e não puder editar quaisquer campos de informação da empresa
 
-Nos casos em que a sua empresa já tenha presença no Partner Center (por exemplo, uma conta Cloud Solution Provider (CSP) – será mostrado um ecrã apenas de leitura. Este ecrã apresentará todas as informações sobre a sua empresa tal como existe no Partner Center.
+Nos casos em que a sua empresa já tenha presença no Partner Center (por exemplo, uma conta Fornecedor de Soluções em Nuvem (CSP) – será mostrado um ecrã apenas de leitura. Este ecrã apresentará todas as informações sobre a sua empresa tal como existe no Partner Center.
 
 Não podes alterar os detalhes deste ecrã. Isto é por design e não por um erro.
 
@@ -33,7 +33,7 @@ Para prosseguir, **selecione Aceitar** e, em seguida, selecione **Continue**.
 
 ### <a name="if-the-it-department-has-turned-off-sign-up-for-partner-center"></a>Se o departamento de TI tiver desligado **inscreva-se no Partner Center**
 
-Você vê esta mensagem porque os utilizadores virais são desativado, ou porque a Inscrição Viral é desativada no inquilino do Azure Ative Directory (AD). O administrador Global para a sua conta Azure AD pode permitir as funcionalidades necessárias executando o seguinte comando PowerShell:
+Você vê esta mensagem porque os utilizadores virais são desativado, ou porque a Inscrição Viral é desativada no inquilino Azure Ative Directory (AD). O administrador Global para a sua conta Azure AD pode permitir as funcionalidades necessárias executando o seguinte comando PowerShell:
 
 **Set-MsolCompanySettings -AllowEmailVerifiedUsers $true -AllowAdHocSubscriptions $true**
 
@@ -45,7 +45,7 @@ Se esqueceu a sua palavra-passe, na página de iniciar scontabilidade, selecione
 
 ## <a name="on-the-tell-us-about-your-company-screen-you-receive-a-something-went-wrong-error"></a>No ecrã "Fale-nos da sua empresa", recebe um erro de "Algo correu mal"
 
-Esta mensagem de erro geralmente aparece se utilizar inadvertidamente caracteres, espaços ou código de país no número de telefone da sua empresa. O valor introduzido no campo Número de Telefone só pode conter um máximo de 10 caracteres.
+Esta mensagem de erro geralmente aparece se utilizar inadvertidamente caracteres, espaços ou código de país no número de telefone da sua empresa. O valor introduzido no campo Telefone Número só pode conter um máximo de 10 caracteres.
 
 
 ### <a name="your-credit-card-purchase-is-receiving-an-error-message-stating-that-your-order-was-declined-please-verify-your-information"></a>A compra do seu cartão de crédito está a receber uma mensagem de erro afirmando que "a sua encomenda foi recusada. Por favor, verifique as suas informações"

@@ -3,18 +3,18 @@ title: Reservas Azure & subscrições de servidores
 ms.topic: article
 ms.date: 11/16/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
-description: Conheça as oportunidades do Cloud Solution Provider para adquirir, providenciar e gerir reservas e subscrições do Azure para os clientes.
+ms.subservice: partnercenter-pricing
+description: Saiba mais sobre Fornecedor de Soluções em Nuvem oportunidades de adquirir, provisão e gerir reservas azure e subscrições de Servidor para clientes.
 author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 79175fc7e67fdcdc3195b33859f3609c4caf942f
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 752b7b9eee2da69dec597f56d1ddc2968aa7c29a
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110149422"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114841390"
 ---
 # <a name="acquire-provision--manage-azure-reserved-vm-instances-ri--server-subscriptions-for-customers"></a>Adquirir, provisão, & gerir Azure reservou vm instâncias (RI) + subscrições de servidores para clientes
 
@@ -24,11 +24,11 @@ ms.locfileid: "110149422"
 
 ## <a name="what-are-azure-reservations"></a>O que é o Azure Reservations?
 
-As Reservas Azure ajudam-no a economizar dinheiro pré-pagando por um ano ou três anos de máquina virtual, capacidade de computação SQL Database, produção de DB Azure Cosmos ou outros recursos Azure. O pré-pagamento permite-lhe obter um desconto nos recursos que utiliza. As reservas podem reduzir significativamente a sua máquina virtual, o cálculo da base de dados SQL, o Azure Cosmos DB e outros custos de recursos até 72% em comparação com os preços de pay-as-you-go. O Reservations oferece um desconto de faturação e não afeta o estado de atividade dos seus recursos. Para mais informações consulte [o que são Reservas Azure?](/azure/billing/billing-save-compute-costs-reservations)
+As Reservas Azure ajudam-no a economizar dinheiro pré-pagando por um ano ou três anos de máquina virtual, Base de Dados SQL capacidade de computação, produção de DB Azure Cosmos ou outros recursos Azure. O pré-pagamento permite-lhe obter um desconto nos recursos que utiliza. As reservas podem reduzir significativamente a sua máquina virtual, SQL computação de base de dados, Azure Cosmos DB, e outros custos de recursos até 72% em comparação com os preços de pay-as-you-go. O Reservations oferece um desconto de faturação e não afeta o estado de atividade dos seus recursos. Para mais informações consulte [o que são Reservas Azure?](/azure/billing/billing-save-compute-costs-reservations)
 
 ## <a name="why-should-customers-buy-a-reservation"></a>Por que os clientes devem comprar uma reserva?
 
-Se os clientes tiverem máquinas virtuais, as bases de dados Azure Cosmos DB ou SQL que funcionam por longos períodos de tempo, a compra de uma reserva dá-lhes a opção mais rentável. Por exemplo, se um cliente executa continuamente quatro instâncias de um serviço sem reserva, eles são cobrados a taxas de pagamento como você-go. Se comprarem uma reserva para esses recursos, recebem imediatamente o desconto de reserva. Deixarão de ser aplicadas taxas pay as you go aos recursos.
+Se os clientes tiverem máquinas virtuais, Azure Cosmos DB ou SQL bases de dados que funcionam por longos períodos de tempo, a compra de uma reserva dá-lhes a opção mais rentável. Por exemplo, se um cliente executa continuamente quatro instâncias de um serviço sem reserva, eles são cobrados a taxas de pagamento como você-go. Se comprarem uma reserva para esses recursos, recebem imediatamente o desconto de reserva. Deixarão de ser aplicadas taxas pay as you go aos recursos.
 
 ### <a name="compelling-new-azure-offer-in-csp"></a>Oferta convincente do Novo Azure na CSP
 
@@ -37,13 +37,13 @@ Até damos aos parceiros do nosso programa CSP escolhas sobre como as reservas d
 
 As Reservas Azure conferem aos clientes a flexibilidade da virtualização para uma vasta gama de soluções de computação, incluindo desenvolvimento e testes, execução de aplicações e alargamento do centro de dados.
 
-Com [a Azure Reserved VM Instances,](https://azure.microsoft.com/pricing/reserved-vm-instances/) por exemplo, os clientes comerciais podem agora economizar até 72% em relação ao preço de VM pay-as-you-go simplesmente comprando - ou "reservando" - a máquina virtual por um período de 1 ou 3 anos. Os clientes do Windows Server com Benefício Híbrido Azure, incluídos na Software Assurance, poderão economizar até 80% em relação aos preços de pay-as-you-go.
+Com [a Azure Reserved VM Instances,](https://azure.microsoft.com/pricing/reserved-vm-instances/) por exemplo, os clientes comerciais podem agora economizar até 72% em relação ao preço de VM pay-as-you-go simplesmente comprando - ou "reservando" - a máquina virtual por um período de 1 ou 3 anos. Windows Os clientes de servidores com Azure Hybrid Benefit, incluídos na Software Assurance, poderão economizar até 80% em relação ao preço pago à medida que for embora.
 
 Com uma combinação incomparável de preços convincentes e flexibilidade de implementação incomparável, os clientes verão o melhor valor global quando escolherem reservas Azure.
 
 - Consulte [reservas de compra](/azure/cost-management-billing/reservations/prepare-buy-reservation#purchase-reservations) no Portal Azure.
 
-- Consulte a **Lista de Preços Comerciais Azure RI CSP** na categoria **De Instâncias Reservadas do Microsoft Azure** na página [de Preços e Ofertas](https://partner.microsoft.com/dashboard/sell/pricingandoffers) no Partner Center para subscrições de software e subscrições anuais do Linux ISV.
+- Consulte a Lista de **Preços Comerciais Azure RI CSP** na categoria **Microsoft Azure Instâncias Reservadas** na página [de Preços e Ofertas](https://partner.microsoft.com/dashboard/sell/pricingandoffers) no Partner Center para subscrições de software e subscrições anuais do Linux ISV.
 
 
  
@@ -74,11 +74,11 @@ Para entender como pode posicionar reservas do Azure com os seus clientes e leva
 
 - [Subscrições de servidores](./csp-software-subscriptions.md)
 
-- [Reservas DE DB SQL (portal Azure)](/azure/sql-database/sql-database-reserved-capacity)
+- [SQL Reservas DB (portal Azure)](/azure/sql-database/sql-database-reserved-capacity)
 
 - [Azure Cosmos DB (portal Azure)](/azure/cosmos-db/cosmos-db-reserved-capacity)
 
-- [SQL Managed Instance (portal Azure)](/azure/sql-database/sql-database-managed-instance)
+- [SQL Caso Gerido (Portal Azure)](/azure/sql-database/sql-database-managed-instance)
 
 - [SUSE e Red Hat Enterprise Linux (portal Azure)](/azure/virtual-machines/linux/prepay-suse-software-charges)
 
@@ -114,7 +114,7 @@ Os eventos de prontidão de licenciamento previamente registados incluem tópico
 
 ## <a name="azure-hybrid-benefit"></a>Benefício Híbrido do Azure
 
-O [Azure Hybrid Benefit](https://azure.microsoft.com/pricing/hybrid-benefit) é um benefício de preços para clientes que têm licenças com a Software Assurance, o que ajuda a maximizar o valor dos investimentos existentes no Windows Server e/ou SQL Server ao migrar para o Azure. Os clientes elegíveis podem economizar até 40%* em Azure Virtual Machines (infraestrutura como serviço, ou IaaS), e economizar até 55% na Base de Dados Azure SQL (plataforma como serviço, ou PaaS) e SQL Server em Azure Virtual Machines (IaaS) com Azure Hybrid Benefit, que aumenta até 80% quando combinado com Azure Reserved Instances.
+O [Azure Hybrid Benefit](https://azure.microsoft.com/pricing/hybrid-benefit) é um benefício de preços para clientes que têm licenças com a Software Assurance, o que ajuda a maximizar o valor dos investimentos existentes no local Windows Server e/ou SQL Server investimentos de licença ao migrar para a Azure. Os clientes elegíveis podem economizar até 40%* em Azure Virtual Machines (infraestrutura como serviço, ou IaaS), e economizar até 55% em Base de Dados SQL do Azure (plataforma como serviço, ou PaaS) e SQL Server em Azure Virtual Machines (IaaS) com Azure Hybrid Benefit, que aumenta até 80% quando combinado com Azure Reserved Instances.
 
 ## <a name="next-steps"></a>Passos seguintes
 

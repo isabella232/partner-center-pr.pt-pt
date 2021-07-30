@@ -1,19 +1,19 @@
 ---
-title: Paradigma de acesso programático para dados Informações
+title: Paradigma de acesso programático para dados de insights
 description: Compreenda o fluxo de alto nível do padrão de chamada da API para análise programática. As APIs para aceder a relatórios de análise de insights de parceiros também são abrangidas.
 ms.topic: article
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.date: 07/14/2021
-ms.openlocfilehash: dcdd54fcc744fdb1683259203188c309a3949eff
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: 1a06da353c8069d15d597faeaaf8700df5f62fd1
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114376981"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114841101"
 ---
 # <a name="programmatic-access-paradigm"></a>Paradigma de acesso programático
 
@@ -83,9 +83,9 @@ Esta tabela fornece as definições-chave dos elementos na carga útil do pedido
 
 |Parâmetro|    Obrigatório     |    Descrição     |    Valores Permitidos     |
 |-----|    -----    |    -----    |    -----    |
-|Name |    Yes     |    Nome amigável da consulta     |    string     |
+|Name |    Sim     |    Nome amigável da consulta     |    string     |
 |    Descrição     |    Não     |    Descrição do que a consulta retorna     |    string     |
-|    Consulta     |    Yes     |    Cadeia de consulta de relatório     |    Tipo de dados: cadeia <br> [Consulta personalizada](insights-programmatic-custom-query.md) baseada na necessidade de negócio |
+|    Consulta     |    Sim     |    Cadeia de consulta de relatório     |    Tipo de dados: cadeia <br> [Consulta personalizada](insights-programmatic-custom-query.md) baseada na necessidade de negócio |
 |        |        |        |        |
 
 > [!Note]
@@ -203,18 +203,18 @@ As definições-chave dos elementos na carga útil do pedido são articuladas ab
 
 |    Parâmetro     |    Obrigatório     |    Descrição     |    Valores Permitidos     |
 |    ----    |    ----    |    ----    |    ----    |
-|    Nome do relatório     |    Yes     |    Nome a atribuir ao relatório     |    string     |
+|    Nome do relatório     |    Sim     |    Nome a atribuir ao relatório     |    string     |
 |    Descrição     |    Não     |    Descrição do relatório criado     |    string     |
-|    QueryId     |    Yes     |    ID de consulta de relatório     |    string     |
-|    StartTime     |    Yes     |    Utc Timestamp em que a geração do relatório começará. <br> O formato deve ser: yyy-MM-ddTHH:mm:ssZ       |    string     |
-|    Executar Agora     |    No     |    Este parâmetro deve ser usado para criar um relatório que será executado apenas uma vez. `StartTime`, `RecurrenceInterval` e `RecurrenceCount` são ignorados se isto for verdade. O relatório é executado imediatamente de forma assíncronea     |    verdadeiro/falso     |
-|    Horário de ConsultaStart     |    No     |    Opcionalmente especifica a hora de início para a consulta extração dos dados. Este parâmetro é aplicável apenas por um relatório de execução de tempo que `ExecuteNow` se definiu como verdadeiro. Definir este parâmetro sobrepõe-se a perguntas dadas `TIMESPAN` na consulta. O formato deve ser yyy-MM-ddTHH:mm:ssZ     |    Tempotam como corda     |
-|    ConsultaEndTime     |    No     |    Opcionalmente especifica o tempo final para a consulta extração dos dados. Este parâmetro é aplicável apenas por um relatório de execução de tempo que `ExecuteNow` se definiu como verdadeiro. Definir este parâmetro sobrepõe-se a perguntas dadas `TIMESPAN` na consulta. O formato deve ser yyy-MM-ddTHH:mm:ssZ     |    Tempotam como corda     |
-|    RecorrenceInterval     |    Yes     |    Frequência em horas em que o relatório deve ser gerado. <br> O valor mínimo é 4 e o valor máximo é 2160.      |    número inteiro     |
-|    RecorrenceCount     |    No     |    Número de relatórios a serem gerados.     |    número inteiro     |
-|    Formato     |    No     |    Formato de ficheiro do ficheiro exportado. <br> O padrão é CSV.    |    "CSV"/"TSV"     |
-|    CallbackUrl     |    No     |    URL acessível publicamente que pode ser configurado opcionalmente como destino de retorno     |    String (http URL)     |
-|    CallbackMethod     |    No     |    O método a ser usado para o retorno     |    GET/POST     |
+|    QueryId     |    Sim     |    ID de consulta de relatório     |    string     |
+|    StartTime     |    Sim     |    Utc Timestamp em que a geração do relatório começará. <br> O formato deve ser: yyy-MM-ddTHH:mm:ssZ       |    string     |
+|    Executar Agora     |    Não     |    Este parâmetro deve ser usado para criar um relatório que será executado apenas uma vez. `StartTime`, `RecurrenceInterval` e `RecurrenceCount` são ignorados se isto for verdade. O relatório é executado imediatamente de forma assíncronea     |    verdadeiro/falso     |
+|    Horário de ConsultaStart     |    Não     |    Opcionalmente especifica a hora de início para a consulta extração dos dados. Este parâmetro é aplicável apenas por um relatório de execução de tempo que `ExecuteNow` se definiu como verdadeiro. Definir este parâmetro sobrepõe-se a perguntas dadas `TIMESPAN` na consulta. O formato deve ser yyy-MM-ddTHH:mm:ssZ     |    Tempotam como corda     |
+|    ConsultaEndTime     |    Não     |    Opcionalmente especifica o tempo final para a consulta extração dos dados. Este parâmetro é aplicável apenas por um relatório de execução de tempo que `ExecuteNow` se definiu como verdadeiro. Definir este parâmetro sobrepõe-se a perguntas dadas `TIMESPAN` na consulta. O formato deve ser yyy-MM-ddTHH:mm:ssZ     |    Tempotam como corda     |
+|    RecorrenceInterval     |    Sim     |    Frequência em horas em que o relatório deve ser gerado. <br> O valor mínimo é 4 e o valor máximo é 2160.      |    número inteiro     |
+|    RecorrenceCount     |    Não     |    Número de relatórios a serem gerados.     |    número inteiro     |
+|    Formato     |    Não     |    Formato de ficheiro do ficheiro exportado. <br> O padrão é CSV.    |    "CSV"/"TSV"     |
+|    CallbackUrl     |    Não     |    URL acessível publicamente que pode ser configurado opcionalmente como destino de retorno     |    String (http URL)     |
+|    CallbackMethod     |    Não     |    O método a ser usado para o retorno     |    GET/POST     |
 |        |        |        |        |
 
 ### <a name="sample-response"></a>Resposta de amostra
@@ -306,16 +306,16 @@ Pode utilizar este método para consultar o estado de execução de um relatóri
 
 |    Nome do Parâmetro    |    Necessário    |    Tipo    |    Descrição    |
 |    ----    |    ----    |    ----    |    ----    |
-|    reportId    |    Yes    |    string    |    Filtrar para obter detalhes de execução de apenas relatórios com o relatório Dado neste argumento. Vários reportIds podem ser especificados separando-os com um ponto e vírgula ";".    |
+|    reportId    |    Sim    |    string    |    Filtrar para obter detalhes de execução de apenas relatórios com o relatório Dado neste argumento. Vários reportIds podem ser especificados separando-os com um ponto e vírgula ";".    |
 |        |        |        |        |
 
 ### <a name="query-parameter"></a>Parâmetro de consulta
 
 |    Nome do Parâmetro    |    Necessário    |    Tipo    |    Descrição    |
 |    ----    |    ----    |    ----    |    ----    |
-|    execuçãoId    |    No    |    string    |    Filtre para obter detalhes de apenas relatórios com a execuçãoId dado neste argumento. Execuções múltiplas podem ser especificadas separando-as com um ponto e vírgula ";".    |
-|    execuçãoStatus    |    No    |    Corda/enum    |    Filtre para obter detalhes de apenas relatórios com a execuçãoStatus dada neste argumento. <br> Os valores válidos são: `Pending` `Running` `Paused` `Completed` e. <br> O valor predefinido é `Completed`. <br> Vários estados podem ser especificados separando-os com um ponto e vírgula ";".    |
-|    obterExecução de Pré-executivos    |    No    |    boolean    |    A API devolverá detalhes da última execução. Por padrão, este parâmetro é definido como verdadeiro.<br> Se optar por passar o valor deste parâmetro como falso, então a API devolverá os últimos 90 dias de execução.    |
+|    execuçãoId    |    Não    |    string    |    Filtre para obter detalhes de apenas relatórios com a execuçãoId dado neste argumento. Execuções múltiplas podem ser especificadas separando-as com um ponto e vírgula ";".    |
+|    execuçãoStatus    |    Não    |    Corda/enum    |    Filtre para obter detalhes de apenas relatórios com a execuçãoStatus dada neste argumento. <br> Os valores válidos são: `Pending` `Running` `Paused` `Completed` e. <br> O valor predefinido é `Completed`. <br> Vários estados podem ser especificados separando-os com um ponto e vírgula ";".    |
+|    obterExecução de Pré-executivos    |    Não    |    boolean    |    A API devolverá detalhes da última execução. Por padrão, este parâmetro é definido como verdadeiro.<br> Se optar por passar o valor deste parâmetro como falso, então a API devolverá os últimos 90 dias de execução.    |
 |        |        |        |        |
 
 ### <a name="sample-request-payload"></a>Carga de pedido de amostra

@@ -3,18 +3,18 @@ title: O Microsoft Partner Agreement (MPA) para a CSP
 ms.topic: how-to
 ms.date: 03/23/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-enroll
 description: Conheça os requisitos do parceiro Da Microsoft CSP para assinar e verificar este Acordo de Parceiro microsoft unificado e aceite digitalmente (MPA).
 author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 965d655d6216cf2d50315c73afb87ff01d511238
-ms.sourcegitcommit: d133c8b923b90ac5518cb989c0ce4dd69713abf4
+ms.openlocfilehash: 483ef506e9d699ed112e93ae30c0ff76fa0c8280
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "114433882"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114840115"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>Conheça o Acordo de Parceiros da Microsoft (MPA) para parceiros de programas da CSP
 
