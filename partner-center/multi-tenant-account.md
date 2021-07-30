@@ -1,27 +1,27 @@
 ---
-title: Adicione inquilinos à sua conta partner Center
+title: Adicionar inquilinos à conta do Centro de Parceiros
 ms.topic: article
 ms.date: 01/11/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-enroll
 description: Saiba como adicionar, consolidar ou gerir vários inquilinos AZure AD na sua conta partner Center, e saiba por que quer fazê-lo.
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: caea2002b5edc2958c0af316762408e309bcf14a
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 3917d431cb57a8b7555079e063726da3b1c60fab
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110151207"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114836851"
 ---
 # <a name="add-and-manage-multiple-tenants-in-your-partner-center-account"></a>Adicione e gere vários inquilinos na sua conta Partner Center
 
 
 **Funções adequadas**: Administração global | Administrador de conta
 
-Este artigo discute como consolidar vários inquilinos do Azure Ative Directory (Azure AD) para a sua empresa e, em seguida, adicioná-los e geri-los na sua conta partner Center. Há muitas razões para o fazer. Por exemplo:
+Este artigo discute como consolidar vários inquilinos Azure Ative Directory (Azure AD) para a sua empresa e, em seguida, adicioná-los e geri-los na sua conta partner Center. Há muitas razões para o fazer. Por exemplo:
 
 - Digamos que a sua empresa, Contoso, adquiriu outra empresa, a Fabrikam. Quer que as duas empresas permaneçam separadas, mas quer que os novos colaboradores possam usar o Partner Center. Neste caso, associa o inquilino Azure AD da nova empresa à sua conta global partner (PGA). Esta associação permite que os utilizadores de ambas as empresas trabalhem no Partner Center.
 
@@ -37,7 +37,7 @@ Este artigo discute como consolidar vários inquilinos do Azure Ative Directory 
 
 1. Inscreva-se como administrador global para o [Microsoft Partner Center](https://partner.microsoft.com/dashboard).
 
-1. No canto superior direito, selecione **Definições**, selecione **definições de Conta** e, em seguida, selecione **Inquilinos**.
+1. No canto superior direito, selecione **Definições,** selecione **as definições de Conta** e, em seguida, selecione **Inquilinos**.
  
    :::image type="content" source="images/merge-accounts/multitenantNew.png" alt-text="Screenshot do botão Associado no painel de perfil Ad Azure."::: 
 

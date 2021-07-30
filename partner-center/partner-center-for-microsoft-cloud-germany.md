@@ -3,18 +3,18 @@ title: Centro de Parceiros para Microsoft Cloud Germany
 ms.topic: article
 ms.date: 10/12/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-enroll
 description: Partner Center for Microsoft Cloud Germany é o portal de negócios para parceiros que querem oferecer soluções cloud da Microsoft a clientes em países da UE e EFTA.
 author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 19753f4fb848262fc8bed146427f0652096f6902
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 4389c02dfcb382abf655b0e8de7edec7356f010f
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110151088"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114836154"
 ---
 # <a name="partner-center-for-microsoft-cloud-germany-for-partners-selling-to-customers-in-eu--efta-countries"></a>Partner Center para a Microsoft Cloud Germany para parceiros que vendem a clientes em países da UE & EFTA
 
@@ -24,16 +24,16 @@ ms.locfileid: "110151088"
 
 O Microsoft Cloud Germany foi concebido para cumprir os rigorosos requisitos de proteção de dados alemães e inclui um administrador de dados alemão, que opera de acordo com a lei alemã, que controla o acesso físico e lógico aos dados dos clientes. Todos os dados do cliente, e os sistemas que processam ou controlam o acesso aos dados dos clientes, residem em centros de dados alemães. A rede entre estes centros de dados é isolada e dedicada na Alemanha.
 
-O Microsoft Cloud Germany fornece uma instância separada do [Microsoft Azure,](https://go.microsoft.com/fwlink/?linkid=847992)entregue a partir de centros de dados na Alemanha. Como resultado, os clientes comerciais da União Europeia (UE) e da Associação Europeia de Comércio Livre (EFTA) podem armazenar e gerir os dados dos clientes em conformidade com as leis e regulamentos alemães aplicáveis, bem como as principais normas internacionais. O pessoal da Microsoft não pode aceder aos dados dos clientes sem a aprovação e supervisão do gestor de dados alemão ou do cliente.
+O Microsoft Cloud Germany fornece uma instância separada de [Microsoft Azure](https://go.microsoft.com/fwlink/?linkid=847992), entregue a partir de centros de dados na Alemanha. Como resultado, os clientes comerciais da União Europeia (UE) e da Associação Europeia de Comércio Livre (EFTA) podem armazenar e gerir os dados dos clientes em conformidade com as leis e regulamentos alemães aplicáveis, bem como as principais normas internacionais. O pessoal da Microsoft não pode aceder aos dados dos clientes sem a aprovação e supervisão do gestor de dados alemão ou do cliente.
 
 > [!IMPORTANT]
-> Com base na evolução das necessidades dos clientes, a nossa estratégia de nuvem para a Alemanha centrar-se-á na entrega das novas regiões em nuvem na Alemanha que são consistentes com a nossa oferta global de nuvem. Com este foco, deixaremos de aceitar novos clientes ou de implementar quaisquer novos serviços a partir da microsoft Cloud Germany atualmente disponível. Os clientes existentes podem continuar a utilizar os atuais serviços em nuvem disponíveis hoje, que vamos manter com as necessárias atualizações de segurança.
+> Com base na evolução das necessidades dos clientes, a nossa estratégia de nuvem para a Alemanha centrar-se-á na entrega das novas regiões em nuvem na Alemanha que são consistentes com a nossa oferta global de nuvem. Com este foco, deixaremos de aceitar novos clientes ou de implementar novos serviços na Microsoft Cloud Alemanha atualmente disponível. Os clientes existentes podem continuar a utilizar os serviços cloud atualmente disponíveis, que vamos manter com as necessárias atualizações de segurança.
 >
 > Seguindo em frente, os novos clientes têm a opção de utilizar as regiões europeias atualmente disponíveis ou as novas regiões da Alemanha quando estiverem disponíveis. Para obter mais informações, consulte [a Microsoft para fornecer serviços na nuvem a partir de novos centros de dados na Alemanha.](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/) 
 
 ## <a name="migrate-customers-from-microsoft-cloud-germany-to-another-european-region"></a>Migrar clientes do Microsoft Cloud Germany para outra região europeia
 
-Antes de migrar uma subscrição de clientes do Microsoft Cloud Germany para outra região europeia, deve ter uma conta existente no Cloud Solution Provider (CSP) que está localizada naquela região, e está ativa. Se não tiver um, será solicitado a criar um durante a seleção de conta CSP no Partner Center. Depois de criar a nova conta, os seus clientes serão associados ao inquilino selecionado.
+Antes de migrar uma subscrição de clientes do Microsoft Cloud Germany para outra região europeia, deve ter uma conta de Fornecedor de Soluções em Nuvem existente (CSP) que está localizada naquela região, e está ativa. Se não tiver um, será solicitado a criar um durante a seleção de conta CSP no Partner Center. Depois de criar a nova conta, os seus clientes serão associados ao inquilino selecionado.
 
 ### <a name="you-already-have-a-csp-account"></a>Já tem uma conta CSP
 
@@ -78,7 +78,7 @@ Antes de migrar uma subscrição de clientes do Microsoft Cloud Germany para out
 
 ## <a name="selling-german-cloud-solutions-in-eu-and-efta"></a>Venda de soluções cloud alemãs na UE e EFTA
 
-Uma vez inscrito no Cloud Solution Provider (CSP) para o programa Microsoft Cloud Germany, você usará partner Center para vender soluções e serviços específicos da Nuvem Alemã a clientes em países/regiões da UE e EFTA.
+Uma vez inscrito no Fornecedor de Soluções em Nuvem (CSP) para o programa Microsoft Cloud Germany, você usará partner Center para vender soluções e serviços específicos da Nuvem Alemã para clientes em países/regiões da UE e EFTA.
 
 Para cumprir as leis e regulamentos alemães que regem a recolha e utilização dos dados dos indivíduos, bem como as principais normas internacionais, as seguintes tarefas do Partner Center são geridas através de portais de serviço específicos.
 
@@ -87,7 +87,7 @@ Recurso ou capacidade | Tarefas completas em
 Gestão de utilizadores de parceiros | Office 365 centro de administração ou Azure para o portal de administração microsoft Cloud Germany
 Gestão do utilizador do cliente | Office 365 centro de administração ou Azure para o portal de administração microsoft Cloud Germany
 Repor palavra-passe do utilizador | Azure para o portal de administração da Microsoft Cloud Germany
-Gestão de licenças | Centro de administração office 365 ou centro de administração do Office 365 ou portal de licenciamento de diretório ativo Microsoft Cloud Germany Azure
+Gestão de licenças | Office 365 centro de administração ou centro de administração Office 365 ou portal de licenciamento de Azure Ative Directory microsoft Cloud Germany
 
 ## <a name="next-steps"></a>Passos seguintes
 

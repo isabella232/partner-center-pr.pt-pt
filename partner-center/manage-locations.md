@@ -1,27 +1,27 @@
 ---
-title: Gerir localizações na sua conta de parceiro
+title: Gerir as localizações na conta de parceiro
 ms.topic: how-to
 ms.date: 05/01/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
+ms.subservice: partnercenter-membership
 description: Saiba como adicionar uma nova localização e como a localização MPN ID é usada em programas de incentivo, negócios de CSP, subscrições e outras transações.
 author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3d30f250d6635758f3bef8e06c6f57ba0a0be744
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 66ca3a24a810f61eae9feece5e64440fa531cda5
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276829"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114836987"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-delete-a-location"></a>Gerencie as localizações da sua conta MPN e adicione (excluir) uma localização
 
 
 **Funções adequadas**: Administração global | Administrador de conta
 
-A localização MPN ID identifica cada localização específica da sua empresa. Utiliza a localização MPN ID para se inscrever em programas de incentivo, para transacionar negócios do Cloud Solution Provider (CSP) e outras transações comerciais. O ID MPN global é utilizado para atividades não transacionais, tais como pedidos de apoio.
+A localização MPN ID identifica cada localização específica da sua empresa. Utiliza a localização MPN ID para se inscrever em programas de incentivo, para transacionar Fornecedor de Soluções em Nuvem (CSP) e outras transações comerciais. O ID MPN global é utilizado para atividades não transacionais, tais como pedidos de apoio.
 
 ## <a name="the-following-scenario-is-typical"></a>O seguinte cenário é típico:
 
@@ -51,7 +51,7 @@ Para adicionar uma nova conta de negócios da CSP, comece por garantir que cumpr
 
 1. Inscreva-se no painel partner [Center](https://partner.microsoft.com/dashboard/home) com as suas credenciais de conta MPN. (As suas credenciais MPN podem ser diferentes das suas credenciais de CSP) 
  
-1. A partir do ícone **Definições,** selecione **definições de conta**, **perfil de organização,** **Legal**. 
+1. A partir do ícone **Definições,** selecione **definições de conta,** **perfil de organização,** **Legal**. 
 
 1. No **separador Partner,** verifique se não existe uma mensagem de erro de banner a pedir-lhe para corrigir locais migrados a partir de PMC.  Se as suas localizações não foram configuradas corretamente em PMC, e ainda não transitaram para PC, precisa atualizar essas localizações.
 
@@ -72,9 +72,9 @@ Atualizar os seguintes campos:
 
 - **Principais campos de informações de contacto**: Certifique-se de que os campos de primeiro e último nome estão preenchidos e que o endereço de e-mail indicado é um endereço de e-mail de trabalho e não pessoal (por exemplo, @outlook.com , @live.com etc.)
 
-- **Campo de números de telefone**: Certifique-se de que o número de telefone NÃO inclui caracteres especiais, espaços ou código de país. O valor introduzido no campo Número de Telefone conterá sempre um máximo de 10 caracteres.
+- **Telefone campo de números**: Certifique-se de que o número Telefone NÃO inclui caracteres especiais, espaços ou código de país. O valor introduzido no campo Telefone Número conterá sempre um máximo de 10 caracteres.
 
-5. Se não houver uma mensagem de erro, então a partir de  **Definições**, selecione  **Definições** de Conta , **Perfil da Organização,** **Identificadores**.
+5. Se não houver uma mensagem de erro, então a partir de **Definições**, selecione **Conta Definições**, Perfil **da Organização,** **Identificadores**.
 
 6. Encontre o ID MPN com o Tipo "Localização" que corresponda ao país desta conta CSP e use-o para completar a associação.
 
@@ -84,7 +84,7 @@ Atualizar os seguintes campos:
 
 1. Inscreva-se usando a conta MPN no Partner Center. (As suas credenciais MPN podem ser diferentes das suas credenciais de CSP.) A conta MPN deve ter privilégios de Administração Global ou Administração de Contas. 
 
-1. A partir do **ícone Definições,** selecione as **definições de Conta** e, em seguida, selecione o perfil da **Organização**.
+1. A partir do **ícone Definições**, selecione as **definições de Conta** e, em seguida, selecione o perfil da **Organização**.
 
 2. Selecione **Legal** e, em seguida, no separador **Parceiro,** selecione **localizações de Negócios** e selecione **Adicionar uma localização.**
 
@@ -131,7 +131,7 @@ Para mais informações, leia [as informações do número de ID do registo](reg
 
 ## <a name="delete-a-location"></a>Excluir uma localização
 
-Para eliminar uma localização da sua conta, terá de contactar o [Partner Support.](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=1af7f3a0-1757-3543-4b6a-c945c3ad187b) Certifique-se de que compreende o impacto que esta ação tem. As localizações eliminadas não podem ser recuperadas e qualquer coisa ligada a esse ID MPN específico deixará de ser reconhecida ou ativa para a sua empresa.
+Para eliminar uma localização da sua conta, terá de contactar o [Partner Support.](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=1af7f3a0-1757-3543-4b6a-c945c3ad187b) Confirme se compreende o impacto desta ação. As localizações eliminadas não podem ser recuperadas e qualquer coisa ligada a esse ID MPN específico deixará de ser reconhecida ou ativa para a sua empresa.
 
 ## <a name="change-country-of-partner-global-account"></a>Mudar país de conta global partner 
 

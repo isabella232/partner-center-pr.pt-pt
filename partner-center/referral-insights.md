@@ -3,18 +3,18 @@ title: Get referral insights (Obter informações de referência)
 ms.topic: article
 ms.date: 04/30/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-referrals
 description: Reveja regularmente os seus dados de insights de referência no Partner Center para ver as tendências para abordar ou melhorar áreas para ajudá-lo a alcançar os seus objetivos de negócio.
 author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0790bfa717840f5cd60b99ef4f50cf3c242149b0
-ms.sourcegitcommit: e4aed966f3f843e938a1e584eeeae0a0ca386bd7
+ms.openlocfilehash: 5c44cec028ae9350f988e279fbb5edef368e4524
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/28/2021
-ms.locfileid: "114749144"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114844331"
 ---
 # <a name="get-referral-insights-in-partner-center-and-find-out-how-your-referrals-are-doing"></a>Obtenha informações de referência no Partner Center e descubra como estão as suas referências
 

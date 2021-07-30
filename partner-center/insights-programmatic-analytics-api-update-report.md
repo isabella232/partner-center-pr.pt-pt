@@ -3,17 +3,17 @@ title: Relatório de atualização API
 ms.topic: reference
 ms.date: 07/14/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 description: Utilize esta API para atualizar os parâmetros do relatório nos insights do Partner Center.
 author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: c5ab1059e9be9b42918d268da6a6c1a3cbfe52af
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: 64ef897dc3c883e4adfda4285183e441f27f3c7f
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114377180"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114837038"
 ---
 # <a name="update-report-api"></a>Relatório de atualização API
 
@@ -66,14 +66,14 @@ Esta tabela lista as definições-chave dos elementos na resposta.
 
 |    Parâmetro    |    Obrigatório    |    Descrição    |    Valores Permitidos    |
 |    ----    |    ----    |    ----    |    ----    |
-|    Nome do relatório     |    Yes     |    Nome a atribuir ao relatório     |    String     |
+|    Nome do relatório     |    Sim     |    Nome a atribuir ao relatório     |    String     |
 |    Descrição     |    Não     |    Descrição do relatório criado     |    String     |
-|    StartTime     |    Yes    |    Timetamp após o qual a geração do relatório vai começar     |    String     |
-|    RecorrenceInterval     |    No     |    Frequência na qual o relatório deve ser gerado em horas. Valor mínimo é 4     |    Número inteiro     |
-|    RecorrenceCount     |    No     |    Número de relatórios a serem gerados. O padrão é indefinido.     |    Número inteiro     |
-|    Formato     |    No    |    Formato de ficheiro do ficheiro exportado. O padrão é CSV     |    CSV/TSV     |
-|    CallbackURL     |    No     |    URL de retorno https a ser chamado na geração de relatório     |    String     |
-|    CallbackMethod    |    No    |    Método http a ser usado para retorno    |    GET/POST    |
+|    StartTime     |    Sim    |    Timetamp após o qual a geração do relatório vai começar     |    String     |
+|    RecorrenceInterval     |    Não     |    Frequência na qual o relatório deve ser gerado em horas. Valor mínimo é 4     |    Número inteiro     |
+|    RecorrenceCount     |    Não     |    Número de relatórios a serem gerados. O padrão é indefinido.     |    Número inteiro     |
+|    Formato     |    Não    |    Formato de ficheiro do ficheiro exportado. O padrão é CSV     |    CSV/TSV     |
+|    CallbackURL     |    Não     |    URL de retorno https a ser chamado na geração de relatório     |    String     |
+|    CallbackMethod    |    Não    |    Método http a ser usado para retorno    |    GET/POST    |
 |        |        |        |        |
 
 

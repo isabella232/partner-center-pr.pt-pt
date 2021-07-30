@@ -3,18 +3,18 @@ title: Reforma do programa de treino de software De formação voucher
 ms.topic: article
 ms.date: 04/07/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
+ms.subservice: partnercenter-benefits
 description: O programa de treino de software Assurance Voucher está a ser reformado.
 author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: a8c465b38d8613a107d1900f220c4885fc9655e1
-ms.sourcegitcommit: 09eabb559aae25518caf3f2a59ef16a3e123c207
+ms.openlocfilehash: c0c65c962fdc46ce4685ee3bb63bacdec036f1e8
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "112490092"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114843532"
 ---
 # <a name="training-vouchers-program-retirement"></a>Reforma do Programa de Vouchers de Formação
 
@@ -48,7 +48,7 @@ Este artigo explica como completar cada passo.
 
 ## <a name="confirm-program-eligibility"></a>Confirmar a elegibilidade do programa
 
-Antes de se inscrever no programa SATV, tem primeiro de preencher os requisitos para a opção de aprendizagem da Microsoft Partner Network (MPN), que substitui a competência microsoft Learning. Aprenda a começar na [opção Aprender.](https://partner.microsoft.com/membership/learning-partners)
+Antes de se inscrever no programa SATV, tem primeiro de preencher os requisitos para a opção de Aprendizagem da Microsoft Partner Network (MPN), que substitui a competência Aprendizagem microsoft. Saiba como começar na [opção Aprendizagem.](https://partner.microsoft.com/membership/learning-partners)
 
 Pode verificar a elegibilidade da sua empresa, incluindo os requisitos de competência e avaliação aplicáveis no Partner Center. Siga as instruções no [passo 1](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) do fluxo de trabalho do SATV para obter mais detalhes e capturas de ecrã.
 

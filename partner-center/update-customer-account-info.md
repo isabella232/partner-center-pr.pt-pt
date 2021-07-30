@@ -3,18 +3,18 @@ title: Atualizar informações de conta do cliente
 ms.topic: how-to
 ms.date: 06/08/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-customers
 description: No Partner Center, saiba como atualizar as informações de faturação de um cliente ou como atualizar os detalhes da empresa.
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f3fd7a4adfb3e88b875c8178a260c353e1414f1e
-ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
+ms.openlocfilehash: 8d0bb023bae86a4ff8789bd256273de8f8901a4c
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109818716"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114844158"
 ---
 # <a name="update-customer-account-info-company-details-and-customer-billing-information-in-partner-center"></a>Atualizar informações de conta de clientes, detalhes da empresa e informações de faturação do cliente no Partner Center
 

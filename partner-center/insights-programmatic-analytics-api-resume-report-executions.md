@@ -3,17 +3,17 @@ title: Retomar relatório execução API - dados Informações
 ms.topic: reference
 ms.date: 07/14/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 description: Utilize esta API para retomar a execução de qualquer relatório pausado nos conhecimentos do Partner Center.
 author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: 1372823425f3aefd025ffc3441623c1ceee34e1e
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: 1019e9e6f679084ca0a388d685b5239ecc2e09e2
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114377193"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114836273"
 ---
 # <a name="resume-report-executions-api"></a>Retomar relatório execuções API
 

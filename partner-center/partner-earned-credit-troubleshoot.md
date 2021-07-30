@@ -3,18 +3,18 @@ title: Parceiro de resolução de problemas ganhou crédito
 ms.topic: article
 ms.date: 07/22/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-pricing
 description: Saiba como resolver problemas de fatura e outros problemas relacionados com o crédito obtido pelo parceiro (PEC).
 author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9d7376b6224047176b5e6608ee190191a8f44824
-ms.sourcegitcommit: d133c8b923b90ac5518cb989c0ce4dd69713abf4
+ms.openlocfilehash: 7ce31bd688c32da956f466d63beede3f0fc9f9ef
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "114434223"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114843549"
 ---
 # <a name="troubleshooting-partner-earned-credit"></a>Parceiro de resolução de problemas ganhou crédito
 

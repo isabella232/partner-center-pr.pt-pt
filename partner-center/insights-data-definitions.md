@@ -3,18 +3,18 @@ title: Definições de dados do Insights
 ms.topic: article
 ms.date: 12/14/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 description: O documento lista vários relatórios e as suas definições de dados, que pode descarregar a partir da página de relatório Informações Download.
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9e7783462f005e63e4311ff6cf37c0d3c05aa45c
-ms.sourcegitcommit: d133c8b923b90ac5518cb989c0ce4dd69713abf4
+ms.openlocfilehash: 92733f11713e8c16d607a51ef00efdcc25ddc855
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "114433576"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114843413"
 ---
 # <a name="export--data-definitions"></a>Exportação - Definições de dados 
 

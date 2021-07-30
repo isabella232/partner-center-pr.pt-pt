@@ -3,18 +3,18 @@ title: Relatório de competências do Partner Center Informações
 ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 description: Veja o que está a fazer bem e onde pode melhorar em relação às competências da Microsoft, níveis de competência e ofertas para o ajudar a fornecer soluções microsoft.
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4789048c944f6e3adae9a047dbca097f1912d89e
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: 0d5eab0684c52c94c0709f09f254031dd80d8a28
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114377318"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114843906"
 ---
 # <a name="competencies-report-available-from-the-partner-center-insights-dashboard"></a>Relatório de competências disponível no Centro de Parceiros Informações dashboard
 

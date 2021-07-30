@@ -3,18 +3,18 @@ title: Gerir recompensas de mercado
 ms.topic: article
 ms.date: 05/28/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-benefits
 description: Os parceiros que publicam ofertas no mercado comercial são elegíveis para benefícios que oferecem apoio ao marketing.
 author: billlinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2ee643ca713da3509705560d93e15b3c7e5ab192
-ms.sourcegitcommit: 11901a72e9c9d432c324d0c5b1e0214c0eddb96f
+ms.openlocfilehash: 9765f180e60154dc1a3e9be6160157e6d4248695
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/29/2021
-ms.locfileid: "110687723"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114843396"
 ---
 # <a name="manage-marketplace-rewards-in-partner-center--activate-marketing-sales-and-technical-benefits"></a>Gerir prémios de marketplace no Partner Center & ativar marketing, vendas e benefícios técnicos
 

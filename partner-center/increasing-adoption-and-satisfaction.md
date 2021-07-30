@@ -3,29 +3,29 @@ title: Aumentar a adoção e satisfação
 ms.topic: how-to
 ms.date: 11/03/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-customers
 description: Aprenda a usar métricas no Partner Center. As métricas podem mostrar se o seu negócio está a crescer, como os clientes usam as suas licenças e onde se concentram no investimento.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e8c0935ecf4cf7dba799eefbcbb74ed5e6702994
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 0e04334490f77add4f95627d3d4c5d5762a79c86
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110146668"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114843430"
 ---
 # <a name="use-metrics-in-partner-center-to-increase-adoption-and-satisfaction"></a>Use métricas no Partner Center para aumentar a adoção e satisfação
 
 **Funções adequadas**: Administração global | Administração de administração de utilizadores | Agente administrativo | Agente comercial
 
-Os nossos parceiros usam muitas métricas para avaliar se o seu negócio está a crescer e onde focar o investimento. O Partner Center pode ajudar fornecendo dados sobre se e como os seus clientes estão usando as licenças que compraram. Esta informação está disponível para produtos office (incluindo OneDrive for Business, que é contado juntamente com o SharePoint).
+Os nossos parceiros usam muitas métricas para avaliar se o seu negócio está a crescer e onde focar o investimento. O Partner Center pode ajudar fornecendo dados sobre se e como os seus clientes estão usando as licenças que compraram. Esta informação está disponível para produtos Office (incluindo OneDrive para Empresas, que é contado juntamente com o SharePoint).
 
-Pode ver dados para todos os seus clientes através do programa Cloud Solution Provider. Alguns clientes podem comprar licenças a outros parceiros ou diretamente da Microsoft. Para estas situações, você verá o total de licenças em todos os parceiros. Para ver apenas as suas próprias licenças, vá às subscrições do cliente.
+Pode ver dados para todos os seus clientes através do programa Fornecedor de Soluções em Nuvem. Alguns clientes podem comprar licenças a outros parceiros ou diretamente da Microsoft. Para estas situações, você verá o total de licenças em todos os parceiros. Para ver apenas as suas próprias licenças, vá às subscrições do cliente.
 
 > [!NOTE]  
-> Atualmente, apenas mostramos dados para o Office 365 e Dynamics 365. No futuro, iremos permitir dados para produtos adicionais.
+> Atualmente, apenas mostramos dados para Office 365 e Dinâmica 365. No futuro, iremos permitir dados para produtos adicionais.
 
 ## <a name="find-license-and-user-data"></a>Encontre licença e dados do utilizador
 
@@ -67,7 +67,7 @@ Terminologia:
 
   - Se o cliente tiver uma subscrição experimental, a atividade é contada mas a subscrição não é contabilizada para o total de direitos.
 
-  - Se alguns clientes estiverem a usar o Yammer significativamente mais do que têm direito pela sua licença, pode distorcer drasticamente os dados.
+  - Se alguns clientes estiverem a utilizar Yammer significativamente mais do que têm direito pela sua licença, pode distorcer drasticamente os dados.
 
 ## <a name="next-steps"></a>Passos seguintes
 

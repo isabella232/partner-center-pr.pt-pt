@@ -3,17 +3,17 @@ title: Obtenha todos os conjuntos de dados API - Informações dados
 ms.topic: reference
 ms.date: 07/14/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 description: Utilize esta API para obter detalhes de todos os conjuntos de dados disponíveis em insights do Partner Center.
 author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: 42ff7cc1f097e2423be5f1f7f9a7f62214d64949
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: 8f4e69c8759c16bc38e64a361c8c077989447d3e
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114376957"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114843804"
 ---
 # <a name="get-all-datasets-api"></a>Obtenha todos os conjuntos de dados API
 

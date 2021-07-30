@@ -8,18 +8,18 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: e0c79fb70c5b439968302353c70907f37aaa09a7
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: d99de8ed53ae6ed7fa094f6da7a8947c1bcfccb9
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110151938"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114836511"
 ---
 # <a name="manage-incentives-customer-associations"></a>Gerir incentivos associações de clientes
 
 **Funções apropriadas**: Administrador de Faturação | Administração global | Administradores de incentivos
 
-A plataforma Claimed Partner of Record (CPOR) é utilizada para os parceiros associarem-se a clientes finais para os quais estão a influenciar o uso ou a compra de produtos da Microsoft. Atualmente, a plataforma CPOR suporta as aplicações empresariais e os produtos Microsoft 365. Os parceiros usam este método de associação para obter informações sobre o desempenho do cliente, receber pagamentos de incentivos através dos programas OSU e OSA, e ganhar associação de receitas como Influenciador de Negócios.  
+A plataforma Claimed Partner of Record (CPOR) é utilizada para os parceiros associarem-se a clientes finais para os quais estão a influenciar o uso ou a compra de produtos da Microsoft. Atualmente, a plataforma CPOR suporta os Business Applications e produtos Microsoft 365. Os parceiros usam este método de associação para obter informações sobre o desempenho do cliente, receber pagamentos de incentivos através dos programas OSU e OSA, e ganhar associação de receitas como Influenciador de Negócios.  
 
 ## <a name="how-your-cpor-association-claim-relates-to-incentives"></a>Como a sua reivindicação da associação CPOR diz respeito a incentivos
 

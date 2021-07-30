@@ -2,19 +2,19 @@
 title: Transferir subscrição da Azure ao abrigo de um plano Azure para outro parceiro da CSP
 ms.topic: article
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
-description: Saiba como mudar o parceiro de programa Fornecedor de Soluções em Nuvem associado às subscrições Azure de um cliente ao abrigo de um plano Azure.
+ms.subservice: partnercenter-pricing
+description: Saiba como alterar o parceiro de programa Fornecedor de Soluções em Nuvem associado às subscrições Azure de um cliente ao abrigo de um plano Azure.
 ms.custom: SEOMAY.20
 ms.localizationpriority: medium
 author: mckennaville
 ms.author: mcville
 ms.date: 07/21/2021
-ms.openlocfilehash: b749c557394bc2b540b51aa5e8e681b8bfcaf0d3
-ms.sourcegitcommit: 1c82ab2d57cce6b814c19adcbe4865ef8a17c422
+ms.openlocfilehash: 14f03a8eb899f7224a38b0f998edd72077b34b3b
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/27/2021
-ms.locfileid: "114725999"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114844280"
 ---
 # <a name="transfer-a-customers-azure-subscriptions-to-a-different-csp-under-an-azure-plan"></a>Transferir as subscrições Azure de um cliente para um CSP diferente (ao abrigo de um plano Azure)
 

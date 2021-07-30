@@ -3,17 +3,17 @@ title: Relatório de utilização do Centro de Parceiros Informações Enterpris
 ms.topic: article
 ms.date: 01/11/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 description: Veja o que está a fazer bem e onde pode melhorar no que diz respeito ao uso de Enterprise Mobility + Security subscrições que vende ou gere para os seus clientes.
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: beb8c65fd60159d5a9e7d9e13de23e5d77ee70f5
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: b78167823a26b16bfa51a7a948afeda027b9898e
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114377144"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114837098"
 ---
 # <a name="enterprise-mobility--security-usage-report-available-from-the-partner-center-insights-dashboard"></a>Enterprise Mobility + Security relatório de utilização disponível no painel de instrumentos do Centro de Parceiros Informações
 

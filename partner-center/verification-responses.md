@@ -3,18 +3,18 @@ title: Verify your account information (Verifique as informações da conta)
 ms.topic: article
 ms.date: 01/14/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
+ms.subservice: partnercenter-enroll
 description: Siga o estado da verificação da sua conta ao tentar inscrever-se num novo programa do Centro de Parceiros. Aprenda a fornecer informações adicionais, se necessário.
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dc7df1196e4b0a6c3e47f649bd4613411c3c4895
-ms.sourcegitcommit: d133c8b923b90ac5518cb989c0ce4dd69713abf4
+ms.openlocfilehash: 0fa4612a3617cd68a0a1c7c55a316143ed0aff37
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "114433746"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114844155"
 ---
 # <a name="verify-your-account-information-when-you-enroll-in-a-new-partner-center-program"></a>Verifique as informações da sua conta quando se inscrever num novo programa do Partner Center
 

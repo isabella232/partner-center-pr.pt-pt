@@ -4,16 +4,16 @@ ms.topic: how-to
 ms.date: 01/28/2021
 description: Saiba como pagar a taxa ou atualizar os detalhes de pagamento associados à obtenção ou renovação de uma ou mais competências de prata ou ouro.
 ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
+ms.subservice: partnercenter-membership
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: b6dab5fb57d26c00928441d7962511e6530fa3b1
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 5099a851dc30767802af507e4840c714e47736e9
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110152329"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114843702"
 ---
 # <a name="how-to-pay-the-fee-associated-with-a-silver-or-gold-competency"></a>Como pagar a taxa associada a uma competência de prata ou ouro
 

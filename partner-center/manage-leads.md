@@ -3,18 +3,18 @@ title: Gerir oportunidades potenciais
 ms.topic: article
 ms.date: 06/02/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-referrals
 description: Use o Partner Center para responder a referências e gerir novas pistas e referências existentes e arquivadas. Saiba também como obter mais referências no futuro.
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dd34a30cf21a90ac7781ed84945a208df13b3700
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 3ed41fa499872147ac86f5d30770ad52b6bf0cfb
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110146549"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114836953"
 ---
 # <a name="manage-different-leads-like-customer-inquiries-marketing-qualified-leads-and-sales-qualified-leads"></a>Gerir diferentes oportunidades potenciais como inquéritos ao cliente, oportunidades potenciais qualificadas para marketing e oportunidades potenciais qualificadas para vendas
 

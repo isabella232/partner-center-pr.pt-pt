@@ -3,18 +3,18 @@ title: Parceiro ganhou crédito FAQ
 ms.topic: article
 ms.date: 07/22/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-pricing
 description: Encontrar respostas a perguntas frequentes sobre o parceiro ganhou crédito (PEC).
 author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e5d6aa77a02a24648828f06fb2c56640abdbfc56
-ms.sourcegitcommit: d133c8b923b90ac5518cb989c0ce4dd69713abf4
+ms.openlocfilehash: 3b66c4cf8b199263c3869a4235c4ee3b16ee369c
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "114434228"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114836698"
 ---
 # <a name="frequently-asked-questions-for-partner-earned-credit"></a>Perguntas frequentes para parceiro ganhou crédito
 

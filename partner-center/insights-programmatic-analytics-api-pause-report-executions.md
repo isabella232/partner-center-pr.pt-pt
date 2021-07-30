@@ -3,17 +3,17 @@ title: Relatório de pausa execução API - dados Informações
 ms.topic: reference
 ms.date: 07/14/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 description: Utilize esta API para interromper a execução de qualquer relatório nos insights do Partner Center.
 author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: 1e490a6d5120d729f0ea4979a201e9a80ba2991c
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: 798c5e87a3935923bd91d8e74716999fb8be4f54
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114377199"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114836375"
 ---
 # <a name="pause-report-executions-api"></a>Pausa relatório execuções API
 

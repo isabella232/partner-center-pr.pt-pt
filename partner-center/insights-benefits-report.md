@@ -3,18 +3,18 @@ title: Relatório de benefícios do Centro de Parceiros Informações
 ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 description: Veja quais os tipos de benefícios do Microsoft Partner que lhe foram concedidos para ajudar a crescer o seu negócio, melhorar a eficiência e melhorar as habilidades da sua equipa.
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 58cf04c4b701a57c816bfe08b2073cd695845231
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: 457a5197ea9bcfaf2d9c936b7483b33688b1cb41
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114377348"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114843957"
 ---
 # <a name="benefits-report-available-from-the-partner-center-insights-dashboard"></a>Relatório de benefícios disponível no painel de Informações do Partner Center
 

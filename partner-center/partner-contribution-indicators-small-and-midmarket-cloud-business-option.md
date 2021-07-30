@@ -3,18 +3,18 @@ title: Indicadores de contribuição dos parceiros - SMMCS
 ms.topic: article
 ms.date: 01/26/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 description: Conheça os parceiros de Indicadores de Contribuição de Parceiros (PCI) que precisam de se reunir antes de poderem atingir a competência das Soluções cloud de pequeno e médio mercado.
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 44a5d2a6b845168cf73dbabfea05c218e9357091
-ms.sourcegitcommit: b0d1413ffa2099ddf11d013d41378afa50953f32
+ms.openlocfilehash: 1ff7a2c416939d1e941b51c7249bd787171f5d7e
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/05/2021
-ms.locfileid: "113297640"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114843651"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-small-and-midmarket-cloud-solutions-competency"></a>Utilizar Indicadores de Contribuição de Parceiros para obter a competência Soluções de Cloud para Pequenas e Médias Empresas
 

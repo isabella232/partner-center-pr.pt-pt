@@ -3,18 +3,18 @@ title: Venda de assinaturas de clientes para CSP
 ms.topic: article
 ms.date: 05/05/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-pricing
 description: Saiba como os parceiros no programa CSP podem vender subscrições aos clientes e geri-las através do Partner Center.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 894d0152920c37c0c6d719fce562c43dbf96a6c4
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 93706ee18acac092c7c6b01b9d3f6e4786a0867e
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110147365"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114844093"
 ---
 # <a name="how-csp-program-partners-can-sell-subscriptions-to-customers"></a>Como os parceiros de programas da CSP podem vender subscrições a clientes
 
@@ -22,7 +22,7 @@ ms.locfileid: "110147365"
 
 Como parceiro da CSP, uma das coisas centrais que faz é oferecer subscrições de produtos Microsoft aos seus clientes. No Partner Center, pode gerir todas as suas subscrições para cada cliente. Pode adicionar subscrições, adicionar licenças às subscrições existentes, até oferecer subscrições de teste a clientes que queiram testar o software. Além disso, pode ver a análise para entender como os seus clientes estão a usar o software, ajudando-o a fornecer um melhor suporte.
 
-|**Para fazer isto**   |**Leia isto**   |
+|**Para efetuar isto**   |**Leia isto**   |
 |----------------------|:----------------------|
 |Criar e gerir subscrições para clientes existentes no Partner Center.|[Criar uma nova subscrição](create-a-new-subscription.md)|
 |Uma vez adicionada a subscrição, pode atribuir licenças aos colaboradores do cliente.  |[Atribuir licenças a utilizadores](assign-licenses-to-users.md)|

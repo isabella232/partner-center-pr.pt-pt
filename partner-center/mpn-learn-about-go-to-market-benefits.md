@@ -3,20 +3,20 @@ title: Conheça as ofertas go-to-market com a Microsoft
 ms.topic: article
 ms.date: 03/08/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
+ms.subservice: partnercenter-benefits
 description: Saiba como o Go-To-Market com a Microsoft oferece pode ajudar a acelerar o tempo para o mercado, gerar leads e expandir o seu negócio.
 author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1b22075c91d7a19c555223409ed9410522e010d2
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: aa33b53a1eebe73122ed989074450cbf5888304f
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110152244"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114836290"
 ---
-# <a name="explore-your-go-to-market-with-microsoft-offers"></a>Explore as suas ofertas Go-To-Market com a Microsoft
+# <a name="explore-your-go-to-market-with-microsoft-offers"></a>Explorar as ofertas Go-To-Market com a Microsoft
 
 **Funções adequadas**: Administração global | Administrador sócio da MPN
 

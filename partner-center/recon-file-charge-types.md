@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 06/05/2020
 description: Descubra os tipos de encargos (tais como, baseados em licenças, baseados em uso e uma vez), créditos e descontos em ficheiros de reconciliação do Partner Center.
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-billing
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 10438ba30c6eb5ba5b1daef1ad16521f1f8e77c6
-ms.sourcegitcommit: 70b8ebbe0d431c7a13529f9eabd1b24f40108a46
+ms.openlocfilehash: fe37a7cdc6ac8e60b9cc5672f4b53813e1f194f8
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/14/2021
-ms.locfileid: "113989779"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114844246"
 ---
 # <a name="understand-the-different-charge-types-in-partner-center-reconciliation-files"></a>Compreenda os diferentes tipos de carga nos ficheiros de reconciliação do Partner Center
 

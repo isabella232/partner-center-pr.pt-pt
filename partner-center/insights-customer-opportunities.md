@@ -3,17 +3,17 @@ title: Partner Center Informações - Relatórios de Propensity CloudAscent
 description: Conheça os relatórios de Propensity CloudAscent no Partner Center. Inclui informações sobre a propensão de um cliente para comprar produtos Microsoft.
 ms.topic: conceptual
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.date: 04/27/2021
-ms.openlocfilehash: 6916d44e3f028fbfd788d3bee54671dbadd874d1
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: 4248c3d72512073ba361bf1e0ee276a766b04176
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114377294"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114837105"
 ---
 # <a name="cloudascent-propensity-reports-available-from-partner-center-dashboard"></a>Relatórios de Propensity CloudAscent disponíveis no painel de instrumentos do Partner Center
 

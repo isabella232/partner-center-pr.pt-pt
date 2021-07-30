@@ -3,17 +3,17 @@ title: Insights do centro de parceiros Power BI relatório de utilização
 ms.topic: article
 ms.date: 01/11/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 description: Veja o que está a fazer bem e onde pode melhorar no que diz respeito ao uso de Power BI subscrições que vende ou gere para os seus clientes.
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: b2a8ce1b1ddae6d3b4377dbcfec005f472e8a3fe
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: 1f4cb47cf8cd3dbd12a57cab40a5a5d09888f324
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114377069"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114843838"
 ---
 # <a name="power-bi-usage-report-available-from-the-partner-center-insights-dashboard"></a>Power BI relatório de utilização disponível no painel de instrumentos do Partner Center Informações
 

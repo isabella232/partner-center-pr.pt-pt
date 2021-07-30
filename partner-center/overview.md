@@ -3,17 +3,17 @@ title: O que é o Centro de Parceiros?
 ms.topic: overview
 ms.date: 12/01/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
+ms.subservice: partnercenter-enroll
 description: Use partner Center para transar negócios com a Microsoft e os seus clientes
 author: jasongroce
 ms.author: jasongroce
 ms.localizationpriority: high
-ms.openlocfilehash: 75655317683b50f95cddbf1dc0ce8a1753906d5e
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: d60adb307e57fb63e0257954f3f0cc578f9c25d1
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114373697"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114843345"
 ---
 # <a name="what-is-partner-center"></a>O que é o Centro de Parceiros?
 

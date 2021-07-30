@@ -3,21 +3,21 @@ title: Use Partner Center Analytics para Power BI
 ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
-description: Saiba como ver os dados do seu negócio utilizando a app Partner Center Analytics para Power BI (para parceiros diretos no programa Cloud Solution Provider (CSP).
+ms.subservice: partnercenter-pricing
+description: Saiba como ver os dados do seu negócio utilizando o aplicação Análise do Centro de Parceiros para Power BI (para parceiros diretos no programa Fornecedor de Soluções em Nuvem (CSP).
 fwlink: https://go.microsoft.com/fwlink/?linkid=852581
 author: v-sumukh
 ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 95eb018a3284d2de98c0ce6a9cd0ce6299d5571a
-ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
+ms.openlocfilehash: eea221af22e9bd7aa684bc5120b0799f083f8663
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/24/2021
-ms.locfileid: "112564986"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114836105"
 ---
-# <a name="view-your-business-data-with-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Veja os seus dados de negócio com a aplicação Partner Center Analytics para Microsoft Power BI
+# <a name="view-your-business-data-with-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Veja os seus dados de negócio com a aplicação Partner Center Analytics para o Microsoft Power BI
 
 
 
@@ -25,11 +25,11 @@ ms.locfileid: "112564986"
 
 ## <a name="view-your-business-data"></a>Ver os seus dados de negócio
 
-Obtenha uma representação visual dos seus dados de negócio com a aplicação Partner Center Analytics para o Microsoft Power BI, incluindo:
+Obtenha uma representação visual dos seus dados de negócio com a aplicação Partner Center Analytics para a Microsoft Power BI, incluindo:
 
 - Crescimento da sua base de clientes, subscrições e licenças
 
-- Utilização dos produtos Office 365, Microsoft Dynamics e Microsoft Azure
+- Utilização de Office 365, Microsoft Dynamics e produtos Microsoft Azure
 
 - Unidades de consumo diário para cada recurso medido em cada subscrição do Azure nos últimos 60 dias
 
@@ -39,7 +39,7 @@ Obtenha uma representação visual dos seus dados de negócio com a aplicação 
 
 ### <a name="about-the-partner-center-analytics-app-preview-release"></a>Sobre o lançamento da pré-visualização da aplicação Partner Center Analytics
 
-- Esta aplicação destina-se apenas a parceiros diretos no programa Cloud Solution Provider (CSP). Outros parceiros na CSP (revendedores indiretos, por exemplo) não poderão assinar.
+- Esta aplicação destina-se apenas a parceiros diretos no programa Fornecedor de Soluções em Nuvem (CSP). Outros parceiros na CSP (revendedores indiretos, por exemplo) não poderão assinar.
 
 - Quaisquer custos estimados são dados de faturação/fatura prévia, e não são juridicamente vinculativos. Os custos estimados devem ser utilizados apenas para informações sobre dados.
 
@@ -49,9 +49,9 @@ Obtenha uma representação visual dos seus dados de negócio com a aplicação 
 
 - Dias são dias de calendário.
 
-### <a name="business-insights-report"></a>Relatório de Insights de Negócios
+### <a name="business-insights-report"></a>Relatório de Informações de negócios
 
-- Inquilinos do cliente : Número de **inquilinos distintos** do Azure Ative Directory (Azure AD) de clientes que adquiriram assinaturas
+- **Inquilinos do cliente**: Número de inquilinos distintos Azure Ative Directory (Azure AD) de clientes que adquiriram assinaturas
 
 - **Novo (últimos 30 dias)**: Novos clientes que compram pelo menos uma subscrição nos últimos 30 dias
 
@@ -69,7 +69,7 @@ Obtenha uma representação visual dos seus dados de negócio com a aplicação 
 
 - **Contagem de clientes por produto**: Produtos vendidos por clientes associados. Este estado indica produtos de topo vendidos à maioria dos clientes.
 
-### <a name="subscription-insights-report"></a>Relatório de Insights de Subscrição
+### <a name="subscription-insights-report"></a>Relatório de Informações de assinatura
 
 - **Estado da subscrição**:
 
@@ -105,7 +105,7 @@ Obtenha uma representação visual dos seus dados de negócio com a aplicação 
 
 - **Detalhes da subscrição** do cliente : Vista detalhada dos clientes, subscrições e ofertas
 
-### <a name="license-insights-report"></a>Relatório de Insights de Licença:
+### <a name="license-insights-report"></a>Relatório de Informações de licença:
 
 - **Total de licenças**: Número total de licenças agregadas em todas as subscrições baseadas em licenças
 
@@ -137,7 +137,7 @@ Obtenha uma representação visual dos seus dados de negócio com a aplicação 
 
 - **Licenças em uso por cliente**: Vista detalhada das licenças vendidas e licenças em uso por clientes e produtos
 
-### <a name="azure-insights-report"></a>Relatório Azure Insights:
+### <a name="azure-insights-report"></a>Relatório Informações Azure:
 
 - **Clientes baseados em uso nos últimos 12 meses**: Mês ao longo do mês tendência de novos clientes baseados em uso e clientes com base em uso agregados mensalmente durante o período dos últimos 12 meses
 
@@ -159,6 +159,6 @@ Obtenha uma representação visual dos seus dados de negócio com a aplicação 
 
 ## <a name="next-steps"></a>Passos seguintes
 
-- [Partner Center Analytics for Power BI app overview](power-bi-app-for-direct-partners.md)
+- [Partner Center Analytics para Power BI visão geral da aplicação](power-bi-app-for-direct-partners.md)
 
 - [Install and preview the Partner Center Analytics app for Microsoft Power BI](power-bi-app-for-direct-partners-install.md) (Instalar e pré-visualizar a aplicação de Análise do Centro de Parceiros do Microsoft Power BI)

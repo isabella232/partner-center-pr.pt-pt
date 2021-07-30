@@ -3,18 +3,18 @@ title: Centro de Parceiros Informações - Relatório de clientes
 ms.topic: article
 ms.date: 06/16/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 description: Descubra formas de melhorar o seu negócio. Consulte as suas tendências específicas do cliente por geografia, por produto e outros atributos.
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8d7be488d1002f98e95349046edb72a644e93a47
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: 327d2ddd97dc4bf226985523184407f32f7883ad
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114377259"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114843889"
 ---
 # <a name="customers-dashboard-reports-from-partner-center-insights"></a>Relatórios do painel de clientes do Partner Center Informações
 

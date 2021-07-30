@@ -3,18 +3,18 @@ title: Link Microsoft Learn MCP ID para conta Partner Center
 ms.topic: how-to
 ms.date: 01/29/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-membership
 description: Aprenda a associar o seu ID MCP à sua conta Partner Center para que a sua empresa possa ver os caminhos de treino e aprendizagem que tomou em relação às competências.
 author: kbangalore
 ms.author: kiranban
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b5487addd5bf4cd53eacaa95c4e2e602a7279bad
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 18ea02feb3cc9c3da269ff72ab043aecd24b1e32
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110151241"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114836936"
 ---
 # <a name="link-or-unlink-a-microsoft-certification-profile-id-mcid-to-a-microsoft-partner-network-mpn-account"></a>Ligue ou desvincula um ID de perfil de certificação da Microsoft (MCID) a uma conta da Microsoft Partner Network (MPN)
 
@@ -31,19 +31,19 @@ Use o procedimento abaixo para ter acesso à Partner University.
 
 1. Inicie sessão no [dashboard do Centro de Parceiros](https://partner.microsoft.com/dashboard/).
 2. Selecione o ícone azul **My Profile** no canto superior direito
-3. No campo **De Aprendizagem,** selecione **Get Partner University Access**. Tem de introduzir as credenciais de conta da Partner University (não a sua conta de centro de parceiros) A sua conta de universidade partner estará agora associada à sua conta de utilizador do Partner Center. As suas avaliações serão refletidas no relatório de Competências do Utilizador do Centro de Parceiros dentro de 72 horas. As avaliações recentemente aprovadas podem demorar 7 a 10 dias a refletir no relatório.
+3. No campo **Aprendizagem,** selecione **Get Partner University Access**. Tem de introduzir as credenciais de conta da Partner University (não a sua conta de centro de parceiros) A sua conta de universidade partner estará agora associada à sua conta de utilizador do Partner Center. As suas avaliações serão refletidas no relatório de Competências do Utilizador do Centro de Parceiros dentro de 72 horas. As avaliações recentemente aprovadas podem demorar 7 a 10 dias a refletir no relatório.
 4. Para remover a associação, selecione **Remover o acesso**.
 
-## <a name="associate-a-microsoft-learning-account"></a>Associar uma conta microsoft learning
+## <a name="associate-a-microsoft-learning-account"></a>Associar uma conta microsoft Aprendizagem
 
-Utilize o seguinte procedimento para associar uma conta Microsoft Learning. 
+Utilize o seguinte procedimento para associar uma conta microsoft Aprendizagem. 
 
 1. Inicie sessão no [dashboard do Centro de Parceiros](https://partner.microsoft.com/dashboard/).
-2. Na sua página de perfil, percorra o campo de **exames e certificações** da Microsoft e selecione **a conta Associate Microsoft Learning**.
+2. Na sua página de perfil, percorra o campo de **exames e certificações** da Microsoft e selecione **a conta de Aprendizagem Associado Microsoft**.
 3. Quando solicitado, introduza as credenciais que utiliza para iniciar sessão no seu perfil de certificação Microsoft (o seu MCID).
 
 >[!NOTE]
->Se as credenciais de conta microsoft Learning forem as mesmas que as credenciais de conta da Partner University, selecione **Use para associar a minha conta Microsoft email@address Learning**.
+>Se as credenciais de conta Aprendizagem Microsoft forem as mesmas que as credenciais de conta da Partner University, selecione **Use para associar a minha conta microsoft email@address Aprendizagem**.
 
 ## <a name="download-skills-report-microsoft-certification-list"></a>Relatório de competências de descarregamento (lista de certificação da Microsoft)
 Se precisar de detalhes, o relatório de competências pode ser acedido e descarregado por qualquer Administrador Global ou MPN Partner Admin do Partner Center. Para [saber mais.](./mpn-skills-report.md#view-skills-report-data)
@@ -53,7 +53,7 @@ Se precisar de detalhes, o relatório de competências pode ser acedido e descar
 
 ### <a name="how-can-a-user-link-their-microsoft-certification-profile-id-mcid-with-the-microsoft-partner-network-mpn-organization-they-work-for"></a>Como pode um utilizador ligar o seu ID de perfil de certificação da Microsoft (MCID) à organização da Microsoft Partner Network (MPN) para a qual trabalham?
 
-Os utilizadores devem iniciar sessão no Partner Center e navegar para **o meu perfil** e, em seguida, selecionar a conta Get Partner **University** ou associar a conta **microsoft learning** e introduzir as suas credenciais. Para associar a uma conta Microsoft Learning, o utilizador terá de inserir o nome de utilizador e a palavra-passe utilizados para iniciar sessão no seu perfil de Certificação microsoft (MCID). Devido a questões de privacidade, os utilizadores devem completar o processo de ligação da conta por si mesmos.  
+Os utilizadores devem iniciar sessão no Partner Center e navegar para **o meu perfil** e, em seguida, selecionar a conta Get Partner **University** ou associar a conta **Aprendizagem Microsoft** e introduzir as suas credenciais. Para associar a uma conta microsoft Aprendizagem o utilizador terá de inserir o nome de utilizador e a palavra-passe utilizados para iniciar sessão no seu perfil de Certificação microsoft (MCID). Devido a questões de privacidade, os utilizadores devem completar o processo de ligação da conta por si mesmos.  
 
 ### <a name="how-can-a-user-unlink-their-mcid-from-the-mpn-organization-they-work-for"></a>Como pode um utilizador desvincular o MCID da organização MPN para a qual trabalha?
 

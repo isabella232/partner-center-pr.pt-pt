@@ -4,21 +4,21 @@ ms.topic: article
 ms.date: 06/12/2020
 description: Saiba como ler ficheiros de reconciliação de utilização diários no Partner Center. Inclui descrições para campos específicos no ficheiro de reconhecimento.
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-billing
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9b5daf91646324a9d4ace92d25736cfd0361ad6c
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 9b9c422124227804dcf1ac70286a73155d2e71d3
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110147280"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114844076"
 ---
 # <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>Saiba como ler ficheiros de reconciliação de utilização diária no Partner Center
 
-**Aplica-se a**: Partner Center | Centro de Parceiros para Microsoft Cloud para governo dos EUA
+**Aplica-se a**: Partner Center | Centro de Parceiros para Microsoft Cloud for US Government
 
 **Funções adequadas**: Agente administrador | Administrador de faturação | Agente comercial | Agente helpdesk
 
@@ -71,12 +71,12 @@ Este artigo explica como ler ficheiros de reconciliação de utilização diári
 | BillingCurrency | A moeda na região geográfica do cliente. |
 | PreçosPreTaxTotal | O preço, antes de serem adicionados impostos. |
 | PricingCurrency | A moeda na lista de preços. |
-| ServiceInfo1 | O número de ligações de Service Bus que foram a provisionadas e utilizadas num determinado dia. |
+| ServiceInfo1 | O número de ligações Service Bus que foram a provisionadas e utilizadas num determinado dia. |
 | ServiceInfo2 | Um campo legado que captura metadados opcionais específicos do serviço. |
 | Etiquetas | Representa uma organização lógica de recursos Azure definida pelo utilizador. |
 | AdditionalInfo | Qualquer informação adicional não abrangida noutras colunas. |
 | EffectiveUnitPrice | O valor real cobrado por unidade, incluindo quaisquer descontos, ganhou crédito, e assim por diante. |
-| PCToBCExchangeRate | Taxa de câmbio aplicada para a moeda de fixação de moeda à moeda de faturação. |
+| PCToBCExchangeRate | Exchange taxa aplicada à moeda de fixação de preços à moeda de faturação. |
 | PCToBCExchangeRateDate | A data em que é determinada a moeda de fixação da moeda de faturação. |
 | Direitodid | Representa o ID de subscrição Azure. |
 | DireitosDescrição | Representa o nome do ID de assinatura Azure. |

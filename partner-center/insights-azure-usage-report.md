@@ -3,18 +3,18 @@ title: Relatório de utilização do Partner Center Informações Azure
 ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 description: Veja o que está a fazer bem e onde pode melhorar o seu uso de subscrições Azure que vende ou gere para os seus clientes.
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 78c8d42186d96e359f0771ca19eb7fbf4b46a8e1
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: 75f326fab8ebc59628dadc43b048dfefe48c22cb
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114377354"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114843991"
 ---
 # <a name="azure-usage-report-available-from-the-partner-center-insights-dashboard"></a>Relatório de utilização do Azure disponível no painel de instrumentos do Partner Center Informações
 

@@ -3,18 +3,18 @@ title: Obrigando à autenticação de vários fatores (MFA) para o seu inquilino
 ms.topic: article
 ms.date: 10/29/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-enroll
 description: Saiba como mandatar o MFA para os inquilinos do seu parceiro ajudará a garantir o seu acesso aos recursos dos clientes. Inclui cenários de amostra.
 author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9fe1d894ec933072a64f2abdfbb795b6ef046168
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: ba45c4c3d596c926bb6bfb8cf786e7e873c2a6c7
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276013"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114836732"
 ---
 # <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>Obrigando à autenticação de vários fatores (MFA) para o seu inquilino parceiro
 
@@ -26,7 +26,7 @@ Este artigo dá exemplos e orientações detalhadas para a obrigatoriedade da au
 - [API do Centro de Parceiros](#partner-center-api)
 - [Administração Delegada de Parceiros](#partner-delegated-administration)
 
-Maiores e contínuas salvaguardas de segurança e privacidade estão entre as nossas principais prioridades e continuamos a ajudar os parceiros a proteger os seus clientes e inquilinos. Todos os parceiros que participam no programa Cloud Solution Provider (CSP), Fornecedores de Painéis de Controlo (CPVs) e Assessores devem implementar os [Requisitos de Segurança](partner-security-requirements.md) do Parceiro para se manterem em conformidade.
+Maiores e contínuas salvaguardas de segurança e privacidade estão entre as nossas principais prioridades e continuamos a ajudar os parceiros a proteger os seus clientes e inquilinos. Todos os parceiros que participam no programa Fornecedor de Soluções em Nuvem (CSP), Fornecedores de Painéis de Controlo (CPVs) e Assessores devem implementar os [Requisitos de Segurança](partner-security-requirements.md) do Parceiro para se manterem em conformidade.
 
 Para ajudar os parceiros a proteger os seus negócios e clientes de roubo de identidade e acesso não autorizado, ativamos salvaguardas de segurança adicionais para os inquilinos parceiros que mandatam e verificam o MFA. 
 
@@ -55,7 +55,7 @@ Para ilustrar como funciona a verificação no painel do Partner Center, conside
 
 ### <a name="example-1-partner-has-implemented-azure-ad-mfa"></a>Exemplo 1: Parceiro implementou Azure AD MFA
 
-1. Jane trabalha para a CSP Contoso. A Contoso implementou o MFA para todos os seus utilizadores sob o abrigo do inquilino parceiro da Contoso utilizando o Azure Ative Directory (Azure AD) MFA.
+1. Jane trabalha para a CSP Contoso. A Contoso implementou o MFA para todos os seus utilizadores sob o abrigo do inquilino parceiro da Contoso utilizando Azure Ative Directory (Azure AD) MFA.
 
 2. Jane inicia uma nova sessão de navegador e navega para a página geral do painel do Partner Center (que não está protegida pelo MFA). Partner Center redireciona Jane para Azure AD para iniciar sação.
 
@@ -97,7 +97,7 @@ A API do Partner Center suporta a autenticação apenas de App e a autenticaçã
 Quando a autenticação app+user for utilizada, o Partner Center exigirá a verificação de MFA. Mais especificamente, quando uma aplicação de parceiro quer enviar um pedido de API para o Centro de Parceiros, deve incluir um token de acesso no cabeçalho de Autorização do pedido. 
 
 > [!NOTE]
->O [quadro secure application model](/partner-center/develop/enable-secure-app-model) é um quadro escalável para autenticar parceiros e CPVs de CSP através da arquitetura MFA do Microsoft Azure ao chamar APIs do Partner Center. Você precisa implementar este quadro antes de ativar mFA no seu inquilino. 
+>O [quadro do Modelo de Aplicação Segura](/partner-center/develop/enable-secure-app-model) é um quadro escalável para autenticar parceiros e CPVs de CSP através da arquitetura Microsoft Azure MFA ao chamar APIs do Partner Center. Você precisa implementar este quadro antes de ativar mFA no seu inquilino. 
 
 Quando o Partner Center recebe um pedido de API com um token de acesso obtido através da autenticação App+User, a API do Centro Parceiro verificará a presença do valor *MFA* na reivindicação do Método de *Autenticação (AMR).* Pode utilizar um descodificador JWT para validar se um token de acesso contém ou não o valor previsto do método de autenticação (AMR):
 
@@ -158,17 +158,17 @@ Quando a Azure AD receber tais pedidos de autenticação, exigirá que a conta d
 A experiência global é semelhante ao cenário em que um inquilino de cliente final implementou mFA para os seus administradores. Por exemplo, o inquilino do cliente permitiu [incumprimentos de segurança Azure AD,](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults)que requer todas as contas com direitos administrativos para assinar no cliente inquilino com verificação de MFA, incluindo Agentes Admin e Agentes helpdesk. Para efeitos de teste, os parceiros podem ativar os [incumprimentos de segurança Azure AD](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) no inquilino do cliente e, em seguida, tentar usar privilégios de administração delegado de parceiro para aceder ao cliente inquilino.
 
 > [!NOTE]
-> Nem todos os Portais de Serviço Online da Microsoft exigem que as contas dos parceiros assinem o cliente ao aceder aos recursos do cliente utilizando privilégios de administração delegados de parceiros. Em vez disso, apenas exigem que as contas do parceiro assinem o inquilino do parceiro. Um exemplo é o Exchange Admin Center. Com o tempo, esperamos que estes portais exijam contas de parceiros para assinar no inquilino do cliente quando utilizar privilégios de administração delegados de parceiro.
+> Nem todos os Portais de Serviço Online da Microsoft exigem que as contas dos parceiros assinem o cliente ao aceder aos recursos do cliente utilizando privilégios de administração delegados de parceiros. Em vez disso, apenas exigem que as contas do parceiro assinem o inquilino do parceiro. Um exemplo é o Exchange Centro de Administração. Com o tempo, esperamos que estes portais exijam contas de parceiros para assinar no inquilino do cliente quando utilizar privilégios de administração delegados de parceiro.
 
 ### <a name="using-service-apis"></a>Utilização de APIs de serviço
 
-Alguns APIs de Serviços Online da Microsoft (tais como Azure Resource Manager, Azure AD Graph, Microsoft Graph, etc.) parceiros de suporte usando privilégios de admin delegados de parceiros para gerir programáticamente recursos do cliente. Para utilizar os Privilégios de Administração Delegados de Parceiros com estas APIs, a aplicação do parceiro deve incluir um token de acesso no cabeçalho de autorização de pedido da API, onde o token de acesso é obtido por ter uma conta de utilizador parceira para autenticar com Azure AD, com o cliente Azure AD definido como o contexto de autenticação. A aplicação do parceiro é necessária para ter um sinal de conta de utilizador parceiro no inquilino do cliente.
+Alguns APIs de Serviços Online da Microsoft (tais como Azure Resource Manager, Azure AD Graph, Microsoft Graph, etc.) parceiros de suporte usando parceiros delegados de Admin Privileges para gerir programáticamente os recursos do cliente. Para utilizar os Privilégios de Administração Delegados de Parceiros com estas APIs, a aplicação do parceiro deve incluir um token de acesso no cabeçalho de autorização de pedido da API, onde o token de acesso é obtido por ter uma conta de utilizador parceira para autenticar com Azure AD, com o cliente Azure AD definido como o contexto de autenticação. A aplicação do parceiro é necessária para ter um sinal de conta de utilizador parceiro no inquilino do cliente.
 
 Quando a Azure AD receber, tal como o pedido de autenticação, o Azure AD exigirá que a conta de utilizador do parceiro complete a verificação do MFA. Se a conta de utilizador do parceiro não tiver registado anteriormente para MFA, a conta de utilizador será solicitada para completar primeiro o registo de MFA.
 
 Todas as aplicações de parceiros que são integradas com estas APIs utilizando privilégios de administração delegados de parceiros são afetadas por esta funcionalidade. Para garantir que as aplicações dos parceiros podem continuar a trabalhar com estas APIs sem interrupção:
 
-- O parceiro deve evitar a utilização de métodos de autenticação não interativos com Azure AD para obter o token de acesso. Ao utilizar métodos de autenticação não interativos de utilizador, como [o Password Flow,](https://github.com/AzureAD/azure-activedirectory-library-for-dotnet/wiki/Acquiring-tokens-with-username-and-password)o Azure AD não poderá solicitar ao utilizador a verificação de MFA. O parceiro deve mudar para o método de autenticação interativa do utilizador, como [o fluxo OpenID Connect.](/azure/active-directory/develop/v1-protocols-openid-connect-code)
+- O parceiro deve evitar a utilização de métodos de autenticação não interativos com Azure AD para obter o token de acesso. Ao utilizar métodos de autenticação não interativos de utilizador, como [o Password Flow,](https://github.com/AzureAD/azure-activedirectory-library-for-dotnet/wiki/Acquiring-tokens-with-username-and-password)a Azure AD não poderá solicitar ao utilizador que complete a verificação do MFA. O parceiro deve mudar para o método de autenticação interativa do utilizador, como [o fluxo de Ligação OpenID.](/azure/active-directory/develop/v1-protocols-openid-connect-code)
 
 - Durante o método de autenticação interativa do utilizador, o parceiro deve utilizar uma conta de utilizador parceira que já esteja ativada para MFA. Em alternativa, quando solicitado pela Azure AD, o parceiro pode completar o registo de MFA e a verificação de MFA durante a entrada.
 
@@ -208,18 +208,18 @@ Um parceiro tem algumas contas de utilizador nos seus inquilinos parceiros, que 
 
 **Resposta:** Não. Uma vez que estas contas de utilizador não estão a utilizar privilégios de administração delegados de parceiros para gerir os recursos do cliente, não serão obrigados a inscrever-se no cliente. Não serão afetados pela Azure AD que exija a verificação do MFA durante a entrada no cliente.
 
-##### <a name="issue-4-partner-cannot-implement-mfa-using-ms-authenticator-app"></a>Edição 4: O parceiro não pode implementar o MFA utilizando a App autenticadora MS
-Um parceiro tem uma política de "mesa limpa", que não permite que os colaboradores tragam os seus dispositivos móveis pessoais para a sua área de trabalho. Sem acesso aos seus dispositivos móveis pessoais, os colaboradores não podem instalar a App de Autenticação MS, que é a única verificação MFA suportada por padrão de segurança Azure AD. Esta questão é uma razão válida para exceção técnica?
+##### <a name="issue-4-partner-cannot-implement-mfa-using-ms-authenticator-app"></a>Edição 4: O parceiro não pode implementar o MFA utilizando a App MS Authenticator
+Um parceiro tem uma política de "mesa limpa", que não permite que os colaboradores tragam os seus dispositivos móveis pessoais para a sua área de trabalho. Sem acesso aos seus dispositivos móveis pessoais, os colaboradores não podem instalar a App MS Authenticator, que é a única verificação MFA suportada por padrão de segurança Azure AD. Esta questão é uma razão válida para exceção técnica?
 
 **Resposta**: Não, esta não é uma razão válida para exceção técnica. O parceiro deve considerar as seguintes alternativas, para que os seus colaboradores ainda possam completar a verificação de MFA ao aceder ao Partner Center:
-- O parceiro também pode inscrever-se em soluções Azure AD Premium ou de terceiros (compatíveis com Azure AD) que podem fornecer métodos de verificação adicionais.
+- O parceiro também pode inscrever-se para soluções de MFA de Azure AD Premium ou de terceiros (compatíveis com Azure AD) que podem fornecer métodos de verificação adicionais.
 
 ##### <a name="issue-5-partner-cannot-implement-mfa-due-to-the-use-of-legacy-authentication-protocols"></a>Edição 5: O parceiro não pode implementar MFA devido à utilização de protocolos de autenticação de legados
-Um parceiro tem alguns agentes parceiros que ainda usam protocolos de autenticação legado, que não são compatíveis com MFA. Por exemplo, os utilizadores ainda estão a utilizar o Outlook 2010, que se baseia em protocolos de autenticação legado. Permitir que o MFA para estes agentes parceiros irá perturbar a utilização de protocolos de autenticação legado.
+Um parceiro tem alguns agentes parceiros que ainda usam protocolos de autenticação legado, que não são compatíveis com MFA. Por exemplo, os utilizadores ainda estão a utilizar Outlook 2010, que se baseia em protocolos de autenticação antigas. Permitir que o MFA para estes agentes parceiros irá perturbar a utilização de protocolos de autenticação legado.
 
-**Resposta**: Não, esta não é uma razão válida para exceção técnica. Os parceiros são fortemente encorajados a afastarem-se da utilização de protocolos de autenticação legado devido a potenciais implicações de segurança, uma vez que estes protocolos não podem ser protegidos com a verificação do MFA e são muito mais suscetíveis a compromissos credenciais. Se afastarem-se da utilização de protocolos de autenticação legado não for uma opção, os parceiros devem considerar inscrever-se no Azure AD Premium, que suporta a utilização de Passwords de Aplicação. As palavras-passe de aplicação são senhas geradas pelo sistema uma única vez, e são geralmente mais fortes do que as palavras-passe geradas pelo homem. Ao utilizarem as Passwords de Aplicação, os parceiros podem implementar MFA para os seus utilizadores, ao mesmo tempo que recorrem a Passwords de Aplicação apenas para protocolos de autenticação legado.
+**Resposta**: Não, esta não é uma razão válida para exceção técnica. Os parceiros são fortemente encorajados a afastarem-se da utilização de protocolos de autenticação legado devido a potenciais implicações de segurança, uma vez que estes protocolos não podem ser protegidos com a verificação do MFA e são muito mais suscetíveis a compromissos credenciais. Se afastarem-se da utilização de protocolos de autenticação legado não for uma opção, os parceiros devem considerar inscrever-se para Azure AD Premium, que suporta a utilização de Passwords de Aplicação. As palavras-passe de aplicação são senhas geradas pelo sistema uma única vez, e são geralmente mais fortes do que as palavras-passe geradas pelo homem. Ao utilizarem as Passwords de Aplicação, os parceiros podem implementar MFA para os seus utilizadores, ao mesmo tempo que recorrem a Passwords de Aplicação apenas para protocolos de autenticação legado.
 
-Leia a publicação sobre o [Basic Auth e o Exchange Online](https://techcommunity.microsoft.com/t5/exchange-team-blog/basic-auth-and-exchange-online-february-2020-update/ba-p/1191282) para entender o mais recente plano de apoio à autenticação do legado para o Outlook e siga o blog da equipa de [Exchange](https://techcommunity.microsoft.com/t5/exchange-team-blog/bg-p/Exchange) para obter as próximas novidades. 
+Leia a publicação sobre o [Basic Auth e o Exchange Online](https://techcommunity.microsoft.com/t5/exchange-team-blog/basic-auth-and-exchange-online-february-2020-update/ba-p/1191282) para compreender o mais recente plano de apoio à autenticação de legados para Outlook, e siga o blog da equipa [Exchange](https://techcommunity.microsoft.com/t5/exchange-team-blog/bg-p/Exchange) para obter as próximas novidades. 
 
 > [!NOTE]
 > Apesar de o parceiro não ter implementado o MFA para os seus agentes parceiros, os agentes parceiros ainda podem aceder aos Portais de Serviços Online da Microsoft utilizando privilégios de administração delegados de parceiros, desde que possam completar o registo de MFA e a verificação do MFA quando solicitados durante o início de sedução ao cliente. O preenchimento do registo MFA não permite automaticamente o utilizador de MFA.

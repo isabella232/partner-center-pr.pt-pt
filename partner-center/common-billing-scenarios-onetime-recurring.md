@@ -3,18 +3,18 @@ title: Faturação para compras recorrentes de & única
 ms.topic: article
 ms.date: 05/05/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-billing
 description: Amostras de faturação do Partner Center para uma única vez e selecione compras recorrentes - quando compra subscrições, adiciona mais subscrições, adiciona ou remove licenças.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a26b6e5299c5186959612e622808161ca0f7f7c2
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 44594df78ba99a3762549b916265de9faa667e7b
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110148623"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114844110"
 ---
 # <a name="partner-center-billing-scenarios-for-one-time-and-select-recurring-purchases"></a>Cenários de faturação do Partner Center para uma única vez e selecione compras recorrentes
 

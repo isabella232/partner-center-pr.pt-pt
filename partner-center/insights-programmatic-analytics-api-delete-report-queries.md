@@ -3,17 +3,17 @@ title: Eliminar consultas de relatório API - Informações dados
 ms.topic: reference
 ms.date: 07/14/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 description: Utilize esta API para eliminar a consulta definida pelo utilizador nos insights do Partner Center.
 author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: e608068613edad1fca277ba5886c9c4bc962ffd2
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: f755bc13ff4e0c4bc3a2c6ceda123c6a2bc47dc5
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114376980"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114836392"
 ---
 # <a name="delete-report-queries-api"></a>Eliminar consultas de relatório API
 

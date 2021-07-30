@@ -3,17 +3,17 @@ title: Obtenha consultas de relatório API - dados Informações
 ms.topic: reference
 ms.date: 07/14/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 description: Utilize esta API para obter todas as consultas disponíveis para uso no relatório API.
 author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: 3bf140576a19439990405cfef23190045e0a98be
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: 5f65784ce93350c92e0ffe38849ce505f045e0b0
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114377205"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114843770"
 ---
 # <a name="get-report-queries-api"></a>Obtenha consultas de relatório API
 
@@ -44,8 +44,8 @@ Nenhuma
 |    ----    |    ----    |    ----    |    ----    |
 |    consultaD     |    cadeia (de carateres)     |    No    |    Filtrar para obter detalhes de apenas consultas com o ID dado no argumento     |
 |    consultaName     |    cadeia (de carateres)     |    No    |    Filtrar para obter detalhes de apenas consultas com o nome dado no argumento     |
-|    Incluir Sistemaqueries     |    boolean     |    No    |    Incluir consultas de sistema predefinidas na resposta     |
-|    Incluir Apenas SistemasQueries     |    boolean     |    No    |    Incluir apenas consultas de sistema na resposta     |
+|    Incluir Sistemaqueries     |    boolean     |    Não    |    Incluir consultas de sistema predefinidas na resposta     |
+|    Incluir Apenas SistemasQueries     |    boolean     |    Não    |    Incluir apenas consultas de sistema na resposta     |
 |        |        |        |        |
 
 

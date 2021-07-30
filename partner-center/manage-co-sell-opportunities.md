@@ -3,18 +3,18 @@ title: Gerir oportunidades de venda conjunta
 ms.topic: article
 ms.date: 12/16/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-referrals
 description: Como parceiro qualificado da Microsoft, pode co-vender com a Microsoft. Saiba como definir ofertas, convidar a Microsoft a colaborar ou ver ofertas enviadas.
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 53ca3c05b2df3de1b0a2373580b28e139f297b82
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 2cb4a4700f9c8f74e835863cd74caacf20d2d6d1
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110151768"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114837021"
 ---
 # <a name="manage-co-sell-opportunities-in-partner-center"></a>Gerir oportunidades de co-venda no Partner Center
 
@@ -233,7 +233,7 @@ O fluxo de trabalho abaixo explica como os e-mails são enviados aos parceiros d
 
 Apenas os incentivos IP são elegíveis para o registo de transações. Estes incluem
 
-- Co-venda Azure IP
+- Venda Conjunta do Azure IP
 - Biz apps premium
 - Biz apps standard
 

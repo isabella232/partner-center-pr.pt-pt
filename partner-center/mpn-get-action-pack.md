@@ -3,18 +3,18 @@ title: Comprar ou renovar ofertas do Microsoft Action Pack
 ms.topic: how-to
 ms.date: 12/15/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
+ms.subservice: partnercenter-benefits
 description: Saiba como comprar uma subscrição do Microsoft Action Pack e comece a usar os benefícios do Action Pack. Também aprenda a renovar, cancelar, ver a sua conta, e muito mais.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dc7be1fdf92249c31e8b2c6aa6611015e8b9b42f
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 8124d05f971149cffe0d4c49f7ec68c38ea54156
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110152312"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114836357"
 ---
 # <a name="buy-or-renew-a-microsoft-action-pack-subscription-or-silver-and-gold-competencies"></a>Comprar ou renovar uma subscrição do Microsoft Action Pack ou competências Silver e Gold
 

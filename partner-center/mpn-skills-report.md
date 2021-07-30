@@ -3,18 +3,18 @@ title: Relatório de competências no Centro de Parceiros
 ms.topic: conceptual
 ms.date: 02/01/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
+ms.subservice: partnercenter-membership
 description: Saiba como utilizar o relatório de competências para garantir que a sua empresa está atualizada para a obtenção de competências.
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: f8da6e1d1ff80776c71b3f3795ff19fbbab6f112
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 2878512167bd0afa2901031bca60828685eb52c1
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110151343"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114836307"
 ---
 # <a name="using-the-skills-report"></a>Usando o relatório de competências
 
@@ -45,7 +45,7 @@ Antes de poder ver o relatório de competências e começar a aplicar as compet�
 - Certifique-se de que os utilizadores da sua empresa também têm a sua própria conta de utilizador no Partner Center. 
    A conta de utilizador deve ser associada à sua empresa parceira. Ver como [criar ou gerir uma conta de utilizador.](create-user-accounts-and-set-permissions.md)
 - Certifique-se de que os utilizadores da sua empresa associam as suas competências ou certificações à sua conta de utilizador do Partner Center. 
-   Antes de as suas competências ou certificações poderem aparecer no relatório de competências do Partner Center, os utilizadores precisam de se certificar de que [associaram a sua conta microsoft learning (MCP ID) ao Partner Center e à Partner University.](ms-learn-associate.md) Depois de o utilizador seguir estes passos, pode demorar entre 24 e 72 horas antes de as suas competências aparecerem no relatório de competências. Este conjunto de passos também deve ser preenchido por quaisquer novos utilizadores que tenham recentemente aderido à sua empresa.
+   Antes de as suas competências ou certificações poderem aparecer no relatório de competências do Partner Center, os utilizadores precisam de se certificar de que [associaram a sua conta microsoft Aprendizagem (MCP ID) ao Partner Center e à Partner University](ms-learn-associate.md). Depois de o utilizador seguir estes passos, pode demorar entre 24 e 72 horas antes de as suas competências aparecerem no relatório de competências. Este conjunto de passos também deve ser preenchido por quaisquer novos utilizadores que tenham recentemente aderido à sua empresa.
 
    > [!NOTE]
    > Os utilizadores devem utilizar o mesmo endereço de e-mail que usaram no MsCert, Microsoft Learn ou no portal Partner University quando fazem exames ou cursos. Se um utilizador tiver utilizado um endereço de e-mail diferente do endereço de e-mail associado na sua conta de utilizador do Partner Center, poderá ter de trabalhar com a sua administração de conta MPN ou com a administração global.
@@ -95,10 +95,10 @@ Se o utilizador tiver contas duplicadas, as competências necessárias podem ser
 
 ### <a name="why-do-i-see-an-error-message-when-i-try-to-download-the-skills-report"></a>Por que vejo uma mensagem de erro quando tento descarregar o relatório de habilidades?
 
-Quando tentar descarregar o relatório de habilidades, poderá ver a seguinte mensagem: *"Nenhum utilizadores encontrados com dados de habilidades. Verifique se os utilizadores associaram as suas contas de Learning ou Partner University aos seus perfis".*
+Quando tentar descarregar o relatório de habilidades, poderá ver a seguinte mensagem: *"Nenhum utilizadores encontrados com dados de habilidades. Verifique se os utilizadores associaram as suas contas Aprendizagem ou Partner University com os seus perfis".*
 
 Esta mensagem pode aparecer se a sua conta foi criada diretamente no Partner Center ou se nenhum dos utilizadores da sua empresa do PMC associou os seus MCPs em PMC antes de migrarem para o Partner Center. 
-[Verifique](ms-learn-associate.md) se os MCPs associados às contas da Learning ou Partner University dos seus utilizadores já foram associados às suas contas de utilizador no Partner Center.
+[Verifique](ms-learn-associate.md) se os MCPs associados às contas Aprendizagem ou Partner University dos seus utilizadores já foram associados às suas contas de utilizador no Partner Center.
 
 ### <a name="a-user-has-associated-their-skills-in-partner-center-but-i-dont-see-it-in-the-skills-report"></a>Um utilizador associou as suas habilidades no Partner Center, mas não o vejo no relatório de competências.
 
@@ -110,14 +110,14 @@ Se um utilizador tiver preenchido as suas competências mas não aparecer no rel
 
 - Passaram 72 horas desde que o utilizador completou as suas competências Após 72 horas, se os dados de competências ainda não refletirem a conclusão do utilizador da sua habilidade, o administrador de conta MPN ou o administrador parceiro mpn devem contactar o [Microsoft Partner Support](https://partner.microsoft.com/support). Antes de contactar o Microsoft Partner Support, esteja preparado para recolher e enviar as seguintes informações:
 
-- Uma cópia do **relatório exportado dos utilizadores** (ou uma imagem do relatório). Para aceder a este relatório, inscreva-se no Partner Center, selecione **Gestão de Utilizadores,** seguida **do relatório exporto dos utilizadores**. O relatório mostra quem tem acesso à Partner University ou quem associou a sua conta microsoft learning". Os utilizadores também podem ser capazes de fornecer uma imagem destas informações selecionando o **Meu Perfil** a partir do topo-direito do painel partner Center.
+- Uma cópia do **relatório exportado dos utilizadores** (ou uma imagem do relatório). Para aceder a este relatório, inscreva-se no Partner Center, selecione **Gestão de Utilizadores,** seguida **do relatório exporto dos utilizadores**. O relatório mostra quem tem acesso à Partner University ou quem associou a sua conta microsoft Aprendizagem". Os utilizadores também podem ser capazes de fornecer uma imagem destas informações selecionando o **Meu Perfil** a partir do topo-direito do painel partner Center.
 
 - Uma versão descarregada do mais recente relatório de competências, como descrito anteriormente neste artigo.
 
 - Prova de que o utilizador completou exames, certificações ou avaliações relevantes da Microsoft. Consulte os seguintes exemplos de prova.
 
    > [!NOTE]
-   > Atualmente, o Partner Center só reconhece a certificação de duas fontes, Microsoft Learning e Partner University. Qualquer outro certificado recebido de quaisquer outras fontes (como o OpenedX) não será considerado.
+   > Atualmente, o Partner Center só reconhece a certificação de duas fontes, a Microsoft Aprendizagem e a Partner University. Qualquer outro certificado recebido de quaisquer outras fontes (como o OpenedX) não será considerado.
 
    **Exemplo de prova #1 – Transcrição Oficial da Certificação da Microsoft**
 
