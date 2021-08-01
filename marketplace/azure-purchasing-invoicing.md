@@ -6,12 +6,12 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 06/22/2021
-ms.openlocfilehash: 0e79674825f8ab28fa4b0e68dd01c9c1b7e8c27a
-ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
+ms.openlocfilehash: 42e08be73fb6bd1b26e75f461ede51b1e18b909b
+ms.sourcegitcommit: b53616cd7bfeb68298dee69935a8007827b19d21
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/24/2021
-ms.locfileid: "112565190"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "115014705"
 ---
 # <a name="azure-marketplace-purchasing"></a>Compra do Azure Marketplace
 
@@ -19,7 +19,7 @@ O Azure Marketplace dispõe de inúmeras ferramentas e funcionalidades que simpl
 
 ## <a name="simplified-procurement"></a>Aquisição simplificada
 
-O Azure Marketplace ajuda a simplificar o processo de aprovisionamento através de diversas opções de compra. Se comprar produtos usando um cartão de crédito associado à sua conta Azure, todas as compras serão consolidadas numa única fatura e faturadas no cartão de crédito de eleição. Se for um grande cliente, pode comprar através de um Contrato Empresarial. Com uma EA, quaisquer compras de software são automaticamente incluídas na sua fatura Azure. A fatura irá incluir os custos de utilização do Azure em primeiro lugar, seguido dos custos do Azure Marketplace.
+O Azure Marketplace ajuda a simplificar o processo de aprovisionamento através de diversas opções de compra. Se comprar produtos usando um cartão de crédito associado à sua conta Azure, todas as compras serão consolidadas numa única fatura e faturadas no cartão de crédito de eleição. Se for um grande cliente, pode comprar com um Contrato Enterprise. Com uma EA, quaisquer compras de software são automaticamente incluídas na sua fatura Azure. A fatura irá incluir os custos de utilização do Azure em primeiro lugar, seguido dos custos do Azure Marketplace.
 
 Ao comprar através do Azure Marketplace, elimina-se a complexidade da gestão das relações e faturas individuais do fornecedor. Obtém uma única fatura mensal consolidada da Microsoft que inclui tanto as suas compras no Azure Marketplace como as suas taxas Azure.
 
@@ -68,17 +68,18 @@ Pode ver as suas cobranças e faturas do Azure Marketplace na ferramenta de aná
 
 A compra de uma oferta através do Azure Marketplace pode falhar por diferentes razões. A utilização da interface de linha de comando (CLI) para uma compra é mais provável que cause erros, uma vez que pode estar a tentar adquirir uma oferta que não esteja disponível ou visível no Azure Marketplace. Seguem-se os controlos que podem fazer com que uma compra falhe:
 
-1. A subscrição pertence a um Acordo de Empresa (EA) e à administração da EA desativada as compras do Azure Marketplace.
+1. A subscrição pertence a um Contrato Enterprise (EA) e ao administrador da EA desativado as compras do Azure Marketplace.
 1. O administrador da EA permitiu compras apenas para ofertas gratuitas e a oferta é uma oferta paga.
 1. A oferta não se encontra no mercado.
 1. O Fornecedor Independente de Software (ISV) deixou de vender a oferta, pelo menos na sua região.
 1. A subscrição que está a utilizar pertence a uma conta de faturação numa região onde a oferta não está disponível.
 1. A conta de subscrição/faturação não está associada a um instrumento de pagamento válido (como um cartão de crédito válido).
-1. A subscrição pertence a um Fornecedor de Solução Cloud (CSP) e o ISV recusou-se a vender através de um CSP.
+1. A subscrição pertence a um Fornecedor de Soluções em Nuvem (CSP) e o ISV recusou-se a vender através de um CSP.
 1. O Private Marketplace está habilitado para a subscrição e a oferta não está na lista de ofertas permitidas.
 1. A oferta é Privada/Pré-visualização para clientes específicos e a subscrição não está na lista de clientes autorizados.
 
-As ofertas de mercado de compra podem falhar se entrar em conflito com a Política Azure definida pelo administrador da Azure na sua organização. Por exemplo, não pode comprar o Microsoft.SaaS se não estiver na lista **permitida** da sua organização. Para mais informações, consulte [a documentação da Política Azure.](/azure/governance/policy/)
+> [!NOTE]
+> As ofertas de mercado de compra podem falhar se entrar em conflito com a Política Azure definida pelo administrador da Azure na sua organização. Por exemplo, não pode comprar o Microsoft.SaaS se não estiver na lista **permitida** da sua organização. Para mais informações, consulte [a documentação da Política Azure.](/azure/governance/policy/)
 
 ## <a name="next-steps"></a>Passos seguintes
 
