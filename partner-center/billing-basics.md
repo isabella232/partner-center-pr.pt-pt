@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7400aaa2208fa35ccc4efa439cd8d7ee597733b9
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 08afaa2153de21b3b89167e4c08eb9761e0e3a53
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114842750"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115101689"
 ---
 # <a name="billing-overview-for-csp-program-partners-working-in-partner-center"></a>Descrição geral da faturação para parceiros do programa CSP que trabalham no Centro de Parceiros 
 
@@ -47,7 +47,7 @@ Os tipos de faturação no Partner Center incluem **faturação baseada em licen
 
 **Faturação baseada em licenças e com base em uso**: Você será cobrado para produtos(s) na moeda do país ou região em que você está localizado. É cobrado o mesmo independentemente da localização do cliente a quem vendeu o produto.
 
-**Faturação única**: A partir de 28 de janeiro de 2021, os parceiros da região UE/EFTA e reino unido que têm novos clientes e clientes csp existentes que compram novas ofertas de comércio pela primeira vez cujos inquilinos foram criados antes de 11 de maio de 2020, serão cobrados para essas compras em moeda de localização parceira.  Os parceiros situados fora da região UE/EFTA e reino unido continuarão a ser faturados em moeda de localização de parceiros. Leia mais sobre [uma vez e recorrente.](azure-plan-billing.md) 
+**Faturação única**: A partir de 28 de janeiro de 2021, os parceiros da região UE/EFTA e reino unido que têm novos clientes e clientes csp existentes que compram novas ofertas de comércio pela primeira vez cujos inquilinos foram criados antes de 11 de maio de 2020, serão cobrados para essas compras em moeda de localização parceira. Os parceiros situados fora da região UE/EFTA e reino unido continuarão a ser faturados em moeda de localização de parceiros. Leia mais sobre [uma vez e recorrente.](azure-plan-billing.md) 
 
 ## <a name="invoices"></a>Faturas
 
@@ -55,7 +55,7 @@ A sua fatura é um resumo de todos os encargos relativos ao período de faturaç
 
 Para a faturação baseada na utilização e na licença, a fatura fica disponível no prazo de dois (2) dias da data de faturação selecionada no fuso horário UTC. Por exemplo, se tiver uma data de faturação de 12 de setembro, o processo de geração de faturas começará às 00:00 UTC no dia 13 e completará até às 00:00 UTC no dia 14. 
 
-Para a faturação única e recorrente, o período de faturação está alinhado com o mês de calendário e a fatura/ficheiros de reconciliação estarão disponíveis, o mais tardar, no 8.º dia de cada mês. Para mais informações leia [a faturação do Plano Azure.](azure-plan-billing.md) 
+Para a faturação única e recorrente, o período de faturação está alinhado com o mês de calendário e a fatura/ficheiros de reconciliação estarão disponíveis, o mais tardar, no 8.º dia de cada mês. Para mais informações leia [a faturação do plano Azure.](azure-plan-billing.md) 
 
 ## <a name="price-lists"></a>Listas de preços
 

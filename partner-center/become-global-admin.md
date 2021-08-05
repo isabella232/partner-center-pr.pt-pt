@@ -3,18 +3,18 @@ title: Tornar-se administrador global da empresa
 ms.topic: how-to
 ms.date: 12/03/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-enroll
+ms.subservice: partnercenter-account
 description: Para trabalhar no Partner Center, tem primeiro de verificar a propriedade do seu domínio. Aprenda a fazê-lo e como se tornar um administrador global que pode adicionar utilizadores.
 author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 01b8be1e02dcbc0a35f0cc24371c1a2819d4430f
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: d2888a8deffffa3b281ca088696184fdb52376be
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114842424"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115102323"
 ---
 # <a name="verify-your-domain-ownership-to-become-global-admin"></a>Verificar a propriedade do domínio para se tornar administrador global 
 

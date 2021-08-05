@@ -3,25 +3,32 @@ title: Anúncios do Centro de Parceiros
 description: 'Anúncios do Centro de Parceiros: Mantenha-se a par dos novos desenvolvimentos e alterações ao Centro de Parceiros, programas de parceiros e ofertas de produtos.'
 ms.topic: reference
 ms.service: partner-dashboard
-ms.subservice: partnercenter-action-center
+ms.subservice: partnercenter-announcements
 author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 07/23/2021
-ms.openlocfilehash: e77499aaf0b871080733303d3589bb6d1a0c20ad
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.date: 08/02/2021
+ms.openlocfilehash: cf03ec887e16f3e0d0b12e0e643d3fd437fe02da
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114841747"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115100495"
 ---
 # <a name="partner-center-announcements"></a>Anúncios do Centro de Parceiros
 
 Saiba mais sobre atualizações importantes do Centro de Parceiros. Estas informações são atualizadas frequentemente, pelo que visite-nos com alguma frequência!
 
-|**Categoria**|**Anúncios de julho de 2021**|**Anunciado**|
+|**Categoria**|**Anúncios de agosto de 2021**|**Anunciado**|
 |---------|:---------|:---------|
+|Ofertas/Mercados|[Próximas alterações às listas de preços do plano Azure para nova experiência de comércio](2021-august.md#6)| 4 de agosto |
+|Capacidades|[CSP para a Azure nova experiência de comércio expande-se para o Vaticano](2021-august.md#5)| 3 de agosto |
+|Capacidades|[Acesso programático a dados de análise de Informações parceiros](2021-august.md#4)| 3 de agosto |
+|Ofertas/Mercados|[Atestado de oferta necessário para algumas Windows 365 ofertas](2021-august.md#3)| 1 de agosto |
+|Capacidades|[Windows 365 já disponível para compra: Windows híbridos para um mundo híbrido](2021-august.md#2)| 1 de agosto |
+|Capacidades|[Veja os lançamentos e ofertas deste mês](2021-august.md#1)| 1 de agosto |
+|**Categoria**|**Anúncios de julho de 2021**|**Anunciado**|
 |Capacidades|[Nova experiência de comércio em CSP para a Azure expandindo-se para Nuvem da Comunidade Governamental (GCC)](2021-july.md#16)| 26 de julho |
 |Capacidades|[Reforço da ferramenta para transferência de assinaturas Azure entre parceiros no programa Fornecedor de Soluções em Nuvem (CSP)](2021-july.md#15)| 21 de julho |
 |Capacidades|[Alterações ao Azure oferecem disponibilidade relacionada com a nova experiência de comércio na CSP para a Azure](2021-july.md#14)| 21 de julho |

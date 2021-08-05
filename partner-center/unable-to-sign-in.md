@@ -3,18 +3,18 @@ title: Não pode entrar no Partner Center
 ms.topic: troubleshooting
 ms.date: 04/08/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-enroll
+ms.subservice: partnercenter-account
 description: Resolução de problemas possíveis e aprender sobre soluções para quando não pode iniciar sessão no Partner Center - saiba mais sobre a reposição de palavras-passe, verificação de funções e verificação de credenciais.
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d0a4583aa7b3ec6f51066dfa2c3dedcbcc18eb35
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: d084cbf4def33074cc0ca1aae556004cf67bf555
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114836647"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115100151"
 ---
 # <a name="troubleshoot-sign-in-issues-for-partner-center"></a>Problemas de resolução de problemas para o Partner Center
 

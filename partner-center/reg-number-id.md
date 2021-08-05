@@ -3,18 +3,18 @@ title: Informação do número de registo
 ms.topic: article
 ms.date: 05/10/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-enroll
+ms.subservice: partnercenter-account
 description: Saiba quais são os números de identificação de inscrição e se são obrigatórios para o seu país.
 author: ParthP
 ms.author: ParthP
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2f9a00d61f0ca2b3b5726b9bc48c739361f488f2
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 20a48961d7b513d4242ad2bb5e338b824fa151b0
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114841305"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115102357"
 ---
 # <a name="registration-id-number-information"></a>Informação do número de registo
 

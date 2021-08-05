@@ -9,12 +9,12 @@ author: amitravat
 ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: aced617bbe46465d9a82478a41b2f1c4a05309be
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 23ca72fada539b5036dfd6cf0ac04a5c18b5d96d
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114841424"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115100185"
 ---
 # <a name="give-customers-permission-in-partner-center-to-buy-their-own-products-or-services"></a>Dê permissão aos clientes no Partner Center para comprarem os seus próprios produtos ou serviços
 
@@ -24,7 +24,7 @@ Este artigo mostra como um parceiro no programa Fornecedor de Soluções em Nuve
 
 Os parceiros do programa CSP usam frequentemente o Partner Center e o seu mercado comercial para comprar soluções e serviços para os seus clientes. Os parceiros permitem então que alguns clientes prestem estes serviços diretamente a partir do portal Azure.
 
-Eis um exemplo. Digamos que compre uma assinatura do Plano Azure para um cliente no Partner Center. Em seguida, decide adicionar outros recursos ou serviços a essa subscrição em nome do cliente. Neste caso, poderá adicionar reservas Azure à subscrição do cliente (tais como, adicionar casos de máquinas virtuais e reservados). Poderá então permitir que o cliente adida ainda mais os recursos de reserva Azure no portal Azure.
+Eis um exemplo. Digamos que compre uma subscrição do plano Azure para um cliente no Partner Center. Em seguida, decide adicionar outros recursos ou serviços a essa subscrição em nome do cliente. Neste caso, poderá adicionar reservas Azure à subscrição do cliente (tais como, adicionar casos de máquinas virtuais e reservados). Poderá então permitir que o cliente adida ainda mais os recursos de reserva Azure no portal Azure.
 
 Agora, com a funcionalidade **de permissões do Cliente,** você dá aos clientes mais opções de self-service com recursos Azure. Ao ligar permissões para o cliente, permite que os clientes comprem os seus próprios recursos (tais como, comprar as suas próprias reservas Azure).  
 
@@ -66,7 +66,7 @@ Agora tem a opção de comprar reservas da Azure em nome dos seus clientes, como
 
 ### <a name="to-enable-customers-to-buy-their-own-azure-reservations"></a>Para permitir que os clientes comprem as suas próprias reservas Azure
 
-1. Verifique se o cliente tem uma subscrição Azure Plan ou Azure Global que adquiriu em seu nome.
+1. Verifique se o cliente tem um plano Azure existente ou subscrição Azure Global que adquiriu em seu nome.
 
 2. Verifique se o cliente foi atribuído à função **Proprietário** para esta subscrição.
 
@@ -76,11 +76,11 @@ Cada passo aparece abaixo.
 
 ### <a name="verify-the-customer-has-an-existing-azure-subscription"></a>Verifique se o cliente tem uma subscrição Azure existente
 
-Antes de dar permissão aos clientes para comprarem as suas próprias reservas Azure, tem de verificar se o cliente tem uma subscrição Azure Plan ou Azure Global existente. Se o cliente não apresentar nenhuma subscrição atual do Azure no Partner Center, tem de comprar uma subscrição para eles antes de ligar as permissões do cliente.
+Antes de dar permissão aos clientes para comprarem as suas próprias reservas Azure, tem de verificar se o cliente tem um plano Azure existente ou uma subscrição da Azure Global. Se o cliente não apresentar nenhuma subscrição atual do Azure no Partner Center, tem de comprar uma subscrição para eles antes de ligar as permissões do cliente.
 
-- Para ver se um cliente já tem uma subscrição Azure, inscreva-se no painel partner center e, em seguida, selecione **CSP** seguido por **Clientes**. Selecione o cliente específico da lista. Em seguida, **selecione Subscrições** e procure quaisquer subscrições baseadas em uso para O Plano Azure ou Azure Global.
+- Para ver se um cliente já tem uma subscrição Azure, inscreva-se no painel partner center e, em seguida, selecione **CSP** seguido por **Clientes**. Selecione o cliente específico da lista. Em seguida, **selecione Subscrições** e procure quaisquer subscrições baseadas em uso para o plano Azure ou Azure Global.
 
-- Se um cliente não tiver uma subscrição Azure existente, pode comprar uma subscrição para eles. Ver [Comprar o Plano Azure](purchase-azure-plan.md).
+- Se um cliente não tiver uma subscrição Azure existente, pode comprar uma subscrição para eles. Ver [Comprar o plano Azure](purchase-azure-plan.md).
 
 ### <a name="verify-the-customer-has-been-assigned-the-correct-role-in-azure"></a>Verifique se o cliente foi atribuído o papel correto no Azure
 

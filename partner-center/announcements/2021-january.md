@@ -3,18 +3,18 @@ title: Anúncios de janeiro de 2021
 description: Anúncios de janeiro de 2021 para o Microsoft Partner Center, incluindo novas capacidades, promoções, ofertas, mercados ou alterações às ofertas existentes.
 ms.topic: article
 ms.service: partner-dashboard
-ms.subservice: partnercenter-action-center
+ms.subservice: partnercenter-announcements
 author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 07/02/2021
-ms.openlocfilehash: 4a59d3cdddd01dcd6fac105cbbb69c079bbd389d
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 2920de80d9097fac04cbc344fce82a262a099b7d
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114838737"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115102512"
 ---
 # <a name="january-2021-announcements"></a>Anúncios de janeiro de 2021
 
@@ -35,11 +35,11 @@ _____________
 
 ### <a name="impacted-audience"></a>Audiência impactada
 
-- Todos os parceiros que transfiram através do programa Fornecedor de Soluções em Nuvem na UE/EFTA & Reino Unido
+- Todos os parceiros que transfiram através do programa Cloud Solution Provider na UE/EFTA & Reino Unido
 
 ### <a name="details"></a>Detalhes
 
-Na União Europeia (UE)/European Free Trade Association (EFTA) e no Reino Unido (Reino Unido), todas as novas ofertas de comércio no programa Fornecedor de Soluções em Nuvem utilizarão o local de faturação dos parceiros em vez da localização da faturação dos clientes. Como tal, os parceiros serão faturados pela Microsoft com base na sua moeda de localização, e não na moeda de localização dos seus clientes. Estas alterações serão feitas em duas fases:
+Na União Europeia (UE)/European Free Trade Association (EFTA) e No Reino Unido (Reino Unido), todas as novas ofertas de comércio no programa Cloud Solution Provider utilizarão o local de faturação de parceiros em vez da localização da faturação dos clientes. Como tal, os parceiros serão faturados pela Microsoft com base na sua moeda de localização, e não na moeda de localização dos seus clientes. Estas alterações serão feitas em duas fases:
 
 **Fase 1:**
 
@@ -61,7 +61,7 @@ Após a Fase 1 e durante o ano civil de 2021, a Microsoft irá transitar a fatur
 Após a Fase 2, os parceiros da UE/EFTA & Reino Unido serão faturados em moeda de localização de parceiros para todos os clientes e todas as compras da CSP.
 
 >[!NOTE]
->Esta alteração só terá impacto na moeda de faturação dos parceiros e não nos preços das novas ofertas de comércio na CSP. As novas ofertas de comércio em campo para esta mudança são: subscrições Azure que fazem parte de um plano Azure, reservas Azure, subscrições de servidores, software perpétuo e compras de marketplace comercial da Microsoft no programa Fornecedor de Soluções em Nuvem.
+>Esta alteração só terá impacto na moeda de faturação dos parceiros e não nos preços das novas ofertas de comércio na CSP. As novas ofertas de comércio em campo para esta mudança são: subscrições Azure que fazem parte de um plano Azure, reservas Azure, subscrições de servidores, software perpétuo e compras de marketplace comercial da Microsoft no programa Cloud Solution Provider.
 
 ### <a name="partner-benefits"></a>Benefícios do parceiro
 
@@ -89,7 +89,7 @@ Para quaisquer questões relacionadas com este [suporte do Centro de Parceiros](
     -    Esclarecendo que, embora o Reino Unido não esteja incluído na UE/EFTA, eles fazem parte da [região e do mercado da Microsoft Europeia](../regional-authorization-overview.md) e serão afetados
 
 ________________
-## <a name="changes-to-the-cloud-solution-provider-csp-customer-onboarding-requirements"></a><a name="14"></a>Alterações aos requisitos de embarque do cliente Fornecedor de Soluções em Nuvem (CSP)
+## <a name="changes-to-the-cloud-solution-provider-csp-customer-onboarding-requirements"></a><a name="14"></a> Alterações aos requisitos de embarque do fornecedor de solução cloud (CSP)
 
 ### <a name="categories"></a>Categorias
 
@@ -251,7 +251,7 @@ A nova experiência de comércio para a Azure no programa Fornecedor de Soluçõ
 
 A nova experiência de comércio proporciona os seguintes benefícios:
 
-- Simplifica o processo de compra do Azure com o Plano Azure.
+- Simplifica o processo de compra do Azure com o plano Azure.
 - Cria um melhor alinhamento de preços através dos canais. Com base no feedback do cliente e do parceiro, a nova experiência Azure no programa Fornecedor de Soluções em Nuvem utilizará uma única lista de preços, em USD, proporcionando aos clientes e parceiros preços consistentes à escala global.
 - Reduz os obstáculos à aquisição de clientes fornecendo-lhe ferramentas que incorporam a governação adequada, a experiência do cliente e as políticas para movê-los para a nova experiência Azure no programa Fornecedor de Soluções em Nuvem.
 - Permite aos parceiros gerir os seus clientes de forma mais eficiente, alavancando capacidades como o Azure Lighthouse e a Azure Cost Management. 
@@ -275,12 +275,12 @@ Haverá três fases de alteração à oferta anterior do Azure. Hoje, estamos a 
 
 **Fase 1 - Início a 21 de julho de 2021**
 
-Na fase 1, todo o novo negócio de programas Azure Fornecedor de Soluções em Nuvem estará na nova oferta do Plano Azure. Aplicar-se-ão as seguintes orientações:
+Na fase 1, todo o novo negócio de programas Azure Fornecedor de Soluções em Nuvem estará na nova oferta do plano Azure. Aplicar-se-ão as seguintes orientações:
 
 - Para todas as relações de revendedor existentes entre parceiros e clientes no programa Fornecedor de Soluções em Nuvem, se o cliente já tiver adquirido a oferta anterior da Azure, o parceiro pode continuar a negociar, e o cliente pode continuar a adquirir a oferta anterior da Azure a esse parceiro.
 - A oferta anterior do Azure deixará de estar disponível para novos parceiros líquidos que transacionem na CSP
 - A oferta anterior da Azure deixará de estar disponível para os novos clientes líquidos que adquirem através de um parceiro na CSP
-- Para todas as novas relações de revendedor ou novas aquisições de clientes, os parceiros só podem transacionar a nova oferta Azure (Plano Azure)
+- Para todas as novas relações de revendedor ou novas aquisições de clientes, os parceiros só podem transacionar a nova oferta Azure (plano Azure)
 - Para todas as relações de revendedor existentes entre parceiros e clientes, se o cliente nunca ter comprado a Azure antes, o parceiro só pode transacionar, e o cliente só pode adquirir a nova oferta da Azure a esse parceiro.
 
 **Fase 2 - Durante o ano civil de 2022**

@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6af1e55ffdd1b807c71914ba3247ecc2d189c6ad
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: e897aad48dd04489e340952ba4cd4e27f7e2a9de
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114839945"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115101321"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>Como o crédito de parceiro ganho é calculado e pago
 
@@ -39,7 +39,7 @@ Para receber o Crédito Adquirido do Parceiro (PEC), aplicam-se os seguintes req
 - O mpn ID sócio deve pertencer ao mesmo v-org que o comprador MPN ID ou o Sócio da Record (POR) MPN ID. Para obter mais informações, veja [Ligar o seu ID de parceiro para controlar o impacto nos recursos delegados](/azure/lighthouse/how-to/partner-earned-credit).
 - O PEC é obtido a nível de recursos Azure, grupo de recursos ou subscrição. Se um parceiro tiver acesso válido a nível de subscrição ou grupo de recursos, cada recurso que se ause até à entidade superior ganhará PEC.
 - A PEC não se aplica aos seguintes serviços:
-    - Reservas do Plano Azure
+    - Reservas do plano Azure
     - Produtos de terceiros identificados como terceiros na coluna Tags do preço de consumo do plano Azure
     - Produtos na tabela de preços do Mercado
     - [Máquinas virtuais Azure Spot](https://partner.microsoft.com/resources/collection/azure-spot-in-csp#/)

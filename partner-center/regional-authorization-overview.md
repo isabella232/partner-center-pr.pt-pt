@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b05fb7880f43867c151bd62bd1d94c2f19add3a5
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 33b60bd301a1493e7e722e26b3ff16128f4e9888
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114842082"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115100451"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies-where-you-can-sell-csp-offers"></a>Fornecedor de Soluções em Nuvem programa mercados regionais e moedas onde pode vender ofertas de CSP
 
@@ -28,7 +28,7 @@ Antes de poder encomendar ofertas de CSP em nome de um cliente, o cliente deve a
 
 ## <a name="azure-plan-for-csp-region-availability"></a>Plano Azure para a disponibilidade da região da CSP  
 
-O Plano Azure para a CSP está disponível em menos regiões do que o Azure Software para a CSP. Para obter as últimas atualizações sobre a disponibilidade regional para o Plano Azure, consulte [o plano Azure.](purchase-azure-plan.md)
+O plano Azure para a CSP está disponível em menos regiões do que o Azure Software para a CSP. Para obter as últimas atualizações sobre a disponibilidade regional para o plano Azure, consulte [o plano Azure.](purchase-azure-plan.md)
 
 >[!IMPORTANT]
 > Tem de confirmar que um cliente aceitou o Acordo de Cliente da Microsoft fornecendo informações sobre a pessoa que o assinou. Consulte [a aceitação de um cliente do Microsoft Customer Agreement](./confirm-customer-agreement.md) para obter mais detalhes.
@@ -174,6 +174,14 @@ Se a localização da sua empresa estiver na lista abaixo, pode vender ofertas d
 |  Canadá         |   CAD    |
 |  São Pedro e Miquelão|  CAD   |
 |
+
+## <a name="china-region-and-market"></a>Região e mercado da China
+
+Se a localização da sua empresa for a China, pode vender ofertas de CSP a clientes na China.
+
+|  País/Região | Moeda |
+|  -------------- |:--------:|
+|  China        |   CNY    |
 
 ## <a name="europe-region-and-market"></a>Região e mercado da Europa
 

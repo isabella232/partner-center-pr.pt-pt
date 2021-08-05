@@ -9,12 +9,12 @@ ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
 ms.date: 08/06/2020
-ms.openlocfilehash: 911c7271d852bef040dc7cc8f74eff2c8b865125
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 112296baffe38b81a1a0516e62fa31525d1e3b3d
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114838364"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115102426"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>Compre reservas Microsoft Azure em nome dos seus clientes no Partner Center
 
@@ -29,7 +29,7 @@ Este artigo explica como comprar ou comprar reservas da Azure em nome dos seus c
 
 Reveja as informações importantes abaixo antes de comprar reservas da Azure em nome dos seus clientes. (Deseja que os clientes possam comprar as suas próprias reservas Azure a partir de uma assinatura Azure anterior que adquiriu para eles? Consulte [a permissão dos clientes para comprarem as suas próprias reservas Azure](give-customers-permission.md#give-customers-permission-to-buy-their-own-azure-reservations).)
 
-- Se e quando o seu cliente assinar o novo Acordo de Cliente da Microsoft (ver [Confirmar a aceitação do cliente do Microsoft Customer Agreement),](confirm-customer-agreement.md)deve adquirir reservas Azure ao abrigo do plano Azure. Para mais informações, leia [o Plano Azure de Compra.](purchase-azure-plan.md)
+- Se e quando o seu cliente assinar o novo Acordo de Cliente da Microsoft (ver [Confirmar a aceitação do cliente do Microsoft Customer Agreement),](confirm-customer-agreement.md)deve adquirir reservas Azure ao abrigo do plano Azure. Para mais informações, leia [o plano Buy Azure](purchase-azure-plan.md).
 
 - Os clientes já devem ter uma subscrição ativa do Azure antes de poder comprar reservas em seu nome
   

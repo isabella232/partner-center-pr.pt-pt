@@ -1,4 +1,7 @@
 # [Anúncios do Centro de Parceiros](index.md)
+# [agosto de 2021](2021-august.md)
+# [julho de 2021](2021-july.md)
+# [junho de 2021](2021-june.md)
 # [Maio de 2021](2021-may.md)
 # [abril de 2021](2021-april.md)
 # [março de 2021](2021-march.md)
@@ -11,5 +14,3 @@
 # [Agosto de 2020](2020-august.md)
 # [Julho de 2020](2020-july.md)
 # [Junho de 2020](2020-june.md)
-# [Maio de 2020](2020-may.md)
-# [Abril de 2020](2020-april.md)

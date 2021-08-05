@@ -3,18 +3,18 @@ title: Resolução de problemas configurando a sua conta Partner Center ou probl
 ms.topic: how-to
 ms.date: 08/18/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-enroll
+ms.subservice: partnercenter-account
 description: Problemas de resolução de problemas ao tentar matricular-se no Partner Center. Respostas abordam desafios com métodos de pagamento, esquecendo palavras-passe, e muito mais.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0d35930082b6bbbbceee26af83b563d70b638cef
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 08672379e300eccf18a0a1f0cfc1e41b4b7dbc91
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114840795"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115101992"
 ---
 # <a name="troubleshoot-account-setup-or-mpn-renewal-issues"></a>Configuração de conta de resolução de problemas ou problemas de renovação de MPN
 

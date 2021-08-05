@@ -2,19 +2,19 @@
 title: Ligue a sua conta de trabalho ao Centro de Parceiros
 ms.topic: article
 ms.service: partner-dashboard
-ms.subservice: partnercenter-enroll
+ms.subservice: partnercenter-account
 description: Crie uma conta de trabalho que ligue a sua empresa à sua conta Partner Center. Isto permite que os colaboradores da sua empresa acedam ao Partner Center.
 author: vinayks
 ms.author: vinayks
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
 ms.date: 6/17/2021
-ms.openlocfilehash: 04624db5201b3a0e57b74b43678f6f2cd134c5c9
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: c1f74e2977b110befd38c741259e84dd8bc9acb6
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114841696"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115100056"
 ---
 # <a name="create-a-work-account-that-links-your-company-to-your-partner-center-account"></a>Crie uma conta de trabalho que ligue a sua empresa à sua conta Partner Center
 

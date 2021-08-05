@@ -9,12 +9,12 @@ author: khpavan
 ms.author: sakhanda
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 08b5dc73868b061b7941e6862439e226c6bb9a7a
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 5ece8323ba8943ab7615b65fe02834db086b5eac
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114838432"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115102374"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>Nova experiência comercial no CSP – faturação do Azure 
 
@@ -115,7 +115,7 @@ Para aceder à fatura e ao ficheiro de reconciliação:
 4. Se o contador, ou quaisquer recursos que emitem esse contador, se qualificasse para **Partner a ganhar crédito pelos serviços geridos** durante uma parte do mês, o ficheiro de reconhecimento conterá duas linhas de faturação. Uma linha representará os dias em que o contador se qualificou e a segunda linha representará os dias em que o contador não se qualificou.
 
 >[!NOTE]
->Pode conciliar o seu consumo de Azure no seu ficheiro de reconhecimento de compra única. Para isso, vá ao seu arquivo de reconhecimento de utilização diária e procure a sua SubscriçãoID. Isto mostrará todos os custos associados ao seu ID do Plano Azure. O seu Azure SubscriptionID é apresentado como o EntitlementID.
+>Pode conciliar o seu consumo de Azure no seu ficheiro de reconhecimento de compra única. Para isso, vá ao seu arquivo de reconhecimento de utilização diária e procure a sua SubscriçãoID. Isto mostrará todos os custos associados ao seu ID do plano Azure. O seu Azure SubscriptionID é apresentado como o EntitlementID.
 
 ## <a name="read-the-daily-usage-file"></a>Leia o ficheiro de utilização diária
 

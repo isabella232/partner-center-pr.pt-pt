@@ -3,17 +3,17 @@ title: Registar as suas ofertas
 ms.topic: article
 ms.date: 06/29/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-referrals
 description: Quando registas um acordo que ganhaste no Partner Center, ajuda a Microsoft a proporcionar-te mais oportunidades no futuro.
 author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: medium
-ms.openlocfilehash: 1a3d83dbac20cbcb038345ba90ae1a4dc345c060
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 085e3418ee6689203dfb7be699acb9955e7ed7f3
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114842546"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115101621"
 ---
 # <a name="register-deals-youve-won-in-partner-center"></a>Registar ofertas que ganhou no Partner Center
 
@@ -81,9 +81,9 @@ Quando tiver concluído todas as secções da página, clique em **Registar**.
 - Se o negócio for um acordo de co-venda IP, você vai notar que o estado do negócio é "Submetido". A equipa de revisão de negócios da Microsoft Co-sell irá rever as informações que forneceu neste registo de registo de negócio. A equipa de revisão solicitará mais medidas consigo, se necessário, ou aprovará/rejeitará diretamente o negócio.
 - Se está a registar um negócio originário de uma oportunidade de Co-venda, e vê que foram criados dois registos de registo de negócios, significa que a solução no seu negócio é elegível tanto para a ISV Ligação como para a CO-venda IP. O registo de Ligação ISV será usado para faturação. O disco de co-venda IP será revisto pela equipa de validação de negócios de Co-venda.
 
-## <a name="simplified-deal-registration-for-commercial-marketplace-transactions"></a>Registo de transações simplificadas para transações de mercado comercial
+## <a name="simplified-deal-registration-for-commercial-marketplace-transactions"></a>Registo de transações simplificadas para transações comerciais no mercado
 
-Co-Sell ganha a transação através do [Mercado Comercial](https://docs.microsoft.com/azure/marketplace/) beneficiará de uma simplificação significativa do formulário de registo de negócio.  Além disso, as transações transacionadas através do Mercado Comercial não exigirão chamadas suplementares de revisão de negócios, poupando tempo e esforço operacional.
+Co-Sell ganha a transação através do [mercado comercial](/azure/marketplace/) beneficiará de uma simplificação significativa do formulário de registo de negócio.  Além disso, as transações transacionadas através do Mercado Comercial não exigirão chamadas suplementares de revisão de negócios, poupando tempo e esforço operacional.
 
 Só precisa de fornecer três informações:
 

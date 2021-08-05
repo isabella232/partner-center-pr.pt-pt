@@ -3,18 +3,18 @@ title: Encontre iD do inquilino, nome de domínio, identificação de objeto de 
 ms.topic: how-to
 ms.date: 11/06/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-enroll
+ms.subservice: partnercenter-account
 description: Saiba como encontrar IDs no portal Azure - iD de inquilino Azure, nome de domínio ou ID de objeto de utilizador específico. Algumas tarefas precisam desta informação.
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 2c313896419053627dd646783a1df2f1bf53753a
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: db730436e88118c24aa966c1023ffeeadd20548a
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114840540"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115100245"
 ---
 # <a name="locate-important-ids-for-a-user"></a>Localizar iDs importantes para um utilizador
 

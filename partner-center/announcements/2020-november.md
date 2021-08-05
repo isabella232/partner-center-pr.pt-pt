@@ -3,18 +3,18 @@ title: Anúncios de novembro de 2020
 description: Anúncios de novembro de 2020 para o Microsoft Partner Center, incluindo novas capacidades, promoções, ofertas, mercados ou alterações às ofertas existentes.
 ms.topic: article
 ms.service: partner-dashboard
-ms.subservice: partnercenter-action-center
+ms.subservice: partnercenter-announcements
 author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: aba4c07762dc533362e51bd5b67b225cbf702397
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 981ddf4511be5e23092dae72bdf6e3d93e850d58
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114838789"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115100538"
 ---
 # <a name="november-2020-announcements"></a>Anúncios de novembro de 2020
 
@@ -469,14 +469,14 @@ Com a oferta premium, os clientes têm acesso aos recém-lançados serviços Sal
 
    |****|**Salas Microsoft Teams Dispositivo standard USD15 por mês**|**Salas Microsoft Teams Premium dispositivo USD50 por mês**|
    |-------------------|:------|:------|
-   |Skype para Empresas|Sim| |
-   |Microsoft Stream|Sim|Sim|
-   |Sistema Telefónico|Sim|Sim|
-   |Conferência sonora|Sim|Sim|
-   |Microsoft Intune|Sim|Sim|
+   |Skype para Empresas|Yes| |
+   |Microsoft Stream|Yes|Yes|
+   |Sistema Telefónico|Yes|Yes|
+   |Conferência sonora|Yes|Yes|
+   |Microsoft Intune|Yes|Yes|
    | |Salas Microsoft Teams USD15 padrão por dispositivo por mês|Salas Microsoft Teams Premium USD50 por dispositivo por mês|
-   |Salas Microsoft Teams Serviços Geridos| |Sim|
-   |Disponibilidade mundial|Sim|Em mercados selecionados|
+   |Salas Microsoft Teams Serviços Geridos| |Yes|
+   |Disponibilidade mundial|Yes|Em mercados selecionados|
 
 #### <a name="microsoft-teams-rooms-managed-services"></a>Salas Microsoft Teams Serviços Geridos
 

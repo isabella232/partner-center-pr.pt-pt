@@ -3,18 +3,18 @@ title: Gerir a sua conta do Centro de Parceiros
 ms.topic: conceptual
 ms.date: 03/18/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-enroll
+ms.subservice: partnercenter-account
 description: Saiba como usar o Partner Center para gerir o perfil da sua empresa, informações bancárias e fiscais, funções, permissões e muito mais.
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bce76c9c2d44d00bd41eae7012113b104bd1aa05
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 2cfb8e05a9d09aa3b7214ac3c1024348348416d5
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114841458"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115101963"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Gerir a sua conta Partner Center - perfil da empresa, informações bancárias, funções, permissões e muito mais
 

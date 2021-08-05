@@ -3,18 +3,18 @@ title: Anúncios de março de 2020
 description: Anúncios de março de 2020 para o Microsoft Partner Center, como novas capacidades, promoções, ofertas, mercados ou alterações às ofertas existentes.
 ms.topic: article
 ms.service: partner-dashboard
-ms.subservice: partnercenter-action-center
+ms.subservice: partnercenter-announcements
 author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 07/10/2020
-ms.openlocfilehash: 6915852aa2a2469c9d6a517fce1251470e6aad15
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 13d60cddf2699ffa76c432adcba3c06387a37203
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114838806"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115100099"
 ---
 # <a name="march-2020-announcements"></a>Anúncios de março de 2020
 

@@ -3,18 +3,18 @@ title: Obrigando à autenticação de vários fatores (MFA) para o seu inquilino
 ms.topic: article
 ms.date: 10/29/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-enroll
+ms.subservice: partnercenter-account
 description: Saiba como mandatar o MFA para os inquilinos do seu parceiro ajudará a garantir o seu acesso aos recursos dos clientes. Inclui cenários de amostra.
 author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ba45c4c3d596c926bb6bfb8cf786e7e873c2a6c7
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: c29e59118f4b50cd25fbe0f1560519bb178768e2
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114836732"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115101261"
 ---
 # <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>Obrigando à autenticação de vários fatores (MFA) para o seu inquilino parceiro
 

@@ -1,7 +1,7 @@
 ---
 title: Preços e ofertas
 ms.topic: article
-ms.date: 01/07/2021
+ms.date: 07/30/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-pricing
 description: Consulte as listas de preços atuais para serviços baseados em licenças como Office 365, Microsoft Dynamics CRM e Suíte de Mobilidade Empresarial, e serviços baseados em uso como o Azure.
@@ -9,15 +9,14 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 87f3f287c02b6dfe4af3f70a0985e8290e76a4e3
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: d03300ec89a877af3e02b6bd6567f6b1a832a397
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114841084"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115101741"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Preços e ofertas para Office 365, Dynamics CRM, Suite de Mobilidade Empresarial, Azure, e muito mais
-
 
 **Funções adequadas**: Administração global | Administração de administração de utilizadores | Agente administrativo | | de administrador sócio da MPN Agente comercial | Administrador de faturação
 
@@ -133,6 +132,32 @@ O âmbito limite da oferta é registado como uma coluna na matriz da lista de of
 ### <a name="taxes-and-pricing"></a>Impostos e preços
 
 Todos os preços nas tabelas de preços do centro parceiro CSP são impostos inclusivos. Para mais informações no Documento Do Centro de [Parceiros, impostos e isenções fiscais.](tax-and-tax-exemptions.md)
+
+## <a name="offer-attestation"></a>Atestado de oferta
+
+Algumas ofertas exigem que o parceiro concorde antes de comprar. Este processo é chamado de atestado e a partir de 1 de agosto de 2021, as únicas ofertas que requerem atestado são Windows 365 ofertas de Negócios com Windows Hybrid Benefit. Os parceiros verão texto no ecrã de revisão ao comprar estas ofertas: "Entendo que cada pessoa que usa Windows 365 Negócios com Windows Hybrid Benefit também precisa de ter uma cópia válida de Windows 10/11 Pro instalada no seu dispositivo de trabalho primário." Os parceiros devem concordar com isso antes de comprar.
+
+O Attestation aplica-se tanto ao portal Partner Center como às APIs do Partner Center ao enviar encomendas e verificar carrinhos. Os parceiros podem determinar quais as ofertas que requerem atestado, verificando as AttestationProperties na [oferta](/partner-center/develop/offer-resources#attestationproperties) ou objetos [sku.](/partner-center/develop/product-resources#attestationproperties) Estas propriedades explicarão o tipo de atestado e se o atestado for aplicado para compras (enforceAttestation=True). Se necessário, os parceiros simplesmente definem o AttestationAccepted verdadeiro no carrinho ou [em linha de](/partner-center/develop/cart-resources)encomenda .
+
+Abaixo estão as ofertas que atualmente requerem atestado antes da compra.
+
+ | **Nome da oferta** |**ID da oferta** |
+|:------------------------------------------- |:--------------------------------------- |
+| Windows 365 Business 1 vCPU, 2 GB, 64 GB (com Windows Benefício Híbrido) | 5f3a7cd2-c76f-4b21-9ddc-f48f09869cf6 |
+| Windows 365 Business 2 vCPU, 4 GB, 128 GB (com Windows Benefício Híbrido) | 7612386a-d98d-4110-94b8-554bd612a5ab |
+| Windows 365 Business 2 vCPU, 4 GB, 128 GB (com Windows Benefício Híbrido) Ensaio | ab170880-1254-4534-abb9-fd0bf60cde71 |
+| Windows 365 Business 2 vCPU, 4 GB, 256 GB (com Windows Benefício Híbrido) | cc624387-162c-4f31-9d6e-252d39d5324b |
+| Windows 365 Business 2 vCPU, 4 GB, 64 GB (com Windows Benefício Híbrido) | f9777f60-19ae-4bd2-b881-6dc674564a2e |
+| Windows 365 Business 2 vCPU, 8 GB, 128 GB (com Windows Benefício Híbrido) | 39daa752-18b7-4918-b4eb-cf27cf617ee2 |
+| Windows 365 Business 2 vCPU, 8 GB, 128 GB (com Windows Benefício Híbrido) Ensaio | d5623401-b8e0-429f-86df-29b6efdf4d95 |
+| Windows 365 Business 2 vCPU, 8 GB, 256 GB (com Windows Benefício Híbrido) | 8fe4271f-c761-45f8-8261-5ab575195152 |
+| Windows 365 Business 4 vCPU, 16 GB, 128 GB (com Windows Benefício Híbrido) | 037cff0f-c231-4cce-a7ef-5324c75ba9a |
+| Windows 365 Business 4 vCPU, 16 GB, 128 GB (com Windows Benefício Híbrido) Ensaio | 46448c4c-8b12-4ea1-9be7-76b35d69bcf5 |
+| Windows 365 Business 4 vCPU, 16 GB, 256 GB (com Windows Benefício Híbrido) | 977318cf-57a5-4c3f-a8b6-aa58853dd2e9 |
+| Windows 365 Business 4 vCPU, 16 GB, 512 GB (com Windows Benefício Híbrido) | 1a3bdfb8-fb09-4331-8303-2c07e895c6d9 |
+| Windows 365 Business 8 vCPU, 32 GB, 128 GB (com Windows Benefício Híbrido) | 1b96db48-9c02-4c95-8c0b-98e4e6aa187c |
+| Windows 365 Business 8 vCPU, 32 GB, 256 GB (com Windows Benefício Híbrido) | 3ff72e53-c37f-41d5-b932-793cb39c837b |
+| Windows 365 Business 8 vCPU, 32 GB, 512 GB (com Windows Benefício Híbrido) | aca639ae-ae81-4298-a76a-094b6880913b |
 
 ## <a name="multi-year-term-offers"></a>Ofertas de vários anos
 

@@ -8,12 +8,12 @@ ms.subservice: partnercenter-billing
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
-ms.openlocfilehash: 828e1e380db5d8240d00450b53b0906410a3ac16
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: d5d404519c107a3e1f0e926451eef4935c993fbd
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114846065"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115100710"
 ---
 # <a name="csp-one-time-purchase-reconciliation-file-fields"></a>CSP uma vez comprar campos de arquivos de reconciliação
 
@@ -74,7 +74,7 @@ Para obter mais informações sobre ficheiros de reconciliação, consulte [util
 | PromoçãoID | O identificador usa para recolher a informação da promoção. | *78bcf906-b945-4210-8818-cfb93caf12a1* |
 
 >[!NOTE]
->Pode conciliar o seu consumo de Azure no seu ficheiro de reconhecimento de compra única. Para isso, vá ao seu arquivo de reconhecimento de utilização diária e procure a sua SubscriçãoID. Isto mostrará todos os custos associados ao seu ID do Plano Azure. O seu Azure SubscriptionID é apresentado como o EntitlementID.
+>Pode conciliar o seu consumo de Azure no seu ficheiro de reconhecimento de compra única. Para isso, vá ao seu arquivo de reconhecimento de utilização diária e procure a sua SubscriçãoID. Isto mostrará todos os custos associados ao seu ID do plano Azure. O seu Azure SubscriptionID é apresentado como o EntitlementID.
 >
 
 ## <a name="how-to-connect-the-base-subscription-with-the-upgraded-subscription"></a>Como ligar a subscrição base com a subscrição atualizada?

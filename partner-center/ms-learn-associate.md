@@ -1,7 +1,7 @@
 ---
 title: Link Microsoft Learn MCP ID para conta Partner Center
 ms.topic: how-to
-ms.date: 01/29/2021
+ms.date: 08/03/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-membership
 description: Aprenda a associar o seu ID MCP à sua conta Partner Center para que a sua empresa possa ver os caminhos de treino e aprendizagem que tomou em relação às competências.
@@ -9,12 +9,12 @@ author: kbangalore
 ms.author: kiranban
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 18ea02feb3cc9c3da269ff72ab043aecd24b1e32
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: a707c1b9c238063704d87b3c5542a11412985267
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114836936"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115101595"
 ---
 # <a name="link-or-unlink-a-microsoft-certification-profile-id-mcid-to-a-microsoft-partner-network-mpn-account"></a>Ligue ou desvincula um ID de perfil de certificação da Microsoft (MCID) a uma conta da Microsoft Partner Network (MPN)
 
@@ -31,7 +31,7 @@ Use o procedimento abaixo para ter acesso à Partner University.
 
 1. Inicie sessão no [dashboard do Centro de Parceiros](https://partner.microsoft.com/dashboard/).
 2. Selecione o ícone azul **My Profile** no canto superior direito
-3. No campo **Aprendizagem,** selecione **Get Partner University Access**. Tem de introduzir as credenciais de conta da Partner University (não a sua conta de centro de parceiros) A sua conta de universidade partner estará agora associada à sua conta de utilizador do Partner Center. As suas avaliações serão refletidas no relatório de Competências do Utilizador do Centro de Parceiros dentro de 72 horas. As avaliações recentemente aprovadas podem demorar 7 a 10 dias a refletir no relatório.
+3. No campo **Aprendizagem,** selecione **Get Partner University Access**. Tem de introduzir as credenciais de conta da Partner University (não a sua conta de centro de parceiros) A sua conta de universidade partner estará agora associada à sua conta de utilizador do Partner Center. As suas avaliações serão refletidas no relatório de Competências do Utilizador do Centro de Parceiros dentro de 72 horas.
 4. Para remover a associação, selecione **Remover o acesso**.
 
 ## <a name="associate-a-microsoft-learning-account"></a>Associar uma conta microsoft Aprendizagem

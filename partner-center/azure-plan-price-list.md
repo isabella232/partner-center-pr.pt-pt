@@ -9,12 +9,12 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 68e2c6310a2e6e86daaa8ad5b579cef9eede7573
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: e4adc04f0d8b27f9cd53bbd678d1264b29b86b54
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114838398"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115101304"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Lista de preços da nova experiência comercial no CSP para Azure
 
@@ -48,7 +48,7 @@ Se se matriculou *em ou depois de* 21 de julho de 2021
 
 - Os preços do plano Azure estarão disponíveis a partir da página **de Preços e ofertas** no Partner Center, em **Sell.**
 
-- As exportações estarão disponíveis para os serviços de consumo do Plano Azure, reservas Azure e tarifas FX.
+- As exportações estarão disponíveis para os serviços de consumo do plano Azure, reservas Azure e taxas DE FX.
 
 - As opções de exportação incluem:
 

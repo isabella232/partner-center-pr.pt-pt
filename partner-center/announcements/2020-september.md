@@ -3,18 +3,18 @@ title: Anúncios de setembro de 2020
 description: Anúncios de setembro de 2020 para o Microsoft Partner Center, como novas capacidades, promoções, ofertas, mercados ou alterações às ofertas existentes.
 ms.topic: article
 ms.service: partner-dashboard
-ms.subservice: partnercenter-action-center
+ms.subservice: partnercenter-announcements
 author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 03/08/2021
-ms.openlocfilehash: cccbedfc5e45ca6cf0e78db9c40dbcba2c2fdca2
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 51ef59c21322ff64b417163a8a4a4262c80894bd
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114838772"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115102340"
 ---
 # <a name="september-2020-announcements"></a>Anúncios de setembro de 2020
 

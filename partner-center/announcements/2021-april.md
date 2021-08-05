@@ -3,7 +3,7 @@ title: Anúncios de abril de 2021
 description: Anúncios de abril de 2021 para o Microsoft Partner Center, incluindo novas capacidades, promoções, ofertas, mercados ou alterações às ofertas existentes.
 ms.topic: article
 ms.service: partner-dashboard
-ms.subservice: partnercenter-action-center
+ms.subservice: partnercenter-announcements
 author: brentserbus
 ms.author: brserbus
 ms.custom:
@@ -11,12 +11,12 @@ ms.custom:
 - references_regions
 ms.localizationpriority: high
 ms.date: 04/29/2021
-ms.openlocfilehash: 31f6fadc0eb25b899bc2dee3a0475daf17c54c2c
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 0756a67092cad6fc7750931a5a5f85f61ea7b56b
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114841764"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115102495"
 ---
 # <a name="april-2021-announcements"></a>Anúncios de abril de 2021
 

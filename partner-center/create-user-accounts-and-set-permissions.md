@@ -3,18 +3,18 @@ title: Criar contas de utilizador e atribuir funções
 description: Todos os empregados devem ter uma função antes de poderem aceder ao Partner Center. Saiba como criar contas de utilizador, atribuir funções e definir permissões.
 ms.topic: how-to
 ms.service: partner-dashboard
-ms.subservice: partnercenter-enroll
+ms.subservice: partnercenter-account
 ms.custom: contperf-fy21q2
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.date: 10/12/2020
-ms.openlocfilehash: 940ad64dff2285ffc302902a4e3b6c21ef29395c
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 71a330356b6c4b3792086f1bc2823e0e067e04ae
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114837990"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115101278"
 ---
 # <a name="create-user-accounts"></a>Criar contas de utilizador  
 

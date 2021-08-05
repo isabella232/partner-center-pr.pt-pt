@@ -3,18 +3,18 @@ title: Adicionar inquilinos à conta do Centro de Parceiros
 ms.topic: article
 ms.date: 01/11/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-enroll
+ms.subservice: partnercenter-account
 description: Saiba como adicionar, consolidar ou gerir vários inquilinos AZure AD na sua conta partner Center, e saiba por que quer fazê-lo.
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3917d431cb57a8b7555079e063726da3b1c60fab
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 2bb4507fd7e5f60584c8fca99256c964a7521dc8
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114836851"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115100693"
 ---
 # <a name="add-and-manage-multiple-tenants-in-your-partner-center-account"></a>Adicione e gere vários inquilinos na sua conta Partner Center
 

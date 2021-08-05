@@ -3,18 +3,18 @@ title: Anúncios de fevereiro de 2020
 description: Anúncios de fevereiro de 2020 para o Microsoft Partner Center, como novas capacidades, promoções, ofertas, mercados ou alterações às ofertas existentes.
 ms.topic: article
 ms.service: partner-dashboard
-ms.subservice: partnercenter-action-center
+ms.subservice: partnercenter-announcements
 author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/01/2020
-ms.openlocfilehash: 59884a0bcf25af224bb37035625a608737118ec7
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 7aa8daea4ac33a781ebd36673f7863fb0950abef
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114838993"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115100640"
 ---
 # <a name="february-2020-announcements"></a>Anúncios de fevereiro de 2020
 

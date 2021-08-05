@@ -3,17 +3,17 @@ title: Unir a sua conta de parceiro com outra conta de parceiro
 description: Saiba como fundir a sua conta de parceiro com outra conta de parceiro no Partner Center - para empresas que são parceiros ativos da Microsoft no Partner Center.
 ms.topic: article
 ms.service: partner-dashboard
-ms.subservice: partnercenter-enroll
+ms.subservice: partnercenter-account
 author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: seodec18
 ms.date: 06/12/2020
-ms.openlocfilehash: f7019f6288b5705430ef3c4f24a1cab3dbd05957
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: ace5ad2dc75600f9085af3d0d7fcfa1036c2da6d
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114846133"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115102100"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>Unir a sua conta de parceiro com outra conta de parceiro
 

@@ -1,7 +1,7 @@
 ---
 title: Verifique o perfil da empresa
 ms.service: partner-dashboard
-ms.subservice: partnercenter-enroll
+ms.subservice: partnercenter-account
 description: Saiba como verificar os detalhes da sua empresa, como contacto primário, endereço e informações do programa. Também pode atualizar os seus endereços legais e de faturação.
 author: parthpandyaMSFT
 ms.author: parthp
@@ -9,12 +9,12 @@ ms.topic: how-to
 ms.date: 04/12/2021
 ms.localizationpriority: medium
 ms.custom: contperf-fy21q4
-ms.openlocfilehash: 5b45b6705effae073fd7c41397b0fa020b830cf7
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 478bcba56e1763cc8a69b98bede0dc63c7a1cdad
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114845844"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115102031"
 ---
 # <a name="verify-or-update-your-company-profile-information"></a>Verificar ou atualizar as informações do perfil da empresa 
 
