@@ -10,12 +10,12 @@ author: v-sumukh
 ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ccabcb051feb3d0929afb7e0ae23ceb6ce208c37
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: e03002f68f18edd21055e77b5009b58ac4bdc581369cb352036f78e082b6a60c
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114842988"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115678259"
 ---
 # <a name="faqs-for-the-partner-center-analytics-app-for-power-bi"></a>Perguntas frequentes para o aplicação Análise do Centro de Parceiros para Power BI
 

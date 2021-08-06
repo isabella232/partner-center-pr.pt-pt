@@ -8,12 +8,12 @@ description: Utilize esta API para obter toda a identificação de relatório di
 author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: dc0e3925aeb07adc0e2b38af2913c63d3183941e
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 9c6930d8be430f6a9219e7b3d11b2e64ed2af5253b81581581ad6254a2a1d8d3
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114841356"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115697147"
 ---
 # <a name="get-report-api"></a>Obtenha relatório API
 
@@ -28,7 +28,7 @@ Esta API recebe todos os relatórios que foram agendados.
 
 **Cabeçalho de pedido**
 
-|    Cabeçalho    |    Tipo    |    Descrição    |
+|    Cabeçalho    |    Tipo    |    Description    |
 |    ----    |    ----    |    ----    |
 |    Autorização    |    string    |    Obrigatório. O Azure Ative Directory (AAD) símbolo de acesso na forma`Bearer <token>`    |
 |    Content-Type    |    string    |    `Application/JSON`    |
@@ -100,7 +100,7 @@ Esta tabela define os elementos-chave na resposta:
 |    ----    |    ----    |
 |    ReportId     |    UUID único do relatório que foi criado     |
 |    Nome do relatório     |    Nome dado ao relatório na carga útil do pedido     |
-|    Descrição     |    Descrição dada quando o relatório foi criado     |
+|    Description     |    Descrição dada quando o relatório foi criado     |
 |    QueryId     |    Consulta ID passou no momento em que o relatório foi criado     |
 |    Consulta     |    Texto de consulta que será executado para este relatório     |
 |    Utilizador     |    ID do utilizador usado para criar o relatório     |

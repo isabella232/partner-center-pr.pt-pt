@@ -7,12 +7,12 @@ ms.topic: conceptual
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 05/25/2021
-ms.openlocfilehash: 417421ad51c30d067ce3eb2189534a391b2951a2
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 8089647c03ac28aa535170a85c0ebc038057318d2a3e8ecf7ca79677d54d21d1
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114845011"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115696237"
 ---
 # <a name="payout-schedules-and-processes"></a>Agendamentos e processos de dividendos
 
@@ -30,7 +30,7 @@ Quando um cliente compra um produto do Microsoft AppSource ou do Azure Marketpla
 
 Um pagamento ocorrerá frequentemente antes de a Microsoft receber o pagamento do cliente. Consulte [o Processo de não pagamento do cliente](#process-for-customer-non-payment) abaixo para as ações que tomamos se o cliente não pagar à Microsoft, mas já emitimos um pagamento.
 
-| Evento | Descrição | Visibilidade reportando | Timing* |
+| Evento | Description | Visibilidade reportando | Timing* |
 | --- | --- | --- | --- |
 | Utilização ou mês de transação | O cliente usa ou compra um serviço. | [Painel de utilização](/azure/marketplace/partner-center-portal/usage-dashboard) ou [ordem](/azure/marketplace/partner-center-portal/orders-dashboard) | **Mês 1** |
 | Microsoft calcula valor de faturação | Determinar a utilização total, as transações totais | [Painel de utilização](/azure/marketplace/partner-center-portal/usage-dashboard) ou [ordem](/azure/marketplace/partner-center-portal/orders-dashboard) | **Mês 2** |
@@ -48,7 +48,7 @@ Um pagamento ocorrerá frequentemente antes de a Microsoft receber o pagamento d
 
 Todas as compras com cartão de crédito ou fatura mensal têm um período de detenção de 30 dias para garantir que os fundos são recolhidos junto do cliente.
 
-| Evento | Descrição | Visibilidade reportando | Timing* |
+| Evento | Description | Visibilidade reportando | Timing* |
 | --- | --- | --- | --- |
 | Utilização ou mês de transação | O cliente usa ou compra um serviço. | [Painel de utilização](/azure/marketplace/partner-center-portal/usage-dashboard) ou [ordem](/azure/marketplace/partner-center-portal/orders-dashboard) | **Mês 1** |
 | Fatura paga pelo cliente | Determine o uso total, o valor total da transação e a fatura do cliente | [Painel de utilização](/azure/marketplace/partner-center-portal/usage-dashboard) ou [ordem](/azure/marketplace/partner-center-portal/orders-dashboard) | **Mês 2** |

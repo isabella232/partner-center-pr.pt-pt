@@ -8,12 +8,12 @@ description: Utilize esta API para eliminar a consulta definida pelo utilizador 
 author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: f755bc13ff4e0c4bc3a2c6ceda123c6a2bc47dc5
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 4714d523ff9942838e9666fe75f3df21aae69e043b6d9be1e1819cbd52dfb6ff
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114836392"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115681659"
 ---
 # <a name="delete-report-queries-api"></a>Eliminar consultas de relatório API
 
@@ -28,7 +28,7 @@ Esta API elimina consultas definidas pelo utilizador.
 
 **Cabeçalho de pedido**
 
-|    Cabeçalho    |    Tipo    |    Descrição    |
+|    Cabeçalho    |    Tipo    |    Description    |
 |    ----    |    ----    |    ----    |
 |    Autorização    |    string    |    Obrigatório. O Azure Ative Directory (AAD) símbolo de acesso na forma`Bearer <token>`    |
 |    Content-Type    |    string    |    `Application/JSON`    |
@@ -88,7 +88,7 @@ Esta tabela define os elementos-chave na resposta:
 |    ----    |    ----    |
 |    QueryId     |    UUID único da consulta que foi eliminada    |
 |    Name     |    Nome da consulta que foi eliminada    |
-|    Descrição     |    Descrição da consulta eliminada     |
+|    Description     |    Descrição da consulta eliminada     |
 |    Consulta     |    Cadeia de consulta de relatório da consulta eliminada    |
 |    Tipo     |    Definir para utilizadorDefined para consultas criadas pelo utilizador     |
 |    Utilizador     |    ID do utilizador que criou a consulta     |

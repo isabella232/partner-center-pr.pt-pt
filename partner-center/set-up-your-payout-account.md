@@ -7,12 +7,12 @@ ms.subservice: partnercenter-marketplace-publisher
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 12/10/2019
-ms.openlocfilehash: 2dbbab72ea68246bf0cb99d57a5ce3640f25c867
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: b8651a6c054ed34717a3132d2c5fa5e784d17005479034febaf5b5671fb2a9d0
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110152924"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115697198"
 ---
 # <a name="set-up-your-payout-account-and-tax-forms"></a>Configurar a conta de dividendos e os formulários fiscais
 
@@ -42,9 +42,9 @@ Gere o seu perfil fiscal e formulários fiscais na página **de pagamento e impo
 Primeiro, terá de criar um perfil fiscal e atribuí-lo aos programas em que participa. Utilize os seguintes passos para criar ou atualizar o seu *perfil fiscal* no Partner Center. Pode completar e submeter os seus formulários fiscais eletronicamente no painel do Centro de Parceiros; na maioria dos casos, não precisa imprimir e enviar nenhum formulário.
 
 > [!IMPORTANT]
-> Diferentes países e regiões têm diferentes requisitos fiscais. O valor exato que deve pagar em impostos depende dos países e regiões onde vende a sua oferta. Consulte o [Microsoft Azure Marketplace Publisher Agreement](/legal/marketplace/msft-publisher-agreement) para saber para que países/regiões a Microsoft atribui vendas e utiliza o imposto em seu nome. Noutros países/regiões, dependendo do local onde está registado, poderá ter de reencamitá-lo e utilizar o imposto para as suas vendas de oferta diretamente à autoridade tributária local. Além disso, as receitas de vendas de aplicações que recebe podem ser tributáveis como rendimento. Encorajamo-lo vivamente a contactar a autoridade relevante para o seu país ou região que melhor o ajude a determinar a informação fiscal certa para as suas atividades de mercado comercial.
+> Diferentes países e regiões têm diferentes requisitos fiscais. O valor exato que deve pagar em impostos depende dos países e regiões onde vende a sua oferta. Consulte o [Acordo de Publisher do Mercado Microsoft Azure](/legal/marketplace/msft-publisher-agreement) para saber para que países/regiões a Microsoft atribui vendas e utiliza o imposto em seu nome. Noutros países/regiões, dependendo do local onde está registado, poderá ter de reencamitá-lo e utilizar o imposto para as suas vendas de oferta diretamente à autoridade tributária local. Além disso, as receitas de vendas de aplicações que recebe podem ser tributáveis como rendimento. Encorajamo-lo vivamente a contactar a autoridade relevante para o seu país ou região que melhor o ajude a determinar a informação fiscal certa para as suas atividades de mercado comercial.
 
-1. No [painel 'Centro parceiro' (Centro parceiro),](https://partner.microsoft.com/dashboard)selecione o ícone de engrenagem **Definições** no canto superior direito e, em seguida, **as definições de Conta**.
+1. No [painel partner center](https://partner.microsoft.com/dashboard), selecione o ícone de engrenagem **Definições** no canto superior direito e, em seguida, **as definições de Conta**.
 
 2. No menu de navegação à esquerda, selecione **Payout e tax,** em seguida, selecione **Payout e tax assignments**.
 
@@ -77,7 +77,7 @@ Se estiver fora dos Estados Unidos, poderá tirar partido dos benefícios do tra
 Uma conta de pagamento é a conta bancária para a qual enviamos os lucros das suas vendas. Pode ver todas as contas de pagamento que inseriu na página 'Perfil'.
 
 > [!NOTE]
-> Em alguns mercados, PayPal podem ser usados para a sua conta de pagamento. Para saber se PayPal é apoiado para um mercado específico, consulte [limiares de pagamento, métodos e prazos e](payment-thresholds-methods-timeframes.md) as [informações PayPal](#paypal-info) abaixo para obter mais detalhes.
+> Em alguns mercados, PayPal podem ser usados para a sua conta de pagamento. Para saber se PayPal é apoiado para um mercado específico, consulte [limiares de pagamento, métodos e prazos](payment-thresholds-methods-timeframes.md) e as [informações PayPal](#paypal-info) abaixo para obter mais detalhes.
 
 ### <a name="create-a-payment-profile"></a>Criar um perfil de pagamento
 
@@ -124,7 +124,7 @@ Para garantir que o seu pagamento é bem sucedido, certifique-se de que:
 
 Pode editar os perfis de pagamento existentes se precisar de efetuar alterações ou corrigir qualquer informação incorreta.
 
-1. No [Partner Center](https://partner.microsoft.com/dashboard), selecione o ícone de engrenagem **Definições** no canto superior direito e, em seguida,  **as definições de Conta**.
+1. No [Partner Center](https://partner.microsoft.com/dashboard), selecione o ícone de engrenagem **Definições** no canto superior direito e, em seguida, **as definições de Conta**.
 
 2. Por baixo do Pagamento e da rubrica *fiscal,* selecione **Payout e tax profiles**.
 
@@ -142,13 +142,13 @@ Em países e regiões selecionados, pode criar uma conta de pagamento inserindo 
 
 Questões comuns sobre a utilização de PayPal como método de pagamento:
 
-- **Que PayPal configurações preciso de ter para receber pagamentos?** Certifique-se de que a sua conta PayPal não bloqueia os pagamentos eCheck. Esta definição é gerida na página PayPal's Payment Receiving Preferences. Consulte [a página de configuração da conta da PayPal](https://go.microsoft.com/fwlink/?linkid=2162542) para obter mais informações.
+- **Que PayPal configurações que preciso de ter para receber pagamentos?** Certifique-se de que a sua conta PayPal não bloqueia os pagamentos eCheck. Esta definição é gerida na página PayPal's Payment Receiving Preferences. Consulte [a página de configuração da conta da PayPal](https://go.microsoft.com/fwlink/?linkid=2162542) para obter mais informações.
 
-- **O meu país/região é apoiado?** Consulte [os limiares de pagamento, métodos e prazos](payment-thresholds-methods-timeframes.md) para saber onde PayPal é um método de pagamento suportado.
+- **O meu país/região é apoiado?** Consulte [limiares de pagamento, métodos e prazos](payment-thresholds-methods-timeframes.md) para saber onde PayPal é um método de pagamento suportado.
 
 - **A minha conta PayPal tem de ser registada no mesmo país/região que a minha conta partner Center?** N.º Quando configurar uma conta PayPal, pode aceitar a configuração padrão. Não deve ter problemas com outros países/regiões e moedas a menos que tenha bloqueado o pagamento em algumas moedas. Esta definição é gerida na página PayPal's Payment Receiving Preferences.
 
-- **Tenho de aceitar PayPal pagamentos manualmente?** N.º PayPal contas são definidas por padrão para exigir que os utilizadores aceitem pagamentos manualmente, o que significa que se não aceitar o pagamento no prazo de 30 dias, é devolvido. Pode alterar esta definição desligando "Ask Me" na página mais definições de PayPal.
+- **Tenho de aceitar PayPal pagamentos manualmente?** N.º PayPal contas são definidas por padrão para exigir que os utilizadores aceitem pagamentos manualmente, o que significa que se não aceitar o pagamento no prazo de 30 dias, é devolvido. Pode alterar esta definição desligando "Ask Me" na página mais Definições de PayPal.
 
 - **Que moedas PayPal suporta?** Consulte [a página de suporte da PayPal](https://developer.paypal.com/docs/classic/api/currency-codes/#paypal) para a lista atual
 
@@ -169,7 +169,7 @@ Uma vez que o pagamento tenha sido submetido ao seu banco, tem 30 dias para subm
 Se é um editor que vive na Rússia, poderá ter de fornecer documentação ao seu banco antes de o seu banco depositar fundos na sua conta. Quando você é elegível para ser pago, nós lhe forneceremos a seguinte documentação em uma mensagem de e-mail:
 
 - Certificado de Aceitação (AC) – contém o valor do pagamento que está a ser transferido para a sua conta.
-- [Microsoft Azure Marketplace Publisher Agreement](/legal/marketplace/msft-publisher-agreement)  – uma cópia assinada do acordo de editor que precisa de ser contra-assinado.
+- [Microsoft Azure Acordo de Publisher marketplace](/legal/marketplace/msft-publisher-agreement) – uma cópia assinada do acordo de editor que precisa de ser contra-assinado.
 
 Para garantir que o seu pagamento é bem sucedido, certifique-se de que:
 
@@ -183,7 +183,7 @@ Para garantir que o seu pagamento é bem sucedido, certifique-se de que:
 Se é um editor que vive na Ucrânia, poderá ter de fornecer documentação ao seu banco antes de o seu banco depositar fundos na sua conta. Quando você é elegível para ser pago, nós lhe forneceremos a seguinte documentação em uma mensagem de e-mail:
 
 - Certificado de Aceitação (AC) – contém o valor do pagamento que está a ser transferido para a sua conta.
-- [Microsoft Azure Marketplace Publisher Agreement](/legal/marketplace/msft-publisher-agreement) – uma cópia assinada do acordo de editor que precisa de ser contra-assinado.
+- [Microsoft Azure Acordo de Publisher marketplace](/legal/marketplace/msft-publisher-agreement) – uma cópia assinada do acordo de editor que precisa de ser contra-assinado.
 - Acordo de Alteração (AA) – este documento pode ser usado pelo seu banco para ajudar a identificar os seus fundos de pagamento.
 
 A Microsoft fornece os três documentos quando o seu primeiro pagamento é tentado. Para pagamentos posteriores, só receberá o documento AC. Guarde os documentos da ADA e da AA caso necessite que receba pagamentos futuros do seu banco.

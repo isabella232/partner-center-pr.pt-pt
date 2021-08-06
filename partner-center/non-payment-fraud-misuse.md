@@ -9,12 +9,12 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 07/14/2020
-ms.openlocfilehash: f74a1c091a4c5cd838f8856152c1498f3ecd9d2b
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 54130356ae9388e78affb2e9ff19f54d9f55c64444981a82da1d29ff27fe4d39
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114836749"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115696670"
 ---
 # <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>Managing non-payment, fraud, or misuse in Partner Center (Gestão de não pagamento, fraude ou utilização indevida no Centro de Parceiros)
 

@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 185d1593808bc417fa15646955a0cce683242570
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: f94242bce381b9906f00671dd4ca41ca68c29fd28c80396e2e17d0130807ab71
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110148164"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115679848"
 ---
 # <a name="create-and-manage-an-incentives-co-op-claim"></a>Criar e gerir uma reivindicação cooperativa de incentivos
 

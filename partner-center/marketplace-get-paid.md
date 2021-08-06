@@ -1,5 +1,5 @@
 ---
-title: Ser pago no Partner Center
+title: Ser pago no Centro de Parceiros
 description: Saiba como receber pagamentos por ganhos como parceiro da Microsoft, como por exemplo através de ofertas de marketplace comercial, programas de incentivo e o programa Fornecedor de Soluções em Nuvem. Inclui política de pagamento, estatuto de detenção de pagamento e declarações de pagamento.
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
@@ -7,14 +7,14 @@ ms.topic: conceptual
 ms.date: 07/12/2021
 author: eunjkim520
 ms.author: eunjkim
-ms.openlocfilehash: 99cc0172f9cb1e09bdc77bbd9187ad2452c19c61
-ms.sourcegitcommit: 207c86406e56346d01d85ce50ea494c0c293519a
+ms.openlocfilehash: bc1a9eb3c0fde48a589d57ab40671791244c20cfa028ccae5de3cf5ee6a322ed
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/14/2021
-ms.locfileid: "113798141"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115697283"
 ---
-# <a name="getting-paid-in-partner-center"></a>Ser pago no Partner Center
+# <a name="getting-paid-in-partner-center"></a>Ser pago no Centro de Parceiros
 
 **Funções adequadas**: Administração de contas | Administração global
 

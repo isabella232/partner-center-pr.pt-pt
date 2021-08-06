@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 33ec3befdc4b2bab2f31d25d210679594debbbf1
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 1e09ac0497fafd6e2db2927c372edc22826ad825c713dba7d9c5854d0bfe64d9
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277254"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115681297"
 ---
 # <a name="view-your-incentives-program-details"></a>Ver os detalhes do programa de incentivos
 

@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d4b59dc0f492dbca2afd603c6b7800e782ab3a12
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 42d3597e9c91fcc448289a673aae2c672df6869c004e7162efd5d6235259db09
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114840319"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115679891"
 ---
 # <a name="compare-differences-between-azure-offers-in-the-csp-program"></a>Compare diferenças entre ofertas do Azure no programa CSP
 
@@ -31,7 +31,7 @@ A tabela seguinte fornece uma visão geral das principais diferenças entre as o
 |Faturação|Mensalmente|Variável (oferta dependente)|Cliente final|Adiantando-se para o período completo ou 3 anos|Mensal ou Anual|
 |Licenciado|Cliente final|Variável (oferta dependente)|Cliente final| Cliente final|Cliente final|
 |Prazo de cobertura|Ativo até cancelado|Variável (oferta dependente)|Ver descrição da oferta|Todas as Reservas Azure têm o seu próprio período de cobertura único. Todas as Subscrições do Servidor terão o seu próprio período de cobertura único.|   Licenças adicionais entrarão no período de cobertura existente|
-|Renovação automática|Sim|Sim|Não| Não|Sim|
+|Renovação automática|Yes|Yes|No| No|Yes|
 |Multi-Moeda|Fatura com base na localização do cliente/moeda|Fatura com base na localização do cliente/moeda|Fatura com base na localização do cliente/moeda|Fatura com base na localização do cliente/moeda|Com base na moeda de localização do parceiro| 
 |Arquivo & Recon da fatura|Fatura separada e arquivo Recon para cada moeda de localização do cliente.  Também forneceremos ficheiros de utilização avaliados diariamente (tanto para contas como porções não faturadas) |Fatura separada e arquivo Recon para cada moeda de localização do cliente|Fatura separada e arquivo Recon para cada moeda de localização do cliente|Fatura separada e arquivo Recon para cada moeda de localização do cliente|Todas as encomendas numa fatura e arquivo Recon|
 |Matriz de oferta de & de preços|Publicado mensalmente e com preços em USD*|As ofertas de marketplace e os preços podem ser exportados em tempo real para o formato de ficheiro CSV a partir do início.|Arquivo único e separado com todos os preços e detalhes de oferta incluídos. Não há nenhum ficheiro Matrix de Oferta separada||Arquivo único e separado com todos os preços e detalhes de oferta incluídos. Não há matriz de oferta separada.| 

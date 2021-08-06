@@ -8,12 +8,12 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: 8f1c087911e6dd7e58182c99e2b97b7a6b2246d8
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: d23c95981c39bb9b9773e3b1e6f474146f41325546cc5f96408237e2213280d2
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110152176"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115681812"
 ---
 # <a name="issues-with-claimed-partner-of-record-cpor-customer-associations"></a>Problemas com associações de clientes do Parceiro Reclamado da Record (CPOR)
 
@@ -27,7 +27,7 @@ No fluxo de reclamação do Parceiro Reclamado da Record (CPOR), será solicitad
 
 ## <a name="subscription-errors-in-the-cpor-association-claim-flow"></a>Erros de subscrição no fluxo de reclamação da associação CPOR
 
-No fluxo de reclamação da associação CPOR, poderá ser-lhe solicitada a subscrição de um produto que está a tentar reivindicar através de Aplicações Empresariais (Dynamics 365). Pedimos a assinatura porque estamos a verificar dinamicamente se o produto e a subscrição pertencem ao inquilino que está a ser reclamado. Também estamos verificando se a subscrição está em estado de ativa/em graça.
+No fluxo de reclamação da associação CPOR, pode ser-lhe pedido que forneça uma subscrição de um produto que está a tentar reivindicar através de Business Applications (Dynamics 365). Pedimos a assinatura porque estamos a verificar dinamicamente se o produto e a subscrição pertencem ao inquilino que está a ser reclamado. Também estamos verificando se a subscrição está em estado de ativa/em graça.
 
 Se receber o erro, pode ser por várias razões:
 
@@ -48,7 +48,7 @@ Ao reclamar uma subscrição, receberá um erro se a subscrição ainda não tiv
 
 ## <a name="which-activity-do-i-choose"></a>Que atividade escolho?
 
-A plataforma de reclamação CPOR permite reclamações de associação CPOR relacionadas com aplicações empresariais e áreas de solução Microsoft 365. As atividades que são aplicáveis a cada área de solução estão abaixo. Selecione a atividade correta com base nas descrições para evitar ter que recuperar no futuro. Reivindicar com uma atividade incorreta pode resultar em ganhos de elegibilidade e incentivos perdidos.
+A plataforma de reclamação CPOR permite reclamações da associação CPOR relacionadas com áreas de Business Applications e Microsoft 365 soluções. As atividades que são aplicáveis a cada área de solução estão abaixo. Selecione a atividade correta com base nas descrições para evitar ter que recuperar no futuro. Reivindicar com uma atividade incorreta pode resultar em ganhos de elegibilidade e incentivos perdidos.
 
 
 | Área de solução | Atividade | Aplicável para |

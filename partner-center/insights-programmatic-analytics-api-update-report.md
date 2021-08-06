@@ -8,12 +8,12 @@ description: Utilize esta API para atualizar os parâmetros do relatório nos in
 author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: 64ef897dc3c883e4adfda4285183e441f27f3c7f
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: c4425f6444603852e87d9287db720ec1b29ee57818bc949c82eed2179ac6149e
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114837038"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115696920"
 ---
 # <a name="update-report-api"></a>Relatório de atualização API
 
@@ -28,7 +28,7 @@ Esta API ajuda-o a modificar um parâmetro de relatório.
 
 **Cabeçalho de pedido**
 
-|    Cabeçalho    |    Tipo    |    Descrição    |
+|    Cabeçalho    |    Tipo    |    Description    |
 |    ----    |    ----    |    ----    |
 |    Autorização    |    string    |    Obrigatório. O Azure Ative Directory (AAD) símbolo de acesso na forma`Bearer <token>`    |
 |    Content-Type    |    string    |    `Application/JSON`    |
@@ -64,16 +64,16 @@ Nenhuma
 
 Esta tabela lista as definições-chave dos elementos na resposta.
 
-|    Parâmetro    |    Obrigatório    |    Descrição    |    Valores Permitidos    |
+|    Parâmetro    |    Necessário    |    Descrição    |    Valores Permitidos    |
 |    ----    |    ----    |    ----    |    ----    |
-|    Nome do relatório     |    Sim     |    Nome a atribuir ao relatório     |    String     |
+|    Nome do relatório     |    Yes     |    Nome a atribuir ao relatório     |    String     |
 |    Descrição     |    Não     |    Descrição do relatório criado     |    String     |
-|    StartTime     |    Sim    |    Timetamp após o qual a geração do relatório vai começar     |    String     |
-|    RecorrenceInterval     |    Não     |    Frequência na qual o relatório deve ser gerado em horas. Valor mínimo é 4     |    Número inteiro     |
-|    RecorrenceCount     |    Não     |    Número de relatórios a serem gerados. O padrão é indefinido.     |    Número inteiro     |
-|    Formato     |    Não    |    Formato de ficheiro do ficheiro exportado. O padrão é CSV     |    CSV/TSV     |
-|    CallbackURL     |    Não     |    URL de retorno https a ser chamado na geração de relatório     |    String     |
-|    CallbackMethod    |    Não    |    Método http a ser usado para retorno    |    GET/POST    |
+|    StartTime     |    Yes    |    Timetamp após o qual a geração do relatório vai começar     |    String     |
+|    RecorrenceInterval     |    No     |    Frequência na qual o relatório deve ser gerado em horas. Valor mínimo é 4     |    Número inteiro     |
+|    RecorrenceCount     |    No     |    Número de relatórios a serem gerados. O padrão é indefinido.     |    Número inteiro     |
+|    Formato     |    No    |    Formato de ficheiro do ficheiro exportado. O padrão é CSV     |    CSV/TSV     |
+|    CallbackURL     |    No     |    URL de retorno https a ser chamado na geração de relatório     |    String     |
+|    CallbackMethod    |    No    |    Método http a ser usado para retorno    |    GET/POST    |
 |        |        |        |        |
 
 
@@ -121,7 +121,7 @@ Esta tabela define os elementos-chave na resposta:
 |    ----    |    ----    |
 |    ReportId     |    Identificador universalmente único (UUID) do relatório que está a ser atualizado     |
 |    Nome do relatório     |    Nome dado ao relatório na carga útil do pedido     |
-|    Descrição     |    Descrição dada ao relatório na carga útil do pedido     |
+|    Description     |    Descrição dada ao relatório na carga útil do pedido     |
 |    QueryId     |    Consulta ID passou no momento em que o relatório foi criado     |
 |    Consulta     |    Texto de consulta que será executado para este relatório     |
 |    Utilizador     |    ID do utilizador usado para criar o relatório     |

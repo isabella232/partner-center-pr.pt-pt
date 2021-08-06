@@ -8,12 +8,12 @@ description: Utilize esta API para retomar a execução de qualquer relatório p
 author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: 1019e9e6f679084ca0a388d685b5239ecc2e09e2
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 8c429913e269b88a42216ca99c4a4afbc545eb599b6dcfeb1d5fb79af5fdd50c
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114836273"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115697045"
 ---
 # <a name="resume-report-executions-api"></a>Retomar relatório execuções API
 
@@ -28,7 +28,7 @@ Na execução, esta API retoma a execução programada de um relatório pausado.
 
 **Cabeçalho de pedido**
 
-|    Cabeçalho    |    Tipo    |    Descrição    |
+|    Cabeçalho    |    Tipo    |    Description    |
 |    ----    |    ----    |    ----    |
 |    Autorização    |    string    |    Obrigatório. O Azure Ative Directory (AAD) símbolo de acesso na forma`Bearer <token>`    |
 |    Content-Type    |    string    |    `Application/JSON`    |
@@ -97,7 +97,7 @@ Esta tabela define os elementos-chave na resposta:
 |    ----    |    ----    |
 |    ReportId     |    Identificador universalmente único (UUID) do relatório retomado     |
 |    Nome do relatório     |    Nome dado ao relatório durante a criação     |
-|    Descrição     |    Descrição dada durante a criação do relatório     |
+|    Description     |    Descrição dada durante a criação do relatório     |
 |    QueryId     |    Consulta ID passou no momento em que o relatório foi criado     |
 |    Consulta     |    Texto de consulta que será executado para este relatório     |
 |    Utilizador     |    ID do utilizador usado para criar o relatório     |

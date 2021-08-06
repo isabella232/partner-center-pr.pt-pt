@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a1b47860f0af3427342d89945528e9118ecfc0aa
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: b440b7baaad26ac6ee1c1e8313a13c4aa3cc271f9d84f5421aeb07edf1ea8a84
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114843328"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115681523"
 ---
 # <a name="migrate-office-365-e4-subscriptions-to-newer-office-365-versions"></a>Migrate Office 365 E4 subscriptions to newer Office 365 versions (Migrar subscrições do Office 365 E4 para versões mais recentes do Office 365)
 
@@ -48,14 +48,14 @@ Pode optar por manter a mesma funcionalidade com o E4 ou fazer com que os seus c
 
 | Funcionalidade | Opção 1 | Opção 2 | Opção 3 | Opção 4 |
 | :---    | :------: |   :---:  |   :---:  |   :---:  |
-| Obter todos os recursos incluídos em Office 365 Enterprise E4? | Sim | Sim | Sim | Não |
-| Telefone números geridos em Office 365? | Sim | Sim | Não | Não |
-| Telefone números geridos tanto no local como em Office 365 (implantação híbrida)? | Sim | Sim | Não | Não |
-| Opção de adicionar um plano de chamada de voz PSTN? | Sim | Sim | Não | Não |
-| Conferência PSTN? | Sim | Não | Não | Não |
-| Ferramentas avançadas para colaboração, análise e segurança? | Sim | Não | Não | Não |
-| Relatórios interativos, dashboards e visualizações de dados? | Sim | Não | Não | Não | 
-| Mais controlo sobre a segurança dos dados e o cumprimento da privacidade incorporada, transparência e controlos refinados dos utilizadores? | Sim | Não | Não | Não | 
+| Obter todos os recursos incluídos em Office 365 Enterprise E4? | Yes | Yes | Yes | No |
+| Telefone números geridos em Office 365? | Yes | Yes | No | No |
+| Telefone números geridos tanto no local como em Office 365 (implantação híbrida)? | Yes | Yes | No | No |
+| Opção de adicionar um plano de chamada de voz PSTN? | Yes | Yes | No | No |
+| Conferência PSTN? | Yes | No | No | No |
+| Ferramentas avançadas para colaboração, análise e segurança? | Yes | No | No | No |
+| Relatórios interativos, dashboards e visualizações de dados? | Yes | No | No | No | 
+| Mais controlo sobre a segurança dos dados e o cumprimento da privacidade incorporada, transparência e controlos refinados dos utilizadores? | Yes | No | No | No | 
 
 ## <a name="transition-customers-to-new-product-plans"></a>Transição de clientes para novos planos de produtos
 

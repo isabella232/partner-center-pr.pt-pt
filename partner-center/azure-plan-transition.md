@@ -9,12 +9,12 @@ ms.author: mowrim
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 06/16/2020
-ms.openlocfilehash: eb9d88935bdc339c01ac47153c3d4a23047dc406
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 9e02655d2f09ee0c6ca4c7e5fabc60d992d121bb1aceb4de3741af9010752d68
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114841509"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115680793"
 ---
 # <a name="transition-customers-to-azure-plan-from-existing-csp-azure-offers"></a>Transição de clientes para plano Azure a partir de ofertas CSP Azure existentes
 

@@ -8,12 +8,12 @@ description: Utilize esta API para eliminar qualquer relatório nos insights do 
 author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: a8a94fc1a6e69bab0a7671bd27949e271a77dbbe
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 358e08363c203b82a5e80e2660be6e04224f58df393c94f8af9062fcb5ec67a7
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114840064"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115697215"
 ---
 # <a name="delete-report-api"></a>Apagar relatório API
 
@@ -28,7 +28,7 @@ Na execução, esta API elimina todos os registos de execução do relatório e 
 
 **Cabeçalho de pedido**
 
-|    Cabeçalho    |    Tipo    |    Descrição    |
+|    Cabeçalho    |    Tipo    |    Description    |
 |    ----    |    ----    |    ----    |
 |    Autorização    |    string    |    Obrigatório. O Azure Ative Directory (AAD) símbolo de acesso na forma`Bearer <token>`    |
 |    Content-Type    |    string    |    `Application/JSON`    |
@@ -97,7 +97,7 @@ Esta tabela define os elementos-chave na resposta:
 |    ----    |    ----    |
 |    ReportId     |    Identificador universalmente único (UUID) do relatório eliminado     |
 |    Nome do relatório     |    Nome dado ao relatório durante a criação     |
-|    Descrição     |    Descrição dada durante a criação do relatório     |
+|    Description     |    Descrição dada durante a criação do relatório     |
 |    QueryId     |    Consulta ID passou no momento em que o relatório foi criado     |
 |    Consulta     |    Texto de consulta que será executado para este relatório     |
 |    Utilizador     |    ID do utilizador usado para criar o relatório     |

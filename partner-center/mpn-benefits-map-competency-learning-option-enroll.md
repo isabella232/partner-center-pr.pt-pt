@@ -8,12 +8,12 @@ ms.subservice: partnercenter-membership
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: a82f15b0576a48fb76b975e6de2c37407046f4f2
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: e1830f0afd3f075b4bb770eb8a7bd98efffbea78e86575c233ca0965384925a8
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114844671"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115696721"
 ---
 # <a name="use-partner-center-to-enroll-as-a-microsoft-learning-partner"></a>Use partner center para se inscrever como Parceiro microsoft Aprendizagem
 

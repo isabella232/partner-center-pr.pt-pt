@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: high
 ms.custom: SEOJULY.20
-ms.openlocfilehash: a980d35104f2fe7aad0117f3515a61ecf217a2b9
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 00f92dbe0c4a537626c5956e69c0b2d4b6dda20220f7b162e5d34ebfe24c5554
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110148300"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115681948"
 ---
 # <a name="core-requirements-for-the-activities-in-your-incentive-program"></a>Requisitos fundamentais para as atividades no seu programa de incentivos
 
@@ -169,7 +169,7 @@ Os quadros que se seguem descrevem os requisitos fundamentais para cada uma das 
 
 | Categoria | Prova de execução    |
 | ------ | ----------- |
-| Requisitos fundamentais    | Código de curso/código de exame no Microsoft Learning |
+| Requisitos fundamentais    | Código de curso/código de exame na Microsoft Aprendizagem |
 | Requisitos de comunicação | Fatura de terceiros com código de curso e data de conclusão ou fatura com código de exame e data de conclusão |
 | Métricas     | Lista de participantes e custo por pessoa |
 |Despesas elegíveis    | Taxa - exame: Taxas de exame da Microsoft para certificações e competências<br><br>Taxa - formação/ propinas: Propinas da Microsoft para certificações e competências, incluindo despesas de formação a pedido<br><br>Formação de soluções ISV de terceiros - despesas de ensino para formação em soluções de terceiros que possam ser demonstradas para alavancar ou residir em aplicações e plataformas da Microsoft<br><br>Taxa - Renovação MCT: Taxa de renovação do Microsoft Certified Trainer (sem necessidade de métrica)<br><br>|
