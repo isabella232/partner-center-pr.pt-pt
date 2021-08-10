@@ -6,12 +6,12 @@ ms.topic: how-to
 author: msjogarrig
 ms.author: jogarrig
 ms.date: 02/24/2021
-ms.openlocfilehash: 8a3ffbe5b57c49004518341d27c785dcd1b9ce87
-ms.sourcegitcommit: c4601069340445135b551fa96bee6d9923d8aa97
+ms.openlocfilehash: c7238a601653b2c6b066b89403ba43cadddd13ed122355e42cf17b5e640c56a2
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/01/2021
-ms.locfileid: "113173699"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115689708"
 ---
 # <a name="create-and-manage-private-azure-marketplace-in-the-azure-portal"></a>Criar e gerir o Private Azure Marketplace no portal Azure
 

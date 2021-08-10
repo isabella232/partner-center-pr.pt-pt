@@ -6,12 +6,12 @@ ms.topic: article
 author: jeweber
 ms.author: jeweber
 ms.date: 06/02/2021
-ms.openlocfilehash: 37be38030ece0b78629fe1ebbb77c41f2cbcb8fb
-ms.sourcegitcommit: 771a7fca2125a9895226a06e9f1f3988dcc561ea
+ms.openlocfilehash: 76aeefe324edba06b71cf41cfb25be805b356cc63de0377ba246b50d05187998
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/04/2021
-ms.locfileid: "111446860"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115688307"
 ---
 # <a name="refund-policies-for-microsoft-appsource-and-azure-marketplace"></a>Políticas de reembolso para Microsoft AppSource e Azure Marketplace
 
@@ -25,7 +25,7 @@ Os reembolsos não são emitidos para taxas variáveis. Por exemplo, se um SaaS 
 
 ## <a name="office-add-ins"></a>Suplementos do Office
 
-Se comprar um add-in do Office, poderá reembolsar totalmente se cancelar a subscrição no prazo de um dia a partir da compra ou renovação. Se cancelar a subscrição após um dia de compra, poderá receber um reembolso parcial com base na parte restante da oferta. Se modificar a sua subscrição, poderá ser elegível para um reembolso parcial com base na parte restante do período de subscrição.
+Se comprar um complemento de Office, poderá receber um reembolso total se cancelar a subscrição no prazo de um dia a partir da compra ou renovação. Se cancelar a subscrição após um dia de compra, poderá receber um reembolso parcial com base na parte restante da oferta. Se modificar a sua subscrição, poderá ser elegível para um reembolso parcial com base na parte restante do período de subscrição.
 
 ## <a name="azure-developer-services"></a>Serviços de desenvolvimento da Azure
 
@@ -54,6 +54,6 @@ Se cancelar um compromisso de consumo monetário que pagou antecipadamente, pode
 > [!NOTE]
 > Um compromisso monetário não pode ser usado para compras no Microsoft AppSource ou no Azure Marketplace.
 
-## <a name="microsoft-azure-consumption-commitment-macc"></a>Compromisso de consumo da Microsoft Azure (MACC)
+## <a name="microsoft-azure-consumption-commitment-macc"></a>Microsoft Azure compromisso de consumo (MACC)
 
-O programa de compromisso de consumo da Microsoft Azure (MACC) não tem políticas de reembolso dedicadas. Os produtos adquiridos como parte de um acordo MACC seguem as políticas descritas neste artigo.
+O programa Microsoft Azure de compromisso de consumo (MACC) não tem políticas de reembolso dedicadas. Os produtos adquiridos como parte de um acordo MACC seguem as políticas descritas neste artigo.

@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8ad05edf9c1d67a5e373fde26bf10a4f6ad50cd6
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: af2ca8403192bc6a339c139eecb2d7120fd026a6a3a7d94033c4298177e808e8
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114840336"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115682152"
 ---
 # <a name="common-billing-scenarios-for-csp-program-partners-working-in-partner-center"></a>Cenários comuns de faturação para parceiros de programa CSP que trabalham no Partner Center
 

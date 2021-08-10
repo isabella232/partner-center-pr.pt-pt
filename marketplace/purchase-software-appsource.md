@@ -6,16 +6,16 @@ ms.topic: how-to
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: e51f4593624a764e14ecae473f96cf0779c2ff10
-ms.sourcegitcommit: cce4d53127fa33e6c2bbf158dda6edd41b82441d
+ms.openlocfilehash: e55e45fe80c67653fec1a6e2b191801061040a3537f9183b2bc8c8824b0c6252
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "112896803"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115688340"
 ---
 # <a name="purchase-saas-apps-on-microsoft-appsource"></a>Comprar aplicativos SaaS no Microsoft AppSource
 
-[O Microsoft AppSource](https://appsource.microsoft.com/) contém milhares de aplicações empresariais, incluindo software como aplicações de serviço (SaaS) e add-ons para Dynamics 365, Microsoft 365, Power BI e Power Apps. O AppSource inclui aplicações gratuitas, testes e subscrições pagas, e pode gerir os custos, upgrades, downgrades e cancelamentos num único local utilizando o [centro de administração Microsoft 365.](/microsoft-365/admin/admin-overview/about-the-admin-center) Este artigo explica como comprar subscrições pagas do SaaS no AppSource.
+[O Microsoft AppSource](https://appsource.microsoft.com/) contém milhares de aplicações empresariais, incluindo software como aplicações de serviço (SaaS) e add-ons para Dynamics 365, Microsoft 365, Power BI e Power Apps. O AppSource inclui aplicações gratuitas, testes e subscrições pagas, e pode gerir os custos, upgrades, downgrades e cancelamentos num único local usando o [centro de administração do Microsoft 365.](/microsoft-365/admin/admin-overview/about-the-admin-center) Este artigo explica como comprar subscrições pagas do SaaS no AppSource.
 
 ## <a name="requirements"></a>Requisitos
 
@@ -26,7 +26,7 @@ A aquisição de uma aplicação SaaS requer o seguinte:
 - Um cartão de crédito válido no país/região onde está a adquirir a oferta. Cartões de crédito suportados: Visa, Master Card, American Express e Discover.
 
     > [!Note]
-    > O país/região de faturação do cartão de crédito pode estar bloqueado até à localização do seu Azure Ative Directory.
+    > O país/região de faturação do cartão de crédito pode estar bloqueado no local do seu Azure Ative Directory caso.
 
 ## <a name="purchase-the-application"></a>Comprar o pedido
 

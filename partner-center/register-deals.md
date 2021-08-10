@@ -8,12 +8,12 @@ description: Quando registas um acordo que ganhaste no Partner Center, ajuda a M
 author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: medium
-ms.openlocfilehash: 085e3418ee6689203dfb7be699acb9955e7ed7f3
-ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
+ms.openlocfilehash: 55162303b1fc3c96773b2d31d9c11d009ad921bf437f541399f1156676a6fa0b
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/04/2021
-ms.locfileid: "115101621"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115682845"
 ---
 # <a name="register-deals-youve-won-in-partner-center"></a>Registar ofertas que ganhou no Partner Center
 

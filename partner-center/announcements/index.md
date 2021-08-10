@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 08/02/2021
-ms.openlocfilehash: cf03ec887e16f3e0d0b12e0e643d3fd437fe02da
-ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
+ms.date: 08/05/2021
+ms.openlocfilehash: a388dd92d2711484260b839eb7b753e2335e03788d4b16fe7483be6b618eb2d7
+ms.sourcegitcommit: 8aa666a297f567435c8bd3eb7e90d29d2b96b601
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/04/2021
-ms.locfileid: "115100495"
+ms.lasthandoff: 08/08/2021
+ms.locfileid: "116885461"
 ---
 # <a name="partner-center-announcements"></a>Anúncios do Centro de Parceiros
 
@@ -22,6 +22,7 @@ Saiba mais sobre atualizações importantes do Centro de Parceiros. Estas inform
 
 |**Categoria**|**Anúncios de agosto de 2021**|**Anunciado**|
 |---------|:---------|:---------|
+|Ofertas/Mercados|[Ver as mais recentes promoções e ofertas](2021-august.md#7)| 6 de agosto |
 |Ofertas/Mercados|[Próximas alterações às listas de preços do plano Azure para nova experiência de comércio](2021-august.md#6)| 4 de agosto |
 |Capacidades|[CSP para a Azure nova experiência de comércio expande-se para o Vaticano](2021-august.md#5)| 3 de agosto |
 |Capacidades|[Acesso programático a dados de análise de Informações parceiros](2021-august.md#4)| 3 de agosto |

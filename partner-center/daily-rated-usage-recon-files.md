@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9b9c422124227804dcf1ac70286a73155d2e71d3
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 28b61ba66fa887db5b27667318ac8f3dcfbff0a14b73925db5a7be1b77dca266
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114844076"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115689309"
 ---
 # <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>Saiba como ler ficheiros de reconciliação de utilização diária no Partner Center
 

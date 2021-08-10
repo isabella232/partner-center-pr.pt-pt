@@ -9,12 +9,12 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: eec04bb75a1c8b2979a6d543770fd31d21f607c2
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 8808460154d9031c522befb0798fd7dfe6814123b63cc26e9ecb97f678cabbea
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110149065"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115682423"
 ---
 # <a name="troubleshoot-issues-with-accessing-chip"></a>Problemas de resolução de problemas com o acesso ao CHIP
 
@@ -30,7 +30,7 @@ Se for o contacto primário ou PPA (Administrador do Programa Primário), dever�
 ## <a name="troubleshooting-steps-to-assist-with-accessing-chip-if-you-had-prior-access"></a>Etapas de resolução de problemas para ajudar no acesso ao CHIP se tiver acesso prévio
 
 1. Limpe todos os cookies e abra CHIP num browser privado.
-1. Selecione Configurações de **visualização de compatibilidade** no seu navegador. Chip já deve estar listado sob Microsoft.com, caso contrário, adicione o site.
+1. Selecione **Compatibilidade Ver Definições** no seu browser. Chip já deve estar listado sob Microsoft.com, caso contrário, adicione o site.
 
 ## <a name="next-steps"></a>Passos seguintes
 

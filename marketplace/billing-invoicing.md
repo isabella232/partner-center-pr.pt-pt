@@ -6,12 +6,12 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 05/04/2021
-ms.openlocfilehash: 6fdbbf9ad2b31e2b61eec20193717f60dd8e199a
-ms.sourcegitcommit: b6959846c30d062d05028c9b4ba14c07e903e61a
+ms.openlocfilehash: 29737d4b7966a5c2fd683b424228888ac373a5bf2635d5750e131f655187b522
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "112970196"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115689015"
 ---
 # <a name="azure-marketplace-billing-and-invoicing"></a>Faturação e faturação do Azure Marketplace
 
@@ -53,7 +53,7 @@ Será cobrado pelas suas compras recorrentes no período em que a adquiriu. Este
 
 ## <a name="invoices"></a>Faturas
 
-Receberá um e-mail no início de cada mês de calendário quando a sua fatura estiver disponível no portal Azure. A sua fatura mostrará todas as ofertas gratuitas e pagas que adquiriu e/ou consumiu durante o mês civil. Se tiver apenas ofertas gratuitas, verá apenas itens de linha de $0 e não precisará de tomar nenhuma ação de pagamento. **Os clientes do Enterprise Agreement** receberão uma fatura combinada que mostra as taxas da Azure e da Azure Marketplace (excluindo clientes na Austrália, Japão e Singapura). **Os clientes que comprarem diretamente do Azure Marketplace** receberão uma conta apenas para compras do Azure Marketplace. Para mais informações, consulte [as faturas das contas MOSP](/azure/cost-management-billing/understand/download-azure-invoice#invoices-for-mosp-billing-accounts).
+Receberá um e-mail no início de cada mês de calendário quando a sua fatura estiver disponível no portal Azure. A sua fatura mostrará todas as ofertas gratuitas e pagas que adquiriu e/ou consumiu durante o mês civil. Se tiver apenas ofertas gratuitas, verá apenas itens de linha de $0 e não precisará de tomar nenhuma ação de pagamento. **Contrato Enterprise clientes** receberão uma fatura combinada que mostra as taxas da Azure e da Azure Marketplace (excluindo clientes na Austrália, Japão e Singapura). **Os clientes que comprarem diretamente do Azure Marketplace** receberão uma conta apenas para compras do Azure Marketplace. Para mais informações, consulte [as faturas das contas MOSP](/azure/cost-management-billing/understand/download-azure-invoice#invoices-for-mosp-billing-accounts).
 
 Quando recebe a sua fatura varia:
 

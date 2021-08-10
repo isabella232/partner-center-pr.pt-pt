@@ -6,12 +6,12 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 06/22/2021
-ms.openlocfilehash: 42e08be73fb6bd1b26e75f461ede51b1e18b909b
-ms.sourcegitcommit: b53616cd7bfeb68298dee69935a8007827b19d21
+ms.openlocfilehash: 029d68f2d33453f760e353bb0eb7a0f59df82fb887ef49d57c0b6c8f4bbe9d9a
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "115014705"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115689092"
 ---
 # <a name="azure-marketplace-purchasing"></a>Compra do Azure Marketplace
 

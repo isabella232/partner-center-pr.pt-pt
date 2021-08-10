@@ -8,12 +8,12 @@ description: Utilize a aplicação da amostra para construir a sua própria apli
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: cb2bc8be9ea49c0d75da4d78961865331ed908c9
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: c558852b7c2af7243187a856067d17a2137cfac867149b80e9c852a1d08d780a
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114845045"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115683788"
 ---
 # <a name="sample-application"></a>Aplicação da amostra
 

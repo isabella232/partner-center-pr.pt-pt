@@ -10,17 +10,46 @@ ms.custom:
 - announcement
 - references_regions
 ms.localizationpriority: high
-ms.date: 08/03/2021
-ms.openlocfilehash: e8c594233ae078d40d934e3cc57341609b7a03ce
-ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
+ms.date: 08/05/2021
+ms.openlocfilehash: 690e4a75b7035c4f16df0eeb4a9985bb29658a11757dcdccc1dd0faa17d1bdef
+ms.sourcegitcommit: 8aa666a297f567435c8bd3eb7e90d29d2b96b601
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/04/2021
-ms.locfileid: "115117865"
+ms.lasthandoff: 08/08/2021
+ms.locfileid: "116885444"
 ---
 # <a name="august-2021-announcements"></a>Anúncios de agosto de 2021
 
 Esta página fornece os anúncios para o Microsoft Partner Center para agosto de 2021.
+
+________________
+## <a name="view-the-latest-promotions-and-offers"></a><a name="7"></a>Ver as mais recentes promoções e ofertas
+
+### <a name="summary"></a>Resumo
+
+O mais recente Guia Global de Prontidão Promocional já foi publicado.
+
+### <a name="categories"></a>Categorias
+
+- Data: 2021-08-06
+- Ofertas & Mercados
+
+### <a name="impacted-audience"></a>Audiência impactada
+
+Parceiros que transfiram através do programa Fornecedor de Soluções em Nuvem
+
+### <a name="details"></a>Detalhes
+
+O mais recente Guia Global de Prontidão Promocional, uma visão consolidada de todas as promoções atuais e futuras, já se encontra disponível na galeria de recursos de Prontidão de Operações. Consulte promoções e ofertas ativas e próximas [aqui.](https://partner.microsoft.com/resources/collection/global-promo-readiness-guide-collection#/)
+
+### <a name="next-steps"></a>Passos seguintes
+
+Consulte o último Guia Promocional mensal na galeria de recursos de prontidão de operações. Partilhe esta informação com os contactos apropriados na sua organização, e informe-nos se o guia é útil respondendo ao "Foi útil esta página?" pergunta na parte inferior da página.
+
+### <a name="questions"></a>Perguntas?
+
+Para questões sobre estas ofertas, consulte as suas comunidades Yammer relevantes.
+
 ________________
 ## <a name="upcoming-changes-to-azure-plan-price-lists-for-new-commerce-experience"></a><a name="6"></a>Próximas alterações às listas de preços do plano Azure para nova experiência de comércio
 
@@ -45,7 +74,7 @@ Historicamente, as listas de preços do plano Azure incluem incorretamente:
 1. Itens que só podem estar disponíveis no portal Azure
 2. Produtos Azure que não eram reservas
  
-Estamos a fazer algumas atualizações para as listas de preços do Azure plan Partner Center para garantir que os itens da lista de preços estão sincronizados com o que está disponível para compra no Partner Center. Este assunto deve ser abordado a partir de 2 de setembro de 2021. Estas alterações aplicam-se apenas às listas de preços do plano de comércio novo.
+Estamos a fazer algumas atualizações para as listas de preços do Azure plan Partner Center para garantir que os itens da lista de preços estão sincronizados com o que está disponível para compra no Partner Center. Este assunto deve ser abordado a partir de 2 de setembro de 2021. Estas alterações aplicam-se apenas às listas de preços do plano Azure de novo comércio.
 
 A partir de setembro, se houver um RI disponível para ser transacionado no Partner Center, então estará disponível nas tabelas de preços. Para outras RIs, o parceiro deve ir diretamente ao portal Azure para rever os preços e fazer compras.
 

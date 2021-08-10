@@ -1,6 +1,6 @@
 ---
 title: 'Quickstart: Gerir um Mercado Azure Privado usando o PowerShell'
-description: Este quickstart mostra-lhe como gerir ofertas num Private Azure Marketplace usando a Azure PowerShell.
+description: Este quickstart mostra-lhe como gerir ofertas num Private Azure Marketplace usando Azure PowerShell.
 author: keferna
 ms.author: keferna
 ms.topic: quickstart
@@ -8,12 +8,12 @@ ms.service: marketplace-customer
 ms.devlang: azurepowershell
 ms.date: 11/24/2020
 ms.custom: devx-track-azurepowershell
-ms.openlocfilehash: d7bd790eab2618822dbc5099ad1ad107794c82d2
-ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
+ms.openlocfilehash: 1aa734e30c73cd1d3c28c4a77af000a1abadaf16676508c3d986bb23b3a2d2d7
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103412459"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115688544"
 ---
 # <a name="quickstart-manage-a-private-azure-marketplace-using-powershell"></a>Quickstart: Gerir um Mercado Azure Privado usando o PowerShell
 
@@ -26,9 +26,9 @@ Este artigo descreve como pode gerir ofertas num Mercado Azure Privado utilizand
 
 * Se não tiver uma subscrição do Azure, crie uma conta [gratuita](https://azure.microsoft.com/free/) antes de começar.
 
-* Se optar por utilizar a Azure PowerShell localmente:
+* Se optar por utilizar Azure PowerShell localmente:
   * [Instale o módulo Az PowerShell](/powershell/azure/install-az-ps).
-  * Ligue-se à sua conta Azure utilizando o [cmdlet Connect-AzAccount.](/powershell/module/az.accounts/connect-azaccount)
+  * Ligação à sua conta Azure utilizando o [cmdlet Ligação-AzAccount.](/powershell/module/az.accounts/connect-azaccount)
 * Se optar por utilizar a Azure Cloud Shell:
   * Consulte [a visão geral da Azure Cloud Shell](/azure/cloud-shell/overview) para obter mais informações.
 

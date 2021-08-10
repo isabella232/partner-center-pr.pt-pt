@@ -9,12 +9,12 @@ ms.author: hickeys
 author: hickeys
 keywords: janelas 10, uwp, operadores móveis, faturação móvel, faturação do operador móvel
 ms.localizationpriority: medium
-ms.openlocfilehash: b14d92038570756de594f013c4eb2c2e4615c64e
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 5a0d0a60e7bcbde65b1119fcfad66cfdf53f8229cae4f7b017158b2ad5cf1245
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114839974"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115682883"
 ---
 # <a name="mobile-operator-billing"></a>Faturação da operadora de rede móvel
 

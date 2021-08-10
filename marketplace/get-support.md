@@ -6,12 +6,12 @@ ms.topic: how-to
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/18/2020
-ms.openlocfilehash: d8deccc2a48ac29f3c370e9b20d551bf2b95c1ad
-ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
+ms.openlocfilehash: 255afe40e495c79fd605358bce039427b0266a3a6a0ecea776cef8734709097b
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103412629"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115688709"
 ---
 # <a name="how-to-get-support-for-microsoft-appsource-and-azure-marketplace"></a>Como obter suporte para Microsoft AppSource e Azure Marketplace
 
@@ -23,7 +23,7 @@ Para obter suporte para um produto enquanto estiver na loja online AppSource ou 
 
 :::image type="content" source="media/get-support/support-links-in-azure.png" alt-text="Mostra o link de suporte numa oferta de amostra.":::
 
-Se ainda não adquiriu o produto, isto irá levá-lo ao site de suporte da editora. Se já implementou o produto, pode utilizar o site de suporte dos editores, o portal de suporte da Microsoft ou as opções de suporte no portal relevante que utiliza para completar a implementação (como o portal Azure ou o Microsoft 365). Cada um destes portais tem o seu próprio menu de suporte.
+Se ainda não adquiriu o produto, isto irá levá-lo ao site de suporte da editora. Se já implementou o produto, pode utilizar o site de suporte dos editores, o portal de suporte da Microsoft ou as opções de suporte no portal relevante que utiliza para completar a implementação (como o portal Azure ou Microsoft 365). Cada um destes portais tem o seu próprio menu de suporte.
 
 ## <a name="get-support-from-the-azure-portal"></a>Obtenha apoio do portal Azure
 

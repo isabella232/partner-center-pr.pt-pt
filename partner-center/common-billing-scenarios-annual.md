@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9cf6ddd8ed73fcd9a7ee20a180072ad51cc5b7c4
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 2baab834c3d31639f1353a53fb8787da041aec1c1c59776df49bd590fb7452f0
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114843567"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115682373"
 ---
 # <a name="common-annual-billing-scenarios-in-partner-center"></a>Cenários comuns de faturação anual no Centro de Parceiros
 

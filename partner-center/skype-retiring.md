@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 06/03/2020
-ms.openlocfilehash: 58908e966eb80d219afa0cbc8c043932f5aef1a1
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: f69ecf931ab9d381b6cad1870506b1fbf68a15bc45e531a329d3171dee18b596
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114842512"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115682594"
 ---
 # <a name="migrate-skype-for-business-online-plan-1-subscriptions-to-newer-office-365-versions"></a>Migrate Skype for Business Online Plan 1 subscriptions to newer Office 365 version (Migrar as subscrições do Skype para Empresas Online Plano 1 para a versão mais recente do Office 365)
 
@@ -39,10 +39,10 @@ Com os novos planos, os seus clientes podem tirar partido de funcionalidades e f
 
 |**Funcionalidade**    |**Opção 1**   |**Opção 2**   |**Opção 3**   |
 |:-----------------|:-----------------|:-------------|:------------|
-|Obtenha todas as funcionalidades incluídas no Skype para Empresas Plano Online 1|Sim   |Sim   |Sim   |
-|IM e presença |Sim   |Sim   |Sim   |
-|Peer-to-peer Audio e Vídeo sobre IP|Sim   |Sim   |Sim   
-|Junte-se às reuniões como utilizador autenticado| Sim   |Sim   |Sim   |
+|Obtenha todas as funcionalidades incluídas no Skype para Empresas Plano Online 1|Yes   |Yes   |Yes   |
+|IM e presença |Yes   |Yes   |Yes   |
+|Peer-to-peer Audio e Vídeo sobre IP|Yes   |Yes   |Yes   
+|Junte-se às reuniões como utilizador autenticado| Yes   |Yes   |Yes   |
 
 ## <a name="transition-customers-to-new-product-plans"></a>Transição de clientes para novos planos de produtos
 
