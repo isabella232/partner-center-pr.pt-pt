@@ -9,12 +9,12 @@ author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 17f0a23814213805d239d887719c5c3885234390
-ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
+ms.openlocfilehash: d3b7983a46ba81c7122057ed07fa9ebe7303237271776944121deea0c7e28862
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/04/2021
-ms.locfileid: "115102443"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115687188"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Transição do parceiro de faturação direta do Fornecedor de Soluções Cloud para o revendedor indireto do CSP
 

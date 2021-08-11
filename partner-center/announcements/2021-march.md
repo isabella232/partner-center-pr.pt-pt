@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/02/2021
-ms.openlocfilehash: d03bbc6c48f7048dd111a7b83210d11c5c266977
-ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
+ms.openlocfilehash: 28af0cecf14530554a0a17cdc2a45925f3e5d45376483fa1eb680575fdad3854
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/04/2021
-ms.locfileid: "115100417"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115688017"
 ---
 # <a name="march-2021-announcements"></a>Anúncios de março de 2021
 

@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 03/08/2021
-ms.openlocfilehash: 51ef59c21322ff64b417163a8a4a4262c80894bd
-ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
+ms.openlocfilehash: b5704cf683b1de5a624bab810e394f44ede3bb8cde4a5ad637f131647c3ce673
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/04/2021
-ms.locfileid: "115102340"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115688183"
 ---
 # <a name="september-2020-announcements"></a>Anúncios de setembro de 2020
 

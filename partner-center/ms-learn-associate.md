@@ -9,12 +9,12 @@ author: kbangalore
 ms.author: kiranban
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a707c1b9c238063704d87b3c5542a11412985267
-ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
+ms.openlocfilehash: c4f97486048425330e62991bae8589f07f042be82dc23c1cc077fba608a1b5a2
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/04/2021
-ms.locfileid: "115101595"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115694273"
 ---
 # <a name="link-or-unlink-a-microsoft-certification-profile-id-mcid-to-a-microsoft-partner-network-mpn-account"></a>Ligue ou desvincula um ID de perfil de certificação da Microsoft (MCID) a uma conta da Microsoft Partner Network (MPN)
 
@@ -31,7 +31,7 @@ Use o procedimento abaixo para ter acesso à Partner University.
 
 1. Inicie sessão no [dashboard do Centro de Parceiros](https://partner.microsoft.com/dashboard/).
 2. Selecione o ícone azul **My Profile** no canto superior direito
-3. No campo **Aprendizagem,** selecione **Get Partner University Access**. Tem de introduzir as credenciais de conta da Partner University (não a sua conta de centro de parceiros) A sua conta de universidade partner estará agora associada à sua conta de utilizador do Partner Center. As suas avaliações serão refletidas no relatório de Competências do Utilizador do Centro de Parceiros dentro de 72 horas.
+3. No campo **Aprendizagem,** selecione **Get Partner University Access**. Tem de introduzir as credenciais de conta da Partner University (não a sua conta Partner Center) A sua conta de universidade Partner estará agora associada à sua conta de utilizador do Partner Center. As suas avaliações serão refletidas no relatório de Competências do Utilizador do Centro de Parceiros dentro de 72 horas.
 4. Para remover a associação, selecione **Remover o acesso**.
 
 ## <a name="associate-a-microsoft-learning-account"></a>Associar uma conta microsoft Aprendizagem

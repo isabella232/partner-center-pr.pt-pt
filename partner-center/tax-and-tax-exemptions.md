@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: be90285d3bb531125f552cdce8e3dbfda39301fe
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 5b4352be4f51ba02aed5f7c4d1f94eedca5d26990c69e220728d47c58f640856
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114841118"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115695752"
 ---
 # <a name="read-about-taxes-and-tax-exemption-details-by-region-or-country-for-partners-in-the-csp-program"></a>Leia sobre impostos e isenções fiscais por região ou país para parceiros no programa CSP
 

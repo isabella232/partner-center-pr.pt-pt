@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3d40c0c8bab2b7f49797feb3685920210198a6d3
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: eb6bf5f92a07168fd85f632b6f45ee65f874ce94c6b8afcd46ea23a6a93058fe
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114837055"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115694868"
 ---
 # <a name="partner-insights--frequently-asked-questions"></a>Partner Informações – Perguntas Frequentes
 

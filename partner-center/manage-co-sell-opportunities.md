@@ -9,12 +9,12 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2cb4a4700f9c8f74e835863cd74caacf20d2d6d1
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: d221dbe28ecf9ef322b6f589f69b0390a72e5761c8b5ba250c5fccc84a66eb3f
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114837021"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115695349"
 ---
 # <a name="manage-co-sell-opportunities-in-partner-center"></a>Gerir oportunidades de co-venda no Partner Center
 
@@ -225,7 +225,7 @@ Não, os acordos não podem ser modificados quando se mudam para um estado termi
 
 **Q. Quem recebe uma notificação de e-mail do Partner Center?**
 
-O fluxo de trabalho abaixo explica como os e-mails são enviados aos parceiros do sistema de referências do centro parceiro para novas referências de entrada de parceiros.
+O fluxo de trabalho abaixo explica como os e-mails são enviados aos parceiros do sistema de referências do Partner Center para novas referências de entrada de parceiros.
 
 :::image type="content" source="images/pscmigration/emaillogic.png" alt-text="Imagem mostrando a lógica de como os e-mails são enviados aos parceiros para novas referências de entrada.":::
 

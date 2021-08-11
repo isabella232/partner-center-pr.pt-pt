@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d084cbf4def33074cc0ca1aae556004cf67bf555
-ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
+ms.openlocfilehash: ca80d26483bd49e69cd033ffbddb25347e8d34e72d37a2a864c65b64b0a932e1
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/04/2021
-ms.locfileid: "115100151"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115686844"
 ---
 # <a name="troubleshoot-sign-in-issues-for-partner-center"></a>Problemas de resolução de problemas para o Partner Center
 

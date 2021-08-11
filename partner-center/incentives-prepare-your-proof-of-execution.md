@@ -8,12 +8,12 @@ ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: a81962de16b56329167338012cc66e160fffafe8
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 61a4a4d21aa2c9ba28c373e7a112c81a785c43e1e37bf696deb77434516a9e7c
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110151887"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115687776"
 ---
 # <a name="create-and-submit-documents-for-your-incentives-proof-of-execution-poe"></a>Criar e submeter documentos para os seus incentivos comprovativo de execução (PoE)
 

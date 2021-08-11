@@ -9,12 +9,12 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 20a48961d7b513d4242ad2bb5e338b824fa151b0
-ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
+ms.openlocfilehash: d07527e0111666bfc80d9b9ea2c547886c4b796eb6b127f64fbbbc9238e3e4a1
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/04/2021
-ms.locfileid: "115102357"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115696126"
 ---
 # <a name="registration-id-number-information"></a>Informação do número de registo
 

@@ -8,12 +8,12 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 7e3f3e206c851fbcc68ecd47f6027a2d5856478e
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 6a1bc04970a961254c4af7a8a96688f4d3379d051840a4fd556be84041b76a9e
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114844780"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115687825"
 ---
 # <a name="troubleshooting-missing-payments-incorrect-earnings-and-other-issues"></a>Resolução de problemas em falta de pagamentos, ganhos incorretos e outras questões
 

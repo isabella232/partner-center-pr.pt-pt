@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7ebbd34e8de8db845b06b8d75bc17e88612e8477
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 7bb6900ba34c99d497d8273e56e6385aa3bf55690c8729526a5e4c6a1e60ba28
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114837361"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115694137"
 ---
 # <a name="understand-the-fields-in-partner-center-license-based-reconciliation-files"></a>Compreenda os campos em ficheiros de reconciliação baseados em licenças do Partner Center
 

@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f41fa2ccaf99f4ca46e283a4abb0975fb5195eef
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: fdb6941fe0931000cb74ddc10801c3d05d1e041cdf20b37c44e4e94f487008a8
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114841339"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115687048"
 ---
 # <a name="partner-earned-credit---an-overview-of-how-it-works-in-the-new-commerce-experience-in-csp"></a>Partner earned credit - uma visão geral de como funciona na nova experiência de comércio na CSP
 

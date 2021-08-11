@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 71121a7493da8dee18fc65a90a4a70cc32d712c9
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 9f124443aa67bad37a5e9aff0d0bdbbdc0ca8c3015720b960d7b18dd6ce4cbc4
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114838653"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115687949"
 ---
 # <a name="one-time-exam-requirements-exemption-for-the-application-development-competency"></a>Isenção única dos requisitos de exame para a competência de Desenvolvimento de Aplicações
 

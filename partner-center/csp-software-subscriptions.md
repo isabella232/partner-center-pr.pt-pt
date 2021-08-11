@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 162de08f0114d24cc72d21387ca004e7901c15a2
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: f773910c3bf32979158401c78753a3c4478a6908d5085c446c168b6382fdf044
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114844722"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115694205"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Vender subscrições de software através do programa Fornecedor de Soluções em Nuvem (CSP)
 

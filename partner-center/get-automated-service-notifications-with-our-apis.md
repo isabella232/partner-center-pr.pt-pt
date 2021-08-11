@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e25f7856ab2f577c6d8f553d6a360251c116093a
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 37e7a4489dd4fce7c44191325f75b0791f2d6c8edee5985566c8108c8cd4c98a
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114840438"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115695106"
 ---
 # <a name="use-apis-for-automated-service-notifications-for-azure-insights--office-365-service-communications"></a>Utilize APIs para notificações automatizadas de serviços para comunicações de serviço Informações & Office 365 Azure
 

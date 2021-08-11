@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 07/07/2021
-ms.openlocfilehash: 1850ffe388349cdb7e4c685e5db0004d74735e80
-ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
+ms.openlocfilehash: b9ec14c2897af8cc493adcfe027269bfdc39d777556b81755fc2921c035955b8
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/04/2021
-ms.locfileid: "115101655"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115687065"
 ---
 # <a name="guide-to-create-and-manage-iot-deals-in-partner-center-pc-for-iot-partners-migrating-from-partner-sales-connect-psc"></a>Guia para criar e gerir ofertas de IOT no Partner Center (PC) para parceiros IOT migrando de Parceiros Sales Ligação (PSC)
 
@@ -191,7 +191,7 @@ As seguintes secções respondem a perguntas frequentes sobre a migração.
 
 ### <a name="1---what-should-i-do-if-i-dont-have-access-to-partner-center"></a>1 - O que devo fazer se não tiver acesso ao Partner Center?
 
-Pode contactar os seus administradores listados na página "Não ter acesso" para obter as funções atribuídas. Necessitará da [função de administrador de encaminhamento](permissions-overview.md#manage-referrals) para ler e escrever permissão ao abrigo da secção de referências. Se está a gerir apenas perfis de negócio, então vai precisar do perfil de negócios no centro de parceiros.
+Pode contactar os seus administradores listados na página "Não ter acesso" para obter as funções atribuídas. Necessitará da [função de administrador de encaminhamento](permissions-overview.md#manage-referrals) para ler e escrever permissão ao abrigo da secção de referências. Se está a gerir apenas perfis de negócio, então vai precisar do perfil de negócios no Partner Center.
 
 :::image type="content" source="images/pscmigration/noaccess.png" alt-text="Imagem mostrando a experiência de não acesso no Partner Center.":::
 

@@ -8,12 +8,12 @@ description: Veja o que está a fazer bem e onde pode melhorar no que diz respei
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 882b912a01301506bf163087f71bf70d0ed1aa41
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 15d38d49f45baa1b0f88caed3e4f194daf32ac5bcd513231fef5da958b682b80
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114837412"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115687663"
 ---
 # <a name="office-365-usage-report-available-from-the-partner-center-insights-dashboard"></a>Office 365 relatório de utilização disponível no painel de instrumentos do Partner Center Informações
 

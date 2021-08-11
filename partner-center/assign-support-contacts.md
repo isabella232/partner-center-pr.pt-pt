@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 358bce2c23d05d5523a5bd7a7032916d00340daf
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: ac8ddc5f252dc4fe280e4bd4b1d9c83a46517ee7699efd4b83a36d7ae3cb47d3
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114841713"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115690414"
 ---
 # <a name="assign-a-reseller-as-a-technical-support-contact-for-customers"></a>Atribuir um revendedor como contacto técnico de suporte para os clientes
 

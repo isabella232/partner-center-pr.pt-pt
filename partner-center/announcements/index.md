@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 08/09/2021
-ms.openlocfilehash: 169ac959a64c4e0fe45c0358028360ee779e78dd1c7e29779dd382cad69f6b2a
-ms.sourcegitcommit: 16e49a6598ab0ac6e94c72287d2621103216b38a
+ms.date: 08/02/2021
+ms.openlocfilehash: 6ea0c7677ceac6bb4f46fe0ee28af85e39170160e0299af94a3e52e0a0eebc89
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/10/2021
-ms.locfileid: "117000263"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115687966"
 ---
 # <a name="partner-center-announcements"></a>Anúncios do Centro de Parceiros
 
@@ -22,13 +22,11 @@ Saiba mais sobre atualizações importantes do Centro de Parceiros. Estas inform
 
 |**Categoria**|**Anúncios de agosto de 2021**|**Anunciado**|
 |---------|:---------|:---------|
-|Ofertas/Mercados|[Ver as mais recentes promoções e ofertas](2021-august.md#10)| 10 de agosto |
-|Capacidades|[Monitorização da conformidade através da equipa de Gestão de Responsabilidade de Parceiros (PAM)](2021-august.md#9)| 9 de agosto |
-|Ofertas/Mercados|[Windows 365 já disponível para compra: Windows híbridos para um mundo híbrido](2021-august.md#8)| 9 de agosto |
 |Ofertas/Mercados|[Próximas alterações às listas de preços do plano Azure para nova experiência de comércio](2021-august.md#6)| 4 de agosto |
 |Capacidades|[CSP para a Azure nova experiência de comércio expande-se para o Vaticano](2021-august.md#5)| 3 de agosto |
 |Capacidades|[Acesso programático a dados de análise de Informações parceiros](2021-august.md#4)| 3 de agosto |
 |Ofertas/Mercados|[Atestado de oferta necessário para algumas Windows 365 ofertas](2021-august.md#3)| 1 de agosto |
+|Capacidades|[Windows 365 já disponível para compra: Windows híbridos para um mundo híbrido](2021-august.md#2)| 1 de agosto |
 |Capacidades|[Veja os lançamentos e ofertas deste mês](2021-august.md#1)| 1 de agosto |
 |**Categoria**|**Anúncios de julho de 2021**|**Anunciado**|
 |Capacidades|[Nova experiência de comércio em CSP para a Azure expandindo-se para Nuvem da Comunidade Governamental (GCC)](2021-july.md#16)| 26 de julho |

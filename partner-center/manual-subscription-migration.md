@@ -9,12 +9,12 @@ author: Brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3315fe6428613c882bc654d03ce74a57303fba88
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 71c3af5cdb3cb35ff13a455748a93699df43a8b1615116ca7058df3c6a23b7b9
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114839719"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115694664"
 ---
 # <a name="migrate-dynamics-365-and-customer-engagement-plan-from-basic-qualified-offers-to-newer-versions"></a>Migrate Dynamics 365 and Customer Engagement Plan from Basic (qualified offers) to newer versions (Migrar o Dynamics 365 e o Customer Engagement Plan da versão Básica (ofertas qualificadas) para versões mais recentes)
 

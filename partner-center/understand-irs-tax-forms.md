@@ -8,12 +8,12 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-payouts
 ms.localizationpriority: medium
 ms.date: 09/30/2020
-ms.openlocfilehash: cc32ed034f14603c92086d03dd9d43ee7c79b66e
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 2c693fb9f4d134f3cc7e4deee0afb5aaf8affc01e20b6d407d93bcddd5f3f67a
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114845878"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115695888"
 ---
 # <a name="understand-irs-tax-forms-issued-by-microsoft"></a>Entender formulários do IRS emitidos pela Microsoft
 
@@ -25,7 +25,7 @@ Este artigo explica mais sobre estes formulários, incluindo quem os receberá e
 
 ## <a name="types-of-tax-forms"></a>Tipos de formulários fiscais
 
-| Formulário de imposto sobre o IRS | Descrição | Disponibilidade |
+| Formulário de imposto sobre o IRS | Description | Disponibilidade |
 |--------------|-------------|--------------|
 |1099-MISC, 1099-K | Relacionado com a atividade de vendas e/ou pagamentos feitos a si para participação nos mercados da Microsoft | Os formulários impressos serão registados em ou antes **de 31 de janeiro**, e .pdf cópias estarão disponíveis no Partner [Center](https://partner.microsoft.com/dashboard) (nas **definições de Conta de Centro parceiro** ao abrigo do Payout e > de impostos Payout e **perfis fiscais)** ao mesmo tempo |
 |1042-S | Relacionado com pagamentos que lhe são feitos que estão sujeitos a retenção na fonte dos Estados Unidos | Os formulários impressos serão registados em ou antes **de 15 de março**, e .pdf cópias estarão disponíveis no Partner Center developer **Definições** ao abrigo do Payout e > de pagamento e **perfis fiscais)** ao mesmo tempo  |

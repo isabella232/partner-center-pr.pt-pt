@@ -8,12 +8,12 @@ ms.subservice: partnercenter-membership
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: 5099a851dc30767802af507e4840c714e47736e9
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 67013f1761b629c8611241a4b1a8616e04c425a366b363ffb219d4923f417f63
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114843702"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115694741"
 ---
 # <a name="how-to-pay-the-fee-associated-with-a-silver-or-gold-competency"></a>Como pagar a taxa associada a uma competência de prata ou ouro
 

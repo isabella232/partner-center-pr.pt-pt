@@ -10,12 +10,12 @@ ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
 ms.date: 10/05/2020
-ms.openlocfilehash: 2cdcf88d765ab37200e0e62bdbff2bbc8d26027d
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 03e01f2de5625c0f27d79158d950cef6cd2256e572a6302a973a4fc1c5ba3a1a
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114844297"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115686623"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>Inscreva-se no programa Fornecedor de Soluções em Nuvem para Microsoft Cloud for US Government
 

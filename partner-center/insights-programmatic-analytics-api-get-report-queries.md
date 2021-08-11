@@ -8,12 +8,12 @@ description: Utilize esta API para obter todas as consultas disponíveis para us
 author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: 5f65784ce93350c92e0ffe38849ce505f045e0b0
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 943eea26a08f1072b6ddcaf8136b7f9f757d52b8c0170f03519b8787c1877bd3
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114843770"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115695191"
 ---
 # <a name="get-report-queries-api"></a>Obtenha consultas de relatório API
 
@@ -28,7 +28,7 @@ O relatório Get consultas API obtém todas as consultas que estão disponíveis
 
 **Cabeçalho de pedido**
 
-|    Cabeçalho    |    Tipo    |    Descrição    |
+|    Cabeçalho    |    Tipo    |    Description    |
 |    ----    |    ----    |    ----    |
 |    Autorização    |    string    |    Obrigatório. O Azure Ative Directory (AAD) símbolo de acesso na forma`Bearer <token>`    |
 |    Content-Type    |    string    |    `Application/JSON`    |
@@ -44,8 +44,8 @@ Nenhuma
 |    ----    |    ----    |    ----    |    ----    |
 |    consultaD     |    cadeia (de carateres)     |    No    |    Filtrar para obter detalhes de apenas consultas com o ID dado no argumento     |
 |    consultaName     |    cadeia (de carateres)     |    No    |    Filtrar para obter detalhes de apenas consultas com o nome dado no argumento     |
-|    Incluir Sistemaqueries     |    boolean     |    Não    |    Incluir consultas de sistema predefinidas na resposta     |
-|    Incluir Apenas SistemasQueries     |    boolean     |    Não    |    Incluir apenas consultas de sistema na resposta     |
+|    Incluir Sistemaqueries     |    boolean     |    No    |    Incluir consultas de sistema predefinidas na resposta     |
+|    Incluir Apenas SistemasQueries     |    boolean     |    No    |    Incluir apenas consultas de sistema na resposta     |
 |        |        |        |        |
 
 
@@ -92,7 +92,7 @@ Esta tabela define os elementos-chave na resposta:
 |    ----    |    ----    |
 |    QueryId     |    UUID único da consulta     |
 |    Name     |    Nome dado à consulta no momento da criação de consultas     |
-|    Descrição     |    Descrição dada durante a criação da consulta     |
+|    Description     |    Descrição dada durante a criação da consulta     |
 |    Consulta     |    Cadeia de consulta de relatório     |
 |    Tipo     |    Conjunto para utilizadorDefined para consultas e sistema criados pelo utilizador para consultas de sistema predefinidos     |
 |    Utilizador     |    ID do utilizador que criou a consulta     |

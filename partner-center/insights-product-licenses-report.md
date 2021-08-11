@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5287e056e2ac2e8a0238ac7f86cca0fe58b92238
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 076a65d8e309308142201dedfa807052d2d3b8eb5180be14734edbbec92a3616
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114845198"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115687541"
 ---
 # <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>Relatório de licenças de produtos no centro de parceiros Informações dashboard
 

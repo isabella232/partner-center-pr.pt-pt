@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f5448932c9016f346f18882ad0070108f684e941
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 1d552cef5617c4755d5ded8c80be722e6bd81d5d8ea3817500817828b8b42481
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114838143"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115694596"
 ---
 # <a name="invoices-and-taxes-in-the-microsoft-partner-network"></a>Faturas e impostos na Microsoft Partner Network
 
