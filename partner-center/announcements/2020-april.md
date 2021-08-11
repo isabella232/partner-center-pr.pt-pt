@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 05/21/2021
-ms.openlocfilehash: 31689ef78520835fd31d976e340280302972c4ce
-ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
+ms.openlocfilehash: 379d1d1124f46e3dd8f3f9f3ad957bd06e6c390c22d2af4d1fe8a41d544380be
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/04/2021
-ms.locfileid: "115102014"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115684821"
 ---
 # <a name="april-2020-announcements"></a>Anúncios de abril de 2020
 
@@ -236,7 +236,7 @@ Para aceder às Alterações, siga estes passos:
 - Passo 3: Selecione-o, clique em "Soluções de Revisão"
 - Passo 4: Clique na alteração de que precisa
 
-Em alternativa, inscreva-se no centro de parceiros e vá a [este URL.](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=0570a74b-e021-7aa6-9a81-d0fe505b8df5)
+Em alternativa, inscreva-se no Partner Center e vá a [este URL.](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=0570a74b-e021-7aa6-9a81-d0fe505b8df5)
 
 ### <a name="additional-resources"></a>Recursos adicionais
 

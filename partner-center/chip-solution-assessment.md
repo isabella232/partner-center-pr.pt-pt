@@ -9,12 +9,12 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 620490dfdd63b40957421e6df6432d480584658a
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 64443f28df956c9ecb9b8b1220c66d1ac740f126a6faedf34ce7d5e9a3c4139e
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110148844"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115692658"
 ---
 # <a name="find-your-solution-assessments-opportunity-status-on-chip"></a>Encontre o estado de oportunidade da sua solução avalia o chip
 

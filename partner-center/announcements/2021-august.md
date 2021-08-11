@@ -10,20 +10,20 @@ ms.custom:
 - announcement
 - references_regions
 ms.localizationpriority: high
-ms.date: 08/05/2021
-ms.openlocfilehash: 690e4a75b7035c4f16df0eeb4a9985bb29658a11757dcdccc1dd0faa17d1bdef
-ms.sourcegitcommit: 8aa666a297f567435c8bd3eb7e90d29d2b96b601
+ms.date: 08/09/2021
+ms.openlocfilehash: 092fd2af57535ec96d7f261578a047b1b9d05ec02efad4e29cc3c6374d2443d1
+ms.sourcegitcommit: 16e49a6598ab0ac6e94c72287d2621103216b38a
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/08/2021
-ms.locfileid: "116885444"
+ms.lasthandoff: 08/10/2021
+ms.locfileid: "117000280"
 ---
 # <a name="august-2021-announcements"></a>Anúncios de agosto de 2021
 
 Esta página fornece os anúncios para o Microsoft Partner Center para agosto de 2021.
 
 ________________
-## <a name="view-the-latest-promotions-and-offers"></a><a name="7"></a>Ver as mais recentes promoções e ofertas
+## <a name="view-the-latest-promotions-and-offers"></a><a name="10"></a>Ver as mais recentes promoções e ofertas
 
 ### <a name="summary"></a>Resumo
 
@@ -31,7 +31,7 @@ O mais recente Guia Global de Prontidão Promocional já foi publicado.
 
 ### <a name="categories"></a>Categorias
 
-- Data: 2021-08-06
+- Data: 2021-08-10
 - Ofertas & Mercados
 
 ### <a name="impacted-audience"></a>Audiência impactada
@@ -49,6 +49,102 @@ Consulte o último Guia Promocional mensal na galeria de recursos de prontidão 
 ### <a name="questions"></a>Perguntas?
 
 Para questões sobre estas ofertas, consulte as suas comunidades Yammer relevantes.
+
+________________
+## <a name="compliance-monitoring-through-the-partner-accountability-management-pam-team"></a><a name="9"></a>Monitorização da conformidade através da equipa de Gestão de Responsabilidade de Parceiros (PAM)
+
+### <a name="summary"></a>Resumo
+
+A equipa da PAM melhora os nossos programas de monitorização da conformidade e ajuda o ecossistema parceiro a fomentar e manter uma cultura de ética e confiança.
+
+### <a name="categories"></a>Categorias
+
+- Data: 2021-08-09
+- Capacidades
+
+### <a name="impacted-audience"></a>Audiência impactada
+
+Parceiros transacionando com a Microsoft em todo o mundo
+
+### <a name="details"></a>Detalhes
+
+Como parceiros, o nosso compromisso mútuo em construir e manter a confiança significa fazer negócios da maneira certa. Os mais elevados padrões de conduta são fundamentais para reter parceiros e clientes e são necessários para impulsionar o valor para a Microsoft, os nossos parceiros e todas as nossas partes interessadas.
+
+Para fomentar e manter uma cultura de conformidade e confiança, a Microsoft estabeleceu um controlo de conformidade através da equipa PAM há quase dois anos. A equipa DAP consolida os esforços de monitorização e impulsiona resoluções oportunas para áreas identificadas de comportamento não conforme no nosso ecossistema parceiro, com o objetivo de melhorar o canal para todos. Com base nas nossas obrigações contratuais, a Microsoft pode impor sanções e iniciativas de correção de cursos para infrações de conformidade.
+
+Criámos um [documento de PERGUNTAS Frequentes](https://partner.microsoft.com/resources/detail/partner-accountability-management-faq-pdf) para ajudar os parceiros a entender como a PAM opera e as áreas-chave de clareza onde obtemos a maioria das perguntas. Pode encontrar mais informações no [Compliance Partner understanding (microsoft.com)](https://partner.microsoft.com/resources/collection/understanding-partner-compliance#/) e registar-se para formação a pedido.
+
+Como um lembrete para todos os nossos parceiros, fornecedores e outros representantes em todo o mundo, é obrigatório cumprir a nossa Política Anti-Corrupção para os Representantes da Microsoft, o nosso Código de Conduta de Parceiros, e os termos e condições dos nossos acordos.
+
+### <a name="next-steps"></a>Passos seguintes
+
+Familiarize-se com as FAQ PAM, faça a formação a pedido e partilhe esta informação com todas as equipas relevantes dentro da sua organização.
+
+### <a name="questions"></a>Perguntas?
+
+Se tiver alguma dúvida sobre a equipa PAM, contacte o seu representante na equipa de conta da Microsoft.
+
+________________
+## <a name="windows-365-now-available-for-purchase-hybrid-windows-for-a-hybrid-world"></a><a name="8"></a>Windows 365 já disponível para compra: Windows híbridos para um mundo híbrido
+
+### <a name="summary"></a>Resumo
+
+A Microsoft está a trazer Windows para a nuvem com [Windows 365](https://aka.ms/M365EndpointPartner).
+
+### <a name="categories"></a>Categorias
+
+- Data: 2021-08-09
+- Ofertas & Mercados
+
+### <a name="impacted-audience"></a>Audiência impactada
+
+Parceiros que transfiram através do programa Fornecedor de Soluções em Nuvem (CSP)
+
+### <a name="details"></a>Detalhes
+
+A Microsoft está entusiasmada por anunciar que [Windows 365](https://aka.ms/M365EndpointPartner) já está disponível para os clientes comprarem. Windows 365 é um serviço de cloud que oferece uma nova forma de experimentar Windows 10 ou Windows 11, transmitindo as suas aplicações, configurações e conteúdos personalizados da nuvem da Microsoft para qualquer dispositivo.
+
+#### <a name="welcome-to-your-windows-365-cloud-pc"></a>Bem-vindo ao seu Windows 365 Cloud PC:
+
+- **Transmitido através de dispositivos:** Pode iniciar o arranque instantaneamente para o seu Pc Cloud, transmitindo a sua experiência Windows para qualquer um dos seus dispositivos.  
+
+- **Sempre pronto e atualizado:** Transmitido da nuvem e viajando consigo, Windows 365 está sempre pronto e sempre atualizado, onde quer que esteja, em qualquer dispositivo em que queira trabalhar. É uma experiência de Windows simples e versátil proporcionada pela nuvem microsoft.
+
+- **Pessoal e familiar:** Windows 365 é personalizado e familiarizado com todas as suas definições e conteúdos, por isso, quando volta para o seu Pc Cloud, é logo onde o deixou.
+
+- **Escalável e resiliente:** Windows 365 é seguro pelo design, usando o poder da nuvem e os princípios da Zero Trust. A informação é segura e armazenada na nuvem e não no dispositivo.
+
+- **Custos previsíveis:** Windows 365 torna a compra de Computadores Cloud previsível com preços por utilizador por mês.
+
+- **Simples de comprar, implementar e gerir:** Windows 365 simplifica a aquisição, implementação, gestão e atualizações porque, ao contrário de outras soluções, utiliza a virtualização nos bastidores.
+
+Windows 365 está disponível para os clientes comprarem através [de windows365.com,](https://www.microsoft.com/windows-365?ms.url=w365&rtc=1)Contrato Enterprise ou do programa CSP.
+
+#### <a name="update-on-windows-365-trials"></a>Atualização sobre Windows 365 ensaios
+
+Devido à procura significativa, atingimos a capacidade de Windows 365 ensaios, pelo que estamos a fazer uma pausa nos novos ensaios. Os clientes podem [inscrever-se](https://go.microsoft.com/fwlink/?linkid=2165147) para receber uma notificação quando as subscrições do teste retomam, ou vão [aqui](https://www.microsoft.com/windows-365?ms.url=w365&rtc=1) comprar Windows 365 hoje.
+
+Entretanto, os parceiros que procuram compreender o serviço podem continuar a utilizar a [demonstração de click-through.](https://interactive-demo.azureedge.net/)
+
+### <a name="next-steps"></a>Passos seguintes
+
+- Assista ao [anúncio Windows 365](https://aka.ms/MSInspireBRK101) do Microsoft Inspire.
+
+- Leia mais sobre Windows 365 através da nossa [publicação de blog.](https://www.microsoft.com/microsoft-365/blog/?p=237041?)
+
+- Junte-se a nós no dia 18 de agosto para um [parceiro ir ao mercado webinar](https://aka.ms/Windows365PartnerWebinar) para saber mais sobre a oportunidade de parceiro com Windows 365.
+
+- Reveja as informações sobre este tópico na [galeria de recursos operations](https://partner.microsoft.com/resources/collection/introducing-windows-365-for-a-hybrid-world#/) (pedido de inscrição) no site do parceiro da Microsoft.
+
+### <a name="questions"></a>Perguntas?
+
+Para mais perguntas sobre esta oferta, consulte as [comunidades parceiras relevantes da Microsoft.](https://www.microsoftpartnercommunity.com/)
+
+### <a name="change-log"></a>Change log
+
+- 20 de julho de 2021: Anunciar novos Windows 365
+- 2 de agosto de 2021: Windows 365 já disponível para os clientes comprarem
+- 9 de agosto de 2021: Atualização sobre Windows 365 julgamentos
 
 ________________
 ## <a name="upcoming-changes-to-azure-plan-price-lists-for-new-commerce-experience"></a><a name="6"></a>Próximas alterações às listas de preços do plano Azure para nova experiência de comércio
@@ -77,7 +173,6 @@ Historicamente, as listas de preços do plano Azure incluem incorretamente:
 Estamos a fazer algumas atualizações para as listas de preços do Azure plan Partner Center para garantir que os itens da lista de preços estão sincronizados com o que está disponível para compra no Partner Center. Este assunto deve ser abordado a partir de 2 de setembro de 2021. Estas alterações aplicam-se apenas às listas de preços do plano Azure de novo comércio.
 
 A partir de setembro, se houver um RI disponível para ser transacionado no Partner Center, então estará disponível nas tabelas de preços. Para outras RIs, o parceiro deve ir diretamente ao portal Azure para rever os preços e fazer compras.
-
 
 ### <a name="next-steps"></a>Passos seguintes
 - Os parceiros devem baixar os preços do plano Azure para ver as RIs disponíveis através [do Partner Center](https://partner.microsoft.com/dashboard/sell/pricingandoffers).
@@ -199,58 +294,6 @@ Abaixo estão as ofertas que atualmente requerem atestado antes da compra.
 ### <a name="next-steps"></a>Passos seguintes
 
 Reveja mais informações no [Preço e ofereça](../pricing-and-offers.md#offer-attestation) como fazer.
-
-________________
-## <a name="windows-365-now-available-for-purchase-hybrid-windows-for-a-hybrid-world"></a><a name="2"></a>Windows 365 já disponível para compra: Windows híbridos para um mundo híbrido
-
-### <a name="summary"></a>Resumo
-
-A Microsoft está a trazer Windows para a nuvem com [Windows 365](https://aka.ms/M365EndpointPartner).
-
-### <a name="categories"></a>Categorias
-
-- Data: 2021-08-01
-- Capacidades
-
-### <a name="impacted-audience"></a>Audiência impactada  
-
-Parceiros que transfiram através do programa Fornecedor de Soluções em Nuvem (CSP)
-
-### <a name="details"></a>Detalhes
-
-A Microsoft está entusiasmada por anunciar que [Windows 365](https://aka.ms/M365EndpointPartner) já está disponível para os clientes comprarem. Windows 365 é um serviço de cloud que oferece uma nova forma de experimentar Windows 10 ou Windows 11, transmitindo as suas aplicações, configurações e conteúdos personalizados da nuvem da Microsoft para qualquer dispositivo.
-
-Bem-vindo ao seu Windows 365 Cloud PC:
-
-- **Transmitido através de dispositivos:** Pode iniciar o arranque instantaneamente para o seu Pc Cloud, transmitindo a sua experiência Windows para qualquer um dos seus dispositivos.  
-
-- **Sempre pronto e atualizado:** Transmitido da nuvem e viajando consigo, Windows 365 está sempre pronto e sempre atualizado, onde quer que esteja, em qualquer dispositivo em que queira trabalhar. É uma experiência de Windows simples e versátil proporcionada pela nuvem microsoft.
-
-- **Pessoal e familiar:** Windows 365 é personalizado e familiarizado com todas as suas definições e conteúdos, por isso, quando volta para o seu Pc Cloud, é logo onde o deixou.
-
-- **Escalável e resiliente:** Windows 365 é seguro pelo design, usando o poder da nuvem e os princípios da Zero Trust. A informação é segura e armazenada na nuvem e não no dispositivo.
-
-- **Custos previsíveis:** Windows 365 torna a compra de Computadores Cloud previsível com preços por utilizador por mês.
-
-- **Simples de comprar, implementar e gerir:** Windows 365 simplifica a aquisição, implementação, gestão e atualizações porque, ao contrário de outras soluções, utiliza a virtualização nos bastidores.
-
-Windows 365 está disponível para os clientes comprarem através [de windows365.com,](https://www.microsoft.com/windows-365?ms.url=w365&rtc=1)Contrato Enterprise ou do programa CSP.
-
-### <a name="next-steps"></a>Passos seguintes
-
-- Assista ao [anúncio Windows 365](https://aka.ms/MSInspireBRK101) do Microsoft Inspire.
-- Leia mais sobre Windows 365 através da nossa [publicação de blog.](https://www.microsoft.com/microsoft-365/blog/?p=237041?)
-- Junte-se a nós no dia 18 de agosto para um [parceiro ir ao mercado webinar](https://aka.ms/Windows365PartnerWebinar) para saber mais sobre a oportunidade de parceiro com Windows 365.
-- Reveja as informações sobre este tópico na [galeria de recursos operations](https://partner.microsoft.com/resources/collection/introducing-windows-365-for-a-hybrid-world#/) (pedido de inscrição) no site do parceiro da Microsoft.
-
-### <a name="questions"></a>Perguntas?
-
-Para mais perguntas sobre esta oferta, consulte as [comunidades parceiras relevantes da Microsoft.](https://www.microsoftpartnercommunity.com/)
-
-#### <a name="change-log"></a>Change log
-
-- 20 de julho de 2021: Anunciar novos Windows 365
-- 2 de agosto de 2021: Windows 365 já disponível para os clientes comprarem
 
 ________________
 ## <a name="view-this-months-product-launches-and-offers"></a><a name="1"></a>Veja os lançamentos e ofertas deste mês

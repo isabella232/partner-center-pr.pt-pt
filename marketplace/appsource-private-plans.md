@@ -7,12 +7,12 @@ author: Guyshu
 ms.author: gushuchm
 ms.date: 06/08/2021
 robots: noindex
-ms.openlocfilehash: a392859c1106c747e0e7c696927ef3b25262e411
-ms.sourcegitcommit: a576c9606ade59cef7d0b2d5e1584016740d08eb
+ms.openlocfilehash: 2e55bd233d347cc7c23d60eb832c8fddfcfe524f4fb055e33e2a7a275eddee49
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/11/2021
-ms.locfileid: "112008590"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115683866"
 ---
 # <a name="private-plans-in-microsoft-appsource"></a>Planos privados no Microsoft AppSource
 

@@ -7,18 +7,18 @@ author: Guyshu
 ms.author: gushuchm
 ms.date: 03/12/2021
 ms.custom: contperf-fy21q3
-ms.openlocfilehash: 26de300413e9b718545489b1ab4a3aa6a0286bf3
-ms.sourcegitcommit: 062ee7d60eb552b25b4dc7cd2493da0a0a267635
+ms.openlocfilehash: 0992dadecdcce4e001df221735e1de3ab437a5f75f7f0138869ccc94be363df5
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "103486883"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115685661"
 ---
 # <a name="what-is-microsoft-appsource"></a>O que é o Microsoft AppSource?
 
 O Microsoft AppSource é uma loja online que contém milhares de aplicações e serviços empresariais construídos por fornecedores de software líderes do setor. Pode utilizar o AppSource para encontrar, tentar, comprar e implementar o software e serviços de negócio que o ajudam a gerir o seu negócio.
 
-O catálogo appSource inclui software como aplicações de serviço (SaaS), soluções construídas para Microsoft Azure, Dynamics 365, Microsoft 365, Power BI, Power Apps e serviços de consultoria de parceiros da Microsoft. Aceda ao catálogo de produtos AppSource [https://appsource.microsoft.com](https://appsource.microsoft.com) em ou através da experiência no produto na Microsoft 365, Dynamics 365 e Microsoft Power Platform. As soluções do AppSource também podem estar disponíveis a partir de revendedores da Microsoft no programa Cloud Solution Provider.
+O catálogo appSource inclui software como aplicações de serviço (SaaS), soluções construídas para Microsoft Azure, Dynamics 365, Microsoft 365, Power BI, Power Apps e serviços de consultoria de parceiros da Microsoft. Aceda ao catálogo de produtos AppSource [https://appsource.microsoft.com](https://appsource.microsoft.com) em ou através da experiência no produto em Microsoft 365, Dynamics 365 e Microsoft Power Platform. As soluções do AppSource também podem estar disponíveis a partir de revendedores da Microsoft no programa Fornecedor de Soluções em Nuvem.
 
 ## <a name="find-what-you-need-on-appsource"></a>Encontre o que precisa no AppSource
 
@@ -49,30 +49,30 @@ Selecione uma aplicação a partir dos resultados da *aplicação* para ver a p�
 
 ## <a name="purchasing-requirements"></a>Requisitos de compra
 
-Para comprar aplicativos SaaS do AppSource, você precisará de uma conta Azure Ative Directory, também referida como uma conta de trabalho ou escola. Se a sua organização utilizar o Office 365, o seu endereço de e-mail normal será suficiente. Se não tiver uma destas contas, o fluxo de compra irá levá-lo a inscrever-se, o que é gratuito. Para obter etapas detalhadas, consulte [como comprar aplicações SaaS no Microsoft AppSource](purchase-software-appsource.md).
+Para comprar aplicativos SaaS do AppSource, você precisará de uma conta Azure Ative Directory, também referida como uma conta de trabalho ou escola. Se a sua organização utilizar Office 365, o seu endereço de e-mail normal será suficiente. Se não tiver uma destas contas, o fluxo de compra irá levá-lo a inscrever-se, o que é gratuito. Para obter etapas detalhadas, consulte [como comprar aplicações SaaS no Microsoft AppSource](purchase-software-appsource.md).
 
 ## <a name="certification-and-security"></a>Certificação e segurança
 
-Todos os produtos disponíveis no AppSource foram certificados de acordo com critérios específicos. Ainda o encorajamos a rever cada produto cuidadosamente para garantir que ele cumpre os requisitos únicos da sua organização. Para conhecer as políticas de certificação que revemos para cada tipo de oferta, consulte [as políticas de certificação do mercado comercial.](/legal/marketplace/certification-policies) As aplicações da Microsoft 365 têm um processo adicional de [certificação](/microsoft-365-app-certification/docs/enterprise-app-certification-guide) e [atestação](/microsoft-365-app-certification/docs/enterprise-app-attestation-guide) para editores.
+Todos os produtos disponíveis no AppSource foram certificados de acordo com critérios específicos. Ainda o encorajamos a rever cada produto cuidadosamente para garantir que ele cumpre os requisitos únicos da sua organização. Para conhecer as políticas de certificação que revemos para cada tipo de oferta, consulte [as políticas de certificação do mercado comercial.](/legal/marketplace/certification-policies) Microsoft 365 aplicações têm um processo adicional de [certificação](/microsoft-365-app-certification/docs/enterprise-app-certification-guide) e [atestação](/microsoft-365-app-certification/docs/enterprise-app-attestation-guide) para editores.
 
 ## <a name="terms-and-conditions"></a>Termos e condições
 
 O fornecedor de software define o preço, o contrato de licença de utilizador final e as políticas de privacidade. Todas as ofertas no AppSource incluem links para o contrato de licença da editora e política de privacidade. Ver e reconhecer estes acordos faz parte do fluxo de compra. Para mais informações, consulte [os contratos legais.](legal-contracts.md)
 
-## <a name="discover-saas-and-microsoft-365-integrated-apps"></a>Descubra aplicações integradas SaaS e Microsoft 365
+## <a name="discover-saas-and-microsoft-365-integrated-apps"></a>Descubra apps integradas saaS e Microsoft 365
 
-Os nossos parceiros podem ligar-se entre uma aplicação SaaS e os seus suplementos correspondentes para o Microsoft 365. Isto permite-lhe descarregar e utilizar os add-ins de serviços ou produtos específicos da Microsoft 365 quando obtém uma aplicação SaaS ligada a add-ins.
+Os nossos parceiros podem ligar entre uma aplicação SaaS e os seus suplementos correspondentes para Microsoft 365. Isto permite-lhe descarregar e utilizar os add-ins de serviços ou produtos Microsoft 365 específicos quando obtém uma aplicação SaaS ligada a add-ins.
 
 Neste caso, o resultado da pesquisa pode devolver apenas a app SaaS com ícones de produto adicionais correspondentes no cartão de produto da aplicação SaaS. Pode navegar entre as páginas de detalhes do produto da aplicação SaaS e a aplicação integrada.
 
 Se procura os add-ins autónomos, pode encontrá-los de uma das seguintes formas:
 
-- Aceda ao [catálogo de produtos AppSource](https://appsource.microsoft.com/marketplace/apps/), e na navegação à esquerda, em **Produtos** selecione **Microsoft 365**. Da lista de produtos que aparecem sob **a Microsoft 365,** selecione as caixas para os produtos que pretende.
+- Aceda ao [catálogo de produtos AppSource](https://appsource.microsoft.com/marketplace/apps/), e na navegação à esquerda, em **Produtos** selecione **Microsoft 365**. Na lista de produtos que aparecem sob **Microsoft 365,** selecione as caixas para os produtos que pretende.
 - Ou selecione o ícone do produto de adicionar dentro do cartão de produto da aplicação SaaS para ir ao addon específico que foi escondido do visor de pesquisa.
 
 Se uma aplicação SaaS necessitar de compra, consulte [como comprar ofertas do SaaS no Microsoft AppSource.](purchase-software-appsource.md)
 
-Os utilizadores de Admin microsoft 365 podem implementar tanto o SaaS como os add-ins em um único local. Para saber mais, consulte [o Teste e implemente as aplicações microsoft 365 - Microsoft 365 administração](/microsoft-365/admin/manage/test-and-deploy-microsoft-365-apps).
+Administração Microsoft 365 utilizadores podem implementar tanto o SaaS como os add-ins em um único local. Para saber mais, consulte [o Teste e implemente Microsoft 365 Apps - Microsoft 365 administração](/microsoft-365/admin/manage/test-and-deploy-microsoft-365-apps).
 
 ## <a name="find-ratings-and-reviews"></a>Encontrar classificações e avaliações
 

@@ -9,12 +9,12 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4bd3ff28dbc0ff159a68827735b81be5ac1eb948
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 680e3e284f8226f3f6ee0faeb89a4ab0fd689861a1d2fe47fefc7f48f3a8365f
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110148895"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115692692"
 ---
 # <a name="check-payment-status-in-the-channel-incentives-platform-chip"></a>Verifique o estado do pagamento na Plataforma de Incentivos do Canal (CHIP)
 
@@ -31,7 +31,7 @@ Para verificar o seu estado de pagamento em CHIP, para os Programas Enterprise e
  
 1. Selecione a ligação do programa **Enterprise** ou **SPLAR** no ecrã inicial CHIP para abrir o painel de instrumentos. O painel de instrumentos é o ecrã resumido de todos os seus ganhos e pagamentos.
  
-1. Para descarregar todos os detalhes de ganhos, pagamentos ou cálculos, **selecione Export to Excel** a partir da lista de dropdown **Select.**
+1. Para descarregar todos os detalhes de ganhos, pagamentos ou cálculos, **selecione Export to Excel** da lista **selectdown.**
 
 ## <a name="next-steps"></a>Passos seguintes
 

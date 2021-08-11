@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 880a2db785f9e8f14093dd3bf1abae2a9c580ff0
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 8eb8d702aca89494337104d0a494d83f4b75c761c1df7a587593a813d61dbc9d
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114840982"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115685705"
 ---
 # <a name="software-assurance-planning-services-retirement"></a>Reforma dos Serviços de Planeamento de Garantia de Software
 

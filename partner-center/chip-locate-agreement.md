@@ -9,12 +9,12 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 288e4ebb224d3ff1b0d4050691b733e678ec29a3
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: c2ae28bd6291af9c4a4445dcc4010b817e533c34b339b137b67ae1a99b5f4e2c
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276947"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115692784"
 ---
 # <a name="locate-the-desktop-count-and-fee-level-for-an-agreement"></a>Localizar a contagem de computadores e o nível de honorários de um contrato
 
@@ -29,7 +29,7 @@ Pode iniciar sessão na [explore.ms](https://www.explore.ms/) para rever o contr
 1. Abra [explore.ms](https://www.explore.ms/) no Internet Explorer. 
 
 >[!Note]
->Não é possível executar esta função no Google Chrome ou Microsoft Edge.
+>Não é possível desempenhar esta função no Google Chrome ou Microsoft Edge.
 
 2. Faça login na sua conta Work/School ou iD ao vivo.  
 
@@ -63,7 +63,7 @@ Depois de procurar o número do contrato em explore.ms utilizando os passos acim
 
 1. Inscreva-se no CHIP e selecione Incentivos LSP.
 
-2. Na página Resumo do Pagamento do **Parceiro,** selecione o mês de reporte que pretende visualizar e, em seguida, selecione **Detalhes** de Cálculo a partir do dropdown em **Exportação para Excel**:
+2. Na página Resumo do Pagamento do **Parceiro,** selecione o mês de reporte que pretende visualizar e, em seguida, selecione **Detalhes** de Cálculo da queda em **Exportação para Excel**:
 
 :::image type="content" source="images/chip/chiplocate.png" alt-text="Localize os detalhes do programa.":::
 

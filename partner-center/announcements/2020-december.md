@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/18/2021
-ms.openlocfilehash: dd9a93421dd3418ba0f60dcd4bb60459aa5dac03
-ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
+ms.openlocfilehash: 0cc5e5fb4fb13ed2e230a67969fd1165f95576d076f06d7a628c2ef814e5cff3
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/04/2021
-ms.locfileid: "115100620"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115684787"
 ---
 # <a name="december-2020-announcements"></a>Anúncios de dezembro de 2020
 
@@ -397,7 +397,7 @@ Os detalhes da oferta abaixo para esta oferta estarão na matriz da lista de ofe
 
 ### <a name="next-steps"></a>Passos Seguintes
 
-- A oferta promocional estará disponível no dia 1 de janeiro de 2021, lista oficial de preços base de licença do CSP e matriz de lista de ofertas.
+- A oferta promocional estará disponível na lista oficial de preços base de licença do CSP Partner Center e matriz de lista de ofertas.
 
 ______________
 

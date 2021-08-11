@@ -9,12 +9,12 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6bef607e7ca5d024c815f129a573bb58fa81c695
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: b48f26ef61277c9937edb704753d340368e3d83d4be6aded4c3706daeb591b35
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114843753"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115692279"
 ---
 # <a name="explore-the-visual-studio-benefits-area-in-partner-center"></a>Explore a área de benefícios Visual Studio no Partner Center
 

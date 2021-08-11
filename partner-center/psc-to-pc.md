@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: ee7e3da61d5566f9202ba3ff116638c8fb4dfb69
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 754a41716575dbc03dc0a6c384753ad35c4d187ae302b7bcd2feefa5d5bb133e
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114839809"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115684467"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Guia para co-venda no Partner Center (PC) para parceiros que migram de Ligação de Vendas de Parceiros (PSC)
 
@@ -317,7 +317,7 @@ As seguintes secções respondem a perguntas frequentes sobre a migração.
 
 ### <a name="1---what-should-i-do-if-i-dont-have-access-to-partner-center"></a>1 - O que devo fazer se não tiver acesso ao Partner Center?
 
-Pode contactar os seus administradores listados na página "Não ter acesso" para obter as funções atribuídas. Necessitará da [função de administrador de encaminhamento](permissions-overview.md#manage-referrals) para ler e escrever permissão ao abrigo da secção de referências. Se está a gerir apenas perfis de negócio, então vai precisar do perfil de negócios no centro de parceiros.
+Pode contactar os seus administradores listados na página "Não ter acesso" para obter as funções atribuídas. Necessitará da [função de administrador de encaminhamento](permissions-overview.md#manage-referrals) para ler e escrever permissão ao abrigo da secção de referências. Se está a gerir apenas perfis de negócio, então vai precisar do perfil de negócios no Partner Center.
 
 :::image type="content" source="images/pscmigration/noaccess.png" alt-text="Imagem mostrando a experiência de não acesso no Partner Center.":::
 
@@ -359,11 +359,11 @@ Sim, adicionar uma [organização de clientes](./manage-co-sell-opportunities.md
 
 ### <a name="10---are-customer-contact-details-mandatory"></a>10 - Os dados de contacto do cliente são obrigatórios?
 
-Depende do [tipo de acordo](./manage-co-sell-opportunities.md#types-of-co-sell-opportunities) que está a criar. Se estiver apenas a partilhar o seu oleoduto e não necessitar de ajuda da organização de vendas da Microsoft, pode optar por não dar detalhes de contacto com o cliente. Se estiver a co-vender onde está ativamente à procura de ajuda do vendedor da Microsoft, terá de fornecer os dados de contacto do cliente. Deve obter o consentimento explícito do cliente antes de criar um pedido de co-venda no centro de parceiros.
+Depende do [tipo de acordo](./manage-co-sell-opportunities.md#types-of-co-sell-opportunities) que está a criar. Se estiver apenas a partilhar o seu oleoduto e não necessitar de ajuda da organização de vendas da Microsoft, pode optar por não dar detalhes de contacto com o cliente. Se estiver a co-vender onde está ativamente à procura de ajuda do vendedor da Microsoft, terá de fornecer os dados de contacto do cliente. Deve obter o consentimento explícito do cliente antes de criar um pedido de co-venda no Partner Center.
 
 ### <a name="11---how-many-solutions-can-i-add-to-a-deal"></a>11 - Quantas soluções posso acrescentar a um acordo?
 
-Pode adicionar até 50 soluções (análogas aos 'produtos' do PSC) a um acordo. Ao contrário do PSC, pode misturar soluções a partir de suas próprias soluções elegíveis co-venda, SKUs de primeira parte da Microsoft e outras soluções elegíveis de terceiros. Não há nenhuma função de negócio que deve ser selecionado ou disponível no centro parceiro. Para o Microsoft SKUs, pode opcionalmente adicionar quantidade e preço para cada SKU que é adicionado ao negócio.
+Pode adicionar até 50 soluções (análogas aos 'produtos' do PSC) a um acordo. Ao contrário do PSC, pode misturar soluções a partir de suas próprias soluções elegíveis co-venda, SKUs de primeira parte da Microsoft e outras soluções elegíveis de terceiros. Não há nenhuma função de negócio que deve ser selecionado ou disponível no Partner Center. Para o Microsoft SKUs, pode opcionalmente adicionar quantidade e preço para cada SKU que é adicionado ao negócio.
 
 ### <a name="12---when-will-i-get-to-know-the-microsoft-seller-details-after-creating-a-deal"></a>12 - Quando vou conhecer os detalhes do vendedor da Microsoft depois de criar um acordo?
 
@@ -378,7 +378,7 @@ O ID de oportunidade no PSC é o mesmo que o iD do negócio no Partner Center. P
 O Partner Center não pode ser acedido pelos seus PDMs diretamente ao contrário do PSC. Existem múltiplas opções para ativar essa capacidade, que são mencionadas abaixo.
 
 - OCP Informações - Se os PDMs estiverem apenas a ver as ofertas e os progressos relacionados com eles, podem utilizar o portal one Commercial Partner (OCP) Informações para obter a sua visão da organização. Esta é uma ferramenta interna e disponível apenas para PDMs. Os insights OCP não estão disponíveis para os utilizadores da sua empresa.
-- Utilizador convidado no Partner Center - Pode adicionar a sua conta PDM @microsoft.com como utilizador convidado no centro de parceiros e atribuir-lhes funções de administração de encaminhamento para que possam visualizar e agir em referências.
+- Utilizador convidado no Partner Center - Pode adicionar a sua conta PDM @microsoft.com como utilizador convidado no Partner Center e atribuir-lhes funções de administração de encaminhamento para que possam visualizar e agir em referências.
 - Criar um [novo utilizador](./create-user-accounts-and-set-permissions.md#add-a-new-user) no seu inquilino - Pode criar um novo utilizador no seu próprio inquilino e partilhar esses detalhes com o PDM para que possam ver e agir em referências semelhantes a outros utilizadores de referência na sua conta.
 
 ## <a name="finding-the-correct-mpn-id-if-your-account-in-psc-is-not-associated-with-a-valid-mpn"></a>Encontrar o ID MPN correto se a sua conta no PSC não estiver associada a um MPN válido
@@ -400,12 +400,12 @@ Abaixo está uma imagem mostrando a localização exata onde você pode encontra
 
 Seguinte
 
-- Se tiver um PDM, peça-lhes que o seu ID MPN é corrigido com o ID MPN correto da sua conta de centro de parceiros.
-- Se não tiver um PDM, envie um e-mail para o endereço indicado no banner do PSC com as informações da conta do CPS mostradas no banner do PSC e o ID MPN correto da sua conta de centro de parceiros.
+- Se tiver um PDM, peça-lhes que o seu ID MPN é corrigido com o ID MPN correto da sua conta Partner Center.
+- Se não tiver um PDM, envie um e-mail para o endereço indicado no banner do PSC com as informações da conta do CPS mostradas no banner do PSC e o ID MPN correto da sua conta Partner Center.
 
 ## <a name="resources-to-help-you-create-and-manage-your-deals-in-partner-center"></a>Recursos para ajudá-lo a criar e gerir as suas ofertas no Partner Center
 
-Se ainda não leu os tópicos de ajuda de co-venda, os seguintes recursos irão ajudá-lo a gerir negócios no centro de parceiros.
+Se ainda não leu os tópicos de ajuda de co-venda, os seguintes recursos irão ajudá-lo a gerir negócios no Partner Center.
 
 |**Para efetuar isto**   |**Leia isto**   |
 |-----------------------|:-----------------------|

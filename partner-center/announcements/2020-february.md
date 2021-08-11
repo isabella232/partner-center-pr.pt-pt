@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/01/2020
-ms.openlocfilehash: 7aa8daea4ac33a781ebd36673f7863fb0950abef
-ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
+ms.openlocfilehash: e91208f62dc5063facbecc2982f268dfd300ff49ec1756ded36a06db9ea322fe
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/04/2021
-ms.locfileid: "115100640"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115684753"
 ---
 # <a name="february-2020-announcements"></a>Anúncios de fevereiro de 2020
 
@@ -264,7 +264,7 @@ _________________
 
 ### <a name="impacted-audience"></a>Audiência impactada:
 
-Fatura direta e fornecedores indiretos no programa CSP que estão a transagir e revender os contadores de consumo do plano Azure e reservas e usam apIs do centro parceiro na sua integração com o Microsoft Partner Center.
+Fatura direta e fornecedores indiretos no programa CSP que estão a transagir e revender os contadores e reservas do plano Azure e utilizam as APIs do Partner Center na sua integração com o Microsoft Partner Center.
 
 ### <a name="summary"></a>Resumo:
 
@@ -297,7 +297,7 @@ A [nova experiência de comércio da Azure na CSP](https://blogs.partner.microso
 
 _________________
 
-## <a name="changes-to-partner-center-support-experience"></a><a id="3"/></a>Alterações na experiência de suporte do centro de parceiros
+## <a name="changes-to-partner-center-support-experience"></a><a id="3"/></a>Alterações à experiência de suporte do Centro de Parceiros
 
 ### <a name="categories"></a>Categorias
 
@@ -324,7 +324,7 @@ Estas alterações começarão a estar disponíveis para si na semana de 3 de fe
 
 ### <a name="additional-resources"></a>Recursos adicionais:
 
-- Mais informações sobre [a criação de pedidos de apoio no centro de parceiros.](../report-problems-with-partner-center.md)
+- Mais informações sobre [a criação de pedidos de apoio no Partner Center.](../report-problems-with-partner-center.md)
 
 ### <a name="change-log"></a>Alterar Registo
 
