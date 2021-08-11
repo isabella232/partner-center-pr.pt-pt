@@ -4,27 +4,27 @@ ms.topic: article
 ms.date: 10/28/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-description: Crie associações de clientes com o modelo Claiming Partner of Record (CPOR). Ajuda a gerir vendas, uso, incentivos para os clientes Microsoft 365 & Dynamics 365.
+description: Crie associações de clientes com o modelo Claiming Partner of Record (CPOR). Ajuda a gerir vendas, uso, incentivos para Microsoft 365 & 365 clientes.
 author: MalloryPrincipe
 ms.author: mallp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 196009d9271324377be02d0b2d12ba8a4d7a993c
-ms.sourcegitcommit: 09eabb559aae25518caf3f2a59ef16a3e123c207
+ms.openlocfilehash: 670a438446f2826f6a2eb42a3282ab00babd0ba5225d7d65a73fd8d314b03569
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "112489956"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115693831"
 ---
-# <a name="customer-associations-via-the-claimed-partner-of-record-cpor-model-for-microsoft-365-and-dynamics-365"></a>Associações de clientes através do modelo Claimed Partner of Record (CPOR) para Microsoft 365 e Dynamics 365
+# <a name="customer-associations-via-the-claimed-partner-of-record-cpor-model-for-microsoft-365-and-dynamics-365"></a>Associações de clientes através do modelo Claimed Partner of Record (CPOR) para Microsoft 365 e Dinâmica 365
 
 
 **Funções adequadas**: Administradores de incentivos
 
-No dia 1 de outubro de 2019, a Microsoft começou a utilizar o modelo Claiming Partner of Record (CPOR) para gerir as associações que tem com os seus clientes Microsoft 365 e Dynamics 365 no que diz respeito aos incentivos de Venda de Serviços Online (OSA) Sell, Uso de Serviços Online (OSU)-Microsoft 365 e OSU-Business Desempreição de Aplicações.
+No dia 1 de outubro de 2019, a Microsoft começou a utilizar o modelo Claiming Partner of Record (CPOR) para gerir as associações que tem com os seus clientes Microsoft 365 e Dynamics 365 no que diz respeito aos incentivos de Venda de Serviços Online (OSA) Sell, Uso de Serviços Online (OSU)-Microsoft 365 e incentivos OSU-Business Application.
 
 >[!Important]
-> As reclamações da Associação de Clientes (CPOR) aplicam-se apenas aos programas de incentivo de venda de serviços online (OSA) de venda, utilização de serviços online (OSU)-Microsoft 365 e OSU-Business Programas de incentivo à aplicação. Se estiver a apresentar uma reclamação cooperativa para outro programa como Cloud Solution Provider (CSP), Managed Reseller, Hosting ou Surface, consulte o processo de reclamações de Co-op aqui descrito. <br><br>Quando submete a sua reclamação, a Microsoft valida-a. Podemos pedir-lhe mais informações neste momento. Também notificaremos o cliente do seu pedido de associação. Os clientes têm cinco dias úteis para optar. Se eles não optarem, a sua associação com este inquilino específico e carga de trabalho será oficial. Neste momento terá acesso aos dados de utilização do cliente. 
+> As reclamações da Associação de Clientes (CPOR) aplicam-se apenas aos programas de incentivos de venda, utilização de serviços online (OSU)-Microsoft 365 e OSU-Business Aplicação. Se estiver a apresentar uma reclamação cooperativa para outro programa como Fornecedor de Soluções em Nuvem (CSP), Revendedor Gerido, Hospedagem ou Surface, consulte o processo de reclamações de Co-op aqui descrito. <br><br>Quando submete a sua reclamação, a Microsoft valida-a. Podemos pedir-lhe mais informações neste momento. Também notificaremos o cliente do seu pedido de associação. Os clientes têm cinco dias úteis para optar. Se eles não optarem, a sua associação com este inquilino específico e carga de trabalho será oficial. Neste momento terá acesso aos dados de utilização do cliente. 
 
 Necessitará das seguintes informações para completar uma reclamação:
 
@@ -34,7 +34,7 @@ Necessitará das seguintes informações para completar uma reclamação:
 
 - ID do **Diretório** do Cliente ou **ID do Inquilino** (para mais informações, consulte Encontrar [ID do inquilino, nome de domínio, ID do objeto de utilizador)](find-ids-and-domain-names.md)
 
-- A **área de Solução**, como aplicações empresariais ou Microsoft 365
+- A **área da Solução**, como Business Applications ou Microsoft 365
 
 - A **Atividade** que realizou e o tipo de reclamação que pretende fazer, como pré-venda, utilização ou associação de receitas
 
@@ -56,7 +56,7 @@ Deve também compreender os seguintes pontos:
 
 - Se tiver clientes Microsoft 365 existentes, terá de se associar àqueles que pretende continuar a ganhar incentivos da OSU utilizando este processo.
 
-- Se tiver associações existentes com clientes Dynamics 365 ou Power BI, estas associações permanecerão válidas, até ao termo das suas subscrições.
+- Se tiver associações existentes com a Dynamics 365 ou Power BI clientes, estas associações permanecerão válidas, até ao termo das suas subscrições.
 
 - Um cliente pode ter vários parceiros, mas cada carga de trabalho (para OSU-Microsoft 365) ou subscrição (para OSA-Sell e OSU-Business Aplicações) só pode ser associada a um parceiro.
 
@@ -76,7 +76,7 @@ Deve também compreender os seguintes pontos:
 
    >[!Note]
    >
-   >Se selecionar Aplicações empresariais, selecione **a Associação de Utilização e/ou Pré-Venda**, ou **Associação de Receitas**, e, em seguida, selecione **Continue**. 
+   >Se selecionar Business Applications, selecione **a Utilização e/ou pré-venda**, ou **associação de Receitas**, e, em seguida, selecione **Continue**. 
    <br><br>Se selecionar a Associação de receitas, serão pedidas informações ligeiramente diferentes das listadas abaixo.
 
 7. Introduza as informações apropriadas na página do **cliente Associado** e, em seguida, selecione **Criar reclamação**.

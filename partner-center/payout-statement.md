@@ -7,12 +7,12 @@ ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 3/22/2021
-ms.openlocfilehash: b905d422b10e0b82225966fa5379283ea0b83a69
-ms.sourcegitcommit: a09a5f893e876de23a8aa5c0d637e50c5be84941
+ms.openlocfilehash: 8ad648d7ff7c5360ae61897ea98a633532ffd4c7de65ffa6b83984996ca24ac6
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/13/2021
-ms.locfileid: "113684020"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115693413"
 ---
 # <a name="payout-statements"></a>Declaração de dividendos
 
@@ -321,7 +321,7 @@ O resumo **dos dados relativos** às exportações também dá acesso a declara�
 
 A tabela seguinte explica cada coluna numa declaração histórica.
 
-| Nome do campo | Descrição |
+| Nome do campo | Description |
 | --- | --- |
 | Fonte de Receitas | A fonte da sua receita com base no local onde ocorreu a transação, como Microsoft Store, Windows Phone Store, Windows Store 8 ou publicidade |
 | ID da Encomenda | Identificador de ordem único. Este ID permite identificar transações de compra com as respetivas transações não-compra, tais como reembolsos ou reembolsos. Ambos terão a mesma identificação de encomenda. Além disso, se houver uma taxa dividida em que foram utilizados vários métodos de pagamento para uma única compra, permite-lhe ligar as transações de compra. |

@@ -8,12 +8,12 @@ description: Utilize esta API para obter detalhes de todos os conjuntos de dados
 author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: 8f4e69c8759c16bc38e64a361c8c077989447d3e
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 96bbb039c022d3587183b8dbec014bc362255b750ac6670fe3c1906629b7e291
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114843804"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115693338"
 ---
 # <a name="get-all-datasets-api"></a>Obtenha todos os conjuntos de dados API
 
@@ -28,7 +28,7 @@ A API obtém todos os conjuntos de dados que a API obtém todos os conjuntos de 
 
 **Cabeçalho de pedido**
 
-|    Cabeçalho    |    Tipo    |    Descrição    |
+|    Cabeçalho    |    Tipo    |    Description    |
 |    ----    |    ----    |    ----    |
 |    Autorização    |    string    |    Obrigatório. O Azure Ative Directory (AAD) símbolo de acesso na forma`Bearer <token>`    |
 |    Content-Type    |    string    |    `Application/JSON`    |

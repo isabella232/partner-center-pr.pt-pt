@@ -9,12 +9,12 @@ ms.author: amrava
 ms.localizationpriority: high
 ms.date: 05/13/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3147836916f827e6962fb436b74d9ce1716d9f4a
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: f347b1aa246df3cfa4ccf0d52bff1dd76ac70e5d007a0d8b8efc0fafe0599a49
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114841679"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115693049"
 ---
 # <a name="azure-services-available-in-the-azure-cloud-solution-provider-csp-program"></a>Serviços Azure disponíveis no programa Azure Fornecedor de Soluções em Nuvem (CSP)
 

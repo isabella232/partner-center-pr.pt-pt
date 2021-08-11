@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d03300ec89a877af3e02b6bd6567f6b1a832a397
-ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
+ms.openlocfilehash: 7db8a3a7cd960532ed99f5c2a5262b0f37a8b4ef011325b8bb0d9685cfefdae0
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/04/2021
-ms.locfileid: "115101741"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115693219"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Preços e ofertas para Office 365, Dynamics CRM, Suite de Mobilidade Empresarial, Azure, e muito mais
 
@@ -118,7 +118,7 @@ Se tiver dúvidas sobre a lista de preços ou matriz de oferta, envie um pedido 
 
 Algumas ofertas baseadas em licenças têm certas regras e limitações que proíbem múltiplas compras para o mesmo cliente. Estas regras aplicam-se à maioria dos ensaios e a muitas das ofertas de pequenas empresas. **As ofertas de pequenas empresas** são definidas por ofertas que têm uma contagem máxima de licença inferior a 300.
 
-Estes constrangimentos de compra são definidos como parte da configuração da oferta e podem ser encontrados olhando para a matriz da lista de ofertas. Duas colunas de dados trabalham em conjunto para definir a execução: 1. Oferta Limite de Âmbito e 2. Limite de oferta. Os constrangimentos são aplicados durante uma compra. O catálogo no centro parceiro não permitirá que um parceiro compre mais ofertas do que as regras permitem. Qualquer tentativa de violar os constrangimentos resultará num erro.
+Estes constrangimentos de compra são definidos como parte da configuração da oferta e podem ser encontrados olhando para a matriz da lista de ofertas. Duas colunas de dados trabalham em conjunto para definir a execução: 1. Oferta Limite de Âmbito e 2. Limite de oferta. Os constrangimentos são aplicados durante uma compra. O catálogo do Partner Center não permitirá que um parceiro compre mais ofertas do que as regras permitem. Qualquer tentativa de violar os constrangimentos resultará num erro.
 
 O âmbito limite da oferta é registado como uma coluna na matriz da lista de ofertas e pode ter valores de Nenhum, Vida Útil ou Simultâneo. 
 
@@ -131,7 +131,7 @@ O âmbito limite da oferta é registado como uma coluna na matriz da lista de of
 
 ### <a name="taxes-and-pricing"></a>Impostos e preços
 
-Todos os preços nas tabelas de preços do centro parceiro CSP são impostos inclusivos. Para mais informações no Documento Do Centro de [Parceiros, impostos e isenções fiscais.](tax-and-tax-exemptions.md)
+Todos os preços nas tabelas de preços do Partner Center CSP são impostos inclusivos. Para mais informações no Documento Do Centro de [Parceiros, impostos e isenções fiscais.](tax-and-tax-exemptions.md)
 
 ## <a name="offer-attestation"></a>Atestado de oferta
 

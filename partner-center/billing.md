@@ -9,12 +9,12 @@ ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 04/05/2020
-ms.openlocfilehash: bb7bea476a79096890e3ae33c0256200eae18968
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: cb3edae4b0b5a9687dc25006fde9db86143860d9b44aa790f62fd1340e5deab8
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114840744"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115692981"
 ---
 # <a name="overview-main-billing-and-tax-articles-in-partner-center"></a>Visão geral: Principais faturas e artigos fiscais no Partner Center
 
@@ -23,7 +23,7 @@ ms.locfileid: "114840744"
 Este artigo fornece links para informações sobre faturação e tópicos fiscais no Partner Center, incluindo recursos de faturação, faturas, faturas e impostos.
 
 
-| Tópico | Descrição |
+| Tópico | Description |
 | ----- | ----------- |
 | [Noções básicas de faturação](billing-basics.md) | Fundamentos da faturação do Partner Center (incluindo pagamentos, faturas e ficheiros de reconciliação). |
 | [Tipos de faturação](./billing-basics.md) | Explicação de diferentes tipos de faturação no Partner Center. |

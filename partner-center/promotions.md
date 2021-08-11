@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 335c0806d9504263dcfa506721b4217cf8b78db6
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 23068edcb633bc1a0c8359c8ad122455e573126b4ad9c54b10d105f9156b002c
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114841034"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115693967"
 ---
 # <a name="use-promotions-to-attract-new-customers-and-pass-the-savings-on-to-them"></a>Use promoções para atrair novos clientes e passe as poupanças para eles
 

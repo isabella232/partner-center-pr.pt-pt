@@ -9,12 +9,12 @@ author: billlinzbach
 ms.author: billLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 61117b77efdb447abad482654afc7220aa2bcce6
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 6da4cc633ca08d68fc0392afbb86559ac75624309203eb9ee264e80237c741b2
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114842337"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115693695"
 ---
 # <a name="cloud-solution-provider-program"></a>Programa Fornecedor de Soluções Cloud 
 

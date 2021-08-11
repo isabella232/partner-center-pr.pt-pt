@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 40bf13a114eeb2eaaaf8fcae76d52de13d206d9d
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: f2bf96a84b79fd68d6541fe2e611485064f1c0359d1ba10cf0fb7f2b60be53bc
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114845946"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115693117"
 ---
 # <a name="provide-billing-support-for-your-customers-and-help-answer-their-billing-questions"></a>Fornecer suporte de faturação para os seus clientes e ajudar a responder às suas questões de faturação
 

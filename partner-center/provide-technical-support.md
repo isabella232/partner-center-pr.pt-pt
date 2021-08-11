@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d8e4781ffa64269056c684d9ab10a29ff97dacde
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 9b22279d3825ab1d82e03b43503712e4864e16531964fb9493278cf8855c3be9
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114841061"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115693100"
 ---
 # <a name="provide-technical-support-to-help-customers-configure-manage-and-use-their-subscriptions"></a>Fornecer suporte técnico para ajudar os clientes a configurar, gerir e utilizar as suas subscrições
 

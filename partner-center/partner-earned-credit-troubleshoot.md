@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7ce31bd688c32da956f466d63beede3f0fc9f9ef
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: f1a58503f33585d20ec8c292e39a1e81303603c6503e4389ca39747c932ca07b
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114843549"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115696177"
 ---
 # <a name="troubleshooting-partner-earned-credit"></a>Parceiro de resolução de problemas ganhou crédito
 

@@ -8,12 +8,12 @@ description: Veja o que está a fazer bem e onde pode melhorar no que diz respei
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: ecc4edbd509557da1314eb7e54fcc013e41682a7
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 7476106e92334000c59e566758bb2bd1f1dd415f6142f07e458b2aa9f5c62b41
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114838313"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115690690"
 ---
 # <a name="dynamics-usage-report-available-from-the-partner-center-insights-dashboard"></a>Relatório de utilização dinâmico disponível no Painel de Informações do Centro de Parceiros
 
