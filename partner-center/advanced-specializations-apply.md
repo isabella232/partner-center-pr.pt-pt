@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cd7865845d7086d19a249a181102b1b08fff76ad42f652b2784305d83b97e95b
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: d00f1ffde15477678b05cbc00213d8a7d494b299
+ms.sourcegitcommit: 815760499700bf2c947550524cbddd091622081f
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115685355"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "121914963"
 ---
 # <a name="use-partner-center-to-apply-for-advanced-specializations-and-check-their-status"></a>Use o Partner Center para solicitar especializações avançadas e verificar o seu estado
 
@@ -102,7 +102,7 @@ Em seguida, siga estes passos para agendar uma auditoria no Partner Center:
 
 3. Selecione o nome da especialização avançada que requer que marque uma auditoria. Por exemplo, digamos que seleciona **a Modernização de Aplicações Web para Microsoft Azure**. A página pré-requisitos aparece então para esta especialização avançada.
 
-   :::image type="content" source="images/advancedspecializations/as-1.png" alt-text="A página de pré-requisitos da amostra mostrando requisitos para obter uma especialização avançada específica.":::
+   :::image type="content" source="images/advanced-specializations/as-1.png" alt-text="A página de pré-requisitos da amostra mostrando requisitos para obter uma especialização avançada específica.":::
 
 4. Assim que encontrar todos os pré-requisitos para esta especialização avançada, poderá selecionar o botão de **auditoria Agenda** a partir desta página.
 
@@ -123,7 +123,7 @@ Em seguida, siga estes passos para fornecer referências ao cliente no Partner C
 
    A página pré-requisitos aparece então para esta especialização avançada. Além da competência em ouro, certificações e um requisito de desempenho, esta especialização avançada também requer que você forneça três referências ao cliente que demonstrem a sua capacidade de implantação e gestão.
 
-   :::image type="content" source="images/advancedspecializations/as-2.png" alt-text="Experimente a página de pré-requisitos de especializações avançadas que requer referências ao cliente.":::
+   :::image type="content" source="images/advanced-specializations/as-2.png" alt-text="Experimente a página de pré-requisitos de especializações avançadas que requer referências ao cliente.":::
 
 4. Até conhecer todos os pré-requisitos apresentados nesta página e fornecer referências ao cliente, o seu estado permanecerá **não iniciado**. Uma vez cumpridos todos os pré-requisitos, o seu estado mudará para **Ative**.
 

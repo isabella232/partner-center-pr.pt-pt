@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: 754a41716575dbc03dc0a6c384753ad35c4d187ae302b7bcd2feefa5d5bb133e
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: d99df4a397c9ff7cc1aa23108457c293aac704c9
+ms.sourcegitcommit: 815760499700bf2c947550524cbddd091622081f
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115684467"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "121914679"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Guia para co-venda no Partner Center (PC) para parceiros que migram de Ligação de Vendas de Parceiros (PSC)
 

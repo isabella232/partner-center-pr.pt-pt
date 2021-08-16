@@ -9,12 +9,12 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: eb093f406f9776b3db0e091cd059ffa87836d0e946b4f9f5921388f52c81838a
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: a9c0d970b4ddbdf22e0443ca9e6a2d06a031d0a9
+ms.sourcegitcommit: 815760499700bf2c947550524cbddd091622081f
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115679856"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "121914446"
 ---
 # <a name="create-a-business-profile-to-get-microsoft-sales-leads-and-help-customers-find-you"></a>Crie um perfil de negócio para obter leads de vendas da Microsoft e ajude os clientes a encontrá-lo
 
@@ -107,7 +107,7 @@ Se estiver em 5 locais de topo e precisar de alterar um, **elimine** primeiro um
 
 ## <a name="review-your-profile"></a>Reveja o seu perfil
 
-Depois de publicar o seu perfil, as atualizações aparecem no [Find a solution provider](https://www.microsoft.com/solution-providers/home) searchs dentro de 24 horas.
+Depois de publicar o seu perfil, as atualizações aparecem no [Find a solution provider](https://appsource.microsoft.com/marketplace/partner-dir) searchs dentro de 24 horas.
 
 ## <a name="improve-the-visibility-of-your-profile"></a>Melhore a visibilidade do seu perfil
 

@@ -1,19 +1,19 @@
 ---
 title: Ver fundos de co-op disponíveis
 ms.topic: article
-ms.date: 06/25/2021
+ms.date: 08/10/2021
 description: Saiba como ver os seus fundos de cooperação ganhos, reclamados e restantes, ver datas de validade e conciliar montantes inconsistentes.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: bc4130ad2d17d22060423b105fa51999be0f35ca2fe2f6470725c3c8dc527724
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 3c629f7de5686a329f421251b251499c81e695e0ba4998e4b4d3a3b7d4cfe944
+ms.sourcegitcommit: dfed8309ec4ba4cbe5af05d0dcd30e4151ed17e6
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115687422"
+ms.lasthandoff: 08/12/2021
+ms.locfileid: "121469750"
 ---
 # <a name="view-available-earned-claimed-and-remaining-co-op-funds"></a>Ver disponíveis ganhos, reclamados e restantes fundos cooperativos
 
@@ -25,11 +25,15 @@ Pode rastrear, monitorizar e conciliar os seus fundos de cooperação de incenti
 
 1. Inscreva-se no painel partner [Center](https://partner.microsoft.com/dashboard/) com a sua conta Azure AD (conta da empresa) ou o e-mail apropriado para o seu papel de incentivo.
 
-2. Selecione **gestão cooperativa** e, em seguida, selecione o período de utilização que deseja ver. Isto mostrará os valores para **Co-op ganhos,** **Co-op reclamado**, e **Restante cooperativa** para o período selecionado.
+2. Na barra de navegação à esquerda, selecione **Programas** e, em seguida, selecione o programa de incentivo apropriado da lista de programas expandidos.
 
-3. A data de validade do período selecionado aparece abaixo do **visor restante da cooperativa.**  
+3. No topo da página do programa, selecione **'Ver' reclamações**.
 
-4. Para visualizar todas as reclamações submetidas para o período selecionado, percorra para a parte inferior da página.
+4. No dropdown acima do azulejo reivindicado pela **Cooperativa,** selecione o período de utilização que deseja ver. Isto mostrará os valores para **Co-op ganhos,** **Co-op reclamado**, e **Restante cooperativa** para o período selecionado.
+
+5. A data de validade do período selecionado aparece abaixo do **visor restante da cooperativa.**  
+
+6. Para visualizar todas as reclamações submetidas para o período selecionado, percorra para a parte inferior da página.
 
 Se você acredita que existem discrepâncias nos valores apresentados no resumo, você pode baixar o relatório de transação do período anterior. Este relatório irá ajudá-lo a determinar a quantidade de fundos cooperativos obtidos para o período de utilização selecionado. Para descarregar relatórios de transações ou validar reclamações submetidas para garantir que o valor da cooperativa restante é exato, consulte o [histórico de Transações](./payout-statement.md#transaction-history).
 

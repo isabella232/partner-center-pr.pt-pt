@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 07/07/2021
-ms.openlocfilehash: b9ec14c2897af8cc493adcfe027269bfdc39d777556b81755fc2921c035955b8
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 4daf26a962d317da9eac3b2351f42c04546533d4
+ms.sourcegitcommit: 815760499700bf2c947550524cbddd091622081f
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115687065"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "121914664"
 ---
 # <a name="guide-to-create-and-manage-iot-deals-in-partner-center-pc-for-iot-partners-migrating-from-partner-sales-connect-psc"></a>Guia para criar e gerir ofertas de IOT no Partner Center (PC) para parceiros IOT migrando de Parceiros Sales Ligação (PSC)
 

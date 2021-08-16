@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6ba743570ae1d4cb07d45e82a6f0a65c46d5458c5b9a9416deebb3a50292e844
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 3f761fa5727f90f33a36f5352ad2f037cbf8b393
+ms.sourcegitcommit: 815760499700bf2c947550524cbddd091622081f
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115685773"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "121914654"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>Como o crédito de parceiro ganho é calculado e pago
 
@@ -54,6 +54,8 @@ Para obter mais informações sobre a elegibilidade, consulte [as funções e pe
 
 O PEC é calculado diariamente. É pago por cada dia que tiver acesso elegível em cada subscrição. Embora os detalhes do PEC não apareçam na sua fatura mensal, os ganhos do PEC são contabilizados na linha de encargos líquidos ajustados dentro da fatura. Pode encontrar mais detalhes do PEC no [ficheiro de utilização diária](daily-rated-usage-recon-files.md) e no ficheiro mensal de reconhecimento de fatura.
 
+:::image type="content" source="images/advanced-specializations/recon-file.png" alt-text="Screenshot de um ficheiro de reconciliação do Partner Center identificando colunas." border="false":::
+
 A tabela abaixo descreve os elementos PEC encontrados no ficheiro mensal de reconhecimento de fatura. Todos os valores estão em USD, como mostrado na coluna AI, PricingCurrency.
 
 | Coluna  | Descrição  |
@@ -69,6 +71,10 @@ Para monitorizar o acesso ao PEC:
 
 - [**Alertas do monitor Azure**](azure-plan-manage.md) monitorizam alterações ao acesso privilegiado persistente.
 
+O ficheiro de utilização nominal diária:
+
+:::image type="content" source="images/advanced-specializations/partner-daily.png" alt-text="Screenshot de um ficheiro de utilização avaliado diariamente no Partner Center, realçando o preço unitário eficaz." border="false":::
+
 ## <a name="partner-earned-credit-api"></a>Parceiro ganhou crédito API
 
 Uma API PEC está disponível como parte do instrumento de ferramentas Azure API. Para obter informações sobre As APIs powerShell e CLI, consulte [Link a Azure account to a partner ID](/azure/cost-management-billing/manage/link-partner-id).
@@ -83,6 +89,9 @@ A Azure Cost Management (ACM) utilizando a Análise de Custos permite-lhe, como 
 2. Selecione **gestão de custos**.
 3. Selecione **Análise de Custos**.
 A visão de Análise de Custos apresentará os custos da sua conta de faturação, para todos os serviços comprados e consumidos aos preços que paga à Microsoft.
+
+:::image type="content" source="images/advanced-specializations/partner-cost.png" alt-text="Screenshot de uma página de análise de custos de gestão de custos." border="false":::
+
 4. Na lista de drop-down do gráfico de pivô, selecione PartnerEarnedCreditApplied. 
 
     Se este valor for **Verdadeiro,** o custo associado tem o benefício do parceiro a ganhar crédito.

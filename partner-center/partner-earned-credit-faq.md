@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f903bff3f38fb572f4e7e57cd1c737802505c9657aa32ec19790b67bbb085d35
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 4efffe1bb01fd2822e20c39b828197b422e63caa2141528f531ada882db231b4
+ms.sourcegitcommit: dfed8309ec4ba4cbe5af05d0dcd30e4151ed17e6
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115682900"
+ms.lasthandoff: 08/12/2021
+ms.locfileid: "121469715"
 ---
 # <a name="frequently-asked-questions-for-partner-earned-credit"></a>Perguntas frequentes para parceiro ganhou crédito
 
@@ -51,6 +51,8 @@ Existem dois ficheiros de reconciliação encontrados no Partner Center sob a fa
 
 Para conciliar, o parceiro pode comparar os campos ProductID, SKUID, AvailabilityID destes dois ficheiros para cada SubscriçãoID.
 
+:::image type="content" source="images/advanced-specializations/partner-billing.png" alt-text="Screenshot do separador Partner Center Billing realçando compras recorrentes e únicas." border="false":::
+
 ## <a name="for-an-indirect-reseller-working-with-an-indirect-provider-does-an-indirect-provider-need-to-add-the-indirect-resellers-account-as-an-rbac-identity-and-access-management-iam-role-to-the-end-customers-subscription-in-order-to-utilize-acm"></a>Para um Revendedor Indireto que trabalhe com um Fornecedor Indireto, um Fornecedor Indireto precisa de adicionar a conta do Revendedor Indireto como papel rbac identity and Access Management (IAM) à subscrição do cliente final para utilizar a ACM?
 
 Sim, o Fornecedor Indireto CSP deve permitir o acesso do [RBAC](/azure/role-based-access-control/overview) ao Revendedor Indireto na assinatura Azure.
@@ -58,6 +60,8 @@ Sim, o Fornecedor Indireto CSP deve permitir o acesso do [RBAC](/azure/role-base
 ## <a name="what-happens-if-a-customer-removes-a-partners-rbac-admin-access"></a>O que acontece se um cliente remover o acesso de administração RBAC de um parceiro?
 
 Um parceiro sem acesso adequado ao RBAC em CSP ainda mantém a relação de faturação e a prestação de contas do cliente com a Microsoft. Embora isso não afete um parceiro que venda a anterior oferta da Azure na CSP, para a nova oferta da Azure na CSP, o parceiro faturado não será elegível para a PEC na sua fatura Azure. Os parceiros podem obter acesso administrativo parcial em CSP através de uma conta de utilizador através do acesso do Diretório/Hóspede através do RBAC ou através do Farol Azure. Para obter mais informações, consulte [os privilégios de administração da Reinstate para as assinaturas Azure CSP de um cliente.](revoke-reinstate-csp.md)
+
+:::image type="content" source="images/advanced-specializations/partner-permissions.png" alt-text="Screenshot da página de controlo Access onde pode restabelecer permissões de administração." border="false":::
 
 ## <a name="how-do-i-know-if-im-earning-pec"></a>Como é que sei se estou a ganhar PEC?
 
