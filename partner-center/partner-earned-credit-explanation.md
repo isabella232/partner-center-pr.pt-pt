@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3f761fa5727f90f33a36f5352ad2f037cbf8b393
-ms.sourcegitcommit: 815760499700bf2c947550524cbddd091622081f
+ms.openlocfilehash: dd2f2ad42a18ae1dfa061e3cc5bb9cbfeedffec12f0b2eb882cc8093bbc8d9ed
+ms.sourcegitcommit: dfed8309ec4ba4cbe5af05d0dcd30e4151ed17e6
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "121914654"
+ms.lasthandoff: 08/12/2021
+ms.locfileid: "121469785"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>Como o crédito de parceiro ganho é calculado e pago
 
