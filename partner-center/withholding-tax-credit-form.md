@@ -9,25 +9,25 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bce8917477809a47fe23b3b880a0392771e56225dbd5885a7428a910cb3d32e2
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 2d0c1e05ff0e0b9c807dfc7beb1136cec87b4069
+ms.sourcegitcommit: 8fe3b0f22d548bc6bcc1b87636216cd4d42b3ede
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115681055"
+ms.lasthandoff: 08/17/2021
+ms.locfileid: "122297152"
 ---
 # <a name="receive-credit-on-your-partner-center-account-for-tax-withholding"></a>Receba crédito na sua conta partner center para retenção na fonte de impostos
 
 **Funções adequadas**: Administração de contas | Administrador de faturação
 
-## <a name="overview"></a>Descrição Geral
+## <a name="overview"></a>Descrição geral
 
 Fornecedor de Soluções em Nuvem parceiros (CSP) em alguns países recebem valores de fatura que incluem impostos. Alguns destes parceiros pagam à autoridade fiscal local em vez da Microsoft. Se pagar à sua autoridade tributária local, tem de apresentar um pedido de retenção na fonte, incluindo o seu certificado fiscal para limpar o valor tributado das faturas anteriores. Estes valores apurados refletem-se na última coluna **de pagamento** na página **de Faturação** no Partner Center.
 
 Os parceiros costumavam apresentar pedidos de retenção na fonte através da criação de pedidos de serviço (bilhetes de apoio a parceiros) no Partner Center. Este processo mudou em janeiro de 2020. Agora, os parceiros da CSP devem apresentar pedidos de retenção na fonte de imposto na página de **Faturação** em vez de criarem Pedidos de Apoio.
 
 > [!IMPORTANT]
-> Os parceiros só podem submeter pedidos de retenção na fonte para faturas **pagas.**
+> Os parceiros só podem submeter pedidos de retenção na fonte para faturas parcialmente pagas. Para faturas totalmente pagas ou despadar, contacte [o suporte](report-problems-with-partner-center.md) com o seu Certificado de Retenção Na Fonte Fiscal.
 
 ## <a name="submit-a-tax-withholding-request"></a>Apresentar um pedido de retenção na fonte
 
