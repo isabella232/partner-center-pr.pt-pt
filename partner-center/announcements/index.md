@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 08/09/2021
-ms.openlocfilehash: 87374516aa5c2bac7afdfa91f3e5d502b98368da
-ms.sourcegitcommit: b2b04afce99412870b451878499e002e17e7b636
+ms.openlocfilehash: f21a5ee003eba2535afa443c87a1a56dae66dc63
+ms.sourcegitcommit: 815760499700bf2c947550524cbddd091622081f
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/16/2021
-ms.locfileid: "122226747"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "121914420"
 ---
 # <a name="partner-center-announcements"></a>Anúncios do Centro de Parceiros
 
@@ -22,8 +22,6 @@ Saiba mais sobre atualizações importantes do Centro de Parceiros. Estas inform
 
 |**Categoria**|**Anúncios de agosto de 2021**|**Anunciado**|
 |---------|:---------|:---------|
-|Capacidades|[Atualização e lembretes da comunidade Fornecedor de Soluções em Nuvem de agosto (CSP)](2021-august.md#12)| 16 de agosto |
-|Cresça o seu negócio|[Get Genuine Windows Ofertas de Acordo (GGWA) no programa Fornecedor de Soluções em Nuvem temporariamente indisponíveis](2021-august.md#11)| 16 de agosto |
 |Ofertas/Mercados|[Ver as mais recentes promoções e ofertas](2021-august.md#10)| 10 de agosto |
 |Capacidades|[Monitorização da conformidade através da equipa de Gestão de Responsabilidade de Parceiros (PAM)](2021-august.md#9)| 9 de agosto |
 |Ofertas/Mercados|[Windows 365 já disponível para compra: Windows híbridos para um mundo híbrido](2021-august.md#8)| 9 de agosto |

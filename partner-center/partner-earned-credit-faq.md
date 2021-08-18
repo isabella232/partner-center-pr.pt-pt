@@ -1,7 +1,7 @@
 ---
 title: Parceiro ganhou crédito FAQ
 ms.topic: article
-ms.date: 08/11/2021
+ms.date: 08/13/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-pricing
 description: Encontrar respostas a perguntas frequentes sobre o parceiro ganhou crédito (PEC).
@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1732ae992ac24d9691d929606bcbaabd32ef4327
-ms.sourcegitcommit: 03713f713b38f8c7bc299dcb92b7264777d1339c
+ms.openlocfilehash: ae78b13ae17b223e1cb540bea50168d02bcb9a1c
+ms.sourcegitcommit: b2b04afce99412870b451878499e002e17e7b636
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "122019620"
+ms.lasthandoff: 08/16/2021
+ms.locfileid: "122226844"
 ---
 # <a name="frequently-asked-questions-for-partner-earned-credit"></a>Perguntas frequentes para parceiro ganhou crédito
 
@@ -60,6 +60,8 @@ Sim, o Fornecedor Indireto CSP deve permitir o acesso do [RBAC](/azure/role-base
 ## <a name="what-happens-if-a-customer-removes-a-partners-rbac-admin-access"></a>O que acontece se um cliente remover o acesso de administração RBAC de um parceiro?
 
 Um parceiro sem acesso adequado ao RBAC em CSP ainda mantém a relação de faturação e a prestação de contas do cliente com a Microsoft. Embora isso não afete um parceiro que venda a anterior oferta da Azure na CSP, para a nova oferta da Azure na CSP, o parceiro faturado não será elegível para a PEC na sua fatura Azure. Os parceiros podem obter acesso administrativo parcial em CSP através de uma conta de utilizador através do acesso do Diretório/Hóspede através do RBAC ou através do Farol Azure. Para obter mais informações, consulte [os privilégios de administração da Reinstate para as assinaturas Azure CSP de um cliente.](revoke-reinstate-csp.md)
+
+:::image type="content" source="images/advanced-specializations/permissions.png" alt-text="Screenshot da página de controlo Access onde pode restabelecer permissões de administração." border="false":::
 
 ## <a name="how-do-i-know-if-im-earning-pec"></a>Como é que sei se estou a ganhar PEC?
 
