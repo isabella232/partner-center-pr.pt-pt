@@ -1,7 +1,7 @@
 ---
 title: Enroll in the Cloud Solution Provider program (Inscrever-se no programa do Fornecedor de Soluções Cloud)
 ms.topic: how-to
-ms.date: 07/19/2021
+ms.date: 08/13/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-enroll
 description: Saiba como se inscrever no modelo de vendas do programa Fornecedor de Soluções em Nuvem (CSP) que é o melhor para o seu negócio, como o revendedor indireto ou o parceiro de conta direta.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b093266070cdd370b556258cb21ffde1231909133b63118c92edc5a93dfb8e29
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 7998afc02c0a0a884f8ca93c656580916a8b75be
+ms.sourcegitcommit: b2b04afce99412870b451878499e002e17e7b636
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115695123"
+ms.lasthandoff: 08/16/2021
+ms.locfileid: "122226781"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Enroll in the Cloud Solution Provider program (Inscrever-se no programa do Fornecedor de Soluções Cloud)
 
@@ -28,15 +28,19 @@ Para se inscrever no programa Fornecedor de Soluções em Nuvem, primeiro precis
 
 Para completar a aplicação CSP, você precisará do ID MPN da sua empresa, endereço de negócio completo, informações bancárias, e o e-mail de trabalho para o colaborador que atuará como administrador do Centro de Parceiros.
 
-1. Inscreva-se no Partner Center com o seu email de trabalho (isto é, as suas credenciais de inquilino AZure AD).
+1. Inscreva-se no [painel de instrumentos](https://partner.microsoft.com/dashboard/) do Partner Center com o seu email de trabalho (ou seja, as credenciais de inquilino Azure AD).
 
-2. Crie o seu perfil de parceiro. Pode procurar o perfil da empresa ou introduzir informações da empresa manualmente. Se a sua empresa estiver registada na [Dun & Bradstreet,](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad)utilize o ID DUNS para consultar as informações da sua empresa. Se quiser fornecer os seus dados da sua empresa,  **selecione Enter manualmente**.
+2. Associe o seu ID MPN ao seu perfil.
+    - Se já está inscrito no programa MPN, selecione o ID MPN de localização que está ligado às suas inscrições de incentivos. A localização MPN ID deve estar ativa e localizada no mesmo país que a sua conta CSP.
+    - Se não se inscreveu no programa MPN, [inscreva-se hoje](mpn-overview.md).
+
+3. Crie o seu perfil de parceiro. Pode procurar o perfil da empresa ou introduzir informações da empresa manualmente. Se a sua empresa estiver registada na [Dun & Bradstreet,](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad)utilize o ID DUNS para consultar as informações da sua empresa. Se quiser fornecer os seus dados da sua empresa,  **selecione Enter manualmente**.
 
     Para alguns países, quando introduzir o seu endereço manualmente, validaremos o seu endereço para si. Se o endereço que insere diferir do validado, sugerimos que utilize o endereço validado. Isto garante que os elementos do endereço são normalizados conforme definido pela autoridade postal do país, corretamente formatados e enviados.
 
-3. Associe o seu ID MPN ao seu perfil. Durante a verificação, podemos pedir-lhe documentos adicionais ou para completar um questionário. Pode levar vários dias para rever e verificar a informação que forneceu. Enviaremos um e-mail quando terminarmos a nossa avaliação.
+4. Associe o seu ID MPN ao seu perfil. Durante a verificação, podemos pedir-lhe documentos adicionais ou para completar um questionário. Pode levar vários dias para rever e verificar a informação que forneceu. Enviaremos um e-mail quando terminarmos a nossa avaliação.
 
-4. Depois de verificarmos as suas informações, aceite o acordo de termos de revendedor indireto da Microsoft.
+5. Depois de verificarmos as suas informações, aceite o acordo de termos de revendedor indireto da Microsoft.
 
 > [!IMPORTANT]  
 > Um parceiro no programa CSP não pode revender serviços online a outro parceiro no programa CSP atualmente. Esta restrição aplica-se apenas ao arrendatário utilizado para a realização de transações de CSP. Os parceiros da CSP que utilizem um inquilino não CSP para o seu uso corporativo podem adquirir serviços online a outro parceiro da CSP. A Microsoft revê continuamente as políticas e capacidades de todos os programas. Quaisquer novidades sobre lançamentos de funcionalidades ou alterações de política serão anunciadas através dos canais de comunicações habituais, incluindo [anúncios do Partner Center](announcements/index.md).

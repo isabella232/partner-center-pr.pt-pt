@@ -11,16 +11,109 @@ ms.custom:
 - references_regions
 ms.localizationpriority: high
 ms.date: 08/09/2021
-ms.openlocfilehash: 092fd2af57535ec96d7f261578a047b1b9d05ec02efad4e29cc3c6374d2443d1
-ms.sourcegitcommit: 16e49a6598ab0ac6e94c72287d2621103216b38a
+ms.openlocfilehash: b384d97a30d4c0e7aa3597c47c233db60c79f0d0
+ms.sourcegitcommit: b2b04afce99412870b451878499e002e17e7b636
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/10/2021
-ms.locfileid: "117000280"
+ms.lasthandoff: 08/16/2021
+ms.locfileid: "122226764"
 ---
 # <a name="august-2021-announcements"></a>Anúncios de agosto de 2021
 
 Esta página fornece os anúncios para o Microsoft Partner Center para agosto de 2021.
+
+________________
+## <a name="august-cloud-solution-provider-csp-community-update-and-reminders"></a><a name="12"></a>Atualização e lembretes da comunidade Fornecedor de Soluções em Nuvem de agosto (CSP)
+
+### <a name="summary"></a>Resumo
+
+A [newsletter de atualização mensal da CSP](https://partner.microsoft.com/resources/detail/csp-monthly-update-august-2021-global) já está disponível, juntamente com recursos comunitários adicionais [da CSP](https://partner.microsoft.com/resources/collection/august-2021-csp-partner-community-content#/) que lhe fornecem atualizações essenciais do programa.
+
+### <a name="categories"></a>Categorias
+
+- Data: 2021-08-16
+- Capacidades
+
+### <a name="impacted-audience"></a>Audiência impactada
+
+Parceiros de conta direta da CSP e fornecedores indiretos
+
+### <a name="details"></a>Detalhes
+
+Os principais tópicos deste mês incluem:
+
+- [Alterações ao Azure oferecem disponibilidade no programa CSP](https://partner.microsoft.com/resources/detail/changes-to-azure-offer-availability-in-csp-pdf)
+- [Melhorias ao programa de incentivos ao comércio da Microsoft e ao Partner Center](https://partner.microsoft.com/resources/detail/enhancements-to-microsoft-commerce-incentive-program-and-partner-center-pdf)
+- [Acesso programático ao Partner Center Informações dados de análise](https://partner.microsoft.com/resources/detail/programmatic-access-to-partner-center-insights-analytics-data-pdf)
+- [Apresentando a API estrangulamento a parceiros que chamam APIs do Partner Center](https://partner.microsoft.com/resources/detail/introducing-api-throttling-to-partners-calling-partner-center-apis-pdf)
+- [Visão geral: Ferramenta de transição de subscrições melhoradas](https://partner.microsoft.com/resources/detail/overview-enhanced-subscriptions-transition-tool-pdf)
+- [Apresentamos Windows 365: Windows híbridos para um mundo híbrido](https://partner.microsoft.com/resources/detail/introducing-windows-365-hybrid-windows-for-a-hybrid-world-pdf)
+
+#### <a name="csp-community-qa-reminder"></a>CSP Comunidade Q&Um lembrete
+
+A sessão mensal da comunidade CSP Q&A proporciona-lhe a oportunidade de aprender mais e fazer perguntas sobre as mudanças que afetam o programa. A chamada deste mês centrar-se-á nos tópicos listados na secção anterior e muito mais.
+
+[Registe-se aqui para se juntar à chamada.](https://globalpbocomm.eventbuilder.com/GlobalCSP)
+
+#### <a name="always-availablelaunch-content-on-demand"></a>Sempre disponível — Lançar conteúdo a pedido
+
+Dentro da [coleção comunitária mensal da CSP,](https://partner.microsoft.com/resources/collection/august-2021-csp-partner-community-content#/)pode encontrar:
+
+- A [newsletter de Atualização Mensal CSP](https://partner.microsoft.com/resources/detail/csp-monthly-update-august-2021-global) transferível que agrega anúncios, atualizações, eventos e lembretes recentes num documento de fácil leitura.
+- O [Calendário de Anúncios da CSP](https://partner.microsoft.com/resources/detail/csp-announcement-calendar-august-2021-pdf) que fornece uma visão de linha do tempo das próximas alterações que afetam o programa.
+- O **novo** [calendário de lançamento do produto](https://partner.microsoft.com/resources/detail/product-launch-calendar-august-pdf) onde pode ver os próximos lançamentos e ofertas de produtos.
+- O **novo** [Guia Global de Prontidão Promocional](https://partner.microsoft.com/resources/collection/global-promo-readiness-guide-collection#/) que reúne promoções recentes e futuras que estão disponíveis para parceiros e clientes.
+- [A CSP lança recursos](https://partner.microsoft.com/resources/collection/csp-launch-topics-collection#/) de atualização com conteúdo fácil de consumir em mudanças operacionais chave.
+- [Refreshers e lembretes](https://partner.microsoft.com/resources/detail/csp-august-2021-refreshers-and-reminders-pdf) sobre os principais tópicos da CSP que recebem interesse e consultas.
+
+Precisa de prontidão de licenciamento? Os [webinars mensais de holofotes da CSP](https://commercial_licensing.eventbuilder.com/YearToDate_ALL) cobrem as últimas informações de licenciamento da CSP disponíveis para todos os parceiros.
+
+### <a name="next-steps"></a>Passos seguintes
+
+Reveja os recursos comunitários e registe-se para a Chamada Comunitária Q&A.
+
+### <a name="questions"></a>Perguntas?
+
+A comunidade mensal de CSP Q&Uma chamada é o melhor local para colocar questões sobre a mudança operacional no programa CSP. Pode [submeter uma pergunta](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRzrhg6eBq-tPjJzqc4xPoxdUQU1WQklGNDZBNVJaRkMxUDVJVUxHSkNXWS4u) até 48 horas antes da chamada. Todas as questões relacionadas com o lançamento serão respondidas na chamada e/ou no Q&Um documento publicado após a chamada. Você pode visitar a [coleção comunitária](https://partner.microsoft.com/resources/collection/july-2021-csp-partner-community-content#/) do mês passado e rever o Q&Um [documento](https://partner.microsoft.com/resources/detail/fy21-june-csp-community-questions-and-answers-pdf) que foi publicado após o evento de junho.
+
+Perguntas sobre qualquer outro tema da CSP? Visite a página [de Suporte do Centro de Parceiros.](https://partner.microsoft.com/support/?stage=1)
+
+________________
+## <a name="get-genuine-windows-agreement-ggwa-offers-in-the-cloud-solution-provider-program-temporarily-unavailable"></a><a name="11"></a>Get Genuine Windows Ofertas de Acordo (GGWA) no programa Fornecedor de Soluções em Nuvem temporariamente indisponíveis
+
+### <a name="summary"></a>Resumo
+
+As ofertas da GGWA transacionadas através do programa CSP estão temporariamente indisponíveis. Até novo aviso, os parceiros devem continuar a transacionar a GGWA através do programa Open License.
+
+### <a name="categories"></a>Categorias
+
+- Data: 2021-08-16
+- Cresça o seu negócio
+
+### <a name="impacted-audience"></a>Audiência Impactada
+
+Todos os parceiros que transacionam ofertas da GGWA via CSP
+
+### <a name="details"></a>Detalhes
+
+As chaves de software para Get Genuine Windows ofertas do Acordo de Get Genuine Windows (GGWA) transacionadas em CSP não estão disponíveis, portanto, com efeito imediato, a Microsoft está a remover temporariamente estas ofertas do programa CSP. As ofertas da GGWA estarão visíveis na lista de preços da CSP até 1 de setembro de 2021, mas não podem ser encomendadas no catálogo/Centro de Parceiros.
+
+Enquanto trabalhamos para resolver, os parceiros são aconselhados a transacionar ofertas GGWA através do programa De Licença Aberta. Será dado novo aviso uma vez que uma correção tenha sido aplicada, prevista para antes de 31 de dezembro de 2021.
+
+>[!NOTE]
+>A oferta da GGWA é usada para ajudar um cliente a resolver uma situação de licenciamento errado. Os SKUs GGWA só podem ser encomendados na sequência de uma auditoria de conformidade da Microsoft. Para mais informações, consulte os [Termos do Produto da Microsoft.](https://www.microsoft.com/licensing/terms/welcome/welcomepage)
+
+### <a name="next-steps"></a>Passos seguintes
+
+Para os parceiros que tenham transacionado as ofertas da GGWA em CSP, por favor devolva estas licenças no prazo de 30 dias a contar da data de compra para um reembolso. Pode completar esta tarefa no Partner Center seguindo a orientação [aqui](../csp-software-subscriptions.md#cancel-a-purchase). Para devoluções de compras após mais de 30 dias, os parceiros podem abrir um bilhete no Partner Center selecionando **CSP,** **Transact and Manage,** **Return ou return software**.
+
+Por favor, transfita todas as encomendas GGWA novas ou substitutas através do programa Open License até novo aviso.
+
+Por favor, partilhe esta atualização com as suas equipas internas, conforme necessário.  
+
+### <a name="questions"></a>Perguntas?  
+
+Para questões sobre estas ofertas, consulte as comunidades de MPC relevantes.
 
 ________________
 ## <a name="view-the-latest-promotions-and-offers"></a><a name="10"></a>Ver as mais recentes promoções e ofertas
@@ -122,7 +215,7 @@ Windows 365 está disponível para os clientes comprarem através [de windows365
 
 #### <a name="update-on-windows-365-trials"></a>Atualização sobre Windows 365 ensaios
 
-Devido à procura significativa, atingimos a capacidade de Windows 365 ensaios, pelo que estamos a fazer uma pausa nos novos ensaios. Os clientes podem [inscrever-se](https://go.microsoft.com/fwlink/?linkid=2165147) para receber uma notificação quando as subscrições do teste retomam, ou vão [aqui](https://www.microsoft.com/windows-365?ms.url=w365&rtc=1) comprar Windows 365 hoje.
+Devido à procura significativa, atingimos a capacidade de Windows 365 ensaios, pelo que estamos a fazer uma pausa nos novos ensaios. Os clientes podem [inscrever-se](https://go.microsoft.com/fwlink/?linkid=2165147) para receber uma notificação quando as subscrições do teste retomam, ou comprar Windows 365 hoje [aqui.](https://www.microsoft.com/windows-365?ms.url=w365&rtc=1)
 
 Entretanto, os parceiros que procuram compreender o serviço podem continuar a utilizar a [demonstração de click-through.](https://interactive-demo.azureedge.net/)
 
@@ -176,7 +269,7 @@ A partir de setembro, se houver um RI disponível para ser transacionado no Part
 
 ### <a name="next-steps"></a>Passos seguintes
 - Os parceiros devem baixar os preços do plano Azure para ver as RIs disponíveis através [do Partner Center](https://partner.microsoft.com/dashboard/sell/pricingandoffers).
-- Os parceiros que transacionam o novo plano de comércio Azure devem consultar os [Serviços Azure na Calculadora de Preços da CSP](https://azure.microsoft.com/en-us/pricing/calculator/) para obter informações sobre preços para RIs que não estão disponíveis para compra dentro do Partner Center. 
+- Os parceiros que transacionam o novo plano de comércio Azure devem consultar os [Serviços Azure na Calculadora de Preços da CSP](https://azure.microsoft.com/pricing/calculator/) para obter informações sobre preços para RIs que não estão disponíveis para compra dentro do Partner Center. 
 ________________
 ## <a name="csp-for-azure-new-commerce-experience-expands-to-the-vatican"></a><a name="5"></a>CSP para a Azure nova experiência de comércio expande-se para o Vaticano
 

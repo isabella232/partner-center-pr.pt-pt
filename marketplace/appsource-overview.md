@@ -5,14 +5,14 @@ ms.service: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
-ms.date: 03/12/2021
+ms.date: 08/16/2021
 ms.custom: contperf-fy21q3
-ms.openlocfilehash: 0992dadecdcce4e001df221735e1de3ab437a5f75f7f0138869ccc94be363df5
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 15b85abde224caafb3f2f6842eb4a38f7b767ffe
+ms.sourcegitcommit: b2b04afce99412870b451878499e002e17e7b636
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115685661"
+ms.lasthandoff: 08/16/2021
+ms.locfileid: "122226805"
 ---
 # <a name="what-is-microsoft-appsource"></a>O que é o Microsoft AppSource?
 
@@ -25,6 +25,12 @@ O catálogo appSource inclui software como aplicações de serviço (SaaS), solu
 O AppSource oferece opções simples de pesquisa e filtragem para ajudá-lo a encontrar rapidamente o que procura. Utilize a **barra de pesquisa** no topo da página para encontrar soluções por fornecedor, nome do produto ou palavras-chave.
 
 [![Mostra a página de aterragem do Microsoft Appsource.](media/appsource-overview/appsource-home-page.png)](media/appsource-overview/appsource-home-page.png#lightbox)
+
+Três separadores no topo dos resultados do filtro de página inicial com base no tipo de oferta AppSource:
+
+- **As aplicações** mostram todas as aplicações adaptadas a uma vasta gama de indústrias, categorias e necessidades empresariais.
+- **Os serviços de consultoria** mostram serviços pré-embalados que fornecem avaliações, briefings, implementações, provas de conceito e workshops para as suas soluções Microsoft.
+- **Os parceiros** mostram perfis de parceiros confiáveis da Microsoft que podem ajudar a sua organização a transformar digitalmente e alcançar objetivos de negócio mais rapidamente com os serviços baseados na Microsoft.
 
 Ao explorar a galeria de [aplicações,](https://appsource.microsoft.com/marketplace/apps)utilize os filtros perto do topo da página para reduzir os resultados com base na disponibilidade de um teste gratuito ou test drive, modelo de preços (gratuito ou pago) e classificações de clientes.
 

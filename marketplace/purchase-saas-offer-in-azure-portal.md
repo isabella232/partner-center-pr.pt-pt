@@ -8,12 +8,12 @@ ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: how-to
 ms.date: 06/29/2021
-ms.openlocfilehash: 5c5c1565f8e1f2703e82bd75881e9920a1fc71d611d78ef282f771cfb30fcd00
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 2514bea646492e25748b26ec69b3fccb6052daa6
+ms.sourcegitcommit: 815760499700bf2c947550524cbddd091622081f
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115688374"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "121914923"
 ---
 # <a name="purchase-a-saas-offer-in-azure-portal"></a>Comprar uma oferta SaaS no portal Azure
 
@@ -45,7 +45,7 @@ Na página inicial, sob os **serviços Azure** selecione **+ Criar um recurso** 
 - Reduza os resultados às ofertas do SaaS utilizando o filtro **'Tipo oferta'** e, em seguida, selecione **SaaS**.
 - Use a barra de pesquisa global na área de navegação superior, para encontrar uma oferta específica de SaaS.
 
-Encontre uma [oferta Private SaaS](./private-offers.md) selecionando o banner no topo da página inicial do **Marketplace.** Nem todas as ofertas, ou planos estão disponíveis em todas as geografias e algumas podem aparecer apenas para certos inquilinos.
+Encontre uma [oferta Private SaaS](./private-plans.md) selecionando o banner no topo da página inicial do **Marketplace.** Nem todas as ofertas, ou planos estão disponíveis em todas as geografias e algumas podem aparecer apenas para certos inquilinos.
 
 A vista filtrada mostra cada oferta SaaS disponível representada por um título. Selecione um para ver a página de detalhes do produto. Que inclui as seguintes secções:
 
@@ -130,4 +130,4 @@ Mensagens de erro que poderá encontrar durante o processo:
 ## <a name="next-steps"></a>Passos seguintes
 
 - Se já comprou uma oferta no mercado, vá a [Billing e Facturaing](./billing-invoicing.md)
-- Você também pode saber mais sobre as opções [de planos privados.](./private-offers.md)
+- Você também pode saber mais sobre as opções [de planos privados.](./private-plans.md)

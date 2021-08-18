@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 05/21/2021
-ms.openlocfilehash: 379d1d1124f46e3dd8f3f9f3ad957bd06e6c390c22d2af4d1fe8a41d544380be
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 4636ee56418c68b5186c1137b73b3da0f0806951
+ms.sourcegitcommit: 815760499700bf2c947550524cbddd091622081f
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115684821"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "121914878"
 ---
 # <a name="april-2020-announcements"></a>Anúncios de abril de 2020
 

@@ -8,13 +8,13 @@ ms.custom: contperf-fy21q2
 ms.localizationpriority: high
 author: vinayks
 ms.author: vinayks
-ms.date: 01/27/2021
-ms.openlocfilehash: 2822d8c20841f647de8d1f4ab8ef3f41e116a1bd3aa2944f2c5f101d242604e9
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.date: 08/13/2021
+ms.openlocfilehash: fefafae2f1dd81e314a4d37a2170fe527355f75e
+ms.sourcegitcommit: b2b04afce99412870b451878499e002e17e7b636
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115686479"
+ms.lasthandoff: 08/16/2021
+ms.locfileid: "122226815"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Saiba como associar-se a fornecedores indiretos no programa Fornecedor de Soluções em Nuvem
 
@@ -67,27 +67,26 @@ A partir de outubro de 2020, todos os parceiros da Microsoft novos na CSP, vão 
 
 3. Inscreva-se na sua conta de trabalho - o nome de utilizador e a palavra-passe que utiliza para iniciar sômsin como administrador global para Office 365, Microsoft Azure ou Microsoft Dynamics CRM. Se não tiver uma conta de trabalho, selecione **Criar uma** para configurar uma agora. Depois de criar a sua conta de trabalho, inscreva-se na utilização das credenciais de administração global para a sua nova conta.
 
-4. Forneça ou atualize o perfil de negócio legal da sua empresa, informações de contacto primários e informações de apoio ao cliente. (Para encontrar as informações legais sobre o seu negócio, selecione **perfil da Organização** e, em seguida, selecione **Informações Legais**.) Selecione **Matricular-se agora**.
+4. Associe o seu ID MPN à sua Conta CSP. A sua conta CSP e o ID MPN associado devem estar localizados no mesmo país, e o seu ID MPN deve estar no Partner Center.
 
-   O contacto principal é a pessoa na sua empresa que podemos contactar sobre a sua aplicação. Pode ser você ou outra pessoa na sua companhia. Nota: Não aceitamos endereços de e-mail de serviços de e-mail baseados na Web, como o Gmail, Yahoo! Correio, iCloud Mail, AOL Mail ou Outlook Mail.
+    1. Inscreva-se no painel partner [Center](https://partner.microsoft.com/dashboard/) com as suas credenciais de conta MPN. (As suas credenciais MPN podem ser diferentes das suas credenciais de CSP).
+
+    2. Selecione **Definições**, **Conta Definições,** **Perfil de Organização** e, em seguida, **Identificadores**.
+
+    3. Encontre o ID MPN com o **Tipo de Localização** que corresponda ao país desta conta CSP. Se não conseguir encontrá-lo, pode adicionar um novo local que irá criar um novo ID MPN. Para obter mais informações, consulte [Gerir as localizações.](manage-locations.md) Pode adiar este passo por enquanto. No entanto, não poderá assinar o Microsoft Partner Agreement (MPA) ou transacionar em CSP até ter associado o seu ID MPN à sua conta CSP.
+
+    Se não se inscreveu no programa MPN, [inscreva-se hoje](mpn-overview.md) e, em seguida, continue com a inscrição no CSP.
+
+5. Forneça ou atualize o perfil de negócio legal da sua empresa, informações de contacto primários e informações de apoio ao cliente.
+
+    Pode procurar o perfil da empresa ou introduzir informações da empresa manualmente. Se a sua empresa estiver registada na Dun & Bradstreet, use o ID duns para procurar a informação da sua empresa. Se quiser fornecer os seus dados da sua empresa, **selecione Enter manualmente**.
+
+    Para alguns países, quando introduzir o seu endereço manualmente, validaremos o seu endereço para si. Se o que insere diferir do validado, sugerimos que utilize o endereço validado. Isto garante que os elementos do endereço são normalizados conforme definido pela autoridade postal do país, corretamente formatados e enviados.
+
+    O contacto principal é a pessoa na sua empresa que podemos contactar sobre a sua aplicação. Pode ser você ou outra pessoa na sua companhia. Nota: Não aceitamos endereços de e-mail de serviços de e-mail baseados na Web, como o Gmail, Yahoo! Correio, iCloud Mail, AOL Mail ou Outlook Mail.
 
    > [!IMPORTANT]  
    > Para ajudar a garantir a segurança e privacidade da sua empresa, enviaremos um e-mail para o seu contacto principal para verificar se (1) ele ou ela se inscreveu para uma conta partner Center, e (2) que este endereço de e-mail pertence à sua empresa. Após o contacto principal verificar o seu endereço de e-mail, continuaremos a nossa revisão da informação que forneceu. Enviaremos por e-mail atualizações do estado de inscrição para o contacto primário.
-
-5. Associe o seu ID MPN à sua Conta CSP. A sua conta CSP e o ID MPN associado devem estar localizados no mesmo país, e o seu ID MPN deve estar no Partner Center.
-  
-   1. Inscreva-se no Partner Center com as suas credenciais de conta "MPN" (as suas credenciais MPN podem ser diferentes das suas credenciais CSP).
-
-   2. Vá a **Definições**  ->  **Account Definições** Organization  ->  **Profile**  ->  **Identifiers**.
-
-   3. Encontre o ID MPN com o tipo "Localização" que corresponda ao país desta conta CSP.
-
-   4. Se não conseguir encontrar o ID MPN de localização que corresponda à conta CSP que pretende utilizar, pode adicionar uma nova localização que irá criar um novo ID MPN. Saiba mais, [gerir localizações.](manage-locations.md)
-
-   5. Pode adiar este passo por enquanto, no entanto, não poderá assinar o Microsoft Partner Agreement (MPA) ou transacionar em CSP, até completar a associação do seu ID MPN à sua conta CSP.
-
-   > [!IMPORTANT]
-   > Selecione o ID MPN disponível no Partner Center e no mesmo país que a sua conta CSP e certifique-se de que o seu ID MPN está no Partner Center.
 
 6. Depois de a Microsoft completar a verificação de inscrição que demora 3 a 5 dias úteis, assine o Acordo de Parceiro da Microsoft na [visão geral](https://partner.microsoft.com/pcv/dashboard/overview) do painel do Partner Center utilizando credenciais de administração global. Para visualizar e descarregar o **Microsoft Partner Agreement** antes de o assinar, clique no link Do Acordo de Parceiro da Microsoft, conforme mostrado abaixo.  Se a sua conta estiver presa na verificação após 5 dias úteis, leia [o processo de verificação da conta](verification-responses.md).
 

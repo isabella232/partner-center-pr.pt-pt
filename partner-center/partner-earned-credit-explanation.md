@@ -1,7 +1,7 @@
 ---
 title: Parceiro ganhou crédito por serviços geridos
 ms.topic: article
-ms.date: 07/22/2021
+ms.date: 08/12/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-pricing
 description: Saiba como o parceiro da Microsoft ganhou crédito (PEC) por serviços geridos é calculado e pago e como garantir que é elegível.
@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dd2f2ad42a18ae1dfa061e3cc5bb9cbfeedffec12f0b2eb882cc8093bbc8d9ed
-ms.sourcegitcommit: dfed8309ec4ba4cbe5af05d0dcd30e4151ed17e6
+ms.openlocfilehash: 3583614b1bf89a3c9297f123f12355b8a2ad7d1e
+ms.sourcegitcommit: 03713f713b38f8c7bc299dcb92b7264777d1339c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/12/2021
-ms.locfileid: "121469785"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "122019668"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>Como o crédito de parceiro ganho é calculado e pago
 
@@ -104,7 +104,9 @@ A visão de Análise de Custos apresentará os custos da sua conta de faturaçã
 Também pode agrupar e filtrar a propriedade **PartnerEarnedCreditApplied** utilizando as funcionalidades de filtro **Do Grupo por** e **Adicionar.** Estes permitem perfurar custos que têm PEC e os custos que não têm PEC aplicados.
 
 ## <a name="how-is-pec-paid"></a>Como é pago o PEC?
-Os ganhos do PEC são contabilizados na linha de encargos líquidos ajustada dentro da fatura. Consulte o ficheiro de reconciliação mensal da fatura e o ficheiro de utilização diária do Azure para obter detalhes de ajuste.
+Os ganhos do PEC são contabilizados na linha de encargos líquidos ajustada dentro da fatura. O **total** da fatura abaixo mostrada ilustra isto. Para obter detalhes de ajuste, consulte o ficheiro de reconciliação mensal da fatura e o ficheiro de utilização diária do Azure.
+
+:::image type="content" source="images/advanced-specializations/invoice.png" alt-text="Screenshot de uma fatura do Partner Center indicando que os detalhes de ajuste aparecem nos ficheiros de utilização diário do Reconhecimento e do Azure." border="false":::
 
 ## <a name="next-steps"></a>Passos seguintes
 
