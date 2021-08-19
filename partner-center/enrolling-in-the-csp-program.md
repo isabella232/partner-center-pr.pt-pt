@@ -1,7 +1,7 @@
 ---
 title: Enroll in the Cloud Solution Provider program (Inscrever-se no programa do Fornecedor de Soluções Cloud)
 ms.topic: how-to
-ms.date: 08/13/2021
+ms.date: 08/18/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-enroll
 description: Saiba como se inscrever no modelo de vendas do programa Fornecedor de Soluções em Nuvem (CSP) que é o melhor para o seu negócio, como o revendedor indireto ou o parceiro de conta direta.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7998afc02c0a0a884f8ca93c656580916a8b75be
-ms.sourcegitcommit: b2b04afce99412870b451878499e002e17e7b636
+ms.openlocfilehash: e3c757ba22573b4c3082e954a7b7f12b12dffa7a
+ms.sourcegitcommit: 8219ce4f8613523f15bc8fc1eddadbf97571953f
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/16/2021
-ms.locfileid: "122226781"
+ms.lasthandoff: 08/18/2021
+ms.locfileid: "122421014"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Enroll in the Cloud Solution Provider program (Inscrever-se no programa do Fornecedor de Soluções Cloud)
 
@@ -38,7 +38,7 @@ Para completar a aplicação CSP, você precisará do ID MPN da sua empresa, end
 
     Para alguns países, quando introduzir o seu endereço manualmente, validaremos o seu endereço para si. Se o endereço que insere diferir do validado, sugerimos que utilize o endereço validado. Isto garante que os elementos do endereço são normalizados conforme definido pela autoridade postal do país, corretamente formatados e enviados.
 
-4. Associe o seu ID MPN ao seu perfil. Durante a verificação, podemos pedir-lhe documentos adicionais ou para completar um questionário. Pode levar vários dias para rever e verificar a informação que forneceu. Enviaremos um e-mail quando terminarmos a nossa avaliação.
+4. Durante a verificação, podemos pedir-lhe documentos adicionais ou para completar um questionário. Pode levar vários dias para rever e verificar a informação que forneceu. Enviaremos um e-mail quando terminarmos a nossa avaliação.
 
 5. Depois de verificarmos as suas informações, aceite o acordo de termos de revendedor indireto da Microsoft.
 
