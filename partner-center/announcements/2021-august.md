@@ -10,17 +10,102 @@ ms.custom:
 - announcement
 - references_regions
 ms.localizationpriority: high
-ms.date: 08/18/2021
-ms.openlocfilehash: 1ccd8c497932e16d51a599bf99d5e745383fbe05
-ms.sourcegitcommit: a8ce2fb890cf4bb0c5dc71c14e7f984df7e757ef
+ms.date: 08/19/2021
+ms.openlocfilehash: 4d482fe7730c2cd03847bfc2b379a3223132fa11
+ms.sourcegitcommit: 9d155ff319ba2b2793bc9945d179ce1cb9c8f7c7
 ms.translationtype: MT
 ms.contentlocale: pt-PT
 ms.lasthandoff: 08/19/2021
-ms.locfileid: "122443961"
+ms.locfileid: "122453786"
 ---
 # <a name="august-2021-announcements"></a>Anúncios de agosto de 2021
 
 Esta página fornece os anúncios para o Microsoft Partner Center para agosto de 2021.
+
+________________
+## <a name="new-commerce-experience-for-microsoft-365-dynamics-365-power-platform-and-windows-365-seat-based-for-breadth-motion"></a><a name="14"></a>Nova experiência de comércio para Microsoft 365, Dynamics 365, Power Platform e Windows 365 lugares baseados em movimento de largura
+
+### <a name="summary"></a>Resumo
+
+Em outubro de 2021, a Microsoft trará ofertas em nuvem baseadas em assentos para a nova experiência de comércio para Microsoft 365, Dynamics 365 e Power Platform, bem como Windows 365.
+
+### <a name="categories"></a>Categorias
+
+- Data: 2021-08-19
+- Capacidades
+
+### <a name="impacted-audience"></a>Audiência impactada
+
+Parceiros de conta direta da CSP e fornecedores indiretos e revendedores através dos seus fornecedores indiretos
+
+### <a name="details"></a>Detalhes
+
+A Microsoft está numa viagem transformadora com a sua experiência de comércio - um investimento plurianual multi-ano. A nova experiência de comércio para o programa Fornecedor de Soluções em Nuvem (CSP) baseia-se nas capacidades fundamentais que fizeram da CSP a moção para parceiros que vendem soluções de nuvem de valor acrescentado. Com o novo comércio, os parceiros podem fornecer ofertas de serviços únicas para os clientes, independentemente da forma como os clientes compram, permitindo-lhes transformar digitalmente. E os parceiros podem expandir os seus negócios com serviços de venda contínua e geridos, reduzindo custos.
+
+Cada fase da nova jornada de comércio traz novas oportunidades, ofertas, características e benefícios. Começou com a nova experiência de comércio para a CSP há dois anos com Microsoft Azure (a primeira oferta da Microsoft introduzida na nova plataforma de comércio), seguida pela Azure Reserved Instances e, mais recentemente, ofertas perpétuas de software.
+
+Com a próxima fase em outubro de 2021, levaremos as ofertas de nuvem baseadas em assentos para a nova experiência de comércio para Microsoft 365, Dynamics 365 e Power Platform, bem como Windows 365.
+
+A mudança para a nova experiência de comércio ajuda os parceiros a posicionar estrategicamente o seu negócio para o crescimento futuro, construindo fluxos de receitas mais amplos e sustentáveis em CSP com menos complexidade de licenciamento e custo. O lançamento de outubro fornece aos parceiros do programa CSP novas capacidades de vendas, oferece eficiências operacionais e impulsiona o compromisso de longo prazo do cliente com várias opções de prazo.
+
+#### <a name="selling-microsoft-365-dynamics-365-and-power-platform-in-the-new-commerce-experience"></a>Venda Microsoft 365, Dynamics 365 e Power Platform na nova experiência de comércio
+
+Com o novo comércio, os parceiros podem abordar o espectro de cenários de clientes. Podem também bloquear os preços de subscrição antes dos aumentos de preços recentemente anunciados para o Local de Trabalho Moderno. Os parceiros obtêm melhor previsibilidade de receita (e previsibilidade de preço para os clientes) através da venda de ofertas anuais ou plurianuais. Entre os benefícios da nova experiência de comércio na CSP:
+
+- Adoção mais fácil de novos produtos, como o Viva Informações, incluindo conversões de ensaios simplificadas e complementos disponíveis separadamente no catálogo da CSP.
+- Mandatos de três anos para a M365 exclusivamente em novo comércio em março de 2022.
+- Novas ofertas para M365 e D365 exclusivas para novo comércio.
+- Ofertas de três anos para d365, semelhantes à experiência existente na CSP.
+- Novas ofertas mensais com um prémio de preço para clientes que precisam de flexibilidade de prazo e contagem de assentos.
+- Ofertas a prazo anuais com preços competitivos para clientes estáveis e de longo prazo.
+- A opção de misturar ofertas de curto e longo prazo para clientes com flutuações sazonais ou de volume de negócios.
+- Políticas de cancelamento consistentes para termos de oferta baseados em assentos em novo comércio (limitado às primeiras 72 horas do termo com reembolso prorated.)
+- Um novo conjunto de ofertas de comunicações (atualmente previstas para outubro) que fornecem o consumo de serviços telco faturados em atraso, como precursor para lançar esta opção para outros novos tipos de oferta em lançamentos posteriores.
+- Ferramenta que dinamiza a transição das assinaturas existentes para o novo comércio.
+- Tratamento mais fácil de dados de subscrição e faturação e capacidades de gestão de subscrição melhoradas.
+- Aplicação da propriedade por subscrição que impede múltiplas compras de ensaios gratuitos e ofertas de pequenas e médias empresas (SMB) de diferentes parceiros.
+
+Para ajudar os parceiros a prepararem-se para a disponibilidade geral de outubro, a Microsoft irá adicionar as novas funcionalidades de comércio e oferecer catálogo aos inquilinos da caixa de areia CSP (com documentação de acompanhamento) a partir de 1 de setembro para que os parceiros de fatura direta e fornecedores indiretos possam começar a testar e integrar novos comércio com as suas plataformas através de APIs. Os parceiros poderão negociar com os clientes em novo comércio a partir da AG de outubro.
+
+#### <a name="selling-windows-365-in-the-new-commerce-experience"></a>Venda Windows 365 na nova experiência de comércio
+
+Windows 365, anunciado em julho de 2021 e lançado como produto em agosto de 2021, é o primeiro PC em nuvem do mundo para todas as organizações, transmitindo de forma segura a experiência Windows, incluindo desktop, apps, poder de processamento, armazenamento e muito mais, para qualquer dispositivo de cliente.* A experiência do PC em nuvem pode escalar para adequar as necessidades dos clientes e é fácil de implementar sem a necessidade de infraestruturas de desktop virtualizadas (VDI).
+
+(*Acesso à Internet obrigatório, taxas podem ser aplicadas. Consulte o [Windows 365 FAQ](https://aka.ms/Windows365/Partner002) para obter uma lista de dispositivos suportados.)
+
+*Windows 365 estarão disponíveis na nova experiência de comércio para a moção de compra da empresa em setembro de 2021 (rever o [Licenciamento para Windows deck 365 L100](https://partner.microsoft.com/resources/detail/windows-365-licensing-l100-deck-pdf) para saber mais, e detalhes adicionais que serão publicados [aqui](https://aka.ms/licensingwindows365) em meados de setembro) e na CSP em outubro de 2021.* A nova experiência de comércio em CSP oferecerá Windows 365 apenas através da nova oferta mensal, o que permitirá aos clientes experimentar este novo produto sem compromisso de longo prazo e ajustar o número de utilizadores mensalmente com preços por utilizador. Por último, os novos Windows 365 funcionalidades e futuras melhorias só serão disponibilizados na nova oferta de comércio em CSP.
+
+#### <a name="transitioning-to-the-new-commerce-experience"></a>Transição para a nova experiência de comércio
+
+A Microsoft está a lançar duas promoções introdutórias para parceiros de conta direta da CSP e fornecedores indiretos entre 1 de outubro de 2021 e 31 de março de 2022, destinadas a motivar parceiros e clientes a movimentarem os negócios existentes e a colocarem novas encomendas em novos negócios.
+
+**Nota:** Estas promoções não se aplicam a Windows 365 em novo comércio.
+
+Os parceiros podem ter uma abordagem faseada para adotar novos comércio e podem continuar a vender na anterior plataforma CSP até março de 2022. Principais marcos futuros (sujeitos a alterações):
+
+- Março de 2022: Novas encomendas de assinaturas e renovações só serão possíveis na nova experiência de comércio.
+- Outubro de 2022: Os incentivos da Microsoft só estão disponíveis para transações na nova experiência de comércio.
+- Fevereiro de 2023: Todas as subscrições restantes sobre a experiência anterior devem ser transferidas para novo comércio porque não podem ser renovadas com a experiência anterior da CSP.
+
+A linha temporal acima proporciona tempo para os parceiros compreenderem e operacionalizarem as novas melhorias da experiência de comércio e migrarem os restantes negócios da experiência anterior.
+
+#### <a name="future-capabilities-for-new-commerce-in-csp"></a>Capacidades futuras para novos comércio na CSP
+
+Em 2022, funcionalidades adicionais e novas ofertas serão lançadas exclusivamente para novos comércios.  Por exemplo, os planos atuais para M365 (sujeito a alterações) incluem ofertas de três anos, benefícios de uso híbrido (HUB), programa de uso doméstico (HUP) e add-ons multi-geo. Os parceiros também poderão alinhar as datas finais de prazo de novas subscrições e existentes.  
+
+Estas novas funcionalidades permitem à Microsoft trazer algumas capacidades populares e oferecer tipos de outros programas de licenciamento para novos comércio e para fornecer um conjunto de funcionalidades de ponta a ponta, completando o conjunto de ofertas de cloud da Microsoft em novos comércio.
+
+As ofertas baseadas em assentos em novos comércio só estarão disponíveis no Brasil em fevereiro de 2022.
+
+Para mais informações sobre a Nova Experiência de Comércio para Ofertas de Seat-Based CSP, aceda à [Coleção de Preparação OPS.](https://partner.microsoft.com/resources/collection/new-commerce-experience-for-csp-seat-based-offers#/)
+
+### <a name="next-steps"></a>Passos seguintes
+
+Reveja os recursos sobre este tema e partilhe com as partes interessadas apropriadas na sua organização.  
+
+### <a name="questions"></a>Perguntas?
+
+Para mais perguntas sobre estas ofertas, consulte a comunidade de parceiros da Microsoft relevante.
 
 ## <a name="update-to-our-commercial-pricing-for-microsoft-365"></a><a name="13"></a>Atualizar os nossos preços comerciais para Microsoft 365
 

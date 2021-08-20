@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 08/18/2021
-ms.openlocfilehash: 6abc67fcbff54cdbf89d659c4f3a402d6bb777f9
-ms.sourcegitcommit: a8ce2fb890cf4bb0c5dc71c14e7f984df7e757ef
+ms.date: 08/19/2021
+ms.openlocfilehash: 5ebc9c0bfc5edde65097c801135e360515d21065
+ms.sourcegitcommit: 9d155ff319ba2b2793bc9945d179ce1cb9c8f7c7
 ms.translationtype: MT
 ms.contentlocale: pt-PT
 ms.lasthandoff: 08/19/2021
-ms.locfileid: "122443978"
+ms.locfileid: "122453769"
 ---
 # <a name="partner-center-announcements"></a>Anúncios do Centro de Parceiros
 
@@ -22,7 +22,8 @@ Saiba mais sobre atualizações importantes do Centro de Parceiros. Estas inform
 
 |**Categoria**|**Anúncios de agosto de 2021**|**Anunciado**|
 |---------|:---------|:---------|
-|Capacidades|[Atualizar os nossos preços comerciais para Microsoft 365](2021-august.md#13)| 18 de agosto |
+|Capacidades|[Nova experiência de comércio para Microsoft 365, Dynamics 365, Power Platform e Windows 365 lugares baseados em movimento de largura](2021-august.md#14)| 19 de agosto |
+|Capacidades|[Atualizar os nossos preços comerciais para Microsoft 365](2021-august.md#13)| 19 de agosto |
 |Capacidades|[Atualização e lembretes da comunidade Fornecedor de Soluções em Nuvem de agosto (CSP)](2021-august.md#12)| 16 de agosto |
 |Cresça o seu negócio|[Get Genuine Windows Ofertas de Acordo (GGWA) no programa Fornecedor de Soluções em Nuvem temporariamente indisponíveis](2021-august.md#11)| 16 de agosto |
 |Ofertas/Mercados|[Ver as mais recentes promoções e ofertas](2021-august.md#10)| 10 de agosto |
