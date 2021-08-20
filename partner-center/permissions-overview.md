@@ -5,16 +5,16 @@ ms.date: 10/30/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-enroll
 description: Saiba quais as funções mais bem possíveis para os utilizadores da sua empresa que gerem transações comerciais, referências, incentivos ou membros mpn no Partner Center.
-author: hemas
-ms.author: hemas
+author: parthpandyaMSFT
+ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20, contperf-fy21q1
-ms.openlocfilehash: 5868438314d3dff4a6ba18518f9dd22899cb3c6abd68a620560dceb0c10e0343
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 7638a35b5aa583cd3a7c3b40833123402df7cb70
+ms.sourcegitcommit: 9d155ff319ba2b2793bc9945d179ce1cb9c8f7c7
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115681472"
+ms.lasthandoff: 08/19/2021
+ms.locfileid: "122453803"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>Atribuir funções e permissões aos utilizadores de uma empresa que necessite de trabalhar no Partner Center
 
@@ -177,4 +177,4 @@ Juntamente com a nova função de utilizador de referências, estamos também a 
 ## <a name="next-steps"></a>Passos seguintes
 
 - [Create user accounts and assign roles permissions](create-user-accounts-and-set-permissions.md) (Criar contas de utilizador e atribuir funções e permissões)
-- [Verifique as informações da sua conta quando se inscrever num novo programa do Partner Center](verification-responses.md)
+- [Verificar as informações da conta ao inscrever-se num novo programa do Centro de Parceiros](verification-responses.md)

@@ -10,17 +10,71 @@ ms.custom:
 - announcement
 - references_regions
 ms.localizationpriority: high
-ms.date: 08/09/2021
-ms.openlocfilehash: b384d97a30d4c0e7aa3597c47c233db60c79f0d0
-ms.sourcegitcommit: b2b04afce99412870b451878499e002e17e7b636
+ms.date: 08/18/2021
+ms.openlocfilehash: 1ccd8c497932e16d51a599bf99d5e745383fbe05
+ms.sourcegitcommit: a8ce2fb890cf4bb0c5dc71c14e7f984df7e757ef
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/16/2021
-ms.locfileid: "122226764"
+ms.lasthandoff: 08/19/2021
+ms.locfileid: "122443961"
 ---
 # <a name="august-2021-announcements"></a>Anúncios de agosto de 2021
 
 Esta página fornece os anúncios para o Microsoft Partner Center para agosto de 2021.
+
+## <a name="update-to-our-commercial-pricing-for-microsoft-365"></a><a name="13"></a>Atualizar os nossos preços comerciais para Microsoft 365
+
+### <a name="summary"></a>Resumo
+
+Em 19 de agosto de 2021, a Microsoft anunciou uma atualização para os nossos preços comerciais para Microsoft 365 que entrará em vigor a 1 de março de 2022.
+
+### <a name="categories"></a>Categorias
+
+- Data: 2021-08-19
+- Capacidades
+
+### <a name="impacted-audience"></a>Audiência impactada
+
+Fornecedor de Soluções em Nuvem parceiros
+
+### <a name="details"></a>Detalhes
+
+Na quinta-feira, 19 de agosto de 2021, [anunciou uma atualização ao nosso preço comercial para Microsoft 365](https://aka.ms/M365PriceUpdate), a primeira atualização substantiva desde Office 365 foi lançada em junho de 2011. Esta alteração entrará em vigor a 1 de março de 2022, proporcionando aos clientes cerca de seis meses de notificação antecipada. Incluirá:
+
+- **Enterprise:** Microsoft 365 E3 ($32 a $36 por utilizador), Office 365 E5 ($35 a $38), Office365 E3 ($20 a $23) e Office 365 E1 ($8 a $10)
+- **Pequena Média (SMB):** Microsoft 365 Empresas Basic ($5 a $6 por utilizador) e Business Premium ($20 a $22)
+
+As alterações nos preços dos clientes em nuvem do governo dos EUA serão faseadas ao longo de vários anos, de acordo com os requisitos existentes. Não há nenhuma mudança de preço neste momento para educação ou produtos de consumo.
+
+**Esta atualização de preços baseia-se na inovação do produto que entregamos ao longo dos últimos 10 anos para atender às necessidades em mudança dos clientes.** Desde o lançamento inicial, adicionámos 25 novas aplicações e mais de 1.400 funcionalidades. Isto inclui a introdução de Microsoft Teams como a única solução com reuniões, conversas, chamadas, colaboração e a capacidade de automatizar processos de negócio. Adicionámos capacidades como a prevenção de perda de dados (DLP) para documentos e e-mails, Office encriptação de mensagens e capacidades de redução de superfície de ataque. E adicionámos novas capacidades apoiadas pela IA que ajudam a automatizar tarefas, encontrar a informação de que precisamos e ajudar-nos a comunicar de formas mais acessíveis a todos.
+
+**Também anunciamos a extensão de acesso ilimitado de acesso** em toda a nossa empresa paga, empresas, linha da frente e suítes governamentais, permitindo que os utilizadores marquem e se juntem a uma reunião de Teams de praticamente qualquer dispositivo. A alteração afetará:
+
+- **Enterprise:** Microsoft 365 E3, Office 365 E3 e Office 365 E1
+- **Governo (GCC, GCCH e DOD):** Microsoft 365 E3, Office 365 E3, Office 365 E1, Microsoft 365 F3 e Microsoft 365 F1
+- **Linha da Frente:** Microsoft 365 F3, Microsoft 365 F1 e Office 365 F3
+- **SMB:** Microsoft 365 Empresas Premium, Microsoft 365 Empresas e Microsoft 365 Empresas Basic
+
+Atualmente incluído com Microsoft 365 E5 e Office 365 E5, passamos a ver o acesso ao acesso como uma parte importante da experiência completa Teams. Esta mudança entrará em vigor em março de 2022.
+
+Para ser claro, não estamos a aumentar os nossos preços por causa desta mudança. O alargamento das capacidades de marcação através dos SKUs é simplesmente o mais recente exemplo de como entregamos regularmente novos valores para suportar as necessidades em mudança dos nossos clientes.
+
+Acreditamos que este é o momento certo para atualizar os nossos preços, com base nos sinais de recuperação económica que estamos a ver em todo o mundo e nos aumentos de preços que temos visto de outros fornecedores no mercado nos últimos anos. Temos uma forte proposta de valor e um histórico comprovado de entrega consistente de novo valor aos nossos clientes.
+
+Para si, os nossos parceiros, estas alterações proporcionam oportunidade. Queremos tornar economicamente mais transparente que a E5 represente o melhor valor. Os novos preços reduzirão o aumento da Microsoft 365 E3 para a E5. Paralelamente, as alterações às capacidades de Audio Conferencing destinam-se a apoiar ainda mais o caso de consolidação do fornecedor.
+
+### <a name="next-steps"></a>Passos seguintes
+
+- Leia a publicação do blog: [aka.ms/M365PriceUpdate](https://aka.ms/M365PriceUpdate)
+- Certifique-se de que os seus clientes estão cientes da primeira atualização substantiva da lista de preços Microsoft 365 e estão a levá-los em conta à medida que planeiam gastos futuros. Ajude os clientes a avaliar se este é o momento certo para avançar até Microsoft 365 E5 ou consolidar nas soluções da Microsoft.
+- Utilize o [deck virado](https://cloudpartners.transform.microsoft.com/download?assetname=assets/M365-price-update-partner-deck&download=1) para o cliente para enfatizar o valor acrescentado ao longo da última década e os seis meses de notificação.
+- Utilize as [FAQ](https://cloudpartners.transform.microsoft.com/download?assetname=assets/M365-price-update-partner-FAQ&download=1) para responder a perguntas do cliente.
+
+Para mais informações sobre estas próximas alterações, visite a galeria de Prontidão de Operações na [Update to our commercial pricing for Microsoft 365](https://partner.microsoft.com/resources/collection/update-to-our-commercial-pricing#/).
+
+### <a name="questions"></a>Perguntas?
+
+Se tiver dúvidas, contacte o Seu Centro de Operações Regionais utilizando a Ferramenta de Registo de Chamadas (CLT) [em clt.partners.extranet.microsoft.com/CLT](https://clt.partners.extranet.microsoft.com/CLT) ou através [de explore.ms](https://www.explore.ms/). Siga o processo padrão de CLT de perto para que possamos resolver a sua consulta o mais rapidamente possível.
 
 ________________
 ## <a name="august-cloud-solution-provider-csp-community-update-and-reminders"></a><a name="12"></a>Atualização e lembretes da comunidade Fornecedor de Soluções em Nuvem de agosto (CSP)

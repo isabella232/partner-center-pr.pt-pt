@@ -9,12 +9,12 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 92dbac2577b36d3b1718fb5afbf2bce5927c7f5f2ea32d54d22c55f0a4651cd9
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 8886831228807c48bd3666daa485ac5357c8c6e2
+ms.sourcegitcommit: 7c0dc665ca5e908de884003aebdd14889fcce5dc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115684197"
+ms.lasthandoff: 08/19/2021
+ms.locfileid: "122464600"
 ---
 # <a name="get-referral-insights-in-partner-center-and-find-out-how-your-referrals-are-doing"></a>Obtenha informações de referência no Partner Center e descubra como estão as suas referências
 
@@ -128,9 +128,9 @@ Pode haver várias razões pelas quais está a receber um gráfico em branco com
 > A página **Informações de referências** mostra apenas dados de referências gerados no Centro de Parceiros. Não mostra dados para referências geradas através de Ligação de [Vendas de Parceiros](psc-to-pc.md) ou quaisquer outros mecanismos.
 
 > [!TIP]
-> Para ver como o seu perfil de negócio está a funcionar na experiência do [fornecedor de soluções,](https://www.microsoft.com/solution-providers/home) consulte a página de insights de perfil de [Negócios.](analyze-your-marketing-profile.md)
+> Para ver como o seu perfil de negócio está a funcionar na experiência do [fornecedor de soluções,](https://www.microsoft.com/solution-providers/home) consulte a [página leads insights](referral-leads-insights.md).
 
 ## <a name="next-steps"></a>Passos seguintes
 
 - [Cresça o seu negócio com referências da Microsoft](referrals.md)
-- [Analise as suas pistas](analyze-your-marketing-profile.md)
+- [Analise as suas pistas](referral-leads-insights.md)

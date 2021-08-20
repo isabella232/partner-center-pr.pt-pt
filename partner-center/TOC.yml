@@ -265,11 +265,14 @@
           displayName: mpn
     - name: Registar as suas ofertas
       href: register-deals.md
-    - name: Get referral insights (Obter informações de referência)
-      href: referral-insights.md
-    - name: Obtenha insights de pistas
-      href: analyze-your-marketing-profile.md
-      displayName: mpn
+    - name: Análise de encaminhamento
+      items:
+        - name: Obtenha insights de pistas
+          href: referral-leads-insights.md
+        - name: Get referral insights (Obter informações de referência)
+          href: referral-insights.md
+        - name: Definição de dados de análise de encaminhamento
+          href: referral-analytics-data-definition.md
 - name: Incentivos
   items:
     - name: Introdução aos incentivos

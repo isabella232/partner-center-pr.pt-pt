@@ -9,12 +9,12 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d64336bce8bf99f016e6f79fbf8394815aecd522
-ms.sourcegitcommit: 815760499700bf2c947550524cbddd091622081f
+ms.openlocfilehash: c81dc53a9424a1350bdbd2d4de280d287cba429a
+ms.sourcegitcommit: 9d155ff319ba2b2793bc9945d179ce1cb9c8f7c7
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "121915444"
+ms.lasthandoff: 08/19/2021
+ms.locfileid: "122453820"
 ---
 # <a name="manage-co-sell-opportunities-in-partner-center"></a>Gerir oportunidades de co-venda no Partner Center
 
@@ -183,6 +183,8 @@ Não é necessário que a sua empresa siga as mesmas fases de vendas. É assim q
 Um negócio só será elegível para registo de transações se cumprir todos os critérios abaixo.
 
 - O tipo de negócio é venda conjunta ou liderado por parceiros.
+- O valor do negócio é superior ou igual a USD 25.000. A conversão cambial baseia-se nas taxas de câmbio mensais publicadas pela Reuters.
+- A conta de cliente selecionada para o negócio é gerida pela Microsoft. Estas são contas onde a equipa de vendas da Microsoft tem uma relação existente com a empresa.
 - Há uma solução elegível de incentivo no negócio.
 - O estado do acordo está ganho.
 - Se o tipo de negócio for co-vendido, então a Microsoft aceitou o convite ou marcou o negócio como ganho. Pode compreender o estado da Microsoft olhando para o cartão microsoft abaixo dos detalhes do seu negócio.
