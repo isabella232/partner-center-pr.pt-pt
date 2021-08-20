@@ -11,12 +11,12 @@ ms.custom:
 - references_regions
 ms.localizationpriority: high
 ms.date: 08/19/2021
-ms.openlocfilehash: 4d482fe7730c2cd03847bfc2b379a3223132fa11
-ms.sourcegitcommit: 9d155ff319ba2b2793bc9945d179ce1cb9c8f7c7
+ms.openlocfilehash: 4499f9640ab2139273fb1d3f840dbba5aad9f585
+ms.sourcegitcommit: 7c0dc665ca5e908de884003aebdd14889fcce5dc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
 ms.lasthandoff: 08/19/2021
-ms.locfileid: "122453786"
+ms.locfileid: "122464583"
 ---
 # <a name="august-2021-announcements"></a>Anúncios de agosto de 2021
 
@@ -152,8 +152,8 @@ Para si, os nossos parceiros, estas alterações proporcionam oportunidade. Quer
 
 - Leia a publicação do blog: [aka.ms/M365PriceUpdate](https://aka.ms/M365PriceUpdate)
 - Certifique-se de que os seus clientes estão cientes da primeira atualização substantiva da lista de preços Microsoft 365 e estão a levá-los em conta à medida que planeiam gastos futuros. Ajude os clientes a avaliar se este é o momento certo para avançar até Microsoft 365 E5 ou consolidar nas soluções da Microsoft.
-- Utilize o [deck virado](https://cloudpartners.transform.microsoft.com/download?assetname=assets/M365-price-update-partner-deck&download=1) para o cliente para enfatizar o valor acrescentado ao longo da última década e os seis meses de notificação.
-- Utilize as [FAQ](https://cloudpartners.transform.microsoft.com/download?assetname=assets/M365-price-update-partner-FAQ&download=1) para responder a perguntas do cliente.
+- Utilize o [deck virado](https://cloudpartners.transform.microsoft.com/download?assetname=assets/M365-price-update-partner-deck.pptx&download=1) para o cliente para enfatizar o valor acrescentado ao longo da última década e os seis meses de notificação.
+- Utilize as [FAQ](https://cloudpartners.transform.microsoft.com/download?assetname=assets/M365-price-update-partner-FAQ.docx&download=1) para responder a perguntas do cliente.
 
 Para mais informações sobre estas próximas alterações, visite a galeria de Prontidão de Operações na [Update to our commercial pricing for Microsoft 365](https://partner.microsoft.com/resources/collection/update-to-our-commercial-pricing#/).
 
