@@ -250,6 +250,8 @@
           href: manage-co-sell-opportunities.md
         - name: Operações a granel
           href: bulk-operations.md
+        - name: Regras de encaminhamento
+          href: routing-rules.md
         - name: Utilizar conectores CRM de venda conjunta
           items:
             - name: Conector para Dinâmica 365
