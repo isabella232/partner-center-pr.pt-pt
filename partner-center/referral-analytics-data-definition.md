@@ -8,12 +8,12 @@ description: O documento lista vários relatórios e as suas definições de dad
 author: v-sausharma
 ms.author: v-sausharma
 ms.localizationpriority: medium
-ms.openlocfilehash: 8af7b881b76b9a3adeed97b69da70bc3c16ffc4b
-ms.sourcegitcommit: 7c0dc665ca5e908de884003aebdd14889fcce5dc
+ms.openlocfilehash: e2409dcbfd2a9de677ef4ec79bf8749072859325
+ms.sourcegitcommit: a0afd7765a1a04dc603e096510fd9c138238a7cb
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122514175"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "122681849"
 ---
 # <a name="referral-analytics-export--data-definitions"></a>Exportação de análise de encaminhamento - Definições de dados
 
@@ -58,8 +58,8 @@ Os vários relatórios, que pode descarregar juntamente com as suas definições
 |   Moeda de negócio   |   Moeda do negócio    |
 |   Valor estimado do Negócio    |   Valor estimado da oferta fornecido pelo parceiro    |
 |   Valor estimado do negócio (USD)  |   Valor estimado da oferta fornecido pelo parceiro em USD |
-|   ID da Solução     |   ID da solução  |
-|   Nome da Solução   |   Nome da solução    |
+|   ID da Solução     |   Lista do ID da solução |
+|   Nome da Solução   |   Lista dos nomes da solução  |
 |   ID do MPN  |   ID de rede de parceiros da Microsoft do parceiro |
 |   Nome do parceiro    |   Nome do parceiro |
 |   ID do Negócio |   ID do negócio  |
@@ -69,9 +69,9 @@ Os vários relatórios, que pode descarregar juntamente com as suas definições
 |   Primeiro nome de contato registado   |   Primeiro nome do contacto com parceiros fornecido durante o registo do negócio |
 |   Sobrenome de contato registado    |   Último nome do contacto com parceiros fornecido durante o registo do negócio  |
 |   E-mail de contato registado    |   Email do contacto do parceiro fornecido durante o registo do negócio  |
-|   Número de telefone de contacto registado |   Telefone número de contactos de parceiros fornecidos durante o registo do negócio. Isto inclui taxas de software e serviço, mas não custos de hardware   |
+|   Número de telefone de contacto registado |   Telefone número de contactos de parceiros fornecidos durante o registo do negócio   |
 |   Moeda contratual   |   Moeda do contrato fornecido durante o registo do negócio  |
-|   Valor do Contrato  |   Valor total do contrato fornecido durante o registo do negócio  |
+|   Valor do Contrato  |   Valor total do contrato fornecido durante o registo do negócio. Isto inclui taxas de software e serviço, mas não custos de hardware  |
 |   Valor do Contrato (USD)    |   Valor total do contrato em USD fornecido durante o registo do negócio   |
 |   Data de Início do Contrato |   Data de início do contrato previsto durante o registo do negócio    |
 |   Data de Fim do Contrato   |   Data de fim do contrato previsto durante o registo do negócio  |

@@ -10,17 +10,87 @@ ms.custom:
 - announcement
 - references_regions
 ms.localizationpriority: high
-ms.date: 08/19/2021
-ms.openlocfilehash: 4499f9640ab2139273fb1d3f840dbba5aad9f585
-ms.sourcegitcommit: 7c0dc665ca5e908de884003aebdd14889fcce5dc
+ms.date: 08/20/2021
+ms.openlocfilehash: fb4ff57b65f99f5a5ce8a6f39fec13b538539537
+ms.sourcegitcommit: a0afd7765a1a04dc603e096510fd9c138238a7cb
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122464583"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "122681870"
 ---
 # <a name="august-2021-announcements"></a>Anúncios de agosto de 2021
 
 Esta página fornece os anúncios para o Microsoft Partner Center para agosto de 2021.
+
+________________
+## <a name="phase-2-now-live-euefta-and-uk-change-of-partner-billing-currency-for-new-commerce-offers"></a><a name="15"></a>Fase 2 já está em direto: UE/EFTA e Reino Unido mudam de moeda de faturação de parceiros para novas ofertas de comércio
+
+### <a name="summary"></a>Resumo
+
+A fase 2 da União Europeia (UE)/Associação Europeia de Comércio Livre (EFTA) e Reino Unido (Reino Unido) alteram a moeda de faturação dos parceiros para novas ofertas comerciais.
+
+### <a name="categories"></a>Categorias
+
+- Data: 2021-08-23
+- Capacidades
+
+### <a name="impacted-audience"></a>Audiência impactada
+
+Parceiros que transacionam através do programa Fornecedor de Soluções em Nuvem (CSP) na região UE/EFTA e Reino Unido
+
+### <a name="details"></a>Detalhes
+
+Na região ue/EFTA e Reino Unido, todas as novas ofertas de comércio no programa CSP utilizarão o local de faturação de parceiros em vez do local de faturação dos clientes. Isto significa que os parceiros serão faturados pela Microsoft com base na sua moeda de localização, e não na moeda de localização dos seus clientes. Anunciamos que [a fase 1 entrou em direto](/2021-january.md#15) no dia 28 de janeiro de 2021.
+
+Estamos animados para partilhar que a fase 2 desta experiência de transição está agora ao vivo. A fase 2 será lançada aos parceiros em lotes, o que significa que haverá diferenças nas datas exatas de início da transição da fase 2 entre organizações parceiras. Contactámos os parceiros diretamente com mais informações sobre a data de transição.
+
+#### <a name="phase-2"></a>Fase 2
+
+- Clientes existentes que já adquiriram uma nova oferta de comércio na CSP antes da fase 1
+
+- Clientes existentes que estão a comprar novas ofertas de comércio pela primeira vez e cujo inquilino foi criado em ou depois de 11 de maio de 2020
+
+Após a fase 2, os parceiros da região UE/EFTA e reino unido serão faturados em moeda de localização parceira para todos os clientes e todas as compras da CSP.
+
+Note-se que esta alteração só afetará a moeda de faturação dos parceiros e não o preço das novas ofertas de comércio na CSP.As novas ofertas de comércio em campo para esta mudança incluem:
+
+- Assinaturas Azure que fazem parte de um plano Azure
+- Reservas do Azure
+- Assinaturas de servidor
+- Software perpétuo
+- Mercado comercial da Microsoft
+
+#### <a name="partneraction"></a>Ação de parceiro
+
+Em preparação para esta transição, documentamos a experiência esperada do parceiro num [guia.](https://partner.microsoft.com/resources/detail/eu-efta-uk-change-of-partner-billing-currency-new-commerce-offers-pdf)
+
+Não existem alterações técnicas no Microsoft API ou Partner Center. No entanto, se estiver a utilizar apis da Microsoft ou um fornecedor de painel de controlo de terceiros (CPV) para qualquer automatização de faturação, poderá ser necessária uma ação de parceiro para garantir que o seu sistema de comércio seja capaz de acomodar a mudança de moeda.
+
+#### <a name="partnerbenefits"></a>Benefícios do parceiro
+
+Esta atualização reduzirá a complexidade e a sobrecarga com a faturação multicorrency na REGIÃO UE/EFTA e na região do Reino Unido para a nova experiência comercial.
+
+- Os parceiros receberão uma fatura consolidada numa moeda única e deixarão de receber uma fatura para cada moeda de localização do cliente.
+- Os pagamentos de incentivos serão na mesma moeda que a moeda de fatura do parceiro.
+- Os parceiros notarão uma reduzida complexidade de faturação causada pela faturação multicorrency, libertando tempo e recursos associados à conciliação das contas.
+- Para os parceiros que ainda não adotaram novas ofertas de comércio, esta mudança alinha-se com o modelo anterior de faturação de parceiros, para que possam transitar facilmente para a nova experiência de comércio na CSP.
+
+### <a name="next-steps"></a>Passos seguintes
+
+Reveja as informações sobre este tópico na [galeria de recursos operations](https://partner.microsoft.com/resources/collection/eu-efta-changes-collection#/) (pedido de inscrição) no site do parceiro da Microsoft.
+
+### <a name="questions"></a>Perguntas?
+
+Para questões relacionadas com esta notificação, contacte [o suporte do Partner Center](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals) (inscrição obrigatória).
+
+### <a name="change-log"></a>Change log
+
+- Maio de 2021: Anúncio original
+- Junho de 2021:
+    - Data de transição adiada de meados de julho para meados de agosto
+    - Detalhes de transição da fase 2 documentados num guia de parceiros
+- 23 de agosto de 2021:
+    - A fase 2 já está ao vivo e será lançada aos parceiros em lotes durante a semana de 23 de agosto de 2021.
 
 ________________
 ## <a name="new-commerce-experience-for-microsoft-365-dynamics-365-power-platform-and-windows-365-seat-based-for-breadth-motion"></a><a name="14"></a>Nova experiência de comércio para Microsoft 365, Dynamics 365, Power Platform e Windows 365 lugares baseados em movimento de largura
@@ -53,8 +123,8 @@ A mudança para a nova experiência de comércio ajuda os parceiros a posicionar
 Com o novo comércio, os parceiros podem abordar o espectro de cenários de clientes. Podem também bloquear os preços de subscrição antes dos aumentos de preços recentemente anunciados para o Local de Trabalho Moderno. Os parceiros obtêm melhor previsibilidade de receita (e previsibilidade de preço para os clientes) através da venda de ofertas anuais ou plurianuais. Entre os benefícios da nova experiência de comércio na CSP:
 
 - Adoção mais fácil de novos produtos, como o Viva Informações, incluindo conversões de ensaios simplificadas e complementos disponíveis separadamente no catálogo da CSP.
-- Mandatos de três anos para a M365 exclusivamente em novo comércio em março de 2022.
-- Novas ofertas para M365 e D365 exclusivas para novo comércio.
+- Prazos de três anos para Microsoft 365 exclusivamente em novo comércio em março de 2022.
+- Novas ofertas para Microsoft 365 e D365 exclusivas para novos comércio.
 - Ofertas de três anos para d365, semelhantes à experiência existente na CSP.
 - Novas ofertas mensais com um prémio de preço para clientes que precisam de flexibilidade de prazo e contagem de assentos.
 - Ofertas a prazo anuais com preços competitivos para clientes estáveis e de longo prazo.
@@ -79,7 +149,8 @@ Windows 365, anunciado em julho de 2021 e lançado como produto em agosto de 202
 
 A Microsoft está a lançar duas promoções introdutórias para parceiros de conta direta da CSP e fornecedores indiretos entre 1 de outubro de 2021 e 31 de março de 2022, destinadas a motivar parceiros e clientes a movimentarem os negócios existentes e a colocarem novas encomendas em novos negócios.
 
-**Nota:** Estas promoções não se aplicam a Windows 365 em novo comércio.
+>[!NOTE] 
+>Estas promoções não se aplicam a Windows 365 em novos comércios.
 
 Os parceiros podem ter uma abordagem faseada para adotar novos comércio e podem continuar a vender na anterior plataforma CSP até março de 2022. Principais marcos futuros (sujeitos a alterações):
 
@@ -91,7 +162,7 @@ A linha temporal acima proporciona tempo para os parceiros compreenderem e opera
 
 #### <a name="future-capabilities-for-new-commerce-in-csp"></a>Capacidades futuras para novos comércio na CSP
 
-Em 2022, funcionalidades adicionais e novas ofertas serão lançadas exclusivamente para novos comércios.  Por exemplo, os planos atuais para M365 (sujeito a alterações) incluem ofertas de três anos, benefícios de uso híbrido (HUB), programa de uso doméstico (HUP) e add-ons multi-geo. Os parceiros também poderão alinhar as datas finais de prazo de novas subscrições e existentes.  
+Em 2022, funcionalidades adicionais e novas ofertas serão lançadas exclusivamente para novos comércios.  Por exemplo, os planos atuais para Microsoft 365 (sujeito a alterações) incluem ofertas de três anos, benefícios de uso híbrido (HUB), programa de uso doméstico (HUP) e add-ons multi-geo. Os parceiros também poderão alinhar as datas finais de prazo de novas subscrições e existentes.  
 
 Estas novas funcionalidades permitem à Microsoft trazer algumas capacidades populares e oferecer tipos de outros programas de licenciamento para novos comércio e para fornecer um conjunto de funcionalidades de ponta a ponta, completando o conjunto de ofertas de cloud da Microsoft em novos comércio.
 
@@ -150,7 +221,7 @@ Para si, os nossos parceiros, estas alterações proporcionam oportunidade. Quer
 
 ### <a name="next-steps"></a>Passos seguintes
 
-- Leia a publicação do blog: [aka.ms/M365PriceUpdate](https://aka.ms/M365PriceUpdate)
+- Leia a publicação do blog: [Novos preços para Microsoft 365](https://aka.ms/M365PriceUpdate)
 - Certifique-se de que os seus clientes estão cientes da primeira atualização substantiva da lista de preços Microsoft 365 e estão a levá-los em conta à medida que planeiam gastos futuros. Ajude os clientes a avaliar se este é o momento certo para avançar até Microsoft 365 E5 ou consolidar nas soluções da Microsoft.
 - Utilize o [deck virado](https://cloudpartners.transform.microsoft.com/download?assetname=assets/M365-price-update-partner-deck.pptx&download=1) para o cliente para enfatizar o valor acrescentado ao longo da última década e os seis meses de notificação.
 - Utilize as [FAQ](https://cloudpartners.transform.microsoft.com/download?assetname=assets/M365-price-update-partner-FAQ.docx&download=1) para responder a perguntas do cliente.

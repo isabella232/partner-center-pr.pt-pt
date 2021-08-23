@@ -9,12 +9,12 @@ author: khpavan
 ms.author: sakhanda
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7e2abdc7536521e72265d99369f165eb7c13d7ae8c258e5db6f84fd774877c19
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 5300f32dc7784a4a4c521db70513ba4b9f21a854
+ms.sourcegitcommit: a0afd7765a1a04dc603e096510fd9c138238a7cb
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115691314"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "122681887"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>Nova experiência comercial no CSP – faturação do Azure 
 
@@ -32,7 +32,7 @@ Este artigo explica como aceder e compreender a estrutura de ficheiros de fatura
 
 - **Prazo de pagamento da fatura:** Líquido 60 dias.
 
-- **Moeda de fatura**: A partir de 28 de janeiro de 2021, os parceiros da região UE/EFTA e reino unido que tenham novos clientes e clientes CSP existentes que adquiram novas ofertas de comércio pela primeira vez, cujos inquilinos foram criados antes de 11 de maio de 2020, serão cobrados para essas compras em moeda de localização parceira. Os parceiros situados fora da região UE/EFTA e reino unido continuarão a ser faturados em moeda de localização de parceiros.
+- **Moeda de fatura**: A partir de agosto de 2021, todos os parceiros serão faturados na moeda de localização do parceiro, independentemente da localização do cliente a quem vendeu o produto.
 
 - **Incentivos ao parceiro**: Pago 45 dias a partir do final do mês de fatura.
 
@@ -135,9 +135,9 @@ Para aceder à fatura e ao ficheiro de reconciliação:
 
    :::image type="content" source="images/azure/pecfinal.png" alt-text="recon2.":::
 
-## <a name="invoice-in-customer-currency"></a>Fatura em moeda de cliente
+## <a name="invoice-in-partner-location-currency"></a>Fatura na moeda de localização do parceiro
 
-Os serviços Azure através de um plano Azure serão avaliados em USD e faturados na moeda atribuída pelo país cliente. Se a moeda de faturação não for USD, então a taxa cambial (FX) utilizada será mostrada na última página da fatura. As tarifas FX são determinadas mensalmente e aplicadas à seguinte fatura. Para obter uma lista completa de moedas de país, por favor, veja o [novo comércio oferece disponibilidade do país e matriz de moeda de cliente.](https://go.microsoft.com/fwlink/?linkid=2112354)
+Os serviços Azure através de um plano Azure serão avaliados em USD e faturados na moeda atribuída pelo país parceiro. Se a moeda de faturação não for USD, então a taxa cambial (FX) utilizada será mostrada na última página da fatura. As tarifas FX são determinadas mensalmente e aplicadas à seguinte fatura. Para obter uma lista completa de moedas de país, por favor, veja o [novo comércio oferece disponibilidade de país e matriz de moeda parceira.](https://go.microsoft.com/fwlink/?linkid=2112354)
 
 A Microsoft aplica uma taxa de câmbio pré-determinada para basear os preços de USD para chegar aos custos totais incorridos pelos serviços Azure comprados ou consumidos todos os meses. A taxa de câmbio mensal é a taxa média publicada pela Thomson Reuters (tipicamente) dois dias úteis antes do final do mês anterior às 16:00 GMT. 
 
