@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 08/20/2021
-ms.openlocfilehash: f34eca51e0b8d43da22f87c117b77720f1692d04
-ms.sourcegitcommit: a0afd7765a1a04dc603e096510fd9c138238a7cb
+ms.date: 08/23/2021
+ms.openlocfilehash: 76d6871fe39f96b240d8e5ac738f2e0dbcc21b78
+ms.sourcegitcommit: 39d9e597e7dd83d70b84a70e0b3916aeb7b3a0fd
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "122681848"
+ms.lasthandoff: 08/24/2021
+ms.locfileid: "122773486"
 ---
 # <a name="partner-center-announcements"></a>Anúncios do Centro de Parceiros
 
@@ -22,6 +22,8 @@ Saiba mais sobre atualizações importantes do Centro de Parceiros. Estas inform
 
 |**Categoria**|**Anúncios de agosto de 2021**|**Anunciado**|
 |---------|:---------|:---------|
+|Cresça o seu negócio|[Atualização da estrutura da fatura para os EUA, Porto Rico e Canadá](2021-august.md#17)| 24 de agosto |
+|Capacidades|[Agora ao vivo: Nova experiência de comércio na CSP para o Azure expandindo-se para Nuvem da Comunidade Governamental (GCC)](2021-august.md#16)| 24 de agosto |
 |Capacidades|[Fase 2 já está em direto: UE/EFTA e Reino Unido mudam de moeda de faturação de parceiros para novas ofertas de comércio](2021-august.md#15)| 23 de agosto |
 |Capacidades|[Nova experiência de comércio para Microsoft 365, Dynamics 365, Power Platform e Windows 365 lugares baseados em movimento de largura](2021-august.md#14)| 19 de agosto |
 |Capacidades|[Atualizar os nossos preços comerciais para Microsoft 365](2021-august.md#13)| 19 de agosto |

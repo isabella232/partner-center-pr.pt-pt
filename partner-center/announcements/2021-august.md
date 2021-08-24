@@ -10,17 +10,89 @@ ms.custom:
 - announcement
 - references_regions
 ms.localizationpriority: high
-ms.date: 08/20/2021
-ms.openlocfilehash: fb4ff57b65f99f5a5ce8a6f39fec13b538539537
-ms.sourcegitcommit: a0afd7765a1a04dc603e096510fd9c138238a7cb
+ms.date: 08/23/2021
+ms.openlocfilehash: 7b6dd48ed545b6230b29642170b5743136b65fad
+ms.sourcegitcommit: 39d9e597e7dd83d70b84a70e0b3916aeb7b3a0fd
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "122681870"
+ms.lasthandoff: 08/24/2021
+ms.locfileid: "122773503"
 ---
 # <a name="august-2021-announcements"></a>Anúncios de agosto de 2021
 
 Esta página fornece os anúncios para o Microsoft Partner Center para agosto de 2021.
+
+________________
+## <a name="invoice-structure-update-for-the-us-puerto-rico-and-canada"></a><a name="17"></a>Atualização da estrutura da fatura para os EUA, Porto Rico e Canadá
+
+### <a name="summary"></a>Resumo
+
+As atualizações modernas da estrutura da fatura serão aplicadas a partir de 29 de agosto de 2021 para os EUA, Porto Rico e Canadá.
+
+### <a name="categories"></a>Categorias
+
+- Data: 2021-08-24
+- Cresça o seu negócio
+
+### <a name="impacted-audience"></a>Audiência impactada
+
+Parceiros que transacionam no programa Fornecedor de Soluções em Nuvem (CSP) nos EUA, Porto Rico e Canadá
+
+### <a name="details"></a>Detalhes
+
+A partir de 29 de agosto de 2021, serão feitas as seguintes atualizações às faturas modernas dos parceiros que transacionam no programa CSP nos EUA, Porto Rico e Canadá.
+
+#### <a name="us-puerto-rico-and-canada"></a>EUA, Porto Rico e Canadá
+
+Os valores da linha de fatura deixarão de incluir o valor do imposto. Em vez disso, o imposto será indicado separadamente na fatura, salvo indicação em contrário.
+
+#### <a name="puerto-rico-only"></a>Porto Rico apenas
+
+O "imposto sobre as vendas" deixará de ser apresentado na secção Sumário de **Faturas.** Em vez disso, os impostos serão repartiados em dois níveis:
+
+1. Imposto da Commonwealth (onde JurisdiçãoLevel = TERRITÓRIO)
+2. Imposto Municipal (onde JurisdiçãoLevel = CONCELHO)
+
+#### <a name="canada-only"></a>Apenas Canadá
+
+A secção **De Resumo de Faturação** apresentará o imposto com duas etiquetas separadas — "GST/HST" e "PST/QS" — mesmo quando o montante do imposto é zero.
+
+### <a name="next-steps"></a>Passos seguintes
+
+As faturas criadas após 29 de agosto de 2021 vão refletir as atualizações. Os parceiros nestes locais devem estar cientes das alterações e notificar as pessoas apropriadas na sua organização.
+
+### <a name="questions"></a>Perguntas?
+
+Para obter perguntas sobre estas ofertas, consulte as comunidades Ligação do Microsoft Partner relevantes.
+
+________________
+## <a name="now-live-new-commerce-experience-in-csp-for-azure-expanding-to-government-community-cloud-gcc"></a><a name="16"></a>Agora ao vivo: Nova experiência de comércio na CSP para o Azure expandindo-se para Nuvem da Comunidade Governamental (GCC)
+
+### <a name="summary"></a>Resumo
+
+A nova experiência de comércio no programa Fornecedor de Soluções em Nuvem (CSP) para a Azure está agora disponível para todos os GCC parceiros.
+
+### <a name="categories"></a>Categorias
+
+- Data: 2021-08-24
+- Capacidades
+
+### <a name="impacted-audience"></a>Audiência impactada
+
+GCC parceiros que transfiram através do programa CSP
+
+### <a name="details"></a>Detalhes
+
+Estamos entusiasmados por anunciar a disponibilidade da nova experiência de comércio na CSP para a Azure a todos os GCC parceiros. Esta experiência irá dinamizar e melhorar a forma como os clientes compram e consomem serviços Azure. Também dará aos parceiros do programa CSP uma visão consistente dos preços do Azure através de moções de vendas, preços em dólares dos EUA para consistência global, alinhamento de datas de faturação e acesso à Azure Cost Management. Temos também uma [funcionalidade no Partner Center](../azure-plan-transition.md) que ajuda os parceiros da CSP a transferir os clientes das ofertas csp azure existentes para os serviços Azure ao abrigo do plano Azure.
+
+### <a name="next-steps"></a>Passos seguintes
+
+Existem vários recursos disponíveis que introduzem a nova experiência de comércio Azure e fornecem informações adicionais. Encontre as últimas FAQs, decks, vídeos e muito mais na galeria de recursos do [programa CSP.](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/)
+
+#### <a name="change-log"></a>Change log
+
+- **26 de julho de 2021** - Anúncio original
+- **24 de agosto de 2021** — Oferta agora ao vivo para GCC parceiros
 
 ________________
 ## <a name="phase-2-now-live-euefta-and-uk-change-of-partner-billing-currency-for-new-commerce-offers"></a><a name="15"></a>Fase 2 já está em direto: UE/EFTA e Reino Unido mudam de moeda de faturação de parceiros para novas ofertas de comércio
