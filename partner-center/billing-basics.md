@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b3d498afef9997f1537cfe15b1fef93471d23ec50b43acd467f0e1c7aafd1434
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: f594b7d39234080e2c3f99c05a2e64fdaa18f0dd
+ms.sourcegitcommit: 38afe7e35e3dce4f35cf7352cc98e3d53e979a62
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115692998"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "122752104"
 ---
 # <a name="billing-overview-for-csp-program-partners-working-in-partner-center"></a>Descrição geral da faturação para parceiros do programa CSP que trabalham no Centro de Parceiros 
 
@@ -47,7 +47,7 @@ Os tipos de faturação no Partner Center incluem **faturação baseada em licen
 
 **Faturação baseada em licenças e com base em uso**: Você será cobrado para produtos(s) na moeda do país ou região em que você está localizado. É cobrado o mesmo independentemente da localização do cliente a quem vendeu o produto.
 
-**Faturação única**: A partir de 28 de janeiro de 2021, os parceiros da região UE/EFTA e reino unido que têm novos clientes e clientes csp existentes que compram novas ofertas de comércio pela primeira vez cujos inquilinos foram criados antes de 11 de maio de 2020, serão cobrados para essas compras em moeda de localização parceira. Os parceiros situados fora da região UE/EFTA e reino unido continuarão a ser faturados em moeda de localização de parceiros. Leia mais sobre [uma vez e recorrente.](azure-plan-billing.md) 
+**Faturação única**: A partir de agosto de 2021, todos os parceiros serão faturados na moeda de localização do parceiro, independentemente da localização do cliente a quem vendeu o produto. Leia mais sobre [uma vez e recorrente.](azure-plan-billing.md) 
 
 ## <a name="invoices"></a>Faturas
 

@@ -7,13 +7,13 @@ ms.reviewer: dannyevers
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: how-to
-ms.date: 06/29/2021
-ms.openlocfilehash: 2514bea646492e25748b26ec69b3fccb6052daa6
-ms.sourcegitcommit: 815760499700bf2c947550524cbddd091622081f
+ms.date: 08/05/2021
+ms.openlocfilehash: 4f83d5c85f0316ad5c9d9ad75ca6519b5940146f
+ms.sourcegitcommit: 38afe7e35e3dce4f35cf7352cc98e3d53e979a62
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "121914923"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "122752091"
 ---
 # <a name="purchase-a-saas-offer-in-azure-portal"></a>Comprar uma oferta SaaS no portal Azure
 
@@ -117,7 +117,7 @@ Mensagens de erro que poderá encontrar durante o processo:
   - Tente novamente mais tarde. Se, passado uma hora, continuar a receber esta mensagem de erro, contacte o suporte.  
 
 - A aquisição do *plano de ofertaID* da *ofertaid* pela *editora editorid* falhou. Este plano não está atualmente disponível para compra.
-  - Tente novamente mais tarde. Se, passado uma hora, continuar a receber esta mensagem de erro, contacte o suporte. 
+  - Tente novamente mais tarde. Se, passado uma hora, continuar a receber esta mensagem de erro, contacte o suporte.
 
 - O *endereço de e-mail* do cliente com *o objeto id ObjectID* não tem autorização para executar *a implementação implementação Depôração Desaídua* sobre o Grupo *de Recursos de âmbito; O DeploymentScope* ou o âmbito de aplicação é inválido.  
   - Receberá esta mensagem se não tiver as permissões certas no Grupo de Recursos/Subscrição Azure.  
@@ -129,5 +129,5 @@ Mensagens de erro que poderá encontrar durante o processo:
 
 ## <a name="next-steps"></a>Passos seguintes
 
-- Se já comprou uma oferta no mercado, vá a [Billing e Facturaing](./billing-invoicing.md)
-- Você também pode saber mais sobre as opções [de planos privados.](./private-plans.md)
+- Se já comprou uma oferta no mercado, vá a [Billing e Facturaing](billing-invoicing.md)
+- Saiba mais sobre [planos privados](private-plans.md)

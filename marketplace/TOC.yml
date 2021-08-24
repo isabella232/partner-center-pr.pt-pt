@@ -16,6 +16,8 @@
       href: azure-purchasing-invoicing.md
     - name: Compra de uma Oferta SaaS no portal Azure
       href: purchase-saas-offer-in-azure-portal.md
+    - name: Gestão do ciclo de vida da subscrição saaS
+      href: saas-subscription-lifecycle-management.md
     - name: Cobrança e faturação
       href: billing-invoicing.md
     - name: Benefício do compromisso de consumo do Azure

@@ -1,5 +1,5 @@
 ---
-title: Lista de preços do plano Azure para parceiros da CSP
+title: Lista de preços de planos do Azure para parceiros CSP
 ms.topic: how-to
 ms.date: 07/21/2021
 ms.service: partner-dashboard
@@ -9,20 +9,20 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 750dd081ea9486173b933e290c7c186f8e0844016c92100d828f1fdc0fa765b5
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 2bd1cf460002f2cdacaaec3581dc4602f3d35b21
+ms.sourcegitcommit: 38afe7e35e3dce4f35cf7352cc98e3d53e979a62
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115680839"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "122752139"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Lista de preços da nova experiência comercial no CSP para Azure
 
 **Funções adequadas**: Agente administrador | Administrador de faturação | Administração global | Agente helpdesk | Agente comercial | Administração de gestão de utilizadores
 
-Os preços em tempo real para a nova experiência de comércio Azure em CSP são entregues dinamicamente em tempo real no Partner Center. Os preços são mostrados apenas em USD. A partir de 28 de janeiro de 2021, qualquer parceiro na região UE/EFTA e reino unido que tenha novos ou já existentes clientes da CSP adquira novas ofertas de comércio pela primeira vez e esses inquilinos foram criados antes de 11 de maio de 2020, será cobrado para essas compras na moeda de localização do parceiro. Os parceiros situados fora da região UE/EFTA e reino unido continuarão a ser faturados em moeda de localização de parceiros. Para mais informações, consulte [o plano Azure - faturação](azure-plan-billing.md).
+Os preços em tempo real para a nova experiência de comércio Azure em CSP são entregues dinamicamente em tempo real no Partner Center. Os preços são mostrados apenas em USD. A partir de agosto de 2021, todos os parceiros serão faturados na moeda de localização do parceiro, independentemente da localização do cliente a quem vendeu o produto. Para mais informações, consulte [o plano Azure - faturação](azure-plan-billing.md).
 
-Como parte da nova experiência de comércio para a Azure na CSP, introduzimos uma [nova oferta Azure.](./azure-plan-lp.md) Para datas importantes relacionadas com a oferta anterior do Azure (MS-AZR-0145p), consulte o documento de [oferta](https://go.microsoft.com/fwlink/p/?linkid=2164140).
+Como parte da nova experiência de comércio do Azure no CSP, introduzimos uma [nova oferta do Azure](./azure-plan-lp.md). Para datas importantes relacionadas com a oferta do Azure anterior (MS-AZR-0145p), veja o [documento da oferta](https://go.microsoft.com/fwlink/p/?linkid=2164140).
 
 Se se matriculou *antes* de 21 de julho de 2021
 - Você continuará a ver a oferta anterior do Azure na lista de preços.
