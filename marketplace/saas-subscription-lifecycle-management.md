@@ -7,12 +7,12 @@ ms.topic: conceptual
 ms.date: 08/20/2021
 ms.author: yonits
 author: yonits
-ms.openlocfilehash: e0cd29d9fe36d4f81307594f7fd8ab948d56adf7
-ms.sourcegitcommit: 38afe7e35e3dce4f35cf7352cc98e3d53e979a62
+ms.openlocfilehash: fed2b2f7b951a7dc6ee16fb126f3f5f774df18c9
+ms.sourcegitcommit: e277fa4d337901ea7171cabd39afebe84e1ec1a9
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "122752708"
+ms.lasthandoff: 08/24/2021
+ms.locfileid: "122783758"
 ---
 # <a name="saas-subscription-lifecycle-management"></a>Gestão do ciclo de vida da subscrição saaS
 
@@ -47,7 +47,7 @@ Este movimento oferece os seguintes benefícios:
 Existem várias formas de gerir as suas subscrições SaaS
 
 * Para as assinaturas SaaS adquiridas no portal Azure, gerencie-as lá.
-* Para as subscrições SaaS adquiridas no AppSource, gerencie-as no portal Azure e no [Centro de Administração Microsoft 365;](https://admin.microsoft.com/Adminportal/Home?#/subscriptions) para obter detalhes sobre a utilização do Administração Microsoft 365 Center, consulte [Gerir subscrições de aplicações de terceiros para a sua organização.](/microsoft-365/commerce/manage-saas-apps?view=o365-worldwide)
+* Para as subscrições SaaS adquiridas no AppSource, gerencie-as no portal Azure e no [Centro de Administração Microsoft 365;](https://admin.microsoft.com/Adminportal/Home?#/subscriptions) para obter detalhes sobre a utilização do Administração Microsoft 365 Center, consulte [Gerir subscrições de aplicações de terceiros para a sua organização.](/microsoft-365/commerce/manage-saas-apps?view=o365-worldwide&preserve-view=true)
 * Algumas editoras permitem gerir as subscrições do SaaS diretamente na sua plataforma. Visite o site da editora utilizando um link na página de subscrição do SaaS no portal Azure.
 
 Há várias ações que pode tomar após a sua compra; alguns exigirão permissões do Proprietário ou do Contribuinte:
