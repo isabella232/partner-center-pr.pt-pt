@@ -10,17 +10,79 @@ ms.custom:
 - announcement
 - references_regions
 ms.localizationpriority: high
-ms.date: 08/23/2021
-ms.openlocfilehash: 7b6dd48ed545b6230b29642170b5743136b65fad
-ms.sourcegitcommit: 39d9e597e7dd83d70b84a70e0b3916aeb7b3a0fd
+ms.date: 08/24/2021
+ms.openlocfilehash: a3ad5b9433935d1c78b35dd6872edc7e4c08d7cf
+ms.sourcegitcommit: 3cb2fec554903074dca137f3e84146115378d7d8
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/24/2021
-ms.locfileid: "122773503"
+ms.lasthandoff: 08/25/2021
+ms.locfileid: "122833500"
 ---
 # <a name="august-2021-announcements"></a>Anúncios de agosto de 2021
 
 Esta página fornece os anúncios para o Microsoft Partner Center para agosto de 2021.
+
+________________
+## <a name="seat-based-offers-for-integrated-sandbox-testing-in-the-new-commerce-experience"></a><a name="18"></a>Ofertas baseadas em assentos para testes integrados de caixas de areia na nova experiência de comércio
+
+### <a name="summary"></a>Resumo
+
+A partir de 1 de setembro de 2021, a Microsoft permitirá ofertas baseadas em lugares para testes integrados de sandbox na nova experiência de comércio para o programa Fornecedor de Soluções em Nuvem (CSP).
+
+### <a name="categories"></a>Categorias
+
+- Data: 2021-08-25
+- Capacidades
+
+### <a name="impacted-audience"></a>Audiência impactada
+
+Parceiros de conta direta da CSP e fornecedores indiretos, incluindo revendedores através dos seus fornecedores indiretos
+
+### <a name="details"></a>Detalhes
+
+A partir de 1 de setembro de 2021, a Microsoft permitirá ofertas baseadas em lugares para testes [integrados](/partner-center/develop/test-and-debug) de sandbox na [nova experiência de comércio](https://partner.microsoft.com/resources/detail/new-commerce-for-csp-seat-based-offers.pdf) para o programa CSP.
+
+A adição de Microsoft 365, Dynamics 365, Power Platform e Windows 365 ofertas em CSP para a nova experiência de comércio é mais um marco importante na nossa nova jornada de comércio. A Microsoft está a investir em inovações de produtos, melhor ferramenta e acesso a novas oportunidades de negócio que permitem aos parceiros aumentar as suas receitas de CSP e fornecer mais opções aos clientes. Estamos a evoluir a nossa plataforma de comércio e a dinamizar os processos de gestão de encomendas e subscrições para ajudar parceiros e clientes a terem sucesso na transformação digital.
+
+Os parceiros que participarem no ambiente de testes de sandbox terão uma visibilidade precoce na nova experiência de comércio para ofertas baseadas em assentos, permitindo planeamento avançado, operacionalização e integração técnica para estas ofertas.
+
+A participação no ambiente da caixa de areia permite à sua organização:
+
+- Realizar a integração da API num ambiente de teste antes de se implantar na produção.
+- Tenha tempo suficiente para operacionalizar a nova experiência de comércio antes do lançamento.
+
+O quadro seguinte fornece um resumo das principais características que estarão disponíveis no ambiente integrado de testes de caixas de areia.
+
+| Funcionalidade | Detalhes |
+| --------- | --------- |
+| Configuração de privilégio de administração delegado de parceiro/cliente (DAP) | Produtos complexos: E5 com telco |
+| Modelos de dois níveis de dois níveis | Atualização parcial da subscrição através do suporte |
+| Descoberta lado a lado da experiência atual e nova | Alterações programadas na renovação  |
+| Descubra e compre Modern (para produtos selecionados) | Suspender ou retomar (via Suporte) |
+| Gerir subscrições (renovar automaticamente o toggle, adicionar lugares, cancelar o movimento) | Ensaios gratuitos (apresentação apenas para MAC) |
+| Complementos independentes  | Moeda parceira (excluindo os clientes existentes da UE com novas compras de comércio e que têm uma incompatibilidade entre parceiros e clientes) |
+| Planos de faturação | Promoções com transparência de preços, da Software Assurance  |
+| Gestão do ciclo de vida por assinatura (período de carência) | Planos anuais de faturação para ofertas pluárias  |
+| Restrições de propriedade | Suspender/retomar (via self-serve)  |
+| Ficheiros de fatura/reconhecimento | Reatribuição de assento automático para transições SKU em quantidade completa |
+| Atualizações intercalares de SKU em quantidade completa | Ensaio gratuito (com plena apresentação) |
+| Execução da política de cancelamento: bloco de 30 dias cancelado após 30 dias (vai mudar na disponibilidade geral para 72 horas) | Sub-atualização parcial: funcionalidade completa |
+
+### <a name="next-steps"></a>Passos seguintes
+
+Reveja os recursos sobre este tema e partilhe a informação com as partes interessadas apropriadas na sua organização:
+
+- O guia de operações da CSP para Microsoft 365, Dynamics 365, Power Platform e Windows 365 na nova experiência de comércio estará disponível para revisão na [galeria de Prontidão de Operações](https://partner.microsoft.com/resources/collection/new-commerce-experience-for-csp-seat-based-offers#/) no dia 1 de setembro de 2021.
+- Reveja os recursos delineados no útil [Mapa de Prontidão.](https://partner.microsoft.com/resources/detail/readiness-map-new-commerce-experienceseat-based-offers-pdf)
+- Reveja a pasta de [documentação da API.](https://partner.microsoft.com/resources/collection/api-documentation#/)
+
+Não é necessária qualquer ação se a sua organização tiver previsto um ambiente integrado de caixa de areia. No entanto, se a sua organização não tiver um ambiente integrado de caixa de areia, siga estes [passos](/partner-center/develop/indirect-provider-sandbox-capabilities) para criar um.
+
+Para obter apoio, publique nas conversas no [Grupo de Yammer do Centro De Parceiros SDK e API](https://www.yammer.com/cloudpartnercommunity/#/threads/inGroup?type=in_group&feedId=6589502) ou regisque um bilhete de apoio.
+
+### <a name="questions"></a>Perguntas?
+
+Para mais perguntas sobre estas ofertas, consulte as suas comunidades Yammer relevantes.
 
 ________________
 ## <a name="invoice-structure-update-for-the-us-puerto-rico-and-canada"></a><a name="17"></a>Atualização da estrutura da fatura para os EUA, Porto Rico e Canadá
