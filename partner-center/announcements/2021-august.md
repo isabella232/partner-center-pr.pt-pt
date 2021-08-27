@@ -10,17 +10,72 @@ ms.custom:
 - announcement
 - references_regions
 ms.localizationpriority: high
-ms.date: 08/24/2021
-ms.openlocfilehash: a3ad5b9433935d1c78b35dd6872edc7e4c08d7cf
-ms.sourcegitcommit: 3cb2fec554903074dca137f3e84146115378d7d8
+ms.date: 08/25/2021
+ms.openlocfilehash: 237f4f0311609465136f7d1253d857f0384a01b9
+ms.sourcegitcommit: c09644ce889f1a8d49841bd61234246b4c85889c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/25/2021
-ms.locfileid: "122833500"
+ms.lasthandoff: 08/26/2021
+ms.locfileid: "122931252"
 ---
 # <a name="august-2021-announcements"></a>Anúncios de agosto de 2021
 
 Esta página fornece os anúncios para o Microsoft Partner Center para agosto de 2021.
+
+________________
+## <a name="announcing-windows-server-2022-general-availability-in-october"></a><a name="19"></a>Anunciando disponibilidade geral do Windows Server 2022 em outubro
+
+### <a name="summary"></a>Resumo
+
+Windows O Servidor 2022 oferece melhorias na segurança, híbrido e contentores. Conheça o novo lançamento neste anúncio.
+
+### <a name="categories"></a>Categorias
+
+- Data: 2021-08-26
+- Capacidades
+
+### <a name="impacted-audience"></a>Audiência impactada
+
+Fornecedores diretos, fornecedores indiretos e revendedores indiretos
+
+### <a name="details"></a>Detalhes
+
+Windows O Servidor 2022, o próximo Long-Term lançamento do Servicing Channel (LTSC), permite que os clientes executem aplicações críticas de negócios existentes e novas com confiança no Azure, no local e no limite.
+
+Windows O Server 2022 introduz segurança avançada em várias camadas, capacidades híbridas com Azure e uma plataforma de aplicação flexível. Como parte desta disponibilidade geral, estamos a trazer capacidades de núcleo seguro para Windows Server para proteger sistemas que irão executar cargas de trabalho no Windows Server 2022. Um servidor de núcleo seguro baseia-se em tecnologias como Windows Defender System Guard e segurança baseada em virtualização para minimizar o risco de vulnerabilidades de firmware e malware avançado. A nova versão também fornece conectividade segura, introduzindo várias novas capacidades, como ligações HTTPS encriptadas mais rápidas e seguras e encriptação SMB AES 256 padrão da indústria.
+
+Windows O Servidor 2022 melhora a gestão de servidores híbridos com uma gestão de máquinas virtuais significativamente melhorada, um espectador de eventos melhorado e muitas mais novas capacidades no Windows Admin Center. Além disso, esta versão inclui melhorias significativas no Windows contentor, como tamanho de imagem menor para download mais rápido, implementação simplificada da política de rede e ferramentas de contentorização para aplicações .NET.
+
+### <a name="additional-resources"></a>Recursos adicionais
+
+Para saber mais, consulte o seguinte:
+
+- [Windows Pré-visualização pública do Servidor 2022 no Blog de março de 2021](https://aka.ms/WS2022/blog)
+- [Windows Servidor 2022 no Centro de Avaliação](https://aka.ms/WS2022Preview)
+- [Windows Servidor no Centro de Parceiros](https://partner.microsoft.com/solutions/microsoft-windows-server)
+- [Windows Caminhos de aprendizagem do servidor](/learn/browse/)
+
+#### <a name="frequently-asked-questions"></a>Perguntas mais frequentes
+
+##### <a name="q-when-will-windows-server-2022-be-available-in-cloud-solution-provider-csp"></a>P. Quando é que o Windows Server 2022 estará disponível em Fornecedor de Soluções em Nuvem (CSP)?
+
+Windows O Servidor 2022 estará disponível no CSP em outubro.
+
+##### <a name="q-how-much-will-window-server-2022-cost"></a>P. Quanto custará o Window Server 2022?
+
+Para saber mais sobre os preços para Windows Server 2022, consulte [os preços do CSP](../pricing-and-offers.md) (disponíveis em outubro).
+
+##### <a name="q-are-there-any-changes-to-the-licensing-model-for-windows-server-2022"></a>P. Existem alterações no modelo de licenciamento para Windows Server 2022?
+
+Não há alterações no modelo de licenciamento para as edições Standard e Datacenter Windows Server 2022.
+
+##### <a name="q-how-can-customers-evaluate-windows-server-2022"></a>P. Como podem os clientes avaliar Windows Server 2022?
+
+Os clientes podem atualmente avaliar Windows Server 2022 no [Centro de Avaliação do Servidor Windows](https://aka.ms/WS2022Preview). Eles têm a opção de experimentá-lo em Azure ou baixar o ISO ou VHD.
+
+### <a name="questions"></a>Perguntas?
+
+Para mais perguntas sobre estas ofertas, consulte as suas comunidades relevantes.
 
 ________________
 ## <a name="seat-based-offers-for-integrated-sandbox-testing-in-the-new-commerce-experience"></a><a name="18"></a>Ofertas baseadas em assentos para testes integrados de caixas de areia na nova experiência de comércio

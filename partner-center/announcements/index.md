@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 08/24/2021
-ms.openlocfilehash: b0a6857c6d978268070cc89c5dfb1bff9891594a
-ms.sourcegitcommit: 3cb2fec554903074dca137f3e84146115378d7d8
+ms.date: 08/25/2021
+ms.openlocfilehash: 94435ae76e94b9f59eeb87138e1248c763ec8a12
+ms.sourcegitcommit: c09644ce889f1a8d49841bd61234246b4c85889c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/25/2021
-ms.locfileid: "122833483"
+ms.lasthandoff: 08/26/2021
+ms.locfileid: "122931235"
 ---
 # <a name="partner-center-announcements"></a>Anúncios do Centro de Parceiros
 
@@ -22,6 +22,7 @@ Saiba mais sobre atualizações importantes do Centro de Parceiros. Estas inform
 
 |**Categoria**|**Anúncios de agosto de 2021**|**Anunciado**|
 |---------|:---------|:---------|
+|Capacidades|[Anunciando disponibilidade geral do Windows Server 2022 em outubro](2021-august.md#19)| 26 de agosto |
 |Capacidades|[Ofertas baseadas em assentos para testes integrados de caixas de areia na nova experiência de comércio](2021-august.md#18)| 25 de agosto |
 |Cresça o seu negócio|[Atualização da estrutura da fatura para os EUA, Porto Rico e Canadá](2021-august.md#17)| 24 de agosto |
 |Capacidades|[Agora ao vivo: Nova experiência de comércio na CSP para o Azure expandindo-se para Nuvem da Comunidade Governamental (GCC)](2021-august.md#16)| 24 de agosto |
