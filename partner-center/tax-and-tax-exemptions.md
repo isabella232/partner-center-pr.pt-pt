@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5b4352be4f51ba02aed5f7c4d1f94eedca5d26990c69e220728d47c58f640856
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 2b79943185cbd940b164508ee8ac14203ddeccb8
+ms.sourcegitcommit: fe0920740ef9f461b38cc20bac41192552466405
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115695752"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "123088576"
 ---
 # <a name="read-about-taxes-and-tax-exemption-details-by-region-or-country-for-partners-in-the-csp-program"></a>Leia sobre impostos e isenções fiscais por região ou país para parceiros no programa CSP
 
@@ -33,13 +33,15 @@ Se estiver noutro país ou região que cobra impostos, consulte [a informação 
 
 ### <a name="canada"></a>Canadá
 
-A maioria dos revendedores não estão isentos do imposto sobre bens e serviços (GST)/imposto harmonizado sobre as vendas (HST)/Quebec tax sales (QST). Consulte o seu consultor fiscal para determinar se está qualificado para isenção e que documentação deve fornecer à Microsoft.
+A maioria dos revendedores não estão isentos do imposto sobre bens e serviços (GST)/imposto harmonizado sobre as vendas (HST)/Quebec tax sales (QST). Consulte o seu consultor fiscal para determinar se está qualificado para isenção e que documentação deve fornecer à Microsoft. O imposto será apresentado em duas linhas distintas para o Canadá: GST/HST e PST/QST.
 
 Para uma isenção do imposto provincial de vendas (PST) do BC, apresente uma isenção fiscal conforme descrito. Forneça o seu BC PST#, ou um *Certificado de Isenção Geral* concluído e assinado.
 
 ### <a name="united-states"></a>Estados Unidos da América
 
 Espera-se que todos os revendedores nos Estados Unidos forneçam documentação de isenção de impostos sobre vendas no prazo de 30 dias após a aceitação do Acordo de Revenda da Microsoft. Cada Estado tem diferentes certificados de isenção para revenda. Trabalhe com o seu consultor fiscal para determinar o que é relevante para o seu endereço legal e estados registados.
+
+Nos EUA, incluindo Porto Rico, o imposto sobre as vendas e a utilização deve ser indicado separadamente.  A partir de agosto de 2021, na fatura da Microsoft, o imposto será indicado separadamente, salvo indicação em contrário.  Além disso, o imposto de Porto Rico será declarado separadamente a nível da Commonwealth e a nível municipal como Imposto da Commonwealth e Imposto Municipal.
 
 Tal pode incluir certificados de isenção de revenda que funcionam em vários estados, tais como o *Certificado de Isenção de Acordo Fiscal de* Venda e Utilização de *Simplificação* ou o Certificado uniforme de *isenção de & de utilização de vendas do MTC.*
 

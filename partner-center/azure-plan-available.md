@@ -9,12 +9,12 @@ ms.author: amrava
 ms.localizationpriority: high
 ms.date: 05/13/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f347b1aa246df3cfa4ccf0d52bff1dd76ac70e5d007a0d8b8efc0fafe0599a49
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 6037044a72bd9bd71131ddbc66fec0555bbd5f86
+ms.sourcegitcommit: fe0920740ef9f461b38cc20bac41192552466405
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115693049"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "123088559"
 ---
 # <a name="azure-services-available-in-the-azure-cloud-solution-provider-csp-program"></a>Serviços Azure disponíveis no programa Azure Fornecedor de Soluções em Nuvem (CSP)
 
@@ -29,7 +29,7 @@ Este artigo lista os serviços Azure que estão e não estão disponíveis no pr
 
 ## <a name="global-cloud"></a>Nuvem Global
 
-Todos os serviços baseados no modelo Azure Resource Manager estão disponíveis no Programa CSP.  Os serviços não-Azure Resource Manager não estão disponíveis no programa CSP.  
+Todos os serviços baseados no modelo Azure Resource Manager estão disponíveis no Programa CSP.  Os serviços de Gestor de Recursos Não-Azure, como os serviços de modelos de implantação clássicos, não estão disponíveis no programa CSP.  
 
 ## <a name="csp-specific-service-configurations"></a>Configurações de serviço CSP-Specific
 
@@ -42,6 +42,8 @@ Os seguintes serviços requerem configurações especiais em CSP:
 - [Cofre de Chaves](https://azurecsp.blob.core.windows.net/files/key-vault-in-csp.docx)
 
 - [Azure Time Series Informações](https://azure.microsoft.com/services/time-series-insights/) Apenas os utilizadores do inquilino do cliente podem aceder aos dados no seu ambiente de Informações Séries Tempotárias. Os parceiros podem gerir o ambiente de Informações time series dos seus clientes por padrão, mas se precisarem de acesso aos dados nele, devem ser adicionados ao cliente.
+
+- Os certificados de gestão para autenticação de bibliotecas Azure SDK através de certificado não são suportados no modelo CSP.  Utilize a autenticação principal do serviço Azure e a biblioteca Azure.Identity.  Autenticação de referência [com o Azure SDK para .NET](/dotnet/azure/sdk/authentication)
 
 ## <a name="visual-studio-marketplace"></a>Visual Studio Marketplace
 
@@ -79,7 +81,7 @@ A tabela que se segue apresenta uma lista regularmente atualizada dos produtos, 
 |  Conjuntos de dimensionamento de máquinas virtuais  |  X  |  X  |
 |  Funções  |    |    |
 |  Azure Container Service  |    |    |
-|  **Rede**  |    |    |
+|  **Redes**  |    |    |
 |  DNS do Azure  |    |    |
 |  Rede de Entrega de Conteúdos  |    |    |
 |  Gestor de Tráfego  |    |    |

@@ -9,31 +9,32 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c66f25837376eb33ea405639575b2dc14b7485ee5e80fac005a6945d9b80257e
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: d5d6004299ebd8e5d94a51837e486b66a88b4aa1
+ms.sourcegitcommit: fe0920740ef9f461b38cc20bac41192552466405
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115686606"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "123088542"
 ---
 # <a name="sell-to-specialized-industries-like-education-non-profit-and-government-users"></a>Vender a indústrias especializadas como utilizadores de educação, sem fins lucrativos e governamentais
 
 **Funções adequadas**: Administração global | Agente administrativo | Agente comercial
 
-A Microsoft fornece preços especiais e reduzidos para grupos selecionados de clientes, incluindo clientes de educação, clientes sem fins lucrativos, pequenas empresas e entidades governamentais. Tanto você como o seu cliente devem ser qualificados antes de lhes oferecer preços especiais. Estas ofertas a preços especiais estão atualmente **apenas disponíveis para serviços baseados em licenças** como Microsoft 365, Dynamics, Intune etc. Não está disponível para outros tipos (subscrições de software, software perpétuo ou produtos Azure).
+A Microsoft fornece preços especiais e reduzidos para grupos selecionados de clientes, incluindo clientes de educação, clientes sem fins lucrativos, pequenas empresas e entidades governamentais. Tanto você como o seu cliente devem ser qualificados antes de lhes oferecer preços especiais. Estas ofertas a preços especiais estão atualmente **disponíveis para serviços baseados em licenças** como Microsoft 365, Dynamics, Intune, etc., e software perpétuo. Não está disponível para subscrições de software ou serviços Azure.
 
 ## <a name="requirements-to-sell-to-specialized-industries"></a>Requisitos para vender a indústrias especializadas
 
 |**Preços especiais**   |**Revendedor exigiu qualificações**   |**Qualificações exigidas pelo cliente**   |
 |----------------------------|:---------------------------------|:------------------------------------------|
-|Education   |Nenhuma   | Deve ser um [Utilizador qualificado de Educação](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7).   |
-| Governo Federal dos EUA   |Para vender o Azure, inscreva-se utilizando o [formulário de validação da nuvem do governo dos EUA](https://azuregov.microsoft.com/csp)da Microsoft. Para vender assinaturas baseadas em licenças para o governo, não há qualificação necessária.|   Nenhuma|
-| Todas as outras entidades governamentais | Nenhuma<br />Os parceiros devem providenciar usando ofertas "corporativas". | Nenhuma
-|Sem Fins Lucrativos  |Nenhuma<br/> Deve ter um inquilino sem fins lucrativos Azure Ative Directory.<br/> Saiba mais sobre as [ofertas especiais sem fins lucrativos](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf).   |Inscreva-se através do [programa sem fins lucrativos](https://nonprofit.microsoft.com/#/register) da Microsoft para ser elegível.   |
+|Education   |Nenhuma   | Deve ser um [utilizador qualificado da educação](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)   |
+| Governo Federal dos EUA - [ambientes Office Nuvem da Comunidade Governamental (GCC) altos e dod](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/gcc-high-and-dod)    |Para vender o Governo Azure, inscreva-se usando o [formulário de validação da nuvem do governo dos EUA](https://azuregov.microsoft.com/csp)da Microsoft. A venda de assinaturas baseadas em licenças só está disponível mediante convite.|   Deve ser uma [entidade qualificada do Governo Federal dos EUA](https://azure.microsoft.com/global-infrastructure/government/how-to-buy/) |
+| Governo Federal dos EUA - ambiente GCC moderado | Deve qualificar-se como trabalhar com clientes do governo dos EUA preenchendo o formulário, [fale-nos sobre a sua Organização Direta de Parceiros CSP](https://www.microsoft.com/microsoft-365/government/eligibility-validation?ReqType=CSPPartner&rtc=1). Para instruções passo a passo, visite [Sell Office 365 Administração Pública GCC para assinaturas CSP a clientes qualificados](/partner-center/csp-gcc-overview) | Deve ser uma [entidade qualificada do Governo dos EUA.](https://www.microsoft.com/microsoft-365/government/eligibility-validation?rtc=1) Para instruções passo a passo, visite [Sell Office 365 Administração Pública GCC para assinaturas CSP a clientes qualificados](/partner-center/csp-gcc-overview)  |
+| Todas as outras entidades governamentais | Nenhum. Os parceiros devem providenciar usando ofertas "corporativas". | Nenhuma
+Sem Fins Lucrativos  |Nenhuma|Inscreva-se através do [programa sem fins lucrativos](https://nonprofit.microsoft.com/#/register) da Microsoft para ser elegível.   |
 
-## <a name="check-your-reseller-qualifications"></a>Verifique as suas qualificações de revendedor
+## <a name="check-your-reseller-qualifications-only-needed-for-gcc-environments"></a>Verifique as suas qualificações de revendedor (apenas necessárias para ambientes GCC)
 
-Os seguintes passos aplicam-se apenas aos fornecedores indiretos e aos parceiros de conta direta. Os revendedores indiretos precisam de se conectar com um fornecedor indireto para entregar ofertas a preços académicos a utilizadores de educação qualificada.
+Os seguintes passos aplicam-se apenas aos fornecedores indiretos e aos parceiros de conta direta. Os revendedores indiretos precisam de se conectar com um fornecedor indireto para oferecer ofertas de preços especiais a utilizadores qualificados.
 
 1. No [painel](https://partner.microsoft.com/dashboard)partner Center , selecione o ícone de engrenagem no canto superior direito da janela para abrir as **definições de Conta**.
 
@@ -55,7 +56,7 @@ Assim que você e o seu cliente estiverem qualificados para um programa de ofert
 
 ## <a name="purchase-rules-for-special-segments"></a>Regras de compra de segmentos especiais
 
-Os parceiros só poderão vender ofertas especiais aos clientes se cumprirem determinados critérios. 
+Os parceiros só poderão vender ofertas especiais aos clientes se cumprirem determinados critérios.
 
 - As ofertas educativas só podem ser adquiridas se o Cliente for autorizado como Instituição de Ensino. Um cliente de Educação só pode receber ofertas de Educação e Comercial, mas não sem fins lucrativos nem nuvem comunitária do Governo (GCC).
 - Os parceiros só podem adquirir subscrições GCC para clientes GCC. Uma vez que um cliente tem uma subscrição GCC, os parceiros não podem comprar subscrições comerciais, educacionais ou sem fins lucrativos.

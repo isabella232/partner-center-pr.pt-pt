@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 550d5c3ab6361485ea545a4863323f2f7d8e85ef
-ms.sourcegitcommit: 8fe3b0f22d548bc6bcc1b87636216cd4d42b3ede
+ms.openlocfilehash: b88698cec01e7a5a3701d420298d93640d0fdbbf
+ms.sourcegitcommit: fe0920740ef9f461b38cc20bac41192552466405
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/17/2021
-ms.locfileid: "122297237"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "123088593"
 ---
 # <a name="create-an-mpn-account-in-partner-center-to-manage-network-benefits-and-competencies"></a>Criar uma conta MPN no Partner Center para gerir benefícios e competências de rede
 
@@ -51,8 +51,8 @@ Quando estiver pronto para criar uma conta no Partner Center, terá de ter à m�
 
 2. Pode iniciar sôms com a sua conta de trabalho Office 365, por you@contoso.onmicrosoft.com exemplo, .
 
-   >[!NOTE]
-   > Não pode utilizar as suas credenciais de conta CSP existentes para se inscrever na MPN.
+   > [!NOTE]
+   > Não pode usar as credenciais de conta CSP existentes ou um domínio governamental para se inscrever na MPN. A MPN é um programa global e não apoia a inscrição com um domínio governamental. Se você não tem um endereço de e-mail ou inquilino em nuvem global, você pode [criar um inquilino público](/azure/active-directory/fundamentals/active-directory-access-create-new-tenant) e, em seguida, seguir os passos neste artigo.
 
 3. Forneça os detalhes legais do seu negócio da sua empresa.
 
