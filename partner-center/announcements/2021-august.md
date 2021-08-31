@@ -10,17 +10,58 @@ ms.custom:
 - announcement
 - references_regions
 ms.localizationpriority: high
-ms.date: 08/25/2021
-ms.openlocfilehash: 237f4f0311609465136f7d1253d857f0384a01b9
-ms.sourcegitcommit: c09644ce889f1a8d49841bd61234246b4c85889c
+ms.date: 08/30/2021
+ms.openlocfilehash: 11806f0ba9b51aee7dbbd7539c2e32bcaa986694
+ms.sourcegitcommit: 917a077776b1aee2e8dad0869f4c1684fcf0bc37
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "122931252"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "123249160"
 ---
 # <a name="august-2021-announcements"></a>Anúncios de agosto de 2021
 
 Esta página fornece os anúncios para o Microsoft Partner Center para agosto de 2021.
+
+________________
+## <a name="privacy-management-for-microsoft-365-launch-is-delayed"></a><a name="20"></a>Gestão de Privacidade para lançamento Microsoft 365 está atrasada
+
+### <a name="summary"></a>Resumo
+
+O plano de lançamento da Privacy Management for Microsoft 365 mudou. Estamos a trabalhar na finalização de uma nova data de lançamento e comunicaremos isso em breve.
+
+### <a name="categories"></a>Categorias
+
+- Data: 2021-08-31
+- Capacidades
+
+### <a name="impacted-audience"></a>Audiência impactada
+
+Parceiros no programa de Licenciamento de Volume
+
+### <a name="details"></a>Detalhes
+
+O lançamento da Privacy Management for Microsoft 365, agendado para 1 de setembro de 2021, foi adiado. Os SKUs partilhados na pré-visualização da tabela de preços não estarão disponíveis para encomenda neste momento.
+
+Os SKUs impactados incluídos na pré-visualização da tabela de preços são:
+
+| Nome da oferta   | ID da oferta   | Material ID   |
+| --------- | --------- | --------- |
+| Gestão da Privacidade - risco  | a263eccc-1661-404a-bf-b0460d8fb1e1 | INI-00009 |
+| Gestão da Privacidade - risco para a EDU | 9d015e78-15bc-430e-a104-73b85e9f64d6 | INL-00003 |
+| Gestão da Privacidade - pedido de direitos de sujeito (1)  | cc87ffcf-0d3b-4df0-b921-4f3fa0b5ecaa | INH-00002 |
+| Gestão da Privacidade - pedido de direitos de sujeito (1) para a EDU  | 041a6bc1-ceff-4027-b712-cc2c12146743 | TINTA-00002 |
+| Gestão da Privacidade - pedido de direitos de sujeito (10)  | 040b7913-9c0b-4ebd-b4a5-e09d577e7f93 | IRC-00002 |
+| Gestão da Privacidade - pedido de direitos de sujeito (10) para a EDU  | 6e1dc669-fdce-43c6-b41f-826d414d6a8e | IRF-00002 |
+| Gestão da Privacidade - pedido de direitos de sujeito (100)  | 14179899-f91c-44f5-8e9a-3911ed0865eb | IRD-00002 |
+| Gestão da Privacidade - pedido de direitos de sujeito (100) para EDU  | d6d48446-83e9-4ed1-ace2-5a588b5b7038 | IRG-00002 |
+
+### <a name="next-steps"></a>Passos seguintes
+
+Reveja os recursos sobre este tema e partilhe com as partes interessadas apropriadas na sua organização.
+
+### <a name="questions"></a>Perguntas?
+
+Para mais perguntas sobre estas ofertas, consulte as suas comunidades Yammer relevantes.
 
 ________________
 ## <a name="announcing-windows-server-2022-general-availability-in-october"></a><a name="19"></a>Anunciando disponibilidade geral do Windows Server 2022 em outubro

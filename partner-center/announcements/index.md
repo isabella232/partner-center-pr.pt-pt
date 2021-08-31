@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 08/25/2021
-ms.openlocfilehash: 94435ae76e94b9f59eeb87138e1248c763ec8a12
-ms.sourcegitcommit: c09644ce889f1a8d49841bd61234246b4c85889c
+ms.date: 08/30/2021
+ms.openlocfilehash: 1921dc00451cc042459335a6d98ff5fc5fb7ccc6
+ms.sourcegitcommit: 917a077776b1aee2e8dad0869f4c1684fcf0bc37
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "122931235"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "123249149"
 ---
 # <a name="partner-center-announcements"></a>Anúncios do Centro de Parceiros
 
@@ -22,6 +22,7 @@ Saiba mais sobre atualizações importantes do Centro de Parceiros. Estas inform
 
 |**Categoria**|**Anúncios de agosto de 2021**|**Anunciado**|
 |---------|:---------|:---------|
+|Capacidades|[Gestão de Privacidade para lançamento Microsoft 365 está atrasada](2021-august.md#20)| 31 de agosto |
 |Capacidades|[Anunciando disponibilidade geral do Windows Server 2022 em outubro](2021-august.md#19)| 26 de agosto |
 |Capacidades|[Ofertas baseadas em assentos para testes integrados de caixas de areia na nova experiência de comércio](2021-august.md#18)| 25 de agosto |
 |Cresça o seu negócio|[Atualização da estrutura da fatura para os EUA, Porto Rico e Canadá](2021-august.md#17)| 24 de agosto |
