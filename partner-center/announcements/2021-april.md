@@ -10,13 +10,13 @@ ms.custom:
 - announcement
 - references_regions
 ms.localizationpriority: high
-ms.date: 04/29/2021
-ms.openlocfilehash: e5f2b8f3c4041f3c533abd9512b68879222b330c7301a4227aeb04188f9fe068
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.date: 08/30/2021
+ms.openlocfilehash: d19f6b02606d3735c55b74bb0adc523dc750fc98
+ms.sourcegitcommit: 053868201c001cf22bf5d3ad10c34b5e59cefa3e
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115688182"
+ms.lasthandoff: 08/30/2021
+ms.locfileid: "123215661"
 ---
 # <a name="april-2021-announcements"></a>Anúncios de abril de 2021
 
@@ -456,6 +456,19 @@ Os parceiros com clientes no resto do mundo terão a capacidade, no final de mar
 - Prepare-se para incorporar as alterações utilizando a API do Partner Center e a experiência do utilizador web. A API/SDKs estará disponível para testes.
 - Certifique-se de submeter os dados adicionais ao embarcar em novos clientes ou modificar os dados do cliente existentes.
 - Se estiver a utilizar uma solução de fornecedor de painéis de controlo (CPV), consulte o seu CPV.
+
+>[!NOTE]
+>Se uma transação CSP não puder ser processada, pode significar que o inquilino não está a ser validado. Quando isso acontece, o cliente precisa de adquirir uma oferta experimental no Portal Admin da Microsoft.
+>
+>#### <a name="purchase-a-trial-offer"></a>Comprar uma oferta experimental
+>
+>1. Abra o [portal Microsoft Admin Center](https://admin.microsoft.com/).
+>
+>2. No menu de navegação à esquerda, selecione **Billing** e, em seguida, **Os serviços de Compra**.
+>
+>3. Selecione o plano e, em seguida, **selecione Checkout**.
+>
+>O arrendatário será agora validado e permitirá transações de CSP.
 
 ### <a name="questions"></a>Perguntas?
 
