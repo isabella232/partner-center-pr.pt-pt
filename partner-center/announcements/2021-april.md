@@ -10,13 +10,13 @@ ms.custom:
 - announcement
 - references_regions
 ms.localizationpriority: high
-ms.date: 08/30/2021
-ms.openlocfilehash: d19f6b02606d3735c55b74bb0adc523dc750fc98
-ms.sourcegitcommit: 053868201c001cf22bf5d3ad10c34b5e59cefa3e
+ms.date: 09/01/2021
+ms.openlocfilehash: 2b81cf61b8fff5be82a41c4dcc46f24404fa6cf4
+ms.sourcegitcommit: 14a1cc0c679a84f9ee6d2eec814528415195162c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/30/2021
-ms.locfileid: "123215661"
+ms.lasthandoff: 09/02/2021
+ms.locfileid: "123396124"
 ---
 # <a name="april-2021-announcements"></a>Anúncios de abril de 2021
 
@@ -468,7 +468,7 @@ Os parceiros com clientes no resto do mundo terão a capacidade, no final de mar
 >
 >3. Selecione o plano e, em seguida, **selecione Checkout**.
 >
->O arrendatário será agora validado e permitirá transações de CSP.
+>O arrendatário está pronto para ser validado e permitir transações de CSP.
 
 ### <a name="questions"></a>Perguntas?
 

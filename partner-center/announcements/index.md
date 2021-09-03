@@ -8,20 +8,25 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 08/30/2021
-ms.openlocfilehash: 1921dc00451cc042459335a6d98ff5fc5fb7ccc6
-ms.sourcegitcommit: 917a077776b1aee2e8dad0869f4c1684fcf0bc37
+ms.date: 09/01/2021
+ms.openlocfilehash: e3262a225f49b93a48e36cd5a3c5f8e6aaf6e5d0
+ms.sourcegitcommit: 14a1cc0c679a84f9ee6d2eec814528415195162c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/31/2021
-ms.locfileid: "123249149"
+ms.lasthandoff: 09/02/2021
+ms.locfileid: "123396192"
 ---
 # <a name="partner-center-announcements"></a>Anúncios do Centro de Parceiros
 
 Saiba mais sobre atualizações importantes do Centro de Parceiros. Estas informações são atualizadas frequentemente, pelo que visite-nos com alguma frequência!
 
-|**Categoria**|**Anúncios de agosto de 2021**|**Anunciado**|
+|**Categoria**|**Anúncios de setembro de 2021**|**Anunciado**|
 |---------|:---------|:---------|
+|Capacidades|[Anunciando Intune por dispositivo para empresas para parceiros da CSP](2021-september.md#4)| 2 de setembro |
+|Capacidades|[Principais atualizações para a nova experiência de comércio para ofertas baseadas em assentos Fornecedor de Soluções em Nuvem (CSP)](2021-september.md#3)| 1 de setembro |
+|Cresça o seu negócio|[Veja os lançamentos e ofertas deste mês](2021-september.md#2)| 1 de setembro |
+|Cresça o seu negócio|[Software na Microsoft China Fornecedor de Soluções em Nuvem programa (MCCL CSP) para iniciar transações a partir de 12 de agosto](2021-september.md#1)| 1 de setembro |
+|**Categoria**|**Anúncios de agosto de 2021**|**Anunciado**|
 |Capacidades|[Gestão de Privacidade para lançamento Microsoft 365 está atrasada](2021-august.md#20)| 31 de agosto |
 |Capacidades|[Anunciando disponibilidade geral do Windows Server 2022 em outubro](2021-august.md#19)| 26 de agosto |
 |Capacidades|[Ofertas baseadas em assentos para testes integrados de caixas de areia na nova experiência de comércio](2021-august.md#18)| 25 de agosto |

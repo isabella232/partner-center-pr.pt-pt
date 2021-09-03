@@ -9,12 +9,12 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c81dc53a9424a1350bdbd2d4de280d287cba429a
-ms.sourcegitcommit: 9d155ff319ba2b2793bc9945d179ce1cb9c8f7c7
+ms.openlocfilehash: ae6c60bf5f3a4d5f1fad5e6fa86151737e12da6d
+ms.sourcegitcommit: 14a1cc0c679a84f9ee6d2eec814528415195162c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122453820"
+ms.lasthandoff: 09/02/2021
+ms.locfileid: "123396220"
 ---
 # <a name="manage-co-sell-opportunities-in-partner-center"></a>Gerir oportunidades de co-venda no Partner Center
 
@@ -229,7 +229,7 @@ Não, os acordos não podem ser modificados quando se mudam para um estado termi
 
 O fluxo de trabalho abaixo explica como os e-mails são enviados aos parceiros do sistema de referências do Partner Center para novas referências de entrada de parceiros.
 
-:::image type="content" source="images/pscmigration/emaillogic.png" alt-text="Imagem mostrando a lógica de como os e-mails são enviados aos parceiros para novas referências de entrada.":::
+:::image type="content" source="images/referrals/noti-workflow.png" alt-text="Imagem mostrando a lógica de como os e-mails são enviados aos parceiros para novas referências de entrada.":::
 
 **Q. Que tipo de incentivos são elegíveis para o registo de negócios?**
 

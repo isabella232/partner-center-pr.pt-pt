@@ -413,6 +413,8 @@
     - name: Faturação para ofertas do marketplace
       href: csp-commercial-marketplace-billing.md
       displayName: 'invoice, csp'
+    - name: Request an SLA credit from Microsoft (Pedir um crédito do SLA à Microsoft)
+      href: request-credit.md
     - name: Ver assinaturas digitais - Centro de Parceiros Índia
       href: digital-signature.md
       displayName: invoice
@@ -438,8 +440,6 @@
         - name: Configurar a conta de dividendos e os formulários fiscais
           href: set-up-your-payout-account.md
           displayName: 'region, regio'
-        - name: Request an SLA credit from Microsoft (Pedir um crédito do SLA à Microsoft)
-          href: request-credit.md
         - name: Como as políticas fiscais afetam o pagamento
           href: tax-policies-affect-payout.md
     - name: Set an Azure spending budget for your customers (Definir um orçamento de gastos do Azure para os seus clientes)
