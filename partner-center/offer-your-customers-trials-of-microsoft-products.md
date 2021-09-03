@@ -1,7 +1,7 @@
 ---
 title: Oferecer aos clientes testes de produtos da Microsoft
 ms.topic: article
-ms.date: 05/04/2020
+ms.date: 02/23/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-pricing
 description: Deixe os clientes experimentarem os produtos de subscrição da Microsoft durante 30 dias. Inscreva-se para estes testes gratuitos no catálogo, tal como muitos outros serviços online.
@@ -9,14 +9,14 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 01234eaf64beaceb0b5511c64013a67196a71b95121fe1bd831ffa93ea19054f
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 625fd493b026faac924ff8a7a5af8dccb59ab7b3
+ms.sourcegitcommit: 09d2c10491244775e656b48fce35b5648262ce59
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115687031"
+ms.lasthandoff: 09/03/2021
+ms.locfileid: "123457859"
 ---
-# <a name="give-customers-30-day-free-trials-of-microsoft-products"></a>Dar aos clientes 30 dias de testes gratuitos de produtos microsoft
+# <a name="give-customers-free-trials-of-microsoft-products"></a>Dar aos clientes testes gratuitos de produtos da Microsoft
 
 **Funções adequadas**: Administração global | Administração de administração de utilizadores | Agente comercial
 
@@ -91,6 +91,30 @@ Nem todos os ensaios podem ser convertidos em subscrições pagas. Os parceiros 
 Não será notificado das ofertas caducadas. Pode rastrear as próximas datas de validade utilizando a vista do cliente no Partner Center ou consultando a API. É uma boa ideia monitorizar estas datas com frequência para que possa tomar as ações de acompanhamento apropriadas com os clientes à medida que se aproximam de um ponto de decisão.
 
 Depois de expirado o julgamento, um cliente que tentar entrar nesse julgamento verá uma mensagem de caducidade. No entanto, os dados são armazenados de acordo com as normas de retenção de dados. Depois de adquirir uma nova subscrição com os mesmos planos de serviço, as informações do seu cliente podem ser novamente acedidas a partir da subscrição recém-ativada.
+
+## <a name="converting-new-commerce-trials-to-paid-subscriptions"></a>Conversão de novos ensaios de comércio para subscrições pagas
+
+> [!Note] 
+> As novas alterações de Comércio estão atualmente disponíveis apenas para parceiros que fazem parte da nova pré-visualização técnica da experiência de comércio M365/D365.
+
+Após 30 dias, o seu teste gratuito irá automaticamente renovar-se numa subscrição paga. Pode converter o seu ensaio antes da renovação automática seguindo os passos abaixo. 
+
+Você mesmo pode converter o julgamento numa subscrição paga. Pode fazê-lo utilizando o Centro de Parceiros ou através das APIs do Partner Center. 
+
+> [!NOTE]
+> Os ensaios gratuitos para o programa Fornecedor de Soluções em Nuvem (CSP) não podem ser convertidos para outro inquilino do programa (como EA, Open ou MOSP).
+
+### <a name="convert-new-commerce-trials-using-partner-center"></a>Converter novos ensaios de comércio usando Partner Center
+
+> [!Note] 
+> As novas alterações de Comércio estão atualmente disponíveis apenas para parceiros que fazem parte da nova pré-visualização técnica da experiência de comércio M365/D365.
+
+Pode converter novos ensaios de comércio em subscrições pagas utilizando o Partner Center:
+
+1. Vá à página de subscrição do cliente e selecione o teste gratuito.
+2. Selecione **Converter o ensaio para a subscrição paga.**
+3. Escolha o equivalente pago e, em seguida, **selecione Enviar por isso.**
+4. A faturação da subscrição paga começa na data de conversão, e a subscrição renova-se automaticamente doze meses a partir da data de conversão. 
 
 ## <a name="billing"></a>Faturação
 

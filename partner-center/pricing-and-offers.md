@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9b290e5db1e9c385b5000e4c18b9810db82b645c
-ms.sourcegitcommit: 815760499700bf2c947550524cbddd091622081f
+ms.openlocfilehash: ee8e17ed587f4b69b8e0f02888470627b87d8eaf
+ms.sourcegitcommit: 09d2c10491244775e656b48fce35b5648262ce59
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "121914459"
+ms.lasthandoff: 09/03/2021
+ms.locfileid: "123457600"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Preços e ofertas para Office 365, Dynamics CRM, Suite de Mobilidade Empresarial, Azure, e muito mais
 
@@ -137,33 +137,35 @@ Todos os preços nas tabelas de preços do Partner Center CSP são impostos incl
 
 Algumas ofertas exigem que o parceiro concorde antes de comprar. Este processo é chamado de atestado e a partir de 1 de agosto de 2021, as únicas ofertas que requerem atestado são Windows 365 ofertas de Negócios com Windows Hybrid Benefit. Os parceiros verão texto no ecrã de revisão ao comprar estas ofertas: "Entendo que cada pessoa que usa Windows 365 Negócios com Windows Hybrid Benefit também precisa de ter uma cópia válida de Windows 10/11 Pro instalada no seu dispositivo de trabalho primário." Os parceiros devem concordar com isso antes de comprar.
 
-O Attestation aplica-se tanto ao portal Partner Center como às APIs do Partner Center ao enviar encomendas e verificar carrinhos. Os parceiros podem determinar quais as ofertas que requerem atestado, verificando as AttestationProperties na [oferta](/partner-center/develop/offer-resources#attestationproperties) ou objetos [sku.](/partner-center/develop/product-resources#attestationproperties) Estas propriedades explicarão o tipo de atestado e se o atestado for aplicado para compras (enforceAttestation=True). Se necessário, os parceiros simplesmente definem o AttestationAccepted verdadeiro no carrinho ou [em linha de](/partner-center/develop/cart-resources)encomenda .
+O Attestation aplica-se tanto ao portal Partner Center como às APIs do Partner Center ao enviar encomendas e verificar carrinhos. Os parceiros podem determinar quais as ofertas que requerem atestado, verificando as AttestationProperties na [oferta](/partner-center/develop/offer-resources#attestationproperties) ou objetos [SKU.](/partner-center/develop/product-resources#attestationproperties) 
+
+Estas propriedades explicarão o tipo de atestado e se o atestado for aplicado para compras (enforceAttestation=True). Se necessário, os parceiros simplesmente definem o `AttestationAccepted` **verdadeiro** no carrinho ou em [itens de linha de](/partner-center/develop/cart-resources)encomenda .
 
 Abaixo estão as ofertas que atualmente requerem atestado antes da compra.
 
- | **Nome da oferta** |**ID da oferta** |
-|:------------------------------------------- |:--------------------------------------- |
-| Windows 365 Business 1 vCPU, 2 GB, 64 GB (com Windows Benefício Híbrido) | 5f3a7cd2-c76f-4b21-9ddc-f48f09869cf6 |
-| Windows 365 Business 2 vCPU, 4 GB, 128 GB (com Windows Benefício Híbrido) | 7612386a-d98d-4110-94b8-554bd612a5ab |
-| Windows 365 Business 2 vCPU, 4 GB, 128 GB (com Windows Benefício Híbrido) Ensaio | ab170880-1254-4534-abb9-fd0bf60cde71 |
-| Windows 365 Business 2 vCPU, 4 GB, 256 GB (com Windows Benefício Híbrido) | cc624387-162c-4f31-9d6e-252d39d5324b |
-| Windows 365 Business 2 vCPU, 4 GB, 64 GB (com Windows Benefício Híbrido) | f9777f60-19ae-4bd2-b881-6dc674564a2e |
-| Windows 365 Business 2 vCPU, 8 GB, 128 GB (com Windows Benefício Híbrido) | 39daa752-18b7-4918-b4eb-cf27cf617ee2 |
-| Windows 365 Business 2 vCPU, 8 GB, 128 GB (com Windows Benefício Híbrido) Ensaio | d5623401-b8e0-429f-86df-29b6efdf4d95 |
-| Windows 365 Business 2 vCPU, 8 GB, 256 GB (com Windows Benefício Híbrido) | 8fe4271f-c761-45f8-8261-5ab575195152 |
-| Windows 365 Business 4 vCPU, 16 GB, 128 GB (com Windows Benefício Híbrido) | 037cff0f-c231-4cce-a7ef-5324c75ba9a |
-| Windows 365 Business 4 vCPU, 16 GB, 128 GB (com Windows Benefício Híbrido) Ensaio | 46448c4c-8b12-4ea1-9be7-76b35d69bcf5 |
-| Windows 365 Business 4 vCPU, 16 GB, 256 GB (com Windows Benefício Híbrido) | 977318cf-57a5-4c3f-a8b6-aa58853dd2e9 |
-| Windows 365 Business 4 vCPU, 16 GB, 512 GB (com Windows Benefício Híbrido) | 1a3bdfb8-fb09-4331-8303-2c07e895c6d9 |
-| Windows 365 Business 8 vCPU, 32 GB, 128 GB (com Windows Benefício Híbrido) | 1b96db48-9c02-4c95-8c0b-98e4e6aa187c |
-| Windows 365 Business 8 vCPU, 32 GB, 256 GB (com Windows Benefício Híbrido) | 3ff72e53-c37f-41d5-b932-793cb39c837b |
-| Windows 365 Business 8 vCPU, 32 GB, 512 GB (com Windows Benefício Híbrido) | aca639ae-ae81-4298-a76a-094b6880913b |
+| **Nome da oferta**                                                                 | **ID da oferta**                              |
+|:-------------------------------------------------------------------------------|:----------------------------------------- |
+| Windows 365 Business 1 vCPU, 2 GB, 64 GB (com Windows Benefício Híbrido)         | 5f3a7cd2-c76f-4b21-9ddc-f48f09869cf6      |
+| Windows 365 Business 2 vCPU, 4 GB, 128 GB (com Windows Benefício Híbrido)        | 7612386a-d98d-4110-94b8-554bd612a5ab      |
+| Windows 365 Business 2 vCPU, 4 GB, 128 GB (com Windows Benefício Híbrido) Ensaio  | ab170880-1254-4534-abb9-fd0bf60cde71      |
+| Windows 365 Business 2 vCPU, 4 GB, 256 GB (com Windows Benefício Híbrido)        | cc624387-162c-4f31-9d6e-252d39d5324b      |
+| Windows 365 Business 2 vCPU, 4 GB, 64 GB (com Windows Benefício Híbrido)         | f9777f60-19ae-4bd2-b881-6dc674564a2e      |
+| Windows 365 Business 2 vCPU, 8 GB, 128 GB (com Windows Benefício Híbrido)        | 39daa752-18b7-4918-b4eb-cf27cf617ee2      |
+| Windows 365 Business 2 vCPU, 8 GB, 128 GB (com Windows Benefício Híbrido) Ensaio  | d5623401-b8e0-429f-86df-29b6efdf4d95      |
+| Windows 365 Business 2 vCPU, 8 GB, 256 GB (com Windows Benefício Híbrido)        | 8fe4271f-c761-45f8-8261-5ab575195152      |
+| Windows 365 Business 4 vCPU, 16 GB, 128 GB (com Windows Benefício Híbrido)       | 037cff0f-c231-4cce-a7ef-5324c75ba9a      |
+| Windows 365 Business 4 vCPU, 16 GB, 128 GB (com Windows Benefício Híbrido) Ensaio | 46448c4c-8b12-4ea1-9be7-76b35d69bcf5      |
+| Windows 365 Business 4 vCPU, 16 GB, 256 GB (com Windows Benefício Híbrido)       | 977318cf-57a5-4c3f-a8b6-aa58853dd2e9      |
+| Windows 365 Business 4 vCPU, 16 GB, 512 GB (com Windows Benefício Híbrido)       | 1a3bdfb8-fb09-4331-8303-2c07e895c6d9      |
+| Windows 365 Business 8 vCPU, 32 GB, 128 GB (com Windows Benefício Híbrido)       | 1b96db48-9c02-4c95-8c0b-98e4e6aa187c      |
+| Windows 365 Business 8 vCPU, 32 GB, 256 GB (com Windows Benefício Híbrido)       | 3ff72e53-c37f-41d5-b932-793cb39c837b      |
+| Windows 365 Business 8 vCPU, 32 GB, 512 GB (com Windows Benefício Híbrido)       | aca639ae-ae81-4298-a76a-094b6880913b      |
 
 ## <a name="multi-year-term-offers"></a>Ofertas de vários anos
 
 ### <a name="36-month-offers"></a>Ofertas de 36 meses
 
-Existem aproximadamente 50 ofertas da Dynamics que têm mandatos de três anos. Estes são identificados por **(36 mo)** no título das ofertas. Estas ofertas são semelhantes às ofertas a prazo anual. A única diferença é em torno do seu termo. Estas ofertas têm um prazo de três anos para que as subscrições se renovem automaticamente após três anos em vez de uma. Abaixo está um resumo de como estas ofertas funcionam:
+Existem aproximadamente 50 ofertas da Dynamics que têm mandatos de três anos. Estes são identificados por **(36 mo)** no título das ofertas. Estas ofertas são semelhantes às ofertas a prazo anual. A única diferença é o seu termo. Estas ofertas têm um prazo de três anos para que as subscrições se renovem automaticamente após três anos em vez de uma. Abaixo está um resumo de como estas ofertas funcionam:
 
 - Os termos são de 36 meses, as subscrições renovam-se automaticamente ao fim de três anos
 - Os parceiros podem cancelar ou alterar o número de licenças ao longo do período da subscrição
@@ -174,11 +176,11 @@ Existem aproximadamente 50 ofertas da Dynamics que têm mandatos de três anos. 
 
 Microsoft 365 A1 oferta base tem um mandato de seis anos.  Os Office 365 A1 addons estão disponíveis após a compra desta oferta base. 
 
-|**Nome da oferta**   |**ID da oferta**   |**Tipo**|
-|-------------------|-----------------------|----------------------------|
-|Microsoft 365 A1|778a4dce-0014-4d53-8647-314ef2b091d2|Oferta base|
-|Office 365 A1 para o corpo docente (para dispositivo)|0757d14e-7c57-456f-8dab-47d164f2ff1f|Add-on|
-|Office 365 A1 para estudantes (para dispositivo)|bae285a9-d56b-4384-b02f-38adc61a6f12|Add-on|
+|**Nome da oferta**                            |  **ID da oferta**                           | **Tipo**     |
+|------------------------------------------|-----------------------------------------|--------------|
+| Microsoft 365 A1                         | 778a4dce-0014-4d53-8647-314ef2b091d2    | Oferta base   |
+| Office 365 A1 para o corpo docente (para dispositivo)   | 0757d14e-7c57-456f-8dab-47d164f2ff1f    | Add-on       |
+| Office 365 A1 para estudantes (para dispositivo)  | bae285a9-d56b-4384-b02f-38adc61a6f12    | Add-on       |
 
 Abaixo está um resumo de como estas ofertas funcionam:
 
@@ -204,7 +206,79 @@ A maioria das listas de preços incluem um preço de lista, o preço que o parce
 |Subscrições de software  |Listado como MSRP nas listas de preços de subscrições de software  |
 |Marketplace  |Listado como MSRP nas listas de preços do Marketplace  |
 
-Mais recursos: 
+## <a name="new-commerce-license-based-pricing"></a>Novos preços baseados em licenças de comércio
+
+> [!NOTE]
+> Atualmente, estão disponíveis novas mudanças de comércio apenas para parceiros que fazem parte da nova pré-visualização técnica da experiência de comércio M365/D365.
+
+Os dados de preços estarão disponíveis para os parceiros, tanto do painel partner [center](https://partner.microsoft.com/dashboard/home) como através da folha de preços API. Para ver os dados mais recentes no Partner Center, vá a **Sell > Preços e Ofertas**. A nova lista de preços de oferta de comércio e matriz de ofertas será rotulada com **New Commerce.**
+
+As listas de preços incluem informações básicas sobre preços (quanto custa). A matriz de oferta inclui informações de compra sobre os produtos (como comprá-lo). Grande parte das informações incluídas nestes ficheiros de descarregamento também é acessível através das várias APIs do Partner Center (APIs de catálogo e APIs de folha de preços).
+
+As listas de preços exigem que o parceiro selecione o mercado para o preço que solicita. A matriz da lista de ofertas é agnóstica do mercado.
+
+Lista de preços e ficheiros de matriz de lista de ofertas padrão para o mês em curso. Os ficheiros da lista de preços podem ser alterados diariamente. Para recuperar a lista de preços do mês anterior, selecione o Mês e, em seguida, descarregue o ficheiro de preços para o mercado pretendido.
+
+### <a name="new-commerce-price-list"></a>Nova lista de preços de comércio
+
+Selecione o mercado e, em seguida, exporte o ficheiro da lista de preços. O ficheiro é um ficheiro de texto comprimido e delimitado por vírgula.
+
+| **Campo**                           | **Exemplo**                     | **Descrição**                      |
+|:------------------------------------|:--------------------------------|:-------------------------------------|
+| Instituto de Produtos                        | Microsoft 365 Empresas Basic    | Título do produto                 |
+| ProductId                           | CFQ7TTC0LH18                    | ID do produto                    |
+| SkuId                               | 1                               | ID do SKU                        |
+| SkuTitle                            | Microsoft 365 Empresas Basic    | Título do SKU                     |
+| Publisher                           | Microsoft Corporation           | Empresa que publica a oferta         |
+| SkuDescription                      | O melhor para empresas que precisam de e-mail profissional, armazenamento de ficheiros em nuvem, e... | Descrição da oferta |
+| UnitOfMeasure                       |                                 | Atualmente apenas para consumo Azure |
+| TermoDuração                        | P1Y/P1M                         | Duração do termo                   |
+| Plano de Faturação                         | Anual/Mensal                  | Quantas vezes a faturação acontece            |
+| Mercado                              | EUA                              | Mercado para o item                  |
+| Moeda                            | USD                             | Moeda para o item                |
+| UnitPrice                           | 48                              | Preço por unidade (licença)             |
+| PreçosTierRangeMin                 | |Se os preços hierárquicos forem suportados, o intervalo mínimo para o ponto de preço |
+| PreçosTierRangeMax                 | |Se os preços hierárquicos forem suportados, a gama máxima para o ponto de preço |
+| EficazStartDate                  | 2/1/2019 0:00                   | Data de início do preço do artigo |
+| Efê-Térmo                    | 11/30/9999 23:59                | Data de fim do preço do artigo  |
+| Etiquetas                                | Licença; Julgamento                   | Etiquetas diversas                   |
+| Preço ERP                           | 60                              | Preço estimado de venda ao público               |
+
+#### <a name="new-commerce-price-list-details"></a>Novos detalhes da lista de preços do comércio 
+
+A estrutura dos itens no novo ficheiro de preços de comércio difere da lista de preços tradicionais do escritório. 
+
+|**Categoria**|**Tradicional baseado em licenças**|**Nova licença de comércio baseada em licenças**|
+|:-----------   |:-----------   |:-----------   |
+|ID da oferta|Este é um GUID identificando o item a ser comprado|ProdutoID/SKUID/AvailabilityID. O ID de Disponibilidade só é devolvido na API GetAvailablities. Ao comprar através da interface de utilizador do Partner Center, esta é automaticamente incluída.|
+|Moedas|Separadores incluídos de todas as ofertas para todas as moedas|Cada folha de preços contém apenas a moeda para o mercado atualmente selecionado.|
+
+### <a name="new-commerce-offer-matrix"></a>Nova matriz de oferta de comércio
+
+A matriz de oferta contém informações de compra e regras para o produto SKUs. É agnóstico do mercado.
+
+| **Campo**                     | **Exemplo**       | **Descrição**                 |
+|:------------------------------|:------------------|:--------------------------------|
+| Instituto de Produtos                  | Microsoft 365 Empresas Basic | Título do produto |
+| ProductId                     | CFQ7TTC0LH18       | ID do produto               |
+| SkuId                         | 1                  | ID do SKU                   |
+| SkuTitle                      | Microsoft 365 Empresas Basic | Título do SKU      |
+| ProvisioningId                | 3b555118-da6a-4418-894f-7df1e2096870 | ID do sistema que define o produto aprovisionado |
+| ProvisioningString            | O365_BUSINESS_ESSENTIALS    |Nome-chave amigável para o produto provisionado |
+| MinLicenses                   | 1                  | Número mínimo de licenças que podem ser adquiridas |
+| MaxLicenses                   | 300                | Número máximo de licenças que podem ser adquiridas |
+| AssetOwnershipLimit           | 2 | Limite de ativos para o ActivoOwnershipLimitType |
+| AssetOwnershipLimitType       | ConcorrenteCount    | Tipo de AssetLimit. Pode ser vitalício ou simultâneo |
+| ProdutosSkuPreRequisites       |                    | Lista de SKUs os suportes adicionais |
+| ProductSkuConversion          | CFQ7TTC0LDPB/0001,CFQ7TTC0LF8Q/0001 | Lista de SKUs que pode converter |
+| Description                   | O melhor para empresas que precisam de profissional... | Descrição do SKU |
+| Países Permitidos              |AD; AE;AF; AG; AI; AL;AM; AO...                     | Lista de mercados apoiados |
+
+### <a name="pricing-and-offer-matrix-apis"></a>ApIs de preços e ofertas de matriz
+
+Os APIs da matriz de preços e oferta baseiam-se na infraestrutura API existente na folha de preços que foi lançada para apoiar o plano Azure. Esta API é agora alargada para apoiar novos preços de comércio baseados em licenças. A [folha de preços e a matriz de oferta APIs](/partner/develop/get-a-price-sheet) suportam os preços para novos serviços online baseados em licenças de comércio atualizados. Não suporta serviços tradicionais baseados em licenças de escritório disponíveis para download apenas a partir de preços e ofertas do Partner Center.
+
+## <a name="next-steps"></a>Passos seguintes
 
 - [Preços do plano Azure](azure-plan-price-list.md)
 - [Visão geral dos preços do Azure](https://azure.microsoft.com/pricing/)

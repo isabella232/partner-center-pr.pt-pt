@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 28b61ba66fa887db5b27667318ac8f3dcfbff0a14b73925db5a7be1b77dca266
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 6d3d414aa33991888fcd8b81864e2adee9a46f46
+ms.sourcegitcommit: 09d2c10491244775e656b48fce35b5648262ce59
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115689309"
+ms.lasthandoff: 09/03/2021
+ms.locfileid: "123457944"
 ---
 # <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>Saiba como ler ficheiros de reconciliação de utilização diária no Partner Center
 
@@ -83,7 +83,6 @@ Este artigo explica como ler ficheiros de reconciliação de utilização diári
 | PartnerEarnedCreditPercentage | Apresenta o PartnerEarnedCredit para o item da linha. O crédito adquirido será de 0 ou 15 por cento |
 | CreditPercentage | Exibe o Crédito de Consumo Azure. O crédito ganho será de 0 ou 100 por cento. |
 | CréditoType | Tipo de crédito. Por exemplo, **a Azure Credit Applied.** |
+
 >[!NOTE]
 >O uso diário normalmente leva 24 horas para aparecer no Partner Center ou para ser acedido através da API.
-
-

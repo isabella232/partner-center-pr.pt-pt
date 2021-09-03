@@ -1,5 +1,5 @@
 ---
-title: Request an SLA credit from Microsoft (Pedir um crédito do SLA à Microsoft)
+title: Solicite um crédito à Microsoft
 ms.topic: article
 ms.date: 03/31/2021
 description: Conheça os benefícios, restrições e procedimentos para solicitar um crédito de acordo de nível de serviço (SLA) da Microsoft se os seus clientes experimentarem uma falha de serviço.
@@ -9,14 +9,14 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 244b4fb13f1b4532cba218ab404442c323121f142966695d5c220a18300bc0fc
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 51c5b896564e7eb915814c43a6931e48f1777ffc
+ms.sourcegitcommit: 09d2c10491244775e656b48fce35b5648262ce59
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115678191"
+ms.lasthandoff: 09/03/2021
+ms.locfileid: "123457961"
 ---
-# <a name="how-and-when-to-request-a-service-level-agreement-sla-credit-from-microsoft"></a>Como e quando solicitar um crédito de nível de serviço (SLA) da Microsoft
+# <a name="how-and-when-to-request-a-credit-from-microsoft"></a>Como e quando solicitar um crédito à Microsoft
 
 **Funções adequadas**: Agente administrador | Administração global
 

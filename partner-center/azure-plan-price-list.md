@@ -9,12 +9,12 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2bd1cf460002f2cdacaaec3581dc4602f3d35b21
-ms.sourcegitcommit: 38afe7e35e3dce4f35cf7352cc98e3d53e979a62
+ms.openlocfilehash: 73b47b62ce996156c7e780450bada1bdbec9f4b0
+ms.sourcegitcommit: 09d2c10491244775e656b48fce35b5648262ce59
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "122752139"
+ms.lasthandoff: 09/03/2021
+ms.locfileid: "123457617"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Lista de preços da nova experiência comercial no CSP para Azure
 
@@ -83,7 +83,7 @@ Se se matriculou *em ou depois de* 21 de julho de 2021
 |PreçosTierRangeMax|Para preços diferenciados, o preço máximo aplica-se|
 |EficazStartDate|Data de início dos preços|
 |Efê-Térmo|Data de fim do preço|
-|Meterids|Identificação do medidor do produto sku|
+|Meterids|Identificação do medidor do produto SKU|
 |Medidor deTipo|Tipo de Medidor|
 |Etiquetas|Propriedades para o item, para preços do plano Azure este será Azure ou Azure e Reservas (especificamente para reservas)|
 
@@ -91,7 +91,7 @@ As listas de preços do plano Azure podem ser exportadas a partir da [página de
 
 ## <a name="tiered-pricing"></a>Preços hierárquicos
 
-Alguns serviços de consumo de plano Azure apoiam preços diferenciados. Os parceiros podem encontrar estes produtos e skus na lista de preços do plano Azure. Os itens que têm valores nas colunas de gama de preços permitem aos parceiros compreender o preço com base na utilização. No exemplo abaixo, usando dados de amostra, temos um produto sku com três níveis de preços.
+Alguns serviços de consumo de plano Azure apoiam preços diferenciados. Os parceiros podem encontrar estes produtos e SKUs na lista de preços do plano Azure. Os itens que têm valores nas colunas de gama de preços permitem aos parceiros compreender o preço com base na utilização. No exemplo abaixo, usando dados de amostra, temos um produto SKU com três níveis de preços.
 
 |**ProductId**   |**SkuId**   |**UnitPrice**   |**PreçosTierRangeMin**   |**PreçosTierRangeMax**   |
 |:---------------|:-----------|:---------------|:-------------------------|:-------------------------|

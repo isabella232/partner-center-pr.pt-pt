@@ -10,17 +10,47 @@ ms.custom:
 - announcement
 - references_regions
 ms.localizationpriority: high
-ms.date: 09/01/2021
-ms.openlocfilehash: 74e4d5ee79afe5fea243b6f3438f1c38a6787590
-ms.sourcegitcommit: 14a1cc0c679a84f9ee6d2eec814528415195162c
+ms.date: 09/02/2021
+ms.openlocfilehash: 876f6cbd87e912b4cfaf2aef152bb7b71d0600e6
+ms.sourcegitcommit: 09d2c10491244775e656b48fce35b5648262ce59
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/02/2021
-ms.locfileid: "123404324"
+ms.lasthandoff: 09/03/2021
+ms.locfileid: "123457978"
 ---
 # <a name="september-2021-announcements"></a>Anúncios de setembro de 2021
 
 Esta página fornece os anúncios para o Microsoft Partner Center para setembro de 2021.
+________________
+## <a name="corrections-to-september-license-based-services-price-list-and-october-preview-for-microsoft-365-business-basic-usd"></a><a name="5"></a>Correções à lista de preços dos serviços baseados em licenças de setembro e pré-visualização de outubro para Microsoft 365 Empresas Basic (USD)
+
+### <a name="summary"></a>Resumo
+
+A lista de preços de setembro e a pré-visualização de outubro tinham um preço de lista incorreto para Microsoft 365 Empresas Basic em USD.
+
+### <a name="categories"></a>Categorias
+
+- Data: 2021-09-02
+- Ofertas/Mercados
+
+### <a name="impacted-audience"></a>Audiência impactada
+
+Fornecedores indiretos e parceiros de conta direta que transfiram serviços baseados em licenças no programa Fornecedor de Soluções em Nuvem.
+
+### <a name="details"></a>Detalhes
+
+A lista de preços de setembro e a pré-estreia de outubro para serviços baseados em licenças publicadas a 1 de setembro de 2021 tinham um preço de lista incorreto para Microsoft 365 Empresas Basic. As tabelas de preços corrigidas foram publicadas no dia 2 de setembro de 2021. Isto só afeta USD.
+
+A oferta impactada inclui:
+
+- Nome da oferta: Microsoft 365 Empresas Basic
+- ID da oferta: bd938f12-058f-4927-bba3-ae36b1d2501c
+- Antes: Preço da lista = 2
+- Depois: Preço da lista = 4
+
+### <a name="next-steps"></a>Passos seguintes
+
+Os parceiros que transacionam serviços licenciados em USD devem baixar a lista de preços mais recente para ver o preço corrigido.
 
 ________________
 ## <a name="announcing-intune-per-device-for-enterprise-for-csp-partners"></a><a name="4"></a>Anunciando Intune por dispositivo para empresas para parceiros da CSP

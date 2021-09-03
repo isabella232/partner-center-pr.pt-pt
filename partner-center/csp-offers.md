@@ -1,20 +1,20 @@
 ---
 title: Ofertas de parceiros no programa CSP
 ms.topic: article
-ms.date: 06/05/2020
+ms.date: 02/18/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-pricing
+ms.subservice: partnercenter-csp
 description: Como parceiro de programas da CSP, conheça o catálogo crescente de serviços na nuvem da Microsoft e ofereça que pode vender aos clientes.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 08be5bb39f58f4697090c2e144ff321331c428e13d165d831e96d9f27a6de403
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 748aeb10538e794e6e47c495c8337e3fb43daf15
+ms.sourcegitcommit: 09d2c10491244775e656b48fce35b5648262ce59
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115693780"
+ms.lasthandoff: 09/03/2021
+ms.locfileid: "123457995"
 ---
 # <a name="overview-of-partner-offers-in-the-cloud-solution-provider-program"></a>Descrição geral das ofertas de parceiros no programa Fornecedor de Solução Cloud
 
@@ -45,9 +45,14 @@ Atualmente, pode vender os seguintes tipos de produtos e serviços aos seus clie
 
 ### <a name="online-services"></a>Serviços online
 
-   *Os serviços online* são o novo nome para o que é atualmente referido como *subscrições.* Para facilitar a encomenda de vários tipos de produtos num só local, integrámos o fluxo de tarefa "adicionar subscrição" no fluxo de tarefas "adicionar produtos".
+*Os serviços online* são adquiridos como *subscrições.* Para facilitar a encomenda de vários tipos de produtos num só local, integrámos o fluxo de tarefa "adicionar subscrição" no fluxo de tarefas "adicionar produtos".
 
-   Para mais informações, consulte [as subscrições do Cliente.](customer-subscriptions.md)
+Para mais informações, consulte [as subscrições do Cliente.](customer-subscriptions.md)
+   
+> [!NOTE] 
+> As novas alterações de Comércio estão atualmente disponíveis apenas para parceiros que fazem parte da nova pré-visualização técnica da experiência de comércio M365/D365.
+
+As novas ofertas de experiência de comércio diferem das *tradicionais* subscrições de serviços online de várias maneiras. Para mais informações sobre estas novas experiências de comércio, leia [novas experiências de comércio.](new-commerce-license-based.md)
 
 ### <a name="software-as-a-service-saas-and-other-azure-marketplace-products"></a>Software como serviço (SaaS) e outros produtos [Azure Marketplace](https://azuremarketplace.microsoft.com/marketplace)
 

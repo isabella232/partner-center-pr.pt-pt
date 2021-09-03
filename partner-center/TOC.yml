@@ -580,6 +580,16 @@
           displayName: csp
         - name: Transferir subscrições do plano Azure de um cliente para um parceiro diferente
           href: transfer-azure-subscriptions-under-azure-plan.md
+    - name: Novas experiências de comércio para serviços baseados em licenças
+      href: new-commerce-license-based.md
+      displayName: new commerce
+      items:
+        - name: Novo comércio telco payg
+          href: new-commerce-telco-payg.md
+        - name: Novas promoções de comércio
+          href: new-commerce-promotions.md
+        - name: Novos add-ons de comércio
+          href: new-commerce-add-ons.md
     - name: Subscrições de software
       href: csp-software-subscriptions.md
       displayName: 'subscription, cancel'

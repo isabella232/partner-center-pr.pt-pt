@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ac60847d3376724de031f5a1f50321d4273aff499a7b923b7e3bd39a0a700750
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 14901b47b7363b2d87861be43a7071d9f23545cc
+ms.sourcegitcommit: 09d2c10491244775e656b48fce35b5648262ce59
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115681914"
+ms.lasthandoff: 09/03/2021
+ms.locfileid: "123457927"
 ---
 # <a name="manage-commercial-marketplace-products-and-offers-for-your-customers"></a>Gerir produtos e ofertas de marketplace comercial para os seus clientes
 
@@ -83,11 +83,7 @@ O editor deve fornecer-lhe um link personalizado e um código de autorização q
 
 Quando subscreve um produto SaaS baseado em licença oferecido por um editor ISV dentro do mercado comercial, tem a opção de cancelar a subscrição dentro do período de cancelamento designado. Este período de cancelamento muda dependendo se tem uma subscrição mensal ou anual. Também pode escolher se renova automaticamente a subscrição.
 
-Para obter mais informações sobre os períodos de cancelamento que se aplicam, como cancelar ou como renovar automaticamente uma subscrição, consulte:
-
-- [Cancelar uma subscrição](create-a-new-subscription.md#cancel-a-subscription)
-
-- [Renovar automaticamente uma subscrição de mercado comercial](create-a-new-subscription.md#choose-whether-to-automatically-renew-a-commercial-marketplace-subscription)
+Para obter mais informações sobre os períodos de cancelamento que se aplicam, como cancelar ou como renovar automaticamente uma subscrição, consulte [Cancelar uma subscrição](create-a-new-subscription.md#cancel-a-subscription).
 
 ## <a name="add-or-remove-licenses-for-a-saas-subscription"></a>Adicionar ou remover licenças para uma subscrição do SaaS
 
