@@ -1,7 +1,7 @@
 ---
 title: Candidatar-se a especializações avançadas
 ms.topic: how-to
-ms.date: 07/07/2021
+ms.date: 08/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-membership
 description: Fortaleça o seu perfil de negócio no diretório de parceiros da Microsoft. Saiba como usar o Partner Center para se candidatar e ganhar especializações avançadas.
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d00f1ffde15477678b05cbc00213d8a7d494b299
-ms.sourcegitcommit: 815760499700bf2c947550524cbddd091622081f
+ms.openlocfilehash: 378181838841a6763130394a35c3d5a3804fa72b
+ms.sourcegitcommit: 14a1cc0c679a84f9ee6d2eec814528415195162c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "121914963"
+ms.lasthandoff: 09/02/2021
+ms.locfileid: "123396175"
 ---
 # <a name="use-partner-center-to-apply-for-advanced-specializations-and-check-their-status"></a>Use o Partner Center para solicitar especializações avançadas e verificar o seu estado
 
@@ -70,13 +70,13 @@ Especializações avançadas que requerem uma auditoria com um auditor de tercei
 - Microsoft Azure Solução VMware
 - DevOps com GitHub na Microsoft Azure
 - Serviços de Networking em Microsoft Azure
+- SAP no Microsoft Azure
 
 As especializações avançadas que requerem referências ao cliente incluem:
 
 - Adoção e Gestão da Mudança
 - Chamar o Microsoft Teams
 - Reuniões e salas de reuniões para Microsoft Teams
-- SAP no Azure
 - Implementação do Teamwork
 - Gestão de Acesso e Identidades
 - Proteção Contra Ameaças
@@ -202,6 +202,9 @@ Em seguida, siga estes passos para fornecer referências ao cliente no Partner C
     - Azure Sentinel ACR: Nível de serviço 4 = Sentinela
 - Segurança na Cloud
     - Ambiente Híbrido XDR e Segurança de Rede ACR: Nível de serviço 4 = Azure Defender for SQL, Azure Defender para registos de contentores, Azure Defender for Kubernetes, Azure Defender for Armazenamento, Application Gateway WAF v2, WAF Application Gateway, Azure Ative Directory B2C, Azure Ative Directory Domain Services, Azure Ative Directory for External Identities, Azure Bastion, Azure DDOS Protection, Azure Firewall, Azure Firewall Manager, Azure Front Door Service, Azure Defender for IoT, Azure Dedicated HSM, Key Vault, Network Watcher, Azure Defender for App Service, Azure Defender para OT, Sentinela
+    
+- SAP no Microsoft Azure
+    - CARGAs de trabalho SAP ACR: Nível de serviço 4 = Série MS dos Serviços em Nuvem, Série MS das Máquinas Virtuais, Série MS das Máquinas Virtuais Windows, Máquinas Virtuais Série MSv2, Máquinas Virtuais Série MSv2 série Windows, Anfitrião Dedicado série MS, Anfitrião Dedicado série MSv2, SAP HANA em Azure Large Instances,SAP Cloud Platform Alert Notification, Fábrica de Extensão da Plataforma NUVEM SAP - Kyma Runtime,SAP Cloud Platform Integration Suite - Mensagens Adicionais, SUÍTE DE Integração da Plataforma nuvem SAP - Standard Edition, SAP Cloud Platform Transport Management, SAP Embrace API Management,SAP Embrace Application Logging, SAP Embrace Application Runtime, SAP Embrace Business Application Studio, SAP Embrace Business Application Rules, SAP Embrace Business Integration, SAP Embrace Cloud Integration, SAP Embrace  SAP Abraçar inteligência de dados, SAP Abraçar mensagens empresariais, SAP Abraçar Fábrica de Extensão, tempo de execução sem servidor, SAP Abraçam Hana Cloud, SAP Abraçam a Autenticação de Identidade, SAP Abraçam Agendador de Emprego, SAP Abraçam MACC, SAP Abraçam Serviços Móveis,SAP Abraçam o Serviço de Loja de Objetos, SAP Abraçam Conectores Abertos, Portal DE Abraço SAP, Visibilidade do Processo SAP, SAP Embrace Web Analytics, SAP Embrace Workflow, SAP HANA, SAP Web IDE, Infraestruturas DeSmesta, Máquinas Virtuais MdSv2 Série, Máquinas Virtuais MdSv Windows 2
 
 ## <a name="next-steps"></a>Passos seguintes
 
