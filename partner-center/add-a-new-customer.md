@@ -9,12 +9,12 @@ author: parthp
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 682e941a01cb38accf67cde0625cb4e39b1d3017
-ms.sourcegitcommit: 09d2c10491244775e656b48fce35b5648262ce59
+ms.openlocfilehash: c1a84cf1d04ecc4648973e0bebc5384e741dfc59
+ms.sourcegitcommit: 663262f8986d03289e75c2649731736ee615213e
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/03/2021
-ms.locfileid: "123457651"
+ms.lasthandoff: 09/04/2021
+ms.locfileid: "123465624"
 ---
 # <a name="how-to-add-a-new-customer-record-in-partner-center"></a>Como adicionar um novo recorde de clientes no Partner Center
 
@@ -32,10 +32,10 @@ Este artigo descreve como adicionar um novo cliente no Partner Center. Estes pas
 - **Confirme o Acordo de Cliente da Microsoft**: Antes de poder esemcru nos seus clientes, tem de confirmar que aceitou o Acordo de Cliente da [Microsoft](confirm-customer-agreement.md).
 - **Utilize diferentes passos para os clientes *existentes***: Para clientes existentes, incluindo aqueles que já possuem registos de clientes no Partner Center através de um cenário [multicanal](multichannel.md) ou [multipartner,](multipartner.md) [solicite uma relação com eles](request-a-relationship-with-a-customer.md), em vez de seguir os passos aqui.
 - **Introduza informações detalhadas e precisas do cliente**: Para facilitar a verificação do cliente, certifique-se de que:
-  - Introduza o nome jurídico/oficial exato tal como aparece nos documentos oficiais
-  - Evite usar siglas ou formas curtas
-  - Não use nomes de testes
-  - Fornecer informações completas e exatas sobre endereços (por exemplo, detalhes de localização, cidade, estado, país e código postal/postal)
+  - Insira o nome legal/oficial exato tal como aparece nos documentos oficiais.
+  - Evite utilizar siglas ou formas curtas.
+  - Não use nomes de teste.
+  - Forneça informações completas e exatas sobre o endereço (por exemplo, detalhes da localização, cidade, estado, país e código postal/postal).
 
 ## <a name="to-add-a-new-customer-in-partner-center"></a>Para adicionar um novo cliente no Centro de Parceiros
 
