@@ -10,17 +10,47 @@ ms.custom:
 - announcement
 - references_regions
 ms.localizationpriority: high
-ms.date: 09/02/2021
-ms.openlocfilehash: 876f6cbd87e912b4cfaf2aef152bb7b71d0600e6
-ms.sourcegitcommit: 09d2c10491244775e656b48fce35b5648262ce59
+ms.date: 09/03/2021
+ms.openlocfilehash: 1f28e68d268aaf02a3e2350047b214c777b0d878
+ms.sourcegitcommit: 24b7e65548b5a9c37e782895d41383e9c018f5b7
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/03/2021
-ms.locfileid: "123457978"
+ms.lasthandoff: 09/07/2021
+ms.locfileid: "123501541"
 ---
 # <a name="september-2021-announcements"></a>Anúncios de setembro de 2021
 
 Esta página fornece os anúncios para o Microsoft Partner Center para setembro de 2021.
+
+________________
+## <a name="perpetual-software-and-software-subscriptions-price-lists-republished-to-fix-price-increases-in-russia"></a><a name="6"></a>Listas de preços de subscrições de software perpétuo e software reeditadas para corrigir aumentos de preços na Rússia
+
+### <a name="categories"></a>Categorias
+
+- Data: 2021-09-03
+- Ofertas/Mercados
+
+### <a name="summary"></a>Resumo
+
+As listas de preços de subscrições de software e software perpétuos publicadas a 1 de setembro de 2021 foram republicadas a 3 de setembro para corrigir uma questão de preços na Rússia.
+
+### <a name="impacted-audience"></a>Audiência impactada
+
+Fornecedores indiretos e parceiros de conta direta que transacionam subscrições de software e software perpétuos no programa Fornecedor de Soluções em Nuvem na Rússia.
+
+### <a name="details"></a>Detalhes
+
+As listas de preços de subscrições de software e software perpétuos publicadas no dia 1 de setembro tiveram um aumento de preço incorreto de 15,2% listado para todos os produtos.
+
+O aumento dos preços de ~15,2% entrará em vigor a **1 de outubro de 2021**, não em setembro. As tabelas de preços foram republicadas com a informação correta sobre os preços.
+
+Os parceiros que compraram produtos entre 1 de setembro e 3 de setembro serão cobrados pelos preços corrigidos, o que se reflete nas últimas tabelas de preços.
+
+### <a name="next-steps"></a>Passos seguintes
+
+- Os parceiros que transacionam subscrições de software perpétuo e software na Rússia devem descarregar a mais recente lista de preços para ver os preços corrigidos.
+- Para saber mais pormenores sobre os aumentos de preços que chegam em outubro, consulte este [anúncio.](https://news.microsoft.com/licensing-changes-at-microsoft-russia-2021/)
+
 ________________
 ## <a name="corrections-to-september-license-based-services-price-list-and-october-preview-for-microsoft-365-business-basic-usd"></a><a name="5"></a>Correções à lista de preços dos serviços baseados em licenças de setembro e pré-visualização de outubro para Microsoft 365 Empresas Basic (USD)
 
