@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 09/03/2021
-ms.openlocfilehash: 33d5c1e4879fab017cd1390fa041ca634762c837
-ms.sourcegitcommit: 24b7e65548b5a9c37e782895d41383e9c018f5b7
+ms.date: 09/06/2021
+ms.openlocfilehash: 4f92cd10c7f629604b100eff9b147f25c5920885
+ms.sourcegitcommit: 61a4425aad9985e3ff0aa567bbebb1ab75f50f51
 ms.translationtype: MT
 ms.contentlocale: pt-PT
 ms.lasthandoff: 09/07/2021
-ms.locfileid: "123501558"
+ms.locfileid: "123557450"
 ---
 # <a name="partner-center-announcements"></a>Anúncios do Centro de Parceiros
 
@@ -22,6 +22,7 @@ Saiba mais sobre atualizações importantes do Centro de Parceiros. Estas inform
 
 |**Categoria**|**Anúncios de setembro de 2021**|**Anunciado**|
 |---------|:---------|:---------|
+|Preparação|[Atestado de modo duplo e declaração adicional do revendedor](2021-september.md#7)|7 de setembro|
 |Ofertas e Mercados|[Listas de preços de subscrições de software perpétuo e software reeditadas para corrigir aumentos de preços na Rússia](2021-september.md#6)|3 de setembro|
 |Ofertas e Mercados|[Correções à lista de preços dos serviços baseados em licenças de setembro e pré-visualização de outubro para Microsoft 365 Empresas Basic (USD)](2021-september.md#5)|2 de setembro|
 |Capacidades|[Anunciando Intune por dispositivo para empresas para parceiros da CSP](2021-september.md#4)| 2 de setembro |

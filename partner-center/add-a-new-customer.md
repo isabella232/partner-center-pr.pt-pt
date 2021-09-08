@@ -1,7 +1,7 @@
 ---
 title: Como adicionar um novo recorde de clientes
 ms.topic: how-to
-ms.date: 04/27/2021
+ms.date: 09/06/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-customers
 description: Saiba como adicionar um novo recorde de clientes no Partner Center. Em seguida, pode vender as subscrições do cliente, gerir a faturação ou fornecer apoio ao cliente.
@@ -9,12 +9,12 @@ author: parthp
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: c1a84cf1d04ecc4648973e0bebc5384e741dfc59
-ms.sourcegitcommit: 663262f8986d03289e75c2649731736ee615213e
+ms.openlocfilehash: 44872dd4506f72fd8c7029cba9454ff3bfa6e22f
+ms.sourcegitcommit: 61a4425aad9985e3ff0aa567bbebb1ab75f50f51
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/04/2021
-ms.locfileid: "123465624"
+ms.lasthandoff: 09/07/2021
+ms.locfileid: "123557416"
 ---
 # <a name="how-to-add-a-new-customer-record-in-partner-center"></a>Como adicionar um novo recorde de clientes no Partner Center
 
@@ -40,19 +40,32 @@ Este artigo descreve como adicionar um novo cliente no Partner Center. Estes pas
 ## <a name="to-add-a-new-customer-in-partner-center"></a>Para adicionar um novo cliente no Centro de Parceiros
 
 1. No menu Partner Center, selecione **Clientes** e, em seguida, **selecione Adicionar cliente**.
-1. Se o seu cliente é uma instituição de ensino, veja [como criar um cliente de edução.](sell-to-education-customers.md)
+2. Se o seu cliente é uma instituição de ensino, veja [como criar um cliente de edução.](sell-to-education-customers.md)
 
-1. Na página **de informações** da Conta, insira os dados do cliente e as informações de contacto primários.
-  
-1. Se for um fornecedor indireto, selecione o revendedor indireto que pretende associar às subscrições deste cliente da lista.
+3. Na página **de informações** da Conta, insira os dados do cliente e as informações de contacto primários.
+   >[!IMPORTANT]
+   >Os parceiros são obrigados a atestar o seguinte:
+   >
+   >Confirmo que a minha organização está a agir como um Parceiro Indireto ao escolher um Revendedor e como Parceiro Direto na ausência de selecionar um revendedor
+   >
+   >Confirmo que não estou a revender produtos comprados dentro desta ordem a outros parceiros que estão ligados à minha organização-mãe.
 
-1. Quando terminar de introduzir as informações **necessárias,** selecione Seguinte: Subscrições .
+   >[!NOTE]
+   >As leis da UE/EFTA estabelecem que os parceiros que transacionam nesses países têm de declarar revendedores adicionais associados a uma transação. Aplicar-se-ão as seguintes regras:
+   >- Um revendedor inicial deve ser escolhido antes de quaisquer revendedores adicionais
+   >- Os revendedores adicionais não terão direito a quaisquer incentivos adicionais, ofertas, etc.
+   >- O vendedor adicional inscrito será validado para garantir que o ID MPN correto seja introduzido quando aplicável, e o revendedor assinou o MPA.
+   >- Até um máximo de 5 revendedores adicionais podem ser inscritos como parte da transação 
 
-1. Na página **Subscrições,** selecione a(s) oferta(s) que o seu cliente quer comprar de si, insira o número de licenças e, em seguida, selecione **Seguinte: Revisão**.
+4. Se for um fornecedor indireto, selecione o revendedor indireto que pretende associar às subscrições deste cliente da lista.
 
-1. Na página **'Revisão',** verifique se as suas entradas têm precisão e, em seguida, **selecione Enviar** por isso .
+5. Quando terminar de introduzir as informações **necessárias,** selecione Seguinte: Subscrições .
 
-1. Quando terminar de adicionar informações ao cliente e tiver adquirido as subscrições necessárias, selecione **'Fazer'.**
+6. Na página **Subscrições,** selecione a(s) oferta(s) que o seu cliente quer comprar de si, insira o número de licenças e, em seguida, selecione **Seguinte: Revisão**.
+
+7. Na página **'Revisão',** verifique se as suas entradas têm precisão e, em seguida, **selecione Enviar** por isso .
+
+8. Quando terminar de adicionar informações ao cliente e tiver adquirido as subscrições necessárias, selecione **'Fazer'.**
 
 ## <a name="company-registration-id-and-phone-number-required-for-some-countries"></a>ID de registo da empresa e número de telefone necessário para alguns países
 

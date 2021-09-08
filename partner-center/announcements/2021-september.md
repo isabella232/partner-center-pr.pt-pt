@@ -10,17 +10,73 @@ ms.custom:
 - announcement
 - references_regions
 ms.localizationpriority: high
-ms.date: 09/03/2021
-ms.openlocfilehash: 1f28e68d268aaf02a3e2350047b214c777b0d878
-ms.sourcegitcommit: 24b7e65548b5a9c37e782895d41383e9c018f5b7
+ms.date: 09/06/2021
+ms.openlocfilehash: 592b802c20fc3918731e4655fe4c0a0dba6531fc
+ms.sourcegitcommit: 61a4425aad9985e3ff0aa567bbebb1ab75f50f51
 ms.translationtype: MT
 ms.contentlocale: pt-PT
 ms.lasthandoff: 09/07/2021
-ms.locfileid: "123501541"
+ms.locfileid: "123557433"
 ---
 # <a name="september-2021-announcements"></a>Anúncios de setembro de 2021
 
 Esta página fornece os anúncios para o Microsoft Partner Center para setembro de 2021.
+
+________________
+## <a name="readiness-dual-mode-attestation-and-additional-reseller-declaration"></a><a name="7"></a>Prontidão: Atestado de modo duplo e declaração adicional do revendedor
+
+### <a name="summary"></a>Resumo
+
+Para ajudar os parceiros e clientes a gerir o seu negócio com base na confiança, estamos a exigir que os parceiros ateste que estão a agir como parceiros diretos ou indiretos ao utilizarem o mesmo ID do inquilino por transação.
+
+Também pedimos a todos os parceiros que transacionam nos países da UE/EFTA que declarem quaisquer revendedores adicionais (até um máximo de 5) que estejam envolvidos na transação.
+
+### <a name="categories"></a>Categorias
+
+- Data: 2021-09-07
+- Prontidão piloto para lançamento da WW que ocorre em dezembro
+
+### <a name="impacted-audience"></a>Audiência impactada
+
+Parceiros de conta direto da CSP e fornecedores indiretos que são parceiros diretos e indiretos
+
+Parceiros indiretos que transacionam nos países da UE/EFTA
+
+### <a name="details"></a>Detalhes
+
+A Microsoft tem confiança. Estamos empenhados em fornecer um método compatível, seguro e seguro para a transação de subscrições de clientes no programa CSP.
+
+A partir de 7 de setembro de 2021, vamos abrir um piloto para os parceiros terem a oportunidade de testar contra novos requisitos de atestado e alterações adicionais de revendedores (apenas UE/EFTA) que ocorram nas APIs Create Cart, Update Cart e Create Order. Por favor, note que estas alterações irão quebrar as experiências existentes para estas APIs. Por conseguinte, é fortemente avisado que os parceiros aproveitem a oportunidade para participar no piloto antes do lançamento completo em dezembro.
+
+As seguintes API's serão impactadas e os detalhes foram partilhados e atualizados em conformidade:
+
+- [Criar uma encomenda de cliente - Partner Center app developer](/partner-center/develop/create-an-order)
+- [Criar um carrinho - Desenvolvedor de aplicativos Partner Center](/partner-center/develop/create-a-cart)
+- [Atualizar um carrinho - Partner Center app developer](/partner-center/develop/update-a-cart)
+
+Os revendedores adicionais terão impacto nos parceiros que transacionam nos seguintes países da UE/EFTA:
+
+| Países da UE /EFTA | | |
+| ----- |----- | ----- |
+| Andorra | Grécia | Noruega |
+| Áustria | Gronelândia | Polónia |
+| Bélgica | Guernesey | Portugal |
+| Ilha Bouvet | Santa Sé (Cobre a Cidade do Vaticano) | Roménia |
+| Bulgária | Hungria | São Marino |
+| Croácia | Islândia | Eslováquia |
+| Chipre | Irlanda | Eslovénia |
+| Checa | Ilha de Man | Espanha |
+| Dinamarca | Itália | Svalbard e Jan Mayen |
+| Estónia | Jersey | Suécia |
+| Ilhas Faroé | Letónia | Suíça |
+| Finlândia | Listenstaine | Noruega |
+| França | Lituânia | Polónia |
+| Alemanha | Luxemburgo | Portugal |
+| Gibraltar | Malta | Roménia |
+| Mónaco | São Marino | Países Baixos |
+| Eslováquia | Reino Unido: TBD |
+
+Para participar no piloto, contacte o seu especialista em assuntos (Ali Khaki) e forneça o ID do inquilino parceiro para que possam ser adicionados ao voo.
 
 ________________
 ## <a name="perpetual-software-and-software-subscriptions-price-lists-republished-to-fix-price-increases-in-russia"></a><a name="6"></a>Listas de preços de subscrições de software perpétuo e software reeditadas para corrigir aumentos de preços na Rússia
