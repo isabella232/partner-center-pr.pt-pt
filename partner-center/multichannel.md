@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 169577361cfa7938609764c5b9b6b81cb0a667d78b7e0d04f183c1365fec7167
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: f5f4924111e4d83e4e07e38ccb61a324efeefb4d
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115696687"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960160"
 ---
 # <a name="multi-channel-support---using-other-partners-to-support-customer-subscriptions-purchased-elsewhere"></a>Suporte multicanal - usando outros parceiros para apoiar subscrições de clientes compradas em outros lugares
 

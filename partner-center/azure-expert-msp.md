@@ -9,12 +9,12 @@ author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: d19000e9aa006c619bb7c5923155f6b832d9b283c0d8df41b82f8a02aeb3ba6c
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 7246b2c56af25386cc81faf7c2fccdfda8d6905a
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115691366"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960370"
 ---
 # <a name="azure-expert-managed-services-provider-program"></a>Programa Azure Expert Managed Services Provider
 

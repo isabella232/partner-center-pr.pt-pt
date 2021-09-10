@@ -9,21 +9,21 @@ ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 08/06/2020
-ms.openlocfilehash: 376372c4a5d1fb25a1416c53ace68d2ca2d474cde15b514a4bb5329d7eddac21
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 627c6f8d09a904e7d988c4229ec10eeac38dc2e9
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115680724"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123959980"
 ---
-# <a name="manage-cancel-exchange-or-refund-microsoft-azure-reservations-for-customers"></a>Gerir, cancelar, trocar ou reembolsar reservas do Microsoft Azure para os clientes
+# <a name="manage-cancel-exchange-or-refund-microsoft-azure-reservations-for-customers"></a>Gerir, cancelar, trocar ou reembolsar reservas Microsoft Azure para clientes
 
 **Funções adequadas**: Agente administrador | Administração global | Agente helpdesk | Agente comercial | Administração de gestão de utilizadores
 
 Este artigo explica como gerir as reservas do Azure para um cliente, incluindo como cancelar uma reserva, trocar uma reserva ou solicitar um reembolso.
 
 > [!NOTE]
-> Este artigo aplica-se apenas aos parceiros do programa Cloud Solution Provider (CSP). Os clientes que utilizem outros tipos de subscrições (tais como, pay-as-you-go, individual, Microsoft Customer Agreement ou Enterprise Agreement) devem, em vez disso, ler [esta documentação de reservas Azure](/azure/cost-management-billing/reservations).
+> Este artigo aplica-se apenas aos parceiros do programa Fornecedor de Soluções em Nuvem (CSP). Os clientes que utilizem outros tipos de subscrições (como, por exemplo, pay-as-you-go, individual, Microsoft Customer Agreement ou Contrato Enterprise subscrições) devem, em vez disso, ler [esta documentação de reservas Azure](/azure/cost-management-billing/reservations).
 
 Para gerir as reservas Azure dos seus clientes após a compra, seleciona o cliente e a reserva que pretende gerir no Partner Center e, em seguida, efetua alterações na reserva no portal Azure.
 
@@ -35,7 +35,7 @@ Para gerir as reservas Azure dos seus clientes após a compra, seleciona o clien
 
     | **Selecionar**   | **Para**    |
     |:-----------------------------|:-----------------|
-    | **Descrição geral**   | Ver detalhes da reserva de um cliente, incluindo data de validade, âmbito e dados de utilização. **NOTA** Selecione **Reembolso** para criar um pedido de apoio para um reembolso com classificação profissional. Selecione **Exchange** para criar um pedido de suporte para trocar a parte não utilizada do seu termo de reserva.  
+    | **Descrição geral**   | Ver detalhes da reserva de um cliente, incluindo data de validade, âmbito e dados de utilização. **NOTA** Selecione **Reembolso** para criar um pedido de apoio para um reembolso com classificação profissional. Selecione **Exchange** para criar um pedido de apoio para trocar a parte não utilizada do seu termo de reserva.  
     | **Controlo de Acesso (IAM)**   | Gerir o acesso à informação de reserva do cliente.|
     | **Configuração**   | Altere o âmbito da reserva e/ou a subscrição do Azure a que a reserva está associada.    |
     | **Propriedades**   | Veja as propriedades da reserva e copie para a área de transferência o ID de reserva e o ID do pedido de reserva. **NOTA** O suporte poderá pedir-lhe o ID da reserva e o ID da encomenda de reservas quando solicitar apoio em nome de um cliente.    |
@@ -57,9 +57,9 @@ Veja abaixo os detalhes e taxas de cancelamento.
 |**Data de cancelamento**<br> (dias)   |**Utilização**    |**Crédito**  |**Rescisão antecipada**<br> taxa    |**Limite máximo de reembolso** | 
 |:----------------------------------|:------------|:-----------|:--------------------------------|:--------------|
 |5 ou menos                         | No          | 100%       | No                              | $50.000 USD   |
-|5 ou menos                         | Yes         | Pró-classificado  | No                              | $50.000 USD   |
-|Mais de 5                        | No          | Pró-classificado  | 12%                             | $50.000 USD   |
-|Mais de 5                        | Yes         | Pró-classificado  | 12%                             | $50.000 USD   |
+|5 ou menos                         | Yes         | Pro-rated  | No                              | $50.000 USD   |
+|Mais de 5                        | No          | Pro-rated  | 12%                             | $50.000 USD   |
+|Mais de 5                        | Yes         | Pro-rated  | 12%                             | $50.000 USD   |
 
 ### <a name="how-exchanges-work"></a>Como funcionam as trocas 
 
@@ -94,7 +94,7 @@ Para apresentar um pedido de apoio para reembolso ou troca em nome dos seus clie
 
 |**Para obter informações sobre**   |**Leia isto**    |
 |:-----------------------------|:-----------------|
-|Reservas Azure em visão geral da CSP  | [Vender Instâncias Reservadas microsoft Azure](azure-reservations.md) |
+|Reservas Azure em visão geral da CSP  | [Venda Microsoft Azure Instâncias Reservadas](azure-reservations.md) |
 |Comprar reservas da Azure para os seus clientes no Partner Center   | [Comprar reservas Azure](azure-reservations-buying.md) |
 |Determine o tamanho VM correto e verifique a utilização do VM do cliente   | [Tamanho VM para o máximo uso da reserva Azure](azure-usage.md)   |
 |Compras Reservas Azure usando a API do Centro Parceiro | [Comprar Azure Reservado VM Instances](/partner-center/develop/purchase-azure-reservations) na documentação do desenvolvedor do Partner Center   |

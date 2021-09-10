@@ -9,12 +9,12 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 29d472b921b9f1f6bf903e49ca0a8cc781617e8c9029f55a61ddf19e578cf7e0
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 967e5e3278e63f9797b28d4c8a856e087755c1e4
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115692048"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123961110"
 ---
 # <a name="create-a-partner-logo-certified-letter-or-award-logo"></a>Crie um logotipo de parceiro, letra certificada ou logotipo de prêmio
 

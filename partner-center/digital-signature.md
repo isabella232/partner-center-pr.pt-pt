@@ -9,12 +9,12 @@ author: keramp
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4a691a891ca813cea930daadeabc647c98743493471b169707e82a3baa4f5fb3
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: c9a910468c9f743cac848cbd9392f3ff64827cec
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115689408"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123961320"
 ---
 # <a name="view-digitally-signed-invoices"></a>Ver faturas assinadas digitalmente
 

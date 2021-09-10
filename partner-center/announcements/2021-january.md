@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 07/02/2021
-ms.openlocfilehash: cf8a3467a5eb1a5fdf4b317cb588e9e0a1ae435ff6349c7a65ec1782a6ca2bed
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 2920de80d9097fac04cbc344fce82a262a099b7d
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115688050"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960729"
 ---
 # <a name="january-2021-announcements"></a>Anúncios de janeiro de 2021
 

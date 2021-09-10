@@ -3,18 +3,18 @@ title: Encontre os seus benefícios
 ms.topic: how-to
 ms.date: 11/23/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
+ms.subservice: partnercenter-benefits
 description: Saiba como encontrar os seus benefícios MPN no painel de instrumentos partner Center. Inclui informações sobre como encontrar o seu ID de acesso e ID do contrato para benefícios técnicos.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 85a6a43a1e28a7a6917361dc1fc74cc3d5e8d502
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: b7170bc54611a2b218e741a5e16dd9285187e6c9
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276574"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123961109"
 ---
 # <a name="locate-your-microsoft-partner-network-benefits"></a>Localize os seus benefícios do Microsoft Partner Network 
 
@@ -23,7 +23,7 @@ ms.locfileid: "112276574"
 Este artigo diz aos membros da Microsoft Partner Network (MPN) como encontrar os seus benefícios MPN no painel de instrumentos do Partner Center. Estas informações incluem como encontrar os IDs específicos de suporte ao produto da sua empresa, tais como ID do Contrato e ID de acesso, associados a benefícios técnicos.
 
 >[!NOTE]
-> Se a sua adesão à Microsoft Partner Network ainda estiver no Partner Membership Center (PMC), poderá ter de contactar outro recurso como o Partner Frontline para o ajudar a visualizar ou ativar certos benefícios. Para mais detalhes, consulte [ativar os benefícios técnicos fora do Partner Center](partner-membership-center-tech-benefits-activate.md).
+> Se a sua adesão à Microsoft Partner Network ainda estiver no Partner Membership Center (PMC), poderá ter de contactar outro recurso como o Partner Frontline para o ajudar a visualizar ou ativar certos benefícios. Para mais detalhes, consulte [ativar os benefícios técnicos fora do Partner Center](./partner-membership-center-retirement-faq.md).
 
 ## <a name="find-your-mpn-benefits-in-partner-center"></a>Encontre os seus benefícios MPN no Partner Center
 
@@ -62,4 +62,4 @@ Para saber como pode utilizar estes benefícios, consulte o [Guia de Utilizaçã
 
 - [Colaborador associado Microsoft Learn contas](ms-learn-associate.md)
 - [Gerencie os benefícios e ofertas da Rede microsoft partner](manage-your-partner-network-benefits.md)
-- [Ativar benefícios técnicos para membros do Partner Membership Center (PMC)](partner-membership-center-tech-benefits-activate.md)
+- [Ativar benefícios técnicos para membros do Partner Membership Center (PMC)](./partner-membership-center-retirement-faq.md)

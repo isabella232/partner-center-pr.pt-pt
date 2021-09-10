@@ -8,12 +8,12 @@ description: Venda Minecraft subscrições da Education Edition a clientes de ed
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
-ms.openlocfilehash: 9ece551c2ce29ca24607611252889b5df397447dd49f3f795f6ac42ed2a6b3e1
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 86efabf41d8a1d22b08a7e2ceae5fb47e2bd42c0
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115694103"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960620"
 ---
 # <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>Venda Minecraft: Education Edition assinaturas a clientes de educação
 

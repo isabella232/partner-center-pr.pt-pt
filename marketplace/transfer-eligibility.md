@@ -6,12 +6,12 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: 22c53238fd74501f32a56d66f15133cbbe8765cffe67a04c4f66779c15b16c37
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 4b235bd462915fc205813ae86e92f98b4fd49fe4
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115688322"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123936971"
 ---
 # <a name="transfer-eligibility-for-a-subscription-between-billing-accounts"></a>Elegibilidade de transferência para uma subscrição entre contas de faturação
 

@@ -8,12 +8,12 @@ description: Obtenha respostas a perguntas sobre a aposentação do Centro de Ad
 author: jasongroce
 ms.author: misherma
 ms.localizationpriority: high
-ms.openlocfilehash: 5569cc46a52a332dfee5278ee2fa8d7461262b9fd49d94b99fd682dc3f913820
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 9f46389ac0c1174690090d571305d6163cabb09e
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115694018"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960329"
 ---
 # <a name="partner-membership-center-retirement-faq"></a>Parceiro Centro de adesão aposentadoria FAQ
 **Funções adequadas**: Administração global | Administração de gestão de utilizadores

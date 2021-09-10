@@ -10,11 +10,11 @@ ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 47592fb0d0a81a827982e48b35381c59bb079c66
-ms.sourcegitcommit: 8fe3b0f22d548bc6bcc1b87636216cd4d42b3ede
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/17/2021
-ms.locfileid: "122297220"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123959920"
 ---
 # <a name="partner-center-has-two-levels-of-accounts-for-mpn-partners"></a>Partner Center tem dois níveis de contas para parceiros MPN
 

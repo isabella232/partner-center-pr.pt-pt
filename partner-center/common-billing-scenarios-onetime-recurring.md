@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d79c6d39760aa4bc18eca51654b669e2b81b29a8187aadfbaf79601ee537b15b
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 44594df78ba99a3762549b916265de9faa667e7b
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115682288"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960070"
 ---
 # <a name="partner-center-billing-scenarios-for-one-time-and-select-recurring-purchases"></a>Cenários de faturação do Partner Center para uma única vez e selecione compras recorrentes
 

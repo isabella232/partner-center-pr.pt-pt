@@ -9,11 +9,11 @@ ms.subservice: partnercenter-marketplace-publisher
 ms.topic: how-to
 ms.date: 08/05/2021
 ms.openlocfilehash: 4f83d5c85f0316ad5c9d9ad75ca6519b5940146f
-ms.sourcegitcommit: 38afe7e35e3dce4f35cf7352cc98e3d53e979a62
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "122752091"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123937036"
 ---
 # <a name="purchase-a-saas-offer-in-azure-portal"></a>Comprar uma oferta SaaS no portal Azure
 

@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bbe492bbcb1ad17c507176e1080f81f01597b98ee48caacb5e8a1ceef55dd65b
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 93706ee18acac092c7c6b01b9d3f6e4786a0867e
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115689445"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960150"
 ---
 # <a name="how-csp-program-partners-can-sell-subscriptions-to-customers"></a>Como os parceiros de programas da CSP podem vender subscrições a clientes
 

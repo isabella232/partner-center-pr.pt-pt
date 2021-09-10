@@ -9,12 +9,12 @@ author: billlinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 21a6ed65f5aac8d3d797b5189333a2e505ecba2179fa8f4f041af152e01a4db8
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 9765f180e60154dc1a3e9be6160157e6d4248695
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115683648"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123961130"
 ---
 # <a name="manage-marketplace-rewards-in-partner-center--activate-marketing-sales-and-technical-benefits"></a>Gerir prémios de marketplace no Partner Center & ativar marketing, vendas e benefícios técnicos
 

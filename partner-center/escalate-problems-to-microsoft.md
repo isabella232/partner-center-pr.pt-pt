@@ -9,12 +9,12 @@ ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/18/2020
-ms.openlocfilehash: d86dc78deba8f16971d2c52cbbeb80478120c60bb0f35c24c60595cc9082e47b
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 276747cffb3007e5403cb8238b0540fe191e34cb
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115690839"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960609"
 ---
 # <a name="escalate-problems-to-microsoft-and-learn-which-issues-are-more-suited-to-microsoft-escalation"></a>Aumente os problemas para a Microsoft e saiba quais os problemas mais adequados à escalada da Microsoft  
 

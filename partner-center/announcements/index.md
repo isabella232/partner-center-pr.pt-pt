@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 09/06/2021
-ms.openlocfilehash: 4f92cd10c7f629604b100eff9b147f25c5920885
-ms.sourcegitcommit: 61a4425aad9985e3ff0aa567bbebb1ab75f50f51
+ms.date: 09/07/2021
+ms.openlocfilehash: 61bfa952df0ea0354f0adbb594f5422f913d9375
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/07/2021
-ms.locfileid: "123557450"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "124343143"
 ---
 # <a name="partner-center-announcements"></a>Anúncios do Centro de Parceiros
 
@@ -22,6 +22,7 @@ Saiba mais sobre atualizações importantes do Centro de Parceiros. Estas inform
 
 |**Categoria**|**Anúncios de setembro de 2021**|**Anunciado**|
 |---------|:---------|:---------|
+|Preparação|[Novas regras de validação para nome da empresa e endereço de e-mail no dia 22 de setembro](2021-september.md#8)|7 de setembro|
 |Preparação|[Atestado de modo duplo e declaração adicional do revendedor](2021-september.md#7)|7 de setembro|
 |Ofertas e Mercados|[Listas de preços de subscrições de software perpétuo e software reeditadas para corrigir aumentos de preços na Rússia](2021-september.md#6)|3 de setembro|
 |Ofertas e Mercados|[Correções à lista de preços dos serviços baseados em licenças de setembro e pré-visualização de outubro para Microsoft 365 Empresas Basic (USD)](2021-september.md#5)|2 de setembro|

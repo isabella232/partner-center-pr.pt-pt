@@ -3,17 +3,17 @@ title: Recursos de licenciamento da Microsoft
 ms.topic: article
 ms.date: 02/25/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-benefits
 description: Como parceiro da Microsoft, pode ter dúvidas sobre a utilização de diferentes programas de licenciamento da Microsoft. Este artigo oferece recursos que podem ajudar.
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
-ms.openlocfilehash: 7343e6b234fed9107689f451d23cd3a74c0c389f
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 3d6d6cdcb105b59d18b423ef6f006c7c7d741d56
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109856088"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123961260"
 ---
 # <a name="guide-to-licensing-resources-for-microsoft-partners"></a>Guia para licenciar recursos para parceiros da Microsoft 
 
@@ -21,7 +21,7 @@ ms.locfileid: "109856088"
 
 Este artigo partilha recursos que podem ajudar a responder a questões de licenciamento de parceiros.
 
-Como parceiro da Microsoft, poderá estar envolvido num ou mais programas de licenciamento, canais ou acordos. Se trabalhar no painel de instrumentos do Partner Center, isto pode incluir programas como o programa Cloud Solution Provider (CSP) ou o programa Microsoft Partner Network (MPN). Outros programas de licenciamento incluem licenças do Enterprise Agreement (EA), Licenciamento de Volume (VL), o programa de licenças OEM, o programa de formação ou vouchers de Garantia de Software ou o programa open licensing.
+Como parceiro da Microsoft, poderá estar envolvido num ou mais programas de licenciamento, canais ou acordos. Se trabalhar no painel de instrumentos do Partner Center, isto pode incluir programas como o programa Fornecedor de Soluções em Nuvem (CSP) ou o programa Microsoft Partner Network (MPN). Outros programas de licenciamento incluem licenças de Contrato Enterprise (EA), Licenciamento de Volume (VL), o programa de licenças OEM, o programa de formação ou vouchers de Garantia de Software ou o programa open licensing.
 
 Cada programa tem acordos e termos específicos associados. Da mesma forma, os produtos específicos que utiliza podem ter contratos de licença adicionais e específicos do produto associados à sua utilização.
 
@@ -67,9 +67,9 @@ Se tiver questões específicas sobre o cumprimento do licenciamento, pagamento 
 |Para efetuar isto  | Consulte  |
 |:------------------|:--------------- |
 |Responder a perguntas sobre meios de instalação no programa de licenciamento de volume. | [Página de cumprimento de licenciamento](https://www.microsoft.com/licensing/existing-customer/fulfillment.aspx)  |
-|Resposta questões sobre serviços online para os seguintes programas de inscrição: Enterprise Agreement (EA), Server and Cloud Registration (SCE) e Open Value Subscription (OVS).  | [Formação e recursos do Microsoft Volume Licensing Center](https://www.microsoft.com/Licensing/existing-customer/vlsc-training-and-resources.aspx)  |
+|Responder a perguntas sobre serviços online para os seguintes programas de inscrição: Contrato Enterprise (EA), Inscrições no Servidor e na Nuvem (SCE) e Subscrição de Valor Aberto (OVS).  | [Formação e recursos do Microsoft Volume Licensing Center](https://www.microsoft.com/Licensing/existing-customer/vlsc-training-and-resources.aspx)  |
 |Responder a perguntas sobre serviços online associados ao Microsoft Products and Services Agreement (MPSA).  | [Formação e recursos do Microsoft Business Center](https://www.microsoft.com/licensing/existing-customer/business-center-training-and-resources.aspx#tab=2) ou a [visão geral do licenciamento do MPSA](https://www.microsoft.com/licensing/mpsa/default)  |  
-|Responder a perguntas sobre serviços online associados ao programa Cloud Solution Provider (CSP).  | [Como vender assinaturas CSP a clientes](customer-subscriptions.md)  |
+|Responder a perguntas sobre serviços online associados ao programa Fornecedor de Soluções em Nuvem (CSP).  | [Como vender assinaturas CSP a clientes](customer-subscriptions.md)  |
 |Responda a perguntas sobre opções de pagamento e financiamento da Microsoft.  | [Programa de Financiamento da Microsoft FAQ](https://download.microsoft.com/download/3/9/0/390DF0B3-8B15-4E65-AF5E-71A7280E7682/Microsoft-Financing-Program-FAQ-Customer_en-US.pdf)  |
 
 ## <a name="more-resources-to-help-with-price-lists-customer-deals-license-activation-or-credits"></a>Mais recursos para ajudar com listas de preços, ofertas de clientes, ativação de licenças ou créditos
@@ -82,7 +82,7 @@ O seu fornecedor indireto (para o programa CSP) ou o seu distribuidor de program
 |Ver preços do programa CSP e ofertas do painel de instrumentos partner Center *(deve ser inscrito no programa CSP para ver este dashboard)*  |[Preços e ofertas de preços da CSP ou documentos](pricing-and-offers.md) [e recursos da CSP](csp-documents-and-learning-resources.md) |
 |Explore materiais de marketing para ajudar com um negócio de clientes  | [Materiais de prontidão do parceiro MPN](https://partner.microsoft.com/asset#/?type=marketing-campaigns&area=mrkt)  |
 |Obtenha ajuda da Microsoft Technical Presales and Deployment Services para um negócio de clientes ou caso online  | [Visão geral dos Serviços técnicos de pré-venda e serviços de implantação](https://partner.microsoft.com/training/technical-presales-deployment-services) ou [visão geral do suporte](https://support.microsoft.com/help/3121537/using-technical-presales-and-deployment-services)  |
-|Saiba como ativar o Microsoft Azure em Open Licensing   | [Ativação de serviço on-line para programas abertos FAQ](/licensing/online-service-activation-faq)  |
+|Saiba como ativar Microsoft Azure em Licenciamento Aberto   | [Ativação de serviço on-line para programas abertos FAQ](/licensing/online-service-activation-faq)  |
 |Como e quando calcular e solicitar um crédito SLA da Microsoft para clientes afetados por uma paralisação  | [Solicitando um crédito SLA para uma paralisação](request-credit.md)   |
 |Obtenha ajuda da comunidade parceira da Microsoft  | [Fórum comunitário parceiro da Microsoft](https://www.microsoftpartnercommunity.com)  |
 

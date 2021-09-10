@@ -9,12 +9,12 @@ author: petand123
 ms.author: v-petand
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2d8464b93f6f3215043775496baacc8c6abd907bf614db78725814c9bea59229
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 73a02a0a6cad28939d21800c726811c8969ce9a2
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115690907"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123961250"
 ---
 # <a name="manage-licensing-in-marketplace-offers"></a>Gerir licenciamento em ofertas de marketplace
 
@@ -35,7 +35,7 @@ Antes de iniciar este processo, deve familiarizar-se com o básico do mercado co
 |-------|--------|
 |Planos de mercado comercial | [Planos e preços para ofertas de mercado comercial](/azure/marketplace/plans-pricing)    |
 |Ofertas de mercado comercial  | [Tipos de listagem](/azure/marketplace/determine-your-listing-type)    |
-|Contas de mercado comercial |  [Criar uma conta de mercado comercial no Partner Center](/azure/marketplace/create-account) |
+|Contas de mercado comercial |  [Criar um a conta do marketplace comercial no Centro de Parceiros](/azure/marketplace/create-account) |
 
 ### <a name="determine-your-offer-id"></a>Determine o seu ID de oferta
 

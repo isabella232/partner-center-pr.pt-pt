@@ -8,12 +8,12 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-payouts
 ms.localizationpriority: medium
 ms.date: 09/30/2020
-ms.openlocfilehash: 2c693fb9f4d134f3cc7e4deee0afb5aaf8affc01e20b6d407d93bcddd5f3f67a
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: cc32ed034f14603c92086d03dd9d43ee7c79b66e
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115695888"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123961546"
 ---
 # <a name="understand-irs-tax-forms-issued-by-microsoft"></a>Entender formulários do IRS emitidos pela Microsoft
 
@@ -57,7 +57,7 @@ Os formulários fiscais serão enviados a partir dos seguintes endereços:
 
 | Se sou um programador dos Estados Unidos a vender aplicativos pagos e...   | Devo receber este formulário: |
 |------------------------|-----------------------|
-| Tive **mais de 200 vendas** de aplicações com um valor total de compra destas vendas **superior $ $20.000 USD** no ano fiscal aplicável (**sem** contar com as vendas feitas no Brasil e na China através do Microsoft Store no Windows 10.)| **1099-K:**<br/>Filer: Microsoft Corporation<br/>EIN: \* \* \* \* \* 4442<br/><br/>**Importante:** O formulário 1099-K contém valores brutos de **compra,** não pagamentos feitos a si.| 
+| Tive **mais de 200 vendas** de aplicações com um valor total de compra destas vendas **superior a $20.000 USD** no ano fiscal aplicável (**sem** contar com as vendas feitas no Brasil e na China através do Microsoft Store no Windows 10.)| **1099-K:**<br/>Filer: Microsoft Corporation<br/>EIN: \* \* \* \* \* 4442<br/><br/>**Importante:** O formulário 1099-K contém valores brutos de **compra,** não pagamentos feitos a si.| 
 | Recebi **pelo menos 10 dólares em pagamentos** (i) vendas de aplicações efetuárias feitas no Brasil e na China através das vendas Microsoft Store no Windows 10 ou (ii) no mercado Minecraft.<br/><br/>**OR**<br/><br/>Recebi pelo menos 600 dólares em pagamentos não relacionados com as vendas de aplicações da Microsoft no ano fiscal aplicável (por exemplo, pagamentos de incentivos ou pagamentos de um concurso ou promoção)| **1099-MISC:**<br/>Pagador: Microsoft Corporation<br/>EIN: \* \* \* \* \* 4442<br/><br/>**Importante:** Algumas entidades empresariais não receberão formulários 1099-MISC, independentemente dos montantes de pagamento recebidos da Microsoft.  Consulte o seu profissional fiscal para mais informações.| 
 | Nenhum dos acima se aplicam.| Nenhuma |
 | <br/><br/>**Se eu for um programador dos Estados Unidos a vender anúncios em apps e...** |<br/><br/>**Devo receber este formulário:** |

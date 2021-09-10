@@ -8,12 +8,12 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: 3ed33f28f68f980d916832ab7cab9e09cc06d16c33c1b62a1bcf9fcde40629a2
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: d99de8ed53ae6ed7fa094f6da7a8947c1bcfccb9
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115683223"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960550"
 ---
 # <a name="manage-incentives-customer-associations"></a>Gerir incentivos associações de clientes
 

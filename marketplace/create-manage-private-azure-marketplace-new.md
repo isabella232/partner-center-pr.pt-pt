@@ -7,11 +7,11 @@ author: msjogarrig
 ms.author: jogarrig
 ms.date: 08/10/2021
 ms.openlocfilehash: 74550d814657a117f62d1e3eae45d46bae040356
-ms.sourcegitcommit: 815760499700bf2c947550524cbddd091622081f
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "121915074"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123936916"
 ---
 # <a name="create-and-manage-private-azure-marketplace-collections-in-the-azure-portal"></a>Criar e gerir coleções Private Azure Marketplace no portal Azure
 

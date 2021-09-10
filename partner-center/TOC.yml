@@ -413,7 +413,7 @@
     - name: Faturação para ofertas do marketplace
       href: csp-commercial-marketplace-billing.md
       displayName: 'invoice, csp'
-    - name: Request an SLA credit from Microsoft (Pedir um crédito do SLA à Microsoft)
+    - name: Solicite um crédito à Microsoft
       href: request-credit.md
     - name: Ver assinaturas digitais - Centro de Parceiros Índia
       href: digital-signature.md

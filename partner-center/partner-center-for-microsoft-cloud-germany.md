@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 77e8c7de772172f6c8e60aeb7a591ea3646c4aa7f3ee19e4bc210eb56682966c
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 4389c02dfcb382abf655b0e8de7edec7356f010f
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115693320"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960780"
 ---
 # <a name="partner-center-for-microsoft-cloud-germany-for-partners-selling-to-customers-in-eu--efta-countries"></a>Partner Center para a Microsoft Cloud Germany para parceiros que vendem a clientes em países da UE & EFTA
 

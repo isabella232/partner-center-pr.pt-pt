@@ -2,19 +2,19 @@
 title: Benefícios MPN - Pré-venda técnica e implantação (TPD)
 description: Conheça os benefícios da Microsoft Partner Network (MPN) para serviços técnicos de pré-venda e implantação (TPD)
 ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
+ms.subservice: partnercenter-benefits
 ms.topic: article
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 03/30/2021
-ms.openlocfilehash: bf29df94a7a59e5a022c7c6407da27b7202547db
-ms.sourcegitcommit: 09eabb559aae25518caf3f2a59ef16a3e123c207
+ms.openlocfilehash: ded4aa0d63e73e52a7f8e2865aa30a14208f70df
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "112490007"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960339"
 ---
 # <a name="explore-technical-presales-and-deployment-services-tpd"></a>Explore as Pré-vendas Técnicas e os serviços de Implantação (TPD) 
 
@@ -26,7 +26,7 @@ Conheça os benefícios da Microsoft Partner Network (MPN) para os serviços té
 
 Utilize o TPD para consultas personalizadas remotas para construir as suas capacidades técnicas mais rapidamente para aumentar as vendas, implementar de forma mais eficaz e acelerar o desenvolvimento de aplicações. [Saiba mais](https://aka.ms/TPD).
 
-Todas as soluções Cloud ou Hybrid são suportadas, para além das instalações do Windows 10, Windows Server e Microsoft SQL Server. 
+Todas as soluções Cloud ou Hybrid são suportadas, além de Windows 10 no local, Windows Server e Microsoft SQL Server. 
 
 - Parceiros com ofertas gold, silver e action pack podem usar Horas de Aconselhamento de Parceiros para consultas. 
 
@@ -61,14 +61,14 @@ Inscreva-se em qualquer conta de utilizador associada à MPN para **[criar um pe
 ## <a name="in-scope-products-and-services"></a>In-Scope produtos e serviços
 
 Os seguintes produtos e serviços estão em aplicação para a TPD:
-- **Microsoft 365**: Todos os componentes do Microsoft Office 365, tais como Microsoft Teams, Exchange Online, SharePoint Online, OneDrive, Yammer, Project Online, Skype for Business Server 2019, Enterprise Mobility + Security, Microsoft Intune, Azure Ative Directory, Azure Information Protection
-  - *Fora do âmbito: Servidores de Escritório exclusivamente no local - Exchange e SharePoint*
-- **Aplicações empresariais**: Microsoft Dynamics 365 (online), Microsoft Power Platform (Power Apps, Power Automamate, Power BI)
+- **Microsoft 365**: Todos os componentes Microsoft Office 365, tais como Microsoft Teams, Exchange Online, SharePoint Online, OneDrive, Yammer, Project Online, Skype para Empresas Server 2019, Enterprise Mobility + Security, Microsoft Intune, Azure Ative Directory, Azure Information Protection
+  - *Fora do âmbito: Exclusivamente no local Office Servidores – Exchange e SharePoint*
+- **Business Applications**: Microsoft Dynamics 365 (online), Microsoft Power Platform (Power Apps, Power Automate, Power BI)
   - *Fora do âmbito: Versões exclusivamente no local da Dynamics 365, GP, SL, AX, NAV*
-- **Microsoft Azure**: Todas as soluções e serviços relacionados da Microsoft Azure, tais como infraestruturas como um serviço, plataforma como um serviço, Plataforma de Dados, BI Analytics, Serviços Cognitivos, Azure Machine Learning, Azure Stack
-- **Servidor Windows e SQL Server**: Suporte mainstream, tal como regido pelo ciclo de vida do **[produto)](/lifecycle/policies/fixed)**
-  - O System Center inclui produtos relacionados, como o System Center Configuration Manager (SCCM), se estiver relacionado com cenários em nuvem ou híbridos
-- **Windows 10**: sistema operativo Windows 10, dispositivos, aplicações universais
+- **Microsoft Azure**: Todas as soluções Microsoft Azure e serviços conexos, tais como infraestruturas como um serviço, plataforma como um serviço, Plataforma de Dados, BI Analytics, Serviços Cognitivos, Azure Machine Learning, Azure Stack
+- **Windows Server e SQL Server**: Suporte mainstream, tal como regido pelo ciclo de vida do **[produto)](/lifecycle/policies/fixed)**
+  - System Center inclui produtos relacionados como System Center Configuration Manager (SCCM), se relacionados com cenários em nuvem ou híbridos
+- **Windows 10**: Windows 10 sistema operativo, dispositivos, aplicações universais
 - **Produtos em Visualização Privada ou Pública**: A ajuda é prestada numa base de melhores esforços, para ambientes não produtivos e sem garantias sobre disponibilidade de informação ou tempo de resposta
 
 ## <a name="submit-a-technical-presales-and-deployment-services-request"></a>Apresentar um pedido de pré-venda técnica e serviços de implantação 
@@ -80,7 +80,7 @@ Para ver os seus benefícios técnicos no Partner Center:
 1. Inscreva-se com a sua conta associada à MPN no [painel de instrumentos](https://partner.microsoft.com/dashboard)do Centro de Parceiros . 
 
    > [!NOTE]
-   > Se a sua conta estiver apenas associada ao programa Cloud Solution Provider (CSP) e não estiver associada à MPN, verá uma mensagem de erro "Não está autorizado para esta ação". Deve ter uma conta associada à MPN.
+   > Se a sua conta estiver apenas associada ao programa Fornecedor de Soluções em Nuvem (CSP) e não estiver associada à MPN, verá uma mensagem de erro "Não está autorizado para esta ação". Deve ter uma conta associada à MPN.
 
 2. Expandir **benefícios** no menu de navegação à esquerda, selecione **benefícios técnicos**. A página de benefícios técnicos aparece com uma lista de benefícios técnicos de suporte disponíveis para as suas ofertas de subscrição Gold, Silver ou Microsoft Action Pack. 
 
@@ -106,6 +106,6 @@ Para ver os seus benefícios técnicos no Partner Center:
 6. A página de confirmação mostra o número de pedido de suporte e descrição. Também receberá um e-mail de confirmação do Partner Center com o número do caso.
 
 ## <a name="next-steps"></a>Passos seguintes
-[Suporte Técnico para instalações ou produtos cloud](/mpn-benefits-technical-support.md)
+[Suporte Técnico para instalações ou produtos cloud](mpn-benefits-technical-support.md)
 
 [Gerencie os benefícios e ofertas da Rede microsoft partner](manage-your-partner-network-benefits.md)

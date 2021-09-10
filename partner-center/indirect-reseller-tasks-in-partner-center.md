@@ -10,11 +10,11 @@ author: vinayks
 ms.author: vinayks
 ms.date: 08/13/2021
 ms.openlocfilehash: fefafae2f1dd81e314a4d37a2170fe527355f75e
-ms.sourcegitcommit: b2b04afce99412870b451878499e002e17e7b636
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/16/2021
-ms.locfileid: "122226815"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960400"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Saiba como associar-se a fornecedores indiretos no programa Fornecedor de Soluções em Nuvem
 

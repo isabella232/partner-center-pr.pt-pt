@@ -9,12 +9,12 @@ author: kbangalore
 ms.author: kiranban
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 18ffd80e1a05ef5e6120828341dd9f4e8ec172dab64ace423b5f5148e6ea999c
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 84448566bb3a5d4ef8655ccfee86e7d39f4a6642
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115695769"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123961559"
 ---
 # <a name="restore-a-suspended-partner-center-account---learn-why-it-happens-and-what-to-do-about-it"></a>Restaurar uma conta do Centro de Parceiros suspensa – saiba porque acontece e o que pode fazer
 
@@ -50,4 +50,4 @@ Para assistência adicional na reativação da sua conta, contacte [o Suporte](h
 
 - [Verifique o perfil do seu parceiro](update-your-partner-profile.md)
 
-- [Verifique as informações da sua conta quando se inscrever num novo programa do Partner Center](verification-responses.md)
+- [Verificar as informações da conta ao inscrever-se num novo programa do Centro de Parceiros](verification-responses.md)

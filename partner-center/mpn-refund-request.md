@@ -8,12 +8,12 @@ ms.subservice: partnercenter-benefits
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: d3b53d1fefa677b0624c39beb0437156a70302cebf60dacbdea862327022a497
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: b7fe4ae33160a4f6b8da816d2e18d8695c656de4
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115694630"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123961430"
 ---
 # <a name="request-a-refund-for-an-mpn-benefit"></a>Solicitar um reembolso para um benefício MPN
 

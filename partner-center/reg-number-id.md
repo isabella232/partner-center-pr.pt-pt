@@ -10,11 +10,11 @@ ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 285a3c880d29f28d7dbe02224fe0bb139bd0cd04
-ms.sourcegitcommit: 8fe3b0f22d548bc6bcc1b87636216cd4d42b3ede
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/17/2021
-ms.locfileid: "122297118"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960650"
 ---
 # <a name="registration-id-number-information"></a>Informação do número de registo
 

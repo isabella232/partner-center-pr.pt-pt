@@ -10,11 +10,11 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: efb76953b05bfb10a18657155349e267ee84f456
-ms.sourcegitcommit: 42238e2ce36725631f542887c9112593d701ca9c
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/20/2021
-ms.locfileid: "122621707"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123961479"
 ---
 # <a name="create-and-manage-inbound-opportunities-routing-rules"></a>Criar e gerir regras de encaminhamento de oportunidades de entrada
 
@@ -66,8 +66,8 @@ Abaixo da tabela mostra o resumo de tipos de soluções que pode sobrepor
 | **Tipo** | **Pode anular?** |
 |-------|-------|
 |Predefinição| No |
-|Todos os mercados| Sim|
-|Todas as soluções| Sim|
+|Todos os mercados| Yes|
+|Todas as soluções| Yes|
 |Uma solução específica e uma combinação específica do mercado| No|
 
 > [!Note]

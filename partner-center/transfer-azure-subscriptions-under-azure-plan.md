@@ -1,5 +1,5 @@
 ---
-title: Transferir subscrição da Azure ao abrigo de um plano Azure para outro parceiro da CSP
+title: Transferir a subscrição do Azure ao abrigo de um plano do Azure para outro parceiro CSP
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-pricing
@@ -9,12 +9,12 @@ ms.localizationpriority: medium
 author: mckennaville
 ms.author: mcville
 ms.date: 07/21/2021
-ms.openlocfilehash: 3b1f2213537a0a62b60d14b8209ba5c8a71a2a5f702476cefdb7845c7c6e5438
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 14f03a8eb899f7224a38b0f998edd72077b34b3b
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115695520"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960990"
 ---
 # <a name="transfer-a-customers-azure-subscriptions-to-a-different-csp-under-an-azure-plan"></a>Transferir as subscrições Azure de um cliente para um CSP diferente (ao abrigo de um plano Azure)
 

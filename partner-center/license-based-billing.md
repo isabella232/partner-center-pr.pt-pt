@@ -9,12 +9,12 @@ ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/18/2020
-ms.openlocfilehash: 13a5e2df85c6adffb1ebd423b25d654bc8b8f5966b4a757c6b24b4c8d1130594
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 838dc5cbce503f449c2796c8397625266f826059
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115692318"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960129"
 ---
 # <a name="license-based-billing-in-partner-center"></a>Faturação baseada em licença no Partner Center
 

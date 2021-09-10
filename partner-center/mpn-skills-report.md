@@ -9,12 +9,12 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 2f4a1e8df4618228130e75611e451aec412f4e4a2f6614dcc465196638ff7ae5
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 2878512167bd0afa2901031bca60828685eb52c1
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115686117"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960420"
 ---
 # <a name="using-the-skills-report"></a>Usando o relatório de competências
 

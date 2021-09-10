@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 7b022e51c99bffbdca085da317a963a9e051e14bd58211b0592b0da154554f04
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 95a201c53fc2eaf230d08bb4cfdd03a5747b5c05
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115690380"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960740"
 ---
 # <a name="use-windows-autopilot-profiles-on-new-devices-to-customize-a-customers-out-of-box-experience"></a>Utilizar perfis do Windows Autopilot em novos dispositivos para personalizar a experiência inicial de um cliente
 
@@ -187,4 +187,4 @@ Get-WindowsAutoPilotInfo.ps1 -OutputFile AutoPilotHWID.csv -Partner -Force
 
 Windows O Autopilot permite-lhe configurar instalações personalizadas de Windows em dispositivos que gere para os seus clientes. Se for autorizado a fazê-lo pelo cliente, pode suprimir ou ocultar certos ecrãs de configuração que normalmente são apresentados aos utilizadores ao configurar Windows, incluindo o ecrã de aceitação EULA (Contrato de Licença de Utilizador Final).
 
-Ao utilizar esta função, concorda que suprimir ou ocultar quaisquer ecrãs concebidos para fornecer aos utilizadores um aviso ou aceitação de termos significa que obteve consentimento e autorização suficientes do seu cliente para ocultar termos, e que você, em nome do seu cliente (seja uma organização ou um utilizador individual como o caso pode ser) , consentir com quaisquer avisos e aceitar quaisquer termos aplicáveis ao seu cliente. Isto inclui o acordo com os termos e condições da licença ou aviso que seriam apresentados ao utilizador se não a suprimir ou esconder usando esta ferramenta. O seu cliente não poderá utilizar o software Windows nesses dispositivos se o cliente não tiver adquirido validamente uma licença para o software da Microsoft ou dos seus distribuidores licenciados.
+Ao utilizar esta função, concorda que suprimir ou ocultar quaisquer ecrãs concebidos para fornecer aos utilizadores um aviso ou aceitação de termos significa que obteve consentimento e autorização suficientes do seu cliente para ocultar termos, e que você, em nome do seu cliente (seja uma organização ou um utilizador individual como o caso pode ser),  consentir com quaisquer avisos e aceitar quaisquer termos aplicáveis ao seu cliente. Isto inclui o acordo com os termos e condições da licença ou aviso que seriam apresentados ao utilizador se não a suprimir ou esconder usando esta ferramenta. O seu cliente não poderá utilizar o software Windows nesses dispositivos se o cliente não tiver adquirido validamente uma licença para o software da Microsoft ou dos seus distribuidores licenciados.

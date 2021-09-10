@@ -6,12 +6,12 @@ ms.topic: article
 author: mingshen
 ms.author: mingshen
 ms.date: 6/02/2021
-ms.openlocfilehash: 17e57e2dec962fbbd65b778cdcd078a64b29627e1e20c4dbca0b4c1a26ec2808
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: ea6683c3033b25110784896eea0ac85083b8ed9e
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115686681"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123936925"
 ---
 # <a name="azure-consumption-commitment-benefit"></a>Benefício do compromisso de consumo do Azure
 

@@ -3,18 +3,18 @@ title: Benefícios MPN - Suporte Técnico para Produtos No-In-In ou Cloud
 description: Conheça os benefícios da Microsoft Partner Network (MPN) para incidentes de suporte técnico
 ms.topic: article
 ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
+ms.subservice: partnercenter-benefits
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 06/17/2021
-ms.openlocfilehash: fae1f29f2fdc804764a29f81f2cddb7353dbf7f7
-ms.sourcegitcommit: c4601069340445135b551fa96bee6d9923d8aa97
+ms.openlocfilehash: 29650a1b94cee04b4290d42ac19d2c3304e743ec
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/01/2021
-ms.locfileid: "113173660"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960359"
 ---
 # <a name="technical-support-for-on-premises-or-cloud-products"></a>Suporte Técnico para instalações ou produtos cloud
 
@@ -154,5 +154,5 @@ Pode [comparar planos de apoio a parceiros](https://partner.microsoft.com/suppor
 ## <a name="next-steps"></a>Passos seguintes
 
 - [Gerencie os benefícios e ofertas da Rede microsoft partner](manage-your-partner-network-benefits.md)
-- [Ativar benefícios técnicos para membros do Partner Membership Center (PMC)](partner-membership-center-tech-benefits-activate.md)
+- [Ativar benefícios técnicos para membros do Partner Membership Center (PMC)](./partner-membership-center-retirement-faq.md)
 - [Pré-venda técnica e serviços de implantação (TPD)](technical-benefits.md)

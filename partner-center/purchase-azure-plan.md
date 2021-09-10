@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: af098c9ef57a9a40badded40cb457f8c8fd4855185ae6f10dfb71e51689994ea
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 1493d22c53915f3a4364981a77c249492b342595
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115693917"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960020"
 ---
 # <a name="purchase-the-azure-plan-for-customers-and-access-the-latest-azure-services"></a>Compre o plano Azure para clientes e aceda aos mais recentes serviços da Azure
 
@@ -49,7 +49,7 @@ Em seguida, confirme digitalmente ou convide o cliente a assinar o Microsoft Cus
 
 3. Selecione **Guardar e continuar**.  
 
-Como parte da nova experiência de comércio para a Azure na CSP, introduzimos uma [nova oferta Azure.](./azure-plan-lp.md) Para datas importantes relacionadas com a oferta anterior do Azure (MS-AZR-0145p), consulte o documento de [oferta](https://go.microsoft.com/fwlink/p/?linkid=2164140).
+Como parte da nova experiência de comércio do Azure no CSP, introduzimos uma [nova oferta do Azure](./azure-plan-lp.md). Para datas importantes relacionadas com a oferta do Azure anterior (MS-AZR-0145p), veja o [documento da oferta](https://go.microsoft.com/fwlink/p/?linkid=2164140).
 
 **Se se matriculou *antes* de 21 de julho de 2021**
 - Poderá adicionar a oferta anterior da Azure ao seu carrinho para clientes que o tenham comprado no passado.

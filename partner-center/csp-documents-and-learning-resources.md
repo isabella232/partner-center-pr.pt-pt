@@ -9,12 +9,12 @@ author: billLinzbach
 ms.author: billli
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c3fb0dea0a51cb33699f2e9eb92ef8de6585518869243572ee8e4bfdd6d844f3
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: eea3a3232996a86520627f58a0897bd2cc815e93
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115681880"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123961299"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Cloud Solution Provider program guide, agreements, price lists, and offers (Guia, contratos, listas de preços e ofertas do programa Fornecedor de Solução Cloud)
 

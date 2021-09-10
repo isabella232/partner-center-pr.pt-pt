@@ -11,12 +11,12 @@ ms.custom:
 - references_regions
 ms.localizationpriority: high
 ms.date: 08/30/2021
-ms.openlocfilehash: 11806f0ba9b51aee7dbbd7539c2e32bcaa986694
-ms.sourcegitcommit: 917a077776b1aee2e8dad0869f4c1684fcf0bc37
+ms.openlocfilehash: 78c8a559e589a71566db7fa9f20e0c5647854d8c
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/31/2021
-ms.locfileid: "123249160"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "124343152"
 ---
 # <a name="august-2021-announcements"></a>Anúncios de agosto de 2021
 
@@ -40,9 +40,9 @@ Parceiros no programa de Licenciamento de Volume
 
 ### <a name="details"></a>Detalhes
 
-O lançamento da Privacy Management for Microsoft 365, agendado para 1 de setembro de 2021, foi adiado. Os SKUs partilhados na pré-visualização da tabela de preços não estarão disponíveis para encomenda neste momento.
+O lançamento da Privacy Management for Microsoft 365, agendado para 1 de setembro de 2021, foi adiado. Os SKUs partilhados na pré-visualização da lista de preços não estarão disponíveis para encomenda neste momento.
 
-Os SKUs impactados incluídos na pré-visualização da tabela de preços são:
+Os SKUs impactados incluídos na pré-visualização da lista de preços são:
 
 | Nome da oferta   | ID da oferta   | Material ID   |
 | --------- | --------- | --------- |
@@ -147,22 +147,38 @@ A participação no ambiente da caixa de areia permite à sua organização:
 - Realizar a integração da API num ambiente de teste antes de se implantar na produção.
 - Tenha tempo suficiente para operacionalizar a nova experiência de comércio antes do lançamento.
 
-O quadro seguinte fornece um resumo das principais características que estarão disponíveis no ambiente integrado de testes de caixas de areia.
+A lista fornece um resumo das principais funcionalidades disponíveis no ambiente integrado de testes de caixas de areia:
 
-| Funcionalidade | Detalhes |
-| --------- | --------- |
-| Configuração de privilégio de administração delegado de parceiro/cliente (DAP) | Produtos complexos: E5 com telco |
-| Modelos de dois níveis de dois níveis | Atualização parcial da subscrição através do suporte |
-| Descoberta lado a lado da experiência atual e nova | Alterações programadas na renovação  |
-| Descubra e compre Modern (para produtos selecionados) | Suspender ou retomar (via Suporte) |
-| Gerir subscrições (renovar automaticamente o toggle, adicionar lugares, cancelar o movimento) | Ensaios gratuitos (apresentação apenas para MAC) |
-| Complementos independentes  | Moeda parceira (excluindo os clientes existentes da UE com novas compras de comércio e que têm uma incompatibilidade entre parceiros e clientes) |
-| Planos de faturação | Promoções com transparência de preços, da Software Assurance  |
-| Gestão do ciclo de vida por assinatura (período de carência) | Planos anuais de faturação para ofertas pluárias  |
-| Restrições de propriedade | Suspender/retomar (via self-serve)  |
-| Ficheiros de fatura/reconhecimento | Reatribuição de assento automático para transições SKU em quantidade completa |
-| Atualizações intercalares de SKU em quantidade completa | Ensaio gratuito (com plena apresentação) |
-| Execução da política de cancelamento: bloco de 30 dias cancelado após 30 dias (vai mudar na disponibilidade geral para 72 horas) | Sub-atualização parcial: funcionalidade completa |
+- Apoio ao Privilégio de Administração Delegado de Parceiro/Cliente (DAP) para novas compras de comércio
+- Suporte para todos os tipos de parceiros: Fatura Direta, Fornecedor Indireto e Movimentos de Revendedor Indireto
+- Descoberta e compra de novos produtos de comércio e SKUs, incluindo a descoberta lado a lado dos SKUs tradicionais baseados em licenças e novos produtos de comércio
+- Capacidade de gerir propriedades de subscrição, incluindo renovação automática de toggle e aumento da contagem de lugares
+- Compra de Add-ons do catálogo, ao lado de subscrições base
+- Apoio a termos plusais com planos anuais de faturação para alguns produtos
+- Apoio aos planos anuais, mensais e de faturação de pagamentos pontuais
+- Gestão do ciclo de vida de subscrição apoiando o período de carência
+- Políticas de cancelamento de termos
+- Limites para pequenas empresas contando assentos SKU
+- Apoio a novas transações baseadas em bancos de comércio em ficheiros de fatura e reconhecimento
+- Atualizações intercalares de SKU em quantidade completa
+- Alterações programadas na renovação
+- Suspender (pausa) e retomar os serviços para uma subscrição
+- Avaliações gratuitas 
+- Faturação para a moeda de faturação do parceiro
+- Transparência dos preços 
+- Reatribuição de assento automático para transições SKU em quantidade completa
+
+Algumas funcionalidades previstas para a versão geral ainda não estão disponíveis em ambiente/pré-visualização técnica integrada de sandbox. Estas funcionalidades estão atualmente em desenvolvimento e serão disponibilizadas em breve. Uma vez que as funcionalidades estejam disponíveis, o guia de operações e a documentação associada serão atualizados.
+
+- Pré-visualização da lista de preços e apoio às moedas de clientes regionais europeias
+- Telco oferece pagamentos facilitadores à medida que se ultrapassa
+- Apoio às promoções, incluindo novas APIs
+- Aplicação de complementos 
+- Extensão da janela de cancelamento de 24 a 72 horas (com prospeção)
+- Capacidades de migração de subscrições tradicionais para novos comércio, incluindo suporte aAPI
+- Mudar planos de faturação a médio prazo sem repor o termo existente
+- Conversão de ensaios intercalares ou SKUs pagos com diferentes quantidades, termos e planos de faturação e SKUs atualizados
+- Atualizações parciais de assentos para uma subscrição-alvo
 
 ### <a name="next-steps"></a>Passos seguintes
 

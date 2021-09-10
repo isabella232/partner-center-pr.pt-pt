@@ -9,14 +9,14 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b84a46f20cb81a54ddf8ae13ed7156ffcf613c06a075dd597e9586e89608bc78
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 08672379e300eccf18a0a1f0cfc1e41b4b7dbc91
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115696041"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123961570"
 ---
-# <a name="troubleshoot-account-setup-or-mpn-renewal-issues"></a>Configuração de conta de resolução de problemas ou problemas de renovação de MPN
+# <a name="troubleshoot-account-setup-or-mpn-renewal-issues"></a>Resolver problemas de configuração da conta ou de renovação do MPN
 
 **Funções adequadas**: Administração global | Administrador sócio da MPN
  

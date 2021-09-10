@@ -11,12 +11,12 @@ ms.custom:
 - references_regions
 ms.localizationpriority: high
 ms.date: 04/08/2021
-ms.openlocfilehash: a80c150cd9157387e690b3d47a059c57bbb58e3c7e65a79f6410a15ae5cd886e
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: c7ae6a138f90f79e85c0ab8132873988524b9890
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115688153"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960280"
 ---
 # <a name="february-2021-announcements"></a>Anúncios de fevereiro de 2021
 

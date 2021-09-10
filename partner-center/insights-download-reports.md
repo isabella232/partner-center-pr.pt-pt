@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0efe19164cad5cc31ddac3767b97f26ff01bc4c69e35fe3eb84708b0f86c1b80
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 18ed4e14e5e0e0855dd09e91325ed46610c3acae
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115687464"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960179"
 ---
 # <a name="download-reports"></a>Transferir relatórios
 

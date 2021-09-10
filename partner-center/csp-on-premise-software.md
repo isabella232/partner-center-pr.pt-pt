@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3a936c0a0891f45cc5d5522cbe06415bf9c8beed4202bc5f5af2a0fbb2d3a8f8
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 4e55e3069dc7e086ecac10d11e92e70942d63b78
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115693763"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960900"
 ---
 # <a name="sell-on-premises-software-through-the-cloud-solution-provider-csp-program"></a>Venda de software no local através do programa Fornecedor de Soluções em Nuvem (CSP)
 

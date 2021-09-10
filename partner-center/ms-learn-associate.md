@@ -10,11 +10,11 @@ ms.author: kiranban
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.openlocfilehash: d78009e66f8a12779e96d08a16a2877a6e88fc5d
-ms.sourcegitcommit: 815760499700bf2c947550524cbddd091622081f
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "121915420"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960460"
 ---
 # <a name="link-or-unlink-a-microsoft-certification-profile-id-mcid-to-a-microsoft-partner-network-mpn-account"></a>Ligue ou desvincula um ID de perfil de certificação da Microsoft (MCID) a uma conta da Microsoft Partner Network (MPN)
 
@@ -83,6 +83,6 @@ Para questões relacionadas com o processo de fusão do perfil de certificação
 
 ## <a name="next-steps"></a>Passos seguintes
 
-- [Funções e permissões do utilizador](./permissions-overview.md)
+- [Definir funções e permissões](./permissions-overview.md)
 - [Competências](https://partner.microsoft.com/membership/competencies)
 - [O relatório de análise da Microsoft Learn mostra o estado dos alunos na sua empresa](ms-learn-analytics.md)

@@ -7,11 +7,11 @@ author: Guyshu
 ms.author: gushuchm
 ms.date: 08/27/2021
 ms.openlocfilehash: d8c55ce8f6a0c5da3bf2f02c899196e8fd6fd2e0
-ms.sourcegitcommit: fe0920740ef9f461b38cc20bac41192552466405
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/27/2021
-ms.locfileid: "123088520"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123937013"
 ---
 # <a name="private-plans-in-azure-marketplace"></a>Planos privados no Azure Marketplace
 

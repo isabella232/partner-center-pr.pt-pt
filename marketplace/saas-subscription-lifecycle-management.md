@@ -8,11 +8,11 @@ ms.date: 08/20/2021
 ms.author: yonits
 author: yonits
 ms.openlocfilehash: fed2b2f7b951a7dc6ee16fb126f3f5f774df18c9
-ms.sourcegitcommit: e277fa4d337901ea7171cabd39afebe84e1ec1a9
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/24/2021
-ms.locfileid: "122783758"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123936994"
 ---
 # <a name="saas-subscription-lifecycle-management"></a>Gestão do ciclo de vida da subscrição saaS
 

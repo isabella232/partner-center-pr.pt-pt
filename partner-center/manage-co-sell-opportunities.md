@@ -10,11 +10,11 @@ ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: ae6c60bf5f3a4d5f1fad5e6fa86151737e12da6d
-ms.sourcegitcommit: 14a1cc0c679a84f9ee6d2eec814528415195162c
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/02/2021
-ms.locfileid: "123396220"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960340"
 ---
 # <a name="manage-co-sell-opportunities-in-partner-center"></a>Gerir oportunidades de co-venda no Partner Center
 

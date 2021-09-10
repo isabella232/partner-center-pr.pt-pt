@@ -10,17 +10,17 @@ ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 2d0c1e05ff0e0b9c807dfc7beb1136cec87b4069
-ms.sourcegitcommit: 8fe3b0f22d548bc6bcc1b87636216cd4d42b3ede
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/17/2021
-ms.locfileid: "122297152"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960619"
 ---
 # <a name="receive-credit-on-your-partner-center-account-for-tax-withholding"></a>Receba crédito na sua conta partner center para retenção na fonte de impostos
 
 **Funções adequadas**: Administração de contas | Administrador de faturação
 
-## <a name="overview"></a>Descrição geral
+## <a name="overview"></a>Descrição Geral
 
 Fornecedor de Soluções em Nuvem parceiros (CSP) em alguns países recebem valores de fatura que incluem impostos. Alguns destes parceiros pagam à autoridade fiscal local em vez da Microsoft. Se pagar à sua autoridade tributária local, tem de apresentar um pedido de retenção na fonte, incluindo o seu certificado fiscal para limpar o valor tributado das faturas anteriores. Estes valores apurados refletem-se na última coluna **de pagamento** na página **de Faturação** no Partner Center.
 

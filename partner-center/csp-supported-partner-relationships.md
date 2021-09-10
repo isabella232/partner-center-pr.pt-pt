@@ -9,12 +9,12 @@ author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 204544ef0372b98014f8e90b02bb4c7608df81e12c006cf9ca7459d1c63cf52a
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 4f5a7e63a4e4ae79d85f07f07f0951d32535d815
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115690210"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123961279"
 ---
 # <a name="learn-how-partners-can-work-with-other-partners-in-the-csp-program"></a>Saiba como os parceiros podem trabalhar com outros parceiros no programa CSP
 

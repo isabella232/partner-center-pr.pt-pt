@@ -9,12 +9,12 @@ ms.subservice: partnercenter-billing
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f14b387649e6df8ded2e037858a7216eb361e848c8de6c8a71373d06ebe81d16
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 3048bad7912f101e1c332e54eff981473f0f31d7
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115681217"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123961040"
 ---
 # <a name="understand-usage-based-reconciliation-files-and-their-specific-fields-in-partner-center"></a>Compreenda os ficheiros de reconciliação baseados no uso e os seus campos específicos no Partner Center
 
@@ -45,7 +45,7 @@ Os seguintes campos explicam quais os serviços utilizados e a taxa.
 | ServiceType | O tipo específico de serviço Azure. | *Service Bus – Individual ou Pack*, SQL Azure base de *dados – Business or Web Edition* |
 | ResourceGuid | Identificador exclusivo específico para todos os dados de serviço e estrutura de preços. | *DA41BC5F-C52D-4464-8A8D-8C8DCC43503B* |
 | ResourceName | O nome do recurso Azure. | *Transferência de dados em (GB)*, *Transferência de Dados (GB)* |
-| Region | A região à qual se aplica o uso. Principalmente usado para atribuir taxas a transferências de dados, porque as taxas variam por região. | *Ásia Pacífico*, *Europa*, *América Latina,* *América do Norte* |
+| Região | A região à qual se aplica o uso. Principalmente usado para atribuir taxas a transferências de dados, porque as taxas variam por região. | *Ásia Pacífico*, *Europa*, *América Latina,* *América do Norte* |
 | Sku | Identificador exclusivo da Microsoft para uma oferta. | *7UD-00001* |
 | DetalheLineItemId | Um identificador e quantidade para itemizar diferentes tarifas para um serviço ou recurso num determinado período de faturação. Para o preço hierárquico Azure, pode haver uma taxa para até uma certa quantidade de unidades faturadas, em seguida, uma taxa diferente após essa quantidade. | *1* |
 | ConsumedQuantity | A quantidade de serviço consumida (por exemplo, horas ou GB) durante o período de reporte. Também inclui qualquer utilização não mediada de períodos de reporte anteriores. | *11* |

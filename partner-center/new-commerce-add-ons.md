@@ -10,11 +10,11 @@ ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 539aa939d980f7b40abc44789a08d153a8abdfaa
-ms.sourcegitcommit: 09d2c10491244775e656b48fce35b5648262ce59
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/03/2021
-ms.locfileid: "123458319"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123961440"
 ---
 # <a name="introduction-new-commerce-add-ons"></a>Introdução: Novos complementos de comércio
 

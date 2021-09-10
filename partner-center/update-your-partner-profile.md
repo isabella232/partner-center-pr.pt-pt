@@ -9,12 +9,12 @@ ms.topic: how-to
 ms.date: 04/12/2021
 ms.localizationpriority: medium
 ms.custom: contperf-fy21q4
-ms.openlocfilehash: 81f91b3968fed757d1ce32d479a68e295c515e86829f15aa00832890ec16672c
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 478bcba56e1763cc8a69b98bede0dc63c7a1cdad
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115695918"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960109"
 ---
 # <a name="verify-or-update-your-company-profile-information"></a>Verificar ou atualizar as informações do perfil da empresa 
 

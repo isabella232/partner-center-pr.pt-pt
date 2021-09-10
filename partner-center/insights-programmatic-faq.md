@@ -8,12 +8,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.date: 07/14/2021
-ms.openlocfilehash: 5edfc720f2f9014d7532935fcfadc64260f721f7af57eda81994c710b6492df9
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 418af23ae50e1f8d9086b2eb6247ba964e4c1516
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115692369"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123961399"
 ---
 # <a name="programmatic-access-of-analytics-data-common-questions"></a>Perguntas comuns sobre o acesso programático dos dados de análise
 

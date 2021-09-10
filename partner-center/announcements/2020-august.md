@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 08/14/2020
-ms.openlocfilehash: 01f5a340ca649f21b6f6c337132453d18a8068d26d6e6fc891f3f71545962817
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: baeaf39dd75d3c39bb7cfee393c3f9c409d5ce33
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115684804"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960209"
 ---
 # <a name="august-2020-announcements"></a>Anúncios de agosto de 2020
 

@@ -9,11 +9,11 @@ author: v-sausharma
 ms.author: v-sausharma
 ms.localizationpriority: medium
 ms.openlocfilehash: e2409dcbfd2a9de677ef4ec79bf8749072859325
-ms.sourcegitcommit: a0afd7765a1a04dc603e096510fd9c138238a7cb
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "122681849"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123961480"
 ---
 # <a name="referral-analytics-export--data-definitions"></a>Exportação de análise de encaminhamento - Definições de dados
 

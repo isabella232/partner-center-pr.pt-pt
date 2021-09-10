@@ -6,12 +6,12 @@ ms.topic: article
 author: jeweber
 ms.author: jeweber
 ms.date: 06/02/2021
-ms.openlocfilehash: 76aeefe324edba06b71cf41cfb25be805b356cc63de0377ba246b50d05187998
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 37be38030ece0b78629fe1ebbb77c41f2cbcb8fb
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115688307"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123936985"
 ---
 # <a name="refund-policies-for-microsoft-appsource-and-azure-marketplace"></a>Políticas de reembolso para Microsoft AppSource e Azure Marketplace
 

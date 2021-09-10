@@ -11,16 +11,36 @@ ms.custom:
 - references_regions
 ms.localizationpriority: high
 ms.date: 09/06/2021
-ms.openlocfilehash: 592b802c20fc3918731e4655fe4c0a0dba6531fc
-ms.sourcegitcommit: 61a4425aad9985e3ff0aa567bbebb1ab75f50f51
+ms.openlocfilehash: 87b7aabae1420f8fc72957c5fdab0e2563ccc91e
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/07/2021
-ms.locfileid: "123557433"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "124343127"
 ---
 # <a name="september-2021-announcements"></a>Anúncios de setembro de 2021
 
 Esta página fornece os anúncios para o Microsoft Partner Center para setembro de 2021.
+
+_____________
+## <a name="new-validation-rules-for-company-name-and-email-address-on-september-22"></a><a name="8"></a>Novas regras de validação para nome da empresa e endereço de e-mail no dia 22 de setembro
+
+### <a name="categories"></a>Categorias
+
+- Data: 2021-09-07
+- Preparação
+
+### <a name="summary"></a>Resumo
+
+Para ajudar parceiros e clientes a gerir o seu negócio com base na confiança, estamos a atualizar as regras de validação para o nome da empresa e endereço de e-mail de um cliente. Isto aplicar-se-á tanto aos detalhes novos como existentes do cliente. Não são necessárias alterações na API.
+
+### <a name="impacted-audience"></a>Audiência impactada
+
+Parceiros de conta direta da CSP e fornecedores indiretos
+
+### <a name="details"></a>Detalhes
+
+A Microsoft tem confiança. Estamos empenhados em fornecer um método compatível, seguro e seguro de validar o nome da empresa do cliente e informações de endereço de e-mail. A partir de 22 de setembro de 2021, estaremos a atualizar as validações de email e nome da empresa. Para obter informações adicionais, consulte [Como adicionar um novo registo de clientes](../add-a-new-customer.md).
 
 ________________
 ## <a name="readiness-dual-mode-attestation-and-additional-reseller-declaration"></a><a name="7"></a>Prontidão: Atestado de modo duplo e declaração adicional do revendedor
@@ -205,7 +225,7 @@ Em 19 de agosto de 2021, a Microsoft [anunciou](https://partner.microsoft.com/re
 
 #### <a name="launch-of-seat-based-offers-for-integrated-sandbox-testing"></a>Lançamento de ofertas baseadas em assentos para testes integrados de caixas de areia
 
-A partir de 1 de setembro de 2021, a Microsoft permitiu ofertas baseadas em lugares para testes [integrados](/partner-center/develop/test-and-debug) de caixas de areia na [nova experiência de comércio](https://partner.microsoft.com/resources/detail/new-commerce-for-csp-seat-based-offers-pdf) para o programa CSP.
+A partir de 1 de setembro de 2021, a Microsoft permitiu ofertas baseadas em lugares para testes [integrados](/partner-center/develop/test-and-debug) de sandbox na [nova experiência de comércio](https://partner.microsoft.com/resources/detail/new-commerce-for-csp-seat-based-offers-pdf) para o programa CSP.
 
 A adição de Microsoft 365, Dynamics 365, Power Platform e Windows 365 ofertas em CSP para a nova experiência de comércio é mais um marco importante na nossa nova jornada de comércio. A Microsoft está a investir em inovações de produtos, melhor ferramenta e acesso a novas oportunidades de negócio que permitem aos parceiros aumentar as suas receitas de CSP e fornecer mais opções aos clientes. Estamos a evoluir na nossa plataforma de comércio e a dinamizar os processos de gestão de encomendas e subscrições para ajudar parceiros e clientes a terem sucesso através da transformação digital.
 

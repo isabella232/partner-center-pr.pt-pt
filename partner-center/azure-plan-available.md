@@ -10,11 +10,11 @@ ms.localizationpriority: high
 ms.date: 05/13/2020
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 6037044a72bd9bd71131ddbc66fec0555bbd5f86
-ms.sourcegitcommit: fe0920740ef9f461b38cc20bac41192552466405
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/27/2021
-ms.locfileid: "123088559"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123961219"
 ---
 # <a name="azure-services-available-in-the-azure-cloud-solution-provider-csp-program"></a>Serviços Azure disponíveis no programa Azure Fornecedor de Soluções em Nuvem (CSP)
 
