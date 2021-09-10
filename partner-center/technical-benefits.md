@@ -9,30 +9,22 @@ ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 03/30/2021
-ms.openlocfilehash: ded4aa0d63e73e52a7f8e2865aa30a14208f70df
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: fb9e596ba0076d5b1954a013c8a71edf9a218153
+ms.sourcegitcommit: ec7de617cf128ee739dced8f240b77839f6e3cfb
 ms.translationtype: MT
 ms.contentlocale: pt-PT
 ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960339"
+ms.locfileid: "124343175"
 ---
-# <a name="explore-technical-presales-and-deployment-services-tpd"></a>Explore as Pré-vendas Técnicas e os serviços de Implantação (TPD) 
+# <a name="technical-presales-and-deployment-services-tpd"></a>Pré-venda técnica e serviços de implantação (TPD) 
 
 **Funções apropriadas**: Qualquer conta de utilizador MPN desde que a organização tenha uma competência ativa ou Microsoft Action Pack.
 
-Conheça os benefícios da Microsoft Partner Network (MPN) para os serviços técnicos de pré-venda e implantação (TPD), incluindo consultas, assistência de pré-vendas, horários de aconselhamento e muito mais.
+## <a name="summary"></a>Resumo
 
-## <a name="develop-your-technical-know-how"></a>Desenvolva o seu know-how técnico
-
-Utilize o TPD para consultas personalizadas remotas para construir as suas capacidades técnicas mais rapidamente para aumentar as vendas, implementar de forma mais eficaz e acelerar o desenvolvimento de aplicações. [Saiba mais](https://aka.ms/TPD).
+Utilize os serviços técnicos de pré-venda e implantação (TPD) para consultas personalizadas remotas para construir as suas capacidades técnicas mais rapidamente para aumentar as vendas, implementar de forma mais eficaz e acelerar o desenvolvimento de aplicações. 
 
 Todas as soluções Cloud ou Hybrid são suportadas, além de Windows 10 no local, Windows Server e Microsoft SQL Server. 
-
-- Parceiros com ofertas gold, silver e action pack podem usar Horas de Aconselhamento de Parceiros para consultas. 
-
-- Os parceiros Gold e Silver recebem assistência ilimitada de pré-vendas. 
-
-- Os membros da rede podem adquirir [o Action Pack](https://partner.microsoft.com/membership/action-pack) para receber cinco horas de aviso.  
 
 |     Tipo de oferta    | Número de horas de aviso |   Pré-venda técnica   |
 |:-----------------:|:------------------------:|:----------------------:|
@@ -40,18 +32,20 @@ Todas as soluções Cloud ou Hybrid são suportadas, além de Windows 10 no loca
 |       Silver      |            20            |        Ilimitado       |
 | Pacote de ação (MAPS) |             5            | Deduz horas de aconselhamento |
 
-Inscreva-se em qualquer conta de utilizador associada à MPN para **[criar um pedido de Pré-Venda Técnica e Serviços de Implantação (TPD)](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical/createadvisoryhours-servicerequest)** (não é necessária ativação de benefícios técnicos).
+Apenas os parceiros com competência (Gold ou Silver) ou Microsoft Action Pack são elegíveis para o serviço. O serviço não é prestado a clientes, ou parceiros/revendedores que não tenham competência ou Microsoft Action Pack, incluindo cenários em que estejam na mesma chamada que um parceiro elegível.
+
+Inscreva-se com qualquer conta de utilizador associada à MPN para **[criar um pedido de Pré-Venda Técnica e Serviços de Implantação (TPD).](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical/createadvisoryhours-servicerequest)**
 
 ## <a name="delivery-scenarios"></a>Cenários de entrega
 
 - **As consultas técnicas de pré-venda** são utilizadas para definir a proposta de valor, fornecer estimativas de custos, licenciamento técnico, gerir objeções de clientes, responder a mensagens concorrentes, demonstrar soluções técnicas, prova de conceitos ou planeamento e design de arquitetura que conduzam a uma Declaração de Trabalho.
 
-  - *Não suportado:* Planeamento de gasodutos de vendas, fim das discussões com clientes, preços de licenciamento e listas de preços.
+  - *Não suportado:* Planeamento de gasodutos de vendas, fim das discussões com clientes, entrega de formação, preços de licenciamento e listas de preços.
 
 
 - **As consultas de implantação** são utilizadas para o planeamento e orientação de design de arquitetura, boas práticas, orientação de implantação, referências do produto e documentação.
 
-  - *Não suportado:* Suporte/resolução de problemas de break-fix, hotfixes, serviços no local, consultoria de longo prazo (menos de 25 horas por compromisso), diretamente para o apoio ao cliente ou suporte prático num ambiente de produção. 
+  - *Não suportado:* Suporte/resolução de problemas de break-fix, hotfixes, serviços no local, consultoria de longo prazo (mais de 25 horas por noivado), entrega de formação, apoio direto ao cliente ou suporte prático em ambiente de produção. 
 
 
 - **As Consultas de Marketplace** são utilizadas para como publicar a sua solução para a geração de chumbo em curso no mercado comercial da Microsoft. Para desenvolvedores, configuração de serviços, consultorias de arquitetura ou design, migração de soluções no local, revisão de códigos e assistência à publicação de aplicações.
@@ -63,12 +57,18 @@ Inscreva-se em qualquer conta de utilizador associada à MPN para **[criar um pe
 Os seguintes produtos e serviços estão em aplicação para a TPD:
 - **Microsoft 365**: Todos os componentes Microsoft Office 365, tais como Microsoft Teams, Exchange Online, SharePoint Online, OneDrive, Yammer, Project Online, Skype para Empresas Server 2019, Enterprise Mobility + Security, Microsoft Intune, Azure Ative Directory, Azure Information Protection
   - *Fora do âmbito: Exclusivamente no local Office Servidores – Exchange e SharePoint*
+
 - **Business Applications**: Microsoft Dynamics 365 (online), Microsoft Power Platform (Power Apps, Power Automate, Power BI)
   - *Fora do âmbito: Versões exclusivamente no local da Dynamics 365, GP, SL, AX, NAV*
-- **Microsoft Azure**: Todas as soluções Microsoft Azure e serviços conexos, tais como infraestruturas como um serviço, plataforma como um serviço, Plataforma de Dados, BI Analytics, Serviços Cognitivos, Azure Machine Learning, Azure Stack
+
+- **Microsoft Azure**: Todas as soluções Microsoft Azure e serviços conexos, tais como Infraestruturas como Serviço (IaaS), Plataforma como serviço (PaaS), Serviços de Dados e Inteligência Artificial (IA), serviços de Desenvolvimento, Stack Azure ou serviços cloud utilizados para desenvolver soluções de jogos ou realidade mista
+  - *Fora do âmbito: Pedidos especificamente relacionados com dispositivos de hardware, como HoloLens e Xbox*
+
 - **Windows Server e SQL Server**: Suporte mainstream, tal como regido pelo ciclo de vida do **[produto)](/lifecycle/policies/fixed)**
   - System Center inclui produtos relacionados como System Center Configuration Manager (SCCM), se relacionados com cenários em nuvem ou híbridos
+
 - **Windows 10**: Windows 10 sistema operativo, dispositivos, aplicações universais
+
 - **Produtos em Visualização Privada ou Pública**: A ajuda é prestada numa base de melhores esforços, para ambientes não produtivos e sem garantias sobre disponibilidade de informação ou tempo de resposta
 
 ## <a name="submit-a-technical-presales-and-deployment-services-request"></a>Apresentar um pedido de pré-venda técnica e serviços de implantação 
@@ -109,3 +109,5 @@ Para ver os seus benefícios técnicos no Partner Center:
 [Suporte Técnico para instalações ou produtos cloud](mpn-benefits-technical-support.md)
 
 [Gerencie os benefícios e ofertas da Rede microsoft partner](manage-your-partner-network-benefits.md)
+
+[Comprar ou renovar uma subscrição do Microsoft Action Pack](mpn-get-action-pack.md)
