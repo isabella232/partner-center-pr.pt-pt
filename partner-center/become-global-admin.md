@@ -10,11 +10,11 @@ ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.openlocfilehash: d2888a8deffffa3b281ca088696184fdb52376be
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960789"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246314"
 ---
 # <a name="verify-your-domain-ownership-to-become-global-admin"></a>Verificar a propriedade do domínio para se tornar administrador global 
 

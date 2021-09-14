@@ -10,11 +10,11 @@ ms.author: adamyeh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: ca9cd1b09c840531c3652f71afbd9c66f657f877
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123959929"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246329"
 ---
 # <a name="roles-and-permissions-required-to-earn-partner-earned-credit"></a>Funções e permissões necessárias para ganhar o crédito do parceiro
 

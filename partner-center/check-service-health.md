@@ -10,11 +10,11 @@ ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: d8d9bc05d2fe5ca87c5fa9f13371305a48fb6a52
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960600"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246269"
 ---
 # <a name="check-service-health-for-a-customer-reporting-a-potential-service-problem-or-outage"></a>Verifique a saúde do serviço para um cliente que reporte um potencial problema de serviço ou paralisação
 

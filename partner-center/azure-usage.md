@@ -10,11 +10,11 @@ ms.localizationpriority: medium
 ms.custom: SEOJULY.20
 ms.date: 08/06/2020
 ms.openlocfilehash: dc9b9100e01191c24c03c76e9a9ff5a6ffe335d1
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123959989"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246326"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>Dimensionamento da VM do Microsoft Azure para a máxima utilização de reserva
 

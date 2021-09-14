@@ -10,11 +10,11 @@ ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 03/30/2021
 ms.openlocfilehash: fb9e596ba0076d5b1954a013c8a71edf9a218153
-ms.sourcegitcommit: ec7de617cf128ee739dced8f240b77839f6e3cfb
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "124343175"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246299"
 ---
 # <a name="technical-presales-and-deployment-services-tpd"></a>Pré-venda técnica e serviços de implantação (TPD) 
 
