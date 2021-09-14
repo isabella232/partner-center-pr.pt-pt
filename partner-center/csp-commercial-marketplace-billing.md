@@ -10,11 +10,11 @@ ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 102f13530ece08cd813412a44897ece0186e7cbb
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960089"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246917"
 ---
 # <a name="billing-for-commercial-marketplace-products-and-subscriptions-in-partner-center"></a>Faturação para produtos e subscrições de mercado comercial no Partner Center
 

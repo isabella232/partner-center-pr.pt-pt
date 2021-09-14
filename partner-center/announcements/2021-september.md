@@ -10,19 +10,135 @@ ms.custom:
 - announcement
 - references_regions
 ms.localizationpriority: high
-ms.date: 09/06/2021
-ms.openlocfilehash: 87b7aabae1420f8fc72957c5fdab0e2563ccc91e
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
-ms.translationtype: HT
+ms.date: 09/10/2021
+ms.openlocfilehash: dfb3d2dccfdec0512e8517ab7d815bd076570958
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960949"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246467"
 ---
 # <a name="september-2021-announcements"></a>Anúncios de setembro de 2021
 
 Esta página fornece os anúncios para o Microsoft Partner Center para setembro de 2021.
 
+## <a name="september-cloud-solution-provider-community-update-and-reminders"></a><a name="10"></a>Setembro Fornecedor de Soluções em Nuvem atualização comunitária e lembretes
+
+### <a name="categories"></a>Categorias
+
+- Data: 2021-9-10
+- | comunitários Capacidades
+
+### <a name="summary"></a>Resumo
+
+A [newsletter de atualização mensal Fornecedor de Soluções em Nuvem (CSP)](https://partner.microsoft.com/resources/detail/csp-monthly-update-september-2021-global) já está disponível, juntamente com recursos comunitários adicionais [de CSP](https://partner.microsoft.com/resources/collection/september-2021-csp-partner-community-content#/) que lhe fornecem atualizações essenciais do programa.
+
+### <a name="impacted-audience"></a>Audiência impactada
+
+Parceiros de conta direta da CSP e fornecedores indiretos
+
+### <a name="details"></a>Detalhes
+
+Os recursos deste mês abrangem os seguintes tópicos:
+
+#### <a name="launches"></a>Lançamentos
+
+- [Microsoft Dynamics 365, Microsoft 365, Microsoft Power Platform e Windows 365 na nova experiência de comércio em CSP](https://partner.microsoft.com/resources/detail/d365-m365-power-platform-w365-in-the-new-commerce-experience-in-csp-pdf)
+
+#### <a name="clinics"></a>Clínicas
+
+- [Introdução ao apoio ao licenciamento dos parceiros](https://partner.microsoft.com/resources/detail/introduction-to-licensing-support-for-partners-pdf)
+- [Guia para o site de Termos do Produto para parceiros](https://partner.microsoft.com/resources/detail/product-terms-site-guide-for-partners-pdf)
+- [Como denunciar um esquema de apoio](https://partner.microsoft.com/resources/detail/how-to-report-a-support-scam-pdf)
+- [Alteração de atributo de programa para Microsoft 365 Apps para a Enterprise](https://partner.microsoft.com/resources/detail/program-attribute-change-for-microsoft-365-apps-for-enterprise-pdf)
+
+#### <a name="csp-community-qa-reminder"></a>CSP Comunidade Q&Um lembrete
+
+A sessão mensal da comunidade CSP Q&A proporciona-lhe a oportunidade de aprender mais e fazer perguntas sobre as mudanças que afetam o programa. A chamada deste mês centrar-se-á nos tópicos listados na secção anterior e muito mais.
+
+[Registe-se aqui para se juntar à chamada.](https://globalpbocomm.eventbuilder.com/GlobalCSP)
+
+#### <a name="always-availablelaunch-content-on-demand"></a>Sempre disponível — Lançar conteúdo a pedido
+
+Dentro da [coleção comunitária mensal da CSP,](https://partner.microsoft.com/resources/collection/september-2021-csp-partner-community-content#/)pode encontrar:
+
+- A [newsletter de Atualização Mensal CSP](https://partner.microsoft.com/resources/detail/csp-monthly-update-september-2021-global) transferível que agrega anúncios, atualizações, eventos e lembretes recentes num documento de fácil leitura.
+- O [Calendário de Anúncios da CSP](https://partner.microsoft.com/resources/detail/csp-announcement-calendar-september-2021-pdf) que fornece uma visão de linha do tempo das próximas alterações que afetam o programa.
+- O **novo** [calendário de lançamento do produto](https://partner.microsoft.com/resources/detail/product-launch-calendar-september-pdf) onde pode ver os próximos lançamentos e ofertas de produtos.
+- O [Guia Global de Prontidão Promocional](https://partner.microsoft.com/resources/collection/global-promo-readiness-guide-collection#/) que reúne promoções recentes e futuras que estão disponíveis para parceiros e clientes.
+- [A CSP lança recursos](https://partner.microsoft.com/resources/collection/csp-launch-topics-collection#/) de atualização com conteúdo fácil de consumir em mudanças operacionais chave.
+- [Refreshers e lembretes](https://partner.microsoft.com/resources/detail/csp-september-2021-refreshers-and-reminders-pdf) sobre os principais tópicos da CSP que recebem interesse e consultas.
+
+Precisa de prontidão de licenciamento? Os [webinars mensais de holofotes da CSP](https://commercial_licensing.eventbuilder.com/YearToDate_ALL) cobrem as últimas informações de licenciamento da CSP disponíveis para todos os parceiros.
+
+### <a name="next-steps"></a>Passos seguintes
+
+Reveja os recursos comunitários e registe-se para o Q&Uma chamada comunitária.
+
+### <a name="questions"></a>Perguntas?
+
+A comunidade mensal de CSP Q&Uma chamada é o melhor local para colocar questões sobre a mudança operacional no programa CSP. Pode [submeter uma pergunta](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRzrhg6eBq-tPjJzqc4xPoxdUQU1WQklGNDZBNVJaRkMxUDVJVUxHSkNXWS4u) até 48 horas antes da chamada. Todas as questões relacionadas com o lançamento serão respondidas na chamada e/ou no Q&Um documento publicado após a chamada. Você pode visitar a [coleção comunitária](https://partner.microsoft.com/resources/collection/august-2021-csp-partner-community-content#/) do mês passado e rever o Q&Um documento que foi publicado após o evento de agosto.
+
+Perguntas sobre qualquer outro tema da CSP? Visite a [página de suporte do Centro parceiro.](https://partner.microsoft.com/support/?stage=1)
+
 _____________
+
+## <a name="september-co-sell-with-microsoft-qa-community-call-reminder"></a><a name="9"></a> Setembro co-vender com o Microsoft Q&Um lembrete de chamada comunitária
+
+### <a name="categories"></a>Categorias
+
+- Data: 2021-09-09
+- | comunitários Convites e lembretes
+
+### <a name="summary"></a>Resumo
+
+[Registe-se agora](https://globalpbocomm.eventbuilder.com/GlobalCoSell) para a sessão comunitária de setembro, que destaca os mais recentes lançamentos e melhorias no mercado comercial e módulos de referência no Partner Center.
+
+### <a name="impacted-audience"></a>Audiência impactada
+
+Esta sessão é dedicada às funções específicas do Partner Center que gerem:
+
+- Módulo de mercado comercial para gestão de publicações.
+- Módulo de referências para leads e co-venda gestão de partilha de oportunidades.
+
+Todos os outros utilizadores do Partner Center podem aceder a conteúdos a pedido na [galeria de recursos de prontidão de operações.](https://partner.microsoft.com/resources/cloud-solution-provider-program)
+
+### <a name="details"></a>Detalhes
+
+Os principais artigos para este mês incluem:
+
+#### <a name="commercial-marketplace"></a>Marketplace comercial
+
+- [Descobridor de soluções agora integrado no AppSource](https://appsource.microsoft.com/blogs/now-live-on-microsoft-appsource-tap-into-the-unrivaled-microsoft-partner-ecosystem-to-accelerate-your-digital-transformation)
+- [Orientações e permissões necessárias para publicar uma oferta no mercado comercial (downloads PowerPoint apresentação)](https://assetsprod.microsoft.com/mpn/guidance-and-permissions-needed-to-publish-an-offer-and-co-sell-with-ms.pptm)
+
+#### <a name="referral"></a>Encaminhamento
+
+- [Configure co-venda para uma oferta de mercado comercial](/azure/marketplace/co-sell-configure)
+- [Criar e gerir regras de encaminhamento de oportunidades de entrada: Partner Center](../routing-rules.md)
+- [Gerir oportunidades de co-venda: Partner Center](../manage-co-sell-opportunities.md#accepted-stage)
+- [Os dados do registo de negócios já estão disponíveis para exportação em Informações de referência](./2021-july.md#17)
+
+#### <a name="refresh"></a>Atualizar
+
+- [Experiência de co-venda no Partner Center](/azure/marketplace/co-sell-configure#enter-your-contacts)
+- [Gestão de encaminhamento no Partner Center](https://partner.microsoft.com/resources/detail/referral-management-in-partner-center-pptx)
+- [Partilhar ofertas de co-venda em escala utilizando a capacidade de operações a granel do Partner Center](./2021-february.md#13)
+- [Maior flexibilidade com acordos de co-venda liderados por parceiros](./2021-february.md#11)
+- [Obtenha Informações de referência no Centro de Parceiros](../referral-insights.md)
+
+### <a name="next-steps"></a>Passos seguintes
+
+Reveja os [recursos comunitários](https://partner.microsoft.com/resources/collection/september-2021-co-sell-partner-community-content#/)e registe-se para o Q&Uma chamada comunitária.
+
+### <a name="questions"></a>Perguntas?
+
+O Q&Uma chamada comunitária é o melhor lugar para colocar questões sobre mudanças operacionais. Pode [submeter uma pergunta](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRzrhg6eBq-tPjJzqc4xPoxdUQU1WQklGNDZBNVJaRkMxUDVJVUxHSkNXWS4u) até 48 horas antes da chamada. Todas as questões relacionadas com o lançamento serão respondidas na chamada e/ou no Q&Um documento publicado após a chamada.  
+
+Se tiver alguma dúvida sobre outros tópicos, visite a [página de suporte](https://partner.microsoft.com/support/?stage=1)do Centro parceiro .
+
+_____________
+
 ## <a name="new-validation-rules-for-company-name-and-email-address-on-september-22"></a><a name="8"></a>Novas regras de validação para nome da empresa e endereço de e-mail no dia 22 de setembro
 
 ### <a name="categories"></a>Categorias
@@ -42,7 +158,8 @@ Parceiros de conta direta da CSP e fornecedores indiretos
 
 A Microsoft tem confiança. Estamos empenhados em fornecer um método compatível, seguro e seguro de validar o nome da empresa do cliente e informações de endereço de e-mail. A partir de 22 de setembro de 2021, estaremos a atualizar as validações de email e nome da empresa. Para obter informações adicionais, consulte [Como adicionar um novo registo de clientes](../add-a-new-customer.md).
 
-________________
+_____________
+
 ## <a name="readiness-dual-mode-attestation-and-additional-reseller-declaration"></a><a name="7"></a>Prontidão: Atestado de modo duplo e declaração adicional do revendedor
 
 ### <a name="summary"></a>Resumo
@@ -76,7 +193,7 @@ As seguintes API's serão impactadas e os detalhes foram partilhados e atualizad
 
 Os revendedores adicionais terão impacto nos parceiros que transacionam nos seguintes países da UE/EFTA:
 
-| Países da UE /EFTA | | |
+| Países | Países | Países |
 | ----- |----- | ----- |
 | Andorra | Grécia | Noruega |
 | Áustria | Gronelândia | Polónia |
@@ -98,7 +215,8 @@ Os revendedores adicionais terão impacto nos parceiros que transacionam nos seg
 
 Para participar no piloto, contacte o seu especialista em assuntos (Ali Khaki) e forneça o ID do inquilino parceiro para que possam ser adicionados ao voo.
 
-________________
+_____________
+
 ## <a name="perpetual-software-and-software-subscriptions-price-lists-republished-to-fix-price-increases-in-russia"></a><a name="6"></a>Listas de preços de subscrições de software perpétuo e software reeditadas para corrigir aumentos de preços na Rússia
 
 ### <a name="categories"></a>Categorias
@@ -127,7 +245,8 @@ Os parceiros que compraram produtos entre 1 de setembro e 3 de setembro serão c
 - Os parceiros que transacionam subscrições de software perpétuo e software na Rússia devem descarregar a mais recente lista de preços para ver os preços corrigidos.
 - Para saber mais pormenores sobre os aumentos de preços que chegam em outubro, consulte este [anúncio.](https://news.microsoft.com/licensing-changes-at-microsoft-russia-2021/)
 
-________________
+_____________
+
 ## <a name="corrections-to-september-license-based-services-price-list-and-october-preview-for-microsoft-365-business-basic-usd"></a><a name="5"></a>Correções à lista de preços dos serviços baseados em licenças de setembro e pré-visualização de outubro para Microsoft 365 Empresas Basic (USD)
 
 ### <a name="summary"></a>Resumo
@@ -158,7 +277,8 @@ A oferta impactada inclui:
 
 Os parceiros que transacionam serviços licenciados em USD devem baixar a lista de preços mais recente para ver o preço corrigido.
 
-________________
+_____________
+
 ## <a name="announcing-intune-per-device-for-enterprise-for-csp-partners"></a><a name="4"></a>Anunciando Intune por dispositivo para empresas para parceiros da CSP
 
 ### <a name="categories"></a>Categorias
@@ -190,7 +310,7 @@ Itens a notar sobre a nova oferta intune por dispositivo:
 
 - É uma oferta da SaaS Enterprise e não é projetada para clientes de Pequenas & Médias Empresas (SMB).
 - Só está disponível para CSPs e não está disponível em Licenciamento de Volume ou Web Direct.
-- O custo é de $150 (USD/ERP) para uma subscrição de cinco anos. 
+- O custo é de $150 (USD/ERP) para uma subscrição de cinco anos.
 - ID da oferta: 5170ccfb-e95b-49a4-b7f3-31f631a356ba
 - Funcionará fora da caixa para Windows dispositivos que são atribuídos a um único utilizador autenticado.
 - A oferta não inclui acesso condicional baseado em dispositivos.  
@@ -199,7 +319,8 @@ Itens a notar sobre a nova oferta intune por dispositivo:
 
 Para mais perguntas sobre estas ofertas, verifique as suas comunidades Yammer relevantes.
 
-________________
+_____________
+
 ## <a name="key-updates-for-the-new-commerce-experience-for-cloud-solution-provider-csp-seat-based-offers"></a><a name="3"></a>Principais atualizações para a nova experiência de comércio para ofertas baseadas em assentos Fornecedor de Soluções em Nuvem (CSP)
 
 ### <a name="summary"></a>Resumo
@@ -234,7 +355,7 @@ Os parceiros que participarem no ambiente de testes de sandbox terão uma visibi
 A participação no ambiente da caixa de areia permite à sua organização:
 
 - Realizar integração da API num ambiente de testes antes de se implantar na produção
-- Tenha tempo suficiente para operacionalizar a nova experiência de comércio antes do lançamento 
+- Tenha tempo suficiente para operacionalizar a nova experiência de comércio antes do lançamento
 
 A tabela fornece um resumo das principais características disponíveis no ambiente integrado de testes de caixas de areia:
 
@@ -292,7 +413,8 @@ A 1 de setembro de 2021, a Microsoft informou os parceiros sobre os próximos pa
 
 Para mais perguntas sobre estas ofertas, consulte as suas comunidades Yammer relevantes.
 
-________________
+_____________
+
 ## <a name="view-this-months-product-launches-and-offers"></a><a name="2"></a>Veja os lançamentos e ofertas deste mês
 
 ### <a name="summary"></a>Resumo
@@ -320,7 +442,8 @@ Reveja o [calendário de lançamento](https://partner.microsoft.com/resources/co
 
 Para mais perguntas sobre estas ofertas, consulte as suas comunidades Yammer relevantes.
 
-________________
+_____________
+
 ## <a name="software-in-microsoft-china-cloud-solution-provider-program-mccl-csp-to-start-transactions-from-august-12"></a><a name="1"></a>Software na Microsoft China Fornecedor de Soluções em Nuvem programa (MCCL CSP) para iniciar transações a partir de 12 de agosto
 
 ### <a name="summary"></a>Resumo

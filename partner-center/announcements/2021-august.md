@@ -12,11 +12,11 @@ ms.custom:
 ms.localizationpriority: high
 ms.date: 08/30/2021
 ms.openlocfilehash: 78c8a559e589a71566db7fa9f20e0c5647854d8c
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
-ms.translationtype: HT
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960850"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246521"
 ---
 # <a name="august-2021-announcements"></a>Anúncios de agosto de 2021
 

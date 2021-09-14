@@ -1,18 +1,18 @@
 ---
 title: Declaração de dividendos
 description: Saiba mais sobre os pedidos de pagamento e resumos, e como ver e exportar os seus dados de pagamento do Microsoft Partner Center
-ms.subservice: partnercenter-marketplace-publisher
-ms.service: marketplace
+ms.subservice: partnercenter-payouts
+ms.service: partner-dashboard
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 3/22/2021
-ms.openlocfilehash: b905d422b10e0b82225966fa5379283ea0b83a69
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: d95927db27d7dfd05b8f29a6536658c3210f9b05
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960500"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126247376"
 ---
 # <a name="payout-statements"></a>Declaração de dividendos
 

@@ -11,11 +11,11 @@ ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 982095303b748639f4f0bdc893acfa0fad1e9453
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960660"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246569"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-for-us-government"></a>Gestão de utilizadores e licenças no Partner Center for Microsoft Cloud for US Government
 

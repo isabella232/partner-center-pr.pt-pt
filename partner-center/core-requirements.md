@@ -10,11 +10,11 @@ ms.author: mseamons
 ms.localizationpriority: high
 ms.custom: SEOJULY.20
 ms.openlocfilehash: a980d35104f2fe7aad0117f3515a61ecf217a2b9
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960469"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246944"
 ---
 # <a name="core-requirements-for-the-activities-in-your-incentive-program"></a>Requisitos fundamentais para as atividades no seu programa de incentivos
 

@@ -10,11 +10,11 @@ ms.author: parthp
 ms.localizationpriority: medium
 ms.date: 10/12/2020
 ms.openlocfilehash: 9d9798bdbf83bbe7d812f5bbf83b81fb8fcde373
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960300"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126247364"
 ---
 # <a name="connect-with-customers"></a>Ligar-se a clientes
 

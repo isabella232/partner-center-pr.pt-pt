@@ -9,11 +9,11 @@ author: jasongroce
 ms.author: misherma
 ms.localizationpriority: high
 ms.openlocfilehash: 9f46389ac0c1174690090d571305d6163cabb09e
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960329"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246749"
 ---
 # <a name="partner-membership-center-retirement-faq"></a>Parceiro Centro de adesão aposentadoria FAQ
 **Funções adequadas**: Administração global | Administração de gestão de utilizadores

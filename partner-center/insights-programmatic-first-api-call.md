@@ -9,11 +9,11 @@ ms.author: shganesh
 ms.localizationpriority: medium
 ms.date: 07/14/2021
 ms.openlocfilehash: 9aac83645051f3e8f32945ae908ba1fe47c08d13
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960940"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246791"
 ---
 # <a name="make-your-first-api-call-to-access-partner-insights-analytics-data"></a>Faça a sua primeira chamada de API para aceder a dados de análise de insights de parceiros
 

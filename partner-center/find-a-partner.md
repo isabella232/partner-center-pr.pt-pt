@@ -9,11 +9,11 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.openlocfilehash: 1a5da21326ae789e4b6f570c14f9a52e0348bb64
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123961129"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126247157"
 ---
 # <a name="find-a-partner-or-solution-provider-to-answer-questions-about-programs-licensing-or-customer-deals"></a>Encontre um parceiro ou fornecedor de soluções para responder a questões sobre programas, licenciamento ou ofertas de clientes 
 

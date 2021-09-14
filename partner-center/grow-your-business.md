@@ -10,11 +10,11 @@ ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 485fddb8ce689d5e45b19f751f91a80ec321991b
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960379"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126247292"
 ---
 # <a name="grow-your-microsoft-partner-business---learn-how-to-get-leads--set-your-company-apart"></a>Grow your Microsoft partner business - saiba como obter pistas & separar a sua empresa
 

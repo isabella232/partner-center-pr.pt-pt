@@ -10,11 +10,11 @@ ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 05/21/2021
 ms.openlocfilehash: 4636ee56418c68b5186c1137b73b3da0f0806951
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123959910"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126247307"
 ---
 # <a name="april-2020-announcements"></a>Anúncios de abril de 2020
 

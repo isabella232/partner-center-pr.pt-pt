@@ -10,11 +10,11 @@ ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: b4edaddb76d72620324c0e26c971bbeb339beeff
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960640"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126247442"
 ---
 # <a name="partner-center-for-microsoft-cloud-for-us-government-supports-partner-offers-to-government-agencies"></a>Partner Center for Microsoft Cloud for US Government apoia ofertas de parceiros a agências governamentais
 

@@ -2,17 +2,17 @@
 title: Detalhes fiscais para o mercado comercial da Microsoft
 description: Conheça as considerações fiscais para a seleção de preços, implicações no pagamento e responsabilidade fiscal pelos seus países/regiões de distribuição.
 ms.topic: conceptual
-ms.service: marketplace
-ms.subservice: partnercenter-marketplace-publisher
+ms.service: partner-dashboard
+ms.subservice: partnercenter-payouts
 author: jasongroce
 ms.author: davjan
 ms.date: 06/29/2021
-ms.openlocfilehash: 6f1d0805fab0488739cc35849c2fd5a64db7b35b
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: 78264234d1eefa50e3af67a35b884f884304e0b5
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960529"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246629"
 ---
 # <a name="tax-details-for-commercial-marketplace-publishers"></a>Informações fiscais para publicadores do marketplace comercial
 

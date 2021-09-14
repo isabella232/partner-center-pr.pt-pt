@@ -11,11 +11,11 @@ ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: a07742a55df088842f6bac1a1cbdd65bf0db8282
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123961350"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246635"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Install and preview the Partner Center Analytics app for Microsoft Power BI (Instalar e pré-visualizar a aplicação de Análise do Centro de Parceiros do Microsoft Power BI)
 

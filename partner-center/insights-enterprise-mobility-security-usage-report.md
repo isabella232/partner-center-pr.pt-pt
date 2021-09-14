@@ -9,11 +9,11 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.openlocfilehash: b78167823a26b16bfa51a7a948afeda027b9898e
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123961370"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246839"
 ---
 # <a name="enterprise-mobility--security-usage-report-available-from-the-partner-center-insights-dashboard"></a>Enterprise Mobility + Security relatório de utilização disponível no painel de instrumentos do Centro de Parceiros Informações
 

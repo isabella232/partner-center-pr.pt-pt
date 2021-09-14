@@ -10,11 +10,11 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 810c01c16bd6a2f9c6fa863289e1b788a057b627
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123961558"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126247283"
 ---
 # <a name="move-license-based-customers-from-other-channels--partners-to-the-cloud-solution-provider-csp-program"></a>Mover clientes baseados em licenças de outros canais & parceiros para o programa Fornecedor de Soluções em Nuvem (CSP)
 

@@ -10,11 +10,11 @@ ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 08/06/2020
 ms.openlocfilehash: 627c6f8d09a904e7d988c4229ec10eeac38dc2e9
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123959980"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246362"
 ---
 # <a name="manage-cancel-exchange-or-refund-microsoft-azure-reservations-for-customers"></a>Gerir, cancelar, trocar ou reembolsar reservas Microsoft Azure para clientes
 

@@ -10,11 +10,11 @@ ms.localizationpriority: medium
 ms.custom: SEOJULY.20
 ms.date: 03/31/2021
 ms.openlocfilehash: 393f0ee6c49cbbdf814a823f732bb4b92d4deb2e
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960009"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126247310"
 ---
 # <a name="analyze-subscriptions-and-licenses-to-help-you-drive-business-decisions-and-new-goals"></a>Analise subscrições e licenças para ajudá-lo a impulsionar decisões de negócios e novos objetivos
 

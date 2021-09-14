@@ -10,11 +10,11 @@ ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 1ff7a2c416939d1e941b51c7249bd787171f5d7e
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960549"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126247436"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-small-and-midmarket-cloud-solutions-competency"></a>Utilizar Indicadores de Contribuição de Parceiros para obter a competência Soluções de Cloud para Pequenas e Médias Empresas
 

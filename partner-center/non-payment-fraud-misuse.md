@@ -10,11 +10,11 @@ ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 07/14/2020
 ms.openlocfilehash: f74a1c091a4c5cd838f8856152c1498f3ecd9d2b
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123961049"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126247472"
 ---
 # <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>Managing non-payment, fraud, or misuse in Partner Center (Gestão de não pagamento, fraude ou utilização indevida no Centro de Parceiros)
 

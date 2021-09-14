@@ -9,11 +9,11 @@ ms.author: sroy
 ms.localizationpriority: medium
 ms.date: 03/01/2021
 ms.openlocfilehash: 798a8a7d26480e8a1fc23bca3af45bd6a0e44778
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960309"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126247034"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm-overview"></a>Conector de co-venda para visão geral da Dynamics 365 CRM
 

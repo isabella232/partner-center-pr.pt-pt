@@ -10,11 +10,11 @@ ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 2cfb8e05a9d09aa3b7214ac3c1024348348416d5
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960449"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126247454"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Gerir a sua conta Partner Center - perfil da empresa, informações bancárias, funções, permissões e muito mais
 

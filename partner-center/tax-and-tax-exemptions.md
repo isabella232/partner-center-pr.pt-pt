@@ -10,11 +10,11 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 2b79943185cbd940b164508ee8ac14203ddeccb8
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960049"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246632"
 ---
 # <a name="read-about-taxes-and-tax-exemption-details-by-region-or-country-for-partners-in-the-csp-program"></a>Leia sobre impostos e isenções fiscais por região ou país para parceiros no programa CSP
 

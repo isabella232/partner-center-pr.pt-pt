@@ -7,14 +7,13 @@ description: Saiba como os parceiros da Microsoft podem migrar de Partner Sales 
 author: vikramb
 ms.author: vikramb
 ms.localizationpriority: medium
-ms.custom: SEOMAY.20
-ms.date: 12/07/2020
-ms.openlocfilehash: d75f268b93d0a9c864bd6daeff3276810be7e928
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.date: 09/08/2021
+ms.openlocfilehash: a01fb06b346c3c24613d79872c67dbc9b7650e0a
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960750"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246737"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Guia para co-venda no Partner Center (PC) para parceiros que migram de Ligação de Vendas de Parceiros (PSC)
 
@@ -22,17 +21,22 @@ ms.locfileid: "123960750"
 
 Este artigo fornece orientações para os parceiros que migram de Partner Sales Ligação (PSC) para Partner Center (PC) para que possam continuar a criar e gerir ofertas de co-venda no Partner Center.
 
->[!Note]
+> [!NOTE]
 > Se está aqui porque viu um estandarte no PSC sobre a migração, está no lugar certo. Este guia não é aplicável para a Solution Assessment (SA) e para os parceiros comerciais de licenciamento da OEM que gerem as suas ofertas em PSC.
 
->[!Important]
-> A partir de 1 de abril de 2021 a sua empresa não poderá criar ou editar negócios no PSC. **Você ainda será capaz de descarregar os dados de ofertas existentes usando a capacidade de exportação a granel em PSC. Você também pode [migrar ofertas abertas](psc-to-pc.md#psc-deals-migration) de PSC para Partner Center após esta data.** <br><br> Se houver ofertas em que está a trabalhar ativamente que contenham soluções elegíveis de incentivo de CO-sell IP, tem duas opções: <br><br> 1. Marque o negócio como ganho e complete o registo de negócio no PSC antes de 31 de março de 2021. <br> 2. [Migrar as ofertas](psc-to-pc.md#psc-deals-migration) para o Partner Center para que tenha mais tempo para trabalhar no negócio e iniciar o registo de negócios.
+> [!IMPORTANT]
+> A partir de 1 de abril de 2021 a sua empresa não poderá criar ou editar negócios no PSC. **Você ainda será capaz de descarregar os dados de ofertas existentes usando a capacidade de exportação a granel em PSC. Você também pode [migrar ofertas abertas](psc-to-pc.md#psc-deals-migration) de PSC para Partner Center após esta data.**
+> 
+> Se houver ofertas em que está a trabalhar ativamente que contenham soluções elegíveis de incentivo de CO-sell IP, tem duas opções:
+> 
+> 1. Marque o negócio como ganho e complete o registo de negócio no PSC antes de 31 de março de 2021.
+> 2. [Migrar as ofertas](psc-to-pc.md#psc-deals-migration) para o Partner Center para que tenha mais tempo para trabalhar no negócio e iniciar o registo de negócios.
 
-Como sabem, **a empresa perderá acesso ao PSC depois de 30 de abril de 2021**. No entanto, ainda encontrará tudo o que pretende fazer no Partner Center, como criar ofertas de co-venda, gerir as suas ofertas e atuar em ofertas enviadas pelos vendedores da Microsoft.
+Embora a sua empresa perca acesso ao PSC depois de 30 de abril de 2021, ainda encontrará tudo o que pretende fazer no Partner Center, como criar ofertas de Co-venda, gerir as suas ofertas e atuar em negócios que lhe foram enviados pelos vendedores da Microsoft.
 
 Haverá diferenças, no entanto. A seguinte orientação pode ajudar a tornar a sua transição para o Partner Center mais suave e simples.
 
-## <a name="before-you-move-things-you-need-to-know"></a>Antes de te mexeres, as coisas que precisas de saber
+## <a name="things-to-know-before-moving"></a>Coisas a saber antes de se mover
 
 ### <a name="if-you-are-a-psc-admin"></a>Se você é um administrador psc
 
@@ -389,16 +393,14 @@ Se está aqui porque viu um banner no PSC mencionando "problema de associação 
 - O seu PDM cometeu um erro ao introduzir o ID mpn da sua conta nos sistemas internos que ligam a sua conta DESEC à sua conta Partner Center (MPN ID).
 - A sua empresa não completou a migração do Partner Membership Center (PMC) para Partner Center.
 
-Primeiro, encontre o ID MPN correto seguindo os passos abaixo
+Em primeiro lugar, encontre o ID MPN correto seguindo os passos abaixo.
 
-- Faça login na sua conta Partner Center
-- Utilize as orientações indicadas na documentação das [definições](./partner-center-account-setup.md#locate-your-mpn-id) de conta para localizar o ID MPN.
+1. Faça login na sua [conta Partner Center](https://partner.microsoft.com/dashboard).
+2. Utilize as orientações indicadas na documentação das [definições](./partner-center-account-setup.md#locate-your-mpn-id) de conta para localizar o ID MPN.
 
-Abaixo está uma imagem mostrando a localização exata onde você pode encontrar o seu Parceiro Centro MPN ID
+Abaixo está uma imagem mostrando a localização exata onde pode encontrar o seu ID MPN do Partner Center.
 
 :::image type="content" source="images/pscmigration/finding-mpn-id.png" alt-text="Imagem mostrando as definições da conta onde o parceiro pode encontrar o seu ID MPN."  lightbox="images/pscmigration/finding-mpn-id.png":::
-
-Seguinte
 
 - Se tiver um PDM, peça-lhes que o seu ID MPN é corrigido com o ID MPN correto da sua conta Partner Center.
 - Se não tiver um PDM, envie um e-mail para o endereço indicado no banner do PSC com as informações da conta do CPS mostradas no banner do PSC e o ID MPN correto da sua conta Partner Center.
@@ -409,11 +411,11 @@ Se ainda não leu os tópicos de ajuda de co-venda, os seguintes recursos irão 
 
 |**Para efetuar isto**   |**Leia isto**   |
 |-----------------------|:-----------------------|
-|Compreender os separadores e a navegação na página de oportunidades de co-venda|[Navegando na secção de co-venda](./manage-co-sell-opportunities.md#navigating-the-co-sell-section)|
+|Compreender os separadores e a navegação na página de Oportunidades de Co-venda|[Navegando na secção de co-venda](./manage-co-sell-opportunities.md)|
 |Selecionando uma organização de clientes da lista D&B |[Selecione o seu cliente](./manage-co-sell-opportunities.md#select-your-customer)|
 |Modificação dos campos na secção de detalhes do negócio|[Detalhes do negócio](./manage-co-sell-opportunities.md#deal-details)|
 |Adicionar os membros da sua equipa a uma equipa de negócios|[Adicione os seus colaboradores](./manage-co-sell-opportunities.md#add-team-members)|
-|Respondendo a um acordo de co-venda|[Gerir ofertas de co-venda](./manage-co-sell-opportunities.md#responding-to-a-co-sell-opportunity)
+|Respondendo a um acordo de Co-venda|[Gerir ofertas de co-venda](./manage-co-sell-opportunities.md#respond-to-a-co-sell-opportunity)
 |Registar ofertas que ganhou no Partner Center |[Registar um novo acordo](./register-deals.md)
 |Obtenha insights de referência e descubra como estão as suas referências |[Informações de referências](./referral-insights.md)
 |Criar e gerir o perfil de negócios|[Gerir perfil empresarial](./create-a-marketing-profile.md)

@@ -10,11 +10,11 @@ ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 907d1267164df267acab08675b4b9388fbf14474
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960970"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126247199"
 ---
 # <a name="upload-a-csv-file-of-users-to-a-customers-account"></a>Faça o upload de um ficheiro .csv de utilizadores para a conta de um cliente
 

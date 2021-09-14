@@ -10,11 +10,11 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
 ms.openlocfilehash: 95a201c53fc2eaf230d08bb4cfdd03a5747b5c05
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960740"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246434"
 ---
 # <a name="use-windows-autopilot-profiles-on-new-devices-to-customize-a-customers-out-of-box-experience"></a>Utilizar perfis do Windows Autopilot em novos dispositivos para personalizar a experiência inicial de um cliente
 

@@ -10,11 +10,11 @@ ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 10/30/2020
 ms.openlocfilehash: a8c56ee7b60345d64ff0fe3c82ffaa45256cea13
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123959909"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246515"
 ---
 # <a name="october-2020-announcements"></a>Anúncios de outubro de 2020
 
@@ -431,7 +431,7 @@ Reveja e atualize a documentação do seu cliente e os materiais de referência 
 
 ________________
 
-## <a name="microsoft-teams-rooms-premium-sku-launch"></a><a name="7"></a>Salas Microsoft Teams Premium lançamento do SKU
+## <a name="microsoft-teams-rooms-premium-sku-launch"></a><a name="7"></a>Salas Microsoft Teams Premium Lançamento do SKU
 
 ### <a name="categories"></a>Categorias
 
@@ -440,7 +440,7 @@ ________________
  
 ### <a name="summary"></a>Resumo 
 
-Salas Microsoft Teams Premium SKU para Microsoft Teams através do programa Fornecedor de Soluções em Nuvem (CSP) estará disponível a 1 de novembro de 2020. 
+Salas Microsoft Teams Premium O SKU para Microsoft Teams através do programa Fornecedor de Soluções em Nuvem (CSP) estará disponível a 1 de novembro de 2020. 
 
 ### <a name="impacted-audience"></a>Audiência impactada
 
@@ -448,13 +448,13 @@ Parceiros transacionando através do programa CSP
 
 ### <a name="details"></a>Detalhes
 
-O novo Salas Microsoft Teams Premium SKU para Salas Microsoft Teams está agora disponível para os seus clientes que adquirem CSP através de si a USD50 por dispositivo por mês. O Salas Microsoft Teams Premium SKU é uma alternativa ao Salas Microsoft Teams Standard SKU (anteriormente chamado Sala de reuniões licença). Este SKU inclui tudo na oferta Standard, como as licenças necessárias para Microsoft Teams, Skype para Empresas Online e gestão Intune. A oferta também permite Sistema Telefónico, necessário para a integração da Rede Telefónica Comutada Pública (PSTN) e Audio Conferencing, sempre que disponível.
+O novo Salas Microsoft Teams Premium SKU para Salas Microsoft Teams está agora disponível para os seus clientes que adquirem CSP através de si a USD50 por dispositivo por mês. O Salas Microsoft Teams Premium SKU é uma alternativa à Salas Microsoft Teams Standard SKU (anteriormente chamada licença Sala de reuniões). Este SKU inclui tudo na oferta Standard, como as licenças necessárias para Microsoft Teams, Skype para Empresas Online e gestão Intune. A oferta também permite Sistema Telefónico, necessário para a integração da Rede Telefónica Comutada Pública (PSTN) e Audio Conferencing, sempre que disponível.
 
 Com a oferta Premium, os clientes têm acesso aos recém-lançados serviços geridos Salas Microsoft Teams, onde os especialistas lidam com a gestão e operações das salas de reuniões em nome do cliente. Este serviço de gestão e monitorização de TI baseado na nuvem mantém Salas Microsoft Teams dispositivos e seus periféricos atualizados e seguros, bem como monitorizado e gerido de forma proativa, mantendo um ambiente otimizado para uma grande experiência no quarto.
 
 #### <a name="released-at-launch"></a>Lançado no lançamento
 
-   |**Serviço**|**Salas Microsoft Teams Dispositivo padrão USD15 por mês**|**Novo Salas Microsoft Teams Premium dispositivo USD50 por mês**|
+   |**Serviço**|**Salas Microsoft Teams Standard Dispositivo USD15 por mês**|**Novo Salas Microsoft Teams Premium dispositivo USD50 por mês**|
    |-------------------|:------|:------|
    |Skype para Empresas|Incluídos|Incluídos|
    |Microsoft Stream|Incluídos|Incluídos|

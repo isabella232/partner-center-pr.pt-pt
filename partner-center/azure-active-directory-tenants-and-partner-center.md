@@ -10,11 +10,11 @@ ms.custom: SEOAPR.20
 ms.localizationpriority: high
 ms.date: 6/17/2021
 ms.openlocfilehash: c1f74e2977b110befd38c741259e84dd8bc9acb6
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960369"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246422"
 ---
 # <a name="create-a-work-account-that-links-your-company-to-your-partner-center-account"></a>Crie uma conta de trabalho que ligue a sua empresa à sua conta Partner Center
 

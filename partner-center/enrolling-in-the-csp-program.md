@@ -10,11 +10,11 @@ ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.openlocfilehash: e3c757ba22573b4c3082e954a7b7f12b12dffa7a
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960410"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126247169"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Enroll in the Cloud Solution Provider program (Inscrever-se no programa do Fornecedor de Soluções Cloud)
 

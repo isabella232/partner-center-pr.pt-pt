@@ -10,11 +10,11 @@ author: mckennaville
 ms.author: mcville
 ms.date: 07/21/2021
 ms.openlocfilehash: 14f03a8eb899f7224a38b0f998edd72077b34b3b
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960990"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246263"
 ---
 # <a name="transfer-a-customers-azure-subscriptions-to-a-different-csp-under-an-azure-plan"></a>Transferir as subscrições Azure de um cliente para um CSP diferente (ao abrigo de um plano Azure)
 

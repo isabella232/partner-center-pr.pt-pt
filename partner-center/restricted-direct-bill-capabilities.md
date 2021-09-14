@@ -10,11 +10,11 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: edb67f6ae3054bf5214611ab3ac5ef4ed6713aef
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960730"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126248155"
 ---
 # <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>Capacidades de conta direta restritas e os requisitos necessários para os parceiros de conta direta da CSP
 

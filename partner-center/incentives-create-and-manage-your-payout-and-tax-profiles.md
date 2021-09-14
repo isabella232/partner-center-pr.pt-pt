@@ -9,11 +9,11 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.openlocfilehash: a6d578c2ad09e1f8bb03f520d659f1a9b1e199a9
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960489"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126248122"
 ---
 # <a name="create-and-manage-incentives-payout-and-tax-profiles-in-partner-center"></a>Criar e gerir incentivos no pagamento e perfis fiscais no Partner Center
 

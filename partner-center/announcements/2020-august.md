@@ -10,11 +10,11 @@ ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 08/14/2020
 ms.openlocfilehash: baeaf39dd75d3c39bb7cfee393c3f9c409d5ce33
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960209"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126247304"
 ---
 # <a name="august-2020-announcements"></a>Anúncios de agosto de 2020
 

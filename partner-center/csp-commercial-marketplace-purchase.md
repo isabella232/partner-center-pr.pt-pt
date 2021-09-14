@@ -10,11 +10,11 @@ ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 2984dbb3a02df91d5a2a284182476bf348a24f47
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960099"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126247223"
 ---
 # <a name="purchase-commercial-marketplace-products-for-your-customers-in-partner-center"></a>Compre produtos de mercado comercial para os seus clientes no Partner Center
 

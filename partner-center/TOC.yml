@@ -267,6 +267,8 @@
           displayName: mpn
     - name: Registar as suas ofertas
       href: register-deals.md
+    - name: FAQ em referências
+      href: referrals-faq.md
     - name: Análise de encaminhamento
       items:
         - name: Obtenha insights de pistas

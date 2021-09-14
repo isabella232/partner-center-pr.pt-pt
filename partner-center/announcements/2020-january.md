@@ -10,11 +10,11 @@ ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 07/10/2020
 ms.openlocfilehash: 2663e96eba7c36265a1fa7477935c6c64e73fea6
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123959889"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126247076"
 ---
 # <a name="january-2020-announcements"></a>Anúncios de janeiro de 2020
 

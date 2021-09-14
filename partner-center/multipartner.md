@@ -10,11 +10,11 @@ ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: a5d7e17e79ba97edfece5eda990349aa949909cd
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960200"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126247484"
 ---
 # <a name="multi-partner-support-for-customers-who-want-to-work-with-more-than-one-partner"></a>Apoio multi-parceiro para clientes que querem trabalhar com mais de um parceiro
 

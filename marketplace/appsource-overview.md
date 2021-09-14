@@ -8,11 +8,11 @@ ms.author: gushuchm
 ms.date: 08/16/2021
 ms.custom: contperf-fy21q3
 ms.openlocfilehash: 15b85abde224caafb3f2f6842eb4a38f7b767ffe
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123936999"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246722"
 ---
 # <a name="what-is-microsoft-appsource"></a>O que é o Microsoft AppSource?
 

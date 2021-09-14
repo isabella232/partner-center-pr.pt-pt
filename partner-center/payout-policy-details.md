@@ -1,18 +1,18 @@
 ---
 title: Agendamentos e processos de dividendos
 description: Conheça os pagamentos e transações, tais como horários de pagamento e processos de recuperação para o Azure Marketplace e outras transações.
-ms.service: marketplace
-ms.subservice: partnercenter-marketplace-publisher
+ms.service: partner-dashboard
+ms.subservice: partnercenter-payouts
 ms.topic: conceptual
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 05/25/2021
-ms.openlocfilehash: 417421ad51c30d067ce3eb2189534a391b2951a2
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: d30dbc3db4727aac815c37406d36f416b4563f10
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960520"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126247427"
 ---
 # <a name="payout-schedules-and-processes"></a>Agendamentos e processos de dividendos
 

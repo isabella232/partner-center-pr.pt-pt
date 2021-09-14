@@ -10,11 +10,11 @@ ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: acf7e19d98b6d3a9c48277f0b3276b26816572e8
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123961239"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126247181"
 ---
 # <a name="eligibility-requirements-for-the-solution-assessment-incentives-program"></a>Requisitos de elegibilidade para o Programa de Incentivos à Avaliação de Soluções
 

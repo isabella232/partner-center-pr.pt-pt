@@ -8,11 +8,11 @@ author: mingshen-ms
 ms.author: mingshen
 ms.date: 02/09/2021
 ms.openlocfilehash: 6a069db0334b13309e39e08bcc7b70f22eaa5c69
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123961522"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246614"
 ---
 # <a name="how-tax-policies-affect-payout-for-azure-marketplace"></a>Como as políticas fiscais afetam o pagamento do Azure Marketplace
 

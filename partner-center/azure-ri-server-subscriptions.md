@@ -10,11 +10,11 @@ ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 752b7b9eee2da69dec597f56d1ddc2968aa7c29a
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123961269"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246332"
 ---
 # <a name="acquire-provision--manage-azure-reserved-vm-instances-ri--server-subscriptions-for-customers"></a>Adquirir, provisão, & gerir Azure reservou vm instâncias (RI) + subscrições de servidores para clientes
 

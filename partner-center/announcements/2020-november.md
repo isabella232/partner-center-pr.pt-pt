@@ -10,11 +10,11 @@ ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
 ms.openlocfilehash: 981ddf4511be5e23092dae72bdf6e3d93e850d58
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960289"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246518"
 ---
 # <a name="november-2020-announcements"></a>Anúncios de novembro de 2020
 
@@ -444,7 +444,7 @@ Partilhe esta informação com todos os contactos apropriados na sua organizaç�
 
 ________________
 
-## <a name="microsoft-teams-rooms-premium-sku-launch"></a><a name="5"></a>Salas Microsoft Teams Premium lançamento do SKU
+## <a name="microsoft-teams-rooms-premium-sku-launch"></a><a name="5"></a>Salas Microsoft Teams Premium Lançamento do SKU
 
 ### <a name="categories"></a>Categorias
 
@@ -461,20 +461,20 @@ Todos os parceiros que transfiram através do programa Fornecedor de Soluções 
 
 ### <a name="details"></a>Detalhes
 
-O novo Salas Microsoft Teams Premium SKU para Salas Microsoft Teams está agora disponível para os seus clientes que adquirem CSP através de si a USD50 por dispositivo por mês. O Salas Microsoft Teams Premium SKU é uma alternativa à Salas Microsoft Teams Standard SKU (anteriormente denominada Licença de Sala de reuniões). Este SKU inclui tudo na oferta padrão, como as licenças necessárias para Microsoft Teams, Skype para Empresas Online e gestão Intune. A oferta também permite Sistema Telefónico — necessário para a integração da Rede Telefónica Comutada Pública (PSTN) — e a Conferência de Áudio, sempre que disponível. 
+O novo Salas Microsoft Teams Premium SKU para Salas Microsoft Teams está agora disponível para os seus clientes que adquirem CSP através de si a USD50 por dispositivo por mês. O Salas Microsoft Teams Premium SKU é uma alternativa à Salas Microsoft Teams Standard SKU (anteriormente denominada licença de Sala de reuniões). Este SKU inclui tudo na oferta padrão, como as licenças necessárias para Microsoft Teams, Skype para Empresas Online e gestão Intune. A oferta também permite Sistema Telefónico — necessário para a integração da Rede Telefónica Comutada Pública (PSTN) — e a Conferência de Áudio, sempre que disponível. 
 
 Com a oferta premium, os clientes têm acesso aos recém-lançados serviços Salas Microsoft Teams Geridos, onde os especialistas lidam com a gestão e operações das salas de reuniões em nome do cliente. Este serviço de gestão e monitorização de TI baseado na nuvem mantém Salas Microsoft Teams dispositivos e periféricos atualizados e seguros. Também são monitorizados e geridos proativamente, mantendo um ambiente otimizado para uma grande experiência no quarto.
 
 #### <a name="released-at-launch"></a>Lançado no lançamento
 
-   |****|**Salas Microsoft Teams Dispositivo standard USD15 por mês**|**Salas Microsoft Teams Premium dispositivo USD50 por mês**|
+   |****|**Salas Microsoft Teams Standard Dispositivo USD15 por mês**|**Salas Microsoft Teams Premium Dispositivo USD50 por mês**|
    |-------------------|:------|:------|
    |Skype para Empresas|Yes| |
    |Microsoft Stream|Yes|Yes|
    |Sistema Telefónico|Yes|Yes|
    |Conferência sonora|Yes|Yes|
    |Microsoft Intune|Yes|Yes|
-   | |Salas Microsoft Teams USD15 padrão por dispositivo por mês|Salas Microsoft Teams Premium USD50 por dispositivo por mês|
+   | |Salas Microsoft Teams Standard USD15 por dispositivo por mês|Salas Microsoft Teams Premium USD50 por dispositivo por mês|
    |Salas Microsoft Teams Serviços Geridos| |Yes|
    |Disponibilidade mundial|Yes|Em mercados selecionados|
 

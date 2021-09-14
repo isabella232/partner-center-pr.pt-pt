@@ -1,19 +1,19 @@
 ---
 title: Registar as suas ofertas
 ms.topic: article
-ms.date: 06/29/2021
+ms.date: 09/08/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-referrals
 description: Quando registas um acordo que ganhaste no Partner Center, ajuda a Microsoft a proporcionar-te mais oportunidades no futuro.
 author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: medium
-ms.openlocfilehash: 085e3418ee6689203dfb7be699acb9955e7ed7f3
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: 22dcf93c5028716fc3810c826abe1819459e58e1
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960349"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126248197"
 ---
 # <a name="register-deals-youve-won-in-partner-center"></a>Registar ofertas que ganhou no Partner Center
 
@@ -26,17 +26,25 @@ Há dois caminhos que levam ao registo de negócios:
 - Criou um novo acordo na secção **de oportunidades de Co-venda,** e o seu negócio cumpre os critérios para o registo de negócios.
 - Quer reportar um acordo de Ligação isv fechado, que não foi co-vendido com a Microsoft.
 
+> [!IMPORTANT]
+> Se o negócio for elegível para o registo de negócios, certifique-se de que há uma lacuna de 72 horas entre a criação do negócio e o negócio sendo marcado como ganho. Fechar o negócio como ganho mais cedo do que isso pode resultar na rejeição dos registos de negócio.
+
 ## <a name="register-a-deal-originating-from-a-co-sell-opportunity"></a>Registar um negócio originário de uma oportunidade de co-venda
 
-Se pretender registar um negócio originário de uma oportunidade de co-venda, o seu negócio deve cumprir os seguintes requisitos de elegibilidade:
+Se procura registar um negócio originário de uma oportunidade de Co-venda, o seu negócio deve cumprir os seguintes requisitos de elegibilidade:
 
-- O tipo de negócio é co-venda ou liderado por parceiros (você optou por permitir que os vendedores da Microsoft vejam esta oferta).
+- O tipo de negócio é co-venda ou liderado por parceiros (você optou por permitir que os vendedores da Microsoft vejam este negócio).
+- O valor do negócio é superior ou igual a USD 25.000. A conversão cambial baseia-se nas taxas de [câmbio mensais publicadas](https://www.reuters.com/markets/currencies) pela Reuters.
+- A conta de cliente selecionada para o negócio é gerida pela Microsoft. Estas são contas onde a equipa de vendas da Microsoft tem uma relação existente com a empresa.
 - Há pelo menos uma solução elegível para incentivos no negócio. Uma solução é elegível para incentivos se contiver pelo menos uma das seguintes etiquetas:
   - Venda Conjunta do Azure IP
   - Business Applications Premium
   - Business Applications Standard
-- O estado do acordo é "Won".
-- Se o tipo de negócio for co-vendido, a Microsoft deve ter aceitado o convite ou marcado o negócio como ganho. Para saber o estado da Microsoft, veja o cartão da Microsoft abaixo dos detalhes do negócio.
+- O estado do acordo é **Won.**
+- Se o tipo de negócio for Co-venda, a Microsoft deve ter aceitado o convite ou marcado o negócio como ganho. Para saber o estado da Microsoft, veja o cartão da Microsoft abaixo dos detalhes do negócio.
+
+> [!Important]
+> Registe o negócio apenas se o nome da sua empresa e a solução elegível de incentivo no negócio forem claramente mencionados no contrato com o cliente.
 
 Se tiver cumprido os requisitos de elegibilidade, será automaticamente solicitado que registe o seu acordo com um botão **Register now** mostrado na barra de progresso do negócio:
 
@@ -44,6 +52,21 @@ Se tiver cumprido os requisitos de elegibilidade, será automaticamente solicita
 
 > [!NOTE]
 > Se o item **de registo do Deal** não aparecer na barra de progresso do negócio para o seu negócio, então o negócio não satisfaz todos os requisitos para o registo de negócio.
+
+Pode optar por registar o negócio imediatamente após a marcação do negócio como ganho ou num momento posterior através do botão de ciclo de vida do negócio Register now. Uma vez registado o negócio, pode ver o progresso da validação do negócio a partir do mesmo ciclo de vida. Se houver alguma ação necessária da sua empresa, os erros adequados são mostrados na visão do ciclo de vida do negócio. O negócio entra num estado fechado quando a validação do negócio estiver concluída.
+
+### <a name="combinations"></a>Combinações
+
+A tabela abaixo mostra as combinações de quem pode ser convidado nesta fase do negócio.
+
+|**Tipo de negócio original**|**Quem pode ser convidado**|**Notas**|
+|-----|:-----|:-----|
+|Privado|Microsoft e/ou outros parceiros|O negócio será atualizado para Co-vender se a Microsoft for convidada.|
+|Privado|Equipa de vendas da Microsoft para ver as ofertas|O negócio será atualizado para parceiros liderados por parceiros quando a equipa de vendas da Microsoft receber visibilidade para as ofertas.|
+|Liderado por parceiros|Microsoft e/ou outros parceiros|O negócio será atualizado para Co-vender se a Microsoft for convidada.|
+|Co-vender|Outros parceiros|Outros parceiros só podem ser convidados se a sua empresa iniciar o negócio. Os parceiros não podem ser convidados para ofertas no separador Entrada.|
+|Parceiro para parceiro sem Microsoft|Microsoft|O acordo será atualizado para um acordo de co-venda.|
+|Parceiro para parceiro sem Microsoft|Outros parceiros||
 
 Depois de clicar **em Registar agora,** será redirecionado para a página De Registo de Negócios e solicitado para preencher um formulário com o qual inclui informações pré-preenchidas para o seu cliente e solução. Preencha o formulário usando as instruções abaixo e clique em **Registar**.
 
@@ -61,7 +84,7 @@ Para reportar um acordo de Ligação isv fechado, vá ao **separador de registo 
 > [!NOTE]
 > Pode filtrar ofertas com o nome do cliente, estado e tipo de negócio. Para tal, clique no botão **Filtro** na parte superior da página 'Registar oferta'.
 
-Quer tenha vindo a negociar o registo de uma oportunidade de co-venda, ou se está a reportar um acordo de Ligação ISV fechado, que não foi co-vendido com a Microsoft, será solicitado que preencha os seguintes campos no formulário de registo de negócio.
+Quer tenha vindo a negociar o registo de uma oportunidade de Co-venda, ou se está a reportar um acordo de Ligação ISV fechado, que não foi co-vendido com a Microsoft, será solicitado que preencha os seguintes campos no formulário de registo de negócio.
 
 - **Detalhes do cliente**: **Insira** o nome da Empresa para o seu cliente e selecione o seu **País/Região.** Em **seguida,** entre na sua Cidade e **Estado/Província.**
 - **Solução**: Selecione a solução que será utilizada para o negócio. Se não vir a solução certa listada, contacte o suporte.
@@ -77,16 +100,16 @@ Quer tenha vindo a negociar o registo de uma oportunidade de co-venda, ou se est
 
 Quando tiver concluído todas as secções da página, clique em **Registar**.
 
-- Se o negócio for um acordo de Ligação ISV, você vai notar que o estado do negócio é "Submetido, Concluído". Não são necessárias mais medidas neste registo de contrato. Este disco será usado para faturação.
-- Se o negócio for um acordo de co-venda IP, você vai notar que o estado do negócio é "Submetido". A equipa de revisão de negócios da Microsoft Co-sell irá rever as informações que forneceu neste registo de registo de negócio. A equipa de revisão solicitará mais medidas consigo, se necessário, ou aprovará/rejeitará diretamente o negócio.
+- Se o negócio for um acordo de Ligação ISV, você vai notar que o estado do negócio é **submetido, concluído**. Não são necessárias mais medidas neste registo de contrato. Este disco será usado para faturação.
+- Se o negócio for um acordo de co-venda IP, você vai notar que o estado do negócio é **submetido**. A equipa de revisão de negócios da Microsoft Co-sell irá rever as informações que forneceu neste registo de registo de negócio. A equipa de revisão solicitará mais medidas consigo, se necessário, ou aprovará ou rejeitará o negócio diretamente.
 - Se está a registar um negócio originário de uma oportunidade de Co-venda, e vê que foram criados dois registos de registo de negócios, significa que a solução no seu negócio é elegível tanto para a ISV Ligação como para a CO-venda IP. O registo de Ligação ISV será usado para faturação. O disco de co-venda IP será revisto pela equipa de validação de negócios de Co-venda.
 
 ## <a name="simplified-deal-registration-for-commercial-marketplace-transactions"></a>Registo de transações simplificadas para transações comerciais no mercado
 
-Co-Sell ganha a transação através do [mercado comercial](/azure/marketplace/) beneficiará de uma simplificação significativa do formulário de registo de negócio.  Além disso, as transações transacionadas através do Mercado Comercial não exigirão chamadas suplementares de revisão de negócios, poupando tempo e esforço operacional.
+A co-venda ganha a transação através do [mercado comercial](/azure/marketplace/) beneficiará de uma simplificação significativa do formulário de registo do negócio.  Além disso, as transações transacionadas através do Mercado Comercial não exigirão chamadas suplementares de revisão de negócios, poupando tempo e esforço operacional.
 
 Só precisa de fornecer três informações:
 
-1. Indique (caixa de verificação) o negócio transacionado ou irá transagir através do mercado comercial.
-2. Data de transação estimada (MM-DD-YYYY).
+1. Indique selecionando a caixa de verificação se o negócio é transacionado ou irá transagir através do mercado comercial.
+2. Data de transação estimada (em `mm-dd-yyyy` formato).
 3. Registar os dados de contacto do parceiro, caso haja dúvidas sobre o negócio.

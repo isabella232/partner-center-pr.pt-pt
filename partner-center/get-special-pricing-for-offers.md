@@ -10,11 +10,11 @@ ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: d5d6004299ebd8e5d94a51837e486b66a88b4aa1
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960639"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126247121"
 ---
 # <a name="sell-to-specialized-industries-like-education-non-profit-and-government-users"></a>Vender a indústrias especializadas como utilizadores de educação, sem fins lucrativos e governamentais
 

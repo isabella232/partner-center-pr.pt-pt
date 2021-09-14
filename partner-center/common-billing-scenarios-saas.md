@@ -10,11 +10,11 @@ ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 9568a014de926682dd89dd9d06d1c6ca5b98ac71
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960069"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126247040"
 ---
 # <a name="common-billing-scenarios-for-license-based-saas-transactions-in-partner-center"></a>Cenários comuns de faturação para transações saaS baseadas em licenças no Partner Center
 

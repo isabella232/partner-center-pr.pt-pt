@@ -10,11 +10,11 @@ ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 03/24/2021
 ms.openlocfilehash: aa8f08b52a16aae56b02b09d5fdf607e92180ca5
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960059"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126247379"
 ---
 # <a name="how-to-confirm-that-your-customer-has-accepted-the-microsoft-customer-agreement-to-the-csp-program"></a>Como confirmar que o seu cliente aceitou o Acordo de Cliente da Microsoft para o programa CSP
 

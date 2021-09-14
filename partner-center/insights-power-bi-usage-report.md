@@ -9,11 +9,11 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.openlocfilehash: 1f4cb47cf8cd3dbd12a57cab40a5a5d09888f324
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123961400"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246830"
 ---
 # <a name="power-bi-usage-report-available-from-the-partner-center-insights-dashboard"></a>Power BI relatório de utilização disponível no painel de instrumentos do Partner Center Informações
 

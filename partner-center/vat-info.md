@@ -9,11 +9,11 @@ ms.date: 12/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-enroll
 ms.openlocfilehash: af342ef92613adbeb7ac37e0dd5e813949e67e03
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123961571"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246563"
 ---
 # <a name="value-added-tax-vat-information"></a>Informação sobre o imposto sobre o valor acrescentado (IVA)
 

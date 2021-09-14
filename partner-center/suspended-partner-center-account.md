@@ -10,11 +10,11 @@ ms.author: kiranban
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 84448566bb3a5d4ef8655ccfee86e7d39f4a6642
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123961559"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246725"
 ---
 # <a name="restore-a-suspended-partner-center-account---learn-why-it-happens-and-what-to-do-about-it"></a>Restaurar uma conta do Centro de Parceiros suspensa – saiba porque acontece e o que pode fazer
 

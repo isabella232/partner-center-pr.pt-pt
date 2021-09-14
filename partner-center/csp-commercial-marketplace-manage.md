@@ -10,11 +10,11 @@ ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 14901b47b7363b2d87861be43a7071d9f23545cc
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960080"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126247226"
 ---
 # <a name="manage-commercial-marketplace-products-and-offers-for-your-customers"></a>Gerir produtos e ofertas de marketplace comercial para os seus clientes
 

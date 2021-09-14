@@ -10,11 +10,11 @@ ms.custom: SEOAPR.20
 ms.localizationpriority: High
 ms.date: 12/02/2019
 ms.openlocfilehash: 40bf84ed47c946b84f511693d9f8351b3ffa5a95
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123961070"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246386"
 ---
 # <a name="begin-using-pay-as-you-go-rates-with-the-azure-plan"></a>Comece a usar as taxas de pagamento com o plano Azure
 

@@ -10,11 +10,11 @@ ms.date: 04/12/2021
 ms.localizationpriority: medium
 ms.custom: contperf-fy21q4
 ms.openlocfilehash: 478bcba56e1763cc8a69b98bede0dc63c7a1cdad
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960109"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126246608"
 ---
 # <a name="verify-or-update-your-company-profile-information"></a>Verificar ou atualizar as informações do perfil da empresa 
 
