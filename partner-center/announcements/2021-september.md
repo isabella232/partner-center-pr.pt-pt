@@ -10,17 +10,55 @@ ms.custom:
 - announcement
 - references_regions
 ms.localizationpriority: high
-ms.date: 09/10/2021
-ms.openlocfilehash: dfb3d2dccfdec0512e8517ab7d815bd076570958
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.date: 09/13/2021
+ms.openlocfilehash: f34234bebb8353315029eaab76aa52cb30df6e6a
+ms.sourcegitcommit: 847ad384d44a5a673791cb2950af02225d8174c9
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126246467"
+ms.lasthandoff: 09/15/2021
+ms.locfileid: "127828237"
 ---
 # <a name="september-2021-announcements"></a>Anúncios de setembro de 2021
 
 Esta página fornece os anúncios para o Microsoft Partner Center para setembro de 2021.
+
+_____________
+
+## <a name="coming-soon-delegated-administrative-privileges-monitoring-and-self-service-removal"></a><a name="11"></a> Em breve: Privilégios administrativos delegados de monitorização e remoção de autosserviço
+
+### <a name="categories"></a>Categorias
+
+- Data: 2021-13-10
+- Capacidades
+
+### <a name="summary"></a>Resumo
+
+A Microsoft está a lançar novas ferramentas de reporte que exibem ligações de privilégios administrativos delegados ativos (DAP) para que os parceiros possam desligar as ligações DAP não usadas.
+
+### <a name="impacted-audience"></a>Audiência impactada
+
+Parceiros de conta direta, fornecedores indiretos e revendedores indiretos que transfiram através do programa Fornecedor de Soluções em Nuvem
+
+### <a name="details"></a>Detalhes
+
+Os parceiros podem usar privilégios administrativos delegados (DAP) para gerir e apoiar os serviços dos seus clientes.
+
+Para melhorar a segurança dentro do ecossistema do parceiro e do cliente, a Microsoft recomenda desligar o DAP quando este não estiver a ser utilizado.
+
+A partir do final de outubro, a Microsoft lançará novas ferramentas de reporte para que os agentes da administração dos parceiros possam auditar as ligações do DAP com os seus clientes. Este relatório irá capturar a forma como os agentes parceiros estão a aceder aos inquilinos dos clientes através de todos os inquilinos através do DAP. Os parceiros podem então rever e remover as ligações DAP que não estão a ser utilizadas.
+
+Para saber mais sobre este novo recurso de relatório, criámos um [guia](https://partner.microsoft.com/resources/detail/dap-monitoring-and-self-serve-removal-pdf) que documenta os vários filtros e campos que estão disponíveis no relatório.
+
+#### <a name="key-considerations"></a>Considerações principais
+
+- Desligar o acesso do DAP a um cliente irá desligar o privilégio de administrador do parceiro para gerir as capacidades do cliente.  
+- Os parceiros de transação podem continuar a fazer encomendas em nome dos seus clientes.
+- Os agentes parceiros já não podem levantar um bilhete de apoio para os seus clientes para a Microsoft.  
+- Desligar o DAP não afetará as atuais funções de controlo de acesso baseadas em funções numa subscrição e não afetará os créditos ganhos por parceiros.
+
+### <a name="next-steps"></a>Passos seguintes
+
+Reveja os [recursos](https://partner.microsoft.com/resources/collection/delegated-administrative-privileges-dap#/) sobre este tema e partilhe com as partes interessadas apropriadas na sua organização.
 
 ## <a name="september-cloud-solution-provider-community-update-and-reminders"></a><a name="10"></a>Setembro Fornecedor de Soluções em Nuvem atualização comunitária e lembretes
 
@@ -193,25 +231,10 @@ As seguintes API's serão impactadas e os detalhes foram partilhados e atualizad
 
 Os revendedores adicionais terão impacto nos parceiros que transacionam nos seguintes países da UE/EFTA:
 
-| Países | Países | Países |
-| ----- |----- | ----- |
-| Andorra | Grécia | Noruega |
-| Áustria | Gronelândia | Polónia |
-| Bélgica | Guernesey | Portugal |
-| Ilha Bouvet | Santa Sé (Cobre a Cidade do Vaticano) | Roménia |
-| Bulgária | Hungria | São Marino |
-| Croácia | Islândia | Eslováquia |
-| Chipre | Irlanda | Eslovénia |
-| Checa | Ilha de Man | Espanha |
-| Dinamarca | Itália | Svalbard e Jan Mayen |
-| Estónia | Jersey | Suécia |
-| Ilhas Faroé | Letónia | Suíça |
-| Finlândia | Listenstaine | Noruega |
-| França | Lituânia | Polónia |
-| Alemanha | Luxemburgo | Portugal |
-| Gibraltar | Malta | Roménia |
-| Mónaco | São Marino | Países Baixos |
-| Eslováquia | Reino Unido: TBD |
+| Países da UE /EFTA | &nbsp; | &nbsp; |
+| --- | --- | --- |
+| Andorra<br>Áustria<br>Bélgica<br>Ilha Bouvet<br>Bulgária<br>Croácia<br>Chipre<br>Checa<br>Dinamarca<br>Estónia<br>Ilhas Faroé<br>Finlândia<br>França<br>Alemanha<br>Gibraltar | Grécia<br>Gronelândia<br>Guernesey<br>Santa Sé (Cobre a Cidade do Vaticano)<br>Hungria<br>Islândia<br>Irlanda<br>Ilha de Man<br>Itália<br>Jersey<br>Letónia<br>Listenstaine<br>Lituânia<br>Luxemburgo<br>Malta | Mónaco<br>Países Baixos<br>Noruega<br>Polónia<br>Portugal<br>Roménia<br>São Marino<br>Eslováquia<br>Eslovénia<br>Espanha<br>Svalbard e Jan Mayen<br>Suécia<br>Suíça<br>Reino Unido: TBD |
+|
 
 Para participar no piloto, contacte o seu especialista em assuntos (Ali Khaki) e forneça o ID do inquilino parceiro para que possam ser adicionados ao voo.
 
@@ -277,8 +300,31 @@ A oferta impactada inclui:
 
 Os parceiros que transacionam serviços licenciados em USD devem baixar a lista de preços mais recente para ver o preço corrigido.
 
-_____________
+________________
+## <a name="nigeria-and-thailand-are-now-microsoft-managed-countries"></a><a name="4-5"></a>Nigéria e Tailândia são agora países geridos pela Microsoft
 
+### <a name="categories"></a>Categorias
+
+- Data: 2021-09-01
+- Capacidades
+
+### <a name="summary"></a>Resumo
+
+Nigéria e Tailândia são agora países geridos pela Microsoft.
+
+### <a name="impacted-audience"></a>Audiência impactada
+
+Parceiros transacionando na Nigéria e na Tailândia.
+
+### <a name="details"></a>Detalhes
+
+Consulte [os detalhes fiscais para editores de mercado comercial.](../tax-details-marketplace.md)
+
+### <a name="questions"></a>Perguntas
+
+Para mais perguntas sobre estas ofertas, verifique as suas comunidades Yammer relevantes.
+
+________________
 ## <a name="announcing-intune-per-device-for-enterprise-for-csp-partners"></a><a name="4"></a>Anunciando Intune por dispositivo para empresas para parceiros da CSP
 
 ### <a name="categories"></a>Categorias
@@ -312,7 +358,7 @@ Itens a notar sobre a nova oferta intune por dispositivo:
 - Só está disponível para CSPs e não está disponível em Licenciamento de Volume ou Web Direct.
 - O custo é de $150 (USD/ERP) para uma subscrição de cinco anos.
 - ID da oferta: 5170ccfb-e95b-49a4-b7f3-31f631a356ba
-- Funcionará fora da caixa para Windows dispositivos que são atribuídos a um único utilizador autenticado.
+- Funcionará fora da caixa para Windows dispositivos atribuídos a um único utilizador autenticado.
 - A oferta não inclui acesso condicional baseado em dispositivos.  
 
 ### <a name="questions"></a>Perguntas

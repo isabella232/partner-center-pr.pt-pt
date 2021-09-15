@@ -8,12 +8,12 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 951018812e8dbf8af4c47e6a6573c2c62e6be1dc
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: 6f70a4a30346c6ef82e36c414559da6e79a373e0
+ms.sourcegitcommit: 847ad384d44a5a673791cb2950af02225d8174c9
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123961390"
+ms.lasthandoff: 09/15/2021
+ms.locfileid: "127828373"
 ---
 # <a name="view-available-earned-claimed-and-remaining-co-op-funds"></a>Ver disponíveis ganhos, reclamados e restantes fundos cooperativos
 
@@ -31,7 +31,7 @@ Pode rastrear, monitorizar e conciliar os seus fundos de cooperação de incenti
 
 4. No dropdown acima do azulejo reivindicado pela **Cooperativa,** selecione o período de utilização que deseja ver. Isto mostrará os valores para **Co-op ganhos,** **Co-op reclamado**, e **Restante cooperativa** para o período selecionado.
 
-5. A data de validade do período selecionado aparece abaixo do **visor restante da cooperativa.**  
+5. O prazo para qualquer nova submissão de reclamações aparece abaixo do **visor restante da cooperativa.**  
 
 6. Para visualizar todas as reclamações submetidas para o período selecionado, percorra para a parte inferior da página.
 
@@ -45,6 +45,9 @@ Os ganhos de cooperação para o período de ganhos em curso só são visíveis 
 1. Na sua página **de histórico de transações,** selecione as datas para o período de ganhos em curso.
 2. Sob o filtro **tipo Resultado,** selecione **Co-op**. Os seus ganhos serão exibidos.
 3. Selecione **Baixar** para descarregar estes dados.
+
+### <a name="co-op-threshold"></a>Limiar de cooperação
+Se os ganhos de cooperativa de um parceiro estiverem abaixo do valor limiar num período de ganhos cooperativos, não se qualificarão para utilizar fundos e receberão os ganhos cooperativos como desconto no final do semestre. Consulte o guia do programa para obter o valor limiar. 
 
 Se ainda tiver problemas em conciliar os montantes, ou se alguns fundos cooperativos não estiverem visíveis, pode abrir um bilhete de apoio. Para isso, selecione o ícone de ponto de interrogação a partir do canto superior direito da página e, em seguida, selecione **Incentivos**.
 

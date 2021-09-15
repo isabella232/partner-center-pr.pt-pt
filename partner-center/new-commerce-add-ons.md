@@ -1,20 +1,20 @@
 ---
 title: Novos add-ons de comércio
 ms.topic: article
-ms.date: 08/30/2021
+ms.date: 09/03/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-pricing
 description: Conheça novas experiências de comércio para comprar addons.
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 539aa939d980f7b40abc44789a08d153a8abdfaa
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: 01644e5d2dd2fe2057d223b62f1f4e9d6f9cd101
+ms.sourcegitcommit: 847ad384d44a5a673791cb2950af02225d8174c9
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123961440"
+ms.lasthandoff: 09/15/2021
+ms.locfileid: "127828287"
 ---
 # <a name="introduction-new-commerce-add-ons"></a>Introdução: Novos complementos de comércio
 

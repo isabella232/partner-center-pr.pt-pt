@@ -10,12 +10,12 @@ ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
 ms.date: 10/05/2020
-ms.openlocfilehash: 2cdcf88d765ab37200e0e62bdbff2bbc8d26027d
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: 78aab2c29a9c01b615112f08aba2f724c1d54812
+ms.sourcegitcommit: 847ad384d44a5a673791cb2950af02225d8174c9
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960159"
+ms.lasthandoff: 09/15/2021
+ms.locfileid: "127828254"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>Inscreva-se no programa Fornecedor de Soluções em Nuvem para Microsoft Cloud for US Government
 
@@ -44,7 +44,7 @@ Para criar uma conta partner Center e inscrever-se na CSP para Microsoft Cloud f
 
 ### <a name="step-1---create-a-partner-center-account-for-microsoft-cloud-for-us-government"></a>Passo 1 - Criar uma conta de Centro de Parceiros para Microsoft Cloud for US Government
 
-1. Inicie o processo de inscrição [aqui.](https://partnercenter.microsoft.com/register/resellerusgjoinnow)
+1. Inicie o processo de inscrição no [Welcome to Partner Center para Microsoft Cloud for US Government!](https://partnercenter.microsoft.com/register/resellerusgjoinnow)
 
 2. Inscreva-se com credenciais de administração global para o inquilino da AZure AD da sua organização para Microsoft Cloud for US Government. Se a sua organização não tiver uma conta para este portal, pode solicitar uma preenchendo o [formulário de Validação da Nuvem do Governo](https://azuregov.microsoft.com/csp)da Microsoft.
 
@@ -59,7 +59,7 @@ Para criar uma conta partner Center e inscrever-se na CSP para Microsoft Cloud f
 
 ### <a name="step-3---sign-the-reseller-agreement-for-microsoft-cloud-for-us-government"></a>Passo 3 - Assine o acordo de revendedor para Microsoft Cloud for US Government
 
-1. Inscreva-se no Partner Center for Microsoft Cloud for US Government utilizando o link fornecido no e-mail de aprovação da aplicação.
+1. Inscreva-se no Partner Center para Microsoft Cloud for US Government utilizando o link no e-mail de aprovação da aplicação.
 
 2. Na página **Do Acordo,** leia os termos e, se concordar, selecione **Aceite e continue a** assinar digitalmente o acordo de revendedor para Microsoft Cloud for US Government. Criar a sua conta pode demorar várias horas. Pode assinar no Partner Center para Microsoft Cloud for US Government e depois voltar a entrar.
 
@@ -72,7 +72,7 @@ Microsoft Cloud for US Government fornece uma instância separada de Microsoft A
 
 1. Inscreva-se no portal de administração Microsoft Azure em [https://portal.azure.us/](https://portal.azure.us/) .
 
-2. Atribua o papel de Agente Administrador aos utilizadores apropriados na sua organização. Para isso, terá de adicionar estes utilizadores ao grupo **AdminAgent** incorporado. Consulte [Gerir os membros de um grupo em Azure Ative Directory](/azure/active-directory/active-directory-groups-members-azure-portal) para obter informações sobre como fazê-lo.
+2. Atribua o papel de Agente Administrador aos utilizadores apropriados na sua organização. Para isso, terá de adicionar estes utilizadores ao grupo **AdminAgent** incorporado. Consulte [Gerir os membros de um grupo em Azure Ative Directory](/azure/active-directory/active-directory-groups-members-azure-portal) para obter mais informações.
 
 ## <a name="connect-with-us"></a>Ligue-se a nós
 

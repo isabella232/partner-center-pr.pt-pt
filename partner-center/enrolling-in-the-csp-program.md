@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e3c757ba22573b4c3082e954a7b7f12b12dffa7a
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: 498148f661a728979073ea43e3c186f2f0bb5ae6
+ms.sourcegitcommit: 847ad384d44a5a673791cb2950af02225d8174c9
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126247169"
+ms.lasthandoff: 09/15/2021
+ms.locfileid: "127828322"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Enroll in the Cloud Solution Provider program (Inscrever-se no programa do Fornecedor de Soluções Cloud)
 
@@ -22,23 +22,25 @@ ms.locfileid: "126247169"
 
 ## <a name="get-started"></a>Introdução
 
-A procura crescente de soluções e serviços baseados na nuvem proporciona muitas oportunidades para os parceiros da Microsoft de todos os tamanhos construirem negócios rentáveis de soluções de nuvem. Os parceiros que estão prontos a entrar no mercado, mas que não querem ter de gerir vários fornecedores, ou que podem não ter uma infraestrutura de gestão de relacionamento com o cliente de ponta a ponta, podem inscrever-se no programa Fornecedor de Soluções em Nuvem (CSP) da Microsoft como revendedores indiretos.
+A procura crescente de soluções e serviços baseados na nuvem significa muitas oportunidades para os parceiros da Microsoft de todos os tamanhos construirem negócios de soluções de nuvem rentáveis. Os parceiros que estão prontos a entrar no mercado, mas que não querem ter de gerir vários fornecedores, ou que podem não ter uma infraestrutura de gestão de relacionamento com o cliente de ponta a ponta, podem inscrever-se no programa Fornecedor de Soluções em Nuvem (CSP) da Microsoft como revendedores indiretos.
 
-Para se inscrever no programa Fornecedor de Soluções em Nuvem, primeiro precisa de um ID MPN. Ainda não tem uma? Junte-se [aqui.](https://partner.microsoft.com/)
+
+Para se inscrever no programa Fornecedor de Soluções em Nuvem, primeiro precisa de um ID MPN. Ainda não tem uma? [Junte-se à Rede de Parceiros da Microsoft](https://partner.microsoft.com/).
 
 Para completar a aplicação CSP, você precisará do ID MPN da sua empresa, endereço de negócio completo, informações bancárias, e o e-mail de trabalho para o colaborador que atuará como administrador do Centro de Parceiros.
 
 1. Inscreva-se no [painel de instrumentos](https://partner.microsoft.com/dashboard/) do Partner Center com o seu email de trabalho (ou seja, as credenciais de inquilino Azure AD).
 
 2. Associe o seu ID MPN ao seu perfil.
-    - Se já está inscrito no programa MPN, selecione o ID MPN de localização que está ligado às suas inscrições de incentivos. A localização MPN ID deve estar ativa e localizada no mesmo país que a sua conta CSP.
+    - Se já está inscrito no programa MPN, selecione o ID MPN de localização, que está ligado às suas inscrições de incentivos. A localização MPN ID deve estar ativa e localizada no mesmo país que a sua conta CSP.
     - Se não se inscreveu no programa MPN, [inscreva-se hoje](mpn-overview.md).
 
 3. Crie o seu perfil de parceiro. Pode procurar o perfil da empresa ou introduzir informações da empresa manualmente. Se a sua empresa estiver registada na [Dun & Bradstreet,](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad)utilize o ID DUNS para consultar as informações da sua empresa. Se quiser fornecer os seus dados da sua empresa,  **selecione Enter manualmente**.
 
-    Para alguns países, quando introduzir o seu endereço manualmente, validaremos o seu endereço para si. Se o endereço que insere diferir do validado, sugerimos que utilize o endereço validado. Isto garante que os elementos do endereço são normalizados conforme definido pela autoridade postal do país, corretamente formatados e enviados.
+    Para alguns países, quando introduzir o seu endereço manualmente, validaremos o seu endereço para si. Se o endereço que insere diferir do validado, sugerimos que utilize o endereço validado. Isto garante que os elementos do endereço são normalizados tal como definidos pela autoridade postal do país, estão corretamente formatados e são enviados.
 
-4. Durante a verificação, podemos pedir-lhe documentos adicionais ou para completar um questionário. Pode levar vários dias para rever e verificar a informação que forneceu. Enviaremos um e-mail quando terminarmos a nossa avaliação.
+4. Durante a verificação, podemos pedir-lhe outro documento, ou solicitar que preencha um questionário. Pode levar vários dias para rever e verificar a informação que fornece. Enviaremos um e-mail depois de completarmos a nossa análise.
+
 
 5. Depois de verificarmos as suas informações, aceite o acordo de termos de revendedor indireto da Microsoft.
 
@@ -102,31 +104,30 @@ Leia Os [Pré-requisitos para adicionar um novo local para uma empresa de CSP](m
 
 Se é um fornecedor indireto, parceiro de conta direta ou revendedor indireto e está a fazer negócios com clientes novos ou existentes nos seguintes países, tem de fornecer números de identificação de registo para o seu negócio. Se o país em que está a fazer negócios não estiver listado abaixo, o ID de registo é opcional.
 
-- Arménia 
-- Azerbaijão 
-- Bielorrússia 
-- Brasil 
-- Hungria 
-- Índia 
-- Iraque 
-- Cazaquistão 
-- Quirguistão 
-- Moldávia 
-- Mianmar 
-- Polónia 
-- Rússia 
-- Arábia Saudita 
-- África do Sul 
+- Arménia
+- Azerbaijão
+- Bielorrússia
+- Brasil
+- Hungria
+- Índia
+- Iraque
+- Cazaquistão
+- Quirguistão
+- Moldávia
+- Mianmar
+- Polónia
+- Rússia
+- Arábia Saudita
+- África do Sul
 - Sudão do Sul  
-- Tajiquistão 
+- Tajiquistão
 - Tailândia
-- Turquia 
-- Ucrânia 
-- Emirados Árabes Unidos 
-- Usbequistão 
+- Turquia
+- Ucrânia
+- Emirados Árabes Unidos
+- Usbequistão
 - Venezuela
-- Vietname 
-
+- Vietname
 
 Para mais informações, leia [as informações do número de ID do registo](reg-number-id.md)
 

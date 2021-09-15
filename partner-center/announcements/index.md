@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 09/07/2021
-ms.openlocfilehash: 0d2e4032ee3d41b2376f7366352a90106e549ea9
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: 78cff330e2fc91ac3867874470b69c022927079e
+ms.sourcegitcommit: 847ad384d44a5a673791cb2950af02225d8174c9
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126249649"
+ms.lasthandoff: 09/15/2021
+ms.locfileid: "127828355"
 ---
 # <a name="partner-center-announcements"></a>Anúncios do Centro de Parceiros
 
@@ -22,6 +22,7 @@ Saiba mais sobre atualizações importantes do Centro de Parceiros. Estas inform
 
 |**Categoria**|**Anúncios de setembro de 2021**|**Anunciado**|
 |---------|:---------|:---------|
+|Capacidades|[Em breve: Privilégios administrativos delegados de monitorização e remoção de autosserviço](2021-september.md#11)|13 de setembro|
 |Capacidades|[Setembro Fornecedor de Soluções em Nuvem atualização comunitária e lembretes](2021-september.md#10)|10 de setembro|
 |Preparação|[Setembro co-vender com o Microsoft Q&Um lembrete de chamada comunitária](2021-september.md#9)|9 de setembro|
 |Preparação|[Novas regras de validação para nome da empresa e endereço de e-mail no dia 22 de setembro](2021-september.md#8)|7 de setembro|

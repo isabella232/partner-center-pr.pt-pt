@@ -9,12 +9,12 @@ ms.author: v-aarzh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 03/24/2021
-ms.openlocfilehash: aa8f08b52a16aae56b02b09d5fdf607e92180ca5
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: 205de1c852d263e79978358229f1365852872232
+ms.sourcegitcommit: 847ad384d44a5a673791cb2950af02225d8174c9
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126247379"
+ms.lasthandoff: 09/15/2021
+ms.locfileid: "127828390"
 ---
 # <a name="how-to-confirm-that-your-customer-has-accepted-the-microsoft-customer-agreement-to-the-csp-program"></a>Como confirmar que o seu cliente aceitou o Acordo de Cliente da Microsoft para o programa CSP
 
@@ -29,7 +29,7 @@ Os clientes têm duas opções para a forma como aceitam o Acordo de Cliente da 
 
 ## <a name="access-microsoft-customer-agreement-template"></a>Aceder ao modelo de Acordo de Cliente da Microsoft
 
-Pode descarregar manualmente a versão mais recente do modelo do Microsoft Customer Agreement a partir [daqui.](https://aka.ms/customeragreement) O Microsoft Customer Agreement é específico por país. Ao solicitar o modelo do Contrato de Cliente da Microsoft, certifique-se de selecionar o país correto com base na localização do cliente.
+Pode descarregar manualmente [a versão mais recente do Microsoft Customer Agreement](https://aka.ms/customeragreement). O Microsoft Customer Agreement é específico por país. Ao solicitar o modelo do Contrato de Cliente da Microsoft, certifique-se de selecionar o país correto com base na localização do cliente.
 
 ## <a name="option-1-confirm-customer-acceptance-in-partner-center"></a>Opção 1: Confirmar a aceitação do cliente no Partner Center
 
