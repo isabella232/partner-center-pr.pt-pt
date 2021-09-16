@@ -16,7 +16,7 @@ ms.sourcegitcommit: 847ad384d44a5a673791cb2950af02225d8174c9
 ms.translationtype: MT
 ms.contentlocale: pt-PT
 ms.lasthandoff: 09/16/2021
-ms.locfileid: "127886257"
+ms.locfileid: "127877041"
 ---
 # <a name="september-2021-announcements"></a>Anúncios de setembro de 2021
 
