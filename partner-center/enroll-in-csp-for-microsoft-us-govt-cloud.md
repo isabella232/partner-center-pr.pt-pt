@@ -11,11 +11,11 @@ ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
 ms.date: 10/05/2020
 ms.openlocfilehash: 78aab2c29a9c01b615112f08aba2f724c1d54812
-ms.sourcegitcommit: 847ad384d44a5a673791cb2950af02225d8174c9
+ms.sourcegitcommit: 986573bc4382b803bf4d641df6dd1e37c3af1955
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/15/2021
-ms.locfileid: "127828254"
+ms.lasthandoff: 09/16/2021
+ms.locfileid: "127862311"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>Inscreva-se no programa Fornecedor de Soluções em Nuvem para Microsoft Cloud for US Government
 

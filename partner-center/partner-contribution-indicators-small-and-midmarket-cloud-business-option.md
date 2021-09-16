@@ -1,7 +1,7 @@
 ---
 title: Indicadores de contribuição dos parceiros - SMMCS
 ms.topic: article
-ms.date: 01/26/2021
+ms.date: 09/15/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
 description: Conheça os parceiros de Indicadores de Contribuição de Parceiros (PCI) que precisam de se reunir antes de poderem atingir a competência das Soluções cloud de pequeno e médio mercado.
@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1ff7a2c416939d1e941b51c7249bd787171f5d7e
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: f1477ac6f5675c820564606c7ce5f0b7a5871305
+ms.sourcegitcommit: 986573bc4382b803bf4d641df6dd1e37c3af1955
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126247436"
+ms.lasthandoff: 09/16/2021
+ms.locfileid: "127862396"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-small-and-midmarket-cloud-solutions-competency"></a>Utilizar Indicadores de Contribuição de Parceiros para obter a competência Soluções de Cloud para Pequenas e Médias Empresas
 
@@ -249,14 +249,14 @@ As novas implementações são um indicador de [sucesso do cliente.](partner-con
 
 - As novas implementações são resumidas ao longo de um período de 12 meses com um máximo de 20 pontos disponíveis. Os pontos parciais também podem ser ganhos.
 
-- Para ganhar o máximo de pontos para esta opção de competência, os sócios devem ter **10** inquilinos de produção, tendo cada inquilino ultrapassado o limiar de **5 utentes** ativos mensais ao longo dos últimos 12 meses.
+- Para ganhar o máximo de pontos para esta opção de competência, os parceiros devem ter **10** inquilinos de produção, com cada inquilino a ter uma subscrição paga com pelo menos **5 utentes** ativos mensais ao longo dos últimos 12 meses.
 
-- Considera-se que o arrendatário ultrapassou o limiar mensal de utilizador ativo se o arrendatário:
+- Considera-se que uma subscrição ultrapassou o limiar mensal de utilizador ativo se a subscrição fosse:
 
   - Abaixo do limiar especificado (um certo número de casos de produção ao abrigo de um inquilino) há 12 meses,<br/> *and*
   - Ultrapassou esse limiar pelo menos uma vez nos 11 meses seguintes.
 
-- Os utilizadores ativos mensais são contados ao nível do arrendatário e resumidos apenas em todas as assinaturas pagas sob o arrendatário.
+- Os utilizadores ativos mensais são contados ao nível da subscrição.
 
 - Os utilizadores ativos mensais são calculados no final de cada mês.
 
@@ -264,15 +264,13 @@ As novas implementações são um indicador de [sucesso do cliente.](partner-con
   - Dinâmica 365 Produtos elegíveis para o envolvimento do cliente incluem: Vendas, Marketing, Atendimento ao Cliente, Serviço de Campo, Project servidor, Plano 1, Automação, Marketing, Vendas de Relacionamento microsoft
   - Os produtos elegíveis para as Finanças e operações incluem: Business Central, Capacity and Armazenamento, Finance and Operations (incluindo proteção contra fraudes, operações, retalho, RH, plano 2), realidade mista, Membro da Equipa
 
-- Todos os parceiros associados a qualquer subscrição paga sob um inquilino receberão crédito por todas as instâncias de produção sob esse inquilino. 
-
 ### <a name="definitions-for-pci-metric-6---monthly-active-user-growth"></a>Definições para #6 métricas de PCI - Crescimento mensal do utilizador ativo
 
 O crescimento mensal do utilizador ativo é um indicador de [sucesso do cliente.](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#pci-scoring-based-on-six-key-indicators) Os pontos deste indicador são calculados para esta competência da seguinte forma:
 
-- O crescimento mensal do utilizador ativo é definido como o crescimento de utilizadores ativos mensais em toda a base de clientes ao longo dos últimos 12 meses. 
+- O crescimento mensal do utilizador ativo é definido como o crescimento de utilizadores ativos mensais em toda a base de clientes ao longo dos últimos 12 meses.
 
-- Os utilizadores ativos mensais são contados ao nível do arrendatário e resumidos apenas em todas as assinaturas pagas sob o arrendatário.
+- Os utilizadores ativos mensais são contados ao nível da subscrição e resumidos em todas as subscrições pagas mapeadas a um parceiro.
 
 - O indicador mensal de crescimento do utilizador ativo compara o mês em curso com uma linha de base de há 12 meses. Estão disponíveis 25 pontos máximos para se candidatar à obtenção da competência Gold ou Silver Small e Midmarket Cloud Solutions através da opção Cloud Business Applications SMB.
 
@@ -280,9 +278,7 @@ O crescimento mensal do utilizador ativo é um indicador de [sucesso do cliente.
 
 - Para serem elegíveis para pontos, os parceiros devem ter uma linha de base de pelo menos **50 utilizadores** ativos mensais em toda a sua base de clientes há 12 meses.
 
-- Os parceiros estão associados aos inquilinos ao nível da subscrição. As assinaturas são mapeadas para produtos qualificados.
-
-- Todos os parceiros associados a qualquer subscrição paga sob um inquilino receberão crédito por todos os utilizadores ativos mensais resumidos em todas as subscrições pagas ao abrigo desse inquilino.
+- Os parceiros estão associados ao nível da subscrição. As assinaturas são mapeadas para produtos qualificados.
 
 ## <a name="how-to-access-partner-contribution-indicators"></a>Como aceder a Indicadores de Contribuição de Parceiros
 

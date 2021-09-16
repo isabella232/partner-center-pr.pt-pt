@@ -10,11 +10,11 @@ ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 09/07/2021
 ms.openlocfilehash: 78cff330e2fc91ac3867874470b69c022927079e
-ms.sourcegitcommit: 847ad384d44a5a673791cb2950af02225d8174c9
+ms.sourcegitcommit: 986573bc4382b803bf4d641df6dd1e37c3af1955
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/15/2021
-ms.locfileid: "127828355"
+ms.lasthandoff: 09/16/2021
+ms.locfileid: "127862277"
 ---
 # <a name="partner-center-announcements"></a>Anúncios do Centro de Parceiros
 

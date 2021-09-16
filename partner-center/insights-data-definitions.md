@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 92733f11713e8c16d607a51ef00efdcc25ddc855
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: d1119152e601c0fa7f8bb080420181d1f52801db
+ms.sourcegitcommit: 986573bc4382b803bf4d641df6dd1e37c3af1955
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960870"
+ms.lasthandoff: 09/16/2021
+ms.locfileid: "127862294"
 ---
 # <a name="export--data-definitions"></a>Exportação - Definições de dados 
 
@@ -30,7 +30,7 @@ Os vários relatórios, que pode descarregar juntamente com as suas definições
 
 | Nome da coluna | Descrição dos dados | 
 | :--------- | :--------- | 
-| MPNId | Microsoft Partner Network (MPN) ID| 
+| MPNId | Microsoft Partner Network (MPN) ID | 
 | PartnerName | Nome do parceiro | 
 | PGA_MPNId | Identificador da conta global do parceiro MPN | 
 | PGA_PartnerName | Nome da conta global do parceiro | 
@@ -624,6 +624,21 @@ Os vários relatórios, que pode descarregar juntamente com as suas definições
 | Cliente Azure Upsell | Identifica se o cliente mostra a propensão de upsell para a Azure | 
 | Microsoft 365 Cliente upsell | Identifica se o cliente aparece a vender propensão para Microsoft 365 | 
 | Nome revSumDivision | Identifica o produto que está em cima da renovação | 
+
+### <a name="cpor-m365usage-report"></a>**Relatório CPOR-M365Usage**
+
+| Nome da coluna | Descrição dos dados | 
+| :--------- | :--------- | 
+| CustomerTenantId | Id do inquilino do cliente | 
+| CustomerName | Nome do cliente | 
+| Nome da carga de trabalho | Nome da carga de trabalho | 
+| MensaisActiveUsers | MAU (utilizadores ativos mensais) | 
+| Unidades Pagas | PAU (unidades disponíveis pagas) | 
+| Reclamação | ID de reclamação da carga de trabalho | 
+| MpnId | Microsoft Partner Network (MPN) ID | 
+| DatasCiadas | Data associada da carga de trabalho com o parceiro | 
+| PartnerAttributionType | Tipo de Atribuição de Parceiros (CPOR) | 
+| Data | Data (primeiro do mês e do ano) para a qual os dados são exportados | 
 
 ## <a name="next-steps"></a>Passos seguintes
 

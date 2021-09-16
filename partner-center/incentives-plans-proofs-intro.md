@@ -8,12 +8,12 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: d315ac84f73676f8ef21d3fc5a1cded80fb32e4d
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: bda06ce5f929d784f95ed9a9c248c29f6209356e
+ms.sourcegitcommit: 986573bc4382b803bf4d641df6dd1e37c3af1955
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123961359"
+ms.lasthandoff: 09/16/2021
+ms.locfileid: "127862345"
 ---
 # <a name="use-these-resources-to-help-you-create-incentives-plans-and-proofs-of-execution"></a>Use estes recursos para ajudá-lo a criar planos de incentivos e provas de execução
 
@@ -21,14 +21,14 @@ ms.locfileid: "123961359"
 
 Este artigo descreve alguns dos documentos-chave necessários para que tenha sucesso e seja pago pelo seu trabalho num programa específico de incentivos. Estes documentos incluem:
 
-- Um plano de reivindicações de cooperativa de incentivos
+- Um plano de incentivos
 - Uma prova detalhada da execução (PoE)
 
-Dependendo do tipo de programa de incentivos em que está inscrito, o seu plano de reivindicações de cooperativa de incentivos e a sua prova de execução (PoE) serão fundamentais para o seu sucesso com incentivos.
+Dependendo do tipo de programa de incentivos em que está inscrito, o seu plano e a sua prova de execução (PoE) serão fundamentais para o seu sucesso com incentivos.
 
-## <a name="what-is-an-incentives-co-op-claims-plan"></a>O que é um plano de reivindicações cooperativas de incentivos?
+## <a name="what-is-an-incentives-plan"></a>O que é um plano de incentivos?
 
-Um plano de reivindicações de cooperativas de incentivos descreve as campanhas de marketing, atividades e outros detalhes necessários para tornar o seu programa um sucesso. Assim que criar este plano, irá submetê-lo à Microsoft para aprovação. Saiba mais sobre [a criação do seu plano.](incentives-create-your-plan.md)
+Um plano de incentivos descreve as campanhas de marketing, atividades e outros detalhes necessários para tornar o seu programa um sucesso. Assim que criar este plano, irá submetê-lo à Microsoft para aprovação. Saiba mais sobre [a criação do seu plano.](incentives-create-your-plan.md)
 
 ## <a name="what-is-a-proof-of-execution-poe"></a>O que é uma prova de execução (PoE)?
 
