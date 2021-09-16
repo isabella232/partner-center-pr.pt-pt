@@ -8,12 +8,12 @@ author: vikramb
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.date: 09/08/2021
-ms.openlocfilehash: a01fb06b346c3c24613d79872c67dbc9b7650e0a
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: 96106dd84d4889c9165daf41385d1092361101c4
+ms.sourcegitcommit: 90c87bd5e63a8af932ece5696267ea715fea6a01
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126246737"
+ms.lasthandoff: 09/16/2021
+ms.locfileid: "127900445"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Guia para co-venda no Partner Center (PC) para parceiros que migram de Ligação de Vendas de Parceiros (PSC)
 
@@ -103,7 +103,7 @@ A tabela de migração do utilizador tem os seguintes detalhes:
 - Conta parceira do PSC - A conta a que o trabalhador está associado no PSC
 - Função de utilizador do PSC - Uma das três funções atribuídas no PSC.
 - Localização PC MPN - A localização para a qual o utilizador receberá funções relevantes do Partner Center (PC). A conta parceira do PSC MPN é usada para encontrar a localização MPN equivalente no Partner Center para atribuir permissões. Toda a organização denota o vOrg MPN ID.
-- Função de utilizador do PC - Os colaboradores são atribuídos funções com base nas suas funções de utilizador do PSC. A administração no PSC será atribuída a funções de administração de referências no Partner Center. O vendedor será atribuído papel de utilizador de referências no Partner Center. Saiba mais sobre as funções do Partner Center e o que os utilizadores com estas funções podem fazer aqui no Partner [Center](permissions-overview.md#manage-referrals)
+- Função de utilizador do PC - Os colaboradores são atribuídos funções com base nas suas funções de utilizador do PSC. A administração no PSC será atribuída a funções de administração de referências no Partner Center. O vendedor será atribuído papel de utilizador de referências no Partner Center. Saiba mais sobre as funções do Partner Center e o que os utilizadores com estas funções podem fazer no Partner Center na secção De Referências de Gestão de [Funções e permissões de utilizadores atribuir para os utilizadores de uma empresa que precisam de trabalhar no Partner Center.](permissions-overview.md#manage-referrals)
 - PC AAD Tenant - o inquilino Microsoft Azure Ative Directory (Azure AD) a que os utilizadores são designados no Partner Center
 - Estado - Existem três Estados possíveis para o estado da migração
     - **Não migrado** - O utilizador não tem qualquer função de referência do Partner Center atribuída

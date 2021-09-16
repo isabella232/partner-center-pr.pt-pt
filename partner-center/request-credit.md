@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: d86919a12202eeea4487eb2d0ea7b41851631393
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
-ms.translationtype: HT
+ms.openlocfilehash: f5745a74e4368b42c4ce7b1b828ced8f79e49581
+ms.sourcegitcommit: 90c87bd5e63a8af932ece5696267ea715fea6a01
+ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123961080"
+ms.lasthandoff: 09/16/2021
+ms.locfileid: "127900428"
 ---
 # <a name="how-and-when-to-request-a-credit-from-microsoft"></a>Como e quando solicitar um crédito à Microsoft
 
@@ -60,6 +60,7 @@ Os pedidos de crédito são aceites apenas por fornecedores diretos e indiretos 
 ## <a name="types-of-credits"></a>Tipos de créditos
 
 Esta secção descreve alguns dos créditos que pode solicitar.
+
 ### <a name="accidental-purchase-credit"></a>Crédito de compra acidental
 
 Para pedidos de crédito para ofertas antigas de Microsoft 365 ou Microsoft Dynamics 365 (por exemplo, quando o número de licenças foi aumentado acidentalmente ou o produto errado foi comprado):
@@ -88,9 +89,50 @@ Para pedidos de crédito para licenças duplicadas (por exemplo, quando um clien
 
 Para pedidos de crédito para interrupções de serviço:
 
+- Os créditos SLA da Microsoft são determinados com base em quais os serviços foram impactados. Por exemplo, se o seu cliente tiver uma suite Office 365 mas apenas tiver uma paragem do SharePoint, o crédito SLA é aprovado apenas para o SharePoint e não todo o plano do cliente
+- Os créditos são prostimados com base no serviço afetado e na duração da paralisação. Para ver os tipos de cenários que se qualificam para créditos SLA, consulte o [documento SLA Consolidado de Serviços](https://www.microsoft.com/licensing/docs/view/Service-Level-Agreements-SLA-for-Online-Services)Online. Esta informação aplica-se também aos serviços vendidos através do programa Fornecedor de Soluções em Nuvem (CSP).
 - Os pedidos de crédito devem ser apresentados até ao final do mês civil seguinte ao mês em que ocorreu o incidente. Por exemplo, se o incidente ocorreu no dia 15 de fevereiro, temos de receber a reclamação e todas as informações necessárias até 31 de março. (Mais detalhes estão no *Formulário pedido de Crédito ou Reembolso).*
 
 - Deve fornecer provas de que o cliente foi afetado pela paralisação e que solicitaram um crédito SLA. O ID do cliente e a identificação de paragem (do Painel de Saúde de Serviço) devem ser fornecidos. O e-mail do cliente apresentado como prova deve vir do domínio do inquilino afetado. (O e-mail de um endereço pessoal não é aceitável).
+
+> [!NOTE]
+> Os incidentes consultivos geralmente não são elegíveis para créditos SLA. Um incidente publicado no Service Health Dashboard indica que um inquilino *pode* ser impactado e representa a melhor informação que a Microsoft tem no momento da publicação. Os dados da página de saúde representam a disponibilidade geral de um serviço. O impacto, a mitigação e a resolução do serviço individual podem variar. Pode rever a análise final do Incident Post e Post Incident Review para obter mais detalhes. Para obter mais informações sobre a saúde do serviço, consulte [Como verificar Microsoft 365 saúde do serviço.](/microsoft-365/enterprise/view-service-health)
+
+### <a name="required-information"></a>Informação necessária
+
+O nome do cliente, o identificador de inquilinos, o número do bilhete parceiro e o carimbo de data/hora criado do bilhete não são suficientes para que um pedido seja processado.
+
+Antes [de submeter um pedido de crédito SLA](https://www.microsoft.com/licensing/docs/view/Service-Level-Agreements-SLA-for-Online-Services) à Microsoft, deve recolher todas as seguintes informações para incluir no seu bilhete de suporte:
+
+- O cliente do inquilino GUID
+- O [identificador do incidente de paragem](#outage-incident-identifier)
+- Prova de que o cliente foi impactado pela paralisação e solicitou um crédito SLA.
+- As assinaturas impactadas foram adquiridas através da CSP? (Sim ou não)
+
+### <a name="evidence-that-proves-customer-impact"></a>Evidência que comprova o impacto do cliente
+
+- Informações sobre o tempo e duração do tempo de inatividade
+- O número e localização dos utilizadores afetados (se aplicável)
+- Descrições das suas tentativas de resolver o incidente no momento da ocorrência
+- Um e-mail do cliente afetado solicitando apoio e, posteriormente, crédito
+- O número de bilhete de suporte e detalhes do contacto com o cliente sobre a resolução do impacto do serviço
+
+### <a name="outage-incident-identifier"></a>Identificador de incidente de interrupção
+
+Pode encontrar o identificador para o incidente de paragem na página de Saúde do Serviço na centro de administração do Microsoft 365. O ID de incidente de interrupção é um número precedido por uma abreviatura de duas letras que indica o serviço afetado (por exemplo, EX25194 para uma interrupção de Exchange Online).
+
+A tabela seguinte descreve abreviaturas de serviço comuns:
+
+| Abreviatura de duas letras | Serviço Microsoft |
+| ----------------------- | ----------------- |
+| EX | Exchange Online |
+| FO | Proteção do Exchange Online |
+| SB | Skype para Empresas Online (anteriormente Lync Online) |
+| SO | Office Assinatura |
+| PB | Power BI para Office 365 |
+| SP | SharePoint Online |
+| YA | Yammer Empresa |
+| MO | Erro do portal |
 
 ## <a name="next-steps"></a>Passos seguintes
 
