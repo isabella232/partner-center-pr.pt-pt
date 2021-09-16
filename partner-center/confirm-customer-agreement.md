@@ -14,7 +14,7 @@ ms.sourcegitcommit: 986573bc4382b803bf4d641df6dd1e37c3af1955
 ms.translationtype: MT
 ms.contentlocale: pt-PT
 ms.lasthandoff: 09/16/2021
-ms.locfileid: "127862413"
+ms.locfileid: "127872310"
 ---
 # <a name="how-to-confirm-that-your-customer-has-accepted-the-microsoft-customer-agreement-to-the-csp-program"></a>Como confirmar que o seu cliente aceitou o Acordo de Cliente da Microsoft para o programa CSP
 

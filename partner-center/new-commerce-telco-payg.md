@@ -1,20 +1,20 @@
 ---
 title: Novo comércio telco paga à medida que vai
 ms.topic: article
-ms.date: 08/30/2021
+ms.date: 09/03/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-pricing
 description: Conheça novas experiências de comércio para comprar ofertas que permitam pagar à medida que se sobreage.
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0f934b8d858c1fc30d0140d19fb0697ba6bd9001
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: b7f3fa6ce3b92e7b182192290f5ebb4ee167ff7a
+ms.sourcegitcommit: 986573bc4382b803bf4d641df6dd1e37c3af1955
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126247478"
+ms.lasthandoff: 09/16/2021
+ms.locfileid: "127872191"
 ---
 # <a name="introduction-new-commerce-overage-for-telco-pay-as-you-go"></a>Introdução: Novo excesso de comércio para telco pagar à medida que vai
 
@@ -24,22 +24,22 @@ ms.locfileid: "126247478"
 - Agente comercial
 - Administrador global
 
-> [!Note] 
+> [!NOTE]
 > As novas mudanças na experiência de comércio estão atualmente disponíveis apenas para parceiros que fazem parte da Microsoft 365/Dynamics 365 nova experiência técnica de experiência técnica.
 
-Alguns produtos baseados em licenças incluem serviços com planos de chamada atribuídos. Estes planos de chamadas normalmente vêm com uma atribuição por licença por minutos por mês, geralmente 120 por licença. 
+Alguns produtos baseados em licenças incluem serviços com planos de chamada atribuídos. Estes planos de chamadas normalmente vêm com uma atribuição por licença por minutos por mês, geralmente 120 por licença.
 
 Nos cenários tradicionais de parceiros baseados em licenças não havia forma de permitir o uso do serviço para além dos limites mensais. Os clientes que precisam de mais de 120 minutos necessários para comprar créditos de comunicação, ou créditos de *comunicação* diretamente da Microsoft.  Estes créditos de comunicação não foram oferecidos no Partner Center.
 
 ## <a name="using-new-commerce-telco-pay-as-you-go"></a>Usando o novo comércio telco pagar à medida que você vai ##
 
-Esta limitação foi abordada em novos comércios, permitindo ao parceiro permitir capacidades de excesso de serviços que o permitam. Os parceiros podem comprar ofertas que incluam capacidades de excesso de peso. Estas ofertas estão identificadas na coluna de etiquetas de etiquetas de etiquetas de preços que *inclui a IncluiOverage.* O catálogo SKU também inclui uma propriedade para determinar que o SKU suporta a capacidade de overage. Os parceiros simplesmente compram as ofertas e o sistema configura e subscrição de overage que não é custo e só acumula faturação quando os utilizadores do cliente eclipsam as atas de chamada mensais atribuídas que vêm com a oferta comprada. 
+Esta limitação foi abordada em novos comércios, permitindo ao parceiro permitir capacidades de excesso de serviços que o permitam. Os parceiros podem comprar ofertas que incluam capacidades de excesso de peso. Estas ofertas estão identificadas na coluna de etiquetas de etiquetas de etiquetas de preços que *inclui a IncluiOverage.* O catálogo SKU também inclui uma propriedade para determinar que o SKU suporta a capacidade de overage. Os parceiros simplesmente compram as ofertas e o sistema configura e subscrição de overage que não é custo e só acumula faturação quando os utilizadores do cliente eclipsam as atas de chamada mensais atribuídas que vêm com a oferta comprada.
 
 Os parceiros podem rastrear o uso excessivo indo ao portal Azure e usando as capacidades e funcionalidades de gestão de custos. Os parceiros também têm a opção de definir o excesso a *Nenhum* se quiserem desativar ou desligar o excesso a qualquer momento.
 
 Os parceiros podem identificar quais os produtos que incluem capacidades de overage visualizando o produto de catálogo do centro parceiro SKUs. 
 
-Os parceiros que compram produtos com excesso permitem o excesso de alimentos acedendo à *Overage Manage* na página 'Gerir Subscrições'. Isto permitirá ao parceiro ativar a sobreatenção e atribuir à subscrição de consumo pretendido que os encargos de sobreatenção fluirão. A qualquer momento, o parceiro pode desligar o excesso atribuindo a subscrição de consumo a *Nenhum*. 
+Os parceiros que compram produtos com excesso permitem o excesso de alimentos acedendo à *Overage Manage* na página 'Gerir Subscrições'. Isto permitirá ao parceiro ativar a sobreatenção e atribuir à subscrição de consumo pretendido que os encargos de sobreatenção fluirão. A qualquer momento, o parceiro pode desligar o excesso atribuindo a subscrição de consumo a *Nenhum*.
 
 Os parceiros atribuem overage ou desativá-lo pela funcionalidade *Gerir o excesso* na lista de subscrições. Isto só será acessível se o parceiro tiver subscrições que permitam a sobre-agem. Os encargos mensais de excesso de idade serão acumulados na subscrição atribuída e serão identificados no ficheiro de reconciliação dos parceiros. Os parceiros podem rastrear o uso excessivo visitando as capacidades de gestão de custos do Azure no portal Azure. 
 

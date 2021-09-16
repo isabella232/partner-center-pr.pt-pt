@@ -13,8 +13,8 @@ ms.openlocfilehash: 0c28e7af93f227ba432ef6d78b84b3150de43d9e
 ms.sourcegitcommit: 847ad384d44a5a673791cb2950af02225d8174c9
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/15/2021
-ms.locfileid: "127828271"
+ms.lasthandoff: 09/16/2021
+ms.locfileid: "127876718"
 ---
 # <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria"></a>Office 365 Administração Pública GCC para critérios de elegibilidade do CSP Partner e do Cliente
 

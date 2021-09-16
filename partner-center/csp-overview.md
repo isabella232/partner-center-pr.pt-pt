@@ -9,23 +9,23 @@ author: billlinzbach
 ms.author: billLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 61117b77efdb447abad482654afc7220aa2bcce6
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: 054bbf79169948e0e691e4357e47992c6471da21
+ms.sourcegitcommit: 847ad384d44a5a673791cb2950af02225d8174c9
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960139"
+ms.lasthandoff: 09/16/2021
+ms.locfileid: "127876701"
 ---
-# <a name="cloud-solution-provider-program"></a>Programa Fornecedor de Soluções Cloud 
+# <a name="cloud-solution-provider-program"></a>Programa Fornecedor de Soluções Cloud
 
 **Funções adequadas**: Todos os parceiros interessados em aprender mais sobre a CSP
 
-Este artigo apresenta uma visão geral do programa Fornecedor de Soluções em Nuvem (CSP) e explica os diferentes modelos operacionais e seus requisitos, bem como outros detalhes sobre a venda através deste programa.  O programa CSP ajuda-o a envolver-se mais nos negócios dos seus clientes, para além da revenda de licenças, e pode incluir os seguintes benefícios: 
+Este artigo apresenta uma visão geral do programa Fornecedor de Soluções em Nuvem (CSP) e explica os diferentes modelos operacionais e seus requisitos, bem como outros detalhes sobre a venda através deste programa.  O programa CSP ajuda-o a envolver-se mais nos negócios dos seus clientes, para além da revenda de licenças, e pode incluir os seguintes benefícios:
 
 - Compromissos mais profundos com o cliente: Reunir-se regularmente com os seus clientes significa que desenvolverá uma melhor compreensão dos seus negócios e necessidades.
 - Aumento dos lucros: Oferecer serviços de apoio e faturação acrescidos, quer por conta própria, quer através de um prestador indireto, abre novos fluxos de receitas.  
 - Valor acrescentado: Poderá oferecer aos clientes soluções específicas para a indústria, agregadas com produtos da Microsoft.
-- Fornecer serviços geridos: Estará bem posicionado para atender à procura de serviços geridos pelo cliente. 
+- Fornecer serviços geridos: Estará bem posicionado para atender à procura de serviços geridos pelo cliente.
 
 ## <a name="which-csp-model-is-best-for-me"></a>Qual é o melhor modelo da CSP para mim?
 
@@ -42,14 +42,14 @@ O que vai precisar:
 
 ### <a name="direct-bill-model"></a>Modelo de conta direta
 
-No modelo de conta direta, os parceiros compram produtos e subscrições da Microsoft diretamente da Microsoft e vendem-nos diretamente aos seus clientes através do seu pessoal de vendas internos. Os parceiros que já operam com, ou estão dispostos a desenvolver, as vendas adequadas, faturação e infraestrutura de suporte podem escolher o modelo direto. Atualizámos os requisitos de inscrição para parceiros de conta direta a partir de 27 de outubro de 2020.
+No modelo de conta direta, os parceiros compram produtos e subscrições da Microsoft diretamente da Microsoft e vendem-nos diretamente aos seus clientes através do seu pessoal de vendas internos. Os parceiros que já operam com, ou estão dispostos a desenvolver, as vendas adequadas, faturação e infraestrutura de suporte podem escolher o modelo direto. Atualizámos os requisitos de inscrição para parceiros de conta direta no dia 27 de outubro de 2020.
 
 #### <a name="requirements"></a>Requisitos
 
 Reveja os requisitos e recomendações de inscrição de conta direta atualizados abaixo para avaliar como pode construir e expandir um negócio mais rentável com o modelo certo no programa Fornecedor de Soluções em Nuvem:  
 
 - **Suporte:** Expanda as suas capacidades de suporte comprando suporte de nuvem um-a-um, priorizado com um pacote de Suporte Avançado para Parceiros da Microsoft. Ou, escolha um pacote microsoft Premier Support for Partners para aceder ao catálogo completo de serviços proactivos, suporte elevado de break/correção 24/7 e gestão técnica de conta através da nuvem, híbrido e no local. Reveja o Acordo de Parceiro da Microsoft para compreender melhor a sua obrigação de suporte
-- **Requisito de desempenho:** Certifique-se de que tem pelo menos 300mil dólares em Fornecedor de Soluções em Nuvem receitas anuais do programa durante os doze meses anteriores como revendedor indireto. Os parceiros podem rever as suas receitas de 12 meses no Partner Center. As vendas que compõem o seu USD300K com receitas de 12 meses estão sujeitas a revisão e verificação pela Microsoft e poderá ser-lhe pedido que forneça informações adicionais. O requisito de receitas de USD300K é calculado com base nas receitas da nuvem e excluirá software perpétuo em CSP.
+- **Requisito de desempenho:** Certifique-se de que tem pelo menos 300mil dólares em Fornecedor de Soluções em Nuvem receitas anuais do programa durante os 12 meses anteriores como revendedor indireto. Os parceiros podem rever as suas receitas de 12 meses no Partner Center. As vendas que compõem o seu USD300K com receitas de 12 meses estão sujeitas a revisão e verificação pela Microsoft e poderá ser-lhe pedido que forneça informações adicionais. O requisito de receitas de USD300K é calculado com base nas receitas da nuvem e excluirá software perpétuo em CSP.
 - Cumprir as capacidades mínimas de infraestrutura, tais como faturação e provisionamento
 - Uma adesão ativa na Microsoft Partner Network e MPN ID para a localização em que pretende vender.
 
@@ -61,11 +61,11 @@ Reveja os requisitos e recomendações de inscrição de conta direta atualizado
 
 A localização da sua empresa determina o seu mercado. O seu mercado inclui as regiões e/ou os países onde pode vender ofertas do CSP. Consulte [Fornecedor de Soluções em Nuvem programa mercados regionais e moedas](regional-authorization-overview.md) para a lista completa de mercados e moedas da CSP.
 
-Antes de poder encomendar ofertas de CSP em nome de um cliente, o cliente deve assinar o Microsoft Customer Agreement. Pode encontrar [aqui](agreements.md)o Acordo de Cliente da Microsoft aplicável para a localização do seu cliente.  
+Antes de poder encomendar ofertas de CSP em nome de um cliente, o cliente deve assinar o Microsoft Customer Agreement. Pode encontrar o acordo aplicável para a localização do seu cliente nos Acordos de [*Cliente da Microsoft por região e idioma.*](agreements.md)  
 
 ## <a name="what-can-i-sell-through-the-csp-program"></a>O que posso vender através do programa CSP?
 
-Pode vender toda a gama de [serviços na nuvem](https://partner.microsoft.com/cloud-solution-provider/products-and-services)da Microsoft, bem como uma variedade de ofertas adicionais que mudam frequentemente. Para ver as ofertas do CSP para o mês em curso, inscreva-se no Centro de Parceiros e, em seguida, vá à página [**de Preços e Ofertas.**](https://partnercenter.microsoft.com/pcv/sales)
+Pode vender toda a gama de [serviços na nuvem](https://partner.microsoft.com/cloud-solution-provider/products-and-services)da Microsoft , e uma variedade de outras ofertas que mudam frequentemente. Para ver as ofertas do CSP para o mês em curso, inscreva-se no Centro de Parceiros e, em seguida, vá à página [*de Preços e Ofertas.*](https://partnercenter.microsoft.com/pcv/sales)
 
 ## <a name="next-steps"></a>Passos seguintes
 

@@ -10,11 +10,11 @@ ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: d1119152e601c0fa7f8bb080420181d1f52801db
-ms.sourcegitcommit: 986573bc4382b803bf4d641df6dd1e37c3af1955
+ms.sourcegitcommit: 847ad384d44a5a673791cb2950af02225d8174c9
 ms.translationtype: MT
 ms.contentlocale: pt-PT
 ms.lasthandoff: 09/16/2021
-ms.locfileid: "127862294"
+ms.locfileid: "127876735"
 ---
 # <a name="export--data-definitions"></a>Exportação - Definições de dados 
 

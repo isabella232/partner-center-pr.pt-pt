@@ -1,7 +1,7 @@
 ---
 title: Indicadores de contribuição dos parceiros - CBA
 ms.topic: article
-ms.date: 05/28/2021
+ms.date: 09/15/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
 description: Saiba mais sobre sete Indicadores de Contribuição de Parceiros (PCI) que mostram aos parceiros como alcançar uma competência de cloud Business Applications prateada ou dourada.
@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c198418331578080faa8371973ab03113ad54c3f
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: 513fe0a81c9b29c9cc3a0d70026634e5d7915899
+ms.sourcegitcommit: 986573bc4382b803bf4d641df6dd1e37c3af1955
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960519"
+ms.lasthandoff: 09/16/2021
+ms.locfileid: "127872293"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-cloud-business-applications-competency"></a>Utilizar Indicadores de Contribuição de Parceiros para obter a competência Business Applications da Cloud
 
@@ -328,34 +328,33 @@ As novas grandes implementações são um indicador de [sucesso do cliente.](par
 
 - As novas grandes implementações são definidas de forma diferente para o Envolvimento do Cliente vs. Finanças e Operações e para parceiros que operam em mercados *desenvolvidos* vs. mercados em *desenvolvimento:*
 
-  - Para o Envolvimento do Cliente, as novas grandes implementações são definidas como o número de casos de produção sob um inquilino que cruzaram **250 utilizadores** ativos mensais (para parceiros de mercado desenvolvidos) e **150 utilizadores** ativos mensais (para parceiros de mercado em desenvolvimento).
+  - Para o Envolvimento do Cliente, as novas grandes implementações são definidas como o número de casos de produção sob um inquilino que pagou subscrições com pelo menos **250 utilizadores** ativos mensais (para parceiros de mercado desenvolvidos) ou **150 utilizadores** ativos mensais (para parceiros de mercado em desenvolvimento).
 
-  - Para as Finanças e Operações, as novas grandes implementações são definidas como o número de casos de produção sob um inquilino que já cruzaram **100 utilizadores** ativos mensais (para parceiros de mercado desenvolvidos) e **50 utilizadores** ativos mensais (para parceiros de mercado em desenvolvimento).
+  - Para as Finanças e Operações, as novas grandes implementações são definidas como o número de casos de produção sob um inquilino que pagou subscrições com pelo menos **100 utilizadores** ativos mensais (para parceiros de mercado desenvolvidos) ou **50 utilizadores** ativos mensais (para parceiros de mercado em desenvolvimento).
   
   (Para mais detalhes sobre mercados desenvolvidos vs. desenvolvimento, consulte estas [definições da Microsoft Partner Network](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf).)
 
-- Considera-se que o arrendatário ultrapassou o limiar mensal de utilizador ativo se o arrendatário:
+- Considera-se que uma subscrição ultrapassou o limiar mensal de utilizador ativo se a subscrição fosse:
 
   - Abaixo do limiar especificado há 12 meses, **e**
 
   - Ultrapassou esse limiar pelo menos uma vez nos 11 meses seguintes.
 
-- Os utilizadores ativos mensais são contados ao nível do arrendatário e resumidos apenas em todas as assinaturas pagas sob o arrendatário.
+- Os utilizadores ativos mensais são contados ao nível da subscrição.
 
 - Os utilizadores ativos mensais são calculados no final de cada mês.
 
 - Os parceiros estão associados aos inquilinos ao nível da subscrição. As subscrições são mapeadas para os seguintes produtos de envolvimento do cliente ou para produtos de Finanças e Operações:
   - Os produtos elegíveis para o atendimento ao cliente incluem: Vendas, Atendimento ao Cliente, Serviço de Campo, Project Demômica de Serviço, Marketing, Vendas de Relacionamento da Microsoft, Plano 1, Talento e Membro da Equipa Empresarial.
   - Os produtos elegíveis para as Finanças e Operações incluem: Operações Unificadas, Finanças, Gestão da Cadeia de Abastecimento, Retalho, Comércio, Plano 2, Realidade Mista, Talento e Membro da Equipa Empresarial.
-- Todos os parceiros associados a qualquer subscrição paga sob um inquilino receberão crédito por todos os casos de produção de Envolvimento do Cliente ou Finanças e Operações ao abrigo desse inquilino.
 
 ### <a name="definitions-for-pci-metric-7---monthly-active-user-growth"></a>Definições para #7 métricas de PCI - Crescimento mensal do utilizador ativo
 
 O crescimento mensal do utilizador ativo é um indicador de [sucesso do cliente.](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators) Os pontos deste indicador são calculados para a competência cloud Business Applications da seguinte forma:
 
-- O crescimento mensal do utilizador ativo é definido como o crescimento de utilizadores ativos mensais em toda a base de clientes ao longo dos últimos 12 meses. 
+- O crescimento mensal do utilizador ativo é definido como o crescimento de utilizadores ativos mensais em toda a base de clientes ao longo dos últimos 12 meses.
 
-- Os utilizadores ativos mensais são contados ao nível do arrendatário e resumidos apenas em todas as assinaturas pagas sob o arrendatário.
+- Os utilizadores ativos mensais são contados ao nível da subscrição e resumidos em todas as subscrições pagas mapeadas a um parceiro.
 
 - O indicador mensal de crescimento do utilizador ativo compara o mês em curso com uma linha de base de há 12 meses. Estão disponíveis 25 pontos máximos.
 
@@ -369,9 +368,7 @@ O crescimento mensal do utilizador ativo é um indicador de [sucesso do cliente.
   
   (Para obter detalhes sobre mercados desenvolvidos vs. desenvolvimento, consulte estas [definições da Microsoft Partner Network](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf).
 
-- Os parceiros estão associados aos inquilinos ao nível da subscrição. As subscrições são mapeadas para produtos de envolvimento do cliente qualificados ou para produtos de Finanças e Operações qualificados.
-
-- Todos os parceiros associados a qualquer subscrição paga sob um inquilino receberão crédito por todos os utilizadores ativos mensais de Envolvimento do Cliente ou Finanças e Operações, resumidos em todas as subscrições pagas ao abrigo desse inquilino.
+- Os parceiros estão associados ao nível da subscrição. As subscrições são mapeadas para produtos de envolvimento do cliente qualificados ou para produtos de Finanças e Operações qualificados.
 
 ## <a name="how-to-access-partner-contribution-indicators"></a>Como aceder a Indicadores de Contribuição de Parceiros
 
