@@ -12,11 +12,11 @@ ms.custom:
 ms.localizationpriority: high
 ms.date: 09/13/2021
 ms.openlocfilehash: f34234bebb8353315029eaab76aa52cb30df6e6a
-ms.sourcegitcommit: 986573bc4382b803bf4d641df6dd1e37c3af1955
+ms.sourcegitcommit: 847ad384d44a5a673791cb2950af02225d8174c9
 ms.translationtype: MT
 ms.contentlocale: pt-PT
 ms.lasthandoff: 09/16/2021
-ms.locfileid: "127872225"
+ms.locfileid: "127886257"
 ---
 # <a name="september-2021-announcements"></a>Anúncios de setembro de 2021
 

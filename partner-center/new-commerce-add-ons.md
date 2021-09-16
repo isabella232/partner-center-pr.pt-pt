@@ -14,7 +14,7 @@ ms.sourcegitcommit: 847ad384d44a5a673791cb2950af02225d8174c9
 ms.translationtype: MT
 ms.contentlocale: pt-PT
 ms.lasthandoff: 09/16/2021
-ms.locfileid: "127876956"
+ms.locfileid: "127886235"
 ---
 # <a name="introduction-new-commerce-add-ons"></a>Introdução: Novos complementos de comércio
 
