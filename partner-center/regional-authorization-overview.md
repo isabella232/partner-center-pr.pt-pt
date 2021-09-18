@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 04/15/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-enroll
-description: Veja os países, regiões e moedas onde pode vender ofertas de CSP, com base na localização da sua empresa.
+description: Consulte os países, regiões e moedas onde pode vender ofertas de CSP, com base na localização da sua empresa.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 33b60bd301a1493e7e722e26b3ff16128f4e9888
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: 78af2ddb9c532b3c414ccd8176a0447d0f4b9487
+ms.sourcegitcommit: 5abf065c8852a858a0aa7185176d3e117f2be7e5
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960680"
+ms.lasthandoff: 09/18/2021
+ms.locfileid: "127958890"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies-where-you-can-sell-csp-offers"></a>Fornecedor de Soluções em Nuvem programa mercados regionais e moedas onde pode vender ofertas de CSP
 
@@ -22,9 +22,9 @@ ms.locfileid: "123960680"
 
 A localização da sua empresa determina o seu mercado. O seu mercado inclui as regiões e/ou países onde pode vender Fornecedor de Soluções em Nuvem (CSP) oferece.
 
-Por exemplo, se a sua empresa estiver localizada nos Estados Unidos, pode vender ofertas de CSP a clientes nos EUA e nas Ilhas Desatadas dos EUA. Se a sua empresa estiver localizada no Brasil, pode vender ofertas de CSP apenas no Brasil. Se a sua empresa estiver localizada na região africana, pode vender ofertas de CSP a clientes de todos os 18 países da região africana.
+Por exemplo, se a sua empresa estiver localizada nos Estados Unidos, pode vender ofertas de CSP a clientes nos EUA e nas Ilhas Desatadas dos EUA. Se a sua empresa estiver localizada no Brasil, pode vender ofertas de CSP a clientes apenas no Brasil. Se a sua empresa estiver localizada na região de África, pode vender ofertas de CSP a clientes de todos os 18 países da região africana.
 
-Antes de poder encomendar ofertas de CSP em nome de um cliente, o cliente deve assinar o Microsoft Customer Agreement. Pode encontrar [aqui](agreements.md)o Acordo de Cliente da Microsoft aplicável para a sua região/país.
+Antes de poder encomendar ofertas de CSP em nome de um cliente, o cliente deve assinar o Microsoft Customer Agreement. Pode encontrar o Acordo de Cliente da Microsoft aplicável para a sua região/país nos [Acordos de Cliente da Microsoft por região e idioma.](agreements.md)
 
 ## <a name="azure-plan-for-csp-region-availability"></a>Plano Azure para a disponibilidade da região da CSP  
 
@@ -40,9 +40,9 @@ Para determinar onde pode vender ofertas de CSP, encontre a localização da sua
 
 Se o seu país não for apoiado, estabeleça a relação CSP do cliente utilizando o URL de administração Office. 
 
-- Os parceiros de conta direta usam o seguinte url: https://portal.office.com/partner/partnersignup.aspx?type=ResellerRelationship&id=partnertenantguid&csp=1&msppid=0 . Substitua **o partnertenantguid** pelo seu ID do inquilino. 
+- Os parceiros de conta direta usam o seguinte url: https://portal.office.com/partner/partnersignup.aspx?type=ResellerRelationship&id=partnertenantguid&csp=1&msppid=0 . Substitua **o partnertenantguid** pelo seu ID do seu inquilino. 
 
-- O URL para revendedores indiretos é: https://portal.office.com/partner/partnersignup.aspx?type=IndirectResellerRelationship&id=IRtenantguid&csp=1&msppid=IRMPNID&indirectCSP=IPtenantguid . Substitua **o IRtenantguid** pela identificação do seu inquilino. Substitua **o IRMPNID** pelo seu ID MPN e substitua **o IPtenantguid** pelo seu ID de inquilino indireto.
+- O URL para revendedores indiretos é: https://portal.office.com/partner/partnersignup.aspx?type=IndirectResellerRelationship&id=IRtenantguid&csp=1&msppid=IRMPNID&indirectCSP=IPtenantguid . Substitua **o IRtenantguid** pela identificação do seu inquilino. Substitua **o IRMPNID** pelo seu ID MPN e substitua **o IPtenantguid pelo seu IPtenantguid** pelo seu ID de inquilino indireto.
 
 ## <a name="africa-region-and-market"></a>Região e mercado de África
 
