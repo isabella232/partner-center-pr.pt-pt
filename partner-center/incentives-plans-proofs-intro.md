@@ -1,6 +1,6 @@
 ---
-title: Visão geral dos planos e provas da execução
-description: Conheça os documentos-chave necessários para os incentivos, incluindo um plano de reivindicações cooperativa de incentivos e uma prova detalhada da execução (PoE).
+title: Visão geral dos planos e provas de execução
+description: Conheça os documentos-chave necessários para os incentivos, incluindo um plano de reivindicações cooperativas de incentivos e uma prova detalhada da execução (PoE).
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 ms.topic: conceptual
@@ -12,8 +12,8 @@ ms.openlocfilehash: bda06ce5f929d784f95ed9a9c248c29f6209356e
 ms.sourcegitcommit: 847ad384d44a5a673791cb2950af02225d8174c9
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/16/2021
-ms.locfileid: "127894086"
+ms.lasthandoff: 09/17/2021
+ms.locfileid: "127906253"
 ---
 # <a name="use-these-resources-to-help-you-create-incentives-plans-and-proofs-of-execution"></a>Use estes recursos para ajudá-lo a criar planos de incentivos e provas de execução
 
@@ -36,7 +36,7 @@ Depois de ser pago pelos seus incentivos, deve submeter uma prova detalhada de e
 
 Saiba mais sobre [a preparação de provas de execução.](incentives-prepare-your-proof-of-execution.md)
 
-## <a name="incentives-document-resources"></a>Incentivos documentam recursos documentais
+## <a name="incentives-document-resources"></a>Incentivos documentam recursos
 
 Os seguintes recursos explicam como organizar, criar e editar estes documentos de incentivos chave. Também descrevem o que fazer se a Microsoft aprovar a sua reclamação ou se alguma reclamação for rejeitada.
 

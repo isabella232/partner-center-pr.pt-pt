@@ -13,8 +13,8 @@ ms.openlocfilehash: 78cff330e2fc91ac3867874470b69c022927079e
 ms.sourcegitcommit: 847ad384d44a5a673791cb2950af02225d8174c9
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/16/2021
-ms.locfileid: "127894104"
+ms.lasthandoff: 09/17/2021
+ms.locfileid: "127906371"
 ---
 # <a name="partner-center-announcements"></a>Anúncios do Centro de Parceiros
 
@@ -27,7 +27,7 @@ Saiba mais sobre atualizações importantes do Centro de Parceiros. Estas inform
 |Preparação|[Setembro co-vender com o Microsoft Q&Um lembrete de chamada comunitária](2021-september.md#9)|9 de setembro|
 |Preparação|[Novas regras de validação para nome da empresa e endereço de e-mail no dia 22 de setembro](2021-september.md#8)|7 de setembro|
 |Preparação|[Atestado de modo duplo e declaração adicional do revendedor](2021-september.md#7)|7 de setembro|
-|Ofertas e Mercados|[Listas de preços de subscrições de software perpétuo e software reeditadas para corrigir aumentos de preços na Rússia](2021-september.md#6)|3 de setembro|
+|Ofertas e Mercados|[Listas de preços de subscrições de software perpétuo e de software reeditadas para corrigir aumentos de preços na Rússia](2021-september.md#6)|3 de setembro|
 |Ofertas e Mercados|[Correções à lista de preços dos serviços baseados em licenças de setembro e pré-visualização de outubro para Microsoft 365 Empresas Basic (USD)](2021-september.md#5)|2 de setembro|
 |Capacidades|[Anunciando Intune por dispositivo para empresas para parceiros da CSP](2021-september.md#4)| 2 de setembro |
 |Capacidades|[Principais atualizações para a nova experiência de comércio para ofertas baseadas em assentos Fornecedor de Soluções em Nuvem (CSP)](2021-september.md#3)| 1 de setembro |
@@ -38,34 +38,34 @@ Saiba mais sobre atualizações importantes do Centro de Parceiros. Estas inform
 |Capacidades|[Anunciando disponibilidade geral do Windows Server 2022 em outubro](2021-august.md#19)| 26 de agosto |
 |Capacidades|[Ofertas baseadas em assentos para testes integrados de caixas de areia na nova experiência de comércio](2021-august.md#18)| 25 de agosto |
 |Cresça o seu negócio|[Atualização da estrutura da fatura para os EUA, Porto Rico e Canadá](2021-august.md#17)| 24 de agosto |
-|Capacidades|[Agora ao vivo: Nova experiência de comércio na CSP para o Azure expandindo-se para Nuvem da Comunidade Governamental (GCC)](2021-august.md#16)| 24 de agosto |
+|Capacidades|[Agora ao vivo: Nova experiência de comércio em CSP para a Azure expandindo-se para Nuvem da Comunidade Governamental (GCC)](2021-august.md#16)| 24 de agosto |
 |Capacidades|[Fase 2 já está em direto: UE/EFTA e Reino Unido mudam de moeda de faturação de parceiros para novas ofertas de comércio](2021-august.md#15)| 23 de agosto |
 |Capacidades|[Nova experiência de comércio para Microsoft 365, Dynamics 365, Power Platform e Windows 365 lugares baseados em movimento de largura](2021-august.md#14)| 19 de agosto |
 |Capacidades|[Atualizar os nossos preços comerciais para Microsoft 365](2021-august.md#13)| 19 de agosto |
 |Capacidades|[Atualização e lembretes da comunidade Fornecedor de Soluções em Nuvem de agosto (CSP)](2021-august.md#12)| 16 de agosto |
-|Cresça o seu negócio|[Get Genuine Windows Ofertas de Acordo (GGWA) no programa Fornecedor de Soluções em Nuvem temporariamente indisponíveis](2021-august.md#11)| 16 de agosto |
+|Cresça o seu negócio|[Get Genuine Windows Ofertas de acordo (GGWA) no programa Fornecedor de Soluções em Nuvem temporariamente indisponíveis](2021-august.md#11)| 16 de agosto |
 |Ofertas/Mercados|[Ver as mais recentes promoções e ofertas](2021-august.md#10)| 10 de agosto |
 |Capacidades|[Monitorização da conformidade através da equipa de Gestão de Responsabilidade de Parceiros (PAM)](2021-august.md#9)| 9 de agosto |
 |Ofertas/Mercados|[Windows 365 já disponível para compra: Windows híbridos para um mundo híbrido](2021-august.md#8)| 9 de agosto |
 |Ofertas/Mercados|[Próximas alterações às listas de preços do plano Azure para nova experiência de comércio](2021-august.md#6)| 4 de agosto |
-|Capacidades|[CSP para a Azure nova experiência de comércio expande-se para o Vaticano](2021-august.md#5)| 3 de agosto |
+|Capacidades|[CSP para a nova experiência de comércio do Azure expande-se para o Vaticano](2021-august.md#5)| 3 de agosto |
 |Capacidades|[Acesso programático a dados de análise de Informações parceiros](2021-august.md#4)| 3 de agosto |
 |Ofertas/Mercados|[Atestado de oferta necessário para algumas Windows 365 ofertas](2021-august.md#3)| 1 de agosto |
 |Capacidades|[Veja os lançamentos e ofertas deste mês](2021-august.md#1)| 1 de agosto |
 |**Categoria**|**Anúncios de julho de 2021**|**Anunciado**|
 |Capacidades|[Nova experiência de comércio em CSP para a Azure expandindo-se para Nuvem da Comunidade Governamental (GCC)](2021-july.md#16)| 26 de julho |
-|Capacidades|[Reforço da ferramenta para transferência de assinaturas Azure entre parceiros no programa Fornecedor de Soluções em Nuvem (CSP)](2021-july.md#15)| 21 de julho |
-|Capacidades|[Alterações ao Azure oferecem disponibilidade relacionada com a nova experiência de comércio na CSP para a Azure](2021-july.md#14)| 21 de julho |
+|Capacidades|[Reforço da ferramenta para transferência de subscrições da Azure entre parceiros no programa Fornecedor de Soluções em Nuvem (CSP)](2021-july.md#15)| 21 de julho |
+|Capacidades|[Alterações à Azure oferecem disponibilidade relacionada com a nova experiência de comércio na CSP para a Azure](2021-july.md#14)| 21 de julho |
 |Modern Workplace|[Apresentamos Windows 365: Windows híbridos para um mundo híbrido](2021-july.md#13)| 20 de julho |
 |Capacidades|[Apresentando a API estrangulamento a parceiros que chamam APIs do Partner Center](2021-july.md#12)| 19 de julho |
 |Capacidades|[Novas ofertas de software disponíveis no programa Fornecedor de Soluções em Nuvem (CSP) e alterações ao programa Open License](2021-july.md#11)| 19 de julho |
-|Ofertas/Mercados|[Correções à lista de preços dos serviços baseados em licenças de agosto para a Mobilidade Empresarial & Segurança (EMS) E3](2021-july.md#10)| 16 de julho |
+|Ofertas/Mercados|[Correções à pré-visualização da lista de preços dos serviços baseados em licenças de agosto para a Segurança & de Mobilidade Empresarial (EMS) E3](2021-july.md#10)| 16 de julho |
 |Capacidades|[Software na Microsoft China Corporation Limited (MCCL) Fornecedor de Soluções em Nuvem (CSP) e mudança de licença aberta](2021-july.md#9)| 13 de julho |
-|Preparação|[Alterações à Fornecedor de Soluções em Nuvem (CSP) validação de endereço de cliente API para entrar em direto no dia 13 de julho de 2021](2021-july.md#8)| 12 de julho |
+|Preparação|[Alterações à Fornecedor de Soluções em Nuvem (CSP) de validação de endereço de cliente API para entrar em direto no dia 13 de julho de 2021](2021-july.md#8)| 12 de julho |
 |Capacidades|[Atualização e lembretes da comunidade Fornecedor de Soluções em Nuvem de julho (CSP)](2021-july.md#7)| 12 de julho |
 |Capacidades|[Mantenha as certificações microsoft ativas com a ajuda do Partner Center](2021-july.md#6)| 9 de julho |
 |Capacidades|[Lançamento SDK em .NET Standard (v2.0.1)](2021-july.md#5)| 7 de julho |
-|Capacidades|[Anúncio de Transparência de Desconto do Cliente](2021-july.md#4)| 7 de julho |
+|Capacidades|[Anúncio de Transparência de Desconto de Cliente](2021-july.md#4)| 7 de julho |
 |Capacidades|[Windows 7 Atualizações de Segurança Alargadas (ESU) Ano 2 (2021) problema chave do produto resolvido](2021-july.md#3)|2 de julho |
 |Capacidades|[Veja os lançamentos e ofertas deste mês](2021-july.md#2)|1 de julho|
 |Capacidades|[Dinâmica 365 Promoção da Migração em Nuvem e reforma de ofertas com desconto](2021-july.md#1)|1 de julho|
@@ -74,20 +74,20 @@ Saiba mais sobre atualizações importantes do Centro de Parceiros. Estas inform
 |Capacidades|[Ver as mais recentes promoções e ofertas](2021-june.md#8)|22 de junho|
 |Capacidades|[Fase 1: Alterações ao Azure oferecem disponibilidade na Fornecedor de Soluções em Nuvem (CSP) relacionada com a nova experiência de comércio em breve](2021-june.md#7)|21 de junho|
 |Cresça o seu negócio|[Atualização e lembretes da comunidade Fornecedor de Soluções em Nuvem de junho (CSP)](2021-june.md#6)|11 de junho|
-|Ofertas e Mercados|[extensões promocionais Fornecedor de Soluções em Nuvem (CSP) para Microsoft 365 AudioConferência e Microsoft 365 Voz Para Empresas](2021-june.md#5)|11 de junho|
+|Ofertas e Mercados|[Fornecedor de Soluções em Nuvem (CSP) extensões promocionais para Microsoft 365 AudioConferência e Microsoft 365 Voz Para Empresas](2021-june.md#5)|11 de junho|
 |Capacidades|[Lista de preços de software perpétuo corrigida e republicada](2021-june.md#4)|4 de junho|
 |Capacidades|[Correções à pré-visualização da lista de preços dos serviços baseados em licenças de julho](2021-june.md#3)|4 de junho|
 |Capacidades|[Colunas adicionais para informações mais ricas em relatórios de utilização do Azure](2021-june.md#2)|June 2|
 |Capacidades|[Veja os lançamentos e ofertas deste mês](2021-june.md#1)|June 1|
 |**Categoria**|**Anúncios de maio de 2021**|**Anunciado**|
 |Capacidades|[Suporte sandbox para modelo indireto para permitir testes de API de ponta a ponta](2021-may.md#15)|25 de maio|
-|Capacidades, Melhora a segurança & conformidade |[Atualizações de junho para Serviços Online (OLS) e guia de autorização de canal de software](2021-may.md#14)|25 de maio|
+|Capacidades, Melhora a conformidade & segurança |[Atualizações de junho para Serviços Online (OLS) e guia de autorização de canal de software](2021-may.md#14)|25 de maio|
 |Capacidades|[Atualizações sobre a transação de software perpétuo em CSP e alterações ao programa De Licença Aberta](2021-may.md#13)|17 de mai|
 |Capacidades|[Fase 2 em breve: UE/EFTA e Reino Unido mudam de moeda de faturação de parceiros para novas ofertas de comércio](2021-may.md#12)|17 de mai|
 |Capacidades|[Depreciação de Microsoft 365 Voz Para Empresas Assistente de Início (GSW)](2021-may.md#11)|14 de maio|
 |Capacidades|[Que Fornecedor de Soluções em Nuvem (CSP) atualização e lembretes da comunidade](2021-may.md#10)|13 de maio|
 |Capacidades|[Analytics para co-venda liderada por parceiros](2021-may.md#9)|10 de maio|
-|Capacidades|[Programas de Incentivos de Hospedagem e Revendedor SPLA prolongados até 30 de setembro de 2021](2021-may.md#8)|7 de maio|
+|Capacidades|[Programas de Incentivos ao Alojamento e Revendedor SPLA prolongados até 30 de setembro de 2021](2021-may.md#8)|7 de maio|
 |Capacidades|[A funcionalidade de perfil do banco predefinido está disponível no Partner Center para inscrição de incentivos](2021-may.md#7)|7 de maio|
 |Capacidades|[Atualização: Lançamento do produto scheduler foi adiado](2021-may.md#6)|5 de maio|
 |Capacidades|[Software perpétuo da CSP chega em breve à China](2021-may.md#5)|5 de maio|
@@ -96,24 +96,24 @@ Saiba mais sobre atualizações importantes do Centro de Parceiros. Estas inform
 |Capacidades|[Anúncio da qualificação da Entidade Estatal](2021-may.md#2)|4 de maio|
 | Ofertas/Business Applications|[Veja os lançamentos e ofertas deste mês](2021-may.md#1)|3 de maio, atualizado 7 de maio|
 |**Categoria**|**Anúncios de abril de 2021**|**Anunciado**|
-|Preparação|[A validação de endereços do cliente CSP atualizada API vai ao vivo em junho; capacidade de teste agora disponível](2021-april.md#10)|30 de abril|
+|Preparação|[A validação de endereços de cliente csp atualizado API vai ao vivo em junho; capacidade de teste agora disponível](2021-april.md#10)|30 de abril|
 |Capacidades|[Nova localização para a documentação da API Swagger do Partner Center](2021-april.md#9)|26 de abril|
-|Capacidades|[Fornecedor de Soluções em Nuvem (CSP) política de devolução de software e aviso de expiração do link de descarregamento](2021-april.md#8)|21 de abril|
+|Capacidades|[Fornecedor de Soluções em Nuvem (CSP) política de período de devolução de software e aviso de expiração do link de descarregamento](2021-april.md#8)|21 de abril|
 |Cresça o seu negócio|[Programa de Licenciamento Aberto: Revendedores de transição para o programa Fornecedor de Soluções em Nuvem (CSP)](2021-april.md#7)|19 de abril|
-|Capacidades|[Agora ao vivo: Guia global de prontidão promocional](2021-april.md#6)|16 de abril|
+|Capacidades|[Agora ao vivo: Guia de prontidão promocional global](2021-april.md#6)|16 de abril|
 |Comunidade: Convites e lembretes|[Atualização e lembretes da comunidade Fornecedor de Soluções em Nuvem de abril (CSP)](2021-april.md#5)|16 de abril|
-|Capacidades|[Lembrete: Depreciação da qualificação get em 4 de maio de 2021](2021-april.md#4)|9 de abril|
+|Capacidades|[Lembrete: Depreciação da qualificação do GET em 4 de maio de 2021](2021-april.md#4)|9 de abril|
 |Capacidades|[Novo formato para o novo comércio fatura PDF em CSP](2021-april.md#3)|5 de abril|
 |Capacidades|[Alterações dos requisitos de inclusão de clientes do programa Fornecedor de Soluções Cloud (CSP)](2021-april.md#2)|2 de abril|
 |Capacidades|[Veja os lançamentos e ofertas deste mês](2021-april.md#1)|1 de abril|
 |**Categoria**|**Anúncios de março de 2021**|**Anunciado**|
-|Capacidades|[A API de validação de endereços de cliente csp atualizada já disponível para testes](2021-march.md#18)|31 de março|
+|Capacidades|[A API de validação de endereço de cliente CSP atualizada já está disponível para testes](2021-march.md#18)|31 de março|
 |Ofertas/Local de Trabalho Moderno|[Experiência do Centro de Administração de Novas Exchange (EAC)](2021-march.md#17)|29 de março|
 |Ofertas/Local de Trabalho Moderno|[Microsoft Operations: Introdução do calendário de lançamento do produto](2021-march.md#16)|25 de março|
-|Capacidades|[Alterações aos requisitos de embarque do cliente CSP](2021-march.md#15)|25 de março|
+|Capacidades|[Alterações nos requisitos de embarque do cliente CSP](2021-march.md#15)|25 de março|
 |Ofertas/Mercados|[Correções feitas até 1 de março de 2021 lista de preços perpétuos de software](2021-march.md#14)|23 de março|
 |Capacidades|[Lançamento SDK em .NET Standard (v1.17.0)](2021-march.md#13)|23 de março|
-|Capacidades|[Oferta de mercado comercial da CSP e incentivos ao CDS para ofertas elegíveis](2021-march.md#12)|18 de março|
+|Capacidades|[Oferta de mercado comercial da CSP e incentivos ao CSP para ofertas elegíveis](2021-march.md#12)|18 de março|
 |Capacidades|[Power BI Premium oferecem nomeação e atualização pré-requisito](2021-march.md#11)|18 de março|
 |Ofertas/Mercados|[Atualizações de preços de março para Microsoft 365 F3](2021-march.md#10)|16 de março|
 |Escala de & de eficiência de unidade|[Atualize um nome legal da empresa através do Partner Center](2021-march.md#9)|16 de março|
@@ -131,13 +131,13 @@ Saiba mais sobre atualizações importantes do Centro de Parceiros. Estas inform
 |Capacidades|[Migrar as suas ofertas a partir de Partner Sales Ligação (PSC) usando o novo recurso de migração de acordos](2021-february.md#12)|25 de fevereiro|
 |Capacidades|[Maior flexibilidade com acordos de co-venda liderados por parceiros](2021-february.md#11)|25 de fevereiro|
 |Capacidades|[Alterações no Fornecedor de Soluções em Nuvem cliente de bordo](2021-february.md#10)|25 de fevereiro|
-|Capacidades|[Agora live: DocuSign migração para Adobe Sign para parceiros ao abrigo de Acordos de Parceiros microsoft (MPAs)](2021-february.md#9)|16 de fevereiro|
+|Capacidades|[Agora live: DocuSign migração para Adobe Assinar para parceiros ao abrigo de Acordos de Parceiros microsoft (MPAs)](2021-february.md#9)|16 de fevereiro|
 |Cresça o seu negócio|[Lembrete: apresentação da limitação de APIs para parceiros que utilizam APIs do Centro de Parceiros](2021-february.md#8)|16 de fevereiro|
 |Capacidades|[Apresentando Tópicos Microsoft Viva](2021-february.md#7)|12 de fevereiro|
 |Ofertas/Mercados|[Microsoft 365 E3 alterações nos preços em março de 2021](2021-february.md#6)|11 de fevereiro|
 |Ofertas/Mercados|[Lista de preços de pré-visualização baseada em licença atualizada para coroa norueguesa](2021-february.md#5)|10 de fevereiro|
 |Capacidades|[Premium avaliações, um add-on para Compliance Manager, está chegando em 1 de março de 2021](2021-february.md#4)|5 de fevereiro|
-|Capacidades|[Respondendo ao COVID-19: Atualização da Microsoft Partner Network](2021-february.md#3)|4 de fevereiro|
+|Capacidades|[Respondendo ao COVID-19: Atualização da Rede de Parceiros da Microsoft](2021-february.md#3)|4 de fevereiro|
 |Capacidades|[Novas atualizações para o módulo de referências no Partner Center](2021-february.md#2)|4 de fevereiro|
 |Modern Workplace|[Depreciação e aposentação das APIs de Qualificação PUT para o processo de validação de clientes de Educação até 25 de fevereiro de 2021 e qualificação GET até 4 de maio de 2021](2021-february.md#1)|4 de fevereiro|
 | **Categoria** | **Anúncios de janeiro de 2021** | **Anunciado** |
@@ -145,7 +145,7 @@ Saiba mais sobre atualizações importantes do Centro de Parceiros. Estas inform
 |Modern Workplace|[Alterações dos requisitos de inclusão de clientes do programa Fornecedor de Soluções Cloud (CSP)](2021-january.md#14)|28 de janeiro|
 |Capacidades|[Microsoft Partner Agreement (MPA) – atualização de revendedor indireto & novas FAQs](2021-january.md#13)|27 de janeiro|
 |Capacidades|[Alterações no registo de auditoria do Partner Center para incluir dois novos Tipos de Operação para DAP](2021-january.md#12)|25 de janeiro|
-|Capacidades|[Alterações à Azure oferecem disponibilidade em CSP relacionada com a nova experiência de comércio na CSP para a Azure](2021-january.md#11)|21 de janeiro|
+|Capacidades|[Alterações à oferta do Azure oferecem disponibilidade em CSP relacionada com a nova experiência de comércio na CSP para a Azure](2021-january.md#11)|21 de janeiro|
 |Expanda o seu Negócio|[Software permanente agora em disponibilidade geral para o programa de Fornecedor de Soluções Cloud](2021-january.md#10)|19 de janeiro|
 |Expanda o seu Negócio|[Lembrete: apresentação da limitação de APIs para parceiros que utilizam APIs do Centro de Parceiros](2021-january.md#9)|19 de janeiro|
 |Ofertas/Mercados|[Lançamentos sobre Segurança, Conformidade e Identidade (SCI) previstos para 1 de fevereiro de 2021](2021-january.md#8)|15 de janeiro|

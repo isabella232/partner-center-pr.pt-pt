@@ -15,8 +15,8 @@ ms.openlocfilehash: f34234bebb8353315029eaab76aa52cb30df6e6a
 ms.sourcegitcommit: 847ad384d44a5a673791cb2950af02225d8174c9
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/16/2021
-ms.locfileid: "127894035"
+ms.lasthandoff: 09/17/2021
+ms.locfileid: "127906316"
 ---
 # <a name="september-2021-announcements"></a>Anúncios de setembro de 2021
 
@@ -45,7 +45,7 @@ Os parceiros podem usar privilégios administrativos delegados (DAP) para gerir 
 
 Para melhorar a segurança dentro do ecossistema do parceiro e do cliente, a Microsoft recomenda desligar o DAP quando este não estiver a ser utilizado.
 
-A partir do final de outubro, a Microsoft lançará novas ferramentas de reporte para que os agentes da administração dos parceiros possam auditar as ligações do DAP com os seus clientes. Este relatório irá capturar a forma como os agentes parceiros estão a aceder aos inquilinos dos clientes através de todos os inquilinos através do DAP. Os parceiros podem então rever e remover as ligações DAP que não estão a ser utilizadas.
+A partir do final de outubro, a Microsoft lançará novas ferramentas de reporte para que os agentes da administração dos parceiros possam auditar as ligações do DAP com os seus clientes. Este relatório irá capturar a forma como os agentes parceiros estão a aceder aos inquilinos dos clientes através de TODOS os inquilinos através do DAP. Os parceiros podem então rever e remover as ligações DAP que não estão a ser utilizadas.
 
 Para saber mais sobre este novo recurso de relatório, criámos um [guia](https://partner.microsoft.com/resources/detail/dap-monitoring-and-self-serve-removal-pdf) que documenta os vários filtros e campos que estão disponíveis no relatório.
 
@@ -88,7 +88,7 @@ Os recursos deste mês abrangem os seguintes tópicos:
 - [Introdução ao apoio ao licenciamento dos parceiros](https://partner.microsoft.com/resources/detail/introduction-to-licensing-support-for-partners-pdf)
 - [Guia para o site de Termos do Produto para parceiros](https://partner.microsoft.com/resources/detail/product-terms-site-guide-for-partners-pdf)
 - [Como denunciar um esquema de apoio](https://partner.microsoft.com/resources/detail/how-to-report-a-support-scam-pdf)
-- [Alteração de atributo de programa para Microsoft 365 Apps para a Enterprise](https://partner.microsoft.com/resources/detail/program-attribute-change-for-microsoft-365-apps-for-enterprise-pdf)
+- [Alteração de atributo de programa para Microsoft 365 Apps para Empresa](https://partner.microsoft.com/resources/detail/program-attribute-change-for-microsoft-365-apps-for-enterprise-pdf)
 
 #### <a name="csp-community-qa-reminder"></a>CSP Comunidade Q&Um lembrete
 
@@ -100,11 +100,11 @@ A sessão mensal da comunidade CSP Q&A proporciona-lhe a oportunidade de aprende
 
 Dentro da [coleção comunitária mensal da CSP,](https://partner.microsoft.com/resources/collection/september-2021-csp-partner-community-content#/)pode encontrar:
 
-- A [newsletter de Atualização Mensal CSP](https://partner.microsoft.com/resources/detail/csp-monthly-update-september-2021-global) transferível que agrega anúncios, atualizações, eventos e lembretes recentes num documento de fácil leitura.
-- O [Calendário de Anúncios da CSP](https://partner.microsoft.com/resources/detail/csp-announcement-calendar-september-2021-pdf) que fornece uma visão de linha do tempo das próximas alterações que afetam o programa.
+- A newsletter de atualização mensal da CSP que agrega anúncios, atualizações, eventos e lembretes recentes do [CSP](https://partner.microsoft.com/resources/detail/csp-monthly-update-september-2021-global) num documento de fácil leitura.
+- O [Calendário de Anúncios da CSP](https://partner.microsoft.com/resources/detail/csp-announcement-calendar-september-2021-pdf) que fornece uma visão da linha do tempo das próximas alterações que afetam o programa.
 - O **novo** [calendário de lançamento do produto](https://partner.microsoft.com/resources/detail/product-launch-calendar-september-pdf) onde pode ver os próximos lançamentos e ofertas de produtos.
 - O [Guia Global de Prontidão Promocional](https://partner.microsoft.com/resources/collection/global-promo-readiness-guide-collection#/) que reúne promoções recentes e futuras que estão disponíveis para parceiros e clientes.
-- [A CSP lança recursos](https://partner.microsoft.com/resources/collection/csp-launch-topics-collection#/) de atualização com conteúdo fácil de consumir em mudanças operacionais chave.
+- [A CSP lança recursos](https://partner.microsoft.com/resources/collection/csp-launch-topics-collection#/) de atualização com conteúdo fácil de consumir em mudanças operacionais fundamentais.
 - [Refreshers e lembretes](https://partner.microsoft.com/resources/detail/csp-september-2021-refreshers-and-reminders-pdf) sobre os principais tópicos da CSP que recebem interesse e consultas.
 
 Precisa de prontidão de licenciamento? Os [webinars mensais de holofotes da CSP](https://commercial_licensing.eventbuilder.com/YearToDate_ALL) cobrem as últimas informações de licenciamento da CSP disponíveis para todos os parceiros.
@@ -134,12 +134,12 @@ _____________
 
 ### <a name="impacted-audience"></a>Audiência impactada
 
-Esta sessão é dedicada às funções específicas do Partner Center que gerem:
+Esta sessão é dedicada às funções específicas do Partner Center que gerem as:
 
 - Módulo de mercado comercial para gestão de publicações.
 - Módulo de referências para leads e co-venda gestão de partilha de oportunidades.
 
-Todos os outros utilizadores do Partner Center podem aceder a conteúdos a pedido na [galeria de recursos de prontidão de operações.](https://partner.microsoft.com/resources/cloud-solution-provider-program)
+Todos os outros utilizadores do Partner Center podem aceder a conteúdos a pedido na galeria de [recursos de prontidão de operações.](https://partner.microsoft.com/resources/cloud-solution-provider-program)
 
 ### <a name="details"></a>Detalhes
 
@@ -155,7 +155,7 @@ Os principais artigos para este mês incluem:
 - [Configure co-venda para uma oferta de mercado comercial](/azure/marketplace/co-sell-configure)
 - [Criar e gerir regras de encaminhamento de oportunidades de entrada: Partner Center](../routing-rules.md)
 - [Gerir oportunidades de co-venda: Partner Center](../manage-co-sell-opportunities.md#accepted-stage)
-- [Os dados do registo de negócios já estão disponíveis para exportação em Informações de referência](./2021-july.md#17)
+- [Os dados do registo de transações já estão disponíveis para exportação em Informações de referência](./2021-july.md#17)
 
 #### <a name="refresh"></a>Atualizar
 
@@ -202,14 +202,14 @@ _____________
 
 ### <a name="summary"></a>Resumo
 
-Para ajudar os parceiros e clientes a gerir o seu negócio com base na confiança, estamos a exigir que os parceiros ateste que estão a agir como parceiros diretos ou indiretos ao utilizarem o mesmo ID do inquilino por transação.
+Para ajudar os parceiros e clientes a gerirem o seu negócio com base na confiança, estamos a exigir que os parceiros ateste que estão a agir como parceiros diretos ou indiretos ao utilizarem o mesmo ID do inquilino por transação.
 
 Também pedimos a todos os parceiros que transacionam nos países da UE/EFTA que declarem quaisquer revendedores adicionais (até um máximo de 5) que estejam envolvidos na transação.
 
 ### <a name="categories"></a>Categorias
 
 - Data: 2021-09-07
-- Prontidão piloto para lançamento da WW que ocorre em dezembro
+- Prontidão de piloto para lançamento da WW que ocorre em dezembro
 
 ### <a name="impacted-audience"></a>Audiência impactada
 
@@ -240,7 +240,7 @@ Para participar no piloto, contacte o seu especialista em assuntos (Ali Khaki) e
 
 _____________
 
-## <a name="perpetual-software-and-software-subscriptions-price-lists-republished-to-fix-price-increases-in-russia"></a><a name="6"></a>Listas de preços de subscrições de software perpétuo e software reeditadas para corrigir aumentos de preços na Rússia
+## <a name="perpetual-software-and-software-subscriptions-price-lists-republished-to-fix-price-increases-in-russia"></a><a name="6"></a>Listas de preços de subscrições de software perpétuo e de software reeditadas para corrigir aumentos de preços na Rússia
 
 ### <a name="categories"></a>Categorias
 
@@ -259,14 +259,14 @@ Fornecedores indiretos e parceiros de conta direta que transacionam subscriçõe
 
 As listas de preços de subscrições de software e software perpétuos publicadas no dia 1 de setembro tiveram um aumento de preço incorreto de 15,2% listado para todos os produtos.
 
-O aumento dos preços de ~15,2% entrará em vigor a **1 de outubro de 2021**, não em setembro. As tabelas de preços foram republicadas com a informação correta sobre os preços.
+O aumento dos preços de ~15,2% entrará em vigor a **1 de outubro de 2021**, e não em setembro. As tabelas de preços foram republicadas com a informação correta sobre os preços.
 
-Os parceiros que compraram produtos entre 1 de setembro e 3 de setembro serão cobrados pelos preços corrigidos, o que se reflete nas últimas tabelas de preços.
+Os parceiros que compraram produtos entre 1 de setembro e 3 de setembro serão cobrados pelos preços corrigidos que se refletem nas últimas tabelas de preços.
 
 ### <a name="next-steps"></a>Passos seguintes
 
-- Os parceiros que transacionam subscrições de software perpétuo e software na Rússia devem descarregar a mais recente lista de preços para ver os preços corrigidos.
-- Para saber mais pormenores sobre os aumentos de preços que chegam em outubro, consulte este [anúncio.](https://news.microsoft.com/licensing-changes-at-microsoft-russia-2021/)
+- Os parceiros que transacionam subscrições de software e software perpétuos na Rússia devem descarregar a mais recente lista de preços para ver os preços corrigidos.
+- Para saber mais pormenores sobre os aumentos de preços que chegam em outubro, consulte este [anúncio](https://news.microsoft.com/licensing-changes-at-microsoft-russia-2021/).
 
 _____________
 
@@ -298,7 +298,7 @@ A oferta impactada inclui:
 
 ### <a name="next-steps"></a>Passos seguintes
 
-Os parceiros que transacionam serviços licenciados em USD devem baixar a lista de preços mais recente para ver o preço corrigido.
+Os parceiros que transacionam serviços licenciados em USD devem descarregar a última lista de preços para ver o preço corrigido.
 
 ________________
 ## <a name="nigeria-and-thailand-are-now-microsoft-managed-countries"></a><a name="4-5"></a>Nigéria e Tailândia são agora países geridos pela Microsoft
@@ -342,7 +342,7 @@ Parceiros que transacionam no programa Fornecedor de Soluções em Nuvem (CSP).
 
 ### <a name="details"></a>Detalhes
 
-Microsoft Intune é a plataforma de gestão de pontos finais unificada mais abrangente para gerir e proteger pontos finais físicos e virtuais na sua organização. Estamos a anunciar uma nova oferta intune por dispositivo para ajudar as organizações enterprise a gerir dispositivos que são atribuídos a um utilizador autenticado (isto é, não utilizado por vários utilizadores autenticados).
+Microsoft Intune é a plataforma de gestão de pontos finais unificada mais abrangente para gerir e proteger pontos finais físicos e virtuais na sua organização. Estamos a anunciar uma nova oferta intune por dispositivo para ajudar as organizações enterprise a gerir dispositivos que são atribuídos a um utilizador autenticado (ou seja, não utilizados por vários utilizadores autenticados).
 
 Esta oferta, disponível a 1 de setembro de 2021, aproveita o Intune por dispositivo, adicionando Azure Ative Directory (Azure AD). É uma experiência totalmente funcional fora da caixa e inclui os seguintes planos de serviço:
 
@@ -350,7 +350,7 @@ Esta oferta, disponível a 1 de setembro de 2021, aproveita o Intune por disposi
 - Microsoft Intune
 - Azure Ative Directory educação.
 
-Com base no feedback dos nossos parceiros da Microsoft, o Intune per-device for Enterprise foi criado para ser incluído numa venda por dispositivo (dispositivo + Windows + Intune) como uma oferta de cinco anos que irá estender a vida útil do dispositivo. Esta nova oferta ajudará os CSPs a simplificar as estruturas de negócio e a oferecer um acordo mais competitivo aos seus clientes.
+Com base no feedback dos nossos parceiros da Microsoft, o Intune per-device for Enterprise foi criado para ser incluído numa venda por dispositivo (dispositivo + Windows + Intune) como uma oferta de cinco anos que irá estender a vida útil do dispositivo. Esta nova oferta ajudará os CSPs a simplificar as estruturas de negócio e a oferecer um negócio mais competitivo aos seus clientes.
 
 Itens a notar sobre a nova oferta intune por dispositivo:
 
@@ -392,7 +392,7 @@ Em 19 de agosto de 2021, a Microsoft [anunciou](https://partner.microsoft.com/re
 
 #### <a name="launch-of-seat-based-offers-for-integrated-sandbox-testing"></a>Lançamento de ofertas baseadas em assentos para testes integrados de caixas de areia
 
-A partir de 1 de setembro de 2021, a Microsoft permitiu ofertas baseadas em lugares para testes [integrados](/partner-center/develop/test-and-debug) de sandbox na [nova experiência de comércio](https://partner.microsoft.com/resources/detail/new-commerce-for-csp-seat-based-offers-pdf) para o programa CSP.
+A partir de 1 de setembro de 2021, a Microsoft permitiu ofertas baseadas em lugares para testes [integrados](/partner-center/develop/test-and-debug) de caixas de areia na [nova experiência de comércio](https://partner.microsoft.com/resources/detail/new-commerce-for-csp-seat-based-offers-pdf) para o programa CSP.
 
 A adição de Microsoft 365, Dynamics 365, Power Platform e Windows 365 ofertas em CSP para a nova experiência de comércio é mais um marco importante na nossa nova jornada de comércio. A Microsoft está a investir em inovações de produtos, melhor ferramenta e acesso a novas oportunidades de negócio que permitem aos parceiros aumentar as suas receitas de CSP e fornecer mais opções aos clientes. Estamos a evoluir na nossa plataforma de comércio e a dinamizar os processos de gestão de encomendas e subscrições para ajudar parceiros e clientes a terem sucesso através da transformação digital.
 
@@ -403,15 +403,15 @@ A participação no ambiente da caixa de areia permite à sua organização:
 - Realizar integração da API num ambiente de testes antes de se implantar na produção
 - Tenha tempo suficiente para operacionalizar a nova experiência de comércio antes do lançamento
 
-A tabela fornece um resumo das principais características disponíveis no ambiente integrado de testes de caixas de areia:
+O quadro fornece um resumo das principais características disponíveis no ambiente integrado de testes de caixas de areia:
 
-| Configuração de privilégios de administração delegados de parceiro/cliente | Funcionalidade parcial de sub-atualização completa |
+| Configuração de privilégios de administração delegados de parceiro/cliente | Sub-atualização parcial -funcionalidade completa |
 | ----------- | ---------------|
 | Modelos de 1 níveis, de 2 níveis | Atualização parcial da subscrição através do suporte |
 | Descoberta lado a lado da experiência atual e nova | Alterações programadas na renovação  |
-| Descubra e compre Produtos Modernos (produtos selecionados) | Suspender/retomar (via suporte) |
+| Descubra e compre Produtos Modernos (selecione produtos) | Suspender/retomar (via suporte) |
 | Gerir a subscrição (renovar automaticamente o toggle, adicionar assentos, cancelar o movimento) | Ensaios gratuitos (apresentação apenas para MAC) |
-| Complementos independentes  | Moeda parceira |
+| Addons independentes  | Moeda parceira |
 | Planos de faturação | Transparência dos preços  |
 | Gestão do ciclo de vida por assinatura (período de carência) | Planos anuais de faturação para ofertas pluárias  |
 | Restrições de propriedade | Suspender/retomar (via self-serve)  |
@@ -422,17 +422,17 @@ A tabela fornece um resumo das principais características disponíveis no ambie
 
 #### <a name="reminder-for-upcoming-csp-qa-calls-in-september"></a>Lembrete para as próximas chamadas do CSP Q&A em setembro
 
-Registe-se para o próximo [CSP Q&A Community Calls](https://globalpbocomm.eventbuilder.com/GlobalCSP) nos dias 15 e 16 de setembro para aprender e fazer perguntas sobre a nova experiência de comércio para Microsoft 365, Dynamics 365, Power Platform e Windows 365 ofertas baseadas em 365 lugares para a moagem de amplitude que chega em outubro de 2021. A CSP Community Q&As chamadas são dedicadas a ajudar a fatura direta da CSP e os parceiros indiretos com questões relacionadas com lançamentos de CSP e alterações futuras. Para sua conveniência, as coleções comunitárias são disponibilizadas antes do tempo na galeria de [preparação](https://partner.microsoft.com/resources/assets/#/?prog=CSP%7CCSP-Direct%7CCSP-Indirect-Partner&type=collection&search=community%20collection%202021&sort=updated) do parceiro onde você pode rever material que será discutido no Q&A call.
+Registe-se para o próximo [CSP Q&A Community Calls](https://globalpbocomm.eventbuilder.com/GlobalCSP) nos dias 15 de setembro e 16 de setembro para aprender e fazer perguntas sobre a nova experiência de comércio para Microsoft 365, Dynamics 365, Power Platform e Windows 365 ofertas baseadas em 365 lugares para a moagem da amplitude que chega em outubro de 2021. A CSP Community Q&As chamadas são dedicadas a ajudar a fatura direta da CSP e os parceiros indiretos com questões relacionadas com lançamentos de CSP e alterações futuras. Para sua conveniência, as coleções comunitárias são disponibilizadas antes do tempo na galeria de [prontidão](https://partner.microsoft.com/resources/assets/#/?prog=CSP%7CCSP-Direct%7CCSP-Indirect-Partner&type=collection&search=community%20collection%202021&sort=updated) do parceiro onde você pode rever material que será discutido na chamada Q&A.
 
 Se quiser assistir e/ou encontrar gravações anteriores de chamadas da CSP Fundamentals, consulte o [registo de fundamentos da CSP](https://globalpbocomm.eventbuilder.com/CSPFundamentals).
 
 #### <a name="microsoft-commerce-incentive-program"></a>Programa de Incentivos ao Comércio da Microsoft
 
-A 1 de setembro de 2021, a Microsoft informou os parceiros sobre os próximos passos na evolução do seu programa de incentivos para parceiros que estarão disponíveis em outubro. Os dois componentes primários desta comunicação serão os guias de incentivos fy22 e informações sobre a experiência de incentivos melhorados que estão a ser desenvolvidos dentro do Partner Center.
+A 1 de setembro de 2021, a Microsoft informou os parceiros sobre os próximos passos na evolução do seu programa de incentivos para parceiros que estarão disponíveis em outubro. Os dois componentes primários desta comunicação serão os guias de incentivos fy22 e informações sobre a experiência de incentivos melhorada que estão a ser desenvolvidas dentro do Partner Center.
 
 - **Experiência de parceiro melhorada**  Direcionada para o início de outubro para a disponibilidade de parceiros, a Microsoft está a investir numa única plataforma de envolvimento e atividade dentro do Partner Center que será um destino centralizado para os parceiros ganharem incentivos através de movimentos de compra e fases do ciclo de vida do cliente.
 
-- **Nova abordagem aos incentivos**  Novas ofertas de incentivos e investimentos continuarão a ser adicionadas ao programa de incentivos ao comércio da Microsoft. Em alinhamento com o esforço de simplificar a experiência do parceiro, a Microsoft consolidará os guias do programa de incentivos num único documento alojado no Partner Center.
+- **Nova abordagem aos incentivos**  Novas ofertas de incentivo e investimento continuarão a ser adicionadas ao programa de incentivos ao comércio da Microsoft. Em alinhamento com o esforço para simplificar a experiência do parceiro, a Microsoft consolidará os guias do programa de incentivos num único documento alojado no Partner Center.
 
 ### <a name="next-steps"></a>Passos seguintes
 
@@ -440,13 +440,13 @@ A 1 de setembro de 2021, a Microsoft informou os parceiros sobre os próximos pa
 
 - Não é necessária qualquer ação se a sua organização tiver previsto um ambiente integrado de caixa de areia. Se a sua organização não tem um ambiente integrado de caixa de areia, siga estes [passos](/partner-center/develop/indirect-provider-sandbox-capabilities) para criar um.
 - Reveja o guia de operações da [CSP](https://partner.microsoft.com/resources/detail/operating-guide-new-commerce-experience-for-csp-seat-based-offers-pdf) para Microsoft 365, Dynamics 365, Power Platform e Windows 365 na nova experiência de comércio para saber mais sobre as funcionalidades, regras de negócio e instruções passo a passo para o lançamento. Verifique regularmente o guia de funcionamento, uma vez que será atualizado periodicamente.
-- Reveja os recursos delineados no [mapa de Prontidão.](https://partner.microsoft.com/resources/detail/readiness-map-new-commerce-experienceseat-based-offers-pdf)
-- Reveja a pasta de [documentação da API.](https://partner.microsoft.com/resources/collection/api-documentation#/)
-- Para suporte, regisque um bilhete de suporte ou post para as conversas no [grupo de Yammer do Partner Center SDK e da API,](https://www.yammer.com/cloudpartnercommunity/#/threads/inGroup?type=in_group&feedId=6589502)onde serão publicadas apresentações e gravações de funcionalidades durante todo o mês de setembro.
+- Reveja os recursos descritos no [mapa de preparação.](https://partner.microsoft.com/resources/detail/readiness-map-new-commerce-experienceseat-based-offers-pdf)
+- Reveja a pasta de [documentação API](https://partner.microsoft.com/resources/collection/api-documentation#/).
+- Para suporte, inicie um bilhete de suporte ou post para as conversas no [grupo partner Center SDK e API Yammer](https://www.yammer.com/cloudpartnercommunity/#/threads/inGroup?type=in_group&feedId=6589502), onde serão publicadas apresentações e gravações de funcionalidades durante todo o mês de setembro.
 
 #### <a name="reminder-for-upcoming-csp-qa-calls-in-september"></a>Lembrete para as próximas chamadas do CSP Q&A em setembro
 
-- Registe-se para as [próximas chamadas comunitárias&CSP](https://globalpbocomm.eventbuilder.com/GlobalCSP) A nos dias 15 de setembro ou 16 de setembro.
+- Inscreva-se para as [próximas chamadas comunitárias&CSP](https://globalpbocomm.eventbuilder.com/GlobalCSP) A nos dias 15 de setembro ou 16 de setembro.
 - Reveja a nova experiência de comércio para [a coleção](https://partner.microsoft.com/resources/collection/new-commerce-experience-for-csp-seat-based-offers#/) de ofertas baseadas em assentos CSP para este lançamento.
 - Assista ao CSP Q&Uma Chamada Comunitária e faça perguntas que a sua organização tem sobre a nova experiência de comércio para Microsoft 365, Dynamics 365, Power Platform e Windows 365 lugares baseados em movimento de amplitude.
 
@@ -513,17 +513,17 @@ Parceiros do programa MCCL CSP
 
 - Os clientes podem continuar a comprar licenças de software com a ajuda de um parceiro no programa Open License até 31 de dezembro de 2021. As licenças perpétuas estarão disponíveis tanto nos programas MCCL CSP como na Licença Aberta até à depreciação do programa Licença Aberta.
 
-#### <a name="open-license-program-deprecation"></a>Deprecação do programa Desprecção do Programa de Licença Aberta
+#### <a name="open-license-program-deprecation"></a>Deprecação do programa De licença aberta
 
 - A partir de 1 de janeiro de 2022, os clientes já não podem comprar ou renovar licenças de software através do programa Microsoft Open License.
 
 - Os clientes podem continuar a ter plenos direitos e acesso a todas as licenças de software perpétuos adquiridas através do programa Licença Aberta mesmo após a sua depreciação. Eles também podem ainda aceder ao Centro de Serviços de Licenciamento de Volume para gerir essas licenças e serviços.
 
-#### <a name="software-assurance-sa-purchases"></a>Compras de Software Assurance (SA)
+#### <a name="software-assurance-sa-purchases"></a>Compras de Garantia de Software (SA)
 
 - As ofertas da SA com Licença Aberta (L&SA) continuarão disponíveis em Open Value (OV) e Open Value Subscription (OVS). No entanto, nem a SA nem a L&SA estão disponíveis no programa MCCL CSP porque não há nenhum plano para oferecer isso no MCCL CSP.
 
-- Os benefícios da SA continuarão até que o prazo de SA expire, mesmo que a expiração seja depois de 1 de janeiro de 2022.
+- Os benefícios da SA continuarão até que o prazo de SA expire, mesmo que a expiração seja após 1 de janeiro de 2022.
 
 - O programa OV da Microsoft é recomendado para futuras compras que incluam SA.
 
@@ -532,7 +532,7 @@ Parceiros do programa MCCL CSP
 
 #### <a name="partner-change-management"></a>Gestão de mudança de parceiros
 
-- Os distribuidores microsoft open existentes têm vindo a bordo como fornecedores indiretos MCCL CSP.
+- Os distribuidores existentes do Microsoft Open têm vindo a bordo como fornecedores indiretos MCCL CSP.
 
 - Os fornecedores indiretos e os revendedores indiretos selecionados serão convidados a realizar testes ambientais de produção em agosto para garantir a função de transação.
 
@@ -543,11 +543,11 @@ Parceiros do programa MCCL CSP
 Prepare-se para esta mudança através dos seguintes recursos:
 
 - [O que é o novo comércio?](https://partner.microsoft.com/resources/detail/new-commerce-experience-introduction)
-- [Livro de reprodução indireta do fornecedor mcCL CSP](https://microsoftapc.sharepoint.com/:b:/t/ChinaLicensingHome/EeWi5axiZ_RCkTbxa-brE-sBGYdLJ5idpnZvFt2MFiTLWw?e=6itfqY)
+- [Livro de reprodução indireta do fornecedor MCCL CSP](https://microsoftapc.sharepoint.com/:b:/t/ChinaLicensingHome/EeWi5axiZ_RCkTbxa-brE-sBGYdLJ5idpnZvFt2MFiTLWw?e=6itfqY)
 - [Livro de reprodução indireto MCCL CSP](https://microsoftapc.sharepoint.com/:b:/t/ChinaLicensingHome/EY-csVS7lFdKpwkRqeJJ4hkBPGWv4qkfINictqVrwKVLxQ?e=9G6ZY1)
 
-Note que estas alterações se aplicam apenas à MCCL CSP e não têm qualquer impacto no 21 Vianet CSP.
+Note que estas alterações se aplicam apenas ao MCCL CSP e não têm qualquer impacto no 21 Vianet CSP.
 
 ### <a name="questions"></a>Perguntas?
 
-Se tiver alguma dúvida adicional, fale com o seu gestor de desenvolvimento de parceiros locais.
+Se tiver alguma pergunta adicional, fale com o seu gestor de desenvolvimento de parceiros local.

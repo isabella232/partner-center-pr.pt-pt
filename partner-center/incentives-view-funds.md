@@ -9,13 +9,13 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.openlocfilehash: 6f70a4a30346c6ef82e36c414559da6e79a373e0
-ms.sourcegitcommit: 986573bc4382b803bf4d641df6dd1e37c3af1955
+ms.sourcegitcommit: 847ad384d44a5a673791cb2950af02225d8174c9
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/16/2021
-ms.locfileid: "127898367"
+ms.lasthandoff: 09/17/2021
+ms.locfileid: "127906354"
 ---
-# <a name="view-available-earned-claimed-and-remaining-co-op-funds"></a>Ver disponíveis ganhos, reclamados e restantes fundos cooperativos
+# <a name="view-available-earned-claimed-and-remaining-co-op-funds"></a>Ver disponíveis ganhos, reclamados e restantes fundos de cooperação
 
 **Funções adequadas**: Incentivos administrativos | Utilizador de incentivos
 
@@ -23,13 +23,13 @@ Pode rastrear, monitorizar e conciliar os seus fundos de cooperação de incenti
 
 ## <a name="view-your-funds"></a>Ver os seus fundos
 
-1. Inscreva-se no painel partner [Center](https://partner.microsoft.com/dashboard/) com a sua conta Azure AD (conta da empresa) ou o e-mail apropriado para o seu papel de incentivo.
+1. Inscreva-se no painel partner [Center](https://partner.microsoft.com/dashboard/) com a sua conta AZure AD (conta da empresa) ou o e-mail apropriado para o seu papel de incentivo.
 
-2. Na barra de navegação à esquerda, selecione **Programas** e, em seguida, selecione o programa de incentivo apropriado da lista de programas expandidos.
+2. Na barra de navegação da mão esquerda, selecione **Programas** e, em seguida, selecione o programa de incentivo apropriado da lista de programas expandidos.
 
-3. No topo da página do programa, selecione **'Ver' reclamações**.
+3. No topo da página do programa, selecione **'Ver' alegações**.
 
-4. No dropdown acima do azulejo reivindicado pela **Cooperativa,** selecione o período de utilização que deseja ver. Isto mostrará os valores para **Co-op ganhos,** **Co-op reclamado**, e **Restante cooperativa** para o período selecionado.
+4. No dropdown acima do azulejo **reivindicado co-op,** selecione o período de utilização que deseja ver. Isto mostrará os valores para **Co-op ganhos,** **Co-op reclamado**, e **Restante cooperativa** para o período selecionado.
 
 5. O prazo para qualquer nova submissão de reclamações aparece abaixo do **visor restante da cooperativa.**  
 
@@ -49,7 +49,7 @@ Os ganhos de cooperação para o período de ganhos em curso só são visíveis 
 ### <a name="co-op-threshold"></a>Limiar de cooperação
 Se os ganhos de cooperativa de um parceiro estiverem abaixo do valor limiar num período de ganhos cooperativos, não se qualificarão para utilizar fundos e receberão os ganhos cooperativos como desconto no final do semestre. Consulte o guia do programa para obter o valor limiar. 
 
-Se ainda tiver problemas em conciliar os montantes, ou se alguns fundos cooperativos não estiverem visíveis, pode abrir um bilhete de apoio. Para isso, selecione o ícone de ponto de interrogação a partir do canto superior direito da página e, em seguida, selecione **Incentivos**.
+Se ainda tiver problemas em conciliar os montantes, ou se alguns fundos cooperativos não estiverem visíveis, pode abrir um bilhete de apoio. Para isso, selecione o ícone de ponto de interrogação do canto superior direito da página e, em seguida, selecione **Incentivos**.
 
 ## <a name="next-steps"></a>Passos seguintes
 
