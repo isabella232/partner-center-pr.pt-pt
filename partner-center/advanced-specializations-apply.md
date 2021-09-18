@@ -1,7 +1,7 @@
 ---
 title: Candidatar-se a especializações avançadas
 ms.topic: how-to
-ms.date: 08/27/2021
+ms.date: 09/16/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-membership
 description: Fortaleça o seu perfil de negócio no diretório de parceiros da Microsoft. Saiba como usar o Partner Center para se candidatar e ganhar especializações avançadas.
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 378181838841a6763130394a35c3d5a3804fa72b
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: 5667fad7bde179cd728abb911b65621bcc9505a7
+ms.sourcegitcommit: 8d5c2463fc0f0c03972a6f89d01605421288daea
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126246644"
+ms.lasthandoff: 09/18/2021
+ms.locfileid: "127932873"
 ---
 # <a name="use-partner-center-to-apply-for-advanced-specializations-and-check-their-status"></a>Use o Partner Center para solicitar especializações avançadas e verificar o seu estado
 
@@ -22,13 +22,13 @@ ms.locfileid: "126246644"
 
 Este artigo descreve como usar o painel de instrumentos do Partner Center para solicitar uma [especialização avançada,](advanced-specializations.md)verificar o seu progresso e completar os passos e validações necessários. Também verá exemplos de utilização do Partner Center para obter certas especializações avançadas que requerem uma auditoria ou referências ao cliente.
 
-Para saber mais sobre os benefícios de especializações avançadas e seus requisitos específicos, consulte as [especializações avançadas da Microsoft Partner Network](https://partner.microsoft.com/membership/advanced-specialization).
+Para saber mais sobre os benefícios de especializações avançadas e seus requisitos específicos, consulte [as especializações avançadas da Microsoft Partner Network](https://partner.microsoft.com/membership/advanced-specialization).
 
 ## <a name="use-partner-center-to-apply-for-advanced-specializations-or-check-their-status"></a>Use o Partner Center para solicitar especializações avançadas ou verificar o seu estado
 
 Para se qualificar para uma especialização avançada, primeiro tem de cumprir certos pré-requisitos, como uma [competência](https://partner.microsoft.com/membership/competencies) Gold numa área relacionada. Em seguida, você precisa aplicar no Partner Center e completar etapas chave, requisitos e validações da Microsoft para essa especialização avançada.
 
-Grande parte do processo está disponível dentro do painel do Centro de Parceiros. No entanto, apenas os utilizadores com uma determinada [função](permissions-overview.md) partner Center podem aceder a esta área do Centro de Parceiros.
+Grande parte do processo está disponível dentro do painel do Partner Center. No entanto, apenas os utilizadores com uma determinada [função](permissions-overview.md) partner Center podem aceder a esta área do Centro de Parceiros.
 
 Para aceder a esta área, deve ser-lhe concedido o papel de **MPN Account Admin** ou **Global Admin** para a conta parceira da Microsoft da sua organização.
 
@@ -48,14 +48,14 @@ Para aceder a esta área, deve ser-lhe concedido o papel de **MPN Account Admin*
 
 ## <a name="use-partner-center-to-schedule-an-audit-or-include-customer-references-for-advanced-specializations"></a>Use o Partner Center para agendar uma auditoria ou inclua referências de clientes para especializações avançadas
 
-Em geral, cada especialização avançada requer que tenha ganho uma competência de ouro alinhada juntamente com outros pré-requisitos personalizados que são exclusivos dessa especialização avançada. Algumas especializações avançadas também podem precisar que:
+Em geral, cada especialização avançada requer que tenha ganho uma competência de ouro alinhada juntamente com outros pré-requisitos personalizados que são exclusivos dessa especialização avançada. Algumas especializações avançadas também podem precisar que você:
 
 - Agende uma auditoria com um auditor de terceiros
 - Fornecer referências ao cliente
 
 Ambas as tarefas podem ser executadas no Partner Center.
 
-Especializações avançadas que requerem uma auditoria com um auditor de terceiros incluem:
+As especializações avançadas que requerem uma auditoria a um auditor de terceiros incluem:
 
 - Análise na Microsoft Azure
 - Migração do Data Warehouse para o Microsoft Azure
@@ -85,10 +85,10 @@ As especializações avançadas que requerem referências ao cliente incluem:
 
 Especializações avançadas que não requerem uma auditoria ou referência ao cliente incluem:
 
-- Desenvolvimento de Aplicações de Código Baixo
-- Gestão de Empresas Pequenas e Médias
+- Desenvolvimento de aplicações de código baixo
+- Gestão de Negócios De Pequena e Média Dimensão
 
-As seguintes secções descrevem como agendar uma auditoria ou fornecer referências ao cliente no Partner Center.
+As secções seguintes descrevem como agendar uma auditoria ou fornecer referências ao cliente no Partner Center.
 
 ## <a name="schedule-an-audit-with-a-third-party-auditor"></a>Agende uma auditoria com um auditor de terceiros
 
@@ -100,9 +100,9 @@ Em seguida, siga estes passos para agendar uma auditoria no Partner Center:
 
 2. Selecione a secção **MPN** do menu Partner Center, seguida de **Adv. Especializações**. O menu expande-se para mostrar todas as especializações avançadas disponíveis para si.
 
-3. Selecione o nome da especialização avançada que requer que marque uma auditoria. Por exemplo, digamos que seleciona **a Modernização de Aplicações Web para Microsoft Azure**. A página pré-requisitos aparece então para esta especialização avançada.
+3. Selecione o nome da especialização avançada que requer que você marque uma auditoria. Por exemplo, digamos que selecione **a Modernização das Aplicações Web para Microsoft Azure**. A página pré-requisitos aparece então para esta especialização avançada.
 
-   :::image type="content" source="images/advanced-specializations/as-1.png" alt-text="A página de pré-requisitos da amostra mostrando requisitos para obter uma especialização avançada específica.":::
+   :::image type="content" source="images/advanced-specializations/as-1.png" alt-text="A página de pré-requisitos da amostra mostra requisitos para obter uma especialização avançada específica.":::
 
 4. Assim que encontrar todos os pré-requisitos para esta especialização avançada, poderá selecionar o botão de **auditoria Agenda** a partir desta página.
 
@@ -123,36 +123,36 @@ Em seguida, siga estes passos para fornecer referências ao cliente no Partner C
 
    A página pré-requisitos aparece então para esta especialização avançada. Além da competência em ouro, certificações e um requisito de desempenho, esta especialização avançada também requer que você forneça três referências ao cliente que demonstrem a sua capacidade de implantação e gestão.
 
-   :::image type="content" source="images/advanced-specializations/as-2.png" alt-text="Experimente a página de pré-requisitos de especializações avançadas que requer referências ao cliente.":::
+   :::image type="content" source="images/advanced-specializations/as-2.png" alt-text="Experimente a página de especialização avançada que requer referências ao cliente.":::
 
 4. Até conhecer todos os pré-requisitos apresentados nesta página e fornecer referências ao cliente, o seu estado permanecerá **não iniciado**. Uma vez cumpridos todos os pré-requisitos, o seu estado mudará para **Ative**.
 
 ## <a name="how-azure-consumption-revenue-acr-is-calculated-for-each-advanced-specialization"></a>Como a Azure Consumption Revenue (ACR) é calculada para cada especialização avançada:
 
-- Associações parceiro-cliente incluídas: [Parceiro Digital da](https://support.microsoft.com/topic/link-a-partner-id-for-azure-performance-pal-or-dpor-a8eed43b-82a8-f017-3b1a-f9c8aa385d32) Associação Record a um cliente, ou parceiro de conta direta CSP ou revendedor indireto CSP para uma associação de clientes ou Partner [Admin Link (PAL)](/azure/cost-management-billing/manage/link-partner-id) a um cliente.
-- O ACR de subscrições com tipos de ofertas Os programas Trial, Benefits, Support e Internal não são contabilizados para a especialização avançada.
+- Associações de parceiros para clientes incluídas: [Parceiro Digital da](https://support.microsoft.com/topic/link-a-partner-id-for-azure-performance-pal-or-dpor-a8eed43b-82a8-f017-3b1a-f9c8aa385d32) Associação Record a um cliente, ou parceiro de conta direta CSP ou revendedor indireto CSP para uma associação de clientes ou Partner [Admin Link (PAL)](/azure/cost-management-billing/manage/link-partner-id) a um cliente.
+- ACR de subscrições com tipos de oferta Teste, Benefícios, Suporte e Interior não é contabilizado para a especialização avançada.
 
-**Campos de receitas do consumo Azure**
+**Campos de receitas do consumo de Azure**
 
 | Nome do Campo | Descrição do campo |
 |-------------|----------------------|
 | Nível de Serviço 1 | Nível mais alto em que os Serviços Azure estão agregados (ver: https://azure.microsoft.com/services/) . |
 | Nível de Serviço 2 | Segundo nível mais alto serviços Azure (por exemplo: https://azure.microsoft.com/pricing/) |
 | Nível de Serviço 3 | Terceiro nível mais alto serviços Azure (por exemplo: https://azure.microsoft.com/pricing/details/virtual-machines/linux/) |
-| Nível de Serviço 4 | Quarto Nível Mais Alto Serviços Azure (por exemplo: https://azure.microsoft.com/pricing/details/virtual-machines/linux/) |
+| Nível de Serviço 4 | Quarto nível mais alto serviços Azure (por exemplo: https://azure.microsoft.com/pricing/details/virtual-machines/linux/) |
 | Grupo de Serviço 2 | Agrupamento de serviços da Azure de acordo com uma categoria de serviço |
 | Grupo de Serviço 3 | Agrupamento de serviços da Azure de acordo com uma subcategoria de serviço |
 | Influenciador de Serviço | Agrupamento de serviços da Azure mapeados para uma atividade específica de consumo |
 | Compute OS | Sistema Operativo Compute |
 | Compute Core Software | Compute Core Software |
 
-**Filtros de receitas de consumo Azure para especialização avançada**
+**Filtros de receita de consumo Azure para especialização avançada**
 
 - Migração do Data Warehouse para o Microsoft Azure
-    - Azure Synapse Analytics ACR : Grupo de Serviço 3 = SQL DW
+    - Azure Synapse Analytics ACR : Nível de serviço 2 = Azure Synapse Analytics
 - Kubernetes no Microsoft Azure
     - Serviço Azure Kubernetes (AKS) ACR : Influencer de serviço = AKS , AKS-Engine
-    - Azure RedHat OpenShift ACR: Grupo de serviço 3 = ARO, Nível de Serviço 2 = Todos exceto "Desconhecido"
+    - Azure RedHat OpenShift ACR: Grupo de Serviço 3 = ARO, Nível de Serviço 2 = Todos exceto "Desconhecido"
 - Microsoft Windows Ambiente de trabalho virtual
     - Windows Virtual Desktop ACR : Influencer de serviço = NATIVE WVD
 - Modernização de Aplicações Web para o Microsoft Azure
@@ -164,52 +164,52 @@ Em seguida, siga estes passos para fornecer referências ao cliente no Partner C
         - Nível de Serviço 2 = Todos exceto "Desconhecido"
 
 - Análise na Microsoft Azure
-    - Azure Synapse Analytics ACR : Grupo de Serviço 3 = SQL DW
+    - Azure Synapse Analytics ACR : Nível de serviço 2 = Azure Synapse Analytics
     - Data Lake ACR : Grupo de serviço 3 = Lago de Dados Azure
-    - Databricks ACR: Grupo de serviço3 = Databricks, Databricks VM
-    - Azure Data Factory ACR: Grupo de serviço3 = Fábrica de Dados  
+    - Databricks ACR: Grupo de serviço3 = Databricks
+    - Azure Data Factory ACR: Nível de serviço 2 = Azure Data Factory, Azure Data Factory v2
 - Infraestrutura de nuvem híbrida com Microsoft Azure Stack HCI
     - Azure Stack HCI ACR : Nível de serviço 2 = Azure Stack HCI
 - Microsoft Azure Solução VMware
     - Azure VMware Solutions (AVS) ACR : Nível de serviço 4 = Solução VMware Azure, Solução VMware Azure vMware by CloudSimple, Azure VMware Solution by Virtustream, Specialized Compute Azure VMware Solution
 - Operações e Gestão Híbridas com Microsoft Azure Arc 
-    - Servidor ativado por arco ACR: Nível de serviço 4 = Política de Azure
-    - Kubernetes ACR ativado pelo arco: Nível de serviço 4 = Arco Azure
+    - Servidor ativado por arco ACR: Nível de serviço 4 = Política azul
+    - Kubernetes ACR: Nível de Serviço 4 = Arco azul
 - IA e Machine Learning em Microsoft Azure
     - AI ACR: Grupo de Serviço 2 = AI
 
 
 - Migração do Windows Server e SQL Server para o Microsoft Azure
     - Windows ACR: 
-        - Tipo de ajuste de ACR = N/A, Compute Core SW = Núcleo,
+        - Tipo de ajuste de ACR = N/A, Compute Core SW = Núcleo, Núcleo,
         - Compute OS = WINDOWS THEN Compute OS Attribute = WINDOWS, UNKNOWN ou Compute OS = LINUX THEN Compute OS Attribute = WINDOWS-AHUB
         - Nível de Serviço 2= Serviços em Nuvem, Instâncias de Contentores, Registo de Contentores, Computação Especializada, Máquinas Virtuais, Licenças de Máquinas Virtuais
     - Base de Dados SQL (DB) ACR: Grupo de Serviço 3 = SQLDB
     - SQL Instância gerida (MI) ACR: Grupo de Serviço 3 = SQL DB MI
     - SQL VM ACR: Grupo de Serviço 3 = SQL em IaaS, SQL em IaaS VM
 - Migração da base de dados Linux e Open-Source para Microsoft Azure
-    - Máquinas Virtuais Linux (VM)ACR:
+    - Máquinas virtuais Linux (VM)ACR:
         - Opção 1:
             - Tipo de ajuste ACR= N/A, Nível de Serviço 2 = Máquinas Virtuais, Compute OS= Linux, Atributo Compute OS = Não Windows , DESCONHECIDO , Windows
-            - Nível de Serviço 4= Todos os serviços em nuvem MS Series, Virtual Machines MS Series, Virtual Machines MS Series Windows, Virtual Machines MSv2 Series, Virtual Machines MSv2 Series Windows, MS Series Dedicated Host, MSv2 Series Dedicated Host
+            - Nível de serviço 4= Todos os serviços em nuvem MS Series, Virtual Machines MS Series, Virtual Machines MS Series Windows, Virtual Machines MSv2 Series, Virtual Machines MSv2 Series Windows, MS Series Ded Host, MSv2 Series Dedicated Host
         - Opção 2: só requerem filtros no Nível de Serviço 4, outros campos como Compute OS/Compute OS Atributos não são necessários
-            - Nível de serviço 4 = Red Hat Enterprise Linux, Red Hat Enterprise Linux com HA, SUSE Linux Enterprise Server Basic, SUSE Linux Enterprise Server for HPC Priority, SUSE Linux Enterprise Server for HPC Standard, SUSE Linux Enterprise Server Priority, SUSE Linux Enterprise Server Standard
-    - Base de Dados Azure (DB) para MariaDB ACR: Nível de serviço 1 = Bases de Dados e Nível de Serviço 2 = Base de Dados Azure para MariaDB
+            - Nível de Serviço 4 = Red Hat Enterprise Linux, Red Hat Enterprise Linux com HA, SUSE Linux Enterprise Server Basic, SUSE Linux Enterprise Server for HPC Priority, SUSE Linux Enterprise Server for HPC Standard, SUSE Linux Enterprise Server Priority, SUSE Linux Enterprise Server Standard
+    - Base de Dados Azure (DB) para MariaDB ACR: Nível de serviço 1 = Bases de Dados e Nível de Serviço 2 = Base de Dados de Azure para MariaDB
     - Azure DB para MySql ACR: Nível de serviço 1 = Bases de Dados e Nível de Serviço 2 = Base de Dados Azure para MySQL e MySQL Database on Azure
     - Azure DB para Postgre SQL ACR: Nível de serviço 1 = Bases de Dados e Nível de Serviço 2 = Pós-SQL
     - Azure COSMOS DB ACR: Nível de serviço 1 = Bases de Dados e Nível de Serviço 2 = CosmosDB
 - Proteção Contra Ameaças
     - Azure Sentinel ACR: Nível de serviço 4 = Sentinela
 - Segurança na Cloud
-    - Ambiente Híbrido XDR e Segurança de Rede ACR: Nível de serviço 4 = Azure Defender for SQL, Azure Defender para registos de contentores, Azure Defender for Kubernetes, Azure Defender for Armazenamento, Application Gateway WAF v2, WAF Application Gateway, Azure Ative Directory B2C, Azure Ative Directory Domain Services, Azure Ative Directory for External Identities, Azure Bastion, Azure DDOS Protection, Azure Firewall, Azure Firewall Manager, Azure Front Door Service, Azure Defender for IoT, Azure Dedicated HSM, Key Vault, Network Watcher, Azure Defender for App Service, Azure Defender para OT, Sentinela
+    - Ambiente Híbrido XDR e Segurança de Rede ACR: Nível de serviço 4 = Azure Defender para SQL, Azure Defender para registos de contentores, Azure Defender para Kubernetes, Azure Defender para Armazenamento, Application Gateway WAF v2, WAF Application Gateway, Azure Ative Directory B2C, Azure Ative Directory Domain Services, Azure Ative Directory for External Identities, Azure Bastion, Azure DDOS Protection, Azure Firewall, Azure Firewall Manager, Azure Front Door Service, Azure Defender for IoT, Azure Dedicated HSM, Key Vault, Network Watcher, Azure Defender for App Service, Azure Defender para OT, Sentinela
     
 - SAP no Microsoft Azure
-    - CARGAs de trabalho SAP ACR: Nível de serviço 4 = Série MS dos Serviços em Nuvem, Série MS das Máquinas Virtuais, Série MS das Máquinas Virtuais Windows, Máquinas Virtuais Série MSv2, Máquinas Virtuais Série MSv2 série Windows, Anfitrião Dedicado série MS, Anfitrião Dedicado série MSv2, SAP HANA em Azure Large Instances,SAP Cloud Platform Alert Notification, Fábrica de Extensão da Plataforma NUVEM SAP - Kyma Runtime,SAP Cloud Platform Integration Suite - Mensagens Adicionais, SUÍTE DE Integração da Plataforma nuvem SAP - Standard Edition, SAP Cloud Platform Transport Management, SAP Embrace API Management,SAP Embrace Application Logging, SAP Embrace Application Runtime, SAP Embrace Business Application Studio, SAP Embrace Business Application Rules, SAP Embrace Business Integration, SAP Embrace Cloud Integration, SAP Embrace  SAP Abraçar inteligência de dados, SAP Abraçar mensagens empresariais, SAP Abraçar Fábrica de Extensão, tempo de execução sem servidor, SAP Abraçam Hana Cloud, SAP Abraçam a Autenticação de Identidade, SAP Abraçam Agendador de Emprego, SAP Abraçam MACC, SAP Abraçam Serviços Móveis,SAP Abraçam o Serviço de Loja de Objetos, SAP Abraçam Conectores Abertos, Portal DE Abraço SAP, Visibilidade do Processo SAP, SAP Embrace Web Analytics, SAP Embrace Workflow, SAP HANA, SAP Web IDE, Infraestruturas DeSmesta, Máquinas Virtuais MdSv2 Série, Máquinas Virtuais MdSv Windows 2
+    - CARGAS DE CARGAS SAP ACR: Nível de Serviço 4 = Série MS dos Serviços em Nuvem, Série MS das Máquinas Virtuais, Série MS das Máquinas Virtuais Windows, Máquinas Virtuais Série MSv2, Máquinas Virtuais Série MSv2 série Windows, Anfitrião Dedicado série MS, Anfitrião Dedicado série MSv2, SAP HANA em Azure Large Instances,SAP Cloud Platform Alert Notification, Fábrica de extensão da plataforma da nuvem SAP - Kyma Runtime,SAP Cloud Platform Integration Suite - Mensagens adicionais, SUÍTE DE Integração da Plataforma nuvem SAP - Standard Edition, SAP Cloud Platform Transport Management, SAP Embrace API Management,SAP Embrace Application Logging, SAP Embrace Application Runtime, SAP Embrace Business Application Studio, SAP Embrace Business Application Rules, SAP Embrace Business Integration, SAP Embrace Cloud Integration, SAP Embrace  SAP Abraçar Inteligência de Dados, SAP Abraçar Mensagens Empresariais, SAP Abraçar Fábrica de Extensão, tempo de funcionamento sem servidor, SAP Abraçam Hana Cloud, SAP Abraçam a Autenticação de Identidade, SAP Abraçam Agendador de Emprego, SAP Abraçam MACC, SAP Abraçam Serviços Móveis,SAP Abraçam Centros de Lojas de Objetos, SAP Abraçam Conectores Abertos, Portal ABRAÇO SAP, Visibilidade do Processo SAP, SAP Abraçam Web Analytics, SAP Embrace Workflow, SAP HANA, SAP Web IDE, Infraestruturas DeMetal, Máquinas Virtuais MdSv2 Série, Máquinas Virtuais MdSv Windows 2
 
 ## <a name="next-steps"></a>Passos seguintes
 
 - Saiba mais sobre [especializações avançadas, seus benefícios e requisitos únicos.](https://partner.microsoft.com/membership/advanced-specialization)
 
-- Saiba mais sobre [a obtenção de competências de adesão à Microsoft em prata ou ouro.](learn-about-competencies.md)
+- Saiba mais sobre [a obtenção de competências de adesão à Microsoft de prata ou ouro](learn-about-competencies.md).
 
 - Saiba mais sobre [as competências da Microsoft Partner Network](https://partner.microsoft.com/membership/competencies).

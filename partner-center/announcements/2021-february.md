@@ -11,19 +11,19 @@ ms.custom:
 - references_regions
 ms.localizationpriority: high
 ms.date: 04/08/2021
-ms.openlocfilehash: c7ae6a138f90f79e85c0ab8132873988524b9890
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: 4e4c27c9c2382098705b65ece808e4c74a82731f
+ms.sourcegitcommit: 8d5c2463fc0f0c03972a6f89d01605421288daea
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126246491"
+ms.lasthandoff: 09/18/2021
+ms.locfileid: "127932805"
 ---
 # <a name="february-2021-announcements"></a>Anúncios de fevereiro de 2021
 
 Esta página detalha os anúncios do Microsoft Partner Center para fevereiro de 2021.
 
 ________________
-## <a name="reminder-deprecation-of-get-qualification-on-may-4-2021"></a><a name="14"></a>Lembrete: Depreciação da qualificação get em 4 de maio de 2021
+## <a name="reminder-deprecation-of-get-qualification-on-may-4-2021"></a><a name="14"></a>Lembrete: Depreciação da qualificação do GET em 4 de maio de 2021
 
 ### <a name="categories"></a>Categorias
 
@@ -36,7 +36,7 @@ Parceiros que vendem ofertas académicas, sem fins lucrativos e Nuvem da Comunid
 
 ### <a name="details"></a>Detalhes
 
-Este anúncio é um seguimento das melhorias do Partner Center [lançadas em dezembro.](2020-december.md#1) Como parte desse lançamento, foram implementadas novas APIs get e post qualifications e, consequentemente, a qualificação get existente será aposentada até 4 de maio de 2021. Por essa altura, terá de passar a utilizar as novas APIs do Post Partner Center nas ofertas de aquisição de Educação, e as novas qualificações GET API para adquirir ofertas pré-qualificadas sem fins lucrativos e GCC.
+Este anúncio é um seguimento das melhorias do Centro de [Parceiros lançadas em dezembro.](2020-december.md#1) Como parte desse lançamento, foram implementadas novas APIs get e post qualifications e, consequentemente, a qualificação GET existente será aposentada até 4 de maio de 2021. Por essa altura, terá de passar a utilizar as novas APIs do Post Partner Center nas ofertas de aquisição de Educação, e as novas qualificações GET API para adquirir ofertas pré-qualificadas sem fins lucrativos e GCC.
 
 ### <a name="next-steps"></a>Passos seguintes
 
@@ -101,11 +101,11 @@ Parceiros com negócios no PSC
 
 ### <a name="summary"></a>Resumo
 
-Os parceiros com negócios na Partner Sales Ligação (PSC) podem tirar partido da nova experiência de co-venda dentro do Partner Center, migrando as suas ofertas de co-venda utilizando o recurso de migração de negócios.
+Os parceiros com negócios em Partner Sales Ligação (PSC) podem tirar partido da nova experiência de co-venda dentro do Partner Center, migrando as suas ofertas de co-venda utilizando o recurso de migração do negócio.
 
 ### <a name="details"></a>Detalhes
 
-Os parceiros com negócios no PSC podem agora mover-se mais rapidamente para tirar partido da nova experiência de co-venda dentro do Partner Center e eliminar o trabalho em duas plataformas, migrando as suas ofertas de co-venda para partner Center usando a funcionalidade de migração de negócios.
+Os parceiros com negócios no PSC podem agora mover-se mais rapidamente para tirar partido da nova experiência de co-venda dentro do Partner Center e eliminar o trabalho em duas plataformas, migrando as suas ofertas de co-venda para partner Center usando o recurso de migração de negócios.
 
 Consulte o artigo mencionado na secção seguinte para mais detalhes.
 
@@ -159,7 +159,7 @@ ________________
 
 ### <a name="summary"></a>Resumo
 
-Como parte do nosso compromisso de ajudar parceiros e clientes a gerir o seu negócio com base na confiança, vamos solicitar informações adicionais ao cliente, a partir de 25 de março de 2021.
+Como parte do nosso compromisso de ajudar parceiros e clientes a gerir o seu negócio com base na confiança, solicitaremos informações adicionais ao cliente, a partir de 25 de março de 2021.
 
 ### <a name="impacted-audience"></a>Audiência impactada
 
@@ -189,7 +189,7 @@ A Microsoft tem confiança. Estamos empenhados em fornecer um método de valida�
 
 Os parceiros que satisfaçam os critérios terão de submeter o ID de registo da empresa de um cliente (também conhecido como organização do cliente INN) e o número de telefone quando atualizarem ou criarem uma subscrição para esse cliente. Estes parceiros também podem introduzir um nome do meio opcional para o cliente.
 
-Note que quando adicionar o ID de registo da sua empresa deve usar o seu ID de imposto de negócio e não o ID pessoal do cliente.
+Note que ao adicionar o ID de registo da sua empresa deve usar o seu ID de imposto de negócio e não o ID pessoal do cliente.
 
 Os parceiros que fazem negócios com clientes novos ou já existentes nos seguintes países já foram a bordo com um lançamento anterior em novembro de 2020.
 
@@ -209,7 +209,7 @@ Os parceiros com clientes no resto do mundo terão a capacidade, no final de mar
 
 ### <a name="next-steps"></a>Passos seguintes
 
-- Reveja a documentação técnica e questione frequentemente na coleção de [parceiros](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) dedicados para obter uma orientação mais detalhada.
+- Reveja a documentação técnica e as perguntas frequentes na coleção de [parceiros](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) dedicados para obter uma orientação mais detalhada.
 - Prepare-se para incorporar as alterações utilizando a API do Partner Center e a experiência do utilizador web. A API/SDKs estará disponível para testes.
 - Certifique-se de submeter os dados adicionais ao embarcar em novos clientes ou modificar os dados do cliente existentes.
 - Se estiver a utilizar uma solução de fornecedor de painéis de controlo (CPV), consulte o seu CPV.
@@ -220,7 +220,7 @@ Contacte o seu consultor fiscal ou o fisco local se tiver alguma questão relaci
 
 Se precisar de apoio com as suas operações com a Microsoft, abra um [pedido de serviço](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8).
 
-### <a name="change-log"></a>Registo de alteração:
+### <a name="change-log"></a>Alterar registo:
 
 17 de dezembro de 2020: Publicação original
 
@@ -236,7 +236,7 @@ Se precisar de apoio com as suas operações com a Microsoft, abra um [pedido de
 
 
 ________________
-## <a name="now-live-docusign-migration-to-adobe-sign-for-partners-under-microsoft-partner-agreements-mpas"></a><a name="9"></a> Agora live: DocuSign migração para Adobe Sign para parceiros ao abrigo de Acordos de Parceiros microsoft (MPAs)
+## <a name="now-live-docusign-migration-to-adobe-sign-for-partners-under-microsoft-partner-agreements-mpas"></a><a name="9"></a> Agora live: DocuSign migração para Adobe Assinar para parceiros ao abrigo de Acordos de Parceiros microsoft (MPAs)
 
 ### <a name="categories"></a>Categorias
 
@@ -255,9 +255,9 @@ Parceiros de Fornecedor de Soluções em Nuvem diretos e indiretos existentes (C
 
 Em fevereiro de 2021, a Microsoft começará a transitar todo o processamento de assinaturas eletrónicas do DocuSign para o Adobe Sign para parceiros CSP.
 
-Deve esperar uma transição suave. Após a migração, receberá um e-mail adobesign@adobesign.com de , em vez de DocuSign, sempre que for necessária a sua assinatura eletrónica. Este e-mail fornecer-lhe-á um link para a página web do Adobe Sign onde terá de assinar. Os parceiros da Microsoft não terão de re-assinar acordos existentes, apenas futuros Acordos de Canal. Parceiros na Ucrânia, Rússia e Cazaquistão serão obrigados a voltar a assinar física ou electronicamente o Rider anualmente.
+Deve esperar uma transição suave. Após a migração, receberá um e-mail adobesign@adobesign.com de , em vez de DocuSign, sempre que a sua assinatura eletrónica for necessária. Este e-mail fornecer-lhe-á um link para a página web do Adobe Sign onde terá de assinar. Os parceiros da Microsoft não terão de re-assinar acordos existentes, apenas futuros Acordos de Canal. Parceiros na Ucrânia, Rússia e Cazaquistão serão obrigados a reconscrevê-lo física ou eletronicamente.
 
-Pode encontrar um exemplo de um e-mail de pedido de assinatura Adobe Sign na [galeria de recursos.](https://partner.microsoft.com/resources/detail/adobe-sign-signature-request-email-pdf)
+Pode encontrar um exemplo de um e-mail de pedido de assinatura Adobe Sign [na galeria de recursos.](https://partner.microsoft.com/resources/detail/adobe-sign-signature-request-email-pdf)
 
 Para uma melhor experiência, certifique-se de fazer o seguinte:
 
@@ -266,14 +266,14 @@ Para uma melhor experiência, certifique-se de fazer o seguinte:
     - Adicione o adobesign@adobesign.com endereço de e-mail à sua lista de remetentes seguros para garantir que não está incluído em nenhuma regra de phishing pré-estabelecida.
     - Atualize as políticas de segurança existentes para garantir que todos os destinatários necessários possam assinar documentação sob a sua licença de empresa Adobe Sign.
 
-Os recursos relativos a questões de embarque, funcionalidade e processo de negócio podem ser encontrados na Página do [Parceiro de Migração do Adobe Sign.](https://aka.ms/eSignature/External)
+Os recursos relativos a questões de embarque, funcionalidade e processo de negócio podem ser encontrados na página do [Parceiro de Migração do Adobe Sign.](https://aka.ms/eSignature/External)
 
-O Adobe Sign é a solução de assinatura electrónica preferida da Microsoft (ESS). A transição para o Adobe Sign garantirá uma experiência de assinatura electrónica segura e eficiente que irá oferecer maior valor aos nossos clientes e parceiros.
+O Adobe Sign é a solução de assinatura electrónica preferida da Microsoft (ESS). A transição para o Adobe Sign garantirá uma experiência de assinatura eletrónica segura e eficiente que irá oferecer maior valor aos nossos clientes e parceiros.
 
 Para obter informações adicionais sobre como assinar eletronicamente documentos e delegação de assinatura electrónica, consulte os seguintes tutoriais:
 
-- [Assinar eletronicamente um documento | Tutoriais de Sinal de Adobe](https://helpx.adobe.com/sign/how-to/adobe-for-signers.html?playlist=/ccx/v1/collection/product/sign/segment/designer/explevel/beginner/applaunch/continuinged/collection.ccx.js&ref=helpx.adobe.com)
-- [Delege alguém para assinar um documento | Tutoriais de Sinal de Adobe](https://helpx.adobe.com/sign/how-to/use-the-delegator-role.html?playlist=/ccx/v1/collection/product/sign/segment/designer/explevel/beginner/applaunch/orientation/collection.ccx.js&ref=helpx.adobe.com)
+- [Assinar eletronicamente um documento | Tutoriais do Sinal de Adobe](https://helpx.adobe.com/sign/how-to/adobe-for-signers.html?playlist=/ccx/v1/collection/product/sign/segment/designer/explevel/beginner/applaunch/continuinged/collection.ccx.js&ref=helpx.adobe.com)
+- [Delege alguém para assinar um documento | Tutoriais do Sinal de Adobe](https://helpx.adobe.com/sign/how-to/use-the-delegator-role.html?playlist=/ccx/v1/collection/product/sign/segment/designer/explevel/beginner/applaunch/orientation/collection.ccx.js&ref=helpx.adobe.com)
 
 ### <a name="next-steps"></a>Passos seguintes
 
@@ -281,7 +281,7 @@ Partilhe esta informação com as partes interessadas apropriadas na sua organiz
 
 ### <a name="questions"></a>Perguntas?
 
-Se tiver alguma dúvida, contacte o seu Centro de Operações Regionais utilizando a [Ferramenta de Registo de Chamadas (CLT)](https://clt.partners.extranet.microsoft.com/CLT) ou no Explore [MS](https://www.explore.ms/). Siga o processo padrão de CLT de perto para que possamos resolver a sua consulta o mais rapidamente possível.
+Se tiver alguma dúvida, contacte o Seu Centro de Operações Regionais utilizando a [Ferramenta de Registo de Chamadas (CLT)](https://clt.partners.extranet.microsoft.com/CLT) ou no Explore [MS](https://www.explore.ms/). Siga o processo padrão de CLT de perto para que possamos resolver a sua consulta o mais rapidamente possível.
 
 ### <a name="change-log"></a>Alterar Registo
 
@@ -299,7 +299,7 @@ _____________
 
 ### <a name="summary"></a>Resumo
 
-A Microsoft estará a implementar o estrangulamento da API para permitir um desempenho mais consistente dentro de um período de tempo para os parceiros que chamam as APIs do Partner Center.
+A Microsoft irá implementar o estrangulamento da API para permitir um desempenho mais consistente dentro de um período de tempo para os parceiros que chamam as APIs do Partner Center.
 
 ### <a name="impacted-audience"></a>Audiência impactada
 
@@ -307,14 +307,14 @@ Todos os parceiros que transfiram através do programa Fornecedor de Soluções 
 
 ### <a name="details"></a>Detalhes
 
-A partir de fevereiro de 2021, a Microsoft estará a implementar o estrangulamento da API para permitir um desempenho mais consistente dentro de um período de tempo para os parceiros que chamam as APIs do Partner Center.O estrangulamento limita o número de pedidos a um serviço num período de tempo para evitar o uso excessivo de recursos.Quando um limiar de estrangulamento é ultrapassado, o Partner Center limita quaisquer pedidos adicionais desse cliente por um período de tempo.
+A partir de fevereiro de 2021, a Microsoft estará a implementar o estrangulamento da API para permitir um desempenho mais consistente dentro de um período de tempo para os parceiros que chamam apis do Partner Center.O estrangulamento limita o número de pedidos a um serviço num período de tempo para evitar o uso excessivo de recursos.Quando um limiar de estrangulamento é ultrapassado, o Partner Center limita quaisquer pedidos adicionais desse cliente por um período de tempo.
 
 **Benefícios do parceiro:**
 
 O Partner Center é projetado para lidar com um grande volume de pedidos, mas se um número esmagador de pedidos são feitos por alguns parceiros, o estrangulamento ajudará a manter o melhor desempenho e fiabilidade para todos os parceiros.  
 
-- A aceleração garante um tempo mínimo de inatividade.
-- O throttling reduz o número de pedidos de grande volume, ajudando a garantir um desempenho consistente para todos os parceiros.
+- A aceleração garante o mínimo de tempo de paragem.
+- O throttling reduz o número de pedidos de alto volume, ajudando a garantir um desempenho consistente para todos os parceiros.
 
 **APIs a ser estrangulado:**
 
@@ -326,14 +326,14 @@ O Partner Center é projetado para lidar com um grande volume de pedidos, mas se
 |{baseURL}/v1/customers/{customer_id}/orders/{order_id}  | [Obter encomenda por ID](/partner-center/develop/get-an-order-by-id) |
 |{baseURL}/v1/customers/{customer_id}/orders/{order_id}/provisioningstatus  | [Obter o estado de aprovisionamento da subscrição](/partner-center/develop/get-subscription-provisioning-status) |
 |{baseURL}/v1/customers/{customer_id}/subscrições/{subscription_id}  | [Gerir encomendas e gerir uma subscrição](/partner-center/develop/manage-orders#manage-a-subscription) |
-|{baseURL}/v1/customers/{customer_id}/subscrições/{subscription_id}/addons  | [Obter uma lista de suplementos para uma subscrição](/partner-center/develop/get-a-list-of-add-ons-for-a-subscription) |
+|{baseURL}/v1/clientes/{customer_id}/subscrições/{subscription_id}/addons  | [Obter uma lista de suplementos para uma subscrição](/partner-center/develop/get-a-list-of-add-ons-for-a-subscription) |
 |{baseURL}/v1/customers/{customer_id}/subscrições/{subscription_id}/azureEntitlements | [Obtenha uma lista de direitos Azure para uma subscrição](/partner-center/develop/get-a-list-of-azure-entitlements-for-subscription) |
 |{baseURL}/v1/customers/{customer_id}/subscrições/{subscription_id}/registrationstatus  | [Obter o estado de registo da subscrição](/partner-center/develop/get-subscription-registration-status) |
 |{baseURL}/v1/clientes/{cliente-inquilino-id}/transfers  | [Obtenha todas as transferências de um cliente](/partner-center/develop/get-all-of-a-customer-s-transfers) |
 |{baseURL}/v1/productUpgrades/{upgrade-id}/status  | [Obter estado de atualização do produto](/partner-center/develop/get-product-upgrade-status) |
-|{baseURL}/v1/customers/{customer-id}/subscrições/{subscription-id}/conversões   | [Obter uma lista de ofertas de conversão de avaliação](/partner-center/develop/get-a-list-of-trial-conversion-offers) |
- 
-Recomendamos vivamente que os parceiros considerem usar o log de atividade API para obter mais eficiência e evitar estrangulamentos.Para mais informações sobre esta funcionalidade, consulte os detalhes [aqui.](/partner-center/develop/api-throttling-guidance)  
+|{baseURL}/v1/clientes/{customer-id}/subscrições/{subscrição-id}/conversões   | [Obter uma lista de ofertas de conversão de avaliação](/partner-center/develop/get-a-list-of-trial-conversion-offers) |
+
+Recomendamos vivamente que os parceiros considerem usar o log de atividade API para obter mais eficiência e evitar estrangulamentos.Para obter mais informações sobre esta funcionalidade, consulte os detalhes da [orientação de estrangulamento da API para os parceiros que chamam APIs do Partner Center](/partner-center/develop/api-throttling-guidance).  
 
 ### <a name="next-steps"></a>Passos seguintes
 
@@ -362,7 +362,7 @@ Os utilizadores devem ser licenciados com um dos seguintes para serem elegíveis
 - Microsoft 365 Empresas Basic, Standard ou Premium 
 - SharePoint K, Plano 1 ou Plano2 
 
-**Oferecer detalhes**
+**Detalhes da oferta**
 
 Estas ofertas terão "Experiências De Tópico" nos nomes das suas ofertas nas listas de preços de 1 de fevereiro. Estes nomes de oferta serão atualizados com "Viva Topics" quando as listas de preços forem atualizadas no dia 1 de março.
 
@@ -370,7 +370,7 @@ Estas ofertas terão "Experiências De Tópico" nos nomes das suas ofertas nas l
 |------------------|:--------------------|:------------------|
 |Tópicos Viva|b9ef0c81-9ca6-45fd-a6c1-627745ba8b8a|1JV-00005|
 |Temas Viva para docentes|8c930d38-db61-4afa-83f9-77c595c5cdfc|1TK-00006|
-|Tópicos Viva para estudantes|5de461d5-8ccc-4a8e-98ae-58a3ad400a57|1TK-00007|
+|Tópicos Viva para alunos|5de461d5-8ccc-4a8e-98ae-58a3ad400a57|1TK-00007|
 
 ### <a name="next-steps"></a>Passos seguintes
 
@@ -421,7 +421,7 @@ A lista de preços de pré-visualização baseada em licenças foi atualizada pa
 
 ### <a name="details"></a>Detalhes
 
-As alterações nas taxas de FX para março não foram incluídas nas listas de preços anteriores baseadas em licenças de março. Este ficheiro foi atualizado para refletir as esperadas alterações de preços da coroa norueguesa. Os parceiros devem obter o mais recente ficheiro de preços de pré-visualização atual para ver estas alterações previstas para 1 de março de 2021. Estas alterações são apenas para os preços da moeda de krone norueguesa.
+As alterações nas tarifas de FX para março não foram incluídas nas listas de preços anteriores baseadas em licenças de março. Este ficheiro foi atualizado para refletir as esperadas alterações nos preços das coroas norueguesas. Os parceiros devem obter o mais recente ficheiro de preços de pré-visualização atual para ver estas alterações previstas para 1 de março de 2021. Estas alterações são apenas para os preços da moeda norueguesa.
 
 ### <a name="next-steps"></a>Passos seguintes
 
@@ -446,14 +446,14 @@ Premium avaliações serão incluídas na pré-visualização da tabela de preç
 
 ### <a name="details"></a>Detalhes
 
-Premium avaliações são um complemento opcional ao Compliance Manager e podem ajudar os clientes a cumprir os requisitos nacionais, regionais e específicos do setor que regem a recolha e utilização de dados. Premium avaliações são reservadas para clientes Office 365 E5, A5 e G5, e Microsoft 365 E5, A5 e G5.
+Premium avaliações são um complemento opcional ao Compliance Manager e podem ajudar os clientes a cumprir os requisitos nacionais, regionais e específicos da indústria que regem a recolha e utilização de dados. Premium avaliações são reservadas para os clientes Office 365 E5, A5 e G5, e Microsoft 365 E5, A5 e G5.
 
 |**Nome da oferta**|**ID da oferta**|**Material ID**|
 |------------------|:--------------------|:------------------|
 |CSP - Corp - Addon|[76be61a7-2c03-4b3e-8330-63b11bd904ed](https://commoffertool.catalog.cp.microsoft.com/Prod/Office365/offer/details/76be61a7-2c03-4b3e-8330-63b11bd904ed)|8JA-00003|
 |CSP - Corp - Julgamento|[f2f6ae44-24fe-450c-9cd7-529e7c8cfcb4](https://commoffertool.catalog.cp.microsoft.com/Prod/Office365/offer/details/f2f6ae44-24fe-450c-9cd7-529e7c8cfcb4)|8JA-00004|
-|CSP - Ensino - Faculdade - Addon|[fa7f5773-063a-48cf-b3e2-de509ea1262f](https://commoffertool.catalog.cp.microsoft.com/Prod/Office365/offer/details/fa7f5773-063a-48cf-b3e2-de509ea1262f)|8JB-00003|
-|CSP - Educação - Faculdade - Julgamento|[828cecbd-8728-4339-b0c2-51e009a67d88](https://commoffertool.catalog.cp.microsoft.com/Prod/Office365/offer/details/828cecbd-8728-4339-b0c2-51e009a67d88)|8JB-00004|
+|CSP - Educação - Faculdade - Addon|[fa7f5773-063a-48cf-b3e2-de509ea1262f](https://commoffertool.catalog.cp.microsoft.com/Prod/Office365/offer/details/fa7f5773-063a-48cf-b3e2-de509ea1262f)|8JB-00003|
+|CSP - Ensino - Faculdade - Julgamento|[828cecbd-8728-4339-b0c2-51e009a67d88](https://commoffertool.catalog.cp.microsoft.com/Prod/Office365/offer/details/828cecbd-8728-4339-b0c2-51e009a67d88)|8JB-00004|
 
 ### <a name="next-steps"></a>Passos seguintes
 
@@ -464,7 +464,7 @@ Reveja os seguintes recursos para este tópico e partilhe a informação com as 
 
 _________________________________________________________
 
-## <a name="responding-to-covid-19-microsoft-partner-network-update"></a><a name="3"></a> Respondendo ao COVID-19: Atualização da Microsoft Partner Network
+## <a name="responding-to-covid-19-microsoft-partner-network-update"></a><a name="3"></a> Respondendo ao COVID-19: Atualização da Rede de Parceiros da Microsoft
 
 ### <a name="categories"></a>Categorias
 
@@ -477,7 +477,7 @@ Todos os parceiros
 
 ### <a name="details"></a>Detalhes
 
-A Microsoft está a oferecer uma extensão de competências (com exceção da competência cloud Business Applications) e uma extensão avançada de especialização para parceiros com datas de aniversário (AD) entre 1 de janeiro de 2021 e 30 de junho de 2021. Reveja o [nosso blog de parceiros para](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/) obter mais informações.
+A Microsoft está a oferecer uma extensão de competência (com exceção da competência cloud Business Applications) e uma extensão avançada de especialização para parceiros com datas de aniversário (AD) entre 1 de janeiro de 2021 e 30 de junho de 2021. Reveja o [nosso blog de parceiros para](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/) obter mais informações.
 ________________
 ## <a name="new-updates-to-the-referrals-module-in-partner-center"></a><a name="2"></a> Novas atualizações para o módulo de referências no Partner Center
 
@@ -494,21 +494,21 @@ ________________
 
 ### <a name="details"></a>Detalhes
 
-À medida que avançamos para o ano novo, estamos adicionando capacidades para melhorar e enriquecer a experiência de co-venda no Partner Center. Estas novas funcionalidades irão ajudá-lo a acelerar a velocidade do negócio, alargar o acesso ao vendedor e ajudá-lo a melhorar a escala do seu negócio. Introduzidas no módulo Referrals, estas novas adições irão ajudá-lo a chegar a mais clientes através de outros parceiros da Microsoft ou vendedores da Microsoft, tudo enquanto gere o seu pipeline com a Microsoft num local.  
+À medida que avançamos para o ano novo, estamos adicionando capacidades para melhorar e enriquecer a experiência de co-venda no Partner Center. Estas novas funcionalidades vão ajudá-lo a acelerar a velocidade do negócio, alargar o acesso ao vendedor e ajudá-lo a melhorar a escala do seu negócio. Introduzidas no módulo Referrals, estas novas adições irão ajudá-lo a chegar a mais clientes através de outros parceiros da Microsoft ou vendedores da Microsoft, tudo enquanto gere o seu pipeline com a Microsoft num local.  
 
 Eis as novidades no módulo de referências do Centro de Parceiros:
 
 #### <a name="all-partners-using-the-referrals-module-in-partner-center"></a>Todos os parceiros que usam o módulo de referências no Partner Center  
 
-- [Criar novas ligações SMB](../connect-with-your-customers.md): Co-vender e trabalhar com os vendedores da Microsoft para ganhar oportunidades de entrada relacionadas com os clientes SMB.
+- [Criar novas ligações SMB](../connect-with-your-customers.md): Co-vender e trabalhar com os vendedores da Microsoft para ganhar oportunidades de entrada relacionadas com clientes SMB.
 
 - [Expandir permissões de encaminhamento](../permissions-overview.md#manage-referrals): Atribuir permissões de encaminhamento dos utilizadores com base na sua vontade de ter - permissões de administração (acesso a todas as oportunidades de co-venda) ou permissões de utilizador (acesso às oportunidades específicas de co-venda do utilizador).
 
-- [Parceria Vendas Ligação migração de utilizadores](../psc-to-pc.md#user-migration): Mapear as vendas de parceiros existentes Ligação permissões de utilizador para as permissões de administração e encaminhamento do centro de referência correspondentes, e, em seguida, aplicar em massa as novas permissões aos utilizadores. [Reveja a documentação de permissões de encaminhamento](../permissions-overview.md#manage-referrals) para saber mais sobre a gestão de referências.  
+- [A Parceria de Vendas Ligação migração de utilizadores](../psc-to-pc.md#user-migration): Mapear as vendas de parceiros existentes Ligação permissões de utilizador para as permissões de administração e encaminhamento do Centro de Parceiros correspondentes e, em seguida, aplicar em massa as novas permissões aos utilizadores. [Reveja a documentação de permissões de encaminhamento](../permissions-overview.md#manage-referrals) para saber mais sobre a gestão de referências.  
 
 #### <a name="partners-with-co-sell-ready-offers"></a>Parceiros com ofertas De Co-sell Ready
 
-- [Co-vender com outros parceiros](../manage-co-sell-opportunities.md): Convide outro parceiro do nosso poderoso ecossistema parceiro para co-vender consigo e desbloquear o acesso a mais públicos de clientes.  
+- [Co-vender com outros parceiros](../manage-co-sell-opportunities.md): Convide outro parceiro do nosso poderoso ecossistema parceiro para co-vender consigo e desbloquear o acesso a mais públicos clientes.  
 
 #### <a name="partners-with-a-transactable-offer-using-an-azure-incentive-eligible-solution-in-the-commercial-marketplace"></a>Parceiros com uma oferta transacionável utilizando uma solução elegível para incentivos Azure no mercado comercial
 
@@ -518,7 +518,7 @@ Eis as novidades no módulo de referências do Centro de Parceiros:
 
 Se precisar de ajuda para utilizar qualquer uma das [novidades,](../referrals.md) consulte a secção de Referências na nossa base de conhecimento ou os nossos materiais de suporte de como suportar a nossa [galeria de experiências de co-venda](https://aka.ms/CoSellExperience) (inscrição obrigatória).
 
-Você pode [abrir um bilhete com a nossa equipe de Apoio a Parceiros](https://partner.microsoft.com/support/?stage=1) para apoio.
+Você pode [abrir um bilhete com a nossa equipe de Apoio ao Parceiro](https://partner.microsoft.com/support/?stage=1) para apoio.
 
 ________________
 ## <a name="deprecation-and-retirement-of-put-qualification-apis-for-the-education-customer-validation-process-by-february-25-2021-and-get-qualification-by-may-4-2021"></a><a name="1"></a> Depreciação e aposentação das APIs de Qualificação PUT para o processo de validação de clientes de Educação até 25 de fevereiro de 2021 e qualificação GET até 4 de maio de 2021.
@@ -534,17 +534,17 @@ Parceiros que vendem ofertas académicas, sem fins lucrativos e GCC através do 
 
 ### <a name="details"></a>Detalhes
 
-Este anúncio é um seguimento das melhorias do Partner Center [lançadas em dezembro.](./2020-december.md#1) Como parte desse lançamento, foram implementadas novas APIs de Qualificações GET e POST, e **consequentemente as APIs do Centro de Parceiros de Qualificação PUT Qualification serão aposentadas até 25 de fevereiro de 2021 e obter a qualificação até 4 de maio de 2021**. Nessa altura, terá de passar a utilizar as novas APIs do Post Partner Center para poder comprar ofertas de Educação e as novas qualificações GET API para adquirir ofertas pré-qualificadas sem fins lucrativos e GCC.
+Este anúncio é um seguimento das melhorias do Centro de [Parceiros lançadas em dezembro.](./2020-december.md#1) Como parte desse lançamento, foram implementadas novas APIs de Qualificações GET e POST e, **consequentemente, as APIs do Centro de Parceiros de Qualificação PUT Qualification existentes vão reformar-se até 25 de fevereiro de 2021 e obter a qualificação até 4 de maio de 2021**. Nessa altura, terá de passar a utilizar as novas APIs do Post Partner Center para poder comprar ofertas de Educação e as novas qualificações GET API para adquirir ofertas pré-qualificadas sem fins lucrativos e GCC.
 
 ### <a name="next-steps"></a>Passos seguintes
 
 - **Atualização para as novas APIs** para uma transição bem sucedida e oportuna
-- **Rever as novas alterações e guia** do Centro de Parceiros na API nos recursos de prontidão de operações: [Partner Center Education faseamentos do processo de validação do processo de validação do cliente](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)
+- **Rever as novas alterações e guia** do Centro de Parceiros na API nos recursos de prontidão das operações: [Parceiro Centro Educação processo de validação de processos de validação](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)
 - **Partilhe esta informação com as equipas apropriadas** dentro da sua organização e com os seus revendedores, para ajudá-los a prepararem-se para estas mudanças.
 
 ### <a name="questions"></a>Perguntas?
 
-Para quaisquer questões relacionadas com este [suporte do Centro de Parceiros de](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals)notificação .
+Para quaisquer questões relacionadas com este suporte do [Centro de Parceiros de](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals)notificação .
 
 ### <a name="change-log"></a>Change log
 
