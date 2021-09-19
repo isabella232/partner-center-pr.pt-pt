@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 07/02/2021
-ms.openlocfilehash: ffe6aef9ff3e658c68bf7027d4ce92b87008d534
-ms.sourcegitcommit: 8d5c2463fc0f0c03972a6f89d01605421288daea
+ms.openlocfilehash: 4c1b92f5abad52af519e6044d27f99ae580d94c0
+ms.sourcegitcommit: 731a5e2725a72ecdae40189a3f52ab6b4a4c8058
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/18/2021
-ms.locfileid: "127932822"
+ms.lasthandoff: 09/19/2021
+ms.locfileid: "127960864"
 ---
 # <a name="january-2021-announcements"></a>Anúncios de janeiro de 2021
 
@@ -178,7 +178,7 @@ ________________
 
 - Data: 2021-01-27
 - Capacidades
- 
+
 ### <a name="impacted-audience"></a>Audiência impactada
 
 Todos os revendedores indiretos & fornecedores indiretos que transfiram através do programa Fornecedor de Soluções em Nuvem (CSP).
@@ -189,7 +189,7 @@ A implementação do Acordo de Parceiros da Microsoft (MPA) para revendedores in
 
 ### <a name="next-steps"></a>Passos seguintes
 
-**Revendedores indiretos:** Se não aceitou a MPA, reveja as [FAQs de MPA](../mpa-indirect-provider-faq.yml) e siga as orientações passo a passo disponíveis [para](../microsoft-partner-agreement.md) aceitar a MPA.
+**Revendedores indiretos:** Se não aceitou a MPA, reveja as [FAQs de MPA](../mpa-indirect-provider-faq.yml) e siga a orientação passo a passo disponível na [Learn about the Microsoft Partner Agreement (MPA) para que os parceiros do programa CSP](../microsoft-partner-agreement.md) aceitem a MPA.
 
 **Fornecedores indiretos:** Envolva-se com os seus revendedores indiretos e apoie-os utilizando as [FAQs mpa](../mpa-indirect-provider-faq.yml) e a orientação passo a passo disponível na [Learn about the Microsoft Partner Agreement (MPA) para parceiros do programa CSP](../microsoft-partner-agreement.md).
 
@@ -338,7 +338,7 @@ Note também que a partir de hoje o software do Partner Center e a capacidade de
 
 ### <a name="next-steps"></a>Passos seguintes
 
-- Descarregue a lista de preços **de software perpétuo CSP** na secção de **Software** da página de Preços & Ofertas do Centro de [Parceiros.](https://partnercenter.microsoft.com/pcv/sales) Uma lista dos produtos e geografias recém-adicionados pode ser consultada [aqui.](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf)
+- Descarregue a lista de preços **de software perpétuo CSP** na secção de **Software** da página de Preços & Ofertas do Centro de [Parceiros.](https://partnercenter.microsoft.com/pcv/sales) Uma lista dos produtos e geografias recém-adicionados pode ser encontrada na [galeria de recursos de prontidão de operações.](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf)
 - Reveja o [software perpétuo Administração Microsoft 365 e as chaves da licença de produto descarregue como fazer e](/microsoft-365/admin/setup/download-software-licenses-csp) partilhe com os seus clientes quando estiverem prontos para descarregar o software e as chaves de licença.
 - Reveja o [software Perpetual nos materiais de](https://partner.microsoft.com/resources/collection/software-in-csp#/) prontidão do programa Fornecedor de Soluções em Nuvem. Use este [mapa de prontidão](https://partner.microsoft.com/resources/detail/software-in-csp-readiness-map-pdf) para localizar rapidamente a informação certa para o seu papel.
 
@@ -396,7 +396,7 @@ O Partner Center é projetado para lidar com um grande volume de pedidos, mas se
 |{baseURL}/v1/productUpgrades/{upgrade-id}/status  | [Obter estado de atualização do produto](/partner-center/develop/get-product-upgrade-status) |
 |{baseURL}/v1/clientes/{customer-id}/subscrições/{subscrição-id}/conversões   | [Obter uma lista de ofertas de conversão de avaliação](/partner-center/develop/get-a-list-of-trial-conversion-offers) |
  
-Recomendamos vivamente que os parceiros considerem usar o log de atividade API para obter mais eficiência e evitar estrangulamentos.Para mais informações sobre esta funcionalidade, consulte os detalhes [aqui.](/partner-center/develop/api-throttling-guidance)  
+Recomendamos vivamente que os parceiros considerem usar o log de atividade API para obter mais eficiência e evitar estrangulamentos.Para obter mais informações sobre esta funcionalidade, consulte os detalhes da [orientação de estrangulamento da API para os parceiros que chamam APIs do Partner Center](/partner-center/develop/api-throttling-guidance).  
 
 ### <a name="next-steps"></a>Passos seguintes
 

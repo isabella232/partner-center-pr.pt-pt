@@ -12,11 +12,11 @@ ms.custom:
 ms.localizationpriority: high
 ms.date: 04/08/2021
 ms.openlocfilehash: 4e4c27c9c2382098705b65ece808e4c74a82731f
-ms.sourcegitcommit: 8d5c2463fc0f0c03972a6f89d01605421288daea
+ms.sourcegitcommit: 731a5e2725a72ecdae40189a3f52ab6b4a4c8058
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/18/2021
-ms.locfileid: "127932805"
+ms.lasthandoff: 09/19/2021
+ms.locfileid: "127960830"
 ---
 # <a name="february-2021-announcements"></a>Anúncios de fevereiro de 2021
 

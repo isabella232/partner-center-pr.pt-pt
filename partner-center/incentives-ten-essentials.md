@@ -8,12 +8,12 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/15/2020
-ms.openlocfilehash: 9e90a90a25c1d8ad5ef71535d3b89e558352f328
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: ed1959e9b264b3f324fb0f2f528971163160f431
+ms.sourcegitcommit: 90c87bd5e63a8af932ece5696267ea715fea6a01
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123961379"
+ms.lasthandoff: 09/19/2021
+ms.locfileid: "127962531"
 ---
 # <a name="the-10-essentials-for-working-with-incentives"></a>Os 10 essenciais para trabalhar com incentivos
 
@@ -29,7 +29,7 @@ Se ainda não é um parceiro da Microsoft, terá de se juntar ao MPN para tirar 
 
 ## <a name="2-read-your-incentives-program-guide"></a>2. Leia o seu Guia do Programa de Incentivos
 
-Cada programa de incentivos tem o seu próprio guia de programas detalhado. Neste guia encontrará requisitos de elegibilidade e inscrição, oportunidades de ganho e outras informações únicas no seu programa. Para aceder ao seu guia de programas, siga [este procedimento.](incentives-determined-your-program-eligibility.md#determining-your-program-eligibility)
+Cada programa de incentivos tem o seu próprio guia de programa detalhado. Neste guia encontrará requisitos de elegibilidade e inscrição, oportunidades de ganho e outras informações únicas do seu programa. Para aceder ao seu guia de programas, siga [este procedimento](incentives-determined-your-program-eligibility.md#determining-your-program-eligibility).
 
 ## <a name="3-set-up-your-tax-and-banking-profile"></a>3. Configurar o seu perfil fiscal e bancário
 
@@ -37,11 +37,11 @@ Quase todos os atrasos de pagamento ou outras interrupções no processo de ince
 
 ## <a name="4-learn-about-roles-and-permissions"></a>4. Conheça as funções e permissões
 
-É importante ter uma compreensão sólida dos papéis e permissões envolvidos com o programa de incentivos. Assim que fizeres isto, podes decidir que papéis devem ser atribuídos às pessoas da tua empresa. Para saber mais, veja [quais as funções de utilizador disponíveis?](incentives-faq.yml#what-user-roles-are-available-)
+É importante ter uma compreensão sólida dos papéis e permissões envolvidos com o programa de incentivos. Uma vez feito isto, pode decidir que papéis devem ser atribuídos às pessoas da sua empresa. Para saber mais, veja [quais as funções de utilizador disponíveis?](incentives-faq.yml#what-user-roles-are-available-)
 
-## <a name="5-review-the-incentives-faq"></a>5. Rever os incentivos FAQ
+## <a name="5-review-the-incentives-faq"></a>5. Rever os incentivos faq
 
-Obtenha respostas para perguntas de incentivos comuns antes mesmo de as fazer. Atualizamos frequentemente os incentivos FAQ utilizando informações do Microsoft Support e comunicação direta com parceiros. Pode ver as FAQ [aqui.](incentives-faq.yml)
+Pode obter respostas a perguntas de incentivos comuns antes mesmo de pensar nelas. Atualizamos [frequentemente perguntas sobre Incentivos,](incentives-faq.yml) utilizando informações do Microsoft Support e comunicação direta com parceiros.
 
 ## <a name="6-confirm-your-program-eligibility"></a>6. Confirme a elegibilidade do seu programa
 
@@ -49,11 +49,11 @@ Isto geralmente envolve certificar-se de que forneceu à Microsoft toda a docume
 
 ## <a name="7-confirm-your-earnings-eligibility"></a>7. Confirme a sua elegibilidade para os seus ganhos
 
-Tal como a tarefa anterior, isto geralmente envolve certificar-se de que forneceu à Microsoft toda a informação de que precisamos. Consulte [Confirmar a sua elegibilidade para os seus ganhos.](incentives-confirm-your-earnings-eligibility.md)
+Tal como a tarefa anterior, isto geralmente envolve certificar-se de que forneceu à Microsoft toda a informação de que precisamos. Consulte [confirmar a sua elegibilidade para os seus ganhos.](incentives-confirm-your-earnings-eligibility.md)
 
-## <a name="8-gather-the-necessary-enrollment-information"></a>8. Recolher as informações necessárias para a inscrição
+## <a name="8-gather-the-necessary-enrollment-information"></a>8. Reunir as informações necessárias para a inscrição
 
-A inscrição no programa de incentivos requer uma certa quantidade de informação sobre a sua empresa. Certifique-se de ter tudo junto antes de começar. Para saber mais, baixe e leia a [inscrição de Incentivo no](https://assetsprod.microsoft.com/partner-center-incentives-enrollment.pdf) ficheiro pdf do Partner Center.
+A inscrição no programa de incentivos requer uma certa quantidade de informação sobre a sua empresa. Certifique-se de ter tudo junto antes de começar. Para saber mais, baixe e leia a inscrição de Incentivo no ficheiro pdf [partner Center.](https://assetsprod.microsoft.com/partner-center-incentives-enrollment.pdf)
 
 ## <a name="9-learn-how-other-partners-do-it"></a>9. Saiba como outros parceiros o fazem
 
@@ -61,7 +61,7 @@ Existem muitos bons artigos disponíveis sobre incentivos da Microsoft e Partner
 
 ## <a name="10-read-the-partner-center-online-help"></a>10. Leia a ajuda online do Centro de Parceiros
 
-Encontrará procedimentos detalhados para fazer todas as tarefas acima referidas. Você pode ler toda a secção de Incentivos em cerca de uma hora, e a maioria dos artigos demora apenas um minuto ou dois. Para começar a ler a ajuda, consulte ["Começar".](incentives-get-started-intro.md)
+Encontrará procedimentos detalhados para fazer todas as tarefas acima referidas. Você pode ler toda a secção de Incentivos em cerca de uma hora, e a maioria dos artigos só demora um minuto ou dois. Para começar a ler a ajuda, consulte ["Começar".](incentives-get-started-intro.md)
 
 ## <a name="next-steps"></a>Passos seguintes
 
