@@ -4,30 +4,30 @@ ms.topic: article
 ms.date: 04/07/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-benefits
-description: O programa de treino de software Assurance Voucher está a ser reformado.
+description: O programa de treino de software de acesso a voucher está a ser reformado.
 author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: c0c65c962fdc46ce4685ee3bb63bacdec036f1e8
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: e9313a7d7f6554a544eeb81a023db3a3a3eeff22
+ms.sourcegitcommit: 731a5e2725a72ecdae40189a3f52ab6b4a4c8058
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126246647"
+ms.lasthandoff: 09/19/2021
+ms.locfileid: "127966195"
 ---
 # <a name="training-vouchers-program-retirement"></a>Reforma do Programa de Vouchers de Formação
 
-Os Vouchers de Formação de Garantia de Software (SATVs) estão a ser totalmente retirados dos benefícios da Garantia de Software, mas os clientes podem continuar a usar os dias de voucher para a formação conduzida por instrutores enquanto os vouchers são válidos. Estas são as datas significativas que antecedem a reforma do programa: 
+Os Vouchers de Formação de Garantia de Software (SATVs) estão a ser totalmente retirados dos benefícios da Software Assurance, mas os clientes podem continuar a usar os dias de voucher para a formação conduzida por instrutores enquanto os vouchers são válidos. Estas são as datas significativas que antecedem a reforma do programa: 
 
 - 1 de fevereiro de 2020: A formação Azure retirou-se do catálogo de vouchers de formação.
 - 1 de fevereiro de 2020: Os vouchers de formação já não podem ser convertidos para dias de Serviços de Planeamento.  
-- 1 de fevereiro de 2021: Os clientes já não acumulam benefícios de formação. 
+- 1 de fevereiro de 2021: Os clientes deixaram de acumular benefícios de formação. 
 - 30 de junho de 2021: Último dia para os clientes criarem/atribuirem Vouchers de Formação. Todos os dias restantes do Voucher de Formação serão removidos a 1 de julho de 2021.
 - 1 de janeiro de 2022: Último dia para os sócios resgatar vouchers de formação. O parceiro terá 60 dias após o resgate para concluir o processo de pedido de pagamento.  
 
 >[!NOTE]
->Não há alteração no ciclo de vida do voucher. Uma vez criado um voucher/atribuído, a reserva de vouchers, sessões de formação e o resgate do voucher devem ser concluídos no prazo de 180 dias antes da expiração do voucher.  Para obter mais informações sobre a aposentadoria do Voucher de Formação, consulte as PERGUNTAS Frequentes [aqui](https://partner.microsoft.com/resources/collection/software-assurance-benefit-changes#/) encontradas (inscrição obrigatória).  Consulte a lista completa dos cursos de formação elegíveis para SATV no catálogo de produtos de benefícios de formação. Por favor, dirijo quaisquer perguntas à sua equipa regional de Apoio ao [Parceiro: Apoio ao Parceiro EMEA;](mailto:savoucher@msdirectservices.com) [Suporte Geral do Parceiro](https://partner.microsoft.com/dashboard/support/servicerequests).
+>Não há alteração no ciclo de vida do voucher. Uma vez criado um voucher/atribuído, a reserva de vouchers, sessões de formação e resgate de vouchers devem ser concluídas no prazo de 180 dias antes da expiração do voucher.  Para obter mais informações sobre a reforma do Voucher de Formação, consulte as PERGUNTAS Frequentes encontradas alterações de [benefícios](https://partner.microsoft.com/resources/collection/software-assurance-benefit-changes#/) de garantia de software (pedido de inscrição).  Consulte a lista completa dos cursos de formação elegíveis para SATV no catálogo de produtos de benefícios de formação. Por favor, dirijo quaisquer perguntas à sua equipa regional de Apoio ao Parceiro: [Apoio ao Parceiro EMEA;](mailto:savoucher@msdirectservices.com) [Suporte Geral de Parceiros](https://partner.microsoft.com/dashboard/support/servicerequests).
 
 
 
@@ -48,17 +48,17 @@ Este artigo explica como completar cada passo.
 
 ## <a name="confirm-program-eligibility"></a>Confirmar a elegibilidade do programa
 
-Antes de se inscrever no programa SATV, tem primeiro de preencher os requisitos para a opção de Aprendizagem da Microsoft Partner Network (MPN), que substitui a competência Aprendizagem microsoft. Saiba como começar na [opção Aprendizagem.](https://partner.microsoft.com/membership/learning-partners)
+Antes de se inscrever no programa SATV, tem primeiro de preencher os requisitos para a opção Aprendizagem da Microsoft Partner Network (MPN), que substitui a competência microsoft Aprendizagem. Saiba como começar na [opção Aprendizagem.](https://partner.microsoft.com/membership/learning-partners)
 
 Pode verificar a elegibilidade da sua empresa, incluindo os requisitos de competência e avaliação aplicáveis no Partner Center. Siga as instruções no [passo 1](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) do fluxo de trabalho do SATV para obter mais detalhes e capturas de ecrã.
 
 ## <a name="enroll-in-the-training-program"></a>Inscreva-se no programa de formação
 
-Depois de a sua empresa cumprir os requisitos de elegibilidade, está pronto para assinar o contrato do programa SATV e inscrever-se. Certifique-se de rever todas as [políticas do programa SATV,](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP)em seguida, siga as instruções no [passo 2](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) do fluxo de trabalho para concluir o processo de inscrição satv no Partner Center.
+Depois de a sua empresa cumprir os requisitos de elegibilidade, está pronto para assinar o contrato de programa SATV e inscrever-se. Certifique-se de rever todas as [políticas do programa SATV,](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP)em seguida, siga as instruções no [passo 2](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) do fluxo de trabalho para concluir o processo de inscrição satv no Partner Center.
 
 
 ## <a name="confirm-course-eligibility"></a>Confirmar a elegibilidade do curso
-Uma vez inscritos no programa SATV, os parceiros podem oferecer sessões de formação para cursos elegíveis para SATV, para os quais os clientes podem usar os seus vouchers de formação. Os cursos elegíveis estão listados no catálogo de elegibilidade do curso SATV. Rever [a 3.](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) duração do fluxo de trabalho para compreender que tipos de cursos são elegíveis para a SATV ou para obter uma ligação ao catálogo de elegibilidade do curso.
+Uma vez inscritos no programa SATV, os parceiros podem oferecer sessões de formação para cursos elegíveis para SATV, para os quais os clientes podem usar os seus vouchers de formação. Os cursos elegíveis estão listados no catálogo de elegibilidade do curso SATV. Rever [a 3. desaída](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) do fluxo de trabalho para compreender quais os tipos de cursos elegíveis para a SATV ou para obter uma ligação ao catálogo de elegibilidade do curso.
 
 ## <a name="have-customer-create-and-assign-voucher"></a>Ter o cliente a criar e atribuir voucher
 
