@@ -14,7 +14,7 @@ ms.sourcegitcommit: 731a5e2725a72ecdae40189a3f52ab6b4a4c8058
 ms.translationtype: MT
 ms.contentlocale: pt-PT
 ms.lasthandoff: 09/20/2021
-ms.locfileid: "128007210"
+ms.locfileid: "128031175"
 ---
 # <a name="november-2020-announcements"></a>Anúncios de novembro de 2020
 
@@ -469,14 +469,14 @@ Com a oferta premium, os clientes têm acesso aos recém-lançados serviços Sal
 
    |****|**Salas Microsoft Teams Standard Dispositivo USD15 por mês**|**Salas Microsoft Teams Premium Dispositivo USD50 por mês**|
    |-------------------|:------|:------|
-   |Skype para Empresas|Sim| |
-   |Microsoft Stream|Sim|Sim|
-   |Sistema Telefónico|Sim|Sim|
-   |Conferência sonora|Sim|Sim|
-   |Microsoft Intune|Sim|Sim|
+   |Skype para Empresas|Yes| |
+   |Microsoft Stream|Yes|Yes|
+   |Sistema Telefónico|Yes|Yes|
+   |Conferência sonora|Yes|Yes|
+   |Microsoft Intune|Yes|Yes|
    | |Salas Microsoft Teams Standard USD15 por dispositivo por mês|Salas Microsoft Teams Premium USD50 por dispositivo por mês|
-   |Salas Microsoft Teams Serviços Geridos| |Sim|
-   |Disponibilidade mundial|Sim|Em mercados selecionados|
+   |Salas Microsoft Teams Serviços Geridos| |Yes|
+   |Disponibilidade mundial|Yes|Em mercados selecionados|
 
 #### <a name="microsoft-teams-rooms-managed-services"></a>Salas Microsoft Teams Serviços Geridos
 

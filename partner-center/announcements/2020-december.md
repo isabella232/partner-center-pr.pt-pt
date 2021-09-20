@@ -9,18 +9,18 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/18/2021
-ms.openlocfilehash: 29d340b1151a122792749c7cb400d647f42af33a
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: f60cef1922a433eefbb563147447a18251b05bc8
+ms.sourcegitcommit: 731a5e2725a72ecdae40189a3f52ab6b4a4c8058
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126247253"
+ms.lasthandoff: 09/20/2021
+ms.locfileid: "128031226"
 ---
 # <a name="december-2020-announcements"></a>Anúncios de dezembro de 2020
 
 Esta página detalha os anúncios para o Microsoft Partner Center para novembro de 2020.
 
-Anúncios de 2020: [abril](2020-april.md)  |  [maio](2020-may.md)  |  [junho julho](2020-june.md)  |  [agosto](2020-july.md)  |  [](2020-august.md)  |  [setembro](2020-september.md)  |  [|](2020-October.md)  |  [](2020-november.md) Dezembro
+Anúncios de 2020: [abril](2020-april.md)  |  [maio](2020-may.md)  |  [junho julho](2020-june.md)  |  [](2020-july.md)  |  [agosto](2020-august.md)  |  [setembro](2020-september.md)  |  [|](2020-October.md)  |  [](2020-november.md) Dezembro
 
 ________________
 
@@ -43,7 +43,7 @@ Parceiros participantes no Fornecedor de Soluções em Nuvem (CSP) parceiro de c
 
 Reconhecemos o impacto contínuo destes tempos desafiantes nos nossos parceiros e clientes. Para proporcionar aos parceiros uma flexibilidade adicional, estamos a conceder uma transição única de fundos cooperativos não reutilizados do atual período de utilização do FY21 H1, que decorre de 1 de julho a 31 de dezembro de 2021. Os fundos de cooperação são recompensados como parte dos seus ganhos de incentivo e podem ser reclamados para atividades elegíveis de marketing, geração de procura e prontidão.
 
-Com este capotamento, os fundos cooperativos não utilizados permanecem na sua conta após o encerramento do período de reclamação H1 pode ser utilizado para atividades de cooperação elegível durante o período de utilização do FY21 H2, que decorre de 1 de janeiro a 30 de junho de 2021.  
+Com este capotamento, os fundos cooperativos não utilizados permanecem na sua conta após o encerramento do período de reclamação H1 pode ser utilizado para atividades de cooperação elegíveis durante o período de utilização do FY21 H2, que decorre de 1 de janeiro a 30 de junho de 2021.  
 
 As reclamações devem ser submetidas através da [ferramenta de reclamações](https://partner.microsoft.com/dashboard/incentives/claims/web/) do Centro Parceiro no prazo de 45 dias após a conclusão da atividade e serão aceites até 15 de agosto de 2021.
 
@@ -69,7 +69,7 @@ ________________
 
 ### <a name="summary"></a>Resumo
 
-A Microsoft vai transitar todo o processamento de assinaturas eletrónicas do DocuSign para o Adobe Sign
+A Microsoft vai fazer a transição de todo o processamento de assinaturas eletrónicas do DocuSign para o Adobe Sign
 
 ### <a name="impacted-audience"></a>Audiência impactada
 
@@ -77,9 +77,9 @@ Fornecedor de Soluções em Nuvem (CSP) parceiros com acordos de parceiros da Mi
 
 ### <a name="details"></a>Detalhes
 
-O Adobe Sign é a solução de assinatura electrónica preferida da Microsoft (ESS). Em janeiro de 2021, a Microsoft começará a transitar todo o processamento de assinaturas eletrónicas do DocuSign para o Adobe Sign, começando com MPAs. Deve esperar uma transição suave. Após a migração, receberá e-mails de uma [adobesign@adobesign.com](mailto:adobesign@adobesign.com) conta, que lhe fornecerá um link para um novo ambiente de assinatura. Para uma melhor experiência, adicione [adobesign@adobesign.com](mailto:adobesign@adobesign.com) à sua lista de remetentes seguros.
+O Adobe Sign é a solução de assinatura electrónica preferida da Microsoft (ESS). Em janeiro de 2021, a Microsoft começará a transitar todo o processamento de assinaturas eletrónicas do DocuSign para o Adobe Sign, a começar pelos MPAs. Deve esperar uma transição suave. Após a migração, receberá e-mails de uma [adobesign@adobesign.com](mailto:adobesign@adobesign.com) conta, que lhe fornecerá um link para um novo ambiente de assinatura. Para uma melhor experiência, adicione [adobesign@adobesign.com](mailto:adobesign@adobesign.com) à sua lista de remetentes seguros.
 
-A transição para o Adobe Sign garantirá uma experiência de assinatura electrónica segura e eficiente que irá oferecer maior valor aos nossos clientes e parceiros. Receberá mais informações sobre os planos de migração de conta para a Adobe Sign em janeiro de 2021.  
+A transição para o Adobe Sign garantirá uma experiência de assinatura eletrónica segura e eficiente que irá oferecer maior valor aos nossos clientes e parceiros. Receberá mais informações sobre os planos de migração de conta para a Adobe Sign em janeiro de 2021.  
 
 ### <a name="next-steps"></a>Passos seguintes
 
@@ -104,9 +104,9 @@ Fatura direta e fornecedores indiretos que participam no programa Fornecedor de 
 
 ### <a name="details"></a>Detalhes
 
-Os preços do Partner Center e as atualizações de catálogo normalmente previstas para o primeiro dia do mês terão ligeiras alterações no horário previsto para janeiro de 2021. Todos os ficheiros de preços estarão disponíveis como de costume, disponíveis a 31 de dezembro de 2020 por volta das 18:00 horas do Pacífico (PST). No entanto, as atualizações abaixo que normalmente ocorrem no primeiro dia do mês serão ligeiramente adiadas. 
+Os preços do Partner Center e as atualizações de catálogo normalmente previstas para o primeiro dia do mês terão ligeiras alterações no horário previsto para janeiro de 2021. Todos os ficheiros de preços estarão disponíveis como de costume, disponíveis a 31 de dezembro de 2020 por volta das 18:00 horas do Pacífico (PST). No entanto, as atualizações abaixo que ocorrem normalmente no primeiro dia do mês serão ligeiramente adiadas. 
 
-- As listas de preços baseadas no uso da Azure serão adiadas até ao final do dia útil 4 de janeiro de 2021. Os ficheiros de preços baseados em Azure no dia 1 de janeiro de 2021 só terão preços até 21 de dezembro de 2020. No dia 4 de janeiro, os ficheiros serão atualizados.
+- As listas de preços baseadas no uso do Azure serão adiadas até ao final do dia útil 4 de janeiro de 2021. Os ficheiros de preços baseados em Azure no dia 1 de janeiro de 2021 só terão preços até 21 de dezembro de 2020. No dia 4 de janeiro, os ficheiros serão atualizados.
 - Os ficheiros de preços baseados em licença estarão atualizados a 1 de janeiro de 2021, mas haverá um ligeiro atraso até que quaisquer novas ofertas estejam disponíveis no catálogo para compra. A atualização do catálogo baseada em licença está agendada para 5 de janeiro de 2021 5PM PST. 
 
 Perceba que todos os outros ficheiros da lista de preços estão agendados para estarem disponíveis no horário habitual, simplesmente os dois resultados acima serão ligeiramente atrasados.
@@ -115,14 +115,14 @@ Perceba que todos os outros ficheiros da lista de preços estão agendados para 
 
 Em resumo, os ficheiros de preços abaixo estarão disponíveis como de costume no dia 31 de dezembro de 2020, aproximadamente às 18:00 PST:
 
-- Ficheiros de lista de preços baseados em licença e matriz de lista de ofertas
+- Arquivos de lista de preços baseados em licença e matriz de lista de ofertas
 - Ficheiros de preços baseados em uso, mas apenas com atualizações até 21 de dezembro de 2020
 - Listas de preços de reservas baseadas em uso
 - Listas de preços de subscrições de software
 - Listas de preços de software perpétuo
 - Listas de preços de consumo do plano Azure
 - Azure planeia reservas listas de preços
-- Plano Azure consumo cambial taxas de câmbio
+- Plano Azure de consumo cambial
 
 O seguinte ficheiro de preços será atualizado até 4 de janeiro de 2021:
 
@@ -145,21 +145,21 @@ Administradores de TI, decisores de TI, chefes de informação e utilizadores fi
 
 ### <a name="details"></a>Detalhes
 
-Microsoft 365 assinantes, tanto em contextos de consumo como comerciais, serão bem servidos com esta mudança através de um acesso web mais rápido e responsivo a mais conjuntos de funcionalidades em conjuntos de ferramentas do dia-a-dia como Outlook, Teams, SharePoint e muito mais.
+Microsoft 365 assinantes, tanto em contextos de consumo como comerciais, serão bem servidos com esta mudança através de um acesso web mais rápido e mais responsivo a mais conjuntos de funcionalidades em conjuntos de ferramentas do dia-a-dia como Outlook, Teams, SharePoint e muito mais.
 
-O novo Microsoft Edge é a nossa melhor expressão de um navegador moderno, e estamos animados para que os clientes o experimentem. Agora que enviamos o novo Microsoft Edge e atualizámos a maioria dos nossos clientes Windows 10 para o novo navegador, estamos a terminar o suporte para a Microsoft Edge aplicação de ambiente de trabalho.
+O novo Microsoft Edge é a nossa melhor expressão de um navegador moderno, e estamos animados para que os clientes o experimentem. Agora que enviamos o novo Microsoft Edge e atualizámos a maioria dos nossos Windows 10 clientes para o novo navegador, estamos a terminar o suporte para a Microsoft Edge aplicação de ambiente de trabalho.
 
 **Impacto da mudança**
 
-- A partir **de 30 de novembro de 2020,** os clientes já não conseguem ligar-se à aplicação web Microsoft Teams no Internet Explorer 11. A Microsoft acredita que os clientes vão tirar o máximo partido das Microsoft 365 e a melhor expressão de um navegador moderno ao utilizar o [novo Microsoft Edge.](https://www.microsoft.com/edge/business?form=MO12H3&OCID=MO12H3)
+- A partir **de 30 de novembro de 2020,** os clientes já não conseguem ligar-se à aplicação web Microsoft Teams no Internet Explorer 11. A Microsoft acredita que os clientes vão tirar o máximo partido do Microsoft 365 e a melhor expressão de um navegador moderno ao utilizar o [novo Microsoft Edge.](https://www.microsoft.com/edge/business?form=MO12H3&OCID=MO12H3)
 - Depois **de 9 de março de 2021**, as apps e sites criados para Microsoft Edge legado continuarão a funcionar no novo Microsoft Edge, mas se surgir um problema de compatibilidade, existe a [App Assure que promete](/fasttrack/products-and-capabilities#app-assure) fornecer suporte.
-- Depois de **17 de agosto de 2021,** os clientes terão uma experiência degradada ou não poderão ligar-se a aplicações e serviços Microsoft 365 no Internet Explorer 11. A Microsoft acredita que os clientes vão tirar o máximo partido das Microsoft 365 e a melhor expressão de um navegador moderno ao utilizar o [novo Microsoft Edge.](https://www.microsoft.com/edge/business?form=MO12H3&OCID=MO12H3)
+- Depois de **17 de agosto de 2021,** os clientes terão uma experiência degradada ou não poderão ligar-se a aplicações e serviços Microsoft 365 no Internet Explorer 11. A Microsoft acredita que os clientes vão tirar o máximo partido do Microsoft 365 e a melhor expressão de um navegador moderno ao utilizar o [novo Microsoft Edge.](https://www.microsoft.com/edge/business?form=MO12H3&OCID=MO12H3)
 
 ### <a name="next-steps"></a>Passos seguintes
 
 - Leia a publicação do blog para entender os detalhes do anúncio.
 - Aproveite esta oportunidade para contactar os seus parceiros para ajudar a implementar o novo Microsoft Edge.
-- Recursos adicionais e mais informações: [Edge YouTube](https://www.youtube.com/channel/UCIGx7oT8p6-jUpOfg98yelA) ou [Edge adoção](https://www.microsoft.com/edge/business?form=MO12H3&OCID=MO12H3)
+- Recursos adicionais e mais informações: [Adoção](https://www.microsoft.com/edge/business?form=MO12H3&OCID=MO12H3) [edge YouTube](https://www.youtube.com/channel/UCIGx7oT8p6-jUpOfg98yelA) ou Edge
 
 ### <a name="questions"></a>Perguntas
 
@@ -196,7 +196,7 @@ ______________
 
 ### <a name="summary"></a>Resumo
 
-Como parte do nosso compromisso de ajudar parceiros e clientes a gerir o seu negócio com base na confiança, vamos solicitar informações adicionais ao cliente, a partir de 25 de março de 2021.
+Como parte do nosso compromisso de ajudar parceiros e clientes a gerir o seu negócio com base na confiança, solicitaremos informações adicionais ao cliente, a partir de 25 de março de 2021.
 
 ### <a name="impacted-audience"></a>Audiência impactada
 
@@ -226,7 +226,7 @@ A Microsoft tem confiança. Estamos empenhados em fornecer um método de valida�
 
 Os parceiros que satisfaçam os critérios terão de submeter o ID de registo da empresa de um cliente (também conhecido como organização do cliente INN) e o número de telefone quando atualizarem ou criarem uma subscrição para esse cliente. Estes parceiros também podem introduzir um nome do meio opcional para o cliente.
 
-Note que quando adicionar o ID de registo da sua empresa deve usar o seu ID de imposto de negócio e não o ID pessoal do cliente.
+Note que ao adicionar o ID de registo da sua empresa deve usar o seu ID de imposto de negócio e não o ID pessoal do cliente.
 
 Os parceiros que fazem negócios com clientes novos ou já existentes nos seguintes países já foram a bordo com um lançamento anterior em novembro de 2020.
 
@@ -246,7 +246,7 @@ Os parceiros com clientes no resto do mundo terão a capacidade, no final de mar
 
 ### <a name="next-steps"></a>Passos seguintes
 
-- Reveja a documentação técnica e questione frequentemente na coleção de [parceiros](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) dedicados para obter uma orientação mais detalhada.
+- Reveja a documentação técnica e as perguntas frequentes na coleção de [parceiros](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) dedicados para obter uma orientação mais detalhada.
 - Prepare-se para incorporar as alterações utilizando a API do Partner Center e a experiência do utilizador web. A API/SDKs estará disponível para testes.
 - Certifique-se de submeter os dados adicionais ao embarcar em novos clientes ou modificar os dados do cliente existentes.
 - Se estiver a utilizar uma solução de fornecedor de painéis de controlo (CPV), consulte o seu CPV.
@@ -289,17 +289,17 @@ Todos os parceiros da CSP
 >[!NOTE]
 >Devido ao feedback do parceiro, estamos a reinstaurar a capacidade de cumprimento do Partner Center para obter chaves de software e licença para ordens de software de subscrição perpétua e servidor. Será restaurado ao seu estado anterior antes de ser removido em 19 de janeiro de 2021. Para mais informações, consulte o [anúncio de março de 2021.](./2021-march.md#4)
 
-Gostaríamos de lembrá-lo que a partir de **19 de janeiro de 2021,** todos os parceiros inscritos no programa CSP poderão vender licenças de software perpétuo comercial para implantação no local através da CSP. Isto dará aos clientes a flexibilidade de licenciamento de que necessitam como parte da sua transformação digital.
+Gostaríamos de recordar que a partir de **19 de janeiro de 2021** todos os parceiros inscritos no programa CSP poderão vender licenças comerciais de software perpétuo para implantação no local através da CSP. Isto dará aos clientes a flexibilidade de licenciamento de que necessitam como parte da sua transformação digital.
 
 O seguinte também acontecerá na mesma data:
 
-- A lista de preços perpétuos de software perpétuo da CSP será republica no Partner Center. Você vai encontrá-lo na secção de **Software** da página [de Venda > Preços & Ofertas,](https://partnercenter.microsoft.com/pcv/sales) que contém produtos e geografias adicionais. Veja os detalhes completos [aqui](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf).
+- A lista de preços perpétuos de software perpétuo da CSP será republica no Partner Center. Você vai encontrá-lo na secção de **Software** da página [de Venda > preços & Ofertas,](https://partnercenter.microsoft.com/pcv/sales) que contém produtos e geografias adicionais. Veja todos os detalhes na [galeria de recursos de prontidão de operações.](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf)
 
-- O software do Partner Center e a capacidade de cumprimento da chave de licença serão retirados - ver [anúncio](./2020-september.md#17) - e os parceiros apontarão os clientes para usar o Centro de Administração Microsoft 365 exclusivamente para o efeito. Isto garantirá a experiência mais segura e eficiente para os clientes. Saiba mais sobre o software Administração Microsoft 365 Center, analisando a [visão geral,](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3) [tarefas comuns](/microsoft-365/admin/admin-overview/about-the-admin-center?preserve-view=true&view=o365-worldwide)e [capacidades de cumprimento das chaves da licença.](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf)
+- O software do Partner Center e a capacidade de cumprimento da chave de licença serão retirados - ver [anúncio](./2020-september.md#17) - e os parceiros apontarão os clientes para usar o Administração Microsoft 365 Center exclusivamente para este fim. Isto garantirá a experiência mais segura e eficiente para os clientes. Saiba mais sobre o software Administração Microsoft 365 Center, analisando a [visão geral,](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3) [tarefas comuns](/microsoft-365/admin/admin-overview/about-the-admin-center?preserve-view=true&view=o365-worldwide)e [capacidades de cumprimento das chaves da licença.](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf)
 
 ### <a name="perpetual-software-in-csp"></a>Software perpétuo em CSP
 
-A adição de software perpétuo ao programa CSP na nova experiência de comércio reduzirá o tempo e os custos que os parceiros têm de gastar na gestão de múltiplos programas de licenciamento. Isto conduzirá a melhores capacidades de vendas, operacionais e de gestão. Os parceiros podem expandir os seus negócios oferecendo soluções diversas e serviços geridos com a flexibilidade para combinar licenças e serviços geridos para ambientes híbridos em nuvem, acelerando ainda mais a transição dos seus clientes para a nuvem. Os clientes, por sua vez, beneficiarão de uma abordagem simplificada e de uma maior flexibilidade na aquisição de licenças de software. Este processo de compra é fácil de entender, melhora diretamente a gestão de ativos de licenciamento, e tem custos previsíveis.
+A adição de software perpétuo ao programa CSP na nova experiência de comércio reduzirá o tempo e os custos que os parceiros têm de gastar na gestão de múltiplos programas de licenciamento. Isto conduzirá a uma melhoria das capacidades de vendas, operacionais e de gestão. Os parceiros podem expandir os seus negócios oferecendo diversas soluções e serviços geridos com a flexibilidade para combinar licenças e serviços geridos para ambientes híbridos em nuvem, acelerando ainda mais a transição dos seus clientes para a nuvem. Os clientes, por sua vez, beneficiarão de uma abordagem simplificada e de uma maior flexibilidade na aquisição de licenças de software. Este processo de compra é fácil de entender, melhora diretamente a gestão de ativos de licenciamento, e tem custos previsíveis.
 
 ### <a name="next-steps"></a>Passos seguintes
 
@@ -309,9 +309,9 @@ Reveja os seguintes recursos e partilhe-os com os contactos relevantes na sua or
 
 - Administração Microsoft 365 Visão [geral do centro,](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3) [tarefas comuns](/microsoft-365/admin/admin-overview/about-the-admin-center?preserve-view=true&view=o365-worldwide)e [capacidades de cumprimento das chaves da licença](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf)
 
-- [Expandir oportunidades para parceiros no programa Fornecedor de Soluções em Nuvem](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/) (anúncio de parceiros)
+- [Expandir oportunidades para parceiros no programa Fornecedor de Soluções em Nuvem](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/) (anúncio de parceiro)
 
-- [Software perpétuo nos Fornecedor de Soluções em Nuvem](https://partner.microsoft.com/resources/collection/software-in-csp#/) materiais de prontidão do programa, incluindo uma apresentação geral, orientação de licenciamento, FAQ parceiro, webinars operacionais e técnicos (SDK/API) e muitos recursos mais úteis. Use este [mapa de prontidão](https://partner.microsoft.com/resources/detail/software-in-csp-readiness-map-pdf) para localizar rapidamente as informações certas para o seu papel.
+- [Software perpétuo nos Fornecedor de Soluções em Nuvem](https://partner.microsoft.com/resources/collection/software-in-csp#/) materiais de prontidão do programa, incluindo uma apresentação geral, orientação de licenciamento, FAQ parceiro, webinars operacionais e técnicos (SDK/API) e muitos recursos mais úteis. Use este [mapa de prontidão](https://partner.microsoft.com/resources/detail/software-in-csp-readiness-map-pdf) para localizar rapidamente a informação certa para o seu papel.
 
 ### <a name="questions"></a>Perguntas?
 
@@ -338,7 +338,7 @@ Conta direta, fornecedores indiretos e parceiros multi-camadas que participam no
 
 ### <a name="details"></a>Detalhes
 
-De acordo com o seu Acordo de Parceiros da Microsoft (consulte a secção **Serviços Online e Autorização do Canal de Software – Aviso de Alterações – Alterações nos Guias),** a Microsoft está a informar-lhe que o Guia de Autorização de Serviços Online e canal de software está a ser atualizado. 
+De acordo com o seu Acordo de Parceiros da Microsoft (consulte a secção **Serviços Online e Autorização do Canal de Software – Aviso de Alterações – Alterações nos Guias),** a Microsoft está a informar-lhe que o Guia de Autorização de Serviços Online e de Canal de Software está a ser atualizado. 
 
 Uma pré-visualização do guia atualizado está [disponível aqui,](https://partner.microsoft.com/resources/detail/update-guide-online-services-software-channel-authorization-jan-pdf)com uma linha vermelha indicando alterações [disponíveis aqui](https://partner.microsoft.com/resources/detail/update-guide-online-services-software-channel-authorization-jan-redline-pdf). Esta atualização irá efetivo 30 dias a contar da data deste aviso; não há mais nenhuma ação necessária para si neste momento.
 
@@ -393,11 +393,11 @@ Os detalhes da oferta abaixo para esta oferta estarão na matriz da lista de ofe
 - Contagem de assentos min: 200
 - Contagem de assentos max: 10000000
 - Limite de oferta: Nenhum
-- Países Permitidos: Ilhas Permutais dos EUA, Inglês (Territórios do Sul francês), Ilha Bouvet, Território britânico do Oceano Índico, Iémen, Ilhas Heard e Mc Donald, Wallis e Futuna, Vanuatu, Antártica, Tuvalu, Somália, Tokelau, Serra Leoa, Suazilândia, Santa Helena, Ascensão, Tristão da Cunha, Sã£o Tomã© e Práncipe, Ilhas Pitcairn, Palau, Ilhas Salomão, Nauru, Niue, Ilhas Norfolk, Mauritânia, Ilhas  Lesoto, Kiribati, Guiné Equatorial, Guiné-Bissau, Ilhas Cook, Eritreia, Ilha de Natal, Burkina Faso, República Centro-Africana, Kosovo, Ilhas Cocos (Keeling), Svalbard e jan Mayen, Ã... ilhas terrestres, Sudão do Sul, Geórgia do Sul e Ilhas Sandwich do Sul, Samoa, Saint Barthã©lemy, Ilhas Virgens Britânicas, Saint Pierre e Miquelon, Chade, Níger, Montserrat, Guiana, Haiti, Gâmbia, Guam, Guiné, Gabão, Granada, Gibraltar, Guernsey, Libéria, Micronésia, Ilhas Malvinas, Dominica, Djibuti, Congo (DRC),  Ilhas Virgens Americanas, Venezuela, Santa Sé (Cidade do Vaticano), Ucrânia, Uganda, Uzbequistão, Estados Unidos, Uruguai, Tanzânia, Taiwan, Trinidad e Tobago, Turquia, Tunísia, Tonga, Timor-Leste, Turquemenistão, Tajiquistão, Tailândia, Togo, El Salvador, Ilhas Sint Maarten, Turcas e Caicos, Suriname, Singapura, Eslovénia, San Marino, Senegal, Eslováquia, Suécia, Seychelles, Arábia© Saudita,  Território Palestiniano, Ocupado, Polónia, Porto Rico, Paquistão, Peru, Panamá, Papua Nova Guiné, Polinésia Francesa, Nova Zelândia, Omã, Nepal, Países Baixos, Noruega, Nigéria, Nicarágua, Nova Caledónia, Namíbia, Moçambique, Malásia, México, Martinica, Malawi, Maldivas, Maurícia, Malta, Myanmar, Sar, Macau, Mongólia, Mali, Madagáscar, Ilhas Marshall, Macedónia, FYRO, Montenegro, Saint Martin,  Sri Lanka, Ilhas Caimão, Liechtenstein, Laos, Cazaquistão, Kuwait, Coreia, Comores, Camboja, São Cristóvão e Nevis, Quénia, Quirguistão, Japão, Jordânia, Jamaica, Jersey, Itália, Islândia, Iraque, Irlanda, Índia, Indonésia, Ilha de Man, Honduras, Israel, Hungria, Hong Kong SAR, Croácia, Guatemala, Grécia, Guadalupe, Guiana Francesa, Gronelândia, Gana, Ilhas Faroe, Reino Unido,  Equador, República Dominicana, Argélia, Alemanha, Dinamarca, Chipre, República Checa, Curaãis, Cabo Verde, Costa Rica, Chile, Camarões, Colômbia, CÃ'te dâ€™Ivoire, Canadá, Suíça, Belize, Bielorrússia, Botsuana, Butão, Bahamas, Bonaire, Sint Eustatius e Saba, Brasil, Benin, Brunei, Bermudas, Bolívia, Bélgica, Bulgária, Bahrein, Burundi, Bósnia e Herzegovina, Bangladesh, Barbados, Azerbaijão, Aruba,  Albânia, Anguilla, Andorra, Emirados Árabes Unidos, Antígua e Barbuda
+- Países Permitidos: Ilhas Permutais dos EUA, Inglês (Territórios do Sul francês), Ilha Bouvet, Território britânico do Oceano Índico, Iémen, Ilhas Heard e Mc Donald, Wallis e Futuna, Vanuatu, Antártica, Tuvalu, Somália, Tokelau, Serra Leoa, Suazilândia, Santa Helena, Ascensão, Tristão da Cunha, Sã£o Tomã© e Práncipe, Ilhas Pitcairn, Palau, Ilhas Salomão, Nauru, Niue, Ilhas Norfolk, Mauritânia, Ilhas  Lesoto, Kiribati, Guiné Equatorial, Guiné-Bissau, Ilhas Cook, Eritreia, Ilha de Natal, Burkina Faso, República Centro-Africana, Kosovo, Ilhas Cocos (Keeling), Svalbard e jan Mayen, Ã... ilhas terrestres, Sudão do Sul, Geórgia do Sul e Ilhas Sandwich do Sul, Samoa, Saint Barthã©lemy, Ilhas Virgens Britânicas, Saint Pierre e Miquelon, Chade, Níger, Montserrat, Guiana, Haiti, Gâmbia, Guam, Guiné, Gabão, Granada, Gibraltar, Guernsey, Libéria, Micronésia, Ilhas Malvinas, Dominica, Djibuti, Congo (DRC),  Ilhas Virgens Americanas, Venezuela, Santa Sé (Cidade do Vaticano), Ucrânia, Uganda, Uzbequistão, Estados Unidos, Uruguai, Tanzânia, Taiwan, Trinidad e Tobago, Turquia, Tunísia, Tonga, Timor-Leste, Turquemenistão, Tajiquistão, Tailândia, Togo, El Salvador, Ilhas Sint Maarten, Turcas e Caicos, Suriname, Singapura, Eslovénia, San Marino, Senegal, Eslováquia, Suécia, Seychelles, Arábia© Saudita,  Território Palestiniano, Ocupado, Polónia, Porto Rico, Paquistão, Peru, Panamá, Papua Nova Guiné, Polinésia Francesa, Nova Zelândia, Omã, Nepal, Países Baixos, Noruega, Nigéria, Nicarágua, Nova Caledónia, Namíbia, Moçambique, Malásia, México, Martinica, Malawi, Maldivas, Maurícia, Malta, Myanmar, Sar, Macau, Mongólia, Mali, Madagáscar, Ilhas Marshall, Macedónia, FYRO, Montenegro, Saint  Sri Lanka, Ilhas Caimão, Liechtenstein, Laos, Cazaquistão, Kuwait, Coreia, Comores, Camboja, São Cristóvão e Nevis, Quénia, Quirguistão, Japão, Jordânia, Jamaica, Jersey, Itália, Islândia, Iraque, Irlanda, Índia, Indonésia, Ilha de Man, Honduras, Israel, Hungria, Hong Kong SAR, Croácia, Guatemala, Grécia, Guadalupe, Guiana Francesa, Gronelândia, Gana, Ilhas Faroe, Reino Unido  Equador, República Dominicana, Argélia, Alemanha, Dinamarca, Chipre, República Checa, Curaãis, Cabo Verde, Costa Rica, Chile, Camarões, Colômbia, CÃ'te dâ€™Ivoire, Canadá, Suíça, Belize, Bielorrússia, Botsuana, Butão, Bahamas, Bonaire, Sint Eustatius e Saba, Brasil, Benin, Brunei, Bermudas, Bolívia, Bélgica, Bulgária, Bahrein, Burundi, Bósnia e Herzegovina,  Albânia, Anguilla, Andorra, Emirados Árabes Unidos, Antígua e Barbuda
 
 ### <a name="next-steps"></a>Passos Seguintes
 
-- A oferta promocional estará disponível na lista oficial de preços base de licença do CSP Partner Center e matriz de lista de ofertas.
+- A oferta promocional estará disponível na lista oficial de preços base de licença da CSP Partner Center e matriz de lista de ofertas.
 
 ______________
 
@@ -414,7 +414,7 @@ Parceiros Direct Bill e Fornecedores Indiretos que participam no programa CSP qu
 
 ### <a name="details"></a>Detalhes
 
-A partir de 08 de dezembro de 2020, os Parceiros podem começar a descarregar a versão do [MicrosoftPartnerCenter.NETSDK (NuGet Gallery | Microsoft.Store.PartnerCenter 1.16.3)](https://www.nuget.org/packages/Microsoft.Store.PartnerCenter/1.16.3), juntamente com [amostras](https://github.com/Microsoft/Partner-Center-DotNet-Samples)atualizadas do Centro De Parceiros SDK GitHub . Esta versão inclui atualizações aos seguintes métodos:
+A partir de 08 de dezembro de 2020, os Parceiros podem começar a descarregar a versão do [MicrosoftPartnerCenter.NETSDK (NuGet Gallery | Microsoft.Store.PartnerCenter 1.16.3)](https://www.nuget.org/packages/Microsoft.Store.PartnerCenter/1.16.3), juntamente com amostras atualizadas do Centro De Parceiros SDK [GitHub amostras](https://github.com/Microsoft/Partner-Center-DotNet-Samples). Esta versão inclui atualizações para os seguintes métodos:
  
 **SelfServePolicies - nova funcionalidade adicionada**
 
@@ -450,7 +450,7 @@ ______________
 
 A lista de preços baseada em licenças de dezembro de 2020 e a matriz da lista de ofertas têm alguns problemas.
 
-### <a name="impacted-audience"></a>Audiência Impactada 
+### <a name="impacted-audience"></a>Audiência Impacted 
 
 Todos os parceiros que transfiram através do programa Fornecedor de Soluções em Nuvem (CSP)
 
@@ -460,20 +460,20 @@ As listas de preços baseadas em licenças de dezembro e os ficheiros de matriz 
 
 #### <a name="incorrect-offers-in-the-license-based-price-list"></a>Ofertas incorretas na lista de preços baseadas em licenças
 
-As listas de preços baseadas em licenças de dezembro contêm as ofertas abaixo que não devem constar das tabelas de preços. Estas ofertas foram previamente incluídas nas tabelas de preços por engano e não deveriam ter sido publicadas. Não há nenhum horário para quando estas ofertas podem estar disponíveis. No futuro, se forem adicionados de volta, serão listados como ADS em futuras listas de preços de pré-visualização.
+As listas de preços baseadas em licenças de dezembro contêm as ofertas abaixo que não devem constar das tabelas de preços. Estas ofertas foram previamente incluídas nas tabelas de preços por engano e não deveriam ter sido publicadas. Não há um horário para saber quando estas ofertas podem estar disponíveis. No futuro, se forem adicionados de volta, serão listados como ADS em futuras listas de preços de pré-visualização.
 
    |**Nome da oferta**|**ID da oferta**|
    |-------------------|:------|
    |Dinâmica 365 Recursos Humanos (Preços Sem Fins Lucrativos)|1596fa61-7da1-4263-98f8-b27dfa4cfbb5|
    |Dinâmica 365 Recursos Humanos Anexam à Oferta Base de Dinâmica Qualificativa 365 (Preços sem fins lucrativos)|8bf0b826-e05b-45aa-9cd1-9a9f742f7731|
    |Dinâmica 365 Recursos Humanos Anexam à Qualificação Dinâmica 365 Oferta Base (Preços Sem Fins Lucrativos) (Oferta Qualificada)|f906435d-9dc9-42ba-bea6-2a2b08ca60db|
-   |Dynamics 365 Human Resources Sandbox (Preços sem fins lucrativos)|079ec5ba-d726-4384-95af-62d135c210d2|
+   |Dynamics 365 Human Resources Sandbox (Preços Sem Fins Lucrativos)|079ec5ba-d726-4384-95af-62d135c210d2|
    |Dinâmica 365 Recursos Humanos Self-Service (Preços Sem Fins Lucrativos)|931acecc-34c3-4f83-913e-c7fdbfd7e2a1|
    |Dinâmica 365 Operações – Linhas de Encomenda (Preços Sem Fins Lucrativos)|7dd6b78a-3d53-47f8-8a64-bd84609a9a70|
    
 #### <a name="incorrect-offers-in-the-offer-list-matrix"></a>Ofertas incorretas na matriz da lista de ofertas
    
-Abaixo as ofertas estavam na matriz da lista de ofertas por engano. Não estão disponíveis, ainda não há data-alvo para disponibilidade. Os parceiros devem ignorar estes itens de linha.
+Abaixo as ofertas estavam na matriz da lista de ofertas em erro. Não estão disponíveis, ainda não há data-alvo para disponibilidade. Os parceiros devem ignorar estes itens de linha.
 
    |**Nome da oferta**|**ID da oferta**|
    |-------------------|:------|
@@ -509,17 +509,17 @@ ______________
 
 A 1 de janeiro de 2021, a Microsoft começará a transitar parceiros e clientes dos EUA para um novo Microsoft 365 Voz Para Empresas com a oferta de Call Plan. Não é necessária qualquer ação de parceiro.
 
-### <a name="impacted-audience"></a>Audiência Impactada 
+### <a name="impacted-audience"></a>Audiência Impacted 
 
 Todos os parceiros que transfiram através do programa Fornecedor de Soluções em Nuvem (CSP)
 
 ### <a name="details"></a>Detalhes
 
-A Microsoft substituirá a oferta de plano Business Voice por Call nos EUA por uma nova oferta de suporte aos requisitos internos dos produtos telco. A nova oferta terá o mesmo conjunto de funcionalidades e preços. As alterações da oferta são internas para a Microsoft e não devem afetar a forma como os parceiros da CSP comercializam, vendem ou suportam a oferta business voice com o Plano de Chamada. A mudança só se aplicará a esta oferta.
+A Microsoft substituirá a oferta de plano Business Voice por Call nos EUA por uma nova oferta de suporte aos requisitos internos dos produtos telco. A nova oferta terá o mesmo conjunto de funcionalidades e preços. As alterações na oferta são internas para a Microsoft e não devem afetar a forma como os parceiros da CSP comercializam, vendem ou suportam a oferta business voice com o Plano de Chamada. A mudança só se aplicará a esta oferta.
 
 Para novas vendas, utilizará a nova oferta a partir de 1 de janeiro de 2021. A oferta antiga será substituída pela nova oferta na tabela de preços.
 
-Os clientes existentes serão automaticamente transitados para a nova oferta após a data de renovação. Não é necessária qualquer ação por parte dos parceiros e da renovação de clientes.
+Os clientes existentes serão automaticamente transitados para a nova oferta após a data de renovação. Não são necessárias medidas por parte dos parceiros e da renovação dos clientes.
 
 
 **Novos detalhes da oferta
@@ -536,34 +536,34 @@ Os clientes existentes serão automaticamente transitados para a nova oferta ap�
 
 ### <a name="next-steps"></a>Passos seguintes
 
-Familiarize-se com a lista de preços e partilhe esta informação com todos os contactos apropriados na sua organização.
+Familiarize-se com a tabela de preços e partilhe esta informação com todos os contactos apropriados na sua organização.
 
 ______________
 
-## <a name="now-live-partner-center-api-updates-and-user-interface-enhancements-for-the-education-customer-validation-process"></a><a name="1"></a>Agora ao vivo: Atualizações da API do Partner Center e melhorias na interface do utilizador para o processo de validação do cliente da Educação
+## <a name="now-live-partner-center-api-updates-and-user-interface-enhancements-for-the-education-customer-validation-process"></a><a name="1"></a>Agora em direto: Atualizações da API do Partner Center e melhorias na interface do utilizador para o processo de validação do cliente da Educação
 
 ### <a name="categories"></a>Categorias
 
 - Data: 2020-12-3
 - Capacidades
 
-### <a name="impacted-audience"></a>Audiência Impactada 
+### <a name="impacted-audience"></a>Audiência Impacted 
 
 Parceiros que vendem ofertas académicas através do programa Fornecedor de Soluções em Nuvem
 
 ### <a name="summary"></a>Resumo 
 
-A Microsoft tem confiança. Estamos empenhados em fornecer um método de validação de clientes conforme, seguro e seguro para a transação de ofertas académicas no programa Fornecedor de Soluções em Nuvem. Como parte deste compromisso, estamos a introduzir API do Partner Center e melhorias na interface do utilizador que irão adicionar clareza e visibilidade ao processo de verificação do cliente, bem como a capacidade de inserir dados mais precisos, o que irá impulsionar um melhor sucesso na verificação do cliente. 
+A Microsoft tem confiança. Estamos empenhados em fornecer um método de validação de clientes conforme, seguro e seguro para a transação de ofertas académicas no programa Fornecedor de Soluções em Nuvem. Como parte deste compromisso, estamos a introduzir a API do Partner Center e melhorias na interface do utilizador que irão adicionar clareza e visibilidade ao processo de verificação do cliente, bem como a capacidade de inserir dados mais precisos, o que irá impulsionar um melhor sucesso na verificação do cliente. 
 
-**Melhorias do Partner Center** 
+**Melhorias do Centro de Parceiros** 
 
-- Novas APIs de Qualificações GET e POST para suportar a entrada precisa de dados e melhorar o processo de validação do cliente de Educação pela Microsoft. 
+- Novas APIs de Qualificações GET e POST para suportar a entrada precisa de dados e melhorar o processo de validação do cliente da Educação pela Microsoft. 
 
 - Melhorias na interface do utilizador para suportar a entrada precisa de dados e melhorar o processo de validação do cliente da Educação pela Microsoft. 
 
-**Depreciação das APIs de qualificação get e PUT existentes** 
+**Depreciação das APIs de qualificação get e put existentes** 
 
-As APIs de Qualificação GET e PUT existentes reformar-se-ão **antes do final de fevereiro de 2021**. Nessa altura, terá de fazer a transição para as novas APIs do GET e do POST Partner Center para poder comprar ofertas de Educação.  
+As APIs de Qualificação GET e PUT existentes reformar-se-ão **antes do final de fevereiro de 2021**. Nessa altura, terá de se ter transitado para as novas APIs do Get and POST Partner Center para poder comprar ofertas de Educação.  
 
 **Teste** 
 
@@ -571,9 +571,9 @@ Para obter uma melhor compreensão das APIs e entrada de dados necessária para 
 
 **Clientes da Biblioteca e museu** 
 
-Para além das melhorias acima referidas, estamos entusiasmados por anunciar que vamos permitir ofertas académicas para clientes de Bibliotecas e Museus, expandindo os clientes de Educação com os quais pode transacionar ofertas de CSP. 
+Para além das melhorias acima referidas, estamos entusiasmados por anunciar que vamos permitir ofertas académicas para clientes de Bibliotecas e Museus, expandindo os clientes de Educação com quem pode transacionar ofertas de CSP. 
 
-A Microsoft reserva-se o direito de rever o estado de qualquer cliente ou cliente proposto como utilizador educacional qualificado. Consulte os [Requisitos de Utilização académica qualificada](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7) para a educação para obter todos os detalhes. 
+A Microsoft reserva-se o direito de rever o estado de qualquer cliente ou cliente proposto como utilizador educacional qualificado. Consulte os [Requisitos de Utilização Académica Qualificada](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7) para a Educação para obter todos os detalhes. 
 
 ### <a name="next-stepsadditional-resources"></a>Próximos passos/recursos adicionais
 

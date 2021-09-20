@@ -14,7 +14,7 @@ ms.sourcegitcommit: 731a5e2725a72ecdae40189a3f52ab6b4a4c8058
 ms.translationtype: MT
 ms.contentlocale: pt-PT
 ms.lasthandoff: 09/20/2021
-ms.locfileid: "128007240"
+ms.locfileid: "128031260"
 ---
 # <a name="use-partner-center-to-apply-for-advanced-specializations-and-check-their-status"></a>Use o Partner Center para solicitar especializações avançadas e verificar o seu estado
 
