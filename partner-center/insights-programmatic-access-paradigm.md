@@ -8,12 +8,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.date: 07/14/2021
-ms.openlocfilehash: 1a06da353c8069d15d597faeaaf8700df5f62fd1
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: 304607b5d79b0ad8a07c3efe690ccb7feef83331
+ms.sourcegitcommit: 8d5c2463fc0f0c03972a6f89d01605421288daea
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960829"
+ms.lasthandoff: 09/19/2021
+ms.locfileid: "128001698"
 ---
 # <a name="programmatic-access-paradigm"></a>Paradigma de acesso programático
 
@@ -24,9 +24,9 @@ Este diagrama mostra o padrão de chamada da API usado para criar um novo modelo
 
 Esta lista fornece mais detalhes sobre a Figura 1.
 
-1. A Aplicação do Cliente pode definir o esquema/modelo de relatório personalizado, chamando a [API de Consulta de Relatório de Criação](#create-report-query-api). Alternadamente, pode escolher um modelo de relatório (QueryId) a partir das amostras da biblioteca do modelo de relatório listadas [aqui.](insights-programmatic-system-queries.md)
+1. A Aplicação do Cliente pode definir o esquema/modelo de relatório personalizado, chamando a [API de Consulta de Relatório de Criação.](#create-report-query-api) Em alternativa, pode escolher um modelo de relatório (QueryId) a partir das amostras da biblioteca do modelo de relatório na [Lista de consultas do sistema para acesso programático de insights](insights-programmatic-system-queries.md)de parceiros .
 2. No sucesso, a API de Consulta de Relatório de Criação devolve o QueryId.
-3. A aplicação do cliente precisa então de ligar para a [API do Relatório de Criação](#create-report-api) utilizando o QueryId juntamente com a data de início do relatório, Repeat Interval, Recorrence e um URI de retorno opcional.
+3. A aplicação do cliente precisa então de ligar para a [API do Relatório de Criação](#create-report-api) utilizando o QueryId juntamente com a data de início do relatório, Repetição de Intervalo, Reincidência e um URI de retorno opcional.
 4. Sobre o Sucesso, a [API do Relatório de Criação](#create-report-api) devolve o ReportId.
 5. A aplicação do cliente é notificada no URL de retorno assim que os dados do relatório estiverem prontos para download.
 6. A aplicação do cliente utiliza então a [API get report execuções](#get-report-execution-api) para consultar o estado do relatório com o ID do relatório e o intervalo de data.
@@ -34,13 +34,13 @@ Esta lista fornece mais detalhes sobre a Figura 1.
 
 ## <a name="report-query-language-specification"></a>Especificação da linguagem de consulta de relatório
 
-Enquanto fornecemos [consultas de sistema](insights-programmatic-system-queries.md) que pode usar para criar relatórios, também pode criar as suas próprias consultas com base nas necessidades do seu negócio. Para saber mais sobre consultas personalizadas, consulte [Especificação de Consulta Personalizada.](insights-programmatic-custom-query.md)
+Enquanto fornecemos [consultas de sistema](insights-programmatic-system-queries.md) que pode usar para criar relatórios, também pode criar as suas próprias consultas com base nas necessidades do seu negócio. Para saber mais sobre consultas personalizadas, consulte [a Especificação de Consulta Personalizada.](insights-programmatic-custom-query.md)
 
 ## <a name="create-report-query-api"></a>Criar consulta de relatório API
 
-A API ajuda a criar consultas personalizadas que definem o conjunto de dados a partir do qual as colunas e métricas precisam de ser exportadas. A API fornece a flexibilidade para criar um novo modelo de reporte baseado nas necessidades do seu negócio.  
+A API ajuda a criar consultas personalizadas que definam o conjunto de dados a partir do qual as colunas e métricas precisam de ser exportadas. A API oferece a flexibilidade para criar um novo modelo de reporte baseado nas necessidades do seu negócio.  
 
-Também pode utilizar as [consultas do sistema](insights-programmatic-system-queries.md) que fornecemos. Quando não forem necessários modelos de relatórios personalizados, pode ligar para [a API do Relatório de Criar](#create-report-api) diretamente utilizando as Consultas das consultas do sistema fornecidas.  
+Também pode utilizar as [consultas de sistema que](insights-programmatic-system-queries.md) fornecemos. Quando não são necessários modelos de relatório personalizados, pode ligar para [a API do Relatório de Criar](#create-report-api) diretamente utilizando as Consultas das consultas do sistema fornecidas.  
 
 O exemplo a seguir mostra como criar uma consulta personalizada para obter os 10 melhores clientes por receitas do mês passado.
 
@@ -53,9 +53,9 @@ O exemplo a seguir mostra como criar uma consulta personalizada para obter os 10
 
 ### <a name="request-header"></a>Cabeçalho do pedido
 
-|    Cabeçalho     |    Tipo     |    Description     |
+|    Cabeçalho     |    Tipo     |    Descrição     |
 |-------|-----|------|
-|    Autorização     |    string |Obrigatório. O Azure Ative Directory (Azure AD) de acesso. O formato é  `Bearer <token>` .|
+|    Autorização     |    string |Obrigatório. O Azure Ative Directory (Azure AD) de acesso a um token. O formato  `Bearer <token>` é.|
 |    Content-Type     |string |`Application/JSON` |
 ||||
 
@@ -83,13 +83,13 @@ Esta tabela fornece as definições-chave dos elementos na carga útil do pedido
 
 |Parâmetro|    Necessário     |    Descrição     |    Valores Permitidos     |
 |-----|    -----    |    -----    |    -----    |
-|Name |    Yes     |    Nome amigável da consulta     |    string     |
+|Name |    Sim     |    Nome amigável da consulta     |    string     |
 |    Descrição     |    Não     |    Descrição do que a consulta retorna     |    string     |
-|    Consulta     |    Yes     |    Cadeia de consulta de relatório     |    Tipo de dados: cadeia <br> [Consulta personalizada](insights-programmatic-custom-query.md) baseada na necessidade de negócio |
+|    Consulta     |    Sim     |    Cadeia de consulta de relatório     |    Tipo de dados: cadeia <br> [Consulta personalizada](insights-programmatic-custom-query.md) baseada na necessidade de negócio |
 |        |        |        |        |
 
 > [!Note]
-> Para amostras de consulta personalizada, consulte [exemplos de consultas de amostras.](insights-programmatic-sample-queries.md)
+> Para amostras de consulta personalizadas, consulte [exemplos de consultas de amostras.](insights-programmatic-sample-queries.md)
 
 ### <a name="sample-response"></a>Resposta de amostra
 
@@ -128,7 +128,7 @@ Esta tabela fornece as definições-chave dos elementos na carga útil do pedido
 |    ----    |    ----    |
 |    QueryId     |    Identificador universalmente único (UUID) da consulta que criou     |
 |    Name     |    Nome amigável dado à consulta na carga útil do pedido     |
-|    Description     |    Descrição dada durante a criação da consulta     |
+|    Descrição     |    Descrição dada durante a criação da consulta     |
 |    Consulta     |    Consulta de relatório passada como entrada durante a criação de consulta     |
 |    Tipo     |    Definir para `userDefined`     |
 |    Utilizador     |    ID do utilizador usado para criar a consulta     |
@@ -140,22 +140,22 @@ Esta tabela fornece as definições-chave dos elementos na carga útil do pedido
 
 ## <a name="create-report-api"></a>Criar relatório API
 
-Ao criar um modelo de relatório personalizado com sucesso e receber o QueryID como parte da resposta [Create Report Query,](#create-report-query-api) esta API pode ser chamada para agendar uma consulta a ser executada a intervalos regulares. Pode definir uma frequência e um horário para que o relatório seja entregue.
+Ao criar um modelo de relatório personalizado com sucesso e receber o QueryID como parte da resposta [Create Report Questionry,](#create-report-query-api) esta API pode ser chamada para agendar uma consulta a ser executada a intervalos regulares. Pode definir uma frequência e um horário para que o relatório seja entregue.
 Para consultas de sistema que fornecemos, a API do Relatório de Criação também pode ser chamada com [Consulta.](insights-programmatic-system-queries.md)
 
 ### <a name="callback-url"></a>URL de chamada de retorno
 
 A API do relatório de criação aceita um URL de retorno. Esta URL será chamada assim que a geração do relatório for bem sucedida. O URL de retorno deve ser acessível publicamente. Além do URL, um método de retorno também pode ser dado. O método de retorno só pode ser "GET" ou "POST". O método padrão se nenhum valor for passado será "POST". O reportId que completou a geração será sempre reensibar durante a chamada.
 
-POST callback: Se o URL passou foi `https://www.contosso.com/callback` , então o URL chamado de volta será `https://www.contosso.com/callback/<reportID>` 
+REvés: Se o URL passou `https://www.contosso.com/callback` foi, então o URL chamado de volta será `https://www.contosso.com/callback/<reportID>` 
 
 GET callback: Se o URL passou foi `https://www.contosso.com/callback` , então o URL chamado de volta será `https://www.contosso.com/callback?reportId=<reportID>` 
 
-### <a name="executenow-reports"></a>Executar Relatórios DeNow
+### <a name="executenow-reports"></a>Execute Relatórios De Agora
 
-Existe uma disposição para gerar um relatório sem agendamento. O relatório que cria a carga útil da API pode aceitar um parâmetro `ExecuteNow` , que irá encarregar o relatório a ser gerado assim que a API for chamada. Quando `ExecuteNow` é definido como verdadeiro, os campos: , são `StartTime` `RecurrenceCount` `RecurrenceInterval` ignorados porque estes relatórios não estão agendados.
+Existe uma disposição para gerar um relatório sem agendamento. O relatório que cria a carga útil da API pode aceitar um parâmetro `ExecuteNow` , que irá encadear o relatório a ser gerado assim que a API for chamada. Quando `ExecuteNow` é definido como verdadeiro, os campos: , são `StartTime` `RecurrenceCount` `RecurrenceInterval` ignorados, uma vez que estes relatórios não estão agendados.
 
-Dois campos adicionais podem ser passados quando `ExecuteNow` é verdade, `QueryStartTime` e `QueryEndTime` . Estes dois campos vão sobrepor-se `TIMESPAN` ao campo na consulta. Estes campos não são aplicáveis aos relatórios agendados, uma vez que os dados serão gerados continuamente por um período de tempo fixo que não se altere.
+Dois campos adicionais podem ser passados quando `ExecuteNow` é verdade, `QueryStartTime` e `QueryEndTime` . Estes dois campos vão sobrepor-se `TIMESPAN` ao campo na consulta. Estes campos não são aplicáveis aos relatórios agendados, uma vez que os dados serão continuamente gerados por um período de tempo fixo que não se altere.
 
 ### <a name="request-syntax"></a>Solicitar sintaxe
 
@@ -165,9 +165,9 @@ Dois campos adicionais podem ser passados quando `ExecuteNow` é verdade, `Query
 
 ### <a name="request-header"></a>Cabeçalho do pedido
 
-|    Cabeçalho     |    Tipo     |    Description     |
+|    Cabeçalho     |    Tipo     |    Descrição     |
 |-------|-----|------|
-|    Autorização     |    string |Obrigatório. O Azure Ative Directory (Azure AD) de acesso. O formato é  `Bearer <token>` .|
+|    Autorização     |    string |Obrigatório. O Azure Ative Directory (Azure AD) de acesso a um token. O formato  `Bearer <token>` é.|
 |    Content-Type     |string |`Application/JSON` |
 
 ### <a name="path-parameter"></a>Parâmetro do caminho
@@ -203,25 +203,25 @@ As definições-chave dos elementos na carga útil do pedido são articuladas ab
 
 |    Parâmetro     |    Necessário     |    Descrição     |    Valores Permitidos     |
 |    ----    |    ----    |    ----    |    ----    |
-|    Nome do relatório     |    Yes     |    Nome a atribuir ao relatório     |    string     |
+|    Nome do relatório     |    Sim     |    Nome a atribuir ao relatório     |    string     |
 |    Descrição     |    Não     |    Descrição do relatório criado     |    string     |
-|    QueryId     |    Yes     |    ID de consulta de relatório     |    string     |
-|    StartTime     |    Yes     |    Utc Timestamp em que a geração do relatório começará. <br> O formato deve ser: yyy-MM-ddTHH:mm:ssZ       |    string     |
-|    Executar Agora     |    No     |    Este parâmetro deve ser usado para criar um relatório que será executado apenas uma vez. `StartTime`, `RecurrenceInterval` e `RecurrenceCount` são ignorados se isto for verdade. O relatório é executado imediatamente de forma assíncronea     |    verdadeiro/falso     |
-|    Horário de ConsultaStart     |    No     |    Opcionalmente especifica a hora de início para a consulta extração dos dados. Este parâmetro é aplicável apenas por um relatório de execução de tempo que `ExecuteNow` se definiu como verdadeiro. Definir este parâmetro sobrepõe-se a perguntas dadas `TIMESPAN` na consulta. O formato deve ser yyy-MM-ddTHH:mm:ssZ     |    Tempotam como corda     |
-|    ConsultaEndTime     |    No     |    Opcionalmente especifica o tempo final para a consulta extração dos dados. Este parâmetro é aplicável apenas por um relatório de execução de tempo que `ExecuteNow` se definiu como verdadeiro. Definir este parâmetro sobrepõe-se a perguntas dadas `TIMESPAN` na consulta. O formato deve ser yyy-MM-ddTHH:mm:ssZ     |    Tempotam como corda     |
-|    RecorrenceInterval     |    Yes     |    Frequência em horas em que o relatório deve ser gerado. <br> O valor mínimo é 4 e o valor máximo é 2160.      |    número inteiro     |
-|    RecorrenceCount     |    No     |    Número de relatórios a serem gerados.     |    número inteiro     |
-|    Formato     |    No     |    Formato de ficheiro do ficheiro exportado. <br> O padrão é CSV.    |    "CSV"/"TSV"     |
-|    CallbackUrl     |    No     |    URL acessível publicamente que pode ser configurado opcionalmente como destino de retorno     |    String (http URL)     |
-|    CallbackMethod     |    No     |    O método a ser usado para o retorno     |    GET/POST     |
+|    QueryId     |    Sim     |    ID de consulta de relatório     |    string     |
+|    StartTime     |    Sim     |    Utc Timestamp em que a geração do relatório começará. <br> O formato deve ser: yyy-MM-ddTHH:mm:ssZ       |    string     |
+|    Executar Agora     |    Não     |    Este parâmetro deve ser usado para criar um relatório que será executado apenas uma vez. `StartTime`, `RecurrenceInterval` e `RecurrenceCount` são ignorados se isto for verdade. O relatório é executado imediatamente de forma assíncronea     |    verdadeiro/falso     |
+|    Horário de ConsultaStart     |    Não     |    Opcionalmente especifica a hora de início para a consulta extraindo os dados. Este parâmetro é aplicável apenas para relatórios de execução únicos que `ExecuteNow` definiram como verdadeiro. Definir este parâmetro sobrepõe-se `TIMESPAN` na consulta. O formato deve ser yyy-MM-ddTHH:mm:ssZ     |    Tempotampia como corda     |
+|    ConsultaEndTime     |    Não     |    Opcionalmente especifica o tempo final para a consulta extração dos dados. Este parâmetro é aplicável apenas por um relatório de execução de tempo que `ExecuteNow` se definiram como verdadeiro. Definir este parâmetro sobrepõe-se `TIMESPAN` na consulta. O formato deve ser yyy-MM-ddTHH:mm:ssZ     |    Tempotampia como corda     |
+|    RecorrenceInterval     |    Sim     |    Frequência em horas em que o relatório deve ser gerado. <br> O valor mínimo é 4 e o valor máximo é 2160.      |    número inteiro     |
+|    RecorrenceCount     |    Não     |    Número de relatórios a serem gerados.     |    número inteiro     |
+|    Formato     |    Não     |    Formato de ficheiro do ficheiro exportado. <br> O padrão é CSV.    |    "CSV"/"TSV"     |
+|    CallbackUrl     |    Não     |    URL acessível publicamente que pode ser configurado opcionalmente como destino de retorno     |    String (http URL)     |
+|    CallbackMethod     |    Não     |    O método a ser usado para o retorno     |    GET/POST     |
 |        |        |        |        |
 
 ### <a name="sample-response"></a>Resposta de amostra
 
 A carga útil de resposta é estruturada da seguinte forma:
 
-Códigos de Resposta: 200, 400, 401, 403, 404,500
+Códigos de Resposta: 200, 400, 401, 403, 404.500
 
 Exemplo de carga útil de resposta:
 
@@ -263,23 +263,23 @@ As definições-chave dos elementos na resposta são articuladas abaixo:
 |    ----    |    ----    |
 |    ReportId     |    Identificador universalmente único (UUID) do relatório que criou     |
 |    Nome do relatório     |    Nome dado ao relatório na carga útil do pedido     |
-|    Description     |    Descrição dada durante a criação do relatório     |
-|    QueryId     |    Consulta ID passou no momento em que criou o relatório     |
+|    Descrição     |    Descrição dada durante a criação do relatório     |
+|    QueryId     |    ID de consulta passou no momento em que criou o relatório     |
 |    Consulta     |    Texto de consulta que será executado para este relatório     |
 |    Utilizador     |    ID do utilizador usado para criar o relatório     |
-|    CreatedTime     |    TEMPO UTC O relatório foi criado neste formato: yyyy-MM-ddTHH:mm:ssZ     |
+|    CreatedTime     |    UTC Tempo o relatório foi criado neste formato: yyyy-MM-ddTHH:mm:ssZ     |
 |    ModifiedTime     |    UTC Tempo o relatório foi modificado pela última vez neste formato: yyyy-MM-ddTHH:mm:ssZ     |
 |    Executar Agora     |    `ExecuteNow` bandeira definida no momento em que o relatório foi criado     |
-|    StartTime     |    UTC Tempo a execução do relatório começará neste formato: yyyy-MM-ddTHH:mm:ssZ     |
+|    StartTime     |    TEMPO UTC a execução do relatório começará neste formato: yyyy-MM-ddTHH:mm:ssZ     |
 |    Relatório Estatísticas     |    Estado da execução do relatório. Os valores possíveis `Paused` `Active` são, e `Inactive`     |
 |    RecorrenceInterval     |    Intervalo de recorrência fornecido durante a criação do relatório     |
 |    RecorrenceCount     |    Contagem de recorrência fornecida durante a criação do relatório.      |
 |    CallbackUrl     |    URL de retorno fornecido no pedido     |
-|    CallbackMethod     |    Método de retorno fornecido no pedido     |
+|    CallbackMethod     |    Método de chamada fornecido no pedido     |
 |    Formato     |    Formato dos ficheiros do relatório. Os valores possíveis são `CSV` ou `TSV` .     |
 |    TotalCount     |    Número de registos na matriz de valor     |
 |    Código de Estado     |    Código do Resultado     |
-|    message     |    Os valores possíveis são 200, 400, 401, 403, 500. Mensagem de estado da execução da API     |
+|    message     |    Os valores possíveis são 200, 400, 401, 403,500. Mensagem de estado da execução da API     |
 |        |        |
 
 ## <a name="get-report-execution-api"></a>Obtenha relatório execução API
@@ -287,7 +287,7 @@ As definições-chave dos elementos na resposta são articuladas abaixo:
 Pode utilizar este método para consultar o estado de execução de um relatório utilizando o RelatórioId recebido da API do [Relatório de Criação](#create-report-api). O método devolve o link de descarregamento do relatório se o relatório estiver pronto para download. Caso contrário, o método devolve o estado. Você também pode usar esta API para obter todas as execuções que aconteceram para um dado relatório.  
 
 >[!IMPORTANT]
->Esta API tem parâmetros de consulta predefinidos definidos para `executionStatus=Completed` e `getLatestExecution=true` . Por isso, chamar a API antes da primeira execução bem sucedida do relatório devolverá 404. Execuções pendentes podem ser obtidas por definição `executionStatus=Pending` .
+>Esta API tem parâmetros de consulta predefinidos definidos para `executionStatus=Completed` e `getLatestExecution=true` . Assim, chamar a API antes da primeira execução bem sucedida do relatório devolverá 404. Execuções pendentes podem ser obtidas por definição `executionStatus=Pending` .
 
 ### <a name="request-syntax"></a>Solicitar sintaxe
 
@@ -297,25 +297,25 @@ Pode utilizar este método para consultar o estado de execução de um relatóri
 
 ### <a name="request-header"></a>Cabeçalho do pedido
 
-|    Cabeçalho     |    Tipo     |    Description     |
+|    Cabeçalho     |    Tipo     |    Descrição     |
 |-------|-----|------|
-|    Autorização     |    string |Obrigatório. O Azure Ative Directory (Azure AD) de acesso. O formato é  `Bearer <token>` .|
+|    Autorização     |    string |Obrigatório. O Azure Ative Directory (Azure AD) de acesso a um token. O formato  `Bearer <token>` é.|
 |    Content-Type     |string |`Application/JSON` |
 
 ### <a name="path-parameter"></a>Parâmetro do caminho
 
-|    Nome do Parâmetro    |    Necessário    |    Tipo    |    Description    |
+|    Nome do Parâmetro    |    Necessário    |    Tipo    |    Descrição    |
 |    ----    |    ----    |    ----    |    ----    |
-|    reportId    |    Yes    |    string    |    Filtrar para obter detalhes de execução de apenas relatórios com o relatório Dado neste argumento. Vários reportIds podem ser especificados separando-os com um ponto e vírgula ";".    |
+|    reportId    |    Yes    |    string    |    Filtrar para obter detalhes de execução de apenas relatórios com o relatório Dado neste argumento. Vários reportÍdeos podem ser especificados separando-os com um ponto e vírgula ";".    |
 |        |        |        |        |
 
 ### <a name="query-parameter"></a>Parâmetro de consulta
 
-|    Nome do Parâmetro    |    Necessário    |    Tipo    |    Description    |
+|    Nome do Parâmetro    |    Necessário    |    Tipo    |    Descrição    |
 |    ----    |    ----    |    ----    |    ----    |
-|    execuçãoId    |    No    |    string    |    Filtre para obter detalhes de apenas relatórios com a execuçãoId dado neste argumento. Execuções múltiplas podem ser especificadas separando-as com um ponto e vírgula ";".    |
-|    execuçãoStatus    |    No    |    Corda/enum    |    Filtre para obter detalhes de apenas relatórios com a execuçãoStatus dada neste argumento. <br> Os valores válidos são: `Pending` `Running` `Paused` `Completed` e. <br> O valor predefinido é `Completed`. <br> Vários estados podem ser especificados separando-os com um ponto e vírgula ";".    |
-|    obterExecução de Pré-executivos    |    No    |    boolean    |    A API devolverá detalhes da última execução. Por padrão, este parâmetro é definido como verdadeiro.<br> Se optar por passar o valor deste parâmetro como falso, então a API devolverá os últimos 90 dias de execução.    |
+|    execuçãoId    |    No    |    string    |    Filtrar para obter detalhes de apenas relatórios com a execuçãoId dada neste argumento. Execuções múltiplas podem ser especificadas separando-as com um ponto e vírgula ";".    |
+|    execuçãoStatus    |    Não    |    Corda/enum    |    Filtre para obter detalhes de apenas relatórios com a execuçãoStatus dado neste argumento. <br> Valores válidos são: `Pending` `Running` , , e `Paused` `Completed` . <br> O valor predefinido é `Completed`. <br> Vários estados podem ser especificados separando-os com um ponto e vírgula ";".    |
+|    obterExecução de Testes    |    Não    |    boolean    |    A API devolverá detalhes da última execução. Por padrão, este parâmetro é definido como verdadeiro.<br> Se optar por passar o valor deste parâmetro como falso, então a API devolverá os últimos 90 dias de execução.    |
 |        |        |        |        |
 
 ### <a name="sample-request-payload"></a>Carga de pedido de amostra
@@ -326,7 +326,7 @@ Nenhuma
 
 A carga útil de resposta é estruturada da seguinte forma:
 
-Códigos de Resposta: 200, 400, 401, 403, 404,500
+Códigos de Resposta: 200, 400, 401, 403, 404.500
 
 Exemplo de carga útil de resposta:
 
@@ -371,8 +371,8 @@ Definições-chave de elementos na resposta.
 |    CallbackUrl    |    URL de retorno associado à instância de execução    |
 |    CallbackMethod    |    Método de retorno associado à instância de execução    |
 |    Formato    |    Formato do ficheiro gerado no final da execução    |
-|    ExecuçãoStatus    |    Estado da instância de execução do relatório. <br> Valores válidos são: `Pending` `Running` , e `Paused``Completed`    |
-|    ReportAccessSecureLink    |Link através do qual o relatório pode ser acedido de forma segura        |
+|    ExecuçãoStatus    |    Estado da instância de execução do relatório. <br> Valores válidos são: `Pending` `Running` , , `Paused` e `Completed`    |
+|    RelatórioAccessSecureLink    |Link através do qual o relatório pode ser acedido de forma segura        |
 |    ReportExpiryTime    |    Tempo UTC após o qual a ligação de relatório expirará neste formato: yyyy-MM-ddTHH:mm:ssZ    |
 |    ReportGeneratedTime    |    Tempo UTC em que o relatório foi gerado neste formato: yyyy-MM-ddTHH:mm:ssZ    |
 |    TotalCount    |    Número de conjuntos de dados na matriz de valor    |
@@ -382,5 +382,5 @@ Definições-chave de elementos na resposta.
 
 ## <a name="next-steps"></a>Passos seguintes
 
-- Experimente as APIs através do [URL da API](https://api.partnercenter.microsoft.com/insights/v1/mpn/swagger/index.html)
-- [Faça a sua primeira chamada API](insights-programmatic-first-api-call.md)
+- Experimente as APIs através do [URL da API swagger](https://api.partnercenter.microsoft.com/insights/v1/mpn/swagger/index.html)
+- [Faça a sua primeira chamada API] (insights-programmatic-first-api-call.md

@@ -9,11 +9,11 @@ ms.author: parthp
 ms.custom: seodec18
 ms.date: 06/12/2020
 ms.openlocfilehash: 4b913754dd73f99e8aa363d257a9ac658d190b6a
-ms.sourcegitcommit: 90c87bd5e63a8af932ece5696267ea715fea6a01
+ms.sourcegitcommit: 731a5e2725a72ecdae40189a3f52ab6b4a4c8058
 ms.translationtype: MT
 ms.contentlocale: pt-PT
 ms.lasthandoff: 09/19/2021
-ms.locfileid: "127962548"
+ms.locfileid: "127987606"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>Unir a sua conta de parceiro com outra conta de parceiro
 
