@@ -10,13 +10,13 @@ ms.custom:
 - announcement
 - references_regions
 ms.localizationpriority: high
-ms.date: 09/13/2021
-ms.openlocfilehash: f34234bebb8353315029eaab76aa52cb30df6e6a
-ms.sourcegitcommit: 847ad384d44a5a673791cb2950af02225d8174c9
+ms.date: 09/16/2021
+ms.openlocfilehash: aa7276cb39febbd9d30f89f7d4bc53a8fd20038f
+ms.sourcegitcommit: 731a5e2725a72ecdae40189a3f52ab6b4a4c8058
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/17/2021
-ms.locfileid: "127906316"
+ms.lasthandoff: 09/20/2021
+ms.locfileid: "128007184"
 ---
 # <a name="september-2021-announcements"></a>Anúncios de setembro de 2021
 
@@ -196,6 +196,33 @@ Parceiros de conta direta da CSP e fornecedores indiretos
 
 A Microsoft tem confiança. Estamos empenhados em fornecer um método compatível, seguro e seguro de validar o nome da empresa do cliente e informações de endereço de e-mail. A partir de 22 de setembro de 2021, estaremos a atualizar as validações de email e nome da empresa. Para obter informações adicionais, consulte [Como adicionar um novo registo de clientes](../add-a-new-customer.md).
 
+#### <a name="new-rules-for-company-name-and-email-address"></a>Novas regras para nome da empresa e endereço de e-mail
+
+A partir de 22 de setembro de 2021, aplicar-se-ão as seguintes novas regras de validação.
+
+Ao introduzir um nome de empresa, não será permitido o seguinte:
+
+- Usando apenas um personagem.
+- Utilizando apenas caracteres especiais, tais como &$^# (ver [tabela).](../add-a-new-customer.md#table-of-special-characters)
+- Utilização apenas de espaços e/ou separadores.
+- Utilizando abreviaturas autónomas da lista restrita, tais como LLC, Inc, etc. (ver [tabela).](../add-a-new-customer.md#table-of-abbreviations)
+- Utilizando nomes com extensões de Domínio Top-Level internet (TDL), tais como ".com", ".org", ".edu", ".club", etc. (ver [tabela).](../add-a-new-customer.md#table-of-top-level-domain-extensions)
+- Usando o mesmo personagem repetido três ou mais vezes sem outros caracteres, como 999.
+- Utilizando espaços e/ou separadores misturados com caracteres individuais, tais como 1 2 3.
+
+Ao introduzir um endereço de e-mail do cliente, não será permitido o seguinte:
+- O endereço de e-mail não pode @microsoft.com conter.
+- O endereço de e-mail do cliente não pode conter o mesmo nome de domínio que o parceiro. Por exemplo, um parceiro chamado ABC não pode criar um e-mail de cliente com @abc.com .
+
+Mais detalhes podem ser encontrados durante o webinar EAP:
+- Deck: [https://www.yammer.com/cloudpartnercommunity/#/files/1094484746240](https://www.yammer.com/cloudpartnercommunity/#/files/1094484746240)
+
+- Gravação: [https://www.yammer.com/cloudpartnercommunity/#/files/1094484361216](https://www.yammer.com/cloudpartnercommunity/#/files/1094484361216)
+ 
+#### <a name="partner-and-customer-impact"></a>Parceiro e Impacto do Cliente
+
+Os parceiros não poderão criar clientes a menos que cumpram as regras acima referidas a partir de 22 de setembro.
+
 _____________
 
 ## <a name="readiness-dual-mode-attestation-and-additional-reseller-declaration"></a><a name="7"></a>Prontidão: Atestado de modo duplo e declaração adicional do revendedor
@@ -213,7 +240,7 @@ Também pedimos a todos os parceiros que transacionam nos países da UE/EFTA que
 
 ### <a name="impacted-audience"></a>Audiência impactada
 
-Parceiros de conta direto da CSP e fornecedores indiretos que são parceiros diretos e indiretos
+CSP prestadores indiretos que são parceiros diretos e indiretos
 
 Parceiros indiretos que transacionam nos países da UE/EFTA
 
@@ -222,6 +249,14 @@ Parceiros indiretos que transacionam nos países da UE/EFTA
 A Microsoft tem confiança. Estamos empenhados em fornecer um método compatível, seguro e seguro para a transação de subscrições de clientes no programa CSP.
 
 A partir de 7 de setembro de 2021, vamos abrir um piloto para os parceiros terem a oportunidade de testar contra novos requisitos de atestado e alterações adicionais de revendedores (apenas UE/EFTA) que ocorram nas APIs Create Cart, Update Cart e Create Order. Por favor, note que estas alterações irão quebrar as experiências existentes para estas APIs. Por conseguinte, é fortemente avisado que os parceiros aproveitem a oportunidade para participar no piloto antes do lançamento completo em dezembro.
+
+#### <a name="partner-and-customer-impact"></a>Parceiro e Impacto do Cliente
+
+- BREAKING CHANGE: Os parceiros indiretos não poderão concluir as compras sem primeiro atestar que atuam como parceiros diretos ou indiretos
+- Os parceiros da UE/EFTA não estarão em conformidade com os regulamentos da UE se não declararem e incluírem quaisquer revendedores adicionais envolvidos na operação
+- Mais detalhes podem ser encontrados durante o webinar EAP: 
+- Deck: [https://www.yammer.com/cloudpartnercommunity/#/files/1094484746240](https://www.yammer.com/cloudpartnercommunity/#/files/1094484746240)
+- Gravação: [https://www.yammer.com/cloudpartnercommunity/#/files/1094484361216](https://www.yammer.com/cloudpartnercommunity/#/files/1094484361216)
 
 As seguintes API's serão impactadas e os detalhes foram partilhados e atualizados em conformidade:
 

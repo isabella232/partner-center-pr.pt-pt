@@ -9,18 +9,18 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/02/2021
-ms.openlocfilehash: d03bbc6c48f7048dd111a7b83210d11c5c266977
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: e1876e396161334153875e4d92e55ab9f75ede5e
+ms.sourcegitcommit: 731a5e2725a72ecdae40189a3f52ab6b4a4c8058
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126246473"
+ms.lasthandoff: 09/20/2021
+ms.locfileid: "128007195"
 ---
 # <a name="march-2021-announcements"></a>Anúncios de março de 2021
 
 Esta página fornece os anúncios para o Microsoft Partner Center para março de 2021.
 
-## <a name="readiness-changes-to-the-cloud-solution-provider-csp-customer-address-validation-api-going-live-in-june-testing-capability-now-available"></a><a name="19"></a>Prontidão: Alterações à validação do endereço do cliente Fornecedor de Soluções em Nuvem (CSP) A API vai em direto em junho; capacidade de teste agora disponível
+## <a name="readiness-changes-to-the-cloud-solution-provider-csp-customer-address-validation-api-going-live-in-june-testing-capability-now-available"></a><a name="19"></a>Prontidão: Alterações à validação do endereço do cliente Fornecedor de Soluções em Nuvem (CSP) A API vai para o ar em junho; capacidade de teste agora disponível
 
 ### <a name="categories"></a>Categorias
 
@@ -49,14 +49,14 @@ A resposta devolverá uma das seguintes mensagens de estado:
 |Verificado | O endereço está verificado. | Único |
 |Interação necessária | O endereço sugerido foi alterado significativamente e precisa de confirmação do utilizador. | Único |
 |Parcial de rua | A rua dada no endereço é parcial e precisa de mais informações. | Múltiplos — máximo de três |
-|Instalações parciais | As instalações dadas (número de edifício, número de suite, entre outras) são parciais e precisam de mais informações. | Múltiplos — máximo de três |
+|Instalações parciais | As instalações dadas (número de construção, número de suite, entre outras) são parciais e precisam de mais informações. | Múltiplos — máximo de três |
 |Vários | Existem vários campos que são parciais no endereço (potencialmente também incluindo a parcial da rua e as instalações parciais). | Múltiplos — máximo de três |
 |Nenhuma | O endereço está incorreto. | Nenhuma |
 |Não validado | O endereço não pôde ser enviado através do processo de validação. | Nenhuma |
 
 Os códigos postais dos EUA devolverão mais 4 dígitos + hífen - por exemplo, 12345-6789.
 
-Uma vez que um endereço é submetido para validação através da API de Endereço Validado, o seguinte esquema de resposta será devolvido:
+Uma vez que um endereço é submetido para validação através da API de Endereço Validado, será devolvido o seguinte esquema de resposta:
 
 ```csharp
 
@@ -124,7 +124,7 @@ Dê uma olhada nesta resposta da amostra. Note que para os EUA, a resposta devol
 
 ### <a name="next-steps"></a>Passos seguintes
 
-- Partilhe o seu ID do inquilino da caixa de areia com o especialista em assuntos (Ali Khaki) a ser incluído no voo de teste, para que possa começar a preparar-se para a atualização.
+- Partilhe o seu ID do inquilino da caixa de areia com o especialista em assuntos (Ali Khaki) a incluir no voo de teste, para que possa começar a preparar-se para a atualização.
 
 - Se estiver a utilizar uma solução de fornecedor de painéis de controlo (CPV), consulte o seu CPV.
 
@@ -132,7 +132,7 @@ Dê uma olhada nesta resposta da amostra. Note que para os EUA, a resposta devol
 
 Se precisar de apoio para as suas operações com a Microsoft, contacte o seu parceiro Yammer grupo.
 
-### <a name="change-log"></a>Registo de alteração:
+### <a name="change-log"></a>Alterar registo:
 
 - 31 de março de 2020: Publicação original
 
@@ -162,7 +162,7 @@ Esta nova experiência está atualmente disponível como pré-visualização, e 
 
 Os benefícios do novo CEA incluem:
 
-- Informações adicionadas, relatórios e mecanismos de alerta para problemas relacionados com o fluxo de correio. 
+- Adicionou insights, relatórios e mecanismos de alerta para problemas relacionados com o fluxo de correio. 
 
 - Dashboards personalizados para aumentar a produtividade.
 
@@ -199,13 +199,13 @@ Fornecedor de Soluções em Nuvem parceiros (CSP)
 
 ### <a name="details"></a>Detalhes
 
-A Microsoft está empenhada em melhorar continuamente as experiências dos parceiros. Recebemos comentários seus de que tem recebido demasiadas comunicações da Microsoft, incluindo anúncios duplicados para lançamentos de produtos.
+A Microsoft está empenhada em melhorar continuamente as experiências de parceiros. Recebemos comentários seus de que tem recebido demasiadas comunicações da Microsoft, incluindo anúncios duplicados para lançamentos de produtos.
 
-Em resposta ao seu feedback, a Microsoft dinamizou a experiência de prontidão para lançamentos de produtos para novas ofertas existentes.
+Em resposta ao seu feedback, a Microsoft dinamizou a experiência de prontidão para lançamentos de produtos para novas e existentes ofertas.
 
 Disponibilizamos-lhe agora uma única visão mensal dos lançamentos de produtos, publicada na galeria de recursos de prontidão operações. Esta [visão](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/) mensal do calendário de lançamento do produto substituirá as comunicações individuais de lançamento de produtos na galeria de recursos de prontidão de Operações e nos anúncios do Partner Center.
 
-Você também pode acessá-lo calendário de [lançamento](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/) de produtos a partir de [coleções comunitárias, vistas](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/) [de calendário](https://partner.microsoft.com/resources/assets#/?type=collection&search=Calendar&sort=updated)e [newsletters CSP.](https://partner.microsoft.com/resources/collection/csp-monthly-update#/) Iremos notificá-lo quando publicarmos o calendário de lançamento de produtos de cada mês com um anúncio na galeria de recursos de prontidão opera.
+Você também pode acessá-lo calendário de [lançamento](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/) de produtos a partir de [coleções comunitárias, vistas](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/) [de calendário](https://partner.microsoft.com/resources/assets#/?type=collection&search=Calendar&sort=updated)e [newsletters CSP.](https://partner.microsoft.com/resources/collection/csp-monthly-update#/) Iremos notificá-lo quando publicarmos o calendário de lançamento de produtos mensais com um anúncio na galeria de recursos de prontidão opera.
 
 Você ainda pode encontrar informações sobre ofertas novas e existentes na lista de preços pré-visualização e registos de alteração de lista de preços, bem como em blogs de produtos, guias de licenciamento e páginas de marketing de produtos.
 
@@ -230,7 +230,7 @@ Reveja os recursos sobre este tema e partilhe esta informação com as partes in
 Para mais perguntas sobre estas ofertas, consulte as suas comunidades Yammer relevantes.
 
 ________________
-## <a name="changes-to-csp-customer-onboarding-requirements"></a><a name="16"></a>Alterações aos requisitos de embarque do cliente CSP
+## <a name="changes-to-csp-customer-onboarding-requirements"></a><a name="16"></a>Alterações nos requisitos de embarque do cliente CSP
 
 ### <a name="categories"></a>Categorias
 
@@ -239,7 +239,7 @@ ________________
 
 ### <a name="summary"></a>Resumo
 
-Como parte do nosso compromisso de ajudar parceiros e clientes a gerir o seu negócio com base na confiança, vamos solicitar informações adicionais ao cliente, a partir de 25 de março de 2021.
+Como parte do nosso compromisso de ajudar parceiros e clientes a gerir o seu negócio com base na confiança, solicitaremos informações adicionais ao cliente, a partir de 25 de março de 2021.
 
 ### <a name="impacted-audience"></a>Audiência impactada
 
@@ -269,7 +269,7 @@ A Microsoft tem confiança. Estamos empenhados em fornecer um método de valida�
 
 Os parceiros que satisfaçam os critérios terão de submeter o **ID** de registo da empresa de um cliente (também conhecido como organização do cliente **INN)** e o número de **telefone** quando estiverem a bordo de novos clientes ou modificar os dados do cliente existentes. Estes parceiros também podem introduzir um **nome do meio** opcional para o cliente.
 
-Note que quando adicionar o ID de registo da sua empresa deve usar o seu ID de imposto de negócio e não o ID pessoal do cliente.
+Note que ao adicionar o ID de registo da sua empresa deve usar o seu ID de imposto de negócio e não o ID pessoal do cliente.
 
 Os parceiros que fazem negócios com clientes novos ou já existentes nos seguintes países já foram a bordo com um lançamento anterior em novembro de 2020.
 
@@ -289,7 +289,7 @@ Os parceiros com clientes no resto do mundo terão a capacidade, no dia 25 de ma
 
 ### <a name="next-steps"></a>Passos seguintes
 
-- Reveja a documentação técnica e questione frequentemente na [coleção de parceiros dedicados](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) para obter uma orientação mais detalhada.
+- Reveja a documentação técnica e as perguntas frequentes na [coleção de parceiros dedicados](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) para obter uma orientação mais detalhada.
 
 - Prepare-se para incorporar as alterações utilizando a API do Partner Center e a experiência do utilizador web. A API/SDKs estará disponível para testes.
 
@@ -313,15 +313,15 @@ ________________
 
 ### <a name="impacted-audience"></a>Audiência impactada
 
-Fornecedores indiretos e parceiros de conta direta que transfiram software perpétuo no programa Fornecedor de Soluções em Nuvem 
+Fornecedores indiretos e parceiros de conta direto que transfiram software perpétuo no programa Fornecedor de Soluções em Nuvem 
 
 ### <a name="details"></a>Detalhes
 
-A lista de preços do software perpétuo publicada a 1 de março de 2021 incluía mercados que não deveriam ter estado lá. A lista de preços perpétuos de software foi atualizada em 17 de março de 2021 com as correções. Estas correções só se aplicavam:
+A lista de preços do software perpétuo publicada a 1 de março de 2021 incluía mercados que não deveriam ter estado lá. A lista de preços perpétuos de software foi atualizada em 17 de março de 2021 com as correções. Estas correções só eram aplicáveis:
 
 - ID do produto: DF77X4D43RKT 
 - Nome do produto: Windows 10 Home para Pro atualização para Microsoft 365 Negócios
-- Mercados removidos ou não apoiados: AE, AF, AL, AM, AO, BA, BB, BD, BH, BM, BN, BO, BR, BS, BW, BY, BZ, CI, CL, CM, CO, CR, CW, DO, DZ, EC, EG, ET, FJ, FO, GE, GH, GT, HN, IL, IN, IQ, JM, JO, KE, KG, KN, KW, KY, KZ, LB, LK, LY, MA, M, M, MD, MED, ME, ME,  MN, MO, MU, NA, NG, NI, NP, OM, PA, PE, PH, PK, PR, PY, QA, RS, RU, RW, SG, SN, SV, TH, TJ, TM, TN, TT, TZ, UA, UG, UY, UZ, VE, VN, YE, ZM, ZW
+- Mercados removidos ou não apoiados: AE, AF, AL, AM, AO, BA, BB, BD, BH, BM, BN, BO, BR, BS, BW, BY, BZ, CI, CL, CM, CO, CR, CW, DO, DZ, EC, EG, ET, FJ, FO, GE, GH, GT, HN, IL, IN, IQ, JM, JO, KE, KG, KN, KW, KY, KZ, LB, LK, LY, MA, M, M, MD, ME,  MN, MO, MU, NA, NG, NI, NP, OM, PA, PE, PH, PK, PR, PY, QA, RS, RU, RW, SG, SN, SV, TH, TJ, TM, TN, TT, TZ, UA, UG, UY, UZ, VE, VN, YE, ZM, ZW
 
 Estas alterações aplicam-se apenas ao produto acima referido. Outros produtos não tinham correções. 
 
@@ -344,7 +344,7 @@ Parceiros Direct Bill e Fornecedores Indiretos que participam no programa CSP qu
 
 ### <a name="details"></a>Detalhes
 
-A partir de 23 de março de 2020, os Parceiros podem começar a descarregar a versão do [MicrosoftPartnerCenter.NETSDK (NuGet Gallery | Microsoft.Store.PartnerCenter 1.17.0)](https://www.nuget.org/packages/Microsoft.Store.PartnerCenter/1.17.0), juntamente com [amostras](https://github.com/Microsoft/Partner-Center-DotNet-Samples)atualizadas do Centro De Parceiros SDK GitHub . Esta versão inclui atualizações aos seguintes métodos:
+A partir de 23 de março de 2020, os Parceiros podem começar a descarregar a versão do [MicrosoftPartnerCenter.NETSDK (NuGet Gallery | Microsoft.Store.PartnerCenter 1.17.0)](https://www.nuget.org/packages/Microsoft.Store.PartnerCenter/1.17.0), juntamente com [amostras](https://github.com/Microsoft/Partner-Center-DotNet-Samples)atualizadas do Centro De Parceiros SDK GitHub . Esta versão inclui atualizações para os seguintes métodos:
 
 #### <a name="audit-updated-new-operation-types"></a>Auditoria Atualizada: Novos tipos de operação
 
@@ -356,7 +356,7 @@ Adicione novos [tipos de operação](/partner-center/develop/auditing-resources)
 
 #### <a name="audit-updated-new-resource-and-operation-types"></a>Auditoria Atualizada: Novos tipos de recursos e de operação
 
-Adicionou novos [tipos de recursos e de operação](/partner-center/develop/auditing-resources) para apoiar o cenário de função do diretório do cliente.
+Adicionou novos [tipos de recursos e de operação](/partner-center/develop/auditing-resources) para apoiar o cenário de função de diretório de clientes.
 
 - Novo tipo de recurso "CustomerDirectoryRole"
 
@@ -382,7 +382,7 @@ As seguintes alterações são introduzidas como parte do Novo Comércio, e est�
   - GET /clientes/{clienteId}/subscrições
   - GET /clientes/{customerId}/subscrições/{subscriçãoD}
   - PATCH /clientes/{customerId}/subscrições/{subscriçãoD}
-  - GET /clientes/{customerId}/subscrições/{subscriçãoD}/transitioneligibilities
+  - GET /clientes/{customerId}/subscrições/{subscriçãoD}/transitioneligibilidades
   - GET /clientes/{customerId}/subscrições/{subscriçãoId}/transições
   - POST /clientes/{customerId}/subscrições/{subscriçãoD}/transições
 
@@ -392,7 +392,7 @@ As seguintes alterações são introduzidas como parte do Novo Comércio, e est�
 - Baixar e rever as [amostras de GitHub](https://github.com/Microsoft/Partner-Center-DotNet-Samples)
 
 ________________
-## <a name="csp-commercial-marketplace-offer-and-fy21-csp-incentives-for-eligible-offers"></a><a name="13"></a>Oferta de mercado comercial da CSP e incentivos ao CDS para ofertas elegíveis
+## <a name="csp-commercial-marketplace-offer-and-fy21-csp-incentives-for-eligible-offers"></a><a name="13"></a>Oferta de mercado comercial da CSP e incentivos ao CSP para ofertas elegíveis
 
 ### <a name="categories"></a>Categorias
 
@@ -405,22 +405,22 @@ Fornecedores indiretos e parceiros de conta direto no programa Fornecedor de Sol
 
 ### <a name="details"></a>Detalhes
 
-Os fornecedores indiretos e parceiros de conta direta no programa Fornecedor de Soluções em Nuvem podem vender ofertas de terceiros e ganhar um incentivo de desconto para cada oferta de terceiros elegível transacionada no Partner Center ou no portal Azure. O incentivo será sob a forma de um desconto nas vendas faturadas para as ofertas elegíveis e está **disponível até 30 de junho de 2021**.  
+Os fornecedores indiretos e parceiros de contas diretas no programa Fornecedor de Soluções em Nuvem podem vender ofertas de terceiros e ganhar um incentivo de desconto para cada oferta de terceiros elegível transacionada no Partner Center ou no portal Azure. O incentivo será sob a forma de um desconto nas vendas faturadas para as ofertas elegíveis e está **disponível até 30 de junho de 2021**.  
 
 Continue a aprender sobre este incentivo CSP Commercial Marketplace Offer abaixo e contacte os seus clientes hoje para identificar as ofertas certas para permitir o seu sucesso contínuo e transformação digital.
 
 Fazemos parcerias com fornecedores de software independentes (ISVs) para trazer as mais recentes soluções IaaS e SaaS para o mercado para os clientes da Microsoft. Os editores da ISV têm a opção de permitir a venda das suas ofertas através do canal parceiro da Microsoft. As nossas ofertas elegíveis para incentivos enquadram-se em duas categorias:
 
-- Selecione ofertas de terceiros SaaS e IaaS com o estado de co-venda do Azure IP. 
+- Selecione Ofertas de terceiros saaS e iaaS com o estado de co-venda do Azure IP. 
 
 - Aplicações SaaS integradas com Teams ou pelo menos duas aplicações de produtividade Microsoft 365, tais como PowerPoint, Word, Excel, Outlook ou SharePoint.
 
 ### <a name="next-steps-and-resources"></a>Próximos passos e recursos
 
-- Saiba mais sobre o ganho [de Incentivos a Parceiros](https://partner.microsoft.com/membership/partner-incentives) para a venda de aplicações elegíveis para o mercado, as aplicações elegíveis para incentivos. Novas ofertas são adicionadas mensalmente.  
+- Saiba mais sobre o ganho [de Incentivos ao Parceiro](https://partner.microsoft.com/membership/partner-incentives) para a venda de aplicações elegíveis para o mercado, as aplicações elegíveis para incentivos. Novas ofertas são adicionadas mensalmente.  
 - [Fornecedor de Soluções em Nuvem recursos de incentivo diretos para parceiros de conta](https://partner.microsoft.com/asset/collection/cloud-solution-provider-direct-partner-incentive-resources#/)
 - [Fornecedor de Soluções em Nuvem recursos de incentivo indiretos do prestador](https://partner.microsoft.com/asset/collection/cloud-solution-provider-indirect-provider-incentive-resources#/)
-- Reveja esta [apresentação](https://partner.microsoft.com/resources/detail/partner-center-cm-for-csp-overview-pdf) para saber mais sobre a venda das aplicações de marketplace comercial. Confira os recursos adicionais [aqui.](https://partner.microsoft.com/resources/collection/partner-center-cm-for-csp-collection#/) 
+- Reveja esta [apresentação](https://partner.microsoft.com/resources/detail/partner-center-cm-for-csp-overview-pdf) para saber mais sobre a venda das aplicações de marketplace comercial. Consulte os recursos adicionais no [Partner Center Commercial Marketplace for Cloud Solution Providers (CSP)](https://partner.microsoft.com/resources/collection/partner-center-cm-for-csp-collection#/). 
 - Explore o catálogo de marketplace comercial no [Partner Center](../csp-commercial-marketplace-discover.md) ou no [portal Azure](https://ms.portal.azure.com/#home)
 - Utilize [APIs](/partner-center/develop/create-subscription-azure-marketplace-products#get-a-list-of-offers-for-a-market) para integrar apps no mercado da sua empresa
 - Contacte os ISVs com os que está interessado em fazer negócios
@@ -442,7 +442,7 @@ ________________
 
 ### <a name="summary"></a>Resumo
 
-A lista final de preços de 1 de abril de 2021 será atualizada para adicionar clareza ao nome e/ou informações pré-requisitos para Power BI Premium ofertas por Utilizador.
+A lista final de preços de 1 de abril de 2021 será atualizada para adicionar clareza à informação de nomeação e/ou pré-requisito para Power BI Premium ofertas por Utilizador.
 
 ### <a name="impacted-audience"></a>Audiência impactada
 
@@ -450,7 +450,7 @@ Fornecedor de Soluções em Nuvem (CSP) parceiros diretos e indiretos
 
 ### <a name="details"></a>Detalhes
 
-A lista final de preços de 1 de abril de 2021 será atualizada para adicionar clareza ao nome e/ou informações pré-requisitos para Power BI Premium ofertas por Utilizador.
+A lista final de preços de 1 de abril de 2021 será atualizada para adicionar clareza à informação de nomeação e/ou pré-requisito para Power BI Premium ofertas por Utilizador.
 
 Até que a lista final de preços seja atualizada, utilize as informações nesta secção para garantir que o produto correto é encomendado.
 
@@ -464,11 +464,11 @@ Os clientes são obrigados a ter qualquer um dos seguintes pré-requisitos para 
 
 | Oferta nome de exibição | ID da oferta |
 | ------ | ----------- |
-| Microsoft 365 E5 (Preços do Pessoal Sem Fins Lucrativos)  |  31bedf01-9e57-4ece-a53a-d3656a563931   |
+| Microsoft 365 E5 (Preços do Pessoal sem fins lucrativos)  |  31bedf01-9e57-4ece-a53a-d3656a563931   |
 |   Microsoft 365 E5 sem AudioConferência (Preços do Pessoal Sem Fins Lucrativos)|  b456810a-c414-4e07-98fc-ef74e8175a09|
 |   Office 365 E5 (Preços do Pessoal sem fins lucrativos)| ce139fe5-8bd5-47ed-a5be-07c286f8b9e    |
-|   Office 365 E5 (Preço do Pessoal Sem Fins Lucrativos)|  2f192efe-608a-4c9c-9d19-2b0b70b0962e|
-|   Office 365 E5 sem AudioConferência (Preços do Pessoal Sem Fins Lucrativos)|  c3897426-9f49-4eaf-9b4d-7d9a1c72aef7|
+|   Office 365 E5 (Preço do Pessoal Sem Fins Lucrativos) Julgamento|  2f192efe-608a-4c9c-9d19-2b0b70b0962e|
+|   Office 365 E5 sem Audio Conferencing (Preços do Pessoal Sem Fins Lucrativos)|  c3897426-9f49-4eaf-9b4d-7d9a1c72aef7|
 
 A seguinte oferta Power BI Premium tem um pré-requisito necessário para a compra:
 
@@ -480,7 +480,7 @@ Os clientes são obrigados a ter este pré-requisito para a compra desta oferta:
 
 | Oferta nome de exibição | ID da oferta |
 | ------ |----------|
-| Power BI Pro (Preços do Pessoal Sem Fins Lucrativos)  |   cabdfc93-5786-4224-bfd3-35d58f833b35 |
+| Power BI Pro (Preços do Pessoal sem fins lucrativos)  |   cabdfc93-5786-4224-bfd3-35d58f833b35 |
 
 ### <a name="next-steps"></a>Passos seguintes
 
@@ -507,7 +507,7 @@ Os parceiros que compram Microsoft 365 F3 em GBP ou EUR entre 1 de março e 17 d
 
 ### <a name="details"></a>Detalhes
 
-A Microsoft resolveu preços incorretos para Microsoft 365 F3. Os preços incorretos foram para GBP e EUR e apenas para ofertas adquiridas entre 1 de março e 17 de março de 2021. As ofertas e moedas impactadas estão listadas abaixo. 
+A Microsoft resolveu preços incorretos para Microsoft 365 F3. Os preços incorretos foram para GBP e EUR e apenas para ofertas compradas entre 1 de março e 17 de março de 2021. As ofertas e moedas impactadas estão listadas abaixo. 
 
 | Nome da oferta | Moeda | ID da oferta | Material ID |
 | ------ |----------- |----------- |----------- |
@@ -518,12 +518,12 @@ As listas de preços base de licença de março e abril foram atualizadas a 16 d
 
 ### <a name="next-steps"></a>Passos seguintes
 
-- Os parceiros devem reencaitar as atuais listas de preços baseadas em licenças, tanto em março como na pré-visualização de abril, com estas correções de preços, se aplicável.  
+- Os parceiros devem reencaigar as atuais listas de preços baseadas em licenças, tanto em março como na pré-visualização de abril, com estas correções de preços, se aplicável.  
 - A Microsoft entrará em contacto com parceiros impactados nas próximas semanas por e-mail para os informar dos próximos passos relacionados com a correção das transações afetadas.
 
 ### <a name="questions"></a>Perguntas?
 
-Para mais perguntas, verifique as suas comunidades Yammer CSP relevantes.
+Para mais perguntas, verifique as comunidades Yammer da CSP relevantes.
 
 ________________
 
@@ -544,7 +544,7 @@ Parceiros MPN e revendedores indiretos CSP (não aplicáveis aos parceiros de co
 
 ### <a name="details"></a>Detalhes
 
-A partir de março de 2021, os parceiros mpn e revendedores indiretos da CSP podem atualizar o nome da sua empresa legal através do Partner Center de forma compatível e self-serve. Com esta nova funcionalidade, os parceiros deixarão de precisar de submeter um bilhete de suporte do Partner Center para atualizar o nome da empresa. Isto poupará um tempo significativo para os parceiros na realização destas atividades. 
+A partir de março de 2021, os parceiros mpn e revendedores indiretos da CSP podem atualizar o nome da sua empresa legal através do Partner Center de forma compatível e self-serve. Com esta nova funcionalidade, os parceiros deixarão de precisar de enviar um bilhete de suporte do Partner Center para atualizar o nome da empresa. Isto poupará um tempo significativo para os parceiros na realização destas atividades. 
 
 Para saber mais, consulte [Atualizar o seu perfil de negócio legal.](../update-your-partner-profile.md#update-your-legal-business-profile)
 
@@ -557,7 +557,7 @@ Partilhe esta informação dentro da sua organização para que a equipa adequad
 
 ### <a name="questions"></a>Perguntas?
 
-Para mais perguntas, verifique as suas comunidades Yammer CSP relevantes.
+Para mais perguntas, verifique as comunidades Yammer da CSP relevantes.
 
 ________________
 ## <a name="update-to-cloud-solution-provider-csp-program-evolution-and-open-license-program-changes"></a><a name="9"></a>Atualização para a evolução do programa Fornecedor de Soluções em Nuvem (CSP) e alterações do programa Open License
@@ -577,7 +577,7 @@ Distribuidores comerciais e revendedores geridos que vendem através do programa
 
 ### <a name="details"></a>Detalhes
 
-Em setembro de 2020, a Microsoft [anunciou](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/) uma série de passos na nossa jornada de transformação digital para expandir oportunidades aos parceiros no programa CSP, incluindo a disponibilidade de software no local para parceiros. Estas mudanças permitem que os parceiros cresçam o seu negócio e aumentem o seu alcance, aproveitando as licenças de software na CSP, posicionando-as para o sucesso no mundo atual em nuvem. Também capacitam as transições dos clientes para a nuvem e dão aos parceiros a flexibilidade necessária para ambientes de nuvem híbrida do cliente.
+Em setembro de 2020, a Microsoft [anunciou](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/) uma série de passos na nossa jornada de transformação digital para expandir oportunidades aos parceiros no programa CSP, incluindo a disponibilidade de software no local para parceiros. Estas mudanças permitem aos parceiros crescer o seu negócio e alargar o seu alcance, aproveitando as licenças de software na CSP, posicionando-as para o sucesso no mundo atual em nuvem. Também capacitam as transições dos clientes para a nuvem e dão aos parceiros a flexibilidade necessária para ambientes de nuvem híbrida do cliente.
 
 Na continuação desta transformação digital, anunciamos as seguintes alterações:
 
@@ -589,13 +589,13 @@ Para obter detalhes completos sobre a evolução do programa CSP e alterações 
 
 ### <a name="next-steps"></a>Passos Seguintes:
 
-- Evolução do Programa CSP: Reveja o [software Perpétuo nos materiais de](https://partner.microsoft.com/resources/collection/software-in-csp#/) prontidão do programa Fornecedor de Soluções em Nuvem. Use este [mapa de prontidão](https://partner.microsoft.com/resources/detail/software-in-csp-readiness-map-pdf) para localizar rapidamente as informações certas para o seu papel.
+- Evolução do Programa CSP: Reveja o [software Perpétuo nos materiais de](https://partner.microsoft.com/resources/collection/software-in-csp#/) prontidão do programa Fornecedor de Soluções em Nuvem. Use este [mapa de prontidão](https://partner.microsoft.com/resources/detail/software-in-csp-readiness-map-pdf) para localizar rapidamente a informação certa para o seu papel.
 
-- Alterações no programa De Licença Aberta: Rever a evolução do [programa CSP e o programa Open License altera os](https://partner.microsoft.com/resources/collection/csp-open-evolution-to-a-better-experience#/) materiais de prontidão. Use este [mapa de prontidão](https://partner.microsoft.com/resources/detail/csp-open-evolution-to-a-better-experience-readiness-map-pdf) para localizar rapidamente as informações certas para o seu papel.
+- Alterações no programa Open License: Rever a evolução do [programa CSP e o programa Open License altera os](https://partner.microsoft.com/resources/collection/csp-open-evolution-to-a-better-experience#/) materiais de prontidão. Use este [mapa de prontidão](https://partner.microsoft.com/resources/detail/csp-open-evolution-to-a-better-experience-readiness-map-pdf) para localizar rapidamente a informação certa para o seu papel.
 
 ### <a name="questions"></a>Perguntas
 
-Para mais perguntas, verifique as suas comunidades Yammer CSP relevantes.
+Para mais perguntas, verifique as comunidades Yammer da CSP relevantes.
 
 _______________
 ## <a name="update-to-a-previous-announcement-premium-assessments-an-add-on-to-compliance-manager"></a><a name="8"></a>Atualização para um anúncio anterior: Premium Assessments, um add-on ao Compliance Manager
@@ -617,7 +617,7 @@ Parceiros transacionando através de Fornecedor de Soluções em Nuvem
 
 As ofertas de julgamento não deviam ter sido incluídas na lista de preços. Estes serão removidos da lista de preços de 1 de maio de 2021.
 
-O anúncio original está [aqui.](./2021-february.md#4)
+O anúncio original está em [Atualização a um anúncio anterior: Premium Assessments, um complemento ao Compliance Manager](./2021-february.md#4).
 
 ### <a name="additional-resources"></a>Recursos adicionais
 
@@ -653,7 +653,7 @@ Organizações co-vendem com soluções no OCP GTM
 
 Em dezembro de 2020, iniciámos a nossa viagem desde a ferramenta Microsoft OCP GTM até ao mercado comercial da Microsoft no Partner Center. Esta transição expande as capacidades do mercado comercial onde pode mostrar as suas soluções a milhões de clientes, partilhar oportunidades bidirecionalmente com outros vendedores da Microsoft e parceiros e vender soluções inovadoras em conjunto.
 
-O próximo marco na transição terá lugar no dia 29 de março de 2021. É aí que começará a experimentar capacidades limitadas de OCP GTM, com alguns campos a tornarem-se apenas para ler. Se está atualmente a co-vender com soluções no OCP GTM, encorajamo-lo a migrar as suas soluções para o mercado comercial para tirar partido das suas capacidades e simplificar a sua experiência de publicação.
+O próximo marco na transição terá lugar no dia 29 de março de 2021. É aí que vai começar a experimentar capacidades limitadas de OCP GTM, com alguns campos a tornarem-se apenas leitura. Se está atualmente a co-vender com soluções no OCP GTM, encorajamo-lo a migrar as suas soluções para o mercado comercial para tirar partido das suas capacidades e simplificar a sua experiência de publicação.
 
 Mudar-se para o mercado comercial faz do Partner Center o principal destino da experiência de co-venda. É onde pode continuar a crescer o seu negócio ligando as suas soluções aos nossos clientes partilhados através dos mesmos canais e experiências no produto que usamos para produtos da Microsoft. [Saiba mais sobre o mercado comercial.](https://blogs.partner.microsoft.com/mpn/getting-started-with-the-microsoft-commercial-marketplace/)
 
@@ -685,9 +685,9 @@ Parceiros com ofertas no mercado comercial.
 
 ### <a name="details"></a>Detalhes
 
-A API para aceder a relatórios de marketplace comercial permite-lhe agendar relatórios personalizados dos seus dados de análise assíncronos.
+A API para aceder a relatórios de marketplace comercial permite-lhe agendar relatórios personalizados dos seus dados de análise assíncroneamente.
 
-A capacidade permite-lhe definir consultas e modelos de reporte com base nas suas necessidades, definir um horário e obter relatórios atempadamente e de confiança em intervalos programados.
+A capacidade permite-lhe definir consultas e modelos de reporte com base nas suas necessidades, definir um horário e obter relatórios atempadamente e confiáveis em intervalos programados.
 
 ### <a name="next-steps"></a>Passos seguintes
 
@@ -711,11 +711,11 @@ Todos os parceiros na Rússia transacionam através do programa Fornecedor de So
 
 ### <a name="details"></a>Detalhes
 
-A partir de 10 de março de 2021, estamos entusiasmados por anunciar a disponibilidade da nova experiência de **comércio na CSP para o Azure na Rússia.** Esta experiência irá dinamizar e melhorar a forma como os clientes compram e consomem serviços Azure. Também dará aos parceiros do programa CSP uma visão consistente dos preços do Azure através de moções de vendas, preços USD para consistência global, alinhamento de datas de faturação e acesso à Azure Cost Management.
+A partir de 10 de março de 2021, estamos entusiasmados por anunciar a disponibilidade da nova experiência de **comércio na CSP para o Azure na Rússia.** Esta experiência irá dinamizar e melhorar a forma como os clientes compram e consomem serviços Azure. Também dará aos parceiros do programa CSP uma visão consistente dos preços do Azure através de moções de venda, preços DE USD para consistência global, alinhamento de datas de faturação e acesso à Azure Cost Management.
 
 ### <a name="next-steps"></a>Passos seguintes
 
-Existem vários recursos disponíveis introduzindo a nova experiência de comércio Azure e fornecendo informações adicionais. Encontre as últimas FAQs, decks, vídeo e muito mais na Galeria de [Recursos de Atualizações do Programa CSP.](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/)
+Existem vários recursos disponíveis introduzindo a nova experiência de comércio Azure e fornecendo informações adicionais. Encontre as últimas PERGUNTAS Frequentes, decks, vídeo e muito mais na Galeria de [Recursos de Atualizações do Programa CSP.](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/)
 
 ________________
 ## <a name="partner-center-software-license-key-and-download-fulfillment"></a><a name="4"></a>Chave de licença de software Partner Center e cumprimento de descarregamento
@@ -727,7 +727,7 @@ ________________
 
 ### <a name="summary"></a>Resumo
 
-O software Partner Center descarregamento e capacidade de cumprimento da chave da licença foi reintegrado.
+O software Partner Center descarregamento e capacidade de cumprimento da chave de licença foi reintegrado.
 
 ### <a name="impacted-audience"></a>Audiência impactada
 
@@ -737,18 +737,18 @@ Todos os Fornecedor de Soluções em Nuvem parceiros (CSP) transting encomendas 
 
 Em resposta ao feedback do parceiro, estamos a reinstaurar a capacidade de cumprimento do Partner Center para obter chaves de software e licença para ordens de software de subscrição perpétua e servidor. Será restaurado ao seu estado anterior antes de ser removido em 19 de janeiro de 2021. (Ver o [anúncio](2020-september.md#17).)
 
-Note que as chaves de licença de software e links de descarregamento são valiosos e altamente procurados por ativos de propriedade intelectual. Se vazadas, podem ser rapidamente esgotadas dos seus limites de ativação e causar uma experiência negativa de cliente e parceiro.
+Note que as chaves de licença de software e links de descarregamento são ativos valiosos e altamente procurados de propriedade intelectual. Se vazadas, podem ser rapidamente esgotadas dos seus limites de ativação e causar uma experiência negativa de cliente e parceiro.
 
 ### <a name="next-steps"></a>Passos seguintes
 
 Reveja os seguintes recursos para instruções de utilização e orientações importantes sobre a distribuição das chaves do software:
 
 - [Vender software no local através do programa CSP](../csp-on-premise-software.md)
-- [Guia de operações](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf) do Centro Parceiro (Consulte a **secção de distribuição de chaves de software.)**
+- [Guia de operações](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf) do Centro Parceiro (Consulte a **secção de Distribuição de Chaves de Software.)**
 
 ### <a name="questions"></a>Perguntas?
 
-Se tiver mais perguntas sobre este aviso, consulte as suas comunidades Yammer relevantes.
+Se tiver mais alguma dúvida sobre este aviso, consulte as suas comunidades Yammer relevantes.
 
 ________________
 ## <a name="migrate-your-deals-from-partner-sales-connect-psc-to-partner-center"></a><a name="3"></a>Migrar as suas ofertas de Ligação de Vendas de Parceiros (PSC) para Partner Center
@@ -768,18 +768,18 @@ Parceiros com negócios no PSC
 
 ### <a name="details"></a>Detalhes
 
-Como parte do nosso compromisso comum com o crescimento, **co-vender com** a Microsoft é o caminho para que **você seja descoberto, entregue a sua experiência e expanda a sua pegada de cliente** para resultados positivos do cliente. Com uma oferta média **3,5 vezes mais rápida** do que o normal, gerir a sua experiência de co-venda no Partner Center permite-lhe vender através dos canais de clientes diretos, parceiro e vendedor da Microsoft, e gerir todo o seu pipeline de referência num local.
+Como parte do nosso compromisso comum com o crescimento, **co-vender com** a Microsoft é o caminho para que **você seja descoberto, entregue a sua experiência e expanda a sua pegada de cliente** para resultados positivos do cliente. Com uma oferta média **3,5 vezes mais rápida** do que o normal, gerir a sua experiência de co-venda no Partner Center permite-lhe vender através dos canais de clientes diretos, parceiros e vendedores da Microsoft, e gerir todo o seu pipeline de referência num local.
 
-**O PSC** passará a **ter acesso apenas** a leitura a partir de 31 de março de **2021,** por isso pedimos-lhe que inicie a sua mudança para o Partner Center e aceda a estas melhorias de capacidade: 
+**O PSC** passará a **ter acesso apenas** a leitura a partir de 31 de março de **2021**, por isso pedimos-lhe que inicie a sua mudança para o Partner Center e aceda a estas melhorias de capacidade: 
 
 - **Encaminhamento mais preciso** das ofertas que partilha com a Microsoft para o vendedor certo, com base no tipo de assistência que necessita.
 - **Validação de elegibilidade do negócio inicial** para soluções elegíveis para incentivos e para cumprir os critérios do programa isv Ligação, simplificando o processo de aprovação e a prova final de execução (POE).
-- **Experiência de utilizador sem emenda** para gerir todas as suas oportunidades de co-venda e vendas qualificadas lidera num só local.
+- **Experiência de utilizador sem emenda** para gerir todas as suas oportunidades de co-venda e vendas qualificadas lidera em um lugar.
 
 Também adicionámos recentemente novas funcionalidades no Partner Center para ajudar no seu movimento:
 
 - [Operações a granel para co-vender oportunidades](../bulk-operations.md)
-- [Recurso de migração de acordo](../psc-to-pc.md) (ver a secção **de migração do PSC Deals.)**
+- [Recurso de migração de acordo](../psc-to-pc.md) (ver secção de **migração do PSC Deals.)**
 
 Utilizando a experiência de co-venda no Partner Center, as suas equipas de vendas terão mais tempo para se concentrarem em nutrir leads e oportunidades, fechar ofertas e criar relações duradouras com o cliente.
 
@@ -812,7 +812,7 @@ Todos os parceiros que transfiram através do programa Fornecedor de Soluções 
 No dia 1 de abril de 2021, a Microsoft lançará os seguintes novos produtos e ofertas:
 
 - Power BI Premium Por Utilizador
-- Expansão geo e segmento usl de voz do cliente e marketing USL
+- Expansão geo e segmento de voz do cliente e marketing USL
 
 **Power BI Premium Por Utilizador**
 
@@ -836,7 +836,7 @@ Note que o nome da oferta difere ligeiramente da pré-visualização da lista de
 | Power BI Premium Por Add-On de utilizador para estudantes | cf62d70d-5af5-422a-bda8-97936402ac8e | 
 | Power BI Premium Por Add-On de utilizador (preços de pessoal sem fins lucrativos) | 31c03289-47ab-4ab0-8df1-03742c127ac6 | 
 
-**Expansão geo e segmento usl de voz do cliente e marketing USL**
+**Expansão geo e segmento de voz do cliente e marketing USL**
 
 No seguimento do lançamento de dezembro de 2020, as ofertas de Voz e Marketing USL da Dynamics 365 foram alteradas para adicionar novos países e MAIS SKUs sem fins lucrativos e educativos.
 
@@ -876,9 +876,9 @@ Todos os parceiros que transfiram através do programa Fornecedor de Soluções 
 
 ### <a name="details"></a>Detalhes
 
-[Universal Print](https://aka.ms/universalprint) é um serviço de impressão Microsoft 365 que remove a necessidade de servidores de impressão no local, e permite que Windows dispositivos imprimam para impressoras registadas em Azure. Estará disponível para transações a partir de 1 de março de 2021.
+[Universal Print](https://aka.ms/universalprint) é um serviço de impressão Microsoft 365 que remove a necessidade de servidores de impressão no local, e permite que Windows dispositivos imprimam para impressoras registadas em Azure. Estará disponível para transação a partir de 1 de março de 2021.
 
-Os trabalhadores beneficiam da impressão sem condutor, da descoberta da impressora baseada em localização e de uma experiência de impressão intuitiva sem curva de aprendizagem. Os dispositivos que se unem ao Azure Ative Directory (Azure AD) utilizam credenciais AZure AD existentes para imprimir de forma segura. Os administradores gerem a impressão utilizando o portal Azure e podem facilmente ligar impressoras com suporte nativo para impressão universal. A Impressão Universal pode ser implantada com impressoras não compatíveis utilizando conector de Impressão Universal software.
+Os trabalhadores beneficiam da impressão sem condutor, da descoberta da impressora baseada em localização e de uma experiência de impressão intuitiva sem curva de aprendizagem. Os dispositivos que se unem ao Azure Ative Directory (Azure AD) utilizam as credenciais AD existentes para imprimir de forma segura. Os administradores gerem a impressão utilizando o portal Azure e podem facilmente ligar impressoras com suporte nativo para impressão universal. A Impressão Universal pode ser implantada com impressoras não compatíveis utilizando conector de Impressão Universal software.
 
 A Universal Print será reabastetada no lançamento para Windows E3, A3, E5 e A5, e Microsoft 365 BP, F3, E3, A3, E5 e A5.  
 
@@ -891,7 +891,7 @@ Note que o nome da oferta difere ligeiramente da pré-visualização da lista de
 | Complemento de volume de impressão universal (500 empregos) - Microsoft 365  | cb131356-45ee-4ae2-8537-873b706c8e75     | 9BI-00004   |
 | Complemento de volume de impressão universal (500 postos de trabalho) para docentes - Microsoft 365   | 477bee81-9872-43d6-91d3-c72390bfcf49   | 9BK-00004   |
 | Complemento de volume de impressão universal (500 empregos) - Windows    | d3ddc493-5741-4e0d-a02d-07edbb72e   | 9BI-00002   |
-| Complemento de volume de impressão universal (500 postos de trabalho) para docentes - Windows   |  d0862f05-80f5-4fd4-8432-fe72dd893cc7  | 9BK-00002   |
+| Complemento de volume de impressão universal (500 empregos) para docentes - Windows   |  d0862f05-80f5-4fd4-8432-fe72dd893cc7  | 9BK-00002   |
 
 ### <a name="next-steps"></a>Passos seguintes
 

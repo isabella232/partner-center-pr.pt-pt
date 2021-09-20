@@ -10,11 +10,11 @@ ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 5667fad7bde179cd728abb911b65621bcc9505a7
-ms.sourcegitcommit: 8d5c2463fc0f0c03972a6f89d01605421288daea
+ms.sourcegitcommit: 731a5e2725a72ecdae40189a3f52ab6b4a4c8058
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/18/2021
-ms.locfileid: "127932873"
+ms.lasthandoff: 09/20/2021
+ms.locfileid: "128007240"
 ---
 # <a name="use-partner-center-to-apply-for-advanced-specializations-and-check-their-status"></a>Use o Partner Center para solicitar especializações avançadas e verificar o seu estado
 
@@ -201,10 +201,10 @@ Em seguida, siga estes passos para fornecer referências ao cliente no Partner C
 - Proteção Contra Ameaças
     - Azure Sentinel ACR: Nível de serviço 4 = Sentinela
 - Segurança na Cloud
-    - Ambiente Híbrido XDR e Segurança de Rede ACR: Nível de serviço 4 = Azure Defender para SQL, Azure Defender para registos de contentores, Azure Defender para Kubernetes, Azure Defender para Armazenamento, Application Gateway WAF v2, WAF Application Gateway, Azure Ative Directory B2C, Azure Ative Directory Domain Services, Azure Ative Directory for External Identities, Azure Bastion, Azure DDOS Protection, Azure Firewall, Azure Firewall Manager, Azure Front Door Service, Azure Defender for IoT, Azure Dedicated HSM, Key Vault, Network Watcher, Azure Defender for App Service, Azure Defender para OT, Sentinela
+    - Ambiente Híbrido XDR e Segurança de Rede ACR: Nível de serviço 4 = Azure Defender for SQL, Azure Defender para registos de contentores, Azure Defender for Kubernetes, Azure Defender for Armazenamento, Application Gateway WAF v2, WAF Application Gateway, Azure Ative Directory B2C, Azure Ative Directory Domain Serviços, Azure Ative Directory de Identidades Externas, Azure Bastion, Azure DDOS Protection, Azure Firewall, Azure Firewall Manager, Azure Front Door Service, Azure Defender for IoT, Azure Dedicated HSM, Key Vault, Network Watcher, Azure Defender for App Service, Azure Defender para servidores, Sentinel
     
 - SAP no Microsoft Azure
-    - CARGAS DE CARGAS SAP ACR: Nível de Serviço 4 = Série MS dos Serviços em Nuvem, Série MS das Máquinas Virtuais, Série MS das Máquinas Virtuais Windows, Máquinas Virtuais Série MSv2, Máquinas Virtuais Série MSv2 série Windows, Anfitrião Dedicado série MS, Anfitrião Dedicado série MSv2, SAP HANA em Azure Large Instances,SAP Cloud Platform Alert Notification, Fábrica de extensão da plataforma da nuvem SAP - Kyma Runtime,SAP Cloud Platform Integration Suite - Mensagens adicionais, SUÍTE DE Integração da Plataforma nuvem SAP - Standard Edition, SAP Cloud Platform Transport Management, SAP Embrace API Management,SAP Embrace Application Logging, SAP Embrace Application Runtime, SAP Embrace Business Application Studio, SAP Embrace Business Application Rules, SAP Embrace Business Integration, SAP Embrace Cloud Integration, SAP Embrace  SAP Abraçar Inteligência de Dados, SAP Abraçar Mensagens Empresariais, SAP Abraçar Fábrica de Extensão, tempo de funcionamento sem servidor, SAP Abraçam Hana Cloud, SAP Abraçam a Autenticação de Identidade, SAP Abraçam Agendador de Emprego, SAP Abraçam MACC, SAP Abraçam Serviços Móveis,SAP Abraçam Centros de Lojas de Objetos, SAP Abraçam Conectores Abertos, Portal ABRAÇO SAP, Visibilidade do Processo SAP, SAP Abraçam Web Analytics, SAP Embrace Workflow, SAP HANA, SAP Web IDE, Infraestruturas DeMetal, Máquinas Virtuais MdSv2 Série, Máquinas Virtuais MdSv Windows 2
+    - CARGAs de trabalho SAP ACR: Nível de serviço 4 = Série MS dos Serviços em Nuvem, Série MS das Máquinas Virtuais, Série MS das Máquinas Virtuais Windows, Máquinas Virtuais Série MSv2, Máquinas Virtuais Série MSv2 série Windows, Anfitrião Dedicado série MS, Anfitrião Dedicado da Série MSv2, SAP HANA em Azure Large Instances,SAP Cloud Platform Notification, SAP Cloud Platform Extension Factory - Kyma Runtime,SAP Platform Deded Host, SAP Platform  SUÍTE DE Integração de Plataforma de Nuvem SAP - Standard Edition, SAP Cloud Platform Transport Management, SAP Edge Services, SAP Embrace API Management,SAP Embrace Application Logging, SAP Embrace Application Runtime, SAP Embrace Bandwidth, SAP Embrace Business Application Studio, SAP Embrace Business Rules, SAP Embrace Cloud Integration, SAP Embrace Credential Store, SAP Embrace Custom Domain, SAP Embrace Data Intelligence, SAP Embrace  Mensagens, SAP Abraçam a Fábrica de Extensão, tempo de execução sem servidor, SAP Abraçam Hana Cloud, SAP Abraçam a Autenticação de Identidade, SAP Abraçam Agendador de Emprego, SAP Abraçam MACC, SAP Abraçam Serviços Móveis,SAP Abraçam Os Conectores Abertos, Sap Embrace Portal, SAP Embrace Process Visibility, SAP Embrace Web Analytics, SAP Embrace Workflow, SAP HANA Service, SAP Web IDE, BareMetal Infrastructure,  Máquinas Virtuais Série MdSv2, Máquinas Virtuais Série MdSv2 Windows
 
 ## <a name="next-steps"></a>Passos seguintes
 

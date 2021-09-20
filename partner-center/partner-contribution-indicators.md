@@ -13,8 +13,8 @@ ms.openlocfilehash: 513fe0a81c9b29c9cc3a0d70026634e5d7915899
 ms.sourcegitcommit: 731a5e2725a72ecdae40189a3f52ab6b4a4c8058
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/19/2021
-ms.locfileid: "127987619"
+ms.lasthandoff: 09/20/2021
+ms.locfileid: "128007256"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-cloud-business-applications-competency"></a>Utilizar Indicadores de Contribuição de Parceiros para obter a competência Business Applications da Cloud
 

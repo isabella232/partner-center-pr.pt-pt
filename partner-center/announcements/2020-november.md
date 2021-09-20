@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 981ddf4511be5e23092dae72bdf6e3d93e850d58
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: 29906f70a1787cf46979ec63b838fafe3604ccbe
+ms.sourcegitcommit: 731a5e2725a72ecdae40189a3f52ab6b4a4c8058
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126246518"
+ms.lasthandoff: 09/20/2021
+ms.locfileid: "128007210"
 ---
 # <a name="november-2020-announcements"></a>Anúncios de novembro de 2020
 
@@ -32,7 +32,7 @@ ______________
 
 ### <a name="summary"></a>Resumo
 
-A Microsoft está a introduzir a capacidade de os parceiros no programa Fornecedor de Soluções em Nuvem comprarem ofertas saaS com faturação medido no Partner Center. 
+A Microsoft está a introduzir a capacidade de os parceiros no programa Fornecedor de Soluções em Nuvem de adquirirem ofertas saaS com faturação medido no Partner Center. 
 
 ### <a name="impacted-audience"></a>Audiência impactada
 
@@ -65,7 +65,7 @@ Todos os parceiros
 
 ### <a name="details"></a>Detalhes
 
-A principal mudança na gestão de conta é a integração da visão de **definições** de parceiros anteriormente separados para parceiros matriculados em programas comerciais (Microsoft Partner Network, Fornecedor de Soluções em Nuvem, Referrals, etc.) e visão **de definições de desenvolvedores** para parceiros inscritos em programas de Desenvolvimento (Commercial Marketplace, Windows & Xbox, etc.) numa visão de **definições** de conta unificada.
+A principal mudança na gestão de conta é a integração da visão de definições de parceiros anteriormente **separados** para parceiros inscritos em programas comerciais (Microsoft Partner Network, Fornecedor de Soluções em Nuvem, Referrals, etc.) e visão **de definições de desenvolvedores** para parceiros inscritos em programas de Desenvolvimento (Commercial Marketplace, Windows & Xbox, etc.) num conjunto de contas unificada **ings** vista.
 
 ### <a name="entry-point"></a>Ponto de entrada
 
@@ -76,7 +76,7 @@ Inscreva-se no painel de instrumentos do Centro de Parceiros e, em seguida, sele
 - Perfil da organização
    - Legal - Gerir o seu perfil de negócio legal, perfil de parceiro e localizações da empresa.
    - Inquilinos - Toda a sua informação sobre os seus inquilinos da AD Azure, comercial e promotor, é rastreada aqui.
-   - Identifiers - Partner Center identidades para a sua empresa - os seus MPNIDs, editorids, etc.
+   - Identifiers - Identidades do Partner Center para a sua empresa - os seus MPNIDs, editorids, etc.
 - Gestão do utilizador - Gerencie os seus utilizadores e atribua-lhes funções comerciais e de desenvolvimento a partir de um local. Você também pode gerir grupos e aplicações AD AZure a partir daqui.
 
 ### <a name="next-steps"></a>Passos seguintes
@@ -92,9 +92,9 @@ ______________
 - Ofertas/Mercados
 
 ### <a name="summary"></a>Resumo
-Estamos a introduzir um novo Office 365 E1 Promo para o mercado intermédio, restrito aos mercados emergentes da LATAM, Índia e APAC (excluindo os mercados desenvolvidos dentro da APAC).
+Estamos a introduzir um novo Office 365 E1 Promo para o mercado intermédio, restrito aos mercados emergentes da LATAM, Índia e APAC (excluindo mercados desenvolvidos dentro da APAC).
 
-### <a name="impacted-audience"></a>Audiência Impactada
+### <a name="impacted-audience"></a>Audiência Impacted
 Todos os parceiros que transfiram através do programa Fornecedor de Soluções em Nuvem (CSP) nos mercados participantes acima mencionados.
 
 ### <a name="details"></a>Detalhes
@@ -114,7 +114,7 @@ Entre em contato com [o suporte do Partner Center](https://partner.microsoft.com
 
 ______________
 
-## <a name="partner-center-api-updates-and-user-interface-ui-enhancements-to-strengthen-customer-screening-in-certain-countries"></a><a name="11"></a>Atualizações da API do Partner Center e melhorias da interface do utilizador (UI) para reforçar o rastreio de clientes em determinados países
+## <a name="partner-center-api-updates-and-user-interface-ui-enhancements-to-strengthen-customer-screening-in-certain-countries"></a><a name="11"></a>Atualizações da API do Partner Center e melhorias na interface do utilizador (UI) para reforçar o rastreio de clientes em determinados países
 
 ### <a name="categories"></a>Categorias
 
@@ -143,7 +143,7 @@ Como parte do compromisso contínuo da Microsoft com os clientes e parceiros em 
 
 ### <a name="details"></a>Detalhes
 
-A Microsoft tem confiança. Estamos empenhados em fornecer um método de validação de clientes conforme, seguro e seguro para a transação de subscrições de clientes no programa CSP. Como parte deste esforço, introduzimos melhorias no Partner Center API e na UI que terão impacto nos parceiros que cumprem todos os seguintes critérios: 
+A Microsoft tem confiança. Estamos empenhados em fornecer um método de validação de clientes conforme, seguro e seguro para a transação de subscrições de clientes no programa CSP. Como parte deste esforço, introduzimos melhorias no Partner Center API e UI que terão impacto nos parceiros que cumprem todos os seguintes critérios: 
 
 - O parceiro tem uma relação de faturação direta com a Microsoft (por exemplo, um parceiro de conta direta ou um fornecedor indireto); e,
 
@@ -151,7 +151,7 @@ A Microsoft tem confiança. Estamos empenhados em fornecer um método de valida�
 
 Para esses parceiros com um cliente nestes países, o parceiro passará a ser obrigado a submeter o **Identificador Jurídico** do cliente específico (também conhecido como Organização do Cliente **INN)** e o **Número de Telefone** do cliente quando o parceiro tentar atualizar ou criar uma subscrição para esse cliente. Estes parceiros podem agora optar também por introduzir um **nome médio** opcional para o cliente.
 
-### <a name="partner-center-enhancements"></a>Melhorias do Partner Center
+### <a name="partner-center-enhancements"></a>Melhorias do Centro de Parceiros
 
 - Melhorias no UI do Partner Center para melhorar a validação de clientes em países específicos
 
@@ -164,7 +164,7 @@ A página conta de cliente do Centro parceiro foi atualizada da seguinte forma:
 1. **Organização INN** (também conhecido como Identificador Legal). Este campo é agora necessário para os clientes em países específicos. 
 
    > [!NOTE]
-   > Os dados devem ser introduzidos apenas em caracteres alfanuméricos, sem hífenes, caracteres especiais ou espaços. Os parceiros terão de trabalhar com o contacto com o cliente nestes países para confirmar o estado legal do identificador do cliente, como o seu ID fiscal ou o número INN. Para obter mais informações específicas do país, consulte a tabela seguinte.  
+   > Os dados devem ser introduzidos apenas em caracteres alfanuméricos, sem hífenes, caracteres especiais ou espaços. Os parceiros terão de trabalhar com o seu contacto com o cliente nestes países para confirmar o estado legal do identificador do cliente, como o seu ID fiscal ou número INN. Para obter mais informações específicas do país, consulte a tabela seguinte.  
 
 2. **Nome do meio.** Este campo é opcional para todos os clientes. Se souber o nome do meio ou a inicial do cliente, o parceiro pode inseri-lo aqui.
 
@@ -177,7 +177,7 @@ Os requisitos de campo **da Organização INN** (Identificador Legal) específic
 | Arménia | CEE      | AM               | 8 ou 10 dígitos         | :::no-loc text="УНН/NZOU/НЗОУ/ հանրային ծառայության համարանիշը"::: | UNN/Número de serviço público                     |
 | Azerbaijão| CEE      | AZ               | 7 ou 10 dígitos         | :::no-loc text="ИНН/VOEN/ПИК"::: | ESTANHO/ESTANHO/PIC              |
 | Bielorrússia | CEE      | BY               | 9 dígitos         | :::no-loc text="УНП"::: | PDR (isto significa ID fiscal)                    |
-| Hungria | CEE      | HU               | 10 ou 11 dígitos         | :::no-loc text="TIN"::: | ESTANHO (ID fiscal)                     |
+| Hungria | CEE      | HU               | 10 ou 11 dígitos         | :::no-loc text="TIN"::: | TIN (ID fiscal)                     |
 | Cazaquistão | CEE      | KZ              | 12 dígitos         | :::no-loc text="БИН/ИИН"::: | BIN/IIN                     |
 | Quirguistão | CEE      | KG               | 14 dígitos         | :::no-loc text="ИНН"::: | UNN/Número de serviço público                     |
 | Moldávia  | CEE        | MD               | 6, 7, 8 ou 13 dígitos         | :::no-loc text="IDNO/IDNP"::: | O número único de identificação do Estado (IDNO) atribuído à entidade jurídica é também constituído, como código fiscal. \"Registo Estatal de Unidades de Direito relativos a empresas registadas na República da Moldávia publicado pelo Ministério das Tecnologias de Informação e Comunicação no portal governamental de data.gov.md de dados abertos.\"                    |
@@ -188,10 +188,10 @@ Os requisitos de campo **da Organização INN** (Identificador Legal) específic
 
 **Alterações na API do Centro Parceiro**
 
-Serão feitas as seguintes alterações ao contrato à API do Centro Parceiro. Estas alterações limitam-se a parceiros que gerem contas de clientes nos países anteriormente mencionados.
+Serão feitas as seguintes alterações ao contrato à API do Centro De Parceiros. Estas alterações limitam-se a parceiros que gerem contas de clientes nos países anteriormente mencionados.
 
 > [!NOTE]
-> Se for um parceiro que utilize uma interpretação rigorosa da resposta JSON do Partner Center, poderá ser afetado por estas alterações se as atualizações não forem concluídas no seu fim. JSON não é uma integração recomendada com APIs do Partner Center.
+> Se for um parceiro que utilize uma interpretação rigorosa da resposta JSON do Partner Center, poderá ser afetado por estas alterações se as atualizações não forem concluídas no seu final. JSON não é uma integração recomendada com APIs do Partner Center.
 
 | Atualizações para recursos REST | Documentação do Centro de Parceiros Relacionados |
 |---------------------------|-----------------------|
@@ -235,13 +235,13 @@ public class Address
 ```
 
 
-## <a name="euefta-change-of-partner-billing-currency-for-new-commerce-offers"></a><a name="10"></a>Mudança de moeda de faturação de parceiros da UE/EFTA para novas ofertas de comércio.  
+## <a name="euefta-change-of-partner-billing-currency-for-new-commerce-offers"></a><a name="10"></a>Mudança ue/EFTA da moeda de faturação de parceiros para novas ofertas de comércio.  
 
 ### <a name="categories"></a>Categorias
 - Data 2020-11-17
 - Capacidades
 
-### <a name="impacted-audience"></a>Audiência Impactada  
+### <a name="impacted-audience"></a>Audiência Impacted  
 
 Parceiros que transacionam através do programa Fornecedor de Soluções em Nuvem na região UE/EFTA 
 
@@ -249,17 +249,17 @@ Parceiros que transacionam através do programa Fornecedor de Soluções em Nuve
 
 Na região da União Europeia (UE)/Associação Europeia de Comércio Livre (EFTA), todas as novas ofertas de comércio no programa Fornecedor de Soluções em Nuvem utilizarão o local de faturação dos parceiros em vez da localização da faturação dos clientes. Isto significa que os parceiros serão faturados pela Microsoft com base na sua moeda de localização, e não na moeda de localização dos seus clientes. Isto será feito em duas fases: 
 
-- **Fase 1: Novos clientes que compram uma nova oferta de comércio na CSP**
+- **Fase 1: Novos clientes compram uma nova oferta de comércio na CSP**
 
-A partir de janeiro de 2021, os parceiros que têm novos clientes que adquiram novas ofertas de comércio serão cobrados para essas compras em moeda de localização parceira. Os parceiros com clientes existentes que já tenham adquirido novas ofertas de comércio na CSP, continuarão a ser faturados na moeda do local de faturação do cliente durante esta fase. 
+A partir de janeiro de 2021, os parceiros que têm novos clientes que adquiram novas ofertas de comércio serão cobrados para essas compras em moeda de localização de parceiros. Os parceiros com clientes existentes que já tenham adquirido novas ofertas de comércio na CSP, continuarão a ser faturados na moeda do local de faturação do cliente durante esta fase. 
 
 - **Fase 2: Clientes existentes que compraram uma nova oferta de comércio na CSP antes de janeiro de 2021** 
 
-Após a Fase 1 e durante o ano civil de 2021, a Microsoft irá transitar a faturação de novas ofertas de comércio para parceiros com clientes existentes, que compraram uma nova oferta de comércio na CSP antes de janeiro de 2021, desde a moeda de localização do cliente até à moeda de localização do parceiro. Os parceiros serão notificados antecipadamente antes de esta alteração ser implementada.  
+Após a Fase 1 e durante o ano civil de 2021, a Microsoft fará a transição da faturação de novas ofertas de comércio para parceiros com clientes existentes, que compraram uma nova oferta de comércio na CSP antes de janeiro de 2021, desde a moeda de localização do cliente até à moeda de localização do parceiro. Os parceiros serão notificados antecipadamente antes de esta alteração ser implementada.  
 
 >[Nota] Esta alteração só terá impacto na moeda de faturação dos parceiros e não nos preços das novas ofertas de comércio na CSP. 
 
-As novas ofertas de comércio em campo para esta mudança são: subscrições Azure que fazem parte de um plano Azure, reservas Azure, subscrições de servidores, software perpétuo e compras de marketplace comercial da Microsoft no programa Fornecedor de Soluções em Nuvem.
+As novas ofertas de comércio em campo para esta mudança são: subscrições Azure que fazem parte de um plano Azure, reservas Azure, subscrições de servidores, software perpétuo e compras de mercado comercial da Microsoft no programa Fornecedor de Soluções em Nuvem.
 
 ### <a name="partner-benefits"></a>Benefícios do parceiro  
 
@@ -269,13 +269,13 @@ As novas ofertas de comércio em campo para esta mudança são: subscrições Az
 
 - Os pagamentos de incentivos serão na mesma moeda que a moeda de fatura do parceiro.
 
-- Os parceiros notarão uma reduzida complexidade de faturação causada pela faturação multi-moeda, o que libertará tempo e recursos atualmente associados à conciliação das contas. 
+- Os parceiros notarão uma reduzida complexidade de faturação causada pela faturação multi-moeda, que libertará tempo e recursos atualmente associados à conciliação das contas. 
 
 - Para os parceiros que ainda não adotaram novas ofertas de comércio, esta mudança alinha-se com o anterior modelo de faturação de parceiros, permitindo aos parceiros uma transição mais fácil para a nova experiência de comércio na CSP. 
 
 ### <a name="resources"></a>Recursos 
 
-Reveja as informações sobre este tema na [Galeria de Operações], https://partner.microsoft.com/resources/collection/eu-efta-changes-collection#/ no site do parceiro da Microsoft.  
+Reveja as informações sobre este tópico no [& UK Change of Partner Billing Currency para novos comércio oferece](https://partner.microsoft.com/resources/collection/eu-efta-changes-collection#/) coleção no site do parceiro microsoft.  
 
 ______________
 
@@ -288,11 +288,11 @@ ______________
 
 ### <a name="summary"></a>Resumo
 
-A Microsoft está a introduzir o acelerador de API a parceiros que chamam APIs do Partner Center para um desempenho mais consistente dentro de um determinado período de tempo.
+A Microsoft está a introduzir o acelerador de API para parceiros que chamam APIs do Partner Center para um desempenho mais consistente dentro de um determinado período de tempo.
 
 ### <a name="impacted-audience"></a>Audiência impactada
 
-Parceiros que transfiram através do programa Fornecedor de Soluções em Nuvem
+Parceiros transagindo através do programa Fornecedor de Soluções em Nuvem
 
 ### <a name="details"></a>Detalhes
 
@@ -313,12 +313,12 @@ O Partner Center é projetado para lidar com um grande volume de pedidos, mas se
 |{baseURL}/v1/customers/{customer_id}/orders/{order_id}|[Obter encomenda por ID](/partner-center/develop/get-an-order-by-id)|  
 |{baseURL}/v1/customers/{customer_id}/orders/{order_id}/provisioningstatus|[Obter o estado de aprovisionamento da subscrição](/partner-center/develop/get-subscription-provisioning-status)|  
 |{baseURL}/v1/customers/{customer_id}/subscrições/{subscription_id}|[Gerir encomendas e gerir uma subscrição](/partner-center/develop/manage-orders#manage-a-subscription)| 
-|{baseURL}/v1/customers/{customer_id}/subscrições/{subscription_id}/addons|[Obter uma lista de suplementos para uma subscrição](/partner-center/develop/get-a-list-of-add-ons-for-a-subscription)| 
+|{baseURL}/v1/clientes/{customer_id}/subscrições/{subscription_id}/addons|[Obter uma lista de suplementos para uma subscrição](/partner-center/develop/get-a-list-of-add-ons-for-a-subscription)| 
 |{baseURL}/v1/customers/{customer_id}/subscrições/{subscription_id}/azureEntitlements|[Obter uma lista de elegibilidade do Azure para uma subscrição](/partner-center/develop/get-a-list-of-azure-entitlements-for-subscription)|  
 |{baseURL}/v1/customers/{customer_id}/subscrições/{subscription_id}/registrationstatus|[Obter o estado de registo da subscrição](/partner-center/develop/get-subscription-registration-status)| 
 |{baseURL}/v1/clientes/{cliente-inquilino-id}/transfers|[Obtenha todas as transferências de um cliente](/partner-center/develop/get-subscription-registration-status)| 
 |{baseURL}/v1/productUpgrades/{upgrade-id}/status|[Obter estado de atualização do produto](/partner-center/develop/get-all-of-a-customer-s-transfers)| 
-|{baseURL}/v1/customers/{customer-id}/subscrições/{subscription-id}/conversões|[Obter uma lista de ofertas de conversão de avaliação](/partner-center/develop/get-all-of-a-customer-s-transfers) |
+|{baseURL}/v1/clientes/{customer-id}/subscrições/{subscrição-id}/conversões|[Obter uma lista de ofertas de conversão de avaliação](/partner-center/develop/get-all-of-a-customer-s-transfers) |
   
 
 Este anúncio destina-se a proporcionar aos parceiros uma consciência precoce das próximas mudanças, permitindo-lhes assim preparar-se. Recomendamos vivamente que os parceiros se familiarizem com estas APIs e considerem usar o registo de atividade API para obter mais eficiência e evitar estrangulamentos. Para obter mais informações sobre esta funcionalidade, consulte os detalhes da [orientação de estrangulamento da API](/partner-center/develop/api-throttling-guidance). 
@@ -338,19 +338,19 @@ ______________
 
 ### <a name="context"></a>Contexto
 
-- Em fevereiro deste ano, foi solicitado aos parceiros que assinassem o Microsoft Customer Agreement (MCuA). Esta foi uma migração do anterior Microsoft Cloud Agreement (MCA). 
-- Como parte desta alteração, foi solicitado aos parceiros que incluíssem o parâmetro tipo de acordo, tal como documentado [aqui.](/partner-center/develop/get-confirmation-of-customer-agreement)
+- Em fevereiro deste ano, foi solicitado aos parceiros que assinassem o Acordo de Cliente da Microsoft (MCuA). Esta foi uma migração do anterior Microsoft Cloud Agreement (MCA). 
+- Como parte deste parceiro de mudança foi solicitado aos parceiros que incluíssem o parâmetro tipo de acordo, como documentado nos [recursos do cartão Azure para obter em tempo real, os preços atuais da Azure nas ofertas da Azure na sua região.](/partner-center/develop/get-confirmation-of-customer-agreement)
 
 ### <a name="what-happened-next"></a>O que aconteceu depois:
 
-- Nem todos os parceiros incluíam o pedido de parâmetros dentro da sua implementação. A Microsoft devolveu o MCA aos sócios.
-- O parceiro reenviaria o pedido de assinatura ao cliente e reenviaria o MCA para a Microsoft. 
-- A duplicação afetou a capacidade da Microsoft de prestar serviço aos parceiros.
+- Nem todos os parceiros incluíam o pedido de parâmetros no âmbito da sua implementação. A Microsoft devolveu o MCA aos sócios.
+- O parceiro reenviaria o pedido de assinatura ao cliente e reenviaria o MCA para a Microsoft.
+- A duplicação afetou a capacidade da Microsoft de prestar serviços aos parceiros.
 - Em setembro de 2020 enviámos uma notificação aos parceiros, através de Yammer em vários fóruns, solicitando que os parceiros corrigissem o parâmetro. A Microsoft já não podia aceitar os duplicados e receberia 409 erros.
 
->[Nota] Esta não foi uma mudança de contrato/API para parceiros.
+>[Nota] Este não era um novo contrato/mudança de API para parceiros.
 
-- Em outubro, trabalhámos de perto com parceiros que tinham tido os pedidos mais duplicados para resolver o problema.
+- Em outubro trabalhámos de perto com parceiros que tinham tido os pedidos mais duplicados para resolver o problema.
 - Atualmente, estamos a recordar aos parceiros, bem como o envio de e-mails pessoais para os 10 principais infratores, para rever os seus pedidos e contactar-nos para que possamos ajudá-los a testar e resolver o problema.
 - A 10 de novembro de 2020 deixámos de aceitar duplicados, e os parceiros que não tinham corrigido os parâmetros, sofreram 409 erros.
 - Desde então, revoámos a alteração para não aceitar duplicados. 
@@ -360,7 +360,7 @@ ______________
 
 ### <a name="next-steps-for-partners"></a>Próximos passos para parceiros
 
-- Reveja estas novas alterações no Centro de Parceiros UI e API. Quando tentar criar uma subscrição de cliente ou atualizar uma subscrição existente para um cliente num desses países, consulte as informações da conta do cliente para se certificar de que adicionou dados aos dois novos campos necessários para esse cliente: Organization INN (Legal Identifier) e Telefone Number. Pode atualizar esta informação através do painel partner [center](https://partner.microsoft.com/dashboard) ou através de [APIs](/partner-center/develop/create-a-customer#company-profile)do Partner Center .
+- Reveja estas novas alterações no Centro de Parceiros UI e API. Quando tentar criar uma subscrição de cliente ou atualizar uma subscrição existente para um cliente num desses países, consulte as informações da conta do cliente para se certificar de que adicionou dados aos dois novos campos necessários para esse cliente: Organization INN (Legal Identifier) e Telefone Number. Pode atualizar esta informação através do painel partner [Center](https://partner.microsoft.com/dashboard) ou através de [APIs](/partner-center/develop/create-a-customer#company-profile)do Partner Center .
 
 - Partilhe esta informação com as equipas apropriadas dentro da sua organização para ajudá-las a prepararem-se para estas mudanças.
 
@@ -383,25 +383,25 @@ Os testes estão agora disponíveis para atualizações de API do Partner Center
 
 ### <a name="details"></a>Detalhes
 
-A Microsoft tem confiança. Estamos empenhados em fornecer um método de validação de clientes conforme, seguro e seguro para a transação de ofertas académicas no programa CSP. Como parte disto, estamos a introduzir melhorias no Centro Parceiro API e UI no segundo trimestre deste ano fiscal (FY21 Q22). Estas melhorias irão adicionar clareza e visibilidade ao processo de validação do cliente, bem como a capacidade de inserir dados mais precisos, o que irá impulsionar um melhor sucesso de validação do cliente.
+A Microsoft tem confiança. Estamos empenhados em fornecer um método de validação de clientes conforme, seguro e seguro para a transação de ofertas académicas no programa CSP. Como parte disto, estamos introduzindo melhorias no Centro Parceiro API e UI no segundo trimestre deste ano fiscal (FY21 Q22). Estas melhorias irão adicionar clareza e visibilidade ao processo de validação do cliente, bem como a capacidade de inserir dados mais precisos, o que irá impulsionar um melhor sucesso de validação do cliente.
 
-**Melhorias do Partner Center**
+**Melhorias do Centro de Parceiros**
 
-- Novas APIs de Qualificações GET e POST para suportar a entrada precisa de dados e melhorar o processo de validação do cliente de Educação pela Microsoft.
+- Novas APIs de Qualificações GET e POST para suportar a entrada precisa de dados e melhorar o processo de validação do cliente da Educação pela Microsoft.
 
 - Melhorias de UI para suportar a entrada precisa de dados e melhorar o processo de validação do cliente de Educação pela Microsoft.
 
 **Teste**
 
-Para obter uma melhor compreensão das APIs e entrada de dados necessárias para a validação bem sucedida do cliente, os parceiros poderão testar estas melhorias a partir de outubro de 2020. Em breve, forneceremos mais detalhes sobre o momento exato e como participar. As APIs do Centro de Parceiros existentes serão retiradas antes do final do FY21 Q22. Nessa altura, terás de te mudar para as novas APIs do Partner Center.
+Para obter uma melhor compreensão das APIs e entrada de dados necessárias para validação bem sucedida do cliente, os parceiros poderão testar estas melhorias a partir de outubro de 2020. Em breve, forneceremos mais detalhes sobre o momento exato e como participar. As APIs do Centro de Parceiros existentes serão retiradas antes do final do FY21 Q22. Nessa altura, terás de te mudar para as novas APIs do Centro de Parceiros.
 
-   - Testes disponíveis As datas de teste do parceiro são de 2 de outubro a 2 de dezembro de 2020. Os parceiros que queiram participar devem descarregar o guia de testes do cliente Partner Center Education para saber como se preparar, como se inscrever e o que esperar durante a fase de testes.
+   - Testes disponíveis As datas de teste do parceiro são de 2 de outubro a 2 de dezembro de 2020. Os parceiros que quiserem participar devem descarregar o guia de testes do cliente partner Center Education para saber como se preparar, como se inscrever e o que esperar durante a fase de testes.
 
 **Clientes da Biblioteca e museu**
 
-Além destas melhorias, estamos entusiasmados por anunciar que no FY21 Q22, vamos permitir ofertas académicas para clientes de Bibliotecas e Museus, expandindo os clientes de Educação com os quais pode transacionar ofertas de CSP.
+Além destas melhorias, estamos entusiasmados por anunciar que, no FY21 Q22, permitiremos ofertas académicas para clientes de Bibliotecas e Museus, expandindo os clientes de Educação com os quais pode transacionar ofertas de CSP.
 
-A Microsoft reserva-se o direito de rever o estado de qualquer cliente ou cliente proposto como utilizador educacional qualificado. Consulte os requisitos do [Utilizador académico de educação qualificada](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7) para obter todos os detalhes.
+A Microsoft reserva-se o direito de rever o estado de qualquer cliente ou cliente proposto como utilizador educacional qualificado. Consulte os requisitos do [Utilizador de Educação Qualificada Académica](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7) para obter todos os detalhes.
 
 ### <a name="next-steps"></a>Passos seguintes
 
@@ -424,7 +424,7 @@ ______________
 
 ### <a name="summary"></a>Resumo
 
-A partir de 5 de novembro de 2020, os conteúdos parceiros de licenciamento comercial da Universidade Parceira também estarão disponíveis na Galeria de Prontidão de Operações.
+A partir de 5 de novembro de 2020, o conteúdo parceiro de licenciamento comercial da Universidade Parceira também estará disponível na Galeria de Prontidão de Operações.
 
 ### <a name="impacted-audience"></a>Audiência impactada
 
@@ -432,7 +432,7 @@ Parceiros comerciais
 
 ### <a name="details"></a>Detalhes
 
-A partir de 5 de novembro de 2020, os conteúdos parceiros de licenciamento comercial da Universidade Parceira também estarão disponíveis na Galeria de Prontidão de Operações. Isto consolida o já existente parceiro operacional e de licenciamento comercial que lança conteúdos na Galeria de Prontidão de Operações com o nosso conteúdo parceiro de licenciamento comercial duradouro da Partner University. Proporcionará assim aos parceiros uma experiência de prontidão mais perfeita. Foram adicionadas as seguintes coleções à Galeria de Preparação de Operações:
+A partir de 5 de novembro de 2020, os conteúdos parceiros de licenciamento comercial da Universidade Parceira também estarão disponíveis na Galeria de Prontidão de Operações. Isto consolida o já existente parceiro operacional e de licenciamento comercial que lança conteúdo na Galeria de Prontidão de Operações com o nosso conteúdo parceiro de licenciamento comercial duradouro da Partner University. Proporcionará assim aos parceiros uma experiência de prontidão mais perfeita. Foram adicionadas as seguintes coleções à Galeria de Preparação de Operações:
 
 - [Microsoft Azure - Ofertas e Licenciamento](https://partner.microsoft.com/resources/collection/microsoft-azure-offers-and-licensing#/)
 - [Licenciamento Comercial - Chamada de Holofotes da CSP](https://partner.microsoft.com/resources/collection/commercial-licensing-csp-spotlight-call#/)
@@ -469,22 +469,22 @@ Com a oferta premium, os clientes têm acesso aos recém-lançados serviços Sal
 
    |****|**Salas Microsoft Teams Standard Dispositivo USD15 por mês**|**Salas Microsoft Teams Premium Dispositivo USD50 por mês**|
    |-------------------|:------|:------|
-   |Skype para Empresas|Yes| |
-   |Microsoft Stream|Yes|Yes|
-   |Sistema Telefónico|Yes|Yes|
-   |Conferência sonora|Yes|Yes|
-   |Microsoft Intune|Yes|Yes|
+   |Skype para Empresas|Sim| |
+   |Microsoft Stream|Sim|Sim|
+   |Sistema Telefónico|Sim|Sim|
+   |Conferência sonora|Sim|Sim|
+   |Microsoft Intune|Sim|Sim|
    | |Salas Microsoft Teams Standard USD15 por dispositivo por mês|Salas Microsoft Teams Premium USD50 por dispositivo por mês|
-   |Salas Microsoft Teams Serviços Geridos| |Yes|
-   |Disponibilidade mundial|Yes|Em mercados selecionados|
+   |Salas Microsoft Teams Serviços Geridos| |Sim|
+   |Disponibilidade mundial|Sim|Em mercados selecionados|
 
 #### <a name="microsoft-teams-rooms-managed-services"></a>Salas Microsoft Teams Serviços Geridos
 
 - Gestão proativa: gestão 24x7x365 dos seus sistemas de quartos, incluindo patching, gestão de configuração, e muito mais.
-- Monitorização em tempo real e análise de causas de raiz: Monitorização e deteção com resposta orquestrada de gestão de incidentes impulsionada pela Microsoft em coordenação com o cliente, quando necessário. A aplicação móvel permite-lhe manter-se alerta on-the-go.
-- Atualizações geridas: Gestão e entrega de aplicações, Windows KB e atualizações de firmware.
-- Proteção contra ameaças de segurança: Proteção contra ameaças de segurança através da Proteção avançada de ameaças do Microsoft Defender.
-- Suporte ao cliente: suporte de bilhete 24x7x365 através do nosso centro de operações de serviço dedicado com remediação assistida de incidentes para casos não automatizados. Controlo de acesso baseado em funções granular.
+- Monitorização em tempo real e análise de causa-raiz: Monitorização e deteção com resposta orquestrada de gestão de incidentes impulsionada pela Microsoft em coordenação com o cliente, quando necessário. A aplicação móvel permite-lhe manter-se alerta em movimento.
+- Atualizações geridas: Gestão e entrega de aplicações, Windows kB e atualizações de firmware.
+- Proteção contra ameaças de segurança: Proteção contra ameaças de segurança através da Proteção Avançada de Ameaças do Microsoft Defender.
+- Suporte ao cliente: suporte a bilhetes 24x7x365 através do nosso centro de operações de serviço dedicado com remediação assistida de incidentes para casos não automatizados. Controlo de acesso baseado em funções granular.
 - Informações e recomendações: Insights agregados entre os clientes e relatórios sobre saúde da sala, inventário, uso, reuniões online e tendências de incidentes.
 
 #### <a name="offer-details"></a>Oferecer detalhes
@@ -493,7 +493,7 @@ Com a oferta premium, os clientes têm acesso aos recém-lançados serviços Sal
    |-------------------|:------|:------|
    |Salas Teams Premium|5db9aa31-f039-4740-b122-a33514e4c492|6XB-00007|
    |Salas Teams Premium (EUA e CAN)|03070f91-cc77-4c2e-b269-4a214b3698ab|6XB-00008|
-   |Salas Teams Premium para o corpo docente|d0c9a9a9-c9b6-41d7-9148-b60115c36c95|6Y5-00005|
+   |Salas Teams Premium para o corpo docente|d0c9a9-c9b6-41d7-9148-b60115c36c95|6Y5-00005|
 
 ### <a name="next-steps"></a>Passos seguintes
 
@@ -501,12 +501,12 @@ Com a oferta premium, os clientes têm acesso aos recém-lançados serviços Sal
 - Familiarize-se com a nova oferta e a sua disponibilidade geográfica. 
 - Saiba mais sobre o Microsoft Rooms e ofertas relacionadas no [Microsoft Team Rooms](https://rooms.microsoft.com/).
 - Utilize o [Guia de Parceiros Teams](https://aka.ms/teamscallingmeetingsguide) para desenvolver a sua prática com Teams Salas de Reuniões e crie uma oferta De Co-venda Ready.
-- Reveja a [Salas Microsoft Teams FAQ](https://aka.ms/PartnerMTRFAQ) para saber mais sobre a solução e serviços do produto. 
+- Reveja o [Salas Microsoft Teams FAQ](https://aka.ms/PartnerMTRFAQ) para saber mais sobre a solução e serviços do produto. 
 - Partilhe esta informação com todos os contactos apropriados na sua organização e compreenda as oportunidades de venda e venda cruzada.
 
 ________________
 
-## <a name="new-microsoft-teams-advanced-communications-skus-for-government-community-cloud-gcc-coming-soon"></a><a name="4"></a>Novos Microsoft Teams SKUs de Comunicações Avançadas para Nuvem da Comunidade Governamental (GCC) em breve
+## <a name="new-microsoft-teams-advanced-communications-skus-for-government-community-cloud-gcc-coming-soon"></a><a name="4"></a>Novos MICROSOFT TEAMS Advanced Communications SKUs para Nuvem da Comunidade Governamental (GCC) em breve
 
 ### <a name="categories"></a>Categorias
 
@@ -515,7 +515,7 @@ ________________
 
 ### <a name="summary"></a>Resumo
 
-O novo addon Advanced Communications SKU para Microsoft Teams em GCC estará disponível a partir de 1 de dezembro de 2020.
+O novo add-on de Comunicações Avançadas SKU para Microsoft Teams em GCC estará disponível a partir de 1 de dezembro de 2020.
 
 ### <a name="impacted-audience"></a>Audiência impactada
 
@@ -523,7 +523,7 @@ Todos os parceiros que transfiram através do programa Fornecedor de Soluções 
 
 ### <a name="details"></a>Detalhes
 
-O novo complemento de Comunicações Avançadas para Microsoft Teams em GCC está agora disponível a USD12 por utilizador por mês. Os SKUs adicionais podem ser adquiridos em cima de qualquer outra suíte Microsoft 365 que contenha Microsoft Teams. A Advanced Communications fornece um novo conjunto de capacidades para grandes reuniões, políticas de comunicação, integrações e ferramentas avançadas para a gestão de TI. 
+O novo addon Advanced Communications para Microsoft Teams em GCC está agora disponível em USD12 por utilizador por mês. Os SKUs adicionais podem ser adquiridos em cima de qualquer outra suíte Microsoft 365 que contenha Microsoft Teams. A Advanced Communications fornece um novo conjunto de capacidades para grandes reuniões, políticas de comunicação, integrações e ferramentas avançadas para a gestão de TI. 
 
 #### <a name="offer-details"></a>Oferecer detalhes
 
@@ -551,7 +551,7 @@ Partilhe esta informação com os contactos relevantes na sua organização e co
 
 ________________
 
-## <a name="dynamics-365-recently-launched-and-upcoming-new-offers-and-products"></a><a name="3"></a>Dinâmica 365: Lançadas recentemente e futuras ofertas e produtos
+## <a name="dynamics-365-recently-launched-and-upcoming-new-offers-and-products"></a><a name="3"></a>Dynamics 365: Lançadas recentemente e futuras ofertas e produtos
 
 ### <a name="categories"></a>Categorias
 
@@ -566,9 +566,9 @@ Fornecedores diretos, fornecedores indiretos e revendedores indiretos
 
 #### <a name="new-offers"></a>Novas ofertas
 
-Em 1 de novembro de 2020, a Microsoft lançou ofertas dynamics 365 Project Operations e removeu a Dynamics 365 Project Service Automation (PSA) para clientes comerciais. Esta comunicação fornece informações adicionais sobre o mapeamento de direitos de dupla utilização a partir deste lançamento e novas ofertas incorporadas pelo fornecedor de software independente (ISV).
+A 1 de novembro de 2020, a Microsoft lançou ofertas dynamics 365 Project Operations e removeu a Dynamics 365 Project Service Automation (PSA) para clientes comerciais. Esta comunicação fornece informações adicionais sobre o mapeamento de direitos de dupla utilização a partir deste lançamento e novas ofertas incorporadas pelo fornecedor de software independente (ISV).
 
-#### <a name="project-operations-isv-embed-offers"></a>Project Ofertas isv embed operações
+#### <a name="project-operations-isv-embed-offers"></a>Project Operações ISV Embed oferece
 
 Em 1 de novembro de 2020, a Microsoft lançou três ofertas adicionais de 36 meses da ISV Embed para a Dynamics 365 para Project Operações a Fornecedor de Soluções em Nuvem clientes (CSP). Consulte o separador operações de Project no [Offers-November Excel de 2020](https://partner.microsoft.com/resources/detail/dynamics-csp-offers-november-xls) para os detalhes do SKU.
 
@@ -579,15 +579,15 @@ Pode encontrar informações sobre os direitos de dupla utilização da Dynamics
    |**Oferta de operações D365**|**Mapeamento de direitos de dupla utilização D365 no local**|
    |-------------------|:------|
    |Oferta de operações D365|Mapeamento de direitos de dupla utilização D365 no local|
-   |Operações Project D365|D365 para Operações, on-prem (AX Server) utilizando o SKU de Operações de Project Dyn365 (109108477)|
-   |D365 Project Operações Attach|D365 para Operações, on-prem (AX Server) utilizando o SKU de Operações de Project Dyn365 (109108477)|
-   |Finanças D365 com Operações Project|D365 para Operações, on-prem (AX Server) utilizando o SKU de Operações de Project Dyn365 (109108477)|
-   |D365 Finanças Anexam com operações Project|D365 para Operações, on-prem (AX Server) utilizando o SKU de Operações de Project Dyn365 (109108477)|
-   |D365 Operações Unificadas – Atividade com Operações Project|D365 para Operações, on-prem (AX Server) utilizando o SKU de Operações de Project Dyn365 (109108477)|
+   |Operações Project D365|D365 para Operações, on-prem (AX Server) utilizando o Dyn365 Project Operations SKU (109108477)|
+   |D365 Project Operações Attach|D365 para Operações, on-prem (AX Server) utilizando o Dyn365 Project Operations SKU (109108477)|
+   |D365 Finanças com Operações Project|D365 para Operações, on-prem (AX Server) utilizando o Dyn365 Project Operations SKU (109108477)|
+   |D365 Finanças Anexam com operações Project|D365 para Operações, on-prem (AX Server) utilizando o Dyn365 Project Operations SKU (109108477)|
+   |D365 Operações Unificadas – Atividade com Operações Project|D365 para Operações, on-prem (AX Server) utilizando o Dyn365 Project Operations SKU (109108477)|
 
 #### <a name="previously-announced"></a>Previamente anunciado
 
-A 1 de novembro de 2020, a Microsoft lançou as seguintes novas e atualizadas ofertas e produtos da Dynamics 365 e Power Platform para CSP:
+A 1 de novembro de 2020, a Microsoft lançou as seguintes ofertas e produtos da Plataforma Dinâmica 365 e Power para CSP:
 
 - Dinâmica 365 Voz do Cliente USL 
 
@@ -610,7 +610,7 @@ ________________
 
 ### <a name="summary"></a>Resumo
 
-A 1 de novembro de 2020, a Microsoft apresentou novos SKUs para Microsoft 365 Voz Para Empresas para organizações sem fins lucrativos.
+Em 1 de novembro de 2020, a Microsoft apresentou novos SKUs para Microsoft 365 Voz Para Empresas para organizações sem fins lucrativos.
 
 ### <a name="impacted-audience"></a>Audiência impactada
 
@@ -624,7 +624,7 @@ Microsoft 365 Voz Para Empresas é um sistema telefónico baseado em nuvem para 
 
 Consulte a tabela de preços para obter detalhes sobre os preços.
 
-Microsoft 365 Voz Para Empresas podem ser adicionados às seguintes subscrições para até 300 utilizadores:
+Microsoft 365 Voz Para Empresas podem ser adicionadas às seguintes subscrições para até 300 utilizadores:
 
 - Office 365: Business Essentials, Business Premium, A1, E1, A3 e E3
 - Microsoft 365: Negócios, A3 e E3
@@ -654,7 +654,7 @@ Todos os parceiros que transfiram através do programa CSP
 
 ### <a name="details"></a>Detalhes
 
-A partir de 1 de novembro de 2020 a 30 de abril de 2021, as novas e renovações de Microsoft 365 Voz Para Empresas com o Plano de Chamada e Microsoft 365 Voz Para Empresas sem Plano de Chamada estão sujeitas a preços de desconto. Microsoft 365 Voz Para Empresas com o Plano de Chamada está sujeito a um desconto de 25% durante 12 meses, e Microsoft 365 Voz Para Empresas sem o Plano de Chamada está sujeito a um desconto de 33% durante 12 meses. 
+A partir de 1 de novembro de 2020 a 30 de abril de 2021, as novas e renovações de Microsoft 365 Voz Para Empresas com Plano de Chamada e Microsoft 365 Voz Para Empresas sem Plano de Chamada estão sujeitas a preços de desconto. Microsoft 365 Voz Para Empresas com o Plano de Chamada está sujeito a um desconto de 25% durante 12 meses, e Microsoft 365 Voz Para Empresas sem o Plano de Chamada está sujeito a um desconto de 33% durante 12 meses. 
 
 #### <a name="offer-details"></a>Oferecer detalhes
 
