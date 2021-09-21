@@ -9,11 +9,11 @@ ms.author: shganesh
 ms.localizationpriority: medium
 ms.date: 07/14/2021
 ms.openlocfilehash: 304607b5d79b0ad8a07c3efe690ccb7feef83331
-ms.sourcegitcommit: 8d5c2463fc0f0c03972a6f89d01605421288daea
+ms.sourcegitcommit: ab5eda007f87f22fa3375b8e05adfccd6ebc285e
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/19/2021
-ms.locfileid: "128001698"
+ms.lasthandoff: 09/21/2021
+ms.locfileid: "128058948"
 ---
 # <a name="programmatic-access-paradigm"></a>Paradigma de acesso programático
 
@@ -53,7 +53,7 @@ O exemplo a seguir mostra como criar uma consulta personalizada para obter os 10
 
 ### <a name="request-header"></a>Cabeçalho do pedido
 
-|    Cabeçalho     |    Tipo     |    Descrição     |
+|    Cabeçalho     |    Tipo     |    Description     |
 |-------|-----|------|
 |    Autorização     |    string |Obrigatório. O Azure Ative Directory (Azure AD) de acesso a um token. O formato  `Bearer <token>` é.|
 |    Content-Type     |string |`Application/JSON` |
@@ -83,9 +83,9 @@ Esta tabela fornece as definições-chave dos elementos na carga útil do pedido
 
 |Parâmetro|    Necessário     |    Descrição     |    Valores Permitidos     |
 |-----|    -----    |    -----    |    -----    |
-|Name |    Sim     |    Nome amigável da consulta     |    string     |
+|Nome |    Yes     |    Nome amigável da consulta     |    string     |
 |    Descrição     |    Não     |    Descrição do que a consulta retorna     |    string     |
-|    Consulta     |    Sim     |    Cadeia de consulta de relatório     |    Tipo de dados: cadeia <br> [Consulta personalizada](insights-programmatic-custom-query.md) baseada na necessidade de negócio |
+|    Consulta     |    Yes     |    Cadeia de consulta de relatório     |    Tipo de dados: cadeia <br> [Consulta personalizada](insights-programmatic-custom-query.md) baseada na necessidade de negócio |
 |        |        |        |        |
 
 > [!Note]
@@ -127,8 +127,8 @@ Esta tabela fornece as definições-chave dos elementos na carga útil do pedido
 |    Parâmetro     |    Descrição     |
 |    ----    |    ----    |
 |    QueryId     |    Identificador universalmente único (UUID) da consulta que criou     |
-|    Name     |    Nome amigável dado à consulta na carga útil do pedido     |
-|    Descrição     |    Descrição dada durante a criação da consulta     |
+|    Nome     |    Nome amigável dado à consulta na carga útil do pedido     |
+|    Description     |    Descrição dada durante a criação da consulta     |
 |    Consulta     |    Consulta de relatório passada como entrada durante a criação de consulta     |
 |    Tipo     |    Definir para `userDefined`     |
 |    Utilizador     |    ID do utilizador usado para criar a consulta     |
@@ -165,7 +165,7 @@ Dois campos adicionais podem ser passados quando `ExecuteNow` é verdade, `Query
 
 ### <a name="request-header"></a>Cabeçalho do pedido
 
-|    Cabeçalho     |    Tipo     |    Descrição     |
+|    Cabeçalho     |    Tipo     |    Description     |
 |-------|-----|------|
 |    Autorização     |    string |Obrigatório. O Azure Ative Directory (Azure AD) de acesso a um token. O formato  `Bearer <token>` é.|
 |    Content-Type     |string |`Application/JSON` |
@@ -203,18 +203,18 @@ As definições-chave dos elementos na carga útil do pedido são articuladas ab
 
 |    Parâmetro     |    Necessário     |    Descrição     |    Valores Permitidos     |
 |    ----    |    ----    |    ----    |    ----    |
-|    Nome do relatório     |    Sim     |    Nome a atribuir ao relatório     |    string     |
+|    Nome do relatório     |    Yes     |    Nome a atribuir ao relatório     |    string     |
 |    Descrição     |    Não     |    Descrição do relatório criado     |    string     |
-|    QueryId     |    Sim     |    ID de consulta de relatório     |    string     |
-|    StartTime     |    Sim     |    Utc Timestamp em que a geração do relatório começará. <br> O formato deve ser: yyy-MM-ddTHH:mm:ssZ       |    string     |
-|    Executar Agora     |    Não     |    Este parâmetro deve ser usado para criar um relatório que será executado apenas uma vez. `StartTime`, `RecurrenceInterval` e `RecurrenceCount` são ignorados se isto for verdade. O relatório é executado imediatamente de forma assíncronea     |    verdadeiro/falso     |
-|    Horário de ConsultaStart     |    Não     |    Opcionalmente especifica a hora de início para a consulta extraindo os dados. Este parâmetro é aplicável apenas para relatórios de execução únicos que `ExecuteNow` definiram como verdadeiro. Definir este parâmetro sobrepõe-se `TIMESPAN` na consulta. O formato deve ser yyy-MM-ddTHH:mm:ssZ     |    Tempotampia como corda     |
-|    ConsultaEndTime     |    Não     |    Opcionalmente especifica o tempo final para a consulta extração dos dados. Este parâmetro é aplicável apenas por um relatório de execução de tempo que `ExecuteNow` se definiram como verdadeiro. Definir este parâmetro sobrepõe-se `TIMESPAN` na consulta. O formato deve ser yyy-MM-ddTHH:mm:ssZ     |    Tempotampia como corda     |
-|    RecorrenceInterval     |    Sim     |    Frequência em horas em que o relatório deve ser gerado. <br> O valor mínimo é 4 e o valor máximo é 2160.      |    número inteiro     |
-|    RecorrenceCount     |    Não     |    Número de relatórios a serem gerados.     |    número inteiro     |
-|    Formato     |    Não     |    Formato de ficheiro do ficheiro exportado. <br> O padrão é CSV.    |    "CSV"/"TSV"     |
-|    CallbackUrl     |    Não     |    URL acessível publicamente que pode ser configurado opcionalmente como destino de retorno     |    String (http URL)     |
-|    CallbackMethod     |    Não     |    O método a ser usado para o retorno     |    GET/POST     |
+|    QueryId     |    Yes     |    ID de consulta de relatório     |    string     |
+|    StartTime     |    Yes     |    Utc Timestamp em que a geração do relatório começará. <br> O formato deve ser: yyy-MM-ddTHH:mm:ssZ       |    string     |
+|    Executar Agora     |    No     |    Este parâmetro deve ser usado para criar um relatório que será executado apenas uma vez. `StartTime`, `RecurrenceInterval` e `RecurrenceCount` são ignorados se isto for verdade. O relatório é executado imediatamente de forma assíncronea     |    verdadeiro/falso     |
+|    Horário de ConsultaStart     |    No     |    Opcionalmente especifica a hora de início para a consulta extraindo os dados. Este parâmetro é aplicável apenas para relatórios de execução únicos que `ExecuteNow` definiram como verdadeiro. Definir este parâmetro sobrepõe-se `TIMESPAN` na consulta. O formato deve ser yyy-MM-ddTHH:mm:ssZ     |    Tempotampia como corda     |
+|    ConsultaEndTime     |    No     |    Opcionalmente especifica o tempo final para a consulta extração dos dados. Este parâmetro é aplicável apenas por um relatório de execução de tempo que `ExecuteNow` se definiram como verdadeiro. Definir este parâmetro sobrepõe-se `TIMESPAN` na consulta. O formato deve ser yyy-MM-ddTHH:mm:ssZ     |    Tempotampia como corda     |
+|    RecorrenceInterval     |    Yes     |    Frequência em horas em que o relatório deve ser gerado. <br> O valor mínimo é 4 e o valor máximo é 2160.      |    número inteiro     |
+|    RecorrenceCount     |    No     |    Número de relatórios a serem gerados.     |    número inteiro     |
+|    Formato     |    No     |    Formato de ficheiro do ficheiro exportado. <br> O padrão é CSV.    |    "CSV"/"TSV"     |
+|    CallbackUrl     |    No     |    URL acessível publicamente que pode ser configurado opcionalmente como destino de retorno     |    String (http URL)     |
+|    CallbackMethod     |    No     |    O método a ser usado para o retorno     |    GET/POST     |
 |        |        |        |        |
 
 ### <a name="sample-response"></a>Resposta de amostra
@@ -263,7 +263,7 @@ As definições-chave dos elementos na resposta são articuladas abaixo:
 |    ----    |    ----    |
 |    ReportId     |    Identificador universalmente único (UUID) do relatório que criou     |
 |    Nome do relatório     |    Nome dado ao relatório na carga útil do pedido     |
-|    Descrição     |    Descrição dada durante a criação do relatório     |
+|    Description     |    Descrição dada durante a criação do relatório     |
 |    QueryId     |    ID de consulta passou no momento em que criou o relatório     |
 |    Consulta     |    Texto de consulta que será executado para este relatório     |
 |    Utilizador     |    ID do utilizador usado para criar o relatório     |
@@ -297,25 +297,25 @@ Pode utilizar este método para consultar o estado de execução de um relatóri
 
 ### <a name="request-header"></a>Cabeçalho do pedido
 
-|    Cabeçalho     |    Tipo     |    Descrição     |
+|    Cabeçalho     |    Tipo     |    Description     |
 |-------|-----|------|
 |    Autorização     |    string |Obrigatório. O Azure Ative Directory (Azure AD) de acesso a um token. O formato  `Bearer <token>` é.|
 |    Content-Type     |string |`Application/JSON` |
 
 ### <a name="path-parameter"></a>Parâmetro do caminho
 
-|    Nome do Parâmetro    |    Necessário    |    Tipo    |    Descrição    |
+|    Nome do Parâmetro    |    Necessário    |    Tipo    |    Description    |
 |    ----    |    ----    |    ----    |    ----    |
 |    reportId    |    Yes    |    string    |    Filtrar para obter detalhes de execução de apenas relatórios com o relatório Dado neste argumento. Vários reportÍdeos podem ser especificados separando-os com um ponto e vírgula ";".    |
 |        |        |        |        |
 
 ### <a name="query-parameter"></a>Parâmetro de consulta
 
-|    Nome do Parâmetro    |    Necessário    |    Tipo    |    Descrição    |
+|    Nome do Parâmetro    |    Necessário    |    Tipo    |    Description    |
 |    ----    |    ----    |    ----    |    ----    |
 |    execuçãoId    |    No    |    string    |    Filtrar para obter detalhes de apenas relatórios com a execuçãoId dada neste argumento. Execuções múltiplas podem ser especificadas separando-as com um ponto e vírgula ";".    |
-|    execuçãoStatus    |    Não    |    Corda/enum    |    Filtre para obter detalhes de apenas relatórios com a execuçãoStatus dado neste argumento. <br> Valores válidos são: `Pending` `Running` , , e `Paused` `Completed` . <br> O valor predefinido é `Completed`. <br> Vários estados podem ser especificados separando-os com um ponto e vírgula ";".    |
-|    obterExecução de Testes    |    Não    |    boolean    |    A API devolverá detalhes da última execução. Por padrão, este parâmetro é definido como verdadeiro.<br> Se optar por passar o valor deste parâmetro como falso, então a API devolverá os últimos 90 dias de execução.    |
+|    execuçãoStatus    |    No    |    Corda/enum    |    Filtre para obter detalhes de apenas relatórios com a execuçãoStatus dado neste argumento. <br> Valores válidos são: `Pending` `Running` , , e `Paused` `Completed` . <br> O valor predefinido é `Completed`. <br> Vários estados podem ser especificados separando-os com um ponto e vírgula ";".    |
+|    obterExecução de Testes    |    No    |    boolean    |    A API devolverá detalhes da última execução. Por padrão, este parâmetro é definido como verdadeiro.<br> Se optar por passar o valor deste parâmetro como falso, então a API devolverá os últimos 90 dias de execução.    |
 |        |        |        |        |
 
 ### <a name="sample-request-payload"></a>Carga de pedido de amostra
