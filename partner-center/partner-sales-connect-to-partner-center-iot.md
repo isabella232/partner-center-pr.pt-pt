@@ -10,11 +10,11 @@ ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 07/07/2021
 ms.openlocfilehash: 2b05046118c83c0d398272da68054a8a0c9c48e4
-ms.sourcegitcommit: 731a5e2725a72ecdae40189a3f52ab6b4a4c8058
+ms.sourcegitcommit: 23ba623b50b06c866703fd876f1b40f3a49ce504
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/19/2021
-ms.locfileid: "127987640"
+ms.lasthandoff: 09/22/2021
+ms.locfileid: "128074636"
 ---
 # <a name="guide-to-create-and-manage-iot-deals-in-partner-center-pc-for-iot-partners-migrating-from-partner-sales-connect-psc"></a>Guia para criar e gerir ofertas de IOT no Partner Center (PC) para parceiros IOT migrando de Parceiros Sales Ligação (PSC)
 

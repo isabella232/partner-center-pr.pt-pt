@@ -9,11 +9,11 @@ ms.author: shganesh
 ms.localizationpriority: medium
 ms.date: 07/14/2021
 ms.openlocfilehash: 304607b5d79b0ad8a07c3efe690ccb7feef83331
-ms.sourcegitcommit: ab5eda007f87f22fa3375b8e05adfccd6ebc285e
+ms.sourcegitcommit: 23ba623b50b06c866703fd876f1b40f3a49ce504
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/21/2021
-ms.locfileid: "128058948"
+ms.lasthandoff: 09/22/2021
+ms.locfileid: "128074619"
 ---
 # <a name="programmatic-access-paradigm"></a>Paradigma de acesso programático
 
@@ -83,7 +83,7 @@ Esta tabela fornece as definições-chave dos elementos na carga útil do pedido
 
 |Parâmetro|    Necessário     |    Descrição     |    Valores Permitidos     |
 |-----|    -----    |    -----    |    -----    |
-|Nome |    Yes     |    Nome amigável da consulta     |    string     |
+|Name |    Yes     |    Nome amigável da consulta     |    string     |
 |    Descrição     |    Não     |    Descrição do que a consulta retorna     |    string     |
 |    Consulta     |    Yes     |    Cadeia de consulta de relatório     |    Tipo de dados: cadeia <br> [Consulta personalizada](insights-programmatic-custom-query.md) baseada na necessidade de negócio |
 |        |        |        |        |
@@ -127,7 +127,7 @@ Esta tabela fornece as definições-chave dos elementos na carga útil do pedido
 |    Parâmetro     |    Descrição     |
 |    ----    |    ----    |
 |    QueryId     |    Identificador universalmente único (UUID) da consulta que criou     |
-|    Nome     |    Nome amigável dado à consulta na carga útil do pedido     |
+|    Name     |    Nome amigável dado à consulta na carga útil do pedido     |
 |    Description     |    Descrição dada durante a criação da consulta     |
 |    Consulta     |    Consulta de relatório passada como entrada durante a criação de consulta     |
 |    Tipo     |    Definir para `userDefined`     |
