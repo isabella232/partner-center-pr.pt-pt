@@ -9,11 +9,11 @@ ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/15/2020
 ms.openlocfilehash: ed1959e9b264b3f324fb0f2f528971163160f431
-ms.sourcegitcommit: 731a5e2725a72ecdae40189a3f52ab6b4a4c8058
+ms.sourcegitcommit: fceaca54b0ec695cf214209c09b4516e1b40866a
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/20/2021
-ms.locfileid: "128007231"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "128322422"
 ---
 # <a name="the-10-essentials-for-working-with-incentives"></a>Os 10 essenciais para trabalhar com incentivos
 

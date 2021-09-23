@@ -8,12 +8,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.date: 07/14/2021
-ms.openlocfilehash: 304607b5d79b0ad8a07c3efe690ccb7feef83331
-ms.sourcegitcommit: 23ba623b50b06c866703fd876f1b40f3a49ce504
+ms.openlocfilehash: 674cc6f800edc540920d80bedd031fae959b973b
+ms.sourcegitcommit: fceaca54b0ec695cf214209c09b4516e1b40866a
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/22/2021
-ms.locfileid: "128074619"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "128322560"
 ---
 # <a name="programmatic-access-paradigm"></a>Paradigma de acesso programático
 

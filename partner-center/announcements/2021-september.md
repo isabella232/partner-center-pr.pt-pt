@@ -11,18 +11,53 @@ ms.custom:
 - references_regions
 ms.localizationpriority: high
 ms.date: 09/20/2021
-ms.openlocfilehash: c1ce15374166c96ee5bfeac6923ea0df0c368c0c
-ms.sourcegitcommit: eeb81ccb888239a0e8fbe4711de3ce07f3b00358
+ms.openlocfilehash: 51706ec685519ea297e851cb4f2b862b96db3da1
+ms.sourcegitcommit: fceaca54b0ec695cf214209c09b4516e1b40866a
 ms.translationtype: MT
 ms.contentlocale: pt-PT
 ms.lasthandoff: 09/23/2021
-ms.locfileid: "128309763"
+ms.locfileid: "128322459"
 ---
 # <a name="september-2021-announcements"></a>Anúncios de setembro de 2021
 
 Esta página fornece os anúncios para o Microsoft Partner Center para setembro de 2021.
 
 ________________
+
+## <a name="product-keys-available-for-business-central-for-dual-use-rights"></a><a name="13"></a> Chaves do produto disponíveis para Business Central para direitos de dupla utilização
+
+### <a name="categories"></a>Categorias
+
+- Data: 2021-09-23
+- Capacidades
+
+### <a name="summary"></a>Resumo
+
+A partir de 23 de setembro de 2021, as chaves de produto para a versão no local do Business Central para direitos de dupla utilização estarão disponíveis para os clientes através de centro de administração do Microsoft 365.
+
+### <a name="impacted-audience"></a>Audiência impactada
+
+Parceiros da CSP
+
+### <a name="details"></a>Detalhes
+
+A partir de 23 de setembro de 2021, as chaves de produto para a versão no local da Business Central para benefício dos direitos de dupla utilização deixarão de estar disponíveis no Partner Source Business Center (PSBC). Os clientes podem auto-servir as chaves de produto da sua organização através de centro de administração do Microsoft 365.
+
+Não há alterações no processo de encomenda ou no processo de cumprimento do código do país.
+
+### <a name="next-steps"></a>Passos seguintes
+
+- Reveja os recursos sobre este tema e partilhe com as partes interessadas apropriadas na sua organização.  
+- Certifique-se de que a sua organização e organizações de clientes estão familiarizadas com esta mudança.
+- Se não está familiarizado com a forma de descarregar as chaves do produto, [reveja baixar as chaves de software perpétuo e licença de produto](/microsoft-365/admin/setup/download-software-licenses-csp?view=o365-worldwide).
+- Reveja o processo de cumprimento de direitos de dupla utilização da Dynamics na [coleção Dynamics 365 Business Central Dual Use Rights Resources](https://partner.microsoft.com/resources/collection/dynamics-365-business-central-dual-use-rights-resources#/).
+
+### <a name="questions"></a>Perguntas?
+
+Para quaisquer questões sobre estas ofertas, consulte as suas comunidades Yammer relevantes.
+
+________________
+
 ## <a name="reminder-introducing-api-throttling-to-partners-calling-partner-center-apis"></a><a name="12"></a>Lembrete: Introdução do estrangulamento da API aos parceiros que chamam APIs do Partner Center
 
 ### <a name="summary"></a>Resumo
@@ -44,7 +79,7 @@ A partir de outubro de 2021, a Microsoft estará a implementar o estrangulamento
   
 #### <a name="partner-benefits"></a>Benefícios do parceiro
 
-Enquanto o Partner Center é projetado para lidar com um grande volume de pedidos, se um número esmagador de pedidos ocorrer, o estrangulamento ajuda a manter o melhor desempenho e fiabilidade para todos os parceiros. 
+Enquanto o Partner Center é projetado para lidar com um grande volume de pedidos, se um número esmagador de pedidos ocorrer, o estrangulamento ajuda a manter o melhor desempenho e fiabilidade para todos os parceiros.
 
 Os benefícios incluem o seguinte:
 
@@ -67,13 +102,13 @@ Recomendamos que considere usar o log de atividade API para obter mais eficiênc
 
 Reveja os [recursos](/partner-center/develop/api-throttling-guidance) para este tema e tome as medidas necessárias.
 
-### <a name="change-log"></a>Alterar registo:
+### <a name="change-log"></a>Change log
 
 - 21 de setembro: Lembrete para as próximas alterações
 - 19 de julho: Anúncio Original
 
+________________
 
-_____________
 ## <a name="coming-soon-delegated-administrative-privileges-monitoring-and-self-service-removal"></a><a name="11"></a> Em breve: Privilégios administrativos delegados de monitorização e remoção de autosserviço
 
 ### <a name="categories"></a>Categorias

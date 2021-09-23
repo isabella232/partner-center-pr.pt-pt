@@ -9,18 +9,18 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4e55e3069dc7e086ecac10d11e92e70942d63b78
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: f58f120d376b98f9fa054f0bec87f324874ce0bb
+ms.sourcegitcommit: fceaca54b0ec695cf214209c09b4516e1b40866a
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960900"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "128322089"
 ---
 # <a name="sell-on-premises-software-through-the-cloud-solution-provider-csp-program"></a>Venda de software no local através do programa Fornecedor de Soluções em Nuvem (CSP)
 
-**Funções adequadas**: Agente administrador | Administração global
+**Funções adequadas**: Agente administrador | Administrador global
 
-O software no local em CSP suporta uma transição suave para a nuvem, introduzindo software no local num programa focado na nuvem.Esta nova oferta ajuda a trazer o parceiro de valor acrescentado para cada cenário de compra, uma vez que fornece uma única plataforma para transacionar todos os produtos da Microsoft. Como CSP, pode agora vender software no local através do Partner Center, além de Open, EA e outros programas atualmente em uso.  
+O software no local em CSP suporta uma transição suave para a nuvem, introduzindo software no local num programa focado na nuvem. Esta nova oferta ajuda a trazer o parceiro de valor acrescentado para cada cenário de compra, uma vez que fornece uma única plataforma para transacionar todos os produtos da Microsoft. Como CSP, pode agora vender software no local através do Partner Center, além de Open, EA e outros programas atualmente em uso.  
  
 Ao mesmo tempo que garantimos o melhor valor geral do cliente com opções de licenciamento de software no local, também tornamos o modelo de negócio o mais amigável possível. O licenciamento simples de software no local em CSP significa previsibilidade de custos e um processo de venda simplificado para si. Este novo modelo de negócio facilita a aquisição, gestão e preço no local do software para os seus clientes, permitindo-lhe focar-se em negócios vencedores com um portfólio alargado de soluções de valor acrescentado de gestão de TI.
 
@@ -33,14 +33,14 @@ Para comprar subscrições de software em nome de um cliente, vá à página de 
 
 ## <a name="activate-and-manage-software-subscriptions"></a>Activate and manage software subscriptions (Ativar e gerir subscrições de software)
 
-Depois de ter adquirido o seu software, você ou os seus clientes precisam descarregá-lo (parceiros usando Partner Center; clientes que usam o Centro de Administração Microsoft 365). Utilize o seguinte procedimento para o fazer. É importante compreender os riscos associados à cópia de links e ao descarregamento de software. Para obter mais informações, consulte **o Use Partner Center para obter transferências de software de clientes e chaves de licença** no Guia de Operações do Centro Parceiro de Novos [Comércio.](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf)
+Depois de ter adquirido o seu software, você ou os seus clientes precisam descarregá-lo (parceiros usando Partner Center; clientes que usam o Centro de Administração Microsoft 365). Utilize o seguinte procedimento para o fazer. É importante compreender os riscos associados à cópia de links e ao descarregamento de software. Para obter mais informações, consulte **o Use Partner Center para obter transferências de software de clientes e chaves de licença** no Guia de Operações do Centro [Parceiro.](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf)
 
 > [!NOTE]
 > Você deve ser um agente de administração no Partner Center para obter o link para chaves e downloads.
 
 1. Aceda à página de detalhes do seu cliente e, em seguida, selecione **Software**. Verá uma lista de todo o software que comprou em nome do cliente.
 
-2. Escolha **a versão do** produto, **idioma,** **bit**, e selecione **Obter teclas e downloads**. 
+2. Escolha **a versão do** produto, **idioma,** **bit**, e selecione Obter chaves **e downloads**. 
 
 3. Escolha **a Chave Get** que irá exibir o produto de 32 dígitos num diálogo pop-up que pode copiar e enviar ao cliente. 
 
@@ -51,7 +51,18 @@ Depois de ter adquirido o seu software, você ou os seus clientes precisam desca
 6. Também pode **cancelar** a encomenda de software e receber 100% de crédito (se for feito dentro do período de 60 dias de política de cancelamento).
 
 > [!NOTE]
-> Apenas os clientes têm acesso para ver as chaves do produto e descarregar informações no Administração Microsoft 365 Center (função Global Admin necessária). Os parceiros devem usar o Partner Center para ver esta informação.
+> Apenas os clientes têm acesso para ver as chaves do produto e descarregar informações no Administração Microsoft 365 Center (função global de administração necessária). Os parceiros devem usar o Partner Center para ver esta informação.
+
+> [!NOTE]
+> As compras de CSP são ativadas através de uma chave de ativação múltipla (MAK). Serviço de Gestão de Chaves chaves (KMS) não são permitidas, mesmo mediante pedido. 
+
+## <a name="move-a-customers-on-premises-license-from-vl-to-csp-with-no-downtime"></a>Mover a licença de um cliente no local de VL para CSP sem tempo de inatividade
+
+Apesar de KMS chaves não estiverem disponíveis em CSP, ainda pode mover as licenças do seu cliente no local de VL para CSP e evitar tempo de inatividade devido ao interruptor do canal de compra. KMS distribui as licenças aos clientes, e geralmente permanecem ativas durante 180 dias antes de o dispositivo tentar renovar essa ativação. Isto significa que o dispositivo já será ativado e funcionará durante algum tempo antes de surgirem quaisquer problemas. 
+
+Se o cliente implementar o novo MAK durante este tempo, manualmente ou de forma escrita (utilização), `slmgr.vbs` não ocorrerá tempo de inatividade. Se o cliente não implementar o novo MAK durante este tempo e tentar renovar a licença mais tarde, o dispositivo poderá ficar limitado ou bloqueado em algumas funcionalidades até ser reativado. 
+
+Para obter mais informações, aceda aos [clientes Ativados que executam Windows 10 (Windows 10) - Windows Implantação](/windows/deployment/volume-activation/activate-windows-10-clients-vamt#key-management-service-activation-renewal). Para assistência com este tipo de implantação, pode submeter um pedido [de Pré-Venda Técnica e Serviços de Implantação.](/partner-center/technical-benefits#submit-a-technical-presales-and-deployment-services-request)
 
 ## <a name="cancel-a-purchase"></a>Cancelar uma compra
 
@@ -70,7 +81,7 @@ Utilize o seguinte procedimento para cancelar uma compra. Uma vez que o cancelam
 
 3.  Localize o software que pretende cancelar e **selecione Cancelar**. O Relatório abre um problema com a página **do Partner Center.** 
 
-4.  Em **Detalhes**, na lista **de problemas,** selecione **CSP Purchase/Refund em nome dos clientes**.
+4.  Em **Detalhes**, na lista **de tipos de problemas,** selecione **CSP Purchase/Refund em nome dos clientes**.
 
 5.  Preencha os campos **de Impacto** e **Título.** 
 

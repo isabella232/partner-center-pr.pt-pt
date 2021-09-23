@@ -10,11 +10,11 @@ ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 5667fad7bde179cd728abb911b65621bcc9505a7
-ms.sourcegitcommit: eeb81ccb888239a0e8fbe4711de3ce07f3b00358
+ms.sourcegitcommit: fceaca54b0ec695cf214209c09b4516e1b40866a
 ms.translationtype: MT
 ms.contentlocale: pt-PT
 ms.lasthandoff: 09/23/2021
-ms.locfileid: "128312274"
+ms.locfileid: "128322106"
 ---
 # <a name="use-partner-center-to-apply-for-advanced-specializations-and-check-their-status"></a>Use o Partner Center para solicitar especializações avançadas e verificar o seu estado
 
@@ -153,7 +153,7 @@ Em seguida, siga estes passos para fornecer referências ao cliente no Partner C
 - Kubernetes no Microsoft Azure
     - Serviço Azure Kubernetes (AKS) ACR : Influencer de serviço = AKS , AKS-Engine
     - Azure RedHat OpenShift ACR: Grupo de Serviço 3 = ARO, Nível de Serviço 2 = Todos exceto "Desconhecido"
-- Microsoft Windows Ambiente de trabalho virtual
+- Desktop Virtual do Microsoft Windows
     - Windows Virtual Desktop ACR : Influencer de serviço = NATIVE WVD
 - Modernização de Aplicações Web para o Microsoft Azure
     - Azure App Service ACR : Nível de serviço 1 = Computação e Nível de Serviço 2 = Serviço de Aplicações Azure
@@ -163,48 +163,48 @@ Em seguida, siga estes passos para fornecer referências ao cliente no Partner C
         - Grupo de Serviço 3 = Nuvem de primavera 
         - Nível de Serviço 2 = Todos exceto "Desconhecido"
 
-- Análise na Microsoft Azure
+- Analytics no Microsoft Azure
     - Azure Synapse Analytics ACR : Nível de serviço 2 = Azure Synapse Analytics
     - Data Lake ACR : Grupo de serviço 3 = Lago de Dados Azure
     - Databricks ACR: Grupo de serviço3 = Databricks
     - Azure Data Factory ACR: Nível de serviço 2 = Azure Data Factory, Azure Data Factory v2
 - Infraestrutura de nuvem híbrida com Microsoft Azure Stack HCI
     - Azure Stack HCI ACR : Nível de serviço 2 = Azure Stack HCI
-- Microsoft Azure Solução VMware
+- Solução Microsoft Azure VMware
     - Azure VMware Solutions (AVS) ACR : Nível de serviço 4 = Solução VMware Azure, Solução VMware Azure vMware by CloudSimple, Azure VMware Solution by Virtustream, Specialized Compute Azure VMware Solution
-- Operações e Gestão Híbridas com Microsoft Azure Arc 
+- Operações híbridas e gestão com o Microsoft Azure Arc 
     - Servidor ativado por arco ACR: Nível de serviço 4 = Política azul
     - Kubernetes ACR: Nível de Serviço 4 = Arco azul
-- IA e Machine Learning em Microsoft Azure
+- IA e Machine Learning no Microsoft Azure
     - AI ACR: Grupo de Serviço 2 = AI
 
 
 - Migração do Windows Server e SQL Server para o Microsoft Azure
-    - Windows ACR: 
+    - Janelas ACR: 
         - Tipo de ajuste de ACR = N/A, Compute Core SW = Núcleo, Núcleo,
         - Compute OS = WINDOWS THEN Compute OS Attribute = WINDOWS, UNKNOWN ou Compute OS = LINUX THEN Compute OS Attribute = WINDOWS-AHUB
         - Nível de Serviço 2= Serviços em Nuvem, Instâncias de Contentores, Registo de Contentores, Computação Especializada, Máquinas Virtuais, Licenças de Máquinas Virtuais
-    - Base de Dados SQL (DB) ACR: Grupo de Serviço 3 = SQLDB
-    - SQL Instância gerida (MI) ACR: Grupo de Serviço 3 = SQL DB MI
+    - SQL Database (DB) ACR: Grupo de Serviço 3 = SQLDB
+    - SQL Managed Instance (MI) ACR: Grupo de Serviço 3 = SQL DB MI
     - SQL VM ACR: Grupo de Serviço 3 = SQL em IaaS, SQL em IaaS VM
-- Migração da base de dados Linux e Open-Source para Microsoft Azure
+- Migração da base de dados Linux e Open-Source para o Microsoft Azure
     - Máquinas virtuais Linux (VM)ACR:
         - Opção 1:
-            - Tipo de ajuste ACR= N/A, Nível de Serviço 2 = Máquinas Virtuais, Compute OS= Linux, Atributo Compute OS = Não Windows , DESCONHECIDO , Windows
-            - Nível de serviço 4= Todos os serviços em nuvem MS Series, Virtual Machines MS Series, Virtual Machines MS Series Windows, Virtual Machines MSv2 Series, Virtual Machines MSv2 Series Windows, MS Series Ded Host, MSv2 Series Dedicated Host
+            - Tipo de ajuste ACR= N/A, Nível de Serviço 2 = Máquinas Virtuais, Compute OS= Linux, Atributo Compute OS = Não Janelas, DESCONHECIDOS, Janelas
+            - Nível de serviço 4= Todos os serviços em nuvem série MS, Série MS máquinas virtuais, máquinas virtuais MS Series Windows, Máquinas Virtuais Série MSv2, Máquinas Virtuais MSv2 Series Windows, MS Series Apresentado dedicado, Anfitrião Dedicado série MSv2
         - Opção 2: só requerem filtros no Nível de Serviço 4, outros campos como Compute OS/Compute OS Atributos não são necessários
             - Nível de Serviço 4 = Red Hat Enterprise Linux, Red Hat Enterprise Linux com HA, SUSE Linux Enterprise Server Basic, SUSE Linux Enterprise Server for HPC Priority, SUSE Linux Enterprise Server for HPC Standard, SUSE Linux Enterprise Server Priority, SUSE Linux Enterprise Server Standard
     - Base de Dados Azure (DB) para MariaDB ACR: Nível de serviço 1 = Bases de Dados e Nível de Serviço 2 = Base de Dados de Azure para MariaDB
     - Azure DB para MySql ACR: Nível de serviço 1 = Bases de Dados e Nível de Serviço 2 = Base de Dados Azure para MySQL e MySQL Database on Azure
-    - Azure DB para Postgre SQL ACR: Nível de serviço 1 = Bases de Dados e Nível de Serviço 2 = Pós-SQL
+    - Azure DB para Postgre SQL ACR: Nível de serviço 1 = Bases de Dados e Nível de Serviço 2 = PostgreSQL
     - Azure COSMOS DB ACR: Nível de serviço 1 = Bases de Dados e Nível de Serviço 2 = CosmosDB
 - Proteção Contra Ameaças
     - Azure Sentinel ACR: Nível de serviço 4 = Sentinela
 - Segurança na Cloud
-    - Ambiente Híbrido XDR e Segurança de Rede ACR: Nível de serviço 4 = Azure Defender for SQL, Azure Defender para registos de contentores, Azure Defender for Kubernetes, Azure Defender for Armazenamento, Application Gateway WAF v2, WAF Application Gateway, Azure Ative Directory B2C, Azure Ative Directory Domain Serviços, Azure Ative Directory de Identidades Externas, Azure Bastion, Azure DDOS Protection, Azure Firewall, Azure Firewall Manager, Azure Front Door Service, Azure Defender for IoT, Azure Dedicated HSM, Key Vault, Network Watcher, Azure Defender for App Service, Azure Defender para servidores, Sentinel
+    - Ambiente Híbrido XDR e Segurança de Rede ACR: Nível de serviço 4 = Azure Defender para SQL, Azure Defender para registos de contentores, Azure Defender para Kubernetes, Azure Defender para Armazenamento, Gateway de Aplicação de Aplicação NA, Gateway de aplicação Azure, Azure Ative Directory B2C, Azure Ative Directory Domain Services, Azure Ative Directory para Identidades Externas, Azure Bastion, Azure Protection, Azure  Azure Firewall Manager, Azure Front Door Service, Azure Defender for IoT, Azure Dedicated HSM, Key Vault, Network Watcher, Azure Defender for App Service, Azure Defender para servidores, Sentinel
     
 - SAP no Microsoft Azure
-    - CARGAs de trabalho SAP ACR: Nível de serviço 4 = Série MS dos Serviços em Nuvem, Série MS das Máquinas Virtuais, Série MS das Máquinas Virtuais Windows, Máquinas Virtuais Série MSv2, Máquinas Virtuais Série MSv2 série Windows, Anfitrião Dedicado série MS, Anfitrião Dedicado da Série MSv2, SAP HANA em Azure Large Instances,SAP Cloud Platform Notification, SAP Cloud Platform Extension Factory - Kyma Runtime,SAP Platform Deded Host, SAP Platform  SUÍTE DE Integração de Plataforma de Nuvem SAP - Standard Edition, SAP Cloud Platform Transport Management, SAP Edge Services, SAP Embrace API Management,SAP Embrace Application Logging, SAP Embrace Application Runtime, SAP Embrace Bandwidth, SAP Embrace Business Application Studio, SAP Embrace Business Rules, SAP Embrace Cloud Integration, SAP Embrace Credential Store, SAP Embrace Custom Domain, SAP Embrace Data Intelligence, SAP Embrace  Mensagens, SAP Abraçam a Fábrica de Extensão, tempo de execução sem servidor, SAP Abraçam Hana Cloud, SAP Abraçam a Autenticação de Identidade, SAP Abraçam Agendador de Emprego, SAP Abraçam MACC, SAP Abraçam Serviços Móveis,SAP Abraçam Os Conectores Abertos, Sap Embrace Portal, SAP Embrace Process Visibility, SAP Embrace Web Analytics, SAP Embrace Workflow, SAP HANA Service, SAP Web IDE, BareMetal Infrastructure,  Máquinas Virtuais Série MdSv2, Máquinas Virtuais Série MdSv2 Windows
+    - CARGAs de trabalho SAP ACR: Nível de Serviço 4 = Série MS dos Serviços em Nuvem, Série MS das Máquinas Virtuais, Máquinas Virtuais Série MS Windows, Máquinas Virtuais Série MSv2, Máquinas Virtuais MSv2 Series Windows, MS Series Dedicado Host, MSv2 Series Ded host, SAP HANA on Azure Large Instances,SAP Cloud Platform Alert Notification, SAP Cloud Platform Extension Factory - Kyma Runtime,SAP Cloud Platform Integration Suite - Mensagens Adicionais,  SUÍTE DE Integração de Plataformas DE Nuvem SAP - Edição Padrão, Gestão de Transporte de Plataformas de Nuvem SAP, Serviços de Borda SAP, SAP Abraçar A Gestão de Aplicações, SAP Abraçar Aplicação de Aplicação, SAP Abraçar Estúdio de Aplicação Empresarial, SAP Abraçar Regras empresariais, SAP Abraçar Integração de Nuvem, SAP Abraçar O Domínio Personalizado, SAP Abraçar Inteligência de Dados, SAP Abraçar Mensagens Empresariais, SAP Abraçar Mensagens Empresariais,  FÁBRICA DE Extensão DE ABRAÇO SAP, tempo de execução sem servidor, SAP Abraçar Hana Cloud, SAP Abraçar Autenticação de Identidade, SAP Abraçar Agendador de Emprego, SAP Abraçar MACC, SAP Abraçar Serviços Móveis,SAP Abraçar Centros de Lojas, SAP Embrace Open Connectors, SAP Embrace Process Visibility, SAP Embrace Web Analytics, SAP Embrace Workflow, SAP HANA Service, SAP Web IDE, BareMetal Infrastructure,  Máquinas Virtuais Série MdSv2, Máquinas Virtuais MdSv2 Série Windows
 
 ## <a name="next-steps"></a>Passos seguintes
 

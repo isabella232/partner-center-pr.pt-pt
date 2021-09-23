@@ -10,11 +10,11 @@ ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/01/2020
 ms.openlocfilehash: d7e30b6a9ad49287e8c4eb7c232b8a68add47de3
-ms.sourcegitcommit: eeb81ccb888239a0e8fbe4711de3ce07f3b00358
+ms.sourcegitcommit: fceaca54b0ec695cf214209c09b4516e1b40866a
 ms.translationtype: MT
 ms.contentlocale: pt-PT
 ms.lasthandoff: 09/23/2021
-ms.locfileid: "128312263"
+ms.locfileid: "128322021"
 ---
 # <a name="february-2020-announcements"></a>Anúncios de fevereiro de 2020
 

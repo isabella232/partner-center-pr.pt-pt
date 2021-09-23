@@ -10,11 +10,11 @@ ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.openlocfilehash: ef1a80330e05252bbe3b8e53f1061b1f8ca55c2f
-ms.sourcegitcommit: eeb81ccb888239a0e8fbe4711de3ce07f3b00358
+ms.sourcegitcommit: fceaca54b0ec695cf214209c09b4516e1b40866a
 ms.translationtype: MT
 ms.contentlocale: pt-PT
 ms.lasthandoff: 09/23/2021
-ms.locfileid: "128317072"
+ms.locfileid: "128322038"
 ---
 # <a name="compare-differences-between-azure-offers-in-the-csp-program"></a>Compare diferenças entre ofertas do Azure no programa CSP
 
