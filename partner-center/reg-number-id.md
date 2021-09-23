@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 285a3c880d29f28d7dbe02224fe0bb139bd0cd04
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: 69e0d7d191d8f0895811d26279e6e2747e7953fc
+ms.sourcegitcommit: eeb81ccb888239a0e8fbe4711de3ce07f3b00358
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126246260"
+ms.lasthandoff: 09/22/2021
+ms.locfileid: "128135447"
 ---
 # <a name="registration-id-number-information"></a>Informação do número de registo
 
@@ -26,9 +26,9 @@ Se é um fornecedor indireto, parceiro de conta direta ou revendedor indireto, e
 
 | **País ou região** | **Detalhes** |
 |:--|:--|
-| **Arménia** | INN – Número de identificação fiscal<br>Número do Imposto sobre o Valor Acrescentado (IVA) – Também conhecido como Número de Registo do IVA. Este valor é o número único que identifica um pessoa tributável (empresa) ou entidade jurídica não tributável que esteja registada para o IVA.<br>Número de serviço público |
+| **Arménia** | INN – Número de identificação fiscal<br>Número do Imposto sobre o Valor Acrescentado (IVA) – Também conhecido como Número de Registo do IVA. Este valor é o número único que identifica um pessoa tributável (empresa) ou entidade jurídica não tributável que esteja registada no IVA.<br>Número de serviço público |
 | **Azerbaijão**  | [ESTANHO](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Azerbaijan-TIN.pdf) – Número de Identificação Fiscal<br>INN – Número de identificação fiscal |
-| **Bielorrússia**  | UNP – Este valor é um número de nove dígitos (numérico para organizações, alfanumérico para indivíduos) que contém um identificador de região, um serial por região e um dígito de verificação. |
+| **Bielorrússia**  | UNP – Este valor é um número de nove dígitos (numérico para organizações, alfanumérico para indivíduos) que contém um identificador de região, um serial por região, e um dígito de verificação. |
 |**Brasil** | [CNPJ](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Brazil-TIN.pdf) – (Cadastro Nacional da Pessoa Jurídica, ou Registo Nacional de Entidades Jurídicas). Este valor é um número de identificação emitido a empresas brasileiras pelo Departamento de Receita Federal do Brasil  |
 | **China** | [ESTANHO](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/China-TIN.pdf) – Número de Identificação Fiscal |
 | **Hungria**  | [ESTANHO](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Hungary-TIN.pdf) – Número de Identificação Fiscal |
@@ -47,15 +47,15 @@ Se é um fornecedor indireto, parceiro de conta direta ou revendedor indireto, e
 | **Tailândia** | [ESTANHO](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – Número de Identificação Fiscal |
 | **Turquia** | [ESTANHO](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Turkey-TIN.pdf) – Número de Identificação Fiscal<br>NIN |
 | **Ucrânia**  | EGRPOU<br>EDRPOU – Local ID |
-| **Emirados Árabes Unidos** | ID de impostos<br>[Número do IVA](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/UAE-TIN.pdf) - Também conhecido como Número de Registo do IVA. Este valor é o número único que identifica um pessoa tributável (empresa) ou entidade jurídica não tributável que esteja registada para o IVA. |
-| **E.U.A.** | [EIN](https://irs.ein-forms-gov.com/?keyword=employer%20identification%20number&source=Google&network=o&device=c&devicemodel=&mobile=&adposition%5d&targetid=kwd-81501461534755:loc-190&msclkid=458d3159f6051392f5286e8e75ed79ce) – Número de Identificação do Empregador |
+| **Emirados Árabes Unidos** | ID de impostos<br>[Número do IVA](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/UAE-TIN.pdf) - Também conhecido como Número de Registo de IVA. Este valor é o número único que identifica um pessoa tributável (empresa) ou entidade jurídica não tributável que esteja registada no IVA. |
+| **E.U.A.** | [EIN](https://www.irs.gov/taxtopics/tc755) – Número de Identificação do Empregador |
 | **Usbequistão**  | INN – Número de Identificação Fiscal |
 | **Vietname** | [ESTANHO](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – Número de Identificação Fiscal |
 | **Venezuela** | RIF – é um número de Imposto ("Registro de Identificación Fiscal") |  
 
 ### <a name="mandatory-or-optional"></a>Obrigatório ou opcional
  
-Para os países onde o número de registo é obrigatório, o rótulo acima da caixa de texto indica que tipo de número é necessário em função do país, por exemplo, TIN (número de identificação fiscal) ou TRN (número de registo de tráfego).
+Para os países onde o número de registo é obrigatório, o rótulo acima da caixa de texto indica que tipo de número é necessário dependendo do país, por exemplo, TIN (número de identificação fiscal) ou TRN (número de registo de tráfego).
 
 Quando o número de registo for opcional, insira o ID de registo da empresa. Não introduza uma identificação pessoal.
 
