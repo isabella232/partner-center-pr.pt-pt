@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: f5745a74e4368b42c4ce7b1b828ced8f79e49581
-ms.sourcegitcommit: 986573bc4382b803bf4d641df6dd1e37c3af1955
+ms.openlocfilehash: 0521c7fde81663b9eb7cd89344ee2432e8a1ea31
+ms.sourcegitcommit: eeb81ccb888239a0e8fbe4711de3ce07f3b00358
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/20/2021
-ms.locfileid: "128034612"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "128312215"
 ---
 # <a name="how-and-when-to-request-a-credit-from-microsoft"></a>Como e quando solicitar um crédito à Microsoft
 
@@ -36,7 +36,7 @@ Este artigo explica como os prestadores diretos e indiretos Fornecedor de Soluç
 
 Os pedidos de crédito são aceites apenas por fornecedores diretos e indiretos da CSP. Os pedidos não são aceites por revendedores indiretos.
 
-[Criar um pedido de serviço para um cliente em Microsoft Azure](/partner-center/report-problems-on-behalf-of-a-customer) é um processo separado.
+[Criar um pedido de serviço para um cliente em Microsoft Azure](./report-problems-on-behalf-of-a-customer.md) é um processo separado.
 
 ## <a name="requesting-a-credit"></a>Solicitação de um crédito
 
@@ -54,7 +54,7 @@ Os pedidos de crédito são aceites apenas por fornecedores diretos e indiretos 
 
 1. Na página **de soluções recomendadas,** em  **que precisa de mais ajuda?**
 
-1. Na página **Detalhes,** preencha a secção **de detalhes do 'Emissão'.** Na caixa de texto **Details,** certifique-se de introduzir as [informações necessárias descritas](/partner-center/request-credit#required-information) no Formulário pedido de Crédito ou Reembolso.
+1. Na página **Detalhes,** preencha a secção **de detalhes do 'Emissão'.** Na caixa de texto **Details,** certifique-se de introduzir as [informações necessárias descritas](#required-information) no Formulário pedido de Crédito ou Reembolso.
 1. Selecione **Submeter**.
 
 ## <a name="types-of-credits"></a>Tipos de créditos

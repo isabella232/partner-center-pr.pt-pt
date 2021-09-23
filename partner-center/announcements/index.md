@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 09/07/2021
-ms.openlocfilehash: 78cff330e2fc91ac3867874470b69c022927079e
-ms.sourcegitcommit: 847ad384d44a5a673791cb2950af02225d8174c9
+ms.date: 09/17/2021
+ms.openlocfilehash: 60316b5f70bf01e9443a32ba1d18319d428cb068
+ms.sourcegitcommit: eeb81ccb888239a0e8fbe4711de3ce07f3b00358
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/17/2021
-ms.locfileid: "127906371"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "128309699"
 ---
 # <a name="partner-center-announcements"></a>Anúncios do Centro de Parceiros
 
@@ -22,6 +22,7 @@ Saiba mais sobre atualizações importantes do Centro de Parceiros. Estas inform
 
 |**Categoria**|**Anúncios de setembro de 2021**|**Anunciado**|
 |---------|:---------|:---------|
+|Capacidades|[Lembrete: Introdução do estrangulamento da API aos parceiros que chamam APIs do Partner Center](2021-september.md#12)|21 de setembro|
 |Capacidades|[Em breve: Privilégios administrativos delegados de monitorização e remoção de autosserviço](2021-september.md#11)|13 de setembro|
 |Capacidades|[Setembro Fornecedor de Soluções em Nuvem atualização comunitária e lembretes](2021-september.md#10)|10 de setembro|
 |Preparação|[Setembro co-vender com o Microsoft Q&Um lembrete de chamada comunitária](2021-september.md#9)|9 de setembro|

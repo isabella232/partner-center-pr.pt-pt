@@ -10,25 +10,75 @@ ms.custom:
 - announcement
 - references_regions
 ms.localizationpriority: high
-ms.date: 09/16/2021
-ms.openlocfilehash: aa7276cb39febbd9d30f89f7d4bc53a8fd20038f
-ms.sourcegitcommit: 731a5e2725a72ecdae40189a3f52ab6b4a4c8058
+ms.date: 09/20/2021
+ms.openlocfilehash: c1ce15374166c96ee5bfeac6923ea0df0c368c0c
+ms.sourcegitcommit: eeb81ccb888239a0e8fbe4711de3ce07f3b00358
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/20/2021
-ms.locfileid: "128007184"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "128309763"
 ---
 # <a name="september-2021-announcements"></a>Anúncios de setembro de 2021
 
 Esta página fornece os anúncios para o Microsoft Partner Center para setembro de 2021.
 
-_____________
+________________
+## <a name="reminder-introducing-api-throttling-to-partners-calling-partner-center-apis"></a><a name="12"></a>Lembrete: Introdução do estrangulamento da API aos parceiros que chamam APIs do Partner Center
 
+### <a name="summary"></a>Resumo
+
+A partir de outubro de 2021, a Microsoft implementará o estrangulamento da API aos parceiros que chamam APIs do Partner Center.
+
+### <a name="categories"></a>Categorias
+
+- Data: 2021-09-21
+- Capacidades
+
+### <a name="impacted-audience"></a>Audiência impactada
+
+Parceiros transagindo através do programa Fornecedor de Soluções em Nuvem  
+
+### <a name="details"></a>Detalhes
+
+A partir de outubro de 2021, a Microsoft estará a implementar o estrangulamento da API para um desempenho mais consistente dentro de um período de tempo para os parceiros que chamam as APIs do Partner Center.Para evitar o uso excessivo de recursos, o estrangulamento limita o número de pedidos a um serviço num período de tempo.Quando um limiar de estrangulamento é ultrapassado, o Partner Center limita quaisquer pedidos adicionais desse cliente por um período de tempo.
+  
+#### <a name="partner-benefits"></a>Benefícios do parceiro
+
+Enquanto o Partner Center é projetado para lidar com um grande volume de pedidos, se um número esmagador de pedidos ocorrer, o estrangulamento ajuda a manter o melhor desempenho e fiabilidade para todos os parceiros. 
+
+Os benefícios incluem o seguinte:
+
+- A aceleração garante o mínimo de tempo de paragem.
+- Reduzindo pedidos de grande volume, podemos garantir um desempenho consistente para todos os parceiros.  
+
+#### <a name="apis-to-be-throttled"></a>APIs a ser estrangulado
+
+| Operação | Documentação do Centro de Parceiros |
+| ----------- | ---------------------- |
+| Obtenha v1/clientes/{customer_id}/utilizadores/{user_id}/licenças | [Obter licenças atribuídas a um utilizador](/partner-center/develop/check-which-licenses-are-assigned-to-a-user) |
+| Obter /v1/clientes/{customer_id}/subssicrição | [Obter uma lista de licenças disponíveis](/partner-center/develop/get-a-list-of-available-licenses) |
+| Obter /v1/clientes/{customer_id}/direitos | [Obter uma coleção de elegibilidade](/partner-center/develop/get-a-collection-of-entitlements) |
+| Obter /v1/clientes/{customer_id}/artefactos/{artifact_type}<br>/groups/{group_id}/lineItems/{lineitem_id}<br>/recurso/{resource_id} | [Obter uma coleção de elegibilidade](/partner-center/develop/get-a-collection-of-entitlements#retrieve-reservation-details-from-an-entitlement-by-using-sdk-v19) |
+| Obter /v1/clientes/{customer_id}/users/{use<br>r_id}/diretórios | [Obter funções de utilizador para um cliente](/partner-center/develop/get-user-roles-for-a-customer) |
+
+Recomendamos que considere usar o log de atividade API para obter mais eficiência e evitar estrangulamentos. Para mais informações sobre esta funcionalidade, consulte os detalhes [aqui.](/partner-center/develop/api-throttling-guidance)  
+
+### <a name="next-steps"></a>Passos seguintes
+
+Reveja os [recursos](/partner-center/develop/api-throttling-guidance) para este tema e tome as medidas necessárias.
+
+### <a name="change-log"></a>Alterar registo:
+
+- 21 de setembro: Lembrete para as próximas alterações
+- 19 de julho: Anúncio Original
+
+
+_____________
 ## <a name="coming-soon-delegated-administrative-privileges-monitoring-and-self-service-removal"></a><a name="11"></a> Em breve: Privilégios administrativos delegados de monitorização e remoção de autosserviço
 
 ### <a name="categories"></a>Categorias
 
-- Data: 2021-13-10
+- Data: 2021-14-10
 - Capacidades
 
 ### <a name="summary"></a>Resumo
@@ -301,7 +351,7 @@ Os parceiros que compraram produtos entre 1 de setembro e 3 de setembro serão c
 ### <a name="next-steps"></a>Passos seguintes
 
 - Os parceiros que transacionam subscrições de software e software perpétuos na Rússia devem descarregar a mais recente lista de preços para ver os preços corrigidos.
-- Para saber mais pormenores sobre os aumentos de preços que chegam em outubro, consulte este [anúncio](https://news.microsoft.com/licensing-changes-at-microsoft-russia-2021/).
+- Para encontrar detalhes sobre os aumentos de preços que chegam em outubro, veja o artigo [Microsoft ajusta programa de licenciamento para clientes comerciais na Rússia.](https://news.microsoft.com/ru-ru/licensing-changes-at-microsoft-russia-2021/)
 
 _____________
 

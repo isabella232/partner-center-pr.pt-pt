@@ -13,8 +13,8 @@ ms.openlocfilehash: 69e0d7d191d8f0895811d26279e6e2747e7953fc
 ms.sourcegitcommit: eeb81ccb888239a0e8fbe4711de3ce07f3b00358
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/22/2021
-ms.locfileid: "128135447"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "128309819"
 ---
 # <a name="registration-id-number-information"></a>Informação do número de registo
 

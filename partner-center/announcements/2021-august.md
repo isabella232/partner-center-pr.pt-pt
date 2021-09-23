@@ -11,12 +11,12 @@ ms.custom:
 - references_regions
 ms.localizationpriority: high
 ms.date: 08/30/2021
-ms.openlocfilehash: aa9ab9d33b3e067027b91039108c3eee5fea13e5
-ms.sourcegitcommit: 731a5e2725a72ecdae40189a3f52ab6b4a4c8058
+ms.openlocfilehash: 800f672c1e5d74f7689adb87cf9a316cdd9c761f
+ms.sourcegitcommit: eeb81ccb888239a0e8fbe4711de3ce07f3b00358
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/19/2021
-ms.locfileid: "127960813"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "128309722"
 ---
 # <a name="august-2021-announcements"></a>Anúncios de agosto de 2021
 
@@ -136,7 +136,7 @@ Parceiros de conta direta da CSP e fornecedores indiretos, incluindo revendedore
 
 ### <a name="details"></a>Detalhes
 
-A partir de 1 de setembro de 2021, a Microsoft permitirá ofertas baseadas em lugares para testes [integrados](/partner-center/develop/test-and-debug) de caixas de areia na [nova experiência de comércio](https://partner.microsoft.com/resources/detail/new-commerce-for-csp-seat-based-offers.pdf) para o programa CSP.
+A partir de 1 de setembro de 2021, a Microsoft permitirá ofertas baseadas em lugares para testes [integrados](/partner-center/develop/test-and-debug) de caixas de areia na [nova experiência de comércio](https://partner.microsoft.com/resources/detail/new-commerce-for-csp-seat-based-offers-pdf) para o programa CSP.
 
 A adição de Microsoft 365, Dynamics 365, Power Platform e Windows 365 ofertas em CSP para a nova experiência de comércio é mais um marco importante na nossa nova jornada de comércio. A Microsoft está a investir em inovações de produtos, melhor ferramenta e acesso a novas oportunidades de negócio que permitem aos parceiros aumentar as suas receitas de CSP e fornecer mais opções aos clientes. Estamos a evoluir na nossa plataforma de comércio e a dinamizar os processos de gestão de encomendas e subscrições para ajudar parceiros e clientes a terem sucesso na transformação digital.
 
@@ -286,7 +286,7 @@ Parceiros que transacionam através do programa Fornecedor de Soluções em Nuve
 
 ### <a name="details"></a>Detalhes
 
-Na região da UE/EFTA e reino Unido, todas as novas ofertas de comércio no programa CSP utilizarão o local de faturação de parceiros em vez do local de faturação dos clientes. Isto significa que os parceiros serão faturados pela Microsoft com base na sua moeda de localização, e não na moeda de localização dos seus clientes. Anunciamos que [a fase 1 entrou em direto](/2021-january.md#15) no dia 28 de janeiro de 2021.
+Na região da UE/EFTA e reino Unido, todas as novas ofertas de comércio no programa CSP utilizarão o local de faturação de parceiros em vez do local de faturação dos clientes. Isto significa que os parceiros serão faturados pela Microsoft com base na sua moeda de localização, e não na moeda de localização dos seus clientes. Anunciamos que [a fase 1 entrou em direto](./2021-january.md#15) no dia 28 de janeiro de 2021.
 
 Estamos animados para partilhar que a fase 2 desta experiência de transição está agora ao vivo. A fase 2 será lançada aos parceiros em lotes, o que significa que haverá diferenças nas datas exatas de início da transição da fase 2 entre organizações parceiras. Contactamos os parceiros diretamente com mais informações sobre a data de transição.
 

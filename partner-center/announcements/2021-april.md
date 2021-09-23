@@ -12,11 +12,11 @@ ms.custom:
 ms.localizationpriority: high
 ms.date: 09/01/2021
 ms.openlocfilehash: a6cd5e9734a2ba9657649f012225dee96cd1e265
-ms.sourcegitcommit: 731a5e2725a72ecdae40189a3f52ab6b4a4c8058
+ms.sourcegitcommit: eeb81ccb888239a0e8fbe4711de3ce07f3b00358
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/19/2021
-ms.locfileid: "127960898"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "128309735"
 ---
 # <a name="april-2021-announcements"></a>Anúncios de abril de 2021
 

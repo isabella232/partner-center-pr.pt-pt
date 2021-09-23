@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/01/2020
-ms.openlocfilehash: fa91ec99657b30f939b937b9f8bce20deb22d152
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: d7e30b6a9ad49287e8c4eb7c232b8a68add47de3
+ms.sourcegitcommit: eeb81ccb888239a0e8fbe4711de3ce07f3b00358
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126247079"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "128312263"
 ---
 # <a name="february-2020-announcements"></a>Anúncios de fevereiro de 2020
 
@@ -24,7 +24,7 @@ Anúncios para 2020: [janeiro de 2020](2020-january.md) | | de fevereiro de 2020
 
 _________________
 
-## <a name="new-process-for-submitting-tax-withholding-credit-requests"></a><a id="9"/></a>Novo processo de apresentação de pedidos de crédito de retenção na fonte
+## <a name="new-process-for-submitting-tax-withholding-credit-requests"></a><a id="9"/></a>Novo processo de apresentação de pedidos de crédito à fonte fiscal
 
 ### <a name="categories"></a>Categorias
 
@@ -35,13 +35,13 @@ _________________
 
 ### <a name="impacted-audience"></a>Audiência impactada
 
-- Parceiros CSP a submeter pedidos de retenção na fonte.
+- CSP Parceiros a submeter pedidos de retenção na fonte.
 
 ### <a name="summary"></a>Resumo:
 
-Está agora disponível um novo processo de retenção na fonte de retenção na fonte. Este processo permite que os parceiros que devem um saldo remanescente em faturas passadas apresentem pedidos de apuramento se já tiverem pago impostos às autoridades fiscais locais. Os parceiros podem agora submeter pedidos de retenção na fonte de imposto a partir da página de Faturação no Partner Center. Anteriormente, os pedidos de retenção na fonte de imposto foram apresentados contactando o Support on Partner Center.
+Está agora disponível um novo processo de apresentação de pedidos de crédito à retenção na fonte. Este processo permite que os sócios que devem um saldo remanescente em faturas passadas apresentem pedidos de apuramento se já tiverem pago impostos às autoridades fiscais locais. Os parceiros podem agora submeter pedidos de retenção na fonte de imposto a partir da página de Faturação no Partner Center. Anteriormente, os pedidos de retenção na fonte de imposto foram apresentados contactando o Support on Partner Center.
 
-Se após a submissão forem necessárias novas edições, a Microsoft enviará pedidos de volta ao parceiro para resubmissão e o estado do pedido será atualizado na página de Faturação. Neste momento, um parceiro pode optar por editar o pedido existente ou submeter um novo. Uma vez aprovado um pedido, a próxima fatura será atualizada para refletir o valor que já não é devido.
+Se após a submissão forem necessárias mais edições, a Microsoft enviará pedidos de volta ao parceiro para resubmissão e o estado do pedido será atualizado na página de Faturação. Neste momento, um parceiro pode optar por editar o pedido existente ou submeter um novo. Uma vez aprovado o pedido, a próxima fatura será atualizada para refletir o montante que já não é devido.
 
 ### <a name="additional-resources"></a>Recursos adicionais:
 
@@ -72,7 +72,7 @@ Os parceiros podem agora convidar os clientes novos e já existentes a rever e a
 
 Esta nova capacidade significa que [os parceiros têm agora duas opções](../confirm-customer-agreement.md) ao apresentar o Acordo de Cliente da Microsoft aos seus clientes:
 
-- **Opção 1:** Os parceiros podem apresentar o novo Acordo de Clientes da Microsoft aos clientes da mesma forma que fizeram anteriormente para o Microsoft Cloud Agreement. Depois de um cliente ter revisto e aceite o acordo, os parceiros devem atestar a aceitação do cliente com a Microsoft. O Partner Center Dashboard, Partner Center API e .NET SDK foram atualizados para apoiar um parceiro que confirma a aceitação do Cliente do Microsoft Customer Agreement desta forma.
+- **Opção 1:** Os parceiros podem apresentar o novo Acordo de Clientes da Microsoft aos clientes da mesma forma que anteriormente fizeram para o Microsoft Cloud Agreement. Depois de um cliente ter revisto e aceite o acordo, os parceiros devem atestar a aceitação do cliente com a Microsoft. O Partner Center Dashboard, Partner Center API e .NET SDK foram atualizados para apoiar um parceiro que confirma a aceitação do cliente do Acordo de Cliente da Microsoft desta forma.
 - **Opção 2 (Nova funcionalidade):** Os parceiros podem convidar os clientes para um portal autenticado da Microsoft (Administração Microsoft 365 Center) para visualizar e assinar o acordo. Esta opção permite uma gestão simplificada do acordo, uma implementação mais rápida e menos trabalho para os parceiros, uma vez que o cliente aceita diretamente dentro do Centro Administração Microsoft 365, confirma aprovação de termos.
 
 Os parceiros podem saber se os clientes aceitaram o novo acordo utilizando novas funcionalidades disponíveis no Partner Center Dashboard ou através [desta nova API.](/partner-center/develop/get-direct-sign-status-of-customer-agreement)
@@ -84,8 +84,8 @@ A partir de 1 de fevereiro de 2020, a confirmação de um parceiro da aceitaçã
 
 ### <a name="next-steps"></a>Passos seguintes:
 
-- Se um cliente não aceitar o Acordo de Cliente da Microsoft, é obrigatório a partir de 1 de fevereiro de 2020, para novas encomendas. Os parceiros devem atestar. Opção 1: que os clientes tenham aceitado o acordo, ou Opção 2: convidar os clientes a aceitar o acordo diretamente através do Administração Microsoft 365 Center.
-- Os parceiros que utilizam APIs para o atestado do Microsoft Cloud Agreement existente precisam de rever a sua implementação existente com a API atualizada.
+- Se um cliente não aceitar o Acordo de Cliente da Microsoft, é obrigatório a partir de 1 de fevereiro de 2020, para novas encomendas. Os parceiros devem atestar. Opção 1: que os clientes tenham aceitado o acordo, ou Opção 2: convidar os clientes a aceitar o contrato diretamente através Administração Microsoft 365 Center.
+- Os parceiros que utilizam APIs para o atestado existente do Microsoft Cloud Agreement precisam de rever a sua implementação existente com a API atualizada.
 - Treine os seus agentes e revendedores sobre os termos do novo acordo, e na apresentação do novo acordo e validando a aceitação do cliente.
 
 ### <a name="additional-resources"></a>Recursos Adicionais:
@@ -112,13 +112,13 @@ _________________
 
 ### <a name="summary"></a>Resumo:
 
- Para apoiar a versão atualizada do Microsoft Defender [recentemente anunciado,](https://www.yammer.com/cloudpartnercommunity/#/threads/show?threadId=537815418421248&messageId=538893749682176?trk_event=likes_message_click)atualizámos o ficheiro de preços de pré-visualização de março baseado na licença para incluir estas duas ofertas, anteriormente deixado de fora do ficheiro de pré-visualização de março publicado em 2020-01-31:
+ Para apoiar a versão atualizada do Microsoft Defender [recentemente anunciada,](https://www.yammer.com/cloudpartnercommunity/#/threads/show?threadId=537815418421248&messageId=538893749682176?trk_event=likes_message_click)atualizámos o ficheiro de preços de pré-visualização de março baseado na licença para incluir estas duas ofertas, anteriormente deixados de fora do ficheiro de pré-visualização de março publicado em 2020-01-31:
 
 Oferta: Microsoft Defender Advanced Threat Protection Offer ID: e2dcab13-1365-417a-b624-4901e2b252f5
 
 Oferta: Microsoft Defender Advanced Threat Protection for Education Offer ID: 1a7a1bcc-c7bf-4c6b-b55d-d79a6e3bb3ee
 
-Estas duas novas ofertas são as únicas alterações feitas no ficheiro de pré-visualização. A pré-estreia de março foi atualizada em 2020-02-14, 13H PST.
+Estas duas novas ofertas são as únicas alterações feitas no ficheiro de pré-visualização. A pré-estreia de março foi atualizada em 2020-02-14, 1PM PST.
 
 **Questões de preços baseadas em licenças de fevereiro**
 
@@ -134,11 +134,11 @@ Estas ofertas estão disponíveis, mas não na matriz da lista de ofertas. Consu
 
 Oferta: Pro Suporte Direto para Dinâmica 365 Oferta de Operações Unificadas ID:`09dc6202-bfbb-44fb-9c87-b12c90084010`
 
-Oferta: Pro Apoio Direto para a Dinâmica 365 Operações Unificadas para o ID da Oferta do Corpo docente:`c3b23a21-76e2-46e7-ae4f-60e1bdb96bea`
+Oferta: Pro Apoio Direto para a Dinâmica 365 Operações Unificadas para ID oferta de faculdade:`c3b23a21-76e2-46e7-ae4f-60e1bdb96bea`
 
 Oferta: Pro Suporte Direto para Dinâmicas 365 Operações Unificadas para Estudantes Oferta ID:`1835808d-06a2-42c5-9f09-82c2e7ed5c72`
 
-Estas ofertas não estavam na Tabela de Preços, mas deveriam estar. Consulte a lista de preços de 19 de dezembro, uma vez que os preços não mudaram para esta oferta.
+Estas ofertas não estavam na Tabela de Preços, mas deveriam estar. Consulte a tabela de preços de 19 de dezembro, uma vez que os preços não mudaram para esta oferta.
 
 Oferta: ID de oferta Microsoft 365 A1:`778a4dce-0014-4d53-8647-314ef2b091d2`
 
@@ -171,15 +171,15 @@ _________________
 
 Esta importante atualização relativa aos [requisitos obrigatórios de segurança](https://blogs.partner.microsoft.com/mpn/safeguard-business-security-best-practices/)do parceiro. A partir **de 29 de fevereiro de 2020,** [as políticas de "linha de base" Azure Ative Directory](/azure/active-directory/fundamentals/whats-new#replacement-of-baseline-policies-with-security-defaults) (Azure AD) serão removidas e substituídas por "incumprimentos de segurança", um conjunto mais abrangente de políticas de proteção para si e para os seus clientes. As falhas de segurança no Azure AD podem ajudar a proteger a sua organização com definições de segurança pré-configuradas para ataques comuns.
 
-O nosso sistema indica que a sua organização utiliza atualmente políticas de base, mas ainda não transitou para incumprimentos de segurança. **Se não transitar para incumprimentos de segurança antes de 29 de fevereiro, perderá a autenticação de vários fatores (MFA) ativada com políticas de base para os inquilinos do seu parceiro. Ativar as falhas de segurança o mais rapidamente possível para evitar perturbações no negócio**.
+O nosso sistema indica que a sua organização utiliza atualmente políticas de base, mas ainda não transitou para incumprimentos de segurança. **Se não transitar para incumprimentos de segurança antes de 29 de fevereiro, perderá a autenticação de vários fatores (MFA) ativada com políticas de base para os seus inquilinos parceiros. Ativar as falhas de segurança o mais rapidamente possível para evitar perturbações no negócio**.
 
 ### <a name="key-considerations"></a>Considerações principais
 
-A política de incumprimentos de segurança é uma das [opções](../partner-security-requirements.md#implementing-multi-factor-authentication) que os parceiros podem optar por implementar MFA para os requisitos de segurança, dependendo das suas necessidades de negócio. Oferece um nível básico de segurança, sem custos adicionais. [Reveja como ativar o MFA para a sua organização com a Azure AD](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started) e as principais considerações abaixo:
+A política de incumprimentos de segurança é uma das [opções](../partner-security-requirements.md#implementing-multi-factor-authentication) que os parceiros podem optar por implementar MFA para os requisitos de segurança, dependendo das necessidades do seu negócio. Oferece um nível básico de segurança, sem custos adicionais. [Reveja como ativar o MFA para a sua organização com a Azure AD](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started) e as principais considerações abaixo:
 
 - Para os parceiros que estão a utilizar [o acesso condicional,](/azure/active-directory/conditional-access/concept-conditional-access-policy-common)não estarão disponíveis falhas de segurança.
 - Os incumprimentos de segurança aplicam todas as políticas ao mesmo tempo, incluindo a MFA necessária para a política de administração, a política de proteção do utilizador final e a necessidade de MFA para a gestão de serviços.
-- O bloqueio da autenticação do legado não será aplicado aos parceiros neste momento. No entanto, uma vez que a maioria dos eventos relacionados com identidades comprometidas provêm de tentativas de inscrição usando a autenticação antiga, os parceiros são encorajados a afastarem-se destes protocolos mais antigos.
+- O bloqueio da autenticação do legado não será aplicado aos parceiros neste momento. No entanto, uma vez que a maioria dos eventos relacionados com identidades comprometidas provêm de tentativas de inscrição usando a autenticação do legado, os parceiros são encorajados a afastar-se destes protocolos mais antigos.
 - Os incumprimentos de segurança excluem automaticamente a conta Azure AD Ligação Sync.
 - Os incumprimentos de segurança são a substituição geral da disponibilidade das políticas de [base de pré-visualização](/azure/active-directory/conditional-access/concept-baseline-protection). Uma vez que um parceiro permita os incumprimentos de segurança, eles deixarão de ser capazes de ativar políticas de base.
 
@@ -189,16 +189,16 @@ Parceiros que estão atualmente a usar as políticas de base:
 
 - Saiba mais sobre [falhas de segurança](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults#enabling-security-defaults) e [habilitando MFA para a sua organização.](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started)
 - Planeie a transição das políticas de base para os incumprimentos de segurança.
-- [Ative os incumprimentos de segurança com um clique](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults#enabling-security-defaults) para cada inquilino parceiro o mais rápido possível. Se os incumprimentos de segurança não satisfaçam as suas necessidades, considere outras opções.
+- [Ativar os incumprimentos de segurança com um clique](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults#enabling-security-defaults) para cada inquilino parceiro o mais rápido possível. Se os incumprimentos de segurança não satisfaçam as suas necessidades, considere outras opções.
 
 Fornecedores indiretos:
 
-- Informe os seus revendedores no programa Microsoft CSP sobre a alteração[(utilize este modelo de e-mail).](https://assetsprod.microsoft.com/security-defaults-indirect-reseller-template.docx) Certifique-se de que os seus revendedores ativam os defeitos de segurança se estiverem atualmente a utilizar políticas de base.
+- Informe os seus revendedores no programa Microsoft CSP sobre a alteração[(utilize este modelo de e-mail).](https://assetsprod.microsoft.com/security-defaults-indirect-reseller-template.docx) Certifique-se de que os seus revendedores ativam as falhas de segurança se estiverem atualmente a utilizar políticas de base.
 
 >[!Note] 
 >A Microsoft também comunicará diretamente aos seus revendedores que estão atualmente a utilizar as políticas de base e que possuem informações de contacto do Partner Center.
 
-Se tiver alguma dúvida sobre os requisitos de segurança do parceiro, consulte recursos adicionais [aqui.](https://aka.ms/security-requirements)
+Se tiver alguma dúvida sobre os requisitos de segurança do parceiro, consulte os recursos adicionais nos [requisitos de segurança dos parceiros implementar para salvaguardar o seu negócio.](https://aka.ms/security-requirements)
 
 Agradecemos sinceramente a sua parceria e empenho em garantir que o nosso ecossistema funciona com confiança.
 
@@ -209,7 +209,7 @@ Agradecemos sinceramente a sua parceria e empenho em garantir que o nosso ecossi
 
 _________________
 
-## <a name="audio-conferencing-offers-introduced-to-multinational-customers-with-users-in-india-on-february-1-2020"></a><a id="5"/></a>Ofertas de Audio Conferencing introduzidas a clientes multinacionais com utilizadores na Índia a 1 de fevereiro de 2020
+## <a name="audio-conferencing-offers-introduced-to-multinational-customers-with-users-in-india-on-february-1-2020"></a><a id="5"/></a>Ofertas de Audio Conferencing introduzidas a clientes multinacionais com utilizadores na Índia em 1 de fevereiro de 2020
 
 ### <a name="categories"></a>Categorias
 
@@ -237,7 +237,7 @@ Não deve comprar a oferta se a entidade legal do seu cliente estiver sediada na
 
 ### <a name="when-to-purchase"></a>Quando comprar
 
-Os utilizadores atuais podem manter a oferta USD4 até à renovação. Os novos clientes multinacionais net novos e renovados com utilizadores na Índia terão de citar a nova oferta em curso.
+Os utilizadores atuais podem manter a oferta USD4 até à renovação. Os novos e renovados clientes multinacionais com utilizadores na Índia terão de citar a nova oferta em curso.
 
 ### <a name="new-offers"></a>Novas ofertas
 
@@ -253,7 +253,7 @@ Se tiver alguma dúvida sobre estas ofertas, consulte o seu grupo parceiro Yamme
 
 _________________
 
-## <a name="new-price-sheet-and-foreign-exchange-rate-apis-available-for-azure-plan-pricing"></a><a id="4"/></a>Novas TABELAS de Preços e APIs cambiais disponíveis para preços do plano Azure
+## <a name="new-price-sheet-and-foreign-exchange-rate-apis-available-for-azure-plan-pricing"></a><a id="4"/></a>Nova folha de preços e APIs cambiais disponíveis para preços do plano Azure
 
 ### <a name="categories"></a>Categorias
 
@@ -264,24 +264,24 @@ _________________
 
 ### <a name="impacted-audience"></a>Audiência impactada:
 
-Fatura direta e fornecedores indiretos no programa CSP que estão a transagir e revender os contadores e reservas do plano Azure e utilizam as APIs do Partner Center na sua integração com o Microsoft Partner Center.
+Fatura direta e fornecedores indiretos no programa CSP que estão a transacionar e revender os contadores e reservas do plano Azure e usam APIs do Partner Center na sua integração com o Microsoft Partner Center.
 
 ### <a name="summary"></a>Resumo:
 
 A [nova experiência de comércio da Azure na CSP](https://blogs.partner.microsoft.com/mpn/grow-your-business-with-the-new-commerce-experience-for-azure-in-the-csp-program/) pode ajudá-lo a adquirir mais clientes e impulsionar uma maior rentabilidade com experiências de compra e venda simplificadas.
 
- Como parte da nova experiência, estamos entusiasmados por anunciar a disponibilidade de [novas APIs](/partner/develop/pricing) de preços que, programáticamente, recuperem os preços do **plano Azure para consumo e reservas** e **índices de taxas de câmbio** para as moedas de faturação suportadas pela Microsoft. Com a nova API de preços, os parceiros podem automatizar e simplificar o processo de recuperação de informação sobre preços.
+ Como parte da nova experiência, estamos entusiasmados por anunciar a disponibilidade de [novas APIs](/partner/develop/pricing) de preços que, programáticamente, recuperam os preços do **plano Azure para consumo e reservas** e **índices de taxas de câmbio** para as moedas de faturação suportadas pela Microsoft. Com a nova API de preços, os parceiros podem automatizar e simplificar o processo de recuperação de informações sobre preços.
 
 ### <a name="the-new-pricing-apis-provide-the-following-capabilities"></a>As novas APIs de preços fornecem as seguintes capacidades:
 
-- Permite aos parceiros recuperar programáticamente preços para serviços Azure e dados de taxas de câmbio
+- Permite aos parceiros recuperar programáticamente preços para serviços Azure e dados de taxa de câmbio
 - Ajuda os parceiros a obter informações sobre preços, incluindo preços de contadores em USD para recursos e reservas Azure quando aplicados ao plano Azure
 - Permite que os parceiros recuperem taxas de câmbio mensais para as moedas de faturação suportadas ao abrigo da nova experiência (plano Azure)
 - Oferece a capacidade de recuperar preços ou taxas de câmbio para o mês em curso ou meses anteriores
 
 >[!Note] 
->Este é um novo recurso API líquido específico para os preços do plano Azure.
-- A [API ratecard](/partner-center/develop/get-prices-for-microsoft-azure) existente ainda deve ser utilizada para os recursos azure existentes ou reservas implantadas em subscrições anteriores do Azure que não fazem parte do plano Azure.
+>Este é um recurso API novo líquido específico para os preços do plano Azure.
+- A [API do RateCard](/partner-center/develop/get-prices-for-microsoft-azure) existente ainda deve ser utilizada para os recursos Azure existentes ou reservas implantadas em subscrições anteriores do Azure que não fazem parte do plano Azure.
 - Estas APIs estão num ponto final diferente (um domínio que hospeda a API) às APIs do Partner Center.
 
 ### <a name="partner-next-steps-and-resources"></a>Parceiro próximos passos e recursos:
@@ -347,9 +347,9 @@ _________________
 
 ### <a name="summary"></a>Resumo:
 
-O novo [Programa microsoft Customer Agreement](https://www.microsoft.com/licensing/docs/customeragreement) no Fornecedor de Soluções em Nuvem (CSP) entrou disponível a partir de outubro de 2019, substituindo o atual Microsoft Cloud Agreement. O novo contrato de cliente simplificado proporciona condições de compra consistentes para os clientes – independentemente da forma como os clientes optam por comprar.
+O novo [Programa microsoft Customer Agreement](https://www.microsoft.com/licensing/docs/customeragreement) no Fornecedor de Soluções em Nuvem (CSP) entrou em vigor em outubro de 2019, substituindo o atual Microsoft Cloud Agreement. O novo contrato de cliente simplificado proporciona condições de compra consistentes para os clientes – independentemente da forma como os clientes optam por comprar.
 
-**A partir de 1 de fevereiro de 2020, a fatura direta e os fornecedores indiretos da CSP são obrigados a confirmar a aceitação pelo cliente do Acordo de Cliente da Microsoft para quaisquer ofertas de CSP ao abrigo da Microsoft Public Cloud**. Sem confirmar a aceitação do cliente para o novo acordo, os parceiros não poderão fazer uma nova compra para o cliente, incluindo a alteração de lugares e a renovação das compras existentes a partir dessa data (a renovação automática não será impactada).
+**A partir de 1 de fevereiro de 2020, a fatura direta e os fornecedores indiretos da CSP são obrigados a confirmar a aceitação pelo cliente do Acordo de Cliente da Microsoft para quaisquer ofertas CSP ao abrigo da Microsoft Public Cloud**. Sem confirmar a aceitação do cliente para o novo acordo, os parceiros não poderão fazer uma nova compra para o cliente, incluindo a alteração de lugares e a renovação das compras existentes a partir dessa data (a renovação automática não será impactada).
 
 Os parceiros podem apresentar o novo acordo aos clientes da mesma forma que fizeram para o atual Microsoft Cloud Agreement. Após uma avaliação do cliente e aceita o acordo, os parceiros devem confirmar a aceitação do cliente no Partner Center. A interface de utilizador web do Partner Center, API e .NET SDK foram atualizadas para apoiar o novo acordo.
 
@@ -397,13 +397,13 @@ A Microsoft lançou novos produtos para a Dynamics Biz Apps e produtos da Power 
 
 Recursos Humanos (novas ofertas)
 
-- Os utilizadores dinâmicos de 365 RH podem adquirir ofertas de DB/File De capacidade adicional de Ops Dynamics 365.
+- Os utilizadores dinâmicos de 365 RH podem adquirir ofertas de DB/Capacidade de Ficheiros Adicionais Dynamics 365.
 - Ofertas dinâmicas de Self-Serve de RH 365
 - Dinâmica 365 Recursos Humanos (utilizador, inquilino)
 
 loT Intelligence for Supply Chain Management (novas ofertas)
 
-- IoT Intelligence Scenario (nível de inquilino)— inclui direito a até seis cenários e dez máquinas (pré-requisito: Cadeia de fornecimento/Base de utilizadores de Ops Management unificada ou anexar sKU)
+- IoT Intelligence Scenario (nível de inquilino)— inclui direito a até seis cenários e dez máquinas (pré-requisito: Cadeia de Fornecimento/Gestão de Ops Unificadas ou anexar sKU)
 - IoT Intelligence Additional Machine (nível de inquilino) add-on para o addon que licencia o cliente para dez máquinas adicionais (pré-requisito: IoT Intelligence Scenario SKU)
 
 mudança de nome de eCommerce
@@ -421,7 +421,7 @@ As seguintes ofertas já não estão disponíveis para a Dynamics 365 Recursos H
 - Dinâmica 365 para Talento da SA
 - Atrair, a bordo e contratação abrangente
 
-Em 1 de fevereiro de 2020, a Microsoft mudou os nomes de algumas famílias de produtos e oferece-se para alinhar o nome para as ofertas existentes da Dynamics and Power Platform em outros canais e regiões. Consulte as alterações específicas no ficheiro intitulado "Dynamics CSP Offer Name Changes — Feb 2020" [aqui](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#).
+Em 1 de fevereiro de 2020, a Microsoft mudou os nomes de algumas famílias de produtos e oferece-se para alinhar o nome para as ofertas existentes da Dynamics and Power Platform em outros canais e regiões.
 
 ### <a name="additional-resources"></a>Recursos adicionais
 
