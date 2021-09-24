@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 09/17/2021
-ms.openlocfilehash: bcaa85970a67699dd836828dca3abff406ac5980
-ms.sourcegitcommit: fceaca54b0ec695cf214209c09b4516e1b40866a
+ms.openlocfilehash: 99444871bd084545f1d3cfc555d75a9d5d56a5f6
+ms.sourcegitcommit: fb9ca808f6362e81d65a6ba5770dc8820834a0ed
 ms.translationtype: MT
 ms.contentlocale: pt-PT
 ms.lasthandoff: 09/24/2021
-ms.locfileid: "128359385"
+ms.locfileid: "128360173"
 ---
 # <a name="partner-center-announcements"></a>Anúncios do Centro de Parceiros
 
@@ -24,7 +24,7 @@ Saiba mais sobre atualizações importantes do Centro de Parceiros. Estas inform
 |---------|:---------|:---------|
 |Capacidades|[Chaves do produto disponíveis para Business Central para direitos de dupla utilização](2021-september.md#13)|23 de setembro|
 |Capacidades|[Lembrete: Introdução do estrangulamento da API aos parceiros que chamam APIs do Partner Center](2021-september.md#12)|21 de setembro|
-|Capacidades|[Em breve: Privilégios administrativos delegados de monitorização e remoção de autosserviço](2021-september.md#11)|13 de setembro|
+|Capacidades|[Em breve: Privilégios administrativos delegados de monitorização e remoção de autosserviço](2021-september.md#11)|14 de setembro|
 |Capacidades|[Setembro Fornecedor de Soluções em Nuvem atualização comunitária e lembretes](2021-september.md#10)|10 de setembro|
 |Preparação|[Setembro co-vender com o Microsoft Q&Um lembrete de chamada comunitária](2021-september.md#9)|9 de setembro|
 |Preparação|[Novas regras de validação para nome da empresa e endereço de e-mail no dia 22 de setembro](2021-september.md#8)|7 de setembro|
