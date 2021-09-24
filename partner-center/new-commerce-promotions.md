@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dc2d52dd444168b32f0cadaeccec1e6d906348d1
-ms.sourcegitcommit: 847ad384d44a5a673791cb2950af02225d8174c9
+ms.openlocfilehash: 3bea75ba3170462f19d35ef2eaf35878269f832e
+ms.sourcegitcommit: a2eeae26d2a6e8badb0f2e9d9144533b7e9392c8
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/17/2021
-ms.locfileid: "127906337"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "128517724"
 ---
 # <a name="introduction-new-commerce-promotions"></a>Introdução: Novas promoções de comércio
 
@@ -47,17 +47,15 @@ A API getPromotions inclui os seguintes dados para uma determinada promoção:
 
 As promoções são aplicadas pelo centro parceiro quando o parceiro compra o produto SKU para o qual a promoção está disponível. As promoções de parceiros estão disponíveis na interface de utilizador do catálogo do parceiro center nos detalhes do produto SKU. Podem clicar nos "Ver detalhes da promoção" para obter mais informações sobre a promoção. A capacidade de visualizar os detalhes da promoção pode ser acedida a partir da página de catálogo ver detalhes SKU, a página de revisão antes de submeter a compra, a confirmação após a submissão da encomenda e a página do histórico da encomenda. 
 
-
 ## <a name="verify-eligibility"></a>Verificar elegibilidade ##
 
 Os parceiros podem ver se uma compra de cliente é elegível para uma promoção vendo a informação na página de revisão no centro de parceiros antes de comprar o produto. Os parceiros também podem ligar para a API de API de verificação de Elegografia, passando o ID do inquilino do cliente e o ID de promoção. A chamada retorna verdadeira se o cliente for elegível. Se o cliente não for elegível, a API devolve as condições que não foram satisfeitas para que a promoção seja aplicável. 
 
-
+Os parceiros podem ligar para validar a elegibilidade e obter resultados de volta. Os erros de elegibilidade podem basear-se em contagens de assentos, termos incompatíveis ou limites em quantas vezes uma promoção pode ser aplicada ao produto de um cliente SKU.
 
 ## <a name="promotions-and-renewals"></a>Promoções e renovações ##
 
 Os descontos promocionais quando aplicados são para o prazo de compra. As subscrições com promoções aplicadas manterão o preço promocional se a data de renovação estiver na gama de datas de duração da promoção. As renovações fora da gama de datas de duração da promoção renovar-se-ão para o preço de não promoção (a partir da tabela de preços). Os parceiros podem acompanhar o estado de renovação dos pontos de preços na página de detalhes da subscrição e nas instruções de renovação de dados de subscrição.
-
 
 ## <a name="promotions-and-upgrades"></a>Promoções e atualizações ##
 Os parceiros que atualizam de uma subscrição para outro SKU deixarão o preço de promoção para trás. Esta ação ocorre porque a promoção foi configurada para o SKU que eles estão deixando quando eles fazem upgrade para outro SKU. Os parceiros que fazem upgrade para um SKU que pode ter uma promoção não obterão automaticamente o preço de promoção. Se precisarem ou quiserem o preço de promoção para o SKU para onde querem mudar-se, precisam de comprar manualmente o novo SKU como uma nova subscrição. Atualmente, as promoções só são aplicadas em novas compras e renovações por subscrição.

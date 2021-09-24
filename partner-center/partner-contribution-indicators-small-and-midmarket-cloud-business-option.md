@@ -14,7 +14,7 @@ ms.sourcegitcommit: fb9ca808f6362e81d65a6ba5770dc8820834a0ed
 ms.translationtype: MT
 ms.contentlocale: pt-PT
 ms.lasthandoff: 09/24/2021
-ms.locfileid: "128370228"
+ms.locfileid: "128422405"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-small-and-midmarket-cloud-solutions-competency"></a>Utilizar Indicadores de Contribuição de Parceiros para obter a competência Soluções de Cloud para Pequenas e Médias Empresas
 

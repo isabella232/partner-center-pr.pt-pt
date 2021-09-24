@@ -45,7 +45,7 @@
         - name: Benefícios de comercialização
           href: mpn-learn-about-go-to-market-benefits.md
           displayName: mpn
-        - name: Demonstrações para parceiros MPN
+        - name: Demos para parceiros MPN
           href: mpn-demos.md
           displayName: mpn
         - name: Benefícios azul e nuvem
@@ -191,7 +191,7 @@
         - name: Update your partner profile (Atualizar o perfil de parceiro)
           href: update-your-partner-profile.md
           displayName: mpn
-        - name: Certificação de listagem Partner Finder
+        - name: Certificação de listagem partner Finder
           href: partner-finder-certification.md
         - name: Informação do número de registo
           href: reg-number-id.md
@@ -246,7 +246,7 @@
       href: manage-leads.md
     - name: Gerir oportunidades de venda conjunta
       items:
-        - name: Sobre oportunidades potenciais de venda conjunta
+        - name: Sobre oportunidades de co-venda
           href: manage-co-sell-opportunities.md
         - name: Operações a granel
           href: bulk-operations.md
@@ -330,6 +330,9 @@
         - name: Aprovação e prazos de queixas de co-op
           href: incentives-managing-co-op-claims.md
           displayName: incentives
+        - name: Reclamações rejeitadas
+          href: reject-claims.md
+          displayName: incentives
     - name: Queixas de associação CPOR de incentivos
       items:
         - name: Entender associações CPOR
@@ -390,7 +393,7 @@
       href: modern-invoice-reconciliation-file.md
     - name: Cálculo efetivo do preço por unidade
       href: effective-unit-price-calculation.md
-    - name: Execução do limite de crédito
+    - name: Aplicação do limite de crédito
       href: credit-limit-enforcement.md
     - name: Common billing scenarios (Cenários de faturação comuns)
       href: common-billing-scenarios.md
@@ -738,13 +741,13 @@
                   href: insights-programmatic-analytics-available-api.md
                 - name: Obtenha todos os conjuntos de dados
                   href: insights-programmatic-analytics-api-get-dataset.md
-                - name: Obtenha consultas de relatório
+                - name: Obter consultas de relatório
                   href: insights-programmatic-analytics-api-get-report-queries.md
                 - name: Eliminar consultas de relatório
                   href: insights-programmatic-analytics-api-delete-report-queries.md
                 - name: Experimente consultas de relatório
                   href: insights-programmatic-analytics-api-try-report-queries.md
-                - name: Obtenha relatório
+                - name: Obter relatório
                   href: insights-programmatic-analytics-api-get-report.md
                 - name: Relatório de atualização
                   href: insights-programmatic-analytics-api-update-report.md
