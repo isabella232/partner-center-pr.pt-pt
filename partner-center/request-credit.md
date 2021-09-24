@@ -10,11 +10,11 @@ ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
 ms.openlocfilehash: 0521c7fde81663b9eb7cd89344ee2432e8a1ea31
-ms.sourcegitcommit: fceaca54b0ec695cf214209c09b4516e1b40866a
+ms.sourcegitcommit: fb9ca808f6362e81d65a6ba5770dc8820834a0ed
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/23/2021
-ms.locfileid: "128322419"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "128369377"
 ---
 # <a name="how-and-when-to-request-a-credit-from-microsoft"></a>Como e quando solicitar um crédito à Microsoft
 

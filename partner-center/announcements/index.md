@@ -13,8 +13,8 @@ ms.openlocfilehash: bcaa85970a67699dd836828dca3abff406ac5980
 ms.sourcegitcommit: fceaca54b0ec695cf214209c09b4516e1b40866a
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/23/2021
-ms.locfileid: "128322445"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "128359385"
 ---
 # <a name="partner-center-announcements"></a>Anúncios do Centro de Parceiros
 

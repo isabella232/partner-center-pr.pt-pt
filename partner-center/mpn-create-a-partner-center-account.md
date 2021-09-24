@@ -9,18 +9,18 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b88698cec01e7a5a3701d420298d93640d0fdbbf
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: 0410e8fe4239915c445125951076ff170cef3a91
+ms.sourcegitcommit: fceaca54b0ec695cf214209c09b4516e1b40866a
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960869"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "128366157"
 ---
 # <a name="create-an-mpn-account-in-partner-center-to-manage-network-benefits-and-competencies"></a>Criar uma conta MPN no Partner Center para gerir benefícios e competências de rede
 
 **Funções adequadas**: Administrador parceiro da MPN
 
-Se é novo na Microsoft Partner Network (MPN) e não tem um ID MPN, pode iniciar a sua inscrição seguindo as [instruções de inscrição](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/partnership).
+Se for novo na Microsoft Partner Network (MPN) e não tiver um ID MPN, pode iniciar a sua inscrição seguindo as [instruções de inscrição](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/partnership).
 
 ## <a name="prerequisites"></a>Pré-requisitos 
 
@@ -32,40 +32,40 @@ Quando estiver pronto para criar uma conta no Partner Center, terá de ter à m�
 
 - Autoridade para assinar acordos legais. Certifique-se de que está autorizado a assinar acordos legais em nome da sua empresa, uma vez que lhe será solicitado que o faça durante o processo de inscrição.
 
-- Nome e e-mail da empresa da pessoa que pretende agir como o seu contacto principal. Para ajudar a garantir a segurança e privacidade da sua empresa, enviamos um e-mail para o seu contacto principal para verificar o endereço de e-mail e para garantir que o endereço de e-mail pertence à sua empresa. Após o contacto principal verificar o endereço de e-mail, continuaremos a nossa revisão das informações fornecidas. A verificação geralmente leva 3-5 dias úteis. 
+- Nome e e-mail da empresa da pessoa que pretende agir como o seu contacto principal. Para ajudar a garantir a segurança e privacidade da sua empresa, enviamos um e-mail para o seu contacto principal para verificar o endereço de e-mail e para garantir que o endereço de e-mail pertence à sua empresa. Após o primeiro contacto verificar o endereço de e-mail, continuaremos a nossa revisão das informações fornecidas. A verificação geralmente leva 3-5 dias úteis. 
 
 - Para obter informações sobre o processo de verificação, consulte [a verificação da conta.](verification-responses.md)
 
 > [!NOTE]
-> Se tinha uma conta no Centro de Adesão de Sócios (PMC), foi migrada para o Partner Center. Clique para obter mais informações sobre [a aposentadoria do Centro de Adesão ao Parceiro.](partner-membership-center-retirement-faq.md)
+> Se tinha uma conta no Centro de Adesão de Sócios (PMC), foi migrada para o Centro de Parceiros. Clique para obter mais informações sobre [a aposentadoria do Centro de Adesão ao Parceiro.](partner-membership-center-retirement-faq.md)
 
 ## <a name="get-started"></a>Introdução
 
 1. Na página [**Get start,**](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/partnership) comece com o seu email de trabalho que lhe foi dado pela sua empresa, por exemplo, you@yourcompanyname.com .
 
-    a.  O endereço de e-mail deve ser válido e acessível a si porque enviaremos um código de verificação para esse e-mail para continuar.
+    a.  O endereço de e-mail deve ser válido e acessível a si, porque enviaremos um código de verificação para esse e-mail para continuar.
 
     b.  O endereço de e-mail não deve conter palavras como "info", "administrador", email@ ." Ou " marketing@.. ."; estes formatos de endereço não são suportados.
 
     c.  Para comprar MAPS ou gerir competências, terá de atualizar esta conta [verificando o seu domínio](become-global-admin.md) e tornando-se administrador. 
 
-2. Pode iniciar sôms com a sua conta de trabalho Office 365, por you@contoso.onmicrosoft.com exemplo, .
+2. Pode iniciar scontabilidade com a sua conta de trabalho Office 365, por you@contoso.onmicrosoft.com exemplo.
 
    > [!NOTE]
    > Não pode usar as credenciais de conta CSP existentes ou um domínio governamental para se inscrever na MPN. A MPN é um programa global e não apoia a inscrição com um domínio governamental. Se você não tem um endereço de e-mail ou inquilino em nuvem global, você pode [criar um inquilino público](/azure/active-directory/fundamentals/active-directory-access-create-new-tenant) e, em seguida, seguir os passos neste artigo.
 
 3. Forneça os detalhes legais do seu negócio da sua empresa.
 
-    Pode procurar o perfil da empresa ou introduzir informações da empresa manualmente. Se a sua empresa estiver registada na [Dun & Bradstreet,](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad)utilize o ID DUNS para consultar as informações da sua empresa. Se pretender fornecer os seus dados da sua empresa, selecione **Manual**.
+    Pode procurar o perfil da empresa ou introduzir informações da empresa manualmente. Se a sua empresa estiver registada na [Dun & Bradstreet,](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad)utilize o ID DUNS para consultar as informações da sua empresa. Se quiser fornecer os seus dados da empresa, selecione **Manual**.
 
-    Se a sua empresa estiver localizada na **Arménia**, **Hungria,** **Quirguistão,** **Moldávia,** **Uzbequistão** ou **Rússia,** e introduzir o seu endereço manualmente, validaremos o seu endereço para si. Se o que insere diferir do validado, sugerimos que utilize o endereço validado. Isto garante que os elementos do endereço são normalizados conforme definido pela autoridade postal do país, corretamente formatados e enviados.  
+    Se a sua empresa estiver localizada na **Arménia**, **Hungria,** **Quirguistão,** **Moldávia,** **Uzbequistão** ou **Rússia,** e introduzir o seu endereço manualmente, validaremos o seu endereço para si. Se o que insere diferir do validado, sugerimos que utilize o endereço validado. Isto garante que os elementos do endereço são normalizados conforme definido pela autoridade postal do país, corretamente formatado e enviado.  
 
     Depois de fornecer informações sobre a empresa, insira as informações de contacto primários. O contacto principal deve ser a pessoa na sua empresa que podemos contactar sobre a sua aplicação (este contacto pode ser você ou outra pessoa na sua empresa).
 
 4. Selecione **Matricular-se agora**.
 
     >[!IMPORTANT]
-    >Para ajudar a garantir a segurança e privacidade da sua empresa, enviamos um e-mail para o seu contacto principal para verificar o endereço de e-mail e garantir que o endereço de e-mail pertence à sua empresa. Após o contacto principal verificar o endereço de e-mail, continuaremos a nossa revisão das informações que forneceu. A verificação geralmente leva 3-5 dias úteis. 
+    >Para ajudar a garantir a segurança e privacidade da sua empresa, enviamos um e-mail para o seu contacto principal para verificar o endereço de e-mail e garantir que o endereço de e-mail pertence à sua empresa. Após o contacto principal verificar o endereço de e-mail, continuaremos a nossa revisão da informação que forneceu. A verificação geralmente leva 3-5 dias úteis. 
 
 ## <a name="registration-id-numbers-by-country"></a>Números de ID de inscrição por país
 
@@ -75,7 +75,7 @@ A tabela seguinte contém amostras dos números de registo recolhidos para cada 
 
 | **País ou região** | **Detalhes** | 
 |:--|:--|
-| **Arménia** | INN – Número de identificação fiscal<br>Número do IVA – Também conhecido como Número de Registo do IVA. Este é o número único que identifica uma pessoa tributável (empresa) ou entidade jurídica não tributável que esteja registada no IVA.<br>Número de serviço público |
+| **Arménia** | INN – Número de identificação fiscal<br>Número do IVA – Também conhecido como Número de Registo do IVA. Este é o número único que identifica um pessoa tributável (empresa) ou entidade jurídica não tributável que está registada no IVA.<br>Número de serviço público |
 | **Azerbaijão**  | [ESTANHO](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Azerbaijan-TIN.pdf) – Número de Identificação Fiscal<br>INN – Número de identificação fiscal |
 | **Bielorrússia**  | UNP – Trata-se de um número de nove dígitos (numérico para organizações, alfanumérico para indivíduos) que contém um identificador de região, um serial por região e um dígito de verificação. |
 |**Brasil** | [CNPJ](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Brazil-TIN.pdf) – (Cadastro Nacional da Pessoa Jurídica, ou Registo Nacional de Entidades Jurídicas). Este é um número de identificação emitido para empresas brasileiras pelo Departamento de Receita Federal do Brasil  |
@@ -96,21 +96,21 @@ A tabela seguinte contém amostras dos números de registo recolhidos para cada 
 | **Tailândia** | [ESTANHO](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – Número de Identificação Fiscal |
 | **Turquia** | [ESTANHO](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Turkey-TIN.pdf) – Número de Identificação Fiscal<br>NIN |
 | **Ucrânia**  | EGRPOU<br>EDRPOU – Local ID |
-| **Emirados Árabes Unidos** | ID de impostos<br>[Número do IVA](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/UAE-TIN.pdf) - Também conhecido como Número de Registo do IVA. Este é o número único que identifica uma pessoa tributável (empresa) ou entidade jurídica não tributável que esteja registada no IVA. |
-| **E.U.A.** | [EIN](https://irs.ein-forms-gov.com/?keyword=employer%20identification%20number&source=Google&network=o&device=c&devicemodel=&mobile=&adposition%5d&targetid=kwd-81501461534755:loc-190&msclkid=458d3159f6051392f5286e8e75ed79ce) – Número de Identificação do Empregador |
+| **Emirados Árabes Unidos** | ID de impostos<br>[Número do IVA](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/UAE-TIN.pdf) - Também conhecido como Número de Registo de IVA. Este é o número único que identifica um pessoa tributável (empresa) ou entidade jurídica não tributável que está registada no IVA. |
+| **E.U.A.** | [EIN](https://www.irs.gov/taxtopics/tc755) – Número de Identificação do Empregador |
 | **Usbequistão**  | INN – Número de Identificação Fiscal |
 | **Vietname** | [ESTANHO](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – Número de Identificação Fiscal |
 | **Venezuela** | RIF – é um número de Imposto ("Registro de Identificación Fiscal") |
 
 
 
-## <a name="how-to-view-account-details-or-view-and-download-the-mpn-agreement"></a>Como ver detalhes da conta ou visualizar e descarregar o acordo MPN
+## <a name="how-to-view-account-details-or-view-and-download-the-mpn-agreement"></a>Como ver detalhes da conta ou visualizar e baixar o contrato mpn
 
-Inscreva-se no Partner Center com as suas credenciais MPN. Selecione [**o perfil de Parceiro**](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) para ver os dados legais da sua empresa, o seu estado de verificação, os seus IDs MPN e também criar novas localizações mpn, se necessário. 
+Inscreva-se no Partner Center com as suas credenciais MPN. Selecione [**o perfil de Parceiro**](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) para ver os detalhes legais da sua empresa, o seu estado de verificação, os seus IDs MPN e também criar novas localizações mpn, se necessário. 
 
 Também pode ver outras informações importantes como MPN Ids, gerir localizações mpn e ver o Microsoft Partner Agreement usando os links do menu esquerdo como mostra na imagem seguinte.
 
-:::image type="content" source="images/mpn-new.png" alt-text="Perfil de parceiro.":::
+:::image type="content" source="images/mpn-new.png" alt-text="Perfil do parceiro.":::
 
 
 ## <a name="next-steps"></a>Passos seguintes

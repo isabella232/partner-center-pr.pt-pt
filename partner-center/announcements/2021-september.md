@@ -15,8 +15,8 @@ ms.openlocfilehash: 51706ec685519ea297e851cb4f2b862b96db3da1
 ms.sourcegitcommit: fceaca54b0ec695cf214209c09b4516e1b40866a
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/23/2021
-ms.locfileid: "128322459"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "128373426"
 ---
 # <a name="september-2021-announcements"></a>Anúncios de setembro de 2021
 

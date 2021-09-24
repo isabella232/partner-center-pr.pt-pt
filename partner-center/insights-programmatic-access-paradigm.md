@@ -12,8 +12,8 @@ ms.openlocfilehash: 674cc6f800edc540920d80bedd031fae959b973b
 ms.sourcegitcommit: fceaca54b0ec695cf214209c09b4516e1b40866a
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/23/2021
-ms.locfileid: "128322560"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "128366135"
 ---
 # <a name="programmatic-access-paradigm"></a>Paradigma de acesso programático
 
