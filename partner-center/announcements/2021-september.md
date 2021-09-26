@@ -11,12 +11,12 @@ ms.custom:
 - references_regions
 ms.localizationpriority: high
 ms.date: 09/20/2021
-ms.openlocfilehash: 92e49bed070eedb74b6663b5d4161dbfef7e0420
-ms.sourcegitcommit: fb9ca808f6362e81d65a6ba5770dc8820834a0ed
+ms.openlocfilehash: 51706ec685519ea297e851cb4f2b862b96db3da1
+ms.sourcegitcommit: fceaca54b0ec695cf214209c09b4516e1b40866a
 ms.translationtype: MT
 ms.contentlocale: pt-PT
 ms.lasthandoff: 09/24/2021
-ms.locfileid: "128360275"
+ms.locfileid: "128701044"
 ---
 # <a name="september-2021-announcements"></a>Anúncios de setembro de 2021
 
@@ -50,7 +50,7 @@ Não há alterações no processo de encomenda ou no processo de cumprimento do 
 - Reveja os recursos sobre este tema e partilhe com as partes interessadas apropriadas na sua organização.  
 - Certifique-se de que a sua organização e organizações de clientes estão familiarizadas com esta mudança.
 - Se não está familiarizado com a forma de descarregar as chaves do produto, [reveja baixar as chaves de software perpétuo e licença de produto](/microsoft-365/admin/setup/download-software-licenses-csp?view=o365-worldwide).
-- Reveja o processo de [cumprimento de direitos de dupla utilização](https://partner.microsoft.com/resources/detail/dual-use-right-license-fulfilment-pdf) da Dynamics na [coleção Dynamics 365 Business Central Dual Use Rights Resources](https://partner.microsoft.com/resources/collection/dynamics-365-business-central-dual-use-rights-resources#/).
+- Reveja o processo de cumprimento de direitos de dupla utilização da Dynamics na [coleção Dynamics 365 Business Central Dual Use Rights Resources](https://partner.microsoft.com/resources/collection/dynamics-365-business-central-dual-use-rights-resources#/).
 
 ### <a name="questions"></a>Perguntas?
 
@@ -113,7 +113,7 @@ ________________
 
 ### <a name="categories"></a>Categorias
 
-- Data: 2021-09-14
+- Data: 2021-14-10
 - Capacidades
 
 ### <a name="summary"></a>Resumo
@@ -130,7 +130,7 @@ Os parceiros podem usar privilégios administrativos delegados (DAP) para gerir 
 
 Para melhorar a segurança dentro do ecossistema do parceiro e do cliente, a Microsoft recomenda desligar o DAP quando este não estiver a ser utilizado.
 
-A Microsoft vai lançar novas ferramentas de reporte para que os agentes da administração dos parceiros possam auditar as ligações do DAP com os seus clientes. Este relatório irá capturar a forma como os agentes parceiros estão a aceder aos inquilinos dos clientes através de TODOS os inquilinos através do DAP. Os parceiros podem então rever e remover as ligações DAP que não estão a ser utilizadas.
+A partir do final de outubro, a Microsoft lançará novas ferramentas de reporte para que os agentes da administração dos parceiros possam auditar as ligações do DAP com os seus clientes. Este relatório irá capturar a forma como os agentes parceiros estão a aceder aos inquilinos dos clientes através de TODOS os inquilinos através do DAP. Os parceiros podem então rever e remover as ligações DAP que não estão a ser utilizadas.
 
 Para saber mais sobre este novo recurso de relatório, criámos um [guia](https://partner.microsoft.com/resources/detail/dap-monitoring-and-self-serve-removal-pdf) que documenta os vários filtros e campos que estão disponíveis no relatório.
 

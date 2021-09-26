@@ -9,29 +9,30 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 335c0806d9504263dcfa506721b4217cf8b78db6
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: 83f4bb361002a903bff1b3d1433d09b9d244632a
+ms.sourcegitcommit: dd900161830c59bcf3c5d700d524436ee05cd987
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960649"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "128714118"
 ---
 # <a name="use-promotions-to-attract-new-customers-and-pass-the-savings-on-to-them"></a>Use promoções para atrair novos clientes e passe as poupanças para eles
 
-
-
 **Funções adequadas**: Agente administrador | | de administrador sócio da MPN Administrador de faturação | Agente comercial
-
 
 A Microsoft ocasionalmente oferece promoções em subscrições baseadas em licenças, permitindo-lhe passar as poupanças para os clientes e fazer crescer o seu negócio. 
 
-A Microsoft oferece dois tipos de promoções: as disponíveis para todos os parceiros elegíveis no programa Fornecedor de Soluções em Nuvem (CSP) e as disponíveis apenas para parceiros numa determinada região geográfica.
+> [!Note] 
+> Este artigo descreve como as promoções funcionam para subscrições tradicionais baseadas em licenças. Informações sobre como as promoções funcionam para novas subscrições baseadas em licenças de comércio podem ser encontradas no novo tópico de [promoções de comércio.](new-commerce-promotions.md)
+> 
+
+A Microsoft oferece dois tipos de promoções: as que estão disponíveis para todos os parceiros elegíveis no programa Fornecedor de Soluções em Nuvem (CSP) e as disponíveis apenas para parceiros numa determinada região geográfica.
 
 Os preços de promoção são automaticamente aplicados ao seu preço líquido quando compra novas subscrições ao preço de promoção. Além disso, quaisquer licenças que adicione a uma subscrição comprada com preços de promoção são adicionadas ao preço de promoção. 
 
 Aproveite um momento para rever estes importantes factos sobre promoções:
 
-- O preço de promoção de uma subscrição aplica-se apenas durante a duração da subscrição. Quando uma subscrição que adquiriu com preços promocionais expira, o preço da subscrição de renovação reverte para o preço na tabela de preços. Isto significa que quaisquer subscrições criadas para renovação automática serão renovadas ao preço prevalecente. Pode encontrar a lista de preços na página **de preços e ofertas.**
+- O preço de promoção de uma subscrição aplica-se apenas durante a duração da subscrição. Quando uma subscrição que adquiriu com preços promocionais expira, o preço da subscrição de renovação reverte para o preço na tabela de preços. Isto significa que quaisquer subscrições criadas para renovação automática renovarão ao preço prevalecente. Pode encontrar a lista de preços na página **de preços e ofertas.**
 
 - Se uma subscrição for elegível para múltiplas promoções, a promoção com a maior percentagem de desconto é aplicada automaticamente.
 

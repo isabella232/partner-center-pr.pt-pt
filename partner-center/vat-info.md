@@ -8,16 +8,16 @@ ms.localizationpriority: medium
 ms.date: 12/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-enroll
-ms.openlocfilehash: af342ef92613adbeb7ac37e0dd5e813949e67e03
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: ed9e1242299514d465b6d1781be90a4aa9f255d4
+ms.sourcegitcommit: dd900161830c59bcf3c5d700d524436ee05cd987
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126246563"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "128714135"
 ---
-# <a name="value-added-tax-vat-information"></a>Informação sobre o imposto sobre o valor acrescentado (IVA)
+# <a name="value-added-tax-vat-information"></a>Informação sobre imposto sobre o valor acrescentado (IVA)
 
-**Funções adequadas**: Administração de contas
+**Funções adequadas**: Administrador de conta
 
 
 Se você é obrigado a fornecer um número de ID de imposto sobre o valor acrescentado (IVA) durante o processo de registo do Centro parceiro, aqui está algumas informações para começar.
@@ -34,15 +34,15 @@ Os seguintes detalhes são exclusivos dos países ou regiões abaixo listados.
 
 Nos Estados-Membros da União Europeia, os parceiros devem fornecer o seu número de identificação válido do IVA para cobrança inversa e faturação adequada. O número do IVA deve ser aceite como válido.
 
-A Microsoft não suporta crédito e re-factura. Antes de vender quaisquer subscrições, tem de [registar o seu número de Identificação de IVA](organization-tax-info.md) no Partner Center.
+A Microsoft não suporta crédito e reputado. Antes de vender quaisquer subscrições, tem de [registar o seu número de Identificação de IVA](organization-tax-info.md) no Partner Center.
 
 ### <a name="south-africa"></a>África do Sul
 
-A Microsoft aplica agora o IVA padrão sobre conteúdos digitais e serviços adquiridos por parceiros na África do Sul. Para excluir o IVA das suas faturas e geri-lo por si mesmo, tem de atualizar o perfil de faturação do seu parceiro [enviando à Microsoft o seu número de ID de IVA](organization-tax-info.md).
+A Microsoft aplica agora o IVA padrão sobre conteúdos digitais e serviços adquiridos por parceiros na África do Sul. Para excluir o IVA das suas faturas e geri-lo por si mesmo, tem de atualizar o perfil de faturação do seu parceiro [enviando à Microsoft o seu número de ID de IVA.](organization-tax-info.md)
 
 ### <a name="turkey"></a>Turquia
 
-A Microsoft aplica agora o IVA padrão sobre conteúdos digitais e serviços adquiridos por parceiros na Turquia. Para excluir o IVA das suas faturas e geri-lo por si mesmo, tem de atualizar o perfil de faturação do seu parceiro [enviando à Microsoft o seu número de ID de IVA](organization-tax-info.md).
+A Microsoft aplica agora o IVA padrão sobre conteúdos digitais e serviços adquiridos por parceiros na Turquia. Para excluir o IVA das suas faturas e geri-lo por si mesmo, tem de atualizar o perfil de faturação do seu parceiro [enviando à Microsoft o seu número de ID de IVA.](organization-tax-info.md)
 
 ## <a name="accepted-formats-for-vat-numbers"></a>Formatos aceites para números de IVA
 
@@ -50,7 +50,7 @@ Note que a Microsoft não fornece conselhos fiscais, e a tabela a seguir é forn
 
 |Pais/região | Informação sobre IVA |
 |:------------|:----------|
-|Áustria  |- Formato número de IVA: 1 letra e 8 dígitos<br/>- Código país/região: AT<br/>- Exemplo: U12345678<br/>- Notas: O primeiro personagem será sempre "U". |
+|Áustria  |- Formato número de IVA: 1 letra e 8 dígitos<br/>- Código país/região: AT<br/>- Exemplo: Sub12345678<br/>- Notas: O primeiro personagem será sempre "U". |
 |Bélgica  |- Formato número de IVA: 10 dígitos<br/>- Código país/região: BE<br/>- Exemplo: 1234567890<br/>- Notas: 9 dígitos antes de 1 de janeiro de 2007. |
 | Bulgária  |- Formato número de IVA: 9 ou 10 dígitos<br/>- Código país/região: BG<br/>- Exemplo: 123456789 ou 0123456789 |
 | Croácia |- Formato número de IVA: 2 letras e 11 dígitos<br/>- Código país/região: RH<br/>- Exemplo: HR12345678901<br/>- Notas: Os primeiros caracteres serão sempre 'HR'. |
@@ -58,7 +58,7 @@ Note que a Microsoft não fornece conselhos fiscais, e a tabela a seguir é forn
 |Checa |- Formato número de IVA: 8, 9 ou 10 dígitos<br/>- Código país/região: CZ<br/>- Exemplo: 12345678, 123456789 ou 0123456789 |
 | Dinamarca |- Formato número de IVA: 8 dígitos<br/>- Código país/região: DK<br/>- Exemplo: 12345678<br/> |
 |Estónia |- Formato número de IVA: 9 dígitos<br/>- Código país/região: EE<br/>- Exemplo: 123456789<br/> |
-|Finlândia |- Formato do Número do IVA: dígitos<br/>- Código país/região: FI<br/>- Exemplo: 12345678 |
+|Finlândia |- Formato do Número de IVA: dígitos<br/>- Código país/região: FI<br/>- Exemplo: 12345678 |
 |França |- Formato número de IVA: 11 dígitos<br/>- Código país/região: FR<br/>- Exemplo: 12345678901, X1234567890, 1X123456789, ou XX123456789<br/>- Notas: Pode incluir quaisquer caracteres alfabéticos, exceto I ou Q como o primeiro ou segundo caracteres, ou como o primeiro e segundo caracteres, seguidos de 9 dígitos. |
 |Alemanha |- Formato número de IVA: 9 dígitos<br/>- Código país/região: DE<br/>- Exemplo: 123456789<br/>- Notas: Deve ser o 'Umsatzsteur Identifikationnummer' (Ust ID Nr.) |
 |Grécia |- Formato número de IVA: 9 dígitos<br/>- Código país/região: EL, GR<br/>- Exemplo: 123456789 |
@@ -69,11 +69,11 @@ Note que a Microsoft não fornece conselhos fiscais, e a tabela a seguir é forn
 |Lituânia |- Formato número de IVA: 9 ou 12 dígitos<br/>- Código país/região: LT<br/>- Exemplo: 123456789 ou 012345678901 |
 |Luxemburgo |- Formato número de IVA: 8 dígitos<br/>- Código país/região: LU<br/>- Exemplo: 12345678 |
 |Malta |- Formato número de IVA: 2 letras e 8 dígitos<br/>- Código país/região: MT</br>-Exemplo: MT12345678<br/>- Notas: Os primeiros caracteres serão sempre 'MT'. |
-|Países Baixos |- Formato número de IVA: 11 dígitos e 1 letra<br/>- Código país/região: NL<br/>- Exemplo: 123456789B01<br/>- Notas: O décimo personagem é sempre 'B'. |
+|Países Baixos |- Formato número de IVA: 11 dígitos e 1 letra<br/>- Código país/região: NL<br/>- Exemplo: 123456789B01<br/>- Notas: Décimo personagem é sempre 'B'. |
 |Polónia |- Formato número de IVA: 10 dígitos<br/>- Código país/região: PL<br/>- Exemplo: 1234567890 |
 |Portugal |- Formato número de IVA: 9 dígitos<br/>- Código país/região: PT<br/>- Exemplo: 123456789 |
 |Roménia |- Formato número de IVA: 2 letras e 8-10 dígitos<br/>- Código país/região: RO<br/>- Exemplo: RO12345678, RO123456789, ou RO1234567890<br/>- Notas: Os primeiros caracteres serão sempre 'RO' |
-|Eslováquia |- Formato número de IVA: 10 dígitos<br/>- Código país/região: SK<br/>- Exemplo: 1234567890<br/>- Notas: Os primeiros caracteres serão sempre 'SI'. |
+|Eslováquia |- Formato número de IVA: 10 dígitos<br/>- Código país/região: SK<br/>- Exemplo: 1234567890<br/>- Notas: Os primeiros caracteres serão sempre 'SK'. |
 |Eslovénia |- Formato número de IVA: 2 letras e 8 dígitos<br/>- Código país/região: SI<br/>- Exemplo: SI12345678<br/>- Notas: Os primeiros caracteres serão sempre 'SI'. |
 |Espanha |- Formato número de IVA: 9 dígitos<br/>- Código país/região: ES<br/>- Exemplo: X12345678, 12345678X, ou X1234567X<br/>- Notas: Inclui 1 ou 2 letras: primeiro, último ou primeiro e último. |
 |Suécia |- Formato número de IVA: 12 dígitos<br/>- Código país/região: SE<br/>- Exemplo: 123456789001<br/>- Notas: Os últimos 2 caracteres devem ser '01'. |
@@ -81,4 +81,4 @@ Note que a Microsoft não fornece conselhos fiscais, e a tabela a seguir é forn
 
 ## <a name="next-steps"></a>Passos seguintes
 
-- [Informação sobre o imposto sobre a empresa e como adicionar ou submeter IDs de IVA para compras do Partner Center](organization-tax-info.md)
+- [Informação sobre impostos da empresa e como adicionar ou submeter IDs de IVA para compras do Partner Center](organization-tax-info.md)
