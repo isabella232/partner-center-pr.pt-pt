@@ -1,20 +1,20 @@
 ---
 title: Indicadores de contribuição dos parceiros - SMMCS
 ms.topic: article
-ms.date: 09/15/2021
+ms.date: 09/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
 description: Conheça os parceiros de Indicadores de Contribuição de Parceiros (PCI) que precisam de se reunir antes de poderem atingir a competência das Soluções cloud de pequeno e médio mercado.
-author: shganesh-dev
-ms.author: shganesh
+author: kshitishsahoo
+ms.author: ksahoo
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f1477ac6f5675c820564606c7ce5f0b7a5871305
-ms.sourcegitcommit: fb9ca808f6362e81d65a6ba5770dc8820834a0ed
+ms.openlocfilehash: ad938d03dca9008168fda6a7c5eebed9a0aa3f07
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "128422405"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129075839"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-small-and-midmarket-cloud-solutions-competency"></a>Utilizar Indicadores de Contribuição de Parceiros para obter a competência Soluções de Cloud para Pequenas e Médias Empresas
 
@@ -50,23 +50,23 @@ Quando um parceiro atinge determinados níveis de impacto em indicadores-chave, 
 
 O PCI proporciona uma visão sofisticada das capacidades técnicas de um parceiro, da sua capacidade de impulsionar o sucesso do cliente e do seu desempenho de vendas. Para ajudar os parceiros a alcançar a competência Silver ou Gold Small and Midmarket Cloud Solutions através da opção Cloud Business Applications SMB, o PCI mede o desempenho da sua empresa no ano anterior em seis indicadores-chave:
 
-*Indicadores de desempenho:*
+### <a name="performance-indicators"></a>Indicadores de desempenho
 
-1. **Nova receita líquida**: Receitas líquidas em todos os canais de vendas para produtos específicos da Microsoft. (Para mais detalhes sobre esta métrica, consulte [Definições para novas receitas líquidas](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-1---net-new-revenue).)
+- **Nova receita líquida**: Receitas líquidas em todos os canais de vendas para produtos específicos da Microsoft. (Para mais detalhes sobre esta métrica, consulte [Definições para novas receitas líquidas](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-1---net-new-revenue).)
 
-2. **Cliente líquido acrescenta**: Clientes líquidos adquiridos para produtos específicos da Microsoft em todos os canais de vendas. (Para mais informações sobre esta métrica, consulte [Definições para adicionar ao cliente líquido](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-2---net-customer-adds).)
+- **Cliente líquido acrescenta**: Clientes líquidos adquiridos para produtos específicos da Microsoft em todos os canais de vendas. (Para mais informações sobre esta métrica, consulte [Definições para adicionar ao cliente líquido](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-2---net-customer-adds).)
 
-*Indicadores de capacidade:*
+### <a name="capability-indicators"></a>Indicadores de capacidade
 
-3. **Consultores funcionais**: Número de indivíduos que detêm uma certificação funcional de consultor associado atualmente ativa para a Dynamics 365. (Para mais detalhes sobre esta métrica, consulte [Definições para consultores funcionais](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-3---functional-consultants).)
+- **Consultores funcionais**: Número de indivíduos que detêm uma certificação funcional de consultor associado atualmente ativa para a Dynamics 365. (Para mais detalhes sobre esta métrica, consulte [Definições para consultores funcionais](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-3---functional-consultants).)
 
-4. **Desenvolvedores**: Número de indivíduos que detêm uma certificação de Developer Associate atualmente ativa para a Dynamics 365. (Para mais detalhes sobre esta métrica, consulte [Definições para desenvolvedores](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-4---developers).)
+- **Desenvolvedores**: Número de indivíduos que detêm uma certificação de Developer Associate atualmente ativa para a Dynamics 365. (Para mais detalhes sobre esta métrica, consulte [Definições para desenvolvedores](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-4---developers).)
 
-*Indicadores de sucesso do cliente:*
+### <a name="customer-success-indicators"></a>Indicadores de sucesso do cliente
 
-5. **Novas implantações**: Número de inquilinos de produção que ultrapassam um limiar de utilização específico nos últimos 12 meses. (Para mais detalhes sobre esta métrica, consulte [Definições para novas implementações](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-5---new-deployments).)
+- **Novas implantações**: Número de inquilinos de produção que ultrapassam um limiar de utilização específico nos últimos 12 meses. (Para mais detalhes sobre esta métrica, consulte [Definições para novas implementações](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-5---new-deployments).)
 
-6. **Crescimento mensal do utilizador ativo**: Crescimento de utilizadores ativos mensais em todos os seus clientes ao longo dos últimos 12 meses. (Para mais informações sobre esta métrica, consulte [Definições para o crescimento mensal do utilizador ativo](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-6---monthly-active-user-growth).)
+- **Crescimento mensal do utilizador ativo**: Crescimento de utilizadores ativos mensais em todos os seus clientes ao longo dos últimos 12 meses. (Para mais informações sobre esta métrica, consulte [Definições para o crescimento mensal do utilizador ativo](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-6---monthly-active-user-growth).)
 
 ### <a name="how-pci-score-impacts-competency-eligibility"></a>Como a pontuação do PCI impacta a elegibilidade da competência
 São concedidos pontos para cada indicador alcançado, resultando numa pontuação PCI de um único número. São possíveis 100 pontos máximos. 
@@ -288,6 +288,23 @@ Esta secção descreve como aceder aos detalhes dos Indicadores de Contribuiçã
 
 Para ver a tabela indicadores de contribuição do parceiro, siga estes passos:
 
+> [!NOTE]
+> A interface de pré-visualização do Partner Center proporciona-lhe uma experiência de utilizador mais eficiente e produtiva através de espaços de trabalho agrupados logicamente. Para saber mais sobre a interface dos espaços de trabalho e como ligá-lo, consulte [Getting around Partner Center](get-around-partner-center.md#turn-workspaces-on-and-off).
+
+#### <a name="workspaces-view"></a>[Vista de espaços de trabalho](#tab/workspaces-view)
+
+1. Inicie sessão no [dashboard](https://partner.microsoft.com/dashboard) do Centro de Parceiros.
+
+2. Selecione o **azulejo do Marketplace** e, em seguida, selecione **Competências**.
+
+3. Selecione a competência **Small and Midmarket Cloud Solutions,** seguida da **opção Cloud Business Applications SMB**.
+
+4. Na secção Resumo, veja o seu progresso, realizações e pontuação relacionada até à data.
+
+   :::image type="content" source="images/partner-contribution-indicators-small-and-midmarket-view-progress.png" alt-text="Como ler a tabela indicadores de contribuição dos parceiros.":::
+
+#### <a name="current-view"></a>[Vista atual](#tab/current-view)
+
 1. Inicie sessão no [dashboard](https://partner.microsoft.com/dashboard) do Centro de Parceiros.
 
 2. Selecione **MPN** no menu de navegação e, em seguida, selecione **Competências**.
@@ -297,6 +314,8 @@ Para ver a tabela indicadores de contribuição do parceiro, siga estes passos:
 4. Na secção Resumo, veja o seu progresso, realizações e pontuação relacionada até à data.
 
    :::image type="content" source="images/partner-contribution-indicators-small-and-midmarket-view-progress.png" alt-text="Como ler a tabela indicadores de contribuição dos parceiros.":::
+
+* * *
 
 ## <a name="next-steps"></a>Passos seguintes
 

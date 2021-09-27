@@ -1,19 +1,19 @@
 ---
-title: Insights do centro de parceiros Power BI relatório de utilização
+title: Insights do centro do parceiro Power BI relatório de utilização
 ms.topic: article
 ms.date: 01/11/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
 description: Veja o que está a fazer bem e onde pode melhorar no que diz respeito ao uso de Power BI subscrições que vende ou gere para os seus clientes.
-author: shganesh-dev
-ms.author: shganesh
+author: kshitishsahoo
+ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: 1f4cb47cf8cd3dbd12a57cab40a5a5d09888f324
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: 6930d2b67c7f527c8d768a1fa6ba3c5ef6103bf4
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126246830"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129075894"
 ---
 # <a name="power-bi-usage-report-available-from-the-partner-center-insights-dashboard"></a>Power BI relatório de utilização disponível no painel de instrumentos do Partner Center Informações
 
@@ -28,7 +28,7 @@ O relatório de utilização Power BI fornece dados de utilização para as subs
 - distribuição de Power BI de utilização
 
  > [!NOTE]
- > Este relatório está disponível no painel de instrumentos Informações. Para visualizar este relatório, deve ser-lhe atribuído um papel específico no Partner Center, como administração global, administração de contas, espectador de relatório ou visualizador de relatórios executivos. Para mais informações, consulte a administração Global da sua empresa. Os tipos específicos de dados deste relatório também podem estar disponíveis apenas para utilizadores com privilégios de visualização de relatório executivo.
+ > Este relatório está disponível no painel de instrumentos Informações. Para visualizar este relatório, deve ser-lhe atribuído um papel específico no Partner Center, como administração global, administração de contas, visualizador de relatórios ou visualizador de relatórios executivos. Para mais informações, consulte a administração Global da sua empresa. Os tipos específicos de dados deste relatório também podem estar disponíveis apenas para utilizadores com privilégios de visualização de relatório executivo.
 
 ## <a name="summary"></a>Resumo
 
@@ -40,7 +40,7 @@ A secção de resumo apresenta uma visão instantânea dos principais indicadore
 
 - Lugares atribuídos: Número total de licenças atribuídas durante o período de tempo selecionado.
 
-   O Micro chart apresenta uma tendência mensal da contagem de lugares atribuídos durante o intervalo de datas selecionados.
+   O micro gráfico apresenta uma tendência mensal da contagem de lugares atribuídos durante o intervalo de datas selecionados.
 
 - Assentos ativos: Número total de licenças que tiveram uso durante o período de tempo selecionado. 
 
@@ -64,7 +64,7 @@ Pode pesquisar e selecionar um país na grelha para ampliar a localização no m
 
 ## <a name="power-bi-usage-by-sku"></a>Power BI uso por SKU
 
-O Power BI uso pela SKU retrata a tendência mensal de lugares disponíveis, assentos ativos e lugares atribuídos por SKUs.
+O Power BI uso pela SKU retrata a tendência mensal dos lugares disponíveis, assentos ativos e lugares atribuídos pela SKUs.
 
 :::image type="content" source="images/insights/pbi-usage-sku.png" alt-text="Power BI uso pela SKU.":::
 
