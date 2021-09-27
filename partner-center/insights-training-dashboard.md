@@ -5,22 +5,22 @@ ms.date: 06/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
 description: Explore o painel de treino do Partner Center. A formação é um dos relatórios disponíveis na área do Centro de Parceiros Informações (PCI).
-author: sroy
-ms.author: sroy
+author: kshitishsahoo
+ms.author: ksahoo
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8749bdc1c2249f97d5db288f953eded1c4c06b02
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: 999659497df714c05b6ed15ccb6d306655dd9786
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960259"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129073219"
 ---
 # <a name="trainings-dashboard"></a>Painel de treinos
 
 **Funções apropriadas**: | do espectador de relatório executivo Espectador de relatório
 
-O dashboard Trainings fornece informações sobre as certificações, avaliações e exames realizados pela empresa de colaboradores da sua empresa. O painel de treinos inclui as seguintes secções:
+O painel trainings fornece informações sobre as certificações, avaliações e exames realizados pela empresa de colaboradores da sua empresa. O painel trainings inclui as seguintes secções:
 
 - Resumo
 - Desempenho de Formação dividido por certificações, avaliações, exames
@@ -28,7 +28,7 @@ O dashboard Trainings fornece informações sobre as certificações, avaliaçõ
 - Detalhes da atividade
 
 >[!NOTE] 
->Este relatório está disponível no centro de Informações no Partner Center. Para visualizar este relatório, deve ser-lhe atribuído o papel de observador de relatórios ou espectador de relatório executivo. Poucas secções deste relatório só serão visíveis para os utilizadores que são telespectadores do Relatório Executivo. Para obter mais informações sobre o controlo de acesso aos relatórios Informações, consulte [as funções de PCI](insights-roles.md).
+>Este relatório está disponível no centro de Informações no Partner Center. Para visualizar este relatório, deve ser-lhe atribuído o papel de observador de relatórios ou de um observador de relatórios executivos. Poucas secções deste relatório só serão visíveis para os utilizadores que são telespectadores do Relatório Executivo. Para obter mais informações sobre o controlo de acesso aos relatórios Informações, consulte [as funções de PCI](insights-roles.md).
 
 ## <a name="summary"></a>Resumo
 
@@ -45,13 +45,13 @@ A secção de resumo apresenta uma visão instantânea numérica de vários indi
 
 ## <a name="training-performance"></a>Desempenho de formação
 
-O desempenho da formação apresenta a contagem mensal de indivíduos e as formações completadas por indivíduos da sua empresa. É dividido por certificações, avaliações e exames sob a forma de um gráfico para a gama de datas selecionadas. O eixo X representa os meses para o intervalo de datas selecionado. O eixo Y representa a contagem distinta de indivíduos e o número de treinos realizados, para o tipo de formação selecionado. Selecione os respetivos separadores acima da tabela para ver a avaria por tipo de treino. Os dados do gráfico podem ser descarregados através do ícone de descarregamento em formato .tsv para a gama de datas selecionadas.
+O desempenho da formação apresenta a contagem mensal de indivíduos e as formações completadas por indivíduos da sua empresa. É dividido por certificações, avaliações e exames sob a forma de um gráfico para a gama de datas selecionadas. O eixo X representa os meses para o intervalo de datas selecionado. O eixo Y representa a contagem distinta de indivíduos e o número de treinos realizados, para o tipo de formação selecionado. Selecione os respetivos separadores acima do gráfico para ver a avaria por tipo de treino. Os dados do gráfico podem ser descarregados através do ícone de descarregamento em formato .tsv para a gama de datas selecionadas.
 
 :::image type="content" source="images/insights/training-dashboard-training-performance.png" alt-text="Performance de treino.":::
 
 ## <a name="individuals-performance"></a>Desempenho dos indivíduos
 
-A secção de desempenho dos Indivíduos apresenta os detalhes da formação realizada por indivíduos na sua empresa, para a gama de datas selecionadas. Pesse e selecione o nome de um indivíduo no painel esquerdo da secção. Os detalhes da formação para o indivíduo selecionado são apresentados no painel direito da secção.
+A secção de desempenho dos Indivíduos apresenta os detalhes da formação realizada por indivíduos da sua empresa, para a gama de datas selecionadas. Pesse e selecione o nome de um indivíduo no painel esquerdo da secção. Os detalhes da formação para o indivíduo selecionado são apresentados no painel direito da secção.
 
 :::image type="content" source="images/insights/training-dashboard-individual-performance.png" alt-text="Desempenho Individual.":::
 

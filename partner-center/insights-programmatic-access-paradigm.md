@@ -4,16 +4,16 @@ description: Compreenda o fluxo de alto nível do padrão de chamada da API para
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
-author: shganesh-dev
-ms.author: shganesh
+author: kshitishsahoo
+ms.author: ksahoo
 ms.localizationpriority: medium
 ms.date: 07/14/2021
-ms.openlocfilehash: 674cc6f800edc540920d80bedd031fae959b973b
-ms.sourcegitcommit: fceaca54b0ec695cf214209c09b4516e1b40866a
+ms.openlocfilehash: 3c7e6fa814bce13ff7f584727a17b59027a78abf
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "128366135"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129074616"
 ---
 # <a name="programmatic-access-paradigm"></a>Paradigma de acesso programático
 
@@ -53,7 +53,7 @@ O exemplo a seguir mostra como criar uma consulta personalizada para obter os 10
 
 ### <a name="request-header"></a>Cabeçalho do pedido
 
-|    Cabeçalho     |    Tipo     |    Description     |
+|    Cabeçalho     |    Tipo     |    Descrição     |
 |-------|-----|------|
 |    Autorização     |    string |Obrigatório. O Azure Ative Directory (Azure AD) de acesso a um token. O formato  `Bearer <token>` é.|
 |    Content-Type     |string |`Application/JSON` |
@@ -128,7 +128,7 @@ Esta tabela fornece as definições-chave dos elementos na carga útil do pedido
 |    ----    |    ----    |
 |    QueryId     |    Identificador universalmente único (UUID) da consulta que criou     |
 |    Name     |    Nome amigável dado à consulta na carga útil do pedido     |
-|    Description     |    Descrição dada durante a criação da consulta     |
+|    Descrição     |    Descrição dada durante a criação da consulta     |
 |    Consulta     |    Consulta de relatório passada como entrada durante a criação de consulta     |
 |    Tipo     |    Definir para `userDefined`     |
 |    Utilizador     |    ID do utilizador usado para criar a consulta     |
@@ -165,7 +165,7 @@ Dois campos adicionais podem ser passados quando `ExecuteNow` é verdade, `Query
 
 ### <a name="request-header"></a>Cabeçalho do pedido
 
-|    Cabeçalho     |    Tipo     |    Description     |
+|    Cabeçalho     |    Tipo     |    Descrição     |
 |-------|-----|------|
 |    Autorização     |    string |Obrigatório. O Azure Ative Directory (Azure AD) de acesso a um token. O formato  `Bearer <token>` é.|
 |    Content-Type     |string |`Application/JSON` |
@@ -263,7 +263,7 @@ As definições-chave dos elementos na resposta são articuladas abaixo:
 |    ----    |    ----    |
 |    ReportId     |    Identificador universalmente único (UUID) do relatório que criou     |
 |    Nome do relatório     |    Nome dado ao relatório na carga útil do pedido     |
-|    Description     |    Descrição dada durante a criação do relatório     |
+|    Descrição     |    Descrição dada durante a criação do relatório     |
 |    QueryId     |    ID de consulta passou no momento em que criou o relatório     |
 |    Consulta     |    Texto de consulta que será executado para este relatório     |
 |    Utilizador     |    ID do utilizador usado para criar o relatório     |
@@ -297,21 +297,21 @@ Pode utilizar este método para consultar o estado de execução de um relatóri
 
 ### <a name="request-header"></a>Cabeçalho do pedido
 
-|    Cabeçalho     |    Tipo     |    Description     |
+|    Cabeçalho     |    Tipo     |    Descrição     |
 |-------|-----|------|
 |    Autorização     |    string |Obrigatório. O Azure Ative Directory (Azure AD) de acesso a um token. O formato  `Bearer <token>` é.|
 |    Content-Type     |string |`Application/JSON` |
 
 ### <a name="path-parameter"></a>Parâmetro do caminho
 
-|    Nome do Parâmetro    |    Necessário    |    Tipo    |    Description    |
+|    Nome do Parâmetro    |    Necessário    |    Tipo    |    Descrição    |
 |    ----    |    ----    |    ----    |    ----    |
 |    reportId    |    Yes    |    string    |    Filtrar para obter detalhes de execução de apenas relatórios com o relatório Dado neste argumento. Vários reportÍdeos podem ser especificados separando-os com um ponto e vírgula ";".    |
 |        |        |        |        |
 
 ### <a name="query-parameter"></a>Parâmetro de consulta
 
-|    Nome do Parâmetro    |    Necessário    |    Tipo    |    Description    |
+|    Nome do Parâmetro    |    Necessário    |    Tipo    |    Descrição    |
 |    ----    |    ----    |    ----    |    ----    |
 |    execuçãoId    |    No    |    string    |    Filtrar para obter detalhes de apenas relatórios com a execuçãoId dada neste argumento. Execuções múltiplas podem ser especificadas separando-as com um ponto e vírgula ";".    |
 |    execuçãoStatus    |    No    |    Corda/enum    |    Filtre para obter detalhes de apenas relatórios com a execuçãoStatus dado neste argumento. <br> Valores válidos são: `Pending` `Running` , , e `Paused` `Completed` . <br> O valor predefinido é `Completed`. <br> Vários estados podem ser especificados separando-os com um ponto e vírgula ";".    |

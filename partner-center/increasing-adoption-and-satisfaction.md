@@ -1,20 +1,20 @@
 ---
 title: Aumentar a adoção e satisfação
 ms.topic: how-to
-ms.date: 11/03/2020
+ms.date: 09/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-customers
-description: Aprenda a usar métricas no Partner Center. As métricas podem mostrar se o seu negócio está a crescer, como os clientes usam as suas licenças e onde se concentram no investimento.
+description: Saiba como usar métricas no Partner Center. As métricas podem mostrar se o seu negócio está a crescer, como os clientes usam as suas licenças e onde se concentram no investimento.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0e04334490f77add4f95627d3d4c5d5762a79c86
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: e6cf260df6f1b5d3ae814678c47f13b2b4015b62
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960980"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129074779"
 ---
 # <a name="use-metrics-in-partner-center-to-increase-adoption-and-satisfaction"></a>Use métricas no Partner Center para aumentar a adoção e satisfação
 
@@ -22,40 +22,74 @@ ms.locfileid: "123960980"
 
 Os nossos parceiros usam muitas métricas para avaliar se o seu negócio está a crescer e onde focar o investimento. O Partner Center pode ajudar fornecendo dados sobre se e como os seus clientes estão usando as licenças que compraram. Esta informação está disponível para produtos Office (incluindo OneDrive para Empresas, que é contado juntamente com o SharePoint).
 
-Pode ver dados para todos os seus clientes através do programa Fornecedor de Soluções em Nuvem. Alguns clientes podem comprar licenças a outros parceiros ou diretamente da Microsoft. Para estas situações, você verá o total de licenças em todos os parceiros. Para ver apenas as suas próprias licenças, vá às subscrições do cliente.
+Pode consultar dados para todos os seus clientes através do programa Fornecedor de Soluções em Nuvem. Alguns clientes podem comprar licenças a outros parceiros ou diretamente da Microsoft. Para estas situações, você verá o total de licenças em todos os parceiros. Para ver apenas as suas próprias licenças, vá às subscrições do cliente.
 
 > [!NOTE]  
 > Atualmente, apenas mostramos dados para Office 365 e Dinâmica 365. No futuro, iremos permitir dados para produtos adicionais.
 
-## <a name="find-license-and-user-data"></a>Encontre licença e dados do utilizador
+## <a name="find-license-and-user-data"></a>Encontrar licença e dados do utilizador
 
 Pode encontrar dados de licença e utilizador para um único cliente ou através do seu portfólio.
 
-### <a name="find-license-and-user-data-for-a-single-customer"></a>Encontre a licença e os dados do utilizador para um único cliente
+### <a name="find-license-and-user-data-for-a-single-customer"></a>Encontre licença e dados de utilizador para um único cliente
 
-1. Inscreva-se no painel do Centro [de Parceiros](https://partner.microsoft.com/dashboard).
+> [!NOTE]
+> A interface de pré-visualização do Partner Center proporciona-lhe uma experiência de utilizador mais eficiente e produtiva através de espaços de trabalho agrupados logicamente. Para saber mais sobre a interface dos espaços de trabalho e como ligá-lo, consulte [Getting around Partner Center](get-around-partner-center.md#turn-workspaces-on-and-off).
 
-2. Selecione **clientes** do **Centro de Parceiros**
+#### <a name="workspaces-view"></a>[Vista de espaços de trabalho](#tab/workspaces-view)
+
+1. Inicie sessão no [dashboard](https://partner.microsoft.com/dashboard) do Centro de Parceiros.
+
+2. Selecione **o** azulejo cliente.
 
 3. Escolha um cliente.
 
-4. Selecione **insights do cliente**.
+4. Selecione **informações do cliente**.
+
+#### <a name="current-view"></a>[Vista atual](#tab/current-view)
+
+1. Inicie sessão no [dashboard do Centro de Parceiros](https://partner.microsoft.com/dashboard).
+
+2. Selecione **Clientes**.
+
+3. Escolha um cliente.
+
+4. Selecione **informações do cliente**.
+
+* * *
 
 ### <a name="find-license-and-user-data-across-your-portfolio"></a>Encontre licença e dados de utilizador em todo o seu portfólio
 
-1. Inscreva-se no painel do Centro [de Parceiros](https://partner.microsoft.com/dashboard).
+Também pode obter informações sobre a sua licença e dados do utilizador.
+
+> [!NOTE]
+> A interface de pré-visualização do Partner Center proporciona-lhe uma experiência de utilizador mais eficiente e produtiva através de espaços de trabalho agrupados logicamente. Para saber mais sobre a interface dos espaços de trabalho e como ligá-lo, consulte [Getting around Partner Center](get-around-partner-center.md#turn-workspaces-on-and-off).
+
+#### <a name="workspaces-view"></a>[Vista de espaços de trabalho](#tab/workspaces-view)
+
+1. Inscreva-se no painel do Centro [de Parceiros.](https://partner.microsoft.com/dashboard)
+
+2. Selecione o **azulejo Informações** e escolha entre qualquer uma das opções de análise no menu.
+
+3. Para descarregar dados de implementação e utilização em todo o seu conjunto de clientes, selecione a opção **de exportação** (seta para baixo).
+
+#### <a name="current-view"></a>[Vista atual](#tab/current-view)
+
+1. Inscreva-se no painel do Centro [de Parceiros.](https://partner.microsoft.com/dashboard)
 
 2. Selecione **Analisar** e escolha entre qualquer uma das opções de análise no menu.
 
-3. Para descarregar dados de implementação e utilização em todo o seu conjunto de clientes, selecione a opção **de exportação** (set-seta).
+3. Para descarregar dados de implementação e utilização em todo o seu conjunto de clientes, selecione a opção **de exportação** (seta para baixo).
 
-Terminologia:
+* * *
+
+### <a name="terminology"></a>Terminologia
 
 - **Direito** = uma licença que o utilizador tem direito a usar (não está suspensa por fraude ou não pagamento, não foi atualizada para outra licença, não foi cancelada pelo utilizador, ou outro problema).
 
 - **Ativo** = se o utilizador subscrito tiver utilizado o direito a uma tarefa nos últimos 28 dias de calendário.
 
-- **Implantação %** = licenças atribuídas/licenças vendidas
+- **% de implantação** = licenças atribuídas/licenças vendidas
 
 - **% de utilização** = utilizadores ativos/utilizadores totais
 
@@ -71,11 +105,11 @@ Terminologia:
 
 ## <a name="next-steps"></a>Passos seguintes
 
-Se você está no campo de muitas perguntas de Ajuda e Como-to, os números de adoção na sua conta são baixos, ou você está procurando por oportunidades de venda, você pode considerar oferecer cursos de formação. Ao ensinar os seus clientes a utilizar melhor o software de solução cloud que adquiriram, é mais provável que veja um aumento de produtividade e satisfação, e uma diminuição das necessidades de suporte.
+Se você está a colocar muitas questões de Ajuda e Como-a,os números de adoção na sua conta são baixos, ou você está procurando por oportunidades de venda, você pode considerar oferecer cursos de formação. Ao ensinar os seus clientes a utilizar melhor o software de solução de nuvem que adquiriram, é mais provável que veja um aumento de produtividade e satisfação, e uma diminuição das necessidades de suporte.
 
 ### <a name="considering-how-to-improve-customer-adoption-and-usage---a-couple-scenarios"></a>Considerando como melhorar a adoção e uso do cliente - alguns cenários
 
-**Problema:** A taxa de adoção do utilizador é baixa e muitas licenças não estão a ser utilizadas.
+**Problema**: A taxa de adoção do utilizador é baixa e muitas licenças não estão a ser utilizadas.
 
 **O que considerar:** Os clientes podem não entender o valor que o software poderia fornecer. Precisam de ajuda para imaginar as formas de incorporar no seu dia-a-dia para simplificar tarefas que já estão a fazer, ou para permitir novos tipos de produtividade.
 
@@ -88,4 +122,3 @@ Se você está no campo de muitas perguntas de Ajuda e Como-to, os números de a
 **O que tentar**: Pode utilizar uma dupla estratégia de oferta de formação (presencial ou online) para aumentar a experiência global dos clientes, ao mesmo tempo que promove algumas das opções de self-service disponíveis para os clientes.
 
 Pode querer redesenhar o seu site de suporte para incluir também as opções de autosserviço descritas no [auto-suporte do Cliente,](customer-self-support.md) para além das informações de contacto de suporte.
-

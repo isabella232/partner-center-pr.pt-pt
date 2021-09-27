@@ -1,20 +1,20 @@
 ---
 title: Como adicionar um novo recorde de clientes
 ms.topic: how-to
-ms.date: 09/07/2021
+ms.date: 09/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-customers
-description: Saiba como adicionar um novo recorde de clientes no Partner Center. Em seguida, pode vender as subscrições do cliente, gerir a faturação ou fornecer apoio ao cliente.
+description: Saiba como adicionar um novo registo de clientes no Partner Center. Em seguida, pode vender as subscrições do cliente, gerir a faturação ou fornecer apoio ao cliente.
 author: parthp
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 7995ee8f4da20d80fd260bcb77665e244e448227
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: 99057daa14fc279fde2a676a315d3cc8930f88aa
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126246554"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129072415"
 ---
 # <a name="how-to-add-a-new-customer-record-in-partner-center"></a>Como adicionar um novo recorde de clientes no Partner Center
 
@@ -24,15 +24,18 @@ Este artigo descreve como adicionar um novo cliente no Partner Center. Estes pas
 
 ## <a name="considerations"></a>Considerações
 
-**Ao adicionar um novo registo de clientes no Partner Center:**
+Ao adicionar um novo registo de clientes no Partner Center:
 
 - **Utilize o ID de registo correto**: Ao introduzir o ID de registo da sua empresa, certifique-se de utilizar o ID do seu imposto de negócio e não o ID pessoal do cliente.
 
 - **Introduza informações adicionais para alguns países**: [O ID de registo da empresa e o número de telefone são necessários para alguns países](#company-registration-id-and-phone-number-required-for-some-countries) se for um parceiro de conta direta ou um fornecedor indireto
+
 - **Confirme o Acordo de Cliente da Microsoft**: Antes de poder escruissá-lo em nome de um cliente, tem de confirmar que aceitou o Acordo de Cliente da [Microsoft](confirm-customer-agreement.md).
+
 - **Utilize diferentes passos para os clientes *existentes***: Para clientes existentes, incluindo aqueles que já possuem registos de clientes no Partner Center através de um cenário [multicanal](multichannel.md) ou [multipartner,](multipartner.md) [solicite uma relação com eles](request-a-relationship-with-a-customer.md), em vez de seguir os passos aqui.
+
 - **Introduza informações detalhadas e precisas do cliente**: Para facilitar a verificação do cliente, certifique-se de que:
-  - Insira o nome legal/oficial exato tal como aparece nos documentos oficiais.
+  - Insira o nome jurídico/oficial exato tal como aparece nos documentos oficiais.
   - Evite utilizar siglas ou formas curtas.
   - Não use nomes de teste.
   - Forneça informações completas e exatas sobre o endereço (por exemplo, detalhes da localização, cidade, estado, país e código postal/postal).
@@ -50,7 +53,7 @@ Ao introduzir um nome de empresa, não será permitido o seguinte:
 
 - Usando o mesmo personagem repetido três ou mais vezes sem outros caracteres, como 999.
 
-- Utilizando espaços e/ou separadores misturados com caracteres individuais, tais como 12 3.
+- Utilizando espaços e/ou separadores misturados com caracteres individuais, tais como 1 2 3.
 
 Ao introduzir um endereço de e-mail do cliente, não será permitido o seguinte:
 
@@ -59,8 +62,42 @@ Ao introduzir um endereço de e-mail do cliente, não será permitido o seguinte
 
 ## <a name="to-add-a-new-customer-in-partner-center"></a>Para adicionar um novo cliente no Centro de Parceiros
 
-1. No menu Partner Center, selecione **Clientes** e, em seguida, **selecione Adicionar cliente**.
-2. Se o seu cliente é uma instituição de ensino, veja [como criar um cliente de edução.](sell-to-education-customers.md)
+#### <a name="workspaces-view"></a>[Vista de espaços de trabalho](#tab/workspaces-view)
+
+1. Faça o [sômis](https://partner.microsoft.com/dashboard)no painel partner center, selecione o azulejo **cliente** e, em seguida, selecione **Adicionar cliente**.
+
+2. Se o seu cliente é uma instituição de ensino, consulte [como criar um cliente de edução.](sell-to-education-customers.md)
+
+3. Na página **de informações** da Conta, insira os dados do cliente e as informações de contacto primários.
+   >[!IMPORTANT]
+   >Os parceiros são obrigados a atestar o seguinte:
+   >
+   >Confirmo que a minha organização está a agir como um Parceiro Indireto ao escolher um Revendedor e como Parceiro Direto na ausência de selecionar um revendedor
+   >
+   >Confirmo que não estou a revender produtos comprados dentro desta ordem a outros parceiros que estão ligados à minha organização-mãe.
+
+   >[!NOTE]
+   >As leis da UE/EFTA estabelecem que os parceiros que transacionam nesses países têm de declarar revendedores adicionais associados a uma transação. Aplicar-se-ão as seguintes regras:
+   >- Um revendedor inicial deve ser escolhido antes de quaisquer revendedores adicionais
+   >- Os revendedores adicionais não terão direito a quaisquer incentivos adicionais, ofertas, etc.
+   >- O vendedor adicional inscrito será validado para garantir que o ID MPN correto seja introduzido quando aplicável, e o revendedor assinou o MPA.
+   >- Até um máximo de 5 revendedores adicionais podem ser inscritos como parte da transação
+
+4. Se for um fornecedor indireto, selecione o revendedor indireto que pretende associar às subscrições deste cliente da lista.
+
+5. Selecione **Review**.
+
+6. Selecione **Submeter**.
+
+7. Para adicionar subscrições, **selecione Adicionar Produtos**.
+
+8. Quando terminar de adicionar informações ao cliente e tiver adquirido as subscrições necessárias, selecione **'Fazer'.**
+
+#### <a name="current-view"></a>[Vista atual](#tab/current-view)
+
+1. Inscreva-se no [painel de instrumentos do Centro parceiro,](https://partner.microsoft.com/dashboard)selecione **Clientes** e, em seguida, selecione **Adicionar cliente**.
+
+2. Se o seu cliente é uma instituição de ensino, consulte [como criar um cliente de edução.](sell-to-education-customers.md)
 
 3. Na página **de informações** da Conta, insira os dados do cliente e as informações de contacto primários.
    >[!IMPORTANT]
@@ -83,9 +120,11 @@ Ao introduzir um endereço de e-mail do cliente, não será permitido o seguinte
 
 6. Na página **Subscrições,** selecione a(s) oferta(s) que o seu cliente quer comprar de si, insira o número de licenças e, em seguida, selecione **Seguinte: Revisão**.
 
-7. Na página **'Revisão',** verifique se as suas entradas têm precisão e, em seguida, **selecione Enviar** por isso .
+7. Na página **'Rever',** verifique se as suas entradas têm uma precisão e, em seguida, **selecione Enviar** por isso .
 
 8. Quando terminar de adicionar informações ao cliente e tiver adquirido as subscrições necessárias, selecione **'Fazer'.**
+
+* * *
 
 ## <a name="company-registration-id-and-phone-number-required-for-some-countries"></a>ID de registo da empresa e número de telefone necessário para alguns países
 
@@ -95,7 +134,7 @@ Arménia, Azerbaijão, Bielorrússia, Brasil, Hungria, Índia, Iraque, Cazaquist
 
 ## <a name="company-name-and-email-characters-abbreviations-and-extensions"></a>Nome da empresa e caracteres de e-mail, abreviaturas e extensões
 
-As tabelas que se seguem listam os itens mencionados na [secção de novas regras](#new-rules-for-company-name-and-email-address) acima.
+As tabelas que se seguem listam os itens mencionados na secção de [novas regras](#new-rules-for-company-name-and-email-address) acima.
 
 ### <a name="table-of-special-characters"></a>Tabela de caracteres especiais
 
@@ -206,4 +245,4 @@ As tabelas que se seguem listam os itens mencionados na [secção de novas regra
 
 ## <a name="next-steps"></a>Passos seguintes
 
-- Para obter mais informações sobre o que pode vender aos clientes através do programa Fornecedor de Soluções em Nuvem, consulte [as ofertas do Partner no programa Fornecedor de Soluções em Nuvem](csp-offers.md)
+- Para obter mais informações sobre o que pode vender aos clientes através do programa Fornecedor de Soluções em Nuvem, consulte [as ofertas do Partner no programa Fornecedor de Soluções em Nuvem.](csp-offers.md)

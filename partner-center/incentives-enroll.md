@@ -1,26 +1,26 @@
 ---
 title: Inscrição de incentivos
 ms.topic: how-to
-ms.date: 04/15/2021
+ms.date: 09/27/2021
 description: Inscreva-se no programa de incentivos e atribua as funções necessárias para a gestão do utilizador. Este artigo descreve o processo de inscrição.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: f3be1b1d267321a4229ba3ea56aa950e14538289
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: c9a7dbae07ece38668a0b59b31c6e3e70e2280df
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960510"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129074907"
 ---
 # <a name="enrollment-and-user-management-in-the-incentives-program"></a>Inscrição e gestão de utilizadores no programa de incentivos
 
 **Funções adequadas**: Administradores de incentivos
 
 >[!NOTE]
->Antes de se inscrever no programa de incentivos, deve ter concluído o Centro de Adesão de Parceiros à [migração](./partner-membership-center-retirement-faq.md)do Partner Center.
+>Antes de se inscrever no programa de incentivos, deve ter concluído o Centro de Adesão de Parceiros à migração do Centro de [Parceiros.](./partner-membership-center-retirement-faq.md)
 
 O processo de inscrição consiste em duas etapas.
 
@@ -37,19 +37,19 @@ Para se inscrever num programa de incentivos do Partner Center, o administrador 
 
 ## <a name="enrollment-process"></a>Processo de Inscrição
 
-Assim que a sua organização for elegível para incentivos, a Microsoft enviará um convite ao administrador de incentivo do MPNLocationID elegível para iniciar o processo de inscrição. Este e-mail será enviado do **Microsoft Partner Center,** e terá o convite de **inscrição de incentivo para parceiros sujeitos.** Abra o convite e selecione **Introdução**.
+Uma vez que a sua organização é elegível para incentivos, a Microsoft enviará um convite ao administrador de incentivo do MPNLocationID elegível para iniciar o processo de inscrição. Este e-mail será enviado do **Microsoft Partner Center,** e terá o convite de **inscrição de incentivo para parceiros** sujeitos. Abra o convite e selecione **Introdução**.
 
-Você também verá um convite na página inicial do Partner Center. Assim que selecionares essa mensagem, não poderás voltar a vê-la. No entanto, o Administrador de Incentivos ainda pode concluir o processo assinando no painel de [instrumentos](https://partner.microsoft.com/dashboard/) do Centro parceiro e selecionando **a Visão Geral** em **Incentivos** no navegador esquerdo. **Selecione Inscrever-se** e, em seguida, completar o pagamento e o perfil de impostos para o programa.
+Você também verá um convite na página inicial do Partner Center. Assim que selecionares essa mensagem, não poderás voltar a vê-la. No entanto, o Administrador de Incentivos ainda pode concluir o processo assinando no painel do [Centro de Parceiros](https://partner.microsoft.com/dashboard/) e selecionando o azulejo **de Incentivos.** **Selecione Inscrever-se** e, em seguida, completar o pagamento e o perfil de impostos para o programa.
 
-Se já tiver uma configuração de perfil bancário predefinido para uma localização MPN e estiver a tentar inscrever-se para a mesma localização MPN num programa de incentivo, quando selecionar **inscrever-se** e aceitar o convite, verá o perfil bancário predefinido. Também lhe será mostrado qualquer perfil fiscal disponível se o tiver criado para a localização da MPN. Se a Microsoft tiver todos os detalhes necessários do perfil bancário e fiscal, será solicitado que selecione **Submeter** para completar a inscrição. Consulte [configurar um perfil bancário predefinido](incentives-create-and-manage-your-payout-and-tax-profiles.md#set-up-a-default-bank-profile).
+Se já tiver uma configuração de perfil bancário predefinido para uma localização MPN e estiver a tentar inscrever-se para a mesma localização MPN num programa de incentivo, quando selecionar **inscrever-se** e aceitar o convite, verá o perfil bancário predefinido. Também lhe será mostrado qualquer perfil fiscal disponível se o tiver criado para essa localização MPN. Se a Microsoft tiver todos os detalhes necessários do perfil bancário e fiscal, será solicitado que selecione **Submeter** para completar a inscrição. Consulte [configurar um perfil bancário predefinido](incentives-create-and-manage-your-payout-and-tax-profiles.md#set-up-a-default-bank-profile).
 
-Também tem a opção de escolher um perfil bancário que não seja o perfil bancário padrão. Se a Microsoft necessitar de detalhes adicionais para os perfis de pagamento ou impostos ou moeda, será solicitado para **Continuar** e será redirecionado para a página de **perfil de Pagamento e Imposto** para fornecer os detalhes em falta. 
+Também tem a opção de escolher um perfil bancário que não seja o perfil bancário padrão. Se a Microsoft necessitar de detalhes adicionais para os perfis de pagamento ou impostos ou moeda, você será solicitado para **Continuar** e será redirecionado para a página de **perfil de Pagamento e Imposto** para fornecer os detalhes em falta. 
 
 Uma inscrição só é considerada completa quando o pagamento e o perfil fiscal que prevê para a inscrição são validados pela Microsoft.
 
 Certos programas de incentivo não têm critérios de elegibilidade e estão abertos a todos os parceiros. O administrador de Incentivos verá convites para estes programas na página geral do incentivo, desde que tenham permissões para o programa de incentivos relevante e MPN. A Microsoft não envia convites por e-mail para estes programas.
 
-Para mais informações sobre o processo de inscrição, descarregue o Guia de Inscrição de [Incentivos](https://partner.microsoft.com/resources/detail/partner-center-incentives-enrollment-pdf) (requerimento de inscrição).
+Para mais informações sobre o processo de inscrição, descarregue o Guia de Inscrição de [Incentivos](https://partner.microsoft.com/resources/detail/partner-center-incentives-enrollment-pdf) (inscrição obrigatória).
 
 ## <a name="expiration-and-renewal"></a>Expiração e renovação
 

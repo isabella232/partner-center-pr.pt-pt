@@ -1,7 +1,7 @@
 ---
 title: Cálculo efetivo do preço por unidade
 ms.topic: how-to
-ms.date: 04/02/2021
+ms.date: 09/27/2021
 description: Saiba mais sobre o preço unitário eficaz e como é calculado. Este artigo também inclui um cálculo de amostra.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-billing
@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4148e9be6ab5bd3e5a146c0ed5479d8ad9723204
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: 252ec080dcc7e521e1db74eb5bdd668d8cd081e7
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123961010"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129071505"
 ---
 # <a name="effective-unit-price-calculation-for-azure-plan-consumption"></a>Cálculo efetivo dos preços unitários para o consumo do plano Azure
 
@@ -22,7 +22,7 @@ ms.locfileid: "123961010"
 
 ## <a name="the-effective-unit-price"></a>O preço unitário efetivo
 
-O preço unitário efetivo é calculado ao nível do contador (ao contrário do nível de recursos), e é ajustado diariamente de acordo com a utilização do medidor.
+O preço unitário efetivo é calculado ao nível do contador (ao contrário do nível de recursos), e é ajustado diariamente de acordo com a utilização do contador.
 
 Calculamos o preço unitário efetivo utilizando os seguintes três fatores:
 
@@ -30,15 +30,32 @@ Calculamos o preço unitário efetivo utilizando os seguintes três fatores:
 - Custo faturado para o contador
 - Tiering (se aplicável)
 
-Como monitorizamos o consumo diariamente ao longo do ciclo de faturação, o preço unitário efetivo irá oscilar. O preço final de um determinado ciclo de faturação estará disponível depois de pararmos o cálculo do consumo e fecharmos o período de faturação. Verá a maioria das mudanças no consumo após a quarta ou quinta decimal.
+Como monitorizamos o consumo diariamente ao longo do ciclo de faturação, o preço unitário efetivo vai oscilar. O preço final de um determinado ciclo de faturação estará disponível depois de pararmos o cálculo do consumo e fecharmos o período de faturação. Verá a maioria das mudanças no consumo após a quarta ou quinta casa decimal.
 
 ## <a name="find-out-whether-your-meter-uses-tiered-pricing"></a>Descubra se o seu contador utiliza preços hierárquicos
 
-Se não sabe se o seu contador utiliza preços hierárquicos, use o procedimento abaixo para saber. 
+Se não sabe se o seu contador utiliza preços hierárquicos, use o procedimento abaixo para descobrir.
+
+> [!NOTE]
+> A interface de pré-visualização do Partner Center proporciona-lhe uma experiência de utilizador mais eficiente e produtiva através de espaços de trabalho agrupados logicamente. Para saber mais sobre a interface dos espaços de trabalho e como ligá-lo, consulte [Getting around Partner Center](get-around-partner-center.md#turn-workspaces-on-and-off).
+
+#### <a name="workspaces-view"></a>[Vista de espaços de trabalho](#tab/workspaces-view)
 
 1. Inicie sessão no [dashboard do Centro de Parceiros](https://partner.microsoft.com/dashboard/).
+
+2. Selecione o **azulejo de preços** e, em seguida, selecione os preços do plano **Azure**.
+
+3. Localize o seu medidor por ID e, em seguida, baixe os seus dados de preços.
+
+#### <a name="current-view"></a>[Vista atual](#tab/current-view)
+
+1. Inicie sessão no [dashboard do Centro de Parceiros](https://partner.microsoft.com/dashboard/).
+
 2. Selecione **Vender,** **selecione Preços e ofertas**, e, em seguida, selecione **preços do plano Azure**.
-3. Localize o seu medidor por ID e, em seguida, descarregue os seus dados de preços. 
+
+3. Localize o seu medidor por ID e, em seguida, baixe os seus dados de preços.
+
+* * *
 
 ## <a name="sample-calculation"></a>Cálculo da amostra
 
@@ -54,12 +71,10 @@ Na tabela, aplicam-se os seguintes valores:
 
 - **Preço unitário efetivo** = BCU/BC
 
->[!NOTE]
+> [!NOTE]
+> O medidor neste exemplo não tem níveis de preços ou outros descontos - os fatores de Preço Unitário Efetivo em percentagens de desconto e outros ajustes.
 
->Nota: O medidor neste exemplo não tem níveis de preços ou outros descontos — os fatores de Preço Unitário Efetivo em percentagens de desconto e outros ajustes.
-
-
-| Data | BCU (unidade de consumo a cobrar) | BC (Custo faturado) | Preço unitário eficaz |
+| Data | BCU (unidade de consumo a cobrar) | BC (custo de faturação) | Preço unitário eficaz |
 | ------ | ----------- | ----------- | ----------- |  
 | 3-ago | 29 | 21.39 | 0.737586206896552 |
 | 10 ago | 210.950039 | 155.63 | 0.737757626107858 |

@@ -3,18 +3,18 @@ title: Analise o uso do Azure para ajudar a crescer o seu negócio
 description: Saiba como utilizar o Partner Center para obter dados sobre o uso das subscrições Azure dos seus clientes. Os dados incluem subscrições vendidas, em risco e em uso.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
-author: amitravat
-ms.author: amrava
+author: kshitishsahoo
+ms.author: ksahoo
 ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/01/2020
-ms.openlocfilehash: d26fe1c71a574ed58ca227979cda445950873596
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: d11e673658ce52bdd41732a4e5b678ff681326a3
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126247337"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129072456"
 ---
 # <a name="get-data-about-how-well-your-customers-and-azure-subscriptions-are-doing"></a>Obtenha dados sobre como os seus clientes e subscrições da Azure estão a correr bem
 
@@ -24,7 +24,7 @@ ms.locfileid: "126247337"
 
 Os dados impulsionam as decisões empresariais. Use as métricas na página de utilização do **Azure** para identificar os seus sucessos e áreas que precisam de mais atenção. Use esta informação enquanto planeia novos objetivos de negócio.
 
-Para chegar à utilização do **Azure,** inscreva-se no [painel partner center](https://partner.microsoft.com/dashboard). Selecione **Analytics** no menu Partner Center e, em seguida, selecione **a utilização do Azure**.
+Para chegar à utilização do **Azure,** inscreva-se no [painel partner center](https://partner.microsoft.com/dashboard), selecione **Analytics,** em seguida, **utilização do Azure**.
 
 > [!NOTE]
 > A azure use analytics está disponível apenas para parceiros no programa Fornecedor de Soluções em Nuvem.

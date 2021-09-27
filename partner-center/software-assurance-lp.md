@@ -3,24 +3,24 @@ title: Programas de garantia de software
 ms.topic: article
 ms.date: 08/19/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-benefits
-description: Inscreva-se num programa de Software Assurance para construir negócios e seja compensado por fornecer formação e planeamento a clientes empresariais.
+ms.subservice: partnercenter-membership
+description: Inscreva-se num programa de Garantia de Software para construir negócios e seja compensado pela entrega de formação e planeamento a clientes empresariais.
 author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2a2e09710d67e6ed86523b6207e882f34c32810e
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: d925eca20d3d5a53cc747657ec3087772edd37a8
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123961270"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129070156"
 ---
 # <a name="participate-in-software-assurance-programs-including-training-vouchers-and-planning-services"></a>Participe em programas de Garantia de Software, incluindo vouchers de formação e serviços de planeamento
 
 A participação em programas de Garantia de Software, incluindo Vouchers de Formação de Garantia de Software (SATV) e Serviços de Planeamento, proporciona-lhe a oportunidade de fazer crescer o seu negócio com clientes empresariais da Microsoft. 
 
-- Como parceiro SATV, a Microsoft irá compensá-lo para fornecer formação técnica e de sala de aula liderada por instrutores desenvolvida por especialistas da Microsoft. 
+- Como parceiro SATV, a Microsoft irá compensá-lo para fornecer formação técnica e orientada para o instrutor desenvolvida por especialistas da Microsoft. 
 
 - Como parceiro de Serviços de Planeamento, a Microsoft irá compensá-lo para liderar compromissos de planeamento de implementação pré-definidos. 
 
@@ -36,4 +36,4 @@ Através de ambos os programas, você ganha a oportunidade de diferenciar o seu 
 |--------------------------|:------------------|
 |Inscrição no programa de vouchers de formação de garantia de software (SATV)  | [Software Assurance Training Vouchers (SATV) programa no Partner Center](software-assurance-satv.md)|
 |Inscrição no programa de Serviços de Planeamento de Garantia de Software | [Software Assurance Planning Services in Partner Center](software-assurance-dps.md) (Serviços de Planeamento do Software Assurance no Partner Center) |
-|Requisitos de elegibilidade para ofertas e compromissos de serviços de planeamento  | [Requisitos de elegibilidade dos Serviços de Planeamento de Garantia de Software](software-assurance-dps-requirements.md)  |
+|Requisitos de elegibilidade para ofertas e compromissos de Serviços de Planeamento  | [Requisitos de elegibilidade dos Serviços de Planeamento de Garantia de Software](software-assurance-dps-requirements.md)  |

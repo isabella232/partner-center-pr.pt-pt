@@ -9,26 +9,26 @@ author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 17f0a23814213805d239d887719c5c3885234390
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: 7de99f6471e6d7d96df311584592ed5b12223a8c
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126247286"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129073728"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Transição do parceiro de faturação direta do Fornecedor de Soluções Cloud para o revendedor indireto do CSP
 
 **Funções apropriadas**: Administração global
 
 > [!NOTE]
-> Este artigo destina-se a parceiros de conta direta que tenham decidido transitar para revendedores indiretos. No entanto, mesmo que ainda não tenha tido uma decisão explícita de se inscrever como revendedor indireto, os parceiros de conta direto que não satisfaçam os novos requisitos para o programa de [parceiros](direct-partner-new-requirements.md) de conta direta CSP serão informados pela Microsoft quando as suas [capacidades de conta direta forem restringidas.](restricted-direct-bill-capabilities.md)
+> Este artigo destina-se a parceiros de conta direta que tenham decidido transitar para revendedores indiretos. No entanto, mesmo que ainda não tenha feito uma decisão explícita para se inscrever como revendedor indireto, os parceiros de conta direto que não satisfaçam os novos requisitos para o programa de parceiros de conta direta CSP serão [informados](direct-partner-new-requirements.md) pela Microsoft quando as suas [capacidades de conta direta forem restringidas.](restricted-direct-bill-capabilities.md)
 <br>A partir de janeiro de 2021, será adicionado um novo requisito de receita. Os parceiros inscritos como parceiro de conta direta terão de ter transacionado pelo menos USD$300K em receitas do programa CSP a um nível de Conta Global de Parceiros nos 12 meses anteriores.
 
-Poderá inscrever-se no programa de revenda indireto utilizando o seu inquilino de fatura direta existente.
+Poderá inscrever-se no programa de revenda indireto utilizando o seu inquilino de conta direta existente.
 
 ## <a name="get-started"></a>Introdução
 
-1. Certifique-se de que o perfil do seu parceiro no Partner Center e no Microsoft Partner Network (MPN) estão em vigor.
+1. Certifique-se de que o perfil do seu parceiro no Partner Center e na Microsoft Partner Network (MPN) Estão em vigor.
 
 2. Inscreva-se no Partner Center como administrador global para o inquilino de conta direta que está a transitar para o revendedor indireto.
 
@@ -38,7 +38,7 @@ Poderá inscrever-se no programa de revenda indireto utilizando o seu inquilino 
 
    :::image type="content" source="images/direct/direct2a.png" alt-text="Inscreva-se agora.":::
 
-4. Selecione Matricular-se agora. O seu negócio de revendedor indireto utilizará o mesmo inquilino Microsoft Azure Ative Directory (Azure AD) que utiliza para o seu negócio direto.
+4. Selecione **Matricular-se agora**. O seu negócio de revendedor indireto utilizará o mesmo inquilino Microsoft Azure Ative Directory (Azure AD) que utiliza para o seu negócio direto.
 
     > [!NOTE]
     > Inicialmente, esta nova capacidade de transição estará disponível para parceiros com datas de aniversário de setembro a dezembro. Se não tiver uma data de aniversário entre setembro e dezembro, não verá a capacidade neste momento. Os parceiros com datas de aniversário após dezembro de 2018 serão notificados mais tarde assim que a funcionalidade estiver ativada para os parceiros.
@@ -46,11 +46,11 @@ Poderá inscrever-se no programa de revenda indireto utilizando o seu inquilino 
 5. Quando a sua inscrição for aprovada, inscreva-se novamente no Partner Center.
 
     > [!NOTE]
-    > Embora a aprovação seja geralmente imediata, pode levar até cinco dias úteis. Uma vez aprovado, receberá uma notificação para o endereço de e-mail que especificou no contacto primário no formulário de inscrição. Também pode verificar o estado de inscrição Definições  >  **informações do** Programa >  >  **do Perfil** de Parceiro Definições.
+    > Embora a aprovação seja geralmente imediata, pode levar até cinco dias úteis. Uma vez aprovado, receberá uma notificação para o endereço de e-mail que especificou no contacto primário no formulário de inscrição. Também pode verificar o estado de inscrição Definições  >  **informações do**> Do Perfil de  >  **Parceiro** Definições.
 
-6. Na sua página **de visão geral,** verá o acordo de revendedor indireto. Selecione **Aceitar e continuar.** Esta ação permite as capacidades de revendedor indiretos.
+6. Na sua página **de visão geral,** verá o acordo de revendedor indireto. Selecione **Aceitar e continuar**. Esta ação permite que as capacidades de revendedor indireto.
 
-Quando aceitar o acordo de revendedor indireto, note que o seu perfil de Parceiro o identifica **como** uma fatura direta e um revendedor indireto.
+Quando aceitar o acordo de revenda indireto, note que o seu perfil partner o identifica **como** uma fatura direta e um revendedor indireto.
 
 :::image type="content" source="images/direct/direct3.png" alt-text="Acordo de revendedor indireto.":::
 
@@ -65,7 +65,7 @@ Durante esta fase, continuará a gerir as necessidades de subscrição dos seus 
 
 ## <a name="find-an-indirect-provider"></a>Localizar um fornecedor indireto
 
-Após a inscrição, aparecerá um link para fornecedores indiretos no seu navegador esquerdo. Como revendedor indireto, estabelecerá uma relação com um fornecedor indireto que poderá então lidar com a sua faturação, comprar produtos para os seus clientes e apoiar a infraestrutura.
+Após a inscrição, aparecerá um link para fornecedores indiretos no seu navegador esquerdo. Como revendedor indireto, estabelecerá uma relação com um fornecedor indireto que depois pode lidar com a sua faturação, comprar produtos para os seus clientes e apoiar a infraestrutura.
 
 Diferentes fornecedores indiretos oferecem diferentes suportes e serviços, por isso deve avaliar os fornecedores da sua área para determinar quais os que melhor satisfazem as suas necessidades. Geralmente, a maioria dos fornecedores:
 
@@ -81,17 +81,17 @@ Saiba mais, leia  [Parceiro com fornecedores indiretos](indirect-reseller-tasks-
 
 Quando encontrar um fornecedor indireto para fazer parceria, estabeleça uma parceria com o fornecedor indireto no Partner Center.
 
-O fornecedor indireto que seleciona enviar-lhe-á por e-mail um link de convite de parceria que o levará ao seu convite no Partner Center. Certifique-se de que o seu administrador global assina no Partner Center e segue o link de convite. Quando aceitar o convite, o nome do fornecedor aparecerá na sua lista de fornecedores indiretos.
+O provedor indireto que seleciona enviar-lhe-á por e-mail um link de convite de parceria que o levará ao seu convite no Partner Center. Certifique-se de que o seu administrador global assina no Partner Center e segue o link de convite. Quando aceitar o convite, o nome do fornecedor aparecerá na sua lista de fornecedores indiretos.
 
 ## <a name="acquire-new-customers-as-indirect-reseller"></a>Adquirir novos clientes como revendedor indireto
 
-Tanto você como o seu fornecedor indireto precisam de ter relações de revendedor com os clientes. Estas relações de revendedor permitem-lhe gerir as subscrições e serviços de um cliente em seu nome. Para adquirir um novo cliente que tenha um inquilino Azure AD existente, pode convidar o cliente a estabelecer uma relação de revendedor tanto consigo como com o seu fornecedor ao mesmo tempo.
+Tanto você como o seu fornecedor indireto precisam de ter relações de revendedor com os clientes. Estas relações de revendedor permitem-lhe gerir as subscrições e serviços de um cliente em seu nome. Para adquirir um novo cliente que tenha um inquilino AZure AD existente, pode convidar o cliente a estabelecer uma relação de revendedor tanto com você como com o seu fornecedor ao mesmo tempo.
 
 Para criar um convite de revendedor indireto:
 
 1. Selecione **fornecedores indiretos** do seu navegador esquerdo Partner Center.
 
-2. Selecione **Convidar novos clientes** a convidar um cliente a estabelecer uma relação de revendedor tanto consigo como com o fornecedor indireto ao mesmo tempo. O fornecedor precisa de ter uma relação de revendedor com o seu cliente, para que possa submeter encomendas em nome do seu cliente quando o cliente quiser comprar novas subscrições ou adicionar novas licenças às subscrições existentes.
+2. Selecione **Convidar novos clientes** a convidar um cliente a estabelecer uma relação de revendedor tanto com você como com o fornecedor indireto ao mesmo tempo. O fornecedor precisa de ter uma relação de revendedor com o seu cliente, para que possa submeter encomendas em nome do seu cliente quando o cliente quiser comprar novas subscrições ou adicionar novas licenças às subscrições existentes.
 
 3. Na página seguinte, analise a mensagem de e-mail de rascunho. Pode abrir a mensagem de rascunho por e-mail ou pode copiar a mensagem para a sua área de transferência e colá-la num e-mail.
 
@@ -100,18 +100,18 @@ Para criar um convite de revendedor indireto:
 5. Depois de o cliente o autorizar a si e ao seu fornecedor a serem os seus revendedores de registo, terá permissões de administrador para gerir as suas subscrições, licenças e utilizadores em seu nome, e o seu fornecedor indireto poderá submeter encomendas em seu nome.
 6. Para gerir a conta, serviços, utilizadores e licenças do cliente, expanda o registo do cliente selecionando a seta para baixo perto do seu nome.
 
-Ao contrário dos parceiros de conta direta, os revendedores indiretos não podem criar inquilinos AZure AD para os seus novos clientes no Partner Center. O seu fornecedor irá criar o inquilino e especificará-o como o revendedor indireto deste cliente. Isto garante que o cliente aparecerá na sua lista de clientes no Partner Center.
+Ao contrário dos parceiros de conta direta, os revendedores indiretos não podem criar inquilinos AZURE para os seus novos clientes no Partner Center. O seu fornecedor irá criar o inquilino e especificará-o como o revendedor indireto para este cliente. Isto garante que o cliente aparecerá na sua lista de clientes no Partner Center.
 
 >[!Note]
 >Não poderá utilizar a sua capacidade de faturação direta para criar compras para clientes que adquire como revendedor indireto.
 
 ## <a name="managing-your-direct-bill-customers-and-your-indirect-reseller-customers"></a>Gerir os seus clientes de conta direta e os seus clientes revendedores indiretos
 
-Gere os seus clientes de faturação direta e os seus clientes revendedores indiretos de forma diferente.
+Gere os seus clientes de conta direta e os seus clientes revendedores indiretos de forma diferente.
 
 ### <a name="direct-bill-customers-things-you-wont-do-as-an-indirect-reseller"></a>Clientes de faturação direta (coisas que não fará como revendedor indireto)
 
-- Criar encomendas de produtos
+- Criar encomendas para produtos
 - Gerir reservas do Azure
 - Gerir o histórico de encomendas
 - Software de compra
@@ -120,7 +120,7 @@ Gere os seus clientes de faturação direta e os seus clientes revendedores indi
 ### <a name="indirect-reseller-customers"></a>Clientes revendedores indiretos
 
 - O seu fornecedor indireto encomenda produtos para os seus clientes
-- Gerir as licenças e utilizadores dos clientes
+- Gerir licenças e utilizadores dos clientes
 - Lidar com renovações de subscrição
 
 ### <a name="to-identify-customers-that-you-acquired-as-a-direct-bill-partner"></a>Para identificar clientes que adquiriu como parceiro de conta direta
@@ -129,11 +129,11 @@ Gere os seus clientes de faturação direta e os seus clientes revendedores indi
 
 2. Selecione um cliente para ver os seus detalhes.
 
-3. Se este cliente for adquirido como parceiro de faturação direta, verá opções para **adicionar** ou **visualizar produtos** e verá as suas subscrições.
+3. Se este cliente for adquirido como parceiro de conta direta, verá opções para **adicionar** ou **visualizar produtos** e verá as suas subscrições.
 
 4. Se o cliente tiver uma relação de revendedor indireto consigo, essas opções não estarão disponíveis.
 
-## <a name="move-your-direct-bill-customers-to-your-indirect-provider"></a>Mova os seus clientes de faturação direta para o seu fornecedor indireto
+## <a name="move-your-direct-bill-customers-to-your-indirect-provider"></a>Mova os seus clientes de conta direta para o seu fornecedor indireto
 
 O seu fornecedor indireto não pode submeter encomendas ou transferências de subscrição existentes para os seus clientes de fatura direta existentes até que tenham uma relação de revendedor com eles. Para estabelecer a relação de revendedor entre o seu fornecedor indireto e o seu cliente de conta direta existente, pode utilizar um dos seguintes métodos:
 
@@ -145,22 +145,22 @@ Pode encontrar uma visão geral detalhada do processo passo a passo no documento
 
 ### <a name="reseller-relationship-extension"></a>Extensão de relacionamento revendedor
 
-Pode utilizar a funcionalidade de extensão de relacionamento do revendedor para estabelecer a relação de revendedor entre os clientes de faturação direta existentes e o seu fornecedor indireto utilizando o Partner Center Dashboard. Antes de utilizar a função, note o seguinte:
+Pode utilizar a funcionalidade de extensão de relacionamento do revendedor para estabelecer a relação de revendedor entre os clientes de faturação direta existentes e o seu fornecedor indireto utilizando o Partner Center Dashboard. Antes de utilizar a funcionalidade, note o seguinte:
 
-- Esta funcionalidade só está disponível para os parceiros de faturação direto que estão em transição para se tornarem um revendedor indireto terem concluído a [inscrição do revendedor indireto](#get-started).
+- Esta funcionalidade só está disponível para os parceiros de conta direto que estão em transição para se tornarem um revendedor indireto completaram a [inscrição do revendedor indireto](#get-started).
 
-- Só é possível aplicar esta funcionalidade aos clientes de faturação direta existentes. Não é aplicável aos [clientes revendedores indiretos.](#acquire-new-customers-as-indirect-reseller)
+- Só é possível aplicar esta funcionalidade aos clientes de faturação direta existentes. Não é aplicável a [clientes revendedores indiretos.](#acquire-new-customers-as-indirect-reseller)
 
 - Só pode selecionar um fornecedor indireto para o qual [aceitou um convite de parceiro do seu fornecedor indireto.](#accept-a-partnership-invitation-from-your-indirect-provider)
 
-- Uma cópia da informação que tem para este cliente será disponibilizada ao fornecedor indireto. Pode aceder à informação da conta-a-lei acedendo à página conta deste cliente no Partner Center Dashboard.
+- Uma cópia da informação que tem para este cliente será disponibilizada ao fornecedor indireto. Pode aceder à informação de faturação aceda à página conta deste cliente no Partner Center Dashboard.
 
     > [!NOTE]
-    > Ao utilizar a funcionalidade de extensão de relacionamento do revendedor, concorda em partilhar a informação que tem para este cliente com o fornecedor indireto.
+    > Ao utilizar a funcionalidade de extensão de relacionamento do revendedor, consente em partilhar a informação que tem para este cliente com o fornecedor indireto.
 
-- O seu fornecedor indireto não será [dotando de privilégios administrativos delegados](customers-revoke-admin-privileges.md) ao cliente. Se o seu fornecedor indireto necessitar de privilégios de administração delegados, deve enviar um convite de revendedor indireto ao cliente.
+- O seu fornecedor indireto não será dotado de [privilégios administrativos delegados](customers-revoke-admin-privileges.md) ao cliente. Se o seu fornecedor indireto necessitar de privilégios de administração delegados, deve enviar um convite de revendedor indireto ao cliente.
 
-- Uma vez estabelecida a relação de revendedor, o fornecedor indireto aparecerá como parceiro CSP para o cliente na página Relações com parceiros no [Administração Microsoft 365 Center](https://admin.microsoft.com/AdminPortal/Home#/partners) e [Microsoft Store para Empresas](/microsoft-store/work-with-partner-microsoft-store-business).
+- Uma vez estabelecida a relação de revendedor, o fornecedor indireto aparecerá como parceiro CSP para o cliente na página Relações com [parceiros](https://admin.microsoft.com/AdminPortal/Home#/partners) no Administração Microsoft 365 Center e [Microsoft Store para Empresas](/microsoft-store/work-with-partner-microsoft-store-business).
 
     > [!IMPORTANT]
     > Para evitar confusões e mal-entendidos, é contratualmente obrigado pelo seu acordo de parceiro a informar e obter o consentimento do cliente de conta direta antes de utilizar a funcionalidade de extensão de relacionamento para estabelecer uma relação de revenda entre um cliente de conta direta existente e um fornecedor indireto.
@@ -171,7 +171,7 @@ Para utilizar esta funcionalidade num inquilino de cliente existente:
 
 2. Na **página Clientes,** selecione um cliente existente e selecione o seu ícone **de links Rápidos** para expandir a visão sumária do cliente.
 
-3. **No(s) fornecedor indireto,** selecione **Cliente de transferência num fornecedor indireto**.
+3. **No(s) fornecedor indireto,** selecione **cliente de transferência num fornecedor indireto**.
 
     :::image type="content" source="images/direct/direct5-1.png" alt-text="Transfira o cliente para um fornecedor indireto.":::
 
@@ -179,7 +179,7 @@ Para utilizar esta funcionalidade num inquilino de cliente existente:
 
 5. Selecione **Guardar e continuar**.
 
-6. Verifique se o fornecedor indireto selecionado aparece no **ou nos fornecedores indiretos.**
+6. Verifique se o fornecedor indireto selecionado aparece sob **o ou fornecedor indireto.**
 
     :::image type="content" source="images/direct/direct5-2.png" alt-text="Fornecedor indireto listado.":::
 
@@ -189,7 +189,7 @@ O seu fornecedor indireto não pode submeter encomendas para os seus clientes de
 
 1. Selecione **fornecedores indiretos** do seu navegador esquerdo Partner Center.
 
-2. Selecione **Convidar novos clientes** a convidar um cliente a estabelecer uma relação de revendedor tanto consigo como com o fornecedor indireto ao mesmo tempo. O fornecedor precisa de ter uma relação de revendedor com o seu cliente, para que possa submeter encomendas em nome do seu cliente quando o cliente quiser comprar novas subscrições ou adicionar novas licenças às subscrições existentes.
+2. Selecione **Convidar novos clientes** a convidar um cliente a estabelecer uma relação de revendedor tanto com você como com o fornecedor indireto ao mesmo tempo. O fornecedor precisa de ter uma relação de revendedor com o seu cliente, para que possa submeter encomendas em nome do seu cliente quando o cliente quiser comprar novas subscrições ou adicionar novas licenças às subscrições existentes.
 
     :::image type="content" source="images/direct/direct6.png" alt-text="Convide novos clientes.":::
 
@@ -223,7 +223,7 @@ De acordo com o modelo indireto da CSP, os revendedores indiretos não têm rela
 
 ### <a name="prerequisites"></a>Pré-requisitos
 
-- Esta funcionalidade só está disponível para parceiros em transição que tenham concluído a inscrição do revendedor indireto utilizando os inquilinos parceiros de conta direto existentes.
+- Esta funcionalidade só está disponível para parceiros em transição que tenham concluído a inscrição de revendedor indireto utilizando os inquilinos parceiros de conta direto existentes.
 
 - Antes de transferir as subscrições associadas a um determinado cliente, o parceiro de transição deve mover o cliente para um fornecedor indireto.
 
@@ -233,7 +233,7 @@ De acordo com o modelo indireto da CSP, os revendedores indiretos não têm rela
 
 A funcionalidade é um processo em quatro etapas, onde:
 
-- O parceiro de transição cria um pedido de transferência de assinatura. O pedido contém uma ou mais subscrições existentes associadas ao mesmo cliente e é endereçado a um fornecedor indireto.
+- O parceiro de transição cria um pedido de transferência de subscrição. O pedido contém uma ou mais subscrições existentes associadas ao mesmo cliente e é endereçado a um fornecedor indireto.
 
 - O fornecedor indireto revê e aceita (ou rejeita) o pedido de transferência.
 
@@ -268,21 +268,21 @@ Para criar um pedido de transferência como parceiro de transição:
 
 5. Na página **subscrições,** procure **a Transferência de Assinaturas.**
 
-6. Sob **Transferência de Assinatura**, selecione Transferência de **subscrição de pedido.**
+6. Sob **Transferência de Subscrição**, selecione **Transferência de subscrição de pedido.**
 
     :::image type="content" source="images/direct/direct8.png" alt-text="Solicite transferência de assinatura.":::
 
-7. No diálogo do pedido de transferência, selecione uma ou mais subscrições a serem transferidas.
+7. No diálogo de pedido de transferência, selecione uma ou mais subscrições a serem transferidas.
 
     :::image type="content" source="images/direct/direct9.png" alt-text="Criar pedido de transferência.":::
 
 8. Selecione **Criar**.
 
-9. Um pedido de transferência de assinatura ativo será apresentado no âmbito **da Transferência de Assinaturas.**
+9. Um pedido de transferência de assinatura ativo será apresentado no âmbito **da Transferência de Assinatura.**
 
     :::image type="content" source="images/direct/direct10.png" alt-text="Lista de pedidos de transferência.":::
 
-10. Informe o seu fornecedor indireto de que criou um pedido de transferência de assinatura para eles.
+10. Informe o seu fornecedor indireto de que criou um pedido de transferência de subscrição para eles.
 
 ### <a name="indirect-provider---accept-transfer-request"></a>Fornecedor indireto - aceite pedido de transferência
 
@@ -338,20 +338,20 @@ O parceiro de transição deve fazer o seguinte:
 
 ### <a name="considerations"></a>Considerações
 
-- **O ID da subscrição será diferente após a transferência.** Se for uma subscrição da Azure (MS-AZR-0145P), além disso, terá um ID de assinatura Azure, que é retido do anterior proprietário, e aparecerá no portal de gestão Azure.
+- **O ID da subscrição será diferente após a transferência.** Se for uma subscrição da Azure (MS-AZR-0145P), além disso, terá um ID de subscrição Azure, que é retido pelo anterior proprietário, e aparecerá no portal de gestão Azure.
 
 - **A mesma subscrição não pode ser referenciada por múltiplos pedidos de transferência.** Depois de ter criado um pedido de transferência, que inclui uma subscrição existente, não é possível criar pedidos de transferência adicionais, incluindo a mesma subscrição, até que o primeiro pedido de transferência seja cancelado.
 
 - **Os complementos para assinaturas baseadas em licenças devem ser transferidos juntamente com a sua subscrição base.** Ao criar um pedido de transferência, se escolher uma subscrição existente com um ou mais addons, os addons serão automaticamente incluídos no pedido de transferência.
 
-- **As alterações na contagem de licenças para uma subscrição não serão refletidas no pedido de transferência existente.** Depois de ter criado um pedido de transferência que inclua uma subscrição existente, deve evitar atualizar a quantidade de licença da subscrição (ou addons associados). Se o fizer, a nova quantidade não se refletirá no pedido de transferência. Após o prestador indireto aceitar o pedido de transferência, a subscrição resultante terá a quantidade antiga. Se desejar que a nova quantidade seja transferida para o fornecedor indireto, deve cancelar o pedido de transferência existente e recriar uma nova.
+- **As alterações na contagem de licenças para uma subscrição não serão refletidas no pedido de transferência existente.** Depois de ter criado um pedido de transferência que inclua uma subscrição existente, deverá evitar atualizar a quantidade de licença da subscrição (ou addons associados). Se o fizer, a nova quantidade não se refletirá no pedido de transferência. Após o fornecedor indireto aceitar o pedido de transferência, a subscrição resultante terá a quantidade antiga. Se desejar que a nova quantidade seja transferida para o fornecedor indireto, deve cancelar o pedido de transferência existente e recriar uma nova.
 
-- **Nem todas as compras podem ser transferidas usando transferência de assinatura auto-servida.** Atualmente, só é possível transferir subscrições O365 e subscrições Azure PAYG (MS-AZR-0145P) utilizando esta funcionalidade. Outras compras, incluindo planos Azure, Azure Reserved Instances, Subscrições baseadas em prazos e subscrições SaaS para o Azure Marketplace não são suportadas. Verá uma razão pela qual uma subscrição não pode ser transferida na página de pedido de transferência de envio. Para transferir estas subscrições, terá de [cancelar a subscrição existente](create-a-new-subscription.md#suspend-or-cancel-a-subscription) e adquirir uma nova oferta para o cliente através do Fornecedor Indireto.
+- **Nem todas as compras podem ser transferidas através de transferência de assinatura auto-servida.** Atualmente, só é possível transferir subscrições O365 e subscrições Azure PAYG (MS-AZR-0145P) utilizando esta funcionalidade. Outras compras, incluindo planos Azure, Azure Reserved Instances, Subscrições baseadas em prazos e subscrições SaaS para o Azure Marketplace não são suportadas. Verá uma razão pela qual uma subscrição não pode ser transferida na página de pedido de transferência de envio. Para transferir estas subscrições, terá de [cancelar a subscrição existente](create-a-new-subscription.md#suspend-or-cancel-a-subscription) e adquirir uma nova oferta para o cliente através do Fornecedor Indireto.
 
    > [!NOTE]
    > As alterações à [oferta do Azure na CSP](./announcements/2021-july.md) relacionadas com a nova experiência de comércio não terão impacto neste cenário de transição. Pode transferir continuamente as assinaturas Azure PAYG[(MS-AZR-0145P)](https://go.microsoft.com/fwlink/p/?linkid=2164140)para o Fornecedor Indireto.
 
-- **Não é possível testar utilizando o ambiente da caixa de areia.**
+- **Não é possível testar com ambiente de caixa de areia.**
 
 ## <a name="enroll-for-indirect-reseller-incentives"></a>Inscreva-se para incentivos indiretos do revendedor
 

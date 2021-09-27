@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 01/14/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-enroll
-description: Siga o estado da verificação da sua conta ao tentar inscrever-se num novo programa do Centro de Parceiros. Aprenda a fornecer informações adicionais, se necessário.
+description: Siga o estado da verificação da sua conta ao tentar inscrever-se num novo programa do Partner Center. Aprenda a fornecer informações adicionais, se necessário.
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 64acff2ff7d518e549f4c90ba898496c522550a7
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: 228cdec948e7b28d4bc48105782be2401a78a57d
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126246551"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129071520"
 ---
 # <a name="verify-your-account-information-when-you-enroll-in-a-new-partner-center-program"></a>Verificar as informações da conta ao inscrever-se num novo programa do Centro de Parceiros
 
@@ -34,9 +34,9 @@ Se for o contacto principal (administrador global ou administrador de conta), re
 
 | **Tipo de verificação**   | **O que é verificado**   | **Sugestões**                                                                                        |
 |----------------------------|:-----------------------------------|:-----------------------------------------------------------------------------------------------------|
-| Propriedade de e-mail            | A propriedade do e-mail verifica se o endereço do contato principal (e-mail principal) é válido. O endereço de e-mail do contacto principal deve ser uma conta profissional que é monitorizada e pode enviar/receber e-mails. **Evite utilizar** um endereço de e-mail pessoal não associado ao domínio da empresa, ou uma credencial de utilizador de inquilino não associada a e-mail. (Por exemplo, jsmith@testcompany.onmicrosoft.com). | Se não receber a mensagem de e-mail de verificação da propriedade de e-mail dentro de um dia útil, pode solicitar que o e-mail seja enviado novamente. Aceda à sua página de perfil para [MPN](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) ou [CSP](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) e selecione **e-mail de verificação resend.** Certifique-se de sinalizar o e-mail de Microsoft.com como um domínio "seguro" e verificar pastas de correio publicitário não solicitado. Para mais assistência, [crie um bilhete de apoio.](https://go.microsoft.com/fwlink/?linkid=2167384)|
+| Propriedade de e-mail            | A propriedade do e-mail verifica se o endereço do contato principal (e-mail principal) é válido. O endereço de e-mail do contacto principal deve ser uma conta profissional que é monitorizada e pode enviar/receber e-mails. **Evite utilizar** um endereço de e-mail pessoal não associado ao domínio da empresa, ou uma credencial de utilizador de inquilino não associada a e-mail. (Por exemplo, jsmith@testcompany.onmicrosoft.com). | Se não receber a mensagem de e-mail de verificação da propriedade de e-mail dentro de um dia útil, pode solicitar que o e-mail seja enviado novamente. Vá à sua página de perfil para [MPN](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) ou [CSP](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) e selecione **e-mail de verificação resend.** Certifique-se de sinalizar o e-mail de Microsoft.com como um domínio "seguro" e verificar as pastas de correio publicitário não solicitado. Para mais assistência, [crie um bilhete de apoio.](https://go.microsoft.com/fwlink/?linkid=2167384)|
 |Emprego |A verificação de emprego confirma que o seu contacto principal é um funcionário da empresa de inscrição. O contacto necessita de um endereço de e-mail ativo num domínio de e-mail propriedade da empresa.|Se a verificação do emprego for rejeitada, o contacto principal (normalmente o seu Global ou Administração de Conta) deve fornecer documentação que confirme que o domínio de e-mail do contacto está sob a propriedade do seu empregador. Para mais assistência, [crie um bilhete de apoio.](https://go.microsoft.com/fwlink/?linkid=2167385) |
-| Empresa   | A verificação do negócio confirma que a empresa de inscrição é uma entidade comercial legítima e na morada indicada. | Confirme que o nome e endereço da empresa no seu [perfil de negócio legal](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) não têm erros ortográficos ou abreviaturas. Devem corresponder exatamente aos registos formais da empresa. Se for caso disso, selecione a correspondência encontrada em fontes de dados externas (bases de dados externas da empresa, tais como Dun & Bradstreet (DUNS ID) ou registo estatal).<br /><br />A Microsoft pede ao contacto principal (normalmente o seu administrador Global ou Conta) para fornecer documentação oficial. A documentação pode ser um registo comercial, um certificado de registo fiscal ou um recibo do país de origem da empresa, do município ou dos questionários a preencher. A Microsoft utiliza esta documentação para verificar se a empresa está autorizada a fazer negócios com esse nome e está localizada no endereço fornecido. Para mais assistência, [crie um bilhete de apoio.](https://go.microsoft.com/fwlink/?linkid=2167604)|
+| Empresa   | A verificação do negócio confirma que a empresa de inscrição é uma entidade comercial legítima e na morada indicada. | Confirme que o nome e endereço da empresa no seu [perfil de negócio Legal](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) não têm erros ortográficos ou abreviaturas. Devem corresponder exatamente aos registos formais da empresa. Se for caso disso, selecione a correspondência encontrada em fontes de dados externas (bases de dados externas da empresa, tais como Dun & Bradstreet (DUNS ID) ou registo estatal).<br /><br />A Microsoft pede ao contacto principal (normalmente o seu administrador Global ou Conta) para fornecer documentação oficial. A documentação pode ser um registo comercial, um certificado de registo fiscal ou um recibo do país de origem da empresa, do município ou dos questionários a preencher. A Microsoft utiliza esta documentação para verificar se a empresa está autorizada a fazer negócios com esse nome e está localizada no endereço fornecido. Para mais assistência, [crie um bilhete de apoio.](https://go.microsoft.com/fwlink/?linkid=2167604)|
 
 > [!NOTE]
 > Saiba como atualizar o seu [Perfil de Negócio Legal (endereço)](update-your-partner-profile.md).
@@ -50,4 +50,4 @@ Depois de iniciar sessão no seu perfil, se vir **ações pendentes,** complete 
 - Para o programa MPN, aceda à página [de informações legais.](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile)  
 - Para o programa CSP, aceda à página [de informações do Jurídico.](https://partner.microsoft.com/pcv/accountsettings/partnerprofile)
 
-Se precisar de assistência para completar estes passos no Partner Center, pode contactar a equipa de apoio ao parceiro abrindo um bilhete na secção de Apoio ao Centro de Parceiros. Para abrir um bilhete, vá à [Ajuda e apoie.](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=21655de7-7dbb-4927-33a2-f60f45feadf3)
+Se precisar de assistência para completar estes passos no Partner Center, pode contactar a equipa de apoio ao parceiro abrindo um bilhete na secção de Apoio ao Centro de Parceiros. Para abrir um bilhete, vá à [Help + support.](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=21655de7-7dbb-4927-33a2-f60f45feadf3)

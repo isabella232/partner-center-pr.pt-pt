@@ -1,23 +1,23 @@
 ---
-title: Pague a taxa por uma competência de MPN
+title: Pague a taxa por uma competência mpn
 ms.topic: how-to
-ms.date: 01/28/2021
+ms.date: 09/27/2021
 description: Saiba como pagar a taxa ou atualizar os detalhes de pagamento associados à obtenção ou renovação de uma ou mais competências de prata ou ouro.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-membership
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: 5099a851dc30767802af507e4840c714e47736e9
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: e93f2fc198fae3e4cee663bd992c42feb0980bf7
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126247508"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129072944"
 ---
 # <a name="how-to-pay-the-fee-associated-with-a-silver-or-gold-competency"></a>Como pagar a taxa associada a uma competência de prata ou ouro
 
-**Funções adequadas**: administrador de parceiros da MPN | Administrador de conta
+**Funções adequadas**: Administrador-sócio da MPN | Administrador de conta
 
 Este artigo descreve como e quando pagar a taxa associada à obtenção de uma competência de prata ou ouro da Microsoft Partner Network. O artigo também descreve como alterar o seu método de pagamento preferido, como cancelar uma encomenda, e como receber um desconto de 25% quando passar de uma competência de prata para ouro.
 
@@ -28,46 +28,72 @@ Este artigo descreve como e quando pagar a taxa associada à obtenção de uma c
 
 Se já cumpriu os requisitos para obter uma competência específica de prata ou ouro (ou já tem uma competência de prata ou ouro), pode verificar rapidamente a taxa de competência. Basta selecionar o separador [compare-offers](https://partner.microsoft.com/membership/compare-offers) no Centro de Parceiros.
 
-Caso contrário, siga estes passos para pagar a taxa por uma competência de prata ou ouro. Os passos pressupõem que tenha cumprido os seguintes pré-requisitos:
+Caso contrário, siga estes passos para pagar a taxa por uma competência de prata ou ouro. Os passos assumem que encontrou os seguintes pré-requisitos:
 
 - É um parceiro que já [se juntou à](https://partner.microsoft.com/membership) Microsoft Partner Network.
 
-- Já cumpriu os [requisitos](https://partner.microsoft.com/membership/competencies) para atingir uma competência específica de prata ou ouro.
+- Já cumpriu os [requisitos](https://partner.microsoft.com/membership/competencies) para obter uma competência específica de prata ou ouro.
 
-- Foi-lhe atribuído o papel de Partner Center da [administração global ou do parceiro MPN.](./permissions-overview.md) Se for um utilizador convidado sem uma destas funções, será-lhe negado o acesso a algumas das páginas do Centro de Parceiros descritas abaixo. Se isso acontecer, [contacte o seu administrador global](./find-your-role.md) e peça-lhes que lhe atribuam o papel apropriado. 
+- Foi-lhe atribuída a função de Centro de Parceiros da [administração global ou do parceiro MPN.](./permissions-overview.md) Se for um utilizador convidado sem uma destas funções, será-lhe negado o acesso a algumas das páginas do Centro de Parceiros descritas abaixo. Se isso acontecer, [contacte o seu administrador global](./find-your-role.md) e peça-lhes que lhe atribuam o papel adequado.
+
+> [!NOTE]
+> A interface de pré-visualização do Partner Center proporciona-lhe uma experiência de utilizador mais eficiente e produtiva através de espaços de trabalho agrupados logicamente. Para saber mais sobre a interface dos espaços de trabalho e como ligá-lo, consulte [Getting around Partner Center](get-around-partner-center.md#turn-workspaces-on-and-off).
+
+#### <a name="workspaces-view"></a>[Vista de espaços de trabalho](#tab/workspaces-view)
 
 1. Utilizando as credenciais de conta de trabalho da sua organização, inscreva-se no [painel de instrumentos](https://partner.microsoft.com/dashboard)do Partner Center .
 
-2. [Selecione Ofertas](https://partner.microsoft.com/dashboard/mpn/offers) de Adesão a partir do menu de navegação. 
+2. Selecione o azulejo **de adesão** e selecione **ofertas de adesão**.
 
 3. Ao Abrigo **de Ofertas disponíveis para compra,** encontre o azulejo **de adesão Silver** ou o azulejo de **adesão Gold** associado à sua competência específica. 
 
-4. Selecione a opção **Subscrever** localizada no direito inferior do azulejo específico de adesão prata ou ouro.
+4. Selecione a opção **Subscrever** localizada no direito inferior do azulejo específico de adesão Prata ou Ouro.
 
    :::image type="content" source="images/offers/1-mpn-competency-payment-offers-available-for-purchase.png" alt-text="A associação oferece uma página que mostra adesões de prata ou ouro que o parceiro pode subscrever ou comprar." border="false":::
 
-   > [!Note]
-   > Se ainda não cumpriu os requisitos para a desejada competência de prata ou ouro, não poderá subscrever a adesão prata/ouro ou pagar a taxa de competência associada. Além disso, se já é sócio de competência de ouro, os benefícios incrementais para uma competência de prata serão-lhe atribuídos automaticamente. Neste cenário, a opção de pagar a taxa de prata também estará indisponível.
+   > [!NOTE]
+   > Se ainda não cumpriu os requisitos para a desejada competência de prata ou ouro, não poderá subscrever a adesão prata/ouro ou pagar a taxa de competência associada. Além disso, se já é sócio de competência em ouro, os benefícios incrementais para uma competência de prata serão-lhe atribuídos automaticamente. Neste cenário, a opção de pagar a taxa de prata também estará indisponível.
 
-4. Na página de detalhes da **Compra,** reveja e confirme os seus dados.
+5. Na página de detalhes da **Compra,** reveja e confirme os seus dados.
+
+   (Saiba mais sobre a atualização [das informações de **identificação fiscal** da sua empresa](./organization-tax-info.md) ou a Conta da sua empresa [ **para/Vender para** endereço da empresa](./mpn-get-action-pack.md).)
+
+6. Na parte inferior esquerda da página, localize a **secção De preferência de pagamento.** Selecione a opção **cartão de crédito** ou a opção **Transferência Bancária Eletrónica** e, em seguida, selecione **Seguinte**. Consulte as seguintes secções para obter mais passos associados a qualquer uma das opções.
+
+#### <a name="current-view"></a>[Vista atual](#tab/current-view)
+
+1. Utilizando as credenciais de conta de trabalho da sua organização, inscreva-se no [painel de instrumentos](https://partner.microsoft.com/dashboard)do Partner Center .
+
+2. [Selecione Ofertas](https://partner.microsoft.com/dashboard/mpn/offers) de Adesão a partir do menu de navegação.
+
+3. Ao Abrigo **de Ofertas disponíveis para compra,** encontre o azulejo **de adesão Silver** ou o azulejo de **adesão Gold** associado à sua competência específica. 
+
+4. Selecione a opção **Subscrever** localizada no direito inferior do azulejo específico de adesão Prata ou Ouro.
+
+   :::image type="content" source="images/offers/1-mpn-competency-payment-offers-available-for-purchase.png" alt-text="A associação oferece uma página que mostra adesões de prata ou ouro que o parceiro pode subscrever ou comprar." border="false":::
+
+   > [!NOTE]
+   > Se ainda não cumpriu os requisitos para a desejada competência de prata ou ouro, não poderá subscrever a adesão prata/ouro ou pagar a taxa de competência associada. Além disso, se já é sócio de competência em ouro, os benefícios incrementais para uma competência de prata serão-lhe atribuídos automaticamente. Neste cenário, a opção de pagar a taxa de prata também estará indisponível.
+
+5. Na página de detalhes da **Compra,** reveja e confirme os seus dados.
 
    (Saiba mais sobre a atualização [das informações de **identificação fiscal** da sua empresa](./organization-tax-info.md) ou a Conta da sua empresa [ **para/Vender para** endereço da empresa](./mpn-get-action-pack.md).)
 
    :::image type="content" source="images/offers/2-mpn-competency-payment-preference.png" alt-text="A associação oferece página de detalhes de compra com preferências de pagamento." border="false":::
 
-5. Na parte inferior esquerda da página, localize a **secção De preferência de pagamento.** Selecione a opção **cartão de crédito** ou a opção **De Transferência Bancária Eletrónica** e, em seguida, selecione **Seguinte**. Consulte as seguintes secções para obter mais passos associados a qualquer uma das opções.
+6. Na parte inferior esquerda da página, localize a **secção De preferência de pagamento.** Selecione a opção **cartão de crédito** ou a opção **Transferência Bancária Eletrónica** e, em seguida, selecione **Seguinte**. Consulte as seguintes secções para obter mais passos associados a qualquer uma das opções.
+
+* * *
 
 ### <a name="use-a-credit-card-as-your-payment-preference"></a>Use um cartão de crédito como preferência de pagamento
 
 Siga estes passos para completar o pagamento do seu cartão de crédito por uma adesão de prata ou ouro associada.
 
-1. Se selecionou **o cartão** de crédito como o seu método de pagamento preferido, aparece a página de detalhes do cartão de crédito. 
+1. Se selecionou **o cartão** de crédito como o seu método de pagamento preferido, aparece a página de detalhes do cartão de crédito.
 
-   :::image type="content" source="images/offers/3-mpn-competency-payment-credit-card-details.png" alt-text="A associação oferece a página de dados do cartão de crédito de pagamento." border="false":::
+2. Selecione o link **de contrato** perto do topo desta página e reveja os Termos e Condições de Compra da OFERTA MPN em nome da sua empresa. Este acordo oferece informações importantes sobre a sua conta de faturação, renovação, elegibilidade para reembolso e impostos.
 
-2. Selecione o link de **contrato** perto do topo desta página e reveja os Termos e Condições de Compra da OFERTA MPN em nome da sua empresa. Este acordo oferece informações importantes sobre a sua conta de faturação, renovação, elegibilidade para reembolso e impostos.
-
-3. Insira os dados do seu cartão de crédito e as informações de faturação nos campos relacionados e, em seguida, selecione **Pay**.
+3. Insira os dados do seu cartão de crédito e informações de faturação nos campos relacionados e, em seguida, selecione **Pay**.
 
    O seu pagamento será recolhido através de um portal de pagamento seguro e de terceiros.
 
@@ -80,64 +106,61 @@ Assim que a informação do cartão de crédito for recebida e a transação est
 
 Siga estes passos para completar a sua transferência bancária eletrónica para uma adesão de prata ou ouro associada.
 
-1. Se selecionou **a transferência bancária electrónica** como o seu método de pagamento preferido, verá a página de detalhes de compra da **Revista.**
+1. Se selecionou **a transferência bancária electrónica** como o seu método de pagamento preferido, verá a página de detalhes de compra do **Review.**
 
-   :::image type="content" source="images/offers/4-mpn-competency-payment-review-purchase-details.png" alt-text="A associação oferece a página de detalhes de compra de transferência bancária eletrónica." border="false":::
+2. Selecione o link do **contrato** para a parte inferior desta página e reveja os Termos e Condições de Compra da Oferta MPN em nome da sua empresa. Este acordo oferece informações importantes sobre a sua conta de faturação, renovação, elegibilidade para reembolso e impostos.
 
-1. Selecione o link do **contrato** para a parte inferior desta página e reveja os Termos e Condições de Compra da Oferta MPN em nome da sua empresa. Este acordo oferece informações importantes sobre a sua conta de faturação, renovação, elegibilidade para reembolso e impostos.
+3. Reveja os detalhes da transferência bancária que necessitará. 
 
-1. Reveja os detalhes da transferência bancária que necessitará. 
+4. Na sua área **de compra selecionada,** observe o valor devido à Microsoft e a taxa de moeda específica. Terá de transferir esse montante nessa moeda específica da sua conta bancária.
 
-1. Na sua área **de compra selecionada,** observe o valor devido à Microsoft e a taxa de moeda específica. Terá de transferir esse montante nessa moeda específica da sua conta bancária.
-
-1. Quando estiver satisfeito, tem todas as informações de que necessita, **selecione Enviar por isso.**
+5. Quando estiver satisfeito, tem todas as informações necessárias, **selecione Enviar por isso.**
 
    > [!NOTE]
    > O **número da sua Encomenda** e o **ID MPN** aparecerão assim que **submeter** com sucesso a encomenda. Por favor, tome nota desta informação. Vai precisar mais tarde para completar a sua transferência bancária.
 
-1. Verá uma página de confirmação indicando que a sua submissão foi bem sucedida. Depois de concluir a transferência bancária com o seu banco, terá de voltar a esta página para fazer o upload do seu comprovativo de pagamento.
+6. Verá uma página de confirmação indicando que a sua submissão foi bem sucedida. Depois de concluir a transferência bancária com o seu banco, terá de voltar a esta página para fazer o upload do seu comprovativo de pagamento.
 
    :::image type="content" source="images/offers/5-mpn-competency-payment-thank-you-confirmation.png" alt-text="Página de confirmação de submissão." border="false":::
 
-1. Complete a transferência bancária da sua conta bancária. Certifique-se de fazer o seguinte:
+7. Complete a transferência bancária da sua conta bancária. Certifique-se de fazer o seguinte:
 
-   - Inclua tanto o **número de Encomenda** como o **ID MPN** nos seus dados de referência de transferência bancária.
+   - Inclua tanto o **número de encomenda** como o **ID MPN** nos seus dados de referência de transferência bancária.
 
    - Transfira o valor devido (na moeda anotada anteriormente) para a conta bancária da Microsoft mostrada na área de **instruções** de transferência de fio da página anterior.
 
-1. Assim que o seu banco confirmar a transação, tire uma foto da confirmação bancária como prova. Certifique-se de que o documento de prova de confirmação bancária mostra detalhes sobre: 
-   - A data em que ocorreu o pagamento de transferência bancária
+8. Assim que o seu banco confirmar a transação, tire uma foto da confirmação bancária como prova. Certifique-se de que o documento de prova de confirmação bancária mostra detalhes sobre: 
+   - A data em que ocorreu o pagamento da transferência bancária
    - A conta bancária da Microsoft usada para receber a sua transferência bancária
    - O valor de transferência mostrado em moeda adequada
    - O número da sua encomenda e o número de ID mpn
 
-1. Consulte a próxima secção para obter os passos para fazer o upload do documento de pagamento de transferência bancária.
+9. Consulte a próxima secção para fazer o upload do documento de pagamento de transferência bancária.
 
 ### <a name="upload-proof-of-wire-transfer-payment"></a>Carregar comprovativo do pagamento de transferência bancária
 
-Se pagar a sua taxa de adesão de prata ou ouro através de transferência bancária eletrónica, terá de enviar o comprovativo de pagamento para o Partner Center. Siga estes passos para o fazer:
+Se pagar a sua taxa de adesão de prata ou ouro através de transferência bancária eletrónica, terá de enviar o comprovativo de pagamento para o Partner Center. Siga estes passos para fazê-lo:
 
-1. Volte ao painel do Centro [de Parceiros](https://partner.microsoft.com/dashboard)e, em seguida, selecione a opção **De adesão oferece** a opção a partir do menu de navegação à esquerda.
+1. Inscreva-se no painel de [instrumentos](https://partner.microsoft.com/dashboard)do Centro de Parceiros, selecione o azulejo **de adesão** e, em seguida, selecione **ofertas de adesão**.
 
-1. Na lista de ofertas adquiridas, localize a sua oferta específica. Em seguida, sob a coluna Action para essa oferta, selecione **Upload comprovativo de pagamento**.
+2. Na lista de ofertas adquiridas, localize a sua oferta específica. Em seguida, sob a coluna Action para essa oferta, **selecione Upload comprovativo de pagamento**.
 
    :::image type="content" source="images/offers/6-mpn-competency-payment-show-purchased-offers.png" alt-text="A lista de ofertas de adesão adquirida mostrando uma opção selecionável, carregar a prova de pagamento, para cada oferta adquirida." border="false":::
 
-1. Na página de detalhes, encontre o campo **de prova de pagamento.** **Selecione Procurar** para localizar e carregar o seu documento de prova para o Centro de Parceiros.
+3. Na página de detalhes, encontre o campo **de prova de pagamento.** **Selecione Procurar** para localizar e carregar o documento de prova para o Centro de Parceiros.
 
    :::image type="content" source="images/offers/7-mpn-competency-payment-upload-proof.png" alt-text="Details page with fields to upload proof of showing a selectable option, upload payment proof, for each purchased offer." border="false":::
-
-1. Complete as informações relativas aos outros campos relacionados com a sua recente transação de transferência de fundos eletrónicos, como **data de pagamento,** **pagamento ao número de conta,** e **Transaction/Ref no**.
+4. Complete as informações relativas aos outros campos relacionados com a sua recente transação de transferência de fundos eletrónicos, como **data de pagamento,** **pagamento ao número de conta,** e **Transaction/Ref no**.
 
   Uma mensagem verde pode parecer dizer-lhe que o seu pedido foi concluído com sucesso.
 
-Após o pagamento ser concluído com sucesso, a sua compra aparecerá normalmente como ativa entre 48 e 72 horas após o seu acesso à conta bancária da Microsoft. No entanto, o processo completo pode demorar até **uma semana** para ser concluído. 
+Após o pagamento ser concluído com sucesso, a sua compra aparecerá normalmente como ativa entre 48 e 72 horas após chegar à conta bancária da Microsoft. No entanto, o processo completo pode demorar até **uma semana** para ser concluído.
 
-Se fornecer as informações necessárias nos seus dados de referência de transferência bancária (como, número de encomenda e ID MPN) e carregar o comprovativo de pagamento para o Partner Center, o pagamento poderá ser ativado mais cedo.
+Se fornecer as informações necessárias nos seus dados de referência de transferência bancária (tais como, número de encomenda e ID MPN) e carregar o comprovativo de pagamento para o Partner Center, o pagamento poderá ser ativado mais cedo.
 
-Se o processo de pagamento não estiver totalmente concluído no prazo de 30 dias a contar da data da sua criação de encomenda, o estado da sua encomenda será alterado para **Expirado**. Se a sua encomenda **expirar,** terá de criar uma nova encomenda diretamente no Partner Center, sem ter de enviar o pagamento mais uma vez. 
+Se o processo de pagamento não estiver totalmente concluído no prazo de 30 dias a contar da data da sua criação de encomenda, o estado da sua encomenda será alterado para **Expirado**. Se a sua encomenda **expirar,** terá de criar uma nova encomenda diretamente do Partner Center, sem ter de enviar o pagamento mais uma vez. 
 
-## <a name="switch-from-electronic-bank-transfer-payment-to-credit-card-payment-method"></a>Mudar do pagamento de transferência bancária eletrónica para o método de pagamento do cartão de crédito
+## <a name="switch-from-electronic-bank-transfer-payment-to-credit-card-payment-method"></a>Mudar do pagamento de transferência bancária eletrónica para método de pagamento de cartão de crédito
 
 Poderá decidir mais tarde alterar os seus métodos de pagamento pela taxa associada a uma adesão à competência de prata ou ouro. Por exemplo, pode decidir usar um pagamento com cartão de crédito em vez de uma transferência bancária electrónica. Ou, pode já ter uma ordem de transferência bancária electrónica não acionada criada no sistema.
 
@@ -145,38 +168,32 @@ Para alterar as suas preferências de pagamento por uma encomenda existente, pri
 
 Faça o seguinte para cancelar uma transferência bancária electrónica existente e não acionada e alterar as suas preferências de pagamento:
 
-1. Inicie sessão no [dashboard](https://partner.microsoft.com/dashboard) do Centro de Parceiros.
+1. Inscreva-se no painel de [instrumentos](https://partner.microsoft.com/dashboard)do Centro de Parceiros, selecione o azulejo **de adesão** e, em seguida, selecione **ofertas de adesão**.
 
-2. **Selecione Ofertas** de Adesão a partir do menu de navegação à esquerda.
+2. Na lista de ofertas adquiridas, localize a oferta específica que pretende cancelar. Em seguida, sob a coluna Ação para essa oferta, selecione **Cancelar Encomenda**.
 
-3. Na lista de ofertas adquiridas, localize a oferta específica que pretende cancelar. Em seguida, sob a coluna Ação para essa oferta, selecione **Cancelar Encomenda**.
+3. Siga os passos restantes para cancelar a encomenda.
 
-   :::image type="content" source="images/offers/8-mpn-competency-payment-cancel-order.png" alt-text="A lista de ofertas de adesão comprada mostra a opção cancelar a encomenda." border="false":::
-
-4. Siga os passos restantes para cancelar a encomenda. 
-
-5. Consulte secções anteriores para criar uma nova ordem com novas preferências de pagamento, com base numa das ofertas de adesão de prata ou ouro ainda disponíveis para si.
+4. Consulte secções anteriores para criar uma nova ordem com novas preferências de pagamento, com base numa das ofertas de adesão de prata ou ouro ainda disponíveis para si.
 
 ## <a name="apply-upgrade-discount-when-moving-from-silver-to-gold"></a>Aplique desconto de upgrade ao passar de prata para ouro
 
 Se a sua organização tiver uma competência de prata ativa e tiver cumprido os requisitos de elegibilidade para a competência de ouro associada, você é elegível para fazer upgrade da prata para o ouro por um desconto. Receberá um desconto de 25% sobre o preço da competência do ouro.
 
-A nova Data do Aniversário do Ouro estará marcada para um ano a partir da data de compra. Receberá todos os benefícios do Ouro.
+A nova Data do Aniversário do Ouro estará marcada para um ano a partir da data de compra. Receberá todos os benefícios do ouro.
 
 > [!NOTE]
 > Existem algumas exceções a este desconto de upgrade. Se você tinha uma oferta de adesão silver, então usou o desconto de 25% de adesão gold para upgrade para uma oferta de membro Gold, você não será elegível para um reembolso de Prata. Isto é verdade mesmo que tenha pago a sua filiação silver no prazo de 30 dias e ainda não tenha usado os benefícios relacionados.
 
 Para ver onde é aplicado o seu desconto de 25%, faça o seguinte:
 
-1. Inicie sessão no [dashboard](https://partner.microsoft.com/dashboard) do Centro de Parceiros.
+1. Inscreva-se no painel de [instrumentos](https://partner.microsoft.com/dashboard)do Centro de Parceiros, selecione o azulejo **de adesão** e, em seguida, selecione **ofertas de adesão**.
 
-2. **Selecione Ofertas** de Adesão a partir do menu de navegação à esquerda.
+2. Ao abrigo das Ofertas disponíveis para compra, procure um azulejo de adesão Gold. Se já obteve e pagou por uma adesão à Silver, o valor da subscrição Gold será ajustado para refletir o desconto de 25%.
 
-3. Ao abrigo das Ofertas disponíveis para compra, procure um azulejo de adesão Gold. Se já obteve e pagou por uma adesão à Silver, o valor da subscrição Gold será ajustado para refletir o desconto de 25%.
+   :::image type="content" source="images/offers/9-mpn-competency-silver-to-gold-discount.png" alt-text="As ofertas de adesão compradas mostram oferta de azulejos dourados com prata a ouro 25% de desconto." border="false":::
 
-   :::image type="content" source="images/offers/9-mpn-competency-silver-to-gold-discount.png" alt-text="Ofertas de adesão compradas mostram oferta de azulejos dourados com prata para ouro 25% de desconto." border="false":::
-
-4. **Selecione Subscrever** dentro do azulejo de adesão Gold que reflete o desconto. A página de detalhes da sua compra também mostrará o desconto para a sua compra selecionada.
+3. **Selecione Subscrever** dentro do azulejo de adesão Gold que reflete o desconto. A página de detalhes da sua compra também mostrará o desconto para a sua compra selecionada.
 
    :::image type="content" source="images/offers/10-mpn-competency-silver-to-gold-discount-2.png" alt-text="A página de detalhes mostra oferta com 25% de desconto." border="false":::
 
@@ -184,4 +201,4 @@ Para ver onde é aplicado o seu desconto de 25%, faça o seguinte:
 
 ## <a name="next-steps"></a>Passos seguintes
 
-Saiba mais sobre [competências,](https://partner.microsoft.com/membership/competencies)seus benefícios e requisitos únicos
+Saiba mais sobre [competências,](https://partner.microsoft.com/membership/competencies)seus benefícios e requisitos únicos.

@@ -1,20 +1,20 @@
 ---
 title: Reforma dos Serviços de Planeamento de Garantia de Software
 ms.topic: article
-ms.date: 04/07/2021
+ms.date: 09/27/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-benefits
+ms.subservice: partnercenter-membership
 description: Os Serviços de Planeamento da Microsoft estão a ser reformados.
 author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 880a2db785f9e8f14093dd3bf1abae2a9c580ff0
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: e7aa4afd3bbdc33e3fd44c564c79ebf66dddffef
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123961310"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129075594"
 ---
 # <a name="software-assurance-planning-services-retirement"></a>Reforma dos Serviços de Planeamento de Garantia de Software
 
@@ -30,7 +30,7 @@ O benefício dos Serviços de Planeamento está a ser totalmente retirado dos be
 - 1 de janeiro de 2022: Último dia para os parceiros resgatar vouchers de Serviços de Planeamento. O parceiro terá 60 dias após o resgate para concluir o processo de pedido de pagamento.  
 
 >[!NOTE]
->Não há alteração no ciclo de vida do voucher. Uma vez criado um voucher/atribuído, a reserva de voucher, o envolvimento do cliente e o resgate do voucher devem ser concluídos no prazo de 180 dias antes da expiração do voucher.  Para obter mais informações sobre a reforma do programa De planeamento, consulte as PERGUNTAS Frequentes no site de alterações do [Software Assurance Benefit (SAB)](https://partner.microsoft.com/resources/collection/software-assurance-benefit-changes#/) (inscrição necessária).  Por favor, dirijo quaisquer perguntas à sua equipa regional de Apoio ao [Parceiro: Apoio ao Parceiro EMEA;](mailto:savoucher@msdirectservices.com) [Apoio geral ao parceiro](https://partner.microsoft.com/dashboard/support/servicerequests)
+>Não há alteração no ciclo de vida do voucher. Uma vez criado um voucher/atribuído, a reserva de voucher, o envolvimento do cliente e o resgate do voucher devem ser concluídos no prazo de 180 dias antes da expiração do voucher.  Para obter mais informações sobre a reforma do programa De planeamento, consulte as PERGUNTAS Frequentes no site de alterações ao benefício da garantia de [software (SAB)](https://partner.microsoft.com/resources/collection/software-assurance-benefit-changes#/) (inscrição obrigatória).  Por favor, dirijo quaisquer perguntas à sua equipa regional de Apoio ao Parceiro: [Apoio ao Parceiro EMEA;](mailto:savoucher@msdirectservices.com) [Apoio geral ao parceiro](https://partner.microsoft.com/dashboard/support/servicerequests)
 
 
 ### <a name="get-started"></a>Introdução
@@ -50,26 +50,43 @@ Este artigo explica como completar cada passo.
 
 ## <a name="verify-eligibility-new-partners"></a>Verificar elegibilidade (novos parceiros)
 
-Antes de empresas e consultores parceiros poderem inscrever-se numa das ofertas dos Serviços de Planeamento, devem satisfazer os requisitos de competência, da seguinte forma:
+Antes de empresas e consultores parceiros poderem inscrever-se numa das ofertas de Serviços de Planeamento, devem satisfazer os requisitos de competência, da seguinte forma:
 
 **Requisitos de competência.** Os requisitos de competência são específicos para o noivado a ser entregue. Por exemplo, a sua empresa pode estar inscrita na oferta de Desktop Deployment Planning Services (DDPS). No entanto, só poderá realizar um compromisso específico dentro da oferta do DDPS se a sua empresa também detém uma competência qualificada para esse compromisso específico.
 
->[!NOTE]
+> [!NOTE]
 > Para saber mais sobre os requisitos de elegibilidade para compromissos específicos, consulte [os requisitos de elegibilidade para compromissos de Serviços de Planeamento.](software-assurance-dps-requirements.md)
 
 Para ajudar a verificar a elegibilidade da sua empresa para se inscrever num compromisso específico dos Serviços de Planeamento:
 
-1. Inscreva-se no painel do Centro [de Parceiros](https://partner.microsoft.com/dashboard/home).
+> [!NOTE]
+> A interface de pré-visualização do Partner Center proporciona-lhe uma experiência de utilizador mais eficiente e produtiva através de espaços de trabalho agrupados logicamente. Para saber mais sobre a interface dos espaços de trabalho e como ligá-lo, consulte [Getting around Partner Center](get-around-partner-center.md#turn-workspaces-on-and-off).
+
+#### <a name="workspaces-view"></a>[Vista de espaços de trabalho](#tab/workspaces-view)
+
+1. Inicie sessão no [dashboard do Centro de Parceiros](https://partner.microsoft.com/dashboard/home).
+
+2. Selecione o azulejo **de adesão** e, em seguida, selecione **a inscrição de garantia de software**.
+
+3. Selecione o separador **de inscrição** do programa De planeamento no topo da página. Verá uma marca de verificação verde ao lado de quaisquer requisitos ou competências que já tenha cumprido.
+
+#### <a name="current-view"></a>[Vista atual](#tab/current-view)
+
+1. Inicie sessão no [dashboard do Centro de Parceiros](https://partner.microsoft.com/dashboard/home).
+
 2. Selecione **MPN** no menu e, em seguida, selecione **Programas**.
+
 3. Selecione **a inscrição de garantia de software**.
+
 4. Selecione o separador **de inscrição** do programa De planeamento no topo da página. Verá uma marca de verificação verde ao lado de quaisquer requisitos ou competências que já tenha cumprido.
+
+* * *
 
 ## <a name="enroll-new-partners"></a>Inscreva-se (novos parceiros)
 
-Depois de a sua empresa cumprir os requisitos de elegibilidade, está pronto para assinar o contrato do programa Software Assurance Planning Services e inscrever-se numa ou mais ofertas de programas.
+Depois de a sua empresa cumprir os requisitos de elegibilidade, está pronto para assinar o contrato de programa de Software Assurance Planning Services e inscrever-se numa ou mais ofertas de programas.
 
-Em primeiro lugar, certifique-se de rever todas as [políticas do programa de Serviços de Planeamento.](https://go.microsoft.com/fwlink/?linkid=2115984) Em seguida, siga as instruções no [passo 2](https://go.microsoft.com/fwlink/?linkid=2115983) do fluxo de trabalho para concluir o processo de inscrição dos Serviços de Planeamento no Centro de Parceiros.
-
+Em primeiro lugar, certifique-se de rever todas as [políticas do programa de Serviços de Planeamento](https://go.microsoft.com/fwlink/?linkid=2115984). Em seguida, siga as instruções no [passo 2](https://go.microsoft.com/fwlink/?linkid=2115983) do fluxo de trabalho para concluir o processo de inscrição dos Serviços de Planeamento no Centro de Parceiros.
 
 ## <a name="create-or-update-your-companys-business-profile-new-partners"></a>Crie ou atualize o perfil de negócio da sua empresa (novos parceiros)
 
@@ -80,9 +97,10 @@ Maximize a sua exposição a potenciais clientes. Siga [as instruções e orient
 Antes de iniciar um compromisso com os Serviços de Planeamento, o seu cliente deve tomar as seguintes ações:
 
 1. Os clientes devem primeiro ativar o seu benefício dos Serviços de Planeamento.
+
 2. Os clientes devem então criar um voucher de Serviços de Planeamento e atribuí-lo a um gestor de projeto na sua empresa.
 
-Para instruções detalhadas, o cliente deve tomar para criar o voucher e atribuí-lo a si, consulte o [passo 4](https://go.microsoft.com/fwlink/?linkid=2115983) do fluxo de trabalho. Para uma visão geral da experiência do cliente, consulte o [Centro de Garantia de Software do Centro de Licenciamento de Volume (VLSC).](https://download.microsoft.com/download/A/7/D/A7D04694-1B1E-4B18-918F-0EDCD43BA2E5/VLSC-Software-Assurance-Guide_en-US.pdf)
+Para instruções detalhadas, o cliente deve tomar para criar o voucher e atribuí-lo a si, consulte o [passo 4](https://go.microsoft.com/fwlink/?linkid=2115983) do fluxo de trabalho. Para uma visão geral da experiência do cliente, consulte o Centro de Assistência ao Licenciamento de [Volume (VLSC) Software Assurance Guide](https://download.microsoft.com/download/A/7/D/A7D04694-1B1E-4B18-918F-0EDCD43BA2E5/VLSC-Software-Assurance-Guide_en-US.pdf).
 
 ## <a name="validate-and-reserve-voucher-existing-partners"></a>Validar e reservar voucher (parceiros existentes)
 
@@ -100,7 +118,7 @@ Para obter orientações detalhadas, consulte [o passo 6](https://go.microsoft.c
 
 ## <a name="redeem-voucher"></a>Voucher redentor
 
-Antes de poder faturar a Microsoft pelo noivado entregue, tem primeiro de resgatar o seu voucher. Para passos detalhados, consulte [o passo 7](https://go.microsoft.com/fwlink/?linkid=2115983) do fluxo de trabalho.
+Antes de poder faturar a Microsoft pelo noivado entregue, tem primeiro de resgatar o seu voucher. Para etapas detalhadas, consulte [o passo 7](https://go.microsoft.com/fwlink/?linkid=2115983) do fluxo de trabalho.
 
 ## <a name="request-payment-from-microsoft-existing-partners"></a>Pedido de pagamento da Microsoft (parceiros existentes)
 

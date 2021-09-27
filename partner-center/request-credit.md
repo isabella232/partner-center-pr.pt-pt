@@ -1,7 +1,7 @@
 ---
 title: Solicite um crédito à Microsoft
 ms.topic: article
-ms.date: 03/31/2021
+ms.date: 09/27/2021
 description: Conheça os benefícios, restrições e procedimentos para solicitar um crédito à Microsoft.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-billing
@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 0521c7fde81663b9eb7cd89344ee2432e8a1ea31
-ms.sourcegitcommit: fb9ca808f6362e81d65a6ba5770dc8820834a0ed
+ms.openlocfilehash: fd77aa8e6dbd9536d1e8aed528ddb37f2749f99f
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "128369377"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129071108"
 ---
 # <a name="how-and-when-to-request-a-credit-from-microsoft"></a>Como e quando solicitar um crédito à Microsoft
 
@@ -42,20 +42,39 @@ Os pedidos de crédito são aceites apenas por fornecedores diretos e indiretos 
 
 **Para solicitar um crédito:**
 
+#### <a name="workspaces-view"></a>[Vista de espaços de trabalho](#tab/workspaces-view)
+
+1. Faça o download e preencha o [Formulário de Pedido de Crédito ou Reembolso.](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3eWCb) (Note que a seleção do link anterior descarrega o formulário diretamente para o seu computador.)
+
+2. Inscreva-se no [painel de instrumentos do Centro de Parceiros,](https://partner.microsoft.com/dashboard)selecione o ícone do ponto de interrogação (?), e depois selecione **o suporte De Ajuda +**.
+
+3. Selecione **novo pedido**.
+
+4. **Selecione Procurar Tópicos** e selecionar **Categoria** = CSP, **Tópico** = Faturação e Faturação, e **Subtópico** = Pedidos de crédito e reembolsos.
+
+5. Na página **de soluções recomendadas,** em  **que precisa de mais ajuda?**
+
+6. Na página **Detalhes,** preencha a secção **de detalhes do 'Emissão'.** Na caixa de texto **Details,** certifique-se de introduzir as informações necessárias descritas no **Formulário pedido de Crédito** ou **Reembolso.**
+
+7. Selecione **Submeter**.
+
+#### <a name="current-view"></a>[Vista atual](#tab/current-view)
+
 1. Faça o download e preencha o [*Formulário de Pedido de Crédito ou Reembolso.*](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3eWCb) (Note que a seleção do link anterior descarrega o formulário diretamente para o seu computador.)
 
-1. Inicie sessão no dashboard do Centro de Parceiros.
+2. Inscreva-se no [painel de instrumentos do Centro de Parceiros](https://partner.microsoft.com/dashboard) e selecione **pedidos de serviço.**
 
-1. No menu da esquerda, escolha **Suporte Help +**.
+3. Selecione **novo pedido**.
 
-1. Selecione **novo pedido**.
+4. **Selecione Procurar Tópicos** e selecionar **Categoria** = CSP, **Tópico** = Faturação e Faturação, e **Subtópico** = Pedidos de crédito e reembolsos.
 
-1. **Selecione Procurar Tópicos** e selecionar **Categoria** = CSP, **Tópico** = Faturação e Faturação, e **Subtópico** = Pedidos de crédito e reembolsos.
+5. Na página **de soluções recomendadas,** em  **que precisa de mais ajuda?**
 
-1. Na página **de soluções recomendadas,** em  **que precisa de mais ajuda?**
+6. Na página **Detalhes,** preencha a secção **de detalhes do 'Emissão'.** Na caixa de texto **Details,** introduza as informações requeridas descritas no **Formulário pedido de Crédito** ou **Reembolso.**
 
-1. Na página **Detalhes,** preencha a secção **de detalhes do 'Emissão'.** Na caixa de texto **Details,** certifique-se de introduzir as [informações necessárias descritas](#required-information) no Formulário pedido de Crédito ou Reembolso.
-1. Selecione **Submeter**.
+7. Selecione **Submeter**.
+
+* * *
 
 ## <a name="types-of-credits"></a>Tipos de créditos
 
@@ -63,6 +82,38 @@ Esta secção descreve alguns dos créditos que pode solicitar.
 
 ### <a name="accidental-purchase-credit"></a>Crédito de compra acidental
 
+> [!NOTE]
+> A interface de pré-visualização do Partner Center proporciona-lhe uma experiência de utilizador mais eficiente e produtiva através de espaços de trabalho agrupados logicamente. Para saber mais sobre a interface dos espaços de trabalho e como ligá-lo, consulte [Getting around Partner Center](get-around-partner-center.md#turn-workspaces-on-and-off).
+
+#### <a name="workspaces-view"></a>[Vista de espaços de trabalho](#tab/workspaces-view)
+
+1. Inicie sessão no [dashboard do Centro de Parceiros](https://partner.microsoft.com/dashboard).
+
+2. Selecione o ícone do ponto de interrogação (?), em **seguida, Help + Support,** em seguida, selecione **Novo pedido**.
+
+3. Na página **Iniciar o pedido,** encontre a secção **CSP - clientes, encomendas e subscrições**. Nesta secção, escolha **Selecionar um tipo de problema,** em seguida, selecione os pedidos de **crédito dos serviços ao cliente.**
+
+4. Na página **de soluções Recomendadas,** em Que precisa de **mais ajuda?**
+
+5. Na página **Detalhes,** preencha a secção **de detalhes do 'Emissão'.** Na caixa de texto **Details,** certifique-se de inserir as informações necessárias que recolheu anteriormente.
+
+6. Escolha **Enviar** para enviar o seu pedido de crédito SLA.
+
+#### <a name="current-view"></a>[Vista atual](#tab/current-view)
+
+1. Inicie sessão no [dashboard do Centro de Parceiros](https://partner.microsoft.com/dashboard).
+
+2. No menu à esquerda, escolha **pedidos** de Serviço e, em seguida, selecione **pedidos de apoio ao parceiro**.
+
+3. Na página de pedido do **Parceiro,** escolha **Novo pedido.**
+
+4. Na página **Iniciar o pedido,** encontre a secção **CSP - clientes, encomendas e subscrições**. Nesta secção, escolha **Selecionar um tipo de problema,** em seguida, selecione os pedidos de **crédito dos serviços ao cliente.**
+
+5. Na página **de soluções Recomendadas,** em Que precisa de **mais ajuda?**
+
+6. Na página **Detalhes,** preencha a secção **de detalhes do 'Emissão'.** Na caixa de texto **Details,** certifique-se de inserir as informações necessárias que recolheu anteriormente.
+
+7. Escolha **Enviar** para enviar o seu pedido de crédito SLA.
 Para pedidos de crédito para ofertas antigas de Microsoft 365 ou Microsoft Dynamics 365 (por exemplo, quando o número de licenças foi aumentado acidentalmente ou o produto errado foi comprado):
 
 - Cancelamentos de subscrições no prazo de 30 dias após a compra são reembolsados 100% sem necessidade de criar um pedido de serviço. O crédito aparece no ficheiro fatura/reconciliação emitido após a suspensão da subscrição.
@@ -72,6 +123,8 @@ Para pedidos de crédito para ofertas antigas de Microsoft 365 ou Microsoft Dyna
   - A Microsoft Power BI Premium P1:Um pedido deve ser submetido no prazo de **sete dias** para reembolso de 100%. Após sete dias, os custos fixos são deduzidos do crédito.
 
   - Microsoft 365 A1: O crédito total só é fornecido se o pedido for apresentado no prazo de **30** **dias** após a compra e nenhum utilizadores for atribuído à subscrição. Não são emitidos reembolsos após 30 dias de compra.
+
+* * *
 
 ### <a name="duplicate-orders-credit"></a>Crédito de Encomendas Duplicadas
 

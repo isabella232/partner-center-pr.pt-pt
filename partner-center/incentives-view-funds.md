@@ -1,19 +1,19 @@
 ---
 title: Ver fundos de co-op disponíveis
 ms.topic: article
-ms.date: 08/10/2021
+ms.date: 09/27/2021
 description: Saiba como ver os seus fundos de cooperação ganhos, reclamados e restantes, ver datas de validade e conciliar montantes inconsistentes.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 6f70a4a30346c6ef82e36c414559da6e79a373e0
-ms.sourcegitcommit: 847ad384d44a5a673791cb2950af02225d8174c9
+ms.openlocfilehash: f66871639256484bfe7d1a2221acbf11313ac39b
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/17/2021
-ms.locfileid: "127906354"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129074869"
 ---
 # <a name="view-available-earned-claimed-and-remaining-co-op-funds"></a>Ver disponíveis ganhos, reclamados e restantes fundos de cooperação
 
@@ -23,7 +23,28 @@ Pode rastrear, monitorizar e conciliar os seus fundos de cooperação de incenti
 
 ## <a name="view-your-funds"></a>Ver os seus fundos
 
-1. Inscreva-se no painel partner [Center](https://partner.microsoft.com/dashboard/) com a sua conta AZure AD (conta da empresa) ou o e-mail apropriado para o seu papel de incentivo.
+> [!NOTE]
+> A interface de pré-visualização do Partner Center proporciona-lhe uma experiência de utilizador mais eficiente e produtiva através de espaços de trabalho agrupados logicamente. Para saber mais sobre a interface dos espaços de trabalho e como ligá-lo, consulte [Getting around Partner Center](get-around-partner-center.md#turn-workspaces-on-and-off).
+
+#### <a name="workspaces-view"></a>[Vista de espaços de trabalho](#tab/workspaces-view)
+
+1. Inscreva-se no painel do [Centro de Parceiros](https://partner.microsoft.com/dashboard/) e selecione o azulejo **Incentives.**
+
+2. Selecione **Programa,** em seguida, selecione o programa de incentivos apropriado da lista de programas expandidos.
+
+3. No topo da página do programa, selecione **'Ver' alegações**.
+
+4. No dropdown acima do azulejo **reivindicado co-op,** selecione o período de utilização que deseja ver. Isto mostrará os valores para **Co-op ganhos,** **Co-op reclamado**, e **Restante cooperativa** para o período selecionado.
+
+5. A data de validade do período selecionado aparece abaixo do **visor restante da cooperativa.**  
+
+6. Para visualizar todas as reclamações submetidas para o período selecionado, percorra para a parte inferior da página.
+
+Se você acredita que existem discrepâncias nos valores apresentados no resumo, você pode baixar o relatório de transação do período anterior. Este relatório irá ajudá-lo a determinar a quantidade de fundos cooperativos obtidos para o período de utilização selecionado. Para descarregar relatórios de transações ou validar reclamações submetidas para garantir que o valor da cooperativa restante é exato, consulte o [histórico de Transações](./payout-statement.md#transaction-history).
+
+#### <a name="current-view"></a>[Vista atual](#tab/current-view)
+
+1. Inscreva-se no painel do [Partner Center](https://partner.microsoft.com/dashboard/) com a sua conta AZure AD (conta da empresa) ou o e-mail apropriado para o seu papel de incentivo.
 
 2. Na barra de navegação da mão esquerda, selecione **Programas** e, em seguida, selecione o programa de incentivo apropriado da lista de programas expandidos.
 
@@ -36,6 +57,8 @@ Pode rastrear, monitorizar e conciliar os seus fundos de cooperação de incenti
 6. Para visualizar todas as reclamações submetidas para o período selecionado, percorra para a parte inferior da página.
 
 Se você acredita que existem discrepâncias nos valores apresentados no resumo, você pode baixar o relatório de transação do período anterior. Este relatório irá ajudá-lo a determinar a quantidade de fundos cooperativos obtidos para o período de utilização selecionado. Para descarregar relatórios de transações ou validar reclamações submetidas para garantir que o valor da cooperativa restante é exato, consulte o [histórico de Transações](./payout-statement.md#transaction-history).
+
+* * *
 
 ## <a name="view-estimated-earnings-during-the-current-period"></a>Ver resultados estimados durante o período em curso
 Os ganhos de cooperação para o período de ganhos em curso só são visíveis na visão de Gestão cooperativa após o início do período de reclamação para o período de ganhos em curso. Para ver os seus ganhos de cooperativa estimados para o período de ganhos em curso, utilize o seguinte procedimento:

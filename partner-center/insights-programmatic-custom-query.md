@@ -4,16 +4,16 @@ description: Saiba como criar consultas personalizadas para extrair dados de tab
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
-author: shganesh-dev
-ms.author: shganesh
+author: kshitishsahoo
+ms.author: ksahoo
 ms.localizationpriority: medium
 ms.date: 07/14/2021
-ms.openlocfilehash: 636d2eba7d259ae5e4525100b8d26e25ff031f48
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: 2bf688e5068c1a88d0c5d1b6e7da7c94f8a4e7e8
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960849"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129073403"
 ---
 # <a name="custom-query-specification"></a>Especificação de consulta personalizada
 
@@ -21,7 +21,7 @@ Os parceiros podem usar esta especificação de consulta para formular facilment
 
 ## <a name="datasets"></a>Conjuntos de dados
 
-Da mesma forma que algumas consultas são executadas contra uma base de dados que tem tabelas e colunas, uma consulta personalizada funciona em Datasets que têm colunas e métricas. A lista completa dos conjuntos de dados disponíveis para formular uma consulta pode ser obtida utilizando a API dos conjuntos de dados.
+Da mesma forma que algumas consultas são executadas contra uma base de dados que tem tabelas e colunas, uma consulta personalizada funciona em Conjuntos de Dados que têm colunas e métricas. A lista completa dos conjuntos de dados disponíveis para formular uma consulta pode ser obtida utilizando a API dos conjuntos de dados.
 
 Este é um exemplo de um conjunto de dados mostrado como um JSON:
 
@@ -71,11 +71,11 @@ Este é um exemplo de um conjunto de dados mostrado como um JSON:
 
 Estas são algumas consultas de amostra que mostram como extrair vários tipos de dados.
 
-|Consulta|    Description    |
+|Consulta|    Descrição    |
 |----|    ----    |
 |**SELECIONE** CustomerTenantId, Unidades Disponíveis Pagas **DE** <br>OfficeUsage **TIMESPAN** LAST_MONTH|    Esta consulta receberá todos os CusotmerTenantID e as respetivas Unidades Pagas Disponíveis no último 1 mês.    |
-|**SELECIONE** CustomerTenantId, Unidades Disponíveis Pagas **DE** <br>Ordem de **ServiçoSUsage** BY PayAvailableUns **LIMIT** 10|    Esta consulta irá obter os 10 melhores inquilinos clientes em ordem decrescente do número de unidades disponíveis pagas.     |
-|**SELECIONE** CustomerTenantId, PayAvailableUnits, MonthlyActiveUsers **FROM** OfficeUsage **WHERE** MonthlyActiveUsers > 100000 **ORDER BY** MonthlyActiveUsers **TIMESPAN** LAST_6_MONTHS |    Esta consulta receberá os Serviços PayAvailableUnits e MensaisActiveUsers de todos os Clientes que tenham MensalmenteActiveUsers superiores a 100.000.     |
+|**SELECIONE** CustomerTenantId, Unidades Disponíveis Pagas **DE** <br>Ordem de **Serviços POR** Serviços Pagos **Limite** 10|    Esta consulta irá obter os 10 melhores inquilinos clientes na ordem decrescente do número de unidades disponíveis pagas.     |
+|**SELECIONE** CustomerTenantId,AvailableUnits Pagos, MensalmenteActiveUsers **FROM** OfficeUsage **WHERE** MonthlyActiveUsers > 100000 **ORDER BY** MonthlyActiveUsers **TIMESPAN** LAST_6_MONTHS |    Esta consulta receberá os Serviços PayAvailableUnits e MensaisActiveUsers de todos os Clientes que tenham MensalmenteActiveUsers superiores a 100.000.     |
 |**SELECIONE** CustomerTenantId, Mês, MensalActiveUsers **FROM** <br>OfficeUsage **WHERE** CustomerTpId IN ('2a31c234-1f4e-4c60-909e-76d234f93161', '80780748-3f9a-11eb-b378-0242ac130002') |    Esta consulta irá obter o CustomerTenantId e os utilizadores ativos mensais por cada mês pelos dois valores Do ClienteTpIde: '2a31c234-1f4e-4c60-909e-76d234f93161' e '80780748-3f9a-11eb-b378-0242ac130002'.     |
 |        |        |
 
@@ -87,7 +87,7 @@ Esta secção descreve a definição e estrutura da consulta.
 
 Esta tabela descreve os símbolos usados nas consultas.
 
-|    Consulta    |    Description    |
+|    Consulta    |    Descrição    |
 |    ----    |    ----    |
 |    `?`    |    Opcional    |
 |    `*`    |    Zero ou mais    |
@@ -104,7 +104,7 @@ A declaração de consulta tem as seguintes cláusulas: SelectClause, FromClause
 - **FromClause:**`FROM DatasetName`
     - **DatasetName**: Nome do conjunto de dados definido no Conjunto de Dados
 - **Onde aClause:**`WHERE FilterCondition (AND FilterCondition)`
-    - **FiltragemCondição**: Valor do operador columormétrico
+    - **FiltragemCondição**: Valor do operador columOrMetricName
         - **Operador:**`=` | `>` | `<` | `>=` | `<=` | `!=` | `LIKE` | `NOT LIKE` | `IN` | `NOT IN`
         - **Valor**: Número | | De CordasLiteral | MultiNumberList MultiStringList
             - **Número:**`-? [0-9]+ (. [0-9] [0-9]*)?`
@@ -130,7 +130,7 @@ Cada parte é descrita abaixo.
 
 ### `SELECT`
 
-Esta parte da consulta especifica as colunas que serão exportadas. As colunas que podem ser selecionadas são os campos listados em *coalunos selecionáveis* e secções *métricas disponíveis* de um conjunto de dados.
+Esta parte da consulta especifica as colunas que serão exportadas. As colunas que podem ser selecionadas são os campos listados em *coalunos selecionados* e secções *métricas disponíveis* de um conjunto de dados.
 
 Opcionalmente, `DISTINCT` a palavra-chave pode ser especificada depois `SELECT` . Se `DISTINCT` for especificado, as linhas exportadas finais contêm sempre valores distintos das colunas selecionadas. As métricas serão calculadas para cada combinação distinta das colunas selecionadas, pelo que `DISTINCT` a palavra-chave não é necessária quando uma coluna métrica é incluída na lista de colunas selecionadas.
 
@@ -152,7 +152,7 @@ Esta parte da consulta indica o conjunto de dados a partir do qual os dados deve
 
 ### `WHERE`
 
-Esta parte da consulta é utilizada para especificar as condições do filtro no conjunto de dados. Apenas as linhas correspondentes a todas as condições enumeradas nesta cláusula estarão presentes no ficheiro final exportado. A condição do filtro pode estar em qualquer uma das colunas listadas em *coalunos selecionados* e *disponíveisMetricagens*. Os valores especificados na condição do filtro podem ser uma lista de números ou uma lista de cordas apenas quando o operador estiver `IN` ou `NOT IN` . Os valores podem sempre ser dados como uma corda literal e serão convertidos para os tipos nativos de colunas. As várias condições do filtro devem ser separadas com uma operação E.
+Esta parte da consulta é utilizada para especificar as condições do filtro no conjunto de dados. Apenas as linhas correspondentes a todas as condições enumeradas nesta cláusula estarão presentes no ficheiro final exportado. A condição do filtro pode estar em qualquer uma das colunas listadas em *Columns selecionados* e *disponíveisMetricagens*. Os valores especificados na condição do filtro podem ser uma lista de números ou uma lista de cordas apenas quando o operador estiver `IN` ou `NOT IN` . Os valores podem sempre ser dados como uma corda literal e serão convertidos para os tipos nativos de colunas. As várias condições do filtro devem ser separadas com uma operação E.
 
 **Exemplo:**
 
@@ -164,7 +164,7 @@ Esta parte da consulta é utilizada para especificar as condições do filtro no
 
 ### `ORDER BY`
 
-Esta parte da consulta especifica os critérios de encomenda das linhas exportadas. As colunas sobre as quais a encomenda pode ser definida devem ser provenientes dos *alunos selecionados* e *disponíveisMetricagens* do conjunto de dados. Se não houver uma direção de encomenda especificada, será incumprida para o DESC na coluna. A encomenda pode ser definida em várias colunas separando os critérios com uma vírgula.
+Esta parte da consulta especifica os critérios de encomenda das linhas exportadas. As colunas sobre as quais o pedido pode ser definido devem ser provenientes dos *alunos selecionados* e *disponíveisMetricagens* do conjunto de dados. Se não houver uma direção de encomenda especificada, será incumprida para o DESC na coluna. A encomenda pode ser definida em várias colunas separando os critérios com uma vírgula.
 
 **Exemplo:**
 

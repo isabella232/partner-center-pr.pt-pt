@@ -1,20 +1,20 @@
 ---
 title: Indicadores de contribuição dos parceiros - CBA
 ms.topic: article
-ms.date: 09/15/2021
+ms.date: 09/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
 description: Saiba mais sobre sete Indicadores de Contribuição de Parceiros (PCI) que mostram aos parceiros como alcançar uma competência de cloud Business Applications prateada ou dourada.
-author: shganesh-dev
-ms.author: shganesh
+author: kshitishsahoo
+ms.author: ksahoo
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 513fe0a81c9b29c9cc3a0d70026634e5d7915899
-ms.sourcegitcommit: fceaca54b0ec695cf214209c09b4516e1b40866a
+ms.openlocfilehash: aa22a5c549b226d54dc27fcb890fec41d82d7b36
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/23/2021
-ms.locfileid: "128322140"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129074389"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-cloud-business-applications-competency"></a>Utilizar Indicadores de Contribuição de Parceiros para obter a competência Business Applications da Cloud
 
@@ -376,6 +376,26 @@ Esta secção descreve como aceder aos Indicadores de Contribuição dos Parceir
 
 Para ver os gráficos e progressos dos indicadores de contribuição dos seus parceiros, siga estes passos:
 
+> [!NOTE]
+> A interface de pré-visualização do Partner Center proporciona-lhe uma experiência de utilizador mais eficiente e produtiva através de espaços de trabalho agrupados logicamente. Para saber mais sobre a interface dos espaços de trabalho e como ligá-lo, consulte [Getting around Partner Center](get-around-partner-center.md#turn-workspaces-on-and-off).
+
+#### <a name="workspaces-view"></a>[Vista de espaços de trabalho](#tab/workspaces-view)
+
+1. Inicie sessão no [dashboard](https://partner.microsoft.com/dashboard) do Centro de Parceiros.
+
+2. Selecione o **azulejo Informações** e, em seguida, selecione **Indicadores de Contribuição de Parceiros**.
+
+   Deve consultar o painel de indicadores de contribuição do parceiro com gráficos associados.
+
+   :::image type="content" source="images/insights/howto.png" alt-text="Como ler a ficha.":::
+
+   > [!NOTE]
+   > Se não encontrar a opção **Indicadores de Contribuição do Parceiro,** poderá não ter a função de utilizador adequada atribuída no Centro de Parceiros. Contacte o seu administrador partner Center Global ou mpn para obter ajuda.
+
+Para obter mais informações sobre a utilização desta área, consulte a recolha de recursos e vídeos encontrados no final deste artigo.
+
+#### <a name="current-view"></a>[Vista atual](#tab/current-view)
+
 1. Inicie sessão no [dashboard](https://partner.microsoft.com/dashboard) do Centro de Parceiros.
 
 2. Selecione **CSP** no menu de navegação e, em seguida, selecione **Indicadores de Contribuição de Parceiros**. 
@@ -388,6 +408,8 @@ Para ver os gráficos e progressos dos indicadores de contribuição dos seus pa
    > Se não vir estas opções, tente selecionar **MPN** do menu, seguido de **Indicadores de Contribuição do Parceiro**. Se ainda não conseguir encontrar estas opções, poderá não ter a função de utilizador adequada atribuída no Partner Center. Contacte o seu administrador partner Center Global ou mpn para obter ajuda.
 
 Para obter mais informações sobre a utilização desta área, consulte a recolha de recursos e vídeos encontrados no final deste artigo.
+
+* * *
 
 ## <a name="next-steps"></a>Passos seguintes
 

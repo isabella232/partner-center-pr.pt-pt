@@ -1,7 +1,7 @@
 ---
 title: Sell software subscriptions through CSP (Vender subscrições de software através do CSP)
 ms.topic: how-to
-ms.date: 03/08/2021
+ms.date: 09/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-pricing
 description: Saiba como os parceiros no programa CSP podem usar o Partner Center para comprar, gerir, vender e cancelar instâncias reservadas do Azure e subscrições do Servidor para os clientes.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3123313525fb245db2abbe3175cd820b53c41898
-ms.sourcegitcommit: fb9ca808f6362e81d65a6ba5770dc8820834a0ed
+ms.openlocfilehash: fcd446cf38ee9e84122f59ece2db22c7e6129f83
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "128422422"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129073839"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Vender subscrições de software através do programa Fornecedor de Soluções em Nuvem (CSP)
 
@@ -77,20 +77,35 @@ O Azure Hybrid Benefit ajuda-o a obter mais valor das licenças do seu Windows S
 
 Para comprar subscrições de software em nome de um cliente:
 
-1. Inscreva-se no painel do Centro [de Parceiros.](https://partner.microsoft.com/dashboard)
+> [!NOTE]
+> A interface de pré-visualização do Partner Center proporciona-lhe uma experiência de utilizador mais eficiente e produtiva através de espaços de trabalho agrupados logicamente. Para saber mais sobre a interface dos espaços de trabalho e como ligá-lo, consulte [Getting around Partner Center](get-around-partner-center.md#turn-workspaces-on-and-off).
+
+#### <a name="workspaces-view"></a>[Vista de espaços de trabalho](#tab/workspaces-view)
+
+1. Inscreva-se no [painel do Centro de Parceiros](https://partner.microsoft.com/dashboard) e selecione o azulejo do **Cliente.**
+
+2. Escolha um cliente da lista.
+
+3. Na página de detalhes do cliente, selecione **Adicionar produtos** e, em seguida, siga as instruções no ecrã para criar e pagar a sua encomenda. Todos os preços comerciais excluem o imposto, exceto a Austrália e o Brasil. Para a Austrália e o Brasil, o preço inclui impostos.
+
+#### <a name="current-view"></a>[Vista atual](#tab/current-view)
+
+1. Inicie sessão no [dashboard do Centro de Parceiros](https://partner.microsoft.com/dashboard).
 
 2. A partir do menu Partner Center, selecione **Clientes,** em seguida, escolha um cliente da lista.
 
 3. Na página de detalhes do cliente, selecione **Adicionar produtos** e, em seguida, siga as instruções no ecrã para criar e pagar a sua encomenda. Todos os preços comerciais excluem o imposto, exceto a Austrália e o Brasil. Para a Austrália e o Brasil, o preço inclui impostos.
 
+* * *
+
 ## <a name="activate-and-manage-software-subscriptions"></a>Activate and manage software subscriptions (Ativar e gerir subscrições de software)
 
 Depois de ter adquirido o seu software, você ou os seus clientes precisam descarregá-lo (parceiros usando Partner Center; clientes que usam o Centro de Administração Microsoft 365). Utilize o seguinte procedimento para o fazer. É importante compreender os riscos associados à cópia de links e ao descarregamento de software. Para obter mais informações, consulte **o Use Partner Center para obter transferências de software de clientes e chaves de licença** no Guia de Operações do Centro [Parceiro.](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf)
 
->[!NOTE]
->Você deve ser um agente de administração no Partner Center para obter o link para chaves e downloads.
+> [!NOTE]
+> Você deve ser um agente de administração no Partner Center para obter o link para chaves e downloads.
 
-1. Aceda à página de detalhes do seu cliente e, em seguida, selecione **Software**. Verá uma lista de todo o software que comprou em nome do cliente.
+1. A partir da página de detalhes do seu cliente e, em seguida, selecione **Software**. Verá uma lista de todo o software que comprou em nome do cliente.
 
 2. Escolha **a versão do** produto, **idioma,** **bit**, e selecione Obter chaves **e downloads**. 
 
@@ -102,8 +117,8 @@ Depois de ter adquirido o seu software, você ou os seus clientes precisam desca
 
 6. Também pode **cancelar** a encomenda de software e receber 100% de crédito (se for feito dentro do período de 30 dias de política de cancelamento).
 
->[!NOTE]
->Apenas os clientes têm acesso para ver as chaves do produto e descarregar informações no Administração Microsoft 365 Center (função global de administração necessária). Os parceiros devem usar o Partner Center para ver esta informação.
+> [!NOTE]
+> Apenas os clientes têm acesso para ver as chaves do produto e descarregar informações no Administração Microsoft 365 Center (função global de administração necessária). Os parceiros devem usar o Partner Center para ver esta informação.
 
 > [!NOTE]
 > As compras de CSP são ativadas através de uma chave de ativação múltipla (MAK). Serviço de Gestão de Chaves chaves (KMS) não são permitidas, mesmo mediante pedido. 
@@ -124,28 +139,31 @@ Os seus clientes poderão obter chaves de licença de subscrição de servidor C
 
 Para efeitos de auditoria ou conformidade, poderá ter de verificar uma lista de utilizadores que acederam às chaves do software de subscrição do Server ou descarregaram o software de subscrição do Server. Utilize o procedimento abaixo para aceder a esta informação. 
 
->[!NOTE]
->Você deve ser um administrador global, administrador de conta, administração de referência ou administrador de conteúdo de marketing para ver estes registos de atividade. 
+> [!NOTE]
+> Você deve ser um administrador global, administrador de conta, administração de referência ou administrador de conteúdo de marketing para ver estes registos de atividade.
 
 1. Inscreva-se no painel do Centro [de Parceiros.](https://partner.microsoft.com/dashboard)
 
-2. Selecione o ícone de engrenagem a partir do canto superior direito.
+2. Selecione o ícone de engrenagem Definições e, em seguida, **Definições conta** e, em seguida, selecione registo **de atividade**.
 
-3. No menu, selecione **Registo de Atividades**.
-
-4. Insira o intervalo de datas para a atividade que deseja ver. O registo de atividade apresentará uma lista de utilizadores que acederam a chaves de software ou descarregaram software durante o tempo especificado. 
+3. Insira o intervalo de datas para a atividade que deseja ver. O registo de atividade apresentará uma lista de utilizadores que acederam a chaves de software ou descarregaram software durante o tempo especificado.
 
 ## <a name="cancel-a-purchase"></a>Cancelar uma compra
 
-Pode cancelar uma compra de software no prazo de 30 dias a contar da data de compra. Se cancelar neste primeiro período de 30 dias, não lhe será cobrada uma taxa de rescisão antecipada. Após 30 dias, não pode mais cancelar uma compra. (Ver Nota para as principais restrições a esta regra de cancelamento. Para saber o que acontece depois de cancelar uma compra de software, consulte também nota importante após estes passos.) 
+Pode cancelar uma compra de software no prazo de 30 dias a contar da data de compra. Se cancelar neste primeiro período de 30 dias, não lhe será cobrada uma taxa de rescisão antecipada. Após 30 dias, não pode mais cancelar uma compra. (Ver Nota para as principais restrições a esta regra de cancelamento. Para saber o que acontece depois de cancelar uma compra de software, consulte também nota importante após estes passos.)
 
->[!NOTE]
->As seguintes medidas para cancelar uma compra aplicam-se apenas a um software que se qualifique para cancelamento dentro de uma janela de cancelamento específica, como nos primeiros 30 dias após a compra. Estes passos também não se aplicam a um plano de software SUSE Linux ou RedHat em Azure. Neste momento, não é possível cancelar ou trocar um plano de software SUSE ou RedHat. [Saiba mais](/azure/virtual-machines/linux/prepay-suse-software-charges) sobre a utilização dos planos SUSE Linux ou RedHat.
+> [!NOTE]
+> As seguintes medidas para cancelar uma compra aplicam-se apenas a um software que se qualifique para cancelamento dentro de uma janela de cancelamento específica, como nos primeiros 30 dias após a compra. Estes passos também não se aplicam a um plano de software SUSE Linux ou RedHat em Azure. Neste momento, não é possível cancelar ou trocar um plano de software SUSE ou RedHat. [Saiba mais](/azure/virtual-machines/linux/prepay-suse-software-charges) sobre a utilização dos planos SUSE Linux ou RedHat.
 
 Siga os passos abaixo para cancelar uma compra:
 
->[!NOTE]
->Deve ser um agente administrativo para cancelar uma compra. Os seguintes passos descrevem como cancelar uma compra no painel partner Center. Também pode fazê-lo utilizando a [API do Centro De Parceiros.](/partner-center/develop/cancel-software-purchases)
+> [!NOTE]
+> A interface de pré-visualização do Partner Center proporciona-lhe uma experiência de utilizador mais eficiente e produtiva através de espaços de trabalho agrupados logicamente. Para saber mais sobre a interface dos espaços de trabalho e como ligá-lo, consulte [Getting around Partner Center](get-around-partner-center.md#turn-workspaces-on-and-off).
+
+#### <a name="workspaces-view"></a>[Vista de espaços de trabalho](#tab/workspaces-view)
+
+> [!NOTE]
+> Deve ser um agente administrativo para cancelar uma compra. Os seguintes passos descrevem como cancelar uma compra no painel partner Center. Também pode fazê-lo utilizando a [API do Centro De Parceiros.](/partner-center/develop/cancel-software-purchases)
 
 1. Antes de iniciar o processo de cancelamento, certifique-se de que tem as seguintes informações:
 
@@ -153,7 +171,43 @@ Siga os passos abaixo para cancelar uma compra:
     - O nome do produto que quer cancelar
     - O ID da Ordem
 
-2. Inscreva-se no painel do Centro [de Parceiros.](https://partner.microsoft.com/dashboard)
+2. Inicie sessão no [dashboard do Centro de Parceiros](https://partner.microsoft.com/dashboard).
+
+3. Selecione **o** azulejo cliente e, em seguida, escolha um cliente da lista.
+
+4. Na página de detalhes do cliente, selecione **Software** para ver a lista de software adquirido para o cliente. 
+
+5. Localize a compra de software que pretende cancelar e, em seguida, **selecione Cancelar**. Aparecerá uma caixa de diálogo.
+
+6. Na lista de drop-down de número de encomenda da Ordem, selecione o número de identificação de encomenda correto que pretende cancelar. (Pode obter mais informações sobre um número de pedido ou iD de encomenda na página de histórico da **Encomenda** do cliente.)
+
+7. Selecione a caixa de verificação para reconhecer que leu a mensagem **Importante** relativa ao cancelamento. (Consulte a nota **importante** abaixo para saber mais sobre o que acontece depois de cancelar uma compra.)
+
+8. **Selecione Enviar** para cancelar a sua compra. Se pretender cancelar várias encomendas para um cliente, terá de efetuar os Passos 4 a 6 novamente para cada número de ID de encomenda único.
+
+Quando tentar cancelar uma encomenda, o Partner Center também pode dar-lhe outras informações (que aparecem abaixo da lista de down-down do número de encomenda da Encomenda). Estas informações podem incluir:
+
+- Quantos dias lhe restam para cancelar essa encomenda em particular?
+
+- Se já passou pela janela de cancelamento e não pode mais cancelar a encomenda
+
+- Se precisarmos de mais informações sobre o seu pedido de cancelamento, poderá ser-lhe dado um link para um formulário de pedido de apoio ao **cliente.**
+
+> [!IMPORTANT]
+> Depois de cancelar uma encomenda, aparecerá uma mensagem confirmando o seu cancelamento. No entanto, pode haver um atraso de até 15 minutos, antes que o cancelamento apareça no painel de instrumentos do Centro de Parceiros.
+
+#### <a name="current-view"></a>[Vista atual](#tab/current-view)
+
+> [!NOTE]
+> Deve ser um agente administrativo para cancelar uma compra. Os seguintes passos descrevem como cancelar uma compra no painel partner Center. Também pode fazê-lo utilizando a [API do Centro De Parceiros.](/partner-center/develop/cancel-software-purchases)
+
+1. Antes de iniciar o processo de cancelamento, certifique-se de que tem as seguintes informações:
+
+    - Nome do cliente, inquilino GUID, ou nome de domínio
+    - O nome do produto que quer cancelar
+    - O ID da Ordem
+
+2. Inicie sessão no [dashboard do Centro de Parceiros](https://partner.microsoft.com/dashboard).
 
 3. A partir do menu Partner Center, selecione **Clientes,** em seguida, escolha um cliente da lista.
 
@@ -175,8 +229,10 @@ Quando tentar cancelar uma encomenda, o Partner Center também pode dar-lhe outr
 
 - Se precisarmos de mais informações sobre o seu pedido de cancelamento, poderá ser-lhe dado um link para um formulário de pedido de apoio ao **cliente.**
 
->[!IMPORTANT]
->Depois de cancelar uma encomenda, aparecerá uma mensagem confirmando o seu cancelamento. No entanto, pode haver um atraso de até 15 minutos, antes que o cancelamento apareça no painel de instrumentos do Centro de Parceiros. 
+> [!IMPORTANT]
+> Depois de cancelar uma encomenda, aparecerá uma mensagem confirmando o seu cancelamento. No entanto, pode haver um atraso de até 15 minutos, antes que o cancelamento apareça no painel de instrumentos do Centro de Parceiros.
+
+* * *
 
 ### <a name="post-cancellation-details"></a>Detalhes pós-cancelamento
 

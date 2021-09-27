@@ -1,7 +1,7 @@
 ---
 title: Obrigando à autenticação de vários fatores (MFA) para o seu inquilino parceiro
 ms.topic: article
-ms.date: 10/29/2020
+ms.date: 09/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-account
 description: Saiba como mandatar o MFA para os inquilinos do seu parceiro ajudará a garantir o seu acesso aos recursos dos clientes. Inclui cenários de amostra.
@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9778e58aed008eb710fbf2037062bdaa48deb2ad
-ms.sourcegitcommit: fceaca54b0ec695cf214209c09b4516e1b40866a
+ms.openlocfilehash: 7608e14e855e71b8c8b91f7bd982bfcb7b54bda6
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "128359453"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129073124"
 ---
 # <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>Obrigando à autenticação de vários fatores (MFA) para o seu inquilino parceiro
 
@@ -241,9 +241,14 @@ Os parceiros podem solicitar uma exceção técnica para suprimir a verificaçã
 
 Para apresentar um pedido de exceção técnica:
 
-1. Inscreva-se no Partner Center como Administrador Global ou Agente Administrador.
+> [!NOTE]
+> A interface de pré-visualização do Partner Center proporciona-lhe uma experiência de utilizador mais eficiente e produtiva através de espaços de trabalho agrupados logicamente. Para saber mais sobre a interface dos espaços de trabalho e como ligá-lo, consulte [Getting around Partner Center](get-around-partner-center.md#turn-workspaces-on-and-off).
 
-2. Crie um novo pedido de serviço de parceiro navegando para apoiar pedidos de apoio ao Parceiro de **Apoio** e  >   selecionando **novo pedido.**
+#### <a name="workspaces-view"></a>[Vista de espaços de trabalho](#tab/workspaces-view)
+
+1. Inscreva-se no [painel de instrumentos](https://partner.microsoft.com/dashboard) do Partner Center como Global Admin ou Agente Administrador.
+
+2. Selecione o azulejo **de suporte Help +** e, em seguida, selecione Novo **pedido**.
 
 3. Pesquisa por **MFA - Pedido de exceção** na caixa de pesquisa; ou selecione **CSP** a partir da categoria, em **seguida, selecione Contas, Onboarding, Acesso** a partir de Tópico, em seguida, selecione **MFA - Pedido** de exceção a partir do subtópico, em seguida, selecione o **próximo passo**.
 
@@ -251,6 +256,20 @@ Para apresentar um pedido de exceção técnica:
 
 A Microsoft pode demorar até três dias úteis para dar uma resposta a um pedido de exceção técnica.
 
+#### <a name="current-view"></a>[Vista atual](#tab/current-view)
+
+1. Inscreva-se no [painel de instrumentos](https://partner.microsoft.com/dashboard) do Partner Center como Global Admin ou Agente Administrador.
+
+2. Crie um novo pedido de serviço de parceiro selecionando **Suporte,** em seguida, **pedidos de suporte de parceiros**, e, em seguida, selecionando **Novo pedido**.
+
+3. Pesquisa por **MFA - Pedido de exceção** na caixa de pesquisa; ou selecione **CSP** a partir da categoria, em **seguida, selecione Contas, Onboarding, Acesso** a partir de Tópico, em seguida, selecione **MFA - Pedido** de exceção a partir do subtópico, em seguida, selecione o **próximo passo**.
+
+4. Forneça os detalhes solicitados para apresentar um pedido de serviço para exceção técnica e **selecione Enviar.**
+
+A Microsoft pode demorar até três dias úteis para dar uma resposta a um pedido de exceção técnica.
+
+* * *
+
 ## <a name="next-steps"></a>Passos seguintes
 
- - [Estado dos requisitos de segurança dos parceiros](partner-security-compliance.md)
+- [Estado dos requisitos de segurança dos parceiros](partner-security-compliance.md)

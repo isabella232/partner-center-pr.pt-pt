@@ -1,7 +1,7 @@
 ---
-title: Personalize a experiência fora da caixa de um dispositivo
+title: Personalize a experiência fora de caixa de um dispositivo
 ms.topic: how-to
-ms.date: 04/28/2020
+ms.date: 09/21/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-customers
 description: Antes de entregar o novo dispositivo de um cliente, pode utilizar Windows perfis autopilotos para personalizar ou configurar previamente a experiência fora de caixa do dispositivo (OOBE).
@@ -9,20 +9,20 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 95a201c53fc2eaf230d08bb4cfdd03a5747b5c05
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: 1d8b0f346a3e3d23fcfeb4f24911c479fd7c1071
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126246434"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129074208"
 ---
 # <a name="use-windows-autopilot-profiles-on-new-devices-to-customize-a-customers-out-of-box-experience"></a>Utilizar perfis do Windows Autopilot em novos dispositivos para personalizar a experiência inicial de um cliente
 
-**Funções adequadas**: Agente administrador | Administração global | Agente comercial | Administração de gestão de utilizadores
+**Funções adequadas**: Agente administrador | | de administração global Agente comercial | Administrador de gestão de utilizadores
 
 Se gerir os dispositivos do cliente, poderá ter de personalizar a experiência fora da caixa (OOBE) para os utilizadores do cliente. Pode configurar novos dispositivos com perfis Windows Autopilot antes de entregar os dispositivos aos clientes e aplicar novos perfis aos dispositivos que os clientes já adquiriram. 
 
-Note que os OEMs começaram a incluir uma etiqueta de envio no exterior da caixa do dispositivo Autopilot que mostra o ID da chave de produto do dispositivo **(PKID)**.  Este código de barras lídimensional e legível proporciona aos parceiros a jusante uma forma de registar dispositivos para o Autopilot sem ter de desboxar o(s) dispositivo(s) e recolher o ID do dispositivo por meios alternativos.
+Note que os OEMs começaram a incluir uma etiqueta de envio no exterior da caixa de dispositivos Autopilot que mostra o ID da chave de produto do dispositivo **(PKID)**.  Este código de barras lídimensional e legível proporciona aos parceiros a jusante uma forma de registar dispositivos para o Autopilot sem ter de desboxar o(s) dispositivo(s) e recolher o ID do dispositivo por meios alternativos.
 
 Este artigo explica como criar e aplicar perfis de piloto automático em dispositivos no Partner Center.
 
@@ -39,7 +39,7 @@ Com a funcionalidade Windows Autopilot no Partner Center, pode criar perfis pers
 
 - Desative a criação de conta de administração local no dispositivo. As organizações podem decidir se o utilizador que configura o dispositivo deve ter acesso ao administrador uma vez que o processo esteja concluído.
 
-- Configurar automaticamente o dispositivo para o trabalho ou para a escola. Todos os dispositivos registados no Autopilot serão automaticamente considerados trabalho ou dispositivos escolares, pelo que esta questão não será feita durante o processo OOBE.
+- Configurar automaticamente o dispositivo para o trabalho ou para a escola. Todos os dispositivos registados no Autopilot serão automaticamente considerados trabalho ou dispositivos escolares, pelo que esta questão não será colocada durante o processo OOBE.
 
 - Ignore Cortana, OneDrive e as páginas de configuração do registo do OEM. Todos os dispositivos registados no Autopilot saltarão automaticamente estas páginas durante o processo de experiência fora de caixa (OOBE).
 
@@ -57,10 +57,35 @@ Aplicam-se as seguintes permissões e limitações de gestão de perfis e dispos
 
 No Partner Center, pode criar perfis de implantação Windows Autopilot e aplicá-los em dispositivos.
 
->[!NOTE]
->Só os agentes administrativos podem criar e aplicar perfis.
+> [!NOTE]
+> Só os agentes administrativos podem criar e aplicar perfis.
 
 ### <a name="create-a-new-autopilot-profile"></a>Criar um novo perfil de piloto automático
+
+#### <a name="workspaces-view"></a>[Vista de espaços de trabalho](#tab/workspaces-view)
+
+1. Inscreva-se no [painel do Centro de Parceiros](https://partner.microsoft.com/dashboard) e selecione o azulejo do **Cliente.**
+
+2. Na página de pormenor do cliente, selecione **Dispositivos**.
+
+3. Sob **Windows os perfis de piloto automático** selecionam Adicionar novo **perfil**.
+
+4. Introduza o nome e a descrição do perfil e, em seguida, configufique as definições de OOBE. Escolha entre:  
+
+   - Ignore as definições de privacidade na configuração
+
+   - Desativar a conta de administração local na configuração
+  
+   - Salte automaticamente as páginas na configuração<br>
+        (Inclui *configuração automaticamente selecionada para o trabalho ou escola* e *Cortana, OneDrive e páginas de configuração de registo de OEM)*
+  
+   - Ignorar o contrato de licença de utilizador final (EULA)<br> 
+       >[!IMPORTANT] 
+       >Consulte [Windows despedimento do Autopilot EULA](#windows-autopilot-eula-dismissal) abaixo para obter informações importantes a considerar sobre saltar a página EULA durante Windows configuração.
+
+5. **Selecione Enviar por terminada.**
+
+#### <a name="current-view"></a>[Vista atual](#tab/current-view)
 
 1. Selecione **clientes** do menu Partner Center e, em seguida, selecione o cliente para o qual está a criar o perfil Autopilot.
 
@@ -68,20 +93,22 @@ No Partner Center, pode criar perfis de implantação Windows Autopilot e aplic�
 
 3. Sob **Windows os perfis de piloto automático** selecionam Adicionar novo **perfil**.
 
-4. Introduza o nome e a descrição do perfil e, em seguida, configufique as definições OOBE. Escolha entre:  
+4. Introduza o nome e a descrição do perfil e, em seguida, configufique as definições de OOBE. Escolha entre:  
 
-   - Salte as definições de privacidade na configuração
+   - Ignore as definições de privacidade na configuração
 
    - Desativar a conta de administração local na configuração
   
    - Salte automaticamente as páginas na configuração<br>
-        (Inclui *configuração automaticamente selecionada para o trabalho ou escola* e *Cortana, OneDrive e páginas de configuração de registo do OEM)*
+        (Inclui *configuração automaticamente selecionada para o trabalho ou escola* e *Cortana, OneDrive e páginas de configuração de registo de OEM)*
   
    - Ignorar o contrato de licença de utilizador final (EULA)<br> 
        >[!IMPORTANT] 
        >Consulte [Windows despedimento do Autopilot EULA](#windows-autopilot-eula-dismissal) abaixo para obter informações importantes a considerar sobre saltar a página EULA durante Windows configuração.
 
 5. **Selecione Enviar por terminada.**
+
+* * * 
 
 ### <a name="apply-an-autopilot-profile-to-customer-devices"></a>Aplicar um perfil autopiloto nos dispositivos do cliente
 
@@ -102,7 +129,7 @@ Depois de criar um perfil autopiloto para um cliente, pode aplicá-lo aos dispos
 
     b.  Verifique se aparecem os ecrãs OOBE apropriados (se houver).
 
-    c.  Quando o processo OOBE parar, reinicie o dispositivo nas definições predefinidos da sua fábrica para o preparar para um novo utilizador.
+    c.  Quando o processo OOBE parar, reinicie o dispositivo nas definições predefinidas da sua fábrica para o preparar para um novo utilizador.
 
 ### <a name="remove-an-autopilot-profile-from-a-customers-device"></a>Remova um perfil de piloto automático do dispositivo de um cliente
 
@@ -125,7 +152,7 @@ Quando o dispositivo do cliente se ligar à internet, irá descarregar a versão
 
 2. Na página de pormenor do cliente, selecione **Dispositivos**.
 
-3. Em **Windows os perfis do Piloto Automático** selecionam o perfil necessário para atualizar. Faça as alterações necessárias e, em seguida, **selecione Enviar por isso.**
+3. Em **Windows os perfis de piloto automático** selecionam o perfil necessário para atualizar. Faça as alterações necessárias e, em seguida, **selecione Enviar .**
 
 Para eliminar este perfil, **selecione Eliminar** o perfil do canto superior direito da página.
 
@@ -140,7 +167,7 @@ Se pretender utilizar o nome OEM, número de série e combinação de modelos, e
 
 - Este tuple funciona apenas para dispositivos mais recentes (hashes 4k, por exemplo) e não é suportado para hashes de 128b (RS2 e dispositivos anteriores).
 
-- O registo de tuple é sensível a casos, pelo que os dados do ficheiro devem corresponder aos nomes do modelo e do fabricante ***exatamente*** conforme fornecido pelo fornecedor OEM (fornecedor de hardware).
+- O registo de tuple é sensível a casos, pelo que os dados do ficheiro devem corresponder exatamente aos nomes do modelo e do ***fabricante, exatamente*** conforme fornecidos pelo fornecedor OEM (fornecedor de hardware).
 
 Siga as instruções abaixo para adicionar dispositivos à conta de um cliente no Partner Center.
 
@@ -155,7 +182,7 @@ Siga as instruções abaixo para adicionar dispositivos à conta de um cliente n
     >[!NOTE]
     >Devia ter recebido este ficheiro .csv com a compra do seu dispositivo. Se não recebeu um ficheiro .csv, pode criar um, seguindo os passos na [adição de dispositivos para Windows Autopilot](/windows/deployment/windows-autopilot/add-devices#collecting-the-hardware-id-from-existing-devices-using-powershell).  
 
-5. Faça o upload do ficheiro .csv e, em seguida, **selecione Save**.
+5. Faça o upload do ficheiro .csv e, em seguida, **selecione Guardar**.
 
 Se receber uma mensagem de erro ao tentar carregar o ficheiro .csv, verifique o formato do ficheiro. Pode utilizar apenas o hash de hardware ou o nome do OEM, o número de série e o modelo (nessa ordem das colunas) ou o ID do Produto do Windows. Também pode utilizar a amostra .csv ficheiro fornecido a partir do link ao lado dos dispositivos Add para criar uma lista de **dispositivos.**
 
@@ -168,7 +195,7 @@ O seu ficheiro .csv deve ser parecido com isto:
 >[!NOTE]
 > "Nome do fabricante" e "Modelo do Dispositivo" são sensíveis a maiôs.
 
-Se não souber qual o valor a colocar para o nome do Fabricante e modelo de dispositivo, pode executá-lo no dispositivo para recolher os valores corretos:
+Se não souber qual o valor a colocar para o nome do fabricante e modelo de dispositivo, pode executá-lo no dispositivo para recolher os valores corretos:
 
 <pre><code>md c:\\HWID
 

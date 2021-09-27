@@ -4,29 +4,29 @@ ms.topic: article
 ms.date: 07/14/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
-description: Utilize a aplicação da amostra para construir a sua própria aplicação para aceder programaticamente aos dados de insights dos parceiros.
-author: shganesh-dev
-ms.author: shganesh
+description: Use a aplicação da amostra para construir a sua própria aplicação para aceder programaticamente aos dados de insights do parceiro.
+author: kshitishsahoo
+ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: cb2bc8be9ea49c0d75da4d78961865331ed908c9
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: e763fd5182489d68e788e88e0f8f1522dac6aba4
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960939"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129075360"
 ---
 # <a name="sample-application"></a>Aplicação da amostra
 
 As aplicações da amostra são criadas em línguas C# e JAVA e estão disponíveis em [GitHub](https://github.com/partneranalytics)
 
 - [C# Aplicação da amostra](https://github.com/partneranalytics/ProgrammaticExportSampleAppMPN)
-- [Aplicação da amostra JAVA](https://github.com/partneranalytics/ProgrammaticExportSampleAppMPN_Java)
+- [Aplicação da amostra java](https://github.com/partneranalytics/ProgrammaticExportSampleAppMPN_Java)
 
 Pode optar por inspirar-se na aplicação da amostra e construir a sua própria aplicação em qualquer idioma.
 
 A aplicação da amostra alcança os seguintes objetivos:
 
-- Gera um token de Azure Ative Directory (Azure AD).
+- Gera um token Azure Ative Directory (Azure AD).
 - Obtém conjuntos de dados disponíveis.
 - Cria consultas definidas pelo utilizador.
 - Obtém consultas definidas pelo utilizador e sistema.
@@ -45,7 +45,7 @@ git clone https://github.com/partneranalytics/ProgrammaticExportSampleAppMPN.git
 > [!Note]
 > Para obter mais instruções, consulte o ficheiro ProgrammaticExportSampleAppMPN/README.md no [repositório](https://github.com/partneranalytics/ProgrammaticExportSampleAppMPN_Java)GitHub .
 
-- Para executar rapidamente a aplicação, atualize o id do cliente e o segredo do cliente no **appsettings.Development.jsem**
+- Para executar rapidamente a aplicação, atualize o id do cliente e o segredo do cliente nas **appsetings. Desenvolvimento.json**
 
 :::image type="content" source="images/insights/prog-acc-appsetting-development.png" alt-text="Ilustrando o json de desenvolvimento de appsetting":::
 
@@ -57,9 +57,9 @@ Esta página fará chamadas de API para o webserver que está a funcionar na má
 
 ## <a name="code-snippets"></a>Fragmentos de Código
 
-A estrutura básica do código C# para fazer as chamadas de API de acesso programático é a seguinte:
+A estrutura básica do código C# para fazer as chamadas API de acesso programático é a seguinte:
  
-:::image type="content" source="images/insights/prog-acc-code-snippet.png" alt-text="Corte de código ilustrando":::
+:::image type="content" source="images/insights/prog-acc-code-snippet.png" alt-text="Ilustração do código snippet":::
 
 ## <a name="next-steps"></a>Passos seguintes
 

@@ -1,20 +1,20 @@
 ---
 title: Analisar subscrições e licenças
-description: Saiba como usar as métricas na página de subscrição e análise de licenças para identificar os seus sucessos e áreas que precisam de mais atenção.
+description: Saiba como usar as métricas na página de Subscrição e análise de licenças para identificar os seus sucessos e áreas que precisam de mais atenção.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
-author: amitravat
-ms.author: amrava
+author: kshitishsahoo
+ms.author: ksahoo
 ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
 ms.date: 03/31/2021
-ms.openlocfilehash: 393f0ee6c49cbbdf814a823f732bb4b92d4deb2e
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: 15343553a97824bec75679d6f00497feb6527e39
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126247310"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129072488"
 ---
 # <a name="analyze-subscriptions-and-licenses-to-help-you-drive-business-decisions-and-new-goals"></a>Analise subscrições e licenças para ajudá-lo a impulsionar decisões de negócios e novos objetivos
 
@@ -25,7 +25,7 @@ Os dados impulsionam as decisões empresariais. Use as métricas na página **de
 **Receitas CSP TTM (USD)**: Esta métrica representa a receita faturada agregada da CSP (USD) para os doze meses (TTM) para as Contas de Localização de Parceiros e Conta Global de Parceiros (PGA) esta conta CSP está associada. Se tiver outras contas CSP com uma PGA diferente, tem de entrar em cada uma delas para ver as correspondentes receitas agregadas de TTM.  Clique no link de detalhes de descarregamento para obter uma desagregação da receita TTM (USD) por MPN ID.
 
 >[!NOTE]
->Os preços da moeda local (Legacy Commerce FX) em Comercial são geridos dentro de +/-5% dos dólares americanos. A taxa de câmbio Legacy Commerce (FX) é diferente da faturação das taxas DEX usadas pela Azure na experiência do Comércio Moderno. As taxas fx de faturação do Comércio Moderno baseiam-se nas taxas de&L do Microsoft P (taxas Reuters FX a partir de feed do Tesouro). As tarifas da Legacy Commerce FX são confidenciais da Microsoft.
+>Os preços da moeda local (Legacy Commerce FX) em Comercial são geridos dentro de +/-5% dos dólares americanos. A taxa de câmbio Legacy Commerce (FX) é diferente da faturação das taxas FX usadas pela Azure na experiência do Comércio Moderno. As taxas fx de faturação de comércio moderno baseiam-se nas taxas de&L do Microsoft P (taxas Reuters FX a partir de feed do Tesouro). As tarifas da Legacy Commerce FX são confidenciais da Microsoft.
 
 
 O resto do relatório pode ser pivotado com base nos seguintes produtos:
@@ -47,7 +47,7 @@ Estamos a seguir as seguintes métricas:
   
  - **Assinaturas renovadas em 30 dias**: Contagem de subscrições em que o estado está ativo para o período de tempo especificado e onde **a Autorenew** é verdadeira
  
- - **Assinaturas ativas**: Subscrições onde o estado é **Ativo**  
+ - **Subscrições ativas**: Subscrições onde o estado é **Ativo**  
  
  - **Assinaturas suspensas**: Contagem de assinaturas suspensas, não há filtro de data  
 
@@ -68,7 +68,7 @@ Estamos a seguir as seguintes métricas:
 
 **Assinaturas suspensas** 
  
- - Lista de todas as subscrições com estatuto de **Suspensa,** excluindo ofertas experimentais  
+ - Lista de todas as subscrições com estatuto de **Suspenso,** excluindo ofertas experimentais  
   
 **Assinaturas ativas**
 
@@ -78,9 +78,9 @@ Estamos a seguir as seguintes métricas:
 
  - **Conversão experimental**: Contagem de todas as subscrições **ativas** em que o ensaio pago à conversão ocorreu durante o período de tempo especificado  
 
-**Assinaturas de teste terminando em 30 dias**  
+**Assinaturas de teste terminam em 30 dias**  
 
- - Lista de ensaios iniciados, em que a data limite é de 30 dias, e não há data de início paga associada à subscrição  
+ - Lista de julgamentos iniciados, onde a data limite é de 30 dias, e não há data de início paga associada à subscrição  
 
 
 

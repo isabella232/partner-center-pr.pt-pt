@@ -3,18 +3,18 @@ title: Reforma do programa de treino de software De formação voucher
 ms.topic: article
 ms.date: 04/07/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-benefits
+ms.subservice: partnercenter-membership
 description: O programa de treino de software de acesso a voucher está a ser reformado.
 author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: e9313a7d7f6554a544eeb81a023db3a3a3eeff22
-ms.sourcegitcommit: eeb81ccb888239a0e8fbe4711de3ce07f3b00358
+ms.openlocfilehash: 5cab77aa5fc3b25bb0ee5b3813aa272a29b924d4
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/23/2021
-ms.locfileid: "128309809"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129070824"
 ---
 # <a name="training-vouchers-program-retirement"></a>Reforma do Programa de Vouchers de Formação
 

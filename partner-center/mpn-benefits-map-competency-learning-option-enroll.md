@@ -8,22 +8,22 @@ ms.subservice: partnercenter-membership
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: a82f15b0576a48fb76b975e6de2c37407046f4f2
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: fd9707a8a644dc877fc7f0238e0403e52e4c526a
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123961450"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129073385"
 ---
 # <a name="use-partner-center-to-enroll-as-a-microsoft-learning-partner"></a>Use partner center para se inscrever como Parceiro microsoft Aprendizagem
 
-**Funções adequadas**: administrador de parceiros da MPN | Administrador de conta
+**Funções adequadas**: Administrador-sócio da MPN | Administrador de conta
 
 Este artigo descreve as várias formas de um parceiro na Microsoft Partner Network se inscrever no programa Aprendizagem Partner.
 
-O sucesso no programa de parceiros Aprendizagem é medido por indicadores-chave de desempenho (KPI's) que são projetados para recompensar Aprendizagem parceiros quando completam certa formação da Microsoft. Os KPI's são rastreados com base nas compras de parceiros de produtos Aprendizagem oficiais da Microsoft (OMLP) do Mercado de Software.
+O sucesso no programa de parceiros Aprendizagem é medido por indicadores-chave de desempenho (KPI's) que são projetados para recompensar Aprendizagem parceiros quando completam certa formação da Microsoft. Os KPI's são rastreados com base nas compras de parceiros de produtos Aprendizagem oficiais (OMLP) qualificados do Mercado de Software.
 
-Os parceiros podem usar o Partner Center para se inscreverem no programa Aprendizagem Partner. Fazem-no através da Opção Aprendizagem encontrada no âmbito da subscrição do Microsoft Action Pack ou ao abrigo da Opção Aprendizagem associada a certas competências em prata ou ouro.
+Os parceiros podem usar o Partner Center para se inscreverem no programa Aprendizagem Partner. Fazem-no através da Opção Aprendizagem encontrada sob a subscrição do Microsoft Action Pack ou ao abrigo da Opção Aprendizagem associada a certas competências em prata ou ouro.
 
 Este processo é totalmente automatizado no Partner Center e já não requer uma aplicação de negócio como costumava fazer no Centro de Adesão de Parceiros.
 
@@ -31,15 +31,15 @@ Ao inscrever-se no Programa de Parceiros Aprendizagem, eis alguns pontos a ter e
 
 - Aprendizagem Os requisitos do Programa Parceiro KPI estão sujeitos a alterações anuais.
 
-- Aprendizagem Os KPI's devem ser recebidos no Partner Center a partir do primeiro ano de matrícula.
+- Aprendizagem Os KPI's devem ser cumpridos no Partner Center a partir do primeiro ano de matrícula.
 
-- **Recursos para novos parceiros:** Se é um novo parceiro interessado em obter uma competência sob a opção Aprendizagem, pode saber mais sobre o processo com a [Aprendizagem opção de recolha de ativos.](https://partner.microsoft.com/asset/collection/learning-option-enrollment#/)
+- **Recursos para novos parceiros:** Se é um novo parceiro interessado em obter uma competência sob a opção Aprendizagem, pode saber mais sobre o processo com a [Aprendizagem recolha de ativos de opção.](https://partner.microsoft.com/asset/collection/learning-option-enrollment#/)
 
 **ATUALIZAÇÃO COVID-19**
 
 A Microsoft está a oferecer uma extensão de competências (com exceção da competência cloud Business Applications) e uma extensão avançada de especialização para parceiros com datas de aniversário (AD) entre 1 de janeiro de 2021 e 30 de junho de 2021. Por favor, reveja o [nosso blog de parceiros post](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/) para mais informações.
 
-Para se manter atualizado com Aprendizagem anúncios do programa, leia o [nosso blog](https://techcommunity.microsoft.com/t5/microsoft-learn/ct-p/MicrosoftLearn) e confira a nossa página de Yammer Yammer [partner Aprendizagem](https://web.yammer.com/main/groups/eyJfdHlwZSI6Ikdyb3VwIiwiaWQiOiI4NDU0NDI3In0/all). Também pode encontrar documentos de programa e gravações mensais de chamadas comunitárias na nossa [página Aprendizagem Resources](https://partner.microsoft.com/marketing/learning-resources#/).
+Para se manter atualizado com Aprendizagem anúncios do programa, leia o [nosso blog](https://techcommunity.microsoft.com/t5/microsoft-learn/ct-p/MicrosoftLearn) e confira a nossa página de Yammer Yammer [partner Aprendizagem](https://web.yammer.com/main/groups/eyJfdHlwZSI6Ikdyb3VwIiwiaWQiOiI4NDU0NDI3In0/all). Também pode encontrar documentos de programa e gravações mensais de chamadas comunitárias na nossa [página Aprendizagem Recursos](https://partner.microsoft.com/marketing/learning-resources#/).
 
 ## <a name="enroll-with-the-learning-action-pack"></a>Inscreva-se no Pacote de Ação Aprendizagem
 
@@ -47,13 +47,13 @@ Aprendizagem Action Pack é a entrada de nível base no programa Aprendizagem Pa
 
 Aprendizagem O Action Pack apoia parceiros que queiram fornecer serviços de formação, ofertas ou descontos no mercado de software de curso, e benefícios para ajudar os parceiros a tornarem-se especialistas em várias linhas de produtos da Microsoft.
 
-Os parceiros não Aprendizagem podem adquirir utensílios de curso a preço total apenas para formação interna. Se quiser entregar o conteúdo fora da sua organização, precisa de um Microsoft Certified Trainer (um MCT) e terá de se inscrever para o Aprendizagem Action Pack.
+Os parceiros não Aprendizagem podem adquirir cursos a preço total apenas para formação interna. Se quiser entregar o conteúdo fora da sua organização, precisa de um Microsoft Certified Trainer (um MCT) e terá de se inscrever para o Aprendizagem Action Pack.
 
-Assim que chegar aos KPI's necessários, pode então preencher os requisitos adicionais e ter a opção de upgrade para uma Opção de Aprendizagem prata/ouro.
+Assim que chegar aos KPI's necessários, pode então preencher os requisitos adicionais e ter a opção de upgrade para uma Opção de Aprendizagem Prata/Ouro.
 
 - Para se qualificar para Aprendizagem Action Pack no Partner Center, você deve ter pelo menos um (1) MCT. Não precisas de conhecer outros KPI's de aprendizagem.
 - Para ativar o seu Aprendizagem Action Pack, utilize os seguintes passos:
-   1. Siga os passos descritos na [Buy ou renove uma subscrição do Microsoft Action Pack](mpn-get-action-pack.md).
+   1. Compre ou renove uma [subscrição do Microsoft Action Pack.](mpn-get-action-pack.md)
    2. Contacte a equipa [de Suporte da Linha da Frente do Parceiro](https://partner.microsoft.com/support) para o ajudar a criar um novo perfil de conta. Isto lhe dará acesso à formação microsoft Courseware no Courseware Marketplace.
 
 ## <a name="enroll-with-a-silver-competency-learning-option"></a>Inscreva-se com uma competência de prata Aprendizagem opção
@@ -71,22 +71,22 @@ Para se qualificar e inscrever-se numa opção específica de Aprendizagem de um
 
 - Cumprir os **Requisitos de Exame**
 
-- Inscreva-se no painel de [instrumentos](https://partner.microsoft.com/dashboard)partner Center, em seguida, selecione **MPN** do menu de navegação à esquerda, seguido de Ofertas de **Adesão**. Em seguida, siga estes [passos](mpn-get-action-pack.md) para subscrever o nível de competência de prata. Este artigo sobre [o pagamento de taxas de competência](mpn-pay-fee-silver-gold-competency.md) também pode ser útil.
+- Saiba como subscrever o [nível de competência de prata.](mpn-get-action-pack.md) Este artigo sobre [o pagamento de taxas de competência](mpn-pay-fee-silver-gold-competency.md) também pode ser útil.
 
 ## <a name="enroll-with-a-gold-competency-learning-option"></a>Inscreva-se com uma competência de ouro Aprendizagem opção
 
-Antes de se inscrever com a competência de ouro Aprendizagem opção, tem de se certificar de que cumpre os requisitos específicos de opção de Aprendizagem de nível de ouro.
+Antes de se inscrever com a competência de ouro Aprendizagem opção, tem de se certificar de que cumpre os requisitos de opção de Aprendizagem de nível de ouro específicos.
 
-Inscrever-se (ou renovar) uma competência em ouro Aprendizagem opção tem requisitos diferentes do que inscrever-se no Aprendizagem Action Pack ou na competência de prata Aprendizagem opção. Para satisfazer os requisitos para uma competência de ouro Aprendizagem opção também requer que você cumpra os requisitos de KPI Aprendizagem de nível de ouro da competência. Se não cumpriu os KPI's ou quaisquer outros requisitos, deve inscrever-se na opção action pack ou prata Aprendizagem dependendo do nível de requisitos cumpridos, se quiser tornar-se um Parceiro Aprendizagem.
+Inscrever-se (ou renovar) uma competência em ouro Aprendizagem opção tem requisitos diferentes do que inscrever-se no Aprendizagem Action Pack ou na competência de prata Aprendizagem opção. Para satisfazer os requisitos para uma competência de ouro Aprendizagem opção também requer que você cumpra os requisitos de KPI Aprendizagem de nível de ouro da competência. Se não cumpriu os KPI's ou quaisquer outros requisitos, deve inscrever-se na opção Aprendizagem Action Pack ou Silver, dependendo do nível de requisitos cumpridos, se quiser tornar-se um Parceiro Aprendizagem.
 
 > [!NOTE]
-> Pode já estar matriculado numa nova competência e já ter alcançado os requisitos de opção de aprendizagem de prata Aprendizagem para essa competência. Se então quiser alcançar o nível de ouro Aprendizagem opção por essa competência, ainda precisa de cumprir os KPI's de nível de ouro dessa competência e outros requisitos de nível de ouro. Uma vez cumpridos os requisitos de nível dourado, poderá tirar partido do [desconto de upgrade da OFERTA MPN](mpn-pay-fee-silver-gold-competency.md#apply-upgrade-discount-when-moving-from-silver-to-gold)para o ouro.
+> Pode já estar matriculado numa nova competência e já ter alcançado os requisitos de opção de aprendizagem de prata Aprendizagem para essa competência. Se então quiser alcançar o nível de ouro Aprendizagem opção para essa competência, ainda precisa de cumprir os KPI's de nível de ouro dessa competência e outros requisitos de nível de ouro. Uma vez cumpridos os requisitos de nível dourado, poderá tirar partido do [desconto de upgrade da OFERTA MPN.](mpn-pay-fee-silver-gold-competency.md#apply-upgrade-discount-when-moving-from-silver-to-gold)
 
-## <a name="frequently-asked-questions-about-learning-partner-enrollment"></a>Perguntas frequentes sobre a inscrição de Aprendizagem Parceiro
+## <a name="frequently-asked-questions-about-learning-partner-enrollment"></a>Perguntas frequentes sobre Aprendizagem inscrição de Parceiro
 
 ### <a name="q-do-i-need-to-submit-a-business-application-plan-in-partner-center-to-enroll-in-a-learning-option"></a>P. Preciso de apresentar um Plano de Candidatura de Negócios no Centro de Parceiros para me inscrever numa opção Aprendizagem?
 
-N.º No Partner Center, não é necessário um Plano de Aplicação de Negócios através da opção Aprendizagem. Precisa de conhecer Aprendizagem KPI's desde o primeiro ano de matrícula.
+N.º No Partner Center, um Plano de Aplicação de Negócios não é necessário para obter uma competência através da opção Aprendizagem. Precisa de conhecer Aprendizagem KPI's desde o primeiro ano de matrícula.
 
 ### <a name="q-if-i-am-a-net-new-partner-and-decide-to-buy-courseware-trainings-or-certifications-before-applying-for-the-learning-option-will-the-kpis-be-recognized-by-partner-center-automatically"></a>P: Se eu for um novo parceiro net e decidir comprar cursos, formações ou certificações antes de me candidatar à Opção Aprendizagem, os KPI's serão reconhecidos automaticamente pelo Partner Center?
 
@@ -104,15 +104,15 @@ Contacte [o Parceiro de Suporte da Linha da Frente](https://partner.microsoft.co
 - Valor KPI
 - Valor da receita
 
-Os relatórios da KPI são atualizados uma vez por mês durante o mês. Aprendizagem A elegibilidade para renovação do programa é medida para KPI's alcançados durante os 12 meses anteriores de atividade de desempenho, com base na data do seu aniversário. Por exemplo, a partir de 15 de janeiro de 2020, os dados do KPI serão apresentados para o período de janeiro de 2019 a dezembro de 2019. Se a sua fatura fosse datada de janeiro de 2020, os KPI's correspondentes estariam visíveis a partir de 15 de fevereiro de 2019. **As confirmações de encomendas e os relatórios dos parceiros não serão aceites.** Apenas faturas reais serão aceites.
+Os relatórios da KPI são atualizados uma vez por mês durante o mês. Aprendizagem A elegibilidade para renovação do programa é medida para KPI's alcançados durante os 12 meses anteriores de atividade de desempenho, com base na data do seu aniversário. Por exemplo, a partir de 15 de janeiro de 2020, os dados do KPI serão apresentados para o período de janeiro de 2019 a dezembro de 2019. Se a sua fatura fosse datada de janeiro de 2020, os KPI's correspondentes estariam visíveis a partir de 15 de fevereiro de 2019. **As confirmações de encomendas e relatórios de parceiros não serão aceites.** Apenas serão aceites faturas reais.
 
 ### <a name="q-does-a-one-day-training-equate-to-one-kpi"></a>P. Um treino de um dia equivale a um KPI?
 
 O cumprimento de um KPI não tem a ver com a duração da formação. Para saber mais sobre como os KPI's são medidos, consulte os exemplos de desempenho no [Guia de Inscrição de Aprendizagem Parceiros.](https://partner.microsoft.com/asset/collection/learning-option-enrollment#/)
 
-### <a name="q-why-dont-i-appear-as-a-microsoft-learning-partner-in-the-learning-partner-directory"></a>P. Por que não apareci como parceiro Aprendizagem microsoft no Aprendizagem diretório de parceiros?
+### <a name="q-why-dont-i-appear-as-a-microsoft-learning-partner-in-the-learning-partner-directory"></a>P. Por que não apareça como parceiro Aprendizagem microsoft no Aprendizagem diretório de parceiros?
 
-Talvez tenhamos de adicioná-lo ao [diretório de parceiros Aprendizagem.](/learn/certifications/partners) Em seguida, pode ligar para o seu website a partir da página de diretório Aprendizagem Partner.
+Talvez tenhamos de adicioná-lo ao [diretório de parceiros Aprendizagem.](/learn/certifications/partners) Em seguida, pode ligar para o seu site a partir da página de diretório Aprendizagem Partner.
 
 Este é um processo manual que é submetido apenas uma vez por mês, durante a terceira semana. A atualização subsequente estará visível até ao final da primeira semana do mês seguinte. Para ajudá-lo a resolver a situação, contacte o [Parceiro De Apoio à Linha da Frente.](https://partner.microsoft.com/support) Esteja preparado para fornecer os seguintes detalhes:
 
@@ -120,7 +120,7 @@ Este é um processo manual que é submetido apenas uma vez por mês, durante a t
 
 - O país associado
 
-- O URL para a página de aterragem associada, temática microsoft
+- O URL para a página de aterragem associada, temática da Microsoft
 
    > [!NOTE]
    > O URL deve ser para um site de propriedade parceira com uma página de aterragem da Microsoft. A página específica da Microsoft também deve:
@@ -130,4 +130,4 @@ Este é um processo manual que é submetido apenas uma vez por mês, durante a t
 
 ## <a name="next-steps"></a>Passos seguintes
 
-[Saiba mais](https://partner.microsoft.com/asset/collection/learning-option-enrollment#/) sobre a inscrição de Aprendizagem opções
+[Saiba mais](https://partner.microsoft.com/asset/collection/learning-option-enrollment#/) sobre Aprendizagem inscrição de opção

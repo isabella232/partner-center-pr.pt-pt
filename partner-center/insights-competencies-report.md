@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
-description: Veja o que está a fazer bem e onde pode melhorar em relação às competências da Microsoft, níveis de competência e ofertas para o ajudar a fornecer soluções microsoft.
-author: shthota77
-ms.author: shthota
+description: Veja o que está a fazer bem e onde pode melhorar no que diz respeito às competências da Microsoft, níveis de competência e ofertas para o ajudar a fornecer soluções microsoft.
+author: kshitishsahoo
+ms.author: ksahoo
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0d5eab0684c52c94c0709f09f254031dd80d8a28
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: 670e307237bd2c5d6be3b64b67b0f76df5ca79a4
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960229"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129075440"
 ---
 # <a name="competencies-report-available-from-the-partner-center-insights-dashboard"></a>Relatório de competências disponível no Centro de Parceiros Informações dashboard
 
@@ -26,7 +26,7 @@ Ganhará mais uso do relatório de competências se aprender mais sobre o ciclo 
 
 ## <a name="competency-life-cycle"></a>Ciclo de vida de competência
 
-Do ponto de vista do ciclo de vida, os parceiros começam por basear-se nos principais indicadores de desempenho (KPI' que são necessários para alcançar competências específicas. Assim que atingem o limiar fixado para uma determinada competência em todas as métricas necessárias, tornam-se **qualificados** para uma competência. Os parceiros podem então pagar a oferta de competência (Prata ou Ouro) para atingir a competência e tornar-se **Ativo** nessa competência. A competência O estatuto **ativo** é válido por um ano a partir da data de realização da competência (isto é chamado a data de **aniversário** para a competência). No final do ano de aniversário, os parceiros precisam de satisfazer os requisitos de competência. Se não cumprirem estes requisitos de novo, perderão a competência. Um **Estado de risco** para uma competência previamente atingida significa que determinadas métricas-chave devem ficar abaixo do limiar nessa data de **aniversário** de competências .
+Do ponto de vista do ciclo de vida, os parceiros começam por basear-se nos principais indicadores de desempenho (KPI) que são necessários para alcançar competências específicas. Uma vez que atinjam o limiar fixado para uma determinada competência em todas as métricas necessárias, tornam-se **qualificados** para uma competência. Os parceiros podem então pagar a oferta de competência (Prata ou Ouro) para atingir a competência e tornar-se **Ativo** nessa competência. A competência O estatuto **ativo** é válido por um ano a partir da data de realização da competência (isto é chamado de data de **aniversário** para a competência). No final do ano de aniversário, os parceiros precisam de satisfazer os requisitos de competência. Se não cumprirem estes requisitos de novo, perderão a competência. Um **Estado de risco** para uma competência previamente atingida significa que determinadas métricas-chave devem ficar abaixo do limiar nessa data de **aniversário**.
 
 ## <a name="competency-attainment"></a>Realização de competências
 
@@ -54,14 +54,14 @@ A visão Sumária apresenta uma contagem de competências com os seus nomes em c
 - Iniciado: Contagem de competências para as quais tem um ou mais dos requisitos subjacentes em curso.
 A repartição de competências iniciadas conta por nível de competência (Prata/Ouro) com nomes de competências.
 
-- Qualificado: Competências para as quais cumpriu os requisitos, mas pode ou não ainda ter adquirido a oferta associada prata/ouro. A repartição de competências qualificadas conta por nível de competência (Prata/Ouro) com nomes de competências.
+- Qualificado: Competências para as quais cumpriu os requisitos, mas pode ou não ainda ter adquirido a oferta de Prata/Ouro associada. A repartição de competências qualificadas conta por nível de competência (Prata/Ouro) com nomes de competências.
 
 - Ativo: Competências para as quais cumpriu os requisitos e comprou uma oferta Prata/Ouro. A repartição de competências ativas conta por nível de competência (Prata/Ouro) com nomes de competências.
 
 - Em risco (no próximo ano): Contagem de competências que estão atualmente **Ativas** mas também **em risco** de não cumprir os requisitos para o próximo ano.
 Desagregação de competências (por nível de competência, como a Prata/Ouro, com nomes de competências) que estão em risco de não se qualificarem para o próximo ano.
 
-:::image type="content" source="images/insights/competencies-summary.png" alt-text="resumo de competências.":::
+:::image type="content" source="images/insights/competencies-summary.png" alt-text="competências resumo.":::
 
 ### <a name="competency-metric-analysis"></a>Análise métrica de competência
 
@@ -75,7 +75,7 @@ O relatório pode ser apoiado pelos seguintes intervalos de data:
 :::image type="content" source="images/insights/competencies-comp-metrics-analysis.png" alt-text="análise métrica de competência.":::
 
 > [!NOTE]
- > Nem todas as métricas estão abrangidas pela análise. Atualmente, as métricas associadas à aprendizagem e certificação não são apoiadas no relatório de Competências. As competências Business Applications (CBA) também não são atualmente suportadas na análise métrica para o estatuto de competência **Ativa.**
+ > Nem todas as métricas estão cobertas na análise. Atualmente, as métricas associadas à aprendizagem e certificação não são apoiadas no relatório de Competências. As competências Business Applications (CBA) também não são atualmente suportadas na análise métrica para o estatuto de competência **Ativa.**
 
 ### <a name="competency-history"></a>História da competência
 

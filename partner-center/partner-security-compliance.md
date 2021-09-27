@@ -1,6 +1,6 @@
 ---
 title: Relatório de estado dos requisitos de segurança
-ms.date: 10/30/2020
+ms.date: 09/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-account
 description: Saiba como verificar os seus requisitos de segurança, cumprindo o relatório de estado dos requisitos de segurança e o relatório MFA do Partner Center
@@ -9,12 +9,12 @@ ms.author: parthp
 ms.localizationpriority: high
 ms.topic: conceptual
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7f28f6333542fb1a2f11b9cc48c00777f1977c1a
-ms.sourcegitcommit: fceaca54b0ec695cf214209c09b4516e1b40866a
+ms.openlocfilehash: cfdb409b844d2e304a61654cbea144f9f1d14350
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "128359402"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129071759"
 ---
 # <a name="security-requirements-status-report"></a>Relatório de estado dos requisitos de segurança
 
@@ -22,7 +22,7 @@ ms.locfileid: "128359402"
 
 Este artigo explica o relatório de estado dos requisitos de segurança no Partner Center. Este relatório fornece métricas sobre o cumprimento dos requisitos de segurança do parceiro para a autenticação de [vários](partner-security-requirements.md) fatores (MFA) para utilizadores no seu inquilino parceiro.
 
-Para aceder a este relatório no [Partner Center,](https://partner.microsoft.com/dashboard)vá a **Definições**  >  **Defina o** estado  >  **dos requisitos de segurança**. O relatório é atualizado diariamente e reflete os dados de inscrição dos últimos sete dias.
+Para aceder a este relatório no [Partner Center,](https://partner.microsoft.com/dashboard)selecione o ícone de engrenagem Definições, em seguida, **as definições de Conta**, em seguida, o estado dos **requisitos de segurança**. O relatório é atualizado diariamente e reflete os dados de inscrição dos últimos sete dias.
 
 >[!NOTE]
 >O relatório de estado dos requisitos de segurança é suportado apenas no Partner Center. Não está disponível no Microsoft Cloud for US Government ou Microsoft Cloud Germany. Recomendamos vivamente que todos os parceiros que transacionem através de uma nuvem soberana (Governo dos EUA e Alemanha) adotem imediatamente estes novos requisitos de segurança. No entanto, estes parceiros não são atualmente obrigados a satisfazer os novos requisitos de segurança. A Microsoft fornecerá detalhes adicionais sobre a aplicação destes requisitos de segurança para nuvens soberanas no futuro.
@@ -93,8 +93,8 @@ Entenda se a sua implementação atual do MFA cobre todas as contas de utilizado
 
 Compreenda se a sua implementação atual apenas aplica MFA apenas em condições específicas. Algumas soluções MFA proporcionam flexibilidade para apenas impor mFA quando certas condições são satisfeitas. Por exemplo, o utilizador está a aceder a um dispositivo desconhecido ou a uma localização desconhecida. Um utilizador, que está habilitado para MFA mas não é obrigado a completar a verificação de MFA ao aceder ao Partner Center, pode fazer com que as métricas não sejam 100%.
 
->[!NOTE]
->Para os parceiros que implementaram o MFA utilizando os incumprimentos de segurança Azure AD, é importante notar que para as contas de utilizador não administradas a autenticação multi-factor será aplicada com base no risco. Os utilizadores serão solicitados para MFA apenas durante tentativas de entrada de risco (por exemplo, o utilizador está a iniciar sessão a partir de um local diferente). Além disso, os utilizadores terão até 14 dias para se inscreverem no MFA. Os utilizadores que não tenham preenchido o registo de MFA não serão contestados para verificação de MFA durante o período de 14 dias. Por isso, espera-se que as métricas não sejam 100% para os parceiros que implementaram o MFA utilizando os incumprimentos de segurança Azure AD.
+> [!NOTE]
+> Para os parceiros que implementaram o MFA utilizando os incumprimentos de segurança Azure AD, é importante notar que para as contas de utilizador não administradas a autenticação multi-factor será aplicada com base no risco. Os utilizadores serão solicitados para MFA apenas durante tentativas de entrada de risco (por exemplo, o utilizador está a iniciar sessão a partir de um local diferente). Além disso, os utilizadores terão até 14 dias para se inscreverem no MFA. Os utilizadores que não tenham preenchido o registo de MFA não serão contestados para verificação de MFA durante o período de 14 dias. Por isso, espera-se que as métricas não sejam 100% para os parceiros que implementaram o MFA utilizando os incumprimentos de segurança Azure AD.
 
 ### <a name="review-third-party-mfa-configurations"></a>Rever configurações de MFA de terceiros
 

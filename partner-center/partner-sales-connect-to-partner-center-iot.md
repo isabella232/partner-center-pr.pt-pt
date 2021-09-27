@@ -8,13 +8,13 @@ author: vikramb
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.date: 07/07/2021
-ms.openlocfilehash: 2b05046118c83c0d398272da68054a8a0c9c48e4
-ms.sourcegitcommit: fb9ca808f6362e81d65a6ba5770dc8820834a0ed
+ms.date: 09/27/2021
+ms.openlocfilehash: 1e32ed101c733ced14ac02f7e58b924d78313358
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "128360207"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129075793"
 ---
 # <a name="guide-to-create-and-manage-iot-deals-in-partner-center-pc-for-iot-partners-migrating-from-partner-sales-connect-psc"></a>Guia para criar e gerir ofertas de IOT no Partner Center (PC) para parceiros IOT migrando de Parceiros Sales Ligação (PSC)
 
@@ -22,10 +22,10 @@ ms.locfileid: "128360207"
 
 Este artigo fornece orientações para os parceiros IOT migrarem de Partner Sales Ligação (PSC) para Partner Center (PC) para que possam continuar a criar e gerir ofertas no Partner Center.
 
->[!Note]
+> [!NOTE]
 > Este guia **aplica-se apenas aos parceiros de negócios da IOT** que gerem as suas ofertas em PSC.
 
->[!Important]
+> [!IMPORTANT]
 > A partir de 15 de agosto de 2021, a sua empresa não poderá criar ou editar negócios no PSC. **Você ainda será capaz de baixar os dados de ofertas existentes usando a capacidade de exportação a granel em PSC. Você também pode [migrar ofertas abertas](partner-sales-connect-to-partner-center-iot.md#psc-deals-migration) de PSC para Partner Center após esta data.**
 
 Como sabe, **a sua empresa perderá acesso ao PSC após 30 de agosto de 2021**. No entanto, ainda encontrará tudo o que pretende fazer no Partner Center, como criar e gerir negócios.
@@ -53,33 +53,33 @@ Haverá diferenças, no entanto. A seguinte orientação pode ajudar a tornar a 
 
 A partir do menu de navegação à esquerda do Centro Parceiro, selecione a opção **Referências.** Confirme que pode aceder à página de Oportunidades de Co-venda.
 
-  >[!Note]
+  > [!NOTE]
   > Poderá ter de assinar fora do Partner Center e voltar a inscrever-se para refrescar as suas credenciais de acesso às páginas de Referências.
 
 Se não vir a opção **de Referências** no menu Partner Center ou páginas relacionadas com referências, contacte a [administração](permissions-overview.md) da conta da sua empresa e peça-lhe que lhe dê acesso à opção **de Referências** e área relacionada.
 
 Para encontrar a conta da sua empresa admin:
 
-1. Selecione **as definições** de conta do ícone de engrenagem no topo-direito do painel Partner Center.
+1. Selecione o ícone de engrenagem Definições no painel de instrumentos do Centro parceiro e, em seguida, **as definições de Conta**.
 
-1. Selecione **a gestão** do utilizador do segundo nível, menu de navegação à esquerda.
+2. Selecione **a gestão** do utilizador do segundo nível, menu de navegação à esquerda.
 
-1. No topo da lista de utilizadores, selecione o menu de entrega do **filtro.** Alterar a opção **para Administração conta.**
+3. No topo da lista de utilizadores, selecione o menu de entrega do **filtro.** Alterar a opção **para Administração conta.**
 
    A página apresentará todos os administradores da conta com os respetivos endereços de e-mail. Envie um e-mail a um deles e peça-lhes que atribuam a função de administração de referências para a sua conta de trabalho.
 
   :::image type="content" source="images/pscmigration/account-admin.gif" alt-text="Imagem mostrando os administradores de conta na página de gestão do utilizador de definições de parceiro.":::
 
->[!Important]
->- Se a sua função envolve apenas gerir utilizadores em PSC, peça ao administrador de conta da sua empresa para lhe atribuir o papel [de administrador](permissions-overview.md#manage-mpn-membership-and-your-company) de conta no Partner Center de acordo com a política da sua empresa.
->- Se o seu papel também inclui gerir negócios iot, peça para ser atribuído o [cargo de administrador de referências ou encaminha](permissions-overview.md#manage-referrals) a função de utilizador conforme apropriado.
+> [!IMPORTANT]
+> - Se a sua função envolve apenas gerir utilizadores em PSC, peça ao administrador de conta da sua empresa para lhe atribuir o papel [de administrador](permissions-overview.md#manage-mpn-membership-and-your-company) de conta no Partner Center de acordo com a política da sua empresa.
+> - Se o seu papel também inclui gerir negócios iot, peça para ser atribuído o [cargo de administrador de referências ou encaminha](permissions-overview.md#manage-referrals) a função de utilizador conforme apropriado.
 > - É uma boa ideia também nomear uma liderança de gestão de mudança entre os administradores do PSC. Ao fazê-lo, todos os administradores do PSC terão de contactar individualmente os administradores de conta partner center. Em vez disso, o chumbo da gestão da mudança pode então ser a pessoa principal a trabalhar com a administração da conta partner Center.
 
 ## <a name="user-migration"></a>Migração de utilizadores
 
 Depois de configurar a sua conta no Partner Center, utilize o assistente de migração do utilizador na página de oportunidades de co-venda para atribuir automaticamente funções do Partner Center aos colaboradores da sua empresa.
 
->[!Note]
+> [!NOTE]
 > A migração do utilizador só pode ser realizada por administradores de [conta](permissions-overview.md#manage-mpn-membership-and-your-company) da sua empresa. Se não tiver a função de administrador de conta, encontre um administrador de conta que possa ajudar a configurar as contas do utilizador com a ajuda do assistente de migração do utilizador.
 
 :::image type="content" source="images/pscmigration/user-migration.gif" alt-text="Imagem mostrando o assistente de migração do utilizador.":::
@@ -106,12 +106,12 @@ A tabela de migração do utilizador tem os seguintes detalhes:
 2. O utilizador do PSC pode estar a utilizar uma conta de um domínio diferente daquele que utiliza no Partner Center.
 
    Para resolver erros relacionados com os cenários 1 e 2, peça ao utilizador para se inscrever no Partner Center utilizando a sua conta de trabalho anexada ao seu inquilino Azure AD. O seu [administrador global](permissions-overview.md#manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles) pode ajudar.
-   
+
    Para encontrar o seu administrador global: 
-   1. Inscreva-se no painel de [instrumentos](https://partner.microsoft.com/dashboard) Do Centro de Parceiros e selecione **as definições** de conta do ícone de engrenagem no topo-direito.
+   1. Inscreva-se no [painel de instrumentos do Centro de Parceiros](https://partner.microsoft.com/dashboard) e selecione o ícone de engrenagem Definições e, em seguida, **as definições de Conta**.
    2. Selecione a **gestão** do utilizador a partir da barra de navegação do segundo nível, esquerda.
    3. No topo da lista de utilizadores, selecione o menu de entrega do **Filtro** e altere a opção para **administração Global.** A página apresenta então todos os administradores globais com os respetivos endereços de e-mail. Peça a um deles que atribua o papel de administrador de encaminhamento para a sua conta de trabalho.
-   
+
       O administrador global pode criar uma nova conta de utilizador no seu inquilino AZure AD ou atribuir acesso ao utilizador convidado aos outros utilizadores de conta de domínio. Uma vez configuradas as contas para todos os gestores e utilizadores de negócios do PSC, eles precisam de iniciar sação no Partner Center, selecionar **Referências** do menu de navegação à esquerda e confirmar que podem ver a página de Referências.
 
 3. O utilizador já tem uma função de encaminhamento atribuída no Partner Center.
@@ -143,13 +143,13 @@ Antes de iniciar a migração do acordo do Partner Center, siga as instruções 
 
 Você pode usar as capacidades de descarregamento e upload em massa no PSC para adicionar todos os detalhes em falta no negócio para todas as ofertas elegíveis.
 
->[!Note]
+> [!NOTE]
 > A migração de acordos terá êxito, mesmo que os pré-requisitos acima referidos não sejam cumpridos. Mas não pode alterar o estado do negócio se algum dos campos acima mencionados exigidos no Partner Center não estiver disponível. Em seguida, terá de introduzir todas as informações necessárias que faltam nos negócios no Partner Center para começar a trabalhar nelas. **É fortemente aconselhável limpar as ofertas elegíveis no PSC antes de os migrar para o Partner Center.**
 
 A migração de negócios no Partner Center é construída como uma experiência de um clique. Tudo o que precisa de fazer é clicar no botão **"Acordos migratórios"** assim que a sua empresa estiver pronta para migrar as ofertas elegíveis. **Não pode escolher os acordos que pretende migrar do PSC. Se não quiser migrar quaisquer negócios para o Partner Center, transloque-os para o estado fechado no PSC antes de iniciar a migração.**
 
->[!Note]
-> Após o início da migração, **pode levar até 24 horas para os negócios serem migrados.**
+> [!NOTE]
+> A partir do momento em que a migração é iniciada, pode levar até 24 horas para que todos os negócios sejam migrados.
 
 Uma vez concluída a migração, a mensagem do banner terá o estado alterado para ser completada com um link para o relatório de migração. Faça o download do relatório para ver os detalhes das ofertas que foram migradas do PSC para o Partner Center.
 
@@ -165,15 +165,13 @@ Todos os acordos que foram migrados com sucesso não serão visíveis no PSC. Po
 
 As ofertas migradas do PSC estarão disponíveis no separador Outbound da página de Oportunidades de Co-venda. Todos os negócios serão criados como acordos liderados por parceiros. São visíveis para os vendedores da Microsoft.
 
->[!Important]
+> [!NOTE]
 > Se houver erros devidos aos quais algumas ofertas não puderam ser migradas, **pode relançar a migração do negócio clicando no botão "Acordos migratórios".** Só será ativado se houver algumas negociações elegíveis ainda por migrar. Isto também será útil se estiver na fase de transição onde alguns novos negócios estão a ser criados no PSC após o início da migração de acordos.
 
 Uma vez que todos os negócios são migrados com sucesso, haverá banner mostrando **"No deals to migrar"** com o botão **"Migrar acordos"** a ser **desativado.**
 
-## <a name="next-steps"></a>Passos seguintes
-
-Aprenda a criar e gerir ofertas de IOT no Partner Center.
-Este é um passo importante, que o ajudará a estar preparado para a gestão de negócios da IOT no Partner Center. Compreenda os fluxos de trabalho e as mudanças no Partner Center para que possa efetivamente criar e gerir negócios. Comece por ler completamente este documento.
+> [!IMPORTANT]
+> Em seguida, você deve ganhar como criar e gerir ofertas de IoT no Partner Center. Este é um passo importante, que irá prepará-lo para a gestão de negócios IoT. Compreenda os fluxos de trabalho e as mudanças no Partner Center para que possa efetivamente criar e gerir negócios. Comece por ler completamente este documento.
 
 ## <a name="differences-between-psc-and-pc-workflows"></a>Diferenças entre fluxos de trabalho de CPE e PC
 
@@ -189,44 +187,48 @@ Este é um passo importante, que o ajudará a estar preparado para a gestão de 
 
 As seguintes secções respondem a perguntas frequentes sobre a migração.
 
-### <a name="1---what-should-i-do-if-i-dont-have-access-to-partner-center"></a>1 - O que devo fazer se não tiver acesso ao Partner Center?
+### <a name="what-should-i-do-if-i-dont-have-access-to-partner-center"></a>O que devo fazer se não tiver acesso ao Centro de Parceiros?
 
 Pode contactar os seus administradores listados na página "Não ter acesso" para obter as funções atribuídas. Você precisará da [função de administração de encaminhamento](permissions-overview.md#manage-referrals) para ler e escrever permissão sob a secção de referências. Se está a gerir apenas perfis de negócio, então vai precisar do perfil de negócios no Partner Center.
 
 :::image type="content" source="images/pscmigration/noaccess.png" alt-text="Imagem mostrando a experiência de não acesso no Partner Center.":::
 
-### <a name="2---who-can-grant-me-access-to-the-referrals-section-in-partner-center"></a>2 - Quem pode conceder-me acesso à secção de Referências no Centro de Parceiros?
+### <a name="who-can-grant-me-access-to-the-referrals-section-in-partner-center"></a>Quem pode dar-me acesso à secção de referências no Centro de Parceiros?
 
 A sua [administração](permissions-overview.md#manage-mpn-membership-and-your-company) de conta pode dar-lhe acesso ao separador Referências. Para encontrar a sua administração de conta, selecione **as definições** de Conta do ícone de engrenagem no topo-direito do [painel](https://partner.microsoft.com/dashboard)Partner Center . Em seguida, selecione **a gestão** do utilizador a partir da barra de navegação deixada no segundo nível. No topo da lista de utilizadores, selecione o menu de entrega do **filtro** e altere a opção de **administração de conta.** A página apresentará todos os administradores da conta com os respetivos endereços de e-mail. Peça a um deles que atribua o papel de administrador de encaminhamento para a sua conta de trabalho.
 
-### <a name="3---the-new-deal-button-is-greyed-out-for-our-account-what-should-i-do-to-start-creating-deals"></a>3 - O botão +novo acordo está acinzentado para a nossa conta. O que devo fazer para começar a criar acordos?
+### <a name="the-new-deal-button-is-greyed-out-for-our-account-what-should-i-do-to-start-creating-deals"></a>O novo botão de acordo está acinzentado para a nossa conta. O que devo fazer para começar a criar acordos?
 
 Isto só acontece se o ID MPN associado à sua conta não estiver habilitado para a criação de negócios IOT. Contacte a equipa de negócios da IOT sobre o e-mail fornecido durante as sessões de formação ou crie um bilhete de apoio para obter o seu ID MPN habilitado para ofertas de IOT."
 
-### <a name="4---can-i-assign-deals-to-a-specific-person-from-our-organization-like-psc"></a>4 - Posso atribuir ofertas a uma pessoa específica da nossa organização como o PSC?
+### <a name="can-i-assign-deals-to-a-specific-person-from-our-organization-like-psc"></a>Posso atribuir ofertas a uma pessoa específica da nossa organização como o PSC?
 
 Pode atribuir membros da equipa a um acordo específico. Não impede outros administradores de visualização ou atuação nesses negócios.
 
-### <a name="5---is-there-a-view-of-all-the-deals-assigned-to-me"></a>5 - Existe uma visão de todos os negócios que me foram atribuídos?
+### <a name="is-there-a-view-of-all-the-deals-assigned-to-me"></a>Há alguma visão de todos os acordos que me foram atribuídos?
 
 Pode utilizar a funcionalidade favorito, que é um separador ao nível do utilizador. Pode marcar todas as ofertas que lhe são atribuídas como favoritas para ter um acesso rápido às ofertas.
 
-### <a name="6---is-there-a-read-only-view-for-the-deals"></a>6 - Existe uma visão apenas de leitura para os negócios?
+### <a name="is-there-a-read-only-view-for-the-deals"></a>Há uma visão só de leitura para os negócios?
 
 Não, não há uma visão apenas de leitura dos negócios na secção de referências.
 
-### <a name="7---is-adding-a-customer-organization-mandatory"></a>7 - A adição de uma organização de clientes é obrigatória?
+### <a name="is-adding-a-customer-organization-mandatory"></a>Adicionar uma organização de clientes é obrigatório?
 
 Sim, adicionar uma [organização de clientes](./manage-co-sell-opportunities.md#select-your-customer) é obrigatório no Partner Center. Comece por procurar o local onde o cliente está. Com base nos detalhes que tem; você pode adicionar detalhes específicos, incluindo o nome exato do edifício ou apenas dar detalhes da cidade. A pesquisa da organização irá buscar todas as entidades legais que correspondem ao nome que você insere para que você não tenha que inserir quaisquer detalhes de endereço. Todos os detalhes são preenchidos automaticamente com base na organização selecionada.
 
-### <a name="8---are-customer-contact-details-mandatory"></a>8 - Os dados de contacto do cliente são obrigatórios?
+### <a name="are-customer-contact-details-mandatory"></a>Os dados de contacto do cliente são obrigatórios?
 
 Sim, os dados de contacto do cliente são obrigatórios para a criação de ofertas IOT.
 
-### <a name="9---how-many-solutions-can-i-add-to-a-deal"></a>9 - Quantas soluções posso acrescentar a um acordo?
+### <a name="how-many-solutions-can-i-add-to-a-deal"></a>Quantas soluções posso acrescentar a um acordo?
 
 Pode adicionar até 50 soluções (análogas aos 'produtos' em PSC) a um acordo. Tanto a quantidade como a data de fecho estimada para as soluções são obrigatórias e a data de fecho estimada das soluções deve ser mais cedo do que a data de fecho estimada na secção detalhes do negócio.
 
-### <a name="10---where-can-i-find-the-opportunity-id"></a>10 - Onde posso encontrar a oportunidade de imposição?
+### <a name="where-can-i-find-the-opportunity-id"></a>Onde posso encontrar a oportunidade de encontrar a oportunidade de encontrar a oportunidade de encontrar a oportunidade de encontrar o ID da oportunidade?
 
-O ID de oportunidade no PSC é o mesmo que o ID de encaminhamento no Partner Center. Pode encontrar a identificação de referência ao lado do nome do negócio quando abrir qualquer negócio.
+A oportunidade de identificação no PSC é a mesma que o ID de referência no Partner Center. Pode encontrar a identificação de referência ao lado do nome do negócio quando abrir qualquer negócio.
+
+## <a name="next-steps"></a>Passos seguintes
+
+- [Expanda o seu negócio com referências](./grow-your-business.md)

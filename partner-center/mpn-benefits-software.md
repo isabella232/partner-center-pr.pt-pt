@@ -9,12 +9,12 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7544a090b447af37f06ddf31606794a00f357b05
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: 8180f8cae9228f6ed6bb8c1a5953fe1314eb6fc5
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123961090"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129073611"
 ---
 # <a name="mpn-benefits---software"></a>Benefícios MPN - Software
 
@@ -22,7 +22,7 @@ ms.locfileid: "123961090"
 
 ## <a name="overview"></a>Descrição Geral
 
-Este artigo descreve os benefícios do software On-Premises disponíveis para parceiros de dentro do Partner Center. Para ver todos os produtos de software a que tem direito como parte da sua oferta de inscrição ativa, vá à  [MPN>Benefits e, em seguida, selecione o](https://partner.microsoft.com/dashboard/mpn/membership/benefits/software) separador Software no menu Partner Center.  
+Este artigo descreve os benefícios do software On-Premises disponíveis para parceiros de dentro do Partner Center. Para ver todos os produtos de software a que tem direito como parte da sua oferta de inscrição ativa, inicie sessão nos [Benefícios do Centro Parceiro.](https://partner.microsoft.com/dashboard/mpn/membership/benefits/software)
 
 ## <a name="manage-software-products-and-product-keys"></a>Gerir produtos de software e chaves de produto
 
@@ -32,34 +32,30 @@ Se um produto necessitar de uma chave de produto para a instalação, será soli
 
 A ativação do produto é necessária para Windows **sistemas operativos** **do Servidor** e clientes e **todas as aplicações Microsoft Office clientes**. Nem todos os produtos requerem ativação do produto.
 
-:::image type="content" source="images/benefits/mpn-software-benefits-1.png" alt-text="Benefícios do produto de software disponíveis no MPN." border="false":::
+:::image type="content" source="images/benefits/mpn-software-benefits-1.png" alt-text="Benefícios do produto de software disponíveis na MPN." border="false":::
 
 ## <a name="how-activations-are-counted"></a>Como as ativações são contadas
 
-O número de ativações contadas contra uma chave do produto baseia-se em cenários seguintes
+O número de ativações contadas contra uma chave de produto baseia-se em cenários seguintes
 
 - Se o software for instalado numa nova máquina, a contagem de ativação do produto contra a chave é incrementada por uma.
- 
-- Se o software for instalado na mesma máquina sem alterações significativas de hardware, a ativação do produto não é contabilizada com a chave do produto.
+
+- Se o software for instalado na mesma máquina sem alterações significativas no hardware, a ativação do produto não é contabilizada com a chave do produto.
 
 - Se o software for instalado na mesma máquina com alterações significativas de hardware, a ativação do produto é contada com a chave do produto.
 
 ## <a name="troubleshooting-scenarios"></a>Cenários de resolução de problemas
 
-- **"Não há mais detalhes disponíveis" para os benefícios cals (Windows Servidor De Acesso ao Cliente)**
+- **"Não há mais detalhes disponíveis" para os benefícios da LICENÇA de Acesso ao Cliente do Windows servidor do servidor**
 
-    Os CALs não são um produto transferível. A ativação dos CALs é gerida no próprio produto Server.
+    Os CALs não são um produto transferível. A ativação de CALs é gerida no próprio produto Server.
 
-- **Recebe uma mensagem que afirma que atingiu as ativações máximas disponíveis para uma chave de produto ao tentar ativar o software.**
+- **Recebe uma mensagem que afirma que atingiu as ativações disponíveis máximas para uma chave de produto ao tentar ativar o software.**
 
     É-lhe fornecido um número específico de ativações por produto através dos benefícios de adesão mpn. Se tiver cumprido ou excedido o número máximo de ativações, não poderá ativar mais licenças utilizando a chave do produto fornecida.
 
-
  ## <a name="next-steps"></a>Passos seguintes
 
-- [Gerencie os benefícios e ofertas da Rede microsoft partner](manage-your-partner-network-benefits.md)
+- [Gerencie os benefícios e ofertas da Rede de Parceiros da Microsoft](manage-your-partner-network-benefits.md)
 
 - [Utilize incidentes de suporte técnico para obter suporte técnico específico do produto](mpn-benefits-technical-support.md)
-
-
-

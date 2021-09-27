@@ -1,20 +1,20 @@
 ---
-title: Isenção de exame de competência de desenvolvimento de candidaturas
+title: Isenção de exame de competência para desenvolvimento de candidaturas
 ms.topic: article
 ms.date: 05/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-membership
-description: Para os parceiros com uma competência isv prévia, aprenda a obter uma isenção única de requisitos de exame para a competência de Desenvolvimento de Aplicações
+description: Para parceiros com competência ISV anterior, aprenda a obter uma isenção única de requisitos de exame para a competência de Desenvolvimento de Aplicações
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 71121a7493da8dee18fc65a90a4a70cc32d712c9
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: e595990b0af4abf758af74497063670b6959c869
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126246443"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129070551"
 ---
 # <a name="one-time-exam-requirements-exemption-for-the-application-development-competency"></a>Isenção única dos requisitos de exame para a competência de Desenvolvimento de Aplicações
 
@@ -24,9 +24,9 @@ Se obteve a competência isv agora reformada e um dos seguintes cenários se apl
 
 Parceiros com uma competência ISV:
 
-- **A sua competência ISV expirou** – A isenção de requisitos de exame único está disponível no Partner Center a partir de 22 de novembro de 2019. Tem 30 dias para aproveitar a oferta. Inscreva-se no Partner Center para mais detalhes específicos da sua empresa.
+- **A sua competência ISV expirou** – A isenção de requisitos de exame único está disponível no Partner Center a partir de 22 de novembro de 2019. Tem 30 dias para aproveitar a oferta. Inscreva-se no [Partner Center](https://partner.microsoft.com) para obter detalhes específicos da sua empresa.
 
-- **A sua adesão à competência está na sua janela** de renovação – A isenção de requisitos de exame único está disponível no Partner Center a partir de 22 de novembro de 2019. Tem 30 dias para aproveitar a oferta. Inscreva-se no Partner Center para mais detalhes específicos da sua empresa.
+- **A sua adesão à competência está na sua janela** de renovação – A isenção de requisitos de exame único está disponível no Partner Center a partir de 22 de novembro de 2019. Tem 30 dias para aproveitar a oferta. Inscreva-se no [Partner Center](https://partner.microsoft.com) para obter detalhes específicos da sua empresa.
 
 - **A sua adesão à competência deverá ser renovada nos próximos meses** – a isenção de requisitos de exame único estará disponível para si quando for a hora de renovar. Nessa altura, terá 30 dias para receber a oferta.
 
@@ -43,7 +43,7 @@ Parceiros com uma competência de Desenvolvimento de Aplicações alcançada atr
 
 3. Selecione **Desenvolvimento de Aplicações**. Verá o aviso de que lhe foi dado um adiamento que isenta a sua empresa de cumprir os requisitos do exame. 
 
-4. Para tirar partido desta oferta, vá às **ofertas de Adesão.** Poderá ter de pagar a taxa de competência para concluir o processo dependendo da sua competência de compra ou estatuto de renovação. 
+4. Para tirar partido desta oferta, vá às **ofertas de Adesão.** Poderá ter de pagar a taxa de competência para concluir o processo, dependendo da sua aquisição de competência ou estatuto de renovação. 
 
 Esta oferta está disponível através do Partner Center.
 
@@ -53,7 +53,7 @@ Se precisar de assistência para receber a sua oferta, ou tiver dúvidas sobre a
 
 **Como sei se a minha empresa é elegível para esta oferta?**
 
-As empresas parceiras elegíveis para esta oferta foram notificadas via e-mail e no Partner Center, com informações sobre como obter a oferta. Os parceiros elegíveis incluem aqueles que atingiram a competência isv agora reformada e aqueles que atingiram a competência de Desenvolvimento de Aplicações através da via cert IP. 
+As empresas parceiras elegíveis para esta oferta foram notificadas via e-mail e no Partner Center, com informações sobre como obter a oferta. Os parceiros elegíveis incluem aqueles que atingiram a competência isv agora reformada e aqueles que atingiram a competência de Desenvolvimento de Aplicações através da trajetória cert IP. 
 
 **Quais são os benefícios da competência de Desenvolvimento de Aplicações?**
 
@@ -61,10 +61,10 @@ Pode rever os benefícios da competência de Desenvolvimento de Aplicações no 
 
 **O que acontece quando chegar a altura de renovar a minha competência quando receber esta oferta?** 
 
-Partilharemos mais informações sobre os nossos planos para os ISVs em breve e forneceremos orientações para os parceiros que tenham a competência de Desenvolvimento de Aplicações como resultado desta oferta.**  
+Partilharemos mais informações sobre os nossos planos para os ISVs em breve e forneceremos orientações para parceiros que tenham a competência de Desenvolvimento de Aplicações como resultado desta oferta.**  
 
 **Como posso obter esta oferta se a minha empresa não tinha a competência ISV?**
 
-Esta oferta está disponível apenas para parceiros elegíveis – aqueles que tinham a competência ISV ou a competência de Desenvolvimento de Aplicações através do caminho cert IP. Estamos a considerar ativamente soluções abrangentes e de curto prazo para servir isvs e partilharemos mais detalhes em breve. 
+Esta oferta está disponível apenas para parceiros elegíveis – aqueles que tinham a competência ISV ou a competência de Desenvolvimento de Aplicações através da via cert IP. Estamos a considerar ativamente soluções abrangentes e de curto prazo para servir isvs e partilharemos mais detalhes em breve. 
 
 

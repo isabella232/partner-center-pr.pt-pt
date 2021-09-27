@@ -9,12 +9,12 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a8703d9a8c482ac3fba5497780b2f5163bf86061
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: 717c59a2985fa36ba553a631dca155c1f0263905
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126246254"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129074060"
 ---
 # <a name="view-earnings-using-the-chip-tool"></a>Ver ganhos utilizando a ferramenta CHIP
 
@@ -28,9 +28,11 @@ Pode aceder à sua declaração de incentivos através da ferramenta Channel Inc
 
 2. Selecione o programa de incentivos em que está interessado.
 
-3. Em **Programa Resumo,** período ou mês selecionado. 
-1. Selecione Detalhes de cálculo da lista de drop-down.
-1.  Clique em **Abrir** na barra de notificação para abrir a sua declaração.
+3. No período ou mês de **resumo do programa.** 
+
+4. Selecione Detalhes de cálculo da lista de drop-down.
+
+5.  Clique em **Abrir** na barra de notificação para abrir a sua declaração.
 
 ### <a name="explanation-of-details-tabs"></a>Explicação dos separadores de detalhes
 

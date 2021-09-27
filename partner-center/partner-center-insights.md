@@ -1,20 +1,20 @@
 ---
-title: Centro de Parceiros Informações
-description: Explore este painel de relatórios unificado do Partner Center. Veja como está em KPI's para vendas e implementação, desenvolvimento de clientes, e muito mais.
+title: Centro de Informações
+description: Explore este painel de relatórios unificado do Partner Center. Veja como está em KPI's para vendas e implementação, desenvolvimento de clientes e muito mais.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
-author: shthota77
-ms.author: shthota
+author: kshitishsahoo
+ms.author: ksahoo
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/26/2020
-ms.openlocfilehash: 2061286ecb048647d666438a34b4759175b7deb4
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: 297f63aa4777f7a5448ec915e727b18dacdd0bc5
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960260"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129075042"
 ---
 # <a name="partner-center-insights---a-dashboard-that-shows-how-a-microsoft-commercial-partner-is-doing"></a>Partner Center Informações - um dashboard que mostra como um parceiro comercial da Microsoft está a fazer
 
@@ -26,7 +26,7 @@ O dashboard Informações é um painel de reporte unificado no Partner Center pa
 
 ## <a name="role-based-access-control-to-the-insights-dashboard"></a>Controlo de acesso baseado em funções ao painel de Informações
 
-Existem duas novas funções no Partner Center projetadas especificamente para o acesso a Informações: **Report Viewer** e **Executive Report Viewer**. Os utilizadores na função de Visualizador de Relatório Executivo têm acesso a todos os conjuntos de dados de reporte, enquanto os utilizadores na função 'Observador' de relatórios não terão acesso a conjuntos de dados sensíveis, tais como receitas e dados pessoais do cliente/colaborador. 
+Existem duas novas funções no Partner Center projetadas especificamente para o acesso a Informações: **Report Viewer** e **Executive Report Viewer**. Os utilizadores na função de Visualizador de Relatório Executivo têm acesso a todos os conjuntos de dados de reporte, enquanto os utilizadores na função 'Observador de Relatórios' não terão acesso a conjuntos de dados sensíveis, tais como receitas e dados pessoais cliente/colaborador. 
 
 O administrador Global ou o administrador da Conta podem atribuir aos utilizadores estas funções e são atribuídos quer para toda a empresa, quer para uma localização MPN específica.  
 
@@ -41,15 +41,15 @@ Os seguintes relatórios estão disponíveis como parte do painel de Informaçõ
 
 **Cliente**: O relatório do Cliente apresenta análises em torno dos seus clientes, tais como dados de aquisição de clientes, clientes ativos, etc.
 
-**Produto - Subscrições**: O relatório de subscrições apresenta análises de aquisição e utilização para as suas subscrições cloud (tais como O365, Azure, Dynamics, etc.)
+**Produto - Subscrições**: O relatório de subscrições apresenta análises de aquisição e utilização para as suas subscrições cloud (tais como O365, Azure, Dynamics etc.)
 
-**Licenças de Produtos**: O dashboard licenses apresenta análise de licença para produtos cloud baseados em licenças como O365, Dynamics, Power BI etc.
+**Licenças de Produtos**: O dashboard licenses apresenta análise de licença para produtos Cloud baseados em licenças como O365, Dynamics, Power BI etc.
 
-**Produto - Utilização Azure**: O relatório de utilização do Azure apresenta métricas relacionadas com as subscrições Azure dos seus clientes, incluindo as receitas de consumo da Azure e a utilização por categorias de contadores.
+**Produto - Utilização Azure**: O relatório de utilização do Azure apresenta métricas relacionadas com as assinaturas Azure dos seus clientes, incluindo as receitas de consumo da Azure e a utilização por categorias de contadores.
 
 **Competências**: O relatório de Competências apresenta métricas nas suas competências ativas, qualificadas e em risco.
 
-**Benefícios**: O relatório Benefits apresenta análises sobre os benefícios dos parceiros que obteve vs consumidos.
+**Benefícios**: O relatório Benefits apresenta análises sobre os benefícios do parceiro que obteve vs consumidos.
 
 ## <a name="navigating-the-insights-reports"></a>Navegando nos relatórios de Informações
 
@@ -64,13 +64,13 @@ Os seguintes relatórios estão disponíveis como parte do painel de Informaçõ
 
 - Os filtros selecionados serão aplicáveis a todos os gráficos e métricas de uma página, incluindo a secção de resumo. Um item de filtro estará disponível se tiver algum dado dentro desses critérios de filtragem. 
 
-- A seleção predefinida de cada lista de filtros é **toda.** Por exemplo, se não tiver selecionado um produto específico no filtro de produtos, a seleção predefinida será de todos os produtos.
+- A seleção predefinida de cada lista de **filtros** é toda . Por exemplo, se não tiver selecionado um produto específico no filtro de produtos, a seleção predefinida será de todos os produtos.
 
 - Os filtros selecionados serão apresentados no topo da página. 
 
 :::image type="content" source="images/insights/filters.png" alt-text="Screenshot parcial mostra barra de filtros aplicada com seleções de filtros para Produtos, Mercados de Clientes, Atribuições de Parceiros e Canais de Vendas.":::
 
-### <a name="filters-definitions"></a>Definições de filtros:
+### <a name="filters-definitions"></a>Filtra definições:
 
 - Produtos: Lista de todos os produtos Microsoft Cloud vendidos/geridos pela sua organização, por exemplo, O365, Azure, D365, EMS, Power BI, etc.
 - Mercados de clientes: Lista de países de clientes
@@ -85,7 +85,7 @@ Os seguintes relatórios estão disponíveis como parte do painel de Informaçõ
 
 - [Centro de Parceiros Informações - Painel de clientes](insights-customer-report.md)
 
-- [Partner Center Informações - Relatório de assinaturas](insights-product-subscriptions-report.md)
+- [Relatório do Centro de Parceiros Informações - Relatório de Assinaturas](insights-product-subscriptions-report.md)
 
 - [Partner Center Informações - Relatório de Licenças](insights-product-licenses-report.md)
 

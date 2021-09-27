@@ -1,25 +1,25 @@
 ---
-title: Relatório de utilização de equipas de centros de parceiros
+title: Relatório de utilização de equipas de centro de parceiros
 ms.topic: article
 ms.date: 01/11/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
 description: Veja o que está a fazer bem e onde pode melhorar no que diz respeito ao uso de Teams subscrições que vende ou gere para os seus clientes.
-author: shganesh-dev
-ms.author: shganesh
+author: kshitishsahoo
+ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: 390c81496c16afb20ede58420c1201b24349708e
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: 4a228641240d40dc53867a2c8bd80bbb54194c72
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123961409"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129075297"
 ---
 # <a name="teams-usage-report-available-from-the-partner-center-insights-dashboard"></a>Teams relatório de utilização disponível no painel de instrumentos do Partner Center Informações
 
 **Funções adequadas**: Administração global | Agente administrativo | Relatório | do espectador Espectador de relatório executivo
 
-O relatório Teams Usage apresenta métricas relacionadas com as suas Teams cargas de trabalho que vendeu ou geriu para os seus clientes. Pode ver as seguintes secções do relatório Teams Utilização.
+O relatório Teams Usage apresenta métricas relacionadas com a sua Teams cargas de trabalho que vendeu ou geriu para os seus clientes. Pode ver as seguintes secções do relatório Teams Utilização.
 
 - Resumo
 - Tendência de conversas
@@ -27,7 +27,7 @@ O relatório Teams Usage apresenta métricas relacionadas com as suas Teams carg
 - Principais clientes por utilização
 
  > [!NOTE]
- > Este relatório está disponível no painel de instrumentos Informações. Para visualizar este relatório, deve ser-lhe atribuído um papel específico no Partner Center, como administração global, administração de contas, espectador de relatório ou visualizador de relatórios executivos. Para mais informações, consulte a administração Global da sua empresa. Os tipos específicos de dados deste relatório também podem estar disponíveis apenas para utilizadores com privilégios de visualização de relatório executivo.
+ > Este relatório está disponível no painel de instrumentos Informações. Para visualizar este relatório, deve ser-lhe atribuído um papel específico no Partner Center, como administração global, administração de contas, visualizador de relatórios ou visualizador de relatórios executivos. Para mais informações, consulte a administração Global da sua empresa. Os tipos específicos de dados deste relatório também podem estar disponíveis apenas para utilizadores com privilégios de visualização de relatório executivo.
 
 ## <a name="summary"></a>Resumo
 
@@ -59,7 +59,7 @@ O relatório Teams de utilização por cargas de trabalho mostra a divisão mens
 
 ## <a name="top-customers-by-usage"></a>Principais clientes por utilização
 
-O relatório de utilização dos principais clientes mostra o uso de clientes de topo para reuniões de Teams, chamadas e sistemas telefónicos e aplicações de terceiros.
+O relatório de utilização dos principais clientes mostra o uso de clientes de topo para reuniões Teams, chamadas e sistemas telefónicos e aplicações de terceiros.
 
 :::image type="content" source="images/insights/teams-usage-top-customer.png" alt-text="Clientes de topo por uso.":::
 

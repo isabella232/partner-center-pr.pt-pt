@@ -4,20 +4,20 @@ description: Exemplos para aprender a usar a API para aceder a dados de análise
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
-author: shganesh-dev
-ms.author: shganesh
+author: kshitishsahoo
+ms.author: ksahoo
 ms.localizationpriority: medium
 ms.date: 07/14/2021
-ms.openlocfilehash: 9aac83645051f3e8f32945ae908ba1fe47c08d13
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: 622cb3eb44b5d89b8721c223aac44635a1782ac7
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126246791"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129071862"
 ---
 # <a name="make-your-first-api-call-to-access-partner-insights-analytics-data"></a>Faça a sua primeira chamada de API para aceder a dados de análise de insights de parceiros
 
-Para obter uma lista das APIs para aceder a dados de análise de insights de parceiros, consulte [APIs para aceder aos dados de análise de insights de parceiros](insights-programmatic-analytics-available-api.md). Antes de fazer a sua primeira chamada API, certifique-se de que cumpriu os [requisitos necessários](insights-programmatic-prerequisites.md) para aceder programaticamente ao Parceiro Informações dados de análise.
+Para obter uma lista das APIs para aceder a dados de análise de insights de parceiros, consulte [APIs para aceder a dados de análise de insights de parceiros](insights-programmatic-analytics-available-api.md). Antes de fazer a sua primeira chamada API, certifique-se de que cumpriu os [requisitos prévios](insights-programmatic-prerequisites.md) para aceder programáticamente ao Parceiro Informações dados de análise.
 
 ## <a name="token-generation"></a>Geração Token
 
@@ -63,7 +63,7 @@ Depois de obter o Token AAD como descrito na secção anterior, siga estes passo
 
 Os dados podem ser descarregados a partir dos seguintes conjuntos de dados (datasetName):
 
-- ClientesTenants
+- ClientesAndTenants
 - AssentosSubscriçõesAndRevenue
 - AzureUsage
 - MSLearn
@@ -86,7 +86,7 @@ Os dados podem ser descarregados a partir dos seguintes conjuntos de dados (data
 
 Na secção seguinte, veremos exemplos de como aceder programáticamente `SubscriptionId` a partir do conjunto de dados DynamicsUsage.
 
-### <a name="step-1-make-a-rest-call-using-the-get-datasets-api"></a>Passo 1: Faça uma chamada REST utilizando a API de conjuntos de dados
+### <a name="step-1-make-a-rest-call-using-the-get-datasets-api"></a>Passo 1: Faça uma chamada DECONSE usando a API de conjuntos de dados
 
 A resposta da API fornece o nome do conjunto de dados de onde pode descarregar o relatório. Para o conjunto de dados específico, a resposta API também fornece a lista de colunas selecionáveis que podem ser usadas para o seu modelo de relatório personalizado. Também pode consultar as [Definições de Dados](insights-data-definitions.md) para obter os nomes das colunas.
 
@@ -205,7 +205,7 @@ curl
 }
 ```
 
-Na execução bem sucedida da consulta, é gerada uma `queryId` que precisa de ser usada para gerar o relatório.
+Na execução bem sucedida da consulta, `queryId` gera-se um que precisa de ser utilizado para gerar o relatório.
 
 ### <a name="step-3-execute-test-query-api"></a>Passo 3: Executar consulta de teste API
 
@@ -269,7 +269,7 @@ curl
 
 ### <a name="step-4-create-the-report"></a>Passo 4: Criar o relatório
 
-Neste passo, usaremos a Consulta anteriormente gerada para criar o relatório.
+Neste passo, usaremos o QueryId anteriormente gerado para criar o relatório.
 
 #### <a name="request-example"></a>Exemplo de pedido
 
@@ -373,4 +373,4 @@ Curl
 
 ## <a name="next-steps"></a>Passos seguintes
 
-- Experimente as APIs através do [URL da API](https://api.partnercenter.microsoft.com/insights/v1/mpn/swagger/index.html)
+- Experimente as APIs através do [URL da API swagger](https://api.partnercenter.microsoft.com/insights/v1/mpn/swagger/index.html)

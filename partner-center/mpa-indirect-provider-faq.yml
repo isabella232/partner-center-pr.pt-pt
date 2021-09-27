@@ -5,47 +5,47 @@ metadata:
   ms.date: 02/17/2021
   ms.service: partner-dashboard
   ms.subservice: partnercenter-enroll
-  description: Respondidas questões-chave sobre o Acordo de Parceiros da Microsoft
+  description: Respostas questões-chave sobre o Acordo de Parceiros da Microsoft
   author: vinayks
   ms.author: vinayks
   ms.localizationpriority: medium
   ms.custom: SEOMAY.20
-  ms.openlocfilehash: 1eac4c58981ee5097ab429480e33072a39b9c20c
-  ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+  ms.openlocfilehash: 0408eda0ca2a14d1348cabfae6b51a63dc510feb
+  ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
   ms.translationtype: MT
   ms.contentlocale: pt-PT
-  ms.lasthandoff: 09/09/2021
-  ms.locfileid: "123960659"
+  ms.lasthandoff: 09/27/2021
+  ms.locfileid: "129074634"
 title: Como os fornecedores indiretos podem ajudar os seus revendedores indiretos a aceitar o Acordo de Parceiros da Microsoft (MPA)
-summary: "**Funções adequadas**: Administração global | Agente administrativo | Agente comercial\n\nAs seguintes perguntas e respostas abordam potenciais problemas e soluções para ajudar os revendedores indiretos a entender como e porquê aceitar a MPA. \n\nFornecedores indiretos, parceiros de conta direto e revendedores indiretos no programa Fornecedor de Soluções em Nuvem acharão esta informação útil.\n"
+summary: "**Funções adequadas**: Administração global | Agente administrativo | Agente comercial\n\nAs seguintes perguntas e respostas abordam potenciais problemas e soluções para ajudar os revendedores indiretos a entender como e porquê aceitar a MPA. \n\nFornecedores indiretos, parceiros de contas diretas e revendedores indiretos no programa Fornecedor de Soluções em Nuvem acharão esta informação útil.\n"
 sections:
 - name: Perguntas sobre o programa e política da MPA
   questions:
   - question: >
       Quais são as implicações legais se o revendedor indireto não aceitar a MPA?
-    answer: "A menos que você (o revendedor indireto) aceite o MPA, não poderá negociar com um fornecedor indireto (Distribuidor) no programa CSP. A MPA deve ser aceite para cada [região da CSP](regional-authorization-overview.md) em que pretende fazer negócios. Precisamos de pelo menos uma assinatura MPA por região de CSP para que o revendedor indireto seja compatível com as transações CSP com qualquer fornecedor indireto nessa região da CSP. \n"
+    answer: "A menos que você (o revendedor indireto) aceite o MPA, não poderá negociar com um fornecedor indireto (Distribuidor) no programa CSP. A MPA deve ser aceite para cada [região da CSP](regional-authorization-overview.md) em que pretende fazer negócios. Precisamos de pelo menos uma assinatura MPA por região da CSP para que o revendedor indireto seja compatível com as transações CSP com qualquer fornecedor indireto nessa região da CSP. \n"
   - question: >
       A MPA está disponível em línguas locais?
     answer: "N.º Só está disponível em inglês. \n"
   - question: >
       O meu revendedor acredita que já estão inscritos como Revendedor Indireto porque conseguiram revender subscrições cloud através de nós, no entanto não têm opção de aceitar a MPA. Porquê?
     answer: >
-      Se o revendedor pode inscrever-se no Partner Center mas não vê a opção de aceitar a MPA ou verificar se estão inscritos no programa CSP Indirect Reseller, o mais provável é que apenas tenham se matriculado no programa MPN, mas não no CSP como Revendedor Indireto. No passado, permitimos que os revendedores transacionem através do seu Fornecedor Indireto, mesmo que não tivessem sido oficialmente inscritos no programa CSP.
+      Se o revendedor pode assinar no Partner Center mas não vê a opção de aceitar a MPA ou verificar se estão inscritos no programa de Revendedor Indireto CSP, o mais provável é que apenas tenham inscrito no programa MPN, mas não em CSP como Revendedor Indireto. No passado, permitimos que os revendedores transacionem através do seu Fornecedor Indireto, mesmo que não tivessem sido oficialmente inscritos no programa CSP.
 
 
       Agora é hora de se tornar um revendedor indireto oficial da CSP.
 
       Isto aplica-se também aos parceiros "Advisor" que tenham vindo a transacionar na CSP. A Microsoft precisa de uma conta de Revendedor Indireto CSP ativa em todas as regiões de negócios da CSP para revendedores indiretos para transacionar com fornecedores indiretos.
   - question: >
-      Trabalho com vários fornecedores indiretos (distribuidores) em vários países. Preciso aceitar a MPA em cada país da CSP?
-    answer: "Precisa de pelo menos uma assinatura MPA por região de CSP contra uma identificação de MPN. Por exemplo, se tiver um ID MPN em França e tiver inscrito no programa CSP Indirect Reseller em França e aceitar a MPA, está em conformidade com toda a [região da CSP Europa](regional-authorization-overview.md#europe-region-and-market) e não tem de aceitar MPA noutros países europeus. Pode negociar com qualquer fornecedor indireto em toda a região europeia da CSP. \n"
+      Trabalho com vários fornecedores indiretos (distribuidores) em vários países. Tenho de aceitar a MPA em cada país da CSP?
+    answer: "Precisa de pelo menos uma assinatura MPA por região da CSP contra uma identificação de MPN. Por exemplo, se tiver um ID MPN em França e tiver inscrito no programa CSP Indirect Reseller em França e aceitar a MPA, está em conformidade com toda a [região da CSP Europa](regional-authorization-overview.md#europe-region-and-market) e não tem de aceitar MPA noutros países europeus. Pode negociar com qualquer fornecedor indireto em toda a região europeia da CSP. \n"
   - question: >
-      Sou um parceiro de faturação direta em França e também transaciono com um fornecedor indireto em Itália, preciso de aceitar dois PMA, um como fatura direta e outro como revendedor indireto?
+      Sou sócio direto em França e também transaciono com um fornecedor indireto em Itália, preciso de aceitar dois PMA, um como fatura direta e outro como revendedor indireto?
     answer: Se já aceitou o projeto de lei direto MPA na região da CSP, não tem de aceitar o revendedor indireto CSP MPA. No entanto, tem de se certificar de que a sua conta MPN está no Partner Center e que o ID MPN partilhado com o seu fornecedor indireto está no Partner Center.
   - question: >
       Temos de continuar a aceitar o acordo de MPA do revendedor indireto todos os anos?
     answer: >
-      Não precisas de aceitar todos os anos. Para negociar com um fornecedor indireto, deve ser aceite pelo menos uma MPA por região de CSP para manter a conformidade.
+      Não precisas de aceitar todos os anos. Para negociar com um fornecedor indireto, deve ser aceite pelo menos uma MPA por região CSP para manter a conformidade.
   - question: "Se as assinaturas não estiverem a mudar, importa se os revendedores aceitam o acordo? \n"
     answer: "Se os revendedores indiretos não aceitarem a MPA, ficarão impedidos de transacionar com o fornecedor Indireto . Os seus Incentivos Microsoft serão impactados. \n"
   - question: >
@@ -62,34 +62,34 @@ sections:
   - question: >
       Temos de comunicar com os nossos revendedores sobre a aceitação da MPA, ou a Microsoft trabalhará diretamente com os revendedores para aceitar a MPA?
     answer: >
-      Como fornecedor indireto, é da sua responsabilidade comunicar claramente com todos os seus revendedores indiretos e torná-los conscientes das repercussões de não aceitar MPA. Também é obrigado a fornecer-lhes apoio e orientação adequados na aceitação de MPA. Para problemas críticos que não sejam solucionáveis por si, deve redirecioná-los para a Microsoft com este tópico de Suporte ao Centro de Parceiros.
+      Como fornecedor indireto, é da sua responsabilidade comunicar claramente com todos os seus revendedores indiretos e torná-los conscientes das repercussões de não aceitar MPA. Também é obrigado a fornecer-lhes apoio e orientação adequados na aceitação de MPA. Para problemas críticos que não sejam solucionáveis por si, deverá redirecioná-los para a Microsoft com este tópico de Suporte ao Centro de Parceiros.
   - question: "Existem documentos que descrevam como os revendedores podem aceitar na MPA e confirmar se a última MPA foi aceite? \n"
-    answer: "Seguem-se algumas ligações públicas úteis que ajudarão o revendedor indireto a aceitar MPA e a ser compatível. \n\n- [O Microsoft Partner Agreement (MPA) para o CSP](microsoft-partner-agreement.md) (Contém orientações passo a passo para migrar a conta MPN e aceitar MPA no Partner Center)\n- [Trabalhar com fornecedores indiretos no programa CSP](indirect-reseller-tasks-in-partner-center.md)\n- [Gerir as localizações na conta de parceiro](manage-locations.md)\n"
+    answer: "Seguem-se algumas ligações públicas úteis que ajudarão o revendedor indireto a aceitar MPA e a ser compatível. \n\n- [O Microsoft Partner Agreement (MPA) para o CSP](microsoft-partner-agreement.md) (Contém orientação passo a passo para migrar a conta MPN e aceitar MPA no Partner Center)\n- [Trabalhar com fornecedores indiretos no programa CSP](indirect-reseller-tasks-in-partner-center.md)\n- [Gerir as localizações na conta de parceiro](manage-locations.md)\n"
 - name: Perguntas sobre a sua estrutura de conta MPN e CSP
   questions:
   - question: >
       Qual é a diferença entre as minhas contas MPN e CSP e como estão relacionadas?
-    answer: "A sua conta MPN deve ser usada para gerir a sua adesão com a Microsoft. Fornece-lhe um ID GLOBAL MPN (PGA) e um ou muitos IDs MPN de localização (PLA) dependendo do número de subsidiárias que cria. A sua conta CSP está associada à sua localização MPN IDs e é usada para transacionar com fornecedores indiretos ou gerir Incentivos. \n\n\n- [Gerir as localizações na conta de parceiro](manage-locations.md)\n\n- [Verifique o seu perfil de organização](update-your-partner-profile.md)\n\n- [Benefícios de adesão à Microsoft Partner Network](mpn-overview.md)\n\n\nA sua conta CSP associada à localização MPN ID permite-lhe trabalhar com fornecedores indiretos, gerir clientes e ganhar incentivos.\n    \n- [O Microsoft Partner Agreement (MPA) para a CSP](microsoft-partner-agreement.md)\n\n- [Trabalhar com fornecedores indiretos no programa CSP](indirect-reseller-tasks-in-partner-center.md)\n"
+    answer: "A sua conta MPN deve ser usada para gerir a sua adesão com a Microsoft. Fornece-lhe um ID GLOBAL MPN (PGA) e um ou muitos IDs MPN de localização(PLA) dependendo do número de subsidiárias que cria. A sua conta CSP está associada à sua localização MPN IDs e é usada para transacionar com fornecedores indiretos ou gerir Incentivos. \n\n\n- [Gerir as localizações na conta de parceiro](manage-locations.md)\n\n- [Verifique o seu perfil de organização](update-your-partner-profile.md)\n\n- [Benefícios de adesão à Rede de Parceiros da Microsoft](mpn-overview.md)\n\n\nA sua conta CSP associada à localização MPN ID permite-lhe trabalhar com fornecedores indiretos, gerir clientes e ganhar incentivos.\n    \n- [O Microsoft Partner Agreement (MPA) para a CSP](microsoft-partner-agreement.md)\n\n- [Trabalhar com fornecedores indiretos no programa CSP](indirect-reseller-tasks-in-partner-center.md)\n"
   - question: >
-      Qual é a diferença entre o ID MPN Global e o ID de localização?
-    answer: "Uma Conta Global MPN é equivalente à sua Sede e as localizações da MPN são as suas subsidiárias.  Existe um ID MPN Global único (PGA MPN ID) e um ou muitos IDs MPN de localização únicos(PLA MPN IDs). Pode verificar os IDs mpn assinando no Partner Center com a sua conta MPN, selecionando **Definições**, em **seguida, Conta Definições**, e navegando para a Página dos **Identificadores.** \n\nSe tiver subsidiárias em diferentes países, pode criar localizações mpn nesses países e obter IDs MPN de localização. Em seguida, pode utilizar os IDs MPN de localização para se inscrever no programa CSP, partilhar a informação com os seus fornecedores indiretos e obter incentivos. \n\n- [Gerir as localizações na conta de parceiro](manage-locations.md)\n\nSe sentir problemas, levante um bilhete de [apoio](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=1af7f3a0-1757-3543-4b6a-c945c3ad187b) dentro do Partner Center. \n"
+      Qual é a diferença entre o ID MPN Global e o ID MPN de localização?
+    answer: "Uma Conta Global MPN é equivalente à sua Sede e as localizações da MPN são as suas subsidiárias.  Existe um ID MPN Global único (PGA MPN ID) e um ou muitos IDs MPN de localização únicos(PLA MPN IDs). Pode verificar os IDs mpn assinando no Partner Center com a sua conta MPN, selecionando **Definições**, em **seguida, Conta Definições**, e navegando para a Página dos **Identificadores.** \n\nSe tiver subsidiárias em diferentes países, pode criar localizações MPN nesses países e obter IDs MPN de localização. Em seguida, pode utilizar os IDs MPN de localização para se inscrever no programa CSP, partilhar a informação com os seus fornecedores indiretos e obter incentivos. \n\n- [Gerir as localizações na conta de parceiro](manage-locations.md)\n\nSe sentir problemas, levante um bilhete de [apoio](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=1af7f3a0-1757-3543-4b6a-c945c3ad187b) dentro do Partner Center. \n"
   - question: >
-      Não sei qual o ID do MPN a usar enquanto me inscreve no programa de revendedor indireto CSP?
+      Não sei qual o ID do MPN a usar enquanto me inscreve no programa de revenda indireta CSP?
     answer: >
       Antes [de se inscrever no programa CSP Indirect Reseller,](indirect-reseller-tasks-in-partner-center.md)deverá ter uma Conta MPN ativa no Partner Center. O país de ID MPN e o seu país de conta CSP devem corresponder a uma associação bem sucedida e o MPN ID deve estar no Partner Center. Inscreva-se na sua conta MPN (as credenciais de login mpn e CSP podem ser diferentes). Vá a **Definições**  ->  **Account Definições** Organization  ->  **Profile**  ->  **Identifiers** e encontre o ID MPN com o **tipo** "Localização" que corresponda ao país da sua conta CSP. Saiba mais sobre [as localizações da MPN](manage-locations.md) antes de associar um ID MPN à sua conta CSP durante o processo de inscrição do CSP.
   - question: >
       Como verifico qual o ID MPN associado à minha Conta CSP?
-    answer: "Inscreva-se na sua conta CSP Indirect Reseller. Vá a **Definições**  ->  **Account Definições** Organization  ->  **Profile**  ->  **Identifiers**. Na área de CSP da página, o **ID MPN Associado** é o ID MPN associado à sua conta CSP e deve ser entregue ao seu Fornecedor Indireto para transações de CSP. \n"
+    answer: "Inscreva-se na sua conta CSP Indirect Reseller. Vá a **Definições**  ->  **Account Definições** Organization  ->  **Profile**  ->  **Identifiers**. Na área de CSP da página, o **ID MPN Associado** é o ID MPN associado à sua conta CSP e deve ser entregue ao seu Fornecedor Indireto para transações CSP. \n"
   - question: >
       Como posso ver todos os meus IDs mpn?
     answer: >
-      Inscreva-se no Partner Center com credenciais de conta MPN (as credenciais de login MPN e CSP podem ser diferentes). A partir **de Definições** **selecione 'Identificar' de** perfil Definições  ->  **organização** para ver  ->  **os** seus IDs MPN. Para adicionar uma nova localização/subsidiária MPN, vá ao **perfil legal** e clique na **localização Add**.
+      Inscreva-se no Partner Center com credenciais de conta MPN (as credenciais de login MPN e CSP podem ser diferentes). A partir **de Definições** **selecione'Conta Definições**  ->  **Identificadores de Perfil da Organização** para ver  ->  **os** seus IDs MPN. Para adicionar uma nova localização/subsidiária MPN, vá ao **perfil legal** e clique na **localização Adicionar.**
 - name: Perguntas sobre autorização regional da CSP
   questions:
   - question: >
       O que é uma região da CSP?
     answer: >
-      Uma região de CSP é constituída por um ou mais países onde a atividade da CSP pode ser realizada. O negócio inclui, por exemplo, trabalhar com fornecedores indiretos, conectar-se com os clientes, transagir e acumular incentivos. Precisa de pelo menos uma conta CSP (conta de trabalho do escritório 365) para fazer negócios numa região da CSP. Saiba mais sobre a [região da CSP.](regional-authorization-overview.md)
+      Uma região de CSP é constituída por um ou mais países onde a atividade da CSP pode ser realizada. O negócio inclui, por exemplo, trabalhar com fornecedores indiretos, conectar-se com os clientes, transacionar e acumular incentivos. Precisa de pelo menos uma conta CSP (conta de trabalho do escritório 365) para fazer negócios numa região da CSP. Saiba mais sobre a [região da CSP.](regional-authorization-overview.md)
 
 
       Se é um Revendedor Indireto CSP, precisa de fazer parceria com um Fornecedor Indireto na mesma região e só pode vender a clientes da mesma região.
@@ -97,29 +97,29 @@ sections:
       Por que não posso associar a minha mpn iD ao meu inquilino?
     answer: "Se não conseguir associar o seu MPN ID ao seu inquilino e vir um erro, significa que o MPN ID e o inquilino não estão no mesmo país. Para que a associação funcione, ambos precisam de estar no mesmo país. Este requisito deve-se ao pagamento de incentivos da Microsoft por país e ao nível de ID MPN. Por exemplo, se tiver uma conta CSP em França, precisa de uma localização MPN (MPN ID) também em França para obter incentivos pagos. Uma identificação da MPN no Reino Unido. não funcionarão, embora se encontrem na mesma região da CSP. \n\nPara resolver isto, crie uma localização MPN no mesmo país que o país da CSP. Saiba mais sobre como gerir as [localizações da MPN](manage-locations.md).\n"
   - question: >
-      Tenho uma conta de Revendedor Indireto CSP em França. Posso fazer parceria com a Indireta Fornecedor na Alemanha?
+      Tenho uma conta de Revendedor Indireto CSP em França. Posso fazer parceria com a Indireta Provider na Alemanha?
     answer: >
       Sim. Uma vez que a sua conta CSP Indirect Reseller esteja ativa numa região de CSP, a mesma conta pode ser usada para fazer negócios em toda a região. Saiba mais sobre a [região da CSP.](regional-authorization-overview.md)
   - question: >
       Sou um Revendedor Indireto nos E.U.A. Posso fazer parceria com um fornecedor indireto no Reino Unido?
     answer: >
-      N.º O PCP é um programa regional. A conta CSP tanto do Revendedor Indireto como do fornecedor indireto deve estar na mesma região CSP para fazer negócios. Para resolver isto, é necessário criar uma nova conta CSP na região europeia e criar uma localização MPN no mesmo país que o país de conta CSP, e depois aceitar o pedido de relacionamento do seu Fornecedor Indireto. Por exemplo, pode criar uma conta CSP Indirect Reseller em França, criar uma localização MPN em França e, em seguida, aceitar convite de Fornecedor Indireto que esteja em França ou em qualquer outro país da região europeia da CSP.
+      N.º O PCP é um programa regional. A conta CSP tanto do Revendedor Indireto como do fornecedor indireto deve estar na mesma região CSP para fazer negócios. Para resolver isto, é necessário criar uma nova conta CSP na região europeia e criar uma localização MPN no mesmo país que o país de conta CSP, e depois aceitar o pedido de relacionamento do seu Fornecedor Indireto. Por exemplo, pode criar uma conta de Revendedor Indireto CSP em França, criar uma localização MPN em França e, em seguida, aceitar convite de Indirect Provider que esteja em França ou em qualquer outro país da região europeia da CSP.
   - question: >
-      Posso ter mais do que uma conta MPN e CSP no Partner Center?
+      Posso ter mais de uma conta MPN e CSP no Partner Center?
     answer: >
       Pode ter apenas uma conta MPN (iniciar sent-in) e uma ou muitas contas CSP (sign-ins) dependendo das regiões de negócios da CSP que a sua empresa está a fazer. Por exemplo, pode ter a sua conta MPN nos EUA(HQ) com localizações em U.S.(Subsidiária), Reino Unido (Subsidiária)) e Austrália (Subsidiária).
 
-      Pode ter uma conta CSP (Office 365 conta de trabalho) nos EUA que tenha as mesmas credenciais de inscrição que a sua conta MPN. Pode ter a segunda conta CSP no Reino Unido. que tem diferentes credenciais de inscrição para gerir o negócio da CSP na região europeia, e a terceira na Austrália, que tem credenciais de assinatura diferentes de outras duas para gerir o negócio da CSP na Austrália.
+      Pode ter uma conta CSP (Office 365 conta de trabalho) nos EUA que tenha as mesmas credenciais de inscrição que a sua conta MPN. Pode ter a segunda conta CSP no Reino Unido. que tem diferentes credenciais de inscrição para gerir o negócio da CSP na região europeia, e a terceira na Austrália, que tem credenciais de assinatura diferentes de outras duas para gerir negócios de CSP na Austrália.
 
 
       Todas as três contas CSP devem ser associadas a contas de localização de ID MPN para fazer negócios e ganhar incentivos nessas subsidiárias. As competências e benefícios do MPN só podem ser geridos pela conta MPN.
   - question: >
       Sou revendedor indireto da CSP nos EUA e quero expandir o meu negócio para a Europa. O que preciso fazer no Partner Center?
     answer: >
-      Você precisará de uma localização MPN no país onde você quer fazer negócios, e você precisará inscrever-se no programa CSP Reseller Indirect no mesmo país. Saiba mais sobre a criação de novas [localizações mpn e inscrições de CSP.](manage-locations.md#prerequisites-in-order-to-add-a-new-account-for-a-csp-business)
+      Você precisará de uma localização MPN no país onde você quer fazer negócios, e você precisará se inscrever no programa CSP Reseller Indirect no mesmo país. Saiba mais sobre a criação de novas [localizações mpn e inscrições em CSP.](manage-locations.md#prerequisites-in-order-to-add-a-new-account-for-a-csp-business)
 - name: Pergunta sobre migrar a sua conta MPN de PMC para Partner Center
   questions:
-  - question: "Quero migrar a minha conta MPN do Centro de Sócios para o Centro de Parceiros. Como posso fazê-lo? Não sei quem foi o meu mpn administrador na PMC. Como posso migrar? \n"
+  - question: "Quero migrar a minha conta MPN do Centro de Sócios para o Centro de Parceiros. Como posso fazê-lo? Não sei quem foi o meu mpn Admin na PMC. Como posso migrar? \n"
     answer: >
       Descarregue o guia passo a passo sobre como [migrar o MPN de PMC para PC](https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx).
 
@@ -129,15 +129,15 @@ sections:
 
       Em caso de problemas, levante um bilhete de [apoio](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=2da4e1c7-3b4b-5672-6227-56bc75a936b4) de dentro do Partner Center.
   - question: >
-      Como posso verificar se o meu MPN ID é migrado para o Centro de Parceiros?
-    answer: "Inscreva-se na sua conta MPN com qualquer função (as credenciais de inscrição de MPN e CSP podem ser diferentes). \n\nA partir **das definições de Conta**, selecione página de perfil **legal** no **separador Parceiro.** Se vir \"estado do Programa MPN\" no Programa Info, o seu ID MPN está no Centro de Parceiros. Se não vir o \"status do Programa MPN\" no separador \"Parceiro\", então ou assinou com a sua conta CSP ou a sua conta MPN ainda não está no Partner Center. Pode ainda ter de migrar a sua conta MPN de PMC para PC.\n\n\n:::image type=\"content\" source=\"images/legal-info-mpn.png\" alt-text=\"Onde ver informações do programa MPN.\":::\n"
+      Como posso verificar se o meu MPN ID está migrado para o Centro de Parceiros?
+    answer: "Inscreva-se na sua conta MPN com qualquer função (as credenciais de inscrição mpn e CSP podem ser diferentes). \n\nA partir **das definições de Conta**, selecione página de perfil **legal** no **separador Parceiro.** Se vir \"estado do Programa MPN\" no Programa Info, o seu ID MPN está no Centro de Parceiros. Se não vir o \"status do Programa MPN\" no separador \"Parceiro\", então ou assinou com a sua conta CSP ou a sua conta MPN ainda não está no Centro parceiro. Pode ainda ter de migrar a sua conta MPN de PMC para PC.\n\n\n:::image type=\"content\" source=\"images/legal-info-mpn.png\" alt-text=\"Onde ver informações do programa MPN.\":::\n"
 - name: Perguntas sobre verificação de contas MPN e CSP
   questions:
   - question: >
-      Inscrevi-me no programa MPN e como um programa de revendedor indireto da CSP, mas o meu estado legal de verificação do perfil de negócios está no Estado rejeitado. O que devo fazer?
-    answer: "É necessário atualizar as informações do perfil legal clicando em **Update**. Leia os seguintes artigos antes de prosseguir:\n\n- [Verify your account information](verification-responses.md#what-is-verified-and-how-to-respond) (Verifique as informações da conta)\n\n- [Verifique o seu perfil de organização](update-your-partner-profile.md)\n\nSe não conseguir resolver o problema por conta própria, levante um bilhete de apoio a partir do Partner Center, insinuá-lo com a sua conta CSP e:\n\n- Para questões de verificação de negócios, crie um pedido de [apoio.](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=52ac28f3-d58f-99d9-9846-3df5a6477c54)  \n- Para questões de verificação de emprego, crie um pedido de [apoio.](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=c34a5c81-a111-476d-11a4-81c808c37a6b)\n\n:::image type=\"content\" source=\"images/rejected-faq-mpa.png\" alt-text=\"rejeitado.\":::\n"
+      Inscrevi-me no programa MPN e como programa de revendedor indireto da CSP, mas o meu estatuto legal de verificação do perfil de negócios está no Estado rejeitado. O que devo fazer?
+    answer: "É necessário atualizar as informações de perfil legal clicando em **Update**. Leia os seguintes artigos antes de prosseguir:\n\n- [Verify your account information](verification-responses.md#what-is-verified-and-how-to-respond) (Verifique as informações da conta)\n\n- [Verifique o seu perfil de organização](update-your-partner-profile.md)\n\nSe não conseguir resolver o problema por conta própria, levante um bilhete de apoio dentro do Partner Center, insinundo-se com a sua conta CSP e:\n\n- Para questões de verificação de negócios, crie um pedido de [apoio.](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=52ac28f3-d58f-99d9-9846-3df5a6477c54)  \n- Para questões de verificação de emprego, crie um pedido de [apoio.](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=c34a5c81-a111-476d-11a4-81c808c37a6b)\n\n:::image type=\"content\" source=\"images/rejected-faq-mpa.png\" alt-text=\"rejeitado.\":::\n"
   - question: >
-      Inscrevi-me no programa MPN /CSP Indirect Reseller program mas o meu estado legal de verificação do perfil de negócio parece estar preso no estado pendente. O que devo fazer?
+      Inscrevi-me no programa MPN /CSP Indirect Reseller, mas o meu estado legal de verificação do perfil de negócio parece estar preso no estado pendente. O que devo fazer?
     answer: >
       Se o seu perfil de negócio de revendedor indireto CSP estiver em estado **de qualificação pendente** após mais de cinco dias úteis, levante um bilhete de apoio de dentro do Partner Center clicando no [Partner Center Support](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=345795c0-26bd-dd95-d291-b78ed4a8edce).
 
@@ -148,26 +148,45 @@ sections:
   - question: >
       Não sei quem é o administrador do Centro de Parceiros que pode aceitar a MPA?
     answer: >
-      O administrador global da sua empresa deve aceitar a MPA. Para descobrir quem na sua empresa é atribuído o papel de administrador global, vá para a **gestão do Utilizador.** Na caixa de Pesquisa, escreva administração global. Os nomes das pessoas que recebem o papel de administrador global serão puxados para cima. Qualquer uma dessas pessoas pode aceitar a MPA. Se a sua empresa não tiver um administrador global, leia [o que fazer se a sua empresa precisar de um administrador global.](no-mpn-admin.md)
+      O administrador global da sua empresa deve aceitar a MPA. Para descobrir quem na sua empresa é atribuído o papel de administrador global, vá para a **gestão do Utilizador.** Na caixa de Pesquisa, escreva a administração global. Os nomes das pessoas que recebem o papel de administrador global serão puxados para cima. Qualquer uma dessas pessoas pode aceitar a MPA. Se a sua empresa não tiver um administrador global, leia [o que fazer se a sua empresa precisar de um administrador global.](no-mpn-admin.md)
 
 
       :::image type="content" source="images/user-management-clean.png" alt-text="Como encontrar um administrador global.":::
   - question: >
-      O meu revendedor diz que no Partner Center não vêem uma opção para aceitar a MPA. Como posso apoiá-los melhor?
-    answer: "Se o revendedor pode assinar no Partner Center mas não vê a opção de aceitar a MPA:\n\n1. Vêem a página \"Visão Geral\" no separador CSP do lado esquerdo? \n\n:::image type=\"content\" source=\"images/csp.png\" alt-text=\"Onde localizar o CSP no menu Partner Center.\":::\n\nSe não virem \"Visão Geral\" no menu CSP no menu Partner Center, significa que ainda não se inscreveram no programa CSP. O revendedor terá de iniciar o processo para se inscrever como Revendedor Indireto CSP, como explicou [O Trabalho com fornecedores indiretos no programa CSP](indirect-reseller-tasks-in-partner-center.md). Depois de terminarem a inscrição, poderão aceitar a MPA.\n\n2. Se virem visão geral, peça-lhes para irem ao   ->  **separador Definições Conta Definições**  ->  **Parceiro Legal** ou  ->   **Revendedor** e desloque-se para o Programa Info. Que estado vêem ao lado do Estatuto do Revendedor Indireto?\n\n\nSe o estado for outra coisa, menos **o Ativo,** significa que a verificação do Perfil de Negócio Legal ainda está em curso ou foi rejeitada. Nessa mesma página, o revendedor deverá verificar o estado de Verificação e clicar em **Learn More para corrigir** Isto permite que o revendedor forneça a documentação necessária para proceder à verificação.\n\n:::image type=\"content\" source=\"images/active-status.png\" alt-text=\"O estado está ativo.\":::\n\nSe o seu revendedor precisar de apoio para passar a verificação do perfil de negócios legal, peça-lhes para abrir um bilhete escolhendo estas opções:\n\n- Selecione **Suporte** no menu Centro de Parceiros e, em seguida, selecione **General** > De verificação da Conta > e, em seguida, escolha o passo com que necessita de ajuda.\n"
+      O meu revendedor diz que não vêem uma opção para aceitar a MPA no Partner Center. Como posso apoiá-los melhor?
+    answer: >
+      Se o revendedor puder iniciar sação no painel de instrumentos do Centro de Parceiros, mas não ver a opção de aceitar a MPA:
+
+
+      1. Eles vêem o azulejo da **associação** na página inicial.
+
+
+      Se não virem a **Adesão** no menu do Centro de Parceiros, significa que ainda não se inscreveram no programa CSP. O revendedor terá de iniciar o processo para se inscrever como Revendedor Indireto CSP, como explicou [O Trabalho com fornecedores indiretos no programa CSP](indirect-reseller-tasks-in-partner-center.md). Depois de terem concluído a inscrição, poderão aceitar a MPA.
+
+
+      2. Se virem o azulejo, peça-lhes para irem ao  ->  **separador Definições Conta Definições**  ->  **Parceiro Legal** ou  ->   **Revendedor** e desçam para o Programa Info. Que estado vêem ao lado do Estatuto do Revendedor Indireto?
+
+
+      Se o estado for outra coisa, mas **ative,** significa que a verificação do Perfil Empresarial Legal ainda está em curso ou foi rejeitada. Na mesma página, o revendedor deverá verificar o estado de Verificação e clicar em **Learn More para corrigir** Isto permite ao revendedor fornecer a documentação necessária para proceder à verificação.
+
+
+      :::image type="content" source="images/active-status.png" alt-text="O estado está ativo.":::
+
+
+      Se o seu revendedor precisar de apoio para passar a verificação do perfil de negócios legal, peça-lhes para abrir um bilhete escolhendo estas opções:
+
+
+      - Selecione **Suporte** no menu Centro de Parceiros e, em seguida, selecione **General** > Verificação da Conta > e, em seguida, escolha o passo com que necessita de ajuda.
   - question: >
       Como sei se tenho o papel certo no Partner Center para aceitar a MPA?
     answer: "Só os Administradores Globais podem aceitar a MPA. Para descobrir qual é o seu papel no Partner Center:\n\n1. Inscreva-se na sua conta de Revendedor Indireto CSP no Partner Center e verifique primeiro se se inscreveu na conta CSP Indirect Reseller. \n\n2. Vá à **gestão do Utilizador** e verifique se a conta assinada é atribuída à função \"Global Admin\"? Se não for, não pode ser usado para aceitar MPA. Procure a administração global na caixa de pesquisa na página de gestão do Utilizador e contacte-os para aceitar MPA.\n\n:::image type=\"content\" source=\"images/user-management-clean.png\" alt-text=\"Identifique o seu papel no Partner Center.\":::\n"
   - question: >
       Como posso verificar se a minha empresa aceitou a MPA?
-    answer: "Inscreva-se no Partner Center com a conta CSP Indirect Reseller.\nSe for um agente de administração ou agente de vendas em CSP, pode ir à página Do Acordo para verificar se o Microsoft Partner Agreement está visível. \n\n:::image type=\"content\" source=\"images/agreement-new.png\" alt-text=\"Localizar contratos nas definições de Conta.\":::\n\n\nSe você é um administrador global, vá para a página de visão geral da CSP. Se vir o estandarte verde, está preparado para negociar com o Fornecedor Indireto naquela região da CSP. Caso contrário, verá o botão **Aceitar e Continuar** a aceitar MPA e ativar a sua conta CSP.\n\n:::image type=\"content\" source=\"images/banner-boxed.png\" alt-text=\"Bandeira verde.\":::\n"
+    answer: "Inscreva-se no Partner Center com a conta CSP Indirect Reseller.\nSe for um agente de administração ou agente de vendas em CSP, pode ir à página Do Acordo para verificar se o Microsoft Partner Agreement está visível. \n\n:::image type=\"content\" source=\"images/agreement-new.png\" alt-text=\"Localizar os contratos nas definições de Conta.\":::\n\n\nSe você é um administrador global, vá para a página geral da CSP. Se vir o estandarte verde, está preparado para negociar com o Fornecedor Indireto naquela região da CSP. Caso contrário, verá o botão **Aceitar e Continuar** a aceitar MPA e ativar a sua conta CSP.\n\n:::image type=\"content\" source=\"images/banner-boxed.png\" alt-text=\"Bandeira verde.\":::\n"
   - question: >
       Quero aceitar a MPA, mas não vejo lugar (botão para aceitar termos) para o fazer?
     answer: >
-      Inscreva-se no Partner Center com as suas credenciais de revendedor indireto CSP. Aceda à página geral da CSP.  Se não vir o botão **Aceitar e continuar** e nenhum banner verde dizendo que a MPA é aceite, significa que não tem o papel certo para aceitar a MPA. Tem de contactar o seu administrador global para aceitar a MPA.
-
-
-      :::image type="content" source="images/agreement-two.png" alt-text="Localize os acordos.":::
+      Inscreva-se no Partner Center com as suas credenciais de revendedor indireto CSP. Aceda à página geral da CSP.  Se não vir o botão **Aceitar e continuar** e nenhum banner verde dizer-lhe que a MPA é aceite, significa que não tem o papel certo para aceitar a MPA. Tem de contactar o seu administrador global para aceitar a MPA.
 
 
       :::image type="content" source="images/user-management-filter.png" alt-text="{alt-text}":::

@@ -1,21 +1,21 @@
 ---
 title: Consolidação de inquilinos de autorização regional da CSP
 ms.topic: how-to
-ms.date: 07/15/2020
+ms.date: 09/27/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-customers
+ms.subservice: partnercenter-membership
 description: Utilize estas instruções para consolidar inquilinos para diferentes países/regiões. Isto inclui passos para migrar contas de clientes e subscrições de clientes.
 author: billLinzbach
 ms.author: billLi
 ms.localizationpriority: medium
 robots: noindex,nofollow
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f4df62bddba501552eafe2142f4c0656b8eefc7c
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: 1500525e49fd2585cd97cd4cf7999cba63ac9f30
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123961319"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129072343"
 ---
 # <a name="instructions-for-csp-regional-authorization-tenant-consolidation"></a>Instruções para consolidação de inquilinos de autorização regional de CSP
 
@@ -28,7 +28,7 @@ ms.locfileid: "123961319"
 Pode consolidar inquilinos para o seu negócio. Utilize estas instruções para consolidar inquilinos para diferentes países/regiões.
 
 >[!NOTE]  
->Deve estar ciente de todas as assinaturas e contagens de licença para cada um dos seus clientes na conta de que está em transição. Irá re-a provisionar essas mesmas assinaturas exatas com as mesmas contagens de licença ao abrigo da nova conta central da CSP como parte do processo de migração. Utilize a funcionalidade de lista de exportação para ajudar a criar uma lista de clientes para passar para o inquilino centralizado.  Uma vez que a consolidação esteja completa, não pode voltar ao estado inquilino anterior. A ação do cliente também pode ser necessária.
+>Deve estar ciente de todas as subscrições e contagens de licença para cada um dos seus clientes na conta de que está em transição. Irá re-a provisionar essas mesmas assinaturas exatas com as mesmas contagens de licença ao abrigo da nova conta central da CSP como parte do processo de migração. Use a funcionalidade de lista de exportação para ajudar a criar uma lista de clientes para passar para o inquilino centralizado.  Uma vez que a consolidação esteja completa, não pode voltar ao estado inquilino anterior. A ação do cliente também pode ser necessária.
 
 ## <a name="prepare-for-migration"></a>Prepare para a migração
 
@@ -38,9 +38,9 @@ Pode consolidar inquilinos para o seu negócio. Utilize estas instruções para 
 
 ## <a name="migrate-customer-accounts"></a>Migrar contas de clientes
 
-1. Inscreva-se no **Partner Center**  com a conta **de transição** (nova) (aquela em que está a transitar clientes).
+1. Inscreva-se no **Partner Center**  com a conta **de Transição** (nova) (aquela em que está a transitar clientes).
 
-2. Selecione **Clientes**.
+2. Selecione **o** azulejo cliente.
 
 3. Selecione **Solicite uma relação de revendedor**. É-lhe apresentada uma mensagem de correio eletrónico padrão para enviar aos seus clientes. Esta mensagem contém um URL com o iD org exclusivo da sua nova conta Partner Center.
 
@@ -50,7 +50,7 @@ Pode consolidar inquilinos para o seu negócio. Utilize estas instruções para 
 
 Os clientes aparecerão na lista de clientes do parceiro depois de terem apresentado o contrato, um a um.
 
-## <a name="migrating-office-365-and-non-azure-usage-based-subscriptions"></a>Subscrições de Office 365 migratório e não-Azure baseadas em uso
+## <a name="migrating-office-365-and-non-azure-usage-based-subscriptions"></a>Subscrições Office 365 e não baseadas em Azure em migração
 
 1. Uma vez que o seu cliente tenha assinado o contrato, pode recriar as suas subscrições sob o seu Inquilino Centralizado.
 
@@ -60,7 +60,7 @@ Os clientes aparecerão na lista de clientes do parceiro depois de terem apresen
 
 4. Selecione **Adicionar subscrição**.
 
-5. Adicione as assinaturas corretas e as contagens de licença do catálogo. Verifique com as informações fornecidas nas contas **de parceiros.**
+5. Adicione as assinaturas corretas e as contagens de licença do catálogo. Verifique com as informações fornecidas nas contas de parceiros em **Transição.**
 
    :::image type="content" source="images/regionalcustomer2.png" alt-text="lista de clientes.":::
 
@@ -70,14 +70,14 @@ Os clientes aparecerão na lista de clientes do parceiro depois de terem apresen
 
 7. Repita estes passos para migrar subscrições para todos os clientes adicionais.
 
-Antes de avançar para a secção seguinte, certifique-se de que todas as subscrições de clientes existentes no âmbito das contas **de** parceiros são realoadas na conta **de transição para** parceiro.
+Antes de avançar para a secção seguinte, certifique-se de que todas as subscrições de clientes existentes no âmbito das contas **de parceiros** são realoadas na conta **de transição para** parceiro.
 
 > [!NOTE]
-> Os parceiros devem suspender as subscrições na conta **de "Transição de** Inquilinos Parceiros" no Centro de Parceiros no mesmo dia em que essas assinaturas são transitadas e criadas ao abrigo da conta **de "Transição para** Inquilino Parceiro" no Centro de Parceiros para garantir que a faturação dupla não ocorre. Os pedidos de apoio serão negados para créditos devido a qualquer sobreposição na faturação que ocorra de não desativar corretamente as subscrições **de Transição** de Assinaturas.
+> Os parceiros devem suspender as subscrições na conta **de "Transição de** Inquilinos Parceiros" no Centro de Parceiros no mesmo dia em que essas assinaturas são transitadas e criadas ao abrigo da conta **de "Transição para** Inquilino Sócio" no Centro de Parceiros para garantir que a faturação dupla não ocorre. Os pedidos de apoio serão negados para créditos devido a qualquer sobreposição na faturação que ocorra de não desativar corretamente as subscrições **de Transição** de Assinaturas.
 
-## <a name="disabling-the-office-365-subscriptions-under-the-transitioning-from-partner-account"></a>Desativar as subscrições Office 365 no âmbito da conta de parceiros de transição
+## <a name="disabling-the-office-365-subscriptions-under-the-transitioning-from-partner-account"></a>Desativar as subscrições Office 365 no âmbito da conta de transição de parceiros
 
-A desativação da subscrição do CSP ao abrigo das contas de parceiros em **transição** impede qualquer faturação futura. Não é preciso desativar manualmente as subscrições do Azure, porque as subscrições do Azure são automaticamente desativadas durante o processo de migração.
+A desativação da subscrição do CSP ao abrigo das contas parceiras **em Transição** impede qualquer faturação futura. Não é preciso desativar manualmente as subscrições do Azure, porque as subscrições do Azure são automaticamente desativadas durante o processo de migração.
 
 1. Inscreva-se no **Centro de Parceiros** com a conta **de transição da** CSP e navegue para a lista de clientes.
 
@@ -86,7 +86,7 @@ A desativação da subscrição do CSP ao abrigo das contas de parceiros em **tr
 3. Desafie a subscrição para **suspender** e, em seguida, selecione **submeter**.
 
    >[!Note]
-   >A suspensão da subscrição garante que não ocorra uma faturação dupla.
+   >A suspensão da subscrição garante que não ocorram faturações duplas.
 
    A subscrição mostra **suspensa** na lista de assinaturas.
 
@@ -104,33 +104,33 @@ Ao contrário das subscrições CSP Office 365, a Azure, as assinaturas CSP base
 
 3. A Microsoft migra as subscrições baseadas em uso do Azure e notifica-o quando a migração estiver completa.
 
-4. Tem de confirmar que a subscrição do Azure no âmbito da conta de **revendedor de transição de** CSP está agora marcada **suspensa** no Partner Center sob a secção de subscrições de clientes.
+4. Tem de confirmar que a subscrição do Azure ao abrigo da conta de **revendedor de transição de** CSP está agora marcada **suspensa** no Partner Center sob a secção de subscrições de clientes.
 
 5. Confirme que a subscrição do Azure ao abrigo da conta de **revendedor de transição para** CSP mostra agora um estado ativo no Partner Center sob a secção de subscrições do cliente. 
 
    >[!Note]
    > A desativação das subscrições ao abrigo do cliente não altera o aparecimento do cliente na lista de Clientes. Atualmente não existe opção de retirar clientes da lista. Os parceiros devem evitar adicionar subscrições a estes clientes da sua conta **de Transição de A partir** do futuro.
 
-6. Repita estes passos para todas as subscrições sob todos os seus clientes para parar os encargos futuros na conta **(s) de Transição.** O parceiro receberá uma fatura final com crédito pelo número de dias não reutilizados entre o dia de cancelamento e o último dia do período de faturação. Nenhuma fatura futura gerará após o período final de faturação.
+6. Repita estes passos para todas as subscrições sob todos os seus clientes para parar os custos futuros na conta **(s) de Transição.** O parceiro receberá uma fatura final com crédito pelo número de dias não reutilizados entre o dia de cancelamento e o último dia do período de faturação. Nenhuma fatura futura gerará após o período final de faturação.
 
 ### <a name="additional-information"></a>Informações adicionais
 
-- A desativação da subscrição da conta **de transição da** CSP não afeta o serviço do cliente final desde que o serviço tenha sido prestado a partir da conta **de transição para** CSP antes de desativar a subscrição.
+- A desativação da subscrição da conta **de transição da** CSP não afeta o serviço do cliente final, desde que o serviço tenha sido prestado a partir da conta **de transição para** CSP antes de desativar a subscrição.
 
 - As subscrições não podem ser utilizadas pelo cliente e não geram encargos quando suspensas ou canceladas.
 
-- De momento não existe forma de remover completamente um cliente da lista de **Clientes.**
+- Atualmente não existe forma de remover um cliente completamente da lista de **Clientes.**
 - 
     >[!Note]
-    > Os parceiros devem suspender as subscrições na conta **de** inquilinos parceiros no Centro de Parceiros no mesmo dia em que essas subscrições são transitadas e criadas ao abrigo da conta **Transição Para** garantir que a faturação dupla não ocorre. A Microsoft não apoiará pedidos de créditos devido a qualquer sobreposição na faturação que ocorra de não definir corretamente as subscrições **de Transição** de subscrições para suspensas.
+    > Os parceiros devem suspender as subscrições na conta **de inquilinos** parceiros no Centro de Parceiros no mesmo dia em que essas assinaturas são transitadas e criadas ao abrigo da conta **Transição Para** garantir que a faturação dupla não ocorre. A Microsoft não apoiará pedidos de créditos devido a qualquer sobreposição na faturação que ocorra de não definir corretamente as subscrições **de Transição de** subscrições para suspensas.
 
-### <a name="simplify-migration-using-export"></a>Simplificar a migração usando exportação
+### <a name="simplify-migration-using-export"></a>Simplificar a migração usando a Exportação
 
 Utilizando a **Função Exportação,** pode capturar as subscrições que necessita de utilizar na sua nova estrutura consolidada:
 
 1. Selecione **Clientes** no Partner Center para ver a lista de clientes. 
 
-2. Abra o nome do cliente desejado.
+2. Abra o nome do cliente pretendido.
 
 3. Na página **de Subscrições,** selecione **Subscrições de Exportação** para exportar detalhes de subscrições para um ficheiro Excel.
 

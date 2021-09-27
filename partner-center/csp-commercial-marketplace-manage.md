@@ -1,7 +1,7 @@
 ---
 title: Gerir ofertas de produtos de mercado &
 ms.topic: how-to
-ms.date: 07/02/2020
+ms.date: 09/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-pricing
 description: Utilizando o Partner Center, saiba como os Fornecedores de Soluções Cloud podem gerir ofertas ISV de terceiros compradas para clientes do mercado comercial.
@@ -9,15 +9,14 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 14901b47b7363b2d87861be43a7071d9f23545cc
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: e979af820ba1dae2c7bca3f4fb7a05e5a0b56998
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126247226"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129072289"
 ---
 # <a name="manage-commercial-marketplace-products-and-offers-for-your-customers"></a>Gerir produtos e ofertas de marketplace comercial para os seus clientes
-
 
 **Funções adequadas**: Administração global | Agente administrativo
 
@@ -27,11 +26,16 @@ Os parceiros do programa Fornecedor de Soluções em Nuvem (CSP) podem usar o po
 
 Depois de adquirir uma subscrição de um editor ISV de terceiros, pode revê-la ou editá-la da seguinte forma:
 
-1. Inscreva-se no painel partner [center](https://partner.microsoft.com/dashboard)e, em seguida, selecione **Clientes** do menu de navegação à esquerda.
+> [!NOTE]
+> A interface de pré-visualização do Partner Center proporciona-lhe uma experiência de utilizador mais eficiente e produtiva através de espaços de trabalho agrupados logicamente. Para saber mais sobre a interface dos espaços de trabalho e como ligá-lo, consulte [Getting around Partner Center](get-around-partner-center.md#turn-workspaces-on-and-off).
+
+#### <a name="workspaces-view"></a>[Vista de espaços de trabalho](#tab/workspaces-view)
+
+1. Inscreva-se no painel partner [center](https://partner.microsoft.com/dashboard)e, em seguida, selecione o azulejo **do Cliente.**
 
 2. Selecione um cliente apropriado e, em seguida, **selecione Subscrições**. Isto lista quaisquer subscrições baseadas em licença que tenha comprado para o cliente.
 
-3. Na coluna **Subscrição,** selecione a subscrição que pretende visualizar ou editar. Isto dá-lhe mais informações para configurar ou providenciar a oferta. (Se for necessária mais ação sobre a oferta, poderá também ver um estado de "Ação Necessária" apresentado na coluna Status. Isto também pode ser acompanhado por um link para o site da editora ISV.)
+3. Na coluna **Subscrição,** selecione a subscrição que pretende visualizar ou editar. Isto dá-lhe mais informações para configurar ou oferecer a oferta. (Se forem necessárias mais medidas na oferta, poderá também ver um estado de "Ação Necessária" apresentado na coluna Status. Isto também pode ser acompanhado por um link para o site da editora ISV.)
 
 4. Uma vez selecionada a subscrição que pretende visualizar ou editar, a página de detalhes da subscrição permite-lhe editar a subscrição e fazer coisas como:
 
@@ -43,10 +47,35 @@ Depois de adquirir uma subscrição de um editor ISV de terceiros, pode revê-la
 
     - Desativar renovação automática
 
-    - Adicione um ID de revendedor indireto, se aplicável
+    - Adicione um ID mpn de revendedor indireto, se aplicável
 
 > [!NOTE]
 > Poderá ter de completar determinados passos definidos pela editora ISV antes de poder efetuar algumas alterações numa subscrição, tais como cancelar uma subscrição.
+
+#### <a name="current-view"></a>[Vista atual](#tab/current-view)
+
+1. Inscreva-se no painel partner [center](https://partner.microsoft.com/dashboard)e, em seguida, selecione **Clientes** do menu de navegação à esquerda.
+
+2. Selecione um cliente apropriado e, em seguida, **selecione Subscrições**. Isto lista quaisquer subscrições baseadas em licença que tenha comprado para o cliente.
+
+3. Na coluna **Subscrição,** selecione a subscrição que pretende visualizar ou editar. Isto dá-lhe mais informações para configurar ou oferecer a oferta. (Se forem necessárias mais medidas na oferta, poderá também ver um estado de "Ação Necessária" apresentado na coluna Status. Isto também pode ser acompanhado por um link para o site da editora ISV.)
+
+4. Uma vez selecionada a subscrição que pretende visualizar ou editar, a página de detalhes da subscrição permite-lhe editar a subscrição e fazer coisas como:
+
+    - Alterar o apelido de subscrição
+
+    - Adicionar/diminuir o número de licenças na subscrição
+
+    - Cancelar a subscrição
+
+    - Desativar renovação automática
+
+    - Adicione um ID mpn de revendedor indireto, se aplicável
+
+> [!NOTE]
+> Poderá ter de completar determinados passos definidos pela editora ISV antes de poder efetuar algumas alterações numa subscrição, tais como cancelar uma subscrição.
+
+* * *
 
 ## <a name="assign-licenses-and-activate-a-subscription-on-behalf-of-a-customer"></a>Atribuir licenças e ativar uma subscrição em nome de um cliente
 
@@ -63,7 +92,7 @@ O editor deve fornecer-lhe um link personalizado e um código de autorização q
    - Pode [recuperar o link utilizando APIs do Partner Center](/partner-center/develop/get-activation-link-by-order-line-item).
 
    > [!NOTE]
-   > Para isso em nome do seu cliente, poderá necessitar de copiar o link personalizado, colar-o num browser privado e inserir as credenciais do cliente.
+   > Para isso em nome do seu cliente, poderá necessitar de copiar o link personalizado, colá-lo num browser privado e inserir as credenciais do cliente.
 
 2. Assim que estiver no site ou sistema do editor ISV, o editor informá-lo-á de quaisquer medidas adicionais que necessite de tomar para completar o processo de configuração do cliente e a prestação ou atribuir licenças.
 
@@ -73,21 +102,42 @@ O editor deve fornecer-lhe um link personalizado e um código de autorização q
 
     - Envie qualquer URL necessário diretamente para o seu cliente (ou de outra forma comunicar diretamente detalhes sobre esta subscrição ao seu cliente)
 
-4. Assim que fornecer as informações necessárias ao editor, o editor fornecerá e atribuirá licenças apropriadas. A faturação da subscrição só começará depois dos seguintes eventos ocorrerem:
+4. Uma vez que forneça as informações necessárias ao editor, o editor fornecerá e atribuirá licenças apropriadas. A faturação da subscrição só começará depois dos seguintes eventos ocorrerem:
 
     - A editora ISV atribuiu com sucesso licenças apropriadas
 
     - A editora ISV confirmou à Microsoft (através de uma API de cumprimento separada, SaaS) que a configuração da conta foi concluída com sucesso
 
-## <a name="cancel-a-license-based-saas-subscription-from-an-isv-publisher"></a>Cancelar uma assinatura SaaS baseada em licença de um editor isv
+## <a name="cancel-a-license-based-saas-subscription-from-an-isv-publisher"></a>Cancelar uma assinatura SaaS baseada em licença de uma editora ISV
 
-Quando subscreve um produto SaaS baseado em licença oferecido por um editor ISV dentro do mercado comercial, tem a opção de cancelar a subscrição dentro do período de cancelamento designado. Este período de cancelamento muda dependendo se tem uma subscrição mensal ou anual. Também pode escolher se renova automaticamente a subscrição.
+Quando subscreve um produto SaaS baseado em licença oferecido por um editor ISV no mercado comercial, tem a opção de cancelar a subscrição dentro do período de cancelamento designado. Este período de cancelamento muda dependendo se tem uma subscrição mensal ou anual. Também pode escolher se renova ou não automaticamente a subscrição.
 
-Para obter mais informações sobre os períodos de cancelamento que se aplicam, como cancelar ou como renovar automaticamente uma subscrição, consulte [Cancelar uma subscrição](create-a-new-subscription.md#cancel-a-subscription).
+Para obter mais informações sobre os períodos de cancelamento que se aplicam, como cancelar ou como renovar automaticamente uma subscrição, consulte:
+
+- [Cancelar uma subscrição](create-a-new-subscription.md#cancel-a-subscription)
+
+- [Renovar automaticamente uma subscrição de mercado comercial](create-a-new-subscription.md#choose-whether-to-automatically-renew-a-commercial-marketplace-subscription)
 
 ## <a name="add-or-remove-licenses-for-a-saas-subscription"></a>Adicionar ou remover licenças para uma subscrição do SaaS
 
-Para ofertas de mercado comercial SaaS, pode adicionar ou remover licenças de utilizador para uma subscrição do cliente.
+Para ofertas de mercado comercial SaaS, pode adicionar ou remover licenças de utilizador para uma subscrição de cliente.
+
+> [!NOTE]
+> A interface de pré-visualização do Partner Center proporciona-lhe uma experiência de utilizador mais eficiente e produtiva através de espaços de trabalho agrupados logicamente. Para saber mais sobre a interface dos espaços de trabalho e como ligá-lo, consulte [Getting around Partner Center](get-around-partner-center.md#turn-workspaces-on-and-off).
+
+#### <a name="workspaces-view"></a>[Vista de espaços de trabalho](#tab/workspaces-view)
+
+1. Inscreva-se no painel partner [center](https://partner.microsoft.com/dashboard)e, em seguida, selecione o azulejo **do Cliente.**
+
+2. Selecione um cliente apropriado e, em seguida, **selecione Subscrições**. Isto lista quaisquer subscrições baseadas em licença que tenha comprado para o cliente.
+
+3. Na coluna **Subscrição,** selecione a subscrição que pretende modificar.
+
+4. Na página de detalhes da subscrição, localize o campo **Quantidade.** É aqui que pode aumentar ou diminuir o número de licenças.
+
+5. Alterar a quantidade e, em seguida, selecionar **Enviar por isso .**
+
+#### <a name="current-view"></a>[Vista atual](#tab/current-view)
 
 1. Inscreva-se no painel partner [center](https://partner.microsoft.com/dashboard)e, em seguida, selecione **Clientes** do menu de navegação à esquerda.
 
@@ -98,6 +148,8 @@ Para ofertas de mercado comercial SaaS, pode adicionar ou remover licenças de u
 4. Na página de detalhes da subscrição, localize o campo **Quantidade.** É aqui que pode aumentar ou diminuir o número de licenças.
 
 5. Alterar a quantidade e, em seguida, selecionar **Enviar por isso .**
+
+* * *
 
 ## <a name="manage-subscriptions-using-partner-center-apis"></a>Gerir subscrições usando APIs do Partner Center
 

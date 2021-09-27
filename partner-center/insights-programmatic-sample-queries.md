@@ -4,22 +4,22 @@ description: Utilize as consultas de amostra para aceder programaticamente aos d
 ms.topic: reference
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
-author: shganesh-dev
-ms.author: shganesh
+author: kshitishsahoo
+ms.author: ksahoo
 ms.localizationpriority: medium
 ms.date: 07/14/2021
-ms.openlocfilehash: 36da8a59548142bf09daf42dbc936fba15d46d1e
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: 18e50ec8108f5998b57630960026d039ab68803a
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960859"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129075328"
 ---
 # <a name="sample-queries-for-partner-center-insights-report"></a>Consultas de amostra para relatório de insights do Partner Center
 
-Este artigo fornece consultas de amostra para os relatórios Informações do Parceiro. Pode utilizar estas consultas ligando para o ponto final da API de consulta de relatório create. Se necessário, a chamada [de API de Consulta de Relatório de Criação](insights-programmatic-access-paradigm.md#create-report-query-api) pode ser modificada para adicionar mais colunas, ajustar o período de cálculo e adicionar condições de filtro.
+Este artigo fornece consultas de amostra para os relatórios Informações do Parceiro. Pode utilizar estas consultas chamando o ponto final da API de consulta de relatório create. Se necessário, a chamada [de API de Consulta de Relatório de Criação](insights-programmatic-access-paradigm.md#create-report-query-api) pode ser modificada para adicionar mais colunas, ajustar o período de cálculo e adicionar condições de filtro.
 
-Para obter mais informações sobre os nomes, atributos e descrições das colunas, consulte as [Definições de Dados](insights-data-definitions.md).
+Para obter mais informações sobre os nomes, atributos e descrições da coluna, consulte as [Definições de Dados](insights-data-definitions.md).
 
 ## <a name="customer-details"></a>Detalhes do cliente
 
@@ -70,7 +70,7 @@ WHERE Country='United States'
 
 ### <a name="by-mpn-partner"></a>Por parceiro MPN
 
-Lista de sócios com o mesmo Parceiro MPN da PGA
+Lista de sócios no mesmo Parceiro MPN da PGA
 
 ```sql
 SELECT MPNId, PartnerName, PGAMpnId 
@@ -104,7 +104,7 @@ WHERE ResellerMpnId='1051xxx'
 
 ### <a name="top-10-by-revenue"></a>Top 10 por receitas
 
-Top 10 revendedores com base no total das receitas no mês passado.
+Top 10 revendedores com base no total de receitas no mês passado.
 
 ```sql
 SELECT ResellerMpnId, ResellerName, TotalRevenue 
@@ -130,7 +130,7 @@ WHERE IsAutoRenew='N' TIMESPAN LAST_MONTH
 
 ### <a name="by-subscription-state"></a>Por estado de subscrição
 
-Lista de subscrições que estão em Estado de Desativação no mês passado.
+Lista de subscrições que estão no estado de desativação no mês passado.
 
 ```sql
 SELECT SubscriptionId, SubscriptionEndDate, CustomerName, CustomerTpid, Product 
@@ -154,7 +154,7 @@ Estas consultas de amostras aplicam-se ao relatório de utilização do Azure:
 
 ### <a name="by-meter-category"></a>Por categoria de medidor
 
-Lista de subscrições de utilização Azure com unidades de utilização e ACR para a categoria de contador específico nos últimos seis meses.
+Lista de subscrições de utilização Azure com unidades de utilização e ACR para categoria de contador específico nos últimos seis meses.
 
 ```sql
 SELECT SubscriptionId, CustomerName, Month, UsageUnits, UsageQuantity, TotalACR 

@@ -1,7 +1,7 @@
 ---
-title: Microsoft gold, requisitos de competência de prata
+title: Diferenciar o seu negócio ao obter competências da Microsoft
 ms.topic: article
-ms.date: 01/26/2021
+ms.date: 09/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-membership
 description: Aprenda a ganhar o estatuto de parceiro de elite da Microsoft e atraia novos clientes cumprindo os requisitos de competência para ganhar níveis de adesão de ouro e prata.
@@ -9,24 +9,24 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2eecc1963c83ea3deb4caf5116b05aaccbf857af
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: b1adacebbf4c0f8b97187386def43a3006920c08
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960440"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129075278"
 ---
-# <a name="differentiate-your-business-by-attaining-microsoft-competencies"></a>Diferenciar o seu negócio ao alcançar competências da Microsoft
+# <a name="differentiate-your-business-by-attaining-microsoft-competencies"></a>Diferenciar o seu negócio ao obter competências da Microsoft
 
-**Funções adequadas**: Administração global | Administração de gestão de utilizadores
+**Funções adequadas**: Administração global | Administrador de gestão de utilizadores
 
-Demonstre a sua experiência comprovada na entrega de soluções de qualidade numa ou mais áreas de negócio especializadas. As competências da Microsoft são projetadas para o preparar para atender às necessidades dos seus clientes e para o ajudar a atrair novos clientes que procuram fornecedores de soluções certificados pela Microsoft. Junte-se ao nível de elite dos parceiros da Microsoft e destaque-se dos seus pares.
+Demonstre a sua experiência comprovada na entrega de soluções de qualidade numa ou mais áreas de negócio especializadas. As competências da Microsoft são projetadas para o preparar para atender às necessidades dos seus clientes e para ajudá-lo a atrair novos clientes que procuram fornecedores de soluções certificados pela Microsoft. Junte-se ao nível de elite dos parceiros da Microsoft e destaque-se dos seus pares.
 
 - Atinja uma competência **prateada** para demonstrar a sua capacidade e empenho consistentes.
 
-- Atinja uma competência **de ouro** para demonstrar a sua melhor capacidade dentro de uma área de solução Microsoft.
+- Obter uma competência **de ouro** para demonstrar a sua melhor capacidade dentro de uma área de solução Microsoft.
 
-A obtenção de uma competência pode também ser uma entrada para benefícios e oportunidades adicionais:
+A obtenção de uma competência pode também ser uma entrada para novos benefícios e oportunidades:
 
 - Desbloqueie poderosas ofertas e programas de [go-to-market](mpn-learn-about-go-to-market-benefits.md) que podem ajudá-lo a expandir e a crescer o seu negócio. [Saiba mais sobre como ir ao mercado com a Microsoft.](https://partner.microsoft.com/solutions/go-to-market)
 
@@ -36,11 +36,26 @@ A obtenção de uma competência pode também ser uma entrada para benefícios e
 
 Pode ver os requisitos e o que a sua empresa conseguiu a partir da área de competência do seu painel de instrumentos partner Center.
 
-1. Inicie sessão no [dashboard](https://partner.microsoft.com/dashboard/home) do Centro de Parceiros.
+> [!NOTE]
+> A interface de pré-visualização do Partner Center proporciona-lhe uma experiência de utilizador mais eficiente e produtiva através de espaços de trabalho agrupados logicamente. Para saber mais sobre a interface dos espaços de trabalho e como ligá-lo, consulte [Getting around Partner Center](get-around-partner-center.md#turn-workspaces-on-and-off).
+
+#### <a name="workspaces-view"></a>[Vista de espaços de trabalho](#tab/workspaces-view)
+
+1. Inicie sessão no [dashboard do Centro de Parceiros](https://partner.microsoft.com/dashboard/home).
+
+2. Selecione o **azulejo de adesão** e, em seguida, selecione **Competências**.
+
+3. Selecione o nome da competência e a opção de competência específica para ver os detalhes. Pode ver o que completou e também pode ver todos os requisitos e ligações aos exames específicos e às datas de validação de exames aposentados.
+
+#### <a name="current-view"></a>[Vista atual](#tab/current-view)
+
+1. Inicie sessão no [dashboard do Centro de Parceiros](https://partner.microsoft.com/dashboard/home).
 
 2. Na secção MPN do menu Centro de Parceiros, selecione **Competências**.
 
-3. Selecione o nome da competência e a opção de competência específica para ver os detalhes. Pode ver o que completou e também pode ver todos os requisitos e ligações aos exames específicos e datas de validação de exames aposentados.
+3. Selecione o nome da competência e a opção de competência específica para ver os detalhes. Pode ver o que completou e também pode ver todos os requisitos e ligações aos exames específicos e às datas de validação de exames aposentados.
+
+* * *
 
 ## <a name="competency-areas"></a>Áreas de competência
 
@@ -59,16 +74,16 @@ Para saber mais sobre o que é necessário para obter competências de prata e o
 
 ## <a name="next-steps"></a>Passos seguintes
 
-- Saiba mais sobre [os requisitos para alcançar competências em prata e ouro.](https://partner.microsoft.com/membership/competencies)
+- Saiba mais sobre [os requisitos para alcançar competências de prata e ouro.](https://partner.microsoft.com/membership/competencies)
 
-- Saiba como mostrar ainda mais a sua experiência emparelhando uma competência em ouro com uma ou mais [especializações avançadas.](advanced-specializations.md)
+- Saiba como mostrar ainda mais a sua experiência, emparelhando uma competência em ouro com uma ou mais [especializações avançadas.](advanced-specializations.md)
 
-- Conheça [os recursos específicos do go-to-market](mpn-learn-about-go-to-market-benefits.md) incluídos com competências.
+- Conheça [os recursos específicos do mercado](mpn-learn-about-go-to-market-benefits.md) incluídos com competências.
 
 - Conheça [as faturas e impostos para competências.](mpn-view-print-maps-invoice.md)
 
-- Saiba como pagar a [taxa](mpn-pay-fee-silver-gold-competency.md) associada a uma adesão de prata ou ouro.
+- Saiba como [pagar a taxa](mpn-pay-fee-silver-gold-competency.md) associada a uma adesão à competência de prata ou ouro.
 
-- Consulte um relatório de [competências](insights-competencies-report.md) do Partner Center Informações que mostra o estado atual das suas competências.
+- Consulte um relatório de [competências](insights-competencies-report.md) Informações Do Centro de Parceiros que mostra o estado atual das suas competências.
 
 - Obtenha respostas para [perguntas frequentes](competencies-faq.yml) sobre competências.

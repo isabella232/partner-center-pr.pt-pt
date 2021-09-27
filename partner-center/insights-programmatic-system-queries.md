@@ -4,16 +4,16 @@ description: Saiba mais sobre as consultas do sistema que pode utilizar para ace
 ms.topic: reference
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
-author: shganesh-dev
-ms.author: shganesh
+author: kshitishsahoo
+ms.author: ksahoo
 ms.localizationpriority: medium
 ms.date: 07/14/2021
-ms.openlocfilehash: 9f82907d24a1693097d8c9cfc42094be067639b1
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: deb932d84ac3b1f3d6d9a63e0ef1fa75df3e4dcd
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960930"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129070752"
 ---
 # <a name="list-of-system-queries-for-partner-insights-programmatic-access"></a>Lista de consultas do sistema para acesso programático de insights de parceiros
 
@@ -21,7 +21,7 @@ As seguintes consultas de sistema podem ser usadas na [API do Relatório de Cria
 
 Para mais detalhes sobre os nomes, atributos e descrição da coluna, consulte as [Definições de Dados](insights-data-definitions.md)
 
-As secções seguintes fornecem consultas de relatórios para vários relatórios.
+As secções seguintes fornecem perguntas de relatórios para vários relatórios.
 
 ## <a name="customers"></a>Clientes
 
@@ -86,7 +86,7 @@ FROM AzureUsage TIMESPAN LAST_6_MONTHS
 
 ## <a name="office-usage"></a>Office Utilização
 
-Relatório de 200 meses do OfficeUsage
+Relatório de 200 dias do OfficeUsage
 
 ID de consulta: `d8349f7b-a7d1-467e-b26d-434d4a50f26a`
 
@@ -130,9 +130,9 @@ AssignedSeats,ActiveSeats,DeploymentOpportunity,ActiveUsagePercent
 FROM PowerBIUsage TIMESPAN LAST_6_MONTHS
 ```
 
-## <a name="ems-usage"></a>Utilização em EMS
+## <a name="ems-usage"></a>Utilização emS
 
-Relatório da EMSUsage durante seis meses
+Relatório da EMSUsage por seis meses
 
 ID de consulta: `d7f20ea4-8751-4d6b-b1d7-821c316acd6a`
 

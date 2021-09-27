@@ -3,18 +3,18 @@ title: Elegibilidade para compromissos de serviços de planeamento
 ms.topic: article
 ms.date: 09/01/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-benefits
-description: Saiba mais sobre os requisitos de elegibilidade para cada compromisso de Software Assurance Planning Services que uma empresa pode querer oferecer aos clientes empresariais.
+ms.subservice: partnercenter-membership
+description: Saiba mais sobre os requisitos de elegibilidade para cada compromisso dos Serviços de Planeamento de Garantia de Software que uma empresa pode querer oferecer aos clientes empresariais.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c67344cb4341320271dd96d40135ad0223baad28
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: 34c8477ac738c510b1c209f7bdd67d2e449d915a
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123961280"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129075109"
 ---
 # <a name="view-eligibility-requirements-for-planning-services-engagements"></a>Ver requisitos de elegibilidade para compromissos de Serviços de Planeamento
 
@@ -23,7 +23,7 @@ ms.locfileid: "123961280"
 Este artigo ajuda-o a conhecer os requisitos de elegibilidade que precisa de satisfazer antes de a sua empresa poder inscrever-se ou entregar compromissos de Software Assurance Planning Services para a Microsoft.
 
 >[!NOTE]
-> Além de satisfazer os requisitos de elegibilidade para uma oferta de Serviços de Planeamento, também deve seguir vários outros passos antes de poder fornecer compromissos de Software Assurance Planning Services. Para obter uma visão geral de todas as etapas necessárias, consulte [os Serviços de Planeamento de Garantia de Software no Partner Center](software-assurance-dps.md).
+> Além de satisfazer os requisitos de elegibilidade para uma oferta de Serviços de Planeamento, também deve seguir vários outros passos antes de poder fornecer compromissos de Software Assurance Planning Services. Para uma visão geral de todas as etapas necessárias, consulte [os Serviços de Planeamento de Garantia de Software no Partner Center](software-assurance-dps.md).
 
 ## <a name="learn-more-about-each-engagement"></a>Saiba mais sobre cada noivado
 
@@ -33,18 +33,18 @@ Para saber mais sobre estes requisitos de competência específicos de noivado, 
 
 | Nome do noivado | Competências necessárias para este noivado | Para saber mais, consulte a ficha técnica desta oferta |
 |:--- |:--- |:--- |
-| Planeamento de Implantação Windows e Office  | Windows e dispositivos de prata ou ouro  |  [Compromissos dos Serviços de Planeamento de Implantação de Ambiente de Trabalho (DDPS)](https://go.microsoft.com/fwlink/?linkid=2116072)
-| Planeamento de Implantação de Produtividade Móvel  | Gestão da Mobilidade Empresarial prata ou dourada ou Windows e dispositivos  | [Compromissos dos Serviços de Planeamento de Implantação de Ambiente de Trabalho (DDPS)](https://go.microsoft.com/fwlink/?linkid=2116072) |  
-| Prova moderna de segurança da empresa de TI de conceito |  Gestão da Mobilidade Empresarial de Prata ou Ouro  | [Compromissos dos Serviços de Planeamento de Implantação de Ambiente de Trabalho (DDPS)](https://go.microsoft.com/fwlink/?linkid=2116072) |  
-| Upgrade microsoft Dynamics 365 para envolvimento com o cliente  | Prata ou nuvem dourada Business Applications ou gestão da relação do cliente em nuvem  | [Compromissos dos Serviços de Planeamento de Implantação dinâmica (DYDPS)](https://go.microsoft.com/fwlink/?linkid=2116073)
-| Migrar para a Microsoft Dynamics 365 para o envolvimento do cliente  | Prata ou nuvem dourada Business Applications ou gestão da relação do cliente em nuvem  | [Compromissos dos Serviços de Planeamento de Implantação dinâmica (DYDPS)](https://go.microsoft.com/fwlink/?linkid=2116073)
-| Atualização da Microsoft Dynamics 365 para Finanças e Operações  | Gold Enterprise Resource Planning (ERP)  | [Compromissos dos Serviços de Planeamento de Implantação dinâmica (DYDPS)](https://go.microsoft.com/fwlink/?linkid=2116073)  |
+| Planeamento de Implantação Windows e Office  | Windows e dispositivos de prata ou ouro  |  [Compromissos dos Serviços de Planeamento de Implementação de Ambiente de Trabalho (DDPS)](https://go.microsoft.com/fwlink/?linkid=2116072)
+| Planeamento de implantação de produtividade móvel  | Gestão da Mobilidade Empresarial prata ou dourada ou Windows e dispositivos  | [Compromissos dos Serviços de Planeamento de Implementação de Ambiente de Trabalho (DDPS)](https://go.microsoft.com/fwlink/?linkid=2116072) |  
+| Prova moderna de segurança da empresa de TI de conceito |  Gestão da Mobilidade Empresarial de Prata ou Ouro  | [Compromissos dos Serviços de Planeamento de Implementação de Ambiente de Trabalho (DDPS)](https://go.microsoft.com/fwlink/?linkid=2116072) |  
+| Upgrade microsoft Dynamics 365 para envolvimento com o cliente  | Prata ou nuvem dourada Business Applications ou gestão de relacionamento com o cliente em nuvem  | [Compromissos dos Serviços de Planeamento de Implantação dinâmica (DYDPS)](https://go.microsoft.com/fwlink/?linkid=2116073)
+| Migrar para a Microsoft Dynamics 365 para o envolvimento do cliente  | Prata ou nuvem dourada Business Applications ou gestão de relacionamento com o cliente em nuvem  | [Compromissos dos Serviços de Planeamento de Implantação dinâmica (DYDPS)](https://go.microsoft.com/fwlink/?linkid=2116073)
+| Atualização da Microsoft Dynamics 365 para Finanças e Operações  | Planeamento de Recursos empresariais de ouro (ERP)  | [Compromissos dos Serviços de Planeamento de Implantação dinâmica (DYDPS)](https://go.microsoft.com/fwlink/?linkid=2116073)  |
 | Modernizar a sua plataforma de servidor de Windows | Centro de Dados prateado ou dourado | [Compromissos de Serviços de Planeamento de Nuvem Privada, Gestão e Virtualização (PVDPS)](https://go.microsoft.com/fwlink/?linkid=2115982) |
 | Planeamento de Implementação de SharePoint  | Colaboração e Conteúdo de Prata ou Ouro  | [Serviços de Planeamento de Implementação do SharePoint (SPIS) noivados](https://go.microsoft.com/fwlink/?linkid=2116074)  |
 | Planeamento de Soluções Project e Gestão de Portfólio (PPM)  | Prata ou Ouro Project e Gestão de Carteiras (PPM)  | [Serviços de Planeamento de Implementação do SharePoint (SPIS) noivados](https://go.microsoft.com/fwlink/?linkid=2116074)  |
 | Exchange Planeamento de Implantação  | Mensagens de prata ou ouro  | [Skype para Empresas e Exchange serviços de planeamento de implantação (S-EDPS)](https://go.microsoft.com/fwlink/?linkid=2116075)  |
 Skype para Empresas Planeamento de Implantação  | Comunicações prata ou dourada  | [Skype para Empresas e Exchange serviços de planeamento de implantação (S-EDPS)](https://go.microsoft.com/fwlink/?linkid=2116075)  |
-| Modernização da Propriedade de Dados  | Gold Data Analytics OU Data Platform  | [SQL Server Compromissos dos Serviços de Planeamento de Implantação (SSDPS)](https://go.microsoft.com/fwlink/?linkid=2116076)  |
+| Modernização da Propriedade de Dados  | Gold Data Analytics OU Plataforma de Dados  | [SQL Server Compromissos dos Serviços de Planeamento de Implantação (SSDPS)](https://go.microsoft.com/fwlink/?linkid=2116076)  |
 
 ## <a name="next-steps"></a>Passos seguintes
 

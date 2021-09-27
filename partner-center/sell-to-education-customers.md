@@ -1,20 +1,20 @@
 ---
 title: Como vender ofertas a clientes de educação
-description: Aprenda a criar um cliente de educação e venda-lhes ofertas no Partner Center. Inclui confirmar o estado de verificação do seu cliente de educação.
+description: Aprenda a criar um cliente de educação e venda ofertas no Partner Center. Inclui confirmar o estado de verificação do seu cliente de educação.
 ms.topic: how-to
-ms.date: 12/17/2020
+ms.date: 09/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-pricing
 author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2d9924b8d361be4237c613467a1d36db29cf7d9e
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: 8c0d278de5cef254839bfa324efc701fc788a830
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126247112"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129075655"
 ---
 # <a name="how-to-sell-offers-to-education-customers-and-how-to-create-an-education-customer-in-partner-center"></a>Como vender ofertas a clientes de educação e como criar um cliente de educação no Partner Center
 
@@ -27,7 +27,34 @@ Este artigo explica como criar um cliente de educação no Partner Center e vend
 > [!IMPORTANT]
 > A Microsoft verifica cada inquilino de clientes de educação recém-criado para garantir que estão qualificados para ofertas de educação.  Certifique-se de que introduz as informações necessárias da forma mais precisa e completa possível para evitar atrasos no processo de verificação.
 
-1. Inicie sessão no Centro de Parceiros.
+> [!NOTE]
+> A interface de pré-visualização do Partner Center proporciona-lhe uma experiência de utilizador mais eficiente e produtiva através de espaços de trabalho agrupados logicamente. Para saber mais sobre a interface dos espaços de trabalho e como ligá-lo, consulte [Getting around Partner Center](get-around-partner-center.md#turn-workspaces-on-and-off).
+
+#### <a name="workspaces-view"></a>[Vista de espaços de trabalho](#tab/workspaces-view)
+
+1. Inicie sessão no [dashboard do Centro de Parceiros](https://partner.microsoft.com/dashboard).
+
+2. Selecione **o** azulejo cliente e, em seguida, selecione **Adicionar um cliente**. 
+
+3. Selecione **Educação** a partir do abandono **das qualificações especiais.**  Preencha o resto da informação da conta conforme necessário.  Os principais campos que ajudam no processo de verificação incluem:
+
+   - **Nome da empresa**: INSERIR NOME DE ENTIDADE LEGAL - Necessário para verificação
+   - **Linhas de país/região e endereços**: ENTER FULL ENTITY MAILING ADDRESS – necessário para verificação
+   - **Endereço de e-mail**: Insira o e-mail de propriedade da Entidade – não um e-mail gratuito ou on.microsoft.com – necessário para verificação
+   - **Informações de contacto do cliente**: estes detalhes serão utilizados como parte do processo de verificação
+   - **Nome de domínio primário**: Usado para criar contas de clientes e endereços de e-mail.  Escolha um nome semelhante ao nome da empresa sem espaços ou caracteres especiais.  Este nome não pode ser mudado mais tarde.
+
+4. Quando terminar, selecione **'Review'.**
+
+   :::image type="content" source="images/eduaccountinfo.png" alt-text="Conta de cliente de educação.":::
+
+5. Após confirmar **o Review,** receberá um estado **InReview** se as informações submetidas forem válidas. 
+
+    :::image type="content" source="images/edu/create-review.png" alt-text="Conta de cliente de educação em revisão."lightbox="images/edu/create-review-expanded.png":::
+
+#### <a name="current-view"></a>[Vista atual](#tab/current-view)
+
+1. Inicie sessão no [dashboard do Centro de Parceiros](https://partner.microsoft.com/dashboard).
 
 2. Selecione **Clientes** e, em seguida, **selecione Adicionar um cliente**. Selecione **Educação** a partir do abandono **das qualificações especiais.**  Preencha o resto da informação da conta conforme necessário.  Os principais campos que ajudam no processo de verificação incluem:
 
@@ -37,13 +64,15 @@ Este artigo explica como criar um cliente de educação no Partner Center e vend
    - **Informações de contacto do cliente**: estes detalhes serão utilizados como parte do processo de verificação
    - **Nome de domínio primário**: Usado para criar contas de clientes e endereços de e-mail.  Escolha um nome semelhante ao nome da empresa sem espaços ou caracteres especiais.  Este nome não pode ser mudado mais tarde.
 
-3. Quando terminar, selecione **'Reveja'.**
+3. Quando terminar, selecione **'Review'.**
 
    :::image type="content" source="images/eduaccountinfo.png" alt-text="Conta de cliente de educação.":::
 
 4. Após confirmar **o Review,** receberá um estado **InReview** se as informações submetidas forem válidas. 
 
     :::image type="content" source="images/edu/create-review.png" alt-text="Conta de cliente de educação em revisão."lightbox="images/edu/create-review-expanded.png":::
+
+* * *
 
 ### <a name="confirm-your-education-customers-verification-status"></a>Confirme o estado de verificação do seu cliente de educação
 
@@ -52,7 +81,7 @@ Exemplos de estado:
 
 - Se o cliente passou a verificação: Educação
 
-   :::image type="content" source="images/edupassedvetting.png" alt-text="A verificação da educação foi um sucesso.":::
+   :::image type="content" source="images/edupassedvetting.png" alt-text="A verificação da educação foi bem sucedida.":::
 
 - Se o cliente não passou a verificação: Não é um cliente de educação
 
@@ -60,7 +89,7 @@ Exemplos de estado:
 
 - Se o cliente não foi marcado como um cliente de Educação: Nenhum
 
-   :::image type="content" source="images/edu/account-one.png" alt-text="o cliente da educação não é marcado como tal." lightbox="images/edu/account-one-expanded.png":::
+   :::image type="content" source="images/edu/account-one.png" alt-text="o cliente da educação não está marcado como tal." lightbox="images/edu/account-one-expanded.png":::
 
 - Se o cliente estiver em revisão como cliente da Educação: Em revisão
 
@@ -68,13 +97,13 @@ Exemplos de estado:
 
 ## <a name="correct-the-customer-account-info-and-resubmit-for-verification"></a>Corrija a informação da conta do cliente e reenvia para verificação
 
-Se o seu cliente falhar na verificação inicial, pode agora corrigir informações e reenviar a informação.
+Se o seu cliente falhar na verificação inicial, pode agora corrigir informações e reencamê-la.
 
 ### <a name="correct-the-customer-account-information"></a>Corrigir as informações da conta do cliente
 
 Deve ter privilégios de administração global para atualizar a informação do cliente. Atualiza a informação no portal Office 365 porque estes dados não podem ser atualizados a partir do portal Partner Center.
 
-1. Na página **Conta,** verá informações indicando que a qualificação do cliente é considerada como "Não um cliente de educação".
+1. Na página **Conta,** verá informações indicando que a qualificação do cliente é considerada como "Não é um cliente de educação".
 
 2. Refresque o seu navegador para redefinir a página. Haverá um botão **de atualização** e **o estado das qualificações especiais** está definido para **Nenhum**.
 
@@ -90,7 +119,7 @@ Deve ter privilégios de administração global para atualizar a informação do
 
 ### <a name="resubmit-for-verification"></a>Reenviar para verificação
 
-1. Navegue para o separador Partner Center e para a página **conta** do cliente. Refresque o navegador e verifique se a página da Empresa atualizada para as novas informações. Selecione o botão **'Actualizar'** para solicitar a re-verificação da educação.
+1. Navegue para o separador Centro parceiro e para a página **conta** do cliente. Atualizar o navegador e verificar se a página da Empresa atualizada para as novas informações. Selecione o botão **'Actualizar'** para solicitar a re-verificação da educação.
 
 2. Se os detalhes atualizados do cliente forem elegíveis para ofertas de Educação, verá as **qualificações especiais atualizadas** para a **Educação.** Se ainda não vir **Um Cliente de Educação,** contacte o Suporte para verificação manual.
 

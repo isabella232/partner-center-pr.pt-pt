@@ -1,25 +1,25 @@
 ---
 title: Gerir queixas de co-op
-description: Compreenda o processo de reclamações cooperativas, incluindo prazos, questões cambiais e como contestar um pedido de cooperação rejeitado.
+description: Compreender o processo de reclamações cooperativas, incluindo prazos, questões cambiais e como contestar uma alegação de cooperação rejeitada.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
-ms.date: 10/29/2020
-ms.openlocfilehash: bf4e155eb9ca6a7bf8e2a6ad2a5f1f2a5f0b40c2
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.date: 09/27/2021
+ms.openlocfilehash: 256183d80eea3ead7f94a8f798be75ae345db4e3
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960450"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129075496"
 ---
 # <a name="manage-incentives-co-op-claims"></a>Gerir pedidos de cooperação de incentivos
 
 **Funções adequadas**: Administradores de incentivos
 
-O conteúdo que se segue dá-lhe informações para gerir reclamações cooperativas, incluindo prazos, regras e como contestar uma alegação de cooperação rejeitada.
+O conteúdo que se segue dá-lhe informações para gerir reclamações cooperativas, incluindo prazos, regras e como contestar uma alegação cooperativa rejeitada.
 
 ## <a name="co-op-claims-approval-and-payment-deadlines"></a>Co-op reclama prazos de aprovação e pagamento
 
@@ -57,6 +57,23 @@ Se os materiais enviados com o pedido de cooperação forem considerados insufic
 
 ### <a name="dispute-a-rejected-co-op-claim"></a>Contestar um pedido de cooperação rejeitado
 
+> [!NOTE]
+> A interface de pré-visualização do Partner Center proporciona-lhe uma experiência de utilizador mais eficiente e produtiva através de espaços de trabalho agrupados logicamente. Para saber mais sobre a interface dos espaços de trabalho e como ligá-lo, consulte [Getting around Partner Center](get-around-partner-center.md#turn-workspaces-on-and-off).
+
+#### <a name="workspaces-view"></a>[Vista de espaços de trabalho](#tab/workspaces-view)
+
+1. Inicie sessão no [dashboard do Centro de Parceiros](https://partner.microsoft.com/dashboard/).
+
+2. Selecione o azulejo **incentivos** e, em seguida, selecione **gestão cooperativa**.
+
+3. Selecione o pedido de cooperação que quer contestar. A página de reivindicação da cooperativa abre.
+
+4. Na parte inferior da página, selecione **Contestar**.
+
+A equipa de validação de pedidos de cooperação irá rever o pedido dentro do prazo de cinco dias úteis. Durante esse tempo, o estado será apresentado como **Contestado**. Podemos contactá-lo para solicitar informações adicionais. Quando a revisão for concluída, a equipa de validação atualizará o estado para **Aprovado**, **Rejeitado** ou **Necessária Ação do Parceiro**.
+
+#### <a name="current-view"></a>[Vista atual](#tab/current-view)
+
 1. Inicie sessão no [dashboard do Centro de Parceiros](https://partner.microsoft.com/dashboard/).
 
 2. Ao abrigo de **Incentivos,** selecione **Gestão cooperativa.**
@@ -66,6 +83,8 @@ Se os materiais enviados com o pedido de cooperação forem considerados insufic
 4. Na parte inferior da página, selecione **Contestar**.
 
 A equipa de validação de pedidos de cooperação irá rever o pedido dentro do prazo de cinco dias úteis. Durante esse tempo, o estado será apresentado como **Contestado**. Podemos contactá-lo para solicitar informações adicionais. Quando a revisão for concluída, a equipa de validação atualizará o estado para **Aprovado**, **Rejeitado** ou **Necessária Ação do Parceiro**.
+
+* * *
 
 ## <a name="next-steps"></a>Passos seguintes
 

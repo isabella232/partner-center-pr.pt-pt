@@ -5,17 +5,17 @@ ms.date: 01/11/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
 description: Veja o que está a fazer bem e onde pode melhorar no que diz respeito ao uso de subscrições Dynamics que vende ou gere para os seus clientes.
-author: shganesh-dev
-ms.author: shganesh
+author: kshitishsahoo
+ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: ecc4edbd509557da1314eb7e54fcc013e41682a7
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: d547e61ac6087d4bc38dcd3881b1c4a7a6b11588
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123961360"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129071135"
 ---
-# <a name="dynamics-usage-report-available-from-the-partner-center-insights-dashboard"></a>Relatório de utilização dinâmico disponível no Painel de Informações do Centro de Parceiros
+# <a name="dynamics-usage-report-available-from-the-partner-center-insights-dashboard"></a>Relatório de utilização dinâmico disponível no painel de Informações do Partner Center
 
 **Funções adequadas**: Administração global | Agente administrativo | Relatório | do espectador Espectador de relatório executivo
 
@@ -28,7 +28,7 @@ O relatório de utilização da Dynamics fornece dados de utilização para as s
 - Distribuição de utilização dinâmica
 
  > [!NOTE]
- > Este relatório está disponível no painel de instrumentos Informações. Para visualizar este relatório, deve ser-lhe atribuído um papel específico no Partner Center, como administração global, administração de contas, espectador de relatório ou visualizador de relatórios executivos. Para mais informações, consulte a administração Global da sua empresa. Os tipos específicos de dados deste relatório também podem estar disponíveis apenas para utilizadores com privilégios de visualização de relatório executivo.
+ > Este relatório está disponível no painel de instrumentos Informações. Para visualizar este relatório, deve ser-lhe atribuído um papel específico no Partner Center, como administração global, administração de contas, visualizador de relatórios ou visualizador de relatórios executivos. Para mais informações, consulte a administração Global da sua empresa. Os tipos específicos de dados deste relatório também podem estar disponíveis apenas para utilizadores com privilégios de visualização de relatório executivo.
 
 ## <a name="summary"></a>Resumo
 
@@ -40,7 +40,7 @@ A secção de resumo apresenta uma visão instantânea dos principais indicadore
 
 - Lugares atribuídos: Número total de licenças atribuídas durante o período de tempo selecionado.
 
-   O Micro chart apresenta uma tendência mensal da contagem de lugares atribuídos durante o intervalo de datas selecionados.
+   O micro gráfico apresenta uma tendência mensal da contagem de lugares atribuídos durante o intervalo de datas selecionados.
 
 - Assentos ativos: Número total de licenças que tiveram uso durante o período de tempo selecionado. 
 
@@ -54,7 +54,7 @@ A secção de resumo apresenta uma visão instantânea dos principais indicadore
 
 ## <a name="dynamics-usage-by-geography"></a>Utilização dinâmica por geografia
 
-O **uso da Dynamics por geografia** retrata a distribuição de lugares disponíveis e lugares ativos por país cliente. Cores mais claras no mapa representam valores mais baixos, enquanto cores mais escuras representam valores mais elevados. Pode pesquisar e selecionar um país na grelha. Também pode ampliar para um olhar mais atento.
+O **uso da Dynamics por geografia** retrata a distribuição de lugares disponíveis e lugares ativos por país cliente. Cores mais claras no mapa representam valores mais baixos, enquanto cores mais escuras representam valores mais elevados. Pode pesquisar e selecionar um país na grelha. Você também pode ampliar para um olhar mais atento.
 
 O **número de países/tabela de região** apresenta o total de países/regiões onde são gerados eventos de utilização do Azure.
 

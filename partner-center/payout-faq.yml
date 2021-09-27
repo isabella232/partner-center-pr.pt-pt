@@ -1,22 +1,22 @@
 ### YamlMime:FAQ
 metadata:
   title: FAQ sobre dividendos e perfis de imposto
-  description: Obtenha respostas a perguntas comuns sobre pagamentos e detalhes fiscais no Partner Center. Inclui respostas sobre o porquê dos seus ganhos serem diferentes do que esperava.
+  description: Obtenha respostas a perguntas comuns sobre pagamentos e detalhes fiscais no Partner Center. Inclui respostas sobre por que os seus ganhos são diferentes do que esperava.
   ms.service: partner-dashboard
   ms.subservice: partnercenter-payouts
   ms.topic: article
   author: eunjkim520
   ms.author: eunjkim
-  ms.date: 05/06/2021
-  ms.openlocfilehash: a402387b5e99cfb5f1b0ed7ca1c2af9f63b94b99
-  ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+  ms.date: 09/27/2021
+  ms.openlocfilehash: fc4a12e2ab4686f9bef60aad789098e737c4cf04
+  ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
   ms.translationtype: MT
   ms.contentlocale: pt-PT
-  ms.lasthandoff: 09/13/2021
-  ms.locfileid: "126247409"
+  ms.lasthandoff: 09/27/2021
+  ms.locfileid: "129073076"
 title: Questões comuns sobre pagamentos e impostos
 summary: >
-  **Funções adequadas**: Administração de contas | Administração global | Administradores de incentivos
+  **Funções adequadas**: Administração de contas | | de administração global Administradores de incentivos
 
 
   Este artigo responde frequentemente a perguntas sobre pagamentos e detalhes fiscais no Partner Center. Os assuntos abrangidos incluem o tempo de pagamento, a verificação da elegibilidade dos seus ganhos e a importância de configurar corretamente o seu pagamento e perfis fiscais.
@@ -45,7 +45,7 @@ sections:
   - question: >
       A minha organização está a participar em vários programas. Preciso de fornecer o meu pagamento e o meu perfil de impostos várias vezes?
     answer: >
-      Depende das necessidades da sua organização. Os perfis de pagamento são criados a nível de organização, o que permite que o mesmo perfil bancário seja atribuído em vários IDs e programas de MPN dentro de uma organização. Na maioria dos casos, pode reutilizar um perfil existente ou criar um novo.
+      Depende das necessidades da sua organização. Os perfis de pagamento são criados a nível de organização, o que permite que o mesmo perfil bancário seja atribuído através de vários IDs e programas de MPN dentro de uma organização. Na maioria dos casos, pode reutilizar um perfil existente ou criar um novo.
 
 
       Pode haver exceções, no entanto, ao aplicar o perfil bancário a diferentes países ou regiões, pois poderão aplicar-se regras bancárias ou fiscais locais.
@@ -59,24 +59,24 @@ sections:
   - question: >
       Como é que a Microsoft garante que a informação bancária é, de facto, a da empresa e não uma conta bancária pessoal para um funcionário?
     answer: >
-      É da responsabilidade da empresa assegurar que o papel dos administradores de incentivos - que tem as permissões para editar esta informação - seja apenas dado aos colaboradores adequados.
+      É da responsabilidade da empresa assegurar que o papel da administração de incentivos - que tem as permissões para editar esta informação - seja apenas dado aos colaboradores adequados.
   - question: >
-      O meu perfil de impostos expirou. Como posso corrigi-lo?
+      O meu perfil de impostos expirou. Como posso corrigir a atualização?
     answer: >
       Se um perfil fiscal estiver caducado ou prestes a expirar, significa que o formulário de imposto que forneceu à Microsoft precisa de ser atualizado. Utilize os seguintes passos para atualizar o seu perfil fiscal:
 
 
-      1. Inscreva-se no [painel partner center](https://partner.microsoft.com/dashboard/home)e, em seguida, selecione o ícone de engrenagem para abrir o menu **Definições.**
+      1. Inscreva-se no [painel de instrumentos](https://partner.microsoft.com/dashboard/home)partner Center e, em seguida, selecione o ícone de engrenagem Definições.
 
       2. Selecione **as definições de Conta,** expanda a secção **de Pagamento e Imposto** e, em seguida, selecione Payout e **tax** profile.
 
-      3. Selecione perfil **de imposto**
+      3. Selecione perfil **de impostos**
 
-      4. Verifique a **data de validade** da coluna e navegue para o perfil fiscal que está caducado ou prestes a expirar.
+      4. Verifique a **data de validade** da coluna e navegue para o perfil fiscal que está expirado ou prestes a expirar.
 
       5. **Selecione Editar** para lançar o processo de edição de perfil fiscal.
 
-      6. Na secção de formulários fiscais, forneça os detalhes atualizados.
+      6. Na secção de formulário fiscal, forneça os detalhes atualizados.
 - name: Ganhos incorretos ou em falta
   questions:
   - question: >
@@ -89,7 +89,7 @@ sections:
       - Verifique o [prazo do ciclo de pagamento](payment-thresholds-methods-timeframes.md) e compreenda quando os seus ganhos devem aparecer na declaração de pagamento.
   - question: >
       Porque é que os meus ganhos são diferentes do que esperava?
-    answer: "- Se a encomenda foi parcialmente paga pelo seu cliente, o seu valor de ganho basear-se-á no valor parcialmente pago após a dedução da taxa e do imposto adequado.\n- Verifique a responsabilidade fiscal por país. Nos países onde o imposto é responsável pela Microsoft, a Microsoft recolhe e deduz o imposto dos ganhos dos editores. O montante da transação mostrado na declaração é após o montante do imposto. Veja [Detalhes fiscais](tax-details-marketplace.md).\n- As ofertas têm uma taxa de serviço de loja a 3%, deixando uma taxa de ganhos de 97%. \n\n**Continuar a ler** [Acordo de Publisher de Mercado Comercial](/legal/marketplace/msft-publisher-agreement), [Detalhes da política de pagamento](payout-policy-details.md), limiar de [pagamento, método e prazo,](payment-thresholds-methods-timeframes.md) [Ser pago,](marketplace-get-paid.md) [Detalhes fiscais,](tax-details-marketplace.md) [declarações de pagamento](payout-statement.md)\n"
+    answer: "- Se a encomenda foi parcialmente paga pelo seu cliente, o seu valor de ganho basear-se-á no valor parcialmente pago após a dedução da taxa e do imposto adequado.\n- Verifique a responsabilidade fiscal por país. Nos países onde o imposto é responsável pela Microsoft, a Microsoft recolhe e deduz o imposto dos ganhos dos editores. O montante da transação mostrado na declaração é após o montante do imposto. Veja [Detalhes fiscais](tax-details-marketplace.md).\n- As ofertas têm uma taxa de serviço de loja a 3%, deixando uma taxa de ganhos de 97%. \n\n**Continuar a ler** [Acordo de Publisher mercado comercial](/legal/marketplace/msft-publisher-agreement), [detalhes da política de pagamento](payout-policy-details.md), limiar de [pagamento, método e prazo,](payment-thresholds-methods-timeframes.md) [Ser pago,](marketplace-get-paid.md) [Detalhes fiscais,](tax-details-marketplace.md) [declarações de pagamento](payout-statement.md)\n"
 - name: Reconciliação dos ganhos
   questions:
   - question: >
@@ -119,7 +119,7 @@ sections:
   - question: >
       Porque é que o meu pagamento está em falta?
     answer: >
-      - Certifique-se de que o seu estado de pagamento e o estado do perfil do imposto são apresentados como *válidos* na [página geral.](https://partner.microsoft.com/dashboard/commercial-marketplace/overview)
+      - Certifique-se de que o seu estado de pagamento e o estado do perfil do imposto são apresentados como *válidos* na [página geral](https://partner.microsoft.com/dashboard/commercial-marketplace/overview).
 
       - Pode não ter cumprido o limiar mínimo para um pagamento. Os ganhos têm ser de, pelo menos, 50 USD para receber um pagamento.
   - question: >
@@ -136,7 +136,7 @@ sections:
       Os ajustes de pagamento são correções de pagamento para acomodar os ajustes de compensação, como problemas do sistema. Na declaração de pagamento, o ReasonCode especifica o motivo do ajuste. Estes não se destinam a reconciliar-se diretamente com transações individuais.
 
 
-      **Continuar a ler** [Acordo de Publisher de Mercado Comercial](/legal/marketplace/msft-publisher-agreement), [Detalhes da política de pagamento,](payout-policy-details.md) [detalhes fiscais,](tax-details-marketplace.md) [limiar de pagamento, método e prazo](payment-thresholds-methods-timeframes.md)
+      **Continuar a ler** [Acordo de Publisher do Mercado Comercial](/legal/marketplace/msft-publisher-agreement), [Detalhes da política de pagamento,](payout-policy-details.md) [detalhes fiscais,](tax-details-marketplace.md) [limiar de pagamento, método e prazo](payment-thresholds-methods-timeframes.md)
 - name: Impostos
   questions:
   - question: >
@@ -162,7 +162,7 @@ sections:
   questions:
   - question: >
       Como devo proceder para aceder a uma declaração de pagamento?
-    answer: "1. Verifique as funções. Tem de ter a função de *contribuidor financeiro* ou de *proprietário da conta* para aceder à declaração de pagamento.\n2. Na navegação superior direita, selecione o ícone **Payout** para ver a sua declaração de pagamento. Escolha entre **Histórico de Transações,** **Pagamento** e **Download.**\n\n**Continuar a ler** [Funções e permissões de pagamento,](payout-statement.md#roles-and-permissions) [declarações de pagamento](payout-statement.md) \n"
+    answer: "1. Verifique as funções. Tem de ter a função de *contribuidor financeiro* ou de *proprietário da conta* para aceder à declaração de pagamento.\n2. A partir do painel de **instrumentos,** selecione o azulejo payout para ver o seu dado de pagamento. Escolha entre **Histórico de Transações,** **Pagamento** e **Download.**\n\n**Continuar a ler** [Funções e permissões de pagamento,](payout-statement.md#roles-and-permissions) [declarações de pagamento](payout-statement.md) \n"
 - name: Relatório de declaração de pagamento
   questions:
   - question: >
@@ -204,7 +204,7 @@ sections:
 
 
       **Continuar a ler** [Declarações de pagamento,](payout-statement.md) [download do histórico de transações](payout-statement.md#transaction-history-download)
-- name: Pagamento exportar API
+- name: Pagamento exporta a API de exportação
   questions:
   - question: >
       Como transfiro dados de pagamento?
@@ -217,7 +217,7 @@ sections:
     answer: >
       - A Taxa de Serviço da Loja é de 3%.
 
-      - Na sua demonstração de pagamento, a Taxa de Ganhos especifica a taxa de pagamento real para uma determinada transação.
+      - Na sua declaração de pagamento, a Taxa de Ganhos especifica a taxa de pagamento real para uma determinada transação.
   - question: >
       Quando posso esperar um pagamento da Microsoft, assim que os ganhos aparecerem na minha declaração?
     answer: >
@@ -225,5 +225,5 @@ sections:
 
       - Para encomendas pagas com cartão de crédito, a Microsoft detém pagamentos de 30 dias até que o ganho seja amadurecido.
 
-       **Continuar a ler** [Acordo de Publisher de Mercado Comercial](/legal/marketplace/msft-publisher-agreement), [Detalhes da política de pagamento,](payout-policy-details.md) [detalhes fiscais,](tax-details-marketplace.md) [limiar de pagamento, método e prazo](payment-thresholds-methods-timeframes.md)
+       **Continuar a ler** [Acordo de Publisher do Mercado Comercial](/legal/marketplace/msft-publisher-agreement), [Detalhes da política de pagamento,](payout-policy-details.md) [detalhes fiscais,](tax-details-marketplace.md) [limiar de pagamento, método e prazo](payment-thresholds-methods-timeframes.md)
 additionalContent: "\n## <a name=\"next-steps\"></a>Passos seguintes\n\n- [Receber o pagamento](marketplace-get-paid.md)\n- [Configurar a conta de dividendos e os formulários fiscais](set-up-your-payout-account.md)"

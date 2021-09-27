@@ -3,18 +3,18 @@ title: Criar uma conta MPN no Partner Center
 ms.topic: article
 ms.date: 05/07/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-account
+ms.subservice: partnercenter-enroll
 description: Saiba como os membros da Microsoft Partner Network podem criar uma conta Partner Center para gerir os seus benefícios e competências de rede.
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0410e8fe4239915c445125951076ff170cef3a91
-ms.sourcegitcommit: fceaca54b0ec695cf214209c09b4516e1b40866a
+ms.openlocfilehash: c354ab373b57c513f6255bcbeec8f6cb9bc5bf24
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "128366157"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129071455"
 ---
 # <a name="create-an-mpn-account-in-partner-center-to-manage-network-benefits-and-competencies"></a>Criar uma conta MPN no Partner Center para gerir benefícios e competências de rede
 

@@ -1,7 +1,7 @@
 ---
 title: Comprar o plano do Azure
 ms.topic: how-to
-ms.date: 07/21/2021
+ms.date: 09/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-pricing
 description: Utilizando o plano Azure, aprenda a comprar subscrições Azure individuais ou múltiplas, reservas Azure, para configurar recursos e para visualizar ou adicionar subscrições.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1493d22c53915f3a4364981a77c249492b342595
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: 7b32e1e2b45d7f263e04f04c4836d96aaaf63cdb
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960020"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129071334"
 ---
 # <a name="purchase-the-azure-plan-for-customers-and-access-the-latest-azure-services"></a>Compre o plano Azure para clientes e aceda aos mais recentes serviços da Azure
 
@@ -30,9 +30,10 @@ A nova experiência de comércio na CSP para a Azure está atualmente prevista p
 
 ## <a name="how-to-purchase-azure-plan"></a>Como comprar o plano Azure
 
-A forma como compra o plano Azure é semelhante à compra de qualquer outra subscrição. A diferença fundamental é que antes de fazer o seu pedido precisa confirmar que o seu cliente assinou o Microsoft Customer Agreement.
+A forma como compra o plano Azure é semelhante à compra de qualquer outra subscrição. A principal diferença é que antes de fazer o seu pedido precisa confirmar que o seu cliente assinou o Microsoft Customer Agreement.
 
-1. Selecione **Segment Commercial,** em seguida, escreva "Microsoft Azure".
+1. Selecione **Segmento Comercial,** em seguida, escreva "Microsoft Azure".
+
 2. De acordo com **o plano Azure,** selecione **Adicionar ao carrinho**.
 
    :::image type="content" source="images/azure/Azurepurchase1.png" alt-text="Compra.":::
@@ -41,11 +42,11 @@ O parceiro deve confirmar que o cliente reviu e aceitou os termos do Microsoft C
 
 Em seguida, confirme digitalmente ou convide o cliente a assinar o Microsoft Customer Agreement diretamente com a Microsoft. 
 
-### <a name="to-invite-the-customer-to-sign-the-agreement-directly"></a>Convidar o cliente a assinar o contrato diretamente 
+### <a name="to-invite-the-customer-to-sign-the-agreement-directly"></a>Convidar o cliente a assinar o contrato diretamente
 
 1. Na **página** conta do cliente, selecione **Update** ao lado do Microsoft **Customer Agreement**.
 
-2. Preencha a informação sobre o indivíduo na empresa do cliente que aceitou o MCuA.
+2. Preencha as informações sobre o indivíduo na empresa do cliente que aceitou o Cliente Microsoft Agremeent.
 
 3. Selecione **Guardar e continuar**.  
 
@@ -53,7 +54,7 @@ Como parte da nova experiência de comércio do Azure no CSP, introduzimos uma [
 
 **Se se matriculou *antes* de 21 de julho de 2021**
 - Poderá adicionar a oferta anterior da Azure ao seu carrinho para clientes que o tenham comprado no passado.
-- Se se matriculou antes de 21 de julho *e* tiver clientes que se matricularam depois de 21 de julho, não poderá adicionar a oferta anterior da Azure ao seu carrinho.
+- Se se matriculou antes de 21 de julho *e* tem clientes que se matricularam depois de 21 de julho, não poderá adicionar a oferta anterior da Azure ao seu carrinho.
 
 **Parceiros que se matricularam *em ou depois de* 21 de julho de 2021**
 - Não poderá adicionar a oferta anterior do Azure ao seu carrinho.
@@ -66,7 +67,7 @@ Para encontrar o novo plano Azure com APIs do Partner Center, consulte [Criar um
 
 ## <a name="review-and-buy"></a>Rever e comprar
 
-Volte à página **adicionar um produto** onde pode ver que o plano Azure foi adicionado. Selecione **Rever** para rever a sua compra e, em seguida, selecione **Comprar**. 
+Volte à página **do produto Adicionar uma** página de produto onde pode ver que o plano Azure foi adicionado. Selecione **Rever** para rever a sua compra e, em seguida, selecione **Comprar.** 
 
 > [!NOTE]
 > Uma vez adquirido o plano Azure para um cliente, já não pode comprar Microsoft Azure (0145p) para esse cliente. Terá de criar futuras subscrições através do plano Azure.
@@ -75,35 +76,77 @@ Volte à página **adicionar um produto** onde pode ver que o plano Azure foi ad
   
 Também pode comprar reservas Microsoft Azure ao abrigo do plano Azure em nome dos seus clientes no Partner Center. (Ou, se preferir, pode [autorizar os seus clientes a comprarem as suas próprias reservas Azure](give-customers-permission.md) a partir de uma subscrição prévia que adquiriu para eles.)
 
-1. A partir do menu Partner Center no seu [painel de instrumentos,](https://partner.microsoft.com/dashboard/)selecione **Clientes**. Encontre o cliente que quer comprar reservas do Azure e, em seguida, selecione a seta para baixo para expandir a linha do cliente.
+> [!NOTE]
+> A interface de pré-visualização do Partner Center proporciona-lhe uma experiência de utilizador mais eficiente e produtiva através de espaços de trabalho agrupados logicamente. Para saber mais sobre a interface dos espaços de trabalho e como ligá-lo, consulte [Getting around Partner Center](get-around-partner-center.md#turn-workspaces-on-and-off).
 
-2. **Selecione Adicionar produtos** e, em seguida, selecione **Azure**. 
+#### <a name="workspaces-view"></a>[Vista de espaços de trabalho](#tab/workspaces-view)
 
-   - Escolha o segmento de mercado do cliente na lista **de Segmento.**
+1. Inscreva-se no [painel do Centro de Parceiros](https://partner.microsoft.com/dashboard/) e selecione o azulejo do **Cliente.**
+
+2. Encontre o cliente que quer comprar reservas Azure e, em seguida, selecione a seta para baixo para expandir a linha do cliente.
+
+3. **Selecione Adicionar produtos** e, em seguida, selecione **Azure**. 
+
+   - Escolha o segmento de mercado do cliente na lista de **Segmento.**
    - Escolha **Reservas** na lista de **tipos de produto.**
-   - Escolha o tipo de reserva que o cliente quer na lista de **tipos reservas.**
+   - Escolha o tipo de reserva que o cliente quer na lista de **tipos de Reservas.**
 
-As reservas do Azure devem ser associadas a um plano Azure ativo. Escolha o plano Azure a que pretende adicionar reservas Azure a partir da lista de subscrição do Cliente. 
+As reservas do Azure devem ser associadas a um plano Azure ativo. Escolha o plano Azure a que pretende adicionar reservas Azure à lista de assinaturas do Cliente. 
 
 > [!IMPORTANT] 
-> Se o cliente ainda não tiver um plano Azure ativo, selecione Azure para adicionar um agora. Para mais instruções, leia [as reservas do Buy Azure](azure-reservations-buying.md#purchase-azure-reservations).
+> Se o cliente ainda não tiver um plano Azure ativo, selecione Azure para adicionar um agora. Para mais instruções, leia [reservas do Buy Azure](azure-reservations-buying.md#purchase-azure-reservations).
 
 > [!NOTE]
 > O âmbito de uma reserva só pode ser definido para **Shared,** atualmente no Partner Center. Para selecionar um único âmbito de subscrição ou atualização do âmbito de subscrição partilhado para um único, vá ao **portal Microsoft Azure Gestão** utilizando as seguintes instruções. 
 
 :::image type="content" source="images/azure/addprods1.png" alt-text="Definição de reservas de âmbito compartilhado.":::
 
-Para gerir a reserva do cliente no portal Azure: 
+Para gerir a reserva do cliente no portal Azure:
 
-1. A partir dos **Clientes** selecione o cliente que pretende gerir. 
+1. A partir de **Clientes** selecione o cliente que pretende gerir.
 
 2. Utilizando a seta para baixo, expanda a linha do cliente e selecione **o portal Microsoft Azure Management**.  
  
-## <a name="view-azure-subscriptions-under-the-azure-plan"></a>Ver subscrições do Azure ao abrigo do plano Azure
+## <a name="view-azure-subscriptions-under-the-azure-plan"></a>Ver subscrições do Azure no âmbito do plano Azure
 
 A partir da página **de Subscrições,** na secção baseada em uso, expanda o **plano Azure** para ver subscrições Azure associadas ao abrigo do plano Azure.
 
 :::image type="content" source="images/azure/addprods2.png" alt-text="Ver lista de subscrições do Azure."::: 
+
+#### <a name="current-view"></a>[Vista atual](#tab/current-view)
+
+1. A partir do menu Partner Center no seu [painel de instrumentos,](https://partner.microsoft.com/dashboard/)selecione **Clientes**.
+Encontre o cliente que quer comprar reservas Azure e, em seguida, selecione a seta para baixo para expandir a linha do cliente.
+
+2. **Selecione Adicionar produtos** e, em seguida, selecione **Azure**. 
+
+   - Escolha o segmento de mercado do cliente na lista de **Segmento.**
+   - Escolha **Reservas** na lista de **tipos de produto.**
+   - Escolha o tipo de reserva que o cliente quer na lista de **tipos de Reservas.**
+
+As reservas do Azure devem ser associadas a um plano Azure ativo. Escolha o plano Azure a que pretende adicionar reservas Azure à lista de assinaturas do Cliente. 
+
+> [!IMPORTANT]
+> Se o cliente ainda não tiver um plano Azure ativo, selecione Azure para adicionar um agora. Para mais instruções, leia [reservas do Buy Azure](azure-reservations-buying.md#purchase-azure-reservations).
+
+> [!NOTE]
+> O âmbito de uma reserva só pode ser definido para **Shared,** atualmente no Partner Center. Para selecionar um único âmbito de subscrição ou atualização do âmbito de subscrição partilhado para um único, vá ao **portal Microsoft Azure Gestão** utilizando as seguintes instruções. 
+
+:::image type="content" source="images/azure/addprods1.png" alt-text="Definição de reservas de âmbito compartilhado.":::
+
+Para gerir a reserva do cliente no portal Azure:
+
+1. A partir de **Clientes** selecione o cliente que pretende gerir.
+
+2. Utilizando a seta para baixo, expanda a linha do cliente e selecione **o portal Microsoft Azure Management**.  
+ 
+## <a name="view-azure-subscriptions-under-the-azure-plan"></a>Ver subscrições do Azure no âmbito do plano Azure
+
+A partir da página **de Subscrições,** na secção baseada em uso, expanda o **plano Azure** para ver subscrições Azure associadas ao abrigo do plano Azure.
+
+:::image type="content" source="images/azure/addprods2.png" alt-text="Ver lista de subscrições do Azure.":::
+
+* * *
 
 ## <a name="add-subscriptions-and-configure-resources"></a>Adicionar subscrições e configurar recursos
 

@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3ed73b67b38eba1793e79908223810cda25b2201
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: 6731d4805201bb180a705fd96830ff71b575de3b
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126247373"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129072540"
 ---
 # <a name="earn-an-advanced-specialization-to-showcase-your-validated-capabilities"></a>Ganhe uma especialização avançada para mostrar as suas capacidades validadas
 
@@ -26,7 +26,7 @@ Para obter uma especialização avançada, um parceiro tem muitas vezes de satis
 
 Ao cumprir estes rigorosos requisitos, os parceiros podem então validar o seu profundo conhecimento, vasta experiência e sucesso comprovado na entrega de soluções personalizadas e de clientes para áreas de elevada procura e relevância do cliente.
 
-Os parceiros que obtiverem uma especialização avançada obterão um rótulo virado para o cliente que podem exibir no seu perfil de negócio no finder do [provedor de solução Microsoft.](https://www.microsoft.com/solution-providers/home) Este rótulo valida ainda mais as capacidades do parceiro, ao mesmo tempo que lhes dá acesso aos benefícios associados, ao alcance do cliente alargado e a uma maior confiança do cliente.
+Os parceiros que obtiverem uma especialização avançada obterão uma etiqueta virada para o cliente que podem exibir no seu perfil de negócio no finder do [provedor de solução Microsoft.](https://www.microsoft.com/solution-providers/home) Este rótulo valida ainda mais as capacidades do parceiro, ao mesmo tempo que lhes dá acesso aos benefícios associados, ao alcance do cliente alargado e a uma maior confiança do cliente.
 
 > [!NOTE]
 > Para saber mais sobre especializações avançadas, visite a [página de especializações avançadas da Microsoft Partner Network](https://partner.microsoft.com/membership/advanced-specialization).
@@ -57,11 +57,10 @@ As especializações avançadas **do Azure** incluem:
 - DevOps com GitHub na Microsoft Azure
 - Serviços de Networking em Microsoft Azure
 
-
 **Business Applications** especializações avançadas incluem:
 
-- Desenvolvimento de Aplicações de Código Baixo
-- Gestão de Empresas Pequenas e Médias
+- Desenvolvimento de aplicações de código baixo
+- Gestão de Negócios De Pequena e Média Dimensão
 
 **As** especializações avançadas do Trabalho Moderno incluem:
 

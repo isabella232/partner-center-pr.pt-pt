@@ -3,22 +3,22 @@ title: Verifique a saúde do serviço para um cliente
 ms.topic: how-to
 ms.date: 05/05/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-support
-description: Aprenda a usar o Partner Center para verificar a saúde do serviço para um cliente quando este se desmente com um problema com um serviço.
+ms.subservice: partnercenter-customers
+description: Aprenda a usar o Partner Center para verificar a saúde do serviço para um cliente quando este se der ao seu trabalho com um serviço.
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d8d9bc05d2fe5ca87c5fa9f13371305a48fb6a52
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: 861ccf8105326950b43905ea20b5941d776718bc
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126246269"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129074041"
 ---
 # <a name="check-service-health-for-a-customer-reporting-a-potential-service-problem-or-outage"></a>Verifique a saúde do serviço para um cliente que reporte um potencial problema de serviço ou paralisação
 
-**Funções adequadas**: Agente administrador | Administração global | Agente helpdesk | Agente comercial
+**Funções adequadas**: Agente administrador | | de administração global Agente helpdesk | Agente comercial
 
 Este artigo explica como usar o Partner Center para verificar a saúde do serviço para um cliente quando eles experimentam um problema com um serviço. 
 
@@ -26,12 +26,12 @@ Este artigo explica como usar o Partner Center para verificar a saúde do servi�
 
 1. Selecione o **Cliente** que está tendo o problema na **lista de Clientes.**
 
-2. Selecione **a gestão** do serviço a partir do menu esquerdo. Isto irá enumerar os serviços prestados ao cliente e a saúde de serviço para cada um. Os parceiros podem clicar no serviço em que estão interessados para obter mais informações. 
+2. Selecione **a gestão** do serviço a partir do menu esquerdo. Isto listará os serviços prestados ao cliente e a saúde de serviço para cada um. Os parceiros podem clicar no serviço em que estão interessados para obter mais informações. 
 
 >[!NOTE] 
-> As ligações de saúde de serviço nas páginas **de gestão** do Serviço levarão o parceiro ao centro de administração M365 ou ao portal Azure como **administrador delegado.** Assim que o parceiro chegar a qualquer destino, o parceiro pode navegar para as páginas de saúde do serviço em qualquer um dos portais para mais detalhes sobre a paralisação.
+> As ligações de saúde de serviço nas páginas **de gestão** do Serviço levarão o parceiro ao centro de administração M365 ou ao portal Azure como **administrador delegado.** Uma vez que o parceiro chegue a qualquer destino, o parceiro pode navegar para as páginas de saúde do serviço em qualquer um dos portais para mais detalhes sobre a paralisação.
  
-Durante uma paragem de serviço, a Microsoft fornece atualizações regulares enquanto trabalhamos para resolver o problema. Estas notificações também são apresentadas no portal Microsoft Azure ou no Centro de Administração Microsoft 365.
+Durante uma interrupção de serviço, a Microsoft fornece atualizações regulares enquanto trabalhamos para resolver o problema. Estas notificações também são apresentadas no portal Microsoft Azure ou no Centro de Administração Microsoft 365.
 
 ## <a name="next-steps"></a>Passos seguintes 
 

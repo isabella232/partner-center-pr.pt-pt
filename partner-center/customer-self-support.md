@@ -3,18 +3,18 @@ title: Suporte autónomo do cliente
 ms.topic: article
 ms.date: 05/05/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-support
+ms.subservice: partnercenter-customers
 description: Saiba quando e onde os clientes podem realizar autoapoio para gerir as suas próprias contas e quando devem contactar o seu parceiro Fornecedor de Soluções em Nuvem.
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5163952f7fa90c13001cfdb160558d0ee7462691
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: 1fca44e1700760b9210db3fae55b3ad37b5e2c37
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960960"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129071912"
 ---
 # <a name="customer-self-support-through-microsoft-office-365-admin-center-or-through-the-azure-portal"></a>Auto-suporte do cliente através Microsoft Office 365 centro de administração ou através do portal Azure
 
@@ -30,7 +30,7 @@ Os clientes podem inscrever-se no seu próprio centro de administração Microso
 
 Para adquirir subscrições adicionais ou cancelar as suas subscrições, os clientes devem contactar o seu parceiro Fornecedor de Soluções em Nuvem. Os clientes não podem alterar as suas próprias subscrições diretamente com a Microsoft.
 
-Quando os clientes precisam de ajuda com produtos, podem encontrar recursos de produto no [Suporte.](https://partnercenter.microsoft.com/partner/support) Encorajamos os parceiros a apontarem os seus clientes a estes recursos como um primeiro passo.
+Quando os clientes precisam de ajuda com produtos, podem encontrar recursos de produto no [Suporte.](https://partnercenter.microsoft.com/partner/support) Encorajamos os parceiros a apontar os seus clientes a estes recursos como um primeiro passo.
 
  
 

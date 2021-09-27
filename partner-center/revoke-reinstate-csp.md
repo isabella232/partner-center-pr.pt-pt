@@ -9,12 +9,12 @@ author: dhirajgandhi
 ms.author: dhgandhi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7ec17a386e3ac6e9b41ce0582f0c55e424ce5e64
-ms.sourcegitcommit: fceaca54b0ec695cf214209c09b4516e1b40866a
+ms.openlocfilehash: ea64a6030acbc41aec085b3a0a7927d8ed28cc88
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "128359436"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129070183"
 ---
 # <a name="reinstate-admin-privileges-for-a-customers-azure-csp-subscriptions"></a>Repor privilégios de administração para as assinaturas Azure CSP de um cliente  
 
@@ -33,7 +33,100 @@ Alguns privilégios administrativos são concedidos automaticamente quando estab
 
 Pode trabalhar com o seu cliente para recuperar privilégios de administração delegados.
 
-1. Inscreva-se no [painel do Centro de Parceiros.](https://partner.microsoft.com/dashboard)
+> [!NOTE]
+> A interface de pré-visualização do Partner Center proporciona-lhe uma experiência de utilizador mais eficiente e produtiva através de espaços de trabalho agrupados logicamente. Para saber mais sobre a interface dos espaços de trabalho e como ligá-lo, consulte [Getting around Partner Center](get-around-partner-center.md#turn-workspaces-on-and-off).
+
+#### <a name="workspaces-view"></a>[Vista de espaços de trabalho](#tab/workspaces-view)
+
+1. Inicie sessão no [dashboard do Centro de Parceiros](https://partner.microsoft.com/dashboard).
+
+2. Selecione **o** azulejo cliente.
+
+3. Selecione o cliente com quem está a trabalhar e **solicite uma relação de revendedor**. Esta ação gera uma ligação com o cliente que tem direitos de administração de inquilinos.
+
+4. O seu cliente precisa de selecionar o link e aprovar o pedido de relacionamento do revendedor.
+
+   :::image type="content" source="images/azure/revoke4.png" alt-text="Exemplo de e-mail de criar relacionamento de revendedor.":::
+
+5. Você, o parceiro, precisa de se conectar com o inquilino parceiro para obter o Objeto ID do grupo AdminAgents.
+  
+   ```powershell
+   Connect-AzAccount -Tenant "Partner tenant"
+   # Get Object ID of AdminAgents group
+   Get-AzADGroup -DisplayName AdminAgents
+   ```
+
+6. Em seguida, o seu cliente deve fazer os seguintes passos utilizando o PowerShell ou o Azure CLI. O seu cliente deve ter:
+
+    - O papel do **proprietário** ou administrador de **acesso ao utilizador**
+    - Permissões para criar atribuições de funções ao nível da subscrição
+
+   a. Apenas para o PowerShell, o cliente deve atualizar o `Az.Resources` módulo.
+   ```powershell
+   Update-Module Az.Resources
+   ```
+
+   b. O cliente conecta-se ao arrendatário onde existe a assinatura CSP.
+   ```powershell
+   Connect-AzAccount -TenantID "<Customer tenant>"
+   ```
+   ```azurecli
+   az login --tenant <Customer tenant>
+   ```
+
+   c. O cliente conecta-se à subscrição. Isto *só* é aplicável se o utilizador tiver permissões de atribuição de funções sobre várias subscrições no arrendatário.
+
+   ```powershell
+   Set-AzContext -SubscriptionID <"CSP Subscription ID">
+   ```
+   ```azurecli
+   az account set --subscription <CSP Subscription ID>
+   ```
+
+   d. Em seguida, o cliente cria a atribuição de funções.
+    
+   ```powershell
+   New-AzRoleAssignment -ObjectID "<Object ID of the Admin Agents group provided by partner>" -RoleDefinitionName "Owner" -Scope "/subscriptions/'<CSP subscription ID>'"
+   ```
+   ```azurecli
+   az role assignment create --role "Owner" --assignee-object-id <Object Id of the Admin Agents group provided by partner> --scope "/subscriptions/<CSP Subscription Id>"
+   ```
+
+Em vez de conceder permissões ao proprietário no âmbito de subscrição, pode conceder ao nível do grupo de recursos ou recursos. 
+
+- Ao nível do grupo de recursos
+
+   ```powershell
+   New-AzRoleAssignment -ObjectID "<Object ID from step 3>" -RoleDefinitionName Owner -Scope "/subscriptions/'SubscriptionID of CSP subscription'/resourceGroups/'Resource group name'"
+   ```
+
+   ```azurecli
+   az role assignment create --role "Owner" --assignee-object-id <Object Id of the Admin Agents group provided by partner> --scope "/subscriptions/<CSP Subscription Id>//resourceGroups/<Resource group name>"
+   ```
+
+- Ao nível dos recursos
+
+   ```powershell
+   New-AzRoleAssignment -ObjectID "<Object ID from step 3>" -RoleDefinitionName Owner -Scope "<Resource URI>"
+   ```
+
+   ```azurecli
+   az role assignment create --role "Owner" --assignee-object-id <Object Id of the Admin Agents group provided by partner> --scope "<Resource URI>"
+   ```
+
+Se os passos acima não funcionarem ou se tiver erros ao tentar, experimente o seguinte procedimento "catch-all" para restabelecer os direitos de administração do seu cliente.
+
+```powershell
+Install-Module -Name Az.Resources -Force -Verbose
+Import-Module -Name Az.Resources -Verbose -MinimumVersion 4.1.1
+Connect-AzAccount -Tenant <customer tenant>
+Set-AzContext -SubscriptionId <customer subscriptions>
+New-AzRoleAssignment -ObjectId <principal ID> -RoleDefinitionName "Owner" -Scope "/subscriptions/<customer subscription>" -ObjectType "ForeignGroup"
+```
+
+#### <a name="current-view"></a>[Vista atual](#tab/current-view)
+
+1. Inicie sessão no [dashboard do Centro de Parceiros](https://partner.microsoft.com/dashboard).
 
 2. No menu Partner Center, selecione **Clientes.**
 
@@ -123,6 +216,9 @@ Connect-AzAccount -Tenant <customer tenant>
 Set-AzContext -SubscriptionId <customer subscriptions>
 New-AzRoleAssignment -ObjectId <principal ID> -RoleDefinitionName "Owner" -Scope "/subscriptions/<customer subscription>" -ObjectType "ForeignGroup"
 ```
+
+* * *
+
 ### <a name="troubleshooting"></a>Resolução de problemas
 Se o cliente não conseguir completar o passo 6, sugira o seguinte comando e forneça o ficheiro resultante `newRoleAssignment.log` à Microsoft para posterior análise:
 

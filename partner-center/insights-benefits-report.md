@@ -5,22 +5,22 @@ ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
 description: Veja quais os tipos de benefícios do Microsoft Partner que lhe foram concedidos para ajudar a crescer o seu negócio, melhorar a eficiência e melhorar as habilidades da sua equipa.
-author: shthota77
-ms.author: shthota
+author: kshitishsahoo
+ms.author: ksahoo
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 457a5197ea9bcfaf2d9c936b7483b33688b1cb41
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: 759d5d5f1d258325a00bbc53833059de61707c77
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960230"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129074449"
 ---
 # <a name="benefits-report-available-from-the-partner-center-insights-dashboard"></a>Relatório de benefícios disponível no painel de Informações do Partner Center
 
 **Funções adequadas**: Administração global | Agente administrativo | Relatório | do espectador Espectador de relatório executivo
 
-Como Microsoft Partner, pode aceder a uma série de benefícios que utilizam a mais recente tecnologia e inovações para ajudá-lo a melhorar as habilidades da sua equipa, melhorar a eficiência e fazer crescer o seu negócio. Os pacotes de benefícios incluem: alocações de software licenciado, serviços na nuvem, subscrições Visual Studio e suporte. Estes pacotes também podem incluir certos recursos, ofertas e programas go-to-market. O relatório Benefits apresenta tendências dos benefícios a que acedeu e da sua utilização durante a gama de datas selecionadas.
+Como Microsoft Partner, pode aceder a uma série de benefícios que utilizam a mais recente tecnologia e inovações para ajudá-lo a melhorar as habilidades da sua equipa, melhorar a eficiência e fazer crescer o seu negócio. Os pacotes de benefícios incluem: alocações de software licenciado, serviços na nuvem, subscrições Visual Studio e suporte. Estes pacotes também podem incluir certos recursos, ofertas e programas go-to-market. O relatório Benefits apresenta tendências dos benefícios a que acedeu e da sua utilização durante o intervalo de datas selecionados.
 
 :::image type="content" source="images/insights/benefits-intro.png" alt-text="Visão geral da página de benefícios.":::
 
@@ -61,7 +61,7 @@ Este gráfico apresenta a tendência mensal das licenças concedidas durante a g
 
 Este gráfico apresenta a tendência mensal de Visual Studio subscrições ativadas contra subscrições que foi atribuída durante o intervalo de datas selecionadas.
 
-Selecione um separador em cima da tabela para ver a tendência de uma subscrição específica Visual Studio que lhe é concedida como benefícios. As colunas na tabela representam licenças consumidas para a subscrição. O gráfico de linha representa as licenças globais atribuídas para a subscrição.
+Selecione um separador no topo da tabela para ver a tendência de uma subscrição Visual Studio específica que lhe é concedida como benefícios. As colunas na tabela representam licenças consumidas para a subscrição. O gráfico de linha representa as licenças globais atribuídas para a subscrição.
 
 :::image type="content" source="images/insights/benefits-visual-studio-subscriptions.png" alt-text="Visual Studio assinaturas.":::
 
@@ -75,7 +75,7 @@ Selecione um separador no topo da tabela para ver a tendência de um benefício 
 
 ## <a name="go-to-market-offers-or-services"></a>Ofertas ou serviços go-to-market
 
-Este gráfico apresenta a tendência mensal das ofertas ou serviços Go-To-Market ativados contra os atribuídos durante a gama de datas selecionadas e para uma categoria de oferta ou serviço selecionado go-to-market.
+Este gráfico apresenta a tendência mensal das ofertas ou serviços Go-To-Market ativados contra os atribuídos durante a gama de datas selecionadas e para uma oferta ou categoria de serviços selecionados.
 
 Selecione uma oferta go-to-market ou categoria de serviço a partir da lista de dropdown no topo da tabela para ver a tendência dos serviços go-to-market selecionados concedidos à sua empresa. Colunas na tabela representam ofertas ou serviços do Go-To-Market ativados. O gráfico de linha representa as ofertas ou serviços globais da Go-To-Market concedidos à sua empresa.
 

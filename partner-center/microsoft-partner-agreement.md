@@ -3,37 +3,37 @@ title: O Microsoft Partner Agreement (MPA) para a CSP
 ms.topic: how-to
 ms.date: 03/23/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-account
-description: Conheça os requisitos do parceiro Da Microsoft CSP para assinar e verificar este Acordo de Parceiro microsoft unificado e aceite digitalmente (MPA).
+ms.subservice: partnercenter-enroll
+description: Conheça os requisitos do parceiro Da Microsoft CSP para assinar e verificar este Acordo de Parceiro microsoft unificado e digitalmente aceite (MPA).
 author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 373ab01965cb527ab5e972cc28c2e7d9a685cb11
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: b795acc4765811f518a8ca6ba0c92d09631e7160
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960389"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129070257"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>Conheça o Acordo de Parceiros da Microsoft (MPA) para parceiros de programas da CSP
 
 **Funções apropriadas**: Administração global
 
-O Microsoft Partner Agreement fornece aos parceiros da Microsoft um acordo de parceiro unificado e digitalmente aceite. O Microsoft Partner Agreement contém um conjunto central de termos perpétuos que ajudam a Microsoft, parceiros e clientes a apoiar a privacidade e segurança dos dados, a promover a conformidade e a incentivar práticas comerciais sãs.
+O Microsoft Partner Agreement fornece aos parceiros da Microsoft um acordo de parceiro unificado e digitalmente aceite. O Microsoft Partner Agreement contém um conjunto de termos perpétuos que ajudam a Microsoft, parceiros e clientes a apoiar a privacidade e segurança dos dados, a promover a conformidade e a encorajar práticas comerciais sãs.
 
-Todos os Fornecedor de Soluções em Nuvem parceiros do programa (incluindo fornecedores indiretos, revendedores indiretos e parceiros de contas diretas) podem assinar o MPA online no Partner Center. A fatura direta e os parceiros de prestadores indiretos que operam no Microsoft Cloud for US Government também podem assinar a MPA a partir do Centro de Parceiros.
+Todos os Fornecedor de Soluções em Nuvem parceiros de programas (incluindo fornecedores indiretos, revendedores indiretos e parceiros de contas diretas) podem assinar o MPA online no Partner Center. A fatura direta e os parceiros de prestadores indiretos que operam no Microsoft Cloud for US Government também podem assinar a MPA a partir do Centro de Parceiros.
 
 Para continuar a participar no programa CSP, tem de assinar o Acordo de Parceiro da Microsoft antes de 31 de janeiro de 2020. O Partner Center irá lembrá-lo que agora pode assinar facilmente o contrato a partir do Centro de Parceiros.
 
 >[!NOTE]
 >A MPA deve ser assinada uma vez em todas as regiões da CSP onde a sua empresa faz negócios com CSP. Saiba mais sobre [as regiões da CSP](regional-authorization-overview.md) 
 
-## <a name="verify-your-mpn-id-is-active-and-migrated-to-partner-center"></a>Verifique se o seu ID MPN está ativo e migrado para o Partner Center
+## <a name="verify-your-mpn-id-is-active-and-migrated-to-partner-center"></a>Verifique se o seu ID MPN está ativo e migrado para o Centro de Parceiros
 
 1. Se não emigrou a sua conta MPN do Partner Membership Center (PMC) para Partner Center, então precisa de migrar a [sua conta MPN para Partner Center](./partner-membership-center-retirement-faq.md). Irá completar o resto dos passos após a conclusão da migração. 
 
-1. Se não possuir um ID ou conta MPN, deverá aderir primeiro ao programa Microsoft Partner Network. [Saiba como aderir à MPN.](mpn-create-a-partner-center-account.md)
+1. Se não possuir um ID ou conta MPN, deverá aderir primeiro ao programa Microsoft Partner Network. [Saiba como aderir à MPN](mpn-create-a-partner-center-account.md).
 
 1. Inscreva-se no Partner Center com as suas credenciais de conta MPN.
  
@@ -60,7 +60,7 @@ Para continuar a participar no programa CSP, tem de assinar o Acordo de Parceiro
 
 1. Se o estado  **do revendedor indireto** estiver **ativo,** então é um revendedor indireto ativo no Partner Center.
  
-4. Se o estado  **do revendedor indireto** for **qualificado,** então vá ao seu [**painel de instrumentos**](https://partner.microsoft.com/pcv/dashboard/overview) para aceitar a MPA para ativar a sua conta.
+4. Se o estado  **do revendedor indireto** for **qualificado,** então vá ao seu [**painel de controlo**](https://partner.microsoft.com/pcv/dashboard/overview) para aceitar a MPA para ativar a sua conta.
  
 1. Se o estado do revendedor indireto for **rejeitado** ou **recusado,** então a verificação da sua conta falhou. Leia [o processo de verificação](verification-responses.md) para saber como resolver a questão da verificação.
 
@@ -71,14 +71,14 @@ Lembre-se de aceitar o pedido de relacionamento CSP com o seu fornecedor Indiret
 ## <a name="sign-the-mpa"></a>Assine a MPA
 
 1. Inscreva-se no Centro de Parceiros com a sua conta CSP Indirect Reseller. Tem de ser o Administrador global.
-1. Aceda à página geral da **[CSP.](https://partner.microsoft.com/pcv/dashboard/overview)**  Se não vir nem **aceitar e continuar** ou o banner verde dizendo que a MPA está assinada, não tem o papel certo para assinar MPA. Contacte o Administrador Global para assinar o MPA.
+1. Aceda à página geral da **[CSP.](https://partner.microsoft.com/pcv/dashboard/overview)**  Se não vir nenhum **aceitação e continuação** ou o banner verde dizendo que MPA está assinado, você não tem o papel certo para assinar MPA. Contacte o Administrador Global para assinar o MPA.
 
-1. Para visualizar e descarregar o **Microsoft Partner Agreement** antes de o assinar, selecione o link Microsoft Partner Agreement, conforme mostrado abaixo.
+1. Para visualizar e descarregar o **Microsoft Partner Agreement** antes de o assinar, selecione o link Do Acordo de Parceiro da Microsoft, conforme mostrado abaixo.
 
 :::image type="content" source="images/agreement-three.png" alt-text="Nova localização do acordo mpa.":::
 
 >[!NOTE]
->Se não vir o link do **Microsoft Partner Agreement,** verifique a sua função no Partner Center. Apenas os Administradores Globais no inquilino da CSP podem ver e assinar MPA no Partner Center. Para verificar a sua função, vá à **gestão do Utilizador** e verifique se a conta de inscrição está marcada **como Global Admin**. Caso contrário, esta conta não pode ser utilizada para assinar MPA. Pode pesquisar por administradores globais na sua empresa na página de gestão do Utilizador.
+>Se não vir o link do **Microsoft Partner Agreement,** verifique a sua função no Partner Center. Apenas os administradores globais do inquilino da CSP podem ver e assinar MPA no Partner Center. Para verificar a sua função, vá à **gestão do Utilizador** e verifique se a conta de inscrição está marcada **como Global Admin**. Caso contrário, esta conta não pode ser utilizada para assinar MPA. Pode pesquisar por administradores globais na sua empresa na página de gestão do Utilizador.
 
 :::image type="content" source="images/user-management-clean.png" alt-text="Como encontrar o seu papel.":::
 

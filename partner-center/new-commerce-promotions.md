@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8abd34ff7cc47edf59be6532dcc7e9c7e0dd1533
-ms.sourcegitcommit: dd900161830c59bcf3c5d700d524436ee05cd987
+ms.openlocfilehash: b5b4e3ec2ef4c37b742102d287e5eddd93690fdb
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "128714152"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129075181"
 ---
 # <a name="introduction-new-commerce-promotions"></a>Introdução: Novas promoções de comércio
 
@@ -79,7 +79,3 @@ Os parceiros que atualizam de uma subscrição para outro SKU deixarão o preço
 
 ## <a name="promotions-and-migrations"></a>Promoções e migrações ##
 Os parceiros podem migrar as subscrições dos seus clientes do Microsoft 365/Dynamics 365 para novas versões de comércio das suas subscrições. As migrações estão disponíveis tanto a partir da interface de utilizador do Partner Center como da chamada apis de migração. Os parceiros que a migração de uma subscrição tradicional para o novo comércio receberão a promoção quando migrarem, desde que o produto se movam para alinhar com a definição de promoção. Os parceiros devem ligar para a API de elegibilidade para garantir que o produto-alvo SKU aplicará o preço de promoção antes da migração.
-
-
-
-

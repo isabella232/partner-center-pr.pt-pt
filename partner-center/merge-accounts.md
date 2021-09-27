@@ -7,13 +7,13 @@ ms.subservice: partnercenter-account
 author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: seodec18
-ms.date: 06/12/2020
-ms.openlocfilehash: 4b913754dd73f99e8aa363d257a9ac658d190b6a
-ms.sourcegitcommit: fceaca54b0ec695cf214209c09b4516e1b40866a
+ms.date: 09/27/2021
+ms.openlocfilehash: 090deddc8cdb06fe1b5f884b3efa9031fd93364b
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/23/2021
-ms.locfileid: "128322004"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129071850"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>Unir a sua conta de parceiro com outra conta de parceiro
 
@@ -81,16 +81,18 @@ Caso decida aceitar o convite para fundir contas: · Os seus ID(s) (s) e locais 
 
 ## <a name="invite-a-company-to-merge-their-partner-center-account-with-your-partner-center-account"></a>Convide uma empresa para fundir a sua conta Partner Center com a sua conta Partner Center
 
->[!Note]
->Para realizar a fusão da conta, tem de ser o administrador da **Conta** da sua empresa.
+> [!NOTE]
+> Para realizar a fusão da conta, tem de ser o administrador da **Conta** da sua empresa.
 
-1. Selecione **Definições** no painel de instrumentos do Centro de Parceiros. 
+1. Inicie sessão no [dashboard do Centro de Parceiros](https://partner.microsoft.com/dashboard).
+ 
+2. Selecione o ícone de engrenagem Definições e, em seguida, **selecione as definições de Conta**.
 
-2. Selecione **Fusão de Conta**.
+3. Selecione **Fusão de Conta**.
 
-3. Adicione o ID MPN localizado no **perfil partner** da conta que pretende convidar para se fundir consigo. Deve usar o mpn global do parceiro deles. Não pode usar uma identificação de MPN de localização.
+4. Adicione o ID MPN localizado no **perfil partner** da conta que pretende convidar para se fundir consigo. Deve usar o mpn global do parceiro deles. Não pode usar uma identificação de MPN de localização.
 
-4. Quando seleciona **a Merge,** é enviado um convite para a empresa parceira. Quando aceitarem o seu pedido, pode iniciar a fusão da conta no Partner Center. Se a empresa rejeitar o seu pedido de fusão de contas, pode explicar por que rejeitaram o pedido. Uma lista de todas as suas combinações de conta está disponível para si no histórico **da Fusão.**
+5. Quando seleciona **a Merge,** é enviado um convite para a empresa parceira. Quando aceitarem o seu pedido, pode iniciar a fusão da conta no Partner Center. Se a empresa rejeitar o seu pedido de fusão de contas, pode explicar por que rejeitaram o pedido. Uma lista de todas as suas combinações de conta está disponível para si no histórico **da Fusão.**
  
 ### <a name="example-of-two-companies-merging-accounts"></a>Exemplo de duas empresas que fundem contas
 

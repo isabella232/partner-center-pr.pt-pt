@@ -5,22 +5,22 @@ ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
 description: Veja o que está a fazer bem e onde pode melhorar o seu uso de subscrições Azure que vende ou gere para os seus clientes.
-author: shthota77
-ms.author: shthota
+author: kshitishsahoo
+ms.author: ksahoo
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 75f326fab8ebc59628dadc43b048dfefe48c22cb
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: 56e58ba6ace5a7c64ec4ddfd1e76d33deace87fc
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960220"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129070254"
 ---
-# <a name="azure-usage-report-available-from-the-partner-center-insights-dashboard"></a>Relatório de utilização do Azure disponível no painel de instrumentos do Partner Center Informações
+# <a name="azure-usage-report-available-from-the-partner-center-insights-dashboard"></a>Relatório de utilização do Azure disponível no Painel de Informações do Centro de Parceiros
 
 **Funções adequadas**: Administração global | Agente administrativo | Relatório | do espectador Espectador de relatório executivo
 
-O relatório Azure Usage apresenta métricas relacionadas com as subscrições Azure dos seus clientes. Este relatório inclui as receitas de consumo da Azure e a utilização por categorias de contadores. Pode ver as seguintes secções do relatório de utilização do Azure.
+O relatório Azure Usage apresenta métricas relacionadas com as subscrições Azure dos seus clientes. Este relatório inclui as receitas de consumo do Azure e a utilização por categorias de contadores. Pode ver as seguintes secções do relatório de utilização do Azure.
 
 - Resumo
 - Uso azul por geografia
@@ -33,29 +33,29 @@ O relatório Azure Usage apresenta métricas relacionadas com as subscrições A
 
 A secção de resumo apresenta uma visão instantânea dos principais indicadores de desempenho (KPI's) relacionados com as subscrições Azure vendidas ou geridas por si para os seus clientes.  
 
-- Assinaturas Azure: Contagem atual de subscrições de clientes Azure vendidas ou geridas por si.
+- Subscrições Azure: Contagem atual de subscrições de clientes Azure vendidas ou geridas por si.
 Crescimento percentual ou declínio destas subscrições Azure durante o intervalo de datas selecionadas.
 
-O micro gráfico apresenta uma tendência mensal de subscrições Azure para a sua gama de datas selecionadas.
+O Micro chart apresenta uma tendência mensal de subscrições Azure para a sua gama de datas selecionadas.
 - Subscrições Ative Azure: Contagem atual de subscrições Azure vendidas ou geridas por si que tiveram uso ativo nos últimos 30 dias.
 Crescimento percentual ou declínio destas subscrições durante o intervalo de datas selecionadas.
 
-O Micro chart apresenta uma tendência mensal da contagem de assinaturas ativas Azure durante a sua gama de datas selecionadas.
+O micro gráfico apresenta uma tendência mensal da contagem de assinaturas ativas Azure durante a sua gama de datas selecionadas.
 
-- Receita consumida do Azure (ACR): Total Azure Consumed Revenue (US$) atribuído ao longo da gama de datas selecionadas.
+- Azure Consumed Revenue (ACR): Total Azure Consumed Revenue (US$) atribuído ao longo da gama de datas selecionadas.
 Crescimento percentual ou declínio do ACR US$ atribuído durante o intervalo de datas selecionados. 
 
 O Micro chart apresenta uma tendência mensal de ACR US$ atribuída ao longo do período de tempo selecionado
 
 
 > [!NOTE]
- > O Azure Consumed Revenue (ACR) só será visível para os utilizadores que tenham sido atribuídos o Papel de Visualizador de Relatório Executivo.
+ > A Azure Consumed Revenue (ACR) só será visível para os utilizadores que tenham sido atribuídos o Papel de Visualizador de Relatório Executivo.
 
 :::image type="content" source="images/insights/azure-usage-summary.png" alt-text="Resumo de utilização azul.":::
 
 ## <a name="azure-usage-by-geography"></a>Uso azul por geografia
 
-O **uso do Azure por visão de geografia** mostra a distribuição geográfica das receitas de consumo do Azure (ACR US$) ou horas de utilização para todas ou selecionadas categorias de nível/metro de serviço Azure. Cores mais claras no mapa representam valores mais baixos, enquanto cores mais escuras representam valores mais elevados. Pode pesquisar e selecionar um país na grelha para fazer zoom 
+O **uso do Azure por visão de geografia** mostra a distribuição geográfica das receitas de consumo do Azure (ACR US$) ou horas de utilização para todas ou selecionadas categorias de nível/metro de serviço Azure. Cores mais claras no mapa representam valores mais baixos, enquanto cores mais escuras representam valores mais elevados. Você pode pesquisar e selecionar um país na grelha para zoom para 
 
 O **número de países/tabela de região** apresenta o total de países/regiões onde são gerados eventos de utilização do Azure.
 

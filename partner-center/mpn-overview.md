@@ -1,20 +1,20 @@
 ---
-title: Benefícios de adesão à Microsoft Partner Network
+title: Benefícios de adesão à Rede de Parceiros da Microsoft
 ms.topic: article
 ms.date: 10/15/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-membership
+ms.subservice: partnercenter-benefits
 description: Conheça os benefícios da Microsoft Partner Network (MPN), como o Microsoft Action Pack, competências ou opções de programa para ir ao mercado e vender as suas soluções.
-author: ArpithaKanuganti
-ms.author: v-arkanu
+author: keramp88
+ms.author: keramp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bd5acdd94272d9c022eb0e3a034325b2dc1d9f12
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: b4ccbf542dc4977cc8440c0912fdfbe53b8e1401
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960390"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129071786"
 ---
 # <a name="partner-with-microsoft-and-discover-membership-benefits"></a>Parceria com a Microsoft e descubra benefícios de adesão
 
@@ -26,11 +26,11 @@ Quando te juntas a um programa de parceiros da Microsoft, tornas-te parte de uma
 
 ## <a name="join-the-microsoft-partner-network"></a>Junte-se à Rede de Parceiros da Microsoft
 
-Para aderir à Rede de Parceiros da Microsoft, aceda à página [ **de Adesão**](https://partner.microsoft.com/membership) no site da MPN e selecione **Matricular-se** ou **Juntar-se agora**.
+Para aderir à Rede de Parceiros da Microsoft, aceda à página [ **de Adesão**](https://partner.microsoft.com/membership) no site da MPN e selecione **Matricular-se** ou **Aderir agora**.
 
 ## <a name="action-pack"></a>Action Pack
 
-O Action Pack oferece software, suporte e benefícios para as empresas que querem começar, construir e aumentar a sua prática microsoft num mundo em primeiro lugar, mobile-first.
+O Action Pack oferece software, suporte e benefícios para empresas que queiram começar, construir e aumentar a sua prática microsoft num mundo em primeiro lugar, mobile-first.
 
 Reveja os recursos abaixo para saber mais sobre o Action Pack:
 
@@ -39,13 +39,13 @@ Reveja os recursos abaixo para saber mais sobre o Action Pack:
 - [Obtenha o Pacote de Ação](mpn-get-action-pack.md)
   
     >[!IMPORTANT]
-    >Gere a subscrição do Action Pack no Partner Center. Se a sua empresa ainda não se mudou para o Partner Center a partir do Partner Membership Center, leia [Prepare-se para a sua mudança para o Partner Center](./partner-membership-center-retirement-faq.md)  
+    >Gere a subscrição do Action Pack no Partner Center. Se a sua empresa ainda não se mudou para o Partner Center do Partner Membership Center, leia [Prepare-se para a sua mudança para o Partner Center](./partner-membership-center-retirement-faq.md)  
 
 - [Renew your MPN offers](renew-mpn-offers.md) (Renovar as ofertas da MPN)
 
 ## <a name="competencies"></a>Competências
 
-Demonstre a sua experiência comprovada na entrega de soluções de qualidade numa área de negócio especializada. As competências da Microsoft são projetadas para satisfazer as necessidades dos seus clientes atuais e ser reconhecíveis para as potenciais. Junte-se ao nível de elite dos parceiros da Microsoft e destaque-se dos seus pares.
+Demonstre a sua comprovada experiência na entrega de soluções de qualidade numa área de negócio especializada. As competências da Microsoft são projetadas para satisfazer as necessidades dos seus clientes atuais e ser reconhecíveis para potenciais. Junte-se ao nível de elite dos parceiros da Microsoft e destaque-se dos seus pares.
 
 Reveja os recursos abaixo para saber mais sobre competências:
 
@@ -63,5 +63,5 @@ Reveja os recursos abaixo para saber mais sobre os benefícios e requisitos da r
 
 ## <a name="next-steps"></a>Passos seguintes
 
-- [Cresça o seu negócio de parceiros microsoft](grow-your-business.md)
+- [Cresça o seu negócio de parceiros da Microsoft](grow-your-business.md)
 - [Site da MPN](https://partner.microsoft.com/commercial).

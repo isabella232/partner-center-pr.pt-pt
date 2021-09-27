@@ -1,7 +1,7 @@
 ---
 title: Capacidades de faturação direta restringidas
 ms.topic: article
-ms.date: 10/09/2020
+ms.date: 09/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-billing
 description: Saiba mais sobre os requisitos do parceiro de conta direta Fornecedor de Soluções em Nuvem (CSP) e o que fazer para evitar que as capacidades sejam restringidas. Descubra se as suas capacidades foram restritas.
@@ -9,12 +9,12 @@ author: billLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: edb67f6ae3054bf5214611ab3ac5ef4ed6713aef
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: ebd364c1268217579316338e884d96491ddd70fb
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126248155"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129070738"
 ---
 # <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>Capacidades de conta direta restritas e os requisitos necessários para os parceiros de conta direta da CSP
 
@@ -33,11 +33,11 @@ Para confirmar se o acesso do inquilino do parceiro de conta direta às capacida
 
 1. Inicie sessão no [dashboard do Centro de Parceiros](https://partner.microsoft.com/dashboard).
 
-2. Ir para **as definições de Conta** Perfil  >  **Legal**.
+2. Selecione o ícone de engrenagem Definições e, em seguida, **as definições de Conta** e, em seguida, selecione Perfil **Legal**.
 
 3. Informações **do Programa,** procure **Fornecedor de Soluções em Nuvem da Microsoft estado**.
 
-4. Se o estado do programa tiver valor **restrito,** significa que o acesso do seu parceiro de conta direta às capacidades de conta direta foi restringido.
+4. Se o estado do programa tiver um valor **restrito,** significa que o acesso do seu parceiro de conta direta às capacidades de conta direta foi restringido.
 
 ## <a name="affected-direct-bill-capabilities"></a>Capacidades de conta direta afetadas
 
@@ -51,26 +51,26 @@ Se as suas capacidades de conta direta tiverem sido restritas, já não pode faz
 
 - Faça compras únicas de software e produtos de reserva (por exemplo, subscrições de software, software perpétuo e instâncias da Azure Reserved Virtual Machine).
 
-Também não é possível utilizar a [oferta de serviços partilhados do parceiro Azure](shared-services.md) ao abrigo do programa CSP para comprar novas subscrições Azure para seu próprio uso.
+Também não pode utilizar a [oferta de serviços partilhados do parceiro Azure](shared-services.md) ao abrigo do programa CSP para comprar novas subscrições Azure para seu próprio uso.
 
-As assinaturas de faturas diretas existentes não são afetadas. Permanecem válidos e autoestradas. Continuará a ser cobrado diretamente pela Microsoft até que sejam cancelados. Ainda pode gerir as subscrições existentes das seguintes formas:
+As assinaturas de faturas diretas existentes não são afetadas. Permanecem válidos e são auto-autorenados. Continuará a ser cobrado diretamente pela Microsoft até que sejam cancelados. Ainda pode gerir as subscrições existentes das seguintes formas:
 
 - Suspender as assinaturas existentes
 
 - Ajustar a contagem de licenças das assinaturas existentes baseadas em licenças
 
-- Ajuste a contagem de licenças dos addons existentes para uma subscrição. 
+- Ajuste a contagem de licenças de complementos existentes para uma subscrição. 
 
     >[!Note]
     >Não é possível adicionar novos addons às subscrições existentes, uma vez que é tratada como nova compra.
 
 - Implemente novos recursos Azure e gere os recursos Azure existentes sob as subscrições Azure existentes. Isto inclui recursos, que estão disponíveis através do Azure Marketplace e Visual Studio subscrições.
 
-Além de novas compras, não é possível aceder às seguintes capacidades de faturação direta no Partner Center:
+Além de novas compras, não é possível aceder às seguintes capacidades de conta direta no Partner Center:
 
 - Não pode criar novos inquilinos de clientes. A opção **de cliente Create** na página **cliente** no Partner Center não estará disponível.
 
-- Não é possível gerar convite para o cliente solicitar a relação de revendedor direto. O Pedido uma opção de **relacionamento revendedor** na página **clientes** no Partner Center não estará disponível.
+- Não é possível gerar convite para o cliente solicitar a relação de revendedor direto. O Pedido uma opção **de relacionamento revendedor** na página **clientes** no Partner Center não estará disponível.
 
     >[!NOTE]
     >Como parte da transição de parceiro de conta direta para revendedor indireto, se já inscreveu o seu inquilino parceiro de conta direta como revendedor indireto, pode gerar convite para o cliente solicitar uma relação de revendedor indireto.

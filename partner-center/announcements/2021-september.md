@@ -10,17 +10,103 @@ ms.custom:
 - announcement
 - references_regions
 ms.localizationpriority: high
-ms.date: 09/20/2021
-ms.openlocfilehash: 51706ec685519ea297e851cb4f2b862b96db3da1
-ms.sourcegitcommit: fceaca54b0ec695cf214209c09b4516e1b40866a
+ms.date: 09/27/2021
+ms.openlocfilehash: 19d8cd0bede7395d94adbe47daf51ff4171fd016
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "128701044"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129074292"
 ---
 # <a name="september-2021-announcements"></a>Anúncios de setembro de 2021
 
 Esta página fornece os anúncios para o Microsoft Partner Center para setembro de 2021.
+
+________________
+## <a name="new-commerce-experience-for-cloud-solution-provider-csp-seat-based-offers-readiness-resources"></a><a name="14"></a>Nova experiência de comércio para Fornecedor de Soluções em Nuvem (CSP) oferece recursos de prontidão
+
+### <a name="summary"></a>Resumo
+
+Este é um resumo dos recursos-chave que precisa de preparar com sucesso para o lançamento da nova experiência de comércio para ofertas baseadas em assentos CSP.
+
+### <a name="categories"></a>Categorias
+
+- Data: 2021-09-27
+- Capacidades
+
+### <a name="impacted-audience"></a>Audiência impactada
+
+Parceiros de conta direta da CSP e fornecedores indiretos e revendedores através dos seus fornecedores indiretos
+
+### <a name="details"></a>Detalhes
+
+Desde a [divulgação pública](./2021-august.md#14) de 19 de agosto de 2021 do próximo lançamento de ofertas baseadas em lugares na nova experiência de comércio, a Microsoft forneceu uma variedade de recursos de prontidão. Estes materiais são projetados para ajudar os parceiros a aprender rapidamente sobre mudanças de regras de programa, plataforma e negócios.
+
+Segue-se um resumo destes recursos-chave para utilizar nos seus esforços de aprendizagem para se preparar com sucesso para o lançamento.
+
+#### <a name="available-assets"></a>Ativos disponíveis
+
+**[Nova experiência de comércio para a coleção de ofertas baseadas em assentos CSP](https://partner.microsoft.com/resources/collection/new-commerce-experience-for-csp-seat-based-offers#/)**
+
+A coleção contém recursos relacionados com a nova experiência de comércio no programa CSP para Microsoft 365, Dynamics 365, Power Platform e Windows 365, lançado em outubro de 2021.
+
+Os conteúdos publicados na coleção estão disponíveis para todos os parceiros da CSP.
+
+**[Mapa de prontidão](https://partner.microsoft.com/resources/detail/readiness-map-new-commerce-experienceseat-based-offers-pdf)**
+
+O documento do mapa de prontidão fornece uma visão resumida pelo papel dos ativos, comunicações (com links) e sessões de parceiros gravadas disponíveis na coleção. Comece com este documento para identificar links para cada ativo para que possa navegar o conteúdo com facilidade.
+
+Para iniciar o seu caminho de aprendizagem, selecione o papel que melhor se adequa às suas necessidades e, em seguida, reveja os recursos alinhados com esse papel.
+
+A Microsoft fornece uma variedade de recursos de prontidão para ajudar os parceiros a aprender rapidamente sobre as mudanças de regras de programas, plataformas e negócios. O mapa de prontidão irá ajudá-lo a ir a estes materiais para otimizar os seus esforços de revisão. Quaisquer novos ativos adicionados à coleção também serão adicionados ao mapa de Prontidão.
+
+**[Guia operacional](https://partner.microsoft.com/resources/detail/operating-guide-new-commerce-experience-for-csp-seat-based-offers-pdf)**
+
+O guia operativo fornece uma visão mais granular (quando comparado com os ativos do [L100,](https://partner.microsoft.com/resources/detail/l100-new-commerce-experience-pdf) [L200](https://partner.microsoft.com/resources/detail/l200-new-commerce-experience-pdf)e [do gráfico de gestão de subscrição)](https://partner.microsoft.com/resources/detail/table-compares-new-old-experience-pdf) e fornece insights sobre como adotar e posteriormente transacionar Microsoft 365, Dynamics 365, Power Platform e Windows 365 ofertas na nova experiência de comércio.
+
+O guia operacional será continuamente atualizado com informações sobre funcionalidades e adições com base nas questões dos parceiros. Veja o registo de alterações para identificar as atualizações que foram feitas no documento.
+
+#### <a name="partner-trainings"></a>Formações de parceiros
+
+**[CSP Community Call Q&As](https://globalpbocomm.eventbuilder.com/GlobalCSP)**
+
+A CSP Community Call Q&As são dedicadas a ajudar parceiros de conta direta da CSP e fornecedores indiretos que têm questões relacionadas com lançamentos de CSP e alterações futuras. As coleções comunitárias são disponibilizadas com antecedência na [galeria de preparação](https://partner.microsoft.com/resources/assets/#/?prog=CSP%7CCSP-Direct%7CCSP-Indirect-Partner&type=collection&search=community%20collection%202021&sort=updated) de parceiros onde pode rever os materiais a serem discutidos no Q&A.
+
+Se não puder comparecer à Chamada Comunitária Q da CSP&Nos dias 15 e 16 de setembro de 2021, registe-se para ver a [gravação](https://globalpbocomm.eventbuilder.com/GlobalCSP) para a sua região.
+
+Olhando para o próximo mês de outubro, os parceiros podem [inscrever-se](https://globalpbocomm.eventbuilder.com/GlobalCSP) agora para a CSP Community Call Q&Como ocorre nos dias 20 e 21 de outubro de 2021. Durante a Chamada Comunitária da CSP de outubro, vamos mergulhar profundamente em alguns aspetos operacionais deste lançamento baseado em assentos CSP, e os parceiros devem estar prontos para discutir e trazer as suas perguntas.
+
+Além da chamada comunitária programada da CSP Q&As, a Microsoft oferecerá oportunidades de prontidão adicionais para os parceiros na nova experiência de comércio para ofertas baseadas em assentos CSP. Durante estas chamadas, vamos rever como transacionar Microsoft 365, Dynamics 365, Power Platform e Windows 365 ofertas na nova experiência de comércio, bem como rever novas funcionalidades, capacidades e políticas que diferem da plataforma de provisionamento CSP.
+
+Para preparar estas chamadas:
+
+- Reveja todos os recursos de oferta baseados em assentos na [coleção](https://partner.microsoft.com/resources/collection/new-commerce-experience-for-csp-seat-based-offers#/)e leve as suas perguntas à chamada.
+- Registe-se para a nova experiência de comércio aplicável para a sessão de prontidão da base de assentos CSP para a sua região e preferência linguística.
+
+| Região | Operação Américas (AO) | Operação Américas (AO) | Europa, Médio Oriente e África (EMEA) | Ásia-Pacífico (APAC) | Ásia-Pacífico (APAC) |
+|----------|-------------|-----------|-------------|----------|---------|
+| Hora | 14:00 Horário Padrão Oriental (EST) | 13:00 EST | 10:00 Am Irish Standard Time (IST) | 11:00 Hora de Singapura | 13:00 Hora de Singapura
+| Data | 6 de outubro de 2021 | 7 de outubro de 2021 | 7 de outubro de 2021 | 6 de outubro de 2021 | 19 de outubro de 2021 |
+| Linguagem | Inglês | Espanhol | Inglês | Inglês | Japonês |
+| Registo | [Registe-se aqui](https://globalpbocomm.eventbuilder.com/NCEforCSPProgram) | [Registe-se aqui](https://globalpbocomm.eventbuilder.com/NCEforCSPProgram) | [Registe-se aqui](https://globalpbocomm.eventbuilder.com/NCEforCSPProgram) | [Registe-se aqui](https://globalpbocomm.eventbuilder.com/NCEforCSPProgram) | [Registe-se aqui](https://globalpbocomm.eventbuilder.com/NCEforCSPProgram) |
+
+**[Chamadas de holofotes da CSP](https://commercial_licensing.eventbuilder.com/YearToDate_ALL)**
+
+As chamadas CSP Spotlight são webcasts mensais que cobrem as últimas informações de licenciamento da CSP e estão disponíveis para todos os parceiros. Durante as chamadas de setembro da CSP Spotlight, a equipa de licenciamento comercial cobriu a nova experiência de comércio para o lançamento de ofertas baseadas em assentos CSP.
+
+Pode [inscrever-se](https://commercial_licensing.eventbuilder.com/YearToDate_ALL) para ver as gravações a partir de setembro e utilizar o mesmo link para se registar nas próximas chamadas CSP Spotlight agendadas para 6 e 7 de outubro de 2021, onde a nova experiência de comércio para ofertas baseadas em assentos CSP continuará.
+
+As chamadas de outubro para o CSP Spotlight abordarão temas adicionais nas ofertas baseadas em assentos em novas promoções, incentivos, migração de CSP, addons e opções de renovação.
+
+Além disso, em conjunto com o lançamento de outubro, a equipa de apresentação do CSP Spotlight irá acolher um webinar online especial de uma hora para os parceiros da CSP que proporcionará uma visão geral do lançamento, com oportunidades para fazer perguntas durante o webinar em três sessões separadas agendadas para 28 de outubro. (Registe-se [aqui.)](https://commercial_licensing.eventbuilder.com/2021NewcommerceexperienceforCSPseatbasedoffers)
+
+### <a name="next-steps"></a>Passos seguintes
+
+Reveja os recursos mencionados nesta comunicação e partilhe-os com as partes interessadas apropriadas na sua organização.
+
+### <a name="questions"></a>Perguntas?
+
+Para mais perguntas sobre estas ofertas, consulte as suas comunidades Yammer relevantes.
 
 ________________
 
@@ -49,8 +135,8 @@ Não há alterações no processo de encomenda ou no processo de cumprimento do 
 
 - Reveja os recursos sobre este tema e partilhe com as partes interessadas apropriadas na sua organização.  
 - Certifique-se de que a sua organização e organizações de clientes estão familiarizadas com esta mudança.
-- Se não está familiarizado com a forma de descarregar as chaves do produto, [reveja baixar as chaves de software perpétuo e licença de produto](/microsoft-365/admin/setup/download-software-licenses-csp?view=o365-worldwide).
-- Reveja o processo de cumprimento de direitos de dupla utilização da Dynamics na [coleção Dynamics 365 Business Central Dual Use Rights Resources](https://partner.microsoft.com/resources/collection/dynamics-365-business-central-dual-use-rights-resources#/).
+- Se não está familiarizado com a forma de descarregar as chaves do produto, [reveja baixar as chaves de software perpétuo e licença de produto](/microsoft-365/admin/setup/download-software-licenses-csp?view=o365-worldwide&preserve-view=true).
+- Reveja o processo de [cumprimento de direitos de dupla utilização](https://partner.microsoft.com/resources/detail/dual-use-right-license-fulfilment-pdf) da Dynamics na [coleção Dynamics 365 Business Central Dual Use Rights Resources](https://partner.microsoft.com/resources/collection/dynamics-365-business-central-dual-use-rights-resources#/).
 
 ### <a name="questions"></a>Perguntas?
 
@@ -113,7 +199,7 @@ ________________
 
 ### <a name="categories"></a>Categorias
 
-- Data: 2021-14-10
+- Data: 2021-09-14
 - Capacidades
 
 ### <a name="summary"></a>Resumo
@@ -130,7 +216,7 @@ Os parceiros podem usar privilégios administrativos delegados (DAP) para gerir 
 
 Para melhorar a segurança dentro do ecossistema do parceiro e do cliente, a Microsoft recomenda desligar o DAP quando este não estiver a ser utilizado.
 
-A partir do final de outubro, a Microsoft lançará novas ferramentas de reporte para que os agentes da administração dos parceiros possam auditar as ligações do DAP com os seus clientes. Este relatório irá capturar a forma como os agentes parceiros estão a aceder aos inquilinos dos clientes através de TODOS os inquilinos através do DAP. Os parceiros podem então rever e remover as ligações DAP que não estão a ser utilizadas.
+A Microsoft vai lançar novas ferramentas de reporte para que os agentes da administração dos parceiros possam auditar as ligações do DAP com os seus clientes. Este relatório irá capturar a forma como os agentes parceiros estão a aceder aos inquilinos dos clientes através de TODOS os inquilinos através do DAP. Os parceiros podem então rever e remover as ligações DAP que não estão a ser utilizadas.
 
 Para saber mais sobre este novo recurso de relatório, criámos um [guia](https://partner.microsoft.com/resources/detail/dap-monitoring-and-self-serve-removal-pdf) que documenta os vários filtros e campos que estão disponíveis no relatório.
 

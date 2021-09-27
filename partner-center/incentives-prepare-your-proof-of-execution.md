@@ -7,25 +7,30 @@ author: Karthic83
 ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
-ms.date: 09/11/2020
-ms.openlocfilehash: a81962de16b56329167338012cc66e160fffafe8
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.date: 09/27/2021
+ms.openlocfilehash: ffb8ba5d56a75c585e5caad1212943c90d39b161
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126246860"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129071888"
 ---
-# <a name="create-and-submit-documents-for-your-incentives-proof-of-execution-poe"></a>Criar e submeter documentos para os seus incentivos comprovativo de execução (PoE)
+# <a name="create-and-submit-documents-for-your-incentives-proof-of-execution"></a>Criar e submeter documentos para os seus incentivos comprovativo de execução
 
 **Funções adequadas**: Administradores de incentivos
 
 Antes de ser pago pelos seus incentivos, deve apresentar uma prova detalhada de execução (PoE). Este artigo guia-o através do processo de criação de uma prova eficaz de execução.
 
-## <a name="how-to-submit-a-poe"></a>Como submeter um PoE
+## <a name="how-to-submit-a-proof-of-execution"></a>Como apresentar uma prova de execução
+
+> [!NOTE]
+> A interface de pré-visualização do Partner Center proporciona-lhe uma experiência de utilizador mais eficiente e produtiva através de espaços de trabalho agrupados logicamente. Para saber mais sobre a interface dos espaços de trabalho e como ligá-lo, consulte [Getting around Partner Center](get-around-partner-center.md#turn-workspaces-on-and-off).
+
+#### <a name="workspaces-view"></a>[Vista de espaços de trabalho](#tab/workspaces-view)
 
 1. Inicie sessão no [dashboard do Centro de Parceiros](https://partner.microsoft.com/dashboard/).
 
-2. Na página **Incentivos**, selecione **Gestão de Planos** e, em seguida, selecione o programa desejado. Será apresentada a página de estado.
+2. Selecione o azulejo **incentivos,** em seguida, **Plan Management**, e, em seguida, selecione o programa que deseja. Será apresentada a página de estado.
 
 3. Na secção **Planos**, selecione o plano desejado. Será apresentada a página de estado deste plano.
 
@@ -33,7 +38,7 @@ Antes de ser pago pelos seus incentivos, deve apresentar uma prova detalhada de 
 
 5. Na coluna **Prova de Execução,** selecione **Add PoE**.
 
-6. Na **nova página de prova de execução,** insira os campos necessários.
+6. Na **nova prova da página de execução,** insira os campos necessários.
 
    - **Nome**  Um nome amigável para a reivindicação da cooperativa.
    - **Data**  A data da execução. Esta data deve contar entre a data de início da campanha e a data de final da campanha.
@@ -58,13 +63,57 @@ Antes de ser pago pelos seus incentivos, deve apresentar uma prova detalhada de 
 
 12. Introduza quaisquer comentários finais antes de submeter o seu PoE e, em seguida, **selecione Enviar reclamação**.
 
-## <a name="view-the-status-of-a-poe"></a>Ver o estado de um PoE
+#### <a name="current-view"></a>[Vista atual](#tab/current-view)
 
 1. Inicie sessão no [dashboard do Centro de Parceiros](https://partner.microsoft.com/dashboard/).
 
 2. Na página **Incentivos**, selecione **Gestão de Planos** e, em seguida, selecione o programa desejado. Será apresentada a página de estado.
 
-3. Na secção **Sinistros,** o estado de cada PoE está listado na coluna **Status.**
+3. Na secção **Planos**, selecione o plano desejado. Será apresentada a página de estado deste plano.
+
+4. Na secção **Campanhas,** encontre a atividade que deseja.
+
+5. Na coluna **Prova de Execução,** selecione **Add PoE**.
+
+6. Na **nova prova da página de execução,** insira os campos necessários.
+
+   - **Nome**  Um nome amigável para a reivindicação da cooperativa.
+   - **Data**  A data da execução. Esta data deve contar entre a data de início da campanha e a data de final da campanha.
+   - **Montante**  O montante da cooperativa.
+
+7. Selecione **Guardar**.
+
+8. Na nova página **de reclamação de execução,** insira os campos necessários.
+
+   - **Nome**  Um nome amigável para a reivindicação da cooperativa.
+   - **Data**  A data da execução. Esta data deve contar entre a data de início da campanha e a data de final da campanha.
+   - **Impressões estimadas**   O alcance estimado desta atividade; número de pessoas.
+   - **ID de pré-aprovação**   Esta é a identificação que a Microsoft lhe envia depois de termos aprovado os seus materiais de marketing.
+
+9. Quanto terminar, selecione **Criar pedido**.
+
+10. Na página **Informações de faturação e despesas**, carregue um destes dois documentos:
+    - **Fatura de terceiros**  No campo **de faturas de terceiros,** selecione **Drag ou navegue em ficheiros para carregar**. Adicione a fatura e os detalhes da fatura necessários e, em seguida, **selecione Guardar**.
+    - **Relatório do Serviço de Certificação**  Selecione **Adicionar Relatório de Serviço de Certificação**. Na página **'Gerar um Relatório de Serviço de Certificação',** preencha os campos necessários e, em seguida, selecione **Guardar**.
+
+11. Também pode carregar **documentos Proof,** se quiser. No campo **de documentos Proof,** selecione **Drag ou navegue em ficheiros para carregar**. Se selecionar documentos Proof, deve adicionar notas explicativas. Quando adicionar uma nota, selecione **Guardar**.
+
+12. Introduza quaisquer comentários finais antes de submeter o seu PoE e, em seguida, **selecione Enviar reclamação**.
+
+* * *
+
+## <a name="view-the-status-of-a-proof-of-execution"></a>Ver o estado de uma prova de execução
+
+> [!NOTE]
+> A interface de pré-visualização do Partner Center proporciona-lhe uma experiência de utilizador mais eficiente e produtiva através de espaços de trabalho agrupados logicamente. Para saber mais sobre a interface dos espaços de trabalho e como ligá-lo, consulte [Getting around Partner Center](get-around-partner-center.md#turn-workspaces-on-and-off).
+
+#### <a name="workspaces-view"></a>[Vista de espaços de trabalho](#tab/workspaces-view)
+
+1. Inicie sessão no [dashboard do Centro de Parceiros](https://partner.microsoft.com/dashboard/).
+
+2. Selecione o azulejo **incentivos,** em seguida, **Plan Management**, e, em seguida, selecione o programa que deseja. Será apresentada a página de estado.
+
+3. Na secção **Reclamações,** o estado de cada PoE está listado na coluna **Status.**
 
    Seguem-se os vários estatutos possíveis para o seu PoE de reivindicação cooperativa.
 
@@ -74,6 +123,25 @@ Antes de ser pago pelos seus incentivos, deve apresentar uma prova detalhada de 
    - Em edição
    - Aprovado
    - Rejeitado
+
+#### <a name="current-view"></a>[Vista atual](#tab/current-view)
+
+1. Inicie sessão no [dashboard do Centro de Parceiros](https://partner.microsoft.com/dashboard/).
+
+2. Na página **Incentivos**, selecione **Gestão de Planos** e, em seguida, selecione o programa desejado. Será apresentada a página de estado.
+
+3. Na secção **Reclamações,** o estado de cada PoE está listado na coluna **Status.**
+
+   Seguem-se os vários estatutos possíveis para o seu PoE de reivindicação cooperativa.
+
+   - Submetido
+   - Sob análise (a Microsoft completará a sua revisão antes do último dia do mês após a submissão do seu PoE.)
+   - Ação necessária
+   - Em edição
+   - Aprovado
+   - Rejeitado
+
+* * *
 
 ## <a name="next-steps"></a>Passos seguintes
 

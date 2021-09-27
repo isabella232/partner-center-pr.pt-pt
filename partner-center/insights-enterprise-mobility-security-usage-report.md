@@ -5,17 +5,17 @@ ms.date: 01/11/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
 description: Veja o que está a fazer bem e onde pode melhorar no que diz respeito ao uso de Enterprise Mobility + Security subscrições que vende ou gere para os seus clientes.
-author: shganesh-dev
-ms.author: shganesh
+author: kshitishsahoo
+ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: b78167823a26b16bfa51a7a948afeda027b9898e
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: afce31926ecfaa7d10a770c6a087fe553939ad7d
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126246839"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129070856"
 ---
-# <a name="enterprise-mobility--security-usage-report-available-from-the-partner-center-insights-dashboard"></a>Enterprise Mobility + Security relatório de utilização disponível no painel de instrumentos do Centro de Parceiros Informações
+# <a name="enterprise-mobility--security-usage-report-available-from-the-partner-center-insights-dashboard"></a>Enterprise Mobility + Security relatório de utilização disponível no painel de instrumentos do Partner Center Informações
 
 **Funções adequadas**: Administração global | Agente administrativo | Relatório | do espectador Espectador de relatório executivo
 
@@ -23,12 +23,12 @@ O relatório de utilização Enterprise Mobility + Security fornece dados de uti
 
 - Resumo
 - Enterprise Mobility + Security uso por geografia
-- Enterprise Mobility + Security uso por SKU
+- Enterprise Mobility + Security utilização por SKU
 - Desempenho das assinaturas
 - distribuição de Enterprise Mobility + Security de utilização
 
  > [!NOTE]
- > Este relatório está disponível no painel de instrumentos Informações. Para visualizar este relatório, deve ser-lhe atribuído um papel específico no Partner Center, como administração global, administração de contas, espectador de relatório ou visualizador de relatórios executivos. Para mais informações, consulte a administração Global da sua empresa. Os tipos específicos de dados deste relatório também podem estar disponíveis apenas para utilizadores com privilégios de visualização de relatório executivo.
+ > Este relatório está disponível no painel de instrumentos Informações. Para visualizar este relatório, deve ser-lhe atribuído um papel específico no Partner Center, como administração global, administração de contas, visualizador de relatórios ou visualizador de relatórios executivos. Para mais informações, consulte a administração Global da sua empresa. Os tipos específicos de dados deste relatório também podem estar disponíveis apenas para utilizadores com privilégios de visualização de relatório executivo.
 
 ## <a name="summary"></a>Resumo
 
@@ -50,7 +50,7 @@ A secção de resumo apresenta uma visão instantânea dos principais indicadore
 
 ## <a name="enterprise-mobility--security-usage-by-geography"></a>Enterprise Mobility + Security uso por geografia
 
-O **Enterprise Mobility + Security uso por geografia** retrata a distribuição de Utilizadores Mensais Ativos (MAU) e Unidades Disponíveis Pagas (PAU) por país de clientes. Mau refere-se ao número de licenças utilizadas durante o mês anterior e PAU refere-se ao número de lugares pagos vendidos ou geridos durante o período de tempo selecionado. Cores mais claras no mapa representam valores mais baixos, enquanto cores mais escuras representam valores mais elevados. Pode pesquisar e selecionar um país na grelha. Também pode ampliar para um olhar mais atento.
+O **Enterprise Mobility + Security uso por geografia** retrata a distribuição de Unidades Mensais Ativas (MAU) e Unidades Disponíveis Pagas (PAU) por país de clientes. Mau refere-se ao número de licenças utilizadas durante o mês anterior e PAU refere-se ao número de lugares pagos vendidos ou geridos durante o período de tempo selecionado. Cores mais claras no mapa representam valores mais baixos, enquanto cores mais escuras representam valores mais elevados. Pode pesquisar e selecionar um país na grelha. Você também pode ampliar para um olhar mais atento.
 
 O **número de países/tabela de região** apresenta o total de países/regiões onde são gerados eventos de utilização do Azure.
 
@@ -58,9 +58,9 @@ Pode pesquisar e selecionar um país na grelha para ampliar a localização no m
 
 :::image type="content" source="images/insights/ems-usage-geography.png" alt-text="Uso de EMS por geografia.":::
 
-## <a name="enterprise-mobility--security-usage-by-sku"></a>Enterprise Mobility + Security uso por SKU
+## <a name="enterprise-mobility--security-usage-by-sku"></a>Enterprise Mobility + Security utilização por SKU
 
-O uso Enterprise Mobility + Security pela SKU retrata a desagregação mensal da MAU e da PAU por SKUs.
+O uso Enterprise Mobility + Security pela SKU retrata a desagregação mensal da MAU e pau por SKUs.
 
 :::image type="content" source="images/insights/ems-usage-sku.png" alt-text="Utilização emS por SKU.":::
 

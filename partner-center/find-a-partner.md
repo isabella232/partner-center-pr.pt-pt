@@ -3,17 +3,17 @@ title: Encontre um parceiro da Microsoft
 ms.topic: article
 ms.date: 08/25/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-referrals
+ms.subservice: partnercenter-customers
 description: Como parceiro da Microsoft, pode ter dúvidas sobre como ajudar os seus clientes ou programas específicos. Encontre outros parceiros que possam ajudar.
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
-ms.openlocfilehash: 1a5da21326ae789e4b6f570c14f9a52e0348bb64
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: c1aac5ea196a62f2f7827a0a88d15450a6083196
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126247157"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129071430"
 ---
 # <a name="find-a-partner-or-solution-provider-to-answer-questions-about-programs-licensing-or-customer-deals"></a>Encontre um parceiro ou fornecedor de soluções para responder a questões sobre programas, licenciamento ou ofertas de clientes 
 
@@ -37,9 +37,9 @@ Consulte a seguinte tabela para ajudá-lo a localizar um parceiro ou distribuido
 
 |Para efetuar isto  | Leia isto  |
 |:------------------|:--------------- |
-|Encontre um fornecedor indireto CSP *(para revendedores indiretos CSP que ainda não tenham um fornecedor indireto atribuído)* | [Página de pesquisa indireta do fornecedor da Rede de Parceiros da Microsoft](https://partner.microsoft.com/membership/cloud-solution-provider/find-a-provider)  |
+|Encontrar um fornecedor indireto CSP *(para revendedores indiretos CSP que ainda não tenham um fornecedor indireto atribuído)* | [Página de pesquisa indireta do fornecedor da Rede de Parceiros da Microsoft](https://partner.microsoft.com/membership/cloud-solution-provider/find-a-provider)  |
 |Encontre um fornecedor ou distribuidor de programas de licenciamento de volume  | [Página de pesquisa do fornecedor de solução Microsoft](https://www.microsoft.com/solution-providers/home)  |
-|Encontre um distribuidor de canais OEM autorizado da Microsoft  | [Página de pesquisa do Microsoft Device Partner Center OEM](https://devicepartner.microsoft.com/connect/distributor)  |
+|Encontre um distribuidor autorizado do canal OEM da Microsoft  | [Página de pesquisa do Microsoft Device Partner Center OEM](https://devicepartner.microsoft.com/connect/distributor)  |
 
 ## <a name="next-steps"></a>Passos seguintes
 

@@ -2,19 +2,19 @@
 title: Vender a indústrias especializadas
 description: Conheça os preços especiais e reduzidos da Microsoft para determinados grupos de clientes, incluindo clientes de educação, clientes sem fins lucrativos e utilizadores do governo.
 ms.topic: how-to
-ms.date: 05/04/2021
+ms.date: 09/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-pricing
 author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ac0004b2197aca7c161216726361c946ebe86775
-ms.sourcegitcommit: fb9ca808f6362e81d65a6ba5770dc8820834a0ed
+ms.openlocfilehash: 9159e77759d181a0c52dd18276267c2a1921c5da
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "128369359"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129072750"
 ---
 # <a name="sell-to-specialized-industries-like-education-non-profit-and-government-users"></a>Vender a indústrias especializadas como utilizadores de educação, sem fins lucrativos e governamentais
 

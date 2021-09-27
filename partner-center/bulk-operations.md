@@ -9,14 +9,14 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 09/08/2021
-ms.openlocfilehash: a87b44bb2730faf87bfaaf25b5e051b0ce4f6f30
-ms.sourcegitcommit: fb9ca808f6362e81d65a6ba5770dc8820834a0ed
+ms.openlocfilehash: d224a06304adbac03534eedd03b78f3db78f306e
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "128360190"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129072467"
 ---
-# <a name="bulk-operations-for-co-sell-opportunities-using-comma-separated-value-csv-files"></a>Operações a granel para co-venda de oportunidades utilizando ficheiros de valor separados por vírgula (CSV)
+# <a name="bulk-operations-for-co-sell-opportunities-using-comma-separated-value-csv-files"></a>Operações em massa para oportunidades de venda conjunta com ficheiros de valores separados por vírgula (CSV)
 
 **Funções adequadas**: Administração de referências | Utilizador de referências
 

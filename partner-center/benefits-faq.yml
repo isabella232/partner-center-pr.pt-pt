@@ -2,20 +2,20 @@
 metadata:
   title: Benefícios da Microsoft Partner Network - perguntas frequentes
   ms.topic: article
-  ms.date: 12/15/2020
+  ms.date: 09/27/2021
   description: Respostas a questões sobre a caducidade, renovação e ativação de licenças para Azure, cloud, Visual Studio e benefícios técnicos e de suporte
   ms.service: partner-dashboard
   ms.subservice: partnercenter-benefits
-  author: arpithakanuganti
-  ms.author: v-arkanu
+  author: keramp88
+  ms.author: keramp
   ms.localizationpriority: medium
   ms.custom: SEOJUNE20
-  ms.openlocfilehash: 8ca944dfe4b3bca722c1c5d82eee261c64a64715
-  ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+  ms.openlocfilehash: 5e897fc5046647176e4f605b9226a6280b409938
+  ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
   ms.translationtype: MT
   ms.contentlocale: pt-PT
-  ms.lasthandoff: 09/13/2021
-  ms.locfileid: "126246320"
+  ms.lasthandoff: 09/27/2021
+  ms.locfileid: "129074120"
 title: Benefícios da Microsoft Partner Network - perguntas frequentes (FAQ)
 summary: >
   **Funções adequadas**: Administrador parceiro da MPN
@@ -27,7 +27,7 @@ sections:
   questions:
   - question: >
       O que significa "Beneficiar a Data de Validade"
-    answer: "A data de validade do benefício significa a última data para ativar os seus benefícios.\n\nTem até à data de renovação para resgatar os benefícios disponíveis durante o período de inscrição de um ano. Pode encontrar a data de início da sua renovação a partir da página [Ofertas de Adesão](https://partner.microsoft.com/dashboard/mpn/offers) no painel MPN.\n\nNo entanto, pode utilizar as chaves do produto durante um ano a partir do dia em que resgatar as chaves nos respetivos portais de nuvem.\n\nPor exemplo, se o seu benefício expirar a 31 de janeiro de 2021, então precisa resgatar as chaves no portal da nuvem apropriada antes de 31 de janeiro de 2021. E se resgatar a chave do produto no dia 1 de dezembro de 2020, pode usar essa chave até 1 de dezembro de 2021, mesmo que a data de validade do seu benefício seja 31 de janeiro.\n\n> [!NOTE]  \n> Se tiver benefícios que exijam uma atribuição de utilizador (como Visual Studio subscrições), pode ativar e utilizar esses benefícios por mais 30 dias após a data de renovação da inscrição.\n"
+    answer: "A data de validade do benefício significa a última data para ativar os seus benefícios.\n\nTem até à data de renovação para resgatar os benefícios disponíveis durante o período de inscrição de um ano. Pode encontrar a data de início da sua renovação a partir da página [Ofertas de Adesão](https://partner.microsoft.com/dashboard/mpn/offers) no painel MPN.\n\nNo entanto, pode utilizar as chaves do produto durante um ano a partir do dia em que resgatar as chaves nos respetivos portais de nuvem.\n\nPor exemplo, se o seu benefício expirar a 31 de janeiro de 2021, então você precisa resgatar as chaves no portal de nuvem apropriado antes de 31 de janeiro de 2021. E se resgatar a chave do produto no dia 1 de dezembro de 2020, pode usar essa chave até 1 de dezembro de 2021, mesmo que a data de validade do seu benefício seja 31 de janeiro.\n\n> [!NOTE]  \n> Se tiver benefícios que exijam uma atribuição de um utilizador (como Visual Studio subscrições), pode ativar e utilizar esses benefícios por mais 30 dias após a data de renovação da inscrição.\n"
   - question: >
       Como posso renovar os meus benefícios
     answer: >
@@ -37,16 +37,13 @@ sections:
       1. Inicie sessão no [dashboard do Centro de Parceiros](https://partner.microsoft.com/dashboard/).
 
 
-      2. No navegador esquerdo, selecione **MPN**.
+      2. Selecione o azulejo **Benefits.** Se não estiver a utilizar a visualização de Workspaces, selecione **MPN** e, em seguida, **Benefícios**.
 
 
-      3. No separador **MPN,** selecione a opção **Benefícios.**
+      3. Ativar o benefício que quiser.
 
 
-      4. Ativar o benefício que quiser.
-
-
-      Se o benefício que deseja não estiver disponível, terá de renovar a adesão ao Centro de Parceiros e repetir o processo acima.
+      Se o benefício que deseja não estiver disponível, terá de renovar a sua filiação ao Partner Center e repetir o processo acima.
   - question: >
       Recebi uma notificação informando-me que a minha assinatura vai expirar em breve - o que devo fazer
     answer: >
@@ -58,21 +55,21 @@ sections:
 - name: Benefícios de ativação azul e nuvem
   questions:
   - question: >
-      Como é que a adição, extensão/renovação de licenças funciona no Azure
+      Como é que a adição, alargamento/renovação de licenças funciona no Azure
     answer: "Ao adicionar licenças, aumenta o número total de licenças para a subscrição existente.\n\nQuando renova ou prolonga as subscrições, o número de licenças permanece o mesmo, mas prolonga-se o tempo para estas subscrições.\n\n> [!IMPORTANT]  \n> Se optar por adicionar licenças numa subscrição existente, a subscrição expirará em menos de 12 meses, dependendo do número de licenças existentes e adicionadas. Depois de redimir uma chave, não pode redimi-la novamente. Antes de resgatar a sua chave, certifique-se de que compreende se precisa de adicionar licenças ou renovar/prolongar a subscrição.\n"
   - question: >
       Posso ativar a licença na conta do meu cliente?
     answer: >
       N.º As licenças de produtos são emitidas para fins de demonstração. Os seus colaboradores de vendas e marketing podem usar este software para mostrar produtos aos seus clientes, mas os produtos de demonstração não podem ser instalados em hardware ou infraestrutura de clientes, e devem ser usados com a supervisão do parceiro.
   - question: >
-      Estou a ter problemas em atribuir utilizadores no Crédito Azure Azure A granel. O que devo fazer
+      Estou a ter problemas em atribuir utilizadores no Crédito Azure a Granel. O que devo fazer
     answer: >
       Não pode combinar ofertas de crédito a granel da Azure com outras ofertas. Se uma atribuição de utilizador não estiver a funcionar, provavelmente significa que o utilizador que pretende atribuir já está a utilizar outras ofertas de licenciamento, pré-pago ou crédito, tais como Microsoft Contrato Enterprise, Cloud Solution Partner, Azure in Open, Azure Pass, Action Pack, etc. Se o utilizador não estiver subscrito a nenhum destes acordos ou planos e ainda não os conseguir atribuir, contacte o Microsoft Support.
 - name: Visual Studio Benefícios
   questions:
   - question: >
       Como funciona a ativação Visual Studio no Partner Center
-    answer: "Pode atribuir subscrições a qualquer pessoa na sua lista de Gestão de Utilizadores no Partner Center ou no seu inquilino Azure Ative Directory (AAD), fazendo os seguintes passos:\n\n1. Inicie sessão no [dashboard do Centro de Parceiros](https://partner.microsoft.com/dashboard/).\n\n2. No menu Partner Center, selecione **MPN**.\n\n3. Selecione **Benefícios** e, em seguida, selecione **Visual Studio**.\n\n4. Atribua os utilizadores desejados às subscrições Visual Studio existentes disponíveis.\n\nDepois de ter atribuído a subscrição, o utilizador precisa de iniciar sessão em Visual Studio para a gerir.\n\n> [!Note]  \n> Visual Studio subscrições podem ser transferidas de um assinante para outro se 90 dias se passaram desde o momento da atribuição original.\n"
+    answer: "Pode atribuir subscrições a qualquer pessoa na sua lista de Gestão de Utilizadores no Centro de Parceiros ou no seu inquilino Azure Ative Directory (AAD), fazendo os seguintes passos:\n\n1. Inicie sessão no [dashboard do Centro de Parceiros](https://partner.microsoft.com/dashboard/).\n\n2. No menu Partner Center, selecione **Benefícios**. Se não tiver ligado a vista workspaces, selecione **MPN** e, em seguida, **Benefícios**.\n\n3. Selecione **Visual Studio**.\n\n4. Atribua os utilizadores desejados às subscrições Visual Studio existentes disponíveis.\n\nDepois de ter atribuído a subscrição, o utilizador precisa de iniciar sessão em Visual Studio para a gerir.\n\n> [!Note]  \n> Visual Studio subscrições podem ser transferidas de um assinante para outro se 90 dias se passaram desde o momento da atribuição original.\n"
 - name: Benefícios técnicos e apoio
   questions:
   - question: >
@@ -84,10 +81,10 @@ sections:
       1. Inicie sessão no [dashboard do Centro de Parceiros](https://partner.microsoft.com/dashboard/).
 
 
-      2. No menu Partner Center, selecione **MPN**.
+      2. No menu Partner Center, selecione **Benefícios**. Se não estiver a utilizar a visualização de Workspaces, selecione **MPN** e, em seguida, **Benefits**.
 
 
-      3. Selecione **Benefícios** e, em seguida, selecione **Benefícios Técnicos**.
+      3. Selecione **Benefícios Técnicos**.
 
 
       4. Utilize a secção benefícios técnicos para ativar e receber um ID de acesso/ID contratual.
