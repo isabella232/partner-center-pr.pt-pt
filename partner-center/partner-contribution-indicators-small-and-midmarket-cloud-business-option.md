@@ -9,12 +9,12 @@ author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ad938d03dca9008168fda6a7c5eebed9a0aa3f07
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 5e07298d406b586ad7f3747b1804b37c0cc2ac28
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: pt-PT
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129075839"
+ms.locfileid: "129089475"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-small-and-midmarket-cloud-solutions-competency"></a>Utilizar Indicadores de Contribuição de Parceiros para obter a competência Soluções de Cloud para Pequenas e Médias Empresas
 
@@ -289,7 +289,7 @@ Esta secção descreve como aceder aos detalhes dos Indicadores de Contribuiçã
 Para ver a tabela indicadores de contribuição do parceiro, siga estes passos:
 
 > [!NOTE]
-> A interface de pré-visualização do Partner Center proporciona-lhe uma experiência de utilizador mais eficiente e produtiva através de espaços de trabalho agrupados logicamente. Para saber mais sobre a interface dos espaços de trabalho e como ligá-lo, consulte [Getting around Partner Center](get-around-partner-center.md#turn-workspaces-on-and-off).
+> Para saber mais sobre a interface de espaços de trabalho, consulte [o Centro de Parceiros.](get-around-partner-center.md#turn-workspaces-on-and-off)
 
 #### <a name="workspaces-view"></a>[Vista de espaços de trabalho](#tab/workspaces-view)
 

@@ -9,12 +9,12 @@ author: khpavan
 ms.author: sakhanda
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a5942cf0fb69dc94cb45184a2abb9e8f6068073b
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: ad04b7af67bb4cf664b2a552c94fc96fa25e5349
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: pt-PT
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129074236"
+ms.locfileid: "129089271"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>Nova experiência comercial no CSP – faturação do Azure
 
@@ -43,7 +43,7 @@ O administrador global ou administrador de faturação da sua empresa receberá 
 Para aceder à fatura e ao ficheiro de reconciliação:
 
 > [!NOTE]
-> A interface de pré-visualização do Partner Center proporciona-lhe uma experiência de utilizador mais eficiente e produtiva através de espaços de trabalho agrupados logicamente. Para saber mais sobre a interface dos espaços de trabalho e como ligá-lo, consulte [Getting around Partner Center](get-around-partner-center.md#turn-workspaces-on-and-off).
+> Para saber mais sobre a interface de espaços de trabalho, consulte [o Centro de Parceiros.](get-around-partner-center.md#turn-workspaces-on-and-off)
 
 #### <a name="workspaces-view"></a>[Vista de espaços de trabalho](#tab/workspaces-view)
 

@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e6cf260df6f1b5d3ae814678c47f13b2b4015b62
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 4ec75b05ea9d81693a7c2592db80710c6c948433
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: pt-PT
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129074779"
+ms.locfileid: "129088914"
 ---
 # <a name="use-metrics-in-partner-center-to-increase-adoption-and-satisfaction"></a>Use métricas no Partner Center para aumentar a adoção e satisfação
 
@@ -34,7 +34,7 @@ Pode encontrar dados de licença e utilizador para um único cliente ou através
 ### <a name="find-license-and-user-data-for-a-single-customer"></a>Encontre licença e dados de utilizador para um único cliente
 
 > [!NOTE]
-> A interface de pré-visualização do Partner Center proporciona-lhe uma experiência de utilizador mais eficiente e produtiva através de espaços de trabalho agrupados logicamente. Para saber mais sobre a interface dos espaços de trabalho e como ligá-lo, consulte [Getting around Partner Center](get-around-partner-center.md#turn-workspaces-on-and-off).
+> Para saber mais sobre a interface de espaços de trabalho, consulte [o Centro de Parceiros.](get-around-partner-center.md#turn-workspaces-on-and-off)
 
 #### <a name="workspaces-view"></a>[Vista de espaços de trabalho](#tab/workspaces-view)
 
@@ -63,7 +63,7 @@ Pode encontrar dados de licença e utilizador para um único cliente ou através
 Também pode obter informações sobre a sua licença e dados do utilizador.
 
 > [!NOTE]
-> A interface de pré-visualização do Partner Center proporciona-lhe uma experiência de utilizador mais eficiente e produtiva através de espaços de trabalho agrupados logicamente. Para saber mais sobre a interface dos espaços de trabalho e como ligá-lo, consulte [Getting around Partner Center](get-around-partner-center.md#turn-workspaces-on-and-off).
+> Para saber mais sobre a interface de espaços de trabalho, consulte [o Centro de Parceiros.](get-around-partner-center.md#turn-workspaces-on-and-off)
 
 #### <a name="workspaces-view"></a>[Vista de espaços de trabalho](#tab/workspaces-view)
 

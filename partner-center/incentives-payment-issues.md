@@ -8,12 +8,12 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: c8f7f7f063c10c50a42468447083e588c1783f18
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 4b76defa310f339f6fec05e0ceeec01a56c80729
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: pt-PT
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129074887"
+ms.locfileid: "129089883"
 ---
 # <a name="troubleshooting-missing-payments-incorrect-earnings-and-other-issues"></a>Resolução de problemas pagamentos em falta, ganhos incorretos e outras questões
 
@@ -74,7 +74,7 @@ Se estas ações não ajudarem e os seus pagamentos continuarem em falta ou inco
 Pode localizar e conciliar os seus ajustes descarregando os seus dados de ganhos e transações.
 
 > [!NOTE]
-> A interface de pré-visualização do Partner Center proporciona-lhe uma experiência de utilizador mais eficiente e produtiva através de espaços de trabalho agrupados logicamente. Para saber mais sobre a interface dos espaços de trabalho e como ligá-lo, consulte [Getting around Partner Center](get-around-partner-center.md#turn-workspaces-on-and-off).
+> Para saber mais sobre a interface de espaços de trabalho, consulte [o Centro de Parceiros.](get-around-partner-center.md#turn-workspaces-on-and-off)
 
 #### <a name="workspaces-view"></a>[Vista de espaços de trabalho](#tab/workspaces-view)
 

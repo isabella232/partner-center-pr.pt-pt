@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 09/27/2021
-ms.openlocfilehash: e0dd662626aae659e0ac33c90503b6da8f84d1e5
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.date: 09/24/2021
+ms.openlocfilehash: faf15687b5e614e48037099fc6f23cb3ec2762d8
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: pt-PT
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129074314"
+ms.locfileid: "129089152"
 ---
 # <a name="partner-center-announcements"></a>Anúncios do Centro de Parceiros
 
@@ -22,6 +22,7 @@ Saiba mais sobre atualizações importantes do Centro de Parceiros. Estas inform
 
 |**Categoria**|**Anúncios de setembro de 2021**|**Anunciado**|
 |---------|:---------|:---------|
+|Capacidades|[A experiência redesenhada do Partner Center está aqui](2021-september.md#15)|27 de setembro|
 |Capacidades|[Nova experiência de comércio para Fornecedor de Soluções em Nuvem (CSP) oferece recursos de prontidão](2021-september.md#14)|27 de setembro|
 |Capacidades|[Chaves do produto disponíveis para Business Central para direitos de dupla utilização](2021-september.md#13)|23 de setembro|
 |Capacidades|[Lembrete: Introdução do estrangulamento da API aos parceiros que chamam APIs do Partner Center](2021-september.md#12)|21 de setembro|

@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d06f64280ee89df241e150b2ad9c44adb7f7aa2f
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 4f837fb9319d49657f10ea7e01684ab5fb0fb9aa
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: pt-PT
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129072264"
+ms.locfileid: "129089578"
 ---
 # <a name="purchase-commercial-marketplace-products-for-your-customers-in-partner-center"></a>Compre produtos de mercado comercial para os seus clientes no Partner Center
 
@@ -43,7 +43,7 @@ Também pode utilizar [apis do Partner Center](/partner-center/develop/) para cr
 Em contraste com as subscrições saaS baseadas em licença de editores ISV de terceiros, as subscrições baseadas em uso exigem primeiro que um cliente tenha uma subscrição Azure. A faturação para o mercado comercial, os recursos baseados na utilização estão sob a assinatura Azure do cliente. Uma vez que o seu cliente tenha uma subscrição Azure, um parceiro no programa CSP pode seguir estes passos para comprar uma subscrição de mercado comercial para eles:
 
 > [!NOTE]
-> A interface de pré-visualização do Partner Center proporciona-lhe uma experiência de utilizador mais eficiente e produtiva através de espaços de trabalho agrupados logicamente. Para saber mais sobre a interface dos espaços de trabalho e como ligá-lo, consulte [Getting around Partner Center](get-around-partner-center.md#turn-workspaces-on-and-off).
+> Para saber mais sobre a interface de espaços de trabalho, consulte [o Centro de Parceiros.](get-around-partner-center.md#turn-workspaces-on-and-off)
 
 #### <a name="workspaces-view"></a>[Vista de espaços de trabalho](#tab/workspaces-view)
 

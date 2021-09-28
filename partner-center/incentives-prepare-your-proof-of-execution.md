@@ -8,12 +8,12 @@ ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
 ms.date: 09/27/2021
-ms.openlocfilehash: ffb8ba5d56a75c585e5caad1212943c90d39b161
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: d93cb3e6c44cf14c37985ac81b97d1ad6204a147
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: pt-PT
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129071888"
+ms.locfileid: "129089866"
 ---
 # <a name="create-and-submit-documents-for-your-incentives-proof-of-execution"></a>Criar e submeter documentos para os seus incentivos comprovativo de execução
 
@@ -24,7 +24,7 @@ Antes de ser pago pelos seus incentivos, deve apresentar uma prova detalhada de 
 ## <a name="how-to-submit-a-proof-of-execution"></a>Como apresentar uma prova de execução
 
 > [!NOTE]
-> A interface de pré-visualização do Partner Center proporciona-lhe uma experiência de utilizador mais eficiente e produtiva através de espaços de trabalho agrupados logicamente. Para saber mais sobre a interface dos espaços de trabalho e como ligá-lo, consulte [Getting around Partner Center](get-around-partner-center.md#turn-workspaces-on-and-off).
+> Para saber mais sobre a interface de espaços de trabalho, consulte [o Centro de Parceiros.](get-around-partner-center.md#turn-workspaces-on-and-off)
 
 #### <a name="workspaces-view"></a>[Vista de espaços de trabalho](#tab/workspaces-view)
 
@@ -105,7 +105,7 @@ Antes de ser pago pelos seus incentivos, deve apresentar uma prova detalhada de 
 ## <a name="view-the-status-of-a-proof-of-execution"></a>Ver o estado de uma prova de execução
 
 > [!NOTE]
-> A interface de pré-visualização do Partner Center proporciona-lhe uma experiência de utilizador mais eficiente e produtiva através de espaços de trabalho agrupados logicamente. Para saber mais sobre a interface dos espaços de trabalho e como ligá-lo, consulte [Getting around Partner Center](get-around-partner-center.md#turn-workspaces-on-and-off).
+> Para saber mais sobre a interface de espaços de trabalho, consulte [o Centro de Parceiros.](get-around-partner-center.md#turn-workspaces-on-and-off)
 
 #### <a name="workspaces-view"></a>[Vista de espaços de trabalho](#tab/workspaces-view)
 

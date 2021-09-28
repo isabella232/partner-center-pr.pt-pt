@@ -9,12 +9,12 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 986022da183b4d7a2e31b700b1dcfca34de64f98
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 9d9c33d2f30b4a1c3be96336686ff8ac88baf4f9
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: pt-PT
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129070846"
+ms.locfileid: "129088574"
 ---
 # <a name="manage-co-sell-opportunities-in-partner-center"></a>Gerir oportunidades de co-venda no Partner Center
 
@@ -42,7 +42,7 @@ A oportunidade de co-venda é onde um ou mais representantes de vendas da Micros
 ## <a name="access-the-co-sell-section"></a>Aceda à secção Co-venda
 
 > [!NOTE]
-> A interface de pré-visualização do Partner Center proporciona-lhe uma experiência de utilizador mais eficiente e produtiva através de espaços de trabalho agrupados logicamente. Para saber mais sobre a interface dos espaços de trabalho e como ligá-lo, consulte [Getting around Partner Center](get-around-partner-center.md#turn-workspaces-on-and-off).
+> Para saber mais sobre a interface de espaços de trabalho, consulte [o Centro de Parceiros.](get-around-partner-center.md#turn-workspaces-on-and-off)
 
 #### <a name="workspaces-view"></a>[Vista de espaços de trabalho](#tab/workspaces-view/)
 

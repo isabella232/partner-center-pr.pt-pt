@@ -8,12 +8,12 @@ ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
 ms.date: 09/27/2021
-ms.openlocfilehash: 256183d80eea3ead7f94a8f798be75ae345db4e3
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 2e271d303f51548da1f63120275f5eb7532352c0
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: pt-PT
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129075496"
+ms.locfileid: "129088438"
 ---
 # <a name="manage-incentives-co-op-claims"></a>Gerir pedidos de cooperação de incentivos
 
@@ -58,7 +58,7 @@ Se os materiais enviados com o pedido de cooperação forem considerados insufic
 ### <a name="dispute-a-rejected-co-op-claim"></a>Contestar um pedido de cooperação rejeitado
 
 > [!NOTE]
-> A interface de pré-visualização do Partner Center proporciona-lhe uma experiência de utilizador mais eficiente e produtiva através de espaços de trabalho agrupados logicamente. Para saber mais sobre a interface dos espaços de trabalho e como ligá-lo, consulte [Getting around Partner Center](get-around-partner-center.md#turn-workspaces-on-and-off).
+> Para saber mais sobre a interface de espaços de trabalho, consulte [o Centro de Parceiros.](get-around-partner-center.md#turn-workspaces-on-and-off)
 
 #### <a name="workspaces-view"></a>[Vista de espaços de trabalho](#tab/workspaces-view)
 

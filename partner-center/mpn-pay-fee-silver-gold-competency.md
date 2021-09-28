@@ -8,12 +8,12 @@ ms.subservice: partnercenter-membership
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: e93f2fc198fae3e4cee663bd992c42feb0980bf7
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: c64eafb7b0b00eb840a472b01a9ad6c5bfa52fb8
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: pt-PT
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129072944"
+ms.locfileid: "129088931"
 ---
 # <a name="how-to-pay-the-fee-associated-with-a-silver-or-gold-competency"></a>Como pagar a taxa associada a uma competência de prata ou ouro
 
@@ -37,7 +37,7 @@ Caso contrário, siga estes passos para pagar a taxa por uma competência de pra
 - Foi-lhe atribuída a função de Centro de Parceiros da [administração global ou do parceiro MPN.](./permissions-overview.md) Se for um utilizador convidado sem uma destas funções, será-lhe negado o acesso a algumas das páginas do Centro de Parceiros descritas abaixo. Se isso acontecer, [contacte o seu administrador global](./find-your-role.md) e peça-lhes que lhe atribuam o papel adequado.
 
 > [!NOTE]
-> A interface de pré-visualização do Partner Center proporciona-lhe uma experiência de utilizador mais eficiente e produtiva através de espaços de trabalho agrupados logicamente. Para saber mais sobre a interface dos espaços de trabalho e como ligá-lo, consulte [Getting around Partner Center](get-around-partner-center.md#turn-workspaces-on-and-off).
+> Para saber mais sobre a interface de espaços de trabalho, consulte [o Centro de Parceiros.](get-around-partner-center.md#turn-workspaces-on-and-off)
 
 #### <a name="workspaces-view"></a>[Vista de espaços de trabalho](#tab/workspaces-view)
 

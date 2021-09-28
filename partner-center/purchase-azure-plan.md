@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7b32e1e2b45d7f263e04f04c4836d96aaaf63cdb
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 95065d8e496021e720ebbd2e897b88d9d8198d82
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: pt-PT
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129071334"
+ms.locfileid: "129089611"
 ---
 # <a name="purchase-the-azure-plan-for-customers-and-access-the-latest-azure-services"></a>Compre o plano Azure para clientes e aceda aos mais recentes serviços da Azure
 
@@ -77,7 +77,7 @@ Volte à página **do produto Adicionar uma** página de produto onde pode ver q
 Também pode comprar reservas Microsoft Azure ao abrigo do plano Azure em nome dos seus clientes no Partner Center. (Ou, se preferir, pode [autorizar os seus clientes a comprarem as suas próprias reservas Azure](give-customers-permission.md) a partir de uma subscrição prévia que adquiriu para eles.)
 
 > [!NOTE]
-> A interface de pré-visualização do Partner Center proporciona-lhe uma experiência de utilizador mais eficiente e produtiva através de espaços de trabalho agrupados logicamente. Para saber mais sobre a interface dos espaços de trabalho e como ligá-lo, consulte [Getting around Partner Center](get-around-partner-center.md#turn-workspaces-on-and-off).
+> Para saber mais sobre a interface de espaços de trabalho, consulte [o Centro de Parceiros.](get-around-partner-center.md#turn-workspaces-on-and-off)
 
 #### <a name="workspaces-view"></a>[Vista de espaços de trabalho](#tab/workspaces-view)
 

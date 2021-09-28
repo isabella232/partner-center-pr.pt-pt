@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 61f03da43d9319bc0f645e83c8665fe745ebdb50
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 986930c65409a94eccc8851432576dd2cf0a5e7f
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: pt-PT
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129072787"
+ms.locfileid: "129089832"
 ---
 # <a name="upgrade-education-customers-from-windows-10-home-to-windows-10-education"></a>Atualizar clientes de Educação de Windows 10 Home a Windows 10 Education
 
@@ -39,7 +39,7 @@ Os parceiros devem criar um pedido de apoio e obter chaves do Suporte. Os parcei
 ### <a name="partners--how-to-get-the-keys"></a>Parceiros – como obter as chaves:
 
 > [!NOTE]
-> A interface de pré-visualização do Partner Center proporciona-lhe uma experiência de utilizador mais eficiente e produtiva através de espaços de trabalho agrupados logicamente. Para saber mais sobre a interface dos espaços de trabalho e como ligá-lo, consulte [Getting around Partner Center](get-around-partner-center.md#turn-workspaces-on-and-off).
+> Para saber mais sobre a interface de espaços de trabalho, consulte [o Centro de Parceiros.](get-around-partner-center.md#turn-workspaces-on-and-off)
 
 #### <a name="workspaces-view"></a>[Vista de espaços de trabalho](#tab/workspaces-view)
 

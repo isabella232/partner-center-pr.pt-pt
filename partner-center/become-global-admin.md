@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a54678e19547d73ae6f0acb0e781bb9693cf0608
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: f82d1c6828d357bd9dc5dc9475c757b06593e66e
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: pt-PT
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129074107"
+ms.locfileid: "129088829"
 ---
 # <a name="verify-your-domain-ownership-to-become-global-admin"></a>Verificar a propriedade do domínio para se tornar administrador global
 
@@ -27,7 +27,7 @@ Para trabalhar no Partner Center, tem primeiro de verificar a propriedade do seu
 Para se tornar um administrador global na sua empresa, tem de verificar a propriedade do domínio.
 
 > [!NOTE]
-> A interface de pré-visualização do Partner Center proporciona-lhe uma experiência de utilizador mais eficiente e produtiva através de espaços de trabalho agrupados logicamente. Para saber mais sobre a interface dos espaços de trabalho e como ligá-lo, consulte [Getting around Partner Center](get-around-partner-center.md#turn-workspaces-on-and-off).
+> Para saber mais sobre a interface de espaços de trabalho, consulte [o Centro de Parceiros.](get-around-partner-center.md#turn-workspaces-on-and-off)
 
 #### <a name="workspaces-view"></a>[Vista de espaços de trabalho](#tab/workspaces-view)
 

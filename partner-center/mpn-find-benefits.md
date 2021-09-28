@@ -9,12 +9,12 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: abce85852ce93b1c911810463fab766c0f4c66d9
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 6232791d15886bb834413dd8adfce61e30f95b80
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: pt-PT
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129074518"
+ms.locfileid: "129088846"
 ---
 # <a name="locate-your-microsoft-partner-network-benefits"></a>Localize os seus benefícios do Microsoft Partner Network 
 
@@ -28,7 +28,7 @@ Este artigo diz aos membros da Microsoft Partner Network (MPN) como encontrar os
 ## <a name="find-your-mpn-benefits-in-partner-center"></a>Encontre os seus benefícios MPN no Partner Center
 
 > [!NOTE]
-> A interface de pré-visualização do Partner Center proporciona-lhe uma experiência de utilizador mais eficiente e produtiva através de espaços de trabalho agrupados logicamente. Para saber mais sobre a interface dos espaços de trabalho e como ligá-lo, consulte [Getting around Partner Center](get-around-partner-center.md#turn-workspaces-on-and-off).
+> Para saber mais sobre a interface de espaços de trabalho, consulte [o Centro de Parceiros.](get-around-partner-center.md#turn-workspaces-on-and-off)
 
 #### <a name="workspaces-view"></a>[Vista de espaços de trabalho](#tab/workspaces-view)
 

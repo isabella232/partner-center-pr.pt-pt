@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f74e98cd187b6b2e3099c5649511bdccbd6a432f
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: a76190a4bbea62a3b8da11b165e148b8fc2a9551
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: pt-PT
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129072498"
+ms.locfileid: "129089201"
 ---
 # <a name="upload-a-csv-file-of-users-to-a-customers-account"></a>Faça o upload de um ficheiro .csv de utilizadores para a conta de um cliente
 
@@ -25,7 +25,7 @@ Adicione vários utilizadores à conta de um cliente de uma só vez, enviando um
 ## <a name="create-the-file-of-customer-users-and-upload-to-customer-account"></a>Crie o ficheiro de utilizadores do cliente e faça upload para a conta do cliente
 
 > [!NOTE]
-> A interface de pré-visualização do Partner Center proporciona-lhe uma experiência de utilizador mais eficiente e produtiva através de espaços de trabalho agrupados logicamente. Para saber mais sobre a interface dos espaços de trabalho e como ligá-lo, consulte [Getting around Partner Center](get-around-partner-center.md#turn-workspaces-on-and-off).
+> Para saber mais sobre a interface de espaços de trabalho, consulte [o Centro de Parceiros.](get-around-partner-center.md#turn-workspaces-on-and-off)
 
 #### <a name="workspaces-view"></a>[Vista de espaços de trabalho](#tab/workspaces-view)
 

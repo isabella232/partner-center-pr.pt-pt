@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a57ed239e331c43cbfeaf1d1c860972824e0f848
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: eb9fff7ddbf828cbf15ad447c66ed18dfcb0643b
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: pt-PT
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129072433"
+ms.locfileid: "129089178"
 ---
 # <a name="billing-overview-for-csp-program-partners-working-in-partner-center"></a>Descrição geral da faturação para parceiros do programa CSP que trabalham no Centro de Parceiros 
 
@@ -25,7 +25,7 @@ Este artigo fornece a fatura básica e informações de fatura para parceiros CS
 ## <a name="find-your-bill"></a>Encontre a sua conta
 
 > [!NOTE]
-> A interface de pré-visualização do Partner Center proporciona-lhe uma experiência de utilizador mais eficiente e produtiva através de espaços de trabalho agrupados logicamente. Para saber mais sobre a interface dos espaços de trabalho e como ligá-lo, consulte [Getting around Partner Center](get-around-partner-center.md#turn-workspaces-on-and-off).
+> Para saber mais sobre a interface de espaços de trabalho, consulte [o Centro de Parceiros.](get-around-partner-center.md#turn-workspaces-on-and-off)
 
 #### <a name="workspaces-view"></a>[Vista de espaços de trabalho](#tab/workspaces-view)
 

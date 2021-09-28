@@ -8,12 +8,12 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/27/2021
-ms.openlocfilehash: b1ad332f14543d3b29b74d4b174012233a51544b
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 8b892ac7df7e0d1de85167005262723cb5775386
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: pt-PT
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129070471"
+ms.locfileid: "129090206"
 ---
 # <a name="determine-your-incentives-program-eligibility"></a>Determine a elegibilidade do seu programa de incentivos
 
@@ -28,7 +28,7 @@ Pode encontrar os requisitos específicos de elegibilidade do programa no guia d
 ### <a name="to-see-your-program-guide"></a>Para ver o seu guia de programas
 
 > [!NOTE]
-> A interface de pré-visualização do Partner Center proporciona-lhe uma experiência de utilizador mais eficiente e produtiva através de espaços de trabalho agrupados logicamente. Para saber mais sobre a interface dos espaços de trabalho e como ligá-lo, consulte [Getting around Partner Center](get-around-partner-center.md#turn-workspaces-on-and-off).
+> Para saber mais sobre a interface de espaços de trabalho, consulte [o Centro de Parceiros.](get-around-partner-center.md#turn-workspaces-on-and-off)
 
 #### <a name="workspaces-view"></a>[Vista de espaços de trabalho](#tab/workspaces-view)
 

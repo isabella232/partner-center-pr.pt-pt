@@ -11,16 +11,75 @@ ms.custom:
 - references_regions
 ms.localizationpriority: high
 ms.date: 09/27/2021
-ms.openlocfilehash: 19d8cd0bede7395d94adbe47daf51ff4171fd016
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 381e7e1d7f0f98b0bdfa0389ffaf65d7e1f75e89
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: pt-PT
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129074292"
+ms.locfileid: "129089189"
 ---
 # <a name="september-2021-announcements"></a>Anúncios de setembro de 2021
 
 Esta página fornece os anúncios para o Microsoft Partner Center para setembro de 2021.
+
+________________
+## <a name="the-redesigned-partner-center-experience-is-here"></a><a name="15"></a>A experiência redesenhada do Partner Center está aqui
+
+### <a name="summary"></a>Resumo
+
+Hoje, vamos começar a lançar a primeira de várias fases numa nova experiência de utilizador para o Partner Center.
+
+### <a name="categories"></a>Categorias
+
+- Data: 2021-09-27
+- Capacidades
+
+### <a name="impacted-audience"></a>Audiência impactada
+
+Todos os parceiros que usam o Partner Center
+
+### <a name="details"></a>Detalhes
+
+O nosso objetivo é tornar o Partner Center a ferramenta digital mais eficaz no nosso ecossistema, permitindo-lhe aproveitar todas as oportunidades no ecossistema parceiro da Microsoft. O Partner Center facilita transações de negócios, promove a construção de relacionamentos com outros parceiros, e fornece análises robustas. Para ajudá-lo a tirar o melhor partido da sua parceria com a Microsoft em cada fase da jornada do parceiro, deve integrar continuamente as informações, processos e feedback dos parceiros mais recentes à medida que evoluímos a experiência global do parceiro. Tendo feito ajustes incrementais ao longo dos últimos anos, estamos entusiasmados por estar a desvendar uma experiência reimaginada do utilizador que oferece navegação intuitiva, uma experiência mais consistente e um caminho guiado para encontrar as informações mais relevantes e completar as ações que precisa de tomar no Partner Center.
+
+Hoje, vamos começar a lançar a primeira de várias fases numa nova experiência de utilizador para o Partner Center. As características de assinatura desta atualização são os espaços de trabalho, que são uma nova forma de organizar ativos e informação por fluxo de trabalho. A implementação de uma estrutura construída em torno de espaços de trabalho permite uma personalização mais profunda e facilita a utilização do Partner Center — benefícios que se baseiam em pedidos expressos dos utilizadores. Continuaremos a fazer alterações adicionais para melhorar o desempenho e a fiabilidade de cada espaço de trabalho. Assaltados no nosso compromisso de fortalecer a nossa capacidade digital, estamos confiantes de que o nosso investimento nesta atualização irá apoiá-lo na aceleração dinâmica do crescimento do seu negócio.
+
+Vamos olhar mais de perto para as vantagens da nova estrutura, o processo de lançamento e os recursos para ajudá-lo a se familiarizar com a nova experiência.  
+
+#### <a name="introducing-workspaces"></a>Introdução de espaços de trabalho
+
+A nova interface Partner Center é construída em torno de um conjunto de espaços de trabalho que aparecerão na sua página inicial. Dentro de cada espaço de trabalho, pode encontrar as ferramentas, links, relatórios e informações associadas ao tema do espaço de trabalho. Os espaços de trabalho a que tem acesso serão personalizados com base nos negócios da sua organização com a Microsoft.
+
+- Benefícios
+- Faturação
+- Clientes
+- Informações
+- Incentivos
+- Membership
+- Ofertas
+- Pagamentos
+- Preços
+- Referências
+
+Estas mudanças decorrem do feedback dos parceiros e são projetadas para tornar o Partner Center mais intuitivo para navegar. As alterações que estamos a fazer também trarão o Partner Center em alinhamento com outros portais da Microsoft (como o portal Microsoft Azure ou Administração Microsoft 365 Center) e bibliotecas de recursos que poderá estar a usar, o que lhe permitirá tornar as decisões empresariais de forma mais eficiente. 
+
+#### <a name="transitioning-to-the-new-user-experience"></a>Transição para a nova experiência de utilizador
+
+A partir de hoje, dia 27 de setembro, todas as organizações parceiras e utilizadores terão acesso à nova experiência do utilizador. Ao iniciar sessão no Partner Center, ainda pode ver a vista atual, mas pode selecionar o botão **Workspaces** no direito superior da página para alternar entre a interface antiga e nova. Vamos lançar progressivamente a nova experiência nas próximas semanas até 15 de novembro de 2021, e durante esse tempo, continuarás a ter a opção de alternar entre as experiências antigas e novas.
+
+No dia 15 de novembro de 2021, teremos concluído o lançamento da nova experiência de utilizador e removeremos a capacidade de usar a versão anterior.
+
+A nossa equipa continuará a atualizar a experiência do utilizador durante e após este lançamento com base nos dados do utilizador e na entrada direta e feedback. Ao remutar para a interface de utilizador existente, será apresentado com uma janela **De Feedback Provide** que pode utilizar para chegar à nossa equipa de desenvolvimento.
+
+### <a name="next-steps"></a>Passos seguintes
+
+Compilamos recursos para o apoiar a familiarizar-se com o seu Centro de Parceiros redesenhado. Embora haja paridade em pontos de dados e funcionalidades entre as interfaces antigas e novas, pode ser necessário dar tempo para saber onde encontrar determinadas informações. Para ajudá-lo a entender a nova estrutura, cada espaço de trabalho terá um hovercard que, quando segurar o rato sobre ele, fornecerá uma breve descrição e links úteis. Também pode encontrar rapidamente informações organizadas pelo espaço de trabalho na ajuda online do [Partner Center.](../get-around-partner-center.md)
+
+Este anúncio também está disponível como post de [blog](https://blogs.partner.microsoft.com/mpn/the-redesigned-partner-center-experience-is-here/) e uma coleção está disponível na [Galeria de Recursos de Operações.](https://partner.microsoft.com/resources/collection/the-redesigned-partner-center-experience#/)
+
+Para maximizar a experiência do Partner Center, agora também é uma boa altura para garantir que o seu [perfil de negócio está atualizado,](../grow-your-business.md)rever informações sobre a [gestão das funções dos utilizadores,](../find-your-role.md)e verificar [duas vezes os requisitos de segurança para a utilização de APIs do Partner Center ou do Partner Center](../partner-security-requirements.md). Manter a sua conta atualizada garantirá que as informações mais relevantes estão preenchidas no seu novo painel de instrumentos.
+
+Quer esteja a construir uma solução, a ir ao mercado ou a co-vender com a Microsoft, a nova experiência do Partner Center é projetada para dinamizar a produtividade. Informada e adaptada à sua organização e papel, esta atualização é o nosso mais recente investimento na nossa parceria. O Centro de Apoio é apenas o início da próxima fase do nosso futuro juntos, e a minha equipa e eu estamos ansiosos para ouvir como isso eleva a sua prática.
 
 ________________
 ## <a name="new-commerce-experience-for-cloud-solution-provider-csp-seat-based-offers-readiness-resources"></a><a name="14"></a>Nova experiência de comércio para Fornecedor de Soluções em Nuvem (CSP) oferece recursos de prontidão

@@ -8,12 +8,12 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: f66871639256484bfe7d1a2221acbf11313ac39b
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 90e074bc2b6d1485cdd868fdf66b4f509ca4d5a4
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: pt-PT
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129074869"
+ms.locfileid: "129090138"
 ---
 # <a name="view-available-earned-claimed-and-remaining-co-op-funds"></a>Ver disponíveis ganhos, reclamados e restantes fundos de cooperação
 
@@ -24,7 +24,7 @@ Pode rastrear, monitorizar e conciliar os seus fundos de cooperação de incenti
 ## <a name="view-your-funds"></a>Ver os seus fundos
 
 > [!NOTE]
-> A interface de pré-visualização do Partner Center proporciona-lhe uma experiência de utilizador mais eficiente e produtiva através de espaços de trabalho agrupados logicamente. Para saber mais sobre a interface dos espaços de trabalho e como ligá-lo, consulte [Getting around Partner Center](get-around-partner-center.md#turn-workspaces-on-and-off).
+> Para saber mais sobre a interface de espaços de trabalho, consulte [o Centro de Parceiros.](get-around-partner-center.md#turn-workspaces-on-and-off)
 
 #### <a name="workspaces-view"></a>[Vista de espaços de trabalho](#tab/workspaces-view)
 

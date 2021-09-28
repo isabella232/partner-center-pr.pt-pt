@@ -9,12 +9,12 @@ author: ParthP
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1f16ce1c2d765530618f8c97ccfe7e871de3c0ab
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: d57cec763db2c22b08ec7cc5ae1b6f39c697811f
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: pt-PT
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129072962"
+ms.locfileid: "129088523"
 ---
 # <a name="troubleshoot-account-setup-or-mpn-renewal-issues"></a>Resolver problemas de configuração da conta ou de renovação do MPN
 
@@ -57,7 +57,7 @@ Terá de cancelar a encomenda original e recomprar utilizando o método de pagam
 Para cancelar uma encomenda:
 
 > [!NOTE]
-> A interface de pré-visualização do Partner Center proporciona-lhe uma experiência de utilizador mais eficiente e produtiva através de espaços de trabalho agrupados logicamente. Para saber mais sobre a interface dos espaços de trabalho e como ligá-lo, consulte [Getting around Partner Center](get-around-partner-center.md#turn-workspaces-on-and-off).
+> Para saber mais sobre a interface de espaços de trabalho, consulte [o Centro de Parceiros.](get-around-partner-center.md#turn-workspaces-on-and-off)
 
 #### <a name="workspaces-view"></a>[Vista de espaços de trabalho](#tab/workspaces-view)
 

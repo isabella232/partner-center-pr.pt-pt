@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ee4272003216e16813fabde5dae76d60ec515308
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 5532be819ba5da8bcd4a96e04e7f71d724470e07
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: pt-PT
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129075748"
+ms.locfileid: "129090223"
 ---
 # <a name="collecting-diagnostics-and-reporting-problems-in-partner-center"></a>Recolha de diagnósticos e problemas de reporte no Partner Center
 
@@ -28,7 +28,7 @@ Contacte o Suporte ao Centro de Parceiros se encontrar problemas ou precisar de 
 ## <a name="report-a-problem-with-the-partner-center"></a>Reportar um problema com o Centro de Parceiros
 
 > [!NOTE]
-> A interface de pré-visualização do Partner Center proporciona-lhe uma experiência de utilizador mais eficiente e produtiva através de espaços de trabalho agrupados logicamente. Para saber mais sobre a interface dos espaços de trabalho e como ligá-lo, consulte [Getting around Partner Center](get-around-partner-center.md#turn-workspaces-on-and-off).
+> Para saber mais sobre a interface de espaços de trabalho, consulte [o Centro de Parceiros.](get-around-partner-center.md#turn-workspaces-on-and-off)
 
 #### <a name="workspaces-view"></a>[Vista de espaços de trabalho](#tab/workspaces-view)
 

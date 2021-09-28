@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2bc31961dd073c2300ba8ee5229b72c86019e217
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: e22067cafa7c8fc1d6c1dc6c8e0cf70f6134a61f
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: pt-PT
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129072603"
+ms.locfileid: "129089458"
 ---
 # <a name="receive-credit-on-your-partner-center-account-for-tax-withholding"></a>Receba crédito na sua conta partner center para retenção na fonte de impostos
 
@@ -34,7 +34,7 @@ Os parceiros costumavam apresentar pedidos de retenção na fonte de imposto atr
 Siga estas medidas para submeter uma nova retenção na fonte fiscal:
 
 > [!NOTE]
-> A interface de pré-visualização do Partner Center proporciona-lhe uma experiência de utilizador mais eficiente e produtiva através de espaços de trabalho agrupados logicamente. Para saber mais sobre a interface dos espaços de trabalho e como ligá-lo, consulte [Getting around Partner Center](get-around-partner-center.md#turn-workspaces-on-and-off).
+> Para saber mais sobre a interface de espaços de trabalho, consulte [o Centro de Parceiros.](get-around-partner-center.md#turn-workspaces-on-and-off)
 
 #### <a name="workspaces-view"></a>[Vista de espaços de trabalho](#tab/workspaces-view)
 
@@ -97,7 +97,7 @@ Siga estas medidas para submeter uma nova retenção na fonte fiscal:
 A equipa de revisão pode exigir que faça correções e reenviar um pedido antes de poder ser aprovado. Alterarão o estatuto para ação **do parceiro pendente.** Para corrigir e reenviar o pedido:
 
 > [!NOTE]
-> A interface de pré-visualização do Partner Center proporciona-lhe uma experiência de utilizador mais eficiente e produtiva através de espaços de trabalho agrupados logicamente. Para saber mais sobre a interface dos espaços de trabalho e como ligá-lo, consulte [Getting around Partner Center](get-around-partner-center.md#turn-workspaces-on-and-off).
+> Para saber mais sobre a interface de espaços de trabalho, consulte [o Centro de Parceiros.](get-around-partner-center.md#turn-workspaces-on-and-off)
 
 #### <a name="workspaces-view"></a>[Vista de espaços de trabalho](#tab/workspaces-view)
 

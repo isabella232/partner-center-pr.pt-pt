@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: db271f6fb0ecad7a50ae43e28b29c33931bca0c9
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 60082ab97940c350f4b1cddbb49f3cc1128dfe49
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: pt-PT
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129071254"
+ms.locfileid: "129088497"
 ---
 # <a name="manage-unallocated-payments-on-your-partner-center-billing-page"></a>Gerir pagamentos não atribuídos na sua página de Faturação do Centro de Parceiros
 
@@ -25,7 +25,7 @@ Ocasionalmente, poderá ver um pagamento não atribuído na sua página de Fatur
 ## <a name="to-view-your-unallocated-payments"></a>Para ver os seus pagamentos não atribuídos
 
 > [!NOTE]
-> A interface de pré-visualização do Partner Center proporciona-lhe uma experiência de utilizador mais eficiente e produtiva através de espaços de trabalho agrupados logicamente. Para saber mais sobre a interface dos espaços de trabalho e como ligá-lo, consulte [Getting around Partner Center](get-around-partner-center.md#turn-workspaces-on-and-off).
+> Para saber mais sobre a interface de espaços de trabalho, consulte [o Centro de Parceiros.](get-around-partner-center.md#turn-workspaces-on-and-off)
 
 #### <a name="workspaces-view"></a>[Vista de espaços de trabalho](#tab/workspaces-view)
 
