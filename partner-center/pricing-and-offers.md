@@ -9,22 +9,24 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 56895336a40e8e09c5b2798bad5e502baad3067a
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: c3d0b40cb9421d3eb731e62395a5813fc31b760c
+ms.sourcegitcommit: 1e616b52d55eff41d67a081ba3f4a8370a49e027
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/27/2021
-ms.locfileid: "129071086"
+ms.lasthandoff: 09/29/2021
+ms.locfileid: "129191530"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Preços e ofertas para Office 365, Dynamics CRM, Suite de Mobilidade Empresarial, Azure, e muito mais
 
 **Funções adequadas**: Administração global | Administração de administração de utilizadores | Agente administrativo | | de administrador sócio da MPN Agente comercial | Administrador de faturação
 
-Para ver os mais recentes programas e ofertas de Fornecedor de Soluções em Nuvem (CSP), a partir do painel de instrumentos do Portal dos **Parceiros,** vá ao Sell > Preços e Ofertas . Encontrará listas de preços separadas para os diferentes tipos de produtos disponíveis. As seguintes listas de preços estão disponíveis na página **de Preços e Ofertas:**
+Para ver os mais recentes programas e ofertas de Fornecedor de Soluções em Nuvem (CSP), a partir do painel de instrumentos do Centro de Parceiros, vá ao **Preço e Ofertas.** Encontrará listas de preços separadas para os diferentes tipos de produtos disponíveis. Estão disponíveis as seguintes listas de preços:
 
 - **Os serviços baseados em licenças** incluem informações de preços para Office 365, Mobilidade Empresarial e Segurança E3, e Dynamics 365. A secção de preços baseada em licença inclui preços correntes e de pré-visualização e a matriz da lista de ofertas. As listas de preços incluem o preço da lista e os preços estimados de venda a retalho (ERP) para ofertas em todas as moedas apoiadas. A matriz da lista de ofertas inclui disponibilidade de mercado e outras informações importantes sobre as ofertas. Estes ficheiros são atualizados no primeiro dia de cada mês.
+
    > [!NOTE]
    > Os preços da lista e do ERP são para a frequência de faturação mensal. Para a frequência anual de faturação, multiplique o preço mensal por 12.
+
 - **Os serviços baseados na utilização** incluem informações sobre preços para Microsoft Azure e Visual Studio. Também pode utilizar os [Serviços Azure na Calculadora de Preços da CSP](https://azure.microsoft.com/pricing/calculator/). O download baseado em uso inclui tanto as listas de preços do CSP para todas as moedas suportadas como os ficheiros de preços dos Serviços Partilhados em ERP. Estes ficheiros são atualizados no primeiro dia de cada mês.
 - **Microsoft Azure Instâncias Reservadas** inclui informações sobre preços para todas as moedas apoiadas para instâncias reservadas do Azure. O download de preços também inclui o preço dos Serviços Partilhados em ERP. Estes ficheiros são atualizados no primeiro dia de cada mês.
 - **As subscrições de** software incluem preços para subscrições de software baseadas em termos para todas as moedas suportadas. O ficheiro de preços inclui todas as moedas suportadas com preço de lista e o preço de venda sugerido pelo fabricante (MSRP). Estes ficheiros são atualizados no primeiro dia de cada mês.
@@ -32,7 +34,7 @@ Para ver os mais recentes programas e ofertas de Fornecedor de Soluções em Nuv
 - **As taxas de câmbio** são utilizadas para calcular a faturação cobrada entre USD e a moeda local dos parceiros. As tarifas são atualizadas no primeiro dia de cada mês e mantêm-se verdadeiras para o mês em que as tarifas são disponibilizadas. Estes ficheiros são atualizados no primeiro dia de cada mês.
 - **O marketplace** inclui preços para soluções independentes de fornecedor de software (ISV) do mercado comercial da Microsoft. Os preços são recuperados por mercado. Os dados nestes ficheiros são atualizados todos os dias.
 
-> [!Note] 
+> [!NOTE]
 > Apenas os parceiros CSP com a capacidade de transação podem visualizar e baixar listas de preços. Os revendedores indiretos devem [contactar o seu fornecedor CSP]( https://partner.microsoft.com/cloud-solution-provider/find-a-provider) para solicitar detalhes sobre preços
 
 ## <a name="price-list-preview-and-change-frequency"></a>Pré-visualização da lista de preços e alteração da frequência 
@@ -85,7 +87,7 @@ A CSP oferece alguns serviços a segmentos de mercado especiais, por exemplo, ed
 |GCC (Government Community Cloud)|Parceiro e cliente|Uma vez ativado GCC, o parceiro pode criar clientes GCC| Apenas com base em licenças|
 |Azure Government|Parceiro|Uma vez qualificado, o parceiro opera num inquilino da CSP específico do Governo Azure|Recursos do Azure|
 
-As margens dos parceiros, a diferença entre o preço da lista e os preços estimados de venda a retalho, podem variar de segmento para segmento. Normalmente, a educação e a sem fins lucrativos tendem a ter margens mais baixas ou sem margem para os parceiros da CSP. Consulte a lista de preços baseada na licença para obter valores exatos. 
+As margens dos parceiros, a diferença entre o preço da lista e os preços estimados de venda a retalho, podem variar de segmento para segmento. Normalmente, a educação e a sem fins lucrativos tendem a ter margens mais baixas ou sem margem para os parceiros da CSP. Consulte a lista de preços baseada na licença para obter valores exatos.
 
 ## <a name="add-on-offer-types"></a>Tipos de oferta de add-on
 
@@ -112,7 +114,7 @@ Para os parceiros CSP que utilizam os Kits de Desenvolvimento de Software do Par
 
 ### <a name="offers-matrix-and-price-list-questions"></a>Oferece questões de matriz e lista de preços
 
-Se tiver dúvidas sobre a lista de preços ou matriz de oferta, envie um pedido de serviço através do espaço de trabalho Partner Center **Help + Support.**
+Se tiver dúvidas sobre a lista de preços ou matriz de oferta, envie um pedido de serviço através do Partner Center.
 
 ## <a name="offer-limits"></a>Limites de oferta
 
@@ -137,9 +139,11 @@ Todos os preços nas tabelas de preços do Partner Center CSP são impostos incl
 
 Algumas ofertas exigem que o parceiro concorde antes de comprar. Este processo é chamado de atestado e a partir de 1 de agosto de 2021, as únicas ofertas que requerem atestado são Windows 365 ofertas de Negócios com Windows Hybrid Benefit. Os parceiros verão texto no ecrã de revisão ao comprar estas ofertas: "Entendo que cada pessoa que usa Windows 365 Negócios com Windows Hybrid Benefit também precisa de ter uma cópia válida de Windows 10/11 Pro instalada no seu dispositivo de trabalho primário." Os parceiros devem concordar com isso antes de comprar.
 
-O Attestation aplica-se tanto ao portal Partner Center como às APIs do Partner Center ao enviar encomendas e verificar carrinhos. Os parceiros podem determinar quais as ofertas que requerem atestado, verificando as AttestationProperties sobre a [oferta](/partner-center/develop/offer-resources#attestationproperties) ou objetos [sku.](/partner-center/develop/product-resources#attestationproperties) Estas propriedades explicarão o tipo de atestado e se o atestado for aplicado para compras (enforceAttestation=True). Se necessário, os parceiros simplesmente definem o AttestationAccepted verdadeiro no carrinho ou [em linhamentos](/partner-center/develop/cart-resources)de encomenda .
+O Attestation aplica-se tanto ao portal Partner Center como às APIs do Partner Center ao enviar encomendas e verificar carrinhos. Os parceiros podem determinar quais as ofertas que requerem atestado verificando o `AttestationProperties` no `[offer](/partner-center/develop/offer-resources#attestationproperties)` ou `[sku](/partner-center/develop/product-resources#attestationproperties)` objetos.
 
-Abaixo estão as ofertas que atualmente requerem atestado antes da compra.
+Estas propriedades explicarão o tipo de atestado e se o atestado for aplicado para compras (enforceAttestation=True). Se necessário, os parceiros simplesmente definem o `AttestationAccepted` **verdadeiro** no carrinho ou na encomenda `[lineitems](/partner-center/develop/cart-resources)` .
+
+As seguintes ofertas requerem atualmente atestado antes da compra.
 
  | **Nome da oferta** |**ID da oferta** |
 |:------------------------------------------- |:--------------------------------------- |
@@ -269,7 +273,7 @@ A matriz de oferta contém informações de compra e regras para os SKUs do prod
 | AssetOwnershipLimitType       | ConcorrenteCount    | Tipo de AssetLimit. Pode ser vitalício ou simultâneo |
 | ProdutosSkuPreRequisites       |                    | Lista de SKUs os suportes adicionais |
 | ProductSkuConversion          | CFQ7TTC0LDPB/0001,CFQ7TTC0LF8Q/0001 | Lista de SKUs que pode converter |
-| Descrição                   | O melhor para empresas que precisam de profissional... | Descrição do SKU |
+| Description                   | O melhor para empresas que precisam de profissional... | Descrição do SKU |
 | Países Permitidos              |AD; AE;AF; AG; AI; AL;AM; AO...                     | Lista de mercados apoiados |
 
 ### <a name="price-list-preview"></a>Pré-visualização da lista de preços

@@ -1,26 +1,26 @@
 ---
 title: Oferecer aos clientes testes de produtos da Microsoft
 ms.topic: article
-ms.date: 02/23/2021
+ms.date: 08/22/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-pricing
-description: Deixe os clientes experimentarem os produtos de subscrição da Microsoft durante 30 dias. Inscreva-se para estes testes gratuitos no catálogo, tal como muitos outros serviços online.
+description: Deixe os clientes experimentarem os produtos de subscrição da Microsoft. Inscreva-se para estes testes gratuitos no catálogo, tal como muitos outros serviços online.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 625fd493b026faac924ff8a7a5af8dccb59ab7b3
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: 48f4c81f217e68836dd755d1d4342d240276ea79
+ms.sourcegitcommit: 1e616b52d55eff41d67a081ba3f4a8370a49e027
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960140"
+ms.lasthandoff: 09/29/2021
+ms.locfileid: "129191499"
 ---
 # <a name="give-customers-free-trials-of-microsoft-products"></a>Dar aos clientes testes gratuitos de produtos da Microsoft
 
 **Funções adequadas**: Administração global | Administração de administração de utilizadores | Agente comercial
 
-Uma boa forma de apresentar clientes aos novos produtos da Microsoft é oferecer testes gratuitos de 30 dias. Você pode se inscrever para os testes no catálogo, assim como muitos outros serviços on-line. Todos os parceiros podem participar.
+Uma boa forma de apresentar clientes a novos produtos da Microsoft é oferecer testes gratuitos de 30 dias. Você pode se inscrever para os testes no catálogo, assim como muitos outros serviços on-line. Todos os parceiros podem participar.
 
 ## <a name="available-trial-offers"></a>Ofertas de teste disponíveis
 
@@ -32,7 +32,7 @@ Cada cliente tem direito a um teste gratuito por cada oferta disponível. Por ex
 
 Estão disponíveis testes gratuitos para as ofertas mais abrangentes e populares baseadas em licesen. As novas ofertas experimentais podem ser introduzidas mensalmente.
 
-Os parceiros podem encontrar testes na lista de preços mensais na página **de preços e ofertas** no Partner Center. As ofertas de ensaio terão "TRIAL" listadas na coluna De **Tipo de Licença Secundária** da lista de preços.
+Os parceiros podem encontrar testes na tabela de preços mensais na página **de preços e ofertas** no Partner Center. As ofertas de ensaio terão "TRIAL" listada na coluna De **Tipo de Licença Secundária** da lista de preços.
 
 Atualmente, não há **testes gratuitos** para ofertas governamentais, ofertas de educação ou ofertas adicionais.
 
@@ -48,13 +48,13 @@ Obtenha um teste para o seu cliente no Partner Center:
 
 1. A partir da **Venda** no Centro de Parceiros, vá ao **Catálogo.** 
 2. No catálogo, a partir da **frequência Billing,** selecione **Trial offer**. Isto permite apenas a aparecerem testes gratuitos e desativa outras ofertas que não são gratuitas. Os testes aparecerão no **separador Trials** no catálogo.
-3. Selecione o teste gratuito que pretende oferecer e, em seguida, **selecione submeter**. Todos os julgamentos são por 30 dias durante os quais não será cobrado. Também pode convertê-lo numa subscrição paga a qualquer momento durante o julgamento.
+3. Selecione o teste gratuito que pretende oferecer e, em seguida, **selecione submeter**. Todos os julgamentos são para 30 dias durante os quais não será cobrado. Também pode convertê-lo numa subscrição paga a qualquer momento durante o julgamento.
 
 ## <a name="converting-trials-to-paid-subscriptions"></a>Conversão de ensaios para assinaturas pagas
 
-Um teste gratuito não é automaticamente convertido para uma subscrição paga. Após 30 dias, um ensaio gratuito deve ser convertido para uma subscrição paga ou [expirará](#expiring-offers). Os julgamentos gratuitos não podem ser prolongados.
+Um teste gratuito não é automaticamente convertido para uma subscrição paga. Após 30 dias, um ensaio gratuito deve ser convertido para uma subscrição paga ou [expirará](#expiring-offers). Julgamentos gratuitos não podem ser prolongados.
 
-Terá de converter o julgamento numa subscrição paga. Pode [fazê-lo utilizando o Centro de Parceiros](#convert-trials-using-partner-center) ou [através das APIs do Partner Center](#convert-trials-using-apis).
+Terá de converter o julgamento numa subscrição paga. Pode [fazê-lo utilizando o Centro de Parceiros](#convert-trials-using-partner-center) ou [através das APIs do Centro de Parceiros.](#convert-trials-using-apis)
 
 > [!NOTE]
 > Os ensaios gratuitos para o programa Fornecedor de Soluções em Nuvem (CSP) não podem ser convertidos para outro inquilino do programa (como EA, Open ou MOSP).
@@ -65,7 +65,7 @@ Pode converter ensaios em subscrições pagas utilizando o Partner Center:
 
 1. Vá à página de subscrição do cliente e selecione o teste gratuito.
 2. Selecione **Converter o ensaio para a subscrição paga.**
-3. Introduza a quantidade de licença desejada e a frequência de faturação e selecione **Apply**.
+3. Introduza a quantidade de licença desejada e a frequência de faturação e **selecione Apply**.
 4. A faturação da subscrição paga começa na data de conversão e a subscrição renova automaticamente 12 meses a partir da data de conversão. 
 
 ### <a name="convert-trials-using-apis"></a>Converter ensaios usando APIs
@@ -83,30 +83,30 @@ Nem todos os ensaios podem ser convertidos em subscrições pagas. Os parceiros 
 |----------------------------|:---------------------------------|:------------------------------------------|
 |Microsoft Teams Ensaio de Nuvem Comercial (Iniciado pelo Utilizador)   |Microsoft 365 Empresas Basic, Microsoft 365 Empresas, Microsoft 365 Empresas Premium   | F3 (anteriormente F1), Office 365 para a Enterprise (E1, E3 e E5), Microsoft 365 F1/F3, Microsoft 365 Enterprise (E3)   |
 
->[!NOTE]
->As ofertas acima têm planos de serviço semelhantes com funcionalidades semelhantes, no entanto pode haver algumas diferenças entre as ofertas.
+> [!NOTE]
+> As ofertas acima têm planos de serviço semelhantes com funcionalidades semelhantes, no entanto pode haver algumas diferenças entre as ofertas.
 
 ### <a name="expiring-offers"></a>Ofertas caducadas
 
 Não será notificado das ofertas caducadas. Pode rastrear as próximas datas de validade utilizando a vista do cliente no Partner Center ou consultando a API. É uma boa ideia monitorizar estas datas com frequência para que possa tomar as ações de acompanhamento apropriadas com os clientes à medida que se aproximam de um ponto de decisão.
 
-Depois de expirado o julgamento, um cliente que tentar entrar nesse julgamento verá uma mensagem de caducidade. No entanto, os dados são armazenados de acordo com as normas de retenção de dados. Depois de adquirir uma nova subscrição com os mesmos planos de serviço, as informações do seu cliente podem ser novamente acedidas a partir da subscrição recém-ativada.
+Depois de expirado o julgamento, um cliente que tentar entrar nesse julgamento verá uma mensagem de expiração. No entanto, os dados são armazenados de acordo com as normas de retenção de dados. Depois de adquirir uma nova subscrição com os mesmos planos de serviço, as informações do seu cliente podem ser novamente acedidas a partir da subscrição recém-ativada.
 
 ## <a name="converting-new-commerce-trials-to-paid-subscriptions"></a>Conversão de novos ensaios de comércio para subscrições pagas
 
-> [!Note] 
+> [!NOTE]
 > As novas alterações de Comércio estão atualmente disponíveis apenas para parceiros que fazem parte da nova pré-visualização técnica da experiência de comércio M365/D365.
 
 Após 30 dias, o seu teste gratuito irá automaticamente renovar-se numa subscrição paga. Pode converter o seu ensaio antes da renovação automática seguindo os passos abaixo. 
 
-Você mesmo pode converter o julgamento numa subscrição paga. Pode fazê-lo utilizando o Centro de Parceiros ou através das APIs do Partner Center. 
+Você mesmo pode converter o julgamento numa subscrição paga. Pode fazê-lo utilizando o Centro de Parceiros ou através das APIs do Centro de Parceiros. 
 
 > [!NOTE]
 > Os ensaios gratuitos para o programa Fornecedor de Soluções em Nuvem (CSP) não podem ser convertidos para outro inquilino do programa (como EA, Open ou MOSP).
 
-### <a name="convert-new-commerce-trials-using-partner-center"></a>Converter novos ensaios de comércio usando Partner Center
+### <a name="convert-new-commerce-trials-using-partner-center"></a>Converter novos ensaios de comércio usando o Partner Center
 
-> [!Note] 
+> [!NOTE]
 > As novas alterações de Comércio estão atualmente disponíveis apenas para parceiros que fazem parte da nova pré-visualização técnica da experiência de comércio M365/D365.
 
 Pode converter novos ensaios de comércio em subscrições pagas utilizando o Partner Center:
@@ -114,7 +114,7 @@ Pode converter novos ensaios de comércio em subscrições pagas utilizando o Pa
 1. Vá à página de subscrição do cliente e selecione o teste gratuito.
 2. Selecione **Converter o ensaio para a subscrição paga.**
 3. Escolha o equivalente pago e, em seguida, **selecione Enviar por isso.**
-4. A faturação da subscrição paga começa na data de conversão, e a subscrição renova-se automaticamente doze meses a partir da data de conversão. 
+4. A faturação da subscrição paga começa na data de conversão, e a subscrição renova-se automaticamente doze meses a partir da data de conversão.
 
 ## <a name="billing"></a>Faturação
 
@@ -128,7 +128,7 @@ A data de início da subscrição baseia-se na data de conversão. Se o teste gr
 
 ### <a name="invoices"></a>Faturas
 
-Não verá testes gratuitos listados na sua fatura ou ficheiro de reconciliação baseado em licença. Os testes gratuitos só aparecerão na sua fatura e ficheiro de reconciliação baseado na licença depois de converter um teste gratuito numa subscrição paga. A subscrição convertida aparecerá da mesma forma que qualquer nova subscrição.
+Não verá testes gratuitos listados na sua fatura ou ficheiro de reconciliação baseado em licença. Os testes gratuitos só aparecerão na sua fatura e ficheiro de reconciliação baseado na licença depois de converter um teste gratuito para uma subscrição paga. A subscrição convertida aparecerá da mesma forma que qualquer nova subscrição.
 
 ### <a name="incentives"></a>Incentivos
 

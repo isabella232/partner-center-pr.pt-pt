@@ -9,16 +9,16 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 73b47b62ce996156c7e780450bada1bdbec9f4b0
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: 2b8ac518e4a5e13fe1c0f6545537c233b483e86a
+ms.sourcegitcommit: 1e616b52d55eff41d67a081ba3f4a8370a49e027
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126246374"
+ms.lasthandoff: 09/29/2021
+ms.locfileid: "129191515"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Lista de preços da nova experiência comercial no CSP para Azure
 
-**Funções adequadas**: Agente administrador | Administrador de faturação | Administração global | Agente helpdesk | Agente comercial | Administração de gestão de utilizadores
+**Funções adequadas**: Agente administrador | Administrador de faturação | | de administração global Agente helpdesk | Agente comercial | Administrador de gestão de utilizadores
 
 Os preços em tempo real para a nova experiência de comércio Azure em CSP são entregues dinamicamente em tempo real no Partner Center. Os preços são mostrados apenas em USD. A partir de agosto de 2021, todos os parceiros serão faturados na moeda de localização do parceiro, independentemente da localização do cliente a quem vendeu o produto. Para mais informações, consulte [o plano Azure - faturação](azure-plan-billing.md).
 
@@ -32,27 +32,40 @@ Se se matriculou *em ou depois de* 21 de julho de 2021
 
 ## <a name="see-pricing-for-subscriptions-under-the-azure-plan-pricing"></a>Ver preços para subscrições ao abrigo do plano Azure
 
-1.  A partir do menu Partner Center, selecione **Venda,** em **seguida, Preços e ofertas**.
-2.  De acordo com **o plano Azure, os preços de consumo** e o plano **Azure planeiam a fixação de preços**, selecione o país e, em seguida, o link de descarregamento.
-   - Para **taxas de câmbio estrangeiras,** selecione o link de descarregamento na secção.
+> [!NOTE]
+> Para saber mais sobre a interface de espaços de trabalho, consulte [o Centro de Parceiros.](get-around-partner-center.md#turn-workspaces-on-and-off)
 
-   > [!NOTE] 
-   > **As tarifas de FX** não são específicas do país.
+#### <a name="workspaces-view"></a>[Vista de espaços de trabalho](#tab/workspaces-view)
 
-   :::image type="content" source="images/azure/pricing-new.png" alt-text="Screenshot de Preços e ofertas mostrando a nova experiência de comércio.":::
+1. Inscreva-se no [painel de instrumentos partner Center,](https://partner.microsoft.com/dashboard)selecione o **azulejo de preços** e, em seguida, selecione Preços e **ofertas**.
 
-   > [!NOTE] 
+2.  Ao abrigo **do plano Azure, os preços de consumo** e o plano **Azure planeiam a fixação de preços,** selecione o país e, em seguida, o link de descarregamento.
+
+   - Para **taxas de câmbio,** selecione o link de descarregamento na secção.
+
+#### <a name="current-view"></a>[Vista atual](#tab/current-view)
+
+1.  Inscreva-se no menu Partner Center, selecione **Venda,** depois **Preços e ofertas**.
+
+2.  Ao abrigo **do plano Azure, os preços de consumo** e o plano **Azure planeiam a fixação de preços,** selecione o país e, em seguida, o link de descarregamento.
+
+   - Para **taxas de câmbio,** selecione o link de descarregamento na secção.
+
+   > [!NOTE]
+   > **As tarifas fx** não são específicas do país.
+
+   > [!NOTE]
    > Pode exportar duas listas de preços diferentes: preços do plano Azure e preços de terceiros do Marketplace.
 
 ## <a name="azure-price-list-specifics"></a>Detalhes da lista de preços do Azure
 
 - Os preços do plano Azure estarão disponíveis a partir da página **de Preços e ofertas** no Partner Center, em **Sell.**
 
-- As exportações estarão disponíveis para os serviços de consumo do plano Azure, reservas Azure e taxas DE FX.
+- As exportações estarão disponíveis para os serviços de consumo do plano Azure, reservas Azure e tarifas FX.
 
 - As opções de exportação incluem:
 
-  - **Preços correntes**: Esta opção inclui todos os contadores e preços desde o primeiro do mês até à data atual do mês, como novos preços, preços alterados ou preços removidos. Todos os preços terão datas de início e fim eficazes para explicar se são novos ou removidos.
+  - **Preços correntes**: Esta opção inclui todos os contadores e preços desde o primeiro do mês até à data atual do mês, como novos preços, preços alterados ou preços removidos. Todos os preços terão datas de início e fim eficazes para explicar se são novas ou removidas.
 
   - **Preço do mês anterior**: Os downloads de cada tipo de recurso serão por mês. Para os ficheiros de preços, isto incluirá todos os contadores que estavam disponíveis durante esse mês. Se um novo medidor aparecer em meados do mês, eu apareci como um medidor com uma data efetiva que reflete a sua disponibilidade. Semelhante aos preços que são descontinuados, mostrando com uma data final efetiva descrevendo quando já não estão disponíveis.
 
@@ -60,7 +73,7 @@ Se se matriculou *em ou depois de* 21 de julho de 2021
 
 - Os preços nas tabelas de preços são preços diretos. Alguns parceiros podem ser elegíveis para sócios que ganharam créditos. Para obter informações sobre como o parceiro obteve crédito é calculado, leia [como o parceiro obteve crédito é calculado e pago](partner-earned-credit-explanation.md).
 
-- **Serviços elegíveis**: O crédito auferido pelo parceiro é aplicável aos serviços listados no **plano Azure que** os parceiros de preços de consumo podem exportar a partir da página de preços do [plano Azure.](https://partner.microsoft.com/commerce/sales)
+- **Serviços elegíveis**: O crédito auferido pelo parceiro é aplicável aos serviços enumerados no **plano Azure que** os parceiros de preços de consumo podem exportar a partir da página de preços do [plano Azure.](https://partner.microsoft.com/commerce/sales)
    > [!NOTE]
    > Existem exceções, incluindo, mas não se limitando a, produtos de **terceiros identificados** como "Terceiros" na coluna Tags da lista de preços de consumo do plano Azure e reservas do plano Azure.
 
@@ -84,14 +97,14 @@ Se se matriculou *em ou depois de* 21 de julho de 2021
 |EficazStartDate|Data de início dos preços|
 |Efê-Térmo|Data de fim do preço|
 |Meterids|Identificação do medidor do produto SKU|
-|Medidor deTipo|Tipo de Medidor|
+|Medidor DeType|Tipo de Medidor|
 |Etiquetas|Propriedades para o item, para preços do plano Azure este será Azure ou Azure e Reservas (especificamente para reservas)|
 
 As listas de preços do plano Azure podem ser exportadas a partir da [página de Preços e ofertas](https://partner.microsoft.com/dashboard/sell/pricingandoffers) no Partner Center.
 
 ## <a name="tiered-pricing"></a>Preços hierárquicos
 
-Alguns serviços de consumo de plano Azure apoiam preços diferenciados. Os parceiros podem encontrar estes produtos e SKUs na lista de preços do plano Azure. Os itens que têm valores nas colunas de gama de preços permitem aos parceiros compreender o preço com base na utilização. No exemplo abaixo, usando dados de amostra, temos um produto SKU com três níveis de preços.
+Alguns serviços de consumo de plano Azure apoiam preços diferenciados. Os parceiros podem encontrar estes produtos e SKUs na lista de preços do plano Azure. Os itens que têm valores nas colunas de gama de preços permitem aos parceiros compreender o preço baseado na utilização. No exemplo abaixo, utilizando dados de amostra, temos um produto SKU com três níveis de preços.
 
 |**ProductId**   |**SkuId**   |**UnitPrice**   |**PreçosTierRangeMin**   |**PreçosTierRangeMax**   |
 |:---------------|:-----------|:---------------|:-------------------------|:-------------------------|
@@ -105,12 +118,12 @@ Neste exemplo, se 101 unidades forem usadas, a carga seria de 100,80. As primeir
 
 Você pode usar o [preço API](/partner/develop/pricing) para recuperar preços do plano Azure para consumo e reservas programáticamente. Também pode recuperar as taxas de câmbio.
 
-A API de preços está num ponto final diferente dos APIs do Centro De Parceiros. As informações sobre preços incluem preços de contadores em USD para recursos do plano Azure e preços de reservas aplicados às subscrições do plano Azure.
+A API de preços está num ponto final diferente dos APIs do Outro Centro de Parceiros. As informações sobre preços incluem preços de contadores em USD para recursos do plano Azure e preços de reservas aplicados às subscrições do plano Azure.
 
 Esta API também permite que os parceiros recuperem taxas de câmbio mensais porque os preços do plano Azure estão apenas em USD. Pode utilizar as APIs para recuperar os preços e as taxas de câmbio para o mês em curso ou meses anteriores.
 
 > [!NOTE]
-> A API de preços é específica para os preços do plano Azure. Você ainda deve usar a API do RateCard existente e as listas de preços postadas na página "Preços e ofertas" do Partner Center para recursos Azure ou reservas implantadas para subscrições de planos não-Azure. O plano Azure que fixa preços API não suporta software, marketplace ou preços baseados em licenças, tais como Microsoft 365 ou Dynamics 365.
+> A API de preços é específica para os preços do plano Azure. Você ainda deve usar a API do RateCard existente e as listas de preços postadas na página "Preços e ofertas" do Centro Parceiro para recursos Azure ou reservas implantadas em subscrições de plano não-Azure. O plano Azure que fixa preços API não suporta preços baseados em software, marketplace ou licença, como Microsoft 365 ou Dynamics 365.
 
 Para obter mais informações sobre os preços do plano Azure e as APIs cambiais, consulte a documentação completa da [API sobre preços](/partner/develop/pricing).
 

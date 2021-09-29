@@ -9,12 +9,12 @@ author: parthp
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 99057daa14fc279fde2a676a315d3cc8930f88aa
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 0d3b7787cf0f41a04f0a662450040802d74e9ef7
+ms.sourcegitcommit: 1e616b52d55eff41d67a081ba3f4a8370a49e027
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/27/2021
-ms.locfileid: "129072415"
+ms.lasthandoff: 09/29/2021
+ms.locfileid: "129191447"
 ---
 # <a name="how-to-add-a-new-customer-record-in-partner-center"></a>Como adicionar um novo recorde de clientes no Partner Center
 
@@ -61,6 +61,9 @@ Ao introduzir um endereço de e-mail do cliente, não será permitido o seguinte
 - O endereço de e-mail do cliente não pode conter o mesmo nome de domínio que o parceiro. Por exemplo, um parceiro chamado ABC não pode criar um e-mail de cliente com @abc.com .
 
 ## <a name="to-add-a-new-customer-in-partner-center"></a>Para adicionar um novo cliente no Centro de Parceiros
+
+> [!NOTE]
+> Para saber mais sobre a interface de espaços de trabalho, consulte [o Centro de Parceiros.](get-around-partner-center.md#turn-workspaces-on-and-off)
 
 #### <a name="workspaces-view"></a>[Vista de espaços de trabalho](#tab/workspaces-view)
 

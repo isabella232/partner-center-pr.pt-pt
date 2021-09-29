@@ -1,7 +1,7 @@
 ---
 title: Novas promoções de comércio
 ms.topic: article
-ms.date: 09/24/2021
+ms.date: 09/28/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-pricing
 description: Conheça novas experiências de comércio para descobrir e comprar promoções.
@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b5b4e3ec2ef4c37b742102d287e5eddd93690fdb
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 723e56fc73a83abfb8f2c65ca529bdecab832c9c
+ms.sourcegitcommit: 1e616b52d55eff41d67a081ba3f4a8370a49e027
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/27/2021
-ms.locfileid: "129075181"
+ms.lasthandoff: 09/29/2021
+ms.locfileid: "129191413"
 ---
 # <a name="introduction-new-commerce-promotions"></a>Introdução: Novas promoções de comércio
 
@@ -36,7 +36,7 @@ Os parceiros podem descobrir promoções visitando o atraso das promoções ou c
 
 ## <a name="operationalize-promotions"></a>Operacionalizar promoções ##
 
-Os parceiros podem operacionalizar as promoções implementando a API getPromotions. Esta API devolve todas as promoções existentes para um determinado mercado (país do cliente) e segmento. A API devolve a lista de promoções e informações importantes para ajudar o parceiro a entender quais as promoções disponíveis para clientes em diferentes países. 
+Os parceiros podem operacionalizar as promoções implementando a [API getPromotions.](/partner-center/develop/get-promotions) Esta API devolve todas as promoções existentes para um determinado mercado (país do cliente) e segmento. A API devolve a lista de promoções e informações importantes para ajudar o parceiro a entender quais as promoções disponíveis para clientes em diferentes países. 
 
 
 A API getPromotions inclui os seguintes dados para uma determinada promoção:
@@ -49,9 +49,16 @@ As promoções são aplicadas pelo centro parceiro quando o parceiro compra o pr
 
 ## <a name="verify-eligibility"></a>Verificar elegibilidade ##
 
-Os parceiros podem ver se uma compra de cliente é elegível para uma promoção vendo a informação na página de revisão no centro de parceiros antes de comprar o produto. Os parceiros também podem ligar para a API de API de verificação de Elegografia, passando o ID do inquilino do cliente e o ID de promoção. A chamada retorna verdadeira se o cliente for elegível. Se o cliente não for elegível, a API devolve as condições que não foram satisfeitas para que a promoção seja aplicável. 
+Os parceiros podem ver se uma compra de cliente é elegível para uma promoção vendo a informação na página de revisão no centro de parceiros antes de comprar o produto. Os parceiros também podem ligar para a [API de API de promoção,](/partner-center/develop/verify-promotion-eligibility)passando o ID do inquilino do cliente e o ID de promoção. A chamada retorna verdadeira se o cliente for elegível. Se o cliente não for elegível, a API devolve as condições que não foram satisfeitas para que a promoção seja aplicável. 
 
-Os parceiros podem ligar para validar a elegibilidade e obter resultados de volta. Os erros de elegibilidade podem basear-se em contagens de assentos, termos incompatíveis ou limites em quantas vezes uma promoção pode ser aplicada ao produto de um cliente SKU.
+Os parceiros podem ligar para verificar a elegibilidade e obter resultados de volta. Os erros de elegibilidade podem basear-se em contagens de assentos, termos incompatíveis ou limites em quantas vezes uma promoção pode ser aplicada ao produto de um cliente SKU.
+
+Tópicos importantes para novas promoções de comércio APIs:
+
+- [ObterPromoções API](/partner-center/develop/get-promotions)
+- [Obter API DePromotionsById](/partner-centerpartner-center/develop/get-promotion-by-id)
+- [Verificar Identidades](/partner-center/develop/verify-promotion-eligibility)
+- [Recursos de promoção](/partner-center/develop/promotion-resources)
 
 >[!IMPORTANT]
 > Os parceiros devem verificar as promoções antes de submeterem uma transação. Na página de *revisão* do Partner Center se os parceiros não virem uma promoção, não será aplicada na transação, o parceiro receberá o preço de não promoção. Os parceiros também podem olhar para o item da linha do carrinho API para ver se a promoção está presente antes de submeter uma transação. Os parceiros podem ligar para verificar promoções API antes de submeter transações para verificar se a combinação de sku de produto de cliente é elegível para a promoção e, se não, as razões da inelegibilidade.
