@@ -8,12 +8,12 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: e010800cb4ac77d44eda0de2fdc04c29d57b33ce
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 3ae0059e5e4401afd34d095964b62a74174e891a
+ms.sourcegitcommit: 4bdf04eaca11a1065a4146fc3269ee4a8a7a6828
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/27/2021
-ms.locfileid: "129073824"
+ms.lasthandoff: 09/28/2021
+ms.locfileid: "129157044"
 ---
 # <a name="create-and-manage-incentives-payout-and-tax-profiles-in-partner-center"></a>Criar e gerir incentivos no pagamento e perfis fiscais no Partner Center
 
@@ -89,7 +89,7 @@ As secções abaixo irão acompanhá-lo através do processo de criação e gest
 
       Nos países que exigem explicitamente aos parceiros o pedido de aplicação de uma isenção fiscal, haverá a opção de aplicar a isenção fiscal junto ao perfil fiscal na secção de perfil fiscal do programa de incentivos e localização MPN. A verificação desta caixa aplicará benefícios de isenção fiscal à sua nota de crédito de incentivo. 
 
-      Atualmente, o método de pagamento LRD Credit Note está disponível apenas para parceiros austrália, Nova Zelândia e Canadá para o programa de incentivo ao comércio microsoft. Se você é um parceiro de conta direta ou fornecedor indireto nestes três países inscritos para o programa MCI e você não vê a nota de crédito LRD como o método de pagamento disponível, então confirme que o seu ID do inquilino está associado com a conta de localização MPN do parceiro relevante. Para mais informações sobre isto, leia [como atualizar o seu perfil de organização.](update-your-partner-profile.md)
+      Atualmente, o método de pagamento da Nota de Crédito LRD está disponível apenas para a Austrália, Nova Zelândia, Canadá, Áustria, Bélgica, Dinamarca, Finlândia, França, Alemanha, Países Baixos, Noruega, Suécia, Suíça e Reino Unido para o programa de incentivo ao comércio da Microsoft. Se você é um parceiro de conta direta ou fornecedor indireto nestes países inscrito para o programa MCI ou o programa campanhas e você não vê a nota de crédito LRD como o método de pagamento disponível, então confirme que o seu ID do inquilino está associado com a conta de localização MPN do parceiro relevante. Para mais informações sobre isto, leia [como atualizar o seu perfil de organização.](update-your-partner-profile.md)
 
 5. Selecione a **Moeda**.
 

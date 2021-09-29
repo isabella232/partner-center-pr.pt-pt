@@ -517,7 +517,7 @@
           href: incentives-enroll.md
         - name: Verificar elegibilidade do programa
           href: incentives-determined-your-program-eligibility.md
-        - name: Compreender perfis de dividendos e impostos
+        - name: Compreender o pagamento de incentivos e perfis fiscais
           href: incentives-create-and-manage-your-payout-and-tax-profiles.md
         - name: Verificar elegibilidade para ganhos
           href: incentives-confirm-your-earnings-eligibility.md
@@ -607,7 +607,7 @@
       href: payout-policy-details.md
     - name: Declaração de dividendos
       href: payout-statement.md
-    - name: Configurar a conta de dividendos e os formulários fiscais
+    - name: Configurar o pagamento do mercado comercial e os perfis fiscais
       href: set-up-your-payout-account.md
     - name: Informações fiscais para publicadores do marketplace comercial
       href: tax-details-marketplace.md

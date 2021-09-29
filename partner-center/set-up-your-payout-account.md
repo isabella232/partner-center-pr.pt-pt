@@ -1,5 +1,5 @@
 ---
-title: Configurar conta de pagamento & formulários fiscais - Microsoft commercial marketplace
+title: Configurar o pagamento do mercado comercial e os perfis fiscais
 description: Para receber dinheiro das vendas de ofertas no mercado comercial, aprenda a configurar a sua conta de pagamento e preencha os formulários fiscais necessários.
 ms.topic: conceptual
 ms.service: partner-dashboard
@@ -7,14 +7,14 @@ ms.subservice: partnercenter-payouts
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 09/27/2021
-ms.openlocfilehash: e2647e035f8939f5ed8700c83aaed6641084f277
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: f53a066b2a625e6d96d720a13771e4461798fdf3
+ms.sourcegitcommit: 4bdf04eaca11a1065a4146fc3269ee4a8a7a6828
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/27/2021
-ms.locfileid: "129071065"
+ms.lasthandoff: 09/28/2021
+ms.locfileid: "129156925"
 ---
-# <a name="set-up-your-payout-account-and-tax-forms"></a>Configurar a conta de dividendos e os formulários fiscais
+# <a name="set-up-commercial-marketplace-payout-and-tax-profiles"></a>Configurar o pagamento do mercado comercial e os perfis fiscais
 
 **Funções adequadas**: Administração de contas | Administrador global
 
