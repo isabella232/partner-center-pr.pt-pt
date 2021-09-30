@@ -9,12 +9,12 @@ ms.localizationpriority: high
 author: vinayks
 ms.author: vinayks
 ms.date: 09/27/2021
-ms.openlocfilehash: ed1fa0ffda69264353efc4283f3c4c07999c3294
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 20b6eed7e4f0b561dbc3a1c9ef6aa4cbc9b1d5b7
+ms.sourcegitcommit: a59e1abb470f4847e8f8337ffa4ba705514a0424
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/27/2021
-ms.locfileid: "129073764"
+ms.lasthandoff: 09/29/2021
+ms.locfileid: "129249582"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Saiba como associar-se a fornecedores indiretos no programa Fornecedor de Soluções em Nuvem
 
@@ -87,8 +87,6 @@ A partir de outubro de 2020, todos os parceiros da Microsoft novos no CSP, vão 
    > Para ajudar a garantir a segurança e privacidade da sua empresa, enviaremos um e-mail para o seu contacto principal para verificar se (1) ele ou ela se inscreveu para uma conta partner Center, e (2) que este endereço de e-mail pertence à sua empresa. Após o contacto principal verificar o seu endereço de e-mail, continuaremos a nossa revisão da informação que forneceu. Enviaremos por e-mail atualizações do estado de inscrição para o contacto primário.
 
 6. Depois de a Microsoft concluir a verificação de inscrição que demora 3 a 5 dias úteis, assine o Acordo de Parceiro da Microsoft no [painel de instrumentos](https://partner.microsoft.com/pcv/dashboard/overview) do Partner Center utilizando credenciais de administração global. Para visualizar e descarregar o **Microsoft Partner Agreement** antes de o assinar, clique no link Microsoft Partner Agreement, conforme mostrado abaixo.  Se a sua conta estiver presa na verificação após 5 dias úteis, leia [o processo de verificação da conta](verification-responses.md).
-
-   :::image type="content" source="images/agreement-three.png" alt-text="Nova localização do acordo mpa.":::
 
 7. Confirme que assinou o Acordo de Parceiro da Microsoft na secção **de Informação** de Programa do perfil de Parceiro. Além disso, verá uma notificação de banner de confirmação na página de Visão Geral da CSP.
 

@@ -5,14 +5,13 @@ ms.service: marketplace-customer
 ms.topic: how-to
 author: Guyshu
 ms.author: gushuchm
-ms.date: 06/08/2021
-robots: noindex
-ms.openlocfilehash: a392859c1106c747e0e7c696927ef3b25262e411
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.date: 09/27/2021
+ms.openlocfilehash: 5d241997082f112663fafb1b1ccdb13adde29a71
+ms.sourcegitcommit: a59e1abb470f4847e8f8337ffa4ba705514a0424
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126246719"
+ms.lasthandoff: 09/29/2021
+ms.locfileid: "129249674"
 ---
 # <a name="private-plans-in-microsoft-appsource"></a>Planos privados no Microsoft AppSource
 
@@ -31,7 +30,7 @@ Para que um plano privado esteja disponível para si no AppSource, tem de contac
 
 ## <a name="find-a-private-plan-in-appsource"></a>Encontre um plano privado no AppSource
 
-Pode demorar até 48 horas após o ISV publicar o novo plano privado antes de o ver no AppSource. Para encontrar planos privados associados ao seu ID do inquilino, selecione **Planos Privados** (ícone de bloqueio) no canto superior direito do AppSource.
+Pode demorar até 48 horas após o ISV publicar o novo plano privado antes de o ver no AppSource. Para encontrar planos privados associados ao seu ID do seu inquilino, selecione **planos privados** (ícone de bloqueio) no canto superior direito do AppSource.
 
 :::image type="content" source="media/private-offers/lock-icon.png" alt-text="Mostra o ícone de bloqueio (cadeado) na barra de ferramentas superior.":::
 
@@ -49,7 +48,7 @@ Os planos privados disponíveis exibem-se no **separador Planos + preços.** Os 
 
 :::image type="content" source="media/private-offers/private-plans-badge.png" alt-text="Mostra o crachá de oferta privada azul ao lado de ofertas privadas.":::
 
-Para adquirir um plano selecionado, selecione **Get it now** e siga os passos fornecidos.
+Para adquirir um plano selecionado, selecione **Get-lo agora** e siga os passos fornecidos.
 
 ## <a name="next-steps"></a>Passos seguintes
 

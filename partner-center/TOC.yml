@@ -523,6 +523,14 @@
           href: incentives-confirm-your-earnings-eligibility.md
         - name: Ver programas e pagamentos
           href: understand-incentive-payouts.md
+    - name: Compromissos mcI
+      items:
+        - name: Visão geral e elegibilidade dos compromissos do MCI
+          href: mci-engagements.md
+        - name: Página de clientes para compromissos com MCI
+          href: mci-engagements-customers.md
+        - name: Submeta uma reclamação do workshop de compromissos do MCI
+          href: mci-engagements-workshop.md
     - name: Planos e provas de execução
       items:
         - name: Entender planos e PoE
@@ -537,6 +545,10 @@
           href: claims-overview.md
         - name: Ver fundos de co-op disponíveis
           href: incentives-view-funds.md
+          displayName: incentives
+        - name: Limiar de ganhos cooperativos
+          href: claims-threshold.md
+          displayName: incentives
         - name: Gerir queixas de co-op
           href: create-incentives-claims.md
         - name: Ver requisitos principais

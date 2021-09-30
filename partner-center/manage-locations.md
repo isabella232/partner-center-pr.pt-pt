@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b994d4dc483e030586ea615b5835afbc7555cabe
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 853d06204b3d91f1e311c8af09163b5640b0cd03
+ms.sourcegitcommit: a59e1abb470f4847e8f8337ffa4ba705514a0424
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/27/2021
-ms.locfileid: "129075862"
+ms.lasthandoff: 09/29/2021
+ms.locfileid: "129249259"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-delete-a-location"></a>Gerencie as localizações da sua conta MPN e adicione (excluir) uma localização
 
@@ -54,9 +54,8 @@ Para adicionar uma nova conta de negócios da CSP, comece por garantir que cumpr
 
 3. No **separador Parceiro,** verifique se não existe uma mensagem de erro de banner a pedir-lhe para corrigir locais migrados a partir de PMC.  Se as suas localizações não foram configuradas corretamente em PMC, e ainda não transitaram para PC, precisa de atualizar essas localizações.
 
-:::image type="content" source="images/locations/location-two.png" alt-text="O Screencap mostra como atualizar a localização.":::
-
 4. No ecrã de **localizações do PMC de revisão,** selecione **Update**.
+
 Atualizar os seguintes campos:
 
 - **Campo de nomes**: Certifique-se de que o nome da localização da empresa está correto. Se for apresentado um erro duplicado, tente mudar de, por exemplo, Contoso para Contoso, Inc.

@@ -8,12 +8,12 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 90e074bc2b6d1485cdd868fdf66b4f509ca4d5a4
-ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
+ms.openlocfilehash: cc5cd9192f8712f94e70b9881903f8bb43581a70
+ms.sourcegitcommit: a59e1abb470f4847e8f8337ffa4ba705514a0424
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/27/2021
-ms.locfileid: "129090138"
+ms.lasthandoff: 09/29/2021
+ms.locfileid: "129249599"
 ---
 # <a name="view-available-earned-claimed-and-remaining-co-op-funds"></a>Ver disponíveis ganhos, reclamados e restantes fundos de cooperação
 
@@ -70,7 +70,7 @@ Os ganhos de cooperação para o período de ganhos em curso só são visíveis 
 3. Selecione **Baixar** para descarregar estes dados.
 
 ### <a name="co-op-threshold"></a>Limiar de cooperação
-Se os ganhos de cooperativa de um parceiro estiverem abaixo do valor limiar num período de ganhos cooperativos, não se qualificarão para utilizar fundos e receberão os ganhos cooperativos como desconto no final do semestre. Consulte o guia do programa para obter o valor limiar. 
+Se os ganhos de cooperativa de um parceiro estiverem abaixo do valor limiar num período de ganhos cooperativos, não se qualificarão para utilizar fundos e receberão os ganhos cooperativos como desconto no final do semestre. Consulte o [limiar de cooperação](claims-threshold.md) para os valores limiares baseados no programa. 
 
 Se ainda tiver problemas em conciliar os montantes, ou se alguns fundos cooperativos não estiverem visíveis, pode abrir um bilhete de apoio. Para isso, selecione o ícone de ponto de interrogação do canto superior direito da página e, em seguida, selecione **Incentivos**.
 

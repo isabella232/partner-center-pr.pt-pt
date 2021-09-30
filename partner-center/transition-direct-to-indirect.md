@@ -9,12 +9,12 @@ author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7de99f6471e6d7d96df311584592ed5b12223a8c
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 872a6127e7fe350291b937c916c746406f96eac6
+ms.sourcegitcommit: a59e1abb470f4847e8f8337ffa4ba705514a0424
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/27/2021
-ms.locfileid: "129073728"
+ms.lasthandoff: 09/29/2021
+ms.locfileid: "129249494"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Transição do parceiro de faturação direta do Fornecedor de Soluções Cloud para o revendedor indireto do CSP
 
@@ -28,15 +28,13 @@ Poderá inscrever-se no programa de revenda indireto utilizando o seu inquilino 
 
 ## <a name="get-started"></a>Introdução
 
-1. Certifique-se de que o perfil do seu parceiro no Partner Center e na Microsoft Partner Network (MPN) Estão em vigor.
+1. Certifique-se de que os perfis do seu parceiro no Partner Center e no Microsoft Partner Network (MPN) estão em vigor.
 
-2. Inscreva-se no Partner Center como administrador global para o inquilino de conta direta que está a transitar para o revendedor indireto.
-
-   :::image type="content" source="images/direct/direct1.png" alt-text="Visão geral.":::
+2. Inscreva-se no [painel de instrumentos](https://partner.microsoft.com/dashboard) do Partner Center como administrador global para o inquilino de fatura direta que está a transitar para o revendedor indireto.
 
 3. Reveja os detalhes do seu parceiro no formulário de inscrição.
 
-   :::image type="content" source="images/direct/direct2a.png" alt-text="Inscreva-se agora.":::
+   :::image type="content" source="images/direct/direct2a.png" alt-text="Screenshot mostrando o botão de inscrição.":::
 
 4. Selecione **Matricular-se agora**. O seu negócio de revendedor indireto utilizará o mesmo inquilino Microsoft Azure Ative Directory (Azure AD) que utiliza para o seu negócio direto.
 
@@ -51,8 +49,6 @@ Poderá inscrever-se no programa de revenda indireto utilizando o seu inquilino 
 6. Na sua página **de visão geral,** verá o acordo de revendedor indireto. Selecione **Aceitar e continuar**. Esta ação permite que as capacidades de revendedor indireto.
 
 Quando aceitar o acordo de revenda indireto, note que o seu perfil partner o identifica **como** uma fatura direta e um revendedor indireto.
-
-:::image type="content" source="images/direct/direct3.png" alt-text="Acordo de revendedor indireto.":::
 
 > [!IMPORTANT]
 > Uma vez que você se inscreva como um revendedor indireto usando a nova capacidade, não há opção para reverter para um inquilino direto apenas. Por favor, certifique-se de que avalia totalmente as necessidades do seu negócio antes de se inscrever como revendedor indireto.
@@ -270,8 +266,6 @@ Para criar um pedido de transferência como parceiro de transição:
 
 6. Sob **Transferência de Subscrição**, selecione **Transferência de subscrição de pedido.**
 
-    :::image type="content" source="images/direct/direct8.png" alt-text="Solicite transferência de assinatura.":::
-
 7. No diálogo de pedido de transferência, selecione uma ou mais subscrições a serem transferidas.
 
     :::image type="content" source="images/direct/direct9.png" alt-text="Criar pedido de transferência.":::
@@ -279,8 +273,6 @@ Para criar um pedido de transferência como parceiro de transição:
 8. Selecione **Criar**.
 
 9. Um pedido de transferência de assinatura ativo será apresentado no âmbito **da Transferência de Assinatura.**
-
-    :::image type="content" source="images/direct/direct10.png" alt-text="Lista de pedidos de transferência.":::
 
 10. Informe o seu fornecedor indireto de que criou um pedido de transferência de subscrição para eles.
 
@@ -298,13 +290,9 @@ Rever e aceitar um pedido de transferência como fornecedor indireto:
 
 5. Na página **subscrições,** procure **a Transferência de Assinaturas.**
 
-    :::image type="content" source="images/direct/direct11.png" alt-text="Ver pedido de transferência.":::
-
 6. No âmbito **da Transferência de Assinaturas,** selecione o pedido de transferência para rever.
 
-7. Selecione **Aceitar** (ou **Rejeitar)** conforme apropriado.
-
-    :::image type="content" source="images/direct/direct12.png" alt-text="Aceite o pedido de transferência.":::
+7. Selecione **Aceitar** ou **Rejeitar** conforme apropriado.
 
 8. Aguarde que o pedido de transferência esteja concluído.
 
@@ -330,9 +318,9 @@ O parceiro de transição deve fazer o seguinte:
 
 6. Verifique se as subscrições deixaram de aparecer como ativas na página **de Subscrições:**
 
-   1. Se se trata de uma subscrição do Azure (MS-AZR-0145P), deixará de ser listada.
+   - Se se trata de uma subscrição do Azure (MS-AZR-0145P), deixará de ser listada.
 
-   2. Se se trata de uma subscrição baseada em licenças (Office 365, Dynamics, Intune), será listada com o estado como **Suspenso**.
+   - Se se trata de uma subscrição baseada em licenças (Office 365, Dynamics, Intune), será listada com o estado como **Suspenso**.
 
    :::image type="content" source="images/direct/direct13.png" alt-text="Assinatura suspensa.":::
 

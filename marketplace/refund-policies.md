@@ -5,13 +5,13 @@ ms.service: marketplace-customer
 ms.topic: article
 author: jeweber
 ms.author: jeweber
-ms.date: 09/21/2021
-ms.openlocfilehash: 6c4034a98ce78824b495e92abdc3d5129032c9b4
-ms.sourcegitcommit: fceaca54b0ec695cf214209c09b4516e1b40866a
+ms.date: 06/02/2021
+ms.openlocfilehash: 2d88337c5789d3f092c504e83e1d4c913d1b3f8c
+ms.sourcegitcommit: a59e1abb470f4847e8f8337ffa4ba705514a0424
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/23/2021
-ms.locfileid: "128322072"
+ms.lasthandoff: 09/29/2021
+ms.locfileid: "129249616"
 ---
 # <a name="refund-policies-for-microsoft-appsource-and-azure-marketplace"></a>Políticas de reembolso para Microsoft AppSource e Azure Marketplace
 
@@ -21,7 +21,7 @@ As compras no Microsoft AppSource ou no Azure Marketplace podem ser elegíveis p
 
 Para planos mensais, você pode ser reembolsado por completo se você cancelar a sua subscrição no prazo de um dia a partir da compra. Para os planos anuais, você pode ser reembolsado por completo se você cancelar a sua subscrição no prazo de 14 dias a partir da compra. Os reembolsos não estão disponíveis para as subscrições canceladas após os períodos de tempo acima.
 
-Os reembolsos não são emitidos para a faturação medido. A faturação medido é usada para encargos variáveis, como quando um SaaS oferece taxas com base no número de e-mails enviados a partir de uma plataforma de e-mail.
+Os reembolsos não são emitidos para taxas variáveis. Por exemplo, se um SaaS oferecer contas com base no número de e-mails enviados a partir de uma plataforma de e-mail.
 
 ## <a name="office-add-ins"></a>Suplementos do Office
 

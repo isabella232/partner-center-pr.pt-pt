@@ -1,7 +1,7 @@
 ---
 title: Novas promoções de comércio
 ms.topic: article
-ms.date: 09/28/2021
+ms.date: 09/29/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-pricing
 description: Conheça novas experiências de comércio para descobrir e comprar promoções.
@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 723e56fc73a83abfb8f2c65ca529bdecab832c9c
-ms.sourcegitcommit: 1e616b52d55eff41d67a081ba3f4a8370a49e027
+ms.openlocfilehash: 45411827f200f205dc20b9a9c2d60519d4aba4eb
+ms.sourcegitcommit: a59e1abb470f4847e8f8337ffa4ba705514a0424
 ms.translationtype: MT
 ms.contentlocale: pt-PT
 ms.lasthandoff: 09/29/2021
-ms.locfileid: "129191413"
+ms.locfileid: "129249315"
 ---
 # <a name="introduction-new-commerce-promotions"></a>Introdução: Novas promoções de comércio
 
@@ -56,7 +56,7 @@ Os parceiros podem ligar para verificar a elegibilidade e obter resultados de vo
 Tópicos importantes para novas promoções de comércio APIs:
 
 - [ObterPromoções API](/partner-center/develop/get-promotions)
-- [Obter API DePromotionsById](/partner-centerpartner-center/develop/get-promotion-by-id)
+- [Obter API DePromotionsById](/partner-center/develop/get-promotion-by-id)
 - [Verificar Identidades](/partner-center/develop/verify-promotion-eligibility)
 - [Recursos de promoção](/partner-center/develop/promotion-resources)
 
@@ -68,6 +68,8 @@ Existem três razões para um cliente não ser elegível para uma promoção. Es
 ### <a name="seat-count"></a>Contagem de assentos ###
 
 Muitas promoções têm um lugar máximo declarado de 2400 lugares. Nestes casos, uma transação que inclua mais de 2400 será submetida a preços de não promoção. Estas contagens de assentos também são aplicadas ao adicionar lugares a uma subscrição de promoção com estes limites. Os parceiros terão um erro se tentarem aumentar uma subscrição ativada por promoção para além dos limites. Os limites de lugares das promoções são aplicados entre parceiros, pelo que se um parceiro comprar uma promoção de 2300 lugares com um limite de contagem de assentos de promoção, um segundo parceiro que compre 200 lugares obteria o preço de subscrição pelo preço de não promoção. A promoção é elegível a nível de sku de produto que o parceiro está a transacionar, para que um parceiro possa obter preços promocionais para 2400 lugares de Microsoft 365 E3 e também para um produto diferente SKU Microsoft 365 E5. Os parceiros podem ligar para a [API subscrita](/partner-center/develop/get-a-list-of-available-licenses) para ver quantas licenças um cliente tem para um determinado SKU provisionado.
+
+Se um parceiro quer mais licenças do que os 2400 lugares e quer a promoção, o parceiro pode simplesmente comprar uma subscrição até ao limite de 2400 ao preço de promoção e uma segunda subscrição ao preço de não promoção.
 
 ### <a name="term"></a>Termo ###
 
@@ -86,3 +88,6 @@ Os parceiros que atualizam de uma subscrição para outro SKU deixarão o preço
 
 ## <a name="promotions-and-migrations"></a>Promoções e migrações ##
 Os parceiros podem migrar as subscrições dos seus clientes do Microsoft 365/Dynamics 365 para novas versões de comércio das suas subscrições. As migrações estão disponíveis tanto a partir da interface de utilizador do Partner Center como da chamada apis de migração. Os parceiros que a migração de uma subscrição tradicional para o novo comércio receberão a promoção quando migrarem, desde que o produto se movam para alinhar com a definição de promoção. Os parceiros devem ligar para a API de elegibilidade para garantir que o produto-alvo SKU aplicará o preço de promoção antes da migração.
+
+## <a name="cross-channel-considerations"></a>Considerações transversais ##
+Fornecedor de Soluções em Nuvem limites de promoção (CSP) e restrições não são aplicadas em todos os canais, como o acordo de empresa (EA). Um parceiro CSP pode adquirir uma promoção com uma restrição de 2.400 promoções mesmo quando o cliente pode ter 3.000 lugares da EA.  

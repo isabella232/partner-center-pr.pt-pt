@@ -10,17 +10,45 @@ ms.custom:
 - announcement
 - references_regions
 ms.localizationpriority: high
-ms.date: 09/27/2021
-ms.openlocfilehash: 381e7e1d7f0f98b0bdfa0389ffaf65d7e1f75e89
-ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
+ms.date: 09/29/2021
+ms.openlocfilehash: b19778ba70617a49e9da33fad249e9392e9f7d5b
+ms.sourcegitcommit: a59e1abb470f4847e8f8337ffa4ba705514a0424
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/27/2021
-ms.locfileid: "129089189"
+ms.lasthandoff: 09/29/2021
+ms.locfileid: "129249354"
 ---
 # <a name="september-2021-announcements"></a>Anúncios de setembro de 2021
 
 Esta página fornece os anúncios para o Microsoft Partner Center para setembro de 2021.
+
+ _______________
+## <a name="view-the-latest-promotions-and-offers"></a><a name="16"></a>Ver as mais recentes promoções e ofertas
+
+### <a name="categories"></a>Categorias
+
+- Data: 2021-09-29
+- Ofertas/Mercados
+
+### <a name="impacted-audience"></a>Audiência impactada
+
+Parceiros transagindo através do programa Fornecedor de Soluções em Nuvem
+
+### <a name="summary"></a>Resumo
+
+O mais recente Guia Global de Prontidão Promocional já foi publicado.
+
+### <a name="details"></a>Detalhes
+
+O mais recente Guia Global de Prontidão Promocional, uma visão consolidada de todas as promoções atuais e futuras, está agora disponível na galeria de recursos de Prontidão de Operações. Consulte promoções e ofertas ativas e próximas [aqui.](https://partner.microsoft.com/resources/collection/global-promo-readiness-guide-collection#/)
+
+### <a name="next-steps"></a>Passos seguintes
+
+Consulte o último Guia Promocional mensal na galeria de recursos de preparação de operações. Partilhe esta informação com os contactos apropriados na sua organização, e informe-nos se o guia é útil respondendo ao "Foi útil esta página?" pergunta na parte inferior da página.
+
+### <a name="questions"></a>Perguntas?
+
+Para questões sobre estas ofertas, consulte as suas comunidades Yammer relevantes.
 
 ________________
 ## <a name="the-redesigned-partner-center-experience-is-here"></a><a name="15"></a>A experiência redesenhada do Partner Center está aqui
