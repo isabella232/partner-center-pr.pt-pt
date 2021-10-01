@@ -8,12 +8,12 @@ ms.subservice: partnercenter-incentives
 ms.topic: how-to
 ms.date: 09/29/2021
 ms.custom: template-how-to
-ms.openlocfilehash: 4d4d3de7bc53440765538654f8e82c3c048f5922
-ms.sourcegitcommit: a59e1abb470f4847e8f8337ffa4ba705514a0424
+ms.openlocfilehash: bfa3185213abe5e166c3049602d3ca2dc16be70c
+ms.sourcegitcommit: 6d29e7e6d700ee5638ba10ee12f75e37f993dae9
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/29/2021
-ms.locfileid: "129293466"
+ms.lasthandoff: 10/01/2021
+ms.locfileid: "129365152"
 ---
 # <a name="customers-page-for-mci-engagements"></a>Página de clientes para compromissos com MCI
 
@@ -22,7 +22,7 @@ ms.locfileid: "129293466"
 >[!NOTE]
 >Isto aplica-se apenas para construir compromissos de intenção, isto é, workshops. 
 
-A página **clientes** classifica os clientes por elegíveis, não elegíveis e completados para cada noivado. A página está pré-exopultada com todos os clientes que forneceram consentimento para qualquer workshop no Partner Center. 
+A página **clientes** classifica os clientes por elegíveis, não elegíveis e completas para cada compromisso. A página está pré-exopultada com todos os clientes que forneceram consentimento para qualquer workshop no Partner Center. 
 
 :::image type="content" source="images/incentives/customers-page.png" alt-text="Screenshot da página de Clientes." lightbox="images/incentives/customers-page.png":::
 
@@ -32,7 +32,7 @@ A página **clientes** classifica os clientes por elegíveis, não elegíveis e 
    - O cliente não cumpre os critérios de elegibilidade para o noivado, 
    - O cliente deu consentimento a outro parceiro, ou 
    - O cliente já participou no workshop com outro parceiro. 
-- O separador **Completed** mostra todos os clientes para os quais completou este workshop. Pode ver os detalhes da sua reclamação com este cliente selecionando a **reclamação do workshop 'Ver'** sob a coluna **Ação.**
+- O separador **Complete** mostra todos os clientes para os quais completou este workshop. Pode ver os detalhes da sua reclamação com este cliente selecionando a **reclamação do workshop 'Ver'** sob a coluna **Ação.**
 
 Para qualquer compromisso, é-lhe exigido que adicione um cliente ou reclame um cliente (não ambos).
 
@@ -88,12 +88,12 @@ Depois de ter adicionado ou reclamado um cliente, verá quantos dias lhe restam 
 Assim que o cliente der o seu consentimento, terá 90 dias para realizar o workshop.
 
 ## <a name="next-steps"></a>Passos seguintes
-[Apresentar uma reclamação de workshop](/mci-engagements-workshop)
+[Apresentar uma reclamação de workshop](/partner-center/mci-engagements-workshop)
 
-[Visão geral e elegibilidade dos compromissos do MCI](/mci-engagements)
+[Visão geral e elegibilidade dos compromissos do MCI](/partner-center/mci-engagements)
 
-[Use estes recursos para ajudá-lo a começar com incentivos](/incentives-get-started-intro)
+[Use estes recursos para ajudá-lo a começar com incentivos](/partner-center/incentives-get-started-intro)
 
-[Determine a elegibilidade do seu programa de incentivos](/incentives-determined-your-program-eligibility)
+[Determine a elegibilidade do seu programa de incentivos](/partner-center/incentives-determined-your-program-eligibility)
 
-[Inscrição e gestão de utilizadores no programa de incentivos](/incentives-enroll)
+[Inscrição e gestão de utilizadores no programa de incentivos](/partner-center/incentives-enroll)

@@ -8,12 +8,12 @@ ms.subservice: partnercenter-incentives
 ms.topic: how-to
 ms.date: 09/29/2021
 ms.custom: template-how-to
-ms.openlocfilehash: ef8463a626e2a7d562f83d58fb4c46ba1626d421
-ms.sourcegitcommit: a59e1abb470f4847e8f8337ffa4ba705514a0424
+ms.openlocfilehash: 49799e85d3894fd1fd069853ee1dd5595bd7a3e5
+ms.sourcegitcommit: 6d29e7e6d700ee5638ba10ee12f75e37f993dae9
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/29/2021
-ms.locfileid: "129293433"
+ms.lasthandoff: 10/01/2021
+ms.locfileid: "129365135"
 ---
 # <a name="submit-an-mci-engagements-workshop-claim"></a>Submeta uma reclamação do workshop de compromissos do MCI 
 
@@ -48,12 +48,12 @@ Uma vez concluído o workshop, deverá submeter um pedido de workshop para receb
    - Assim que a sua reclamação for aprovada, receberá o pagamento de acordo com o ciclo de pagamento do programa MCI.
   
  ## <a name="next-steps"></a>Passos seguintes
-[Visão geral e elegibilidade dos compromissos do MCI](/mci-engagements)
+[Visão geral e elegibilidade dos compromissos do MCI](/partner-center/mci-engagements)
 
-[Página de clientes de compromissos MCI](/mci-engagements-customers)
+[Página de clientes de compromissos MCI](/partner-center/mci-engagements-customers)
 
-[Use estes recursos para ajudá-lo a começar com incentivos](/incentives-get-started-intro)
+[Use estes recursos para ajudá-lo a começar com incentivos](/partner-center/incentives-get-started-intro)
 
-[Determine a elegibilidade do seu programa de incentivos](/incentives-determined-your-program-eligibility)
+[Determine a elegibilidade do seu programa de incentivos](/partner-center/incentives-determined-your-program-eligibility)
 
-[Inscrição e gestão de utilizadores no programa de incentivos](/incentives-enroll)
+[Inscrição e gestão de utilizadores no programa de incentivos](/partner-center/incentives-enroll)

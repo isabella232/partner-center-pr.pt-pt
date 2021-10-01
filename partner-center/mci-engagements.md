@@ -8,18 +8,18 @@ ms.subservice: partnercenter-incentives
 ms.topic: how-to
 ms.date: 09/29/2021
 ms.custom: template-how-to
-ms.openlocfilehash: fb90ede68fa44ac30836f1cf7e95c8dc418bbf39
-ms.sourcegitcommit: a59e1abb470f4847e8f8337ffa4ba705514a0424
+ms.openlocfilehash: 3bdfc02ed17ad2046a0622b536e3e98d7ee5d70b
+ms.sourcegitcommit: 6d29e7e6d700ee5638ba10ee12f75e37f993dae9
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/29/2021
-ms.locfileid: "129293432"
+ms.lasthandoff: 10/01/2021
+ms.locfileid: "129365119"
 ---
 # <a name="mci-engagements-overview-and-eligibility"></a>Visão geral e elegibilidade dos compromissos do MCI
 
 **Funções adequadas**: Incentivos administrativos | Utilizador de incentivos
 
-Este artigo explica como pode utilizar a secção **Engagements** no âmbito do programa Microsoft Commerce Incentive (MCI) para gerir os seus clientes para cada noivado, verificar o seu estado de elegibilidade, configurar workshops e apresentar um pedido de pagamento para esses workshops.
+Este artigo explica como pode utilizar a secção **Engagements** no âmbito do programa Microsoft Commerce Incentive (MCI) para gerir os seus clientes para cada noivado e verificar o seu estado de elegibilidade.
 
 ## <a name="access-the-engagements-section"></a>Aceda à secção de Compromissos
 1. Inicie sessão no [dashboard do Centro de Parceiros](https://partner.microsoft.com/dashboard).
@@ -46,12 +46,12 @@ A página **de Elegibilidade** lista todos os locais inscritos no programa MCI, 
 
 
 ## <a name="next-steps"></a>Passos seguintes
-[Página de clientes de compromissos MCI](/mci-engagements-customers)
+[Página de clientes de compromissos MCI](/partner-center/mci-engagements-customers)
 
-[Apresentar uma reclamação de workshop](/mci-engagements-workshop)
+[Apresentar uma reclamação de workshop](/partner-center/mci-engagements-workshop)
 
-[Use estes recursos para ajudá-lo a começar com incentivos](/incentives-get-started-intro)
+[Use estes recursos para ajudá-lo a começar com incentivos](/partner-center/incentives-get-started-intro)
 
-[Determine a elegibilidade do seu programa de incentivos](/incentives-determined-your-program-eligibility)
+[Determine a elegibilidade do seu programa de incentivos](/partner-center/incentives-determined-your-program-eligibility)
 
 [Inscrição e gestão de utilizadores no programa de incentivos](/incentives-enroll)

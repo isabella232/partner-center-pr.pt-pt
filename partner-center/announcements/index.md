@@ -9,19 +9,21 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 09/29/2021
-ms.openlocfilehash: a1d3d2797946522dc5f839642149f70a50ea2738
-ms.sourcegitcommit: a59e1abb470f4847e8f8337ffa4ba705514a0424
+ms.openlocfilehash: cdcf8e00355a7425d3acdb166f0c10c21ca2daa0
+ms.sourcegitcommit: 6d29e7e6d700ee5638ba10ee12f75e37f993dae9
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/29/2021
-ms.locfileid: "129249531"
+ms.lasthandoff: 10/01/2021
+ms.locfileid: "129365099"
 ---
 # <a name="partner-center-announcements"></a>Anúncios do Centro de Parceiros
 
 Saiba mais sobre atualizações importantes do Centro de Parceiros. Estas informações são atualizadas frequentemente, pelo que visite-nos com alguma frequência!
 
-|**Categoria**|**Anúncios de setembro de 2021**|**Anunciado**|
+|**Categoria**|**Anúncios de outubro de 2021**|**Anunciado**|
 |---------|:---------|:---------|
+|Ofertas/Mercados|[Veja os lançamentos e ofertas deste mês](2021-october.md#1)|1 de outubro|
+|**Categoria**|**Anúncios de setembro de 2021**|**Anunciado**|
 |Ofertas/Mercados|[Ver as mais recentes promoções e ofertas](2021-september.md#16)|29 de setembro|
 |Capacidades|[A experiência redesenhada do Partner Center está aqui](2021-september.md#15)|27 de setembro|
 |Capacidades|[Nova experiência de comércio para Fornecedor de Soluções em Nuvem (CSP) oferece recursos de prontidão](2021-september.md#14)|27 de setembro|
