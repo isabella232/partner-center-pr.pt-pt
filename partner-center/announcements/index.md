@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 09/29/2021
-ms.openlocfilehash: cdcf8e00355a7425d3acdb166f0c10c21ca2daa0
-ms.sourcegitcommit: 6d29e7e6d700ee5638ba10ee12f75e37f993dae9
+ms.date: 10/01/2021
+ms.openlocfilehash: d0f9f97bbda7fbeba374471ed1d70b82705b0400
+ms.sourcegitcommit: 8eaef380caa66ae3c8e2674535e06c3676fa35f2
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/01/2021
-ms.locfileid: "129365099"
+ms.lasthandoff: 10/04/2021
+ms.locfileid: "129415762"
 ---
 # <a name="partner-center-announcements"></a>Anúncios do Centro de Parceiros
 
@@ -22,6 +22,7 @@ Saiba mais sobre atualizações importantes do Centro de Parceiros. Estas inform
 
 |**Categoria**|**Anúncios de outubro de 2021**|**Anunciado**|
 |---------|:---------|:---------|
+|Cresça o seu negócio|[Ofertas finais de 90 dias para transacionar no programa Licença Aberta](2021-october.md#2)|4 de outubro|
 |Ofertas/Mercados|[Veja os lançamentos e ofertas deste mês](2021-october.md#1)|1 de outubro|
 |**Categoria**|**Anúncios de setembro de 2021**|**Anunciado**|
 |Ofertas/Mercados|[Ver as mais recentes promoções e ofertas](2021-september.md#16)|29 de setembro|

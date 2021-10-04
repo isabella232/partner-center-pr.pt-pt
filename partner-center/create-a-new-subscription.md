@@ -9,14 +9,14 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.openlocfilehash: e3696ea77d6b073e625e64425cf7764194acfd15
-ms.sourcegitcommit: 1e616b52d55eff41d67a081ba3f4a8370a49e027
+ms.openlocfilehash: 680845d173ad69c46dc78c767fb53476750ad24f
+ms.sourcegitcommit: 8eaef380caa66ae3c8e2674535e06c3676fa35f2
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/29/2021
-ms.locfileid: "129191481"
+ms.lasthandoff: 10/04/2021
+ms.locfileid: "129415557"
 ---
-# <a name="create-suspend-or-cancel-customer-subscriptions"></a>Create, suspend, or cancel customer subscriptions (Criar, suspender ou cancelar subscrições de clientes)
+# <a name="manage-customer-subscriptions"></a>Gerir subscrições de clientes
 
 **Aplica-se a**: Partner Center | Centro de Parceiros para Microsoft Cloud for US Government
 
@@ -194,25 +194,18 @@ Para cancelar uma subscrição SaaS com base numa licença num editor do ISV, fa
 > [!NOTE]
 > Também pode optar por cancelar uma subscrição do Azure Marketplace utilizando APIs. Para tal, consulte [cancelar uma subscrição do Azure Marketplace](/partner-center/develop/cancel-an-azure-marketplace-subscription).
 
-### <a name="cancel-a-new-commerce-subscription"></a>Cancelar uma nova subscrição de comércio
+## <a name="suspend-or-cancel-a-new-commerce-subscription"></a>Suspender ou cancelar uma nova subscrição de comércio
 
-> [!Note] 
-> As novas mudanças de Comércio estão atualmente disponíveis apenas para parceiros que fazem parte da Microsoft 365/Dynamics 365 nova experiência técnica de experiência técnica.
-
-Para novas ofertas de comércio, pode cancelar a subscrição a qualquer momento antes do período de compromisso do termo. Ao cancelar uma subscrição, o cliente perde imediatamente o acesso ao serviço. O acesso não pode ser restaurado após o cancelamento. As seguintes opções de cancelamento estão disponíveis para um parceiro após a compra da subscrição: 
-
-- No prazo de 24 horas após a data de início da subscrição: Pode cancelar a subscrição total nas primeiras 24 horas para reembolso total.  
-- No prazo de 30 dias a contar da data de início da subscrição: Pode cancelar a subscrição total no prazo de 30 dias. Será reembolsado o valor total menos o valor pro-rated para os dias em que utilizou a subscrição.
-- Após 30 dias de data de início da subscrição: Não pode cancelar a subscrição.
-
-### <a name="pause-and-resume-a-new-commerce-subscription"></a>Pausa e retomar uma nova subscrição de comércio
+### <a name="suspend-a-new-commerce-subscription"></a>Suspender uma nova subscrição de comércio
 
 > [!NOTE]
 > As novas mudanças de Comércio estão atualmente disponíveis apenas para parceiros que fazem parte da Microsoft 365/Dynamics 365 nova experiência técnica de experiência técnica.
 
 Em caso de não pagamento por parte do cliente, por vezes referido como o "cenário de dunning", os parceiros podem parar e retomar a sua subscrição para bloquear imediatamente o acesso do cliente aos serviços da subscrição.
 
-A pausa nas subscrições do cliente irá desativar a sua capacidade de iniciar sing e usar os seus serviços até que a sua subscrição seja retomada.
+Os parceiros podem parar e retomar uma subscrição a qualquer momento sem cancelamento. No entanto, a faturação dos parceiros continua durante a suspensão. 
+
+A pausa nas subscrições do cliente irá desativar a sua capacidade de iniciar sing e usar os seus serviços até que a sua subscrição seja retomada. Todos os dados relacionados com a subscrição serão eliminados a menos que a subscrição seja reativada no prazo de 90 dias.
 
 Pode fazer uma pausa numa subscrição utilizando o Partner Center:
 
@@ -224,12 +217,25 @@ Pode fazer uma pausa numa subscrição utilizando o Partner Center:
 
 4. A subscrição estará agora em estado de pausa, e o parceiro continuará a ser cobrado para a subscrição.
 
-A pausa é reversível através da interface de utilizador do Partner Center ou da API,s, que restaurará imediatamente o acesso de um cliente aos serviços de uma subscrição.
+A pausa é reversível através da interface de utilizador do Partner Center ou apIs que restaurarão imediatamente o acesso de um cliente aos serviços de uma subscrição.
 
 > [!IMPORTANT]
 > A pausa de uma subscrição irá desligar quaisquer definições de renovação automática e remover quaisquer alterações programadas existentes. A pausa de uma subscrição só afetará o acesso ao serviço do cliente, e a faturação do parceiro continuará enquanto estiver em estado de pausa.
 
-### <a name="choose-whether-to-automatically-renew-a-commercial-marketplace-subscription-or-a-new-commerce-subscription"></a>Escolha se renova automaticamente uma subscrição de mercado comercial ou uma nova subscrição de comércio
+### <a name="cancel-a-new-commerce-subscription"></a>Cancelar uma nova subscrição de comércio
+
+> [!Note] 
+> As novas mudanças de Comércio estão atualmente disponíveis apenas para parceiros que fazem parte da Microsoft 365/Dynamics 365 nova experiência técnica de experiência técnica.
+
+Para novas ofertas de comércio, os parceiros podem cancelar a sua subscrição com um reembolso prosciente nas primeiras **72 horas** para qualquer prazo **(proção calculada diariamente)**.  
+
+Após 72 horas, o cancelamento já não está disponível, e o parceiro será cobrado durante todo o prazo, mesmo que o cliente deixe de pagar, ou usando a subscrição (aplicável a qualquer plano de faturação).
+
+Quando um cancelamento estiver concluído, o cliente perderá imediatamente o acesso ao serviço e o serviço não poderá ser restaurado. O estado para a assinatura não será recuperável.  
+
+Se as licenças forem adicionadas a médio prazo, a mesma política de 72 horas aplica-se a qualquer redução de licenças adicionais. A redução das licenças adicionais deve ser feita através de **pedidos de apoio.**
+
+## <a name="subscription-renewals"></a>Renovações de assinaturas
 
 > [!NOTE]
 > As novas mudanças de Comércio estão atualmente disponíveis apenas para parceiros que fazem parte da Microsoft 365/Dynamics 365 nova experiência técnica de experiência técnica.
@@ -237,8 +243,6 @@ A pausa é reversível através da interface de utilizador do Partner Center ou 
 Por predefinição, as subscrições ativas estão definidas para se renovarem automaticamente quando o período de subscrição terminar. Para [subscrições de produtos de mercado comercial,](csp-commercial-marketplace-overview.md)ou novas subscrições de comércio, pode optar opcionalmente por não renovar automaticamente a subscrição.
 
 Para impedir que uma subscrição de mercado comercial ativo ou novas subscrições de comércio se renovem automaticamente:
-
-Para impedir que uma subscrição de mercado comercial ativo renove automaticamente:
 
 1. Inscreva-se no painel do Centro [de Parceiros.](https://partner.microsoft.com/dashboard)
 
@@ -259,12 +263,11 @@ Para impedir que uma subscrição de mercado comercial ativo renove automaticame
 
 Algumas alterações às subscrições só podem acontecer no final de um período. Estas alterações podem ser programadas para que sejam convenientemente aplicadas no final do período. Exemplos de alterações que precisam de ser programadas:
 
-- Downgrades SKU
-- Reduções de assentos
-- Alterações em termos diferentes
+- reduções de licenças
+- Alterações ao termo de faturação
 - Alterações na frequência de faturação
 
-Outras alterações, como upgrades ou aumentos de assentos, podem ser aplicadas durante o período.
+Outras alterações, como upgrades ou aumentos de licença, podem ser aplicadas durante o período.
 
 As alterações de horário ocorrerão na renovação quando a subscrição se renovar para a próxima legislatura.
 
@@ -272,7 +275,7 @@ Pré-requisitos para alterações programadas:
 
 - A subscrição está ativa 
 - A renovação automática está a caminho
-- SKU deve ser elegível para upgrade para atualizações programadas
+- SKU deve ser elegível para upgrade
 
 Para agendar uma nova alteração a ocorrer na renovação:
 
@@ -297,27 +300,60 @@ Para agendar uma nova alteração a ocorrer na renovação:
 Os parceiros podem aceder **a Manage Renovações** para visualizar, atualizar ou remover a alteração programada existente.
 
 > [!NOTE]
-> - Os ensaios estão agendados para converter para o SKU pago no final do seu mandato por defeito. 
-> - Para atualizações/downgrades programadas, a reatribuição da licença de utilizador deve ser feita manualmente.
-> - As alterações programadas guardadas são eliminadas se forem efetuadas as seguintes atualizações intercalares para a subscrição.
+> - Por defeito, os Ensaios converter-se-ão para o SKU equivalente pago no final do período experimental.
+> - Para atualizações programadas do SKU, se a quantidade de licença não mudar, a reatribuição da licença de utilizador será automática, caso contrário terá de ser feita manualmente.
+> - As alterações programadas guardadas são eliminadas se forem efetuadas atualizações intercalares à subscrição.
 
-### <a name="partial-upgrades-in-new-commerce-subscriptions"></a>Atualizações parciais em novas subscrições de comércio
+As alterações programadas guardadas são eliminadas quando são efetuadas as seguintes alterações intercalares:  
+
+- A renovação automática é desligada 
+- A quantidade é alterada 
+- A subscrição está cancelada 
+- SKU é atualizado 
+- Julgamento é convertido 
+
+## <a name="upgrades-in-new-commerce-subscriptions"></a>Atualizações em novas subscrições de comércio
+
+Para o novo comércio, a atualização significa passar de uma subscrição paga para outra subscrição paga. As novas atualizações pagas ao comércio permitem ao cliente atualizar imediatamente do seu SKU atual para um com serviços adicionais. 
+
+Os parceiros podem selecionar a subscrição a que pretendem atualizar quando a configuração da licença conta. Os parceiros podem selecionar uma **nova** subscrição ou selecionar uma subscrição **existente** se for elegível para a atualização. 
+
+As atualizações podem ser de dois tipos: **Upgrade completo** e **atualização parcial**.
 
 > [!NOTE]
-> As novas mudanças de Comércio estão atualmente disponíveis apenas para parceiros que fazem parte da Microsoft 365/Dynamics 365 nova experiência técnica de experiência técnica.
+> - As atualizações podem ser programadas para acontecer no final de um período de 20 000 ou podem ser iniciadas a médio prazo.
+> - O início de uma atualização intercalar removerá as atualizações programadas existentes.
+> - As atualizações só podem ser iniciadas a partir de subscrições no estado **Ativo.**
+
+### <a name="full-upgrades"></a>Atualizações completas
+
+Uma atualização completa é uma atualização no local, o que significa que todas ou mais licenças estão a ser atualizadas. Neste caso, o ID de subscrição permanece o mesmo, e as licenças são automaticamente atribuídas. No entanto, no caso de o cliente já ter adquirido o destino SKU a outro parceiro ou canal através do legado, será necessária uma atribuição manual. Se for necessária uma atribuição manual, o parceiro verá uma mensagem de aviso no Centro de Parceiros indicando que as licenças precisam de ser atribuídas manualmente. 
+
+### <a name="partial-upgrades"></a>Atualizações parciais
 
 As atualizações parciais permitem a um parceiro designar algumas licenças de um SKU para outro. A funcionalidade de atualização anterior nas assinaturas tradicionais baseadas em licenças apenas permitiu que todas as licenças fossem atualizadas. O novo comércio permite que um parceiro mova algumas licenças à sua conveniência. Isto dá ao parceiro mais controlo sobre a gestão de upgrades, permitindo-lhes mover alguns utilizadores para um novo SKU sem mover todos.
 
-As atualizações parciais podem ser programadas para acontecer no final de um período ou podem ser iniciadas a médio prazo.
-
 Detalhes parciais da atualização:
 
-- Definida como parcial se a contagem de licença de upgrade for diferente, então a subscrição inicial.
-- O início de uma atualização intercalar removerá as atualizações programadas existentes.
-- As atualizações só podem ser iniciadas a partir de subscrições no estado **Ativo.**
-- Uma nova subscrição criada quando a atualização terá as mesmas datas finais do prazo a partir da subscrição da atualização.
+- Definido como parcial se a contagem de licença de upgrade for inferior à da subscrição inicial.
+- Uma nova subscrição criada quando a atualização parcial terá as mesmas datas finais do prazo a partir da subscrição da atualização originária.
 
-Os parceiros podem aceder à subscrição a que pretendem atualizar quando configurar a contagem de licenças e subscrição para a qual pretendem fazer o upgrade. Os parceiros podem selecionar uma **nova** subscrição ou selecionar uma subscrição existente.
+## <a name="increasing-and-reducing-licenses-in-new-commerce-subscriptions"></a>Aumentar e reduzir licenças em novas assinaturas de comércio
+
+A contagem de licenças numa subscrição pode ser **aumentada** a qualquer momento, com ajustes de faturação refletidos na próxima fatura e ficheiro de reconciliação. 
+
+A contagem de licenças numa subscrição pode ser **diminuída:**
+- apenas nas primeiras 72 horas da altura em que a encomenda de subscrição foi colocada ou renovada pela **primeira vez.** 
+- através do apoio ao cliente dentro de 72 horas, para licenças **adicionadas a meio**
+
+Uma diminuição da contagem de licenças nas primeiras 72 horas de um termo de subscrição (após a compra ou renovação inicial) pode ser feita através de self-service no Partner Center ou através da API.
+
+Uma redução da contagem de licenças para licenças adicionadas a meio do semestre só pode ser feita através do apoio ao cliente, nas primeiras 72 horas.
+
+Em ambos os casos de redução de licença, você será reembolsado o **valor total menos valor pro-rated** para os dias que você   usou a subscrição **(proção calculada diariamente)**. 
+
+Se **decorreram mais de 72 horas** desde que a encomenda de assinatura foi feita ou foram adicionadas licenças adicionais, a contagem de **licenças não pode** ser diminuída até à próxima janela de cancelamento na renovação.
+
 
 ## <a name="next-steps"></a>Passos seguintes
 

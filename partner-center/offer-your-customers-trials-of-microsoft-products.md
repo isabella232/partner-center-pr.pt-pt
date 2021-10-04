@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 48f4c81f217e68836dd755d1d4342d240276ea79
-ms.sourcegitcommit: 1e616b52d55eff41d67a081ba3f4a8370a49e027
+ms.openlocfilehash: f6ac84a832a0c1b0d00d03e10d1bab3f524ed1df
+ms.sourcegitcommit: 8eaef380caa66ae3c8e2674535e06c3676fa35f2
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/29/2021
-ms.locfileid: "129191499"
+ms.lasthandoff: 10/04/2021
+ms.locfileid: "129415745"
 ---
 # <a name="give-customers-free-trials-of-microsoft-products"></a>Dar aos clientes testes gratuitos de produtos da Microsoft
 
@@ -97,9 +97,16 @@ Depois de expirado o julgamento, um cliente que tentar entrar nesse julgamento v
 > [!NOTE]
 > As novas alterações de Comércio estão atualmente disponíveis apenas para parceiros que fazem parte da nova pré-visualização técnica da experiência de comércio M365/D365.
 
-Após 30 dias, o seu teste gratuito irá automaticamente renovar-se numa subscrição paga. Pode converter o seu ensaio antes da renovação automática seguindo os passos abaixo. 
+Após 30 dias, o seu teste gratuito irá renovar-se automaticamente na subscrição paga equivalente. Ao converter de um ensaio para uma nova subscrição paga, no mínimo, todos os 25 lugares precisam de ser convertidos para a nova subscrição paga. Os parceiros podem adicionar mais de 25 lugares na conversão, mas não é permitido reduzir o número de lugares.
 
-Você mesmo pode converter o julgamento numa subscrição paga. Pode fazê-lo utilizando o Centro de Parceiros ou através das APIs do Centro de Parceiros. 
+Os parceiros também podem converter os ensaios para as subscrições pagas existentes. Neste cenário, a subscrição existente deve ser uma subscrição elegível para a conversão experimental. Em caso afirmativo, os lugares de ensaio serão adicionados à subscrição existente e a data de fim permanecerá a mesma para a subscrição paga existente.
+
+> [!NOTE]
+> A data de fim paga da SKU paga deve ocorrer no mesmo dia ou após a data de final do ensaio, a fim de fazer uma conversão do ensaio para uma subscrição paga existente. 
+
+Ao converter um ensaio para uma nova subscrição paga, os parceiros podem optar por converter-se para o mesmo SKU pago ou fazer upgrade para um SKU superior. Se quiser converter o seu teste na subscrição paga antes do final do período experimental, pode fazê-lo através das APIs do Partner Center ou através do próprio Partner Center seguindo os passos abaixo.
+
+
 
 > [!NOTE]
 > Os ensaios gratuitos para o programa Fornecedor de Soluções em Nuvem (CSP) não podem ser convertidos para outro inquilino do programa (como EA, Open ou MOSP).
@@ -116,13 +123,18 @@ Pode converter novos ensaios de comércio em subscrições pagas utilizando o Pa
 3. Escolha o equivalente pago e, em seguida, **selecione Enviar por isso.**
 4. A faturação da subscrição paga começa na data de conversão, e a subscrição renova-se automaticamente doze meses a partir da data de conversão.
 
+As conversões experimentais devem ser geridas pelo parceiro; não existem alertas baseados em subscrições no Partner Center para informar os parceiros quando um julgamento está expirando.
+
+> [!NOTE] 
+> Na conversão para uma nova subscrição, a duração do prazo é de incumprimento de 1 ano e o ciclo de faturação falha num plano mensal. 
+
 ## <a name="billing"></a>Faturação
 
 A faturação anual e os testes gratuitos são os mesmos nas nuvens soberanas e na nuvem pública. A única diferença é o teste SKUs disponível no momento do lançamento.
 
 ## <a name="billing-for-free-trials"></a>Faturação para julgamentos gratuitos
 
-Os ensaios gratuitos podem ser utilizados tanto para subscrições mensais como anuais. Pode selecionar a frequência de faturação quando converter o ensaio numa subscrição paga.
+Os ensaios gratuitos podem ser utilizados tanto para subscrições mensais como anuais. Pode selecionar a frequência de faturação quando converter o ensaio numa subscrição paga. As definições de conversão predefinidos são definidas para um prazo de 1 ano e um ciclo de faturação mensal.
 
 A data de início da subscrição baseia-se na data de conversão. Se o teste gratuito for convertido para uma oferta paga com faturação anual, a data de renovação da subscrição será de 12 meses a contar da data de conversão. Se o teste gratuito for convertido para uma oferta paga com faturação mensal, a data de renovação da subscrição será de doze meses a contar da data de faturação seguinte à data de conversão.
 
