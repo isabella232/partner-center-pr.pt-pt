@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 10/04/2021
-ms.openlocfilehash: 21bfe17c27a96926c1fe3b322d0e121adc6c80e4
-ms.sourcegitcommit: 462d6026287b85c9feea602af5bcdf924f3e6976
+ms.date: 10/05/2021
+ms.openlocfilehash: 06861cf9d39ed4ce033bf341af1fc162dad3dbce
+ms.sourcegitcommit: cf8c78e0c8831371432007d5ab05f934f15a77b5
 ms.translationtype: MT
 ms.contentlocale: pt-PT
 ms.lasthandoff: 10/05/2021
-ms.locfileid: "129452452"
+ms.locfileid: "129525280"
 ---
 # <a name="partner-center-announcements"></a>Anúncios do Centro de Parceiros
 
@@ -22,6 +22,7 @@ Saiba mais sobre atualizações importantes do Centro de Parceiros. Estas inform
 
 |**Categoria**|**Anúncios de outubro de 2021**|**Anunciado**|
 |---------|:---------|:---------|
+|Capacidades|[Em breve: Nova experiência de comércio para assentos CSP oferece lançamento técnico](2021-october.md#4)|5 de outubro|
 |Capacidades|[Atualização de novembro de 2021: Guia de Autorização de Serviços Online e Canal de Software](2021-october.md#3)|4 de outubro|
 |Cresça o seu negócio|[Ofertas finais de 90 dias para transacionar no programa Licença Aberta](2021-october.md#2)|4 de outubro|
 |Ofertas/Mercados|[Veja os lançamentos e ofertas deste mês](2021-october.md#1)|1 de outubro|

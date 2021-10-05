@@ -1,20 +1,20 @@
 ---
 title: Link Microsoft Learn MCP ID para conta Partner Center
 ms.topic: how-to
-ms.date: 09/27/2021
+ms.date: 10/05/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-membership
 description: Saiba como associar o seu ID MCP à sua conta Partner Center para que a sua empresa possa ver os caminhos de treino e aprendizagem que tomou em relação às competências.
-author: kbangalore
-ms.author: kiranban
+author: keramp88
+ms.author: keramp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8d2ffbdebd00ad16ca0fbbed4bba39046703c3ed
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: c39c09a274576b15d006a8b3576501a8b52915cf
+ms.sourcegitcommit: cf8c78e0c8831371432007d5ab05f934f15a77b5
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/27/2021
-ms.locfileid: "129071771"
+ms.lasthandoff: 10/05/2021
+ms.locfileid: "129525297"
 ---
 # <a name="link-or-unlink-a-microsoft-certification-profile-id-mcid-to-a-microsoft-partner-network-mpn-account"></a>Link ou desvincular um ID de perfil de certificação da Microsoft (MCID) a uma conta microsoft partner network (MPN)
 
@@ -41,12 +41,12 @@ Utilize o seguinte procedimento para associar uma conta microsoft Aprendizagem.
 
 1. Inscreva-se no [perfil do Centro de Parceiros.](https://partner.microsoft.com/pc/Users/MyAccount)
 
-2. Percorra o campo de **exames e certificações** da Microsoft e selecione **a conta Desemescoso microsoft Aprendizagem**.
+2. Percorra o campo de **exames e certificações** da Microsoft e selecione **a conta Desemescoso microsoft Aprendizagem**. Certifique-se de que o seu Perfil de Certificação está completo e que o MC ID é gerado para a sua conta. Inicie sessão no seu [Painel de Certificação](https://aka.ms/certdashboard) para encontrar o seu [MC ID](https://docs.microsoft.com/learn/certifications/find-mcid)
 
 3. Quando solicitado, introduza as credenciais que utiliza para iniciar sessão no seu perfil de certificação Microsoft (o seu MCID).
 
 > [!NOTE]
-> Se as credenciais de conta Aprendizagem Microsoft forem as mesmas que as credenciais de conta da Partner University, selecione **Use para associar a minha conta microsoft email@address Aprendizagem**.
+> Se as credenciais de conta Aprendizagem Microsoft forem as mesmas que as credenciais de conta da Partner University, selecione **Use para associar a minha conta microsoft email@address Aprendizagem**. Certifique-se de que o seu Perfil de Certificação está completo e que o MC ID é gerado para a sua conta. Inicie sessão no seu [Painel de Certificação](https://aka.ms/certdashboard) para encontrar o seu [MC ID](https://docs.microsoft.com/learn/certifications/find-mcid)
 
 ## <a name="download-skills-report-microsoft-certification-list"></a>Relatório de competências de descarregamento (lista de certificação da Microsoft)
 Se precisar de detalhes, o relatório de competências pode ser acedido e descarregado por qualquer Administrador Global ou MPN Partner Admin do Partner Center. Para [saber mais.](./mpn-skills-report.md#view-skills-report-data)

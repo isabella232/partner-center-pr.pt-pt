@@ -621,6 +621,10 @@
       href: payout-policy-details.md
     - name: Declaração de dividendos
       href: payout-statement.md
+    - name: Resumo das receitas
+      href: revenue-summary.md
+    - name: Página de dados de exportação de pagamentos
+      href: payouts-enhanced-exports.md
     - name: Configurar o pagamento do mercado comercial e os perfis fiscais
       href: set-up-your-payout-account.md
     - name: Informações fiscais para publicadores do marketplace comercial

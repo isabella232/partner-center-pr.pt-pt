@@ -10,17 +10,51 @@ ms.custom:
 - announcement
 - references_regions
 ms.localizationpriority: high
-ms.date: 10/04/2021
-ms.openlocfilehash: 70c2456d97c5c47d72a1791c9ab44b70a495fca5
-ms.sourcegitcommit: 462d6026287b85c9feea602af5bcdf924f3e6976
+ms.date: 10/05/2021
+ms.openlocfilehash: 3a5f9ee11ffab9869e2641f27594c255e44f4d16
+ms.sourcegitcommit: cf8c78e0c8831371432007d5ab05f934f15a77b5
 ms.translationtype: MT
 ms.contentlocale: pt-PT
 ms.lasthandoff: 10/05/2021
-ms.locfileid: "129452483"
+ms.locfileid: "129525226"
 ---
 # <a name="october-2021-announcements"></a>Anúncios de outubro de 2021
 
 Esta página fornece os anúncios para o Microsoft Partner Center para outubro de 2021.
+
+________________
+## <a name="coming-soon-new-commerce-experience-for-csp-seat-based-offers-technical-release"></a><a name="4"></a>Em breve: Nova experiência de comércio para assentos CSP oferece lançamento técnico
+
+### <a name="categories"></a>Categorias
+
+- Data: 2021-10-05
+- Capacidades
+
+### <a name="impacted-audience"></a>Audiência impactada
+
+Parceiros de conta direta da CSP e fornecedores indiretos e revendedores através dos seus fornecedores indiretos
+
+### <a name="summary"></a>Resumo
+
+No dia 14 de outubro, a Microsoft irá mover as ofertas de serviços online baseados em assentos para o novo ambiente de produção de comércio, permitindo a todos os parceiros do programa CSP transacionar estas ofertas.
+
+### <a name="details"></a>Detalhes
+
+A Microsoft continua a sua jornada de transformação digital na nova experiência de comércio. Anteriormente introduzimos o plano Azure e Instâncias Reservadas, software de servidores e software perpétuo para a nova experiência de comércio no programa Fornecedor de Soluções em Nuvem (CSP), e a próxima paragem nesta viagem é a disponibilidade de ofertas baseadas em assentos, incluindo Microsoft 365, Dynamics 365, Power Platform e Windows 365 no novo comércio experiência.
+
+No dia 14 de outubro, a Microsoft irá mover as ofertas de serviços online baseados em assentos para o novo ambiente de produção de comércio, permitindo a todos os parceiros do programa CSP transacionar estas ofertas. Esta versão técnica, precursora da disponibilidade geral, fornece aos parceiros da CSP novas capacidades de vendas e proporciona eficiências operacionais.
+
+A Microsoft percebe que os parceiros precisam de tempo para implementar estas alterações e garantir uma adoção bem-sucedida. Para acomodar os requisitos para a prontidão operacional e comercial dos parceiros, estamos a adicionar várias semanas para os preparativos dos parceiros para implementar novas ofertas baseadas em assentos de comércio e as novas políticas e capacidades que antecedem o lançamento da disponibilidade geral no início de janeiro de 2022. Continuaremos a trabalhar com os parceiros à medida que testarem e operacionalizarem as mudanças necessárias para a transição do negócio existente para novo comércio, e introduziremos funcionalidades adicionais para o novo comércio para melhorar a experiência do parceiro e do cliente. Pode rever os [ativos de prontidão e formação de parceiros,](./2021-september.md#14) juntamente com [recursos técnicos](../new-commerce-license-based.md) para apoiar a sua transição.
+
+Para coincidir com o lançamento da disponibilidade geral de janeiro, a Microsoft oferecerá duas promoções cronometradas, em ofertas mensais e anuais, entre janeiro e junho de 2022. As promoções aplicar-se-ão a todas as novas ofertas comerciais baseadas em assentos de comércio, com exceção Windows 365, e a subscrições de até 2.400 lugares. Estas promoções sobre novas ofertas de comércio destinam-se a incentivar a migração para a nova experiência comercial. Em breve serão fornecidos mais pormenores sobre estas promoções.
+
+Além de alterações na linha do tempo, todas as outras capacidades, funcionalidades e políticas como parte da versão técnica de outubro permanecem inalteradas.
+
+A Microsoft reconhece como a tecnologia acelerou a mudança para as organizações em todo o mundo. Como resultado, os negócios dos nossos clientes estão sempre a evoluir, e o ecossistema parceiro da Microsoft deve continuar a evoluir com eles para atender eficazmente às suas necessidades. Com estas alterações às ofertas baseadas em assentos em novos comércio, e ao alargar o prazo para a disponibilidade geral, estamos hoje a construir uma fundação em conjunto que proporcionará maiores oportunidades para o futuro.
+
+### <a name="questions"></a>Perguntas?
+
+Para mais perguntas sobre estas ofertas, consulte as suas comunidades Yammer relevantes.
 
 ________________
 ## <a name="november-2021-update-online-services-and-software-channel-authorization-guide"></a><a name="3"></a>Atualização de novembro de 2021: Guia de Autorização de Serviços Online e Canal de Software

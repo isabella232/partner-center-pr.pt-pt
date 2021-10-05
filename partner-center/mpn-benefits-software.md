@@ -9,12 +9,12 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8180f8cae9228f6ed6bb8c1a5953fe1314eb6fc5
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 584f3bad4fa6fcbe661973a344459a6c0a2ec6c3
+ms.sourcegitcommit: cf8c78e0c8831371432007d5ab05f934f15a77b5
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/27/2021
-ms.locfileid: "129073611"
+ms.lasthandoff: 10/05/2021
+ms.locfileid: "129525264"
 ---
 # <a name="mpn-benefits---software"></a>Benefícios MPN - Software
 
@@ -53,6 +53,9 @@ O número de ativações contadas contra uma chave de produto baseia-se em cená
 - **Recebe uma mensagem que afirma que atingiu as ativações disponíveis máximas para uma chave de produto ao tentar ativar o software.**
 
     É-lhe fornecido um número específico de ativações por produto através dos benefícios de adesão mpn. Se tiver cumprido ou excedido o número máximo de ativações, não poderá ativar mais licenças utilizando a chave do produto fornecida.
+
+ > [!Note]
+ > As chaves de licença para Office Professional Plus 2019 obtidas através de licenças IUR no Partner Center não funcionarão quando instaladas no macOS.
 
  ## <a name="next-steps"></a>Passos seguintes
 

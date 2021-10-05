@@ -7,12 +7,12 @@ ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 09/27/2021
-ms.openlocfilehash: 6cc683609181ce58768a266ca6a323bbdd9e3486
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: fbc3b659bbb3dded386dfa970d815b27de48ebd5
+ms.sourcegitcommit: cf8c78e0c8831371432007d5ab05f934f15a77b5
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/27/2021
-ms.locfileid: "129074952"
+ms.lasthandoff: 10/05/2021
+ms.locfileid: "129525321"
 ---
 # <a name="payout-statements"></a>Declaração de dividendos
 
@@ -216,7 +216,7 @@ Para ver mais detalhes sobre um ganho, selecione **Baixar.** A tabela seguinte e
 
 A tabela que se segue lista os códigos de razão para ajustes e as suas descrições.
 
-| Código da razão   | Descrição   |
+| Código da razão   | Description   |
 |------------------|:-------------------------------------|
 | Conformidade AR | Ajuste que reduz os ganhos quando as faturas da Microsoft não são pagas a tempo pelo parceiro. |
 | Capotamento cooperativo | Ajuste que transfere os ganhos cooperativos para outro período, ou converte os ganhos cooperativos em desconto. |
@@ -297,66 +297,10 @@ A tabela seguinte explica os diferentes estados de ganho.
 | pagamentoDate | O pagamento da data foi enviado da Microsoft |
 |
 
-## <a name="export-data"></a>Exportar dados
-
-A página **de dados de exportação** não se atualiza por si só. Poderá ser necessário atualizar a página manualmente para ver os dados mais recentes. Selecione a partir dos três separadores para exportar o **histórico de transações,** **pagamentos,** **resumo de transações** ou **declaração histórica.**
-
-O filtro pode resultar num erro **de não dados disponíveis.** Isto pode acontecer se deixar o período de tempo por defeito selecionado em três meses e, em seguida, selecionar um ID de pagamento de um ganho que está fora desse período. Se isso acontecer, expanda o seu período de tempo e tente novamente.
-
-Aqui está uma amostra de pagamentos exportação:
-
-:::image type="content" source="images/payouts/pc-export-payments.png" alt-text="Relatório de pagamentos de exportação.":::
-
-### <a name="historical-statements"></a>Declarações históricas
-
-O resumo **dos dados de exportação** também dá acesso a declarações históricas.
-
-> [!NOTE]
-> Uma afirmação histórica é um instantâneo e não é refrescada. Por favor contacte [o suporte](https://partner.microsoft.com/support/v2/?stage=1) e solicite os dados mais recentes, se necessário.
-
-:::image type="content" source="images/payouts/pc-export-statements.png" alt-text="Exportar declarações históricas.":::
-
-- O histórico de transações de antes de 1 de julho de 2019 é tratado separadamente e utiliza diferentes campos de relatórios de história posteriores.
-- O histórico de transações antigas tem uma coluna chamada "Reservado" que corresponde à coluna "Ganhos" na história moderna, exceto que exclui todos os ganhos com estatuto igual a "Pagamento Enviado".
-- Filtros como 3M, 6M ou 12M não se aplicam à secção de demonstrações históricas.
-
-### <a name="historical-statement-downloads"></a>Downloads de declarações históricas
-
-A tabela seguinte explica cada coluna numa declaração histórica.
-
-| Nome do campo | Descrição |
-| --- | --- |
-| Fonte de receitas | A fonte da sua receita com base no local onde ocorreu a transação, como Microsoft Store, Windows Phone Store, Windows Store 8 ou publicidade |
-| ID da Encomenda | Identificador de ordem único. Este ID permite-lhe identificar as transações de compra com as respetivas transações não-compra, tais como reembolsos ou reembolsos. Ambos terão a mesma identificação de encomenda. Além disso, se houver uma taxa dividida em que foram utilizados vários métodos de pagamento para uma única compra, permite-lhe ligar as transações de compra. |
-| ID de Transação | Identificador de transações único. |
-| Data de Data de Transação | A data e a hora da transação ocorreu (UTC). |
-| ID do produto parental | Identificador de produto único. Se não houver um produto-mãe para a transação, então iD do produto-mãe = ID do produto. |
-| ID do Produto | Identificador de produto único. |
-| Nome do produto principal | Nome do produto-mãe. Se não houver um produto-mãe para a transação, então o nome do produto principal = nome do produto. |
-| Nome do Produto | Nome do produto |
-| Tipo de Produto | Tipo de produto, como App, Add-on ou Game |
-| Quantidade | Quando a Fonte de Receita é Microsoft Store para Empresas, a Quantidade representa o número de licenças adquiridas. Para todas as outras Fontes de Receita, a Quantidade será sempre 1. Mesmo quando uma única transação é dividida em dois itens de linha porque foram utilizados dois métodos de pagamento diferentes, cada item de linha mostrará uma quantidade de 1. |
-| Tipo de Transação | Tipo de transação, tais como compra, reembolso, reversão ou cobrança |
-| Método de Pagamento | Instrumento de pagamento do cliente utilizado para a transação, como cartão, faturação de transportadora móvel ou PayPal |
-| País / Região | País/região onde ocorreu a transação |
-| Fornecedor Local / Vendedor | Fornecedor local/vendedor de registos |
-| Moeda de Transação | Moeda da transação |
-| Valor da Transação | Montante da transação |
-| Imposto Remetido | Montante do imposto remetido (taxas de venda, utilização ou IVA/GST) |
-| Receitas Líquidas | Valor da transação menos imposto remetido |
-| Taxa de Loja | A percentagem de Recibos Líquidos retidos pela Microsoft como uma taxa para disponibilizar a app ou o addon na Loja |
-| Receitas da App | Recibos líquidos menos a Taxa de Loja |
-| Impostos Retidos | Montante do imposto sobre o rendimento retido (ot incluído no ficheiro CSV **reservado)** |
-| Payment | A App Procede menos qualquer retenção na fonte de imposto sobre o rendimento aplicável (valor indicado em Moeda de Transação). Não incluído no ficheiro CSV **reservado.** |
-| Taxa FX | Taxa cambial utilizada para converter moeda de transação em moeda de pagamento |
-| Moeda de Pagamento | Moeda em que o seu pagamento é feito |
-| Pagamento Convertido | Valor de pagamento convertido em Moeda de Pagamento utilizando a Taxa FX |
-| Modelo de remessa fiscal | Parte responsável pela remessa de impostos (taxas de venda, utilização ou IVA/GST) |
-| Data de elegibilidade | A data e a hora em que as transações prosseguem tornam-se elegíveis para pagamento (UTC). Quando um pagamento é criado, inclui receitas de transações com uma data de elegibilidade antes da data de criação do pagamento (apenas incluída no ficheiro CSV **reservado).** |
-| Cobranças | Apresenta uma repartição de todos os detalhes de carga agregados na coluna Transaction Amount (apenas incluído para O Mercado Azure; não incluído no ficheiro CSV **reservado).** |
-
 ## <a name="next-steps"></a>Passos seguintes
 
+- [Resumo das receitas](/partner-center/revenue-summary)
+- [Nova página de exportação de dados de pagamento](/partner-center/payouts-enhanced-exports)
 - [API de Pagamento de Parceiro](https://apidocs.microsoft.com/services/partnerpayouts)
 - [Detalhes da política de dividendos](payout-policy-details.md)
 - Para suporte à faturação, contacte o suporte de [editores](https://partner.microsoft.com/support/v2/?stage=1)de marketplace comercial.
