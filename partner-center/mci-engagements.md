@@ -8,12 +8,12 @@ ms.subservice: partnercenter-incentives
 ms.topic: how-to
 ms.date: 09/29/2021
 ms.custom: template-how-to
-ms.openlocfilehash: 3bdfc02ed17ad2046a0622b536e3e98d7ee5d70b
-ms.sourcegitcommit: 6d29e7e6d700ee5638ba10ee12f75e37f993dae9
+ms.openlocfilehash: 1b53748bdb177a3ceab70512db4cb27aa836a320
+ms.sourcegitcommit: 462d6026287b85c9feea602af5bcdf924f3e6976
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/01/2021
-ms.locfileid: "129365119"
+ms.lasthandoff: 10/05/2021
+ms.locfileid: "129452401"
 ---
 # <a name="mci-engagements-overview-and-eligibility"></a>Visão geral e elegibilidade dos compromissos do MCI
 
@@ -54,4 +54,4 @@ A página **de Elegibilidade** lista todos os locais inscritos no programa MCI, 
 
 [Determine a elegibilidade do seu programa de incentivos](/partner-center/incentives-determined-your-program-eligibility)
 
-[Inscrição e gestão de utilizadores no programa de incentivos](/incentives-enroll)
+[Inscrição e gestão de utilizadores no programa de incentivos](/partner-center/incentives-enroll)

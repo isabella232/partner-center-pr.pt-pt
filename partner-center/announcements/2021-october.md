@@ -10,18 +10,41 @@ ms.custom:
 - announcement
 - references_regions
 ms.localizationpriority: high
-ms.date: 10/01/2021
-ms.openlocfilehash: aa4b4c5e6b120181b268d3e172ee605186359f75
-ms.sourcegitcommit: 8eaef380caa66ae3c8e2674535e06c3676fa35f2
+ms.date: 10/04/2021
+ms.openlocfilehash: 70c2456d97c5c47d72a1791c9ab44b70a495fca5
+ms.sourcegitcommit: 462d6026287b85c9feea602af5bcdf924f3e6976
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/04/2021
-ms.locfileid: "129415540"
+ms.lasthandoff: 10/05/2021
+ms.locfileid: "129452483"
 ---
 # <a name="october-2021-announcements"></a>Anúncios de outubro de 2021
 
 Esta página fornece os anúncios para o Microsoft Partner Center para outubro de 2021.
 
+________________
+## <a name="november-2021-update-online-services-and-software-channel-authorization-guide"></a><a name="3"></a>Atualização de novembro de 2021: Guia de Autorização de Serviços Online e Canal de Software
+
+### <a name="categories"></a>Categorias
+
+- Data: 2021-10-04
+- Capacidades
+
+### <a name="impacted-audience"></a>Audiência impactada
+
+Parceiros de conta diretos, fornecedores indiretos e parceiros multifunções que participam no programa Fornecedor de Soluções em Nuvem
+
+### <a name="summary"></a>Resumo
+
+Há uma atualização para o guia de Autorização de Serviços Online e Software Channel.
+
+### <a name="details"></a>Detalhes
+
+De acordo com a subsecção da Autorização de Serviços Online e Canal de Software, ao abrigo dessa secção intitulada "Aviso de Alterações", intitulada "Alterações aos Guias", no seu Acordo de Parceiro microsoft, a Microsoft está a notificar-lhe que o guia de Autorização de Serviços Online e Canal de Software está a ser atualizado. Uma prévia do guia atualizado está disponível [aqui](https://partner.microsoft.com/resources/detail/update-guide-online-services-software-channel-authorization-download-pdf) com uma linha vermelha demonstrando alterações disponíveis [aqui](https://partner.microsoft.com/resources/detail/update-guide-online-services-software-channel-authorization-download-pdf). A atualização irá efetivo a partir da data deste aviso. Não há mais nenhuma ação a ser tomada por ti.
+
+### <a name="next-steps"></a>Passos seguintes
+
+Não são necessárias ações. Este é apenas um aviso.
 ________________
 ## <a name="final-90-days-to-transact-offers-in-the-open-license-program"></a><a name="2"></a>Ofertas finais de 90 dias para transacionar no programa Licença Aberta
 

@@ -2,7 +2,7 @@
   href: index.yml
 - name: O que é o Centro de Parceiros?
   href: overview.md
-- name: Contornar o Centro de Parceiros
+- name: Explorar o Centro de Parceiros
   href: get-around-partner-center.md
 - name: Anúncios
   href: announcements/TOC.md
@@ -266,8 +266,10 @@
           href: check-service-health.md
         - name: Como confirmar a aceitação do cliente do Acordo de Cliente da Microsoft
           href: confirm-customer-agreement.md
-        - name: 'Create, suspend, or cancel customer subscriptions (Criar, suspender ou cancelar subscrições de clientes)'
+        - name: Gerir subscrições de clientes
           href: create-a-new-subscription.md
+        - name: Migrar subscrições para novo comércio
+          href: migrate-subscriptions-to-new-commerce.md
         - name: Vender software no local através do programa de CSP
           href: csp-on-premise-software.md
         - name: Comunicação dos clientes da Microsoft

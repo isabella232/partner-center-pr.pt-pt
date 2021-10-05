@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.openlocfilehash: 680845d173ad69c46dc78c767fb53476750ad24f
-ms.sourcegitcommit: 8eaef380caa66ae3c8e2674535e06c3676fa35f2
+ms.openlocfilehash: 1a2e13bf45b10bebe6ab0492ac059dc1d6a6c0ca
+ms.sourcegitcommit: 462d6026287b85c9feea602af5bcdf924f3e6976
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/04/2021
-ms.locfileid: "129415557"
+ms.lasthandoff: 10/05/2021
+ms.locfileid: "129452418"
 ---
 # <a name="manage-customer-subscriptions"></a>Gerir subscrições de clientes
 
@@ -354,6 +354,33 @@ Em ambos os casos de redução de licença, você será reembolsado o **valor to
 
 Se **decorreram mais de 72 horas** desde que a encomenda de assinatura foi feita ou foram adicionadas licenças adicionais, a contagem de **licenças não pode** ser diminuída até à próxima janela de cancelamento na renovação.
 
+## <a name="switching-billing-plans"></a>Mudar planos de faturação
+
+Os parceiros têm a flexibilidade de mudar o seu plano de faturação e o seu termo de faturação em conjunto. Eles também têm a opção de mudar apenas o seu plano de faturação a meio do prazo, sem redefinir completamente o termo de faturação.
+
+### <a name="just-changing-billing-frequency-scheduled-change"></a>Apenas alterando a frequência de faturação (Alteração Programada)
+
+Os parceiros podem alterar apenas o plano de faturação através do Partner Center em apenas alguns passos, que entrarão em vigor no próximo ciclo de faturação:
+
+1. Vá à página de subscrição do cliente e selecione a subscrição que pretende alterar.
+
+2. Selecione o link **de frequência de faturação De gestão.**
+
+3. Abrir-se-á um painel lateral que apresente a atual frequência de faturação e uma queda contendo as opções para alterar a frequência.
+
+4. Uma vez selecionado um novo valor, as novas alterações de faturação ocorrerão no **próximo ciclo de faturação** (NÃO uma alteração imediata).
+
+### <a name="changing-billing-frequency-along-with-billing-term-and-other-fields-immediate-change"></a>Alteração da frequência de faturação juntamente com o termo de faturação e outros campos (Mudança Imediata)
+
+O parceiro pode alterar a frequência de faturação juntamente com o termo de faturação e outros campos através do Partner Center também, o que irá desencadear uma mudança imediata:
+
+1. Vá à página de subscrição do cliente e selecione a subscrição que pretende alterar.
+
+2. Altere a duração do prazo por seleção uma opção no dropdown. Isto abrirá mais uma entrega para mudar a frequência de faturação.
+
+3. Selecione uma frequência de faturação diferente do dropdown.
+
+4. Uma vez efetuadas as alterações e clicada, as novas alterações de faturação serão imediatamente **efetuadas**.
 
 ## <a name="next-steps"></a>Passos seguintes
 

@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e5fd305377a02d15991f48553b5fd071fb22d9dc
-ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
+ms.openlocfilehash: d57d3576c99a78acff280c25462f872323e89c7d
+ms.sourcegitcommit: 462d6026287b85c9feea602af5bcdf924f3e6976
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/27/2021
-ms.locfileid: "129090121"
+ms.lasthandoff: 10/05/2021
+ms.locfileid: "129452479"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Vender subscrições de software através do programa Fornecedor de Soluções em Nuvem (CSP)
 
@@ -147,6 +147,16 @@ Para efeitos de auditoria ou conformidade, poderá ter de verificar uma lista de
 2. Selecione o ícone de engrenagem Definições e, em seguida, **Definições conta** e, em seguida, selecione registo **de atividade**.
 
 3. Insira o intervalo de datas para a atividade que deseja ver. O registo de atividade apresentará uma lista de utilizadores que acederam a chaves de software ou descarregaram software durante o tempo especificado.
+
+## <a name="toggle-auto-renew"></a>Renovar automaticamente
+
+A partir de 14 de outubro de 2021, as subscrições de software recém-adquiridas serão definidas para renovar automaticamente na data de renovação designada como padrão. Este componente de renovação automática pode ser ligado e desligado para corresponder às necessidades do Parceiro. As subscrições de software adquiridas antes de 14 de outubro de 2021 não terão a renovação automática por defeito como ligada e não são elegíveis para renovação automática a aplicar.
+
+## <a name="managing-billing-frequency"></a>Gestão da frequência de faturação
+
+As alterações na frequência de faturação a médio prazo serão suportadas para todas as compras de subscrição de software a partir de 14 de outubro de 2021. Uma alteração mensal à alteração anual da frequência de faturação será suportada para todas as subscrições de software. As alterações anuais a mensal da faturação só serão suportadas se o período de subscrição restante do software for superior a um ano. Por exemplo, durante o primeiro ano do seu mandato, uma subscrição de software num prazo de 3 anos com faturação anual pode ser alterada para faturação mensal após o primeiro pagamento anual; após o primeiro ano que foi pago, os encargos de faturação subsequentes refletirão um ciclo de faturação mensal e um preço. 
+
+Todas as alterações de faturação entrarão em vigor após a conclusão do ciclo de faturação atual em que está a decorrer uma subscrição de software. 
 
 ## <a name="cancel-a-purchase"></a>Cancelar uma compra
 
