@@ -4,27 +4,27 @@ ms.topic: article
 ms.date: 11/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-pricing
-description: Saiba mais sobre Fornecedor de Soluções em Nuvem oportunidades de adquirir, provisão e gerir reservas azure e subscrições de Servidor para clientes.
+description: Saiba mais sobre Fornecedor de Soluções em Nuvem oportunidades de adquirir, provisão e gerir reservas do Azure e subscrições do Servidor para os clientes.
 author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 752b7b9eee2da69dec597f56d1ddc2968aa7c29a
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: a05dd4aaf10a373047992c5fdd4d0f83e930f1cf
+ms.sourcegitcommit: b78e85a0bc62e3536b067417cb3db7899cda4f97
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126246332"
+ms.lasthandoff: 10/06/2021
+ms.locfileid: "129565140"
 ---
-# <a name="acquire-provision--manage-azure-reserved-vm-instances-ri--server-subscriptions-for-customers"></a>Adquirir, provisão, & gerir Azure reservou vm instâncias (RI) + subscrições de servidores para clientes
+# <a name="acquire-provision--manage-azure-reserved-vm-instances-ri--server-subscriptions-for-customers"></a>Adquirir, provisões, & gerir as instâncias VM reservadas (RI) + subscrições de servidores para clientes
 
 
-**Funções adequadas**: Agente administrador | Administração global | Agente helpdesk | Agente comercial | Administração de gestão de utilizadores
+**Funções adequadas**: Agente administrador | | de administração global Agente helpdesk | Agente comercial | Administrador de gestão de utilizadores
 
 
 ## <a name="what-are-azure-reservations"></a>O que é o Azure Reservations?
 
-As Reservas Azure ajudam-no a economizar dinheiro pré-pagando por um ano ou três anos de máquina virtual, Base de Dados SQL capacidade de computação, produção de DB Azure Cosmos ou outros recursos Azure. O pré-pagamento permite-lhe obter um desconto nos recursos que utiliza. As reservas podem reduzir significativamente a sua máquina virtual, SQL computação de base de dados, Azure Cosmos DB, e outros custos de recursos até 72% em comparação com os preços de pay-as-you-go. O Reservations oferece um desconto de faturação e não afeta o estado de atividade dos seus recursos. Para mais informações consulte [o que são Reservas Azure?](/azure/billing/billing-save-compute-costs-reservations)
+As Reservas Azure ajudam-no a economizar dinheiro pagando antecipadamente por um ano ou três anos de máquina virtual, Base de Dados SQL capacidade de computação, produção de DB Azure Cosmos ou outros recursos Azure. O pré-pagamento permite-lhe obter um desconto nos recursos que utiliza. As reservas podem reduzir significativamente a sua máquina virtual, SQL computação de base de dados, Azure Cosmos DB, e outros custos de recursos até 72% em comparação com os preços de pay-as-you-go. O Reservations oferece um desconto de faturação e não afeta o estado de atividade dos seus recursos. Para mais informações consulte [o que são Reservas Azure?](/azure/billing/billing-save-compute-costs-reservations)
 
 ## <a name="why-should-customers-buy-a-reservation"></a>Por que os clientes devem comprar uma reserva?
 
@@ -32,21 +32,19 @@ Se os clientes tiverem máquinas virtuais, Azure Cosmos DB ou SQL bases de dados
 
 ### <a name="compelling-new-azure-offer-in-csp"></a>Oferta convincente do Novo Azure na CSP
 
-Ao trazer reservas e subscrições de servidores do Azure para o seu programa CSP, a Microsoft está a permitir que os seus parceiros abordem a procura rápida de clientes por soluções mais económicas para suportar cargas de trabalho de nuvem altamente previsíveis e persistentes. O programa CSP permite que os parceiros adquiram, provisões e gerem subscrições de Reservas e Servidores Azure em nome de clientes comerciais através do Microsoft Partner Center e do portal Azure.
+Ao trazer reservas e subscrições de servidores do Azure para o seu programa CSP, a Microsoft está a permitir que os seus parceiros abordem a procura rápida de clientes por soluções mais económicas para suportar cargas de trabalho altamente previsíveis e persistentes na nuvem. O programa CSP permite que os parceiros adquiram, provisões e gerem subscrições de Reservas e Servidores Azure em nome de clientes comerciais através do Microsoft Partner Center e do portal Azure.
 Até damos aos parceiros do nosso programa CSP escolhas sobre como as reservas do Azure podem ser compradas. Os parceiros da CSP podem [comprar reservas Azure em nome de um cliente](azure-reservations-buying.md) ou podem permitir que o cliente compre as suas [próprias reservas a](give-customers-permission.md) partir de uma subscrição anterior da Azure que o parceiro adquiriu para eles.
 
 As Reservas Azure conferem aos clientes a flexibilidade da virtualização para uma vasta gama de soluções de computação, incluindo desenvolvimento e testes, execução de aplicações e alargamento do centro de dados.
 
-Com [a Azure Reserved VM Instances,](https://azure.microsoft.com/pricing/reserved-vm-instances/) por exemplo, os clientes comerciais podem agora economizar até 72% em relação ao preço de VM pay-as-you-go simplesmente comprando - ou "reservando" - a máquina virtual por um período de 1 ou 3 anos. Windows Os clientes de servidores com Azure Hybrid Benefit, incluídos na Software Assurance, poderão economizar até 80% em relação ao preço pago à medida que for embora.
+Com [a Azure Reserved VM Instances,](https://azure.microsoft.com/pricing/reserved-vm-instances/) por exemplo, os clientes comerciais podem agora economizar até 72% em relação ao preço de Azure VM pay-as-you-go simplesmente comprando - ou "reservando" - a máquina virtual por um período de 1 ou 3 anos. Windows Os clientes de servidores com Azure Hybrid Benefit, incluídos na Software Assurance, poderão economizar até 80% em relação ao preço pago à medida.
 
-Com uma combinação incomparável de preços convincentes e flexibilidade de implementação incomparável, os clientes verão o melhor valor global quando escolherem reservas Azure.
+Com uma combinação inigualável de preços convincentes e flexibilidade de implementação incomparável, os clientes verão o melhor valor global quando escolherem reservas Azure.
 
 - Consulte [reservas de compra](/azure/cost-management-billing/reservations/prepare-buy-reservation#purchase-reservations) no Portal Azure.
 
-- Consulte a Lista de **Preços Comerciais Azure RI CSP** na categoria **Microsoft Azure Instâncias Reservadas** na página [de Preços e Ofertas](https://partner.microsoft.com/dashboard/sell/pricingandoffers) no Partner Center para subscrições de software e subscrições anuais do Linux ISV.
+- Consulte a **Lista de Preços Comerciais Azure RI CSP** na categoria **Microsoft Azure Instâncias Reservadas** na página [de listas de preços](https://partner.microsoft.com/dashboard/sell/pricingandoffers) no Partner Center para subscrições de software e subscrições anuais do Linux ISV.
 
-
- 
 **Assinaturas anuais do Linux ISV**
 
 - SUSE Linux
@@ -61,7 +59,7 @@ Com uma combinação incomparável de preços convincentes e flexibilidade de im
 
 Para entender como pode posicionar reservas do Azure com os seus clientes e levantar-se e funcionar operacionalmente o mais rapidamente possível, recomendamos a seguinte abordagem para rever os materiais de prontidão:
 
-1. Reveja e compreenda o [novo guia de operações comerciais do Partner Center.](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf)
+1. Reveja e compreenda o novo guia de [operações comerciais do Partner Center.](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf)
 
 2. Compreender as atualizações para Reservas Azure e Subscrições de Servidor na [API do Centro Parceiro (API/SDK)](/partner-center/develop/purchase-azure-reserved-vm-instances).
 
@@ -100,7 +98,7 @@ Para entender como pode posicionar reservas do Azure com os seus clientes e leva
 Registe-se para ver [webinars](https://commercial-licensing.eventbuilder.com/FY2019_ALL) de prontidão de licenciamento comercial e eventos a pedido.
 Os eventos de prontidão de licenciamento previamente registados incluem tópicos como:
 
-- CSP Online Services, CSP Azure e atualizações gerais de licenciamento, incluindo Azure (novembro de 2018)
+- Serviços Online CSP, CSP Azure e atualizações gerais de licenciamento, incluindo Azure (novembro de 2018)
 
 - SQL DB Capacidade Reservada & Flexibilidade do Tamanho da Instância (agosto de 2018)
 
@@ -120,4 +118,4 @@ O [Azure Hybrid Benefit](https://azure.microsoft.com/pricing/hybrid-benefit) é 
 
 - [FAQ do Benefício Híbrido do Azure](https://azure.microsoft.com/pricing/hybrid-benefit/faq/)
 
-*As poupanças reais podem variar em função da região, do tipo de instância ou da utilização.
+*As poupanças reais podem variar em função da região, tipo de instância ou utilização.

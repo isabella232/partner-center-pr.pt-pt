@@ -9,12 +9,12 @@ ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 09/27/2021
-ms.openlocfilehash: d4f238233ba63912546122fdeb5cd0f0b98249cc
-ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
+ms.openlocfilehash: 10aec2bc14ee405f217d634f1852014325e5cadd
+ms.sourcegitcommit: b78e85a0bc62e3536b067417cb3db7899cda4f97
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/27/2021
-ms.locfileid: "129088540"
+ms.lasthandoff: 10/06/2021
+ms.locfileid: "129565174"
 ---
 # <a name="technical-support-for-on-premises-or-cloud-products"></a>Suporte Técnico para instalações ou produtos Cloud
 
@@ -40,7 +40,7 @@ Este artigo destina-se a membros da Microsoft Partner Network (MPN) que precisam
 
 2. Verifique o direito ao suporte técnico e os produtos suportados para ver se os seus benefícios MPN podem ser utilizados para o seu produto e versão pretendidos
 
-3. Suporte ao produto da Microsoft (para produtos recentes no local): Use Support for Business for Business for in-ins product support
+3. Suporte ao produto da Microsoft (para produtos recentes no local): Use Support for Business for Business for in-in-ins product support
 
 4. Suporte à nuvem de assinatura (para produtos na nuvem): Utilizadores com a função de agente administrador selecionam **clientes e gestão de serviços** para criar um pedido. Consulte os seguintes detalhes sobre cada passo:
 
@@ -110,24 +110,24 @@ O suporte técnico fornece resolução de problemas para um problema específico
 > [!NOTE]
 > Os seus benefícios técnicos de suporte devem ser ativados antes de poder usá-los.
 
-Como parte da subscrição da Microsoft Partner Network, os parceiros são elegíveis para o seguinte suporte técnico
+Como parte da subscrição da Microsoft Partner Network, os parceiros são elegíveis para o seguinte suporte técnico:
 
 |  Suporte Técnico |  Action Pack |  Competência de prata | Competência do ouro |
 |:------------------:|:------------:|:------------------:|:---------------:|
-| Suporte ao produto da Microsoft<br>Para o recente On-In-As <br>produtos apenas | 10 Incidentes | 15 Incidentes | 20 Incidentes |
-| Suporte à nuvem de assinatura<br>Apenas para produtos Cloud | | Competências em nuvem:<br>Ilimitado<br><br>Outras competências:<br>5 Incidentes | Competências em nuvem:<br>Ilimitado<br>          <br>Outras competências:<br>10 Incidentes   | 
+| Suporte ao produto da Microsoft<br>Para os recentes no local <br>produtos apenas | 10 Incidentes | 15 Incidentes | 20 Incidentes |
+| Suporte à nuvem de assinatura<br>Apenas para produtos Cloud | | Competências em nuvem:<br>Ilimitado<br><br>Outras competências:<br>5 Incidentes | Competências em nuvem:<br>Ilimitado<br>          <br>Outras competências:<br>10 Incidentes   |
 
 As competências em nuvem incluem: Competência de Segurança, Cloud Business Applications, Cloud Platform, Cloud Productivity, Enterprise Mobility Management, Small and Midmarket Cloud Solutions.
 
 ## <a name="microsoft-product-support-on-premises"></a>Suporte ao produto da Microsoft (no local)
 
-Pode utilizar **o Suporte ao Produto da Microsoft** para suporte técnico em produtos recentes no Local. Os produtos recentes no local incluem apenas o produto atual (N) e a versão anterior do produto (N-1). A versão anterior do produto só é suportada se estiver dentro [do suporte mainstream;](/lifecycle/policies/fixed) com base na política de apoio [N-1.](https://aka.ms/n-1) Para produtos e versões não suportados, utilize a opção de suporte pago relevante ou compre um plano de suporte para parceiros.
+Pode utilizar **o Microsoft Product Support** para suporte técnico em produtos recentes no local. Os produtos recentes no local incluem apenas o produto atual (N) e a versão anterior do produto (N-1). A versão anterior do produto só é suportada se estiver dentro [do suporte mainstream;](/lifecycle/policies/fixed) com base na política de apoio [N-1.](https://aka.ms/n-1) Para produtos e versões não suportados, utilize a opção de suporte pago relevante ou compre um plano de suporte para parceiros.
 
 Você vai precisar do ID de acesso e ID do contrato na primeira vez que você usar o benefício. Os benefícios estão associados à sua conta de utilizador até que expirem ou não restem mais incidentes de suporte.
 
-Qualquer conta de utilizador (AAD ou MSA) pode utilizar suporte técnico para produtos no local se tiverem o ID de acesso e iD do contrato
+Qualquer conta de utilizador (AAD ou MSA) pode utilizar suporte técnico para produtos no local se tiverem o ID de Acesso e ID do Contrato
 
-Selecione [Suporte para Negócios](https://support.serviceshub.microsoft.com/supportforbusiness/create) para criar um pedido de suporte para um produto No-Local.
+Selecione [Suporte para Negócios](https://support.serviceshub.microsoft.com/supportforbusiness/create) para criar um pedido de suporte para um produto no local.
 
 ### <a name="how-many-partner-support-incidents-are-remaining"></a>Quantos incidentes de apoio ao Parceiro ainda restam
 

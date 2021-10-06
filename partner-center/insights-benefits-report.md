@@ -9,12 +9,12 @@ author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 759d5d5f1d258325a00bbc53833059de61707c77
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 4121e754595bc4992196108cdbcf365a48ac50f4
+ms.sourcegitcommit: b78e85a0bc62e3536b067417cb3db7899cda4f97
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/27/2021
-ms.locfileid: "129074449"
+ms.lasthandoff: 10/06/2021
+ms.locfileid: "129565279"
 ---
 # <a name="benefits-report-available-from-the-partner-center-insights-dashboard"></a>Relatório de benefícios disponível no painel de Informações do Partner Center
 
@@ -40,7 +40,7 @@ Pode visualizar os seguintes gráficos no relatório Benefits:
 
 A secção Sumária apresenta os benefícios concedidos em termos de software licenciado, serviços na nuvem (não-Azure), subscrições Visual Studio, suporte técnico e certos serviços ou ofertas Go-To-Market.
 
-Exemplo: Os parceiros de membro da Microsoft Partner Network (MPN) são elegíveis para suporte técnico de produtos no local e produtos na nuvem. Os parceiros que atingirem a competência silver recebem apoio técnico para 15 incidentes para produtos no local. Podem consumir este apoio conforme necessário. 
+Exemplo: Os parceiros de membro da Microsoft Partner Network (MPN) são elegíveis para suporte técnico de produtos no local e produtos na nuvem. Os parceiros que atingirem a competência silver recebem apoio técnico para 15 incidentes para produtos no local. Podem consumir este apoio conforme necessário.
 
 :::image type="content" source="images/insights/benefits-summary.png" alt-text="benefícios resumo.":::
 

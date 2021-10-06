@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.openlocfilehash: 1a2e13bf45b10bebe6ab0492ac059dc1d6a6c0ca
-ms.sourcegitcommit: 462d6026287b85c9feea602af5bcdf924f3e6976
+ms.openlocfilehash: c42e2e8dbc98bdf9ed0e2994bfb7ad49848aad76
+ms.sourcegitcommit: b78e85a0bc62e3536b067417cb3db7899cda4f97
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/05/2021
-ms.locfileid: "129452418"
+ms.lasthandoff: 10/06/2021
+ms.locfileid: "129565336"
 ---
 # <a name="manage-customer-subscriptions"></a>Gerir subscrições de clientes
 
@@ -24,7 +24,7 @@ ms.locfileid: "129452418"
 
 Depois de ter criado um registo do seu cliente no Partner Center, pode vendê-los subscrições a produtos do catálogo. Isto inclui produtos publicados pela Microsoft e software como um serviço (SaaS) produtos publicados por fornecedores de software independentes de terceiros (ISVs) para o [mercado comercial.](https://azuremarketplace.microsoft.com/marketplace)
 
-Algumas ofertas são limitadas a uma subscrição por cliente. Para ver uma lista das ofertas restritas, visite a página de Preços e Ofertas do Centro de Parceiros.
+Algumas ofertas são limitadas a uma subscrição por cliente. Para ver uma lista das ofertas restritas, visite a página de **listas de preços** do Centro parceiro.
 
 > [!IMPORTANT]
 > Como parceiro no programa CSP, pode adquirir assinaturas SaaS **baseadas em licenças** ou **medidos** a editores da ISV dentro do Partner Center. Isto significa que pode comprar qualquer oferta SaaS **baseada em licença** ou **medido** que o editor ISV lhe tenha disponibilizado, incluindo [ofertas exclusivas](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) às quais tem acesso. Para comprar ou gerir outras ofertas comerciais de marketplace a partir de ISVs (como ofertas baseadas em uso envolvendo aplicações Azure, Contentores ou VMs), você deve ir ao [portal Azure.](https://portal.azure.com/)

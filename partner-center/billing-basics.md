@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: eb9fff7ddbf828cbf15ad447c66ed18dfcb0643b
-ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
+ms.openlocfilehash: a676785f690d0e3cb2b4e6e4de03b78480b0db70
+ms.sourcegitcommit: b78e85a0bc62e3536b067417cb3db7899cda4f97
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/27/2021
-ms.locfileid: "129089178"
+ms.lasthandoff: 10/06/2021
+ms.locfileid: "129565313"
 ---
 # <a name="billing-overview-for-csp-program-partners-working-in-partner-center"></a>Descrição geral da faturação para parceiros do programa CSP que trabalham no Centro de Parceiros 
 
@@ -73,7 +73,7 @@ Para a faturação única e recorrente, o período de faturação está alinhado
 
 As listas de preços são atualizadas mensalmente. As listas de preços de pré-visualização estão disponíveis com um (1) mês de antecedência.
 
-Para ver os mais recentes programas e ofertas de Fornecedor de Soluções em Nuvem, a partir do painel de instrumentos Partner Center, selecione o **azulejo de preços.** Encontrará listas de preços separadas para os diferentes tipos de produtos disponíveis. As seguintes listas de preços estão disponíveis na página **de Preços e Ofertas:**
+Para ver os mais recentes programas e ofertas de Fornecedor de Soluções em Nuvem, a partir do painel de instrumentos Partner Center, selecione o **azulejo de preços.** Encontrará listas de preços separadas para os diferentes tipos de produtos disponíveis. As seguintes listas de preços estão disponíveis na página **'Listas de Preços':**
 
 Os preços **baseados na licença** são garantidos para o prazo da subscrição, geralmente 12 meses a partir da data de compra.
 

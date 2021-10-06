@@ -270,8 +270,8 @@
           href: create-a-new-subscription.md
         - name: Migrar subscrições para novo comércio
           href: migrate-subscriptions-to-new-commerce.md
-        - name: Vender software no local através do programa de CSP
-          href: csp-on-premise-software.md
+        - name: Vender software no local através do programa CSP
+          href: csp-on-premises-software.md
         - name: Comunicação dos clientes da Microsoft
           href: customer-communication-from-microsoft.md
         - name: Fornecer suporte técnico

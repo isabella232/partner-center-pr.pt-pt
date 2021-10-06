@@ -11,12 +11,12 @@ ms.custom:
 - references_regions
 ms.localizationpriority: high
 ms.date: 10/05/2021
-ms.openlocfilehash: 3a5f9ee11ffab9869e2641f27594c255e44f4d16
-ms.sourcegitcommit: cf8c78e0c8831371432007d5ab05f934f15a77b5
+ms.openlocfilehash: 9cbe685abf6610b42c05d2f9229f93478c50ca69
+ms.sourcegitcommit: b78e85a0bc62e3536b067417cb3db7899cda4f97
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/05/2021
-ms.locfileid: "129525226"
+ms.lasthandoff: 10/06/2021
+ms.locfileid: "129565123"
 ---
 # <a name="october-2021-announcements"></a>Anúncios de outubro de 2021
 
@@ -74,7 +74,7 @@ Há uma atualização para o guia de Autorização de Serviços Online e Softwar
 
 ### <a name="details"></a>Detalhes
 
-De acordo com a subsecção da Autorização de Serviços Online e Canal de Software, ao abrigo dessa secção intitulada "Aviso de Alterações", intitulada "Alterações aos Guias", no seu Acordo de Parceiro microsoft, a Microsoft está a notificar-lhe que o guia de Autorização de Serviços Online e Canal de Software está a ser atualizado. Uma prévia do guia atualizado está disponível [aqui](https://partner.microsoft.com/resources/detail/update-guide-online-services-software-channel-authorization-download-pdf) com uma linha vermelha demonstrando alterações disponíveis [aqui](https://partner.microsoft.com/resources/detail/update-guide-online-services-software-channel-authorization-download-pdf). A atualização irá efetivo a partir da data deste aviso. Não há mais nenhuma ação a ser tomada por ti.
+De acordo com a subsecção da Autorização de Serviços Online e Canal de Software, ao abrigo dessa secção intitulada "Aviso de Alterações", intitulada "Alterações aos Guias", no seu Acordo de Parceiro microsoft, a Microsoft está a notificar-lhe que o guia de Autorização de Serviços Online e Canal de Software está a ser atualizado. Uma prévia do guia atualizado está disponível [aqui](https://partner.microsoft.com/resources/detail/update-guide-online-services-software-channel-authorization-download-pdf) com uma linha vermelha demonstrando alterações disponíveis [aqui](https://partner.microsoft.com/resources/detail/update-guide-online-services-software-channel-authorization-redline-download-pdf). A atualização irá efetivo a partir da data deste aviso. Não há mais nenhuma ação a ser tomada por ti.
 
 ### <a name="next-steps"></a>Passos seguintes
 

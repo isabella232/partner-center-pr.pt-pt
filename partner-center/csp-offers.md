@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f6d60d62756e2d3655d1db69d86602cde45555b4
-ms.sourcegitcommit: 1e616b52d55eff41d67a081ba3f4a8370a49e027
+ms.openlocfilehash: 634668bbdd0cf5d145242ea61b208480d109f259
+ms.sourcegitcommit: b78e85a0bc62e3536b067417cb3db7899cda4f97
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/29/2021
-ms.locfileid: "129191464"
+ms.lasthandoff: 10/06/2021
+ms.locfileid: "129565088"
 ---
 # <a name="overview-of-partner-offers-in-the-cloud-solution-provider-program"></a>Descrição geral das ofertas de parceiros no programa Fornecedor de Solução Cloud
 
@@ -155,7 +155,7 @@ Para ver o histórico de encomendas de um cliente:
 4. Escolha As ordens de **visualização** para mostrar o histórico de encomendas do cliente.
 
 * * *
- 
+
 ## <a name="rules-for-special-segments"></a>Regras para segmentos especiais
 
 Algumas ofertas baseadas em licenças só podem ser compradas sob determinadas condições. As ofertas especiais de segmento incluem ofertas de Educação, Sem Fins Lucrativos ou Nuvem da Comunidade Governamental (GCC). Os detalhes sobre estas condições de compra podem ser encontrados nas regras de [compra para segmentos especiais tópicos.](get-special-pricing-for-offers.md#purchase-rules-for-special-segments)
@@ -167,9 +167,9 @@ Pode não encontrar a oferta que procura no catálogo por diferentes motivos. Ab
 - **Verifique se o seu cliente está qualificado**. Muitas ofertas requerem qualificações especiais para serem vendidas aos clientes. Estes segmentos especiais incluem Educação, Sem Fins Lucrativos e Nuvem da Comunidade Governamental (GCC). Antes de registar um problema, verifique primeiro se as qualificações do cliente estão definidas em conformidade. Pode verificar isto selecionando o cliente na lista de clientes e visualizando a conta. A conta terá uma Qualificação Especial definida, se aplicável. Se estiver a tentar comprar ofertas de Educação para um cliente que não esteja qualificado, não verá essas ofertas no catálogo. Para obter mais informações sobre a qualificação dos seus clientes, consulte a [documentação de segmentos especiais.](get-special-pricing-for-offers.md)
 - **Decida se está a tentar comprar um Suplemento ou uma oferta Base**. Muitos dos serviços baseados em licenças, como Microsoft 365 e Dynamics 365, permitem tanto as compras de catálogo das ofertas base como os Add-ons. Apenas as ofertas base podem ser compradas no catálogo. Para adquirir Add-ons, certifique-se de que compra primeiro a oferta Base no catálogo e, em seguida, selecione o cliente da lista de clientes e, em seguida, selecione a subscrição para a oferta base. Pode aplicar Suplementos à oferta base nesta página de gestão de subscrições. 
 - **Verifique se os produtos estão disponíveis no seu mercado**. Muitos produtos e serviços estão configurados para serem vendidos apenas a clientes em países específicos. Pode encontrar a lista de países suportados nos diferentes ficheiros da lista de preços. Os países suportados para a compra de serviços baseados em licenças encontram-se na Matriz da Lista de Ofertas na página de preços e ofertas.
-- **Verifique se as ofertas estão disponíveis na lista de preços**. A lista de ofertas disponíveis pode mudar de mês para mês. Se não conseguir encontrar uma oferta no catálogo, verifique se está disponível nas listas de preços atuais na página **de Preços e Ofertas de Venda >.**
+- **Verifique se as ofertas estão disponíveis na lista de preços**. A lista de ofertas disponíveis pode mudar de mês para mês. Se não conseguir encontrar uma oferta no catálogo, verifique se está disponível nas listas de preços atuais na página **'Listas de Preços'.**
 
-### <a name="recommended-documents-related-to-purchasing-items-in-the-partner-center"></a>Documentos recomendados relacionados com a compra de artigos no Centro de Parceiros
+### <a name="recommended-documents-related-to-purchasing-items-in-partner-center"></a>Documentos recomendados relacionados com a compra de artigos no Partner Center
 
 - [Preços e ofertas no Centro de Parceiros](pricing-and-offers.md)
 - [Descrição geral das ofertas de parceiros no programa Fornecedor de Solução Cloud](csp-offers.md)

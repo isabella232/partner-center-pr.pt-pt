@@ -9,18 +9,18 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c3d0b40cb9421d3eb731e62395a5813fc31b760c
-ms.sourcegitcommit: 1e616b52d55eff41d67a081ba3f4a8370a49e027
+ms.openlocfilehash: aa50c454c34e429071909150c3f9c4e106f746cf
+ms.sourcegitcommit: b78e85a0bc62e3536b067417cb3db7899cda4f97
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/29/2021
-ms.locfileid: "129191530"
+ms.lasthandoff: 10/06/2021
+ms.locfileid: "129565052"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Preços e ofertas para Office 365, Dynamics CRM, Suite de Mobilidade Empresarial, Azure, e muito mais
 
 **Funções adequadas**: Administração global | Administração de administração de utilizadores | Agente administrativo | | de administrador sócio da MPN Agente comercial | Administrador de faturação
 
-Para ver os mais recentes programas e ofertas de Fornecedor de Soluções em Nuvem (CSP), a partir do painel de instrumentos do Centro de Parceiros, vá ao **Preço e Ofertas.** Encontrará listas de preços separadas para os diferentes tipos de produtos disponíveis. Estão disponíveis as seguintes listas de preços:
+Para ver os mais recentes programas e ofertas de Fornecedor de Soluções em Nuvem (CSP), a partir do painel de instrumentos do Centro de Parceiros, aceda à página **das listas de preços.** Encontrará listas de preços separadas para os diferentes tipos de produtos disponíveis. Estão disponíveis as seguintes listas de preços:
 
 - **Os serviços baseados em licenças** incluem informações de preços para Office 365, Mobilidade Empresarial e Segurança E3, e Dynamics 365. A secção de preços baseada em licença inclui preços correntes e de pré-visualização e a matriz da lista de ofertas. As listas de preços incluem o preço da lista e os preços estimados de venda a retalho (ERP) para ofertas em todas as moedas apoiadas. A matriz da lista de ofertas inclui disponibilidade de mercado e outras informações importantes sobre as ofertas. Estes ficheiros são atualizados no primeiro dia de cada mês.
 
@@ -78,7 +78,7 @@ Os preços baseados no uso podem mudar ao longo de um mês. Para obter preços d
 
 ## <a name="pricing-and-special-segments"></a>Preços e segmentos especiais
 
-A CSP oferece alguns serviços a segmentos de mercado especiais, por exemplo, educação, sem fins lucrativos e nuvem comunitária governamental. Nem todos os serviços estão disponíveis em todos os canais. Nenhum segmento desresso ao que chamamos de segmento comercial. Todos os preços baseados em licenças estão disponíveis na lista de preços baseados na licença na página de Preços e Ofertas. Os preços do Governo Azure estão disponíveis na lista de preços baseada na utilização quando assinados no Governo Azure habilitado para inquilinos da CSP. As subscrições de software e o software perpétuo ainda não suportam estes segmentos especiais.
+A CSP oferece alguns serviços a segmentos de mercado especiais, por exemplo, educação, sem fins lucrativos e nuvem comunitária governamental. Nem todos os serviços estão disponíveis em todos os canais. Nenhum segmento desresso ao que chamamos de segmento comercial. Todos os preços baseados em licenças estão disponíveis na lista de preços baseadas na licença na página **Price Lists.** Os preços do Governo Azure estão disponíveis na lista de preços baseada na utilização quando assinados no Governo Azure habilitado para inquilinos da CSP. As subscrições de software e o software perpétuo ainda não suportam estes segmentos especiais.
 
 |**Segment**   |**que precisa de se qualificar**   |**Parceiro qualifica cliente**|**Tipos de produtos habilitados**|
 |-------------------|-----------------------|----------------------------|-----------------------------|
@@ -97,7 +97,7 @@ Os serviços baseados em licenças podem ser adquiridos como ofertas base ou add
 2. Compre a oferta base do catálogo
 3. Navegue para o seu cliente a partir da lista de clientes. Selecione a subscrição para a oferta base que acabou de adquirir. Na página de subscrição de gestão, verá os complementos disponíveis que podem ser aplicados à oferta base.
 
-> [!Note] 
+> [!Note]
 > Algumas ofertas base têm valores do **tipo Unit** de **licenças de add-on.** Para uma oferta base isto significa simplesmente que você não atribui licenças de utilizador após a compra. Se a oferta puder ser adquirida no catálogo, é uma **oferta Base** independentemente do tipo de unidade na interface do utilizador.
 
 ## <a name="pricing-between-azure-and-non-azure"></a>Preços entre Azure e não Azure
@@ -213,7 +213,7 @@ A maioria das listas de preços incluem um preço de lista, o preço que o parce
 > [!NOTE]
 > Atualmente, estão disponíveis novas mudanças de comércio apenas para parceiros que fazem parte da nova pré-visualização técnica da experiência técnica M365/D365.
 
-Os dados de preços estarão disponíveis para os parceiros, tanto do painel partner [center](https://partner.microsoft.com/dashboard/home) como através da folha de preços API. Para ver os dados mais recentes no Partner Center, vá a **Sell > Preços e Ofertas**. A nova lista de preços de oferta de comércio e matriz de ofertas será rotulado com **New Commerce.**
+Os dados de preços estarão disponíveis para os parceiros, tanto do painel partner [center](https://partner.microsoft.com/dashboard/home) como através da folha de preços API. Para ver os dados mais recentes no Partner Center, aceda à página **'Listas de Preços'.** A nova lista de preços de oferta de comércio e matriz de ofertas será rotulado com **New Commerce.**
 
 As listas de preços incluem informações básicas sobre preços (quanto custa). A matriz de oferta inclui informações de compra sobre os produtos (como comprá-lo). Grande parte das informações incluídas nestes ficheiros de descarregamento também é acessível através das várias APIs do Partner Center (APIs de catálogo e APIs de folha de preços).
 

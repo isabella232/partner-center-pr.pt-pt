@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 03/05/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-benefits
-description: Conheça os produtos de software on-premidos oferecidos como benefícios da Microsoft Partner Network (MPN)
+description: Conheça os produtos de software no local oferecidos como benefícios da Microsoft Partner Network (MPN)
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 584f3bad4fa6fcbe661973a344459a6c0a2ec6c3
-ms.sourcegitcommit: cf8c78e0c8831371432007d5ab05f934f15a77b5
+ms.openlocfilehash: e184bc11dbe7501351b517f904f0169af5a934f0
+ms.sourcegitcommit: b78e85a0bc62e3536b067417cb3db7899cda4f97
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/05/2021
-ms.locfileid: "129525264"
+ms.lasthandoff: 10/06/2021
+ms.locfileid: "129565191"
 ---
 # <a name="mpn-benefits---software"></a>Benefícios MPN - Software
 
@@ -22,7 +22,7 @@ ms.locfileid: "129525264"
 
 ## <a name="overview"></a>Descrição Geral
 
-Este artigo descreve os benefícios do software On-Premises disponíveis para parceiros de dentro do Partner Center. Para ver todos os produtos de software a que tem direito como parte da sua oferta de inscrição ativa, inicie sessão nos [Benefícios do Centro Parceiro.](https://partner.microsoft.com/dashboard/mpn/membership/benefits/software)
+Este artigo descreve os benefícios do software no local disponíveis para parceiros de dentro do Partner Center. Para ver todos os produtos de software a que tem direito como parte da sua oferta de inscrição ativa, inicie sessão nos [Benefícios do Centro Parceiro.](https://partner.microsoft.com/dashboard/mpn/membership/benefits/software)
 
 ## <a name="manage-software-products-and-product-keys"></a>Gerir produtos de software e chaves de produto
 
