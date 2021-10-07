@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 56884a5a6cbfbade881154275129c63dcd3456d8
-ms.sourcegitcommit: fb9ca808f6362e81d65a6ba5770dc8820834a0ed
+ms.openlocfilehash: e4ce75e246139ab2384d478ca02b281848fb7521
+ms.sourcegitcommit: 76a7dac540d129ae15cd4c251a4ff43d768370da
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "128422439"
+ms.lasthandoff: 10/06/2021
+ms.locfileid: "129593332"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>Como o crédito de parceiro ganho é calculado e pago
 
@@ -27,7 +27,7 @@ Por padrão, como parceiro da CSP, é-lhe concedido o direito de acesso necessá
 O valor da fatura mensal é o líquido do sócio que ganhou crédito. Pode ver detalhes do PEC no seu ficheiro mensal de reconhecimento. Para obter formas adicionais de acesso ao parceiro de transação, consulte os seguintes artigos:
 
 - [Manage subscriptions and resources under the Azure plan](azure-plan-manage.md) (Gerir subscrições e recursos ao abrigo do plano do Azure)
-- [Reinstate admin privileges for Azure CSP subscriptions](revoke-reinstate-csp.md) (Restabelecer os privilégios de administrador para as subscrições do Azure CSP)
+- [Reinstate admin privileges for Azure CSP subscriptions](reinstate-csp.md) (Restabelecer os privilégios de administrador para as subscrições do Azure CSP)
 
 ## <a name="eligibility"></a>Elegibilidade
 
@@ -35,7 +35,7 @@ Para receber o Crédito Adquirido do Parceiro (PEC), aplicam-se os seguintes req
 
 - Você deve ter um acordo mpn ativo e papel válido [de controlo](azure-roles-perms-pec.md) de acesso baseado em [funções (RBAC).](/azure/role-based-access-control/overview)
 - Você deve ter Admin em nome de privilégios [(AOBO)](https://channel9.msdn.com/Series/cspdev/Module-11-Admin-On-Behalf-Of-AOBO) na subscrição Azure do cliente, grupo de recursos Azure, ou recurso Azure, ou um [papel DE RBAC](azure-roles-perms-pec.md)válido .
-- No caso dos fornecedores indiretos e dos seus revendedores indiretos, um fornecedor indireto é elegível para a PEC se o fornecedor indireto ou o revendedor indireto tiverem privilégios AOBO ou uma função de RBAC elegível. Para obter mais informações, consulte [os privilégios de administração da Reinstate para as assinaturas Azure CSP](revoke-reinstate-csp.md).
+- No caso dos fornecedores indiretos e dos seus revendedores indiretos, um fornecedor indireto é elegível para a PEC se o fornecedor indireto ou o revendedor indireto tiverem privilégios AOBO ou uma função de RBAC elegível. Para obter mais informações, consulte [os privilégios de administração da Reinstate para as assinaturas Azure CSP](reinstate-csp.md).
 - O mpn iD sócio deve pertencer ao mesmo v-org que o comprador MPN ID ou o Sócio da Record (POR) MPN ID. Para obter mais informações, veja [Ligar o seu ID de parceiro para controlar o impacto nos recursos delegados](/azure/lighthouse/how-to/partner-earned-credit).
 - O PEC é obtido a nível de recursos Azure, grupo de recursos ou subscrição. Se um parceiro tiver acesso válido a nível de subscrição ou grupo de recursos, cada recurso que se ausse para a entidade superior ganhará PEC.
 - A PEC não é aplicável aos seguintes serviços:
@@ -113,7 +113,7 @@ Os ganhos do PEC são contabilizados na linha de encargos líquidos ajustada den
 - [Tabela de preços para a nova experiência de comércio para a Azure na CSP](azure-plan-price-list.md)
 - [Manage subscriptions and resources under the Azure plan](azure-plan-manage.md) (Gerir subscrições e recursos ao abrigo do plano do Azure)
 - [Nova experiência comercial no CSP – faturação do Azure](azure-plan-billing.md)
-- [Reinstate admin privileges for Azure CSP subscriptions](revoke-reinstate-csp.md) (Restabelecer os privilégios de administrador para as subscrições do Azure CSP)
+- [Reinstate admin privileges for Azure CSP subscriptions](reinstate-csp.md) (Restabelecer os privilégios de administrador para as subscrições do Azure CSP)
 - [Parceiro ganhou crédito - visão geral](partner-earned-credit.md)
 - [Funções, permissões para sócio ganhou crédito](azure-roles-perms-pec.md)
 - [Compreensão do parceiro Crédito Adquirido (guia)](https://partner.microsoft.com/resources/detail/understanding-partner-earned-credit-pdf) (inscrição obrigatória)

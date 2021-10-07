@@ -9,12 +9,12 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9159e77759d181a0c52dd18276267c2a1921c5da
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 30575f0edaa3e6c0ff69c04420f577cbc92a2ceb
+ms.sourcegitcommit: 76a7dac540d129ae15cd4c251a4ff43d768370da
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/27/2021
-ms.locfileid: "129072750"
+ms.lasthandoff: 10/06/2021
+ms.locfileid: "129593196"
 ---
 # <a name="sell-to-specialized-industries-like-education-non-profit-and-government-users"></a>Vender a indústrias especializadas como utilizadores de educação, sem fins lucrativos e governamentais
 
@@ -27,7 +27,7 @@ A Microsoft fornece preços especiais e reduzidos para grupos selecionados de cl
 |**Preços especiais**   |**Revendedor exigiu qualificações**   |**Qualificações exigidas pelo cliente**   |
 |----------------------------|:---------------------------------|:------------------------------------------|
 |Education   |Nenhuma   | Deve ser um [utilizador qualificado da educação](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)   |
-| Governo Federal dos EUA - [ambientes Office Nuvem da Comunidade Governamental (GCC) altos e dod](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/gcc-high-and-dod)    |Para vender o Governo Azure, inscreva-se através do [formulário microsoft US Government Cloud Validation](https://azuregov.microsoft.com/csp). A venda de assinaturas baseadas em licenças só está disponível mediante convite.|   Deve ser uma [entidade qualificada do Governo Federal dos EUA](https://azure.microsoft.com/global-infrastructure/government/how-to-buy/) |
+| Governo Federal dos EUA - [ambientes Office Nuvem da Comunidade Governamental (GCC) altos e dod](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/gcc-high-and-dod)    |Para vender o Governo Azure, inscreva-se através do [formulário microsoft US Government Cloud Validation](https://azure.microsoft.com/global-infrastructure/government/request/?ReqType=CSP). A venda de assinaturas baseadas em licenças só está disponível mediante convite.|   Deve ser uma [entidade qualificada do Governo Federal dos EUA](https://azure.microsoft.com/global-infrastructure/government/how-to-buy/) |
 | Governo Federal dos EUA - ambiente GCC moderado | Deve qualificar-se como trabalhar com clientes do governo dos EUA preenchendo o formulário, [fale-nos sobre a sua Organização De Parceiros CSP Direto.](https://www.microsoft.com/microsoft-365/government/eligibility-validation?ReqType=CSPPartner&rtc=1) Para instruções passo a passo, visite [Sell Office 365 Administração Pública GCC para assinaturas CSP a clientes qualificados](./csp-gcc-overview.md) | Deve ser uma [entidade qualificada do Governo dos EUA.](https://www.microsoft.com/microsoft-365/government/eligibility-validation?rtc=1) Para instruções passo a passo, visite [Sell Office 365 Administração Pública GCC para assinaturas CSP a clientes qualificados](./csp-gcc-overview.md)  |
 | Todas as outras entidades governamentais | Nenhum. Os parceiros devem providenciar através de ofertas "corporativas". | Nenhuma
 Sem Fins Lucrativos  |Nenhuma|Inscreva-se através do [programa sem fins lucrativos](https://nonprofit.microsoft.com/#/register) da Microsoft para ser elegível.   |
@@ -78,4 +78,5 @@ Regras de compra para venda de ofertas especiais aos clientes:
 ## <a name="next-steps"></a>Passos seguintes
 
 - [Venda Minecraft: Education Edition assinaturas a clientes de educação](minecraft-subscriptions.md)
+
 - [Centro de Parceiros do Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md)

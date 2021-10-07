@@ -9,12 +9,12 @@ author: karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 6fad94d77c5a01c21dd94a258f4b757c247e9d11
-ms.sourcegitcommit: a59e1abb470f4847e8f8337ffa4ba705514a0424
+ms.openlocfilehash: 10c54a2ec4bcd83d03b8ad1f2f788a61e99c7f48
+ms.sourcegitcommit: 76a7dac540d129ae15cd4c251a4ff43d768370da
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/29/2021
-ms.locfileid: "129293427"
+ms.lasthandoff: 10/06/2021
+ms.locfileid: "129593298"
 ---
 # <a name="co-op-threshold"></a>Limiar de cooperação 
 
@@ -28,18 +28,13 @@ Se os ganhos de cooperativa de um parceiro estiverem abaixo do limiar num perío
 | :----------- | :----------- | 
 |Distribuidor Autorizado – EduWins|1500 USD|
 |Distribuidor Autorizado – Software|1500 USD|
-|Channel Disti – ProWins|1500 USD|
 |Fornecedor de Soluções em Nuvem (CSP) Direct Bill Partner|10.000 USD|
 |Fornecedor de Soluções em Nuvem (CSP) Fornecedor Indireto|10.000 USD|
 |Fornecedor de Soluções em Nuvem (CSP) Revendedor Indireto|10.000 USD|
-|Distribuidor - ProWins|1500 USD|
 |Alojamento|1500 USD|
 |Incentivo ao Canal IoT|1500 USD|
 |Add de Realidade Mista|1500 USD|
 |ADR de realidade mista & DMP |1500 USD|
-|OEM Jumpstart T2|1500 USD|
-|Revendedor OEM - Eduwins|1500 USD|
-|Revendedor OEM – ProWins|1500 USD|
 |Revendedor OEM – Software|1500 USD|
 |Surface PC e Surface Hub Distribuidor de Dispositivos Autorizados (ADD)|1500 USD|
 

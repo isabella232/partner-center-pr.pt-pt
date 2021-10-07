@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8265cb3ce77183c4919e9b8e4e028bb66e8cd2f7
-ms.sourcegitcommit: 462d6026287b85c9feea602af5bcdf924f3e6976
+ms.openlocfilehash: a6abf0a837758819fba8c3a584ba68216657a2b9
+ms.sourcegitcommit: 76a7dac540d129ae15cd4c251a4ff43d768370da
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/05/2021
-ms.locfileid: "129452501"
+ms.lasthandoff: 10/06/2021
+ms.locfileid: "129593247"
 ---
 # <a name="introduction-new-commerce-overage-for-telco-pay-as-you-go"></a>Introdução: Novo excesso de comércio para telco pay-as-you-go
 
@@ -41,6 +41,9 @@ Os parceiros podem identificar quais os skus de produtos que incluem capacidades
 - Filtrar a nova lista de preços de comércio por **inclui aOverage** na coluna tags
 
 Os parceiros que compram produtos com excesso permitem-no acedendo à **Gestão de Overage** na página 'Gerir Subscrições'. A interface de overage de gestão permite ao parceiro ativar e atribuir a que subscrição Azure os encargos de overage fluirão. A qualquer momento, o parceiro pode desligar o excesso atribuindo a subscrição de consumo a *Nenhum*. 
+
+> [!NOTE]
+> Gerir o excesso requer a capacidade de criar um plano Azure. Por predefinição, os parceiros não podem aprovisionar planos do Azure com as contas de sandbox. Os parceiros que necessitem de o fazer com a conta de sandbox têm de solicitar o acesso. Mais informações podem ser encontradas na documentação do [plano Azure.](/partner-center/develop/test-and-debug#azure-plan)
 
 Os parceiros atribuem-no em excesso ou desativam-no pela funcionalidade *Gerir o excesso* na lista de subscrições. Isto só será acessível se o parceiro tiver subscrições que permitam a sobre-agem. Os encargos mensais de excesso de idade serão acumulados para a subscrição atribuída e serão identificados no ficheiro de reconciliação dos parceiros. Os parceiros podem rastrear o uso excessivo visitando as capacidades de gestão de custos do Azure no portal Azure. 
 

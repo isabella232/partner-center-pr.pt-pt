@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7ce31bd688c32da956f466d63beede3f0fc9f9ef
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: a8bb370c7154c8033990cac798c28e01eec7e17f
+ms.sourcegitcommit: 76a7dac540d129ae15cd4c251a4ff43d768370da
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126246752"
+ms.lasthandoff: 10/06/2021
+ms.locfileid: "129593230"
 ---
 # <a name="troubleshooting-partner-earned-credit"></a>Parceiro de resolução de problemas ganhou crédito
 
@@ -30,11 +30,11 @@ Se tiver problemas com o PEC, como acesso ou falta de informação, consulte os 
 
 3. Confirme que o seu acordo mpn está ativo.
 
-4. Para fornecedores indiretos, certifique-se de que o revendedor MPN ID introduzido no Partner Center (ou via API) corresponde ao ID mpn do revendedor introduzido no portal Azure.
+4. Para fornecedores indiretos, certifique-se de que o revendedor MPN ID introduzido no Partner Center (ou via API) corresponde ao ID MPN do revendedor introduzido no portal Azure.
 
 5. Confirme que a sua oferta é elegível. (As ofertas da Old Azure, Azure Reserved Instances e produtos de terceiros não são elegíveis.)
 
-6. Confirme que tem uma função válida de Gestão em Nome de (AOBO) ou Role-Based access Control (RBAC) para o grupo de subscrição/recursos/recurso.
+6. Confirme que tem uma função válida de Gestão em Nome de (AOBO) ou Role-Based de Controlo de Acesso (RBAC) para o grupo/grupo de recursos/recursos.
 
 7. Determine se o cliente removeu a sua função DE RBAC. Em caso afirmativo, consulte os privilégios de administração da Reinstate para as assinaturas Azure CSP de um cliente
 
@@ -47,7 +47,7 @@ Se tiver problemas com o PEC, como acesso ou falta de informação, consulte os 
 - [Tabela de preços para a nova experiência de comércio para a Azure na CSP](azure-plan-price-list.md)
 - [Manage subscriptions and resources under the Azure plan](azure-plan-manage.md) (Gerir subscrições e recursos ao abrigo do plano do Azure)
 - [Nova experiência comercial no CSP – faturação do Azure](azure-plan-billing.md)
-- [Reinstate admin privileges for Azure CSP subscriptions](revoke-reinstate-csp.md) (Restabelecer os privilégios de administrador para as subscrições do Azure CSP)
+- [Reinstate admin privileges for Azure CSP subscriptions](reinstate-csp.md) (Restabelecer os privilégios de administrador para as subscrições do Azure CSP)
 - [Parceiro ganhou crédito - visão geral](partner-earned-credit.md)
-- [Funções, permissões para parceiro ganhou crédito](azure-roles-perms-pec.md)
+- [Funções, permissões para sócio ganhou crédito](azure-roles-perms-pec.md)
 - [Compreensão do parceiro Crédito Adquirido (guia)](https://partner.microsoft.com/resources/detail/understanding-partner-earned-credit-pdf) (inscrição obrigatória)

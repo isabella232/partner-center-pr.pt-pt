@@ -9,12 +9,12 @@ author: amitravat
 ms.author: amrava
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ce0eaa6a4ec04dc514b241b7f90bf32dd3106e41
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: 014e6e41f0243784dc3e5cac9668b717f6abf90c
+ms.sourcegitcommit: 76a7dac540d129ae15cd4c251a4ff43d768370da
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126246371"
+ms.lasthandoff: 10/06/2021
+ms.locfileid: "129593315"
 ---
 # <a name="manage-subscriptions-and-resources-under-the-azure-plan"></a>Manage subscriptions and resources under the Azure plan (Gerir subscrições e recursos ao abrigo do plano do Azure)
 
@@ -24,15 +24,15 @@ ms.locfileid: "126246371"
 Este artigo explica como os parceiros da CSP podem usar diferentes opções de controlo de acesso baseado em funções (RBAC) para obter controlo operacional e gestão dos recursos Azure de um cliente. Quando transita um cliente para o plano Azure, é-lhe atribuído direitos de administração privilegiados em Azure (direitos de proprietário de subscrição através de administração em nome de) por padrão.
 
  > [!NOTE]
- > Os direitos de administração da subscrição Azure podem ser removidos pelo cliente a um nível de subscrição, grupo de recursos ou carga de trabalho. 
+ > Os direitos de administração da subscrição Azure podem ser removidos pelo cliente a nível de subscrição, grupo de recursos ou carga de trabalho. 
 
- Os parceiros podem obter controlo operacional 24x7 e gestão dos recursos Azure de um cliente em CSP, utilizando diferentes opções fornecidas através da funcionalidade de controlo de acesso baseada em funções (RBAC). 
+ Os parceiros podem ganhar controlo operacional 24x7 e gestão dos recursos Azure de um cliente em CSP, utilizando diferentes opções fornecidas através da funcionalidade de controlo de acesso baseada em funções (RBAC). 
 
 - **Administrador em Nome de (AOBO)** - Com [a AOBO,](https://channel9.msdn.com/Series/cspdev/Module-11-Admin-On-Behalf-Of-AOBO)qualquer utilizador com o papel de Agente Administrador no inquilino parceiro terá acesso ao proprietário do RBAC às subscrições Azure que cria através do programa CSP.
 
 - **Farol Azure**: A AOBO não permite a flexibilidade para criar grupos distintos que trabalham com diferentes clientes, ou para permitir diferentes funções para grupos ou utilizadores. Utilizando o Farol Azure, pode atribuir diferentes grupos a diferentes clientes ou funções. Uma vez que os utilizadores terão o nível de acesso adequado através da gestão de recursos delegados do Azure, pode reduzir o número de utilizadores que têm a função de Agente Administrador (e assim ter acesso total ao AOBO). Isto ajuda a melhorar a segurança limitando o acesso desnecessário aos recursos dos seus clientes. Também lhe dá mais flexibilidade para gerir vários clientes em escala. Para mais informações, leia [o Farol de Azure e o programa Fornecedor de Soluções em Nuvem.](/azure/lighthouse/concepts/cloud-solution-provider)
 
-- **Diretório ou Utilizadores convidados ou [principais de serviço :](/azure/active-directory/develop/app-objects-and-service-principals)** Pode delegar o acesso granular às subscrições do CSP adicionando utilizadores no diretório de clientes ou adicionando utilizadores convidados e atribuindo funções específicas de RBAC.
+- **Diretório ou Utilizadores convidados ou [principais de serviços](/azure/active-directory/develop/app-objects-and-service-principals)**: Pode delegar o acesso granular às subscrições do CSP adicionando utilizadores no diretório de clientes ou adicionando utilizadores convidados e atribuindo funções específicas de RBAC.
 
 A Microsoft recomenda que os utilizadores tenham as permissões mínimas necessárias para realizar o seu trabalho como prática de segurança. Consulte [Azure Ative Directory Privileged Identity Management recursos.](/azure/active-directory/privileged-identity-management/pim-configure)
 
@@ -42,14 +42,14 @@ A tabela a seguir mostra os métodos utilizados para associar o seu ID ao seu pa
 
 |**Categoria**   |**Cenário**   |**Associação MPN ID**|
 |-----------------|:------------------------|:------------------|
-|AOBO   |O parceiro direto da CSP ou fornecedor indireto cria a subscrição para o cliente que torna o parceiro direto da CSP ou o fornecedor indireto proprietário da assinatura utilizando a AOBO.; O parceiro direto da CSP ou o fornecedor indireto dão acesso indireto ao revendedor à subscrição utilizando o AOBO.|Automático (não é necessário trabalho de parceiro)|
-|Azure Lighthouse|Parceiro cria uma nova [oferta de Serviços Geridos no Marketplace.](/azure/lighthouse/concepts/managed-services-offers) Esta oferta é aceite na subscrição da CSP e o parceiro tem acesso à subscrição da CSP.|Automático (não é necessário trabalho de parceiro)|
-|Azure Lighthouse|Parceiro implementa [modelo ARM](/azure/lighthouse/how-to/onboard-customer) na subscrição do Azure|O parceiro precisa de associar o ID MPN ao utilizador ou ao principal de serviço no inquilino sócio. Para mais informações - [Link Partner ID](/azure/billing/billing-partner-admin-link-started).|
-|Diretório ou utilizador convidado|O Parceiro cria um novo utilizador ou principal de serviço no diretório de clientes e dá acesso à subscrição CSP ao utilizador. O Parceiro cria um novo utilizador ou diretor de serviço no diretório de clientes. O parceiro adiciona o utilizador a um grupo e dá acesso à subscrição da CSP ao grupo.|O parceiro precisa de associar o ID MPN ao utilizador ou ao principal de serviço no cliente. Para mais informações - [Link Partner ID](/azure/billing/billing-partner-admin-link-started).|
+|AOBO   |O parceiro direto da CSP ou fornecedor indireto cria a subscrição para o cliente que torna o parceiro direto da CSP ou o fornecedor indireto proprietário da assinatura utilizando a AOBO.; O parceiro direto da CSP ou o fornecedor indireto dão acesso indireto ao revendedor à subscrição utilizando o AOBO.|Automático (não é necessário trabalhar com parceiro)|
+|Azure Lighthouse|Parceiro cria uma nova [oferta de Serviços Geridos no Marketplace.](/azure/lighthouse/concepts/managed-services-offers) Esta oferta é aceite na subscrição da CSP e o parceiro tem acesso à subscrição da CSP.|Automático (não é necessário trabalhar com parceiro)|
+|Azure Lighthouse|Parceiro implementa [modelo ARM](/azure/lighthouse/how-to/onboard-customer) na subscrição do Azure|O parceiro precisa de associar o ID mpn ao utilizador ou ao principal de serviço no inquilino sócio. Para mais informações - [Link Partner ID](/azure/billing/billing-partner-admin-link-started).|
+|Diretório ou utilizador convidado|O Parceiro cria um novo utilizador ou principal de serviço no diretório de clientes e dá acesso à subscrição CSP ao utilizador. O Parceiro cria um novo utilizador ou diretor de serviço no diretório de clientes. O parceiro adiciona o utilizador a um grupo e dá acesso à subscrição do CSP ao grupo.|O parceiro precisa de associar o ID MPN ao utilizador ou ao principal de serviço no cliente. Para mais informações - [Link Partner ID](/azure/billing/billing-partner-admin-link-started).|
 
 ## <a name="confirm-that-you-have-admin-access"></a>Confirme que tem acesso a administrador
 
-Necessita de acesso administrativo para gerir os serviços do seu cliente e receber créditos obtidos. Leia [o Parceiro ganhou créditos](partner-earned-credit.md) por informações detalhadas sobre créditos ganhos. Tem duas maneiras de se certificar de que sabe que tem acesso administrativo.
+Necessita de acesso administrativo para gerir os serviços do seu cliente e receber créditos obtidos. Leia [O Parceiro ganhou créditos](partner-earned-credit.md) por informações detalhadas sobre créditos obtidos. Tem duas maneiras de se certificar de que sabe que tem acesso administrativo.
 
 - Reveja o ficheiro de utilização diária - Isto pode ser determinado através da revisão do preço unitário e do preço unitário efetivo dentro do ficheiro de utilização diária e confirmando se está a ser aplicado um desconto. Se está a receber o desconto, é o administrador.
 
@@ -67,7 +67,7 @@ Necessita de acesso administrativo para gerir os serviços do seu cliente e rece
 
 ### <a name="aobo-removal"></a>Remoção do AOBO
 
-Os clientes podem gerir o acesso às suas subscrições indo ao **Access Control** no portal Azure. A partir do separador **Funções,** selecionam **remover o acesso.** Se isto acontecer, pode:
+Os clientes podem gerir o acesso às suas subscrições indo ao **Access Control** no portal Azure. A partir do separador **Funções,** selecionam **Remover o acesso.** Se isto acontecer, pode:
 
 - Fale com o seu cliente para ver se o acesso a administrador pode ser reintegrado.
 
@@ -75,13 +75,13 @@ Os clientes podem gerir o acesso às suas subscrições indo ao **Access Control
 
 - Utilize o acesso fornecido através do [Farol Azure.](https://azure.microsoft.com/services/azure-lighthouse/)
 
-O acesso baseado em funções difere do acesso a administradores. Os papéis delimitam precisamente o que se pode ou não fazer. O acesso a administrador é mais amplo.
+O acesso baseado em funções difere do acesso a administrador. Os papéis delimitam precisamente o que podes ou não fazer. O acesso a administrador é mais amplo.
 
 Para ver as funções elegíveis para ganhar PEC, leia [Papéis e permissões para o parceiro ganhou crédito.](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3QuW2)
 
 ## <a name="next-steps"></a>Passos seguintes
 
-- [Revogação e reinstauração de privilégios administrativos para assinaturas CSP Azure](revoke-reinstate-csp.md)
+- [Reinstaurar privilégios de administração para assinaturas CSP Azure](reinstate-csp.md)
 
 - [Parceiro ganhou crédito - visão geral](partner-earned-credit.md)
 

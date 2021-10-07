@@ -305,7 +305,7 @@
     - name: Recursos de licenças
       href: support-resources-licensing.md
     - name: Reinstate admin privileges for Azure CSP subscriptions (Restabelecer os privilégios de administrador para as subscrições do Azure CSP)
-      href: revoke-reinstate-csp.md
+      href: reinstate-csp.md
     - name: Transfer Azure subscriptions (Transferir subscrições do Azure)
       href: switch-azure-subscriptions-to-a-different-partner.md
     - name: Passar os clientes de serviços baseados em licença para o programa CSP

@@ -1,6 +1,6 @@
 ---
 title: Resumo das receitas no painel de instrumentos do Partner Center
-description: Pode utilizar o resumo do Resumo das Receitas ver receitas e ganhos e exportar dados sobre quaisquer transações não elegíveis.
+description: Pode utilizar o resumo da Receita para entender como a receita gerada pelo consumo de clientes dos serviços Azure contribui para os seus ganhos, e por que algumas receitas podem ser determinadas não elegíveis para ganhos.
 author: satinder37
 ms.author: sabaja
 ms.service: partner-dashboard
@@ -8,12 +8,12 @@ ms.topic: conceptual
 ms.date: 10/04/2021
 ms.custom: template-concept
 customer intent: As an incentive user or incentive admin, I want to be able to read and export revenue data from Partner Center so I can see our earnings and learn why any transactions were reported ineligible.
-ms.openlocfilehash: 9ec9d64127f537ac74615a8fbe17499ebb5872dd
-ms.sourcegitcommit: cf8c78e0c8831371432007d5ab05f934f15a77b5
+ms.openlocfilehash: 11e58324adf38e92fc892ec5dd62933e6372f2cb
+ms.sourcegitcommit: 76a7dac540d129ae15cd4c251a4ff43d768370da
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/05/2021
-ms.locfileid: "129528663"
+ms.lasthandoff: 10/06/2021
+ms.locfileid: "129593349"
 ---
 # <a name="revenue-summary"></a>Resumo das receitas
 
