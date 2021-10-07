@@ -1,23 +1,23 @@
 ---
 title: Perguntas frequentes sobre referências do Partner Center
 ms.topic: article
-ms.date: 09/27/2021
+ms.date: 09/29/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-referrals
 description: Perguntas frequentes para referências do Partner Center
 author: vikramb
 ms.author: vikramb
 ms.localizationpriority: medium
-ms.openlocfilehash: 2fa7ed91e4ff2dd1dbab3fc89e4acdcbc61c9141
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 724650939f7b3a61d992e7ffed70ebcb3493f4a1
+ms.sourcegitcommit: 77737d8f986a1afb3d923c130936e2f73ce07879
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/27/2021
-ms.locfileid: "129070777"
+ms.lasthandoff: 10/07/2021
+ms.locfileid: "129654777"
 ---
 # <a name="frequently-asked-questions-on-referrals"></a>Perguntas frequentes sobre referências
 
-Este artigo fornece respostas a algumas perguntas frequentes (FAQs) sobre referências do Partner Center
+Este artigo fornece respostas a algumas perguntas frequentes (PERGUNTAS Frequentes) sobre referências do Partner Center.
 
 ## <a name="what-should-i-do-if-i-dont-have-access-to-co-sell-opportunities"></a>O que devo fazer se não tiver acesso a oportunidades de co-venda?
 
