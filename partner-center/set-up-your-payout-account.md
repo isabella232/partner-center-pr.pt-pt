@@ -7,12 +7,12 @@ ms.subservice: partnercenter-payouts
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 09/27/2021
-ms.openlocfilehash: f53a066b2a625e6d96d720a13771e4461798fdf3
-ms.sourcegitcommit: 4bdf04eaca11a1065a4146fc3269ee4a8a7a6828
+ms.openlocfilehash: 8b29cd1d80947991c8dca95c45d682734cb0c173
+ms.sourcegitcommit: b35ed0a247c3316d2f1a4e9664f4a21f6e713650
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/28/2021
-ms.locfileid: "129156925"
+ms.lasthandoff: 10/07/2021
+ms.locfileid: "129663398"
 ---
 # <a name="set-up-commercial-marketplace-payout-and-tax-profiles"></a>Configurar o pagamento do mercado comercial e os perfis fiscais
 
@@ -44,7 +44,7 @@ Primeiro, terá de criar um perfil fiscal e atribuí-lo aos programas em que par
 > [!IMPORTANT]
 > Diferentes países e regiões têm diferentes requisitos fiscais. O valor exato que deve pagar em impostos depende dos países e regiões onde vende a sua oferta. Consulte o [Acordo de Publisher do Mercado Microsoft Azure](/legal/marketplace/msft-publisher-agreement) para saber para que países/regiões a Microsoft atribui vendas e utiliza o imposto em seu nome. Noutros países/regiões, dependendo do local onde está registado, poderá ter de reencamular vendas e utilizar o imposto para as suas vendas de oferta diretamente à autoridade tributária local. Além disso, as receitas de vendas de aplicações que recebe podem ser tributáveis como rendimento. Encorajamo-lo vivamente a contactar a autoridade relevante para o seu país ou região que melhor o ajude a determinar a informação fiscal certa para as suas atividades de mercado comercial.
 
-1. No [painel de instrumentos Partner Center](https://partner.microsoft.com/dashboard), selecione o ícone de engrenagem Definições e, em seguida, **as definições de Conta**.
+1. Inscreva-se no [painel de instrumentos Partner Center,](https://partner.microsoft.com/dashboard)selecione o ícone de engrenagem Definições e, em seguida, selecione **as definições de Conta**.
 
 2. Selecione **Payout and tax**, em seguida, selecione Payout e tax **assignments**.
 
@@ -77,11 +77,12 @@ Se estiver fora dos Estados Unidos, poderá tirar partido dos benefícios do tra
 Uma conta de pagamento é a conta bancária para a qual enviamos os lucros das suas vendas. Pode ver todas as contas de pagamento que inseriu na página 'Perfil'.
 
 > [!NOTE]
-> Em alguns mercados, PayPal podem ser usados para a sua conta de pagamento. Para saber se PayPal é apoiado para um mercado específico, consulte [limiares de pagamento, métodos e prazos](payment-thresholds-methods-timeframes.md) e as [informações PayPal](#paypal-info) abaixo para mais detalhes.
+> Em alguns mercados, PayPal podem ser usados para a sua conta de pagamento. Para saber se PayPal é apoiado para um mercado específico, consulte [limiares de pagamento, métodos e prazos e](payment-thresholds-methods-timeframes.md) as [informações PayPal](#paypal-information) abaixo para obter mais detalhes.
 
 ### <a name="create-a-payment-profile"></a>Criar um perfil de pagamento
 
-1. No [Partner Center](https://partner.microsoft.com/dashboard), selecione o ícone de engrenagem **Definições** no canto superior direito e, em seguida, **as definições de Conta**.
+1. Inscreva-se no [painel de instrumentos Partner Center](https://partner.microsoft.com/dashboard), selecione o ícone de engrenagem **Definições** e, em seguida, selecione **as definições de Conta**.
+
 2. No fundo da *rubrica Payout e tax,* selecione **Payout e tax profile assignment**.
 
     > [!NOTE]
@@ -96,12 +97,14 @@ Uma conta de pagamento é a conta bancária para a qual enviamos os lucros das s
 Se optar por utilizar uma conta bancária para receber pagamentos, completará o seguinte processo para configurar a sua conta bancária.
 
 1. Na página *'Perfil do Banco',* forneça as informações necessárias sobre o seu banco.
+
 2. Forneça os detalhes da sua conta bancária.
 
     > [!NOTE]
     > Os campos que usa para fornecer informações de conta aceitam apenas caracteres alfanuméricos.
 
 3. Fornecer detalhes do beneficiário.
+
 4. De volta à página de *atribuição de perfil,* selecione a moeda que gostaria que usássemos quando emitimos os seus pagamentos.
 
     > [!WARNING]
@@ -124,7 +127,7 @@ Para garantir que o seu pagamento é bem sucedido, certifique-se de que:
 
 Pode editar os perfis de pagamento existentes se precisar de efetuar alterações ou corrigir qualquer informação incorreta.
 
-1. No [Partner Center](https://partner.microsoft.com/dashboard), selecione o ícone de engrenagem **Definições** no canto superior direito e, em seguida, **as definições de Conta**.
+1. Inscreva-se no [painel de instrumentos Partner Center](https://partner.microsoft.com/dashboard), selecione o ícone de engrenagem **Definições** e, em seguida, selecione **as definições de Conta**.
 
 2. Por baixo da *rubrica Payout e tax,* selecione **Payout e tax profiles**.
 
@@ -133,9 +136,9 @@ Pode editar os perfis de pagamento existentes se precisar de efetuar alteraçõe
 > [!IMPORTANT]
 > Alterar a sua conta de pagamento pode atrasar os seus pagamentos até um ciclo de pagamento. Este atraso ocorre porque precisamos verificar a mudança de conta, tal como fizemos quando estabeleceu a conta de pagamento pela primeira vez. Continuará a ser pago pelo valor total depois de verificada a sua conta; quaisquer pagamentos devidos para o ciclo de pagamento em curso serão adicionados ao próximo. Veja [ser pago no mercado comercial](marketplace-get-paid.md)para mais informações.
 
-### <a name="paypal-info"></a>PayPal informação
+### <a name="paypal-information"></a>informação PayPal
 
-Em países e regiões selecionados, pode criar uma conta de pagamento inserindo a sua PayPal informações. No entanto, antes de escolher PayPal como opção de conta de pagamento:
+Em países e regiões selecionados, pode criar uma conta de pagamento inserindo as suas informações PayPal. No entanto, antes de escolher PayPal como opção de conta de pagamento:
 
 - Verifique [os limiares de pagamento, métodos e prazos](payment-thresholds-methods-timeframes.md) para confirmar se PayPal é um método de pagamento suportado no seu país ou região.
 - Reveja as seguintes PERGUNTAS Frequentes. Dependendo da sua situação, PayPal pode não ser a melhor opção de conta de pagamento para si, podendo ser preferível uma conta bancária.
@@ -192,16 +195,20 @@ A Microsoft fornece os três documentos quando o seu primeiro pagamento é tenta
 
 Se optar por utilizar uma conta bancária para receber pagamentos, completará o seguinte processo para configurar a sua conta bancária.
 
-1. Na página *PayPal,* forneça as informações necessárias sobre a sua conta PayPal.
+1. Na página **PayPal,** forneça as informações necessárias sobre a sua conta PayPal.
+
 2. Forneça os detalhes da sua conta PayPal.
 
     > [!NOTE]
     > Os campos que usa para fornecer informações de conta aceitam apenas caracteres alfanuméricos.
 
 3. Fornecer detalhes do beneficiário.
-4. De volta à página de *atribuição de perfil,* selecione a moeda que gostaria que usássemos quando emitimos os seus pagamentos.
+ 
+4. Na página de **atribuição de perfil,** selecione a moeda que gostaria que usássemos quando emitimos os seus pagamentos.
+ 
 5. Terá de selecionar um perfil de pagamento para cada programa em que participe, embora possa utilizar o mesmo perfil para vários programas.
-6. Selecione submeter-se para guardar as suas alterações.
+
+6. **Selecione Submeter-se** para guardar as suas alterações.
 
 ## <a name="next-steps"></a>Passos seguintes
 

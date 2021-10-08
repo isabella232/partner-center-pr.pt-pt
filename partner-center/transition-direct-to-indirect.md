@@ -1,7 +1,7 @@
 ---
 title: Mude o parceiro de conta direta para o revendedor indireto
 ms.topic: how-to
-ms.date: 07/21/2021
+ms.date: 10/07/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-enroll
 description: Saiba como um parceiro de programa Fornecedor de Soluções em Nuvem (CSP) pode usar o Partner Center para transitar de parceiro de conta direta para revendedor indireto.
@@ -9,12 +9,12 @@ author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 872a6127e7fe350291b937c916c746406f96eac6
-ms.sourcegitcommit: a59e1abb470f4847e8f8337ffa4ba705514a0424
+ms.openlocfilehash: e75380fdb776c018ee3ab7114eb43570417cbf57
+ms.sourcegitcommit: b35ed0a247c3316d2f1a4e9664f4a21f6e713650
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/29/2021
-ms.locfileid: "129249494"
+ms.lasthandoff: 10/07/2021
+ms.locfileid: "129663415"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Transição do parceiro de faturação direta do Fornecedor de Soluções Cloud para o revendedor indireto do CSP
 
@@ -38,9 +38,6 @@ Poderá inscrever-se no programa de revenda indireto utilizando o seu inquilino 
 
 4. Selecione **Matricular-se agora**. O seu negócio de revendedor indireto utilizará o mesmo inquilino Microsoft Azure Ative Directory (Azure AD) que utiliza para o seu negócio direto.
 
-    > [!NOTE]
-    > Inicialmente, esta nova capacidade de transição estará disponível para parceiros com datas de aniversário de setembro a dezembro. Se não tiver uma data de aniversário entre setembro e dezembro, não verá a capacidade neste momento. Os parceiros com datas de aniversário após dezembro de 2018 serão notificados mais tarde assim que a funcionalidade estiver ativada para os parceiros.
-
 5. Quando a sua inscrição for aprovada, inscreva-se novamente no Partner Center.
 
     > [!NOTE]
@@ -58,6 +55,9 @@ Quando aceitar o acordo de revenda indireto, note que o seu perfil partner o ide
 Durante esta fase, continuará a gerir as necessidades de subscrição dos seus clientes diretos, incluindo o processo de faturação. Também pode começar a aceitar clientes do seu fornecedor Indireto e a operar como revendedor indireto.
 
 :::image type="content" source="images/direct/direct4.png" alt-text="Ambos são uma conta direta e um revendedor indireto.":::
+
+>[!NOTE]
+>As capacidades da Sandbox estão disponíveis apenas para parceiros de faturação direta. Uma vez que transite de Direct Bill para revendedor indireto, perderá o acesso às capacidades da Sandbox.
 
 ## <a name="find-an-indirect-provider"></a>Localizar um fornecedor indireto
 
