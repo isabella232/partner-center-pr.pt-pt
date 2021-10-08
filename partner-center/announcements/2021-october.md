@@ -10,17 +10,69 @@ ms.custom:
 - announcement
 - references_regions
 ms.localizationpriority: high
-ms.date: 10/05/2021
-ms.openlocfilehash: 9cbe685abf6610b42c05d2f9229f93478c50ca69
-ms.sourcegitcommit: b78e85a0bc62e3536b067417cb3db7899cda4f97
+ms.date: 10/07/2021
+ms.openlocfilehash: 2cebf7af9b8cc9e843870a69a4403844673d7611
+ms.sourcegitcommit: cf73ea8967a285cc14b281e7b938962c02b18e67
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/06/2021
-ms.locfileid: "129565123"
+ms.lasthandoff: 10/08/2021
+ms.locfileid: "129689671"
 ---
 # <a name="october-2021-announcements"></a>Anúncios de outubro de 2021
 
 Esta página fornece os anúncios para o Microsoft Partner Center para outubro de 2021.
+
+________________
+## <a name="marketplace-price-list-updates-for-cloud-solution-provider-csp-partners"></a><a name="5"></a>Atualizações da lista de preços do mercado para os parceiros Fornecedor de Soluções em Nuvem (CSP)
+
+### <a name="categories"></a>Categorias
+
+- Data: 2021-10-08
+- Capacidades
+
+### <a name="impacted-audience"></a>Audiência impactada
+
+Parceiros da CSP que usam a lista de preços do mercado comercial
+
+### <a name="summary"></a>Resumo
+
+A lista de preços do mercado será atualizada no dia 15 de novembro de 2021.
+
+### <a name="details"></a>Detalhes
+
+Para ter consistência entre as listas de preços do Partner Center na nova experiência de comércio, vamos atualizar a lista de preços do mercado.
+
+A partir de 15 de novembro de 2021, a lista de preços do mercado incluirá novas colunas e cabeçalhos atualizados. Este anúncio é apenas para consciência. Os parceiros podem ter de fazer alterações nos seus sistemas para apoiar esta mudança. Partilharemos mais detalhes sobre as mudanças com os parceiros a 5 de novembro de 2021, através do Digital Operations Center (DOC).
+
+Para obter uma pré-visualização antecipada, aqui estão as próximas alterações a esperar:
+
+| Nome atual da coluna | Nome da coluna futura (a partir de 15 de novembro)|
+|-----------|--------------|
+Produto | Título do produto |
+| Tipo | Vai mover-se sob uma nova coluna, "Tags" |
+| Subtipo | Vai mover-se sob uma nova coluna, "Tags" |
+| Descrição | Descrição do SKU |
+| Frequência de faturação | Duração do prazo - P1Y ou P1M |
+| Unidade de compra | Unidade de medida |
+| Regiões | Mercado |
+| Termo | Plano de faturação — anual ou mensal |
+| Preço da lista | Preço unitário |
+| Preço de venda ao público sugerido pelo fabricante (MSRP) | Preço estimado a retalho (ERP) |
+|  | Gama de preços mínima |
+|  | Gama de preços máxima |
+|  | Data de início efetiva |
+|  | Data de fim efetiva |
+|  | IDs do medidor |
+|  | Tipo de medidor |
+|  | Tags - Azure, Software como um serviço (SaaS), ou terceiro |
+
+### <a name="next-steps"></a>Passos seguintes
+
+Partilhe esta atualização com as pessoas apropriadas na sua organização.
+
+### <a name="questions"></a>Perguntas?
+
+Se tiver alguma dúvida, visite a página de Apoio ao [Centro de Parceiros.](https://partner.microsoft.com/support/?stage=1)
 
 ________________
 ## <a name="coming-soon-new-commerce-experience-for-csp-seat-based-offers-technical-release"></a><a name="4"></a>Em breve: Nova experiência de comércio para assentos CSP oferece lançamento técnico

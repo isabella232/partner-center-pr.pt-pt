@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a6abf0a837758819fba8c3a584ba68216657a2b9
-ms.sourcegitcommit: 76a7dac540d129ae15cd4c251a4ff43d768370da
+ms.openlocfilehash: 44e999987021ca450da1eb24cbd310a3e35b0873
+ms.sourcegitcommit: cf73ea8967a285cc14b281e7b938962c02b18e67
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/06/2021
-ms.locfileid: "129593247"
+ms.lasthandoff: 10/08/2021
+ms.locfileid: "129689705"
 ---
 # <a name="introduction-new-commerce-overage-for-telco-pay-as-you-go"></a>Introdução: Novo excesso de comércio para telco pay-as-you-go
 
@@ -48,6 +48,12 @@ Os parceiros que compram produtos com excesso permitem-no acedendo à **Gestão 
 Os parceiros atribuem-no em excesso ou desativam-no pela funcionalidade *Gerir o excesso* na lista de subscrições. Isto só será acessível se o parceiro tiver subscrições que permitam a sobre-agem. Os encargos mensais de excesso de idade serão acumulados para a subscrição atribuída e serão identificados no ficheiro de reconciliação dos parceiros. Os parceiros podem rastrear o uso excessivo visitando as capacidades de gestão de custos do Azure no portal Azure. 
 
 Os parceiros podem rastrear o uso excessivo indo ao portal Azure e usando as capacidades e funcionalidades de gestão de custos. 
+
+## <a name="pricing-and-margins"></a>Preços e margens
+
+O pay-as-you-go da Telco é cobrado com base no uso mensal quando o cliente utiliza a quantia atribuída de minutos de chamada para o plano que eles têm. Os parceiros podem descobrir e baixar os preços para estes encargos no [site Microsoft Teams Telefone e Chamada.](https://www.microsoft.com/microsoft-teams/voice-calling) Os parceiros podem ir às **tarifas Ver para onde você quer chamar** nesta página para baixar e ver as tarifas para vários planos de chamada. 
+
+Os preços e as taxas de sobrecarga do plano de chamada não são específicos ou reduzidos para o público da CSP, são agnósticos de canais. Não existem descontos ou margens de rsec para taxas excessivas. 
 
 ## <a name="important-details-about-overage"></a>Detalhes importantes sobre excesso de idade
 
